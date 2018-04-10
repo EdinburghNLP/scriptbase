@@ -1,2 +1,2 @@
-# scriptbase-data
+# scriptbase
 The ScriptBase Corpus
