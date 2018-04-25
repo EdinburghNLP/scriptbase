@@ -1,0 +1,152 @@
+year	1993
+imdb score	5.5
+meta score	N/A
+genre	Drama
+keyword	friend
+keyword	stoned
+keyword	love
+keyword	salesman
+keyword	sex scene
+keyword	native american
+keyword	boyfriend girlfriend relationship
+keyword	packing
+keyword	husband wife relationship
+keyword	journey
+keyword	road trip
+keyword	drinking
+keyword	donut
+keyword	phone book
+keyword	reckless driving
+keyword	london bridges falling down
+keyword	eaddress
+keyword	panties
+keyword	mother daughter relationship
+keyword	watching tv
+keyword	filling station
+keyword	listening to a radio
+keyword	gift
+keyword	mobile phone
+keyword	friendship
+keyword	thunder
+keyword	cigarette smoking
+keyword	draw blade
+keyword	death
+keyword	marijuana
+keyword	motorcyclist
+keyword	rain
+keyword	twenty something
+keyword	navajo tribe
+keyword	cunnilingus
+keyword	waitress
+keyword	thief
+keyword	house painter
+keyword	wind
+keyword	bartender
+keyword	packaging tape
+keyword	escalator
+keyword	american indian
+keyword	highway
+keyword	infidelity
+keyword	grandfather granddaughter relationship
+keyword	mother son relationship
+keyword	unfaithfulness
+keyword	drug use
+keyword	suitcase
+keyword	white panties
+keyword	butte montana
+keyword	yard sale
+keyword	deaf man
+keyword	tv camera
+keyword	highlighter pen
+keyword	tv salesman
+keyword	moving
+keyword	neighbor
+keyword	desire
+keyword	drink
+keyword	eye drops
+keyword	search
+keyword	lightning
+keyword	pickup truck
+keyword	inertia
+keyword	desert
+keyword	las vegas nevada
+keyword	shopping mall
+keyword	death of husband
+keyword	restaurant
+keyword	roommate
+keyword	parking garage
+keyword	mirror
+keyword	coffee
+keyword	stealing
+keyword	cactus
+keyword	electronics store
+keyword	tv store
+keyword	father son relationship
+keyword	tucson arizona
+keyword	girl in panties
+keyword	sex
+keyword	playing pool
+keyword	car radio
+keyword	family relationships
+keyword	oral sex
+keyword	cafe
+keyword	gas station
+keyword	1990s
+keyword	fired from the job
+keyword	kiss
+keyword	memory
+keyword	home renovation
+keyword	driving
+keyword	bar
+keyword	theft
+keyword	pool
+keyword	dressing
+keyword	small town
+keyword	father daughter relationship
+keyword	love triangle
+keyword	search for parent
+keyword	wooden indian
+keyword	arizona
+keyword	embarrassment
+keyword	motel
+keyword	self discovery
+keyword	selling tv
+keyword	smoking pot
+keyword	motorcycle
+keyword	deafness
+keyword	coffee maker
+keyword	on the road
+keyword	fraud
+keyword	thirty something
+keyword	painter
+keyword	sleeping in a car
+keyword	map
+keyword	generation x
+keyword	enfield arizona
+keyword	telephone call
+keyword	death of mother
+keyword	death of father
+keyword	based on play
+keyword	independent film
+cast	Phoebe Cates	Carol
+cast	Bridget Fonda	Beth
+cast	Tim Roth	Nick
+cast	Eric Stoltz	Sid
+cast	Alicia Witt	Elizabeth
+cast	Sandra Ellis Lafferty	Yard Sale Lady
+cast	Sidney Dawson	TV Customer
+cast	Jon Proudstar	Station Attendant
+cast	Scott Johnson	Chip
+cast	Kezbah Weidner	Dine Woman
+cast	Peter Fonda	Motorcycle Rider
+cast	Amaryllis Borrego	Waitress
+cast	Rich Wheeler	Elizabeth's Grandfather
+cast	Scott Frederick	TV Store Kid
+cast	Warren Burton	Radio Preacher
+cast	Lynn Fiddmont-Linsey	Singer
+cast	Debra Parsons	Singer
+cast	Katrina Perkins	Singer
+cast	Marva Hicks	Singer
+cast	Mindy Stein	Singer
+cast	Susan Beaubian	Singer
+cast	Kiki Ebsen	Singer

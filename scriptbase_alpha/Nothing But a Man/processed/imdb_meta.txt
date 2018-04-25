@@ -1,0 +1,105 @@
+year	1964
+imdb score	8.1
+meta score	87
+genre	Drama
+genre	Romance
+keyword	african american
+keyword	black man
+keyword	south
+keyword	class society
+keyword	joblessness
+keyword	class struggle
+keyword	marriage
+keyword	frustration
+keyword	struggle
+keyword	love
+keyword	prejudice
+keyword	mother daughter relationship
+keyword	railroad worker
+keyword	vigilante
+keyword	responsibility
+keyword	factory worker
+keyword	intimate
+keyword	father daughter relationship
+keyword	father son relationship
+keyword	illegitimate son
+keyword	employment
+keyword	dignity
+keyword	all black cast
+keyword	illegitimacy
+keyword	mother son relationship
+keyword	birmingham alabama
+keyword	abuse
+keyword	racist
+keyword	father in law
+keyword	visit
+keyword	alcoholism
+keyword	father in law son in law relationship
+keyword	family relationships
+keyword	african american slur
+keyword	pregnancy
+keyword	sawmill
+keyword	pride
+keyword	gas station
+keyword	town
+keyword	harassment
+keyword	racism
+keyword	alabama
+keyword	wife beater
+keyword	husband wife relationship
+keyword	southern u.s.
+keyword	beating
+keyword	southerner
+keyword	weird behavior
+keyword	black romance
+keyword	jobless
+keyword	death
+keyword	race relations
+keyword	employer employee relationship
+keyword	melodrama
+keyword	racial slur
+keyword	bishop
+keyword	clergy
+keyword	wife abuse
+keyword	black middle class
+keyword	worker
+keyword	railroad
+keyword	independent film
+cast	Ivan Dixon	Duff Anderson
+cast	Abbey Lincoln	Josie
+cast	Julius Harris	Will Anderson
+cast	Gloria Foster	Lee
+cast	Martin Priest	Mill Worker
+cast	Leonard Parker	Frankie
+cast	Yaphet Kotto	Jocko
+cast	Stanley Greene	Rev. Dawson
+cast	Helen Lounck	Effie Simms
+cast	Helene Arrindell	Doris
+cast	Walter Wilson	Car Owner
+cast	Milton Williams	Pop
+cast	Mel Stewart	Riddick
+cast	Marshal Tompkin	Revivalist
+cast	Alfred Puryear	Barney
+cast	Charles McRea	Joe
+cast	Ed Rowan	Willie
+cast	Tom Ligon	Teenager
+cast	William Jordan	Teenager
+cast	Dorothy Hall	Soloist
+cast	Gertrude Jeannette	Mrs. Dawson
+cast	Gil Rogers	Mill Foreman
+cast	Richard Webber	Garage Owner
+cast	Eugene Wood	Superintendant
+cast	Jim Wright	Barman
+cast	Arland Schubert	Hiring Boss
+cast	Peter Carew	Store Keeper
+cast	Bill Riola	Ginn Foreman
+cast	Jay Brooks	Undertaker
+cast	Robert Berger	Desk Clerk
+cast	Jary Banks	Bessie
+cast	Richard Ward	Mill Hand
+cast	Moses Gunn	Mill Hand
+cast	Mark Shapiro	Car Passenger
+cast	William Phillips	Car Passenger
+cast	Sylvia Ray	Church Woman
+cast	Esther Rolle	Church Woman
+cast	Evelyn Davis	Church Woman

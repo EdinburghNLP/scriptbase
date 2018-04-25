@@ -1,0 +1,299 @@
+year	1998
+imdb score	8.2
+meta score	69
+genre	Comedy
+genre	Crime
+keyword	rug
+keyword	bowling
+keyword	millionaire
+keyword	jewish convert
+keyword	money
+keyword	mistaken identity
+keyword	slacker
+keyword	deception
+keyword	loser
+keyword	burglary
+keyword	fog of war
+keyword	honor
+keyword	hallucination
+keyword	counter culture
+keyword	doppelganger
+keyword	woman painter
+keyword	headphones
+keyword	glasses
+keyword	pubic hair
+keyword	deadpan
+keyword	sword
+keyword	subjective camera
+keyword	coffee can
+keyword	neo noir
+keyword	alcohol
+keyword	bowling shoes
+keyword	bare breasts
+keyword	jaguar car
+keyword	nymphomania
+keyword	vietnam veteran
+keyword	car vandalized
+keyword	satire
+keyword	mansion
+keyword	fantasy sequence
+keyword	deadpan comedy
+keyword	pasadena california
+keyword	left handedness
+keyword	double cross
+keyword	private eye
+keyword	eulogy
+keyword	voice over narration
+keyword	trophy wife
+keyword	f word
+keyword	korea veteran
+keyword	homage
+keyword	toilet
+keyword	voyeur
+keyword	stream of consciousness
+keyword	malibu california
+keyword	mickey finn
+keyword	dance
+keyword	ear bitten off
+keyword	american mythology
+keyword	urination
+keyword	stupidity
+keyword	premarital sex
+keyword	pornographer
+keyword	nude
+keyword	deadpan humor
+keyword	limousine
+keyword	drug
+keyword	severed toe
+keyword	no panties
+keyword	mortuary
+keyword	reference to metallica
+keyword	human ashes
+keyword	avant garde
+keyword	ferret
+keyword	cheerleader
+keyword	pedophile
+keyword	veteran
+keyword	held at gunpoint
+keyword	death
+keyword	lifting someone into the air
+keyword	philanthropist
+keyword	amateur
+keyword	anti war
+keyword	grass
+keyword	dream sequence
+keyword	briefcase
+keyword	danger
+keyword	1990s
+keyword	private detective
+keyword	nude girl
+keyword	female painter
+keyword	drugged drink
+keyword	swimming pool
+keyword	german stereotype
+keyword	sunbathing
+keyword	medical examination
+keyword	ransacked room
+keyword	walkman
+keyword	breaking and entering
+keyword	topless female nudity
+keyword	female frontal nudity
+keyword	auto impound lot
+keyword	pistol
+keyword	supermarket
+keyword	cult film
+keyword	girl in panties
+keyword	musical number
+keyword	answering machine
+keyword	female pubic hair
+keyword	unemployment
+keyword	auto theft
+keyword	panties
+keyword	car accident
+keyword	car smashing
+keyword	character repeating someone else's dialogue
+keyword	surrealism
+keyword	harness
+keyword	pastiche
+keyword	taxi
+keyword	beach party
+keyword	dope
+keyword	taxi driver
+keyword	police
+keyword	reference to saddam hussein
+keyword	ensemble cast
+keyword	video cassette
+keyword	lifting an adult into the air
+keyword	people with the same name
+keyword	foul line
+keyword	culture war
+keyword	ex convict
+keyword	nihilism
+keyword	divorce
+keyword	castration threat
+keyword	nail polish
+keyword	pot smoking
+keyword	cremation
+keyword	severed ear
+keyword	artist
+keyword	lifting a male into the air
+keyword	reefer
+keyword	hippie
+keyword	pornographic video
+keyword	head in a toilet
+keyword	cliff
+keyword	kidnapping
+keyword	corrupting influence of capitalism
+keyword	nickname
+keyword	dog
+keyword	hanging up without saying goodbye
+keyword	bathtub
+keyword	ash scattering
+keyword	breaking the fourth wall
+keyword	slow motion scene
+keyword	breasts
+keyword	screwball comedy
+keyword	female nudity
+keyword	gang violence
+keyword	volkswagen beetle
+keyword	tumbleweed
+keyword	upskirt
+keyword	home invasion
+keyword	temper
+keyword	scissors
+keyword	flying carpet
+keyword	police brutality
+keyword	sports car
+keyword	character's point of view camera shot
+keyword	uzi
+keyword	phone book
+keyword	mugging
+keyword	namesake
+keyword	bar
+keyword	cable guy
+keyword	marry into money
+keyword	ransom
+keyword	white panties
+keyword	assault
+keyword	pot
+keyword	dictator
+keyword	topsy turvy
+keyword	sabbath
+keyword	gulf war
+keyword	goon
+keyword	flashback
+keyword	leg spreading
+keyword	husband wife relationship
+keyword	sex offender
+keyword	euro trash
+keyword	diner
+keyword	bowling team
+keyword	drugs
+keyword	laziness
+keyword	solicitation
+keyword	scantily clad female
+keyword	paraplegic
+keyword	johnson
+keyword	pornography
+keyword	foot fetish
+keyword	bowling tournament
+keyword	attempt at conception
+keyword	biting an ear
+keyword	porn star
+keyword	iron lung
+keyword	black comedy
+keyword	corruption
+keyword	mini skirt
+keyword	abstract art
+keyword	falling from height
+keyword	female full frontal nudity
+keyword	ford torino
+keyword	dream
+keyword	bikini
+keyword	heart attack
+keyword	ransom note
+keyword	female rear nudity
+keyword	one man play
+keyword	gun
+keyword	lust
+keyword	progressive politics
+keyword	convertible
+keyword	los angeles california
+keyword	absurd humor
+keyword	sunglasses
+keyword	embezzlement
+keyword	performance artist
+keyword	broken tv
+keyword	dance recital
+keyword	video artist
+keyword	cowboy
+keyword	polish american
+keyword	runaway
+keyword	illegal drug
+keyword	sports team
+keyword	cleavage
+keyword	wheelchair
+keyword	nudity
+keyword	manhood
+keyword	lingerie
+keyword	extortion
+keyword	trident
+keyword	bowling ball
+keyword	father daughter estrangement
+keyword	man with glasses
+keyword	cremated remains
+keyword	marijuana
+keyword	white russian
+keyword	vandalism
+keyword	play within a film
+keyword	landlord
+keyword	independent film
+keyword	character name in title
+keyword	actor shares first name with character
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Jeff Bridges	Jeffrey Lebowski - The Dude
+cast	John Goodman	Walter Sobchak
+cast	Julianne Moore	Maude Lebowski
+cast	Steve Buscemi	Theodore Donald 'Donny' Kerabatsos
+cast	David Huddleston	Jeffrey Lebowski - The Big Lebowski
+cast	Philip Seymour Hoffman	Brandt
+cast	Tara Reid	Bunny Lebowski
+cast	Philip Moon	Woo, Treehorn Thug
+cast	Mark Pellegrino	Blond Treehorn Thug
+cast	Peter Stormare	Nihilist #1, Uli Kunkel / 'Karl Hungus'
+cast	Flea	Nihilist #2, Kieffer
+cast	Torsten Voges	Nihilist #3, Franz
+cast	Jimmie Dale Gilmore	Smokey
+cast	Jack Kehler	Marty
+cast	John Turturro	Jesus Quintana
+cast	James G. Hoosier	Liam O'Brien, Quintana's Partner
+cast	Carlos Leon	Maude's Thug #1
+cast	Terrence Burton	Maude's Thug #2
+cast	Richard Gant	Older Cop
+cast	Christian Clemenson	Younger Cop
+cast	Dom Irrera	Tony the Chauffeur
+cast	Gérard L'Heureux	Lebowski's Chauffeur
+cast	David Thewlis	Knox Harrington
+cast	Lu Elrod	Coffee Shop Waitress
+cast	Mike Gomez	Auto Circus Cop
+cast	Peter Siragusa	Gary the Bartender
+cast	Sam Elliott	The Stranger
+cast	Marshall Manesh	Doctor
+cast	Harry Bugin	Arthur Digby Sellers
+cast	Jesse Flanagan	Little Larry Sellers
+cast	Irene Olga López	Pilar, Sellers' Housekeeper
+cast	Luis Colina	Corvette Owner
+cast	Ben Gazzara	Jackie Treehorn
+cast	Leon Russom	Malibu Police Chief
+cast	Ajgie Kirkland	Cab Driver
+cast	Jon Polito	Da Fino
+cast	Aimee Mann	Nihilist Woman, Franz' Girlfriend
+cast	Jerry Haleva	Saddam Hussein
+cast	Jennifer Lamb	Pancake Waitress
+cast	Warren Keith	Francis Donnelly, Funeral Director
+cast	Wendy Braun	Chorine Dancer
+cast	Asia Carrera	Sherry in 'Logjammin'
+cast	Kiva Dawson	Dancer
+cast	Robin Jones	Checker at Ralph's

@@ -1,0 +1,180 @@
+year	2011
+imdb score	7.2
+meta score	79
+genre	Drama
+keyword	identity
+keyword	teenager
+keyword	african american
+keyword	alternative lifestyle
+keyword	lesbian drama
+keyword	17 year old
+keyword	high school
+keyword	homophobia
+keyword	lesbian teen
+keyword	girl girl relationship
+keyword	lesbophobia
+keyword	dyke
+keyword	one word title
+keyword	teenage sexuality
+keyword	african american lesbian
+keyword	abusive mother
+keyword	butch femme couple
+keyword	tears
+keyword	strict mother
+keyword	new york
+keyword	lesbian slur
+keyword	black lesbian
+keyword	f word
+keyword	coming of age
+keyword	lesbian lead character
+keyword	coming out
+keyword	beating
+keyword	pariah
+keyword	lesbians dancing
+keyword	live music
+keyword	teenage girl
+keyword	homosexuality
+keyword	strap on dildo
+keyword	lesbian relationship
+keyword	rejection
+keyword	church
+keyword	brooklyn new york city
+keyword	lesbianism
+keyword	mother daughter relationship
+keyword	disappointment
+keyword	lesbian
+keyword	new york city
+keyword	sapphism
+keyword	
+cast	Adepero Oduye	Alike
+cast	Pernell Walker	Laura
+cast	Aasha Davis	Bina
+cast	Charles Parnell	Arthur
+cast	Sahra Mellesse	Sharonda
+cast	Kim Wayans	Audrey
+cast	Shamika Cotton	Candace
+cast	Raymond Anthony Thomas	Mack
+cast	Afton Williamson	Mika
+cast	Zabryna Guevara	Mrs. Alvarado
+cast	Kim Sykes	Mrs. Singletary
+cast	Rob Morgan	Sock
+cast	Nina Daniels	Gina
+cast	Jeremie Harris	Bina's Boyfriend
+cast	Chanté Lewis	Fast Girl #1
+cast	Olithea Anglin	Fast Girl #2
+cast	Joey Auzenne	Math Teacher
+cast	Jason Dyer	Cute Boy
+cast	Loren Lillian	Laura's Girl
+cast	Kymbali Craig	Pier Girl #1
+cast	Alaina Dunn	Pier Girl #2
+cast	Andrea Smith	Pier Girl #3
+cast	Ozzie Stewart	Laura's Mother
+cast	Natalie Carter	Rowdy Co-Worker #1
+cast	Donei Hall	Rowdy Co-Worker #2
+cast	Tamar-Kali	Herself
+cast	Thom Loubet	Guitarist
+cast	Jerome Jordan	Guitarist
+cast	Mark Robohm	Drummer
+cast	Jeremiah Hosea	Bass
+cast	Maine Anders	Go-Go Dancer
+cast	Makeda Alexander	Background Actor
+cast	Stephanie Andujar	Pier Girl
+cast	Tinia Avery	Background Actor
+cast	John Beckles	Background Actor
+cast	John Benton	Background Actor
+cast	Craig A. Bethel	Background Actor
+cast	Paula Birch	Background Actor
+cast	C. Brooks	Background Actor
+cast	Avia Brown	Background Actor
+cast	Christian Brown	Background Actor
+cast	Ebony Byas	Background Actor
+cast	Demetrius Carey	Background Actor
+cast	Reina Cedeño	Background Actor
+cast	Kerry-Ann Chin	Background Actor
+cast	Tia Cionne	Background Actor
+cast	Theodore Coleman	Background Actor
+cast	Charlie Colon	Background Actor
+cast	Joseph Cook	Background Actor
+cast	Jaz Gibbs	Background Actor
+cast	Brendan Creagh	Background Actor
+cast	Ashley Creary	Background Actor
+cast	Alexis Davis	Background Actor
+cast	David Davis	Background Actor
+cast	Vernel Debartow	Background Actor
+cast	Francisco De Jesus	Background Actor
+cast	Yerania Del Orbe	Background Actor
+cast	Felicia Dennis	Background Actor
+cast	Chalite Drayton	Background Actor
+cast	Kirk Dunbar	Background Actor
+cast	William Durrah	Background Actor
+cast	Michelle Eaddy	Background Actor
+cast	Danielle Edmond	Background Actor
+cast	Samuel Encarnacion	Background Actor
+cast	Johnny Espinal	Background Actor
+cast	Zoe Nicole Forde	Background Actor
+cast	Nadia Gibson	Background Actor
+cast	Davena Gilyard	Background Actor
+cast	Kristen Graham	Background Actor
+cast	David Greene	Background Actor
+cast	'Apple' Hamidu	Background Actor
+cast	Uhura Hawkins	Background Actor
+cast	Monique Hazeur	Background Actor
+cast	Lorna Jenkins	Background Actor
+cast	Clifton Johnson	Background Actor
+cast	LaCrown Johnson	Background Actor
+cast	Tangela Johnson	Background Actor
+cast	Ruthie Jones	Background Actor
+cast	Nina Kantesaria	Background Actor
+cast	Chris Kardos	Background Actor
+cast	Leah Laitiling	Background Actor
+cast	Andrew K. Leahy	Background Actor
+cast	Monique Link	Background Actor
+cast	Andre O. Logan	Background Actor
+cast	Adam Lugo	Background Actor
+cast	Teena Marie Delerme-Lugo	Background Actor
+cast	Matt Post	Background Actor
+cast	Rodney Mack	Background Actor
+cast	Will Mahr	Background Actor
+cast	Sunya Margulies	Background Actor
+cast	Amanie Marty	Background Actor
+cast	Nicole McCree	Background Actor
+cast	Rodelyne Moise	Background Actor
+cast	Lance D.F. Montanez	Background Actor
+cast	LaShaye Moore	Background Actor
+cast	Cid Nichols	Background Actor
+cast	Tijashn Nichols	Background Actor
+cast	Kerri-Ann O'Mealy	Background Actor
+cast	Crystal Agapé Page	Background Actor
+cast	Adriana Paulino	Background Actor
+cast	Malika Petty	Background Actor
+cast	Christine Randall	Background Actor
+cast	Jonathan Walter Reyes	Background Actor
+cast	Tammy Richardson	Background Actor
+cast	Adam Richlin	Background Actor
+cast	Canaan Robinson	Background Actor
+cast	Lindsay Roche	Background Actor
+cast	Nicole Rose Brandon	Background Actor
+cast	Kandice Ross	Background Actor
+cast	Jolie Ruben	Background Actor
+cast	Clive Salmon	Background Actor
+cast	Samantha Santiago	Background Actor
+cast	Yosandy Santos	Background Actor
+cast	Chasity Saunders	Background Actor
+cast	Lindsey Scott	Background Actor
+cast	Kinya Shakur	Hospital Clerk
+cast	Stacey Stacy	Background Actor
+cast	Elizabeth Strong	Background Actor
+cast	Alecia Tatum	Background Actor
+cast	Nicole Thomas	Background Actor
+cast	Sharon Tonge	Background Actor
+cast	Ryan Traster	Background Actor
+cast	Michael Varnis	Background Actor
+cast	Acquilla Walker	Background Actor
+cast	Shawna Washington	Background Actor
+cast	Isaac Wilkins	Background Actor
+cast	Jennifer Williams	Background Actor
+cast	Brandon Wilson	Background Actor
+cast	Donna Wilson	Background Actor
+cast	Tomeika Wilson	Background Actor
+cast	Yves F. Wilson	Background Actor
+cast	Shaheed K. Woods	Background Actor

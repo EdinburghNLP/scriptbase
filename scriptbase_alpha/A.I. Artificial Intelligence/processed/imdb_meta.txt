@@ -1,0 +1,218 @@
+year	2001
+imdb score	7.1
+meta score	65
+genre	Adventure
+genre	Drama
+genre	Sci-Fi
+keyword	boy
+keyword	future
+keyword	fairy
+keyword	ice
+keyword	affection
+keyword	robot
+keyword	fairy tale
+keyword	forest
+keyword	rite of passage
+keyword	hatred
+keyword	perfume
+keyword	based on short story
+keyword	android
+keyword	racism
+keyword	pop culture
+keyword	cruelty
+keyword	acronym in title
+keyword	irony
+keyword	cannon
+keyword	ice age
+keyword	new york city
+keyword	swimming pool
+keyword	child flying helicopter
+keyword	neon
+keyword	false accusation
+keyword	allegory
+keyword	lock of hair
+keyword	fear
+keyword	bigotry
+keyword	technophobia
+keyword	myth
+keyword	coffee
+keyword	robot as pathos
+keyword	moon
+keyword	sibling rivalry
+keyword	hologram
+keyword	flooded city
+keyword	cage
+keyword	synthetic human
+keyword	laughing
+keyword	reference to pinocchio
+keyword	birthday
+keyword	child abandonment
+keyword	cyberpunk
+keyword	pajamas
+keyword	dinner
+keyword	fetishism
+keyword	far future
+keyword	man hunt
+keyword	toilet
+keyword	reference to frankenstein
+keyword	waking up in the future
+keyword	helicopter
+keyword	snow
+keyword	child abuse
+keyword	future shock
+keyword	indifference
+keyword	world trade center manhattan new york city
+keyword	year 2035
+keyword	self repair
+keyword	technology gone amok
+keyword	tragic ending
+keyword	asthma attack
+keyword	42nd century
+keyword	entire title is capitalized acronym
+keyword	dystopia
+keyword	teddy bear
+keyword	4000s
+keyword	self referential
+keyword	pool
+keyword	spectacle
+keyword	no opening credits
+keyword	decapitated child
+keyword	child's point of view
+keyword	memory
+keyword	tear
+keyword	singing
+keyword	genocide
+keyword	global warming
+keyword	misunderstanding
+keyword	sex with robot
+keyword	oedipus complex
+keyword	robot human relationship
+keyword	tragic event
+keyword	reference to hansel and gretel
+keyword	mother son relationship
+keyword	public execution
+keyword	statue
+keyword	end of mankind
+keyword	lion
+keyword	wish fulfillment
+keyword	2140s
+keyword	persecution
+keyword	artificially created boy
+keyword	promise
+keyword	brooklyn new york city
+keyword	xenophobia
+keyword	motorcycle
+keyword	armageddon
+keyword	22nd century
+keyword	dolphin
+keyword	manhattan new york city
+keyword	pity
+keyword	train
+keyword	nanny
+keyword	underwater
+keyword	statue of liberty new york city
+keyword	prostitution
+keyword	coney island brooklyn new york city
+keyword	suicide
+keyword	caught in a net
+keyword	knife
+keyword	sea
+keyword	patricide
+keyword	hat
+keyword	flying machine
+keyword	artificial intelligence
+keyword	cryogenics
+cast	Haley Joel Osment	David
+cast	Frances O'Connor	Monica Swinton
+cast	Sam Robards	Henry Swinton
+cast	Jake Thomas	Martin Swinton
+cast	Jude Law	Gigolo Joe
+cast	William Hurt	Prof. Hobby
+cast	Ken Leung	Syatyoo-Sama
+cast	Clark Gregg	Supernerd
+cast	Kevin Sussman	Supernerd
+cast	Tom Gallop	Supernerd
+cast	Eugene Osment	Supernerd
+cast	April Grace	Female Colleague
+cast	Matt Winston	Executive
+cast	Sabrina Grdevich	Sheila
+cast	Theo Greenly	Todd
+cast	Jeremy James Kissner	Kid
+cast	Dillon McEwin	Kid
+cast	Andy Morrow	Kid
+cast	Curt Youngberg	Kid
+cast	Ashley Scott	Gigolo Jane
+cast	John Prosky	Mr. Williamson, the Bellman
+cast	Enrico Colantoni	The Murderer
+cast	Paula Malcomson	Patricia in Mirrored Room
+cast	Brendan Gleeson	Lord Johnson-Johnson
+cast	Michael Berresse	Stage Manager
+cast	Hunter King	Amanda
+cast	Kathryn Morris	Teenage Honey
+cast	Daveigh Chase	Child Singer
+cast	Brian Turk	Backstage Bull
+cast	Justina Machado	Assistant
+cast	Tim Rigby	Yeoman
+cast	Lily Knight	Voice in the Crowd
+cast	Vito Carenzo	Big Man
+cast	Rena Owen	Ticket Taker
+cast	Alan Scott	Worker
+cast	Adam Alexi-Malle	Crowd Member
+cast	Laurence Mason	Tech Director
+cast	Brent Sexton	Russell
+cast	Ken Palmer	Percussionist
+cast	Jason Sutter	Percussionist
+cast	Michael Shamus Wiles	Cop
+cast	Kelly McCool	Kate the Holographic Girl
+cast	Clara Bellar	FemMecha Nanny
+cast	Keith Campbell	Roadworker
+cast	Tim Rhoze	Laboratory Technician
+cast	Jim Jansen	Chef
+cast	Eliza Coleman	General Circuita
+cast	R. David Smith	Welder
+cast	Wayne Wilderson	Comedian
+cast	Bobby Harwell	TV Face
+cast	Billy Scudder	Mechanic
+cast	Jack Angel	Teddy
+cast	Robin Williams	Dr. Know
+cast	Ben Kingsley	Specialist
+cast	Meryl Streep	Blue Mecha
+cast	Chris Rock	Comedian
+cast	Erik Bauersfeld	Gardener
+cast	Michael Mantell	Dr. Frazier at Cryogenic Institute
+cast	Miguel Pérez	Robot Repairman
+cast	Matt Malloy	Robot Repairman
+cast	Adrian Grenier	Teen in Van
+cast	Mark Allan Staubach	Teen in Van
+cast	Michael Fishman	Teen in Van
+cast	Jeanine Salla	Sentient Machine Therapist
+cast	Laia Salla	Mr. Chan's Assistant
+cast	Diane Fletcher	Sentient Machine Security
+cast	Kate Nei	Toe Bell Ringing
+cast	Claude Gilbert	Cybertronics - Room 93056
+cast	Red King	Covert Information Retrieval
+cast	Al Jourgensen	Flesh Fair Band Member
+cast	Paul Barker	Flesh Fair Band Member
+cast	Max Brody	Flesh Fair Band Member
+cast	Duane Buford	Flesh Fair Band Member
+cast	Adam Grossman	Flesh Fair Band Member
+cast	Ty Coon	Flesh Fair Band Member
+cast	Linda Asuma	Waitress
+cast	Hallie Bird	Waitress
+cast	Ronnie Gene Blevins	Robot
+cast	Richard A. Eisenstein	Flesh Fair Crowd
+cast	Brian Feldman	Flesh Fairgoer
+cast	Kelly Felix	Butler Mecha
+cast	Elizabeth Friedman	Patron
+cast	John Harmon	Medic Mecha
+cast	Baron Jay	Mecha Robot
+cast	Claudia Katz	Mecha Robot
+cast	Katie Lohmann	Pleasure Mecha
+cast	Tina Lorraine	Flesh Fair
+cast	Sarena Mobley	Exotic Girl
+cast	Alex Morissen	Robot
+cast	Chris Palermo	Red Biker Hound
+cast	Sandra Plazinic	Robot
+cast	Nicki Sixteen	Robot
+cast	Valek Sykes	Bull
+cast	Marcus A. York	Flesh Fair

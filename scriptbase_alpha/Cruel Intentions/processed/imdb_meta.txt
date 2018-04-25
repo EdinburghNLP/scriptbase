@@ -1,0 +1,166 @@
+year	1999
+imdb score	6.9
+meta score	56
+genre	Drama
+genre	Romance
+keyword	virgin
+keyword	bet
+keyword	jaguar
+keyword	love
+keyword	seduction
+keyword	revenge
+keyword	wager
+keyword	reputation
+keyword	pleasure
+keyword	betrayal
+keyword	1956 jaguar roadster
+keyword	car accident
+keyword	underwear
+keyword	sex
+keyword	attraction
+keyword	sexual awakening
+keyword	wealth
+keyword	class prejudice
+keyword	femme fatale
+keyword	prejudice
+keyword	female frontal nudity
+keyword	manhattan new york city
+keyword	incest
+keyword	manipulation
+keyword	white panties
+keyword	mini skirt
+keyword	defloration
+keyword	social climber
+keyword	cocaine
+keyword	hate
+keyword	love interest
+keyword	funeral
+keyword	foreign language adaptation
+keyword	sexual corruption
+keyword	scantily clad female
+keyword	oral sex
+keyword	sexual promiscuity
+keyword	malice
+keyword	desire
+keyword	breasts
+keyword	false accusation
+keyword	ego
+keyword	new york city
+keyword	obsession
+keyword	masturbation
+keyword	modern day adaptation
+keyword	hypocrisy
+keyword	teenage angst
+keyword	racism
+keyword	female nudity
+keyword	love letter
+keyword	fraud
+keyword	nude girl
+keyword	french kiss
+keyword	sensuality
+keyword	adolescent girl
+keyword	sibling incest subtext
+keyword	sexual desire
+keyword	topless female nudity
+keyword	world trade center manhattan new york city
+keyword	unrequited love
+keyword	journal
+keyword	drugs
+keyword	sexual exploitation
+keyword	sadist
+keyword	humiliation
+keyword	teenager nudity
+keyword	antisocial personality disorder
+keyword	socialization
+keyword	bustier
+keyword	teenage girl
+keyword	diary
+keyword	bondage equipment
+keyword	sadism
+keyword	mind game
+keyword	bare breasts
+keyword	automobile
+keyword	woman losing pants
+keyword	leg spreading
+keyword	limousine
+keyword	interracial relationship
+keyword	cleavage
+keyword	brother sister relationship
+keyword	gay slur
+keyword	poetic justice
+keyword	forbidden love
+keyword	panties
+keyword	sociopath
+keyword	female psychopath
+keyword	borderline personality disorder
+keyword	nude
+keyword	egomaniac
+keyword	cynicism
+keyword	sexual attraction
+keyword	homosexual
+keyword	rape
+keyword	adolescent boy
+keyword	virginity
+keyword	nipples
+keyword	jerk
+keyword	corruption
+keyword	swimming pool
+keyword	upskirt
+keyword	corset
+keyword	rich snob
+keyword	evil
+keyword	moral corruption
+keyword	cruelty
+keyword	male nudity
+keyword	lesbian kiss
+keyword	depravity
+keyword	nudity
+keyword	lesbian
+keyword	cult film
+keyword	irreverence
+keyword	bisexual girl
+keyword	narcissism
+keyword	female masturbation
+keyword	redemption
+keyword	bad girl
+keyword	rich kid
+keyword	loss of virginity
+keyword	female female kiss
+keyword	girl in panties
+keyword	teenage boy
+keyword	hedonism
+keyword	orgasm
+keyword	psychopath
+keyword	interracial sex
+keyword	promiscuity
+keyword	sexuality
+keyword	teen angst
+keyword	female sociopath
+keyword	deceit
+keyword	teen movie
+keyword	based on novel
+keyword	based on book
+keyword	
+cast	Sarah Michelle Gellar	Kathryn Merteuil
+cast	Ryan Phillippe	Sebastian Valmont
+cast	Reese Witherspoon	Annette Hargrove
+cast	Selma Blair	Cecile Caldwell
+cast	Louise Fletcher	Helen Rosemond
+cast	Joshua Jackson	Blaine Tuttle
+cast	Eric Mabius	Greg McConnell
+cast	Sean Patrick Thomas	Ronald Clifford
+cast	Swoosie Kurtz	Dr. Greenbaum
+cast	Christine Baranski	Bunny Caldwell
+cast	Alaina Reed-Hall	Nurse
+cast	Deborah Offner	Mrs. Michalak
+cast	Tara Reid	Marci Greenbaum
+cast	Herta Ware	Mrs. Sugarman
+cast	Hiep Thi Le	Mai-Lee
+cast	Charlie O'Connell	Court Reynolds
+cast	Fred Norris	Meter Maid
+cast	Ginger Williams	Clorissa
+cast	Drew Snyder	Headmaster Hargrove
+cast	Phil Hawn	Subway Pedestrian
+cast	Jim Jenkins	Mr. Caldwell
+cast	Elizabeth M. Kelly	Party Goer
+cast	Guy Kochlani	Student

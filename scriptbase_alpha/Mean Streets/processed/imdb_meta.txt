@@ -1,0 +1,111 @@
+year	1973
+imdb score	7.5
+meta score	N/A
+genre	Crime
+genre	Drama
+keyword	little italy
+keyword	epilepsy
+keyword	new york
+keyword	new york city
+keyword	bar
+keyword	money
+keyword	drive by shooting
+keyword	punched in the face
+keyword	monogrammed shirt
+keyword	playing pool
+keyword	brass band
+keyword	violence
+keyword	ethnic identity
+keyword	exotic dancer
+keyword	convulsion
+keyword	dressing room
+keyword	bare chested male
+keyword	marlboro cigarettes
+keyword	cult film
+keyword	sex
+keyword	catholicism
+keyword	brawl
+keyword	con artist
+keyword	lion cub
+keyword	peeping
+keyword	playing with a lit match
+keyword	street gang
+keyword	party
+keyword	low life
+keyword	mafia
+keyword	explosion
+keyword	neo noir
+keyword	letter bomb
+keyword	drunkenness
+keyword	cemetery
+keyword	shot in men's room
+keyword	run over fire hydrant
+keyword	italian american
+keyword	catholic guilt
+keyword	bar fight
+keyword	redemption
+keyword	imagery
+keyword	fight
+keyword	religion
+keyword	car crash
+keyword	murder
+keyword	gun in mouth
+keyword	bomb in mailbox
+keyword	improvisation
+keyword	black comedy
+keyword	woman wearing a g string
+keyword	shot in the neck
+keyword	critically acclaimed
+keyword	caged animal
+keyword	mailbox
+keyword	close up of breasts
+keyword	alcohol
+keyword	couple walking on a beach
+keyword	product placement
+keyword	close up of eye
+keyword	stripper
+keyword	racial slur
+keyword	psychopath
+keyword	snorricam
+keyword	camera shot of hand
+keyword	women changing clothes
+keyword	tan lines
+keyword	woman wearing pasties
+keyword	female nudity
+keyword	gangster
+keyword	strip club
+keyword	machismo
+keyword	organized crime
+keyword	two word title
+keyword	shot in the back
+keyword	confession
+keyword	salvation
+keyword	
+cast	Robert De Niro	Johnny Boy
+cast	Harvey Keitel	Charlie
+cast	David Proval	Tony
+cast	Amy Robinson	Teresa
+cast	Richard Romanus	Michael
+cast	Cesare Danova	Giovanni
+cast	Victor Argo	Mario
+cast	George Memmoli	Joey
+cast	Lenny Scaletta	Jimmy
+cast	Jeannie Bell	Diane
+cast	Murray Moston	Oscar
+cast	David Carradine	Drunk
+cast	Robert Carradine	Boy With Gun
+cast	Lois Walden	Jewish Girl
+cast	Harry Northup	Soldier
+cast	Dino Seragusa	Old Man
+cast	D'Mitch Davis	Cop
+cast	Peter Fain	George
+cast	Juli Andelman	Girl At Party
+cast	Robert Wilder	Benton
+cast	Ken Sinclair	Sammy
+cast	Jaime Alba	Young Boy #1
+cast	Ken Konstantin	Young Boy #2
+cast	Nicki 'Ack' Aquilino	Man On Docks
+cast	B. Mitchel Reed	Disc Jockey
+cast	Vincent Price	Verden Fell
+cast	Catherine Scorsese	Woman on Landing
+cast	Martin Scorsese	Jimmy Shorts

@@ -1,0 +1,181 @@
+year	2001
+imdb score	7.6
+meta score	73
+genre	Crime
+genre	Drama
+keyword	blackmail
+keyword	chain smoking
+keyword	barber
+keyword	laconic
+keyword	heisenberg
+keyword	alien
+keyword	uncertainty
+keyword	in law
+keyword	heisenberg uncertainty principle
+keyword	department store
+keyword	santa rosa california
+keyword	piano
+keyword	hair
+keyword	flashback
+keyword	mirror
+keyword	psychological denial
+keyword	miscarriage of justice
+keyword	fight
+keyword	dominant wife
+keyword	prison
+keyword	psychic
+keyword	manhood
+keyword	immigrant
+keyword	italian american
+keyword	small town
+keyword	obesity
+keyword	bingo
+keyword	duality
+keyword	paranoia
+keyword	greed
+keyword	oral sex
+keyword	secrecy
+keyword	voice over narration
+keyword	doubt
+keyword	schizophrenic
+keyword	lolita
+keyword	church
+keyword	false promise of the american dream
+keyword	neo noir
+keyword	masculinity
+keyword	quantum physics
+keyword	stabbed in the neck
+keyword	stabbing
+keyword	toupee
+keyword	epistemology
+keyword	ufo
+keyword	isolation
+keyword	district attorney
+keyword	execution
+keyword	deceit
+keyword	phlegmatic
+keyword	black and white
+keyword	teenage girl
+keyword	uncertainty principle
+keyword	death row
+keyword	cult film
+keyword	suicide
+keyword	fellatio
+keyword	1940s
+keyword	psycho next door
+keyword	drunkenness
+keyword	false accusation
+keyword	desire
+keyword	business proposition
+keyword	absurdism
+keyword	electric chair
+keyword	wedding
+keyword	deception
+keyword	dancing
+keyword	pastiche
+keyword	blow job
+keyword	murder
+keyword	crucifix
+keyword	car in water
+keyword	social isolation
+keyword	alienation
+keyword	teenage boy
+keyword	defense lawyer
+keyword	talking while driving
+keyword	pregnancy
+keyword	haircut
+keyword	modernist
+keyword	christian
+keyword	american mythology
+keyword	infidelity
+keyword	music teacher
+keyword	double
+keyword	confession of crime
+keyword	dry cleaning
+keyword	dread
+keyword	double talk
+keyword	partnership
+keyword	pie eating competition
+keyword	churchgoer
+keyword	barber shop
+keyword	misperception
+keyword	detective
+keyword	existentialism
+keyword	tragedy
+keyword	homosexuality
+keyword	self defense
+keyword	passivity
+keyword	duplicity
+keyword	neglected husband
+keyword	betrayal
+keyword	middle america
+keyword	barbershop
+keyword	hypocrisy
+keyword	car accident
+keyword	medium
+keyword	small town stereotype
+keyword	medical examiner
+keyword	embezzlement
+keyword	genealogy
+keyword	trial
+keyword	
+cast	Billy Bob Thornton	Ed Crane
+cast	Frances McDormand	Doris Crane
+cast	Michael Badalucco	Frank
+cast	James Gandolfini	Big Dave Brewster
+cast	Katherine Borowitz	Ann Nirdlinger Brewster
+cast	Jon Polito	Creighton Tolliver
+cast	Scarlett Johansson	Birdy Abundas
+cast	Richard Jenkins	Walter Abundas
+cast	Tony Shalhoub	Freddy Riedenschneider
+cast	Christopher Kriesa	Officer Persky
+cast	Brian Haley	Officer Krebs
+cast	Jack McGee	P.I. Burns
+cast	Gregg Binkley	The New Man
+cast	Alan Fudge	Dr. Diedrickson
+cast	Lilyan Chauvin	Medium
+cast	Adam Alexi-Malle	Jacques Carcanogues
+cast	Ted Rooney	Bingo Caller
+cast	Abraham Benrubi	Party Man
+cast	Christian Ferratti	Child
+cast	Rhoda Gemignani	Costanza
+cast	E.J. Callahan	Customer
+cast	Brooke Smith	Sobbing Prisoner
+cast	Ron Ross	Banker
+cast	Hallie Singleton	Waitress
+cast	Jon Donnelly	Gatto Eater
+cast	Dan Martin	Bailiff
+cast	Nicholas Lanier	Tony
+cast	Tom Dahlgren	Judge #1
+cast	Booth Colman	Judge #2
+cast	Stanley DeSantis	New Man's Customer
+cast	Peter Siragusa	Bartender
+cast	Christopher McDonald	Macadam Salesman
+cast	Rick Scarry	District Attorney
+cast	George Ives	Lloyd Garroway
+cast	Devon Cole Borisoff	Swimming Boy
+cast	Mary Bogue	Prisoner Visitor
+cast	Don Donati	Pie Contest Timer
+cast	Arthur Reeves	Flophouse Clerk
+cast	Michelle Weber	Dancer
+cast	Randi Pareira	Dancer
+cast	Robert Loftin	Dancer
+cast	Kenneth Hughes	Dancer
+cast	Gordon Hart	Dancer
+cast	Brenda Mae Hamilton	Dancer
+cast	Lloyd Gordon	Dancer
+cast	Leonard Crofoot	Dancer
+cast	Rita Bland	Dancer
+cast	Audrey K. Baranishyn	Dancer
+cast	Qyn Hughes	Dancer
+cast	Rachel McDonald	Dancer
+cast	Craig Berenson	Jail Guy
+cast	Joan Blair	Prison Matron
+cast	Geoffrey Gould	Alpine Rope Toss Man
+cast	Paul G. Gray	Man in Courtroom
+cast	Phil Hawn	Man in Courtroom
+cast	Cherilyn Hayres	Swing Dancer
+cast	John Michael Higgins	Emergency Room Physician
+cast	Jennifer Jason Leigh	Female inmate
+cast	Peter Schrum	Truck Driver
+cast	Max Thayer	Witness

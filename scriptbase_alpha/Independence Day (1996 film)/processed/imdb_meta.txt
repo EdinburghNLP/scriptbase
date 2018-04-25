@@ -1,0 +1,272 @@
+year	1996
+imdb score	6.9
+meta score	59
+genre	Action
+genre	Sci-Fi
+keyword	alien
+keyword	spaceship
+keyword	spacecraft
+keyword	weapon
+keyword	area 51
+keyword	invasion
+keyword	chaos
+keyword	hope
+keyword	secretary of defense
+keyword	homosexual subtext
+keyword	self sacrifice
+keyword	techne
+keyword	extraterrestrial
+keyword	statue of liberty new york city
+keyword	genocide
+keyword	alien invasion
+keyword	dogfight
+keyword	alcoholic
+keyword	london england
+keyword	1990s
+keyword	sydney opera house
+keyword	car accident
+keyword	space travel
+keyword	telling someone to shut up
+keyword	crop dusting
+keyword	manhattan new york city
+keyword	exploding helicopter
+keyword	broken promise
+keyword	twin towers
+keyword	mothership
+keyword	space shuttle
+keyword	motor home
+keyword	loss of friend
+keyword	ex husband ex wife relationship
+keyword	helicopter
+keyword	u.s. president
+keyword	disaster
+keyword	alien technology
+keyword	moscow russia
+keyword	aeronautics
+keyword	outrunning explosion
+keyword	space battle
+keyword	sydney australia
+keyword	white house
+keyword	big ben london
+keyword	ham radio
+keyword	fighter pilot
+keyword	patriotism
+keyword	invasion of earth
+keyword	husband wife relationship
+keyword	airforce one
+keyword	los angeles california
+keyword	vietnam veteran
+keyword	photograph
+keyword	nuclear explosion
+keyword	rome italy
+keyword	heroism
+keyword	first daughter
+keyword	tv station
+keyword	car crash
+keyword	exploding building
+keyword	marriage
+keyword	alien space craft
+keyword	timebomb
+keyword	arrest
+keyword	television
+keyword	new york city
+keyword	dog
+keyword	disaster in new york
+keyword	ufo
+keyword	saving the world mission
+keyword	high tech
+keyword	exotic dancer
+keyword	washington d.c.
+keyword	alien contact
+keyword	conflagration
+keyword	bombay india
+keyword	vomit
+keyword	tragic event
+keyword	fourth of july
+keyword	african american
+keyword	father daughter relationship
+keyword	berlin germany
+keyword	tunnel
+keyword	eiffel tower paris
+keyword	computer virus
+keyword	fighter jet
+keyword	d box motion code
+keyword	empire state building manhattan new york city
+keyword	creature
+keyword	crop duster
+keyword	utah
+keyword	mass destruction
+keyword	wendover nevada
+keyword	u boat
+keyword	lighting a cigar
+keyword	pilot
+keyword	apocalypse
+keyword	epic
+keyword	traffic jam
+keyword	despair
+keyword	homosexuality
+keyword	airplane crash
+keyword	no opening credits
+keyword	mumbai india
+keyword	kamikaze
+keyword	father son relationship
+keyword	morse code
+keyword	chess
+keyword	blockbuster
+keyword	first lady
+keyword	fictional war
+keyword	amateur radio
+keyword	common enemy
+keyword	seti
+keyword	end of the world
+keyword	man with glasses
+keyword	moon
+keyword	desert
+keyword	outer space
+keyword	flying
+keyword	exploding ship
+keyword	death of friend
+keyword	title spoken by character
+cast	Will Smith	Captain Steven Hiller
+cast	Bill Pullman	President Thomas J. Whitmore
+cast	Jeff Goldblum	David Levinson
+cast	Mary McDonnell	First Lady Marilyn Whitmore
+cast	Judd Hirsch	Julius Levinson
+cast	Robert Loggia	General William Grey
+cast	Randy Quaid	Russell Casse
+cast	Margaret Colin	Constance Spano
+cast	Vivica A. Fox	Jasmine Dubrow
+cast	James Rebhorn	Albert Nimziki
+cast	Harvey Fierstein	Marty Gilbert
+cast	Adam Baldwin	Major Mitchell
+cast	Brent Spiner	Dr. Brackish Okun
+cast	James Duval	Miguel
+cast	Lisa Jakub	Alicia
+cast	Giuseppe Andrews	Troy
+cast	Ross Bagley	Dylan
+cast	Bill Smitrovich	Captain Watson
+cast	Mae Whitman	Patricia Whitmore
+cast	Harry Connick Jr.	Captain Jimmy Wilder
+cast	Kiersten Warren	Tiffany
+cast	John Storey	Dr. Isaacs
+cast	Frank Novak	Teddy
+cast	Devon Gummersall	Philip
+cast	Leland Orser	Techy / Med Asst #1
+cast	Mirron E. Willis	Aide
+cast	Ross Lacy	Aide
+cast	David Pressman	Whitmore's Aide
+cast	Vivian Palermo	Techy / Med Asst
+cast	Raphael Sbarge	Commander / Tech
+cast	Bobby Hosea	Commanding Officer
+cast	Dan Lauria	Commanding Officer
+cast	Steve Giannelli	Radar Tech
+cast	Eric Paskel	Radar Tech
+cast	Carlos Lacamara	Radar Operator
+cast	John Bennett Perry	Secret Service Agent
+cast	Troy Willis	Secret Service Agent
+cast	Tim Kelleher	Technician
+cast	Wayne Wilderson	Area 51 Technician
+cast	Jay Acovone	Area 51 Guard
+cast	James Wong	SETI Technician #1
+cast	Thom Barry	SETI Technician #2
+cast	Jana Marie Hupp	SETI Technician #3
+cast	Matt Pashkow	Second Officer
+cast	Robert Pine	Chief of Staff
+cast	Marisa Johnston	Co-Worker #2
+cast	Michael Winther	Co-Worker #3
+cast	Dexter Warren	Co-Worker #4
+cast	Paul LeClair	Co-Worker #5
+cast	Michael Vacca	Lieutenant Peterson
+cast	David Channell	Secret Service Agent
+cast	John Capodice	Mario
+cast	Greg Collins	Military Aide
+cast	Derek Webster	Sky Crane Pilot
+cast	Mark Fite	Pilot
+cast	Eric Neal Newman	Pilot
+cast	Levan Uchaneyshvili	Russian Pilot
+cast	Kristof Konrad	Russian Pilot
+cast	Kevin Sifuentes	Tank Commander
+cast	Elston Ridgle	Soldier
+cast	Randy Oglesby	Mechanic
+cast	Jack Moore	Mechanic
+cast	Barry Del Sherman	Street Preacher
+cast	Lyman Ward	Secret Service Agent
+cast	Anthony Crivello	Lincoln
+cast	Richard Speight Jr.	Ed
+cast	Barbara Beck	Monica Soloway
+cast	Joe Fowler	Reporter
+cast	Andrew Warne	Reporter
+cast	Sharon Tay	Reporter
+cast	Peter J. Lucas	Russian Reporter
+cast	Yelena Danova	Russian Newscaster
+cast	Johnny Kim	Korean Newscaster
+cast	Vanessa J. Wells	Newscaster
+cast	Jessika Cardinahl	German Video Newscaster
+cast	Gary W. Cruz	Video Newscaster
+cast	Ron Pitts	Video Newscaster
+cast	Wendy L. Walsh	Herself
+cast	Christine Devine	Video Newscaster
+cast	Mark Thompson	Video Newscaster
+cast	Ernie Anastos	Rex Black, New York Newscaster
+cast	Kevin Cooney	Atlantic Air CINC
+cast	Rance Howard	Chaplain
+cast	Nelson Mashita	Japanese Tech
+cast	Jeff Phillips	B-2 Pilot
+cast	Sayed Badreya	Arab Pilot
+cast	Adam Tomei	Sailor
+cast	John Bradley	Lucas
+cast	Kimberly Beck	Housewife
+cast	Thomas F. Duffy	Lieutenant
+cast	Andrew Keegan	Older Boy
+cast	Jon Shear	Thomson
+cast	Jim Piddock	Reginald
+cast	Frederic W. Barnes	Himself
+cast	Eleanor Clift	Herself
+cast	Jerry Dunphy	Himself
+cast	Jack Germond	Himself
+cast	Morton Kondracke	Himself
+cast	John McLaughlin	Himself
+cast	Barry Nolan	Himself
+cast	George Putnam	Himself
+cast	Eric Michael Zee	Northridge Field Reporter
+cast	Pat Skipper	Redneck
+cast	Carlos Lara	Farmer Kid
+cast	Mike Monteleone	Butler
+cast	Lee Strauss	Elvis Fanatic
+cast	Lisa Star	Woman on Roof
+cast	Malcolm Danare	Intellectual on Roof
+cast	Arthur Brooks	Trucker on Roof
+cast	Michael Moertl	Thief
+cast	James J. Joyce	Master CPO
+cast	Joyce Cohen	Kim Peters
+cast	Julie Moran	Herself - 'Entertainment Tonight' Reporter
+cast	Robin Groth	Flagstaff News Anchor
+cast	Richard Pachorek	LAPD Helicopter Pilot
+cast	Gary A. Hecker	Alien Vocal Effects
+cast	Frank Welker	Special Vocal Effects
+cast	Jonathan Adler	Secret Service Agent
+cast	Janette Andrade	Teen
+cast	Erick Avari	SETI Chief
+cast	Greg Bronson	Police Officer at White House
+cast	Dean Devlin	Eagle 2 Pilot
+cast	Daren Dochterman	British News Translator
+cast	Volker Engel	Man in Office
+cast	Bob Friend	Himself - 'Sky News' Anchorman
+cast	Jeffrey Gold	German Fighter Pilot
+cast	Michael Haddad	Trailer Trash
+cast	Andre Harper	African
+cast	Lincoln D. Hiatt	Colin Barclay
+cast	Jonathan Khan	Pilot
+cast	Darin Mangan	Staff Sergeant
+cast	Scott McKinley	Joint Chiefs of Staff
+cast	Bryan Moss	Israeli Fighter Pilot
+cast	Roy Newton	Pilot
+cast	Gary Pike	Helicopter Passenger
+cast	Darla Rae	Protestor - Omni Hotel
+cast	Nectar Rose	Stripper
+cast	Bonnie Silco	Bride
+cast	Tadao Tomomatsu	Big Hat Guy on Tower
+cast	Michael A. Valenzano	Young Pilot
+cast	Tracey Walter	Techy / Med Asst #3
+cast	James With	British Pilot
+cast	James Woodson	Pilot

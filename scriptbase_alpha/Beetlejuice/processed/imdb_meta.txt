@@ -1,0 +1,110 @@
+year	1988
+imdb score	7.4
+meta score	67
+genre	Comedy
+genre	Fantasy
+keyword	ghost
+keyword	attic
+keyword	yuppie
+keyword	car crash
+keyword	psychic
+keyword	singing
+keyword	drink as title
+keyword	miniaturization
+keyword	possession
+keyword	carnival
+keyword	mouth
+keyword	photograph
+keyword	irreverence
+keyword	cult film
+keyword	calypso
+keyword	appointment
+keyword	shrunken head
+keyword	seance
+keyword	realtor
+keyword	haunted house
+keyword	ghoul
+keyword	stop motion
+keyword	charades
+keyword	funhouse
+keyword	flattened
+keyword	zipper on mouth
+keyword	candy bar
+keyword	eaten alive
+keyword	saturn
+keyword	surrealism
+keyword	crotch grab
+keyword	teenage girl
+keyword	head spin
+keyword	pleading
+keyword	dead man
+keyword	reanimation
+keyword	pervert
+keyword	skeleton
+keyword	demon
+keyword	model town
+keyword	hardware store
+keyword	1980s
+keyword	minister
+keyword	covered bridge
+keyword	afterlife
+keyword	giant monster
+keyword	husband wife relationship
+keyword	giant snake
+keyword	child bride
+keyword	skeleton key
+keyword	zombie
+keyword	man with glasses
+keyword	art
+keyword	car accident
+keyword	dog
+keyword	exorcism
+keyword	black comedy
+keyword	dysfunctional family
+keyword	doubt
+keyword	graveyard
+keyword	portal
+keyword	family friend
+keyword	newlywed
+keyword	modern art
+keyword	black humor
+keyword	football team
+keyword	giant worm
+keyword	screwball
+keyword	rotting corpse
+keyword	agent
+keyword	goth
+keyword	supernatural
+keyword	character name in title
+keyword	
+cast	Alec Baldwin	Adam Maitland
+cast	Geena Davis	Barbara Maitland
+cast	Annie McEnroe	Jane Butterfield
+cast	Maurice Page	Ernie
+cast	Hugo Stanger	Old Bill
+cast	Michael Keaton	Betelgeuse
+cast	Rachel Mittelman	Little Jane Butterfield
+cast	Catherine O'Hara	Delia Deetz
+cast	J. Jay Saunders	Moving Man #1
+cast	Mark Ettlinger	Moving Man #2
+cast	Jeffrey Jones	Charles Deetz
+cast	Winona Ryder	Lydia Deetz
+cast	Glenn Shadix	Otho
+cast	Patrice Martinez	Receptionist
+cast	Cindy Daly	3-Fingered Typist
+cast	Douglas Turner	Char Man
+cast	Carmen Filpi	Messenger
+cast	Simmy Bow	Janitor
+cast	Sylvia Sidney	Juno
+cast	Robert Goulet	Maxie Dean
+cast	Dick Cavett	Bernard
+cast	Susan Kellermann	Grace
+cast	Adelle Lutz	Beryl
+cast	Gary Jochimsen	Dumb Football Player
+cast	Bob Pettersen	Dumb Football Player #2
+cast	Duane Davis	Very Dumb Football Player
+cast	Maree Cheatham	Sarah Dean
+cast	Tony Cox	Preacher
+cast	Jack Angel	Preacher
+cast	Harry Belafonte	The Balladeer
+cast	Charles Schneider	The Hanging Man

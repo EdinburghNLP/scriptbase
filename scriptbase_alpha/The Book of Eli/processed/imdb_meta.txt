@@ -1,0 +1,244 @@
+year	2010
+imdb score	6.9
+meta score	53
+genre	Action
+genre	Adventure
+genre	Drama
+genre	Thriller
+keyword	book
+keyword	water
+keyword	blind
+keyword	aerial shot
+keyword	old dark house
+keyword	cannibal
+keyword	mixed martial arts
+keyword	tunnel
+keyword	strangulation
+keyword	bullhorn
+keyword	shot in the back
+keyword	tea
+keyword	cross country
+keyword	severed head
+keyword	braille
+keyword	no opening credits
+keyword	king james bible
+keyword	murder
+keyword	ipod
+keyword	bar
+keyword	severed hand
+keyword	hand grenade
+keyword	pump action shotgun
+keyword	traveler
+keyword	cannibalism
+keyword	persian cat
+keyword	falling off a roof
+keyword	cemetery
+keyword	one man army
+keyword	motorcycle
+keyword	falling through the floor
+keyword	exploding car
+keyword	on the road
+keyword	stabbed in the chest
+keyword	shot with an arrow
+keyword	bible
+keyword	blindness
+keyword	bare chested male
+keyword	combat
+keyword	prayer
+keyword	year 2043
+keyword	destroyed bridge
+keyword	muslim
+keyword	rowboat
+keyword	machine gun
+keyword	reading
+keyword	held at gunpoint
+keyword	hand to hand combat
+keyword	attempted rape
+keyword	alcatraz
+keyword	blockbuster
+keyword	burn scar
+keyword	violence
+keyword	christianity
+keyword	bloody nose
+keyword	shot in the head
+keyword	man with dark glasses
+keyword	infected wound
+keyword	martial arts
+keyword	falling leaves
+keyword	rocket propelled grenade
+keyword	saying grace
+keyword	eating cat
+keyword	cat
+keyword	silhouette
+keyword	impalement
+keyword	rocket launcher
+keyword	reference to johnny cash
+keyword	shampoo
+keyword	san francisco bay
+keyword	journey
+keyword	rpg
+keyword	african american protagonist
+keyword	shot in the crotch
+keyword	rat
+keyword	shot in the leg
+keyword	scars on back
+keyword	one against many
+keyword	religion
+keyword	corpse
+keyword	double barreled shotgun
+keyword	bell
+keyword	commitment
+keyword	blood
+keyword	grenade
+keyword	gunfight
+keyword	blood splatter
+keyword	illiteracy
+keyword	skeleton
+keyword	west coast
+keyword	coincidence
+keyword	sphynx cat
+keyword	zippo lighter
+keyword	armored truck
+keyword	gas mask
+keyword	oprah magazine
+keyword	hope
+keyword	holding hands
+keyword	bar fight
+keyword	gatling gun
+keyword	cross country trip
+keyword	bible quote
+keyword	wearing sunglasses inside
+keyword	shot to death
+keyword	axe
+keyword	falling from height
+keyword	faith
+keyword	husband wife relationship
+keyword	carnage
+keyword	limping
+keyword	small town
+keyword	pulling hair
+keyword	killing an animal
+keyword	deception
+keyword	shootout
+keyword	collapsed bridge
+keyword	traveling on foot
+keyword	shot in the forehead
+keyword	vulture
+keyword	blind man
+keyword	sniper
+keyword	shopping cart
+keyword	cat hissing
+keyword	decapitation
+keyword	hero
+keyword	survival
+keyword	2040s
+keyword	sacrifice
+keyword	campfire
+keyword	death of protagonist
+keyword	grave
+keyword	caravan
+keyword	sword
+keyword	memorization
+keyword	showdown
+keyword	christian
+keyword	blind woman
+keyword	crater
+keyword	shotgun
+keyword	prayer of thanks
+keyword	roadtrip
+keyword	trap
+keyword	dictation
+keyword	stabbed to death
+keyword	desperation
+keyword	highway bridge
+keyword	product placement
+keyword	shot in the belly
+keyword	mother daughter relationship
+keyword	man punching a woman
+keyword	library
+keyword	road trip
+keyword	forest
+keyword	handgun
+keyword	shantytown
+keyword	goggles
+keyword	human nature
+keyword	chainsaw
+keyword	armored car
+keyword	canteen
+keyword	reference to william shakespeare
+keyword	shot in the chest
+keyword	bow and arrow
+keyword	slow motion scene
+keyword	prostitution
+keyword	machete
+keyword	sword fight
+keyword	san francisco california
+keyword	post apocalypse
+keyword	golden gate bridge
+keyword	desert
+keyword	bomb
+keyword	backpack
+keyword	phonograph
+keyword	threatened with a knife
+keyword	explosion
+keyword	character name in title
+keyword	surprise ending
+cast	Denzel Washington	Eli
+cast	Gary Oldman	Carnegie
+cast	Mila Kunis	Solara
+cast	Ray Stevenson	Redridge
+cast	Jennifer Beals	Claudia
+cast	Evan Jones	Martz
+cast	Joe Pingue	Hoyt
+cast	Frances de la Tour	Martha
+cast	Michael Gambon	George
+cast	Tom Waits	Engineer
+cast	Chris Browning	Hijack Leader
+cast	Richard Cetrone	Hijacker
+cast	Lateef Crowder	Hijacker / Construction Thug
+cast	Keith Davis	Hijacker
+cast	Don Thai Theerathada	Hijacker
+cast	Thom Williams	Hijacker
+cast	Lora Martinez-Cunningham	Young Woman Hijacker
+cast	Scott Wilder	Middle-Aged Man
+cast	Heidi Pascoe	Middle-Aged Woman
+cast	Jennifer Caputo	Biker
+cast	Eddie Perez	Biker
+cast	Spencer Sano	Biker / Town Thug
+cast	Karin Silvestri	Biker
+cast	Mike Gunther	Sniper
+cast	John Koyama	Sniper
+cast	Mike McCarty	Sniper
+cast	Scott Michael Morgan	Construction Thug Leader
+cast	Sala Baker	Construction Thug
+cast	Arron Shiver	Bartender
+cast	Justin Tade	Town Doctor
+cast	Mike Seal	Door Guard
+cast	Richard A. Smith	Orpheum Patron
+cast	Paul Crawford	Town Thug
+cast	Edward A. Duran	Town Thug
+cast	David Wald	Town Thug
+cast	Jermaine Washington	Town Thug
+cast	Kofi Elam	Convoy Thug
+cast	Clay Donahue Fontenot	Convoy Thug
+cast	Al Goto	Convoy Thug
+cast	Brad Martin	Convoy Thug
+cast	Tim Rigby	Convoy Thug
+cast	Luis Bordonada	Carnegie Gunman #1
+cast	Robert Powell	Carnegie Gunman #2
+cast	Angelique Midthunder	Gatling Gun Gunner
+cast	Todd Schneider	Caddy Driver
+cast	Darrin Prescott	Suburban Driver
+cast	Laurence Chavez	Ice Cream Truck Driver
+cast	Brian Neal Lucero	Alcatraz Guard
+cast	David Midthunder	Alcatraz Soldier
+cast	Steven Blacksmith	Dead Body
+cast	Christopher Fodge	Alcatraz Soldier
+cast	Josiah D. Lee	Thug
+cast	Gregory Leiker	Alcatraz Guard
+cast	Malcolm McDowell	Lombardi
+cast	Levi Nolasco	Extra - Townsfolk C
+cast	Frank Powers	Alcatraz Guard
+cast	David T. Quan	Alcatraz Clerk
+cast	Jason Rice	Alcatraz Guard
+cast	Daniel Teller	Extra

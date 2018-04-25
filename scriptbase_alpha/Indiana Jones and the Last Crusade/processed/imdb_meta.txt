@@ -1,0 +1,270 @@
+year	1989
+imdb score	8.3
+meta score	65
+genre	Action
+genre	Adventure
+keyword	nazi
+keyword	holy grail
+keyword	map
+keyword	castle
+keyword	diary
+keyword	italy
+keyword	fire
+keyword	catacomb
+keyword	canyon
+keyword	adventurer
+keyword	professor
+keyword	escape
+keyword	rat
+keyword	archeology
+keyword	periscope
+keyword	petra
+keyword	lifting someone into the air
+keyword	legend
+keyword	germany
+keyword	college
+keyword	riding a horse
+keyword	insignia
+keyword	slow motion scene
+keyword	man with glasses
+keyword	six word title
+keyword	telling someone to run
+keyword	airplane accident
+keyword	abyss
+keyword	riding into the sun
+keyword	chosen one
+keyword	manhole
+keyword	cult figure
+keyword	seeing father shot
+keyword	famous score
+keyword	rolls royce phantom
+keyword	moving fireplace
+keyword	tunnel
+keyword	kidnapping
+keyword	flash forward
+keyword	crucifix
+keyword	decapitation
+keyword	ancient civilization
+keyword	missing person
+keyword	paranormal phenomena
+keyword	fight on a moving tank
+keyword	unsubtitled foreign language
+keyword	ransacked room
+keyword	poetic justice
+keyword	motorcycle chase
+keyword	archeologist
+keyword	mp40
+keyword	tank
+keyword	middle east
+keyword	blonde woman
+keyword	goat
+keyword	stone tablet
+keyword	father son relationship
+keyword	motorcycle with a sidecar
+keyword	rhinoceros
+keyword	spiral staircase
+keyword	aged to death
+keyword	severed head
+keyword	driving off a cliff
+keyword	austrian woman
+keyword	decomposing body
+keyword	shot in the head
+keyword	swimming underwater
+keyword	origin of hero
+keyword	journey shown on a map
+keyword	aerial bombardment
+keyword	warning
+keyword	cigarette lighter
+keyword	austrian
+keyword	nordenfelt gun
+keyword	shot in the stomach
+keyword	ophidiophobia
+keyword	disguise
+keyword	lion
+keyword	man in uniform
+keyword	beach
+keyword	reference to the marx brothers
+keyword	human skeleton
+keyword	climbing out window
+keyword	zeppelin
+keyword	climbing a rope
+keyword	exploding boat
+keyword	luger
+keyword	chalice
+keyword	ming vase
+keyword	bullwhip
+keyword	train
+keyword	motorcycle
+keyword	slapped with a glove
+keyword	motor boat
+keyword	greed
+keyword	utah
+keyword	falling down stairs
+keyword	storm at sea
+keyword	face slap
+keyword	bridge
+keyword	underground fire
+keyword	boat chase
+keyword	moving wall
+keyword	relic
+keyword	fez
+keyword	gestapo
+keyword	ship sinking
+keyword	macguffin
+keyword	circus train
+keyword	part of trilogy
+keyword	dogfight
+keyword	library
+keyword	bonfire
+keyword	chase on train roof
+keyword	cobweb
+keyword	reaching
+keyword	exploding airplane
+keyword	strafing
+keyword	secret passage
+keyword	douglas dc 3
+keyword	younger version of character
+keyword	strangled with a chain
+keyword	reference to joseph of arimethea
+keyword	ends with a ride into the sunset
+keyword	traitor
+keyword	tied together
+keyword	fake artifact
+keyword	wilhelm scream
+keyword	old book
+keyword	hiding behind newspaper
+keyword	passionate kiss
+keyword	reference to jehovah
+keyword	whip
+keyword	sultan
+keyword	crusader
+keyword	knight
+keyword	riding into the sunset
+keyword	tied to a chair
+keyword	reference to mickey mouse
+keyword	1910s
+keyword	third part
+keyword	immortality
+keyword	accidentally starting a fire
+keyword	action hero
+keyword	sunset
+keyword	femme fatale
+keyword	reference to ark of the covenant
+keyword	steamship
+keyword	1930s
+keyword	book burning
+keyword	templar knight
+keyword	secret organization
+keyword	curse
+keyword	sarcophagus
+keyword	running out of ammo
+keyword	fictional country
+keyword	leather jacket
+keyword	zip line
+keyword	air pocket
+keyword	biplane
+keyword	torch
+keyword	cavern
+keyword	blockbuster
+keyword	autographed book
+keyword	venice italy
+keyword	neglecting to cover sneeze
+keyword	religion
+keyword	gondola
+keyword	falling over a cliff
+keyword	boy scout
+keyword	reaching for a priceless artifact
+keyword	autograph
+keyword	aerial combat
+keyword	speedboat
+keyword	panzer
+keyword	latin grammar
+keyword	stained glass window
+keyword	champagne
+keyword	christ allegory
+keyword	umbrella
+keyword	betrayal
+keyword	studio logo segues into film
+keyword	tuxedo
+keyword	scottish accent
+keyword	year 1938
+keyword	snake
+keyword	car accident
+keyword	nazi flag
+keyword	underwater
+keyword	explosion
+keyword	bugle
+keyword	warrior
+keyword	cult film
+keyword	journal
+keyword	fight on a train roof
+keyword	berlin germany
+keyword	natural bridge
+keyword	fugitive
+keyword	illusion
+keyword	earthquake
+keyword	father and son compete for woman
+keyword	sequel
+keyword	leather glove slipping off one's hand
+keyword	american abroad
+keyword	fedora
+keyword	magic trick
+keyword	flying into a flock of birds
+keyword	booby trap
+keyword	babe scientist
+keyword	camel
+keyword	x marks the spot
+keyword	decapitated body
+keyword	obsession
+keyword	character name in title
+cast	Harrison Ford	Indiana Jones
+cast	Sean Connery	Professor Henry Jones
+cast	Denholm Elliott	Marcus Brody
+cast	Alison Doody	Elsa
+cast	John Rhys-Davies	Sallah
+cast	Julian Glover	Walter Donovan
+cast	River Phoenix	Young Indy
+cast	Michael Byrne	Vogel
+cast	Kevork Malikyan	Kazim
+cast	Robert Eddison	Grail Knight
+cast	Richard Young	Fedora
+cast	Alexei Sayle	Sultan
+cast	Alex Hyde-White	Young Henry
+cast	Paul Maxwell	Panama Hat
+cast	Isla Blair	Mrs. Donovan
+cast	Vernon Dobtcheff	Butler
+cast	J.J. Hardy	Herman
+cast	Bradley Gregg	Roscoe
+cast	Jeff O'Haco	Half Breed
+cast	Vince Deadrick Sr.	Rough Rider
+cast	Marc Miles	Sheriff
+cast	Ted Grossman	Deputy Sheriff
+cast	Tim Hiser	Young Panama Hat
+cast	Larry Sanders	Scout Master
+cast	Will Miles	Scout #1
+cast	David Murray	Scout #2
+cast	Frederick Jaeger	World War One Ace
+cast	Jerry Harte	Professor Stanton
+cast	Billy J. Mitchell	Dr. Mulbray
+cast	Martin Gordon	Man at Hitler Rally
+cast	Paul Humpoletz	German Officer at Hitler Rally
+cast	Tom Branch	Hatay Soldier in Temple
+cast	Graeme Crowther	Zeppelin Crewman
+cast	Luke Hanson	Principal SS Officer at Castle
+cast	Chris Jenkinson	Officer at Castle
+cast	Nicola Scott	Female Officer at Castle
+cast	Louis Sheldon	Young Officer at Castle
+cast	Stefan Kalipha	Hatay Tank Gunner
+cast	Peter Pacey	Hatay Tank Driver
+cast	Pat Roach	Gestapo
+cast	Suzanne Roquette	Film Director
+cast	Eugene Lipinski	G-Man
+cast	George Malpas	Man on Zeppelin
+cast	Julie Eccles	Irene
+cast	Nina Armstrong	Flower Girl
+cast	Nick Gillard	Tank Crewman Hit by Periscope
+cast	Ronald Lacey	Heinrich Himmler
+cast	Derek Lyons	German Soldier
+cast	Lee Richards	Passenger on Airship
+cast	Michael Sheard	Adolf Hitler
+cast	Tip Tipping	Tank Crewman

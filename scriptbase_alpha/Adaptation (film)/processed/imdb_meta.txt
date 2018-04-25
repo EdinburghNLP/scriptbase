@@ -1,0 +1,171 @@
+year	2002
+imdb score	7.8
+meta score	83
+genre	Comedy
+genre	Crime
+genre	Drama
+keyword	orchid
+keyword	book
+keyword	screenwriter
+keyword	thief
+keyword	twin
+keyword	screenplay
+keyword	insecurity
+keyword	eccentric
+keyword	script
+keyword	writer
+keyword	horticulture
+keyword	florida
+keyword	writing
+keyword	frustration
+keyword	time wasted
+keyword	irreverence
+keyword	self hate
+keyword	realization
+keyword	jungle
+keyword	car crash
+keyword	following a dream
+keyword	native american
+keyword	swamp
+keyword	survival of the fittest
+keyword	female frontal nudity
+keyword	fantasizing
+keyword	bad back
+keyword	peeping tom
+keyword	man vs nature
+keyword	screenwriting seminar
+keyword	actor playing multiple roles
+keyword	seminole indian
+keyword	multiple narrators
+keyword	bad english
+keyword	brother brother relationship
+keyword	coincidence
+keyword	filmmaking
+keyword	unhappy marriage
+keyword	nudity
+keyword	bee
+keyword	filmmaking
+keyword	fictional twin
+keyword	fox
+keyword	title ends with period
+keyword	satire
+keyword	state park
+keyword	script writer
+keyword	hollywood
+keyword	behind the scenes
+keyword	diner
+keyword	time lapse photography
+keyword	metafiction
+keyword	voice over inner thoughts
+keyword	schizophrenic
+keyword	semi autobiographical
+keyword	melancholy
+keyword	period in title
+keyword	waitress
+keyword	writer's block
+keyword	dual role
+keyword	surrealism
+keyword	new york
+keyword	park ranger
+keyword	post modern
+keyword	female nudity
+keyword	reference to fellini
+keyword	loner
+keyword	woman with glasses
+keyword	boyfriend girlfriend relationship
+keyword	hospital
+keyword	hypothetical flashback
+keyword	loneliness
+keyword	obsession
+keyword	movie studio
+keyword	naive man
+keyword	loser
+keyword	journalist
+keyword	mysterious woman
+keyword	imagination
+keyword	screen writing
+keyword	lisp
+keyword	alligator
+keyword	meta film
+keyword	self referential
+keyword	deus ex machina
+keyword	blind chance
+keyword	charles darwin
+keyword	hearing characters thoughts
+keyword	pollination
+keyword	isolation
+keyword	party
+keyword	second thoughts
+keyword	fast motion scene
+keyword	impersonation
+keyword	alligator attack
+keyword	strained relationship
+keyword	identical twins
+keyword	macro photography
+keyword	moral story
+keyword	new york city
+keyword	black comedy
+keyword	masturbation
+keyword	one word title
+keyword	new yorker magazine
+keyword	thinking
+keyword	big coincidence
+keyword	dinosaur
+keyword	evolution
+keyword	author
+keyword	film with ambiguous title
+keyword	naivety
+keyword	inner voice
+keyword	alienation
+keyword	internal monologue
+keyword	voice over narration
+keyword	based on novel
+keyword	title spoken by character
+cast	Nicolas Cage	Charlie Kaufman / Donald Kaufman
+cast	Tilda Swinton	Valerie Thomas
+cast	Meryl Streep	Susan Orlean
+cast	Chris Cooper	John Laroche
+cast	Jay Tavare	Matthew Osceola
+cast	Litefoot	Russell
+cast	Roger Willie	Randy
+cast	Jim Beaver	Ranger Tony
+cast	Cara Seymour	Amelia Kavan
+cast	Doug Jones	Augustus Margary
+cast	Stephen Tobolowsky	Ranger Steve Neely
+cast	Gary Farmer	Buster Baxley
+cast	Peter Jason	Defense Attorney
+cast	Gregory Itzin	Prosecutor
+cast	Curtis Hanson	Orlean's Husband
+cast	Agnes NaDene Baddoo	Orlean Dinner Guest
+cast	Paul Fortune	Orlean Dinner Guest
+cast	Paul Jasmin	Orlean Dinner Guest
+cast	Lisa Love	Orlean Dinner Guest
+cast	Wendy Mogel	Orlean Dinner Guest
+cast	David O. Russell	Orlean Dinner Guest
+cast	Judy Greer	Alice the Waitress
+cast	Maggie Gyllenhaal	Caroline Cunningham
+cast	Bob Stephenson	David
+cast	Bob Yerkes	Charles Darwin
+cast	Lynn Court	Laroche's Dad
+cast	Roger E. Fanter	Laroche's Uncle Jim
+cast	Sandra Lee Gimpel	Laroche's Mom
+cast	Caron Colvett	Laroche's Wife
+cast	Larry Krask	EMT
+cast	Ron Livingston	Marty Bowen
+cast	Brian Cox	Robert McKee
+cast	John Etter	McKee Lecture Attendee
+cast	Ray Berrios	Police Officer
+cast	Nancy Lenehan	Kaufman's Mother
+cast	Susan Orlean	Woman in Supermarket
+cast	Lance Acord	Himself
+cast	Brigitte Bogle	Teenage Orlean
+cast	Ryan Bosch	Partygoer
+cast	Curt Clendenin	Restaurant Customer
+cast	Tony Collucci	Restaurant Customer
+cast	Lathan Crowe	Orchid Vendor
+cast	John Cusack	Himself
+cast	Spike Jonze	Himself
+cast	Catherine Keener	Herself
+cast	Jake Magnuson	Cafe Customer
+cast	John Malkovich	Himself
+cast	Rheagan Wallace	Kim Canetti

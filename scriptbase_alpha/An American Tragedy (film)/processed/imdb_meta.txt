@@ -1,0 +1,79 @@
+year	1931
+imdb score	6.8
+meta score	N/A
+genre	Drama
+genre	Romance
+keyword	mother son relationship
+keyword	abortion
+keyword	adirondack mountains
+keyword	electrocution
+keyword	moral corruption
+keyword	pregnant woman
+keyword	boat
+keyword	district attorney
+keyword	hotel
+keyword	law
+keyword	poverty
+keyword	class distinction
+keyword	pregnant woman murdered
+keyword	religion
+keyword	factory worker
+keyword	pregnant
+keyword	uncle
+keyword	romantic rivalry
+keyword	expectant mother
+keyword	debutante
+keyword	foreman
+keyword	pregnancy
+keyword	premarital sex
+keyword	ostracism
+keyword	letter
+keyword	hotel bellman
+keyword	snob
+keyword	new york
+keyword	drowning
+keyword	trial
+keyword	murder
+keyword	expectant father
+keyword	lake
+keyword	accidental death
+keyword	evangelist
+keyword	execution
+keyword	newspaper
+keyword	death of expectant mother
+keyword	based on novel
+keyword	
+cast	Phillips Holmes	Clyde Griffiths
+cast	Sylvia Sidney	Roberta 'Bert' Alden
+cast	Frances Dee	Sondra Finchley
+cast	Irving Pichel	District Attorney Orville Mason
+cast	Frederick Burton	Samuel Griffiths
+cast	Claire McDowell	Mrs. Samuel Griffiths
+cast	Wallace Middleton	Gilbert Griffiths
+cast	Emmett Corrigan	Belknap
+cast	Lucille La Verne	Mrs. Asa Griffiths
+cast	Charles Middleton	Jephson
+cast	Al Hart	Titus Alden
+cast	Fanny Midgley	Mrs. Titus Alden
+cast	Arnold Korff	Judge
+cast	Russ Powell	Coroner Fred Heit
+cast	Ed Brady	Train Brakeman
+cast	Martin Cichy	Courtroom Spectator
+cast	Richard Cramer	Deputy Sheriff Kraut
+cast	Claire Dodd	Gaile Warren
+cast	Robert Dudley	Juror
+cast	James Durkin	Minor Role
+cast	Elizabeth Forrester	Jill Trumbull
+cast	George Irving	Mr. Finchley
+cast	Arline Judge	Bella Griffiths
+cast	Harry Leroy	Courtroom Spectator
+cast	Guy Oliver	Simeon Dinsmore
+cast	Franklin Parker	Minor Role
+cast	Imboden Parrish	Earl Newcomb
+cast	Evelyn Pierce	Bertine Cranston
+cast	Matty Roubert	Vendor Outside of Courtroom
+cast	Harry Schultz	Lawyer's Assistant
+cast	Harry Semels	Juror
+cast	Harry Stubbs	Court Clerk
+cast	Nella Walker	Hotel Guest
+cast	Vivian Winston	Myra Griffiths

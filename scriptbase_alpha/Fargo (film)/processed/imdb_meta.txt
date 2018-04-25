@@ -1,0 +1,286 @@
+year	1996
+imdb score	8.2
+meta score	85
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	ransom
+keyword	blood
+keyword	money
+keyword	murder
+keyword	kidnapping
+keyword	minnesota
+keyword	fargo north dakota
+keyword	police
+keyword	metafiction
+keyword	pancakes
+keyword	police arrest
+keyword	broken tv
+keyword	buddy
+keyword	fraud
+keyword	balancing family and career
+keyword	father son relationship
+keyword	snow
+keyword	child swearing
+keyword	shooting a girl
+keyword	knocked out
+keyword	brutality
+keyword	tv dinner
+keyword	biting
+keyword	small town americana
+keyword	playacting
+keyword	airport
+keyword	remorse
+keyword	falling down stairs
+keyword	pregnancy
+keyword	sex scene
+keyword	pregnant policewoman
+keyword	police officer
+keyword	misperception
+keyword	bag over head
+keyword	engine trouble
+keyword	hidden gun
+keyword	belt
+keyword	expectant mother
+keyword	car won't start
+keyword	father daughter relationship
+keyword	cabin
+keyword	neo noir
+keyword	diner
+keyword	stolen license plate
+keyword	winter
+keyword	small town stereotype
+keyword	paul bunyan
+keyword	dysfunctional family
+keyword	black comedy
+keyword	marriage
+keyword	gunshot wound
+keyword	expectant father
+keyword	pastiche
+keyword	bruise
+keyword	unintended consequences
+keyword	husband wife relationship
+keyword	lie
+keyword	pancake house
+keyword	liar
+keyword	false promise of the american dream
+keyword	devoted couple
+keyword	reference to mcdonald's
+keyword	police corruption
+keyword	prostitute
+keyword	hyperrealism
+keyword	north dakota
+keyword	lifting an adult into the air
+keyword	tied up
+keyword	shot in the chest
+keyword	banker
+keyword	strangulation
+keyword	reality vs fantasy
+keyword	native american
+keyword	greed
+keyword	psychopath
+keyword	mother son relationship
+keyword	car accident
+keyword	stopped by police
+keyword	hotel
+keyword	car salesman
+keyword	shot repeatedly
+keyword	police station
+keyword	running into a tree
+keyword	beating
+keyword	based on supposedly true story
+keyword	police chief
+keyword	lifting someone into the air
+keyword	shot to death
+keyword	tall tale
+keyword	dumb criminal
+keyword	heroine
+keyword	dual protagonist
+keyword	painter
+keyword	f word
+keyword	car chase
+keyword	bismarck north dakota
+keyword	hooded victim
+keyword	double cross
+keyword	tragic event
+keyword	statue
+keyword	anger
+keyword	off screen murder
+keyword	cult director
+keyword	pregnant wife
+keyword	police officer killed
+keyword	small town
+keyword	rural setting
+keyword	bartender
+keyword	television
+keyword	norwegian american
+keyword	pistol
+keyword	gash in the face
+keyword	failure to communicate
+keyword	assault
+keyword	police car
+keyword	rage
+keyword	police officer shot in the head
+keyword	married to a police officer
+keyword	watching tv
+keyword	held at gunpoint
+keyword	blurred boundaries
+keyword	axe murder
+keyword	corpse
+keyword	perception
+keyword	botched crime
+keyword	middle america
+keyword	trickster
+keyword	parking garage
+keyword	farce
+keyword	man hits a woman
+keyword	body in a chipper
+keyword	crime gone awry
+keyword	shot in the back
+keyword	restaurant
+keyword	marlboro man
+keyword	alienation
+keyword	shot in the face
+keyword	artist
+keyword	buffet
+keyword	pregnant police officer
+keyword	crime scene
+keyword	female nudity
+keyword	policewoman killing
+keyword	shower curtain
+keyword	male nudity
+keyword	arrest
+keyword	truth
+keyword	feminist
+keyword	cigarette smoking
+keyword	blood spatter
+keyword	body in a trunk
+keyword	ripping a telephone from the wall
+keyword	breaking and entering
+keyword	lifting a female into the air
+keyword	police investigation
+keyword	ex convict
+keyword	death threat
+keyword	double
+keyword	witness
+keyword	singing
+keyword	stolen car
+keyword	playboy magazine
+keyword	kicked in the face
+keyword	banality
+keyword	motel
+keyword	shot in the leg
+keyword	fast food
+keyword	alienated sexuality
+keyword	depravity
+keyword	knitting
+keyword	inner turmoil
+keyword	severed leg
+keyword	deception
+keyword	minneapolis minnesota
+keyword	secluded
+keyword	gore
+keyword	nudity
+keyword	earthworm
+keyword	punched in the face
+keyword	police officer shot
+keyword	mirror
+keyword	innocent person killed
+keyword	swedish american
+keyword	pair of killers
+keyword	axe
+keyword	breaking a glass window
+keyword	escort
+keyword	topless female nudity
+keyword	violence
+keyword	man cooking for woman
+keyword	cult film
+keyword	overturning car
+keyword	accountant
+keyword	playing pool
+keyword	gun
+keyword	one word title
+keyword	car dealer
+keyword	ice hockey
+keyword	ransom money
+keyword	bare chested male
+keyword	deceit
+keyword	man in underwear
+keyword	pay phone
+keyword	hiding in a bathroom
+keyword	famous score
+keyword	sacrifice
+keyword	crowbar
+keyword	mulching someone
+keyword	psychological disintegration
+keyword	native american man
+keyword	singer
+keyword	premarital sex
+keyword	shot in the head
+keyword	1980s
+keyword	morning sickness
+keyword	mechanic
+keyword	duplicity
+keyword	grand guignol
+keyword	buttocks
+keyword	funny accent
+keyword	bar
+keyword	dismemberment
+keyword	siren
+keyword	ski mask
+keyword	dark comedy
+keyword	foot chase
+keyword	whipping
+keyword	auto mechanic
+keyword	epistemology
+keyword	bribery
+keyword	crush
+keyword	marital fidelity
+keyword	woodchipper
+keyword	role playing
+keyword	duality
+keyword	racial slur
+keyword	belt whipping
+keyword	independent film
+keyword	title spoken by character
+cast	William H. Macy	Jerry Lundegaard
+cast	Steve Buscemi	Carl Showalter
+cast	Peter Stormare	Gaear Grimsrud
+cast	Kristin Rudrüd	Jean Lundegaard
+cast	Harve Presnell	Wade Gustafson
+cast	Tony Denman	Scotty Lundegaard
+cast	Gary Houston	Irate Customer
+cast	Sally Wingert	Irate Customer's Wife
+cast	Kurt Schweickhardt	Car Salesman
+cast	Larissa Kokernot	Hooker #1
+cast	Melissa Peterman	Hooker #2
+cast	Steve Reevis	Shep Proudfoot
+cast	Warren Keith	Reilly Diefenbach
+cast	Steve Edelman	Morning Show Host
+cast	Sharon Anderson	Morning Show Hostess
+cast	Larry Brandenburg	Stan Grossman
+cast	James Gaulke	State Trooper
+cast	J. Todd Anderson	Victim in the Field
+cast	Michelle Suzanne LeDoux	Victim in Car
+cast	Frances McDormand	Marge Gunderson
+cast	John Carroll Lynch	Norm Gunderson
+cast	Bruce Bohne	Lou
+cast	Petra Boden	Cashier
+cast	Steve Park	Mike Yanagita
+cast	Wayne A. Evenson	Customer
+cast	Cliff Rakerd	Officer Olson
+cast	Jessica Shepherd	Hotel Clerk
+cast	Peter Schmitz	Airport Lot Attendant
+cast	Steven I. Schafer	Mechanic
+cast	Michelle Hutchison	Escort
+cast	David S. Lomax	Man in Hallway
+cast	José Feliciano	Himself
+cast	Bix Skahill	Night Parking Attendant
+cast	Bain Boehlke	Mr. Mohra
+cast	Rose Stockton	Valerie
+cast	Robert Ozasky	Bismarck Cop #1
+cast	John Bandemer	Bismarck Cop #2
+cast	Don Wescott	Bark Beetle Narrator
+cast	Bruce Campbell	Soap Opera Actor on TV
+cast	Clifford Nelson	Heavyset Man In Bar
+cast	Lori J. Ness	Women in the Bar

@@ -1,0 +1,94 @@
+year	1982
+imdb score	7.8
+meta score	N/A
+genre	Drama
+keyword	lawyer
+keyword	malpractice
+keyword	medical malpractice
+keyword	court
+keyword	trial
+keyword	career
+keyword	ambulance chasing
+keyword	irish american
+keyword	catholic
+keyword	archdiocese
+keyword	catholic church
+keyword	social injustice
+keyword	reference to king solomon
+keyword	self esteem
+keyword	redemption
+keyword	bishop
+keyword	courtroom drama
+keyword	surgeon
+keyword	boyfriend girlfriend relationship
+keyword	washed out
+keyword	self destructiveness
+keyword	coma victim
+keyword	speech
+keyword	inspiring story
+keyword	funeral director
+keyword	alcoholism
+keyword	betrayal
+keyword	heavy drinking
+keyword	justice
+keyword	polaroid
+keyword	pinball
+keyword	female spy
+keyword	lawsuit
+keyword	fight the system
+keyword	funeral home
+keyword	hospital
+keyword	drunkenness
+keyword	neglect
+keyword	law
+keyword	boston massachusetts
+keyword	freemason
+keyword	nurse
+keyword	courtroom
+keyword	afi
+keyword	man hits a woman
+keyword	based on novel
+cast	Paul Newman	Frank Galvin
+cast	Charlotte Rampling	Laura Fischer
+cast	Jack Warden	Mickey Morrissey
+cast	James Mason	Ed Concannon
+cast	Milo O'Shea	Judge Hoyle
+cast	Lindsay Crouse	Kaitlin Costello
+cast	Edward Binns	Bishop Brophy
+cast	Julie Bovasso	Maureen Rooney
+cast	Roxanne Hart	Sally Doneghy
+cast	James Handy	Kevin Doneghy
+cast	Wesley Addy	Dr. Towler
+cast	Joe Seneca	Dr. Thompson
+cast	Lewis J. Stadlen	Dr. Gruber
+cast	Kent Broadhurst	Joseph Alito
+cast	Colin Stinton	Billy
+cast	Burtt Harris	Jimmy - the Bartender
+cast	Scott Rhyne	Young Priest
+cast	Susan Benenson	Deborah Ann Kaye
+cast	Evelyn Moore	Dr. Gruber's Nurse
+cast	Juanita Fleming	Dr. Gruber's Maid
+cast	Jack Collard	Bailiff
+cast	Ralph Douglas	Clerk
+cast	Gregor Roy	Jury Foreman
+cast	John Blood	Funeral Director
+cast	Dick McGoldrick	Manager of 2nd Funeral Parlor
+cast	Edward Mason	Widow's Son
+cast	Patty O'Brien	Irish Nurse #1
+cast	Maggie Task	Irish Nurse #2
+cast	Joseph Bergmann	Friedman
+cast	Herbert Rubens	Abrams
+cast	J.P. Foley	John - Cigar Stand
+cast	Leib Lensky	Wheelchair Patient
+cast	H. Clay Dear	Courthouse Lawyer
+cast	J.J. Clark	Courthouse Guard
+cast	Gregory Doucette	Sheraton Bar Waiter
+cast	Tony La Fortezza	Sheraton Bartender
+cast	Marvin Beck	Sheraton Bar Patron
+cast	Herb Peterson	Sheraton Bar Patron
+cast	Tobin Bell	Courtroom Observer
+cast	Kevin Fennessy	Funeral Mourner
+cast	Willow Hale	
+cast	Jon Hopwood	Courtroom Observer
+cast	Cullen O. Johnson	Bailiff
+cast	Bruce Willis	Courtroom Observer

@@ -1,0 +1,249 @@
+year	2012
+imdb score	7.1
+meta score	86
+genre	Drama
+keyword	navy
+keyword	drifter
+keyword	charismatic leader
+keyword	cult
+keyword	right hand man
+keyword	cause
+keyword	female rear nudity
+keyword	bare breasts
+keyword	nuclear physicist
+keyword	writer
+keyword	religion
+keyword	posing for a portrait
+keyword	two word title
+keyword	playing bass violin
+keyword	men hugging
+keyword	sea
+keyword	wrestling
+keyword	riding a tricycle
+keyword	psychiatric evaluation
+keyword	poisoning
+keyword	picturing woman naked
+keyword	motorcycle riding
+keyword	erlenmeyer flask
+keyword	imagining someone naked
+keyword	1950s
+keyword	river boat
+keyword	locked in jail
+keyword	scientology
+keyword	past life
+keyword	control
+keyword	author
+keyword	sex obsession
+keyword	topless female nudity
+keyword	world war two veteran
+keyword	pregnant woman
+keyword	riding motorcycle
+keyword	clapping to music
+keyword	controversial
+keyword	manipulation
+keyword	world war two
+keyword	rorschach inkblot
+keyword	woman sand sculpture
+keyword	playing cello
+keyword	sex scene
+keyword	v j day
+keyword	religious cult
+keyword	coconut
+keyword	woman on top
+keyword	cabbage
+keyword	first love
+keyword	psychological testing
+keyword	woman wearing black lingerie
+keyword	70mm film
+keyword	sailor
+keyword	female frontal nudity
+keyword	alcoholic
+keyword	wedding
+keyword	black comedy
+keyword	older woman nude
+keyword	dream
+keyword	beach
+keyword	naked woman
+keyword	cult leader
+keyword	pubic hair
+keyword	rorschach test
+keyword	masturbation
+keyword	sand sculpture
+keyword	photographer
+keyword	pulling a man's neck tie
+keyword	husband wife relationship
+cast	Joaquin Phoenix	Freddie Quell
+cast	Price Carson	V.A. Doctor
+cast	Mike Howard	Rorschach Doctor
+cast	Sarah Shoshana David	V.A. Nurse
+cast	Bruce Goodchild	V.A. Doctor / Interview
+cast	Matt Hering	V.A. Patient
+cast	Dan Anderson	V.A. Patient
+cast	Andrew Koponen	V.A. Patient
+cast	Jeffrey W. Jenkins	V.A. Patient
+cast	Patrick Biggs	V.A. Patient
+cast	Ryan Curtis	V.A. Patient
+cast	Jay Laurence	V.A. Patient
+cast	Abraxas Adams	V.A. Patient
+cast	Tina Bruna	Portrait Customer
+cast	Kevin Hudnell	Portrait Customer
+cast	Hunter Craig	Portrait Customer
+cast	Ryder Craig	Portrait Customer
+cast	Rodion Salnikov	Portrait Customer
+cast	Emily Gilliam	Portrait Customer
+cast	Kody Klein	Portrait Customer
+cast	Amy Ferguson	Martha the Salesgirl
+cast	W. Earl Brown	Fighting Businessman
+cast	Frank Bettag	Frank
+cast	Ariel Felix	Filipino Worker
+cast	Vladimir Velasco	Filipino Worker
+cast	John Mark Reyes	Filipino Worker
+cast	Brian Fong	Filipino Worker
+cast	Diane Cortejo	Young Filipino Woman
+cast	Leonida A. Bautista	Nana
+cast	Myrna De Dios	Angry Filipino Woman
+cast	Katie Boland	Young Woman
+cast	Philip Seymour Hoffman	Lancaster Dodd
+cast	Amy Adams	Peggy Dodd
+cast	Jesse Plemons	Val Dodd
+cast	Ambyr Childers	Elizabeth Dodd
+cast	Rami Malek	Clark
+cast	Lorelai Hoey	Baby
+cast	Martin Dew	Norman Conrad
+cast	Joshua Close	Wayne Gregory
+cast	Jillian Bell	Susan Gregory
+cast	Kevin J. Walsh	Cliff Boyd
+cast	Lena Endre	Mrs. Solstad
+cast	Madisen Beaty	Doris Solstad
+cast	William O'Brien	Hiring Hall
+cast	Kevin J. O'Connor	Bill William
+cast	Patty McCormack	Mildred Drummond
+cast	Mimi Cozzens	Chi Chi Crawford
+cast	Zan Overall	Bartender
+cast	Barbara Brownell	Margaret O'Brien
+cast	Brady Rubin	Michelle Mortimer
+cast	Jill Andre	Beatrice Campbell
+cast	Brigitte Hagerman	New York Party Girl
+cast	Charley Morgan	New York Lawyer
+cast	Christopher Evan Welch	John More
+cast	Laura Dern	Helen Sullivan
+cast	Barlow Jacobs	James Sullivan
+cast	Gigi Benson	Dancer
+cast	Liz Clare	Dancer
+cast	Fiona Dourif	Dancer
+cast	Audrey Finer	Dancer
+cast	Rose Fox	Dancer
+cast	Baily Hopkins	Dancer
+cast	Mari Kearney	Dancer
+cast	Sarah Klaren	Dancer
+cast	Ally Johnson	Dancer
+cast	Brittany Kilcoyne McGregor	Dancer
+cast	LaRain Ring	Dancer
+cast	David Warshofsky	Philadelphia Police
+cast	Kimberly Ables Jindra	Processing Patient
+cast	Theo Crisell	Jail Bird
+cast	Thomas Knickerbocker	Judge
+cast	Eban Schletter	Band
+cast	Scott Rodgers	Band
+cast	Melora Walters	Band
+cast	Emily Jordan	British Receptionist
+cast	Amanda Caryn Jobbins	British Receptionist
+cast	Olivia Rosemarie Barham	Pub Customer
+cast	Napoleon Ryan	Pub Customer
+cast	Jennifer Neala Page	Winn Manchester
+cast	Mike Alfieri	Dock Worker
+cast	Christine Ames	Fervent Follower - Phoenix
+cast	Robert Amico	Farm Foreman
+cast	Stephen Anderson	Sailor
+cast	James Barbour	Master's Cadet
+cast	Brian Bell	Follower
+cast	Jonny Beltran	US Army Veteran
+cast	Matt Bingham	U.K. Student
+cast	Bill Blair	Man At the Bar
+cast	Denis Boulankine	NY Driver
+cast	Dan Brown	Navy Buddy
+cast	Phillip Caires	Sailor
+cast	Jonathan Carr	Sailor
+cast	Cabran E. Chamberlain	Ship Worker
+cast	Steve Chapman	Sailor
+cast	Scott Christy	Union Worker
+cast	Aaron B.W. Collins	Hiring Hall Worker
+cast	Clint Corley	Follower
+cast	Nick Corvello	WWII US Navy Veteran
+cast	Conner Cousins	Follower
+cast	Zachary Culbertson	Naval Patient
+cast	Thomas Dalby	Dock Worker
+cast	Andy Dale	Pub Patron
+cast	Seth Donavan	Veteran
+cast	Kay Ewing Donato	Follower
+cast	Aaron Farb	
+cast	Cathy Fielding	Peterson's Department Store Clerk
+cast	Chanon Finley	Girl in Back of Car
+cast	Jasmine Fletcher	Follower
+cast	Joe Foley	Phoenix Follower
+cast	Shannon Freyer	Ellen
+cast	Martin Gagen	Follower
+cast	Kerry Goodwin	Phoenix Follower
+cast	Olesya Grushko	Bikini Girl
+cast	Jim Gunter	V.A. Patient
+cast	Talaria Haast	Core Follower
+cast	Courtney Howard	Phoenix Follower
+cast	Dale Richard Howard	Court Observer
+cast	Brian Jagger	New York Dock Greeter
+cast	Christina Jo'Leigh	Capwell's Bridal Consultant
+cast	Keenan Johnston	Bosun's Mate Johnson
+cast	Franklin Dennis Jones	Judge
+cast	Veronika Kurshinskaya	Dancer / Party Guest / Cause Volunteer
+cast	Terry Lane	Hiring Hall Dispatcher
+cast	Mark Lavell	Dockworker
+cast	Darren Le Gallo	Master's Dinner Guest
+cast	Paul Loverde	Follower
+cast	Josh Margulies	Joey
+cast	Carl Marino	NY Dock Worker
+cast	Richard Markman	Party Guest posing for photo w / The Master and wife
+cast	Dennis Mattai	Phoenix Follower
+cast	John Mawson	Phoenix Businessman
+cast	Ray Medved	Dock Worker
+cast	Jesse Muick	Dock Worker
+cast	Lourdes Nadres	Filipino
+cast	Rene Napoli	Shady the Bookie
+cast	Stephane Nicoli	Cult Follower
+cast	Andrew Nitzke	Soldier
+cast	Jefferson Nogueira	Phoenix Follower
+cast	Brendan Norman	Sailor
+cast	Montgomery Paulsen	Dock Worker
+cast	David Alan Poe	Hall Hiree
+cast	Allen Pontes	Boston Dock Worker
+cast	Heather Power	Student
+cast	Mike Jerome Putnam	Lead Department Store Guard
+cast	Jeff Rankin	Dock Worker
+cast	Raul Reformina	Farmer
+cast	Linda Revelli	Follower
+cast	Alexandra Tejeda Rieloff	Party Guest
+cast	Mark Roman	Follower
+cast	Vanessa Ross	USO Girl
+cast	Timothy D. Rossi	Follower
+cast	Harold Rudolph	Philadelphia Follower
+cast	Franklin Ruehl	Follower
+cast	Dylan Saccoccio	Lancaster Dodd Partisan
+cast	Andrew Schlessinger	Andrew
+cast	Joseph R Scott	Navy Corpsman
+cast	Joel Shock	Master's Cadet
+cast	Matthew Skomo	Navy XO
+cast	Adam C Smith	Follower
+cast	Bradley E. Smith	NY Dock Worker
+cast	Jesse Soares	US Army Veteran
+cast	Arne Starr	Core Follower
+cast	Kate Stewart	Follower
+cast	Thomas W. Stewart	Follower
+cast	Kellog Stover	Follower
+cast	Michael A. Templeton	Follower Dancing
+cast	Jude Thomas	Soldier
+cast	John H. Tobin	Follower
+cast	Najarra Townsend	Sales Girl
+cast	Ian Trottier	New Hire
+cast	Darrin Vanderpan	Hiring Hall Worker
+cast	Ken Venzke	Boston Dock Worker
+cast	Leah Verrill	Stripper
+cast	Bryan Westfall	Follower
+cast	Steven Wiig	Philadelphia Follower

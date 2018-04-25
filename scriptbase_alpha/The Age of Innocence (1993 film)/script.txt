@@ -1,0 +1,3836 @@
+Age of Innocence, The (1993) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Age of Innocence, The (1993) movie scriptby Jay Cocks.Based on the novel by Edith Wharton.Transcript.
+More info about this movie on IMDb.com
+
+
+[At the Theatre in the evening. Newland Archer enters the box. 
+Steps to the front, joining the company of several men, including 
+Larry Lefferts and Sillerton Jackson. Larry looks at stage 
+through pearl opera glasses. Then he swings his opera glasses 
+away from the stage and toward another box. He sees the figure of 
+a woman entering a box across the way. Although the woman, 
+silhouetted against candles, is still indistinct and mysterious 
+to us, he recognizes her and reacts with controlled surprise]  
+
+LEFFERTS
+Well.   
+
+JACKSON
+I didn't think the Mingotts would have tried it on.   
+
+LEFFERTS
+Parading her at the opera like that. Sitting her next to May 
+Welland. It's all very odd.   
+
+JACKSON
+Well, she's had such an odd life.   
+
+LEFFERTS
+Will they even bring her to the Beauforts' ball, do you suppose?   
+
+JACKSON
+If they do, the talk will be little else.   
+
+[Archer looks at his companions in the box with just a suggestion 
+of impatience. Then he turns and leaves]  
+
+[Archer goes to the box where May Welland is]  
+
+ARCHER
+May. Mrs.  Welland. Good evening.   
+
+MRS.  WELLAND
+Newland. You know my niece Countess Olenska.   
+
+[Archer bows with the suggestion of reserve. Countess Olenska 
+replies with a nod.  Newland sits beside May and speaks softly]  
+
+ARCHER
+I hope you've told Madame Olenska.   
+
+MAY
+(teasing)
+
+What?   
+
+ARCHER
+That we're engaged. I want everybody to know. Let me announce it 
+this evening atthe ball.   
+
+MAY
+If you can persuade Mamma. But why should we change what is 
+already settled?   
+
+[Archer has no answer for this that is appropriate for this time 
+and place. May senses his frustration and adds, smiling. . . ]  
+
+MAY
+But you can tell my cousin yourself. She remembers you.   
+
+ELLEN
+(Countess Olenska)
+
+I remember we played together. Being here again makes me remember 
+so much.   
+
+[She gestures out across the theatre]  
+
+ELLEN
+I see everybody the same way, dressed in knickerbockers and 
+pantalettes.   
+
+[Archers sits beside her]  
+
+ELLEN
+You were horrid. You kissed me once behind a door. But it was 
+your cousin Vandy,the one who never looked at me, I was in love 
+with.   
+
+ARCHER
+Yes, you have been away a very long time.   
+
+ELLEN
+Oh, centuries and centuries. So long I'm sure I'm dead and 
+buried, and this dearold place is heaven.   
+
+[As they end, the voice of the narrator fades up]  
+
+[In another box, Mrs.  Julius Beaufort
+(Regina)
+ draws up her opera cloak about her shoulders. As she does this 
+and leaves the box, we hear. . . ]  
+
+NARRATOR
+It invariably happened, as everything happened in those days, in 
+the same way. Asusual, Mrs.  Julius Beaufort appeared just before 
+the Jewel Song and, again as usual,rose at the end of the third 
+act and disappeared. New York then knew that, ahalf-hour later, 
+her annual opera ball would begin.   
+
+[Street outside the theatre
+(14th Street)
+ at night. A line of carriages drawn up in front of the Academy 
+of Music. Mrs.  Beaufort climbs in a carriage at the front of the 
+line and drives away]  
+
+NARRATOR
+Carriages waited at the curb for the entire performance. It was 
+widely known in NewYork, but never acknowledged, that Americans 
+want to get away from amusement evenmore quickly than they want 
+to get to it.   
+
+[Ballroom at the Beaufort House]  
+
+NARRATOR
+The Beauforts' house was one of the few in New York that 
+possessed a ballroom. Sucha room, shuttered in darkness three 
+hundred and sixty-four days of the year, wasfelt to compensate 
+for whatever was regrettable in the Beaufort past. ReginaBeaufort 
+came from an old South Carolina family, but her husband Julius, 
+who passedfor an Englishman, was known to have dissipated habits, 
+a bitter tongue andmysterious antecedents. His marriage assured 
+him a social position, but notnecessarily respect.   
+
+[Ballroom at the Beaufort House during the ball. An orchestra 
+plays and dancers swoop by.  Archer enters and hands his cape and 
+hat to a servant, greets another guest and accepts several pair 
+of dancing gloves. Archer climbs the stairs and greets Regina 
+Beaufort]  
+
+NARRATOR
+The house had been boldly planned. Instead of squeezing through a 
+narrow passage toget to the ballroom one marched solemnly down a 
+vista of enfiladed drawing roomsseeing from afar the many-candled 
+lusters reflected in the polished parquetry andbeyond that the 
+depths of a conservatory where camellias and tree ferns arched 
+theircostly foliage over seats of black and gold bamboo. But only 
+by actually passingthrough the crimson drawing room could one see 
+"Return of Spring," themuch-discussed nude by Bougeureau, which 
+Beaufort had had the audacity to hang inplain sight. Archer had 
+not gone back to his club after the Opera, as young menusually 
+did, but had walked for some distance up Fifth Avenue before 
+turning back inthe direction of the Beauforts'. He was definitely 
+afraid that the family might begoing too far and would bring the 
+Countess Olenska. He was more than everdetermined to "see the 
+thing through," but he felt less chivalrously inclined todefend 
+the Countess after their brief talk at the opera.   
+
+[Archer enters the ballroom. The first man he sees is Larry 
+Lefferts, deep in conversation with an attractive young woman]  
+
+NARRATOR
+On the whole, Lawrence Lefferts was the foremost authority on 
+"form" in New York. On the question of pumps versus patent-
+leather Oxfords, his authority had never beendisputed.   
+
+[Archer continues through the party. Holding court and amusing a 
+group of older women is Sillerton Jackson]  
+
+NARRATOR
+Old Mr.  Sillerton Jackson was as great an authority on "family" 
+as Lawrence Leffertswas on "form. "In addition to a forest of 
+family trees, he carried a register ofthe scandals and mysteries 
+that had smouldered under the unruffled surface ofsociety for the 
+past fifty years.   
+
+[Archer continues moving throught he party. Julius Beaufort 
+crosses in front him, conversing with a guest]  
+
+GUEST
+(in mid-discussion)
+
+But I didn't see you there this evening. Madame Nilsson was in 
+such splendid voice.   
+
+BEAUFORT
+(snide)
+
+The usual splendor, I'm sure.   
+
+NARRATOR
+Julius Beaufort had speedily made a name for himself in the world 
+of affairs. Hissecret, all were agreed, was the way he carried 
+things off. His social obligationsand the rumors that perpetually 
+swirled around him, all were borne easily beforehim.   
+
+[May Welland is surrounded by gleeful friends who are obviously 
+reacting to her engagement announcement. Archer and May are in 
+another room behind a tall screen of ferns and camellias. Archer 
+kisses May's hand]  
+
+MAY
+You see, I told all my friends. Just as you asked.   
+
+ARCHER
+Yes, I couldn't wait. Only wish it hadn't had to be at a ball.   
+
+MAY
+Yes, I know. But after all, even here we're alone together aren't 
+we?   
+
+ARCHER
+Always. The worst of it is. . .   
+
+[He takes a quick look around the room
+ no one's nearby]  
+
+ARCHER
+. . . that I want to kiss you and I can't.   
+
+[He does it anyways which pleasure and surprises May. They walk 
+to a sofa, which affords a bit of privacy, and sit]  
+
+MAY
+Did you tell Ellen, as I asked you?   
+
+ARCHER
+No. I didn't have the chance after all.   
+
+MAY
+She's my cousin, if others know before she does. . . It's just 
+that she's been away forso long that she's rather sensitive.   
+
+ARCHER
+Of course I'll tell her, dearest. But I haven't seen her yet.   
+
+MAY
+She decided not to come at the last minute.   
+
+ARCHER
+At the last minute?   
+
+MAY
+She was afraid her dress wasn't smart enough. We all thought it 
+was so lovely, butshe asked my aunt to take her home.   
+
+ARCHER
+Oh well.   
+
+[Archer smiles, May smiles back. They get up and go back to the 
+ballroom to dance]  
+
+[In a sitting room the next day. Mrs.  Manson Mingott is admiring 
+a large thick sapphire set in invisible claws]  
+
+MRS.  MINGOTT
+Very handsome. Very liberal. In my time a cameo set in pearls was 
+thought to besufficient.   
+
+MRS.  WELLAND
+It's the new setting. Of course it shows the stone beautifully, 
+but it looks bareold-fashioned eyes.   
+
+MRS.  MINGOTT
+I hope you don't mean mine, my dear. I like all the novelties. 
+But it's the handthat sets off the ring, isn't it, my dear Mr.  
+Archer? My hands were modeled inParis by the great Rochee. He 
+should do May's.   
+
+[She reaches out for May's hand]  
+
+MRS.  MINGOTT
+Her hand is tempered. It's these modern sports that spread the 
+joints. But theskin is white.
+(staring straight at Archer)
+
+And when's the wedding to be?   
+
+MRS.  WELLAND
+(a little flustered)
+
+Oh. . .   
+
+ARCHER
+(jumping in)
+
+As soon as ever it can. If only you'll back me up, Mrs.  Mingott.   
+
+MRS.  WELLAND
+(recovering)
+
+We must give them time to know each other a little better, mamma.   
+
+MRS.  MINGOTT
+Know each other? Everybody in New York has always known 
+everybody. Don't wait tillthe bubble's off the wine. Marry them 
+before Lent. I may catch pneumonia anywinter now, and I want to 
+give the wedding breakfast.   
+
+NARRATOR
+Mrs.  Manson Mingott was, of course, the first to receive the 
+required betrothalvisit. Much of New York was already related to 
+her, and she knew the remainder bymarriage or by reputation. 
+Though brownstone was the norm, she lived magisteriallywithin a 
+large house of controversial pale cream-colored stone, in an 
+inaccessiblewilderness near the Central Park.   
+
+NARRATOR
+The burden of her flesh had long since made it impossible for her 
+to go up and downstairs. So with characteristic independence she 
+had established herself on theground floor of her house. From her 
+sitting room, there was an unexpected vista ofher bedroom.   
+
+NARRATOR
+Her visitors were startled and fascinated by the foreignness of 
+this arrangement,which recalled scenes in French fiction. This 
+was how women with lovers lived inthe wicked old societies. But 
+if Mrs.  Mingott had wanted a lover, the intrepidwoman would have 
+had him too.   
+
+NARRATOR
+But she was content, at this moment in her life, simply to sit in 
+a window of hersitting room, waiting calmly for life and fashion 
+to flow northward to her solitarydoors, for her patience was 
+equalled by her confidence.   
+
+[Archer, May and Mrs.  Welland are saying their goodbyes as they 
+get ready to leave. Ellen Olenska and Julius Beaufort enter as 
+they leave]  
+
+MRS.  MINGOTT
+Beaufort!This is a rare favor.   
+
+BEAUFORT
+Unnecessarily rare, I'd say. But I met Countess Ellen in Madison 
+Square, and shewas good enough to let me walk home with her.   
+
+MRS.  MINGOTT
+This house will be merrier now that she's here. Push up that 
+tuffet. I want a goodgossip.   
+
+[Ellen looks at Archer with a questioning smile]  
+
+ARCHER
+(laughing shyly)
+
+Of course you already know. About May and me. She scolded me for 
+not telling youat the opera.   
+
+ELLEN
+Of course I know. And I'm so glad. One doesn't tell such news 
+first in a crowd.   
+
+[Ellen hols her hand out to Archer]  
+
+ELLEN
+Good-bye. Come and see me some day.   
+
+[Outside the Mingott House. Archer follows May and her mother 
+into their waiting carriage]  
+
+MRS.  WELLAND
+It's a mistake for Ellen to be seen parading up Fifth Avenue with 
+Julius Beaufort atthe crowded hour. The very day after her 
+arrival.   
+
+[The carriage pulls away from the curb]  
+
+[Dining Room at the Archer House in the evening. Archer is having 
+dinner with his mother Adeline, sister Janey and Sillerton 
+Jackson]  
+
+NARRATOR
+Mrs.  Archer and her daughter Janey were both shy women and 
+shrank from society. Butthey liked to be well informed of its 
+doings.   
+
+JACKSON
+(in the midst of holding forth)
+
+Certain nuances escape Beaufort.   
+
+MRS.  ARCHER
+Oh, necessarily. Beaufort is a vulgar man.   
+
+ARCHER
+Nevertheless, no business nuances escape him. Most of New York 
+trusts him with itsaffairs.   
+
+MRS.  ARCHER
+My grandfather Newland always used to say to mother, "Don't let 
+that fellow Beaufortbe introduced to girls. "But at least he's 
+had the advantage of associating withgentlemen. Even in England, 
+they say. It's all very mysterious.   
+
+NARRATOR
+As far back as anyone could remember, New York had been divided 
+into two great clans. Among the Mingotts you could dine on 
+canvasback duck, terrapin and vintage wines.  At the Archers, you 
+could talk about Alpine scenery and "The Marble Faun" but receive 
+tepid Veuve Cliquot without a year and warmed-up croquettes from 
+Philadelphia.   
+
+JANEY
+And the Countess Olenska. . . was she at the ball too?   
+
+MRS.  ARCHER
+I appreciate the Mingotts wanting to support her, and have her at 
+the opera. Iadmire their esprit de corps. But why my son's 
+engagement should be mixed up withthat woman's comings and goings 
+I don't see.   
+
+JACKSON
+Well, in any case, she was not at the ball.   
+
+MRS.  ARCHER
+At least she had that decency.   
+
+[Jackson glances at the portraits of the Archer family 
+antecedents on the wall, and fixes on one of a well-fed, slightly 
+flush older man. He looks over at Archer, who is watching him 
+with bemused understanding]  
+
+JACKSON
+(can't resist)
+
+Ah, how your grandfather appreciated a good meal, Newland.   
+
+JANEY
+I wonder if she wears a round hat or a bonnet in the afternoon. 
+The dress she woreto the opera was so plain and flat. . .   
+
+MRS.  ARCHER
+Yes, I'm sure it was in better taste not to go to the ball.   
+
+ARCHER
+I don't think it was a question of taste, mother. May said the 
+countess decided herdress wasn't smart enough.   
+
+MRS.  ARCHER
+Poor Ellen. We must always remember what an eccentric bringing-up 
+Medora Mansongave her. What can you expect of a girl who was 
+allowed to wear black satin at hercoming-out ball?   
+
+JANEY
+It's odd she should have kept such an ugly name as Ellen when she 
+married the Count. I should have changed it to Elaine.   
+
+ARCHER
+Why?   
+
+JANEY
+I don't know. It sounds more. . . Polish.   
+
+MRS.  ARCHER
+It certainly sounds more conspicuous. And that can hardly be what 
+she wishes.   
+
+ARCHER
+(argumentative)
+Why not? Why shouldn't she be conspicuous if she chooses? She 
+made an awfulmarriage, but should she hide her head as if it were 
+her fault? Should she goslinking around as if she'd disgraced 
+herself? She's had an unhappy life, but thatdoesn't make her an 
+outcast.   
+
+JACKSON
+I'm sure that's the line the Mingotts mean to take.   
+
+ARCHER
+I don't have to wait for their cue, if that's what you mean, sir.   
+
+MRS.  ARCHER
+(trying to cool things out)
+I'm told she's looking for a house. She means to live here.   
+
+JANEY
+I hear she means to get a divorce.   
+
+ARCHER
+I hope she will.   
+
+[In the study at the Archer House. Jackson and Archer light up 
+cigars]  
+
+JACKSON
+There are the rumors, too.   
+
+ARCHER
+I've heard them. About the secretary?   
+
+JACKSON
+He helped her get away from the husband. They say the Count kept 
+her practically aprisoner.
+(shrugs)
+Certainly, the Count had his own way of life.   
+
+ARCHER
+You knew him?   
+
+JACKSON
+I heard of him at Nice. Handsome, they say, but eyes with a lot 
+of lashes. When hewasn't with women he was collecting china. 
+Paying any price for both, I understand.   
+
+ARCHER
+Then where's the blame? Any one of us, under the same 
+circumstances, would havehelped the Countess, just as the 
+secretary did.   
+
+JACKSON
+He was still helping her a year later, then, because somebody met 
+them livingtogether at Lausanne.   
+
+ARCHER
+(reddening slightly)
+Living together? Well why not? Who has the right to make her life 
+over if shehasn't? Why should we bury a woman alive if her 
+husband prefers to live withwhores?   
+
+JACKSON
+Oh, it's hardly a question of entombment. The Countess is here, 
+after all. Or doyou believe that women should share the same 
+freedoms as men?   
+
+ARCHER
+(with some force)
+I suppose I do. Yes, I do.   
+
+JACKSON
+Well, apparently Count Olenski also takes a similarly modern 
+view. I've never heardof him lifting a finger to get his wife 
+back.   
+
+[Montage. Of heavy vellum envelopes, written in beautiful 
+calligraphy, being passed from hand to hand and delivered on 
+silver plates; of invitations being drawn from the envelopes]  
+
+NARRATOR
+Three days later, the unthinkable happened. Mrs.  Manson Mingott 
+sent outinvitations summoning everyone to a "formal dinner. "Such 
+an occasion demanded themost careful consideration. It required 
+the appropriate plate. It also called forthree extra footmen, two 
+dishes for each course and a Roman punch in the middle. The 
+dinner, New York read on the invitation, was "to meet the 
+Countess Olenska. "And New York declined.   
+
+[Drawing room at the Archer house during the day]  
+
+MRS.  ARCHER
+"Regret. ""Unable to accept. "Without a single explanation or 
+excuse. Even someof our own. No one even cares enough to conceal 
+their feeling about the Countess. This is a disgrace. For our 
+whole family. And an awful blow to Catherine Mingott.   
+
+NARRATOR
+They all lived in a kind of hieroglyphic world. The real thing 
+was never said ordone or even thought, but only represented by a 
+set of arbitrary signs. These signswere not always subtle, and 
+all the more significant for that. The refusals weremore than a 
+simple snubbing. They were an eradication.   
+
+MRS.  ARCHER
+Don't tell me all this modern newspaper rubbish about a New York 
+aristocracy. Thiscity has always been a commercial community, and 
+there are not more than threefamilies in it who can claim an 
+aristocratic origin in the real sense of the word. Even dear Mr.  
+Welland made his money in enterprise. So.
+(looking at them with resolution)
+We will take up this matter with the van der Luydens.   
+
+[She starts for the door]  
+
+MRS.  ARCHER
+You should come with me, Newland. Louisa van der Luyden is fond 
+of you, and ofcourse it's on account of May we're doing this.   
+
+ARCHER
+Of course.   
+
+MRS.  ARCHER
+If we don't all stand together, there'll be no such thing as 
+society left.   
+
+[in the Drawing room at the van der Luyden House. Henry and 
+Louisa van der Luyden are sitting with Newland and his mother]  
+
+HENRY
+And all this, you think, was due to some intentional interference 
+by. . .   
+
+ARCHER
+. . . Larry Lefferts, yes sir. I'm certain of it.   
+
+LOUISA
+But why?   
+
+ARCHER
+Well. Excuse me but. . .   
+
+LOUISA
+Please, go on.   
+
+ARCHER
+Larry's been going it harder than usual lately. Some service 
+person in theirvillage or someone, and it's getting noticed. 
+Whenever poor Gertrude Leffertsbegins to suspect something about 
+her husband, Larry starts making some greatdiversionary fuss to 
+show how moral he is. He's simply using Countess Olenska as 
+alightning rod.   
+
+LOUISA
+Extraordinary.   
+
+HENRY
+Not at all, my dear, I'm afraid.   
+
+MRS.  ARCHER
+We all felt this slight on the Countess should not pass without 
+consulting you.   
+
+HENRY
+Well, it's the principle that I dislike. I mean to say, as long 
+as a member of awell-known family is backed by that family, it 
+should be considered final.   
+
+LOUISA
+It seems so to me.   
+
+HENRY
+So with Louisa's permission. . . and with Catherine Mingott's, of 
+course. . . we aregiving a little dinner for our cousin the Duke 
+of St.  Austrey, who arrives next weekon the Russia. I;m sure 
+Louisa will be glad as I am if Countess Olenska willlet us 
+include her among our guests.   
+
+[In the hallway and drawing room at the van der Luyden House]  
+
+NARRATOR
+The occasion was a solemn one and the Countess Olenska arrived 
+rather late. Yet sheentered without any appearance of haste or 
+embarrassment the drawing room in whichNew York's most chosen 
+company was somewhat awfully assembled.   
+
+[Servants open the drawing room doors for Ellen. Henry and Louisa 
+van der Luyden bring Ellen around the room making introductions. 
+]  
+
+[In the dining room at the van der Luyden House]  
+
+NARRATOR
+The van der Luydens stood above all the city's families. They 
+dwelled in a kind ofsuper-terrestrial twilight, and dining with 
+them was at best no light matter. Dining there with a Duke who 
+was their cousin was almost a religious solemnity. TheTrevenna 
+George II plate was out. So was the van der Luyden Lowestoft, 
+from theEast India Company, and the Dagonet Crown Derby. When the 
+van der Luydens chose,they knew how to give a lesson.   
+
+[In the drawing room at the van der Luyden House. Ellen Olenska 
+is having a conversation with the Duke as Archer watches. Ellen 
+then gets up and approaches Archer]  
+
+NARRATOR
+It was not the custom in New York drawing rooms for a lady to get 
+up and walk awayfrom one gentleman in order to seek the company 
+of another. But the Countess didnot observe this rule.   
+
+ELLEN
+I want you to talk to me about May.   
+
+ARCHER
+You knew the Duke before?   
+
+ELLEN
+From Nice. We used to see him every winter. He's very fond of 
+gambling and used tocome to our house a great deal. I think he's 
+the dullest man I ever met. But he'sadmired here. I suppose he 
+must seem the very image of traditional Europe. Can Itell you, 
+though. . .
+(mock conspiratorial)
+. . . what most interests me about New York? It's that nothing 
+has to be traditionalhere. All this blind obeying of tradition. . 
+. somebody else's tradition. . . isthoroughly needless. It seems 
+stupid to have discovered America only to make it acopy of 
+another country. Do you suppose Christopher Columbus would have 
+taken allthat trouble just to go to the opera with Larry 
+Lefferts?   
+
+ARCHER
+(laughs)
+I think if he knew Lefferts was here the Santa Maria would never 
+have leftport.   
+
+ELLEN
+And May. Does she share these views?   
+
+ARCHER
+If she does, she'd never say so.   
+
+ELLEN
+Are you very much in love with her?   
+
+ARCHER
+As much as a man can be.   
+
+ELLEN
+Do you think there's a limit?   
+
+ARCHER
+If there is, I haven't found it.   
+
+ELLEN
+Ah, it's really and truly a romance, then. Not in the least 
+arranged.   
+
+ARCHER
+Have you forgotten? In our country we don't allow marriages to be 
+arranged.   
+
+ELLEN
+Yes, I forgot, I'm sorry, I sometimes make these mistakes. I 
+don't always rememberthat everything here is good that was. . . 
+that was bad where I came from.   
+
+ARCHER
+I'm so sorry. But you are among friends here, you know.   
+
+ELLEN
+Yes, I know. That's why I came home.   
+
+[May and her mother enter the room]  
+
+ELLEN
+You'll want to be with May.   
+
+ARCHER
+(looking at the men around May)
+She's already surrounded. I have so many rivals.   
+
+ELLEN
+Then stay with me a little longer.   
+
+ARCHER
+Yes.   
+
+[They are interrupted by Henry van der Luyden and a guest]  
+
+HENRY
+Countess, if I may. Mr.  Urban Dagonet.   
+
+[Archer gets up to leave and Ellen holds her hand out to him]  
+
+ELLEN
+Tomorrow then. After five. I'll expect you.   
+
+ARCHER
+Tomorrow.   
+
+[Louisa joins Archer]  
+
+LOUISA
+It was good of you to devote yourself to Madame Olenska so 
+unselfishly, dearNewland. I told Henry he really must rescue you. 
+I think I've never seen Maylooking lovelier. The Duke thinks her 
+the handsomest woman in the room.   
+
+[In the drawing room at Ellen's house the next day. Archer is 
+waiting for Ellen to return]  
+
+MAID
+Verra, verra.   
+
+[A carriage with Julius Beaufort and the Countess arrives and the 
+Countess gets out and enters the house]  
+
+ELLEN
+Do you like this odd little housoe? To me it's like heaven.   
+
+ARCHER
+(reaching for the right compliment)
+You've arranged it delightfully.   
+
+ELLEN
+Yes. Some of the things I managed to bring with me. Little pieces 
+of wreckage. Atleast it's less gloomy than the van der Luydens', 
+and not so difficult to be alone.   
+
+ARCHER
+(smiles)
+I'm sure it's often thought the van der Luydens' is gloomy, 
+though I've never heardit said before. But do you really like to 
+be alone?   
+
+ELLEN
+As long as my friends keep me from being lonely.   
+
+[She sits near the fire and motions him to sit in an armchair 
+near where he's standing]  
+
+ELLEN
+I see you've already chosen your corner. This is the hour I like 
+best, don't you?   
+
+ARCHER
+I was afraid you'd forgotten the hour. I'm sure Beaufort can be 
+very intriguing.   
+
+ELLEN
+He took me to see some houses. I'm told I must move, even though 
+this street seemsperfectly respectable.   
+
+ARCHER
+Yes, but it's not fashionable.   
+
+ELLEN
+Is fashion such a serious consideration?   
+
+ARCHER
+Among people who have nothing more serious to consider.   
+
+ELLEN
+And how would these people consider my street?   
+
+ARCHER
+(lightly, disparagingly)
+Oh, well, fleetingly, I'm afraid. Look at your neighbors. 
+Dressmakers. Birdstuffers. Cafe owners.   
+
+ELLEN
+(smiling)
+I'll count on you to always let me know about such important 
+things.   
+
+ARCHER
+The van der Luydens do nothing by halves. All New York laid 
+itself out for you lastnight.   
+
+ELLEN
+It was so kind. Such a nice party.   
+
+[Archer wants to impress on her the importance of the van der 
+Luydens' gesture]  
+
+ARCHER
+The van der Luydens are the most powerful influence in New York 
+society. And theyreceive very seldom, because of cousin Louisa's 
+health.   
+
+ELLEN
+Perhaps that's the reason then.   
+
+ARCHER
+The reason?   
+
+ELLEN
+For their influence. They make themselves so rare.   
+
+[Her observation intrigues him.   
+
+ELLEN
+But of course you must tell me.   
+
+ARCHER
+No, it's you telling me.   
+
+ELLEN
+Then we can both help each other. Just tell me what to do.   
+
+ARCHER
+There are so many people already to tell you what to do.   
+
+ELLEN
+They're all a little angry with me, I think. For setting up for 
+myself.   
+
+ARCHER
+Still, your family can advise you. . . show you the way.   
+
+ELLEN
+Is New York such a labyrinth? I thought it was so straight up and 
+down, like FifthAvenue, with all the cross-streets numbered and 
+big honest labels on everything.   
+
+ARCHER
+Everything is labeled. But everybody is not.   
+
+ELLEN
+There are only two people here who make me think they can help 
+and understand. Youand Mr.  Beaufort.   
+
+ARCHER
+(reacts to mention of Beaufort)
+I understand. Just don't let go of your old friends' hands so 
+quickly.   
+
+ELLEN
+Then I must count on you for warnings, too.   
+
+ARCHER
+All the older women like and admire you. They want to help.   
+
+ELLEN
+Oh, I know, I know. But only if they don't hear anything 
+unpleasant. Does no onehere want to know the truth, Mr.  Archer? 
+The real loneliness is living among allthese kind people who only 
+ask you to pretend.   
+
+[She puts her hands to her face and sobs. Archer goes to her 
+quickly, bending over her]  
+
+ARCHER
+No, no, you musn't. Madame Olenska. Ellen.   
+
+ELLEN
+No one cries here, either? I suppose there's no need to.   
+
+[On the street near a florist shop. Archer is walking home from 
+Ellen's and enters the flower shop]  
+
+FLORIST
+Oh, Mr.  Archer, good evening. We didn't see you this morning, 
+and weren't surewhether to send Miss Welland the usual. . .   
+
+ARCHER
+The lilies-of-the-valley, yes. We'd better make it a standing 
+order.   
+
+[He notices a cluster of yellow roses]  
+
+ARCHER
+And those roses. I'll give you another address.   
+
+[He draws out a card and places it inside the envelope, on which 
+he starts to write Ellen's name and address. He stops and removes 
+his card and hands the clerk an empty envelope]  
+
+ARCHER
+They'll go at once?   
+
+[At the aviary the next day]  
+
+MAY
+It's wonderful to wake every morning with lilies-of-the-valley in 
+my room. It'slike being with you.   
+
+ARCHER
+They came late yesterday, I know. Somehow the time got away from 
+me.   
+
+MAY
+Still, you always remember.   
+
+ARCHER
+I sent some roses to your cousin Ellen, too. Was that right?   
+
+MAY
+Very right. She didn't mention it at lunch today, though. She 
+said she'd gottenwonderful orchids from Mr.  Beaufort and a whole 
+hamper of carnations from CousinHenry van der Luyden. She was so 
+very delighted. Don't people send flowers inEurope?   
+
+[Later in the aviary]  
+
+MAY
+Well, I know you do consider it a long time.   
+
+ARCHER
+Very long.   
+
+MAY
+But the Chivers were engaged for a year and a half. Larry 
+Lefferts and Gertrudewere engaged for two. I'm sure Mama expects 
+something customary.   
+
+ARCHER
+Ever since you were little your parents let you have your way. 
+You're almosttwenty-two. Just tell your mother what you want.   
+
+MAY
+But that's why it would be so difficult. I couldn't refuse her 
+the very last thingshe'd ever ask of me as a little girl.   
+
+ARCHER
+Can't you and I just strike out for ourselves, May?   
+
+MAY
+(laughing lightly)
+Shall we elope?   
+
+ARCHER
+If you would.   
+
+MAY
+You do love me, Newland. I'm so happy.   
+
+ARCHER
+Why not be happier?   
+
+MAY
+I couldn't be happier, dearest. Did I tell you I showed Ellen the 
+ring you chose? She thinks it's the most beautiful setting she 
+ever saw. She said there was nothinglike it in the rue de la 
+Paix. I do love you, Newland. Everything you do is sospecial.   
+
+[Inside the dining room at the Letterblair House that night]  
+
+LETTERBLAIR
+Countess Olenska wants to sue her husband for divorce. It's been 
+suggested that shemeans to marry again, although she denies it.   
+
+ARCHER
+I beg your pardon, sir. But because of my engagement, perhaps one 
+of the othermembers of our firm could consider the matter.   
+
+LETTERBLAIR
+But precisely because of your prospective alliance. . . and 
+considering that severalmembers of the family have already asked 
+for you. . . I'd like you to consider thecase.   
+
+ARCHER
+It's a family matter. Perhaps, it's best settled by the family.   
+
+LETTERBLAIR
+Oh their position is clear. They are entirely, and rightly, 
+against a divorce. ButCountess Olenska still insists on a legal 
+opinion. But really, what's the use of adivorce? She's here, he's 
+there and the whole Atlantic's between them. As thingsgo, 
+Olenski's acted generously. He's already returned some of her 
+money withoutbeing asked. She'll never get a dollar more than 
+that. Although I understand sheattaches no importance to the 
+money, other than the support it provides for MedoraManson. 
+Considering all that, the wisest thing really is to do as the 
+family says. Just let well enough alone.   
+
+ARCHER
+I think that's for her to decide.   
+
+[In the library at the Letterblair House]  
+
+LETTERBLAIR
+Have you considered the consequences if the Countess decides for 
+divorce?   
+
+ARCHER
+Consequences for the Countess?   
+
+LETTERBLAIR
+For everyone.   
+
+ARCHER
+I don't think the Count's accusations amount to anything more 
+than vague charges.   
+
+LETTERBLAIR
+It will make for some talk.   
+
+ARCHER
+Well I have heard talk about the Countess and her secretary. I 
+heard it even beforeI read the legal papers.   
+
+LETTERBLAIR
+It's certain to be unpleasant.   
+
+ARCHER
+Unpleasant!  
+
+LETTERBLAIR
+Divorce is always unpleasant. Don't you agree?   
+
+ARCHER
+Naturally.   
+
+LETTERBLAIR
+Then I can count on you. The family can count on you. You'll use 
+you influenceagainst the divorce?   
+
+ARCHER
+I can't promise that. Not until I see the Countess.   
+
+LETTERBLAIR
+I don't understand you, Mr.  Archer.   
+
+[Archer pulls out one of his cards and starts to write a message 
+on the back]  
+
+LETTERBLAIR
+Do you want to marry into a family with ascandalous divorce suit 
+hanging over it?   
+
+ARCHER
+I don't think that has anything to do with the case.   
+
+[Archer finishes the note]  
+
+ARCHER
+Can someone take this for me, please. To the Countess.   
+
+[In the foyer at Ellen's house. Ellen and Julius Beaufort enter 
+from the drawing room]  
+
+BEAUFORT
+Three days at Skuytercliff with the van der Luydens? You'd better 
+take your fur anda hot water bottle.   
+
+ELLEN
+Is the house that cold?   
+
+BEAUFORT
+No, but Louisa is. Join me at Delmonicos Sunday instead. I'm 
+having a nice oystersupper, in your honor. Private room, 
+congenial company. Artists and so on.   
+
+ELLEN
+That's very tempting. I haven't met a single artist since I've 
+been here.   
+
+ARCHER
+I know one or two painters I could bring to see you, if you'd 
+allow me.   
+
+BEAUFORT
+Painters? Are there any painters in New York?   
+
+ELLEN
+(smiling)
+Thank you. But I was really thinking of singers, actors, 
+musicians. Dramaticartists. There were always so many in my 
+husband's house.
+(to Beaufort)
+Can I write tomorrow and let you know? It's too late to decide 
+this evening.   
+
+BEAUFORT
+Is this late?   
+
+ELLEN
+Yes, because I still have to talk business with Mr.  Archer.   
+
+BEAUFORT
+Oh. Of course, Newland, if you can persuade the Countess to 
+change her mind aboutSunday, you can join us too.   
+
+[In the drawing room at Ellen's house]  
+
+ELLEN
+You know painters, then? You live in their milieu?   
+
+ARCHER
+Oh, not exactly.   
+
+ELLEN
+But you care for such things?   
+
+ARCHER
+Immensely. When I'm in Paris or London I never miss an 
+exhibition. I try to keepup.   
+
+ELLEN
+I used to care immensely too. My life was full of such things. 
+But now I want tocast off all my old life. . . to become a 
+complete American and try to be likeeverybody else.   
+
+ARCHER
+You'll never be like everybody else.   
+
+ELLEN
+Don't say that to me, please. I just want to put all the old 
+things behind me.   
+
+ARCHER
+I know. Mr.  Letterblair told me.   
+
+ELLEN
+Mr.  Letterblair?   
+
+ARCHER
+Yes, I've come because he asked me to. I'm in the firm.   
+
+ELLEN
+You mean it's you who'll manage everything for me? I can talk to 
+you? That's somuch easier.   
+
+ARCHER
+Yes. . . I'm here to talk about it. I've read all the legal 
+papers, and the letterfrom the Count.   
+
+ELLEN
+It was vile.   
+
+ARCHER
+But if he chooses to fight the case, he can say things that might 
+be unpleas. . . mightbe disagreeable to you. Say them publicly, 
+so that they could be damaging evenif. . .   
+
+ELLEN
+If?   
+
+ARCHER
+Even if they were unfounded.   
+
+ELLEN
+What harm could accusations like that do me here?   
+
+ARCHER
+Perhaps more harm than anywhere else. Our legislation favors 
+divorce. But oursocial customs don't.   
+
+ELLEN
+Yes. So my family tells me. Our family. You'll be my cousin soon. 
+And you agreewith them?   
+
+ARCHER
+If what your husband hints is true, or you have no way of 
+disproving it. . . yes. Whatcould you possibly gain that would 
+make up for the scandal.   
+
+ELLEN
+My freedom. Is that nothing?   
+
+ARCHER
+But aren't you free already? It's my business to help you see 
+things just the waythe people who are fondest of you see them, 
+all your friends and relations. If Ididn't show you honestly how 
+they judge such questions, it wouldn't be fair of me,would it?   
+
+ELLEN
+No. It wouldn't be fair. Very well. I'll do as you wish.   
+
+ARCHER
+I do. . . I do want to help you.   
+
+ELLEN
+You do help me.   
+
+[Archer stands up]  
+
+ELLEN
+Good night, cousin.   
+
+[Theatre night in the Beaufort box. Everyone is chatting as 
+Archer enters the room]  
+
+LEFFERTS
+It's fascinating. Every season the same play, the same scene, the 
+same effect onthe audience.   
+
+[Archer is making his greetings and Lefferts turns to him]  
+
+LEFFERTS
+Remarkable isn't it, Newland?   
+
+ARCHER
+These actors certainly are. They're even better than the case in 
+London.   
+
+BEAUFORT
+You see this play even when you travel? I'd travel to get away 
+from it.   
+
+[Archer sits behind Ellen while Sillerton Jackson continues to 
+regale Regina Beaufort with details of the latest social news]  
+
+JACKSON
+It was a reception at Mrs.  Struthers'. Held on the Lord's day, 
+but with champagneand singing from the tabletops. People say 
+there was dancing.   
+
+REGINA
+(a bit intrigued)
+A real French Sunday, then.   
+
+[Ellen turns to Archer]  
+
+ELLEN
+Do you think her lover will send her a box of yellow roses 
+tomorrow morning?   
+
+ARCHER
+(surprised)
+I was. . . I was thinking about that, too. The farewell scene. . 
+.   
+
+ELLEN
+Yes, I know. It touches me as well.   
+
+ARCHER
+Usually, I leave after that scene. To take the picture away with 
+me.   
+
+ELLEN
+I had a letter from May. From St.  Augustine.   
+
+ARCHER
+They always winter there. Her mother's bronchitis.   
+
+ELLEN
+And what do you do while May is away?   
+
+ARCHER
+(a little defensive)
+I do my work.   
+
+ELLEN
+I do want you to know. What you advised me was right. Things can 
+be so difficultsometimes. . . And I'm so grateful.   
+
+[Montage]  
+
+NARRATOR
+The next day, Newland Archer searched the city in vain for yellow 
+roses. From hisoffice he sent a note to Madame Olenska asking to 
+call that afternoon and requestinga reply by messenger. There was 
+no reply that day. Or the next. And when yellowroses were again 
+available, Archer passes them by. It was only on the third 
+daythat he heard from her, by post, from the van der Luydens' 
+country home.   
+
+[On a country road during the day]  
+
+ELLEN
+"I ran away the day after I saw you at the play, and these kind 
+friends have takenme in. I wanted to be quiet and think things 
+over. I feel so safe here. Iwish. . . that you were with us. 
+Yours sincerely. . . "  
+
+[At the law office during the day]  
+
+NARRATOR
+He had a still outstanding invitation from the Lefferts' for a 
+weekend on the Hudsonand he hoped it was not too late to reply. 
+Their house was not far from the van derLuydens.   
+
+[On a country road during the day. Archer is sees Ellen and 
+catches up to her]  
+
+ARCHER
+I came to see what you were running away from.   
+
+ELLEN
+I knew you'd come  
+
+ARCHER
+That shows you wanted me to.   
+
+ELLEN
+Cousin May wrote she asked you to take care of me.   
+
+ARCHER
+I didn't need to be asked.   
+
+ELLEN
+Why? Does that mean I'm so helpless and defenseless? Or that 
+women here are soblessed they never feel need?   
+
+ARCHER
+What sort of need?   
+
+ELLEN
+Please don't ask me. I don't speak your language.   
+
+[They walk past an old house with squat walls and small square 
+windows]  
+
+ELLEN
+Henry left the old Patroon house open for me. I wanted to see it.   
+
+[Inside the Patroon House]  
+
+ARCHER
+When you wrote me, you were unhappy.   
+
+ELLEN
+Yes. But I can't feel unhappy when you're here.   
+
+ARCHER
+I can't be here long.   
+
+ELLEN
+I know. But I'm a little impulsive. I live in the moment when I'm 
+happy.   
+
+ARCHER
+Ellen. If you really wanted me to come. . . if I'm really to help 
+you. . . you must tellme what you're running from.   
+
+[She doesn't answer. He keeps looking out the window. Then he 
+feels her, coming up behind him. Her arms are around his neck, 
+hugging him. He turns. . . and sees her as she really is, still 
+in the chair. He looks back out the window and sees Julius 
+Beaufort coming up the path to the house]  
+
+ARCHER
+Ah!  
+
+[He laughs and Ellen quickly moves to his side. She looks out the 
+window and sees Beaufort. She steps back startled]  
+
+ARCHER
+Is he what you were running from? Or what you expected?   
+
+ELLEN
+I didn't know he was here.   
+
+[Archer walks to the front door and throws it open]  
+
+ARCHER
+Hello, Beaufort!This way!Madame Olenska was expecting you.   
+
+[Beaufort enters with assurance, addressing his remarks to Ellen]  
+
+BEAUFORT
+Well, you certainly led me a bit of a chase, making me come all 
+this was just totell you I'd found the perfect little house. It's 
+not on the market yet, so youmust take it at once.   
+
+[There is uncomfortable silence. Beaufort finally takes notice of 
+Archer]  
+
+BEAUFORT
+Well, Archer. Rusticating?   
+
+[In the study at the Archer House at night. Archer is unpacking 
+books from a carton]  
+
+NARRATOR
+That night he did not take the customary comfort in his monthly 
+shipment of booksfrom London. The taste of the usual was like 
+cinders in his mouth, and there weremoments when he felt as if he 
+were being buried alive under his future.   
+
+[In the bedroom at Ellen's house. Ellen is writing a note to 
+Archer]  
+
+ELLEN
+"Newland. Come late tomorrow. I must explain to you. "  
+
+[In the study at the Archer House. Archer reads the note]  
+
+[In the garden at St.  Augustine. Archer sees May sitting and 
+approaches]  
+
+MAY
+Newland!Has anything happened?   
+
+ARCHER
+Yes. I found I had to see you.   
+
+[Archer sits down and starts kissing her. His gentleness turns 
+more insistent. She responds at first, but then draws back, a 
+little startled]  
+
+ARCHER
+What is it?   
+
+MAY
+Nothing.   
+
+ARCHER
+Tell me what you do all day.   
+
+MAY
+(brightening)
+Well, there are a few pleasant people from Philadelphia and 
+Baltimore who werepicnicking at the inn. The Merry's are planning 
+to lay out a lawn tennis court. . .   
+
+ARCHER
+But I thought. . . I came here because I thought I could persuade 
+you to break awayfrom all that. To advance our engagement.   
+
+[He reached for her hand]  
+
+ARCHER
+Don't you understand how much I want to marry you? Why should we 
+dream away anotheryear?   
+
+MAY
+I'm not sure I do understand. Is it because you're not certain of 
+still feeling thesame way about me?   
+
+ARCHER
+God, I. . . maybe. . . I don't know.   
+
+MAY
+Is there someone else?   
+
+ARCHER
+Someone else? Between you and me?   
+
+MAY
+Let's talk frankly, Newland. Sometimes I've felt a difference in 
+you, especiallysince our engagement.   
+
+[He starts to protest. She hurries on]  
+
+MAY
+If it's untrue then it won't hurt to talk about it. And if it's 
+true. . . whyshouldn't we talk about it now? You might have made 
+a mistake.   
+
+ARCHER
+If I'd made some sort of mistake, would I be down here asking you 
+to hurry ourmarriage?   
+
+MAY
+I don't know. You might. It would be one way to settle the 
+question. At Newport,two years ago, before we were. . . promised. 
+. . everyone said there was. . . someone elsefor you. I even saw 
+you sitting together with her once, I think. On a verandah,at a 
+dance. When she came back into the house, her face was sad, and I 
+felt sorryfor her. Even after, when we were engaged, I could see 
+how she looked.   
+
+ARCHER
+Is that what you've been concerned about? That's long past.   
+
+MAY
+Then is there something else?   
+
+ARCHER
+Of course not.   
+
+MAY
+(rushing on)
+Whatever it may have been, Newland, I couldn't have my happiness 
+made out of a wrongto somebody else. We couldn't build a life on 
+a foundation like that. If promiseswere made. . . or pledges. . . 
+if you said something to the. . . the person we've spokenof. . . 
+if you feel in some way pledged to her. . . and there's any way 
+you can fulfillyour pledge. . . even by her getting a divorce. . 
+. Newland, don't give her up because ofme!  
+
+ARCHER
+There are no pledges. There are no promises that matter.   
+
+[May looks as if a great weight had been taken from her]  
+
+ARCHER
+That is all I've been trying to say. There is no one between us, 
+May. There isnothing between us. That is precisely my argument 
+for marrying quickly.   
+
+NARRATOR
+He could feel her dropping back to inexpressive girlishness. Her 
+conscience hadbeen eased of its burden. It was wonderful, he 
+thought, how such depths of feelingcould co-exist with such an 
+absense of imagination.   
+
+[In the drawing room at Mrs.  Mingott's House. Mrs.  Mingott and 
+Archer are having tea and talking]  
+
+MRS.  MINGOTT
+And did you succeed?   
+
+ARCHER
+No. But I'd still like to be married in April. With your help.   
+
+MRS.  MINGOTT
+Well, you're seeing the Mingott way. When I built this house the 
+family reacted asif I was moving to California. Now you're 
+challenging everyone.   
+
+ARCHER
+Is this really so difficult?   
+
+MRS.  MINGOTT
+The entire family is difficult. Not one of them wants to be 
+different. And whenthey are different they end up like Ellen's 
+parents. Nomads. Continentalwanderers. Or like dear Medora, 
+dragging Ellen about after they died, lavishingher with an 
+expensive but incoherent education. Out of all of them, I don't 
+believethere's one that takes after me but my little Ellen.
+(smiling)
+You've got a quick eye. Why in the world didn't you marry her?   
+
+ARCHER
+(laughs)
+For one thing, she wasn't there to be married.   
+
+MRS.  MINGOTT
+No, to be sure. And she's still not. The Count, you know. He's 
+sent a letter.   
+
+ARCHER
+No, I didn't know.   
+
+MRS.  MINGOTT
+Mr.  Letterblair says the Count wants Ellen back. On her own 
+terms.   
+
+ARCHER
+I don't believe it.   
+
+MRS.  MINGOTT
+The Count certainly does not defend himself. I will say that. And 
+Ellen would begiving up a great deal to stay here. There's her 
+old life. Gardens at Nice withterraces of roses. Jewels, of 
+course. Music and conversation. She says she goesunnoticed in 
+Europe, but I know that her portrait has been painted nine times. 
+Allthat, and the remorse of a guilty husband. Ellen says she 
+cares for none of it, butstill. These are things that must be 
+weighted.   
+
+ARCHER
+I would rather see her dead.   
+
+MRS.  MINGOTT
+(shrewdly)
+Would you? Would you really? We should remember marriage is 
+marriage. And Ellenis still a wife.   
+
+[Behind Mrs.  Mingott, the dorrs open and Ellen enters]  
+
+MRS.  MINGOTT
+Ellen, see who's here.   
+
+ELLEN
+Yes, I know.
+(to Archer)
+I went to see your mother to ask where you'd gone. Since you 
+never answered mynote.   
+
+MRS.  MINGOTT
+Because he was in such a rush to get married, I'm sure. Fresh off 
+the train andstraight here. He wants me to use all my influence, 
+just to marry his sweetheartsooner.   
+
+ELLEN
+Well surely, Granny, between us we can persuade the Wellands to 
+do as he wishes.   
+
+MRS.  MINGOTT
+There, Newland, you see. Right to the quick of the problem. Like 
+me.
+(to Ellen)
+I told him he should have married you.   
+
+ELLEN
+And what did he say?   
+
+MRS.  MINGOTT
+Oh, my darling, I leave you to find that out.   
+
+[Archer who has done his best to abide this teasing, now rises to 
+go]  
+
+[In the doorway at the Mingott House]  
+
+ARCHER
+(quietly)
+When can I see you?   
+
+[In the hallway at Ellen's house that evening. The maid opens the 
+door and takes Archer's coat. She hangs it and picks up a large 
+bouquet of crimson roses, with purple pansies at their base and 
+starts to carry them toward the drawing room]  
+
+ELLEN
+Natasia, take those to that nice family down the street. And come 
+right back. TheStruthers' are sending a carriage for me at seven.   
+
+[She holds her hand out to Archer]  
+
+ELLEN
+Who's ridiculous enough to send me a bouquet? I'm not going to a 
+ball. And I'm notengaged.   
+
+[In the drawing room at Ellen's house]  
+
+ELLEN
+I'm sure Granny must have told you everything about me.   
+
+ARCHER
+She did say you were used to all kinds of splendors we can't give 
+you here.   
+
+ELLEN
+Well, I'll tell you. In almost everything she says there's 
+something true, andsomething untrue. Why? What has she been 
+telling you?   
+
+ARCHER
+I think she believes you might go back to your husband. I think 
+she believes youmight at least consider it.   
+
+ELLEN
+A lot of things have been believed of me. But if she thinks I 
+would consider it,that also means she would consider it for me. 
+As Granny is weighing you idea ofadvancing the marriage.   
+
+ARCHER
+(under pressure)
+May and I had a frank talk in Florida. Probably our first. She 
+wants a longengagement to give me time. . .   
+
+ELLEN
+Time to give her up for another woman?   
+
+ARCHER
+If I want to.   
+
+ELLEN
+That's very noble.   
+
+ARCHER
+Yes. But it's ridiculous.   
+
+ELLEN
+Why? Because there is no other woman?   
+
+ARCHER
+No. Because I don't mean to marry anyone else.   
+
+ELLEN
+This other woman. . . does she love you, too?   
+
+ARCHER
+There is no other woman. I mean, the person May was thinking of. 
+. . was never. . .
+(slowly)
+. . . she guessed the truth. There is another woman. But not the 
+one she thinks.   
+
+[He sits down beside her and takes her hands, unclasping them. 
+She gets up and moves away from him]  
+
+ELLEN
+Don't make love to me. Too many people have done that.   
+
+ARCHER
+I've never made love to you. But you are the woman I would have 
+married if it hadbeen possible for either of us.   
+
+ELLEN
+Possible? You can say that when you're the one who's made it 
+impossible.   
+
+ARCHER
+I've made it. . .   
+
+ELLEN
+Isn't it you who made me give up divorcing? Didn't you talk to 
+me, here in thisroom, about sacrifice and sparing scandal because 
+my family was going to be yourfamily? And I did what you asked 
+me. For May's sake. And for yours.   
+
+ARCHER
+But there were things in your husband's letter. . .   
+
+ELLEN
+I had nothing to fear from that letter. Absolutely nothing. You 
+were just afraidof scandal for yourself, and for May.   
+
+[Ellen starts crying]  
+
+ARCHER
+Ellen. No. Nothing's done that can't be undone. I'm still free. 
+You can be, too.   
+
+[He's holding her. He kisses her and she kisses him back 
+passionately. She breaks away and they stare at each other. Then 
+she shakes her head]  
+
+ARCHER
+No!Everything is different. Do you see me marrying May now?   
+
+ELLEN
+Would you ask her that question? Would you?   
+
+ARCHER
+I have to ask her. It's too late to do anything else.   
+
+ELLEN
+You say that because it's easy, not because it's true.   
+
+ARCHER
+This has changed everything  
+
+ELLEN
+No. The good things can't change. All that you've done for me, 
+Newland, that Inever knew. Going to the van der Luydens because 
+people refused to meet me. Announcing you engagement at the ball 
+so there would be two families standing behindme instead of one. 
+I never understood how deadful people thought I was.  
+(She sees him looking at her questioningly)
+  
+
+ELLEN
+Granny blurted it out one day. I was stupid, I never thought. New 
+York seemed sokind and glad to see me. But there was no one as 
+kind as you. They never knew whatit meant to be tempted. But you 
+did. You understood. You hated happiness broughtby disloyalty and 
+cruelty and indifference. I'd never known that before, and 
+it'sbetter than anything I've known.   
+
+[She speaks in a very low voice. Suddenly he kneels. The tip of 
+her satin shoe shows under her dress. He kisses it. She bends 
+over him]  
+
+ELLEN
+Newland. You couldn't be happy if it meant being cruel. If we act 
+any other wayI'll be making you act against what I love in you 
+most. And I can't go back to thatway of thinking. Don't you see? 
+I can't love you unless I give you up.   
+
+[Archer springs to his feet]  
+
+ARCHER
+And Beaufort, with his orchids? Can you love him? (furious)
+May is ready to give me up!  
+
+ELLEN
+(quietly)
+Three days after you pleaded with her to advance your engagement 
+she will give youup?   
+
+ARCHER
+She refused!That gives me the right. . .   
+
+ELLEN
+The right? The same kind of ugly right as my husband claims in 
+his letters?   
+
+ARCHER
+No, of course not!But if we do this now. . . afterward, it will 
+only be worse foreveryone if we. . .   
+
+ELLEN
+(almost screaming)
+No, no, no!  
+
+[They look at each other for a moment more. Then Ellen picks up a 
+bell and rings for the maid. The maid enters carrying Ellen's 
+cloak and hat, and a telegram]  
+
+ELLEN
+I won't be going out tonight after all.   
+
+ARCHER
+(sarcastic)
+Please don't sacrifice. I have no right to keep you from your 
+friends.   
+
+MAID
+(in Italian)
+This was delivered.   
+
+[Ellen takes the envelope, reads it and hands it to Archer]  
+
+[In the gardens at St.  Augustine]  
+
+MAY
+"Granny's telegram was successful. Papa and Mama agreed to 
+marriage after Easter. Only a month? !I will telegraph Newland. 
+I'm too happy for words and love youdearly. Your grateful cousin 
+May. "  
+
+[In the drawing room at Ellen's house that night. Archer reads 
+the telegram and crumples it up in disappointment]  
+
+[At the photographer's studio. May is posing for pictures]  
+
+NARRATOR
+There had been wild rumors right up to the wedding day, that Mrs.  
+Mingott wouldactually attend the ceremony. It was known that she 
+had sent a carpenter to measurethe front pew in case it might be 
+altered to accomodate her. But this idea, likethe great lady 
+herself, proved to be unwieldy, and she settled for giving 
+thewedding breakfast. The Countess Olenska sent her regrets - she 
+was travelling withan aunt - but gave the bride and groom an 
+exquisite piece of old lace. Two elderlyaunts in Rhinebeck 
+offered a honeymoon cottage, and since it was thought 
+"veryEnglish" to have a country-house on loan, their offer was 
+accepted. When the houseproved suddenly uninhabitable, however, 
+Henry van der Luyden stepped in to offer anold cottage on his 
+property nearby. May accepted the offer as a surprise for 
+herhusband. She had never seen the house, but her cousin Ellen 
+had mentioned it once. She had said it was the only house in 
+America where she could imagine beingperfectly happy. They 
+travelled to the expected places, which May had never seen. In 
+London, Archer ordered his clothes, and they went to the National 
+Gallery, andsometimes to the theatre.   
+
+[In a carriage on the street at night. May is close to Archer on 
+the seat, holding his arm. She has a new attitude of easy 
+intimacy with him]  
+
+MAY
+I hope I don't look ridiculous. I've never dined out in London.   
+
+ARCHER
+Englishwomen dress just like everybody else in the evening, don't 
+they?   
+
+MAY
+How can you even ask that, when they're always at the theatre in 
+old ball-dressesand bare heads.   
+
+ARCHER
+Well perhaps they save their new dresses for home.   
+
+MAY
+Then I shouldn't have worn this?   
+
+ARCHER
+No. You look fine.
+(meaning it)
+Quite beautiful.   
+
+NARRATOR
+In Paris, she ordered her clothes. There were trunks of dresses 
+from Worth. Theyvisited the Tuileries.   
+
+[At the sculptor's studio the next day. Archer watches as the 
+sculptor Rochee models May's folded hands in marble. May looks up 
+at her husband and smiles]  
+
+NARRATOR
+Rochee modelled May's hands in marble. And occasionally they 
+dined out.   
+
+[In the dining room at Paris House at night. They are having a 
+small formal dinner. May is holding her own, charming everyone. 
+Archer is having a conversation with a fine-boned man whose face 
+is distinguished by a carefully nurtured mustache]  
+
+NARRATOR
+Archer had gradually reverted to his old inherited ideas about 
+marriage. It wasless trouble to conform with tradition. There was 
+no use trying to emancipate awife who hadn't the dimmest notion 
+that she was not free.   
+
+[In the carriage on the street. Archer and May are riding home 
+from the dinner]  
+
+ARCHER
+We had an awfully good talk. Interesting fellow. We talked about 
+books and things. I asked him to dinner.   
+
+MAY
+The Frenchman? I didn't have much chance to talk to him, but 
+wasn't he a littlecommon?   
+
+ARCHER
+Common? I thought he was clever.   
+
+MAY
+I suppose I shouldn't have known if he was clever.   
+
+ARCHER
+(quickly, resigned)
+Then I won't ask him to dine.   
+
+NARRATOR
+With a chill he knew that, in future, many problems would be 
+solved for him in thissame way.   
+
+[The carriage moves down a boulevard of flickering lamps]  
+
+NARRATOR
+The first six months of marriage were usually said to be the 
+hardest, and afterthat, he thought, they would have pretty nearly 
+finished polishing down all therough edges. But May's pressure 
+was already wearing down the very roughness he mostwanted to 
+keep. As for the madness with Madame Olenska, Archer trained 
+himself toremember it as the last of his discarded experiments. 
+She remained in his memorysimply as the most plaintive and 
+poignant of a line of ghosts.   
+
+[On the Beaufort lawn in Newport. This is the Beauforts' summer 
+cottage a year and a half later. There's a row of men and women 
+standing against a tent. May comes out of the tent and walks past 
+a row of people to an opening. A little later, May is seen slowly 
+raising a bow and arrow, taking careful aim and letting go. Her 
+movements have a classic grace.  The crowd applauds her shot. Two 
+of the spectators, Larry Lefferts and Julius Beaufort, watch May 
+admiringly]  
+
+LEFFERTS
+She's very deft.   
+
+BEAUFORT
+Yes. But that's the only kind of target she'll ever hit.   
+
+[Archer is standing a little in front of them. He reacts angrily 
+to Beaufort's remark, but says nothing. Across the lawn, May 
+makes her final bull's-eye. Archer starts across to join her. May 
+is receiving a winner's pin from a club official as a 
+photographer snaps her picture]  
+
+NARRATOR
+No one could ever be jealous of May's triumphs. She managed to 
+give the feelingthat she would have been just as serene without 
+them.   
+
+[May takes Archer's arm as they walk across the lawn together]  
+
+NARRATOR
+But what if all her calm, her niceness, were just a negation, a 
+curtain dropped infront of an emptiness? Archer felt he had never 
+yet lifted that curtain.   
+
+[On Narraganset Avenue in Newport. May and Archer are in an open 
+carriage]  
+
+MAY
+Has Regina Beaufort been here at all this summer?   
+
+ARCHER
+I don't know. There's a great deal of gossip. I expect Beaufort 
+will bring AnnieRing here any day.   
+
+MAY
+Not even he would dare that!  
+
+ARCHER
+He's reckless in everything. Even his railway speculations are 
+turning bad. But hejust answers every rumor with a fresh 
+extravagance.   
+
+MAY
+I heard he gave Regina pearls worth half a million.   
+
+ARCHER
+He had no choice.   
+
+[At the Mingott House in Newport. May is showing Mrs.  Mingott 
+the pin she won in the archery contest
+ an arrow with a diamond tip, pinned to the front of her linen 
+blouse]  
+
+MRS.  MINGOTT
+Quite stunning. It's Julius Beaufort who donates the club's 
+prizes, isn't it. Thislooks like him. Of course. And it will make 
+quite an heirloom, my dear. Youshould leave it to your eldest 
+daughter.   
+
+[In the drawing room of the Mingott Newport cottage. May blushes 
+and Mrs.  Mingott pinches her arm teasingly]  
+
+MRS.  MINGOTT
+What's the matter, aren't there going to be any daughters? Only 
+boys? What, can'tI say that either? Look at her, blushing!  
+
+[Archer laughs and Mrs.  Mingott calls out. . . ]  
+
+MRS.  MINGOTT
+Ellen!Ellen, are you upstairs?   
+
+[Archer is startled at the mention of Ellen]  
+
+MRS.  MINGOTT
+She's over from Portsmouth, spending the day with me. It's such a 
+nuisance. Shejust won't stay in Newport, insists on putting up 
+with those. . . what's their name. . . Blenkers. But I gave up 
+arguing with young people about fifty years ago. . . Ellen!  
+
+MAID
+I'm sorry, ma'am, Miss Ellen's not in the house.   
+
+MRS.  MINGOTT
+She's left?   
+
+MAID
+I saw her going down the shore path.   
+
+[Mrs.  Mingott turns to Archer]  
+
+MRS.  MINGOTT
+Run down and fetch her, like a good grandson. May can tell me all 
+the gossip aboutJulius Beaufort. Go ahead. I know she'll want to 
+see you both.   
+
+[On the shore path]  
+
+NARRATOR
+He had heard her name often enough during the year and a half 
+since they had lastmet. He was even familiar with the main 
+incidents of her life. But he heard allthese accounts with 
+detachment, as if listening to reminiscences of someone longdead. 
+But the past had come again into the present, as in those newly 
+discoveredcaverns in Tuscany, where children had lit bunches of 
+straw and seen old imagesstaring from the wall.   
+
+[Archer walks down the path and sees the pier and house in front 
+of him. He sees a woman with her back to the shore, leaning 
+against a rail. He stops, unable to go on. It's Ellen. She looks 
+out to sea, at the bay furrowed with yachts and sailboats and 
+fishing craft. He does not move. Ellen does not turn. A sailboat 
+glides through the channel between Lime Rock lighthouse and the 
+shore]  
+
+NARRATOR
+He gave himself a single chance. She must turn before the 
+sailboat crosses the LimeRock light. Then he would go to her.   
+
+[He looks to the boat. It glides out on the receding tide between 
+the lighthouse and the shore. He watches as the boat passes the 
+lighthouse. He looks at Ellen, she has not turned. Archer walks 
+away]  
+
+[Outside the Mingott House]  
+
+MAY
+I'm sorry you didn't find her. But I've heard she's so changed.   
+
+ARCHER
+Changed?   
+
+MAY
+So indifferent to her old friends. Summering in Portsmouth, 
+moving to Washington. Sometimes I think we've always bored her. I 
+wonder if she wouldn't be happier withher husband after all.   
+
+ARCHER
+(laughs)
+I don't think I've ever heard you be cruel before.   
+
+[Archer helps her into the carriage]  
+
+MAY
+Cruel?   
+
+ARCHER
+Even demons don't think people are happier in hell.   
+
+MAY
+(placidly)
+Then she shouldn't have married abroad.   
+
+[She starts to take the reins of the carriage. Archer lifts them 
+from her]  
+
+ARCHER
+Let me.   
+
+[At the Welland House in Newport the next morning. Archer, Mrs.  
+Archer, Janey, Mrs.  Welland and May are having breakfast]  
+
+MRS.  WELLAND
+The Blenkers. A party for the Blenkers?   
+
+JANEY
+Who are they?   
+
+MAY
+The Portsmouth people, I think. The ones Countess Olenska is 
+staying with.   
+
+MRS.  ARCHER
+"Professor and Mrs.  Emerson Sillerton request the pleasure. . . 
+Wednesday afternoonclub. . . at 3 o'clock punctually. To meet 
+Mrs.  and the the Misses Blenker. RedGables, Catherine Street. "I 
+don't think we can decline.   
+
+JANEY
+I don't see why, really. He's an archaeologist and he lives here 
+even in winter. He's always taking his poor wife to tombs in the 
+Yucatan instead of to Paris. He'sgot a house full of long-haired 
+men and short-haired women, and. . .   
+
+MRS.  ARCHER
+And he is Sillerton Jackson's cousin.   
+
+JANEY
+(chastened)
+Of course.   
+
+MRS.  WELLAND
+Some of us will have to go.   
+
+MAY
+I'll go over. And, Janey, why don't you come with me. I'm sure 
+Cousin Ellen willbe there. It will give you a chance to see her.
+(to Archer)
+Newland, you can find some way to spend the afternoon, can't you?   
+
+ARCHER
+Oh I think for a change I'll just save it instead of spending it. 
+Maybe drive tothe farm to see about a new horse for the brougham.   
+
+[At the Blenker House. Archer drives up, stops and ties up his 
+team. He walks up to the house. As he gets closer, he sees a box 
+garden, and something pink just beyond it. It's a pink parasol. 
+He picks it up and lifts the handle close to his face to smell 
+its scent.  He hears someone coming behind him, closing in 
+anticipation. He waits for Ellen's touch but hears only a voice 
+behind him. . . ]  
+
+KATIE BLENKER
+Hello?   
+
+[His eyes open and he turns and sees Katie Blenker, an adolescent 
+girl with open, friendly curiosity. She looks, for an instant, 
+familiar
+Archer thinks that he has been surprised by May]  
+
+KATIE BLENKER
+I'm sorry, did you ring, I've been asleep in the hammock. . .   
+
+ARCHER
+I didn't mean to disturb you. Are you Miss Blenker? I'm Newland 
+Archer.   
+
+KATIE
+I've heard so much about you.   
+
+ARCHER
+I came up the island to see about a new horse, and I thought I'd 
+call. But thehouse seemed empty. . .   
+
+KATIE
+It is empty. They're all at the party. The one the Sillertons are 
+giving for us. Didn't you know?   
+
+[He keeps looking at her, not knowing what to say]  
+
+KATIE
+Everyone's there but me, with my fever, and Countess Olenska. . . 
+oh, you found myparasol!  
+
+[She takes it from his hand]  
+
+KATIE
+It's my best one. It's from the Cameroons.   
+
+ARCHER
+(trying to be casual)
+The Countess was called away?   
+
+KATIE
+A telegram came from Boston. She said she might be gone for two 
+days. I do lovethe way she does her hair, don't you? It reminds 
+me of Sir Walter Scott.   
+
+ARCHER
+(interrupting her)
+You don't know. . . I'm sorry. . . I've got to be in Boston 
+tomorrow. You wouldn't knowwhere she was staying?   
+
+[In Boston the next day. Archer is in a park watching a painter. 
+He turns and through the morning sun, see a woman seated a little 
+way in front of him on a bench. Ellen looks up and Archer is 
+beside her]  
+
+ELLEN
+(startled)
+Oh.
+(now smiling)
+Oh.   
+
+ARCHER
+I'm here on business. Just got here, actually. You're doing your 
+hair differently.   
+
+ELLEN
+Only because the maid's not with me. She stayed back in 
+Portsmouth. I'm only herefor two days, it didn't seem worth. . .   
+
+ARCHER
+You're travelling alone?   
+
+ELLEN
+(sly)
+Yes. Why, do you think it's a little dangerous?   
+
+ARCHER
+(smiling)
+Well, it's unconventional.   
+
+ELLEN
+I suppose it is. I hadn't thought of it. I've just done something 
+so much moreunconventional. I've refused to take back money that 
+belonged to me.   
+
+ARCHER
+Someone came with an offer?   
+
+[She nods]  
+
+ARCHER
+What were the conditions?   
+
+ELLEN
+(simply)
+I refused.   
+
+ARCHER
+(pressing)
+Tell me the conditions.   
+
+ELLEN
+Nothing unbearable, really. Just to sit at the head of his table 
+now and then.   
+
+ARCHER
+And he wants you back, at any price?   
+
+ELLEN
+Well, it's a considerable price. At least it's considerable for 
+me.   
+
+ARCHER
+So you came to meet him.   
+
+[She stares, then laughs suddenly]  
+
+ELLEN
+My husband? Here? No, of course not. He sent someone.   
+
+ARCHER
+(very careful now)
+His secretary?   
+
+ELLEN
+Yes. He's still here, in fact. He insisted on waiting. In case I 
+changed my mind. They told you at the hotel I was here?   
+
+[He nods but says nothing]  
+
+ELLEN
+You haven't changed, Newland.   
+
+ARCHER
+(intense)
+I had changed, till I saw you again.   
+
+ELLEN
+Please don't.   
+
+ARCHER
+Just give me the day. I'll say anything you like. Or nothing. I 
+won't speakunless you tell me to. All I want is some time with 
+you. All I want is to listento you. I want to get you away from 
+that man. Was he coming to the hotel?   
+
+ELLEN
+At eleven. Just in case. . .   
+
+ARCHER
+Then we must leave now. It's been a hundred years since we've 
+met.   
+
+ELLEN
+Where will we go?   
+
+ARCHER
+Where?   
+
+[He's stumped
+ emotion has gotten in the way of foresight. He seems addled for 
+a moment.  She smiles at him]  
+
+ELLEN
+Somewhere cool, at any rate.   
+
+ARCHER
+We'll take the steamboat down to Point Arley. There's an inn.   
+
+ELLEN
+I'll have to leave a note at the hotel.   
+
+[He pulls a note-case from his pocket]  
+
+ARCHER
+Write it here. I have the paper. . . you see how everything's 
+predestined? . . . andthis. . . have you seen these. . . the new 
+stylographic pen. . .   
+
+[He hands her the case and pulls out a fountain pen]  
+
+ARCHER
+Just steady the case on your knee, and I'll get the pen going in 
+a second. . .   
+
+[He bangs the hand holding the pen against the back of the bench]  
+
+ARCHER
+It's like jerking down the mercury in a thermometer. Now try.   
+
+[He hands her then and she writes the note]  
+
+[At the Parker House Hotel in Boston]  
+
+ARCHER
+Shall I take it in?   
+
+ELLEN
+I'll only be a moment.   
+
+[Archer waits for her. Archer sees a man dressed in a distinctly 
+European fashion. The man doesn't notice Archer but he seems 
+familiar]  
+
+[At the Inn. Archer and Ellen are sitting at a table outside]  
+
+ELLEN
+Why didn't you come down to the beach to get me the day I was at 
+Granny's?   
+
+ARCHER
+Because you didn't turn around. You didn't know I was there. I 
+swore I wouldn'tcall you unless you looked around.   
+
+ELLEN
+But I didn't look on purpose.   
+
+ARCHER
+You knew?   
+
+ELLEN
+I recognized the carriage when you drove in. So I went to the 
+beach.   
+
+ARCHER
+To get as far away from me as you could.   
+
+ELLEN
+As I could. Yes.   
+
+ARCHER
+Well you see, then. It's no use. It's better to face each other.   
+
+ELLEN
+I only want to be honest with you.   
+
+ARCHER
+Honest? Isn't that why you always admired Julius Beaufort? He was 
+more honest thanthe rest of us, wasn't he? We've got no 
+character, no color, no variety. I wonderwhy you just don't go 
+back to Europe.   
+
+ELLEN
+I believe it's because of you.   
+
+ARCHER
+Me? I'm the man who married one woman because another one told 
+him to.   
+
+ELLEN
+You promised not to say those things today.   
+
+ARCHER
+I can't keep that promise.   
+
+ELLEN
+And what about May? What does May feel? That's the thing we've 
+always got to thinkof, by your own showing.   
+
+ARCHER
+My showing?   
+
+ELLEN
+Yes, yours. Otherwise everything you taught me would be a sham.   
+
+ARCHER
+If you're using my marriage as some victory of ours, then there's 
+no reason on earthwhy you shouldn't go back. You gave me my first 
+glimpse of a real life. Then youasked me to go on with the false 
+one. No one can endure that.   
+
+ELLEN
+I'm enduring it.   
+
+ARCHER
+You too? All this time, you too?   
+
+[She doesn't reply]  
+
+ARCHER
+What's the use? We can't be like this. When will you go back?   
+
+ELLEN
+I won't. Not yet. Not as long as we both can stand it.   
+
+ARCHER
+This is not a life for you.   
+
+ELLEN
+It is. As long as it's part of yours.   
+
+ARCHER
+And the way I live. . . my life. . . how can it be part of yours?   
+
+ELLEN
+Don't. . . don't be unhappy.   
+
+ARCHER
+You won't go back? You won't go back?   
+
+ELLEN
+I won't go back.   
+
+[On the street in New York. Archer is about to enter his office 
+building as a man approaches him. He is the same man that he saw 
+outside the Parker House in Boston]  
+
+RIVIERE
+(French accent)
+It's Mr.  Archer, I think?   
+
+ARCHER
+Yes?   
+
+RIVIERE
+My name is Reviere. We dined together in Paris last year.   
+
+ARCHER
+Oh yes. I'm sorry I didn't quite recall. . .   
+
+RIVIERE
+Quite alright. I had the advantage. I saw you yesterday in 
+Boston.   
+
+[Archer is taken aback by this]  
+
+[In Archer's office]  
+
+ARCHER
+I still do not understand why we're speaking.   
+
+RIVIERE
+I came her on Count Olenska's behalf because I believed. . . in 
+all good faith. . . thatit would be best for the Countess to 
+return to him. I met her in Boston and toldher all the Count had 
+said. She did me the kindness of listening carefully. Butshe's 
+changed, Monsieur.   
+
+ARCHER
+(a tinge of jealous suspicion)
+You knew her before?   
+
+RIVIERE
+I used to see her in her husband's house. The Count would never 
+have trusted mymission to a stranger.   
+
+ARCHER
+This change. . .   
+
+RIVIERE
+It may only have been my seeing her for the first time as she is. 
+As an American. And if you're an American of her kind. . . of 
+your kind. . . things are accepted incertain other societies, or 
+at least put up with for the sake of. . . convenience. . . these 
+things become intolerable. She made her marriage in good faith. 
+It was afaith that the Count could not share, and could not 
+understand. So her faith wasshattered. And it was only coming 
+back here. . . coming home. . . that restored it. Returning to 
+Europe would mean a life of some comfort. And considerable 
+sacrifice. And also, I would think, no hope. I will fulfill my 
+obligation to the Count andmeet with the family. I will tell them 
+what he wishes and suggests for theCountess. But I ask you, 
+Monsieur, to use you own influence with them. I. . . I begyou. . 
+. with all the force I'm capable of. . . not to let her go back.   
+
+[Archer looks at him with astonishment. Riviere's eyes fix 
+momentarily on Archer, then look around the room. Archer extends 
+his hand]  
+
+ARCHER
+Thank you.   
+
+[In the dining room at Mrs.  Archer's House that evening. Janey, 
+Mrs.  Archer, Newland and May, Mrs.  Welland and Sillerton 
+Jackson are having a traditional Thanksgiving dinner]  
+
+MRS.  ARCHER
+Well, Boston is more conservative than New York. But I always 
+think it's a saferule for a lady to lay aside her French dresses 
+for one season. When Old Mrs. Baxter Pennilow died, they found 
+her standing order - forty-eight Worth dresses -still wrapped in 
+tissue paper. When her daughters left off their mourning they 
+worethe first lot to the Symphony without looking in advance of 
+the fashion.   
+
+NARRATOR
+He had written to her once in Washington. Just a few lines, 
+asking when they wereto meet again. And she wrote back
+ "Not yet. "  
+
+JANEY
+I think it was Julius Beaufort who started the new fashion by 
+making his wife clapher new clothes on her back as soon as they 
+arrived. I must say, it takes allRegina's distinction not to look 
+like. . .   
+
+JACKSON
+(helpfully)
+Her rivals?   
+
+JANEY
+. . . like that Annie Ring.   
+
+MRS.  ARCHER
+Careful, dear.   
+
+JANEY
+Well, everybody knows.   
+
+JACKSON
+Indeed. Beaufort always put his business around. And now that his 
+business is gonethere are bound to be disclosures.   
+
+MAY
+Gone? Is it that bad?   
+
+JACKSON
+As bad as anything I've ever heard of. Most everybody we know 
+will be hit, one wayor another.   
+
+[In the library of the Archer House]  
+
+JACKSON
+Very difficult for Regina, of course. And it's a pity. . . it's 
+certainly a pity. . . that Countess Olenska refused her husband's 
+offer.   
+
+ARCHER
+Why, for God's sake?   
+
+JACKSON
+Well. . . to put it on the lowest ground. . . what's she going to 
+live on now?   
+
+ARCHER
+Now. . . !  
+
+JACKSON
+Well, I mean now that Beaufort. . .   
+
+ARCHER
+What the hell does that mean, sir?   
+
+JACKSON
+(continuing tranquilly)
+Most of her money's invested with Beaufort, and the allowance 
+she's been gettingfrom the family is so cut back. . .   
+
+ARCHER
+She has something, I'm sure.   
+
+JACKSON
+Oh I would think a little. Whatever remains after sustaining 
+Medora. But I knowthe family paid close attention to Monsieur 
+Riviere and considered the Count's offervery closely. Everyone 
+hopes the Countess herself might simply see that livinghere, on 
+such a small margin. . .   
+
+ARCHER
+If everyone would rather she be Beaufort's mistress than some 
+decent fellow's wife,you've all gone about it perfectly. She 
+won't go back.   
+
+JACKSON
+That's your opinion, eh? Well no doubt you know. I suppose she 
+might still softenCatherine Mingott, who could give her any 
+allowance she chooses. But the rest ofthe family has no 
+particular interest in keeping Madame Olenska here. They'llsimply 
+let her find her own level.   
+
+ARCHER
+(pause)
+Shall we go up and join my mother?   
+
+[In the Archer House hallway. May and Archer arrive home and the 
+servants take their coats. Archer and May climb the staircase to 
+the second floor of their house. The lamp that May holds throws 
+deep long shadows on the wall]  
+
+ARCHER
+The lamp is smoking again. The servants should see to it.   
+
+MAY
+I'm sorry.   
+
+ARCHER
+I may have to go to Washington for a few days.   
+
+MAY
+When?   
+
+ARCHER
+Tomorrow. I'm sorry, I should have said something before.   
+
+MAY
+On business?   
+
+ARCHER
+On business, of course. There's a patent case coming up before 
+the Supreme Court. I just got the papers from Letterblair. It 
+seems. . .   
+
+MAY
+Never mind. I'm sure it's too complicated. I have enough trouble 
+managing thislamp. But the change will do you good. And you must 
+be sure to go and see Ellen.   
+
+[Does she know? He thinks she might]  
+
+[In the Archer House. The maid brings a note to Archer and May]  
+
+ARCHER
+(indicating lamp)
+Do something about this, will you, Agnes?   
+
+[The maid takes the still smoking lamp, and gives him her lamp. 
+May looks up from the note]  
+
+MAY
+Granny's had a stroke.   
+
+[In the bedroom at the Mingott House. The servants are carrying 
+Mrs.  Mingott out on a heavy chair]  
+
+MRS.  MINGOTT
+A stroke!I told them all it was just an excess of Thanksgiving. 
+Dr.  Bencomb actedmost concerned and insisted on notifying 
+everyone as if it were the reading of mylast testament. But I 
+won't be treated like a corpse when I'm hardly an invalid.   
+
+[The servants proceed to carry her to the drawing room]  
+
+MRS.  MINGOTT
+You're very dear to come. But perhaps you only wanted to see what 
+I'd left you.   
+
+MAY
+Granny, that's shocking!  
+
+[The servants set Mrs.  Mingott down in the drawing room in her 
+accustomed spot]  
+
+MRS.  MINGOTT
+It was shock that did this to me. It's all due to Regina 
+Beaufort. She came herelast night, and she asked me. . .   
+
+[As she talks, Archer creates the image in his mind. . . ]  
+
+MRS.  MINGOTT
+. . . she had the effrontery to ask me. . . to back Julius. Not 
+to desert him, she said. To stand behind our common lineage in 
+the Townsend family. I said to her, "Honor'salways been honor, 
+and honesty's always been honesty, in Manson Mingott's house, 
+andwill be 'till I'm carried out feet first. "And then. . . if 
+you can believe it. . . shesaid to me. . . "But my name, Auntie. 
+My name's Regina Townsend. "And I said, "Yourname was Beaufort 
+when he covered you with jewels, and it's got to stay Beaufort 
+nowthat he's covered you with shame. "  
+
+[Back to the drawing room as Mrs.  Mingott finishes her story]  
+
+MRS.  MINGOTT
+So I gave out. Simply gave out. Now family will be arriving from 
+all overexpecting a funeral and they'll have to be entertained. I 
+don't know how many notesBencomb sent out.   
+
+ARCHER
+If there's any way we can help. . .   
+
+MRS.  MINGOTT
+Well, my Ellen is coming. I expressly asked for her. She arrives 
+this afternoon onthe train. If you could fetch her. . .   
+
+ARCHER
+Of course. If May will send the brougham, I can take the ferry.   
+
+MAY
+(the slightest pause)
+There, you see, Granny. Everyone will be settled.   
+
+[Archer and May are leaving Mrs.  Mingott's house and entering 
+their carriage]  
+
+MAY
+I didn't want to worry Granny. But how can you meet Ellen and 
+bring her back if youhave to go to Washington yourself this 
+afternoon?   
+
+ARCHER
+I'm not going. The case is off. Postponed. I heard from 
+Letterblair this morning.   
+
+MAY
+Postponed? How odd. Mama had a note from him this morning as 
+well. He wasconcerned about Granny but he had to be away. He was 
+arguing a big patent casebefore the Supreme Court. You said it 
+was a patent case, didn't you?   
+
+ARCHER
+Well, that's it. The whole office can't go. Letterblair decided 
+to go thismorning.   
+
+MAY
+Then it's not postponed?   
+
+[The blood rises in Archer's face]  
+
+ARCHER
+No. But my going is.   
+
+[At the train station]  
+
+NARRATOR
+He knew is was two hours by ferry and carriage from the 
+Pennsylvania terminus inJersey City back to Mrs.  Mingott's. All 
+of two hours. And maybe a little more.   
+
+[Archer sees Ellen among the disembarking train passengers and 
+motions to her]  
+
+ARCHER
+You didn't expect me today?   
+
+ELLEN
+No.   
+
+ARCHER
+It was Granny Mingott who sent me. She's much better. I nearly 
+went to Washingtonto see you. We would have missed each other.   
+
+[Archer helps Ellen into the carriage]  
+
+ARCHER
+Did you know. . . I hardly remembered you.   
+
+ELLEN
+Hardly remembered?   
+
+ARCHER
+I mean. . . I mean it's always the same. Each time I see you. You 
+happen to me allover again.   
+
+ELLEN
+Oh yes. I know, I know. For me too.   
+
+[Later in the journey]  
+
+ARCHER
+Your husband's secretary came to see me. The day after we met in 
+Boston.   
+
+[She seems surprised]  
+
+ARCHER
+You didn't know?   
+
+ELLEN
+No. But he told me he had met you. In Paris, I think.   
+
+ARCHER
+Ellen. . . I have to ask you. Just one thing.   
+
+ELLEN
+Yes?   
+
+ARCHER
+Was it Riviere who helped you get away after you left your 
+husband?   
+
+ELLEN
+Yes. I owe him a great debt.   
+
+ARCHER
+(quietly)
+I think you're the most honest woman I ever met.   
+
+ELLEN
+(slight smile)
+No. But probably one of the least fussy.   
+
+ARCHER
+Ellen, We can't stay like this. It can't last.   
+
+ELLEN
+What?   
+
+ARCHER
+Our being together and not being together. It's impossible.   
+
+ELLEN
+You shouldn't have come today.   
+
+[Suddenly, she turns and flings her arms around him, pressing him 
+close, kissing him passionately. He returns all her feeling. She 
+suddenly draws away, silent and motionless to the corner of the 
+carriage]  
+
+ARCHER
+Don't be afraid. Look, I'm not even trying to touch your sleeve. 
+Being like thisisn't what I want. I need you with me. I can even 
+just sit still, like this, andlook at you.   
+
+ELLEN
+I think we should look at reality, not dreams.   
+
+ARCHER
+(desperate)
+I just want us to be together.   
+
+ELLEN
+I can't be your wife, Newland. Is it your idea I should live with 
+you as yourmistress?   
+
+ARCHER
+I want. . . somehow I want to get away with you. Find a world 
+where words like thatwon't exist.   
+
+ELLEN
+Oh my dear. . . whare is that country? Have you ever been there? 
+Is there anywhere wecan be happy behind the backs of people who 
+trust us?   
+
+ARCHER
+I'm beyond caring about that.   
+
+ELLEN
+No, you're not!You've never been beyond that. I have. I know what 
+it looks like. A lie in every silence. It's no place for us.   
+
+[He looks at her, dazed. Then he reaches for the small cab bell 
+that signals orders to the coachman. The coach pulls up and 
+Archer gets out]  
+
+ELLEN
+Why are we stopping? This isn't Granny's.   
+
+ARCHER
+No. I'll get out here. You were right. I shouldn't have come 
+today.   
+
+[He closes the door]  
+
+[In the library at the Archer House that night. Archer is reading 
+a book and May is embroidering a soft cushion]  
+
+MAY
+What are you reading?   
+
+ARCHER
+Oh, a history. About Japan.   
+
+MAY
+Why?   
+
+ARCHER
+I don't know. Because it's a different country.   
+
+MAY
+You used to read poetry. It was so nice when you read it to me.   
+
+[He gets to his feet]  
+
+ARCHER
+I need some air.   
+
+[He goes to the window and opens it and leans out into the cold]  
+
+MAY
+Newland!You'll catch your death.   
+
+ARCHER
+Catch my death. Of course.   
+
+NARRATOR
+But then he realized, I am dead. I've been dead for months and 
+months. Then itoccurred to him that she might die. People did. 
+Young people, healthy people, did. She might die, and set him 
+free.   
+
+[May sees him looking at her]  
+
+MAY
+Newland?   
+
+[He walks to her and touches her head]  
+
+ARCHER
+Poor May.   
+
+MAY
+Poor? Why poor?   
+
+ARCHER
+Because I'll never be able to open a window without worrying you.   
+
+MAY
+I'll never worry if you're happy.   
+
+ARCHER
+And I'll never be happy unless I can open the windows.   
+
+MAY
+In this weather?   
+
+[On the street at Ellen's house. Ellen is coming down the front 
+steps toward a waiting carriage. As she approaches the carriage 
+door, Archer steps out of the shadows]  
+
+ARCHER
+I have to see you. I didn't know when you were leaving again.   
+
+ELLEN
+I'm due at Regina Beaufort's. Granny lent me her carriage.   
+
+ARCHER
+With all that's happened, you're still goinig to see Regina 
+Beaufort?   
+
+ELLEN
+I know. Granny says Julius Beaufort is a scoundrel. But so is my 
+husband, and thefamily still wants me to go back to him.   
+
+[Two figures , illuminated by the glowing street lamps but still 
+a little indistinct in the blowing snow, are walking down the 
+street toward Ellen and Archer]  
+
+ARCHER
+But you won't go back?   
+
+ELLEN
+No. Granny's asked me to stay and help care for her. But I think 
+it's me she meansto help. She said I've lived too long locked up 
+in a cage. She's even seen to myallowance.   
+
+[The two figures draw nearer, then discretely cross to the other 
+side of the street. As they pass under the streetlight we 
+recognize one of the two men
+ Larry Lefferts. Archer and Ellen see them and draw a little 
+closer to the sheltering shadow of the carriage]  
+
+ARCHER
+You won't need my help if you have Granny's.   
+
+ELLEN
+I will still need your help. If I stay, we will have to help each 
+other.   
+
+ARCHER
+I have to see you. Somewhere we can be alone.   
+
+ELLEN
+(smiles)
+In New York?   
+
+ARCHER
+Alone. Somewhere we can be alone. There's the art museum in the 
+park. Half pasttwo tomorrow. I'll be at the door.   
+
+[At the Art Museum]  
+
+ARCHER
+You came to New York because you were afraid.   
+
+ELLEN
+Afraid?   
+
+ARCHER
+Of my coming to Washington.   
+
+ELLEN
+I promised Granny to stay in her house because I thought I would 
+be safer.   
+
+ARCHER
+Safer from me?   
+
+[She bends her head]  
+
+ARCHER
+Safer from loving me?   
+
+ELLEN
+(pause)
+Shall I come to you once, and then go home?   
+
+[He doesn't answer. She gets up and starts out. He catches her by 
+the arm]  
+
+ARCHER
+Come to me once, then.   
+
+[They look at each other almost like enemies]  
+
+ARCHER
+(pressing)
+When? Tomorrow?   
+
+ELLEN
+(hesitating)
+The day after.   
+
+[She moves away down the long gallery. He follows her]  
+
+ELLEN
+No. Don't come any farther than this.   
+
+[She hurries to the gallery door, turns, then leaves]  
+
+[In the library at the Archer House that night. Archer is at his 
+desk. An envelope addressed to Ellen is near him; his pen is 
+poised over a piece of vellum on which he is writing an address 
+for their rendezvous. A key, to go with the address, is ready to 
+be sealed in the envelope as he looks up, slightly startled as 
+May enters, a little agitated]  
+
+MAY
+I'm sorry I'm late. You weren't worried, were you?   
+
+[He sweeps the key, envelope and address into his desk drawer 
+before she is near enough to notice]  
+
+ARCHER
+Is it late?   
+
+MAY
+Past seven. I stayed at Granny's because cousin Ellen came in. We 
+had a wonderfultalk. She was so dear. Just like the old Ellen. 
+And Granny's so charmed by her. You do see, though, why sometimes 
+the family has been annoyed? Going to see ReginaBeaufort in 
+Granny's carriage. . .   
+
+[Archer gets up, annoyed at the same old prattle]  
+
+ARCHER
+Aren't we dining out?   
+
+[He starts past her, and she moves forward, almost impulsively. 
+She throws her arms around him and presses her cheek to his]  
+
+MAY
+You haven't kissed me today.   
+
+[At the Theatre]  
+
+NARRATOR
+It was the custom, in old New York, for brides to appear in their 
+wedding dressduring the first year or two of marriage. But May, 
+since returning from Europe, hadnot worn her bridal satin until 
+this evening.   
+
+[Archer enters the box and leans over to May]  
+
+ARCHER
+My head's bursting. Don't tell anyone, but please come home with 
+me.   
+
+[May looks at him, then whispers to her mother. Mrs.  Welland 
+whispers an excuse to her companion, Mrs.  van der Luyden, as May 
+rises and leaves with her husband]  
+
+[In the library at the Archer House]  
+
+MAY
+Shouldn't you rest?   
+
+ARCHER
+My head's not as bad as that. And there's something important I 
+have to tell youright away. May. . . There's something I've got 
+to tell you. . . about myself. . . MadameOlenska. . .   
+
+MAY
+(interrupting)
+Oh, why should we talk about Ellen tonight?   
+
+ARCHER
+Because I should have spoken before.   
+
+MAY
+Is it really worthwhile, dear? I know I've been unfair to her at 
+times. Perhaps weall have. You've understood her better than any 
+of us, I suppose. But does itmatter, now that it's all over?   
+
+ARCHER
+Over? How do you mean, over?   
+
+MAY
+Why, since she's going back to Europe so soon. Granny approves 
+and understands. She's disappointed, of course, but she's 
+arranged to make Ellen financiallyindependent of the Count. I 
+thought you would have heard today at your offices.   
+
+[He stares at her, not really seeing her. There is uncomfortable 
+silence]  
+
+ARCHER
+It's impossible.   
+
+MAY
+Impossible? Certainly she could have stayed here, with Granny's 
+extra money. But Iguess she's given us up after all.   
+
+ARCHER
+How do you know that?   
+
+MAY
+From Ellen. I told you I saw her at Granny's yesterday.   
+
+ARCHER
+And she told you yesterday?   
+
+MAY
+No. She sent me a note this afternoon. Do you want to see it?   
+
+[May moves to the desk and pulls the note from a small pile of 
+mail on the desk]  
+
+MAY
+I thought you knew.   
+
+[She hold out the note and he takes it]  
+
+ELLEN
+"May dear, I have at last made Granny understand that my visit to 
+her could be nomore than a visit, and she has been as kind and 
+generous as ever. She sees now thatif I return to Europe I must 
+live by myself. I am hurrying back to Washington topack up, and I 
+sail next week. You must be very good to Granny when I'm gone. . 
+. asgood as you've always been to me. If any of my friends wish 
+to urge me to change mymind, please tell them it would be utterly 
+useless. "  
+
+ARCHER
+Why did she write this?   
+
+MAY
+I suppose because we talked things over yesterday.   
+
+ARCHER
+What things?   
+
+MAY
+I told her I was afraid I hadn't been fair to her. I hadn't 
+always understood howhard it must have been here. I knew you'd be 
+the one friend she could always counton. And I wanted her to know 
+that you and I were the same. In all our feelings.
+(more slowly)
+She understood why I wanted to tell her this, I think she 
+understands everything.   
+
+[She takes one of his cold hands and presses it quickly to her 
+cheek]  
+
+MAY
+My head aches, too. Good night, dear.   
+
+[In the dining room at the Archer House]  
+
+NARRATOR
+It was, as Mrs.  Archer said to Mrs.  Welland, a great event for 
+a young couple togive their first dinner, and it was not to be 
+undertaken lightly. There was a hiredchef, two borrowed footmen, 
+roses from Henderson's, Roman punch and menus ongilt-edged cards. 
+It was considered a particular triumph that the van der 
+Luydens,at May's request, stayed in the city to be present at her 
+farewell dinner for theCountess Olenska.   
+
+[Everyone is seated at the table. Ellen is to Archer's left]  
+
+NARRATOR
+He guessed himself to have been, for months, the center of 
+countless silentlyobserving eyes and patiently listening ears. He 
+understood that, somehow, theseparation between himself and the 
+partner of his guilt had been achieved. And heknew that now the 
+whole tribe had rallied around his wife. He was a prisoner in 
+thecenter of an armed camp.   
+
+JANEY
+Regina's not well at all, but that doesn't stop Beaufort from 
+devoting as much timeto Annie Ring. . .   
+
+[Archer turns to Ellen]  
+
+ARCHER
+Was the trip from Washington very tiring?   
+
+ELLEN
+The heat in the train was dreadful. But all travel has its 
+hardships.   
+
+ARCHER
+Whatever they may be, they're worth it. Just to get away.   
+
+[She can't reply]  
+
+ARCHER
+I mean to do a lot of travelling myself soon.   
+
+[Ellen's face trembles. To rescue the moment, he leans toward a 
+man sitting across from him]  
+
+ARCHER
+Philip, what about you? A little adventure? A long trip? Are you 
+interested? Athens and Smyrna and maybe Constantinople. Then as 
+far East as we can go.   
+
+PHILIP
+Possibly, possibly.   
+
+MRS.  VAN DER LUYDEN
+But not Naples, Dr.  Bencomb says there's a fever.   
+
+ARCHER
+There's India, too.   
+
+PHILIP
+You must have three weeks to do India properly.   
+
+[In the library at the Archer House. After dinner, the men are 
+gathered in several groups, all smoking cigars]  
+
+LEFFERTS
+Beaufort may not receive invitations anymore, but it's clear he 
+still maintains acertain position.   
+
+PHILIP
+Horizontal, from all I've heard.   
+
+LEFFERTS
+(indignant)
+If things go on like this, we'll be seeing our children fighting 
+for invitations toswindlers' houses and marrying Beaufort's 
+bastards.   
+
+JACKSON
+Has he got any?   
+
+[Laughter from the group]  
+
+GUEST
+Careful, there, gentlemen. Draw it mild, draw it mild.   
+
+[Archer manages a small smile but is still distracted. Van der 
+Luyden approaches him]  
+
+VAN DER LUYDEN
+Have you ever noticed? It's the people who have the worst cooks 
+who are alwaysyelling about being poisoned when they dine out. 
+Lefferts used to be a little moreadept, I thought. But then, 
+grace is not always required. As long as one knows thesteps.   
+
+[In the drawing room at the Archer House. May is sitting on a 
+sofa next to Countess Olenska. May sees Archer and her eyes are 
+shining as she gets up. As soon as she is on her feet, Mrs.  van 
+der Luyden beckons Ellen to join her across the room. Ellen goes 
+slowly toward Mrs.  van der Luyden and another woman joins them. 
+Archer watches this ritual as if it were an elaborate rehearsal 
+for a firing squad]  
+
+NARRATOR
+The silent organization which held this whole small world 
+together was determined toput itself on record. It had never for 
+a moment questioned the propriety of MadameOlenska's conduct. It 
+had never questioned Archer's fidelity. And it had neverheard of, 
+suspected, or even conceived possible, anything at all to the 
+contrary. From the seamless performance of this ritual, Archer 
+knew that New York believed himto be Madame Olenska's lover. And 
+he understood, for the first time, that his wifeshared the 
+belief.   
+
+[In the front hall. Archer is helping Ellen with her cloak]  
+
+ARCHER
+Shall I see you to your carriage?   
+
+[She turns to him as Mrs.  van der Luyden steps forward]  
+
+MRS.  VAN DER LUYDEN
+(casual)
+We are driving deal Ellen home.   
+
+[Ellen offers her hand to Archer]  
+
+ELLEN
+Good-bye.   
+
+ARCHER
+Good-bye. But I'll see you soon in Paris.   
+
+ELLEN
+Oh. . . if you and May could come. . .   
+
+[In the library at the Archer House. May is at the doorway]  
+
+MAY
+It did go off beautifully, didn't it.   
+
+ARCHER
+Oh. Yes.   
+
+MAY
+May I come in and talk it over?   
+
+ARCHER
+Of course. But you must be very sleepy.   
+
+MAY
+No. I'm not. I'd like to be with you a little.   
+
+ARCHER
+Fine.   
+
+[They sit in separate chairs near the fire]  
+
+ARCHER
+(pause)
+Since you're not tired and want to talk, there's something I have 
+to tell you. Itried the other night.   
+
+MAY
+Oh yes, dear. Something about yourself?   
+
+ARCHER
+About myself, yes. You say you're not tired. But I am. I'm tired 
+of everything. I want to make a break. . .   
+
+MAY
+You mean give up the law?   
+
+ARCHER
+Well, maybe. To get away, at any rate. Right away. On a long 
+trip. Go somewherethat's so far. . .   
+
+MAY
+How far?   
+
+ARCHER
+I don't know. I thought of India. Or Japan.   
+
+[She stands up and walk toward him]  
+
+MAY
+As far as that? But I'm afraid you can't, dear. . .
+(unsteady voice)
+. . . not unless you take me with you. That is, if the doctors 
+will let me go. . . butI'm afraid they won't.   
+
+[He stares at her, his eyes nearly wild]  
+
+MAY
+I've been sure of something since this morning and I've been 
+longing to tell you. . .   
+
+[She sinks down in front of him, puts her face against his knee]  
+
+ARCHER
+Oh.   
+
+MAY
+You didn't guess?   
+
+ARCHER
+No. Of course, I mean, I hoped, but. . .   
+
+[He looks away from her]  
+
+ARCHER
+(quietly)
+Have you told anyone else?   
+
+MAY
+Only Mama, and your mother. And Ellen. You know I told you we'd 
+had a long talkone afternoon. . . and how wonderful she was to 
+me.   
+
+ARCHER
+Ah.   
+
+MAY
+Did you mind my telling her, Newland?   
+
+ARCHER
+Mind? Why should I? But that was two weeks ago, wasn't it? I 
+thought you said youweren't sure till today.   
+
+MAY
+(face flushed)
+No. I wasn't sure then. But I told her I was. And you see. . .   
+
+[She looks up at him, moving closer]  
+
+MAY
+I was right.   
+
+[She is very close to him now, expecting to be kissed. Her eyes 
+are wet with VICTORY.  Newland is speechless. He desperately 
+looks around the room]  
+
+NARRATOR
+It was the room in which most of the real things of his life had 
+happened. Theireldest boy, Theodore, too delicate to be taken to 
+church in midwinter, had beenchristened there. It was here that 
+Ted took his first steps. And it was here thatArcher and his wife 
+always discussed the future of all their children. Bill'sinterest 
+in archaeology. Mary's passion for sport and philanthropy. 
+Ted'sinclinations toward "art" that led to a job with an 
+architect, as well as someconsiderable redecoration. It was in 
+this room that Mary had announced herengagement to the dullest 
+and most reliable of Larry Lefferts' many sons. And itwas in this 
+room, too, that her father had kissed her through her wedding 
+veilbefore they motored to Grace Church. He was a dutiful, loving 
+father, and afaithful husband. When May died of infectious 
+pneumonia after nursing Bill safelythrough, he had honestly 
+mourned her. The world of her youth had fallen into piecesand 
+rebuilt itself without her ever noticing. This hard bright 
+blindness, herincapacity to recognize change, made her children 
+conceal their views from her, justas Archer concealed his. She 
+died thinking the world a good place, full of lovingand 
+harmonious households like her own. Newland Archer, in his fifty-
+seventh year,mourned his past and honored it.   
+
+[a telephone rings and Archer picks it up. At 57, his face shows 
+the evidence of a full life behind him]  
+
+ARCHER
+Yes? Hello?   
+
+OPERATOR
+Chicago wants you.   
+
+TED
+Dad?   
+
+ARCHER
+Ted?   
+
+TED
+I'm just about finished out here, but my client wants me to look 
+at some gardensbefore I start designing.   
+
+ARCHER
+Fine. Where?   
+
+TED
+Europe. I'll have to sail next Wednesday on the Mauretania.   
+
+ARCHER
+And miss the wedding?   
+
+TED
+Annie will wait for me. I'll be back on the first and our 
+wedding's not 'till thefifth.   
+
+ARCHER
+(affectionate)
+I'm surprised you remember the date.   
+
+TED
+Well, I was hoping you'd join me. I'll need you to remind me of 
+what's important. What do you say? It will be our last father and 
+son trip.   
+
+ARCHER
+I appreciate the invitation, but. . .   
+
+TED
+Wonderful. Can you call the Cunard office first thing tomorrow?   
+
+[In the Bristol Hotel room in Paris. Archer is sitting on a divan 
+near the window, looking out. Ted is with him]  
+
+TED
+I'm going out to Versailles with Tourneur. Will you join us?   
+
+ARCHER
+I thought I'd go to the Louvre.   
+
+TED
+I'll meet you there later, then. Countess Olenska is expecting us 
+at half-pastfive.   
+
+ARCHER
+(stunned)
+What?   
+
+TED
+Oh, didn't I tell you. Annie made me swear to do three things in 
+Paris. Get herthe score of the last Debussy songs. Go to the 
+Grand Guignol. And see MadameOlenska. You know she was awfully 
+good to Annie when Mr.  Beaufort sent her over tothe Sorbonne. 
+Wasn't the Countess friendly with Mr.  Beaufort's first wife 
+orsomething? I think Mrs.  Beaufort said that she was. In any 
+case, I called theCountess this morning and introduced myself as 
+her cousin and. . .   
+
+ARCHER
+You told her I was here?   
+
+TED
+Of course. Why not? She sounds lovely. Was she?   
+
+ARCHER
+Lovely? I don't know. She was different.   
+
+[At the Louvre in Paris]  
+
+NARRATOR
+Whenever he thought of Ellen Olenska, it had been abstractly, 
+serenely, like animaginary loved one in a book or picture. She 
+had become the complete vision of allthat he had missed.   
+
+ARCHER
+(whispering)
+But I'm only fifty-seven.   
+
+[At Tuiileries in Paris. Ted and Archer, deep in conversation, 
+walk through the great gardens on their way to Madame Olenska's]  
+
+TED
+Did Mr.  Beaufort really have such a bad time of it, when he 
+wanted to remarry? Noone wanted to give him an inch.   
+
+ARCHER
+Perhaps because he had already taken so much.   
+
+TED
+If anyone remembers anymore. Or cares.   
+
+ARCHER
+Well, he and Annie Ring did have a lovely daughter. You're very 
+lucky.   
+
+TED
+We're very lucky, you mean.   
+
+ARCHER
+Yes, that's what I mean.   
+
+TED
+So considering how that all turned out. . . and considering all 
+the time that's goneby. . . I don't see how you can resist.   
+
+ARCHER
+Well, I did have some resistance at first to your marriage, I've 
+told you that. . .   
+
+TED
+No, I mean resist seeing the woman you almost threw everything 
+over for. Only youdidn't.   
+
+ARCHER
+(cautious)
+I didn't.   
+
+TED
+No. But mother said. . .   
+
+ARCHER
+Your mother?   
+
+TED
+Yes. The day before she died. She asked to see me alone, 
+remember? She said sheknew we were safe with you, and always 
+would be. Because once, when she asked youto, you gave up the 
+thing you wanted most.   
+
+ARCHER
+She never asked me.   
+
+[On the rue du Bac in Paris]  
+
+NARRATOR
+After a little while he did not regret Ted's indiscretion. It 
+seemed to take aniron band from his heart to know that, after 
+all, someone had guessed and pitied. . . And that it should have 
+been his wife moved him inexpressibly.   
+
+TED
+The porter says it's the fifth floor. It must be the one with the 
+awnings.   
+
+[They both look toward an upper balcony, just above the horse-
+chestnut trees in the square]  
+
+TED
+It's nearly six.   
+
+[Archer sees an empty bench under a tree]  
+
+ARCHER
+I think I'll sit a moment.   
+
+TED
+Do you mean you won't come?   
+
+[Archer shrugs]  
+
+TED
+You really won't come at all?   
+
+ARCHER
+I don't know.   
+
+TED
+She won't understand.   
+
+ARCHER
+Go on, son. Maybe I'll follow you.   
+
+TED
+But what will I tell her?   
+
+ARCHER
+(as he sits)
+Don't you always have something to say?   
+
+TED
+I'll tell her you're old-fashioned and you insist on walking up 
+five flights insteadof taking the elevator.   
+
+ARCHER
+(pause)
+Just say I'm old-fashioned. That should be enough.   
+
+[Ted gives his father a look of affectionate exasperation, then 
+crosses the square and goes into the building. Archer watches him 
+go. Then he looks up at the windows on the fifth floor. A curtain 
+moves, briefly, then falls back into place. Archer has a 
+flashback to the Summer House in Newport. A sailboat starts to 
+sail between the shore and a lighthouse. Ellen, in the summer 
+house, watches it. Her back is to him. The sailboat glides 
+between the shore and the lighthouse. Ellen stands in the last 
+brilliant burst of the setting sun. She starts to move. She turns 
+around and smiles. Back to Paris, a servant starts to roll up the 
+awning. Archer is still on the bench, watching the awning being 
+secured. The servant finishes and goes back inside. Archer 
+remains on the bench, alone in the twilight]
+
+  THE END 
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

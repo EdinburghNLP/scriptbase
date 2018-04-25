@@ -1,0 +1,139 @@
+year	1993
+imdb score	4.2
+meta score	N/A
+genre	Drama
+genre	Romance
+genre	Thriller
+keyword	murder
+keyword	cocaine
+keyword	seduction
+keyword	sex
+keyword	innocence
+keyword	secretary
+keyword	courtroom
+keyword	ladder
+keyword	testimony
+keyword	male nudity
+keyword	lingerie
+keyword	anal rape
+keyword	panties pulled down
+keyword	femme fatale
+keyword	girl in panties
+keyword	breasts
+keyword	cleavage
+keyword	female frontal nudity
+keyword	redhead
+keyword	falling from height
+keyword	dysfunctional marriage
+keyword	portland oregon
+keyword	prosecutor
+keyword	birthday cake
+keyword	attorney
+keyword	unfaithful husband
+keyword	driving
+keyword	pubic hair
+keyword	lightning
+keyword	nude
+keyword	acupuncture
+keyword	scantily clad female
+keyword	videotape
+keyword	film crew
+keyword	nude girl
+keyword	incriminating evidence
+keyword	handcuffs
+keyword	blonde
+keyword	female rear nudity
+keyword	dying during sex
+keyword	journalist
+keyword	pharmacist
+keyword	neo noir
+keyword	fatal attraction
+keyword	heart disease
+keyword	sadomasochism
+keyword	female nudity
+keyword	fellatio
+keyword	bare breasts
+keyword	dominatrix
+keyword	box office flop
+keyword	age difference
+keyword	leg spreading
+keyword	murder trial
+keyword	infidelity
+keyword	funeral
+keyword	female judge
+keyword	bridge
+keyword	lifting up dress
+keyword	fondling
+keyword	nipples
+keyword	female removes her clothes
+keyword	bisexual
+keyword	investigation
+keyword	blow job
+keyword	reverse cowboy sex position
+keyword	heavy rain
+keyword	stockings
+keyword	no panties
+keyword	inheritance
+keyword	copulation
+keyword	cunnilingus
+keyword	doughnut
+keyword	witness
+keyword	female pubic hair
+keyword	lust
+keyword	topless female nudity
+keyword	candle
+keyword	cemetery
+keyword	nudity
+keyword	panties
+keyword	video camera
+keyword	female masturbation
+keyword	false accusation
+keyword	unfaithfulness
+keyword	extramarital affair
+keyword	coitus
+keyword	elevator
+keyword	jealousy
+keyword	detective
+keyword	sex toy
+keyword	sex in bed
+keyword	controversy
+keyword	drug abuse
+keyword	betrayal
+keyword	oral sex
+keyword	damsel in distress
+keyword	female removes her dress
+keyword	black panties
+keyword	adultery
+keyword	rough sex
+keyword	cat
+keyword	independent film
+keyword	surprise ending
+cast	Madonna	Rebecca Carlson
+cast	Michael Forest	Andrew Marsh
+cast	Joe Mantegna	Robert Garrett
+cast	Charles Hallahan	Dr. McCurdy
+cast	Mark Rolston	Detective Reese
+cast	Richard Riehle	Detective Griffin
+cast	D. Scot Douglas	Printman
+cast	Mario DePriest	Technician
+cast	John DeLay	2nd Technician
+cast	Ross Huffman-Kerr	Photographer
+cast	Anne Archer	Joanne Braslow
+cast	Willem Dafoe	Frank Dulaney
+cast	Mark C. Vincent	Male Reporter
+cast	Frank Roberts	Minister
+cast	Julianne Moore	Sharon Dulaney
+cast	Aaron Corcoran	Michael Dulaney
+cast	Timi Prulhiere	Waitress
+cast	Corey Brunish	Jamie
+cast	Stan Shaw	Charles Biggs
+cast	Jeff Perry	Gabe
+cast	John Davis Chandler	Dr. Novaro
+cast	Lillian Lehman	Judge Burnham
+cast	Peter Paul Eastman	Jury Foreman
+cast	Jürgen Prochnow	Doctor Alan Paley
+cast	Bryan Clark	Clerk
+cast	Frank Langella	Jeffrey Roston
+cast	John Busse	Detective Sikes
+cast	Jacque Drew	Receptionist
+cast	Ryal Haakenson	Juror

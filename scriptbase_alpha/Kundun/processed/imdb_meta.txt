@@ -1,0 +1,217 @@
+year	1997
+imdb score	7.1
+meta score	74
+genre	Biography
+genre	Drama
+genre	History
+genre	War
+keyword	tibet
+keyword	chinese
+keyword	dalai lama
+keyword	lama
+keyword	china
+keyword	tibetan
+keyword	india
+keyword	exile
+keyword	escape
+keyword	government
+keyword	dharamsala
+keyword	buddha
+keyword	monk
+keyword	slaughter
+keyword	communist
+keyword	reincarnation
+keyword	dharma
+keyword	caravan
+keyword	chinese invasion
+keyword	boat
+keyword	family relationships
+keyword	monastery
+keyword	mao tse tung
+keyword	bowl
+keyword	revolutionary
+keyword	himalayas
+keyword	nun
+keyword	bug
+keyword	burned out building
+keyword	confidence
+keyword	false teeth
+keyword	bombing
+keyword	feudalism
+keyword	living god
+keyword	invasion
+keyword	brother brother relationship
+keyword	spirituality
+keyword	compassion
+keyword	stop motion scene
+keyword	purity
+keyword	reference to hitler
+keyword	great hall of the liberation army
+keyword	bullying
+keyword	holiness
+keyword	1950s
+keyword	death
+keyword	bomb
+keyword	shackles
+keyword	dog
+keyword	prison
+keyword	vulture
+keyword	united nations
+keyword	crying
+keyword	forced to kill
+keyword	mandala
+keyword	incarnation
+keyword	flash camera
+keyword	car accident
+keyword	god king
+keyword	murder
+keyword	dismembered body
+keyword	reference to harry s truman
+keyword	chinese soldier
+keyword	bell
+keyword	mother son relationship
+keyword	gun
+keyword	sand
+keyword	poland
+keyword	1940s
+keyword	lake
+keyword	pride
+keyword	watching movie
+keyword	non violence
+keyword	lhasa tibet
+keyword	oracle
+keyword	photographer
+keyword	chinese occupation
+keyword	chinese invasion of tibet
+keyword	gazelle
+keyword	communism
+keyword	waterfall
+keyword	child ruler
+keyword	teeth
+keyword	education
+keyword	reverse footage
+keyword	negotiation
+keyword	revolution
+keyword	bowing
+keyword	slow motion scene
+keyword	arrest
+keyword	reference to genghis khan
+keyword	dungkhar monastery
+keyword	soldier
+keyword	dancer
+keyword	amnesty
+keyword	peace
+keyword	liberation
+keyword	return
+keyword	wisdom
+keyword	socialism
+keyword	reactionary
+keyword	severed arm
+keyword	assassination attempt
+keyword	singing
+keyword	hiroshima japan
+keyword	gunshot
+keyword	doomsday
+keyword	blood in water
+keyword	teenage boy
+keyword	map
+keyword	red china
+keyword	dead body
+keyword	geese
+keyword	horn
+keyword	lord chamberlain
+keyword	boy
+keyword	mass murder
+keyword	pearl harbor
+keyword	religion
+keyword	magazine
+keyword	karma
+keyword	prayer
+keyword	retreat
+keyword	naked light bulb
+keyword	buddhist
+keyword	dream
+keyword	sand painting
+keyword	dancing
+keyword	sino tibetan conflict
+keyword	airplane
+keyword	crow
+keyword	dream sequence
+keyword	fish
+keyword	black crow
+keyword	atomic bomb
+keyword	bravery
+keyword	general
+keyword	surrender
+keyword	people's liberation army
+keyword	prime minister
+keyword	eyeglasses
+keyword	assassination
+keyword	suffering
+keyword	chinese army
+keyword	horse riding
+keyword	journey
+keyword	happiness
+keyword	one word title
+keyword	teacher student relationship
+keyword	politics
+keyword	secularism
+keyword	song
+keyword	nightmare
+keyword	rat
+keyword	children
+keyword	cannibalism
+keyword	shoes
+keyword	movie projector
+keyword	mouse
+keyword	peking china
+keyword	buddhism
+keyword	father son relationship
+keyword	telescope
+keyword	enlightenment
+keyword	tibetan monk
+keyword	brother sister relationship
+keyword	1930s
+keyword	execution
+keyword	regent
+keyword	ocean of wisdom
+keyword	subjective camera
+keyword	death of father
+keyword	title spoken by character
+keyword	
+cast	Tenzin Thuthob Tsarong	Dalai Lama
+cast	Gyurme Tethong	Dalai Lama
+cast	Tulku Jamyang Kunga Tenzin	Dalai Lama
+cast	Tenzin Yeshi Paichang	Dalai Lama
+cast	Tencho Gyalpo	Mother
+cast	Tenzin Topjar	Lobsang
+cast	Tsewang Migyur Khangsar	Father
+cast	Tenzin Lodoe	Takster
+cast	Geshi Yeshi Gyatso	Lama of Sera
+cast	Losang Gyatso	The Messenger
+cast	Sonam Phuntsok	Reting Rinpoche
+cast	Gyatso Lukhang	Lord Chamberlain
+cast	Lobsang Samten	Master of the Kitchen
+cast	Jigme Tsarong	Taktra Rimpoche
+cast	Tenzin Trinley	Ling Rimpoche
+cast	Namgay Dorjee	Kashag / Nobleman #1
+cast	Phintso Thonden	Kashag / Nobleman #2
+cast	Chewang Tsering Ngokhang	Layman #1
+cast	Jamyang Tenzin	Norbu Thundrup
+cast	Tashi Dhondup	Lobsang
+cast	Jampa Lungtok	Nechung Oracle
+cast	Karma Wangchuk	Deformed Face Bodyguard
+cast	Kim Chan	Second Chinese General
+cast	Henry Yuk	General Tan
+cast	Ngawang Kaldan	Prime Minister Lobsang Tashi
+cast	Jurme Wangda	Prime Minister Lukhangwa
+cast	Robert Lin	Chairman Mao
+cast	Salden Kunga	Tibetan Doctor
+cast	John Wong	Chinese Comrade
+cast	Gawa Youngdung	Old Woman
+cast	Tenzin Rampa	Tenzin Chonegyl
+cast	Vyas Ananthakrishnan	Indian Soldier
+cast	Ken Leung	
+cast	Yoon C. Joyce	Chinese soldier
+cast	R. Gern Trowbridge	Monk
+cast	Ben Wang	General Chang Ching-Wu

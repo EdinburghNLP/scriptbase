@@ -1,0 +1,150 @@
+year	2011
+imdb score	7.3
+meta score	63
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	lawyer
+keyword	prostitute
+keyword	trial
+keyword	prosecutor
+keyword	stabbed to death
+keyword	drunkenness
+keyword	man punching a woman
+keyword	murder
+keyword	hospital
+keyword	san francisco california
+keyword	shot in the chest
+keyword	divorced couple
+keyword	beating
+keyword	photograph
+keyword	bare chested male
+keyword	park
+keyword	flashback
+keyword	bailiff
+keyword	san quentin penitentiary
+keyword	parking ticket
+keyword	jury
+keyword	hit with a baseball bat
+keyword	courthouse
+keyword	stolen gun
+keyword	mother son relationship
+keyword	client attorney privilege
+keyword	envelope full of money
+keyword	rape
+keyword	los angeles california
+keyword	police detective
+keyword	accused of murder
+keyword	judge
+keyword	investigation
+keyword	deception
+keyword	san francisco bay
+keyword	shot in the head
+keyword	character repeating someone else's dialogue
+keyword	breaking a bottle over someone's head
+keyword	courtroom
+keyword	bar
+keyword	lap dance
+keyword	witness
+keyword	gay slur
+keyword	sex scene
+keyword	arrest
+keyword	mugshot
+keyword	stabbed in the chest
+keyword	knife
+keyword	motorcycle gang
+keyword	district attorney
+keyword	video footage
+keyword	joint custody
+keyword	lincoln town car
+keyword	private investigator
+keyword	punched in the face
+keyword	lying
+keyword	home invasion
+keyword	pierced tongue
+keyword	drug rehab
+keyword	surveillance footage
+keyword	chauffeur
+keyword	pistol
+keyword	framed for murder
+keyword	jail
+keyword	crime scene
+keyword	three word title
+keyword	lens flare
+keyword	shot to death
+keyword	ex husband ex wife relationship
+keyword	bail
+keyword	inglewood california
+keyword	golden gate bridge
+keyword	prison visit
+keyword	death of friend
+keyword	based on novel
+keyword	surprise ending
+cast	Matthew McConaughey	Mick Haller
+cast	Marisa Tomei	Maggie McPherson
+cast	Ryan Phillippe	Louis Roulet
+cast	William H. Macy	Frank Levin
+cast	Josh Lucas	Ted Minton
+cast	John Leguizamo	Val Valenzuela
+cast	Michael Peña	Jesus Martinez
+cast	Bob Gunton	Cecil Dobbs
+cast	Frances Fisher	Mary Windsor
+cast	Bryan Cranston	Detective Lankford
+cast	Trace Adkins	Eddie Vogel
+cast	Laurence Mason	Earl
+cast	Margarita Levieva	Reggie Campo
+cast	Pell James	Lorna
+cast	Shea Whigham	Corliss
+cast	Katherine Moennig	Gloria
+cast	Michael Paré	Detective Kurlen
+cast	Michaela Conlin	Detective Sobel
+cast	Mackenzie Aladjem	Hayley Haller
+cast	Reggie Baker	Judge Fullbright
+cast	Javier Grajeda	Bailiff Reynaldo
+cast	David Castro	Harold Casey
+cast	Conor O'Farrell	Judge Orton Powell
+cast	Charles Hirsch	Prosecutor
+cast	Roland Feliciano	Biker
+cast	Jeff Cole	Van Nuys Judge
+cast	Andrew Staes	Maggie's Co-Counsel
+cast	Donnie Smith	Sticks
+cast	Erin Carufel	Leslie Faire
+cast	Sam Upton	Officer Maxwell
+cast	Matthew Moreno	Officer #2
+cast	L. Emille Thomas	Officer #3
+cast	Kate Mulligan	Minton's Secretary
+cast	Edwin Dunn	Golfer #1
+cast	Eric Huus	Golfer #2
+cast	Rick Filkins	Golfer #3
+cast	Melanie Molnar	Junior Prosecutor
+cast	Stephanie Mace	Diner Waitress
+cast	Yari De Leon	Donna Renteria
+cast	Christian George	San Quentin Guard
+cast	Randy Mulkey	Bartender
+cast	Scott J. Wood	L.A. Rehab Guard
+cast	Earl Carroll	Court Clerk
+cast	Melanie Benz	Assistant DA
+cast	Eric Etebari	Charles Talbot
+cast	Sharyn Bamber	Court Stenographer
+cast	Jose Acevedo	LAPD Officer
+cast	Keion Adams	Police Officer
+cast	Monica Cabral	Waitress
+cast	James Chiello	Soccer Player
+cast	Matt Cinquanta	Frank's Partner
+cast	Darius Cottrell	Lock-Up Baliff
+cast	Mark Casimir Dyniewicz	Mugshot Suspect
+cast	Kim Farris	Police Officer
+cast	Shannon Garnett	Holding Cell Prisoner
+cast	Seth C. Harris	Inglewood PD #3
+cast	Rebecca Jordan	Diner Waitress
+cast	Ron Kari	Biker
+cast	Keith Middlebrook	Donald Solmor
+cast	Carlos Miranda	Juror
+cast	Geoff Pilkington	Courtroom Attorney
+cast	James Rejent	Bartender
+cast	Drew Sherman	Juror
+cast	Greg Siff	Orderly
+cast	Sophia Strauss	Soccer Player
+cast	GJ Tiari	Law Student
+cast	Ryan Van de Kamp Buchanan	Paramedic
+cast	Rachel Wittman	Maggie's Friend

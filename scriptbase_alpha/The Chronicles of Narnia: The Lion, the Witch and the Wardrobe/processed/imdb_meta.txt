@@ -1,0 +1,259 @@
+year	2005
+imdb score	6.9
+meta score	75
+genre	Adventure
+genre	Family
+genre	Fantasy
+keyword	witch
+keyword	lion
+keyword	professor
+keyword	snow
+keyword	hide and seek
+keyword	magic
+keyword	king
+keyword	christmas
+keyword	beaver
+keyword	prophecy
+keyword	air raid
+keyword	queen
+keyword	escape
+keyword	good versus evil
+keyword	epic
+keyword	archery
+keyword	torch
+keyword	stabbing
+keyword	resurrection
+keyword	slow motion scene
+keyword	frozen river
+keyword	crying
+keyword	leopard
+keyword	beach
+keyword	waking up someone
+keyword	giant
+keyword	handkerchief
+keyword	umbrella
+keyword	christ allegory
+keyword	bow and arrow
+keyword	brother brother hug
+keyword	armor
+keyword	sleigh
+keyword	blockbuster
+keyword	world war two
+keyword	snowing
+keyword	scene during end credits
+keyword	animal attack
+keyword	climbing a tree
+keyword	epilogue
+keyword	food
+keyword	self sacrifice
+keyword	goblet
+keyword	wolf
+keyword	rope
+keyword	dagger
+keyword	rescue
+keyword	brother sister hug
+keyword	petrification
+keyword	train
+keyword	encampment
+keyword	cricket the game
+keyword	railway station
+keyword	innocence
+keyword	mother son relationship
+keyword	country estate
+keyword	dreadlocks
+keyword	castle
+keyword	tripping over
+keyword	minotaur
+keyword	parallel universe
+keyword	face slap
+keyword	lifting a male into the air
+keyword	tears
+keyword	dungeon
+keyword	centaur
+keyword	deer
+keyword	ball through window
+keyword	lifting someone into the air
+keyword	snowy landscape
+keyword	bear
+keyword	teenager
+keyword	country mansion
+keyword	friend
+keyword	dwarf
+keyword	bomb shelter
+keyword	colon in title
+keyword	mother daughter relationship
+keyword	waterfall
+keyword	war context
+keyword	talking beaver
+keyword	handshake
+keyword	tree
+keyword	girl
+keyword	child imprisonment
+keyword	polar bear
+keyword	gift
+keyword	rhinoceros
+keyword	battle
+keyword	portal
+keyword	brother sister relationship
+keyword	horse
+keyword	mission
+keyword	older brother caring for siblings
+keyword	resentment toward brother
+keyword	flute
+keyword	coronation
+keyword	child in peril
+keyword	cult film
+keyword	altar
+keyword	ice
+keyword	reindeer
+keyword	underwater
+keyword	sword and sorcery
+keyword	cyclops
+keyword	sword fight
+keyword	sister sister relationship
+keyword	elixir
+keyword	shield
+keyword	satyr
+keyword	redemption
+keyword	chase
+keyword	flash forward
+keyword	railway platform
+keyword	fox
+keyword	two brothers
+keyword	london air raid
+keyword	crown
+keyword	magic potion
+keyword	mermaid
+keyword	comma in title
+keyword	housekeeper
+keyword	betrayal by brother
+keyword	pursued by wolves
+keyword	map
+keyword	horse riding
+keyword	friendship
+keyword	curse
+keyword	cricket ball
+keyword	humiliation
+keyword	prologue
+keyword	turkish delight
+keyword	water fight
+keyword	talking fox
+keyword	fireplace
+keyword	snowball fight
+keyword	eleven word title
+keyword	bound and gagged
+keyword	death
+keyword	london blitz
+keyword	chain mail
+keyword	evacuation
+keyword	sword
+keyword	saving brother's life
+keyword	window smashing
+keyword	ice floe
+keyword	griffin
+keyword	chariot
+keyword	combat
+keyword	reference to jesus christ
+keyword	forest
+keyword	1940s
+keyword	london england
+keyword	throne
+keyword	turned to stone
+keyword	gorilla
+keyword	faun
+keyword	brother brother relationship
+keyword	kidnapping
+keyword	knighthood
+keyword	horse drawn cart
+keyword	lamp post
+keyword	tiger
+keyword	fur coat
+keyword	english
+keyword	spear
+keyword	sisterhood
+keyword	stabbed in the stomach
+keyword	talking animal
+keyword	tent
+keyword	tyrant
+keyword	england
+keyword	fictional war
+keyword	spring
+keyword	enticement
+keyword	river
+keyword	betrayal
+keyword	fear
+keyword	picture frame
+keyword	mythology
+keyword	tunnel
+keyword	closet
+keyword	unicorn
+keyword	surprise during end credits
+keyword	healing
+keyword	ring
+keyword	surrealism
+keyword	photograph
+keyword	based on novel
+keyword	
+cast	Georgie Henley	Lucy Pevensie
+cast	Skandar Keynes	Edmund Pevensie
+cast	William Moseley	Peter Pevensie
+cast	Anna Popplewell	Susan Pevensie
+cast	Tilda Swinton	White Witch
+cast	James McAvoy	Mr. Tumnus
+cast	Jim Broadbent	Professor Kirke
+cast	Kiran Shah	Ginarrbrik
+cast	James Cosmo	Father Christmas
+cast	Judy McIntosh	Mrs. Pevensie
+cast	Elizabeth Hawthorne	Mrs. Macready
+cast	Patrick Kake	Oreius
+cast	Shane Rangi	General Otmin
+cast	Brandon Cook	Boy on Train
+cast	Cassie Cook	Girl on Train
+cast	Morris Lupton	Train Conductor
+cast	Shelly Edwards	Distraught Mother
+cast	Susan Haldane	Distraught Mother
+cast	Margaret Bremner	Distraught Mother
+cast	Jaxin Hall	Soldier
+cast	Terry Murdoch	German Pilot
+cast	Katrina Browne	Green Dryad
+cast	Lee Tuson	Rumblebuffin the Giant
+cast	Elizabeth Kirk	Hag
+cast	Felicity Hamill	Hag
+cast	Kate O'Rourke	Hag
+cast	Sonya Hitchcock	Hag
+cast	Lucy Tanner	Hag
+cast	Tiggy Mathias	Hag
+cast	Gregory Cooper	Faun
+cast	Richard King	Faun
+cast	Russell Pickering	Faun
+cast	Ben Barrington	Centaur
+cast	Charles Williams	Centaur
+cast	Vanessa Cater	Centaur
+cast	Allison Sarofim	Centaur
+cast	Alina Phelan	Centaur Archer
+cast	Stephen Ure	Satyr
+cast	Sam La Hood	Satyr
+cast	Ajay Ratilal Navi	Red & Black Dwarf
+cast	Bhoja 'BK' Kannada	Red & Black Dwarf
+cast	Zakiuddin Mohd. Farooque	Red & Black Dwarf
+cast	M. Ramaswami	Red & Black Dwarf
+cast	Praphaphorn 'Fon' Chansantor	Red & Black Dwarf
+cast	Nikhom Nusungnern	Red & Black Dwarf
+cast	Doungdieo Savangvong	Red & Black Dwarf
+cast	Rachael Henley	Older Lucy
+cast	Mark Wells	Older Edmund
+cast	Noah Huntley	Older Peter
+cast	Sophie Winkleman	Older Susan
+cast	Liam Neeson	Aslan
+cast	Ray Winstone	Mr. Beaver
+cast	Dawn French	Mrs. Beaver
+cast	Rupert Everett	Mr. Fox
+cast	Cameron Rhodes	Gryphon
+cast	Philip Steuer	Philip the Horse
+cast	Jim May	Vardan
+cast	Sim Evan-Jones	Wolf
+cast	Douglas Gresham	Radio Announcer
+cast	Megan Franich	Dancing Nymph and Goblin
+cast	Sandro Kopp	Centaur
+cast	Michael Madsen	Maugrim
+cast	Andrew Osbourne	Singer

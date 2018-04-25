@@ -1,0 +1,327 @@
+year	2004
+imdb score	7.7
+meta score	30
+genre	Sci-Fi
+genre	Thriller
+keyword	memory
+keyword	blackout
+keyword	flashback
+keyword	college
+keyword	convulsion
+keyword	dog burned to death
+keyword	asthma
+keyword	illness
+keyword	hypnotic regression
+keyword	shower
+keyword	home movie
+keyword	basement
+keyword	model airplane
+keyword	butterfly effect
+keyword	religion
+keyword	self defense
+keyword	kiss
+keyword	slum
+keyword	critically bashed
+keyword	sorority
+keyword	kneeling
+keyword	female in shower
+keyword	woods
+keyword	mace the drug
+keyword	roommate
+keyword	choking
+keyword	mini skirt
+keyword	prostitute
+keyword	worm
+keyword	building model airplane
+keyword	severed arm
+keyword	basketball
+keyword	pedophile
+keyword	killing an animal
+keyword	punk
+keyword	underwear
+keyword	suv
+keyword	human brain
+keyword	lingerie
+keyword	haunted by the past
+keyword	memory loss
+keyword	suicide attempt
+keyword	gun
+keyword	cigarette burn
+keyword	bare breasts
+keyword	child abuse
+keyword	toes
+keyword	video camera
+keyword	restaurant
+keyword	death
+keyword	fate
+keyword	knocked out
+keyword	father daughter relationship
+keyword	alternate universe
+keyword	prison
+keyword	lost love
+keyword	s&m
+keyword	prosthetic limb
+keyword	gay slur
+keyword	mini dress
+keyword	wheelchair
+keyword	fellatio
+keyword	panties
+keyword	alternate reality
+keyword	brain hemorrhage
+keyword	attempted murder
+keyword	doll
+keyword	professor
+keyword	violence
+keyword	inheritance
+keyword	graveyard
+keyword	unrequited love
+keyword	child pornography
+keyword	ambulance
+keyword	fight
+keyword	cleavage
+keyword	watching a movie
+keyword	sadist
+keyword	reference to jesus christ
+keyword	cilantro
+keyword	repression
+keyword	underwater scene
+keyword	rape
+keyword	knife
+keyword	medicine
+keyword	aryan brotherhood
+keyword	impalement
+keyword	hazing
+keyword	racial slur
+keyword	hit on the head
+keyword	brain
+keyword	female frontal nudity
+keyword	dog
+keyword	compassion
+keyword	time travel
+keyword	topless female nudity
+keyword	cat scan
+keyword	cigarette smoking
+keyword	drawing
+keyword	lighter fluid
+keyword	notebook
+keyword	coffin
+keyword	psychopath
+keyword	moving
+keyword	reference to god
+keyword	destiny
+keyword	crying
+keyword	explosion
+keyword	strangulation
+keyword	father son relationship
+keyword	scantily clad female
+keyword	psychiatrist
+keyword	murder
+keyword	fraternity house
+keyword	bravery
+keyword	sedation
+keyword	reading
+keyword	beating
+keyword	flash forward
+keyword	journal
+keyword	blood
+keyword	cemetery
+keyword	billiards
+keyword	reference to maid marian
+keyword	child molester
+keyword	inhaler
+keyword	captive
+keyword	exam
+keyword	therapy
+keyword	test
+keyword	childhood
+keyword	blue panties
+keyword	funeral
+keyword	castration
+keyword	dead dog
+keyword	female nudity
+keyword	goth girl
+keyword	hospital
+keyword	dog burned alive
+keyword	strangle
+keyword	psychology
+keyword	mother son relationship
+keyword	burning
+keyword	boy
+keyword	talking during a movie
+keyword	prison rape
+keyword	artificial hand
+keyword	jealousy
+keyword	reference to robin hood
+keyword	teenage boy
+keyword	rain
+keyword	changing past event
+keyword	escape
+keyword	stabbed in the hand
+keyword	accidental killing
+keyword	university
+keyword	crotch grab
+keyword	self mutilation
+keyword	nosebleed
+keyword	hate
+keyword	copulation
+keyword	paranormal phenomena
+keyword	abuse
+keyword	psychological trauma
+keyword	suicide
+keyword	morpho butterfly
+keyword	playing pool
+keyword	hypnosis
+keyword	girl in panties
+keyword	teacher
+keyword	lung cancer
+keyword	brother sister relationship
+keyword	shard
+keyword	stabbed in the back
+keyword	911
+keyword	baby
+keyword	disturbed childhood
+keyword	paranoia
+keyword	telephone call
+keyword	fire
+keyword	nonlinear timeline
+keyword	breasts
+keyword	marriage proposal
+keyword	movie theater
+keyword	stress
+keyword	child in peril
+keyword	altering history
+keyword	surrealism
+keyword	chaos theory
+keyword	revenge
+keyword	psychotic child
+keyword	essay
+keyword	nude girl
+keyword	numbness
+keyword	baseball bat
+keyword	mail bomb
+keyword	child hero
+keyword	fatalism
+keyword	bully
+keyword	vandalism
+keyword	pepper spray
+keyword	repressed memory
+keyword	child murder
+keyword	film starts with text
+keyword	scar
+keyword	sex in bed
+keyword	cynicism
+keyword	death of a dog
+keyword	cult film
+keyword	junkyard
+keyword	drug addict
+keyword	sex scene
+keyword	cafe
+keyword	beaten to death
+keyword	mental institution
+keyword	child killing a child
+keyword	bar
+keyword	curse
+keyword	student
+keyword	grave side ceremony
+keyword	hotel
+keyword	school
+keyword	beer
+keyword	insanity
+keyword	television
+keyword	pay phone
+keyword	girl
+keyword	cancer
+keyword	trauma
+keyword	forest
+keyword	dynamite
+keyword	psychotherapy
+keyword	stabbing
+keyword	father in prison
+keyword	self sacrifice
+keyword	coitus
+keyword	fraternity
+keyword	killing a dog
+keyword	dungeon
+keyword	pedophilia
+keyword	convict
+keyword	sociopath
+keyword	pornography
+keyword	bicycle
+keyword	butterfly
+keyword	bare chested male
+keyword	tears
+keyword	stabbed in the chest
+keyword	love
+keyword	childhood friend
+keyword	nightmare
+keyword	waitress
+keyword	teenage girl
+keyword	child nudity
+keyword	firecracker
+keyword	vomit
+keyword	mailbox
+keyword	u haul truck
+keyword	nurse
+keyword	nudity
+keyword	dream
+keyword	cross
+keyword	nude
+keyword	towel
+keyword	dog set on fire
+keyword	boyfriend girlfriend relationship
+keyword	death of father
+keyword	surprise ending
+cast	Ashton Kutcher	Evan
+cast	Melora Walters	Andrea
+cast	Amy Smart	Kayleigh
+cast	Elden Henson	Lenny
+cast	William Lee Scott	Tommy
+cast	John Patrick Amedori	Evan at 13
+cast	Irene Gorovaia	Kayleigh at 13
+cast	Kevin G. Schmidt	Lenny at 13
+cast	Jesse James	Tommy at 13
+cast	Logan Lerman	Evan at 7
+cast	Sarah Widdows	Kayleigh at 7
+cast	Jake Kaese	Lenny at 7
+cast	Cameron Bright	Tommy at 7
+cast	Eric Stoltz	Mr. Miller
+cast	Callum Keith Rennie	Jason
+cast	Lorena Gale	Mrs. Boswell
+cast	Nathaniel DeVeaux	Dr. Redfield
+cast	John Tierney	Priest
+cast	Kendall Cross	Mrs. Kagan
+cast	Ted Friend	Anchor
+cast	John B. Lowe	Professor Carter
+cast	Ethan Suplee	Thumper
+cast	Camille Sullivan	Cricket
+cast	Tara Wilson	Heidi
+cast	Jesse Hutch	Spencer
+cast	Jacqueline Stewart	Gwen
+cast	Grant Thompson	Hunter
+cast	Sadie Lawrence	Mrs. Halpern
+cast	Bill Croft	Boss
+cast	Glenn Richards	Pinching Customer
+cast	Sam Easton	Theta Chi Pledge
+cast	Daniel Spink	Senior Brother
+cast	Douglas Arthurs	Karl
+cast	Kevin Durand	Carlos
+cast	Paul Lazenby	Rick
+cast	June B. Wilde	Waitress
+cast	Kimani Ray Smith	Orderly
+cast	Trevor Jones	Sunnyvale Guard
+cast	Colby Chartrand	Teen Punk
+cast	Shelly Schiavoni	Mrs. Miller
+cast	Brandy Kopp	Kristen
+cast	Chapelle Jaffe	Madame Helga
+cast	Scott Swanson	Obstetrician
+cast	Kevan Ohtsji	Anesthesiologist
+cast	Meilani Paul	Gesela
+cast	Amy Esterle	Gothic Co-Ed
+cast	David Cook	Moviegoer
+cast	Magda Apanowicz	Teen Punk Girl
+cast	Garry Little	Wedding Priest
+cast	J. Jackson Kocela	Evan at 3
+cast	Andrew Olcott	Andrea's New Husband
+cast	Riddle the Dog	Crockett the Dog
+cast	Stan Edmonds	Crying Mental Patient
+cast	Cameron K. Smith	Theater Patron

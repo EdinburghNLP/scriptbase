@@ -1,0 +1,214 @@
+year	1998
+imdb score	6.4
+meta score	61
+genre	Horror
+genre	Mystery
+genre	Sci-Fi
+genre	Thriller
+keyword	alien
+keyword	ohio
+keyword	high school
+keyword	small town
+keyword	school bus
+keyword	punched in the face
+keyword	school library
+keyword	face slap
+keyword	dummy
+keyword	porn magazine
+keyword	transformation
+keyword	severed finger
+keyword	car on fire
+keyword	severed head
+keyword	camera
+keyword	satire
+keyword	reference to george lucas
+keyword	hazing
+keyword	paper cutter
+keyword	reference to robinson crusoe
+keyword	air conditioner
+keyword	teen horror
+keyword	nerd
+keyword	dead body in a closet
+keyword	extraterrestrial
+keyword	football coach
+keyword	fear
+keyword	laboratory
+keyword	indoor swimming pool
+keyword	bleachers
+keyword	nose ring
+keyword	water
+keyword	locker room
+keyword	american football
+keyword	microscope
+keyword	hiding in a closet
+keyword	faculty lounge
+keyword	allergy
+keyword	stabbed in the chest
+keyword	muscle car
+keyword	car crash
+keyword	roadblock
+keyword	high school football
+keyword	monster
+keyword	blood
+keyword	football practice
+keyword	thrown through a windshield
+keyword	drug snorting
+keyword	reference to steven spielberg
+keyword	reference to time magazine
+keyword	flask
+keyword	football field
+keyword	boyfriend girlfriend relationship
+keyword	husband wife relationship
+keyword	father son relationship
+keyword	skinny dipping
+keyword	dissection
+keyword	geek
+keyword	worm
+keyword	high school senior
+keyword	breaking a bottle over someone's head
+keyword	school nurse
+keyword	woman with glasses
+keyword	alien invasion
+keyword	rain
+keyword	alien possession
+keyword	body snatching
+keyword	biting a finger
+keyword	teen movie
+keyword	gash in the face
+keyword	regeneration
+keyword	violence
+keyword	high school newspaper
+keyword	flashback
+keyword	lab rat
+keyword	pistol
+keyword	teen angst
+keyword	photograph
+keyword	chase
+keyword	explosion
+keyword	fake id
+keyword	football stadium
+keyword	jock
+keyword	alien creature
+keyword	gym
+keyword	corpse
+keyword	parasite
+keyword	falling off a roof
+keyword	foot chase
+keyword	computer
+keyword	drinking on the job
+keyword	stabbed in the hand
+keyword	held at gunpoint
+keyword	cheerleader
+keyword	stabbed with a pencil
+keyword	stabbed with a pen
+keyword	flag pole
+keyword	teenage boy
+keyword	hit in the crotch
+keyword	topless female nudity
+keyword	paranoia
+keyword	mind control
+keyword	mother son relationship
+keyword	bloody nose
+keyword	family relationships
+keyword	loner
+keyword	decapitation
+keyword	underwater scene
+keyword	cigarette smoking
+keyword	shot in the forehead
+keyword	killing an animal
+keyword	high school student
+keyword	stabbed with scissors
+keyword	long tongue
+keyword	character repeating someone else's dialogue
+keyword	killing an alien
+keyword	hit with a broom
+keyword	climbing out a window
+keyword	photographer
+keyword	tentacle
+keyword	classroom
+keyword	school mascot
+keyword	scratching someone's face
+keyword	football team
+keyword	female rear nudity
+keyword	editor in chief
+keyword	teacher student relationship
+keyword	amphibian
+keyword	fish tank
+keyword	alien organism
+keyword	high school principal
+keyword	goth girl
+keyword	high school love
+keyword	disembodied head
+keyword	teenage hero
+keyword	bare chested male
+keyword	faculty
+keyword	high school teacher
+keyword	ear bleeding
+keyword	loneliness
+keyword	shower
+keyword	body snatcher
+keyword	freeze frame
+keyword	outcast
+keyword	drug manufacturing
+keyword	stabbed in the eye
+keyword	stabbed to death
+keyword	police car
+keyword	suspected lesbian
+keyword	teenage girl
+keyword	white mouse
+keyword	lightning
+keyword	drug dealer
+keyword	title spoken by character
+cast	Jordana Brewster	Delilah Profitt
+cast	Clea DuVall	Stokely 'Stokes' Mitchell
+cast	Laura Harris	Marybeth Louise Hutchinson
+cast	Josh Hartnett	Zeke Tyler
+cast	Shawn Hatosy	Stan Rosado
+cast	Salma Hayek	Nurse Rosa Harper
+cast	Famke Janssen	Miss Elizabeth Burke
+cast	Piper Laurie	Mrs. Karen Olson
+cast	Christopher McDonald	Mr. Frank Connor
+cast	Bebe Neuwirth	Principal Valerie Drake
+cast	Robert Patrick	Coach Joe Willis
+cast	Usher Raymond	Gabe Santora
+cast	Jon Stewart	Prof. Edward Furlong
+cast	Daniel von Bargen	Mr. John Tate
+cast	Elijah Wood	Casey Connor
+cast	Jon Abrahams	F'%# You Boy
+cast	Summer Phoenix	F'%# You Girl
+cast	Susan Willis	Mrs. Jessica Brummel
+cast	Pete Janssen	Eddie 'Meat' McIvey
+cast	Tina Rodriguez	Tattoo Girl
+cast	Danny Masterson	F'%# Up #1
+cast	Wiley Wiggins	F'%# Up #2
+cast	Harry Jay Knowles	Mr. Knowles
+cast	Donna Casey	Tina
+cast	Louis Black	Mr. Lewis
+cast	Eric Jungmann	Freshman #1
+cast	Chris Viteychuk	Freshman #2
+cast	Jim Johnston	P.E. Teacher
+cast	Libby Villari	Casey's Mom
+cast	Duane Martin	Officer #1
+cast	Katherine Willis	Officer #2
+cast	Mike Lutz	Hornet Mascot
+cast	Douglas Aarniokoski	Brun Coach
+cast	Quin Arbeitman	High School Student
+cast	Peter Butler	Drayne
+cast	Mardi DeLong	Student
+cast	James Douglas	High School Student
+cast	Michelle Fairbanks	Student
+cast	Juan Carlos Gregg	Student
+cast	Thalia Harithas	Extra
+cast	Michael Hernandez	Student
+cast	Dannie Helen Loraine Knowles	Tatooed Pierced Girl #2
+cast	Jarrell Jay Knowles	Football Fan
+cast	Jason May	Biology Student
+cast	Ray Melendez	Student
+cast	Rana Morrison	Student
+cast	Matthew Nicklaw	Cool Kid
+cast	Rick Olmos	Football Fan
+cast	Brad Schreiber	Hornet Football Player
+cast	Cassandra L. Small	School Office Clerk
+cast	Danny Taylor-Homfeld	Extra
+cast	Eric Vespe	Geek
+cast	Mark Edward Walters	Olive Vest Front Row Fan

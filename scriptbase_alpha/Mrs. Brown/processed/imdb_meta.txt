@@ -1,0 +1,98 @@
+year	1997
+imdb score	7.3
+meta score	71
+genre	Biography
+genre	Drama
+genre	History
+genre	Romance
+keyword	queen
+keyword	queen victoria
+keyword	friendship
+keyword	servant
+keyword	mother son relationship
+keyword	horse caretaker
+keyword	prince of wales
+keyword	love
+keyword	kilt
+keyword	politics
+keyword	male frontal nudity
+keyword	royalty
+keyword	typhoid fever
+keyword	family relationships
+keyword	prime minister
+keyword	loss of husband
+keyword	platonic love
+keyword	intrigue
+keyword	caretaker
+keyword	assassination attempt
+keyword	scot
+keyword	irreverence
+keyword	skinny dipping
+keyword	class differences
+keyword	gossip
+keyword	hunting guide
+keyword	scandal
+keyword	horse
+keyword	private secretary
+keyword	horse riding
+keyword	widow
+keyword	england
+keyword	male nudity
+keyword	monarch
+keyword	1880s
+keyword	loyalty
+keyword	british royal family
+keyword	1860s
+keyword	pistol
+keyword	19th century
+keyword	politician
+keyword	bagpipes
+keyword	depression
+keyword	diary
+keyword	queen of england
+keyword	victorian era
+keyword	grief
+keyword	rumor
+keyword	death of husband
+keyword	friend
+keyword	benjamin disraeli
+keyword	scotland
+keyword	independent film
+keyword	character name in title
+keyword	title spoken by character
+keyword	
+cast	Judi Dench	Queen Victoria
+cast	Billy Connolly	John Brown
+cast	Geoffrey Palmer	Henry Ponsonby
+cast	Antony Sher	Prime Minister Benjamin Disraeli
+cast	Gerard Butler	Archie Brown
+cast	Richard Pasco	Doctor Jenner
+cast	David Westhead	Prince of Wales
+cast	Bridget McConnell	Lady Ely
+cast	Georgie Glen	Lady Churchill
+cast	Catherine O'Donnell	Lady-in-Waiting
+cast	Sara Stewart	Princess Alexandra
+cast	Finty Williams	Princess Helena
+cast	Claire Nicolson	Princess Louise
+cast	Hattie Ladbury	Princess Alice
+cast	Oliver Kent	Prince Alfred
+cast	Alex Menzies	Prince Arthur
+cast	Simon McKerrell	Prince Leopold
+cast	Rupert Farley	Bertie's valet
+cast	Elaine Collins	Mrs. Grant
+cast	Jimmy Chisholm	Mr. Grant
+cast	Jason Morell	Lord Stanley
+cast	Rebecca Charles	Mary Taylor, Assistant Dresser
+cast	Cherith Mellor	Mary Ann Disraeli
+cast	George Hall	Speaker of the House of Commons
+cast	Robin Marchal	Commons counter
+cast	Oliver Ford Davies	Dean of Windsor
+cast	Patrick Hannaway	Journalist
+cast	John Ramsay	Journalist
+cast	Delia Lindsay	Society lady
+cast	James Vaughan	Sir Charles Dilke
+cast	Brendan O'Hea	Barney
+cast	Theo Fraser Steele	Footman
+cast	Tom Delmar	The Assassin
+cast	Brian Jackson	Secretary
+cast	Peter MacArthur	Supporting artist

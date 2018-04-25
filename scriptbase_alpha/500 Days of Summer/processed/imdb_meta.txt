@@ -1,0 +1,276 @@
+year	2009
+imdb score	7.8
+meta score	76
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	summer
+keyword	love
+keyword	friend
+keyword	greeting card
+keyword	architect
+keyword	office
+keyword	wedding
+keyword	love at first sight
+keyword	true love
+keyword	misery
+keyword	despair
+keyword	punched in the face
+keyword	heartache
+keyword	scissors
+keyword	theatre audience
+keyword	unrequited love
+keyword	flash forward
+keyword	computer
+keyword	bare chested male
+keyword	falling asleep in a movie theatre
+keyword	alarm clock
+keyword	beer
+keyword	bar fight
+keyword	office party
+keyword	hate
+keyword	circular staircase
+keyword	looking at the camera
+keyword	flashback
+keyword	lesbian
+keyword	coincidence
+keyword	tears
+keyword	dancing in the street
+keyword	interview
+keyword	large penis
+keyword	water fountain
+keyword	art gallery
+keyword	applause
+keyword	boyfriend girlfriend relationship
+keyword	hand over one's mouth
+keyword	boy meets girl boy loses girl boy gets girl
+keyword	copy machine
+keyword	punctuation in title
+keyword	young version of character
+keyword	train
+keyword	face slap
+keyword	elevator
+keyword	sex in shower
+keyword	carried on someone's shoulders
+keyword	fantasy sequence
+keyword	singing
+keyword	shower
+keyword	talking to self in mirror
+keyword	precocious child
+keyword	park bench
+keyword	montage
+keyword	bicycle
+keyword	reference to henry miller
+keyword	reference to ingmar bergman
+keyword	cutting hair
+keyword	los angeles california
+keyword	tv show theme song
+keyword	video store
+keyword	office romance
+keyword	catching the wedding bouquet
+keyword	double take
+keyword	writer
+keyword	watching a movie
+keyword	listening to music
+keyword	some scenes animated
+keyword	black and white scene
+keyword	diner
+keyword	school yearbook
+keyword	cartoon bird
+keyword	parenthesis in title
+keyword	job interview
+keyword	autumn
+keyword	african american
+keyword	girl
+keyword	mime
+keyword	drinking
+keyword	character repeating someone else's dialogue
+keyword	blind date
+keyword	breaking dishes
+keyword	bed
+keyword	sunglasses
+keyword	pms
+keyword	barcelona chair
+keyword	break up
+keyword	reference to bruce springsteen
+keyword	movie theater
+keyword	serendipity
+keyword	song
+keyword	bus
+keyword	girls' soccer
+keyword	bus driver
+keyword	drawing on one's arm
+keyword	sadness
+keyword	record store
+keyword	prologue
+keyword	subtitled scene
+keyword	employer employee relationship
+keyword	split screen
+keyword	co worker
+keyword	escalator
+keyword	nonlinear timeline
+keyword	party
+keyword	coffee
+keyword	staff meeting
+keyword	ikea
+keyword	friendship
+keyword	fate
+keyword	bathrobe
+keyword	marching band
+keyword	bench
+keyword	bar
+keyword	marriage
+keyword	tourette's syndrome
+keyword	dance number
+keyword	blue bird of happiness
+keyword	voice over narration
+keyword	furniture store
+keyword	cell phone
+keyword	quitting a job
+keyword	home movie
+keyword	drawing
+keyword	time lapse photography
+keyword	digit in title
+keyword	rooftop
+keyword	magical realism
+keyword	boy
+keyword	microphone
+keyword	depression
+keyword	drink
+keyword	fast motion sequence
+keyword	photocopier
+keyword	karaoke
+keyword	railway station
+keyword	rain
+keyword	bouncing a ball
+keyword	origami
+keyword	drunkenness
+keyword	expectation
+keyword	bleachers
+keyword	street life
+keyword	pancake
+keyword	singer
+keyword	reference to dorian gray
+keyword	e mail
+keyword	brother sister relationship
+keyword	sex scene
+keyword	hope
+keyword	dancing
+keyword	earphones
+keyword	porn video
+keyword	part animation
+keyword	chapter headings
+keyword	film within a film
+keyword	book
+keyword	taxi
+keyword	margate new jersey
+keyword	dancer
+keyword	reference to the beatles
+keyword	tossing the wedding bouquet
+keyword	balloon
+keyword	repeated scene
+keyword	liquor store
+keyword	reference to ringo starr
+keyword	crying
+keyword	reference to brad pitt
+keyword	talking to the camera
+keyword	watching pornography
+keyword	apology
+keyword	jealousy
+keyword	spontaneous choreography
+keyword	cubicle
+keyword	pajamas
+keyword	engagement ring
+keyword	kiss
+keyword	black american
+keyword	frustration
+keyword	number in title
+keyword	character name in title
+cast	Joseph Gordon-Levitt	Tom
+cast	Zooey Deschanel	Summer
+cast	Geoffrey Arend	McKenzie
+cast	Chloë Grace Moretz	Rachel
+cast	Matthew Gray Gubler	Paul
+cast	Clark Gregg	Vance
+cast	Patricia Belcher	Millie
+cast	Rachel Boston	Alison
+cast	Minka Kelly	Autumn - Girl at interview
+cast	Charles Walker	Millie's New Husband
+cast	Ian Reed Kesler	Douche
+cast	Darryl Alan Reed	Bus Driver
+cast	Valente Rodriguez	Employee #1
+cast	Yvette Nicole Brown	New Secretary
+cast	Nicole Vicius	Partygoer
+cast	Natalie Boren	Another Partygoer
+cast	Maile Flanagan	Rhoda
+cast	Darryl Sivad	Usher
+cast	Gregory Thompson	Minister
+cast	Michael Bodie	Man
+cast	John Mackie	Mime
+cast	Jacob Stroop	Cupid
+cast	Kevin Michael	Wedding Singer
+cast	Sid Wilner	Grossman
+cast	Richard McGonagle	Narrator
+cast	Jean-Paul Vignon	French Narrator
+cast	Bryan Anthony	Dancer
+cast	Sybil Azur	Dancer
+cast	Cheryl Baxter	Dancer
+cast	Gus Carr	Dancer
+cast	John R. Corella	Dancer
+cast	Nadine Ellis	Dancer
+cast	Alejandro Estornel	Dancer
+cast	Nathaniel Flatt	Dancer
+cast	Reshma Gajjar	Dancer
+cast	Tiffany Granath	Dancer
+cast	Jennifer Hamilton	Dancer
+cast	Brandon Henschel	Dancer
+cast	Michael Higgins	Dancer
+cast	Kenneth Hughes	Dancer
+cast	Alexandra Hulme	Dancer
+cast	John Jacquet Jr.	Dancer
+cast	Jennifer Lee Keyes	Dancer
+cast	Tim Lacatena	Dancer
+cast	Rebecca Lin	Dancer
+cast	Gelsey Weiss	Dancer
+cast	Katie Malia	Dancer
+cast	Anthony Marciona	Dancer
+cast	Christopher Martinez	Dancer
+cast	Vivian Nixon	Dancer
+cast	Tracy Phillips	Dancer
+cast	Nathan Prevost	Dancer
+cast	Jamie Shea	Dancer
+cast	Ryan Thomas	Dancer
+cast	Christian Vincent	Dancer
+cast	Jull Weber	Dancer
+cast	Olivia Howard Bagg	Summer - Age 12
+cast	Joshua Collins	Co-Worker 3
+cast	Chris Connell	Marcus
+cast	Danny J. Dolan	Alto Sax Guy #1
+cast	Adam Emery	Tom - Age 12
+cast	Taylor Feldman	French Girl
+cast	Landall Goolsby	Office Worker
+cast	Jennifer Hetrick	Sarah
+cast	Janis Jones	Greeting Card Company Employee
+cast	Michael Justice	Rooftop Guy #1
+cast	Samantha Krutzfeldt	Charlie
+cast	Kevin Leung	Chinese Father
+cast	Eileen Mabel	Summer Lookalike
+cast	Michelle Mason	The Most Beautiful Girl in the World
+cast	Christina Miller	Girl on Stairs
+cast	Kayla Gwyneth Morrisey	Girl on the Stairs
+cast	Brigitte Ngo-Trinh	Wedding Goer
+cast	Keisha Ramdhanie	Wedding Guest
+cast	Jason Robinson	The Puma
+cast	Deborah Rombaut	Coffee Addict
+cast	Justin Ruse	Costume Character
+cast	Haley Smith	Dancer
+cast	Sarah Staitman	Soccer Girl
+cast	Wesley J. Szabo	Summer's Party Guest
+cast	Ellen Thompson	Partygoer
+cast	Georja Umano	French Lady
+cast	Pleasant Wayne	Tavern Patron
+cast	Maurice Webster	Wedding Guest
+cast	Kathryn Weisbeck	Summer Lookalike
+cast	Leland White	Wedding Guest
+cast	JonJon Wood	Theatre Patron
+cast	Jon Morgan Woodward	Wedding Guest

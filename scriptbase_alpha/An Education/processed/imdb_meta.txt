@@ -1,0 +1,308 @@
+year	2009
+imdb score	7.3
+meta score	85
+genre	Drama
+keyword	oxford
+keyword	1960s
+keyword	boy
+keyword	latin
+keyword	money
+keyword	teenage girl
+keyword	coming of age
+keyword	reference to edward burne jones
+keyword	grief
+keyword	reference to shakespeare's king lear
+keyword	bordeaux st germaine paris
+keyword	infidelity
+keyword	reference to prince rainier of monaco
+keyword	cigarette lighter
+keyword	reference to jacques brel
+keyword	supper
+keyword	reference to william shakespeare
+keyword	bourgeoisie
+keyword	rock 'n' roll
+keyword	tea party
+keyword	string orchestra
+keyword	teacher student relationship
+keyword	16 year old
+keyword	travel
+keyword	snowing
+keyword	school friend
+keyword	jazz music
+keyword	photography
+keyword	youth orchestra
+keyword	swindler
+keyword	coward
+keyword	impostor
+keyword	singing
+keyword	schoolgirl
+keyword	wealth
+keyword	teddy boy
+keyword	kitchen
+keyword	london england
+keyword	stuffed armadillo
+keyword	girls' school
+keyword	love
+keyword	title directed by female
+keyword	englishwoman abroad
+keyword	year 1961
+keyword	bare chested male
+keyword	record player
+keyword	mirror
+keyword	house for sale
+keyword	englishman abroad
+keyword	thief
+keyword	auction
+keyword	mother son relationship
+keyword	loss of virginity
+keyword	teenage boy
+keyword	umbrella
+keyword	age difference
+keyword	father daughter relationship
+keyword	old man
+keyword	birthday cake
+keyword	partner in crime
+keyword	reading
+keyword	deception
+keyword	westminster abbey london
+keyword	greyhound
+keyword	champagne
+keyword	classroom
+keyword	reference to edward elgar
+keyword	song
+keyword	nightclub
+keyword	cigarette smoking
+keyword	flowers
+keyword	lie
+keyword	forgery
+keyword	singing in french
+keyword	reference to minnie mouse
+keyword	tears
+keyword	badminton
+keyword	west end london
+keyword	walking with a book on one's head
+keyword	dancing in the street
+keyword	older man younger woman relationship
+keyword	student
+keyword	theft
+keyword	hairy chest
+keyword	reference to jane eyre
+keyword	bicycle
+keyword	reference to maurice ravel
+keyword	egg beater
+keyword	seduction
+keyword	paris france
+keyword	secret
+keyword	scam artist
+keyword	reference to virgil
+keyword	birthday
+keyword	bus
+keyword	fur coat
+keyword	seine river
+keyword	dictionary
+keyword	private school
+keyword	drinking
+keyword	art theft
+keyword	taking picture
+keyword	dancing
+keyword	painting
+keyword	teacher
+keyword	virginity
+keyword	adultery
+keyword	school
+keyword	17 year old
+keyword	underage sex
+keyword	friend
+keyword	unfaithful husband
+keyword	pre raphaelite
+keyword	african anglo
+keyword	walking in the rain
+keyword	suburbia
+keyword	tea
+keyword	book
+keyword	orchestra
+keyword	heavy rain
+keyword	anti semitism
+keyword	bet
+keyword	reference to c.s. lewis
+keyword	candle
+keyword	adult actress playing teenage girl
+keyword	sex scene
+keyword	class
+keyword	studying
+keyword	pain
+keyword	woman with glasses
+keyword	pram
+keyword	armadillo
+keyword	reference to eamonn andrews
+keyword	betrayal
+keyword	reference to albert camus
+keyword	schoolboy
+keyword	children
+keyword	kiss
+keyword	hand kissing
+keyword	underage girlfriend
+keyword	recording
+keyword	judaism
+keyword	posture
+keyword	jew
+keyword	listening to music
+keyword	cemetery
+keyword	first kiss
+keyword	engagement ring
+keyword	liar
+keyword	con man
+keyword	unfaithfulness
+keyword	filling station
+keyword	jewish
+keyword	cellist
+keyword	gas station
+keyword	hugging
+keyword	pub
+keyword	greyhound racing
+keyword	school teacher
+keyword	rehearsal
+keyword	socialite
+keyword	twickenham london
+keyword	teenager
+keyword	hobby
+keyword	map
+keyword	hotel room
+keyword	dropping out of school
+keyword	singer
+keyword	art
+keyword	existentialism
+keyword	restaurant
+keyword	cheater
+keyword	classical music
+keyword	art auction
+keyword	animated opening credits
+keyword	chelsea london
+keyword	underage smoking
+keyword	birthday present
+keyword	eiffel tower paris
+keyword	chanel #5 perfume
+keyword	virgin
+keyword	kissing
+keyword	england
+keyword	forging an autograph
+keyword	rain
+keyword	letter
+keyword	dancer
+keyword	cooking class
+keyword	banana
+keyword	dog race
+keyword	smooth talker
+keyword	book inscription
+keyword	st john's smith square london
+keyword	school uniform
+keyword	cello
+keyword	gossip
+keyword	lacrosse
+keyword	pregnancy
+keyword	jazz combo
+keyword	anti semitic slur
+keyword	anglo african
+keyword	girl dating older man
+keyword	montage
+keyword	jazz club
+keyword	pacing
+keyword	latin book
+keyword	innocence
+keyword	latin class
+keyword	pretending to use a banana as a telephone
+keyword	boredom
+keyword	sports car
+keyword	taking advantage of old ladies
+keyword	glove compartment
+keyword	bar
+keyword	mother daughter relationship
+keyword	naivety
+keyword	headmistress
+keyword	dog
+keyword	blowing out candle
+keyword	france
+keyword	sneaking a cigarette
+keyword	painter
+keyword	concert
+keyword	singing in a car
+keyword	class differences
+keyword	field hockey
+keyword	biscuit
+keyword	17th birthday
+keyword	cafe
+keyword	gift
+keyword	sunglasses
+keyword	marriage proposal
+keyword	snow
+keyword	oxford university
+keyword	crying
+keyword	slow motion
+keyword	music class
+keyword	culture
+keyword	undressing
+keyword	reference to juliette greco
+keyword	upper class
+keyword	english family
+keyword	family relationships
+keyword	photographer
+keyword	weekend trip
+keyword	playing catch
+keyword	teasing
+keyword	dog track
+keyword	cambridge university
+keyword	hula hoop
+keyword	overbearing father
+keyword	beatnik
+keyword	engagement
+keyword	drink
+keyword	french
+keyword	reference to the lion the witch and the wardrobe
+keyword	cheating husband
+keyword	extramarital affair
+keyword	handshake
+keyword	education
+keyword	violinist
+keyword	dance class
+keyword	friendship
+keyword	only child
+keyword	husband wife relationship
+keyword	neighbor
+keyword	two word title
+keyword	waiting for a bus
+keyword	supper club
+keyword	camera
+keyword	marriage engagement
+keyword	violin
+cast	Carey Mulligan	Jenny Mellor
+cast	Olivia Williams	Miss Stubbs
+cast	Alfred Molina	Jack Mellor
+cast	Cara Seymour	Marjorie
+cast	William Melling	Small Boy #1
+cast	Connor Catchpole	Small Boy #2
+cast	Matthew Beard	Graham
+cast	Peter Sarsgaard	David Goldman
+cast	Amanda Fairbank-Hynes	Hattie
+cast	Ellie Kendrick	Tina
+cast	Dominic Cooper	Danny
+cast	Rosamund Pike	Helen
+cast	Nick Sampson	Auctioneer
+cast	Kate Duchêne	Latin Teacher
+cast	Bel Parker	Small Girl
+cast	Emma Thompson	Headmistress
+cast	Luis Soto	Rachman
+cast	Olenka Wrzesniewski	Shakespeare Girl #1
+cast	Bryony Wadsworth	Shakespeare Girl #2
+cast	Ashley Taylor-Rhys	Petrol Attendant
+cast	Sally Hawkins	Sarah Goldman
+cast	Beth Rowley	Nightclub Singer
+cast	Ben Castle	Nightclub Band
+cast	Mark Edwards	Nightclub Band
+cast	Tom Rees-Roberts	Nightclub Band
+cast	Arne Somogyi	Nightclub Band
+cast	Paul Pilot	Nightclub Band
+cast	Phil Wilkinson	Nightclub Band
+cast	James Norton	Student
+cast	Charlee Hall	Baby 1
+cast	Neo Hall	Baby 2
+cast	David Wayman	Man in Cafe

@@ -1,0 +1,209 @@
+year	1987
+imdb score	7.9
+meta score	N/A
+genre	Comedy
+genre	Drama
+keyword	cottage
+keyword	actor
+keyword	rain
+keyword	countryside
+keyword	drug dealer
+keyword	drink
+keyword	friendship
+keyword	food
+keyword	rat
+keyword	hippie
+keyword	buddy
+keyword	card playing
+keyword	irony
+keyword	shooting a fish
+keyword	sherry
+keyword	jew
+keyword	pill
+keyword	reference to michael redgrave
+keyword	friend
+keyword	sleeplessness
+keyword	rabbit
+keyword	poacher
+keyword	creek
+keyword	photograph
+keyword	soup
+keyword	windshield wiper
+keyword	out of work actor
+keyword	autobiographical
+keyword	police
+keyword	1960s
+keyword	bath
+keyword	plastic bag over one's leg
+keyword	sharing a bed
+keyword	key
+keyword	unemployment
+keyword	cat
+keyword	eyeglasses
+keyword	faithfulness
+keyword	drama school
+keyword	reckless driving
+keyword	eccentric
+keyword	farm
+keyword	dog
+keyword	reference to donald wolfit
+keyword	drunkenness
+keyword	neighbor
+keyword	shaving
+keyword	reference to journey's end the play
+keyword	urine
+keyword	strangulation
+keyword	money
+keyword	hairdresser
+keyword	squalor
+keyword	drunk driving
+keyword	gunfire
+keyword	love
+keyword	telegram
+keyword	newspaper
+keyword	cake
+keyword	lighter fluid
+keyword	starving
+keyword	wellington boots
+keyword	rifle
+keyword	shotgun
+keyword	tearoom
+keyword	penrhys wales
+keyword	cigarette smoking
+keyword	shooting
+keyword	cooking
+keyword	boots
+keyword	voice over narration
+keyword	cow
+keyword	rural setting
+keyword	black comedy
+keyword	plastic bags on feet
+keyword	wilderness
+keyword	gin
+keyword	grunge
+keyword	thirty something
+keyword	cider
+keyword	cafe
+keyword	globe
+keyword	dreams of stardom
+keyword	english countryside
+keyword	tv show
+keyword	fish
+keyword	cigar smoking
+keyword	goat
+keyword	heart condition
+keyword	gay
+keyword	pub
+keyword	twenty something
+keyword	athlete
+keyword	sleeping on a sofa
+keyword	poverty
+keyword	theatrical agent
+keyword	bathtub
+keyword	park bench
+keyword	pot smoking
+keyword	farmer
+keyword	drinking
+keyword	marijuana
+keyword	chicken
+keyword	politics
+keyword	anxiety
+keyword	ampersand in title
+keyword	reference to shakespeare's hamlet
+keyword	kitchen
+keyword	apron
+keyword	urination
+keyword	doll
+keyword	illness
+keyword	millionaire
+keyword	dark comedy
+keyword	steroid
+keyword	year 1969
+keyword	clock
+keyword	bed
+keyword	darkness
+keyword	cult film
+keyword	vomiting
+keyword	pliers
+keyword	uncle nephew relationship
+keyword	sense of smell
+keyword	fishing with a gun
+keyword	homosexual
+keyword	fear
+keyword	underwear
+keyword	jaguar the car
+keyword	degradation
+keyword	men's bathroom
+keyword	policeman
+keyword	flatulence
+keyword	roommate
+keyword	tv commercial
+keyword	multi millionaire
+keyword	plastic bag
+keyword	london england
+keyword	farmhouse
+keyword	restaurant
+keyword	medicine
+keyword	father son relationship
+keyword	thinness
+keyword	paranoia
+keyword	hunting
+keyword	tea
+keyword	baldness
+keyword	reference to r. c. sherriff
+keyword	theatre production
+keyword	candle
+keyword	unwashed dishes
+keyword	alcoholic
+keyword	drug use
+keyword	pheasant
+keyword	punctuation in title
+keyword	aspirin
+keyword	burnt hand
+keyword	camden town london
+keyword	writer
+keyword	haircut
+keyword	whiskey
+keyword	forgiveness
+keyword	valium
+keyword	lantern
+keyword	homosexuality
+keyword	low budget film
+keyword	thermostat
+keyword	fight
+keyword	oven
+keyword	reference to william shakespeare
+keyword	wolf
+keyword	conservative
+keyword	telephone
+keyword	coffee
+keyword	refugee
+keyword	wrecking ball
+keyword	rubber gloves
+keyword	mother son relationship
+keyword	audition
+keyword	perfume
+keyword	bum
+keyword	construction site
+keyword	eel
+keyword	briefs
+keyword	bull
+keyword	wine
+keyword	independent film
+keyword	character name in title
+cast	Richard E. Grant	Withnail
+cast	Paul McGann	& I / Marwood
+cast	Richard Griffiths	Monty
+cast	Ralph Brown	Danny
+cast	Michael Elphick	Jake
+cast	Daragh O'Malley	Irishman
+cast	Michael Wardle	Isaac Parkin
+cast	Una Brandon-Jones	Mrs. Parkin
+cast	Noel Johnson	General
+cast	Irene Sutcliffe	Waitress
+cast	Llewellyn Rees	Tea Shop Proprietor
+cast	Robert Oates	Policeman One
+cast	Anthony Wise	Policeman Two
+cast	Eddie Tagoe	Presuming Ed
+cast	Bruce Robinson	Double for various actors in distant shots
+cast	Fred Wood	Man In Cafe

@@ -1,0 +1,202 @@
+year	1981
+imdb score	7.6
+meta score	60
+genre	Horror
+keyword	werewolf
+keyword	american
+keyword	death
+keyword	curse
+keyword	nightmare
+keyword	hitchhiking
+keyword	living dead
+keyword	reference to oliver reed
+keyword	transformation
+keyword	lorry
+keyword	taxi
+keyword	denial
+keyword	gothic
+keyword	subway
+keyword	pentagram
+keyword	hospital
+keyword	car pileup
+keyword	painful transformation
+keyword	decapitation
+keyword	dead boy
+keyword	theft
+keyword	nazi
+keyword	murder
+keyword	female nudity
+keyword	penis
+keyword	satire
+keyword	animal attack
+keyword	monster
+keyword	1980s
+keyword	hit by a car
+keyword	deer
+keyword	zoo
+keyword	coma
+keyword	supermarket
+keyword	urination
+keyword	werewolf transformation
+keyword	animal in title
+keyword	doctor
+keyword	metamorphosis
+keyword	attempted suicide
+keyword	moors
+keyword	rainstorm
+keyword	mutilation
+keyword	police car
+keyword	american in the uk
+keyword	siren
+keyword	city name in title
+keyword	sex
+keyword	rural setting
+keyword	junkyard
+keyword	dream sequence within a dream sequence
+keyword	dart
+keyword	undead
+keyword	jewish
+keyword	dream sequence
+keyword	pentangle
+keyword	gash in the face
+keyword	full moon
+keyword	place name in title
+keyword	london england
+keyword	male frontal nudity
+keyword	forest
+keyword	doomed love
+keyword	joke
+keyword	buttocks
+keyword	shot to death
+keyword	medication
+keyword	turned into an animal
+keyword	moorland
+keyword	scottish highlands
+keyword	film within a film
+keyword	reality
+keyword	supernatural power
+keyword	piccadilly circus london
+keyword	lycanthropy
+keyword	nudity
+keyword	tavern
+keyword	corpse
+keyword	backpacking
+keyword	sex in shower
+keyword	police inspector
+keyword	monster in mirror
+keyword	suicidal
+keyword	police officer
+keyword	newspaper headline
+keyword	child murder
+keyword	cult film
+keyword	homelessness
+keyword	physician
+keyword	throat slitting
+keyword	watching a porno movie
+keyword	pub
+keyword	american abroad
+keyword	dead girl
+keyword	murder of family
+keyword	police
+keyword	nurse
+keyword	gore
+keyword	f word
+keyword	public nudity
+keyword	premarital sex
+keyword	supernatural power
+keyword	severed hand
+keyword	scotland yard
+keyword	secluded
+keyword	decomposing body
+keyword	sedative
+keyword	chess
+keyword	psychotronic
+keyword	reference to claude rains
+keyword	sheep
+keyword	village
+keyword	friendship
+keyword	lycanthrope
+keyword	porno theater
+keyword	bela lugosi
+keyword	reference to lon chaney jr
+keyword	werewolf bite
+keyword	murder of a police officer
+keyword	phone booth
+keyword	pubic hair
+keyword	channel surfing
+keyword	child burning
+keyword	black comedy
+keyword	alley
+keyword	england
+keyword	balloon
+keyword	tongue in cheek humor
+keyword	watching tv
+keyword	monster as victim
+keyword	bare breasts
+keyword	death of friend
+keyword	actor shares first name with character
+keyword	
+cast	Joe Belcher	Truck Driver
+cast	David Naughton	David Kessler
+cast	Griffin Dunne	Jack Goodman
+cast	David Schofield	Dart Player
+cast	Brian Glover	Chess Player
+cast	Lila Kaye	Barmaid
+cast	Rik Mayall	2nd Chess Player
+cast	Sean Baker	2nd Dart Player
+cast	Paddy Ryan	First Werewolf
+cast	Jenny Agutter	Nurse Alex Price
+cast	Anne-Marie Davies	Nurse Susan Gallagher
+cast	John Woodvine	Dr. J. S. Hirsch
+cast	Frank Oz	Mr. Collins / Miss Piggy
+cast	Don McKillop	Inspector Villiers
+cast	Paul Kember	Sergeant McManus
+cast	Colin Fernandes	Benjamin
+cast	Albert Moses	Hospital Porter
+cast	Jim Henson	Kermit the Frog
+cast	Michele Brisigotti	Rachel Kessler
+cast	Mark Fisher	Max Kessler
+cast	Gordon Sterne	Mr. Kessler
+cast	Paula Jacobs	Mrs. Kessler
+cast	Claudine Bowyer	Creepy Little Girl
+cast	Johanna Crayden	Creepy Little Girl
+cast	Nina Carter	Naughty Nina
+cast	Geoffrey Burridge	Harry Berman
+cast	Brenda Cavendish	Judith Browns
+cast	Christopher Scoular	Sean
+cast	Mary Tempest	Sean's Wife
+cast	Cynthia Powell	Sister Hobbs
+cast	Sydney Bromley	Alf
+cast	Frank Singuineau	Ted
+cast	Will Leighton	Joseph
+cast	Michael Carter	Gerald Bringsley
+cast	Elizabeth Bradley	Woman in Zoo
+cast	Rufus Deakin	Little Boy with Balloons
+cast	Lesley Ward	Little Boy's Mother
+cast	George Hilsdon	News-vendor
+cast	Gerry Lewis	Man in Bus Queue
+cast	Dennis Fraser	2nd Man in Bus Queue
+cast	Alan Ford	Taxi Driver
+cast	Peter Ellis	Bobby in Trafalgar Square
+cast	Denise Stephens	Girl in Trafalgar Square
+cast	Christine Hargreaves	Ticket Lady
+cast	Linzi Drew	Brenda Bristols - 'See You Next Wednesday' Porno Film
+cast	Lucien Morgan	Lance Boyle - 'See You Next Wednesday' Porno Film
+cast	Gypsy Dave Cooper	Chris Bailey - 'See You Next Wednesday' Porno Film
+cast	Susan Spencer	Georgia Bailey - 'See You Next Wednesday' Porno Film
+cast	Bob Babenia	Usher
+cast	Ken Sicklen	Bobby at Cinema
+cast	John Salthouse	Bobby at Cinema
+cast	John Altman	Assorted Police
+cast	Keith Hodiak	Assorted Police
+cast	John Owens	Assorted Police
+cast	Roger Rowland	Assorted Police
+cast	Vic Armstrong	Bus Driver
+cast	John Cannon	Villager
+cast	Simon van Collem	Shop Owner
+cast	Harry Fielder	Man Outside Cinema
+cast	Laurie Goode	Hospital Porter
+cast	John Landis	Man Being Smashed Into Window
+cast	Ralph Morse	Punk on tube
+cast	James Payne	Taxi Driver
+cast	Terry Walsh	Taxi Driver who crashes his cab

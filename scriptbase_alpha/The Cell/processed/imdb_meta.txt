@@ -1,0 +1,145 @@
+year	2000
+imdb score	6.3
+meta score	40
+genre	Sci-Fi
+genre	Thriller
+keyword	serial killer
+keyword	fbi
+keyword	coma
+keyword	race against time
+keyword	necrophilia
+keyword	water
+keyword	bdsm
+keyword	knife
+keyword	swat
+keyword	cyberpunk
+keyword	stabbed in the back
+keyword	dog
+keyword	violence against women
+keyword	femme fatale
+keyword	psychiatrist
+keyword	female psychiatrist
+keyword	boat
+keyword	lifting female in air
+keyword	vulture
+keyword	bowels
+keyword	cut into pieces
+keyword	rescue
+keyword	sexual perversion
+keyword	fall
+keyword	tandem dream
+keyword	german shepherd
+keyword	dissection
+keyword	schizophrenia
+keyword	mind game
+keyword	reference to damien hirst
+keyword	blood
+keyword	wall clock
+keyword	impalement
+keyword	bare breasts
+keyword	dentist chair
+keyword	desert
+keyword	hostage
+keyword	killing an animal
+keyword	suspension
+keyword	vagina
+keyword	psychopath
+keyword	shot in the foot
+keyword	peacock
+keyword	virgin mary
+keyword	naked dead woman
+keyword	lifting someone into the air
+keyword	animal in cast credits
+keyword	female bodybuilder
+keyword	morgue
+keyword	women hater
+keyword	death
+keyword	alternative reality
+keyword	inside the mind
+keyword	child abuse
+keyword	mutilation
+keyword	baptism
+keyword	crossbow
+keyword	woman as object
+keyword	traumatic childhood
+keyword	perversion
+keyword	body piercing
+keyword	nun
+keyword	misogyny
+keyword	dead woman carried
+keyword	gay slur
+keyword	mysogynist
+keyword	torture chamber
+keyword	surrealism
+keyword	drowning
+keyword	disembowelment
+keyword	helicopter
+keyword	sexual sadism
+keyword	horse killed
+keyword	dismemberment
+keyword	begins with a dream
+keyword	intestines
+keyword	child therapist
+keyword	torture
+keyword	subconscious
+keyword	marijuana
+keyword	mental illness
+keyword	gore
+keyword	child in peril
+keyword	misogynist
+keyword	injured child
+keyword	hung from a hook
+keyword	barefoot
+keyword	corpse
+keyword	abusive father
+keyword	horse
+keyword	s&m
+keyword	collar
+keyword	boy
+keyword	doll
+keyword	dead woman in morgue
+keyword	skin ripping
+keyword	virtual reality
+keyword	sadomasochism
+keyword	police
+keyword	masochism
+keyword	inner demon
+keyword	surprise ending
+cast	Jennifer Lopez	Catherine Deane
+cast	Colton James	Edward Baines
+cast	Dylan Baker	Henry West
+cast	Marianne Jean-Baptiste	Dr. Miriam Kent
+cast	Gerry Becker	Dr. Barry Cooperman
+cast	Musetta Vander	Ella Baines
+cast	Patrick Bauchau	Lucien Baines
+cast	Vincent D'Onofrio	Carl Stargher
+cast	Catherine Sutherland	Anne Marie Vicksey
+cast	Vince Vaughn	Peter Novak
+cast	James Gammon	Teddy Lee
+cast	Jake Weber	Gordon Ramsey
+cast	Dean Norris	Cole
+cast	Tara Subkoff	Julia Hickson
+cast	Lauri Johnson	Mrs. Hickson
+cast	John Cothran	Agent Stockwell
+cast	Jack Conley	Agent Brock
+cast	Kamar de los Reyes	Officer Alexander
+cast	Christopher Janney	Swat Team Member
+cast	Nicholas Cascone	FBI Technician
+cast	Joe La Piana	FBI K-9 Agent
+cast	Pruitt Taylor Vince	Dr. Reid
+cast	Jake Thomas	Young Carl Stargher
+cast	Kim Chizevsky-Nicholls	Stargher's Victim
+cast	Jennifer Day	Stargher's Victim
+cast	Alanna Vicente	Stargher's Victim
+cast	Aja Echols	Stargher's Victim
+cast	Vanessa Branch	Stargher's Victim
+cast	Elena Maddalo	Stargher's Victim
+cast	Gareth Williams	Stargher's Father
+cast	Glenda Chism	Woman in Tub
+cast	Monica Lacy	Mother
+cast	Joy Creel	Mother
+cast	Leanna Creel	Mother
+cast	Alan D. Purwin	Helicopter Pilot
+cast	Tim	Valentine
+cast	Calvi Pabon	Dream Girl
+cast	Peter Sarsgaard	Julia Hickson's Fiancee

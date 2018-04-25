@@ -1,0 +1,138 @@
+year	1998
+imdb score	6.6
+meta score	72
+genre	Adventure
+genre	Animation
+genre	Comedy
+genre	Family
+keyword	ant
+keyword	princess
+keyword	worker
+keyword	friend
+keyword	soldier
+keyword	general
+keyword	individuality
+keyword	battle
+keyword	hero
+keyword	bar
+keyword	conformity
+keyword	death of wife
+keyword	wood
+keyword	apple
+keyword	praying mantis
+keyword	suicide mission
+keyword	drunkenness
+keyword	attack
+keyword	dancing
+keyword	kiss
+keyword	threat
+keyword	pepsi cola
+keyword	anti conformity
+keyword	pepsi
+keyword	fear
+keyword	flood
+keyword	anti war
+keyword	warning
+keyword	engagement
+keyword	anthropomorphic insect
+keyword	falling into water
+keyword	spectacle
+keyword	acrophobia
+keyword	angst
+keyword	blown cover
+keyword	queen
+keyword	eaten alive
+keyword	stick fight
+keyword	opposites attract
+keyword	termite
+keyword	doubt
+keyword	coin
+keyword	sneaker
+keyword	underground
+keyword	tunneling
+keyword	bar brawl
+keyword	courage
+keyword	invasion
+keyword	cynicism
+keyword	colonel
+keyword	magnifying glass
+keyword	heroism
+keyword	search
+keyword	authoritarianism
+keyword	loss of friend
+keyword	psychiatrist
+keyword	rescue
+keyword	rotten food
+keyword	guilt
+keyword	survivor
+keyword	falling from height
+keyword	product placement
+keyword	map
+keyword	chewing gum
+keyword	cgi animation
+keyword	donut
+keyword	anthropomorphism
+keyword	satire
+keyword	computer animation
+keyword	impersonating a soldier
+keyword	garbage can
+keyword	attempted genocide
+keyword	laziness
+keyword	flyswatter
+keyword	stabbed with a stick
+keyword	sense of wonder
+keyword	rescue from drowning
+keyword	drunken animal
+keyword	thirst
+keyword	intentionally misspelled title
+keyword	villain turns good
+keyword	cgi film
+keyword	fly
+keyword	fighting the system
+keyword	picnic
+keyword	bar fight
+keyword	lie
+keyword	violence
+keyword	misfit
+keyword	mountain dew
+keyword	presumed dead
+keyword	water
+keyword	plastic
+keyword	rebellion
+keyword	death
+keyword	reebok
+keyword	race against time
+keyword	best friend
+keyword	burned to death
+keyword	loss of wife
+keyword	cave in
+keyword	espionage
+keyword	combat
+keyword	villain
+keyword	campfire
+keyword	slapstick comedy
+keyword	beating
+keyword	spear
+keyword	leaf
+keyword	assertiveness
+keyword	standing on someone's shoulders
+keyword	pick axe
+keyword	death of friend
+keyword	
+cast	Woody Allen	Z
+cast	Dan Aykroyd	Chip
+cast	Anne Bancroft	Queen
+cast	Jane Curtin	Muffy
+cast	Danny Glover	Barbatus
+cast	Gene Hackman	General Mandible
+cast	Jennifer Lopez	Azteca
+cast	John Mahoney	Grebs
+cast	Paul Mazursky	Psychologist
+cast	Grant Shaud	Foreman
+cast	Sylvester Stallone	Weaver
+cast	Sharon Stone	Princess Bala
+cast	Christopher Walken	Colonel Cutter
+cast	Jim Cummings	Additional Voices
+cast	April Winchell	Additional Voices
+cast	Jerry Sroka	Bartender
+cast	Marty Sixkiller	Army Vocalist

@@ -1,0 +1,156 @@
+year	1996
+imdb score	4.4
+meta score	N/A
+genre	Action
+genre	Crime
+genre	Fantasy
+genre	Thriller
+keyword	crow
+keyword	the crow
+keyword	revenge
+keyword	murder
+keyword	drugs
+keyword	sequel
+keyword	tattoo artist
+keyword	tattoo
+keyword	knife
+keyword	poetic justice
+keyword	hero kills a woman
+keyword	hero
+keyword	evil man
+keyword	make up
+keyword	female frontal nudity
+keyword	hanging
+keyword	father son relationship
+keyword	masked man
+keyword	chained
+keyword	switching characters
+keyword	vigilante
+keyword	falling from height
+keyword	long coat
+keyword	martial arts
+keyword	gore
+keyword	masturbation
+keyword	dominatrix
+keyword	justice
+keyword	based on comic book
+keyword	blood
+keyword	exploding building
+keyword	gangster
+keyword	drug lord
+keyword	motorcycle mechanic
+keyword	brutality
+keyword	stabbed in the back
+keyword	wig
+keyword	black leather
+keyword	sequel to cult favorite
+keyword	righteous rage
+keyword	fog
+keyword	superhero
+keyword	crime boss
+keyword	drowning
+keyword	shot to death
+keyword	hand to hand combat
+keyword	exploding body
+keyword	supernatural power
+keyword	semiautomatic pistol
+keyword	defenestration
+keyword	motorcycle
+keyword	cat
+keyword	disarming someone
+keyword	narration from the grave
+keyword	based on comic strip
+keyword	drug abuse
+keyword	lesbian kiss
+keyword	impalement
+keyword	action hero
+keyword	shootout
+keyword	showdown
+keyword	sequel by name only
+keyword	violence
+keyword	murder of son
+keyword	tragic hero
+keyword	los angeles california
+keyword	knife throwing
+keyword	good versus evil
+keyword	returning character killed off
+keyword	back from the dead
+keyword	psychic communication
+keyword	public hanging
+keyword	drug use
+keyword	sadism
+keyword	post apocalypse
+keyword	combat
+keyword	peep show
+keyword	mixed martial arts
+keyword	s&m
+keyword	body landing on a car
+keyword	tough guy
+keyword	bare breasts
+keyword	gunfight
+keyword	dark hero
+keyword	card trick
+keyword	machine gun
+keyword	witness to a crime
+keyword	kicked in the crotch
+keyword	second part
+keyword	religion
+keyword	female nudity
+keyword	shot in the leg
+keyword	dark heroine
+keyword	stabbed in the head
+keyword	child murder
+keyword	flashback
+keyword	street kid
+keyword	dead woman on ground
+keyword	person on fire
+keyword	duel
+keyword	painting
+keyword	villainess
+keyword	blood splatter
+keyword	one against many
+keyword	stabbed in the chest
+keyword	gothic
+keyword	rock band
+keyword	organized crime
+keyword	shot in the arm
+keyword	girl
+keyword	eye gouging
+keyword	voice over narration
+keyword	shooting
+keyword	halloween
+keyword	shot in the back
+keyword	thrown out window
+keyword	pistol
+keyword	knife fight
+keyword	returning character with different actor
+keyword	stabbed in the hand
+keyword	one man army
+keyword	death
+keyword	death of child
+keyword	death of son
+keyword	character name in title
+keyword	
+cast	Vincent Perez	Ashe Corven / The Crow
+cast	Mia Kirshner	Sarah
+cast	Richard Brooks	Judah Earl
+cast	Iggy Pop	Curve
+cast	Thomas Jane	Nemo
+cast	Vincent Castellanos	Spider Monkey
+cast	Thuy Trang	Kali
+cast	Eric Acosta	Danny
+cast	Ian Dury	Noah
+cast	Tracey Ellis	Sybil
+cast	Beverley Mitchell	Grace
+cast	Aaron Thell Smith	Tattoo Customer
+cast	Alan Gelfant	Bassett
+cast	Shelly Desai	Hindu
+cast	Holley Chant	Holly Daze
+cast	Kerry Rossall	Zeke
+cast	Reynaldo Duran	Priest
+cast	Danny Verduzco	Boy in Church
+cast	Maria Julia Moran	Old Lady in Church
+cast	Chino Moreno	Himself / The Deftones)
+cast	Chi Cheng	Himself / The Deftones)
+cast	Stephen Carpenter	Himself / The Deftones)
+cast	Abe Cunningham	Himself / The Deftones)

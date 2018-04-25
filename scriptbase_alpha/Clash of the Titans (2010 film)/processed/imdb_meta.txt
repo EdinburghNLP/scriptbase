@@ -1,0 +1,258 @@
+year	2010
+imdb score	5.8
+meta score	39
+genre	Action
+genre	Adventure
+genre	Fantasy
+keyword	perseus
+keyword	kraken
+keyword	gods
+keyword	andromeda
+keyword	hades
+keyword	underworld
+keyword	king
+keyword	princess
+keyword	demi god
+keyword	sacrifice
+keyword	battle
+keyword	death
+keyword	medusa
+keyword	zeus
+keyword	army
+keyword	re boot
+keyword	based on greek myth
+keyword	djinn
+keyword	creature
+keyword	revenge
+keyword	forest
+keyword	death of family
+keyword	sinking boat
+keyword	stabbed in the back
+keyword	divine retribution
+keyword	voice over narration
+keyword	fisherman
+keyword	human sacrifice
+keyword	owl
+keyword	severed head
+keyword	mechanical owl
+keyword	father son relationship
+keyword	mountain
+keyword	remake
+keyword	ferryman
+keyword	sword and fantasy
+keyword	quest
+keyword	witch
+keyword	gladiator
+keyword	fear
+keyword	survivor
+keyword	poseidon
+keyword	magic
+keyword	self sacrifice
+keyword	sword
+keyword	underwater
+keyword	rescue
+keyword	boat
+keyword	stylized violence
+keyword	coffin
+keyword	eyeball
+keyword	shot with a bow and arrow
+keyword	wreckage
+keyword	city under attack
+keyword	magic sword
+keyword	supernatural power
+keyword	back from the dead
+keyword	bitten on the arm
+keyword	desert
+keyword	hand to hand combat
+keyword	gash in the face
+keyword	flipping a coin
+keyword	alliance
+keyword	self mutilation
+keyword	turned to stone
+keyword	rape
+keyword	punched in the stomach
+keyword	body torn apart
+keyword	decapitation
+keyword	surrealism
+keyword	running down hill
+keyword	coin
+keyword	anti hero
+keyword	greek mythology
+keyword	anger
+keyword	flashback
+keyword	argos greece
+keyword	title at the end
+keyword	fictional war
+keyword	myth
+keyword	destruction
+keyword	falling from height
+keyword	olympus
+keyword	decapitation
+keyword	volcano
+keyword	suspended by arms
+keyword	starts with narration
+keyword	ancient greece
+keyword	deformity
+keyword	baby boy
+keyword	sea monster
+keyword	keysi fighting method
+keyword	dreadlocks
+keyword	aphrodite
+keyword	queen
+keyword	blood
+keyword	lightning
+keyword	journey
+keyword	monarch
+keyword	prophecy
+keyword	armor
+keyword	no opening credits
+keyword	mob
+keyword	driftwood
+keyword	martial arts
+keyword	ferry boat
+keyword	warrior
+keyword	famous line
+keyword	curse
+keyword	reference to god
+keyword	statue
+keyword	bow and arrow
+keyword	trinity
+keyword	giant animal
+keyword	monster
+keyword	hand cut off
+keyword	flying horse
+keyword	legend
+keyword	burned alive
+keyword	supernatural power
+keyword	no title at beginning
+keyword	fire
+keyword	superhuman strength
+keyword	gift
+keyword	spirit
+keyword	punishment
+keyword	arrow in chest
+keyword	divine intervention
+keyword	sword fight
+keyword	stabbed in the chest
+keyword	poison
+keyword	io
+keyword	snake
+keyword	deity
+keyword	blockbuster
+keyword	expedition
+keyword	battlefield
+keyword	demon
+keyword	pegasus
+keyword	beach
+keyword	adoptive parent
+keyword	3d remake to 2d film
+keyword	magical power
+keyword	soldier
+keyword	guardian angel
+keyword	thunderstorm
+keyword	rage
+keyword	violence
+keyword	sword and sandal
+keyword	scorpion
+keyword	combat
+keyword	chaos
+keyword	mythology
+keyword	shaman
+keyword	impalement
+keyword	prologue
+keyword	vanity
+keyword	good versus evil
+keyword	blindness
+keyword	crushed to death
+keyword	antiquity
+keyword	lava
+keyword	punched in the face
+keyword	healing
+keyword	brother brother relationship
+keyword	sacrificial altar
+keyword	horse
+keyword	prayer
+keyword	exploding body
+keyword	execution
+keyword	shield
+keyword	kingdom
+keyword	giant scorpion
+keyword	severed hand
+keyword	ship
+keyword	immortality
+keyword	greek
+keyword	sailing ship
+keyword	giant
+keyword	hunter
+keyword	torso cut in half
+keyword	
+cast	Sam Worthington	Perseus
+cast	Liam Neeson	Zeus
+cast	Ralph Fiennes	Hades
+cast	Jason Flemyng	Calibos / Acrisius
+cast	Gemma Arterton	Io
+cast	Alexa Davalos	Andromeda
+cast	Tine Stapelfeldt	Danae
+cast	Mads Mikkelsen	Draco
+cast	Luke Evans	Apollo
+cast	Izabella Miko	Athena
+cast	Liam Cunningham	Solon
+cast	Hans Matheson	Ixas
+cast	Ashraf Barhom	Ozal
+cast	Mouloud Achour	Kucuk
+cast	Ian Whyte	Sheikh Suleiman
+cast	Nicholas Hoult	Eusebios
+cast	Vincent Regan	Kepheus
+cast	Polly Walker	Cassiopeia
+cast	Katherine Loeppky	Aged Cassiopeia
+cast	Luke Treadaway	Prokopion
+cast	Pete Postlethwaite	Spyros
+cast	Elizabeth McGovern	Marmara
+cast	Sinead Michael	Tekla
+cast	Ross Mullan	Pemphredo
+cast	Robin Berry	Enyo
+cast	Graham Hughes	Deino
+cast	Martin McCann	Phaedrus
+cast	Rory McCann	Belo
+cast	Kaya Scodelario	Peshet
+cast	Alexander Siddig	Hermes
+cast	Tamer Hassan	Ares
+cast	Danny Huston	Poseidon
+cast	William Houston	Ammon
+cast	Jamie Sives	Captain
+cast	Phil McKee	Harbourmaster
+cast	Geoffrey Beevers	Noble
+cast	Michael Grady-Hall	Citizen 1
+cast	Laura Kachergus	Citizen 2
+cast	Adrian Bouchet	Soldier
+cast	David Kennedy	Kepheus' General
+cast	Nina Young	Hera
+cast	Jane March	Hestia
+cast	Nathalie Cox	Artemis
+cast	Agyness Deyn	Aphrodite
+cast	Paul Kynman	Hephaestus
+cast	Natalia Vodianova	Medusa
+cast	Charlotte Comer	Demeter
+cast	Stephen Armourae	Citizen of Argos
+cast	Gioacchino Jim Cuffaro	Citizen
+cast	Otto Farrant	Young Perseus
+cast	Rufin French	Scorpioch Driver - Djinn
+cast	Sean Francis George	Palace Guard
+cast	Eric Geynes	Perseus' Guard
+cast	Amy Hendrick	Street Urchin
+cast	John Hiorns	Docker
+cast	Jimi James	Citizen 4 - Argos
+cast	Yezid Jimenez	Perseus' Guard
+cast	Eman Kazemi	Palace Guard
+cast	Maximilian Law	Merchant of Argos
+cast	Sonu Louis	Legionnaire
+cast	João Costa Menezes	Soldier
+cast	Rana Morrison	Mernia
+cast	Mark Mottram	Eccentric Man in Crowd
+cast	Sarah Jane O'Neill	Beggar Woman / Refugee / Zealot
+cast	Deanna St Omer	Female Argos Citizen
+cast	David Orpheus	Argos Citizen
+cast	Gino Picciano	Docker
+cast	Dennis Santucci	Guard
+cast	Katrina Vasilieva	Exotic Dancer
+cast	Paul Warren	Charon's Tortured Soul

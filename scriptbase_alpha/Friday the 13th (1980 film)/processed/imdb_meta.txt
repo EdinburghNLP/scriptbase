@@ -1,0 +1,301 @@
+year	1980
+imdb score	6.5
+meta score	N/A
+genre	Horror
+keyword	lake
+keyword	jason voorhees
+keyword	camp counselor
+keyword	revenge
+keyword	summer
+keyword	teenager
+keyword	old man
+keyword	maniac
+keyword	machete
+keyword	cabin
+keyword	summer camp
+keyword	murder
+keyword	water
+keyword	nudity
+keyword	pastiche
+keyword	brutality
+keyword	truck driver
+keyword	hallucination
+keyword	decapitation
+keyword	police officer
+keyword	bathing
+keyword	injection
+keyword	voyeur
+keyword	tank top
+keyword	adolescent
+keyword	obese woman
+keyword	danger
+keyword	mercilessness
+keyword	panties
+keyword	pillow
+keyword	sitting
+keyword	female corpse
+keyword	slasher flick
+keyword	dead animal
+keyword	sole survivor
+keyword	attraction
+keyword	lens flare
+keyword	subjective camera
+keyword	massacre
+keyword	mistreatment
+keyword	serial killer
+keyword	insanity
+keyword	diner
+keyword	teenage boy
+keyword	human monster
+keyword	dying man
+keyword	woods
+keyword	cult
+keyword	beating
+keyword	remade
+keyword	nipples
+keyword	female serial killer
+keyword	cruelty
+keyword	artist
+keyword	marijuana
+keyword	sexual rite
+keyword	killed with an arrow
+keyword	game playing
+keyword	villainess
+keyword	perversion
+keyword	psycho killer
+keyword	wet clothes
+keyword	death
+keyword	sadism
+keyword	beer
+keyword	jeep
+keyword	caress
+keyword	mysterious man
+keyword	sweater
+keyword	first of series
+keyword	darkness
+keyword	nipples visible through clothing
+keyword	car
+keyword	psychotronic
+keyword	crystal lake new jersey
+keyword	three word title
+keyword	mutilated corpse
+keyword	quiet
+keyword	policeman
+keyword	cannabis
+keyword	dress
+keyword	male rear nudity
+keyword	entrails
+keyword	adolescence
+keyword	guitar
+keyword	unstable teenager
+keyword	sexual awakening
+keyword	attic
+keyword	homicidal maniac
+keyword	traumatic experience
+keyword	dripping blood
+keyword	murder mystery
+keyword	trauma
+keyword	corruption
+keyword	sex
+keyword	biting
+keyword	orchestral music score
+keyword	t shirt
+keyword	slow motion scene
+keyword	camp vacation
+keyword	mysterious death
+keyword	sexual perversion
+keyword	screaming
+keyword	stripping
+keyword	sexual repression
+keyword	dead woman
+keyword	room
+keyword	rural setting
+keyword	date in title
+keyword	blouse
+keyword	gothic
+keyword	boat
+keyword	bare breasts
+keyword	campfire story
+keyword	joy
+keyword	murder witness
+keyword	surprise
+keyword	cult film
+keyword	emotionally disturbed person
+keyword	death of loved one
+keyword	lost in the woods
+keyword	accident
+keyword	new jersey
+keyword	axe in the head
+keyword	dream sequence
+keyword	electric generator
+keyword	multiple murder
+keyword	naked bathing
+keyword	candle
+keyword	blonde
+keyword	memory
+keyword	knife through the neck
+keyword	hostility
+keyword	suspense
+keyword	dead teenager
+keyword	cut
+keyword	humiliation
+keyword	car driving
+keyword	off screen murder
+keyword	hammer
+keyword	curtain
+keyword	full moon
+keyword	bra and panties
+keyword	famous score
+keyword	dreaming
+keyword	power outage
+keyword	grudge
+keyword	stabbed in the stomach
+keyword	arrow
+keyword	low budget film
+keyword	knife murder
+keyword	swimsuit
+keyword	motorcycle
+keyword	1970s
+keyword	gore
+keyword	friendship
+keyword	axe murderer
+keyword	character's point of view camera shot
+keyword	freeze frame
+keyword	atonal music score
+keyword	beheading
+keyword	heavy rain
+keyword	prank
+keyword	shorts
+keyword	slasher
+keyword	repression
+keyword	masked killer
+keyword	monopoly the board game
+keyword	machete mutilation
+keyword	dead girl
+keyword	cult movie cast
+keyword	sack mask
+keyword	canoe
+keyword	car trouble
+keyword	friday the thirteenth
+keyword	day in title
+keyword	anthropology
+keyword	bow
+keyword	1950s
+keyword	killed with machete
+keyword	electronic music score
+keyword	friend
+keyword	teenage sex
+keyword	cult film
+keyword	love
+keyword	physical abuse
+keyword	murder victim
+keyword	kissing
+keyword	stabbing
+keyword	stormy night
+keyword	actual animal killed
+keyword	mute
+keyword	sexual attraction
+keyword	female killer
+keyword	bikini
+keyword	fear
+keyword	score employs electronic instruments
+keyword	obesity
+keyword	voice impressionist
+keyword	characters killed one by one
+keyword	bloodbath
+keyword	monopoly
+keyword	dead man
+keyword	foolishness
+keyword	night
+keyword	horror movie remade
+keyword	axe murder
+keyword	dead body
+keyword	robe
+keyword	disfigured face
+keyword	blood splatter
+keyword	stabbed in the throat
+keyword	troubled teen
+keyword	male nudity
+keyword	skinny dipping
+keyword	multiple homicide
+keyword	menace
+keyword	swinging light
+keyword	fondling
+keyword	throat slitting
+keyword	sexual desire
+keyword	raincoat
+keyword	affection
+keyword	crystal lake new jersey
+keyword	tree branch
+keyword	villain not really dead cliche
+keyword	moaning
+keyword	female rear nudity
+keyword	restroom
+keyword	mystery killer
+keyword	shirt
+keyword	corpse
+keyword	slaughter
+keyword	woman taking off pants
+keyword	stalking
+keyword	death by impalement
+keyword	bra
+keyword	kiss
+keyword	sheriff
+keyword	voyeurism
+keyword	thunderstorm
+keyword	digit in title
+keyword	running
+keyword	bedroom
+keyword	teen movie
+keyword	desire
+keyword	stabbed to death
+keyword	police
+keyword	female nudity
+keyword	revelation
+keyword	hat
+keyword	notice
+keyword	jacket
+keyword	joke
+keyword	body mutilation
+keyword	snake
+keyword	awakening
+keyword	board game
+keyword	unknown killer
+keyword	mother
+keyword	disembowelment
+keyword	violence
+keyword	canoeing
+keyword	truck
+keyword	grindhouse
+keyword	lost
+keyword	psycho
+keyword	prologue
+keyword	thong
+keyword	death of child
+keyword	death of son
+keyword	independent film
+keyword	number in title
+keyword	surprise ending
+cast	Betsy Palmer	Mrs. Pamela Voorhees
+cast	Adrienne King	Alice Hardy
+cast	Jeannine Taylor	Marcie Cunningham
+cast	Robbi Morgan	Annie
+cast	Kevin Bacon	Jack Burrel
+cast	Harry Crosby	Bill
+cast	Laurie Bartram	Brenda
+cast	Mark Nelson	Ned Rubinstein
+cast	Peter Brouwer	Steve Christy
+cast	Rex Everhart	Enos, the Truck Driver
+cast	Ronn Carroll	Sgt. Tierney
+cast	Ron Millkie	Officer Dorf
+cast	Walt Gorney	Crazy Ralph
+cast	Willie Adams	Barry
+cast	Debra S. Hayes	Claudette
+cast	Dorothy Kobs	Trudy
+cast	Sally Anne Golden	Sandy
+cast	Mary Rocco	Operator
+cast	Ken L. Parker	Doctor
+cast	Ari Lehman	Jason Voorhees
+cast	Noel Cunningham	Boy in 1958 Camping Circle
+cast	Irwin Keyes	Busboy
+cast	Tom Savini	Man The Knife Killer

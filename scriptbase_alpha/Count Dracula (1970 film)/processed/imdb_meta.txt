@@ -1,0 +1,33 @@
+year	1970
+imdb score	5.8
+meta score	N/A
+genre	Horror
+keyword	blood
+keyword	dracula
+keyword	vampire
+keyword	gothic horror
+keyword	low budget film
+keyword	infanticide
+keyword	vampire slayer
+keyword	child murder
+keyword	cross protects against evil
+keyword	based on novel
+keyword	character name in title
+keyword	
+cast	Christopher Lee	Count Dracula
+cast	Herbert Lom	Prof. Abraham Van Helsing
+cast	Klaus Kinski	R.M Renfield
+cast	Soledad Miranda	Lucy Westenra
+cast	Maria Rohm	Mina Murray
+cast	Fred Williams	Jonathan Harker
+cast	Paul Muller	Dr. John Seward
+cast	Jack Taylor	Quincey Morris
+cast	Jesús Puente	Minister of Interior
+cast	José Martínez Blanco	Traveller / Dr. Seward
+cast	Franco Castellani	
+cast	Emma Cohen	Vampire Woman
+cast	Jesús Franco	Van Helsing's servant
+cast	Colette Giacobine	Greta, housekeeper
+cast	Teresa Gimpera	Crying mother
+cast	Jeannine Mestre	Vampire woman
+cast	Moisés Augusto Rocha	Van Helsings Servant

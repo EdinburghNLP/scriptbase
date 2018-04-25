@@ -1,0 +1,232 @@
+year	2008
+imdb score	5.4
+meta score	31
+genre	Action
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	hallucination
+keyword	new york city
+keyword	drug
+keyword	police detective
+keyword	ex partner
+keyword	death
+keyword	corporation
+keyword	conspiracy
+keyword	assassin
+keyword	evil corporation
+keyword	black panties
+keyword	thigh boot
+keyword	thug
+keyword	murder of wife
+keyword	mens room
+keyword	lieutenant
+keyword	murder of wife
+keyword	body landing on a car
+keyword	gun battle
+keyword	thigh boots
+keyword	gun
+keyword	public restroom
+keyword	corpse
+keyword	gold watch
+keyword	funeral
+keyword	flashback
+keyword	train station
+keyword	fall to death
+keyword	severed arm
+keyword	hospital
+keyword	murder of a police officer
+keyword	rain
+keyword	topless female nudity
+keyword	bullet time
+keyword	primal scream
+keyword	held at gunpoint
+keyword	death of wife
+keyword	dea agent
+keyword	based on video game
+keyword	snow
+keyword	dismemberment
+keyword	blood splatter
+keyword	explosion
+keyword	extreme closeup
+keyword	bare chested male
+keyword	attempted robbery
+keyword	home invasion
+keyword	falling through a window
+keyword	mexican standoff
+keyword	bomb
+keyword	stomping on someone's hand
+keyword	rage
+keyword	drug use
+keyword	leather jacket
+keyword	punched in the face
+keyword	fire sprinkler
+keyword	girl stripped down to panties
+keyword	face slap
+keyword	tattoo
+keyword	wake
+keyword	kicked in the face
+keyword	shot to death
+keyword	winter
+keyword	hacked to death
+keyword	corrupt cop
+keyword	vial
+keyword	police station
+keyword	head butt
+keyword	shot in the shoulder
+keyword	running out of ammo
+keyword	stabbed to death
+keyword	lesbian kiss
+keyword	internal affairs
+keyword	alley
+keyword	wallet
+keyword	apple laptop
+keyword	sister sister relationship
+keyword	based on video game
+keyword	night cityscape
+keyword	party
+keyword	tied to a chair
+keyword	scene after end credits
+keyword	sword
+keyword	gun
+keyword	held at gun point on knees
+keyword	red dress
+keyword	violence
+keyword	falling on a car
+keyword	gore
+keyword	tattoo parlor
+keyword	baton
+keyword	shootout
+keyword	crime scene photograph
+keyword	death of husband
+keyword	automatic weapon
+keyword	gun held to head
+keyword	revenge
+keyword	drug addiction
+keyword	bar
+keyword	product placement
+keyword	norse mythology
+keyword	government agent
+keyword	interrogation
+keyword	forced to kneel
+keyword	shot in the back
+keyword	overhead camera shot
+keyword	fire fight
+keyword	snorricam
+keyword	junkie
+keyword	human test subject
+keyword	two word title
+keyword	laser light show
+keyword	knocked out with a gun butt
+keyword	jumping into water
+keyword	facial tattoo
+keyword	shot in the stomach
+keyword	falling from height
+keyword	betrayal
+keyword	mugshot
+keyword	experimental drug
+keyword	loss of family
+keyword	hypothermia
+keyword	shotgun
+keyword	suicide
+keyword	shot in the chest
+keyword	pump action shotgun
+keyword	snitch
+keyword	kneeling
+keyword	bullet proof vest
+keyword	side effect
+keyword	bullet ballet
+keyword	ambush
+keyword	jumping through a window
+keyword	sprinkler system
+keyword	walking in the rain
+keyword	pistol
+keyword	machete
+keyword	machine gun
+keyword	screaming in fear
+keyword	cowardice
+keyword	ceiling fan
+keyword	subway
+keyword	title appears in writing
+keyword	gun duel
+keyword	detonator
+keyword	hit by a train
+keyword	drug abuse
+keyword	valkyrie
+keyword	mini skirt
+keyword	helicopter landing pad
+keyword	police officer
+keyword	wristwatch
+keyword	pickpocket
+keyword	violence
+keyword	slow motion scene
+keyword	death of sister
+keyword	subway station
+keyword	super soldier
+keyword	beating
+keyword	shot in the leg
+keyword	killed in action
+keyword	drowning
+keyword	ultra slow motion
+keyword	kicking in a door
+keyword	war on terror
+keyword	death of friend
+keyword	death of child
+keyword	character name in title
+keyword	title spoken by character
+keyword	
+cast	Mark Wahlberg	Max Payne
+cast	Mila Kunis	Mona Sax
+cast	Beau Bridges	BB Hensley
+cast	Ludacris	Jim Bravura
+cast	Chris O'Donnell	Jason Colvin
+cast	Donal Logue	Alex Balder
+cast	Amaury Nolasco	Jack Lupino
+cast	Kate Burton	Nicole Horne
+cast	Olga Kurylenko	Natasha
+cast	Rothaford Gray	Joe Salle
+cast	Joel Gordon	Owen Green
+cast	Jamie Hector	Lincoln Deneuf
+cast	Andrew Friedman	Trevor
+cast	Marianthi Evans	Michelle Payne
+cast	Nelly Furtado	Christa Balder
+cast	Jay Hunter	Pawnshop Man
+cast	Maxwell McCabe-Lokos	Doug
+cast	Kerr Hewitt	Kid
+cast	Stephen R. Hart	Tattoo Artist Owner
+cast	Martin Hindy	Demon
+cast	Herbert Johnson	Train Attendant
+cast	Philip Williams	Sergeant Adams
+cast	Warren Belle	Detective
+cast	Ted Atherton	Detective Shipman
+cast	Rico Simonini	Detective Sergeant Amerini
+cast	PJ Lazic	Junkie
+cast	Brandon Carrera	Young Cop
+cast	Katie Odegaard	Jackie - Receptionist
+cast	Joshua Barilko	Ragna Rok Guard #1
+cast	Conrad Pla	Captain Bowen
+cast	Larry Wheatley	Bartender
+cast	Janice Nguyen	Detective
+cast	Gouchy Boy	Doorman
+cast	Spike Adamson	Aesir Security Guard
+cast	Carlos Gonzalez-Vio	Man Who Gets Dosed With Drug
+cast	Christina Jocic	Nude Person Making Out
+cast	Barrington Bignall	Nude Person Making Out
+cast	Noelle Gray	Nude Person Making Out
+cast	James Preston Rogers	Nude Person Making Out
+cast	Candice Hotchkiss	Nude Person Making Out
+cast	Genadijs Dolganovs	Enforcer
+cast	Dale Yim	Beat Cop
+cast	Tig Fong	Lead Aesir Security Guard
+cast	Siobhan Murphy	Receptionist #2
+cast	Sergei Nikolich	Anton
+cast	Kristina Falcomer	Girl at Party
+cast	Danielle Cole	Model
+cast	Sima Fisher	Dancer
+cast	Brea Grant	Junkie Girl
+cast	James McCaffrey	FBI Special Agent Jack Taliente
+cast	Kristin Mellian	Russian Party Girl
+cast	Christina Notto	Christa Balder's Sister
+cast	Aaron Pushkar	Junkie
+cast	Heidi Tan	Aesir Pharmaceuticals Employee

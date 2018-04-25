@@ -1,0 +1,182 @@
+year	1998
+imdb score	6.4
+meta score	48
+genre	Action
+genre	Adventure
+keyword	king
+keyword	france
+keyword	twin
+keyword	mask
+keyword	musketeer
+keyword	iron mask
+keyword	twin brother
+keyword	secret
+keyword	queen
+keyword	queen mother
+keyword	loyalty
+keyword	prison
+keyword	prisoner
+keyword	death
+keyword	retiree
+keyword	masquerade
+keyword	priest
+keyword	throne
+keyword	bastille
+keyword	body double
+keyword	paris france
+keyword	fireplace
+keyword	prison fight
+keyword	dancing
+keyword	costume drama
+keyword	collapsing building
+keyword	halberd
+keyword	secret door
+keyword	riot
+keyword	foreign language adaptation
+keyword	flintlock rifle
+keyword	dungeon
+keyword	pig
+keyword	escape
+keyword	loss of father
+keyword	rowboat
+keyword	shooting
+keyword	sex in bed
+keyword	masked ball
+keyword	flintlock pistol
+keyword	sword duel
+keyword	paternity revealed
+keyword	ring
+keyword	abduction
+keyword	knife
+keyword	moon
+keyword	tears
+keyword	bound and gagged
+keyword	mother son relationship
+keyword	assassination attempt
+keyword	noose
+keyword	ends with funeral
+keyword	confession
+keyword	father figure
+keyword	brawl
+keyword	battle
+keyword	loss of son
+keyword	duel
+keyword	three musketeers
+keyword	male rear nudity
+keyword	candle
+keyword	cannon
+keyword	portcullis
+keyword	grave
+keyword	seduction
+keyword	prison escape
+keyword	swordsman
+keyword	horse
+keyword	palace
+keyword	narcissism
+keyword	anger
+keyword	self sacrifice
+keyword	rioting
+keyword	loss of friend
+keyword	grief
+keyword	orchestra
+keyword	rotten food
+keyword	dual role
+keyword	starvation
+keyword	key
+keyword	1660s
+keyword	sword
+keyword	conspiracy
+keyword	father son relationship
+keyword	scream
+keyword	suicide by hanging
+keyword	male nudity
+keyword	attempted suicide
+keyword	rapier
+keyword	nudity
+keyword	sword fight
+keyword	kissing while having sex
+keyword	royalty
+keyword	love interest
+keyword	lantern
+keyword	secret passageway
+keyword	year 1662
+keyword	brother brother relationship
+keyword	swashbuckler
+keyword	patricide
+keyword	identical twins
+keyword	accidental killing
+keyword	actor playing multiple roles
+keyword	hanged woman
+keyword	held at swordpoint
+keyword	buttocks
+keyword	death of lover
+keyword	suicide
+keyword	church
+keyword	17th century
+keyword	last stand
+keyword	fountain
+keyword	fidelity
+keyword	letter
+keyword	illegitimate son
+keyword	loss of boyfriend
+keyword	shield
+keyword	redhead
+keyword	main character dies
+keyword	barn
+keyword	violence
+keyword	horse and carriage
+keyword	21 gun salute
+keyword	musket
+keyword	flashback
+keyword	moral dilemma
+keyword	friends falling out
+keyword	costume party
+keyword	death notice
+keyword	flatulence
+keyword	prayer
+keyword	punched in the face
+keyword	torch
+keyword	tyrant
+keyword	dagger
+keyword	villain played by lead actor
+keyword	violinist
+keyword	remake
+keyword	jesuit
+keyword	funeral
+keyword	voice over
+keyword	death of father
+keyword	death of son
+keyword	based on novel
+keyword	surprise ending
+keyword	
+cast	Leonardo DiCaprio	King Louis XIV / Philippe
+cast	Jeremy Irons	Aramis
+cast	John Malkovich	Athos
+cast	Gérard Depardieu	Porthos
+cast	Gabriel Byrne	D'Artagnan
+cast	Anne Parillaud	Queen Mother Anne
+cast	Judith Godrèche	Christine
+cast	Edward Atterton	Lt. Andre
+cast	Peter Sarsgaard	Raoul
+cast	Hugh Laurie	King's Advisor
+cast	David Lowe	King's Advisor
+cast	Brigitte Boucher	Madame Rotund
+cast	Matthew Jocelyn	Assassin
+cast	Karine Belly	Wench
+cast	Emmanuel Guttierez	King's Friend
+cast	Christian Erickson	Ballroom Guard
+cast	François Montagut	Blond Musketeer
+cast	Andrew Wallace	Peasant Boy
+cast	Cécile Auclert	Serving Woman
+cast	Sonia Backers	Serving Woman
+cast	Vincent Nemeth	Customer
+cast	Joe Sheridan	Fortress Keeper
+cast	Olivier Hémon	Fortress Head Guard
+cast	Michael Morris	Bastille Gate Guard
+cast	Emmanuel Patron	Fortress Guard
+cast	Leonor Varela	Ballroom Beauty
+cast	Michael Hofland	Ruffian
+cast	Laura Fraser	Bedroom Beauty
+cast	Brigitte Auber	Queen Mother's Attendant
+cast	Jean-Pol Brissart	Monk
+cast	François Guillaume	Ponceau

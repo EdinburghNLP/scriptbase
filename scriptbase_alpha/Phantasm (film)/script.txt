@@ -1,0 +1,365 @@
+PHANTASM DIALOGUE SCRIPT 
+      
+    Transcribed from PHANTASM by Steve Schulte
+    REGGIE: "Jody." 
+    JODY: "Hi Reg." 
+    REGGIE: "How's it goin'? Tommy's gone." 
+    JODY: "It's uh, it's a helluva way to end a trio." 
+    REGGIE: "It's hard to believe...uh...killed himself." 
+    JODY: "Hey, I uh...I'm gonna go visit somebody. Uh, I'll catch you inside. 
+    REGGIE: "Yeah." 
+    ---------- 
+    THE TALL MAN: "The funeral is about to begin...Sir!" 
+    JODY: "Okay...Sir." 
+    REGGIE: "Hey, it was a good idea not to let your little brother come to the 
+    funeral and see Tommy like this. 
+    JODY: "Yeah. After Mom and Dad's funeral he had nightmares for weeks." 
+    ---------- 
+    JODY: "Hey, I don't like this place." 
+    REGGIE: "Well, say goodbye to Tommy." 
+    JODY: "Let's just get the hell outta here." 
+    ---------- 
+    FORTUNETELLER'S GRANDDAUGHTER: "Hi Michael." 
+    MIKE: "Hi. Uh, is your grandmother home?" 
+    GRANDDAUGHTER: "Sure, come in." 
+    GRANDDAUGHTER: "Grandmother, Michael has returned and wishes to speak with 
+    you." 
+    GRANDDAUGHTER: "Grandmother is pleased you've come and wants to know what's 
+    bothering you." 
+    MIKE: "Uh, tell her that I...um..." 
+    GRANDDAUGHTER: "She can hear you." 
+    MIKE: "Um, yeah. Uh, it's Jody again. I found out that he's leaving." 
+    ---------- 
+    MIKE: "I think it's one of these headers in here." 
+    JODY: "Hey Toby!" 
+    TOBY: "Heeey." 
+    JODY: "So what brings ya back?" 
+    TOBY: "Tommy." 
+    JODY: "Yeah...yeah, shoot. Boy, I just don't get off on funerals man. They 
+    give me the creeps." 
+    TOBY: "I uh...I just wanna tell ya I heard about your folks. I'm really 
+    sorry." 
+    JODY: "Yeah, thank you man. It's uh...in two years I guess ya can get over 
+    just about anything." 
+    TOBY: "So uh...hear you been out on the road." 
+    JODY: "Yeah." 
+    TOBY: "How come you're hanging around this dump?" 
+    JODY: "Well I'm taking care of the kid, ya know." 
+    TOBY: "Shit, I'd think after uh, all that action, this town'd drive you 
+    nuts." 
+    JODY: "You're damn right. Now the kid's thirteen, um, and I'm thinking of 
+    sending him off to live with his aunt. But I tell ya, he sure ain't gonna 
+    like it. I mean, as it is, he follows me everywhere. It's like... he knows 
+    I'm gonna leave. He's a tough little kid. I love 'im. I'm gonna miss him." 
+    ---------- 
+    GRANDDAUGHTER: "Grandmother has told you before not to worry. If he does 
+    leave, he'll take you with him." 
+    MIKE: "God, I hope she's right." 
+    GRANDDAUGHTER: "She always is." 
+    MIKE: "Uh, there's somethin' else. I'm really scared about something that I 
+    did. I was messing around up at Morningside Cemetery, and I saw something. 
+    Something really scary." 
+    ---------- 
+    GRANDDAUGHTER: "Michael, Grandmother wishes to play a little game." 
+    MIKE: "Woww! How'd ya do that?" 
+    GRANDDAUGHTER: "Put your hand in the box." 
+    MIKE: "Well what's in it?" 
+    GRANDDAUGHTER: "Just put your hand in the black box." 
+    MIKE: "Okay, but what's in it?....Hey this thing really hurts!" 
+    GRANDDAUGHTER: "Don't fear, Michael." 
+    MIKE: "I can't get my hand out!" 
+    GRANDDAUGHTER: "Don't fear." 
+    MIKE: "Gimme back my hand!" 
+    GRANDDAUGHTER: "Don't fear!....It was simple reflection. Fear is the killer. 
+    That's what Grandmother wants you to learn." 
+    MIKE: "Boy that really hurt." 
+    GRANDDAUGHTER: "It was all in your mind." 
+    MIKE: "Um, yeah." 
+    GRANDDAUGHTER: "Come and visit us again soon." 
+    MIKE: "Yeah." 
+    GRANDMOTHER: "Heh heh heh heh heh heh heh heh heh..." 
+    ---------- 
+    JODY: (singing, playing guitar) "Do do do do, do un do, Do do do do, do un 
+    do, Do do do do...Hi Reg." 
+    REGGIE: "Writin' a new tune?" 
+    JODY: "Annh, working on it. (singing) "I'm justa sittin' here at midnight 
+    heh heh heh, all right And I'll be sittin' here 'til noon. Ya see my lady 
+    left me lonely, Yeah she did My baby left me blue..." 
+    JODY & REGGIE: (together) "Unnh!" 
+    JODY: "Ha ha ha ha." 
+    REGGIE: "Hunh! Whew! All right. We're hot as love, you know." 
+    ---------- 
+    JODY: "Well uh, let's see. It's uh, just right up the street." 
+    JODY: "This is, uh, kinda spooky, isn't it?" 
+    LADY: "No, it's exciting. So uh, what's the only thing to do in this town?" 
+    JODY: "Well, it's uh, something..." 
+    ---------- 
+    JODY: "Woww." 
+    MIKE: "Woww." 
+    ---------- 
+    DWARF: "Uuuhnn...uuuhhhnn...uuuuhnnnnnnnnnn...uuuhh... 
+    RRRGGHHRRRGGHHHRNNGGH!!!" 
+    MIKE: "AAAAAAHHHHHHHAHAAHUH!!!" 
+    JODY: "What the heck?!" 
+    MIKE: "AAAAAHHHHHH!" 
+    JODY: "Wait here. It's my little brother. I think he's got some kind of a 
+    problem." 
+    MIKE: "AAAAHHHH!!! AAAHH!!!" 
+    JODY: "Mike! What's WRONG with you, man?" 
+    MIKE: "There's something up there. I know it, I saw it!" 
+    JODY: "What?" 
+    MIKE: "Okay, look. I was following you guys. I didn't mean any harm, but, 
+    it's out there and it's gonna get me!" 
+    JODY: "What's out there?" 
+    MIKE: "I don't know. It was...it was little and brown and low to the 
+    ground." 
+    JODY: "It's probably just a gopher in heat." 
+    MIKE: "It wasn't any gopher! Where's that girl anyway?" 
+    JODY: "Well she's waiting back there for my you idiot!" 
+    MIKE: " 'ja hear that?" 
+    JODY: "Nah, it's only the wind." 
+    MIKE: "Well you better go get her before IT gets her." 
+    JODY: "Whaddya got some kind of over-active imagination or somethin' man!? 
+    Look. Tell ya what. You go on home. I'll talk to ya when I get back." 
+    MIKE: "You sure you're gonna be okay?" 
+    JODY: "Ah, get outta here." 
+    ---------- 
+    JODY: "Did that chick that I left with last night ever come back in here?" 
+    BARTENDER: "What happened? You get a hold of something you couldn't handle?" 
+    
+    JODY: "Nnnn, she just ditched out on me, I guess. We were uh, messin' around 
+    out there at Morningside." 
+    BARTENDER: "At the funeral parlor?" 
+    JODY: "Yeah, the cemetery." 
+    BARTENDER: "Heh heh heh." 
+    ---------- 
+    MIKE: "Jody? Is that you?" 
+    JODY: "OOHAAAAHHHHHH!!! Ya hit my fuckin' foot, man!" 
+    MIKE "Oh damn look. I know you're not gonna believe this, but these things 
+    were here, right in the garage, and they were gonna get me!" 
+    JODY: "Ahh, gimme a break, will ya?" 
+    MIKE: "They were jumping on the car, 'n making these...these weird sounds." 
+    JODY: "Sure it wasn't that, uh, retarded kid Timmy up the street?" 
+    MIKE: "Noo, it was the same thing that chased me last night! Well what're we 
+    gonna do?" 
+    JODY: "You're crazy, man. Huhh." 
+    ---------- 
+    MIKE: "Uuuummmmm...ohhh SHIT." 
+    ---------- 
+    MIKE: " 'n I gotta talk to you." 
+    ---------- 
+    JODY: "And it's in that box." 
+    MIKE: "Yup." 
+    JODY: "Okay, I believe you. Jesus! What's goin' on up there?" 
+    ---------- 
+    MIKE: "Well, there's somethin' I didn't tell ya. I was spying on Tommy's 
+    funeral from the groves with your binoculars, aaand after everbody had left, 
+    that tall man picked up Tommy's coffin all by himself, 'n, put it in the 
+    hearse, 'n drove off." 
+    JODY: "You're crazy. I helped carry that sucker myself, musta weighed over 
+    five hundred pounds. Boy, I can't figger this thing out. But I do know one 
+    thing. Something weird is going on up there. We're goin' for the sheriff. Go 
+    get yer...evidence." 
+    MIKE: "All right!" 
+    ---------- 
+    MIKE: "That's funny." 
+    MIKE: "Jody! Jody! ...The garbage disposal. Come on." 
+    JODY: "Ya ready? Go!" 
+    JODY: "Would ya look at that." 
+    REGGIE: (knocks - POUND pound POUND pound) 
+    REGGIE: "Hi guys. Heh heh, just thought I'd come over, 'n see what was goin' 
+    on before the kids got outta summer school. Hey Mike, you wanna ride along 
+    with me today? It's pretty warm outside, 'n the ice cream's gonna be flyin' 
+    fast 'n furious. 'Member how good you were at crowd control last time...Hey, 
+    what's goin' on here?" 
+    MIKE: "OOOOAAAAHHHHH!!! AAAUUAHH!!!" 
+    REGGIE: "WHAT the HELL is goin' on!?" 
+    ---------- 
+    JODY: "Here. You keep that. Now remember, you don't aim a gun at a man 
+    unless you intend to shoot him. And you don't shoot a man unless you intend 
+    to kill him. No warning shots...hey, you listenin' to me?" 
+    MIKE: "Yeah." 
+    JODY: "No warning shots. Warning shots are bullshit. You shoot to kill, or 
+    you don't shoot at all. Now you'll be safe here. Just lock all the doors and 
+    windows. And don't follow me." 
+    MIKE: "You sure you're gonna be okay with that?" 
+    JODY: "I'm just gonna go up there and take a look around, nobody's gonna see 
+    me. But heck, a Colt Army Issue will put a man down, and keep him there." 
+    MIKE: "Remember that broken basement window around by the side, and, be 
+    careful." 
+    ---------- 
+    JODY: "All right, who's in there? Mike?" 
+    MIKE: "Damn door latch! Get in!" 
+    MIKE: "Uh oh, here it comes!" 
+    JODY: "There's nobody drivin' that muther!" 
+    MIKE: "Pump's in the back seat." 
+    JODY: "Okay, slow down 'n let him ride right up on our ass." 
+    MIKE: "There was nobody...there was nobody driving!" 
+    JODY: "I'm gonna get that bastard!" 
+    MIKE: "Ohh Jesus!" 
+    JODY: "All right, speed up. I'm gonna put a few in the engine." 
+    MIKE: "Okay." 
+    MIKE: "Holy SHIT!" 
+    JODY: "Weh hoohoohooo!" 
+    ---------- 
+    JODY: "It's one of those dwarves. He went right through it!" 
+    JODY: "Tommy!" 
+    ---------- 
+    JODY: "Reggie. We got one of 'em. Uh, in Colton in the groves. All right. 
+    Uh, Reg? Bring your truck." 
+    ---------- 
+    REGGIE: "Holy Jesus! You didn't tell me the dwarf was Tommy. Hell, we buried 
+    him on Monday and look what they did to him. He's only three feet long, he 
+    must still weigh two hundred pounds. What's all this yellow shit comin' out 
+    of his head? 
+    JODY: "Careful, get 'im in there. Better padlock it." 
+    REGGIE: "Hey, this guy's not gonna leak all over my ice cream, is he?" 
+    JODY: "Neh, I'll see ya back in the house." 
+    REGGIE: "Right." 
+    ---------- 
+    MYRTLE: "Hey! You boys back yet?!" 
+    REGGIE: "Jesus Christ Myrtle. You almost gave me a coronary." 
+    ---------- 
+    JODY: "But I just can't figure out WHY...why they're taking these bodies, 
+    and crushing 'em down to half size. Crushing 'em!" 
+    MIKE: "What about Mom and Dad? They're up there too." 
+    JODY: "Ayy, just ferget about that." 
+    REGGIE: "Okay, I see it. I see it all now. What we gotta do is snag that 
+    tall dude, and stomp the SHIT out of him, and we'll find out what the hell 
+    is goin' on up there. Yeah, we'll lay that sucker out flat and drive a stake 
+    right through his goddamn heart!" 
+    MIKE: "Man, you gotta be shittin' me man, that muther's STRONG." 
+    JODY: "Hey, hold on. First thing is, I want Mike outta here. Reg, you take 
+    him over to Sally's, the antique store. He'll be safe there. Then hustle on 
+    back. And Mike, no arguments." 
+    ---------- 
+    SALLY: "Jody sure sounded strange on the phone. I hope he's feeling okay." 
+    SUSIE: "Sally, did you see these new settings?" 
+    SALLY: "Oh, these are nice. Ya know, I think I'm gonna lock up. Michael, 
+    when ya get sleepy, I've got a bed made up for ya in back." 
+    ---------- 
+    MIKE: "You HAVE to take me home." 
+    SALLY: "But why?" 
+    MIKE: "No questions. You MUST take me home." 
+    ---------- 
+    MIKE: "Oh my God, pull over. ...Stay in the car and DON'T get out. I'll be 
+    right back." 
+    SALLY: "Michael, wait a minute." 
+    SALLY: "Is that Reggie's truck?" 
+    MIKE: "Let's get outta here, quick!" 
+    SUSIE: "Michael, what is going on." 
+    MIKE: "Just get me home." 
+    SALLY: "What the hell's that?" 
+    MIKE: "Oh shit. Get outta here! Don't open it! OOHHAAAHH!" 
+    ---------- 
+    JODY: "Hey man." 
+    MIKE: "They got Sally and Susie...up at Morningside. And Reggie too." 
+    JODY: "You better get on up to your room, man." 
+    MIKE: "I'm goin' with you!" 
+    JODY: "Nope." 
+    MIKE: "I'm not letting you go by yourself! Lemme go goddammit! Sonuvabitch! 
+    You're not letting me go, are ya?! You're never coming back, you goddamn 
+    bastard! Don't leave me alone! ...Open the damn door!" 
+    ---------- 
+    THE TALL MAN: "I've been waiting for you!" 
+    ---------- 
+    JODY: "He has to be in there." 
+    ---------- 
+    MIKE: "I'm sorry Daddy, but we had to....OOHAAAAAA!" 
+    ---------- 
+    MIKE: "Oh my God..." 
+    ---------- 
+    MIKE: "Jody..." 
+    JODY: "Yeah." 
+    MIKE: "Um, I...I opened up his... Ferget it. C'mon. There's this door down 
+    here. And I'll bet there's something behind it." 
+    JODY: "Well, let's take a look then." 
+    MIKE: "Welp, that's the door." 
+    JODY: "Hey man, I dunno..." 
+    REGGIE: "Hey! M'all right guys." 
+    MIKE: "Hey Reg, ya ain't dead!" 
+    REGGIE: "No, and I aint three foot two yet either." 
+    JODY: "What's goin' on." 
+    REGGIE: "Hey man, I don't know. I've been hiding in a casket playin' like a 
+    stiff, but I did find the girls, I found Sally and Sue, and uh...a couple of 
+    other girls I never even saw before." 
+    MIKE: "Were they dead?" 
+    REGGIE: "No. I snuck 'em out a window and they took off through the bushes 
+    like scared rabbits." 
+    JODY: "All right. Well, after you my friend." 
+    REGGIE: "You be my guest." 
+    ---------- 
+    JODY: "Jeeez. DWARVES... God Reggie, LOOK at this." 
+    MIKE: (thinking) FORTUNETELLER'S GRANDDAUGHTER: "Don't fear." 
+    ---------- 
+    JODY: "Jesus! God, I just GRABBED him there." 
+    MIKE: "Slaves." 
+    REGGIE: "What?" 
+    MIKE: "Slaves! They're using 'em for slaves! The dwarves! And they gotta 
+    crush 'em, cuz of the gravity...and the heat. And this is the door to their 
+    planet." 
+    REGGIE: "Yeah. And these guys are all ready to go!" 
+    MIKE: "Yeeaahh." 
+    ---------- 
+    JODY: "Okay. Stay together." 
+    MIKE: "Wait a sec, I think I got a lighter." 
+    JODY: "Quick, light it up." 
+    DWARF: "RRRRGGHHGGHH!" 
+    MIKE: "AAAHHHHHHH!!" 
+    JODY: "Over here, follow me!" 
+    REGGIE: "Jody, where are ya? Mike!?" 
+    DWARF: "uuhnn...hhnnnrrgg." 
+    REGGIE: "Awwww, SHIT." 
+    ---------- 
+    JODY: "Miiiike! Mike! Where are ya? Mike!" 
+    MIKE: "Jody! Jody, where are ya?! Jody! Jody! ...Jody!" 
+    MIKE: "Jody, where are ya?!" 
+    JODY: "Mike! Mike! ...Mike, Mike, c'mon. We gotta find Reggie." 
+    MIKE: "Where's Reggie? We gotta find him! ...It's Reggie! We...!" 
+    JODY: "No!" 
+    MIKE: "C'mon! We gotta help him!" 
+    JODY: "No, you can't help him! He's dead!" 
+    ---------- 
+    JODY: "There's a...there's an old mine shaft, way down by the...by the end 
+    of Singer's creek. Thousand feet straight down. We just gotta fff...we just 
+    gotta figure out a way to get him up there." 
+    MIKE: "Well what're we gonna do without Reggie?" 
+    JODY: "Reggie's the last he'll ever get, cuz we're gonna run that bastard 
+    straight down to hell. Look, you go in and try to find some more ammo. I'm 
+    gonna haul ass over there and get rid of that warning barrier around the 
+    mine shaft and camouflage it. Okay, lock up the house good, and stay in 
+    there. I'll be right back." 
+    ---------- 
+    THE TALL MAN: "Heh heh heh Heh Heh HEH HEH HEH. BOYYYYY!!!" 
+    THE TALL MAN: "You play a good game Boy, but the game is finished. Now you 
+    DIE." 
+    MIKE: "Don't fear...don't fear..." 
+    MIKE: "Uuhh! Don't fear..." 
+    ---------- 
+    THE TALL MAN: "AAAAUUGGHHHHHHH!!!" 
+    ---------- 
+    MIKE: "I hear the sounds. I know those rocks aren't gonna hold him. Not for 
+    long." 
+    REGGIE: "Hey, you had a dream. Just a nightmare. Whadda ya expect, you've 
+    hardly slept since the funeral last week." 
+    MIKE: "I know those rocks aren't gonna hold him. First he took Mom and Dad, 
+    then he took Jody, and now he's after me." 
+    REGGIE: "Mike, that tall man of yours did not take Jody away. Jody died in a 
+    car wreck." 
+    REGGIE: "Mike, ya had a bad dream. Now I know you're scared, but you're not 
+    alone. I'll take care of you. I know I can't ever take Jody's place, but I'm 
+    sure as hell gonna try." 
+    MIKE: "Seems so real." 
+    REGGIE: "Ya know pardner, what we need is a change of scenery. Why don't you 
+    and me hit the road for a couple of weeks." 
+    MIKE: "Where would we go?" 
+    REGGIE: "Well, I don't know. I guess we can figure that one out when we get 
+    there." 
+    MIKE: "Okay." 
+    REGGIE: "Well get on upstairs, get your gear, cuz we leave when the sun 
+    comes up. Mmm mmm mmm mmmmmm hmm hmmmmmm hmmm, mmm mmm mmm hmmmm mmm mmm 
+    hmmmmmm..." 
+    ---------- 
+    THE TALL MAN: "BOYYYYYYYY!!!!" 
+      
+    

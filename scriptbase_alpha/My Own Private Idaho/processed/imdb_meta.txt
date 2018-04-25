@@ -1,0 +1,424 @@
+year	1991
+imdb score	7.1
+meta score	77
+genre	Drama
+genre	Romance
+keyword	hustler
+keyword	idaho
+keyword	gay
+keyword	portland oregon
+keyword	love
+keyword	friendship
+keyword	best friend
+keyword	girl
+keyword	oregon
+keyword	friend
+keyword	traveling
+keyword	italy
+keyword	narcolepsy
+keyword	journey
+keyword	male hustler
+keyword	dancer
+keyword	song
+keyword	bedroom
+keyword	crying
+keyword	flashback
+keyword	bonfire
+keyword	stealing
+keyword	haunted by the past
+keyword	band
+keyword	rich father
+keyword	boise idaho
+keyword	wheelchair
+keyword	norton motorcycle
+keyword	cowboy statue
+keyword	burial
+keyword	sexuality
+keyword	fireworks
+keyword	beer
+keyword	memory
+keyword	homelessness
+keyword	storytelling
+keyword	bed
+keyword	safe box
+keyword	confession
+keyword	four word title
+keyword	gun in mouth
+keyword	gay slur
+keyword	inheritance
+keyword	handshake
+keyword	rich poor
+keyword	speed the drug
+keyword	wine bottle
+keyword	search for parent
+keyword	dog
+keyword	falling
+keyword	sadness
+keyword	heir apparent
+keyword	seashell
+keyword	vagrant
+keyword	gay friend
+keyword	drinking
+keyword	hitchhiker
+keyword	cafe
+keyword	female nudity
+keyword	gunnysack
+keyword	homosexual
+keyword	nightmare
+keyword	teenage boy
+keyword	fetish
+keyword	shoes
+keyword	maid
+keyword	ex teacher
+keyword	gun
+keyword	farmland
+keyword	statue
+keyword	porno shop
+keyword	home sweet home
+keyword	teen angst
+keyword	cheating
+keyword	french fries
+keyword	masturbation
+keyword	heartbeat
+keyword	airport
+keyword	title based on song
+keyword	country road
+keyword	teaching english
+keyword	wine
+keyword	penis
+keyword	flowers
+keyword	bar
+keyword	fight
+keyword	gay sex
+keyword	on the road
+keyword	surrealism
+keyword	coca cola
+keyword	old building
+keyword	psychological trauma
+keyword	passing out
+keyword	rabbit
+keyword	undressing
+keyword	letter
+keyword	violence
+keyword	barefoot
+keyword	water basin
+keyword	gay prostitution
+keyword	homosexuality
+keyword	hotel
+keyword	lost
+keyword	snoring
+keyword	painting
+keyword	drunkenness
+keyword	house occupation
+keyword	time lapse photography
+keyword	dream
+keyword	family relationships
+keyword	great plains
+keyword	robbery
+keyword	state name in title
+keyword	airplane ticket
+keyword	santa claus
+keyword	singing
+keyword	porn
+keyword	hallucination
+keyword	rope
+keyword	tv show in film
+keyword	attraction
+keyword	france
+keyword	father son relationship
+keyword	winter
+keyword	hairy chest
+keyword	politician
+keyword	gambling
+keyword	male prostitution
+keyword	self identity
+keyword	smoking
+keyword	bare chested male
+keyword	leather
+keyword	house
+keyword	cemetery
+keyword	infatuation
+keyword	falling off a chair
+keyword	breakdown
+keyword	pasta
+keyword	unrequited love
+keyword	luck
+keyword	motel room
+keyword	suffering
+keyword	shave
+keyword	sandwich
+keyword	tent
+keyword	shakespeare in modern dress
+keyword	bathrobe
+keyword	politics
+keyword	fellatio
+keyword	men's bathroom
+keyword	poker the card game
+keyword	trauma
+keyword	gay magazine
+keyword	mistreatment
+keyword	moral corruption
+keyword	necrophilia
+keyword	best friend
+keyword	family dispute
+keyword	chase
+keyword	condom
+keyword	bisexual
+keyword	male male kiss
+keyword	twinks
+keyword	boyfriend boyfriend relationship
+keyword	model
+keyword	restaurant
+keyword	preaching
+keyword	mother son relationship
+keyword	heartbreak
+keyword	auto parts
+keyword	colosseum
+keyword	abuse
+keyword	photograph
+keyword	cleaning
+keyword	bomb
+keyword	face
+keyword	countryside
+keyword	listening to one's heartbeat
+keyword	soul mate
+keyword	reference to sinead o'connor
+keyword	farm
+keyword	porn magazine
+keyword	bath
+keyword	twenty something
+keyword	blackout
+keyword	gay bar
+keyword	home
+keyword	search
+keyword	knife
+keyword	male prostitute
+keyword	scrubbing
+keyword	home movie
+keyword	barn falling from the sky
+keyword	singer
+keyword	teenager
+keyword	cartoon on tv
+keyword	cigarette smoking
+keyword	italian
+keyword	patrolman
+keyword	brother brother relationship
+keyword	dysfunctional family
+keyword	artist
+keyword	surrogate father
+keyword	sleeping bag
+keyword	broken heart
+keyword	europe
+keyword	emotional breakdown
+keyword	graffiti
+keyword	popcorn
+keyword	sex for sale
+keyword	coming of age
+keyword	regret
+keyword	oral sex
+keyword	fish
+keyword	queer
+keyword	random sex
+keyword	orgasm
+keyword	revelation
+keyword	dark past
+keyword	lock
+keyword	liar
+keyword	swimming upstream
+keyword	campfire
+keyword	sunglasses
+keyword	relative
+keyword	cruelty
+keyword	prostitution
+keyword	washington state
+keyword	speeding ticket
+keyword	car
+keyword	alienation
+keyword	death
+keyword	effeminacy
+keyword	faltering friendship
+keyword	tears
+keyword	coward
+keyword	guilt
+keyword	boy
+keyword	gay kiss
+keyword	intrigue
+keyword	hitchhiking
+keyword	dirty clothes
+keyword	sound of sex
+keyword	sorrow
+keyword	poem
+keyword	buried memories
+keyword	junkie
+keyword	kiss
+keyword	bisexuality
+keyword	modern day adaptation
+keyword	mental institution
+keyword	homosexual kiss
+keyword	jukebox
+keyword	motorcycle
+keyword	spaghetti
+keyword	boy girl relationship
+keyword	psychedelia
+keyword	horse
+keyword	airplane
+keyword	city life
+keyword	painter
+keyword	1990s
+keyword	incest
+keyword	concert
+keyword	seattle washington
+keyword	confronting the past
+keyword	grief
+keyword	trailer home
+keyword	searching
+keyword	depravity
+keyword	profession of love
+keyword	murder
+keyword	poverty
+keyword	nudity
+keyword	church
+keyword	sleeping on a sidewalk
+keyword	reference to god
+keyword	america the beautiful
+keyword	graveyard
+keyword	priest
+keyword	limousine
+keyword	loss of innocence
+keyword	mayor's office
+keyword	sadism
+keyword	fake sex
+keyword	drug use
+keyword	small town
+keyword	gay teenager
+keyword	drowning
+keyword	cocaine
+keyword	streetcar
+keyword	metropolis
+keyword	theft
+keyword	taxi
+keyword	bathtub
+keyword	dancing
+keyword	rejection
+keyword	drink
+keyword	underwear
+keyword	old woman
+keyword	urination
+keyword	traumatic experience
+keyword	barn
+keyword	pocket watch
+keyword	repressed memory
+keyword	sleeping
+keyword	home on the range
+keyword	whiskey
+keyword	threesome
+keyword	watching tv
+keyword	hand
+keyword	male nudity
+keyword	funeral
+keyword	denial of knowledge
+keyword	coffin
+keyword	street life
+keyword	lie
+keyword	fainting
+keyword	sheep
+keyword	rome italy
+keyword	never ending road
+keyword	bare breasts
+keyword	teeth
+keyword	thief
+keyword	rock 'n' roll
+keyword	unconsciousness
+keyword	contrast
+keyword	wealth
+keyword	sex
+keyword	pursuit
+keyword	black leather
+keyword	righteousness
+keyword	accordion
+keyword	cigarette smoking
+keyword	beaverton oregon
+keyword	money
+keyword	queer cinema
+keyword	drive in movie
+keyword	bracelet
+keyword	truck
+keyword	don't walk sign
+keyword	quietness
+keyword	gigolo
+keyword	shooting
+keyword	policeman
+keyword	prostitute
+keyword	rooftop
+keyword	dutch cleanser
+keyword	nonlinear timeline
+keyword	gay interest
+keyword	german
+keyword	reference to john wayne
+keyword	police
+keyword	shakespeare's henry iv
+keyword	pervert
+keyword	shelter
+keyword	husband wife relationship
+keyword	squatter
+keyword	compassion
+keyword	death of mother
+keyword	death of father
+keyword	based on play
+keyword	independent film
+keyword	
+cast	River Phoenix	Mike Waters
+cast	Keanu Reeves	Scott Favor
+cast	James Russo	Richard Waters
+cast	William Richert	Bob Pigeon
+cast	Rodney Harvey	Gary
+cast	Chiara Caselli	Carmella
+cast	Michael Parker	Digger
+cast	Jessie Thomas	Denise
+cast	Flea	Budd
+cast	Grace Zabriskie	Alena
+cast	Tom Troupe	Jack Favor
+cast	Udo Kier	Hans
+cast	Sally Curtice	Jane Lightwork
+cast	Robert Lee Pitchlynn	Walt
+cast	Mickey Cottrell	Daddy Carroll
+cast	Wade Evans	Wade
+cast	Matthew Ebert	Coverboy
+cast	Scott Patrick Green	Coverboy / Cafe Kid
+cast	Tom Cramer	Coverboy
+cast	Vana O'Brien	Sharon Waters
+cast	Shaun Jordan	Cafe Kid
+cast	Shawn Wight	Cafe Kid
+cast	George Conner	Bad George
+cast	Oliver Kirk	Indian Cop
+cast	Stanley Hainsworth	Dirtman
+cast	Joshua Halladay	Baby Mike
+cast	Douglas Tollenen	Little Richard
+cast	Steven Clark Pachosa	Hotel Manager
+cast	Lannie Swerdlow	Disco Manager
+cast	Wally Gaarsland	Rock Promoter
+cast	Brian Wilson	Rock Promoter
+cast	Mark Weaver	Rock Promoter
+cast	Conrad 'Bud' Montgomery	Rock Promoter
+cast	Pat Patterson	Cop
+cast	Steve Vernelson	Cop
+cast	Mike Cascadden	Cop
+cast	Eric Hull	Mayor's Aide
+cast	James A. Arling	Minister
+cast	Jim Caviezel	Airline Clerk
+cast	Ana Cavinato	Stewardess
+cast	Melanie Mosely	Lounge Hostess
+cast	Greg Murphy	Carl
+cast	David Reppinhagen	Yuppie at Jake's
+cast	Tiger Warren	Himself
+cast	Massimo Di Cataldo	Italian Street Boy
+cast	Pao Pei Andreoli	Italian Street Boy
+cast	Robert Egon	Italian Street Boy
+cast	Paolo Baiocco	Italian Street Boy
+cast	Mario Stracciarolo	Mike's Italian Client
+cast	Heather J. Braden	Yuppie at Jake's
+cast	Kirsten Kuppenbender	Portland Street Girl
+cast	Jesse Merz	Mean Kid #2
+cast	Tom Peterson	Bit Part
+cast	Eli Swenson	Street Hustler - Seattle
+cast	Gus Van Sant	Man Behind Hotel Counter

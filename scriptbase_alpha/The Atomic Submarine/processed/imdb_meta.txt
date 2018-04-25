@@ -1,0 +1,42 @@
+year	1959
+imdb score	5.1
+meta score	N/A
+genre	Sci-Fi
+genre	Thriller
+keyword	submarine
+keyword	north pole
+keyword	arctic
+keyword	cyclops
+keyword	navy
+keyword	alien
+keyword	telepathy
+keyword	ice
+keyword	public domain
+keyword	part narrated
+keyword	torpedo
+keyword	voice
+keyword	underwater ufo
+keyword	narration
+keyword	flying saucer
+keyword	u boat
+keyword	underwater
+keyword	b movie
+cast	Arthur Franz	Lt. Cmdr. Richard 'Reef' Holloway
+cast	Dick Foran	Cmdr. Dan Wendover
+cast	Brett Halsey	Dr. Carl Neilson Jr.
+cast	Tom Conway	Sir Ian Hunt
+cast	Paul Dubov	Lt. David Milburn
+cast	Bob Steele	CPO 'Grif' Griffin
+cast	Victor Varconi	Dr. Clifford Kent
+cast	Joi Lansing	Julie
+cast	Selmer Jackson	Adm. Terhune
+cast	Jack Mulhall	Justin Murdock
+cast	Jean Moorhead	Helen Milburn
+cast	Richard Tyler	Frogman Carney
+cast	Kenneth Becker	Frogman Powell
+cast	Sid Melton	Yeoman Chester Tuttle
+cast	Frank Watkins	Watkins
+cast	Pat Michaels	Narrator
+cast	John Hilliard	Saucer Voice
+cast	Edmund Cobb	Passerby
+cast	Frank Lackteen	Passerby

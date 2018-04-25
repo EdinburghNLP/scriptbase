@@ -1,0 +1,71 @@
+year	1965
+imdb score	2.7
+meta score	N/A
+genre	Fantasy
+genre	Horror
+keyword	dancing
+keyword	graveyard
+keyword	skeleton
+keyword	vault
+keyword	mist
+keyword	cemetery
+keyword	stripper
+keyword	exploitation
+keyword	writer
+keyword	cat woman
+keyword	grindhouse
+keyword	tomb
+keyword	topless
+keyword	golden girl
+keyword	scream
+keyword	living dead
+keyword	whipped
+keyword	indian
+keyword	wolfman
+keyword	1960s
+keyword	crypt
+keyword	lycanthropy
+keyword	striptease
+keyword	bare breasts
+keyword	captured
+keyword	nudity
+keyword	female nudity
+keyword	horror writer
+keyword	emperor
+keyword	burial ground
+keyword	cult film
+keyword	whipping
+keyword	werewolf
+keyword	gold paint
+keyword	low budget film
+keyword	car crash
+keyword	tied to a post
+keyword	chains
+keyword	topless dancing
+keyword	slave girl
+keyword	native american
+keyword	mummy
+keyword	dance
+keyword	b movie
+keyword	based on novel
+keyword	independent film
+cast	Criswell	The Emperor
+cast	Fawn Silver	The Black Ghoul
+cast	Pat Barrington	Shirley / Gold Girl
+cast	William Bates	Bob
+cast	Mickey Jines	Hawaiian Dance
+cast	Barbara Nordin	Skeleton Dance
+cast	Bunny Glaser	Indian Dance
+cast	Nadejda Klein	Slave Dance
+cast	Coleen O'Brien	Street Walker Dance
+cast	Lorali Hart	Cat Dance
+cast	Rene De Beau	Fluff Dance
+cast	Stephanie Jones	Mexican Dance
+cast	Dene Starnes	Zombie Dance
+cast	Louis Ojena	The Mummy
+cast	John Andrews	The Wolfman / Giant
+cast	Edward Tontini	Doctor
+cast	William Bonner	2nd Doctor
+cast	Rod Lindeman	Giant
+cast	John Bealey	Detective
+cast	Arlene Spooner	Nurse

@@ -1,0 +1,111 @@
+year	1992
+imdb score	5.5
+meta score	48
+genre	Action
+genre	Comedy
+genre	Fantasy
+genre	Horror
+keyword	vampire
+keyword	chosen one
+keyword	cheerleading
+keyword	basketball
+keyword	cheerleader
+keyword	mission
+keyword	school
+keyword	student mentor relationship
+keyword	los angeles california
+keyword	destiny
+keyword	training
+keyword	search
+keyword	killer teen
+keyword	satire
+keyword	cemetery
+keyword	psychotronic
+keyword	motorcycle
+keyword	1990s
+keyword	revenge
+keyword	photo booth
+keyword	high school
+keyword	teenager
+keyword	school life
+keyword	cult film
+keyword	murder
+keyword	teen angst
+keyword	female warrior
+keyword	lifting someone into the air
+keyword	lifting female in air
+keyword	double life
+keyword	female vampire
+keyword	severed arm
+keyword	tutelage
+keyword	monster
+keyword	mentor
+keyword	biker
+keyword	teacher
+keyword	dance
+keyword	reference to the young republicans
+keyword	teenager
+keyword	vampire slayer
+keyword	shopping mall
+keyword	cult film
+keyword	title directed by female
+keyword	reincarnation
+keyword	levitation
+keyword	campy
+keyword	valley girl
+keyword	irreverence
+keyword	character name in title
+cast	Kristy Swanson	Buffy
+cast	Donald Sutherland	Merrick
+cast	Paul Reubens	Amilyn
+cast	Rutger Hauer	Lothos
+cast	Luke Perry	Pike
+cast	Michele Abrams	Jennifer
+cast	Hilary Swank	Kimberly
+cast	Paris Vaughan	Nicole 'Nicki'
+cast	David Arquette	Benny
+cast	Randall Batinkoff	Jeffrey
+cast	Andrew Lowery	Andy
+cast	Sasha Jenson	Grueller
+cast	Stephen Root	Gary Murray
+cast	Natasha Gregson Wagner	Cassandra
+cast	Candy Clark	Buffy's Mom
+cast	Mark DeCarlo	Coach
+cast	Thomas Jane	Zeph
+cast	James Paradise	Buffy's Dad
+cast	David Sherrill	Knight
+cast	Liz Smith	Herself - Reporter
+cast	Paul M. Lane	Robert Berman
+cast	Toby Holguin	Vampire Fan
+cast	Eurlyne Epper	Graveyard Woman
+cast	Andre Warren	Newscaster
+cast	Bob 'Swanie' Swanson	Referee
+cast	Erika Dittner	Cheerleader
+cast	J.T. Cole	Biker
+cast	Michael Kopelow	Student
+cast	Ricky Dean Logan	Bloody Student
+cast	Bobby Aldridge	Vampire
+cast	Amanda Anka	Vampire
+cast	Chino Binamo	Vampire
+cast	Al Goto	Vampire
+cast	Terry Jackson	Vampire
+cast	Mike Johnson	Vampire
+cast	Sarah Lee Jones	Vampire
+cast	Kim Robert Koscki	Vampire
+cast	Clint Lilley	Vampire
+cast	Chi Muoi Lo	Vampire
+cast	Jimmy N. Roberts	Vampire
+cast	David Rowden	Vampire
+cast	Kenny Sacha	Vampire
+cast	Ben Scott	Vampire
+cast	Kurtis Epper	Vampire
+cast	Sharon Schaffer	Vampire
+cast	Lincoln Simonds	Vampire
+cast	Ben Affleck	Basketball Player #10
+cast	Alexis Arquette	Vampire DJ
+cast	Bryan Goeres	Basketball Player
+cast	Seth Green	Vampire
+cast	Ricki Lake	Charlotte
+cast	Paul Pesco	Vampire
+cast	Ben Schneider	Teacher Pouring Punch at Dance
+cast	Daiamondo Yukai	

@@ -1,0 +1,89 @@
+year	1927
+imdb score	6.9
+meta score	N/A
+genre	Drama
+genre	Music
+genre	Romance
+keyword	cantor
+keyword	jazz
+keyword	jazz singer
+keyword	singer
+keyword	jewish
+keyword	argument
+keyword	tradition
+keyword	double exposure effects
+keyword	dysfunctional family
+keyword	showbiz
+keyword	religious musicians
+keyword	blackface
+keyword	racial stereotype
+keyword	racial impersonation
+keyword	price of fame
+keyword	jazz music
+keyword	railroad station
+keyword	jewish service
+keyword	manhattan new york city
+keyword	dancer
+keyword	concert
+keyword	dying
+keyword	jewish ghetto
+keyword	chicago illinois
+keyword	painted face
+keyword	theatrical agent
+keyword	broadway manhattan new york city
+keyword	jewish stereotype
+keyword	entertainer
+keyword	ambition
+keyword	stock footage
+keyword	early sound
+keyword	yom kippur
+keyword	san francisco california
+keyword	runaway
+keyword	mother son relationship
+keyword	lower east side manhattan new york city
+keyword	temple
+keyword	face paint
+keyword	part talkie
+keyword	death
+keyword	tradition versus modernity
+keyword	ethnic identity
+keyword	prayer shawl
+keyword	jazz age
+keyword	famous line
+keyword	new york city
+keyword	father son relationship
+keyword	fame
+keyword	jewish culture
+keyword	musician
+keyword	saloon
+keyword	child performer
+keyword	based on play
+cast	Al Jolson	Jakie Rabinowitz
+cast	May McAvoy	Mary Dale
+cast	Warner Oland	The Cantor
+cast	Eugenie Besserer	Sara Rabinowitz
+cast	Otto Lederer	Moisha Yudelson
+cast	Robert Gordon	Jakie Rabinowitz - Age 13
+cast	Richard Tucker	Harry Lee
+cast	Cantor Joseff Rosenblatt	Cantor Rosenblatt - Concert Recital
+cast	Jane Arden	Small Part
+cast	Ernest Belcher	Choreographer - 'April Follies'
+cast	Violet Bird	Small Part
+cast	Nat Carr	Levi
+cast	Claire Delmar	Small Part
+cast	William Demarest	Buster Billings
+cast	Neely Edwards	Dance Director
+cast	Audrey Ferris	Chorus Girl
+cast	Joseph Green	Walk-on
+cast	Ena Gregory	Small Part
+cast	Roscoe Karns	Agent
+cast	Mary Grace Larsen	Small part
+cast	Myrna Loy	Chorus Girl
+cast	John Miljan	Host
+cast	Margaret Oliver	Small Part
+cast	Anders Randolf	Dillings
+cast	Walter Rodgers	Make-Up Man
+cast	Josele Rosenblatt	Cantor
+cast	Carolynne Snowden	Backstage Maid
+cast	Marie Stapleton	Small Part
+cast	Will Walling	Doctor

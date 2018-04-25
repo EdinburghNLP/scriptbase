@@ -1,0 +1,157 @@
+year	1997
+imdb score	5.6
+meta score	55
+genre	Horror
+genre	Mystery
+genre	Sci-Fi
+genre	Thriller
+keyword	museum
+keyword	crate
+keyword	mayor
+keyword	ship
+keyword	benefit
+keyword	anthropologist
+keyword	brain eating
+keyword	head ripped off
+keyword	blood spatter
+keyword	severed head
+keyword	wheelchair bound
+keyword	blood
+keyword	director also cinematographer
+keyword	scene during opening credits
+keyword	topless female nudity
+keyword	virus
+keyword	security system
+keyword	murder of a police officer
+keyword	police detective
+keyword	dna testing
+keyword	police dog
+keyword	exploding body
+keyword	power failure
+keyword	giant bug
+keyword	gore
+keyword	helicopter
+keyword	sewer
+keyword	leaf
+keyword	reference to jeffrey dahmer
+keyword	fungus
+keyword	skeleton
+keyword	skipping school
+keyword	falling down stairs
+keyword	monster
+keyword	bare chested male
+keyword	research
+keyword	dripping blood
+keyword	babe scientist
+keyword	museum curator
+keyword	lizard
+keyword	liquid nitrogen
+keyword	bullet
+keyword	beetle
+keyword	killing an animal
+keyword	laboratory
+keyword	character repeating someone else's dialogue
+keyword	thrown through a glass door
+keyword	pistol
+keyword	torso cut in half
+keyword	flashlight
+keyword	water
+keyword	impalement
+keyword	shot to death
+keyword	security guard
+keyword	marijuana joint
+keyword	geneticist
+keyword	gecko
+keyword	homeless man
+keyword	corpse
+keyword	gene manipulation
+keyword	gala
+keyword	decapitation
+keyword	german shepherd
+keyword	biologist
+keyword	explosion
+keyword	hormones
+keyword	evolution
+keyword	brazil
+keyword	exposed brain
+keyword	museum of natural history
+keyword	autopsy
+keyword	drugged drink
+keyword	shotgun
+keyword	exhibit
+keyword	ship captain
+keyword	superstition
+keyword	relic
+keyword	fire
+keyword	falling through a rooftop window
+keyword	police lieutenant
+keyword	police sergeant
+keyword	american abroad
+keyword	tunnel
+keyword	tribe
+keyword	chicago illinois
+keyword	transmutation
+keyword	genetic mutation
+keyword	mutation
+keyword	swat team
+keyword	based on novel
+keyword	title spoken by character
+keyword	
+cast	Penelope Ann Miller	Dr. Margo Green
+cast	Tom Sizemore	Lt. Vincent D'Agosta
+cast	Linda Hunt	Dr. Ann Cuthbert
+cast	James Whitmore	Dr. Albert Frock
+cast	Clayton Rohner	Det. Hollingsworth
+cast	Chi Muoi Lo	Dr. Greg Lee
+cast	Thomas Ryan	Tom Parkinson
+cast	Robert Lesser	Mayor Robert Owen
+cast	Diane Robin	The Mayor's Wife
+cast	Lewis Van Bergen	John Whitney
+cast	Constance Towers	Mrs. Blaisedale
+cast	Francis X. McCarthy	Mr. Blaisedale
+cast	Audra Lindley	Dr. Zwiezic
+cast	John Kapelos	McNally
+cast	Tico Wells	Bailey
+cast	Mike Bacarella	Bradley
+cast	Gene Davis	Martini
+cast	John DiSanti	Guard Wootton
+cast	David Proval	Guard Johnson
+cast	Dave Graubart	Eugene
+cast	Ronald Joshua Scott	Josh
+cast	Jophery C. Brown	Guard Frederick Ford
+cast	Thomas Joseph Carroll	Evans
+cast	Montrose Hughes	Chanting Woman
+cast	Santos Morales	Capt. Borne
+cast	Ralph Seymour	Sergeant
+cast	LaDonna Tittle	Teacher
+cast	Eddie Jemison	Museum Worker
+cast	David Hollander	Charlie
+cast	Amanda Ingber	Donna
+cast	Katharine Mitchell	Police Officer
+cast	Candy Coburn	Police Officer
+cast	Kurt Naebig	Police Officer
+cast	Don MacLellan	Police Officer
+cast	Marc P. Shelton	Police Officer
+cast	Don Harvey	Spota
+cast	Ken Magee	Coroner's Assistant
+cast	Aaron Lustig	Dr. Brown
+cast	Kent George	Student
+cast	Lyn Alicia Henderson	Perri Masai
+cast	Ron Cummins	Dr. Gross
+cast	Matthew Daniel Mosoes	Crazy Man
+cast	Elwood Forbes	Graduate Student
+cast	Dina Blair	Reporter
+cast	Mark Lake	SWAT Team Guy
+cast	Ned Schmidtke	Capt. Martin
+cast	Vincent Hammond	Kothoga
+cast	Brian Steele	Kothoga
+cast	Gary A. Hecker	Kothoga Vocalization
+cast	Daniel Guevara	Tribal Dancer
+cast	Ramon Ramierez	Tribal Dancer
+cast	Henry Rey	Tribal Dancer
+cast	Gerardo Salinas	Tribal Dancer
+cast	Martin S. Tellez	Tribal Dancer
+cast	Craig Hosking	Helicopter Pilot
+cast	Dirk Vahle	Helicopter Pilot
+cast	Sharlene Ruffino	Museum employee
+cast	Johnny White	Graduate Student

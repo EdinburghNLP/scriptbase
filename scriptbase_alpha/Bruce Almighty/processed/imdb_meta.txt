@@ -1,0 +1,212 @@
+year	2003
+imdb score	6.7
+meta score	46
+genre	Comedy
+genre	Drama
+genre	Fantasy
+keyword	reporter
+keyword	deal
+keyword	prayer
+keyword	responsibility
+keyword	electrician
+keyword	hospital
+keyword	beads
+keyword	divine intervention
+keyword	bloopers during credits
+keyword	e mail
+keyword	missing person
+keyword	computer
+keyword	television news
+keyword	party
+keyword	2000s
+keyword	black comedy
+keyword	generosity
+keyword	pleading with god
+keyword	blockbuster
+keyword	supernatural power
+keyword	god as human
+keyword	tsunami
+keyword	message
+keyword	toilet
+keyword	blood donor
+keyword	spoon
+keyword	photo album
+keyword	meteor
+keyword	restaurant
+keyword	redemption
+keyword	bakery
+keyword	dog
+keyword	fired from the job
+keyword	eating paste
+keyword	street gang
+keyword	jealousy
+keyword	soup
+keyword	reference to god
+keyword	monkey
+keyword	miracle
+keyword	revenge
+keyword	chaos
+keyword	diner
+keyword	teacher
+keyword	riot
+keyword	assault
+keyword	religion
+keyword	upskirt
+keyword	post it
+keyword	hobo
+keyword	traffic jam
+keyword	orgasm
+keyword	file cabinet
+keyword	cookie
+keyword	new automobile
+keyword	sports car
+keyword	pager
+keyword	sightseeing boat
+keyword	lifting someone into the air
+keyword	thunderstorm
+keyword	buffalo new york
+keyword	answer to prayer
+keyword	premarital sex
+keyword	moon
+keyword	broken electronic works
+keyword	defibrillation
+keyword	magic
+keyword	hit by a truck
+keyword	reference to gandhi
+keyword	mount everest
+keyword	news anchor
+keyword	selfishness
+keyword	janitor
+keyword	defecation
+keyword	job promotion
+keyword	tv station
+keyword	animal that acts human
+keyword	lottery winner
+keyword	race against time
+keyword	obscene finger gesture
+keyword	marijuana
+keyword	depiction of god
+keyword	ice hockey
+keyword	walking on water
+keyword	break up
+keyword	wish fulfillment
+keyword	warehouse
+keyword	world record
+keyword	video camera
+keyword	animal urination
+keyword	child day care
+keyword	niagara falls
+keyword	legs
+keyword	character name in title
+keyword	title spoken by character
+keyword	
+cast	Jim Carrey	Bruce Nolan
+cast	Morgan Freeman	God
+cast	Jennifer Aniston	Grace Connelly
+cast	Philip Baker Hall	Jack Baylor
+cast	Catherine Bell	Susan Ortega
+cast	Lisa Ann Walter	Debbie
+cast	Steve Carell	Evan Baxter
+cast	Nora Dunn	Ally Loman
+cast	Eddie Jemison	Bobby
+cast	Paul Satterfield	Dallas Coleman
+cast	Mark Kiely	Fred Donohue
+cast	Sally Kirkland	Anita
+cast	Tony Bennett	Himself
+cast	Timothy Di Pri	Bruce's Cameraman
+cast	Brian Tahash	Bruce's Soundman
+cast	Lou Felder	Pete Fineman
+cast	Lillian Adams	Mama Kowolski
+cast	Christopher Darga	Vol Kowolski
+cast	Jack Jozefson	Homeless Man
+cast	Mark Adair-Rios	Hood
+cast	Enrique Almeida	Hood
+cast	Noel Gugliemi	Hood
+cast	Rolando Molina	Hood
+cast	Emilio Rivera	Hood
+cast	Albert P. Santos	Hood
+cast	Madeline Lovejoy	Zoe
+cast	Jovan Allie	Martin
+cast	Koby Allie	Martin
+cast	Dan Desmond	Bill
+cast	Selma Stern	Irene Dansfield
+cast	Alfred Dennis	Old Man
+cast	Rina Fernandez	Pretty Woman
+cast	Robert Curtis Brown	Phil Sidleman
+cast	Michael Brownlee	Newscaster
+cast	Ted Garcia	Newscaster
+cast	Maria Quiban	Newscaster
+cast	Shaun Robinson	Newscaster
+cast	Saida Pagan	Newscaster
+cast	Ken Rudulph	Newscaster
+cast	Gina St. John	Newscaster
+cast	Michael Villani	Newscaster
+cast	Christina Grandy	Office Staffer
+cast	Allen Lulu	Office Staffer
+cast	Jamison Yang	Office Staffer
+cast	Bette Rae	Hazel
+cast	Andrew Romero Hateley	Teenager
+cast	Nick Huff	Teenager
+cast	Greg Collins	Coach Tucker
+cast	Dougald Park	Stalled Car Guy
+cast	Susan Ware	Party Woman
+cast	John Rosenfeld	Business Man
+cast	Mary Pat Gleason	Heavyish Woman
+cast	Carey Scott	Partying Sports Guy
+cast	David A. Clemons	Rioter
+cast	Bradley Stryker	College Rioter
+cast	Michael Guarnera	Riot Leader
+cast	Laura Carson	Nurse
+cast	Zachary Aaron Krebs	Paramedic
+cast	Ben Livingston	Paramedic
+cast	Nelson Mashita	Doctor
+cast	Glen Yrigoyen	Trainer
+cast	Dohn Norwood	Police Training Center Officer
+cast	Michael Olifiers	Police Training Center Officer
+cast	David Carrera	Phil's Cameraman
+cast	Howard S. Lefstein	Phil's Soundman
+cast	Miah Won	Connie
+cast	Darcy Fowers	Attractive Woman at Restaurant
+cast	Laura-Shay Griffin	Attractive Woman at Restaurant
+cast	Darius Rose	Tyler
+cast	Micayla Bowden	Day Care Kid
+cast	Sammy Boyarsky	Day Care Kid
+cast	Dylan Ferguson	Day Care Kid
+cast	Cubbie Kile	Day Care Kid
+cast	Emily Needham	Day Care Kid
+cast	Alex Villiers	Day Care Kid
+cast	Monique Daniels	Day Care Teacher
+cast	Ara Celi	Woman at Party
+cast	Jessica Leigh Mattson	Woman at Party
+cast	Allison McCurdy	Woman at Party
+cast	Patti O'Donnell	Woman at Party
+cast	Janelle Pierzina	Woman at Party
+cast	Annie Wersching	Woman at Party
+cast	Ashley Yegan	Woman at Party
+cast	Micah Williams	Boy on Bike
+cast	William Thomas Jr.	Technical Director
+cast	Tom Beyer	Stage Manager
+cast	Max Grodénchik	Control Room Operator
+cast	Michael Bofshever	Control Room Operator
+cast	Colby French	Control Room Operator
+cast	Manny Suárez	Control Room Operator
+cast	Don Dowe	Camera Operator
+cast	Shashawnee Hall	Camera Operator
+cast	Carrie Quinn Dolin	Teleprompter Operator
+cast	P.J. Byrne	Panicked Newsroom Staffer
+cast	Vanna Salviati	Bobby's Aunt
+cast	Scott DeFoe	K-9 Tech
+cast	Jennie Baek	Driver
+cast	Lisa Cangelosi	Supermarket Clerk
+cast	Curt Clendenin	Pedestrian
+cast	Sabrina Culver	Office Staffer
+cast	Dimas Diaz	Valet #1
+cast	Ron Jeremy	Man in Diner
+cast	Brian La Rosa	Man in Street
+cast	Gino Montesinos	Prisoner
+cast	Adrian Neil	James
+cast	Gary Rodriguez	Precision Driver
+cast	Mandana Rothschild	Woman at Party
+cast	Rico Simonini	Doctor
+cast	Rando Thomas	Dangerous Driver
+cast	Catherine Petra Villalobos	Misty

@@ -1,0 +1,167 @@
+year	1971
+imdb score	6.6
+meta score	N/A
+genre	Action
+genre	Sci-Fi
+genre	Thriller
+keyword	plague
+keyword	doctor
+keyword	biological weapon
+keyword	albino
+keyword	destruction
+keyword	scientist
+keyword	children
+keyword	psychotic
+keyword	immunity
+keyword	germ warfare
+keyword	vaccine
+keyword	serum
+keyword	year 1977
+keyword	near future
+keyword	flashback
+keyword	three word title
+keyword	blood transfusion
+keyword	last man on earth
+keyword	home invasion
+keyword	betrayal
+keyword	stadium
+keyword	cartridge
+keyword	sunlight
+keyword	clothing store
+keyword	maniac
+keyword	interracial relationship
+keyword	vampire
+keyword	christ allegory
+keyword	catapult
+keyword	los angeles california
+keyword	blaxploitation
+keyword	bare breasts
+keyword	archery
+keyword	statue
+keyword	black woman
+keyword	brother sister relationship
+keyword	eye
+keyword	horror movie remake
+keyword	zombie
+keyword	buttocks
+keyword	calendar
+keyword	saved from execution
+keyword	video surveillance
+keyword	book burning
+keyword	torch
+keyword	dystopia
+keyword	news anchor
+keyword	explosion
+keyword	watching a movie
+keyword	future
+keyword	cinema
+keyword	1970s
+keyword	hospital
+keyword	firearm
+keyword	garage
+keyword	religious zealot
+keyword	rooftop
+keyword	fountain
+keyword	remade
+keyword	convertible
+keyword	laboratory
+keyword	fire
+keyword	spear
+keyword	automobile
+keyword	hotel
+keyword	prisoner
+keyword	impalement
+keyword	murder
+keyword	symbol in title
+keyword	chase
+keyword	syringe
+keyword	military officer
+keyword	flat tire
+keyword	chess
+keyword	post nuclear
+keyword	loneliness
+keyword	survival
+keyword	used car dealer
+keyword	sunglasses
+keyword	generator
+keyword	blood
+keyword	television news
+keyword	fire extinguisher
+keyword	car accident
+keyword	nudity
+keyword	cult film
+keyword	courtroom
+keyword	interracial sex
+keyword	kissing while having sex
+keyword	film projector
+keyword	map
+keyword	remake
+keyword	insanity
+keyword	spear through chest
+keyword	movie theater
+keyword	premarital sex
+keyword	loss of brother
+keyword	hairy chest
+keyword	bow and arrow
+keyword	post apocalypse
+keyword	helicopter
+keyword	interracial romance
+keyword	reference to t.s. eliot
+keyword	hallucination
+keyword	nuclear war
+keyword	gasoline can
+keyword	bust
+keyword	blindness
+keyword	tv station
+keyword	downtown los angeles
+keyword	mutant
+keyword	hypodermic needle
+keyword	foot chase
+keyword	elevator shaft
+keyword	august the month
+keyword	apocalypse
+keyword	deserted city
+keyword	person on fire
+keyword	mannequin
+keyword	pharmacy
+keyword	bare chested male
+keyword	watching tv
+keyword	power generator
+keyword	siege
+keyword	news broadcast
+keyword	crucified hero pose
+keyword	horror movie remade
+keyword	machine gun
+keyword	corpse
+keyword	white male black female relationship
+keyword	helicopter accident
+keyword	epidemic
+keyword	sole survivor
+keyword	nurse
+keyword	balcony
+keyword	capture
+keyword	rescue
+keyword	august
+keyword	los angeles california
+keyword	automatic rifle
+keyword	motorcycle
+keyword	8 track
+keyword	helicopter crash
+keyword	darkness
+keyword	death of friend
+keyword	based on novel
+cast	Charlton Heston	Neville
+cast	Anthony Zerbe	Matthias
+cast	Rosalind Cash	Lisa
+cast	Paul Koslo	Dutch
+cast	Eric Laneuville	Richie
+cast	Lincoln Kilpatrick	Zachary
+cast	Jill Giraldi	Little Girl
+cast	Anna Aries	Woman in Cemetery Crypt
+cast	Brian Tochi	Tommy
+cast	DeVeren Bookwalter	Family Member
+cast	John Dierkes	Family Member
+cast	Monika Henreid	Family Member
+cast	Linda Redfearn	Family Member
+cast	Forrest Wood	Family Member
+cast	Steve Goldstein	Last Boy

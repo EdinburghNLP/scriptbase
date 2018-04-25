@@ -1,0 +1,152 @@
+year	1996
+imdb score	7.7
+meta score	78
+genre	Drama
+genre	Mystery
+genre	Romance
+keyword	sheriff
+keyword	texas
+keyword	skeleton
+keyword	desert
+keyword	border
+keyword	badge
+keyword	bar
+keyword	jogging
+keyword	reference to jim bowie
+keyword	river border
+keyword	unveiling
+keyword	football fanatic
+keyword	statue
+keyword	whodunit
+keyword	chicano
+keyword	man and woman in bed
+keyword	immigrant
+keyword	reference to gulf war
+keyword	firing range
+keyword	alternative history
+keyword	told in flashback
+keyword	jukebox
+keyword	latina
+keyword	school
+keyword	flashback
+keyword	coroner
+keyword	u.s. mexico border
+keyword	texas ranger
+keyword	native american
+keyword	haunted by the past
+keyword	ring
+keyword	restaurant
+keyword	corruption
+keyword	incest
+keyword	garage
+keyword	illegal immigrant
+keyword	cactus
+keyword	flat tire
+keyword	mexican restaurant
+keyword	teaching
+keyword	reference to davy crockett
+keyword	rio grande
+keyword	army life
+keyword	interracial romance
+keyword	drive in theatre
+keyword	nonlinear timeline
+keyword	illegal alien
+keyword	contemporary west
+keyword	dirty cop
+keyword	skull
+keyword	reference to osceola
+keyword	interracial relationship
+keyword	mexico
+keyword	reference to francico coronado
+keyword	drive in movie
+keyword	police brutality
+keyword	racism
+keyword	metal detector
+keyword	high school teacher
+keyword	ensemble cast
+keyword	illegal immigration
+keyword	ex husband ex wife relationship
+keyword	human remains
+keyword	river
+keyword	murder
+keyword	laborer
+keyword	father son relationship
+keyword	past
+keyword	immigration
+keyword	colonel
+keyword	forensics
+keyword	army
+keyword	family history
+keyword	bipolar disorder
+keyword	police
+keyword	neo western
+keyword	lead mine
+keyword	brother sister incest
+keyword	army training
+keyword	race relations
+keyword	borderline
+keyword	martinet
+keyword	seminole indian
+keyword	mexican border
+keyword	mexican immigrant
+keyword	southern u.s.
+keyword	father son conflict
+keyword	mexican american
+keyword	tortilla
+keyword	reference to zachary taylor
+keyword	independent film
+keyword	surprise ending
+cast	Stephen Mendillo	Cliff
+cast	Stephen J. Lang	Mikey
+cast	Chris Cooper	Sam
+cast	Elizabeth Peña	Pilar
+cast	Oni Faida Lampley	Celie
+cast	Eleese Lester	Molly
+cast	Joe Stevens	Deputy Travis
+cast	Gonzalo Castillo	Amado
+cast	Richard Coca	Enrique
+cast	Clifton James	Hollis
+cast	Tony Frank	Fenton
+cast	Miriam Colon	Mercedes Cruz
+cast	Kris Kristofferson	Charlie Wade
+cast	Jeff Monahan	Young Hollis
+cast	Matthew McConaughey	Buddy Deeds
+cast	Joe Morton	Del
+cast	LaTanya Richardson	Priscilla Worth
+cast	Eddie Robinson	Chet
+cast	Ron Canada	Otis
+cast	Chandra Wilson	Athena
+cast	Damon Guy	Shadow
+cast	Dee Macaluso	Anglo Mother
+cast	Luis Cobo	Mexican-American Father
+cast	Marco Perella	Anglo Father
+cast	Don Phillips Jr.	Principal
+cast	Mary Jane R. Hernandez	Mexican-American Mother
+cast	Jesse Borrego	Danny
+cast	Carina Martinez	Paloma
+cast	Tony Plana	Ray
+cast	Richard Andrew Jones	Ben Wetzel
+cast	Beatrice Winde	Minnie Bledsoe
+cast	Gabriel Casseus	Young Otis
+cast	Randy Stripling	Roderick
+cast	Richard Reyes	Jorge
+cast	Olga Luna	Waitress
+cast	Juan Vega III	Cook
+cast	Lizzie Curry Martinez	Girl
+cast	Leo Burmester	Cody
+cast	Carmen De Lavallade	Carolyn
+cast	Vanessa Martinez	Young Pilar
+cast	Tay Strathairn	Young Sam
+cast	Sam Vlahos	Pete
+cast	Maricela Gonzalez	Anselma
+cast	Tony Amendola	Chucho Montoya
+cast	Gilbert R. Cuellar Jr.	Eladio
+cast	James Borrego	Young Chucho
+cast	Gordon Tootoosis	Wesley Birdsong
+cast	Lisa Suarez	Marisol
+cast	Jesus Ramirez	Driver
+cast	Frances McDormand	Bunny
+cast	John Griesemer	Football Announcer
+cast	Eduardo Martínez	Jaime
+cast	Azalea Mendez	Young Mercedes
+cast	Murray Mead	Man at breakfest table

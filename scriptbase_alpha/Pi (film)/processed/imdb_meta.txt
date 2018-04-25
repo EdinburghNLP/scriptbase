@@ -1,0 +1,212 @@
+year	1998
+imdb score	7.5
+meta score	72
+genre	Sci-Fi
+genre	Thriller
+keyword	numbers
+keyword	nature
+keyword	mathematician
+keyword	pattern
+keyword	headache
+keyword	stock market
+keyword	torah
+keyword	key
+keyword	staring at the sun
+keyword	code
+keyword	computer
+keyword	sun
+keyword	genius
+keyword	obsession
+keyword	migraine
+keyword	mathematics
+keyword	pills
+keyword	insanity
+keyword	hasidic jew
+keyword	riding a subway
+keyword	blood
+keyword	photographer
+keyword	chase
+keyword	mysticism
+keyword	home aquarium
+keyword	reference to icarus
+keyword	chinese checkers
+keyword	tai chi
+keyword	nautilus shell
+keyword	drilling into a skull
+keyword	repeating decimal
+keyword	newspaper
+keyword	schizophrenic
+keyword	low budget film
+keyword	trail of blood
+keyword	singer
+keyword	fibonacci
+keyword	yom kippur
+keyword	talmud
+keyword	prayer
+keyword	beach
+keyword	playing go
+keyword	death
+keyword	geometry
+keyword	garden of eden
+keyword	spiral
+keyword	mathematical equation
+keyword	jewish
+keyword	new york city
+keyword	using a metal detector on a beach
+keyword	golden rectangle
+keyword	intuition
+keyword	computer crash
+keyword	singing
+keyword	fish
+keyword	searching through trash
+keyword	jew
+keyword	game
+keyword	tree of knowledge
+keyword	hair
+keyword	apophenia
+keyword	mathematical formula
+keyword	cult film
+keyword	bare chested male
+keyword	darkness
+keyword	cigarette smoking
+keyword	golden spiral
+keyword	golden ratio
+keyword	actual animal killed
+keyword	conspiracy
+keyword	brain
+keyword	numerology
+keyword	surveillance
+keyword	landlady
+keyword	human brain
+keyword	telephone call
+keyword	madman
+keyword	briefcase
+keyword	religion
+keyword	seashell
+keyword	game of go
+keyword	pi
+keyword	punched in the face
+keyword	grocery store
+keyword	liar
+keyword	paranoid schizophrenia
+keyword	neighbor
+keyword	reference to pythagoras
+keyword	injection
+keyword	chinese american
+keyword	power fuse
+keyword	reference to archimedes
+keyword	loner
+keyword	manhattan new york city
+keyword	repeated line
+keyword	mirror
+keyword	coffee
+keyword	stroke
+keyword	atonement
+keyword	human experimentation
+keyword	numeric code
+keyword	gematria
+keyword	go the game
+keyword	coincidence
+keyword	evidence
+keyword	door lock
+keyword	gun
+keyword	bloody nose
+keyword	orthodox jew
+keyword	journal
+keyword	numerologist
+keyword	surrealism
+keyword	self mutilation
+keyword	bathroom sink
+keyword	theta
+keyword	alienation
+keyword	financial conspiracy
+keyword	reference to leonardo da vinci
+keyword	computer chip
+keyword	kite
+keyword	bathroom
+keyword	eyes
+keyword	avant garde
+keyword	savant
+keyword	kabbalah
+keyword	teacher student relationship
+keyword	one word title
+keyword	ten commandments
+keyword	beachcomber
+keyword	board game
+keyword	telescope
+keyword	vomit
+keyword	song
+keyword	phrenology
+keyword	reference to god
+keyword	breaking a mirror
+keyword	metal detector
+keyword	rabbi
+keyword	216 digit number
+keyword	microscope
+keyword	shaved head
+keyword	brooklyn new york city
+keyword	paranoia
+keyword	madness
+keyword	snorricam
+keyword	subway
+keyword	camera
+keyword	character's point of view camera shot
+keyword	apocryphal story
+keyword	hebrew
+keyword	lie
+keyword	science
+keyword	symbol for title
+keyword	chaos theory
+keyword	rectangle
+keyword	calculator
+keyword	reference to euclid
+keyword	voice over narration
+keyword	broken mirror
+keyword	purity
+keyword	ark of the covenant
+keyword	codene
+keyword	drugs
+keyword	supermarket
+keyword	coney island brooklyn new york city
+keyword	number 44
+keyword	nosebleed
+keyword	electric drill
+keyword	burning paper
+keyword	ant
+keyword	crutch
+keyword	chinatown manhattan new york city
+keyword	delusion
+keyword	extreme close up
+keyword	judaism
+keyword	independent film
+keyword	title spoken by character
+keyword	
+cast	Sean Gullette	Maximillian Cohen
+cast	Mark Margolis	Sol Robeson
+cast	Ben Shenkman	Lenny Meyer
+cast	Pamela Hart	Marcy Dawson
+cast	Stephen Pearlman	Rabbi Cohen
+cast	Samia Shoaib	Devi
+cast	Ajay Naidu	Farrouhk
+cast	Kristyn Mae-Anne Lao	Jenna
+cast	Espher Lao Nieves	Jenna's Mom
+cast	Joanne Gordon	Mrs. Ovadia
+cast	Lauren Fox	Jenny Robeson
+cast	Stanley B. Herman	Moustacheless Man
+cast	Clint Mansell	Photographer
+cast	Tom Tumminello	Ephraim
+cast	Henri Falconi	Kaballah Scholar
+cast	Isaac Fried	Kaballah Scholar
+cast	Ari Handel	Kaballah Scholar
+cast	Oren Sarch	Kaballah Scholar
+cast	Lloyd J. Schwartz	Kaballah Scholar
+cast	Richard Lifschutz	Kaballah Scholar
+cast	David Strahlberg	Kaballah Scholar
+cast	Peter Cheyenne	Brad
+cast	David Tawil	Jake
+cast	J.C. Islander	Man Presenting Suitcase
+cast	Abraham Aronofsky	Man Delivering Suitcase
+cast	Ray Seiden	Transit Cop
+cast	Scott Franklin	Voice of Transit Cop
+cast	Chris Johnson	Limo Driver
+cast	Sal Monte	King Neptune

@@ -1,0 +1,190 @@
+year	1987
+imdb score	7.4
+meta score	56
+genre	Crime
+genre	Drama
+keyword	stock
+keyword	greed
+keyword	corporate raider
+keyword	money
+keyword	1980s
+keyword	business
+keyword	landmark
+keyword	black comedy
+keyword	cigarette smoking
+keyword	lung cancer
+keyword	cell phone
+keyword	darwinian struggle for survival
+keyword	punched in the face
+keyword	director cameo
+keyword	corporate take over
+keyword	business tycoon
+keyword	securities exchange commission
+keyword	tape recorder
+keyword	union
+keyword	cocaine snorting
+keyword	art collector
+keyword	con artist
+keyword	lie
+keyword	revenge
+keyword	beating
+keyword	millionaire
+keyword	reference to madonna
+keyword	wall street manhattan new york city
+keyword	stockholder meeting
+keyword	boiler room
+keyword	office
+keyword	limousine
+keyword	plea bargain
+keyword	father son relationship
+keyword	female nudity
+keyword	double cross
+keyword	manipulation
+keyword	businessman
+keyword	street in title
+keyword	manhattan new york city
+keyword	blood
+keyword	evil businessman
+keyword	critique of capitalism
+keyword	rivalry
+keyword	insider trading
+keyword	loss of job
+keyword	central park manhattan new york city
+keyword	capitalism
+keyword	arrest
+keyword	gun collector
+keyword	materialism
+keyword	capitalist
+keyword	jealousy
+keyword	attorney
+keyword	condominium
+keyword	argument
+keyword	suspenders
+keyword	bond
+keyword	class differences
+keyword	fraud
+keyword	female frontal nudity
+keyword	braces
+keyword	investment bank
+keyword	bad guy
+keyword	villain arrested
+keyword	real estate agent
+keyword	train
+keyword	change of heart
+keyword	yacht
+keyword	stock broker
+keyword	happy birthday to you
+keyword	death threat
+keyword	call center
+keyword	new york city
+keyword	yuppie
+keyword	violence
+keyword	sex
+keyword	villain played by lead actor
+keyword	options
+keyword	e mail
+keyword	narcissistic personality disorder
+keyword	stock market
+keyword	new wave music
+keyword	world trade center manhattan new york city
+keyword	cuban cigar
+keyword	hooker
+keyword	wearing sound wire
+keyword	interior decorator
+keyword	psychopath
+keyword	aviation industry
+keyword	real life father and son playing father and son
+keyword	subway
+keyword	title spoken by character
+keyword	surprise ending
+cast	Charlie Sheen	Bud Fox
+cast	Tamara Tunie	Carolyn
+cast	Franklin Cover	Dan
+cast	Chuck Pfeiffer	Chuckie
+cast	John C. McGinley	Marvin
+cast	Hal Holbrook	Lou Mannheim
+cast	James Karen	Lynch
+cast	Leslie Lyles	Natalie
+cast	Michael Douglas	Gordon Gekko
+cast	Faith Geer	Natalie's Assistant
+cast	Frank Adonis	Charlie
+cast	John Capodice	Dominick
+cast	Martin Sheen	Carl Fox
+cast	Suzen Murakoshi	Girl in Bed
+cast	Dani Klein	Receptionist
+cast	François Giroday	Alex
+cast	Josh Mostel	Ollie
+cast	Ann Talman	Susan
+cast	Lisa Zebro	Gina
+cast	Rocco Ancarola	Maitre'd '21'
+cast	Martin Sherman	Banker at '21'
+cast	Monique van Vooren	Woman at '21'
+cast	Derek Keir	Busboy at '21'
+cast	Andrea Thompson	Hooker
+cast	Lauren Tom	Lady Broker
+cast	George Blumenthal	Broker in Locker Room
+cast	Terence Stamp	Sir Larry Wildman
+cast	George Vlachos	Maitre'd 'Le Cirque'
+cast	Liliane Montevecchi	Woman at 'Le Cirque'
+cast	Ronald von Klaussen	Airline Mechanic
+cast	Michael O'Donoghue	Reporter
+cast	Pirie MacDonald	TV Business Analyst
+cast	Thomas Anderson	Butler
+cast	Sean Young	Kate Gekko
+cast	Cecilia Peck	Candice Rogers
+cast	Paul Guilfoyle	Stone Livingston
+cast	Annie McEnroe	Muffie Livingston
+cast	Daryl Hannah	Darien Taylor
+cast	Jack Pruett	Sam Ruspoli
+cast	Ronald Yamamoto	Houseboy
+cast	James Spader	Roger Barnes
+cast	Yanni Sfinias	Panos
+cast	Grant Shaud	Young Broker
+cast	Carol Schneider	Paralegal
+cast	Saul Rubinek	Harold Salt
+cast	Sean Stone	Rudy Gekko
+cast	Astrid De Richemonte	Nicole
+cast	Adelle Lutz	Janet
+cast	Sylvia Miles	Dolores the Realtor
+cast	Christopher Burge	Auctioneer
+cast	Richard Feigen	Bidder at Auction
+cast	James Rosenquist	Artist at Auction
+cast	John Galateo	SEC Man
+cast	Richard Dysart	Cromwell
+cast	Marlena Bielinska	Woman in Plane
+cast	William G. Knight	Duncan Wilmore
+cast	Jean De Baer	Toni Carpenter
+cast	Bruce Daniel Diker	Young Lawyer
+cast	Jeff Beck	Investment Banker
+cast	Diego Del Vayo	Commercial Banker
+cast	Millie Perkins	Mrs. Fox
+cast	Pat Skipper	Postal Inspector
+cast	John Deyle	U.S. Attorney
+cast	Michael A. Raymond	Trader - New York Stock Exchange
+cast	Eugene Dumaresq	Trader - New York Stock Exchange
+cast	Lefty Lewis	Trader - New York Stock Exchange
+cast	Mike Rutigliano	Trader - New York Stock Exchange
+cast	Heather Evans	Trader - Office
+cast	Ken Lipper	Trader - Office
+cast	Donnie Kehr	Trader - Office
+cast	Elise Richmond	Trader - Office
+cast	David Logan	Trader - Office
+cast	Paul Kawecki	Trader - Office
+cast	Dickson Shaw	Trader - Office
+cast	Patrick Weathers	Trader - Office
+cast	Jill Dalton	Trader - Office
+cast	Allan Salkin	Trader - Office
+cast	Oliver Stone	Trader - Office
+cast	Michael C. Mahon	Trader - Office
+cast	Jeff Rector	Trader - Office
+cast	Pamela Riley	Trader - Office
+cast	Jon Wool	Trader - Office
+cast	James Bulleit	Elevator Person
+cast	Alexandra Neil	Elevator Person
+cast	Sam Ingraffia	Elevator Person
+cast	Anna Levine	Elevator Person
+cast	Byron Utley	Elevator Person
+cast	Erville Light	Herself
+cast	Chris Nelson Norris	Health Club Attendant
+cast	Bill Phillips	Chronicle Reporter
+cast	Helen Proimos	Race Fan

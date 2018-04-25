@@ -1,0 +1,373 @@
+year	1994
+imdb score	9.0
+meta score	94
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	boxer
+keyword	restaurant
+keyword	briefcase
+keyword	redemption
+keyword	crime boss
+keyword	violence
+keyword	coffee
+keyword	gangster
+keyword	diner
+keyword	actor director
+keyword	accidental killing
+keyword	bar
+keyword	homosexual rape
+keyword	blood spatter
+keyword	rolling a joint
+keyword	loyalty
+keyword	motel
+keyword	gore
+keyword	long take
+keyword	watching tv
+keyword	shot in the face
+keyword	syringe
+keyword	two killers
+keyword	rescue
+keyword	blue panties
+keyword	number in character's name
+keyword	running for your life
+keyword	f word
+keyword	wallet
+keyword	nurse
+keyword	anti hero
+keyword	uniform
+keyword	corruption
+keyword	shower
+keyword	toaster
+keyword	injection into the heart
+keyword	drug snorting
+keyword	impersonating a police officer
+keyword	pack of money
+keyword	boxing
+keyword	mexican standoff
+keyword	celebrity impersonator
+keyword	body piercing
+keyword	shot in the chest
+keyword	trophy
+keyword	no background score
+keyword	zentai
+keyword	head wound
+keyword	elevator
+keyword	slot car racing
+keyword	bloody mouth
+keyword	abdomen slashed
+keyword	armed robbery
+keyword	fantasy sequence
+keyword	los angeles california
+keyword	tongue piercing
+keyword	taxi
+keyword	revenge
+keyword	foot massage
+keyword	car driving
+keyword	accidental shooting
+keyword	blood stain
+keyword	shot in the leg
+keyword	husband wife relationship
+keyword	blood on face
+keyword	blood on shirt
+keyword	boyfriend girlfriend relationship
+keyword	shot repeatedly
+keyword	upskirt
+keyword	held at gunpoint
+keyword	gun
+keyword	director cameo
+keyword	wristwatch
+keyword	claw hammer
+keyword	falling asleep
+keyword	blockbuster
+keyword	macguffin
+keyword	pulp fiction
+keyword	multiple storyline
+keyword	mini dress
+keyword	hitman
+keyword	shot to death
+keyword	humiliation
+keyword	person in car trunk
+keyword	cocaine snorting
+keyword	impersonating ed sullivan
+keyword	shot in the arm
+keyword	flashback humor
+keyword	chapter headings
+keyword	caged human
+keyword	marijuana joint
+keyword	bare feet
+keyword	bound and gagged
+keyword	bullet wound
+keyword	1990s
+keyword	rape
+keyword	gay sex
+keyword	racial slur
+keyword	collision course
+keyword	pop tart
+keyword	sprite soda
+keyword	1970s
+keyword	cult film
+keyword	corpse
+keyword	neo noir
+keyword	gunshot wound
+keyword	intercom
+keyword	hit on the head
+keyword	moral ambiguity
+keyword	male with long hair
+keyword	ball gag
+keyword	scantily clad female
+keyword	tuxedo
+keyword	restaurant owner
+keyword	secret code
+keyword	junkyard
+keyword	cleavage
+keyword	phone booth
+keyword	shouting
+keyword	multiple perspectives
+keyword	drug
+keyword	crime gone awry
+keyword	shot multiple times
+keyword	famous line
+keyword	cup of coffee
+keyword	telephone call
+keyword	chapterwise storytelling
+keyword	multiple time frames
+keyword	fool
+keyword	deception
+keyword	mullet
+keyword	killed with a gun
+keyword	shotgun
+keyword	nosebleed
+keyword	twist the dance
+keyword	cult director
+keyword	chopper
+keyword	military dress uniform
+keyword	punched in the face
+keyword	sexual reference
+keyword	gold
+keyword	man wearing a pony tail
+keyword	killed with a sword
+keyword	cocaine
+keyword	cardiac injection
+keyword	torso cut in half
+keyword	n word
+keyword	fixed fight
+keyword	baseball bat
+keyword	double cross
+keyword	talking while driving
+keyword	vietnam veteran
+keyword	sex slave
+keyword	movie reference
+keyword	shot in the crotch
+keyword	car crash
+keyword	problem solver
+keyword	heroin
+keyword	overdose
+keyword	bondage
+keyword	drug addiction
+keyword	off screen murder
+keyword	pump action shotgun
+keyword	car accident
+keyword	near death experience
+keyword	mirror
+keyword	head blown off
+keyword	controversy
+keyword	gun held to head
+keyword	joint
+keyword	automatic weapon
+keyword	bathroom
+keyword	male sitting on a toilet
+keyword	code
+keyword	voyeur
+keyword	interrogation
+keyword	knocked out with gun butt
+keyword	rapist
+keyword	lifting someone into the air
+keyword	dance contest
+keyword	drugs
+keyword	cunnilingus
+keyword	interruption
+keyword	heirloom
+keyword	katana sword
+keyword	male nudity
+keyword	riding motorcycle
+keyword	adrenaline
+keyword	surrender
+keyword	strip club
+keyword	gay rape
+keyword	impersonating buddy holly
+keyword	voyeurism
+keyword	leather mask
+keyword	interlinked stories
+keyword	actress
+keyword	slurping a drink with a straw
+keyword	themed restaurant
+keyword	apartment building
+keyword	military officer
+keyword	brutality
+keyword	lifting someone into the air
+keyword	pawnshop
+keyword	bible quote
+keyword	reading book
+keyword	shootout
+keyword	pot smoking
+keyword	afro
+keyword	male in shower
+keyword	sprayed with water
+keyword	convertible
+keyword	hit by a car
+keyword	zippo lighter
+keyword	black comedy
+keyword	piercing
+keyword	stolen money
+keyword	divine intervention
+keyword	robber
+keyword	hit in the face
+keyword	muzzle
+keyword	hamburger
+keyword	watching the three stooges
+keyword	secret briefcase
+keyword	impersonating mamie van doren
+keyword	lingerie
+keyword	forming a square in the air
+keyword	shot in the head
+keyword	gold watch
+keyword	oral sex
+keyword	katana
+keyword	flashback
+keyword	biblical passage
+keyword	motorcycle
+keyword	silenced machine gun
+keyword	joke
+keyword	restroom
+keyword	gourmet
+keyword	gun held to one's head
+keyword	robbery
+keyword	blowing a kiss
+keyword	homage
+keyword	foot chase
+keyword	covered in blood
+keyword	buddy
+keyword	bullet hole
+keyword	basement
+keyword	murder by gunshot
+keyword	wrestler
+keyword	some scenes in black and white
+keyword	female bare feet
+keyword	extreme closeup
+keyword	number 666
+keyword	chainsaw
+keyword	blood
+keyword	freeze frame
+keyword	anal rape
+keyword	organized crime
+keyword	tied to a chair
+keyword	white panties
+keyword	silencer
+keyword	eeny meeny miny moe
+keyword	drug use
+keyword	brothel
+keyword	knocked out
+keyword	talking to one's self in a mirror
+keyword	male rape
+keyword	assault
+keyword	male wearing an earring
+keyword	snorting cocaine
+keyword	father son relationship
+keyword	machine gun
+keyword	kamikaze
+keyword	nipples visible through clothing
+keyword	tied to a chair
+keyword	two on a motorcycle
+keyword	drug dealer
+keyword	garden hose
+keyword	two man army
+keyword	impersonating marilyn monroe
+keyword	shot through a wall
+keyword	blonde
+keyword	drug dealing
+keyword	alarm
+keyword	fake blood
+keyword	finger gun
+keyword	uzi
+keyword	african american
+keyword	milkshake
+keyword	shot in the forehead
+keyword	torture
+keyword	girl in panties
+keyword	nonlinear timeline
+keyword	drug overdose
+keyword	telling a joke
+keyword	postmodern
+keyword	machismo
+keyword	cult tv reference
+keyword	on the run
+keyword	implied cunnilingus
+keyword	ensemble cast
+keyword	barefoot
+keyword	shop owner
+keyword	murder
+keyword	brushing teeth
+keyword	prologue
+keyword	actor director writer
+keyword	phonograph
+keyword	singing
+keyword	black suit clad killer
+keyword	woman smoker
+keyword	panties
+keyword	directed by co star
+keyword	independent film
+keyword	plot twist
+cast	Tim Roth	Pumpkin / Ringo
+cast	Amanda Plummer	Honey Bunny / Yolanda
+cast	Laura Lovelace	Waitress
+cast	John Travolta	Vincent Vega
+cast	Samuel L. Jackson	Jules Winnfield
+cast	Phil LaMarr	Marvin
+cast	Frank Whaley	Brett
+cast	Burr Steers	Roger
+cast	Bruce Willis	Butch Coolidge
+cast	Ving Rhames	Marsellus Wallace
+cast	Paul Calderon	Paul / English Bob
+cast	Bronagh Gallagher	Trudi
+cast	Rosanna Arquette	Jody
+cast	Eric Stoltz	Lance
+cast	Uma Thurman	Mia Wallace
+cast	Jerome Patrick Hoban	Ed Sullivan
+cast	Michael Gilden	Phillip Morris Page
+cast	Gary Shorelle	Ricky Nelson
+cast	Susan Griffiths	Marilyn Monroe
+cast	Eric Clark	James Dean
+cast	Joseph Pilato	Dean Martin
+cast	Brad Blumenthal	Jerry Lewis
+cast	Steve Buscemi	Buddy Holly
+cast	Lorelei Leslie	Mamie van Doren
+cast	Emil Sitka	Hold Hands You Lovebirds
+cast	Brenda Hillhouse	Butch's Mother
+cast	Christopher Walken	Captain Koons
+cast	Chandler Lindauer	Young Butch
+cast	Sy Sher	Klondike
+cast	Robert Ruth	Sportscaster #1 / Coffee Shop
+cast	Rich Turner	Sportscaster #2
+cast	Angela Jones	Esmarelda Villalobos
+cast	Don Blakely	Wilson's Trainer
+cast	Carl Allen	Dead Floyd Wilson
+cast	Maria de Medeiros	Fabienne
+cast	Karen Maruyama	Gawker #1
+cast	Kathy Griffin	Hit-and-run Witness
+cast	Venessia Valentino	Pedestrian / Bonnie Dimmick
+cast	Linda Kaye	Shot Woman
+cast	Duane Whitaker	Maynard
+cast	Peter Greene	Zed
+cast	Stephen Hibbert	The Gimp
+cast	Alexis Arquette	Fourth Man
+cast	Quentin Tarantino	Jimmie Dimmick
+cast	Harvey Keitel	The Wolf
+cast	Julia Sweeney	Raquel
+cast	Lawrence Bender	Long Hair Yuppy-Scum
+cast	Cie Allman	Winston Wolfe's Girlfriend At Party
+cast	Rene Beard	Bar Tender
+cast	Lori Pizzo	Lucky Lady
+cast	Glendon Rich	Drug Dealer
+cast	Devan Richardson	Hopalong Cassidy
+cast	Ani Sava	Woman in Bathroom

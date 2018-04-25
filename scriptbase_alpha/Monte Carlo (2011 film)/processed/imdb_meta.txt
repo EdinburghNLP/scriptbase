@@ -1,0 +1,67 @@
+year	2011
+imdb score	5.7
+meta score	43
+genre	Adventure
+genre	Comedy
+genre	Romance
+keyword	monte carlo
+keyword	hotel
+keyword	young woman
+keyword	three women
+keyword	two word title
+keyword	22 year old
+keyword	cell phone
+keyword	look alike
+keyword	friendship
+keyword	female protagonist
+keyword	monaco
+keyword	paris france
+keyword	mistaken identity
+keyword	misunderstanding
+keyword	high school graduate
+keyword	21 year old
+keyword	place name in title
+keyword	18 year old
+keyword	texan
+keyword	tied feet
+keyword	based on novel
+keyword	
+cast	Selena Gomez	Grace / Cordelia Winthrop Scott
+cast	Katie Cassidy	Emma
+cast	Leighton Meester	Meg
+cast	Cory Monteith	Owen
+cast	Andie MacDowell	Pam
+cast	Brett Cullen	Robert
+cast	Amanda Fairbank-Hynes	Amanda
+cast	Joe Camp III	Carl at Diner
+cast	Luke Bracey	Riley
+cast	Valérie Lemercier	Madame Valerie
+cast	Franck de la Personne	Manager at Grand Belle
+cast	Máté Haumann	Concierge at Grand Belle
+cast	István Göz	Doorman at Grand Belle
+cast	Attila Árpa	Security at Grand Belle
+cast	Joël Lefrançois	Manager at Le Petite Sommeil
+cast	Virág Bárány	Maid at Le Petite Sommeil
+cast	Shay Cunliffe	Cashier at Eiffel Tower
+cast	Barna Illyés	Paparazzi 1
+cast	Dániel Mogács	Paparazzi 2
+cast	Gábor Nagypál	Paparazzi 3
+cast	Matt Devere	Steward on Jet
+cast	Pierre Boulanger	Theo
+cast	Christophe Malavoy	Bernard Marchand
+cast	Catherine Tate	Alicia Winthrop Scott
+cast	Giulio Berruti	Prince Domenico da Silvano
+cast	Bruno Abraham-Kremer	Police Captain
+cast	Arnaud Aldigé	Bellhop at Hotel de Paris
+cast	Antal Leisen	Room Service at Hotel de Paris
+cast	Richard Rifkin	Auction Bidder 1
+cast	Sophie Thompson	Auction Bidder 2
+cast	George Mendel	Auction Announcer
+cast	Séverine Vasselin	Waitress on Yacht
+cast	Vilma Szécsi	Flower Market Woman
+cast	Ben O'Brien	Strolling Policeman
+cast	Bernadett Kis	Touring Architect
+cast	Éva Magyar	School Director
+cast	Romain Cottard	Desk Clerk at Hotel de Paris
+cast	Wayne Brett	Policeman Outside Café
+cast	Kamel Laadaili	French AirPort Security

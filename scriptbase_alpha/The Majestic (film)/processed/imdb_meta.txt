@@ -1,0 +1,236 @@
+year	2001
+imdb score	6.9
+meta score	27
+genre	Drama
+keyword	small town
+keyword	communist
+keyword	california
+keyword	amnesia
+keyword	memory
+keyword	screenwriter
+keyword	car accident
+keyword	car
+keyword	writer
+keyword	1950s
+keyword	script writer
+keyword	bar
+keyword	script
+keyword	movie theatre
+keyword	long lost son
+keyword	theatre
+keyword	suspicion
+keyword	love
+keyword	movie star
+keyword	blacklist
+keyword	lawyer
+keyword	u.s. constitution
+keyword	lighthouse
+keyword	medal of honor
+keyword	cemetery
+keyword	drink
+keyword	death
+keyword	prosthetic limb
+keyword	coat
+keyword	town hall
+keyword	witch hunt
+keyword	railway station
+keyword	burial
+keyword	waitress
+keyword	fly
+keyword	beach
+keyword	santa monica pier
+keyword	communist conspiracy
+keyword	rain
+keyword	cliff
+keyword	crying
+keyword	underwater
+keyword	dance
+keyword	communism
+keyword	reference to franklin d. roosevelt
+keyword	celebration
+keyword	war memorial
+keyword	loss of father
+keyword	chained
+keyword	letter
+keyword	clarinet
+keyword	telegram
+keyword	hook
+keyword	mistaken identity
+keyword	abandoned theatre
+keyword	fbi chief
+keyword	jealousy
+keyword	drinking
+keyword	federal bureau of investigation
+keyword	man with glasses
+keyword	grauman's chinese theater
+keyword	doctor
+keyword	the star spangled banner
+keyword	piano playing
+keyword	naming names
+keyword	father son reunion
+keyword	voice over narration
+keyword	testimony
+keyword	politics
+keyword	drunkenness
+keyword	funeral
+keyword	capitalist
+keyword	spying
+keyword	artificial arm
+keyword	blacklisting
+keyword	policeman
+keyword	first amendment
+keyword	head injury
+keyword	hardware store
+keyword	toy monkey
+keyword	flashback
+keyword	bridge
+keyword	coastal town
+keyword	train
+keyword	communist party
+keyword	capitalism
+keyword	newsreel
+keyword	patriotism
+keyword	town meeting
+keyword	voice over letter
+keyword	idealism
+keyword	dog
+keyword	democracy
+keyword	world war two veteran
+keyword	bully
+keyword	possum
+keyword	stuffed animal
+keyword	blanket
+keyword	postcard
+keyword	medal
+keyword	apartment eviction
+keyword	one armed man
+keyword	druggist
+keyword	film within a film
+keyword	house unamerican activities committee
+keyword	federal agent
+keyword	propaganda
+keyword	concession stand
+keyword	gift
+keyword	nurse
+keyword	hiccups
+keyword	reference to jimmy stewart
+keyword	father son relationship
+keyword	musician
+keyword	stolen identity
+keyword	pocket watch
+keyword	morality
+keyword	false accusation
+keyword	world war two
+keyword	identity theft
+keyword	watching tv
+keyword	dancing
+keyword	reference to j. edgar hoover
+keyword	diner
+keyword	political persecution
+keyword	movie projector
+keyword	veterans memorial
+keyword	loss of boyfriend
+keyword	photograph
+keyword	applause
+keyword	graveyard
+keyword	flyswatter
+keyword	wallet
+keyword	congressional hearing
+keyword	father daughter relationship
+keyword	china club
+keyword	hero
+keyword	statue
+keyword	parliamentary procedure
+keyword	war hero
+keyword	loss of friend
+keyword	mayor
+keyword	heart attack
+keyword	hometown
+keyword	police
+keyword	wilhelm scream
+keyword	band
+keyword	hollywood california
+keyword	boyfriend girlfriend relationship
+keyword	movie studio
+keyword	tombstone
+keyword	water
+keyword	title spoken by character
+keyword	
+cast	Jim Carrey	Peter Appleton
+cast	Bob Balaban	Elvin Clyde
+cast	Jeffrey DeMunn	Ernie Cole
+cast	Hal Holbrook	Congressman Doyle
+cast	Laurie Holden	Adele Stanton
+cast	Martin Landau	Harry Trimble
+cast	Brent Briscoe	Sheriff Cecil Coleman
+cast	Ron Rifkin	Kevin Bannerman
+cast	Gerry Black	Emmett Smith
+cast	David Ogden Stiers	Doc Stanton
+cast	James Whitmore	Stan Keller
+cast	Susan Willis	Irene Terwilliger
+cast	Catherine Dent	Mabel
+cast	Brian Howe	Carl Leffert / Head of the Studio
+cast	Karl Bury	Bob Leffert
+cast	Chelcie Ross	Avery Wyatt
+cast	Amanda Detmer	Sandra Sinclair
+cast	Allen Garfield	Leo Kubelsky
+cast	Daniel von Bargen	Federal Agent Ellerby
+cast	Shawn Doyle	Federal Agent Saunders
+cast	Mario Roccuzzo	Jerry the Bartender
+cast	Frank Collison	Subpoena Server
+cast	Bill Gratton	Daley
+cast	Ginger Williams	Louise
+cast	Ken Magee	Coastal Engineer
+cast	Csilla Horvath	Nurse Muriel
+cast	April Ortiz	Vera
+cast	Larry Cox	Grauman's Usher
+cast	Julie Richardson	Grauman's Bon-Bon Girl
+cast	Scotty Leavenworth	Joey
+cast	Grant Vaught	Boy on Beach
+cast	Bob Wells	Reverend
+cast	Kevin DeMunn	Western Union Man
+cast	Earl Boen	Newsreel Announcer
+cast	Bruce Campbell	Roland the Intrepid Explorer
+cast	Cliff Curtis	The Evil But Handsome Prince Khalid
+cast	Michael Sloane	Kindly Old Professor Meredith
+cast	Garry Marshall	Studio Executive
+cast	Paul Mazursky	Studio Executive
+cast	Sydney Pollack	Studio Executive
+cast	Carl Reiner	Studio Executive
+cast	Rob Reiner	Studio Executive
+cast	Matt Damon	Luke Trimble
+cast	Matt G. Wiens	Spencer Wyatt
+cast	Jeffrey Adams	Principal Swing Dancer
+cast	Kris Andersson	Dancer
+cast	Alvah Bessie	Himself
+cast	Herbert J. Biberman	Himself
+cast	Jennifer Blaire	Carl's Date
+cast	Greg Brown	Court Photographer
+cast	Chris Carver	Dancer
+cast	Lester Cole	Himself
+cast	Lathan Crowe	Casanova
+cast	Corey Foxx	Photographer
+cast	Kate Greeke	Popcorn Girl
+cast	Gordon Hart	Swing Dancer
+cast	J. Edgar Hoover	Himself
+cast	Jesse Jensen	Soldier
+cast	Mary Kircher	Swing Dancer
+cast	Tony Laanan	Grauman's Usher
+cast	Ring Lardner Jr.	Himself
+cast	John Howard Lawson	Himself
+cast	Brian Libby	Studio Guard Hal
+cast	Melissa S. Markess	Swing Dancer
+cast	Amanda Melby	Young Mrs. Trimble
+cast	Christopher Metas	Cassanova
+cast	Melissa Noble	Swing Dancer
+cast	Samuel Ornitz	Himself
+cast	Kimberly Prendez	Girl at Welcome Home Party
+cast	Maudie Purcell	Old Lady
+cast	George Ratliff	Dancer
+cast	Craig Richards	Studio Guard
+cast	David Rosenbaum	Swing Dancer
+cast	Adrian Scott	Himself
+cast	Gary Sommers	FBI Agent
+cast	Robert Thorne	FBI Agent
+cast	Jack Truman	Party Member
+cast	Steven Paul Zsenyuk	Driver / Theater Patron

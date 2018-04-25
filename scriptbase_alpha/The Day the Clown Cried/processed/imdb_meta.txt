@@ -1,0 +1,42 @@
+year	1972
+imdb score	6.9
+meta score	N/A
+genre	Drama
+keyword	clown
+keyword	nazi
+keyword	rough cut
+keyword	holocaust
+keyword	unfinished film
+keyword	unreleased film
+keyword	written and directed by cast member
+keyword	independent film
+keyword	based on novel
+keyword	
+cast	Jerry Lewis	Helmut Doork
+cast	Peter Ahlm	1st New Prisoner
+cast	Lars Amble	Guard
+cast	Harriet Andersson	Ada Doork
+cast	Jonas Bergström	Franz
+cast	Carl Billquist	Gestapo Officer #2
+cast	Claude Bolling	Circus Band Conductor
+cast	Tomas Bolme	Adolf
+cast	Curt Broberg	Galt
+cast	Bo Brundin	Ludwig
+cast	Johnny Cacao	
+cast	Anton Diffring	Captain Curt Runkel
+cast	Nils Eklund	Bartender
+cast	Victor Fratellini	
+cast	Serge Gainsbourg	
+cast	Michel Garland	
+cast	Ronald F. Hoiseck	Uhlmann
+cast	Heinz Hopf	Getsapo Officer #1
+cast	Lars Lind	2nd New Prisoner
+cast	Sven Lindberg	
+cast	Åke Lindman	Stout Prisoner
+cast	Michael Mansson	Prisoner
+cast	Sandy Mansson	Prisoner
+cast	Armand Mestral	
+cast	Fredrik Ohlsson	Herman
+cast	Ulf Palme	Johann Keltner
+cast	Roberto	
+cast	Pierre Étaix	Gustav

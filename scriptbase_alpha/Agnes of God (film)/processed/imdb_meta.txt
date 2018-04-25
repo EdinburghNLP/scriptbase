@@ -1,0 +1,137 @@
+year	1985
+imdb score	6.6
+meta score	N/A
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	psychiatrist
+keyword	novice
+keyword	convent
+keyword	nun
+keyword	court
+keyword	church
+keyword	trial
+keyword	mother superior
+keyword	photographer
+keyword	bloodstains
+keyword	prayer
+keyword	photograph
+keyword	rite
+keyword	ice skating
+keyword	press
+keyword	scream
+keyword	pianist
+keyword	pigeon
+keyword	quebec
+keyword	ambulance
+keyword	bed sheet
+keyword	newspaper article
+keyword	three word title
+keyword	religion
+keyword	menstruation
+keyword	interview
+keyword	implied rape
+keyword	confessional
+keyword	catholic church
+keyword	child molestation
+keyword	dove
+keyword	secret passageway
+keyword	siren
+keyword	niece
+keyword	nun's habit
+keyword	canada
+keyword	doctor
+keyword	reference to douglas macarthur
+keyword	amnesia
+keyword	insanity plea
+keyword	confessor
+keyword	detective
+keyword	reference to joan of arc
+keyword	reference to st. peter
+keyword	tears
+keyword	judge
+keyword	stigmata
+keyword	reference to thomas more
+keyword	milking a cow
+keyword	psychiatry
+keyword	mother daughter relationship
+keyword	psychiatric examination
+keyword	courtroom
+keyword	religious order
+keyword	mental illness
+keyword	infanticide
+keyword	flashback
+keyword	reference to st ignatius
+keyword	camera
+keyword	priest
+keyword	reference to sigmund freud
+keyword	hypnosis
+keyword	answering machine
+keyword	reference to mary magdalene
+keyword	watching tv
+keyword	religious icon
+keyword	reference to hindenberg
+keyword	retirement home
+keyword	female protagonist
+keyword	cigarette smoking
+keyword	ritual
+keyword	pet cat
+keyword	winter
+keyword	crypt
+keyword	amateur detective
+keyword	bell tower
+keyword	sexual abuse
+keyword	blood
+keyword	reference to queen elizabeth ii
+keyword	haircut
+keyword	child abuse
+keyword	alcoholic
+keyword	reporter
+keyword	montreal quebec canada
+keyword	candle
+keyword	female doctor
+keyword	pregnant nun
+keyword	owl
+keyword	sneaking a cigarette
+keyword	based on play
+keyword	character name in title
+keyword	
+cast	Jane Fonda	Dr. Martha Livingston
+cast	Anne Bancroft	Mother Miriam Ruth
+cast	Meg Tilly	Sister Agnes
+cast	Anne Pitoniak	Dr. Livingston's Mother
+cast	Winston Rekert	Detective Langevin
+cast	Gratien Gélinas	Father Martineau
+cast	Guy Hoffmann	Justice Joseph Leveau
+cast	Gabriel Arcand	Monsignor
+cast	Françoise Faucher	Eve LeClaire
+cast	Jacques Tourangeau	Eugène Lyon
+cast	Janine Fluet	Sister Marguerite
+cast	Deborah Grover	Sister Anne
+cast	Michele George	Sister Susanna
+cast	Samantha Langevin	Sister Jeannine
+cast	Jacqueline Blais	Sister David Marie
+cast	Françoise Berd	Sister Thérèse
+cast	Mimi D'Estée	Sister Elizabette
+cast	Rita Tuckett	Sister Geraldine
+cast	Lillian Graham	Sister Madeline Marie
+cast	Norma Dell'Agnese	Sister Geneviève
+cast	Muguette Moreau	Sister Luke
+cast	Janice Bryan	Sister Mary Joseph
+cast	Agnes Middleton	Sister Paul
+cast	France Arbour	Housekeeper
+cast	Laurel Lyle	Helen the Receptionist
+cast	Victor Désy	Librarian
+cast	Charlotte Laurier	Young Prostitute
+cast	Peter Langley	Sister Geneviève's Family
+cast	Nicole Marie Abbat	Sister Geneviève's Family
+cast	Matthew Armstrong	Sister Geneviève's Family
+cast	Chava Mandlsohn	Sister Geneviève's Family
+cast	Charles S. Pottie	Sister Geneviève's Family
+cast	Gerry Huckstep	Paramedic
+cast	Marc Denis	Newscaster
+cast	Herbert Luft	Television Reporter
+cast	André Lacoste	Male Patient
+cast	Jennifer Jewison	Female Patient
+cast	Carole Chatel	Lab Technician
+cast	Daniel Tremblay	Police Detective

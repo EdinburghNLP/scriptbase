@@ -1,0 +1,114 @@
+year	1931
+imdb score	6.9
+meta score	N/A
+genre	Comedy
+genre	Romance
+keyword	reporter
+keyword	socialite
+keyword	party
+keyword	mansion
+keyword	cigar box
+keyword	brunette
+keyword	breakfast
+keyword	out of court settlement
+keyword	unrequited love
+keyword	male punches male
+keyword	party crashing
+keyword	tuxedo
+keyword	marital breakup
+keyword	romantic triangle
+keyword	ballroom
+keyword	fake beard
+keyword	newsroom
+keyword	parrot
+keyword	speakeasy
+keyword	mother in law
+keyword	blonde
+keyword	jealousy
+keyword	city editor
+keyword	talking to self in mirror
+keyword	playwright
+keyword	echo
+keyword	typewriter
+keyword	singing around piano
+keyword	wealthy family
+keyword	ambassador
+keyword	newspaper
+keyword	lead actor's last film
+keyword	passed out
+keyword	valet
+keyword	cocktail party
+keyword	pre code
+keyword	pipe smoking
+keyword	late night
+keyword	salsa dancer
+keyword	butler
+keyword	dog
+keyword	character appears in newspaper
+keyword	music box
+keyword	blonde bombshell
+keyword	folding screen
+keyword	society girl
+keyword	fountain
+keyword	sneeze
+keyword	peep hole
+keyword	marriage proposal
+keyword	tuxedo dickey
+keyword	news reporter
+keyword	newspaper story
+keyword	newspaper man
+keyword	pacing
+keyword	cigar smoking
+keyword	opera
+keyword	four poster bed
+keyword	violin
+keyword	classism
+keyword	social class
+keyword	boredom
+keyword	neglecting to cover sneeze
+keyword	elopement
+keyword	society page
+keyword	grandfather clock
+keyword	opera singer
+keyword	drunkenness
+keyword	blackmail
+keyword	platinum blonde
+keyword	canary
+keyword	
+cast	Loretta Young	Gallagher
+cast	Robert Williams	Stew Smith
+cast	Jean Harlow	Ann Schuyler
+cast	Halliwell Hobbes	Butler
+cast	Reginald Owen	Grayson
+cast	Edmund Breese	Conroy - the Editor
+cast	Don Dillaway	Michael Schuyler
+cast	Walter Catlett	Bingy
+cast	Claud Allister	Dawson - the Valet
+cast	Louise Closser Hale	Mrs. Schuyler
+cast	Wilson Benge	Butler
+cast	Vance Carroll	Reporter
+cast	Eddy Chandler	Hank - a Reporter
+cast	Richard Cramer	Speakeasy Proprietor
+cast	Oliver Eckhardt	Reporter
+cast	Bill Elliott	Ann's Beau - the Round-the-World Flyer
+cast	Adolph Faylauer	Party Guest
+cast	J.C. Fowler	Reporter
+cast	Constant Franke	Party Guest
+cast	Dannie Mac Grant	Office Boy
+cast	Frank Holliday	Reporter
+cast	Olaf Hytten	Mr. Radcliffe
+cast	Charles Jordan	Reporter
+cast	Carl M. Leviness	Party Guest
+cast	Tom London	Reporter
+cast	Adolph Milar	Doorman
+cast	Edmund Mortimer	Party Guest
+cast	George Nardelli	Party Guest
+cast	Richard Powell	Reporter
+cast	Hal Price	Joe - a Reporter
+cast	Dick Prichard	Minor Role
+cast	Harry Semels	Waiter
+cast	Edgar Sherrod	Party Guest
+cast	Harry Strang	Reporter
+cast	Ellinor Vanderveer	Party Guest
+cast	William Wagner	Typist
+cast	Florence Wix	Party Guest

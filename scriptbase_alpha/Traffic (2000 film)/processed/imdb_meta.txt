@@ -1,0 +1,273 @@
+year	2000
+imdb score	7.7
+meta score	86
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	drugs
+keyword	judge
+keyword	teenage daughter
+keyword	witness
+keyword	drug addict
+keyword	cocaine
+keyword	mexico
+keyword	drug addiction
+keyword	la jolla california
+keyword	helicopter
+keyword	bulletproof vest
+keyword	mexican border
+keyword	desert
+keyword	police
+keyword	assassination
+keyword	color filter
+keyword	wiretapping
+keyword	escape
+keyword	multiple perspectives
+keyword	heroin
+keyword	drug cartel
+keyword	spanish lesson
+keyword	lemonade
+keyword	assassin
+keyword	plastic surgery
+keyword	based on tv series
+keyword	loss of friend
+keyword	courtroom
+keyword	mercedes benz
+keyword	breakfast
+keyword	press conference
+keyword	drug smuggling
+keyword	crack cocaine
+keyword	runaway child
+keyword	arrest
+keyword	grave digging
+keyword	ghetto
+keyword	marriage
+keyword	gay bar
+keyword	police corruption
+keyword	washington d.c.
+keyword	teenage sex
+keyword	drug dealing
+keyword	shooting
+keyword	teenage girl
+keyword	sniper
+keyword	one word title
+keyword	criminal
+keyword	meeting
+keyword	mexico city
+keyword	exploding car
+keyword	epic
+keyword	man on the verge of tears
+keyword	old friend
+keyword	multiple storyline
+keyword	poisoning
+keyword	politics
+keyword	swimming pool
+keyword	drug ring
+keyword	shot in the back
+keyword	funeral
+keyword	food poisoning
+keyword	threat
+keyword	drug overdose
+keyword	drug rehabilitation
+keyword	silencer
+keyword	sexual favor
+keyword	car bomb
+keyword	alcoholics anonymous
+keyword	golf club
+keyword	attorney
+keyword	san diego california
+keyword	stolen car
+keyword	crack house
+keyword	california
+keyword	murder
+keyword	interracial sex
+keyword	interlinked stories
+keyword	violence
+keyword	cincinnati ohio
+keyword	corruption
+keyword	shot in the foot
+keyword	white house
+keyword	gun battle
+keyword	kidnapping
+keyword	runaway
+keyword	drug courier
+keyword	classroom
+keyword	flashback
+keyword	drug war
+keyword	el paso texas
+keyword	drug trafficking
+keyword	f word
+keyword	drug use
+keyword	remake
+keyword	marijuana
+keyword	u.s. mexico border
+keyword	prostitution
+keyword	ensemble cast
+keyword	cell phone
+keyword	ensemble film
+keyword	handcuffs
+keyword	remuneration
+keyword	12 step program
+keyword	suburbia
+keyword	death
+keyword	georgetown washington d.c.
+keyword	chase
+keyword	drug abuse
+keyword	rehabilitation
+keyword	surveillance
+keyword	director also cinematographer
+keyword	organized crime
+keyword	interracial relationship
+keyword	joke
+keyword	interracial friendship
+keyword	teenage prostitution
+keyword	informant
+keyword	pregnancy
+keyword	father daughter relationship
+keyword	high school
+keyword	tijuana mexico
+keyword	columbus ohio
+keyword	torture
+keyword	la jolla
+keyword	corrupt official
+keyword	hitman
+keyword	
+cast	Benicio Del Toro	Javier Rodriguez
+cast	Jacob Vargas	Manolo Sanchez
+cast	Andrew Chavez	Desert Truck Driver
+cast	Michael Saucedo	Desert Truck Driver
+cast	Tomas Milian	General Arturo Salazar
+cast	Jose Yenque	Salazar Soldier / The Torturer
+cast	Emilio Rivera	Salazar Soldier #2
+cast	Michael O'Neill	Lawyer Rodman
+cast	Michael Douglas	Robert Wakefield
+cast	Russell G. Jones	Clerk
+cast	Lorene Hetherington	State Capitol Reporter #1
+cast	Eric Collins	State Capitol Reporter #2
+cast	Beau Holden	DEA Agent - CalTrans
+cast	Peter Stader	DEA Agent - CalTrans
+cast	James Lew	DEA Agent - CalTrans
+cast	Jeremy Fitzgerald	DEA Agent - CalTrans
+cast	Russell Solberg	DEA Agent - CalTrans
+cast	Luis Guzmán	Ray Castro
+cast	Don Cheadle	Montel Gordon
+cast	Don Snell	DEA Agent - Trailer
+cast	Enrique Murciano	DEA Agent - Trailer
+cast	Gary Carlos Cervantes	DEA Agent - Trailer
+cast	Leticia Bombardier	Ruiz's Secretary
+cast	Miguel Ferrer	Eduardo Ruiz
+cast	Carl Ciarfalio	Ruiz's Assistant
+cast	Steven Lambert	Van Driver
+cast	Gilbert Rosales	Van Passenger
+cast	Rick Avery	DEA Agent - Public Storage
+cast	Mario Roberts	DEA Agent - Public Storage
+cast	Eileen Weisinger	DEA Agent - Public Storage
+cast	Keii Johnston	DEA Agent - Public Storage
+cast	Mike Watson	DEA Agent - Public Storage
+cast	Kurt D. Lott	DEA Agent - Public Storage
+cast	Lincoln Simonds	DEA Agent - Public Storage
+cast	Steve Tomaski	DEA Agent - Public Storage
+cast	Buck McDancer	DEA Agent - Public Storage
+cast	John Callery	DEA Agent - Public Storage
+cast	Ousaun Elam	DEA Agent - Public Storage
+cast	Brian Avery	DEA Agent - Public Storage
+cast	Corey Spears	F*****-up Bowman
+cast	Majandra Delfino	Vanessa
+cast	Topher Grace	Seth Abrahms
+cast	Erika Christensen	Caroline Wakefield
+cast	Alec Roberts	David Ayala
+cast	Catherine Zeta-Jones	Helena Ayala
+cast	Rena Sofer	Helena's Friend
+cast	Stacey Travis	Helena's Friend
+cast	Jennifer Barker	Helena's Friend
+cast	Dean Faulkner	Parking Valet
+cast	Albert Finney	Chief of Staff
+cast	D.W. Moffett	Jeff Sheridan
+cast	James Brolin	General Ralph Landry
+cast	Daniella Kuhn	Tourist Woman
+cast	Brandon Keener	Tourist Man
+cast	Bill Weld	Himself
+cast	George Blumenthal	Partygoer #1
+cast	Stephen Dunham	Lobbyist
+cast	Don Nickles	Himself
+cast	Margaret Travolta	Economist
+cast	Harry Reid	Himself
+cast	Jeff Podolsky	Himself
+cast	Jewelle Bickford	Partygoer #2
+cast	Barbara Boxer	Herself
+cast	Orrin G. Hatch	Himself
+cast	Charles Grassley	Himself
+cast	Dave Hager	Partygoer #3
+cast	Tucker Smallwood	Partygoer #4
+cast	Steven Bauer	Carlos Ayala
+cast	Marisol Padilla Sánchez	Ana Sanchez
+cast	Amy Irving	Barbara Wakefield
+cast	Dennis Quaid	Arnie Metzger
+cast	Clifton Collins Jr.	Francisco Flores
+cast	Víctor Quintero	Salazar Soldier
+cast	Toby Holguin	Salazar Soldier
+cast	Ramiro González	Salazar Soldier
+cast	Viola Davis	Social Worker
+cast	James Pickens Jr.	Prosecutor Ben Williams
+cast	Peter Riegert	Attorney Michael Adler
+cast	Elaine Kagan	Judge Reed
+cast	John Slattery	ADA Dan Collier
+cast	Jimmy Ortega	Arrested Man in Apartment
+cast	Greg Boniface	Tackled Man #1
+cast	Thomas Rosales Jr.	Tackled Man #2
+cast	Rudy M. Camacho	Customs Official
+cast	Vonte Sweet	Dealer
+cast	Ed Breving	Hotel Deskman
+cast	Yul Vazquez	Tigrillo / Obregón Assassin
+cast	Jack Conley	Agent Hughes
+cast	Eddie Velez	Agent Johnson
+cast	Craig N. Chretien	Director of EPIC
+cast	John Brown	Assistant Director of EPIC
+cast	Mike Siegel	DEA Representative
+cast	Joel Torres	Porfilio Madrigal
+cast	Stephen J. Rose	Marty
+cast	Kimber Fritz	Rehab Counselor
+cast	Harsh Nayyar	Witness #1
+cast	Mary Pat Gleason	Witness #2
+cast	Vincent M. Ward	Man on Street
+cast	Benjamin Bratt	Juan Obregón
+cast	Jsu Garcia	Pablo Obregón
+cast	Gregory Estevane	Polygraph Administrator
+cast	Alex Procopio	Polygraph Assistant
+cast	Rita Gomez	Mrs. Castro
+cast	Kaizaad Kotwal	Teacher
+cast	David Jensen	John
+cast	Jay Krymis	Waiter #1
+cast	Mike Malone	Waiter #2
+cast	René Pereyra	Doctor
+cast	Kymberly Newberry	Press Secretary
+cast	Carroll Schumacher	Ayala Security #1
+cast	Ben Scott	Ayala Security #2
+cast	Michael Showers	Meeting Leader
+cast	Fred Anderson	TV Reporter
+cast	David Bickford	Stan
+cast	Robert Randolph Caton	Corporate Businessman
+cast	Cecile Cinco	Maid
+cast	Adam Clark	FBI Agent
+cast	Chic Daniel	DEA Agent
+cast	Alan Easley	Junkie
+cast	Choel Evans	Photojournalist
+cast	Rod Fielder	Newspaper Photographer
+cast	Tony Guma	Detective
+cast	Valerie Lynn Hanna	Witness #3
+cast	Salma Hayek	Rosario
+cast	Elizabeth Jarosz	High School Student
+cast	Dominic Koulianos	Reporter
+cast	Zachary Lindsey	Cafe Patron
+cast	Ambrit Millhouse	Cincinnati Hooker
+cast	David Pittinger	Cincinnati Police Officer
+cast	Darlynne Reyes Menkin	Reporter
+cast	Laurent Schwaar	Art Appraiser
+cast	Joey Sotello	DEA Agent / Attorney
+cast	William Christopher Stephens	Drug Dealer
+cast	Lynn Struiksma	Clown
+cast	Clyde Tull	Cafe Patron
+cast	Fairly Tull	Cafe Patron
+cast	Jim Cody Williams	FBI Agent
+cast	Anthony Hawkins Woods	Junkie
+cast	William 'Shorty' Young	Court Room Participant

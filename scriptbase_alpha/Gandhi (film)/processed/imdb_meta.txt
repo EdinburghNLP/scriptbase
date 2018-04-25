@@ -1,0 +1,292 @@
+year	1982
+imdb score	8.1
+meta score	N/A
+genre	Biography
+genre	Drama
+genre	History
+keyword	india
+keyword	indian
+keyword	british
+keyword	muslim
+keyword	hindu
+keyword	south africa
+keyword	independence
+keyword	violence
+keyword	pakistan
+keyword	protest
+keyword	british empire
+keyword	minister
+keyword	prime minister
+keyword	lawyer
+keyword	hero
+keyword	train
+keyword	british india
+keyword	salt
+keyword	hunger strike
+keyword	arrest
+keyword	peace
+keyword	assassination
+keyword	desert
+keyword	bald hero
+keyword	political activism
+keyword	combat
+keyword	massacre
+keyword	bolt action rifle
+keyword	brutality
+keyword	murder
+keyword	speech
+keyword	viceroy
+keyword	construction site
+keyword	year 1893
+keyword	church
+keyword	civil disobedience
+keyword	assassin
+keyword	macro philosophy
+keyword	tarmac
+keyword	racism
+keyword	prison
+keyword	heart attack
+keyword	sermon
+keyword	british colonial
+keyword	british soldier
+keyword	london england
+keyword	religious violence
+keyword	cricket the game
+keyword	police brutality
+keyword	army vs civilians
+keyword	political persecution
+keyword	pistol
+keyword	sword fight
+keyword	1930s
+keyword	arson
+keyword	main character dies
+keyword	new delhi india
+keyword	labor strike
+keyword	indian history
+keyword	newsreel footage
+keyword	shot to death
+keyword	pier
+keyword	england
+keyword	trial
+keyword	ends with funeral
+keyword	religion
+keyword	sword
+keyword	fasting
+keyword	politician
+keyword	loss of wife
+keyword	cremated remains
+keyword	tough guy
+keyword	political prisoner
+keyword	migration
+keyword	epic
+keyword	pacifism
+keyword	amritsar massacre
+keyword	radio broadcasting
+keyword	jail
+keyword	british military
+keyword	1890s
+keyword	man with glasses
+keyword	political oppression
+keyword	reference to mahatma gandhi
+keyword	hinduism
+keyword	1910s
+keyword	20th century
+keyword	elephant
+keyword	british history
+keyword	machine gun
+keyword	ethnic conflict
+keyword	christianity
+keyword	19th century
+keyword	riot
+keyword	independence movement
+keyword	reporter
+keyword	death of hero
+keyword	politics
+keyword	battle
+keyword	general strike
+keyword	islam
+keyword	nonlinear timeline
+keyword	photographer
+keyword	bald
+keyword	main character shot
+keyword	railway station
+keyword	horse
+keyword	religious intolerance
+keyword	pacifist
+keyword	south asian
+keyword	reference to einstein
+keyword	1940s
+keyword	world war two
+keyword	priest
+keyword	1920s
+keyword	opening action scene
+keyword	bombay india
+keyword	amritsar india
+keyword	year 1948
+keyword	train tunnel
+keyword	calcutta india
+keyword	mob
+keyword	funeral
+keyword	police officer killed
+keyword	one word title
+keyword	marriage
+keyword	tragic hero
+keyword	funeral pyre
+keyword	rifle
+keyword	no opening credits
+keyword	bonfire
+keyword	reference to god
+keyword	glasses
+keyword	title spoken by character
+keyword	character name in title
+keyword	
+cast	Ben Kingsley	Mahatma Gandhi
+cast	Candice Bergen	Margaret Bourke-White
+cast	Edward Fox	General Dyer
+cast	John Gielgud	Lord Irwin
+cast	Trevor Howard	Judge Broomfield
+cast	John Mills	The Viceroy
+cast	Martin Sheen	Walker
+cast	Ian Charleson	Charlie Andrews
+cast	Athol Fugard	General Smuts
+cast	Günther Maria Halmer	Herman Kallenbach
+cast	Saeed Jaffrey	Sardar Patel
+cast	Geraldine James	Mirabehn
+cast	Alyque Padamsee	Mohammed Ali Jinnah
+cast	Amrish Puri	Khan
+cast	Roshan Seth	Pandit Nehru
+cast	Rohini Hattangadi	Kasturba Gandhi
+cast	Ian Bannen	Senior Police Officer
+cast	Michael Bryant	Principal Secretary
+cast	John Clements	Advocate General
+cast	Richard Griffiths	Collins
+cast	Nigel Hawthorne	Kinnoch
+cast	Bernard Hepton	G.O.C.
+cast	Michael Hordern	Sir George Hodge
+cast	Shreeram Lagoo	Professor Gokhale
+cast	Om Puri	Nahari
+cast	Virendra Razdan	Maulana Azad
+cast	Richard Vernon	Sir Edward Gait
+cast	Harsh Nayyar	Nathuran Godse
+cast	Prabhakar Patankar	Prakash
+cast	Vijay Kashyap	Apte
+cast	Nigam Prakash	Karkare
+cast	Supriya Pathak	Manu
+cast	Neena Gupta	Abha
+cast	Shane Rimmer	Commentator
+cast	Peter Harlowe	Lord Mountbatten
+cast	Anang Desai	J.B. Kripalani
+cast	Winston Ntshona	Porter
+cast	Peter Cartwright	European Passenger
+cast	Marius Weyers	Conductor
+cast	Richard Mayes	Baker
+cast	Alok Nath	Tyeb Mohammed
+cast	Dean Gasper	Singh
+cast	Ken Hutchison	Police Sergeant
+cast	Norman Chancer	Reporter
+cast	Gulshan Kapoor	Rich Merchant
+cast	Charu Bala Chokshi	Ayah
+cast	Raj Chaturvedi	Harilal Gandhi
+cast	Avpar Jhita	Manilal Gandhi
+cast	Anthony Sagger	Ramdas Gandhi
+cast	David Gant	Daniels
+cast	Daniel Day-Lewis	Colin
+cast	Ray Burdis	Youth
+cast	Daniel Peacock	Youth
+cast	Avis Bunnage	Colin's Mother
+cast	Caroline Hutchison	Sonja Schlesin
+cast	Mohan Agashe	Tyeb Mohammed's Friend
+cast	Sudhanshu Mishra	Man in Gallery
+cast	Dina Nath	Miner
+cast	John Savident	Manager of the Mine
+cast	John Patrick	Mounted Police Sergeant
+cast	Michael Godley	Clergyman
+cast	Stewart Harwood	Prison Officer
+cast	Stanley McGeagh	Prison Guard
+cast	Christopher Good	Young Englishman
+cast	David Markham	Older Englishman
+cast	Jyoti Sarup	Young Indian Reporter
+cast	John Naylor	English Reporter
+cast	Wilson George	American Reporter
+cast	Hansu Mehta	Older Indian Reporter
+cast	Sudarshan Sethi	Motilal Nehru
+cast	Sunila Pradhan	Mrs. Motilal Nehru
+cast	Moti Makan	Traveller on Train Roof
+cast	Jalal Agha	Traveller on Train Roof
+cast	Rupert Frazer	Cavalry Troop Leader
+cast	Manohar Pitale	Shukla
+cast	Homi Daruvala	Nehru's Friend
+cast	K.K. Raina	Nehru's Friend
+cast	Vivek Swaroop	Nehru's Friend
+cast	Raja Biswas	Nehru's Friend
+cast	Dominic Guard	Subaltern
+cast	Bernard Hill	Sergeant Putnam
+cast	Rama Kant Jha	Village Leader
+cast	Nana Palsikar	Villager
+cast	Alpna Gupta	Villager's Wife
+cast	Chandrakant Thakkar	Policeman
+cast	John Quentin	Batsman
+cast	Graham Seed	Wicket-Keeper
+cast	Keith Drinkel	Major
+cast	Bob Babenia	Police Guard
+cast	Gerald Sim	Magistrate
+cast	Colin Farrell	Clerk
+cast	Sanjeev Puri	Young Man
+cast	Gareth Forwood	Secretary
+cast	Vijay Crishna	Chauffeur
+cast	Sankalp Dubey	Servant
+cast	James Cossins	Brigadier
+cast	Gurcharan Singh	Speaker in Jallianwalla Bagh
+cast	John Vine	A.D.C.
+cast	Geoffrey Chater	Government Advocate
+cast	Ernest Clark	Lord Hunter
+cast	Habib Tanvir	Indian Barrister
+cast	Pankaj Mohan	Mahadev Desai
+cast	Subhash Gupta	Policeman at Chauri Chaura
+cast	Aadil	Policeman at Chauri Chaura
+cast	Rajeshwar Nath	Marcher at Chauri Chaura
+cast	S.S. Thakur	Marcher at Chauri Chaura
+cast	Rahul Gupta	Boy with Goat
+cast	Barry John	Police Superintendant
+cast	Brian Oulton	Clerk of Court
+cast	James Snell	Court Reporter
+cast	John Boxer	Court Reporter
+cast	Gerard Norman	Court Reporter
+cast	Bernard Horsfall	General Edgar
+cast	Richard Leech	Brigadier
+cast	Pankaj Kapur	Pyarelal
+cast	Tarla Mehta	Sarojini Naidu
+cast	David Sibley	Subaltern
+cast	Dalip Tahil	Zia
+cast	Stanley Lebor	Police Officer
+cast	Terrence Hardiman	Ramsay MacDonald
+cast	Monica Gupta	Little Girl
+cast	Jon Croft	Colonel
+cast	William Hoyland	Adjutant
+cast	John Ratzenberger	American Lieutenant
+cast	Jack McKenzie	Major at Aga Khan Palace
+cast	Tom Alter	Doctor at Aga Khan Palace
+cast	Jane Myerson	Lady Mountbatten
+cast	Roop Kumar Razdan	Hindu Youth at Ashram
+cast	Bani Sharad Joshi	Woman Refugee
+cast	Vagish Kumar Singh	Man Refugee
+cast	Dilsher Singh	Abdul Ghaffar Khan
+cast	Sudhir Dalvi	Police Commissioner
+cast	Tilak Raj	Tahib
+cast	Irpinder Puri	Sushila Nayyar
+cast	Pren Kapoor	Hindu Youth in Calcutta Street
+cast	Vinay Apte	Hindu Youth in Calcutta Street
+cast	Aswani Kumar	Hindu Youth in Calcutta Street
+cast	Avinash Dogra	Hindu Youth in Calcutta Street
+cast	Shreedhar Joshi	Hindu Youth in Calcutta Street
+cast	Suhas Palshikar	Hindu Youth in Calcutta Street
+cast	Karkirat Singh	Nehru's Aide
+cast	Shekhar Chatterjee	Suhrawardy
+cast	Amarjeet	Goonda
+cast	Pratap Desai	Goonda
+cast	Bhatawadekar Prakash	Goonda
+cast	Sunil Shende	Goonda
+cast	Rovil Sinha	Goonda
+cast	Derek Lyons	Radio Reporter at Funeral
+cast	Gito Santana	Lawyer
+cast	Stephen M. Silverman	British Officer

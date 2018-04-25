@@ -1,0 +1,122 @@
+year	2004
+imdb score	6.2
+meta score	56
+genre	Comedy
+genre	Crime
+genre	Thriller
+keyword	professor
+keyword	casino
+keyword	remake
+keyword	heist
+keyword	landlady
+keyword	remake of european film
+keyword	dog
+keyword	murder
+keyword	church
+keyword	gospel choir
+keyword	island
+keyword	coffee maker
+keyword	gospel singer
+keyword	tenant
+keyword	indochinese
+keyword	sculpture
+keyword	explosion
+keyword	drawing straws
+keyword	reference to martin luther king jr.
+keyword	deep south
+keyword	football team
+keyword	black comedy
+keyword	rap music
+keyword	compost
+keyword	real tv show shown in fictional situation
+keyword	gun
+keyword	false teeth
+keyword	c4 explosives
+keyword	cat
+keyword	freak accident
+keyword	string ensemble
+keyword	racism
+keyword	concussion
+keyword	strangulation
+keyword	pit bull dog
+keyword	scene during end credits
+keyword	gospel singing
+keyword	vietnamese american
+keyword	garbage barge
+keyword	racial slur
+keyword	severed finger
+keyword	american football
+keyword	sheriff
+keyword	accidental shooting
+keyword	criminal
+keyword	river boat
+keyword	caper
+keyword	painting
+keyword	explosive
+keyword	fast food
+keyword	barge
+keyword	bridge
+keyword	mississippi
+keyword	gas mask
+keyword	hammer
+keyword	religious fundamentalist
+keyword	garbage
+keyword	shot to death
+keyword	deputy
+keyword	donut
+keyword	robbery
+keyword	race relations
+keyword	tunnel
+keyword	attempted robbery
+keyword	money falling through the air
+keyword	riverboat
+keyword	caper comedy
+keyword	african american
+keyword	bribe
+keyword	out on a limb
+keyword	gospel music
+keyword	football player
+keyword	remake of british film
+keyword	dumb criminal
+keyword	drill
+keyword	gospel song
+keyword	attempted murder
+keyword	
+cast	Tom Hanks	Professor G.H. Dorr
+cast	Irma P. Hall	Marva Munson
+cast	Marlon Wayans	Gawain MacSam
+cast	J.K. Simmons	Garth Pancake
+cast	Tzi Ma	The General
+cast	Ryan Hurst	Lump Hudson
+cast	Diane Delano	Mountain Girl
+cast	George Wallace	Sheriff Wyner
+cast	John McConnell	Deputy Sheriff
+cast	Jason Weaver	Weemack Funthes
+cast	Stephen Root	Fernand Gudge
+cast	Lyne Odums	Rosalie Funthes
+cast	Walter K. Jordan	Elron
+cast	George Anthony Bell	Preacher
+cast	Greg Grunberg	TV Commercial Director
+cast	Hallie Singleton	Craft Service
+cast	Robert Baker	Quarterback
+cast	Blake Clark	Football Coach
+cast	Amad Jackson	Doughnut Gangster
+cast	Aldis Hodge	Doughnut Gangster
+cast	Freda Foh Shen	Doughnut Woman
+cast	Paula Martin	Gawain's Mama
+cast	Jeremy Suarez	Li'l Gawain
+cast	Te Te Benn	Gawain's Sister
+cast	Khalil East	Gawain's Brother
+cast	Jennifer Echols	Waffle Hut Waitress
+cast	Nita Norris	Tea Lady
+cast	Vivian Smallwood	Tea Lady
+cast	Maryn Tasco	Tea Lady
+cast	Muriel Whitaker	Tea Lady
+cast	Jessie Bailey	Tea Lady
+cast	Louisa Abernathy	Church Voice
+cast	Mildred Dumas	Church Voice
+cast	Al Fann	Church Voice
+cast	Mi Mi Green-Fann	Church Voice
+cast	Maurice Watson	Othar
+cast	Bruce Campbell	Humane Society Worker
+cast	Michael Dotson	Angry Football Fan

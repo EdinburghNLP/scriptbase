@@ -1,0 +1,241 @@
+year	1985
+imdb score	5.2
+meta score	N/A
+genre	Horror
+keyword	elm street
+keyword	freddy krueger
+keyword	teenage boy
+keyword	nightmare
+keyword	dream
+keyword	neighbor
+keyword	fear
+keyword	murder
+keyword	character's point of view camera shot
+keyword	homicidal maniac
+keyword	volleyball
+keyword	swimming pool
+keyword	ohio
+keyword	springwood ohio
+keyword	whipped with a towel
+keyword	pool party
+keyword	stripped naked
+keyword	abandoned factory
+keyword	maniac
+keyword	exploding body
+keyword	sequel
+keyword	teenager
+keyword	slasher flick
+keyword	1980s
+keyword	fire
+keyword	classroom
+keyword	second in series
+keyword	arms tied overhead
+keyword	mother son relationship
+keyword	power plant
+keyword	stabbed in the chest
+keyword	knife
+keyword	killed in shower
+keyword	lifted by the throat
+keyword	scar tissue
+keyword	father son relationship
+keyword	school bus driver
+keyword	high school
+keyword	hallucination
+keyword	surrealism
+keyword	s&m
+keyword	questioning sexuality
+keyword	party
+keyword	cigarette smoking
+keyword	desert
+keyword	white briefs
+keyword	gay man
+keyword	dragging a body
+keyword	boyfriend girlfriend relationship
+keyword	impalement
+keyword	split personality
+keyword	leather bar
+keyword	blood
+keyword	diary
+keyword	man pantsed
+keyword	sleepwalking
+keyword	character says i love you
+keyword	gay teacher
+keyword	locker room
+keyword	husband wife relationship
+keyword	wagon
+keyword	homoeroticism
+keyword	place name in title
+keyword	breaking a mirror
+keyword	gash in the face
+keyword	stabbed in the stomach
+keyword	falling asleep in class
+keyword	slow motion scene
+keyword	revenge
+keyword	rampage
+keyword	demon
+keyword	homosexual
+keyword	biting leg
+keyword	basement
+keyword	father daughter relationship
+keyword	murdered in a shower
+keyword	baseball
+keyword	possession
+keyword	bare chested male bondage
+keyword	screaming
+keyword	burned alive
+keyword	no ending
+keyword	kicked in the face
+keyword	jumping rope
+keyword	villain not really dead cliche
+keyword	bloody footprint
+keyword	briefs
+keyword	numbered sequel
+keyword	high school coach
+keyword	undead
+keyword	burnt hand
+keyword	skin ripping
+keyword	blood splatter
+keyword	subjective camera
+keyword	paranoia
+keyword	serial child killer
+keyword	raised middle finger
+keyword	gym teacher
+keyword	jogging
+keyword	stabbed to death
+keyword	slasher
+keyword	boom box
+keyword	head ripping
+keyword	driving off road
+keyword	gore
+keyword	jock strap
+keyword	lifting someone into the air
+keyword	child in peril
+keyword	shower room
+keyword	street in title
+keyword	furnace
+keyword	pet bird
+keyword	claw
+keyword	tennis ball
+keyword	shotgun
+keyword	male nudity
+keyword	murder of a nude man
+keyword	burn scar
+keyword	plant in title
+keyword	mother daughter relationship
+keyword	face slap
+keyword	full moon
+keyword	breaking through a door
+keyword	push ups
+keyword	exposed brain
+keyword	stripped male
+keyword	killing an animal
+keyword	transformation
+keyword	homoerotic fight
+keyword	male in a shower
+keyword	brother sister relationship
+keyword	cut arm
+keyword	series
+keyword	cult film
+keyword	school bus
+keyword	bare chested male
+keyword	teenage girl
+keyword	punishment
+keyword	towel snapping
+keyword	underwear
+keyword	long tongue
+keyword	person on fire
+keyword	teen movie
+keyword	serial killer
+keyword	dead bird
+keyword	lifting a male into the air
+keyword	melting face
+keyword	male in shower
+keyword	naked dead man
+keyword	score employs electronic instruments
+keyword	supernatural power
+keyword	glove
+keyword	disfigurement
+keyword	barred window
+keyword	terror
+keyword	homoerotic
+keyword	stabbed in the back
+keyword	gay bar
+keyword	grill
+keyword	mutilation
+keyword	s&m club
+keyword	football
+keyword	obscene finger gesture
+keyword	rain
+keyword	woman in a bikini
+keyword	snake
+keyword	cafeteria
+keyword	nightmare becomes reality
+keyword	underage drinking
+keyword	male underwear
+keyword	trampled to death
+keyword	male rear nudity
+keyword	tennis racket
+keyword	bandaged arm
+keyword	self mutilation
+keyword	talking with one's mouth full
+keyword	science teacher
+keyword	heat
+keyword	teenager nudity
+keyword	sunglasses
+keyword	hand through chest
+keyword	teen angst
+keyword	lightning
+keyword	convertible
+keyword	second part
+keyword	murder in a shower
+keyword	boiler room
+keyword	slashed to death
+keyword	killed in a shower
+keyword	topless female nudity
+keyword	toaster
+keyword	digit in title
+keyword	gay
+keyword	rat
+keyword	grounded
+keyword	stabbed in the shoulder
+keyword	man stripped
+keyword	basketball
+keyword	murder in shower
+keyword	sadomasochism
+keyword	child killer
+keyword	burnt face
+keyword	exploding bird
+keyword	clothes torn off
+keyword	fish tank
+keyword	dog
+keyword	whipping
+keyword	gay subtext
+keyword	shower
+keyword	number in title
+keyword	character name in title
+keyword	surprise ending
+cast	Mark Patton	Jesse Walsh
+cast	Kim Myers	Lisa Webber
+cast	Robert Rusler	Ron Grady
+cast	Clu Gulager	Ken Walsh
+cast	Hope Lange	Cheryl Walsh
+cast	Marshall Bell	Coach Schneider
+cast	Melinda O. Fee	Mrs. Webber
+cast	Tom McFadden	Mr. Webber
+cast	Sydney Walsh	Kerry
+cast	Robert Englund	Freddy Krueger
+cast	Edward Blackoff	Biology Teacher
+cast	Christie Clark	Angela Walsh
+cast	Lyman Ward	Mr. Grady
+cast	Donna Bruce	Mrs. Grady
+cast	Hart Sprager	Teacher
+cast	Allison Barron	Girl on Bus
+cast	JoAnn Willette	Girl on Bus
+cast	Steve Eastin	Policeman
+cast	Brian Wimmer	Do-Gooder
+cast	Robert Chaskin	Bar-B-Que Boy
+cast	Kerry Remsen	Girlfriend
+cast	Kimberly Lynn	Patty
+cast	Steven Smith	Victim
+cast	Jonathan Hart	Spike
+cast	Tom Tangen	Victim

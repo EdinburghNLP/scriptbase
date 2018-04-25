@@ -1,0 +1,6015 @@
+The Straight Story (1999) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+The Straight Story (1999) movie scriptby Mary Sweeney and John Roach
+More info about this movie on IMDb.com
+
+
+1     EXT.--NIGHT SKY
+
+     Autumn evening FULL of STARS. Music plays over
+     as credits roll.
+
+                         DISSOLVE TO:
+
+2     EXT.--DAY  LAURENS, IOWA
+
+     It is a hot day in early September in Laurens, a small
+     rural community in north central Iowa. The main
+     drag, all of four blocks, is bookended by a giant
+     grain elevator and a John Deere dealership. No cars
+     on the road.
+
+                         CUT TO:
+
+3     EXT.--DAY  SMALL HOUSE & NEIGHBORING HOUSE
+
+     At the neighboring house, DOROTHY, a rather
+     large woman, 50ish, with bleached blond, cropped
+     hair is sunbathing in a chaise lounge. She is wearing
+     bermuda shorts, a tank top and eye protectors over
+     her eyes. Next to her is a small table with a plate on
+     it. Out of the other house, which has chipped siding
+     and faded, peeling window frames, comes ROSE
+     (late 30s, brown hair in a pixie cut, stocky, in jeans
+     and a cotton shirt). The door slams and Rose heads
+     down the walk. Dorothy doesn't move a muscle or
+     remove her eye protectors.
+
+                    DOROTHY
+          Hey Rose.
+
+     Rose doesn't break stride but yells over...
+
+                    ROSE
+           Hey Dorothy.
+
+     Rose exits and we remain on the two houses and
+       Dorothy sunbathing. After a moment, Dorothy
+     reaches over and feels the plate next to her. She lifts
+     the protectors and checks out the table...sees she's
+     out of treats, gets up, grabs the plate and heads into
+     her house. As the screen door slams shut behind her
+     we slowly move in on the house Rose came from.
+     We might be hearing footsteps as we move closer.
+     The sound leads us slowly toward the rear of the
+     house. As we continue moving closer we hear a short
+     peel of rubber followed by a thudding sound and a
+     sound like a stick dropping. We hold on the house
+     in silence.
+
+                          CUT TO:
+
+4     EXT.--DAY  HOUSE AND NEIGHBORING HOUSE
+
+     As before. Dorothy comes back out carrying the
+     plate now filled with treats. Munching all the while
+     she settles back into the chaise lounge and resumes
+     sunbathing.
+
+                          DISSOLVE TO:
+
+5      EXT.--DAY  LATER--SMALL TOWN BAR IN LAURENS
+
+      A small brick storefront bar. Two windows with
+     neon beer signs are on either side of a red door with
+     a window in the shape of a tilted martini glass. The
+     door opens and BUD, a stocky 70ish man in jeans,
+     a cotton shirt and construction boots emerges. He
+     looks down the street. Not seeing anyone he turns
+     and sticks his head back in the door of the bar and
+     yells in...
+
+                    BUD
+          I'm goin' over there.
+
+     He lets the door close and heads off down the street.
+     Another man, SIG, late 60's, 6'0", 265 lbs., in bib
+     overalls and a seed cap, comes out the bar door
+     holding a long-neck beer bottle and watches Bud
+     walk away.
+
+                    SIG
+          We're waitin'.
+
+                         CUT TO:
+
+6     EXT.--DAY  LAURENS RESIDENTIAL STREET
+
+     Bud is striding down the street past small and
+     weatherbeaten houses. The yards are mowed and
+     dotted with lawn chairs and picnic tables. He
+     approaches the house we saw earlier. He turns up
+     the walkway, reaches the front door and starts
+     knocking somewhat angrily.
+
+                    BUD
+          Alvin! Alvin Straight!
+
+                         CUT TO:
+
+7     EXT.--DAY  THE NEIGHBOR'S YARD
+
+     Dorothy doesn't move a muscle when she hears the
+     knocking. She yells across the yard to Bud.
+
+                    DOROTHY
+          Rose left a couple of hours ago.
+
+                         CUT TO:
+
+8     EXT.--DAY SMALL HOUSE
+
+     Bud jumps. He hadn't seen Dorothy until she spoke.
+
+                    BUD
+          Did you hear me hollerin' for Rose? I'm
+          not lookin' for Rose.
+
+                    DOROTHY
+          I ain't seen Alvin today.
+
+                    BUD
+          Did I ask....
+
+      Bud stops for a look at Dorothy who still has the eye
+     protectors on. He shakes his head in exasperation.
+     He resumes knocking on the door.
+
+                    BUD
+          Straight. ......you're late!!
+
+     Not getting any response he heads around to the
+     backyard and finds no one. He goes up to the back
+     door and starts knocking.
+
+                    BUD (cont'd)
+          Alvin?!
+
+                         CUT TO:
+
+9     INT.--DAY  KITCHEN
+
+     From inside the darkened kitchen we see Bud
+     through the door window, knocking.
+
+                    BUD
+          What the hell Alvin!
+
+     At a break in his knocking on the door we hear an
+     off-camera voice.
+
+                    ALVIN
+          Come on in Bud.
+
+     Bud, startled, reaches down, opens the door and
+     enters. He stands blinking and flustered, letting his
+     eyes adjust to the darkened room.
+
+                    BUD
+          Where the hell are you Alvin? I can't
+          see a damn thing.
+
+                    ALVIN
+          I'm right here Bud...watch your step.
+
+     Bud's eyes adjust and he follows the sound of Alvin's
+     voice to the kitchen floor right at his feet. ALVIN
+     STRAIGHT is stretched out on the floor. He is in
+     his 70s, a lean man, weathered face, bald with a full,
+     scruffy white beard. He is wearing a plaid cotton
+     shirt, worn jeans and black cowboy boots. There is a
+     wooden cane lying on the floor next to him.
+
+                    BUD
+          What the hell's goin' on? What in god-
+          damn hell are you doin' on the floor
+          Alvin? What'r ye nuts? You're supposed
+          to be down at Davmar's one hour ago.
+
+     At this point a shadow falls on them and Dorothy
+     fills the door frame.
+
+                    DOROTHY
+          What's going on....
+
+     She sees Alvin on the floor.
+
+                    DOROTHY (cont'd)
+               (panicking)
+          Oh my god Alvin!
+
+                    ALVIN
+               (with resignation)
+          Hey there Dorothy.
+
+     Dorothy makes a beeline for the phone, and picks it
+     up.
+
+                    BUD
+          What the hell are you doin'?
+
+                     DOROTHY
+               (breathlessly)
+           What's the number for 911?
+
+      Bud rolls his eyes.
+
+                    ALVIN
+               (with authority)
+          Dorothy, put that phone down.
+
+     She doesn't move. Her face flushed, bosom heaving,
+     she looks back and forth between Alvin, Bud and
+     the phone. Bud strides over to her and yanks the
+     phone out of her hand.
+
+                    BUD
+          I gotta call the bar and tell them we're
+          not comin'.
+
+     Dorothy grabs the phone back, wild-eyed.
+
+                    DOROTHY
+          Bud Heimstra are you crazy? We have a
+          stricken man here.
+
+      Bud hesitates and looks over at Alvin, assessing his
+      condition.
+
+                    BUD
+          You stricken Alvin?
+
+      Dorothy starts dialing.
+
+                    ALVIN
+          Dorothy, PUT THAT PHONE DOWN!
+
+     Dorothy hesitates. Bud tries to wrestle the phone
+     from her. We hear the front door slam and Dorothy
+     and Bud freeze. Rose enters the kitchen from the
+     front of the house.
+
+                    ROSE
+          Dad? What's all the.......yelling?
+
+      She stops short. She takes in the scene...Bud and
+     Dorothy at the phone and her dad on the floor.
+
+                    ROSE (cont'd)
+          What have you...........done to my dad?
+
+                    BUD
+          Oh for cry aye.
+
+                    ROSE
+          Dad?..........are you........?
+
+      Rose starts to cry.
+
+                    ALVIN
+               (exasperated but forcefully)
+          I just need some help gettin' up.
+
+                         CUT TO:
+
+10      EXT.--DAY  PARKING LOT
+
+     We see Rose helping Alvin get out of the passenger
+     side of their car. Once standing, Alvin won't move.
+     Rose is tugging on his arm. He is not budging and
+     he's shaking his head.
+
+                    ALVIN
+          I'm not goin'.
+
+                    ROSE
+          Dad.....
+
+                    ALVIN
+          I'm not goin'.
+
+                    ROSE
+          Dad....you promised me.
+
+     After a pause Alvin nods.
+
+                    ALVIN
+          Alright Rosie.
+
+     They slowly make their way across the hot parking
+     lot to the Doctor's office.
+
+                         CUT TO:
+
+     OMIT SCENES 11, 12, & 13.
+
+                         CUT TO:
+
+14      INT.--DAY  EXAMINING ROOM
+
+      The nurse and Alvin enter the examining room. She
+     turns to him and hands him a robe.
+
+                    NURSE
+          O.K. Mr. Straight, you need to take off
+          all your clothes except your underwear
+          and put this robe on.
+
+                    ALVIN
+               (gruffly)
+          Just bring me the doctor.
+
+                         CUT TO:
+
+15     INT.--DAY  DOCTOR'S RECEPTION, LATER
+
+     Rose is standing in front of a series of bird paintings.
+
+                    ROSE
+          I see you like birds. I build.......bird-
+          houses........for bluebirds.
+
+                    NURSE
+          Oh, that's nice.
+
+                    ROSE
+          Yah.....Pete sells my birdhouses........at
+          the.....Ace.
+
+                    NURSE
+          Oh...I'll look for them next time I'm
+          in.
+
+                         CUT TO:
+
+16     INT.--DAY  EXAMINING ROOM
+
+      Alvin leans against the examining table as he pulls
+     his pants to a close and fastens his belt. He is shirt-
+     less. His skin hangs loosely off his rib cage. He has a
+     serious farmer's tan: lily white chest and shoulders
+     and arms with nut brown face, neck and hands. A
+     middle-aged DOCTOR GIBBONS is standing
+     looking over some notes.
+
+                    DOCTOR GIBBONS
+          So you're not sure just how long you
+          were on the floor?
+
+                    ALVIN
+               (shaking his head)
+          I remember my cane slippin'...and
+          losing my balance....
+               (he pauses, concentrating)
+          ...next thing I knew Bud Heimstra was
+          banging on my kitchen door.
+
+     The doctor nods at this account and writes something
+     in his notes. Alvin sits on the examining table
+     and looks around. He takes in the foreign room:
+     bright fluorescent lights, slick pastel Formica
+     surfaces, matching pastel framed art, bio-hazard
+     warnings and medical equipment. He looks back to the
+     Doctor and catches the man watching him with a
+     look of concern on his face.
+
+                    ALVIN (cont'd)
+          Somethin' the matter Doc?
+
+     The Doctor switches to an attempt at a smile.
+
+                      DOCTOR GIBBONS
+          Listen Alvin, sometimes it's my job to
+          tell people things they don't want to
+           hear. I'm concerned about you. I think
+          you need an operation on those hips.
+
+                    ALVIN
+          No operations.
+
+                    DOCTOR
+          Well...this morning you fall and can't
+          get off the floor...that's your hips Alvin.
+          You'll have to use a walker to get
+          around now.
+
+                    ALVIN
+               (barks)
+          No walker.
+
+                    DOCTOR
+          Fine...a second cane then. You say
+          you're not seeing too well. That could
+          be a diabetes-related problem. I would
+          like to run some...
+
+                    ALVIN
+           No!
+
+     The doctor looks back down at his notes and up at
+     Alvin.
+
+                      DOCTOR GIBBONS
+          I can see and hear that you smoke. I
+          would guess you're in the early stages of
+          emphysema. And Alvin you have
+          circulation problems. I worry about your
+          diet and unless you change some things
+          quick, there will be some serious
+          consequences.
+
+     Alvin doesn't say anything. He just stares at the
+     Doctor.
+
+                         CUT TO:
+
+17     INT.--DAY  KITCHEN
+
+     ALVIN sits at the kitchen table and takes a deep
+     drag off of a Swisher Sweet. Two canes are propped
+     up against the table. Rose looks on. She stands in
+     the middle of the kitchen holding a birdhouse, fret-
+     fully watching Alvin. She holds the birdhouse out to
+     him.
+
+                    ROSE
+          It has a.........red roof.
+
+      Alvin looks at the birdhouse and smiles at Rose.
+
+                    ALVIN
+          That's another pretty one Rose.
+
+     He continues smoking. Rose, pleased at his
+     response, turns smiling to do a few dishes. She sets
+     the birdhouse down.
+
+                    ROSE
+          I want to paint the.......next roof...
+               (she blurts)
+          ...blue.
+
+     Alvin smiles again.
+
+                    ALVIN
+          That's a good idea.
+
+     Rose turns to the window and thinks for a while
+      with a smile on her face. As she reflects, her smile
+     begins to fade.
+
+                    ROSE
+          What did the.......Doctor say?
+
+      Alvin puts out the Swisher Sweet.
+
+                    ALVIN
+          Said I'm goin' to live to be a hundred.
+
+     Rose smiles at this. Alvin stands, puts on a cream-
+     colored Stetson and heads to the back door.
+
+                    ALVIN (cont'd)
+          Time to cut the lawn.
+
+                    ROSE
+          I can......cut it for......you...Dad.
+
+     Alvin is navigating the door with his two canes in
+     hand. Says gently back over his shoulder.
+
+                    ALVIN
+          I got it sweetheart.
+
+     Rose turns, clears the table and takes dishes over to
+     the kitchen sink. Out the window over her shoulder
+     we see Alvin cross the backyard and mount a Rehds
+     riding mower. She sets the dishes in the sink, then
+     gets distracted by the birdhouse.
+
+                         CUT TO:
+
+18     EXT.--DAY  ALVIN'S BACKYARD
+
+     Alvin tries to start the mower. No luck. He performs
+     a slow, painful, laborious dismount. Then in a quick
+     move he turns and bangs the mower with his cane.
+
+                    ALVIN
+          Damn!
+
+                         CUT TO:
+
+19     INT.--DAY  LAURENS ACE HARDWARE
+
+     A group of locals are in the store. SIG, BUD, PETE,
+     mid-60s, 6'0", lean, gray and wearing slacks and a
+     red Ace vest, and APPLE, early 60s, short, bald and
+     talkative. He is wearing a short-sleeve shirt and a tie.
+     He's concentrating on his right boot. He frowns as
+     he works it up and down with his toes. His attention
+     is split between working the shoe and watching
+     the Weather Channel which is on the television over
+     the counter.
+
+                    APPLE
+               (all the while
+               stomping his foot)
+          Looks like another low comin' out of
+          the panhandle of Texas. That's where
+          they all come from. You know in the
+          winter that's where we get all our big
+          dumps.
+
+                    PETE
+          Apple I doubt very much if we'll be
+          getting snow this week.
+
+     Sig giggles.
+
+                    SIG
+          And here comes Alvin Straight. He's
+          not movin' too well.
+
+                    PETE
+          Well he took that bad fall.
+
+                    BUD
+          An hour late! I found the darn fool on
+          the kitchen floor.
+
+                    SIG
+          He looks like he ain't gonna make it to
+          the door. If he was a horse they'd shoot
+          'im.
+
+                      PETE
+               (scolding)
+          How old are you now Sig?
+
+     Apple has his shoe off and is digging inside of it
+     with his hand. He looks up at Pete's remark.
+
+                    APPLE
+          He's 70 in September..."Oh the days
+          dwindle down to a precious few..."
+
+                    SIG
+          You can shut up any time Apple.
+
+     Alvin enters. They turn their heads, nod hello. Bud
+     scowls.
+
+                    PETE
+          Mornin' Alvin. What can I do for you?
+
+      Alvin approaches the counter and opens his mouth
+     to speak but is interrupted by...
+
+                     APPLE
+           Local forecast!
+
+                          CUT TO:
+
+20     INT.--DAY  HARDWARE STORE TELEVISION
+
+     The Weather Channel. The local forecast runs with
+     the accompanying music. Conversation stops
+     abruptly and they all turn to watch the local forecast
+     together. There is the potential for thunderstorms
+     later in the day with a possible tornado watch.
+
+                    PETE
+          And what can I do you for Alvin?
+
+                    ALVIN
+          Plugs for the Rehds. Won't start.
+
+                         CUT TO:
+
+21     EXT.--LATE DAY  ALVIN'S BACKYARD
+
+     Alvin is changing the plugs, smoking Swisher
+     Sweets. Rose is sitting on aluminum lawn chair
+     painting the roof of her birdhouse blue. A storm is
+     moving in. Alvin looks up to the sky.
+
+                    ALVIN
+          Storm comin'...not mowin' today.
+
+                         CUT TO:
+
+22     INT.--NIGHT  ALVIN'S LIVING ROOM
+
+     Alvin and Rose are watching Storm Watch on the
+     Weather Channel.
+
+                         CUT TO:
+
+23     INT.--NIGHT  THE TELEVISION IN ALVIN'S LIVING ROOM
+
+                    WEATHER PERSON
+          Severe thunderstorm warning and tornado
+          watch continue until 9 PM for all
+          of west central Iowa. The National
+          Weather Service advises seeking shelter
+          in basement rooms. Avoid all windows...
+
+                         CUT TO:
+
+24     INT.--NIGHT  ALVIN'S LIVING ROOM
+
+     Rose and Alvin sit by the window watching the
+     lightning. A big bolt cuts through the sky to the
+     ground.
+
+                    ALVIN
+          I love a lightning storm.
+
+                    ROSE
+          Me....too Dad.
+
+     The phone rings. Rose is reluctant to leave the show
+     at the window and lets it ring 3 or 4 times. Finally
+     she gets up and leaves the room to answer the phone
+     in the kitchen.
+
+                    ROSE
+               (off camera)
+          Hello.........this.......is Rose.
+          Yah...yah...Uncle......Lyle?
+
+     Alvin's expression changes to a frown as the light of
+     the TV plays off his face. He does not turn his head
+     or speak but he is listening and reacting to Rose's
+     conversation.
+
+                    ROSE (cont'd)
+          Oh.......no. When? O.K. Ah..ah...I'll
+          tell him. Yah. O.K. bye.
+
+     Rose comes back in and sits down. She doesn't say
+     anything and neither does Alvin for a bit. We see
+     another big crack of lightning out the window. The
+     Storm Watch continues off screen.
+
+                    WEATHER PERSON
+               (voice over)
+          A tornado has been sited in Ida
+          County. Sac, Calhoun and Pocahontas
+          Counties are all under tornado watch...
+
+                    ROSE (cont'd)
+          That was Bobby...Uncle Lyle had a....a
+          .....ah...stroke.
+
+     On the word "stroke," a bolt of lightning brilliantly
+     illuminates Alvin's face. Then he sits stonefaced in
+     darkness looking out the window. He doesn't respond.
+
+                    ROSE (cont'd)
+          Dad?
+
+                          CUT TO:
+
+25       EXT.--NIGHT  ALVIN'S HOUSE
+
+     Alvin's house is being buffeted by a fierce
+     midwestern electrical storm.
+
+                         CUT TO:
+
+26     EXT.--DAY  ALVIN'S YARD
+
+     Alvin is mowing the lawn.
+
+                          CUT TO:
+
+27     INT.--DAY  ALVIN'S HOUSE, KITCHEN
+
+     Rose is standing at the kitchen window talking on
+     the phone. Over Rose's shoulder Alvin crosses back
+     and forth through the window frame riding the
+     mower. Rose is talking to one of her brothers.
+
+                    ROSE
+          No Bobby he....didn't say much......They
+          both been so......stubborn. No......no it
+          was longer. I remember...It was July 7,
+          1988. Bobby, I always remember.....the
+          dates.
+
+     Through the window we see Alvin stop the mower.
+     He sits and stares. He lights up a Swisher Sweet.
+
+                    ROSE (cont'd)
+          I....don't know...what......he'll do.
+
+     Rose hangs up and looks back out at Alvin sitting
+     on mower.
+
+                         CUT TO:
+
+28     INT.--NIGHT  ALVIN'S LIVING ROOM
+
+     Rose is sitting in the dark looking out the window at
+     the freshly mown lawn. She hears a noise and turns.
+     There is Alvin, with two canes, silhouetted in the
+     doorway to the kitchen.
+
+                    ALVIN
+          Rose honey, why don't you come in here
+          and join your dad for a cup of coffee.
+
+     Rose looks puzzled. This is not a common invitation
+     from Alvin.
+
+                    ROSE
+          Dad..........we're not going to move
+          again are we? You always set me down
+          for a coffee when you tell me we are
+          going to move again.
+
+     Alvin laughs a little. Rose is clearly wary.
+
+                    ALVIN
+          No honey...we're not breaking camp.
+
+     Rose sighs in relief and smiles. Alvin pauses, clearly
+     uncomfortable.
+
+                    ALVIN (cont'd)
+          Unless you make so many bluebird
+          houses we run outa room.
+
+                    ROSE
+               (taking her
+               father seriously)
+          Dad..oh jeez..I can stop making them...
+
+                    ALVIN
+          Easy honey. Your pa was just makin' a
+          joke.
+
+     Rose is relieved. Alvin pauses and draws a breath.
+
+                    ALVIN (cont'd)
+          Rose. I'm goin' to get back out on the
+          road. I'm goin' to go see Lyle.
+
+                    ROSE
+          But Dad....how are you.......?
+
+     Alvin turns and starts to hobble toward the kitchen.
+
+                    ALVIN
+          I haven't quite figured that out yet.
+
+     He moves off into the kitchen.
+
+                         CUT TO:
+
+29     EXT.--DAY  ALVIN'S BACKYARD
+
+     From around the side of the house comes Rose hauling
+     a large piece of aged plywood. She talks as she
+     wrestles with the large board. She is speaking to
+     Alvin who is on the back stoop with a wrench and a
+     ball joint. She is also reasoning aloud with herself.
+
+                    ROSE
+          One...Your eyes are bad....That is why
+          you don't drive your car because you
+          cannot see the signs anymore.
+
+     Rose turns and looks directly at Alvin. He is letting
+     her vent.
+
+                    ROSE (cont'd)
+          One...Your eyes are bad.
+
+     Rose walks back around the corner of the house and
+     returns with another large piece of old plywood. As
+     Rose enunciates her reasons she ticks them off on
+     her fingers.
+
+                    ROSE (cont'd)
+          Two...Lyle is in Wisconsin which is 317
+          miles away. You can't take any bus
+          straight to Mt. Zion. You'd have to stay
+          overnight in Des Moines....and.....then
+          there's no bus to Zion.
+
+     Rose eyes Alvin again. She vanishes around the
+     corner one more time. Alvin continues working on
+     the ball joint, adding oil to loosen the bolt. Rose
+     comes around the corner again.
+
+                    ROSE
+          Three....Your hips. You can't hardly
+          stand for two minutes and when you
+          do stand up after you are sitting down
+          this is the sound you make when you
+          stand... "aaaaaraaaaarrrrhhgggg. " That is
+          your arthritis sound.
+
+     Alvin chuckles at her impersonation of him. She is
+     almost finished with her tasks. Her talking slows as
+     she gets to the last of her rant.
+
+                    ROSE (cont'd)
+          Four....You are 73 years old. You were
+          born when Calvin Coolidge was
+          President of America.
+
+     Rose sits down next to Alvin on the stoop. She is
+     hot, tired, worried and upset. Her voice almost
+     breaks as she finishes her speech.
+
+                    ROSE (cont'd)
+          You are 73 years old......And I can't
+          drive you there.
+
+                    ALVIN
+          Rosie....darlin'....I'm not dead yet.
+
+     This subdues Rose. Alvin looks at her for a beat,
+     turns and moves to a stool with the wrench and ball
+     joint. He begins screwing the ball joint to a beam.
+
+                    ROSE
+               (tired and exasperated)
+          What are we building?
+
+                         CUT TO:
+
+30      INT.--NEXT DAY  GROCERY STORE
+
+     Rose is pushing a grocery cart down the aisle. She
+     checks a list in her hand.
+
+                    ROSE
+          Coffee.
+
+     Rose places eight large cans of Folgers into the cart.
+     She counts as she deposits them.
+
+                    ROSE (cont'd)
+          One...two...three...four...five...six...
+          seven... eight.
+
+      She checks list again.
+
+                    ROSE (cont'd)
+          Wieners....
+
+     Rose places several large packs of wieners in the cart.
+
+                    ROSE (cont'd)
+          One...two...three....four...five.....six.
+
+     She reaches back into the cold meat case.
+
+                    ROSE (cont'd)
+          Braunschweiger.
+
+      Rose makes faces in incremental disgust as she
+     counts.
+
+                    ROSE (cont'd)
+          One......two........three.......four....
+
+      She hates braunschweiger. She checks her list again.
+     She moves down the aisle and into the next one. She
+     pauses before a display.
+
+                    ROSE (cont'd)
+          Bug juice.
+
+      Rose throws insect repellent into the cart.
+
+                     ROSE (cont'd)
+           One.
+
+      She checks her list and nods in satisfaction, heading
+     to the checkout counter.
+
+                          CUT TO:
+
+31     INT.--DAY  GROCERY STORE CHECKOUT COUNTER
+
+      Rose is loading her purchases onto the counter.
+     BRENDA the checkout girl looks on with a curious
+     expression. Brenda is 20ish, cute, a little hefty.
+     Very cheerful.
+
+                     BRENDA
+               (a statement)
+          Havin' a party.
+
+      Rose looks at her blankly.
+
+                    ROSE
+          Oh......Jeez I love parties.
+
+                     BRENDA
+          Yah, me too.
+
+                    ROSE
+          So where's it at?
+
+     Brenda is confused.
+
+                     BRENDA
+          Where's what at?
+
+                    ROSE
+          Your party.
+
+                    BRENDA
+          I'm not havin' a party. I thought you're
+          havin' a party.
+
+                    ROSE
+          I am?
+
+                    BRENDA
+          Well yah...look at all that braunsweiger.
+
+                    ROSE
+          Yah it's a lot of braunschweiger.
+
+     Brenda starts to ring up the braunschweiger.
+
+                    ROSE
+          It's for my dad.....for his.....trip. My
+          dad.......He...is going to.......Wisconsin.
+
+                       BRENDA
+          Oh Wisconsin! A real party state.
+
+     Rose is keeping an eye on her items. She makes a
+     "yuk" face.
+
+                    ROSE
+          I hate braunschweiger.
+
+     Brenda, still checking, nods in assent and makes a
+     sour face.
+
+                         CUT TO:
+
+32     EXT.--DAY  ALVIN'S BACKYARD
+
+     Rose comes walking out of the house with groceries.
+     She sets them on the picnic table and heads back
+     into the house. Alvin loads the groceries into the
+     now finished trailer. The back door of the house
+     opens and a big sheet of foam rubber flies out the
+     door followed by Rose. She hauls it over to the trailer
+     and sets it in. She fusses over its arrangement.
+
+                         CUT TO:
+
+33      INT.--DAY  ACE HARDWARE
+
+     Pete, Sig, Apple, & Bud are in the store. They are
+     watching the Weather Channel. Sig has a toothpick
+     in his mouth. Apple is sitting on a stool. Alvin and
+     Rose enter.
+
+                    PETE
+          Morning Alvin. How are you today
+          Rose?
+
+      Alvin nods. Rose smiles.
+
+                    ROSE
+               (blurts)
+          My.....dad....is going to see.....his
+          .....brother. I keep askin' him how....he's
+          goin' to get there.....but he doesn't
+          say.....nothin'.
+
+     Alvin throws a look at Rose. She smiles.
+
+                    PETE
+          Your bluebird houses are selling well
+          Rose. I'm gonna need some more from
+          you.
+
+                    SIG
+          Taking a trip Alvin eh?
+
+                    ALVIN
+          Yup.
+
+     Apple is sitting on a stool with one shoe off. His
+     hand is inside the shoe.
+
+                    APPLE
+          Well if you're traveling by car you
+          know my wife'll get those AAA trip tix.
+          Those babies'll tell you where every
+          piece of construction is all along the
+          "I" system.
+
+                    PETE
+          I don't suspect Alvin'll be takin' your
+          wife along with him Apple.
+
+                    ALVIN
+          Oh Lord.
+
+                    BUD
+          You can take my wife.
+
+     Alvin chuckles and then sets one cane against the
+     counter. With his other cane he makes his way down
+     the store aisle to the gas cans. He grabs one 5-gallon
+     container and heads back to the counter.
+
+                    SIG
+          Where's your brother at Alvin?
+
+      Alvin sets the can on the counter. He turns to walk
+     back down the aisle.
+
+                    ROSE
+          Mt. Zion. Sixty-three miles east of the
+          Missi.....ssippi.
+
+                    PETE
+          Sixty-three miles, eh Rose?
+
+                    APPLE
+          Did you know that the Mississippi..the
+          old mighty Mississipp..is the single
+          most profitable waterway in the world?
+          Did you know that the Japanese harvest
+          pearls outta the river down to
+          Prairie du Chien....pearls!
+
+                    SIG
+          And carp.
+
+                    PETE
+          And walleye...need help there Alvin?
+
+                    ALVIN
+          No thanks, Pete.
+
+     Pete and Sig exchange a glance and look at Rose.
+     She smiles. Alvin picks up another 5-gallon gas can.
+
+                    SIG
+          What's doin' at your brother's Alvin?
+          The Straight family reunion?
+
+      Alvin gives Sig a look.
+
+                    ALVIN
+          You could say that.
+
+     Alvin puts the other gas can on the counter.
+
+                    SIG
+               (goading Alvin)
+          Alvin you got three 5-gallon cans.
+          Fifteen gallons of gas there. Just what
+          you gonna do with that much gas?
+
+      Rose is getting nervous with Sig's prying ways. She
+     knows that this is a sensitive area for Alvin. She
+     looks to the TV.
+
+                    ROSE
+          Local forecast!
+
+     The whole gang stops and watches as the Weather
+     Channel gives the local forecast.
+
+                         CUT TO:
+
+34     INT.--DAY  THE TV SCREEN
+
+     The local forecast runs and the radar is looking
+     clear.
+
+                          CUT TO:
+
+      As soon as it is over they look at each other to
+     remember where they were in conversation.
+
+                    SIG
+          Ahh....so what you need so much gas
+          for Alvin?
+
+     Alvin returns to the counter. This time he has two
+     medium-sized Styrofoam coolers. Alvin stops and
+     looks long at Sig.
+
+                    ALVIN
+          Sig, you are one nosy sonofagun.
+
+                    BUD
+          You got that right.
+
+     Sig clamps his jaw. Alvin turns back to Pete.
+
+                    ALVIN
+          Pete, I'd like to buy that from you.
+
+     Alvin points to a contraption used in hardware
+     stores to grab things on high shelves. Pete sees what
+     he's pointing to and gets a possessive jolt. He turns
+     to Alvin.
+
+                    PETE
+          Jeez Alvin.
+
+                    ALVIN
+          Well?
+
+      Pete eyes the grabber. He looks down the aisle to the
+     other end of the store where he's got another grabber
+     hanging.
+
+                    PETE
+          I do have two of them...I guess I could
+          sell you that one.
+
+                    ALVIN
+          Five bucks would seem about right.
+
+                    PETE
+               (puzzled)
+          Those things are hard to come by Alvin.
+          It would take me two months to get
+          another one on order. That's a damn
+          good grabber. Jeez...I can't let that grabber
+          go for less than.....jeez.....$10.00.
+
+                    ALVIN
+               (considering, not
+               too happy)
+          OK. Ring her up.
+
+     Pete pulls down the grabber and longingly works it a
+     few times and sets it reluctantly down on the
+     counter. Alvin smiles. Pete starts ringing up Alvin's
+     items.
+
+                    PETE
+          Three 5-gallon gas cans at $9.89. Two
+          Styrofoam coolers...
+
+     The beautiful bells and clicks and hammers of the
+     old cash register are the only sounds in the room.
+
+                    PETE
+          Two coolers, 99 cents and
+          one....one...Alvin...
+
+                    ALVIN
+          Ring it up Pete.
+
+                    PETE
+          With tax that's $44.25.
+
+     Alvin fishes out a large black wallet held to his belt
+     by a chain. He pulls out two twenties and a five and
+     hands them to Pete.
+
+                    SIG
+          What you need that grabber for Alvin?
+
+      Alvin turns to him.
+
+                    ALVIN
+          Grabbin'.
+
+     Apple has his arm up to his elbow digging in his
+     boot. Suddenly he feels something.
+
+                    APPLE
+          Hah! It's a nail!
+
+                         CUT TO:
+
+35      EXT.--DAY  ALVIN'S BACKYARD
+
+     Alvin and Rose are in the backyard. Alvin takes a can
+     of W-2 lubricant. He sprays the hitch holder on the
+     trailer. Then he laboriously makes his way across the
+     lawn to the riding mower. He sprays the hitch ball on
+     the mower. Rose is confused. Alvin then mounts the
+     lawn mower. He begins backing it up to the trailer.
+     Awareness finally crosses Rose's face. Her jaw drops.
+
+                    ROSE
+          Oh.....jeeez Dad. Oh jeez......Dad.
+
+                         CUT TO:
+
+36     EXT.--NIGHT  ALVIN'S BACKYARD
+
+     Alvin is seated on a chaise lounge smoking a Swisher
+     Sweet. He is looking at his mower/trailer rig. A
+     mosquito coil burns beside him, casting a warm glow on
+     the scene. Rose is lying on the ground on a blanket
+     looking up at the stars. It is a beautiful autumn
+     evening.
+
+                    ROSE (cont'd)
+          ...that trailer is too heavy for that...it's a
+          lawnmower. You are going to....drive....a
+          lawnmower to...another state.
+
+                    ALVIN
+          Now Rose you gotta cease with your
+          worryin'. You get that from your
+          mother.
+
+                    ROSE
+          But Dad....you....can't.
+
+                    ALVIN
+          Rose...."can't" doesn't live here.
+
+      Alvin takes a puff of cigar.
+
+                    ALVIN
+          It's gonna be fine Rose.
+
+                    ROSE
+          Dad....please. I will find someone to
+          drive you to Wisconsin. Pete........you
+          like Pete.....Pete...he is a good driver.
+
+                    ALVIN
+          Now, Rose, sweetheart......
+
+     Rose is starting to tear up. She is so worried about
+     what he is doing. He reaches down and takes her
+      hand.
+
+                    ALVIN (cont'd)
+          I been on the road plenty. Didn't your
+          mom and I haul you kids all around
+          the country?
+
+      Rose nods, close to tears. She counts.
+
+                    ROSE
+          One, Wisconsin...Two, Minnesota...
+          Three, Wyoming but not long...Four
+          was Oregon. We had goats. Five.....New
+          Mexico and......six.....good old....Iowa.
+
+                    ALVIN
+          Remember when we traveled...you and
+          your sister and brothers...
+
+     Rose nods and the reminiscence makes her happy.
+
+                    ALVIN (cont'd)
+          We sure saw a lot. We all liked travelin'.
+
+                    ROSE
+          Yeah.
+               (smiling at first but
+               then the worry returns)
+          But this is different Dad.
+
+                    ALVIN
+          It is Rose...it's easier..I'm not luggin'
+          seven kids in the back.
+
+     Rose nods. Her emotions are confused.
+
+                    ROSE
+          But Dad.....you will be all alone. Won't
+          you be lonely?
+
+                    ALVIN
+          Rosie...sometimes a man likes bein' a
+          little lonely.
+
+     Rose ponders this notion. A new anxiety creeps in.
+
+                    ROSE
+          I will be alone......here...
+
+     This stops Alvin. He realizes he hadn't really thought
+     about that and it makes him feel both bad and a little
+     worried. He hides his concern.
+
+                    ALVIN
+          And you're going to be just fine.
+          Dorothy is next door and she can't keep
+          her nose out of our business. She'll be
+          over here seven times a day.
+
+     Rose laughs.
+
+                    ROSE
+          Wait 'til she hears about.........this Dad.
+
+     They both share a laugh.
+
+                    ALVIN
+          Rose I got to go see Lyle. I got to make
+          this trip on my own. I know you
+          understand that.
+
+                    ROSE
+          I guess so....
+
+                    ALVIN
+          Look at that sky Rose...full of stars
+          tonight.
+
+                         CUT TO:
+
+37     EXT.--NIGHT  ALVIN'S BACKYARD
+
+     POV a sky full of stars.
+
+                         CUT TO:
+
+38     INT.--DAY  GROCERY STORE
+
+     Dorothy is at the checkout counter. Brenda is
+     checking her out.
+
+                    BRENDA
+          One bag of potato chips, two boxes of
+          powdered donuts, one bag of corn
+          nuts, six pack of Coca-Cola, two
+          Snickers, three Hostess Sno-Balls...
+
+                    DOROTHY
+          Give me a couple packs of Salem lights
+          will ya hon?
+
+      Dorothy glances out the window of the store just in
+     time to see Alvin passing on his mower hauling the
+     trailer.
+
+                    DOROTHY
+          Well....I don't believe my eyes.
+
+     Brenda looks up and glances out the window. She
+     sees Alvin passing on the mower. She doesn't miss a
+     beat in her checking.
+
+                    BRENDA
+          Oh yah. He's goin' to visit his brother
+          in Wisconsin.
+
+                    DOROTHY
+          On a lawnmower?!?!
+
+                    BRENDA
+          Yah...
+
+                    DOROTHY
+          Great party place, Wisconsin.
+
+                         CUT TO:
+
+39      INT.--DAY  HARDWARE STORE
+
+     The Weather Channel is STILL on. Pete, Sig and
+     Apple are watching. As they watch they hear a noisy
+     engine approach out front. They turn to the store-
+     front window. Alvin pulls into frame hauling the
+     trailer behind his riding lawn mower.
+
+                    SIG
+               (stunned)
+           Crimenetto.
+
+      All three exit the hardware store after Alvin.
+
+                         CUT TO:
+
+40     EXT.--DAY  LAURENS MAIN STREET
+
+     The three hardware regulars trot alongside Alvin as
+     he passes out of town.
+
+                    APPLE
+          Alvin just what are you settin' out to do
+          here?
+
+                    BUD
+          Oh for da cry eye Alvin.
+
+                    APPLE
+          Alvin you are gonna get blown right off
+          the road is what I'm afraid.
+
+                    SIG
+               (running out of breath
+               and stopping, bending over,
+               hands on knees, wheezing)
+          Oh....
+               (puffing)
+          ... jeez Alvin.
+
+      All three stop and watch as Alvin moves slowly out
+     of town.
+
+                    PETE
+               (to no one
+               in particular)
+           He'll never make it past the Grotto.
+
+                         CUT TO:
+
+41     EXT.--DAY  IOWA COUNTY HIGHWAY 314
+
+     Tight shot of very, very slow yellow center line
+     moving through frame to the tune of Steppenwolf's
+     "Born to Be Wild" a la Easy Rider.
+
+                         CUT TO:
+
+42     EXT.--DAY  IOWA COUNTY HIGHWAY 314
+
+      Wide shot from behind and then beside Alvin which
+     takes in expansive landscape. A beautiful sunny day.
+     America at five miles an hour.
+
+                         CUT TO:
+
+43     EXT.--DAY  IOWA COUNTY HIGHWAY 314
+
+     Close shot Alvin happy to be on the road. Diggin'
+     the pig farms. Music plays over.
+
+                         CUT TO:
+
+44     EXT.--DAY  SAME HIGHWAY
+
+     Alvin passes a farmhouse. A farm wife is hanging
+     clothes on a clothesline. She gawks. A boy gawks. A
+     dog chases after Alvin. Alvin holds out his hand
+     with a wiener in it. The dog sticks with him for
+     awhile. We ride along with the two of them for a
+     bit. Alvin turns to dog.
+
+                    ALVIN
+          Go on home now.
+
+     The dog looks a little crestfallen but realizes Alvin is
+     right. He wheels and heads back home.
+
+                         CUT TO:
+
+45     EXT.--DAY  SAME HIGHWAY
+
+     A farmer in the field on a John Deere tractor cutting
+     third crop hay. The mower and tractor are on in parallel
+     tracks heading in the same direction. The field
+     tractor passes him and he and the farmer exchange waves.
+
+                         CUT TO:
+
+46     EXT.--DAY  SAME HIGHWAY
+
+     Alvin sees a sign that says, "Only Five More Miles to
+     The Grotto of West Bend Iowa."
+
+                         CUT TO:
+
+47     EXT.--DAY  SAME HIGHWAY
+
+     Alvin is approaching the outskirts of the town of
+     West Bend. His reverie is interrupted by a distant,
+     building sound. A huge truck approaches and flies
+     by Alvin with a deafening roar. It completely rattles
+     lawn mower, trailer, and Alvin. Alvin's hat is blown
+     off. He has to stop the mower, get out his canes, do
+     the slow dismount. He struggles down through a
+     ditch into a field. He retrieves the hat, goes back
+     down through the ditch. He climbs back up out of
+     the ditch onto the road and mounts the mower. Real
+     time. Just as he sits down, the tractor dies. Alvin
+     hauls himself off the mower again and pops the
+     hood. Shaking his head he gets back on the mower.
+
+                         DISSOLVE TO:
+
+48     EXT.--DAY
+
+      Alvin is sitting on the mower in the same spot. He
+     reaches back into food locker, grabs a cold wiener.
+     He sits and eats.
+
+                         DISSOLVE TO:
+
+49     EXT.--DAY
+
+      Alvin is sitting on the open back door of the trailer
+     looking back down the road. He sees a bus
+      approaching. He waves it down and the bus stops.
+     The side of the bus has written large "SUN-RAY
+     TOURS."
+
+                         CUT TO:
+
+50     INT.--DAY  INSIDE TOUR BUS
+
+     The doors of the bus pop open to reveal Alvin
+     standing there with his two canes, wearing his
+     Stetson.
+
+                    ALVIN
+          I'm having some engine trouble.
+
+     The busdriver cranes his neck to look beyond Alvin
+     and spies the lawn mower and trailer.
+
+                    BUSDRIVER
+          What the heck are you driving there.
+
+                    ALVIN
+          A Rehds.
+
+     The busdriver is puzzled by this answer.
+
+                    ALVIN (cont'd)
+          Can you give me a lift into town?
+
+                    BUSDRIVER
+          I can get you as far as the Grotto. This
+          is the SUN-RAY Tour.
+
+                    ALVIN
+          I'd appreciate that.
+
+      Alvin climbs on board.
+
+                          CUT TO:
+
+51     INT.--DAY  ALVIN'S POV OF PASSENGERS
+
+     The bus is filled with senior citizens, mostly women.
+     Each occupant is wearing a name tag bearing "SUN-
+     RAY TOURS" and their name.
+
+                          CUT TO:
+
+52     INT.--DAY  BUS
+
+     Alvin just gazes at the passengers.
+
+                          CUT TO:
+
+53     INT.--DAY  BUS, ALVIN'S POV
+
+     A sea of white, blue and pink hair and wrinkled
+     faces. One lady pops up and snaps his photo. She
+     then turns and snaps a photo of the lawn mower
+     and trailer.
+
+                          CUT TO:
+
+54     INT.--DAY  BUS
+
+     Alvin moves down the aisle toward a seat. His canes
+     are hanging one from each arm as he grips one seat
+     back after another. Some of the women cringe slightly
+     as he passes. One old lady leans over to another.
+
+                    OLD LADY #1
+          My Edward loved his riding mower.
+
+                         CUT TO:
+
+55     EXT.--DAY  WEST BEND GROTTO
+
+     The bus pulls up to the Grotto, a fantastic, magical
+     tourist attraction. The old people begin to get out of
+     the bus.
+
+                         CUT TO:
+
+56      INT.--DAY  BUS
+
+     Alvin sits patiently waiting for everyone else to leave
+     the bus. People give a variety of looks as they file
+     out. Alvin watches them as they walk into the
+     Grotto. As the last person disappears through the
+     entrance, he stands and slowly exits the bus.
+
+                         CUT TO:
+
+57     I/E.--DAY  GROTTO
+
+     Pan of the interior wall of the Grotto. It is a beauti-
+     fully detailed structure of pieces of rock and crystal.
+     The stations of the Cross are represented on the two
+     sides of the interior walls. Alvin sits on a bench in a
+     courtyard inside the Grotto looking at what he sees.
+     The bench is situated under a spreading oak tree. In
+     the background we see the group from the bus with
+     the tour guide talking through a megaphone.
+
+                    TOUR GUIDE
+          ...The Pastor of this Catholic Parish
+          began his work on the Grotto in 1912
+          and continued it until his death in
+          1954. All this work you see before you
+          was done by hand...
+
+     An old gentleman (WENDELL) breaks from the
+     group and approaches Alvin. Wendell is wearing a
+     seersucker suit with a bow tie. He is walking with
+     one cane. He walks up to Alvin sitting on the bench.
+
+                    WENDELL
+          May I share the bench? As you can see
+          I have a little arthritis myself.
+
+                    ALVIN
+          Be my guest.
+
+     Wendell sits, gets himself situated and leans forward
+     on his cane.
+
+                    WENDELL
+          This was one fellow who had quite a
+          bit of time on his hands.
+
+                    ALVIN
+          A lot of work.
+
+     The tour guide in the background has made some
+     comment which causes all the women to start
+     giggling. Alvin and Wendell turn at this.
+
+                    ALVIN (cont'd)
+          So how's it traveling with a hen house?
+
+                    WENDELL
+          Well I'll tell you. My wife passed away
+          in '87. After she was gone I spent a lot
+          of time alone. Oh there were women
+          who came out of the woodwork trying
+          to cook and clean for me. I managed to
+          keep myself unattached and they finally
+          stopped coming around. Then things
+          got pretty quiet. I got to missing
+           things.
+
+                    ALVIN
+          My wife passed in 1981.
+
+     Wendell nods and they sit quiet for a moment.
+
+                    WENDELL
+          My daughter tricked me into one of
+          these bus trips a couple of years ago. It
+          was The House on the Rock if I'm not
+          mistaken. A very interesting structure
+          that. I was the only man on that bus. It
+          was a singular experience.
+
+                    ALVIN
+          I bet.
+
+     They share a chuckle.
+
+                    WENDELL
+          I was pleasantly surprised at how much
+          I enjoyed all that femininity. I discovered
+          how much I missed it. Since then
+          I make one of these bus trips every
+          other month. I rather enjoy the
+          attention.
+
+                    ALVIN
+          I live with my daughter Rose. Of
+          course, it's different from being with
+          my wife, but it's a comfort to have a
+          woman around.
+
+                    WENDELL
+          There's not a man born who doesn't
+          enjoy being fussed over.
+
+                    ALVIN
+          You wouldn't a had your way with any
+          of these fillies now wouldja?
+
+     Wendell pauses and chuckles.
+
+                    WENDELL
+          It is a wonder how invigorating a
+          tumble with a maiden can be.
+
+                    ALVIN
+          If there's a maiden on that bus I'll dance a
+           jig.
+
+                    WENDELL
+               (chuckling again)
+           See those three over there? They're
+          Dominican nuns.
+
+      Alvin begins laughing and Wendell joins in.
+     Without rising from the bench Alvin moves his
+     feet in a jig. The two fellas laugh again. They hear
+     an outburst of giggles from the gaggle of gals and
+     look their way. One of the women waves to
+     Wendell. He waves back. The two men sit in
+     silence for a while.
+
+                    WENDELL (cont'd)
+          That's an interesting attachment to
+          your lawn mower.
+
+                    ALVIN
+          You mean my trailer.
+
+                    WENDELL
+          Is that what that is? Why would you
+          attach a trailer to a lawnmower?
+
+                    ALVIN
+          I'm takin' a trip. That's where I bunk.
+
+                    WENDELL
+          A trip on a lawnmower? That's an
+          interesting means of conveyance. A bit
+          hard on the hips isn't it?
+
+                    ALVIN
+          No worse than a tumble with a maiden.
+
+     The two laugh again.
+
+                    ALVIN
+          It's not too bad. A little rough on the
+          dismount.
+
+     They laugh some more. It subsides.
+
+                    WENDELL
+          And what's your destination?
+
+                     ALVIN
+           Mt. Zion.
+
+                     WENDELL
+          Wisconsin?
+
+                     ALVIN
+           Yup.
+
+                    WENDELL
+          I admire your gumption.
+
+     Two women have broken away from the crowd and
+     approach the bench.
+
+                    FIRST WOMAN
+          Oh Wendell. The tour guide has so
+          much to say. We hate to see you miss
+          this.
+
+     Wendell turns to Alvin and winks. Woman number
+     two reaches down and flicks some lint off of Alvin's
+     shoulder. Alvin smiles at her.
+
+                    ALVIN
+          Thank you.
+
+     The woman blushes. Wendell stands and turns to
+     Alvin.
+
+                    WENDELL
+          Bon voyage my friend.
+
+                    ALVIN
+          Adios.
+
+     Wendell and the two women walk away.
+
+                         CUT TO:
+
+58     EXT.--DAY  HIGHWAY 314
+
+     Alvin tight as he rolls along the highway at a surpris-
+     ingly fast speed. He is holding on to his hat. Pull
+     back slowly to reveal Alvin on the bed of a pickup
+     sitting on his lawn mower as it rolls back into
+     Laurens.
+
+                           CUT TO:
+
+59     INT.--DAY  LAURENS ACE HARDWARE
+
+      The Weather Channel is on. The locals all turn their
+     heads as Alvin passes through their view out of the
+     window.
+
+                    SIG
+          Told ya that mower wouldn't make it
+          mor'n a few miles. Alvin (shakes his
+          head), he's got more brass than
+          brains.
+
+                    PETE
+               (almost to himself)
+          Hardly out a full day.
+
+                    APPLE
+          Least he's not hurt. Old timer like that
+          on the road. There's no tellin'.
+
+     Pete, Apple and Sig stand looking as Alvin passes.
+     Alvin looks straight ahead.
+
+                    WEATHER PERSON
+               (off camera)
+          ...and now for your local forecast.
+
+     Contrary to their previous actions when the local
+     forecast is announced, Pete, Sig and Apple do not
+      take their eyes off of Alvin. They walk to the
+     window as he passes out of frame. They peer down the
+     street after him.
+
+                         CUT TO:
+
+60     INT.--DAY  ALVIN'S KITCHEN
+
+      Rose is sitting at the kitchen table with Dorothy.
+     Between them is a large bowl of potato chips and
+     they are each drinking a large glass of milk.
+     Dorothy's hair is now bright red.
+
+                    ROSE
+          ...so the man in a pick up...he brought
+          my...my dad back.
+
+                    DOROTHY
+          Oh...I must've been at the beauty
+          parlor. What kinda pickup?
+
+      Alvin enters kitchen from inside the house, passes
+     by them and on out the back door. He is carrying a
+     pump action shotgun under his arm. He has a
+     little trouble with the canes, the gun and the back
+     door. The gals stop talking until he goes out the
+     door.
+
+                    ROSE
+          A Ford.
+
+     Dorothy's eyes are glued to Alvin as she watches him
+     through the kitchen window crossing the lawn.
+
+                    DOROTHY
+          What's your dad doin' with that gun?
+
+                    ROSE
+          I.....don't know. My dad...he got
+          medals in the war for sharpshootin'....
+          But his eyes ain't so good now.
+
+     All through this we see Alvin out in the yard. He
+     begins to put his canes down and prop himself up
+     against a picnic table.
+
+                    ROSE (cont'd)
+          Once he shot....a cougar....right
+           out....of a tree....it was up above me
+          and my......brother Bobby.
+
+     Through the window we see Alvin pick up the shot-
+     gun and raise it to his shoulder. The two women
+     unconsciously rise up out of their seats and move
+     toward the window to see what is going on. Alvin
+     pumps the shotgun and fires. The women can now
+     see the target -- the Rehds lawnmower explodes.
+     Alvin pumps once more and finishes it off.
+
+                    DOROTHY
+          Jeez.
+
+                         CUT TO:
+
+61     INT.--NIGHT  ALVIN'S LIVING ROOM
+
+     Alvin and Rose are watching the TV news. Alvin is
+     gluing coins onto the hatband of his Stetson.
+
+                    ROSE
+          What.....are those Dad?
+
+                    ALVIN
+          My Mexican coins.
+
+                    ROSE
+          Remember...I was born in New
+          Mexico....June....20...1960. The
+          Mexican coin is a........peso........Why
+          are you gluing pesos on your hat?
+
+                     ALVIN
+           Ballast.
+
+                    ROSE
+               (repeating with
+               some confusion)
+          Ballast.
+
+                         CUT TO:
+
+62     EXT.--DAY  JOHN DEERE DEALER IN LAURENS IOWA
+
+      Pan across flat Iowa landscape to huge John Deere
+     sign. The camera moves down to find a herd of
+     the huge, green titans of farm machinery; the John
+     Deere tractors. We first see the biggest farm tractors
+     John Deere makes, some more than a story tall
+     with air-conditioned cabs, CD players and onboard
+     global positioning computers. As the camera
+     moves the vehicles get smaller, until the shot
+     comes to rest on the spanking new John Deere
+     Riding Mower, sparkling in the summer sun. As
+     the camera rests on the riding mower we see Alvin,
+     leaning on his two canes, gazing longingly at the
+     mower.
+
+                         CUT TO:
+
+63     INT.--DAY  JOHN DEERE DEALERSHIP
+
+      Two salesmen stand sipping coffee from official John
+     Deere mugs. The older man is Tom. He is late 50s,
+     greying and stocky and short. A seasoned tractor
+     salesman who has seen it all. He is wearing a John
+     Deere sports shirt, yellow with green JD logo over
+     his breast. With Tom is his young, energetic sales
+     rookie, Andy. Andy is a big kid, just off the family
+     farm, a little soft but full of sales gumption. He
+     works on straight commission. He too is wearing a
+     John Deere shirt and hat, which is a bit small for his
+     great melon of a head.
+
+                    ANDY
+          That's the LD 155 right Mr. Hillenbrandt.
+
+                    TOM
+          As I told ya'...Andy I'd rather ya didn't
+          call me "Mister Hillenbrandt." Tom is
+          fine. People hear you call me Mister
+          and they'll think I've actually become a
+          real businessman. Pretty soon they'll all
+          be calling me Mr. Hillenbrandt and I'd
+          have to sell my implement business and
+          move to someplace where folks call me
+          "Tom" again.
+
+                    ANDY
+          Sorry...T...T...Tom...it's just that I've
+          been calling you Mister Hillenbrandt
+          all my life...
+
+                    TOM
+          Well you're out of school and a workin'
+          fool like the rest of us now Andy and
+          you can start usin' first names. And one
+          other thing...that's not the LD 155,
+          that's the LT 155.
+
+     Alvin enters the showroom, where there are more
+     riding mowers.
+
+                    ANDY
+               (confidently)
+          Would you like to me to handle this
+          one...Tom?
+
+                    TOM
+          Sure. It's Alvin Straight. I'm sure you'll
+          do just fine Andy.
+
+     Andy walks over to meet Alvin as he enters the door.
+     As he leaves Tom ducks his head and leaves the
+     showroom. He turns and looks at ALICE, the gray
+     haired woman who is his bookkeeper. She crosses
+     herself and raises her eyes to the heavens. Alvin is
+     looking at another model of riding mower as Andy
+     saunters over.
+
+                    ANDY
+          Good morning. I'm Andy Laufenberg.
+          Anything I can help you with today
+          sir.
+
+                    ALVIN
+          Well Andy Laufenberg...I'm looking to
+          get a riding mower. I want good
+          power -- comfortable ride.
+
+                    ANDY
+          Well sir this is the one to look at. It's
+          the John Deere LT 155....
+
+     Andy nervously reaches for a pamphlet.
+
+                    ANDY (cont'd)
+          It's got a 15 horsepower Kawasaki
+          engine. Cast iron cylin...
+
+                    ALVIN
+           Japanese?
+
+                    ANDY
+               (flummoxed)
+          No ah sir...no I'm not. I'm mostly
+          Dutch.
+
+                    ALVIN
+          The engine. Kawasaki. A Japanese
+          engine?
+
+                    ANDY
+          Yessir.
+
+     Alvin grunts.
+
+                     ANDY (cont'd)
+          They...the Japanese make a very fine
+          engine. The LD 155...
+
+                    ALVIN
+           LT.
+
+                    ANDY
+           Beg your pardon?
+
+                    ALVIN
+          LT...LT 155...says here right on the
+          side.
+
+      Andy is flustered and begins fumbling with the
+     pamphlet.
+
+                    ANDY
+          And you're right sir...similar models. By
+          Gish that is the LT 155. Same engine
+          looks like and...it's...got....air
+          cooling...electronic ignition...right here
+          with that key....It's got a hydrostatic
+          drive transmission.
+
+                    ALVIN
+          And what would that be?
+
+                    ANDY
+          Good question and I'm sure I can get
+          that answer for you...
+
+     Andy looks over his shoulder to search for Tom.
+     Tom and the bookkeeper wave and turn back to
+     some papers.
+
+                         CUT TO:
+
+64     INT.--DAY  JOHN DEERE DEALERSHIP / BOOKKEEPER'S OFFICE
+
+                     ALICE
+           How's he doin'?
+
+                    TOM
+          Young salesmen are a painful thing to
+          witness. You add Alvin to the mix and
+          we may have to call the paramedics.
+
+     Alice giggles. They continue to watch Andy and Alvin.
+
+                    ALICE
+          Shouldn't you rescue him now?
+
+                          CUT TO:
+
+65     INT.--DAY  JOHN DEERE DEALERSHIP
+
+     Andy is still struggling.
+
+                    ANDY
+          It's also got disc breaks...Mr...ah...Mr...
+           ah...sir.
+
+                    ALVIN
+          Straight. Mr. Alvin Straight.
+
+                    ANDY
+          Well Alvin. Disc brakes on a lawn
+          mower. Isn't that something?
+
+                    ALVIN
+          You're young enough to be my grand-
+          son. Proper thing would be to call me
+          Mr. Straight. If a buck private called
+          me Alvin I made him shovel slop.
+
+                    ANDY
+          Right Mr. Straight. I'm a bit new at
+          this and....and...well--
+
+     Tom crosses the showroom to them. Alvin nods.
+     Andy looks relieved.
+
+                    ANDY
+          Just talking to Mr. Straight here, Mr.
+          Hillenbrandt... ah...well...he's interested
+           here in a LT 155.
+
+                    TOM
+          Mornin' Alvin.
+
+                    ALVIN
+          Tom.
+
+                    TOM
+          Alvin the LT 155 runs about $2500
+          dollars. What ya lookin' to spend today?
+
+                    ALVIN
+          Not that much.
+
+                    TOM
+          Follow me Alvin. Andy, Alice has some
+          paperwork you need to fill out.
+
+                    ANDY
+               (dejected)
+          OK Mr. Hillenbrandt.
+
+                    TOM
+          You did fine Andy. Didn't he Alvin?
+
+                    ALVIN
+          Pleasure doing business with you Mr.
+          Laufenberg.
+
+     Andy walks away dazed and confused.
+
+                    TOM
+          Can you follow me around back Alvin? I
+          got something that might fit your needs.
+
+                          CUT TO:
+
+66     EXT.--DAY  REAR OF JOHN DEERE DEALERSHIP
+
+     The back lot of the dealership is an elephants'
+     graveyard of tractors and implements and parts. If
+     the front of the dealership is the color of John Deere
+     green, the back is the color of rust. Tom and Alvin
+     wind their way through the backlot talking as they
+     go.
+
+                    TOM
+          I set you up with that old Rehds that
+          we had the last time didn't I, Alvin?
+
+                    ALVIN
+          That you did.
+
+                    TOM
+          That ran about $325. Same price
+          range?
+
+                    ALVIN
+          Generally.
+
+                    TOM
+          You tradin' in the Rehds today?
+
+                    ALVIN
+          I don't think so Tom.
+
+     Tom nods. He decides not to ask more on the
+     subject.
+
+                    TOM
+          Pete tells me that you tried usin' the
+          rider in an interesting way. Still
+          planning to do that?
+
+                    ALVIN
+          Still planning to Tom.
+
+                    TOM
+          I know better than to talk Alvin
+          Straight out of anything he sets his
+          mind to. But I have to tell you Alvin
+          that you have always struck me as a
+          smart man....
+
+                    ALVIN
+          That's appreciated.
+
+                    TOM
+          ...Until now.
+
+     Alvin chuckles. They come around a large John
+     Deere field tractor and there sitting amongst the
+     heaps is an old John Deere riding mower. Strong,
+     simple and still green with a golden-yellow, tractor-
+     style seat. Alvin looks at it.
+
+                    ALVIN
+          What year?
+
+                    TOM
+          '66. Has the Kohler engine. We've used
+          it for parts but I always order and
+          replace them when they arrive. The
+          guts are good.
+
+                    ALVIN
+          How fast will it go?
+
+                    TOM
+          'Bout five miles an hour...more down-
+          hill. It's got the old transmission.
+          Nothing fancy.
+
+                    ALVIN
+          What are you askin' Tom?
+
+     Tom pauses and sighs. Looks around the lot.
+
+                    TOM
+          Alvin, we've done business before. I
+          know you're an old horse trader from
+          way back and I don't much feel like
+          sparring with you today. Hard to find a
+          price on a riding mower that's near 30
+          years old. Your guess is as good as
+          mine....I guess I'd just like to ask you
+          what you're willing to pay.
+
+     Alvin takes a look at the mower.
+
+                    ALVIN
+          It's a good machine?
+
+                    TOM
+          It's a good machine, Alvin.
+
+                    ALVIN
+          I've got three hunnert and 25 dollars
+          Tom. And there's no fiction there.
+
+                    TOM
+          That sounds fine with me Alvin. Let's
+          go and you can settle up with Alice.
+
+                    ALVIN
+          One last thing Tom. You can tell a little
+          something about a machine this old by
+          who's run it. Do you know who owned
+          it?
+
+                    TOM
+          Sure do Alvin. Me.
+
+                         CUT TO:
+
+67     INT.--DAY  JOHN DEERE SHOWROOM
+
+     Tom and Andy watch Alvin drive away on his
+     mower.
+
+                    TOM
+          Well congratulations, Andy.
+
+                    ANDY
+          Thanks...Tom...but you sold it.
+
+                    TOM
+          No sir...you spotted the customer and
+          brought him in...I just cleaned up. You
+          go on and see Alice. Three percent on
+          $325 dollars outta be enough for a
+          pitcher of beer tonight...but there'll be
+           more where that came from.
+
+     Andy walks away while Tom continues to watch
+     Alvin drive away down the road.
+
+                    TOM (cont'd)
+               (to himself)
+          It's worth it to tell everyone you sold it
+          to Alvin Straight.
+
+                         CUT TO:
+
+68     EXT.--DAY  ALVIN'S BACKYARD
+
+     Alvin and Rose are in the backyard repeating the
+     good-bye. Alvin is perched on the John Deere
+     mower and Rose is standing next to him arguing.
+
+                    ROSE
+          But Dad I was.......right. You ran into
+          trouble.........the first....day.
+
+     Alvin is determined but gentle.
+
+                    ALVIN
+          The only mistake I made was my
+          equipment. I'm going to be fine now
+          Rose. Nothing runs like a.....
+
+     Alvin pats the mower...he looks expectantly to
+     Rose...She is puzzled....she looks back at him...what
+     is he talking about?
+
+                    ALVIN
+          A Deere...Rose...Nothin' runs like a Deere.
+
+     Rose nods, still not quite sure what they're talking
+     about. Alvin motions his head in the direction
+     of Dorothy's house. Rose looks over.
+
+                         CUT TO:
+
+69     EXT.--DAY  DOROTHY'S HOUSE
+
+      Dorothy ducks out of the window where she has
+     been watching Alvin and Rose.
+
+                         CUT TO:
+
+70     EXT.--DAY  ALVIN'S BACKYARD
+
+                    ALVIN
+          I gotta go just to give her something to
+          chew on.
+
+      Rose smiles.
+
+                    ALVIN (cont'd)
+          You know I gotta do this Rose.
+
+     Rose tries to smile through her anxiety, and nods.
+
+                         CUT TO:
+
+71     EXT.--DAY  LAURENS DINER
+
+     OMIT
+
+                          CUT TO:
+
+72     INT.--DAY  ALVIN'S BACK PORCH
+
+     Rose is sitting at her workbench painting a bird-
+     house. She frowns and shakes her head.
+
+                    ROSE
+          God.....I am.....so worried....about.......
+          our dad. Please God....don't let nothin'
+          .......bad....happen....to him.
+
+                         CUT TO:
+
+73     EXT.--DAY  IOWA HWY 314 AT GROTTO SIGN
+
+     Alvin tools on by the point where he broke down
+      before, tips his hat at sign. Secures his hat nice and
+     snug. Here comes that ominous sound of an oncoming
+     truck. Alvin shows no fear. The truck booms by,
+     rocking trailer, mower and Alvin but THE HAT IS
+     ROCK SOLID. Alvin smiles.
+
+                         CUT TO:
+
+74     EXT.--DAY  THE GROTTO
+
+     Alvin drives past the Grotto and smiles.
+
+                         CUT TO:
+
+75     EXT.--DAY  IOWA HIGHWAY
+
+      Alvin is moving down the shoulder and slows to a
+     stop. He pulls out his box of Swisher Sweets and
+     lights up. He sits for a moment and considers the
+     landscape around him: a vast expanse of flat corn-
+     fields and the road stretching into the horizon ahead
+     of him. The mower is idling and there is no other
+     sound. He is content.
+
+                         CUT TO:
+
+76     EXT.--DAY
+
+     Alvin slows down as he is passing a small woods on
+     the side of the road. He comes to a stop and considers
+     the woods. He makes his laborious dismount and
+     stretches. He goes around back of the trailer, reaches
+     in and gets his grabber and a tarp. He heads into the
+     woods and begins grabbing some wood. This is no
+     simple task since he's walking with the two canes.
+     After grabbing a large piece of wood while placing it
+     on the tarp, his hand slips off one of his canes. He
+     tries to catch himself but falls face down on the
+     ground. He doesn't move.
+
+                         CUT TO:
+
+77     EXT.--DAY  CLOSE SHOT OF ALVIN
+
+     Cut close to Alvin's face. There is fear in his eyes and
+     his breathing is labored. After collecting himself he
+     looks around for his canes.
+
+                         CUT TO:
+
+78     EXT.--DAY  ALVIN ON THE GROUND
+
+     He reaches out and gets a hold of his canes. With all
+     his might he slowly struggles back to his feet. Still
+     shaking he uses one cane to retrieve the grabber.
+     With the grabber he gets the stick that had undone
+     him and loads it onto the tarp and drags it over to
+     the trailer. He puts the sticks into the back one by
+     one. He climbs aboard and pulls back onto the
+     shoulder and heads off down the highway.
+
+                         CUT TO:
+
+79     EXT.--LATE AFTERNOON  CAMPSITE IN A FARMER'S FIELD
+
+     Alvin pulls off the road onto a dirt track leading
+     into a field. He is in the wide open, no trees, no
+     farm buildings. He takes a look at the surroundings
+     and pulls off the track where the ground is slightly
+     higher. He does the slow dismount off the Deere
+     and stretches, rubbing his lower back. He goes about
+     setting up for the night. He opens the trailer and
+     pulls out an aluminum frame chaise lounge and
+     some of the firewood he had gathered. He slowly
+     gathers twigs & leaves for kindling for the fire. He
+     opens up the food locker at the front of the trailer
+     and pulls out a few items. He puts a few hot dogs
+     and some bread and cheese on a plate. He sits down
+     on the camping chair and proceeds to eat with little
+     ceremony. It is not quite magic hour.
+
+                         DISSOLVE TO:
+
+80     EXT.--MAGIC HOUR  FARMER'S FIELD
+
+     Alvin has built a fire. He sits in his lawn chair
+     drinking coffee and smoking a Swisher Sweet. His
+     canes are lying across his lap. The night is very quiet.
+     Alvin listens to the quiet and the occasional rustle of
+     small field animals. He looks to the horizon where
+     the sun had set.
+
+                         CUT TO:
+
+81     EXT.--MAGIC HOUR
+
+     The sky is royal blue with a band of gold at the
+     horizon. Higher up the sky is navy blue and there
+     are a million stars as you can only see in a clear
+     country sky. Alvin sits back and enjoys his smoke.
+
+                         FADE OUT.
+
+                         FADE IN:
+
+82     EXT.--DAY  HIGHWAY 18
+
+     Alvin going down the road. He sees a small figure
+     up ahead. A car whizzes past Alvin. The figure ahead
+     sticks out a thumb. The car passes by. Alvin
+     approaches the figure, sees it's a young, tough-
+     looking girl CRYSTAL. She has dark hair under a
+     baseball cap. Somewhere between 13 and 17 years
+     old. Heavy eye makeup, bad tattoo on her shoulder.
+     She is wearing a tank top, cut-offs, high-top sneakers
+     with tiger-striped laces, and a backpack. Alvin nods
+     in acknowledgment as he passes her. She coldly
+     returns his gaze.
+
+                         CUT TO:
+
+83     EXT.--NIGHT  ALVIN'S CAMPSITE
+
+      Alvin is eating a raw hot dog. He has built a campfire.
+
+                         CUT TO:
+
+84     EXT.--NIGHT  SAME HIGHWAY WIDE SHOT
+
+     Crystal is walking along.
+
+                         CUT TO:
+
+85     EXT.--NIGHT  SAME HIGHWAY CRYSTAL'S POV
+
+     Crystal spies Alvin's campfire in the field along the
+     road. The lawnmower and trailer are clearly visible
+     and she remembers him from the road.
+
+                         CUT TO:
+
+86     EXT.--NIGHT  SAME HIGHWAY
+
+     Crystal considers. Her face is unreadable...her inten-
+     tions are unclear. She cuts off the road into the field
+     and heads toward the campsite.
+
+                         CUT TO:
+
+87     EXT.--NIGHT  ALVIN'S CAMPSITE.
+
+     Alvin barely looks up as Crystal walks into range of
+     campfire light. Neither of them say anything for
+     some time.
+
+                    CRYSTAL
+          I couldn't get a ride.
+
+     Alvin nods his head. Doesn't say anything for a bit.
+
+                    ALVIN
+          Hungry?
+
+                    CRYSTAL
+          Whatya got?
+
+                    ALVIN
+          Wieners.
+
+                    CRYSTAL
+          Wieners?
+
+                    ALVIN
+          Grab a stick and cook one.
+
+     He points to the fire. She hesitates...looks at Alvin for
+     a bit longer. Alvin just keeps looking at the fire. Finally
+     she looks around, finds a stick and leans toward Alvin
+     to take a hot dog. She hunkers down holding the stick
+     with the hot dog over the fire. She casts occasional
+     glances at Alvin. More silence. She looks over to the
+     mower and trailer. Her expression darkens.
+
+                    CRYSTAL
+          What a hunk of junk.
+
+                    ALVIN
+          Eat your dinner missy.
+
+     Startled a bit at his abruptness she falls silent. She
+     nibbles on her hot dog and then realizing how hungry
+     she is she begins to eat faster. She polishes off
+     the hot dog. Alvin notices this.
+
+                    ALVIN (cont'd)
+          Get yourself another.
+
+     She's relieved at this offer and gets another hot dog,
+     puts it on the stick and holds it over the fire. They
+     sit, not speaking, listening to a chorus of crickets
+     and peepers.
+
+                    CRYSTAL
+          How long you been out on the road?
+
+                    ALVIN
+          I've traveled just about all my life.
+
+                    CRYSTAL
+          I like being out on the road.
+
+                    ALVIN
+          It's different for a girl alone.
+
+                    CRYSTAL
+               (defensively)
+          It doesn't have to be different for a girl.
+
+     Alvin just nods his head. Doesn't speak or look at her.
+
+                    CRYSTAL (cont'd)
+          Where you from?
+
+                    ALVIN
+          Laurens.
+
+     She nods, and sits quietly.
+
+                    CRYSTAL
+          You got a wife back there?
+
+                    ALVIN
+          Nope.
+
+                    CRYSTAL
+          Kids?
+
+                    ALVIN
+          My wife Frances brought fourteen kids
+          into the world. Only seven made it....
+          My daughter Rose lives with me.
+
+     No comment for a while.
+
+                    ALVIN (cont'd)
+          Frances died in '81.
+
+     Quiet for a time.
+
+                    ALVIN (cont'd)
+          Where's your family?
+
+     Now she's not talking.
+
+                    ALVIN (cont'd)
+          You runnin' away?
+
+     She still doesn't answer. Alvin leans back and draws
+     on his cigar. He looks at the girl.
+
+                    ALVIN (cont'd)
+          How far along are you?
+
+     Crystal looks away from the fire into the darkness.
+
+                    CRYSTAL
+               Five months.
+
+     Alvin nods. More quiet. Alvin gets up, walks out of
+     firelight with his grabber and comes back with a log.
+     He throws it on the fire and works the embers for a
+     bit.
+
+                    ALVIN
+          My daughter Rose that lives with
+          me...she's what some people would call
+          a little slow. But she's not. She's got a
+          mind like a bear trap for facts and
+          keeps everything organized around the
+          house. She was a real good mom....had
+          four kids.
+
+     He pauses looking into the fire. Crystal watches him
+     expectantly.
+
+                    ALVIN (cont'd)
+          One night.......someone else was
+          watchin' the kids...
+
+                         DISSOLVE TO:
+
+88     INT.--NIGHT  ALVIN'S KITCHEN
+
+     We see the shot of Rose sitting alone in the kitchen
+     that we saw before. She is at the kitchen table smoking
+     a cigarette and thinking.
+
+                    ALVIN
+               (continuing in
+               voice over)
+          There was a fire. Her second boy got
+          burned real bad. Rose didn't have nothin'
+          to do with it.
+
+     He pauses.
+
+                    ALVIN (cont'd)
+               (continuing in
+               voice over)
+          ...but...because of the way Rose is... the
+          state said she wasn't comp'tant to care
+          for the kids and took them all away.
+
+                         DISSOLVE TO:
+
+83     EXT.--NIGHT  ALVIN'S CAMPSITE
+
+                    ALVIN
+          Not a day passes she doesn't pine for
+          those kids.
+
+     Crystal looks away from him into the fire. He looks
+     back to the fire, coughs.
+
+                    ALVIN
+          Well, I'm headin' to see my brother Lyle.
+
+                    CRYSTAL
+          Huh?
+
+                     ALVIN
+          I said I'm goin' to visit my brother Lyle
+          in Mt. Zion.
+
+                    CRYSTAL
+          Where's that?
+
+                    ALVIN
+          In Wisconsin. Just over the state line.
+
+                    CRYSTAL
+               (nodding)
+          Oh....Cheddar Heads.
+
+     Alvin laughs at this and Crystal smiles, too.
+
+                    ALVIN
+          Aren't those just about the dumbest
+          things you ever saw a person put on
+          their head?
+
+     She nods and laughs.
+
+                    CRYSTAL
+          I hear that's a real party place,
+          Wisconsin. Guess I'll never get to find
+          out.
+
+     They sit in silence. Alvin looks away from the fire.
+
+                    ALVIN
+          I haven't seen my brother in ten years.
+
+     Alvin picks up the hot dogs and takes one out of the
+     pack. He proceeds to eat it raw.
+
+                    CRYSTAL
+          You're eatin' a raw hot dog!
+
+                    ALVIN
+               (smiling)
+          I like 'em straight up.
+
+     Crystal makes a face. Alvin munches slowly.
+
+                    CRYSTAL
+          Ten years is a long time.
+
+     Crystal shivers with a chill. Alvin notices this.
+
+                    ALVIN
+          There's a blanket in the trailer.
+
+     Crystal leaves firelight. She rustles about in the trailer.
+
+                    CRYSTAL
+               (offscreen)
+          What the hell kind of boom box is
+          this?
+
+                    ALVIN
+          Eight track stereo...watch your god-
+          damned language.
+
+                    CRYSTAL
+               (offscreen)
+          Are these videotapes or what?
+
+                    ALVIN
+          That's music girlie.
+
+                    CRYSTAL
+          They're huge!.....I never seen anything like
+          this.
+
+     We hear some rattling and the sound of the tape going
+     in. A sweet Patsy Cline ballad floats out of the trailer
+     and into the night air. Smiling, Crystal comes back
+     into the light with a blanket around her shoulders.
+
+                    CRYSTAL (cont'd)
+          Figured it out.
+
+                    ALVIN
+          Good girl.
+
+     They sit for a while and listen to the music.
+
+                    CRYSTAL
+          Your brother.
+
+                    ALVIN
+          Lyle and I had a falling out.
+
+                    CRYSTAL
+          Over what?
+
+                    ALVIN
+          I can't say as I recall.
+
+                    CRYSTAL
+          Well that's pretty stupid. You haven't
+          seen him in 10 years because of a fight
+          and you can't remember what the fight
+          was about?
+
+                    ALVIN
+          You got some rude habits girl.
+
+     Crystal is taken aback. She is quiet, thinking.
+
+                    ALVIN (cont'd)
+          Maybe I do recall.
+
+     Quiet for a while.
+
+                    ALVIN (cont'd)
+          People do lots of stupid things,
+          knowing they're stupid.
+
+     He looks at her. She looks up.
+
+                    CRYSTAL
+          Sorry.
+
+     They both stare into the fire for a while.
+
+                    CRYSTAL
+          So why are you going to see him now?
+
+                    ALVIN
+          He's sick.
+
+     Crystal is poking the fire with the stick. Alvin picks
+     up another stick and he starts poking the fire.
+
+                    CRYSTAL
+          My family hates me. They'll really hate
+          me when they find out....
+
+                    ALVIN
+          You didn't tell them?
+
+                    CRYSTAL
+          No...no one knows...not even my
+          boyfriend.
+
+                    ALVIN
+          Well that doesn't strike me as fair
+          treatment of your people.
+
+                    CRYSTAL
+          I can take care of my own problems.
+
+     There is a pause as they watch the fire. Then Alvin
+     speaks.
+
+                    ALVIN
+          Don't let pride make you dumb. I
+          should know.
+
+     She's listening.
+
+                    ALVIN (cont'd)
+          They may not be happy. But not so
+          much that they want to lose you...or
+          your little problem.
+
+                    CRYSTAL
+          I don't know about that.
+
+                    ALVIN
+          Well a course neither do I but a warm
+          bed and a roof sounds a mite better than
+          this...eating hot dogs on a stick with an
+          old geezer traveling on a lawn mower.
+
+     She giggles a bit and then falls silent. After a
+     moment, Alvin stirs.
+
+                    ALVIN (cont'd)
+          When my kids were young I played a
+          game with them. I'd give each of them
+          a stick. One for each of 'em, and I'd tell
+          them to break it. They'd do that easy.
+          Then I'd tell them to make one bundle
+          of all the sticks and try to break that. A
+          course they couldn't. I used to say that
+          was family, that bundle.
+
+     Crystal listens in silence.
+
+                    ALVIN (cont'd)
+          Sleep in the trailer if you want. I'll be
+          just fine here in my chair.
+
+                    CRYSTAL
+          No, I'll be fine sleeping out here.
+          Looking at the stars helps me think.
+
+     Alvin nods. He begins to struggle to his feet. Crystal
+     stands to help him. After a moment of hesitation
+     Alvin accepts her arm. He stands, nods, smiles and
+     moves slowly to the trailer. Crystal sits down alone
+     to watch the fire. We hear the sounds of Alvin settling
+     into the trailer. A bit of silence.
+
+                    ALVIN
+               (from offscreen)
+          Sweet dreams.
+
+                         CUT TO:
+
+90     EXT.--NIGHT  ALVIN'S TRAILER
+
+     Alvin's trailer door is open to the night air.      We
+     slowly push into the dark rectangular opening of the
+     trailer.
+
+                         FADE IN:
+
+91     EXT.--SUNRISE
+
+     A wide establishing shot of the Iowa landscape at
+     sunrise.
+
+                         CUT TO:
+
+92     EXT.--SUNRISE  ALVIN'S CAMPSITE
+
+     Alvin crawls out of the trailer. Crystal's gone. Next
+     to the cold campfire is a bundle of sticks bound
+     with a tiger-striped shoelace.
+
+                         CUT TO:
+
+93     EXT.--DAY  HWY 18
+
+     A series of dissolves:
+
+     Alvin is tooling down the road.
+
+                         DISSOLVE TO:
+
+94     EXT.--DAY  HWY 18
+
+     He passes a pig farm.
+
+                         DISSOLVE TO:
+
+95     EXT.--DAY  HWY 18
+
+     He passes a sheep farm.
+
+                         DISSOLVE TO:
+
+96     EXT.--DAY  HWY 18
+
+     He passes a dairy farm.
+
+                         DISSOLVE TO:
+
+97     EXT.--DAY  HWY 18
+
+     He passes a buffalo farm.
+
+                         DISSOLVE TO:
+
+98     EXT.--DAY  HWY 18
+
+     He passes an ostrich farm.
+
+                         DISSOLVE TO:
+
+99     EXT.--MAGIC HOUR  HWY 18
+
+     Alvin comes upon a concrete animal (yard ornament)
+     manufacturer. He pulls off and sets up camp
+     alongside.
+
+                         CUT TO:
+
+100     EXT.--NIGHT  ALVIN'S CAMPSITE
+
+     Alvin is eating, thinking, enjoying the evening in the
+     company of a menagerie of small concrete animals
+     surrounding him in the campfire. The light of the
+     fire plays off their faces.
+
+                         FADE TO BLACK.
+
+                         FADE IN:
+
+101     EXT.--DAY  HWY 18
+
+     Cornfields on either side of the highway. The corn is
+     high in the field, topped by swaying golden tassels.
+
+                         CUT TO:
+
+102     EXT.--AFTERNOON  HWY 18 ON THE
+     APPROACH TO WEST UNION, IOWA
+
+     Alvin has had to pull into a busy four lane highway
+     on the outskirts of a medium-sized city. There is no
+      shoulder as there has been out in the country. The
+     traffic is heavy. Drivers pass, some angry, some
+     curious. A squad car pulls up behind and turns on its
+     lights. Alvin is oblivious.  Frustrated, the POLICE
+     OFFICER (young but not a rookie) gets on the
+     loudspeaker...
+
+                    WEST UNION POLICEMAN
+               (very loud)
+          Please pull your vehicle off the road.
+
+     Alvin jumps and looks around. He sees the police
+     car and pulls into the parking lot of a Computer
+     Cosmos store. He sits patiently on the mower waiting
+     for the officer. The officer approaches.
+
+                    WEST UNION POLICEMAN
+          May I see your driver's license sir?
+
+     Alvin looks at the guy and laughs. The officer looks
+     off, takes a deep breath.
+
+                    WEST UNION POLICEMAN (cont'd)
+          Have you been drinking today sir?
+
+                    ALVIN
+          No sir.
+
+     The Cop thinks for a minute, looks at heavy traffic
+     passing by, looks at Alvin, his mower and trailer.
+
+                    WEST UNION POLICEMAN
+          I'm going to have to ask you to step
+          out...uh...get off of the lawn mower, sir.
+
+     Alvin goes into the slow dismount. Officer regards
+     this and reaches to assist. Alvin jerks his arm away
+     from the officer.
+
+                    WEST UNION POLICEMAN (cont'd)
+          Sir, would you just walk a straight line for
+          me?
+
+     Alvin looks at his canes, looks at the officer and
+     proceeds to walk a straight line.
+
+                    WEST UNION POLICEMAN (cont'd)
+          Sir, can you do that without the canes?
+
+                    ALVIN
+          Nope, I'll tip over.
+
+     The Cop looks down.
+
+                    WEST UNION POLICEMAN
+          OK Sir. I don't believe you have been
+          drinking but I'm gonna have to ask you
+          to stay here at Computer Cosmos for
+          another hour or so...just 'til traffic dies
+          down. That would be best for you and
+          the other cars. Alright?
+
+     Alvin nods and hobbles back to the mower. He
+     mounts and the cop watches this. The cop then gets
+     into his squad car and takes off.
+
+                         DISSOLVE TO:
+
+103     EXT.--DUSK  THE COMPUTER COSMOS PARKING LOT
+
+     Alvin sits and waits. Cars whizz by.
+
+                         DISSOLVE TO:
+
+104     EXT.--DUSK  RED ROAD ON HWY 18
+
+     Alvin is once again on a country road. A car passes
+     him. The woman driving gawks at him as she passes.
+     Moments later we hear off camera a screech of
+     brakes and a heavy thud. We see Alvin react to the
+     event up ahead.
+
+                         CUT TO:
+
+105     EXT.--DUSK  RED ROAD HWY 18 ALVIN'S POV
+
+     Up ahead a blue Japanese subcompact is parked at a
+     strange angle across the shoulder of the road. The
+     engine is still running. Smoke rises from the hood.
+     The driver car door opens and a hefty woman with a
+     bouffant hairdo, stretch pants and a tunic gets out.
+     Alvin's POV slow approach. He watches her as she
+     walks around to the front of the car, and looks down
+     to the ground. She looks up to the heavens and then
+     begins pounding her open hand on the top of the
+     car hood.
+
+                         CUT TO:
+
+106     EXT.--DUSK  RED ROAD HWY 18
+
+      Alvin reacts to the scene as he approaches.
+
+                         CUT TO:
+
+107     EXT.--DUSK  RED ROAD HWY 18
+
+     Alvin drives up to the woman. Alvin executes his
+     slow dismount. The woman glances briefly at Alvin
+     but barely registers his presence because she is so
+     distraught.
+
+                    ALVIN
+          Can I help Miss?
+
+                    DEER WOMAN
+          No you can't help me. Jesus, Mary and
+          Joseph. No one can help me.
+
+     Alvin moves around to the front of the car. He notes
+     that the car has quite a few dents. We see that the
+     woman has struck a nice eight point buck. Alvin's
+     face shows relief. All the while the woman rants and
+     paces.
+
+                    DEER WOMAN (cont'd)
+          I've tried driving with my lights on. I've
+          tried sounding my horn. I scream out
+          the window. I roll the window down
+          and bang on the side of the door and
+          play Public Enemy real loud...I have
+          prayed to St. Francis of Assisi...St.
+          Christopher too, what the hell! I have
+          tried everything a person can do and
+          still every week I plow into at least one
+          deer. What is it?
+
+     Alvin shakes his head. She now begins walking
+     around the car, the mower and Alvin. She flails her
+     arms.
+
+                    DEER WOMAN (cont'd)
+          I have hit 13 deer in seven weeks driving
+          down this road mister and I have
+          to drive this road every day 40 miles
+          back and forth to work. I don't know
+          what to do...I have to drive to work
+          and I have to drive home...
+
+     She pauses. Takes a deep breath and looks out over
+     the flat landscape. She turns and pats the deer carcass.
+
+                    DEER WOMAN (cont'd)
+          He's dead.
+
+     She starts to cry.
+
+                    DEER WOMAN (cont'd)
+          And I love deer.
+
+     She turns and climbs back in her car. She backs up
+     and sprays gravel as she accelerates away. Her front
+     fender falls off and she runs over it. Alvin watches
+     her drive away, then looks down at the deer.
+
+                         CUT TO:
+
+108     EXT.--NIGHT  ALVIN'S CAMPFIRE
+
+     Alvin is eating a large piece of meat. Behind Alvin
+     we see a full set of antlers mounted on the front of
+     the trailer.
+
+                         CUT TO:
+
+109     EXT.--MIDDAY  HWY 18 IOWA FLATLANDS
+
+     Alvin is driving along a particularly desolate stretch
+     of road. His eye scans the horizon. He is wary. He
+     slows the mower and brings it to a stop, the engine
+     idling. We see Alvin's face tight. He sees something.
+
+                         CUT TO:
+
+110     EXT.--DAY  HWY 18 IOWA FLATLANDS ALVIN'S POV
+
+     The Iowa horizon is a large dark mass. An occasional
+     burst of light races through the black clouds. A
+     breeze blows dirt along the field. Alvin's gaze searches
+     for shelter. There are no farms near. He cannot
+     outrace the storm. He spots a small outbuilding
+     alone in the field. It is an old granary, used by
+     farmers to store corn.
+
+                         CUT TO:
+
+111     EXT.--DAY
+
+      Alvin turns off the highway onto a narrow rutted
+     field road used only by the farmer to get to his crops.
+     It is pot-holed and uneven. Alvin stops at the entry
+     to the road. Moving as quickly as he can, Alvin
+     secures everything that could blow away on the
+     mower and the trailer. Then he mounts the mower
+     and races for shelter. As he's heading to the granary
+     the sky darkens dramatically and the winds hit.
+     He puts his head down into the gust, holds onto his
+     hat and lets out a holler, carrying all the speed a
+     riding mower can. He bounces across the field and
+     closes on the granary. Just as a large crack of
+     lightning, rain and the full gust of wind sweep in, Alvin
+     makes it into the sanctuary of the granary. A smile
+     crosses his face as he revels in the race before the
+     storm and the pleasure of watching the thunderstorm
+     from beneath a strong roof. He shares the granary
+     with a flock of pigeons who have taken shelter
+     as well. Alvin sits looking out on the storm, relaxed
+     and content on his perch aboard the mower.
+
+                         DISSOLVE TO:
+
+112     EXT.--DAY  IOWA COUNTY HIGHWAY
+
+     A warm afternoon. Alvin is making his way down a
+     lonely stretch of Iowa highway. The perforated,
+     yellow center line passes slowly below him. Suddenly
+     Alvin hears a strange, whirring sound. A moment
+     later he is startled by a strangely helmeted, goggled,
+     bicyclist speeding by him.
+
+                    CYCLIST #1
+          On your left! Thank you.
+
+                    ALVIN
+          What the......?
+
+      Another whir and another cyclist passes.
+
+                    CYCLIST #2
+          On your left. Thank you.
+
+     And then a trio of cyclists. Another rider approaches
+     pedalling a recumbent bicycle.
+
+                    CYCLIST #3
+          Comin' by on your left. Thank you!
+
+                    ALVIN
+          What in the hell....?
+
+      Alvin pulls his rig over to the side of the road and
+     watches as a large herd of cyclists, numbering more
+     than a hundred riders, engulfs Alvin and his rig.
+     One rider slows to gawk at Alvin and nearly causes
+     an accident. Other cyclists wave as they churn by...a
+     few yell greetings.
+
+                         CUT TO:
+
+113     EXT.--DAY  AERIAL VIEW OF IOWA ROAD
+
+     We see a swarm numbering hundreds of bike riders
+     passing Alvin parked on the road.
+
+                         DISSOLVE TO:
+
+114     EXT.--DUSK  IOWA ROADSIDE PARK
+
+     Alvin pulls over for the evening to make camp at a
+     county park. Also at the wayside are many of the
+     cyclists who passed Alvin earlier. Pup tents abound.
+     Riders, dressed in skin-tight, brightly colored spandex
+     cycle togs, are spread about the park eating,
+     drinking out of squirt bottles, stretching, hydrating,
+     swapping massages and just plain preening. Alvin
+     pulls into the park. Heads turn as Alvin passes
+     through the crowd. A few onlookers begin clapping.
+     Alvin, a bit of a showman, doffs his Stetson to even
+     more applause. He pulls over to an open patch of
+     campground and brings the John Deere to a halt.
+     He begins his arduous dismount. A cyclist looks on.
+
+                    CYCLIST #1
+          That's the same sound we make when
+          we dismount.
+
+                         CUT TO:
+
+115     EXT.--NIGHT  CAMPSITE
+
+     Some cyclists, mostly younger, are gathered around
+     Alvin's campfire and trailer. STEVE is in his early
+     30s, an earnest, likable fellow with a neatly trimmed
+     beard.
+
+                    STEVE
+          So you're averaging about twenty miles
+          a day?
+
+                    ALVIN
+          'Bout that. She'll go five miles an hour
+          if I push 'er. I stop when my hips start
+          barkin'.
+
+     The other talkative cyclist is RAT. He is early 20s,
+     bleached cropped hair and he features a smattering
+     of tattoos. He talks like a skateboarder.
+
+                    RAT
+          Wow man, five miles an hour.
+
+     Rat looks up to see a ball flying in his direction. He
+     snags it and tosses it back offscreen. He's not exactly
+     paying close attention to Alvin.
+
+                    STEVE
+          So you're thinking about five weeks to
+          get to your brother's place in
+          Wisconsin?
+
+                    ALVIN
+          I haven't given it a schedule. That
+          would sound about right.
+
+                    RAT
+          Oh man.....I could not handle five
+          weeks on a lawn mower.
+
+                    ALVIN
+          And I couldn't handle sittin' on one of
+          them seats for more'n an hour....if that.
+          You all walk like you got a case of
+          baboon butt. Seems my ride is a bit
+          more comfortable.
+
+     The cyclists laugh. Rat catches the ball again.
+
+                    RAT
+          So why the lawnmower?
+
+     Rat tosses the ball.
+
+                    ALVIN
+          Can't drive. My eyes. Don't like other
+          people drivin' me where I want to go.
+
+                    RAT
+          I can totally dig that.
+
+     Alvin smiles and rises to get more firewood. Steve
+     notices the difficulty he has walking and gets up to
+     help.
+
+                    STEVE
+          Can I ask how old you are Alvin?
+
+                    ALVIN
+          Seventy-three.
+
+                    RAT
+          Oh man. Seventy-three years old. Bad
+          eyes, bad hips.
+
+                    ALVIN
+          Eyes, hips....diabetes....circylation.
+          Can't hardly believe it myself. I'm older
+          than I ever thought I'd be.
+
+     Two young spandex-clad women walk by. Alvin follows
+     them with his eyes.
+
+                    ALVIN (cont'd)
+          You don't think about old age when
+          you're young. Shouldn't.
+
+                    STEVE
+          When d'ya know you're getting old?
+
+     Alvin stirs the fire.
+
+                    ALVIN
+          The first time I felt old was when I saw
+          a buddy die in the war. I got old that
+          minute.
+
+     The group around the campfire is silent for a while.
+
+                    STEVE
+          There must be something good about
+          getting old.
+
+     Alvin ponders a moment, stirring the fire.
+
+                    ALVIN
+          Hard to imagine anything good about
+          goin' blind and lame at the same time.
+          But still...at my age...you've seen most
+          everything life has to dish out. You can
+          separate the wheat from the chaff. You
+          know to let the small stuff fall away.
+
+                    RAT
+          Cool man.
+
+     Rat snags the ball one more time. Someone offscreen
+     yells
+
+                    BIKE RIDER
+               (offscreen)
+          Sally's in my tent.
+
+     Rat laughs and throws the ball back. Still smiling
+     and looking off...
+
+                    RAT
+          What's the worst thing about being old
+          Alvin?
+
+     Alvin stirs the fire. The embers rise on the flames.
+     Alvin watches the embers float up into the night sky
+     and stars.
+
+                    ALVIN
+          The worst thing about being old is
+          remembering when you were young.
+
+     Again the group around the fire falls silent. They
+     listen to the night sounds.
+
+                         FADE OUT.
+
+                         FADE IN:
+
+116     EXT.--DAY  HWY 18
+
+     Alvin is moving out of the prairie and approaching
+     the Mississippi Valley terrain. Corn is being harvested
+     in the fields and the leaves have begun to turn
+     colors. He begins to climb gently rolling hills. As he
+     does the mower begins to show signs of strain. He
+     pulls off the road half way up one of these gentle
+     hills to lash his shift lever into low gear.
+
+                         CUT TO:
+
+117     EXT.--DAY  CLERMONT, IOWA HOUSE ON FIRE
+
+     Close shot of an inferno. A house is burning down.
+
+                         CUT TO:
+
+118     EXT.--DAY  CLERMONT, DANNY RIORDAN'S FRONT PORCH
+
+      Five people are sitting in aluminum chairs sitting
+     watching the fire. They are drinking beer. They do
+     not seem alarmed by the house burning down across
+     the street.
+
+                         CUT TO:
+
+119     EXT.--DAY  CLERMONT IOWA
+
+     Wide shot reveals that volunteer firemen are burning
+     down the house as a firefighting exercise.
+
+                         CUT TO:
+
+120     EXT.--DAY  DANNY RIORDAN'S FRONT PORCH
+
+     Everyone is clearly enjoying watching the house
+     burn down and the firefighters scurry about.
+     DANNY RIORDAN is the owner of the house on
+     whose porch everyone is gathered. He is mid-50's
+     shortish and stocky, and wears khaki bermuda shorts
+     and a Hawaiian print shirt. His wife DARLA
+     RIORDAN is of similar build and age and has a full
+     head of blond, bouffant hair. She wears white capri
+     pants and a bright yellow shirt. Their friends
+     JOHNNY AND JANET JOHNSON and VERLYN
+     HELLER have joined them for the festivities.
+     Johnny and Janet are about the same age as Danny
+     and Darla and have known each other since high
+     school. They all have a strangely youthful air about
+     them. Johnny and Janet are both very quiet, small
+     and neat. Verlyn is quite a bit older and a farmer.
+     He is very tan and rugged looking. At the same time
+     he bears a certain air of refinement.
+
+                    DARLA RIORDAN
+          Criminy sakes alive. You can feel the
+          heat all the way over here.
+
+                    JOHNNY JOHNSON
+          Makes you appreciate what a volunteer
+          fireman has to do.
+
+                    DANNY RIORDAN
+          That Rumelthanger place was an eyesore.
+
+                    DARLA RIORDAN
+          Remember old man Rumelthanger?
+          What a dirty old cur...never bathed.
+          The smell that came off that man. I tell
+          you, it was enough to make a girl faint.
+
+                    DANNY RIORDAN
+          You always had an inclination to faint
+          Darla.
+
+     Darla blushes at this.
+
+                    JANET
+          You know. There really is something
+          about watching a fire that causes you to
+          sort of go off...like it's hypnotism.
+
+                    VERLYN
+          Time was when all civilization did was
+          stare at the fire.
+
+     They are happy. It's like the fourth of July and they
+     are all feeling like kids watching a house burn down
+     on a warm autumn afternoon. Shouts of volunteer
+     firemen in the background.
+
+                         CUT TO:
+
+121     EXT.--DAY  BURNING HOUSE
+
+     Shots of firemen battling the blaze. A small crowd
+     has assembled next to the house to watch the show.
+     The firemen turn and wave to the assembly. A wife
+     is taking pictures. We hear a clattering sound
+     intrude upon the scene. It is not coming from the
+     fire.
+
+                         CUT TO:
+
+122     EXT.--DAY  RIORDAN'S FRONT PORCH
+
+     Darla's attention is drawn from the fire by the
+     rattling sound. She looks up the hill.
+
+                    DARLA RIORDAN
+          What's that noise?
+
+      One after another they turn their heads to the
+     direction of the hill.
+
+                    VERLYN
+          Now what in the sam hill do you suppose...
+
+     Down the hill, barely under control comes Alvin on
+     the mower.
+
+                    JOHNNY JOHNSON
+          What on earth....?
+
+                    DARLA RIORDAN
+               (to Danny)
+          Honey bun...is that a lawnmower?
+
+                    JANET
+          It's going too fast for a lawnmower.
+          Isn't it Danny?
+
+                    DARLA RIORDAN
+          And what on earth is drivin' that
+          thing?!
+
+                          CUT TO:
+
+123     EXT.--DAY  CLERMONT HILL ALVIN ON MOWER
+
+     Alvin is barreling down the hill, foot stamping on
+     brake, no response. The steering becomes more difficult.
+
+                          CUT TO:
+
+124     EXT.--DAY  RIORDAN'S FRONT PORCH
+
+                    VERLYN
+          That sure as hell is a lawnmower....
+          with an old Indian on top.
+
+                    JOHNNY JOHNSON
+          He doesn't look like he has that thing
+          under control.
+
+                    DANNY RIORDAN
+               (he begins heading over
+               to the scene and over
+               his shoulder he adds)
+           ...nothing runs like a Deere.
+
+                          CUT TO:
+
+125     EXT.--DAY  CLERMONT HILL ALVIN ON THE MOWER
+
+     Wide shot of Alvin careening down the hill, picking
+     up even more speed.
+
+                         CUT TO:
+
+126     EXT.--DAY  ALVIN'S POV
+
+     The road moves back and forth. Burning house fast
+     approaching. Look to road bed flying by beneath the
+     mower. This is much faster than Alvin or the mower
+     has ever gone.
+
+                         CUT TO:
+
+127     EXT.--DAY  CLERMONT HILL ALVIN ON MOWER
+
+     Alvin picks up speed. His hat threatens to blow off.
+     Water is streaming from his eyes. Amazingly he
+     makes it to the bottom of the hill without rolling
+     the machine. As he comes to a stop the front porch
+     gang reaches him.
+
+                         CUT TO:
+
+128     EXT.--DAY  BOTTOM OF THE HILL
+
+     Alvin is sitting on the mower catching his breath
+     and composure. He wipes the tears from his cheeks.
+     Some of the volunteer fireman turn their attention
+     from the burning house to the activity at the bottom
+     of the hill.
+
+                    DANNY RIORDAN
+          Mister are you O.K.?
+
+     Alvin is a little shaky. Nods in answer to Danny's
+     question.
+
+                    JOHNNY JOHNSON
+          Jeez Mister you're lucky she didn't roll
+          on you.
+
+                    ALVIN
+               (a little short
+               of breath)
+          I think the belt's shot.
+
+                    DANNY RIORDAN
+          I wouldn't be surprised. You don't have
+          brakes on that trailer do you?
+
+      Alvin shakes his head.
+
+                     DANNY RIORDAN (cont'd)
+          Mister I worked for John Deere for
+          thirty years so I can tell ya you shouldn't
+          be hauling a rig like that behind a
+          riding mower. At least not down a hill
+          like that.
+
+     Alvin doesn't really respond. Danny softens a little.
+     Considers the situation.
+
+                    DANNY RIORDAN (cont'd)
+          I'm Danny Riordan.
+
+     He extends his hand. Alvin reaches out.
+
+                    ALVIN
+          Alvin Straight.
+
+                    DANNY RIORDAN
+          Well Alvin...let's get you and this rig off
+          the road and see what the damage is.
+
+     Alvin goes through the slow dismount under the
+     watchful eyes of Darla and Janet. Danny and Verlyn
+     start to push the mower and trailer and are joined
+     by a couple of the volunteer fireman. Alvin brings
+     up the rear, moving slowly.
+
+                         CUT TO:
+
+129     EXT.--DAY  BEHIND RIORDAN'S HOUSE
+
+     Guys are pushing Alvin's rig into the backyard. They
+     roll to a stop alongside a small separate garage.
+
+                    DANNY RIORDAN
+          Well let's have a look at this mower.
+          This is what? '65 ...'66?
+
+                    ALVIN
+          '66.
+
+     Danny is looking under the hood. He notices a
+     small pool of oil forming under the mower.
+
+                    DANNY RIORDAN
+          Well I can tell you right now Alvin you
+          won't be going anywhere tonight. Aside
+          from your drive belt being busted,
+          you've got transmission problems.
+          Where were you hoping to get to?
+
+                    ALVIN
+          Mount Zion.
+
+                    DARLA RIORDAN
+          Mount Zion, Wisconsin? Past Prairie
+          du Chien?
+
+                    JOHNNY JOHNSON
+          That's 60 more miles of hills.
+
+                    DANNY RIORDAN
+          That's across the Mississippi. What's in
+          Mount Zion Alvin?
+
+                    ALVIN
+          My brother lives there.
+
+                    JANET
+          Why didn't you take your car?
+
+                    ALVIN
+          Don't have a driver's license.
+
+                    DARLA RIORDAN
+          Couldn't your brother come to visit
+          you?
+
+                    ALVIN
+          He's had a bad stroke.
+
+                    VERLYN
+          Where are you coming from?
+
+                    ALVIN
+          Back a piece.
+
+                    DANNY RIORDAN
+          West Union?
+
+                    ALVIN
+           Nope.
+
+                    JOHNNY JOHNSON
+          Hawkeye?
+
+     Alvin just shakes his head.
+
+                    DARLA RIORDAN
+          Not New Hampton. You didn't come
+          that far?
+
+      Alvin gets a small smile.
+
+                     ALVIN
+           Nope.
+
+     Janet jumps in thinking she's got it.
+
+                    JANET
+          Mason City!
+
+     Alvin shakes his head again.
+
+                    VERLYN
+          You've come a long way haven't you?
+
+     Alvin looks at Verlyn and nods.
+
+                    ALVIN
+          Yes I have. From Laurens, Iowa.
+
+                    DARLA RIORDAN
+          Laurens?
+
+                    VERLYN
+          That's west of the Grotto. How long
+          have you been on the road?
+
+                    ALVIN
+          What's the date today?
+
+                    JOHNNY JOHNSON
+          October 8th.
+
+     Alvin thinks for a minute. Counts on his fingers.
+     Looks up.
+
+                    ALVIN
+          5 weeks. I left Laurens on September
+          5th.
+
+                    DANNY RIORDAN
+          You been bunking in that?
+
+     Alvin points his thumb over his shoulder at the trailer.
+
+                    ALVIN
+          That's my rolling home.
+
+     They all swing their heads and look again at the
+     trailer. Darla and Janet look at each other. They
+     share a "Holy Cow" look.
+
+                    DANNY RIORDAN
+          Where've you been settin' up camp?
+
+                    ALVIN
+          In the fields. I'd just pull off the road
+          every evening. I don't travel at night.
+
+                    DARLA RIORDAN
+          Weren't you scared staying out there
+          alone at night? There's a lot of strange
+          people everywhere now.
+
+                    ALVIN
+          Ma'am, I fought in the trenches in
+          World War II. Why should I be scared
+          in an Iowa cornfield?
+
+                    DANNY RIORDAN
+          Well why don't you bivouac right here
+          in our yard tonight? We got a bathroom
+          out here in this garage you can use.
+
+                    ALVIN
+          I appreciate that. I believe this machine
+          is in agreement with you.
+
+                         CUT TO:
+
+A130     EXT.--LATE AFTERNOON  RIORDAN'S YARD
+
+     Alvin, Danny and Darla are rigging up a lean-to of
+     plastic tarp and tree limbs. The lean-to extends out
+     from the garage.
+
+                    ALVIN
+          Sure is nice of you folks to help me with
+          this.
+
+                    DANNY RIORDAN
+          Well...there's a lot of rain in the
+          forecast and you don't want to be stuck in
+          your trailer.
+
+     Darla is on a stepladder attaching a red wooden
+     fish to the top of the post.
+
+                    DARLA RIORDAN
+          I do a little woodwork art. I thought
+          you might like some fish on your tent.
+
+                    ALVIN
+          My daughter Rose builds birdhouses.
+
+                    DARLA AND DANNY
+               (in unison)
+          Oh that's nice.
+
+                         CUT TO:
+
+130     EXT.--NIGHT  RIORDAN'S BACKYARD
+
+     Alvin is perched in the doorway of his trailer
+     smoking a Swisher Sweet.
+
+                         CUT TO:
+
+131     EXT.--NIGHT  ALVIN'S POV: BURNT OUT HOUSE
+
+     Alvin is gazing out into the night. He looks over at
+     the smoldering house. A few orange embers in the
+     ashes and one fireman on watch. The fireman lights
+     a cigarette.
+
+                         CUT TO:
+
+132     EXT.--NIGHT  ALVIN'S POV: RIORDAN'S HOUSE
+
+     Lights turn out one after another.
+
+                         CUT TO:
+
+133     EXT.--NIGHT  ALVIN'S POV: THE SKY
+
+     The stars and the moon in a beautiful clear autumn
+     (still dark blue) sky.
+
+                         FADE TO BLACK.
+
+                         FADE IN:
+
+134     EXT.--DAY  RIORDAN'S BACKYARD
+
+     Four men are standing around looking at Alvin's
+     mower: Danny, Alvin and two guys from the local
+     John Deere dealer. HARALD AND THORVALD OLSEN
+     (they are both tall and skinny with big
+     adam's apples. They have bright blue eyes and very
+     ruddy red cheeks. They are prematurely bald). They
+     are twin brothers and bicker like an old married
+     couple. Can't agree on anything.
+
+                    HARALD
+          I tell you Thorvald it's a '65 John
+          Deere 110.
+
+                    THORVALD
+          It's a '66 Harald. I fixed one just like it
+          three years ago. That was a drive belt too.
+
+                    HARALD
+          '65.
+
+                    THORVALD
+          '66!
+
+                    DANNY RIORDAN
+               (to Alvin)
+          They're twins. Siamese, separated at the
+          opinion.
+
+     Alvin chuckles.
+
+                    DANNY RIORDAN (cont'd)
+          It's a '66. Ask Mr. Straight.
+
+     They both look to Alvin. Each of them still sure
+     they're right.
+
+                    ALVIN
+          '66.
+
+     Harald kicks the ground. Thorvald smirks. Blows his
+     nails and shines them on his shirt.
+
+                    DANNY RIORDAN
+          So Olsens. How bad is it?
+
+                    ALVIN
+          I can't be dawdlin' here. I gotta get
+          back on the road.
+
+     The twins look at the lawn mower and then at each
+     other. Thorvald turns back to Alvin who is waiting
+     expectantly.
+
+                    THORVALD
+          Well you know about the transmission.
+          The belt is shot, you blew a head gasget,
+          you're in bad need of oil, and your
+          right side tires are bald.
+
+     Alvin takes this in.
+
+                    ALVIN
+          Is that all?
+
+                    HARALD
+          Well it wouldn't be a bad idea to
+          remove the blade assembly...As best as I
+          can tell ...you're not mowin' any lawns.
+
+                         CUT TO:
+
+135     INT.--DAY  RIORDAN'S KITCHEN.
+
+     Darla is kneading bread. She is up to her elbows in
+     dough. Danny walks in, grabs a beer from the fridge
+     and sits down at the kitchen table. He lights a
+     cigarette. There is a small TV on the kitchen counter.
+     The Weather Channel is on.
+
+                    DARLA RIORDAN
+          Storm rollin' in.
+
+     Danny sits lost in thought. He doesn't react to her.
+
+                    DANNY RIORDAN
+          It's going to cost him a bundle to fix
+          that mower. I don't think he's got that
+          kinda money.
+
+                    DARLA RIORDAN
+          Mmmm.
+
+                    DANNY RIORDAN
+          I wouldn't drive that old thing to
+          Excelsior. It's a lawn mower for god's
+          sake.
+
+                    DARLA RIORDAN
+           Mmm Hmmm.
+
+                    DANNY RIORDAN
+          He was damn lucky he made it to the
+          bottom of that hill. He could've been
+          killed. Easily coulda' been killed.
+
+                    DARLA RIORDAN
+          Yah. Ah huh.
+
+                     DANNY RIORDAN
+          He's none too strong. Did you see how
+          he can't walk without those canes?
+
+                    DARLA RIORDAN
+               (still kneading)
+          Uh uh.
+
+                     DANNY RIORDAN
+          The hills just get worse the closer you
+          get to the Mississippi.
+
+     Darla stops kneading her bread and smiles. With
+     dough up to her elbows she walks over to Danny
+     and kisses him on the forehead.
+
+                    DARLA RIORDAN
+          Go ahead and drive him honey. Mt.
+          Zion can't be a half day. That's fine.
+
+     Darla goes back to her dough as Danny keeps
+     thinking.
+
+                    DARLA RIORDAN (cont'd)
+          ....You're a good man Danny Riordan
+          ....That's why I married you despite
+          what my mother said.
+
+     Danny smiles, gets up from the chair and stands
+     behind Darla.
+
+                    DARLA RIORDAN (cont'd)
+          Now shoo.
+
+                         CUT TO:
+
+136     EXT.--DAY  RIORDAN'S BACKYARD
+
+     Alvin is sitting in the open door of his trailer. He
+     looks around to make sure he is alone. He pulls out
+     his wallet and looks inside.
+
+                         CUT TO:
+
+137     EXT.--DAY  RIORDAN'S BACKYARD
+
+     Alvin's POV of inside of wallet. A couple of twenties
+     and a ten and a few singles.
+
+                         CUT TO:
+
+138     EXT.--AFTERNOON  RIORDAN'S BACKYARD 138
+
+     Alvin closes up wallet, puts it in his pocket. He
+     lights up a Swisher Sweet and gets pensive.
+
+                         CUT TO:
+
+139     EXT.--DAY  BACK DOOR RIORDAN'S HOUSE
+
+     Alvin knocks on door. Danny comes to the door.
+
+                    ALVIN
+          I'm in need of a phone.
+
+                    DANNY RIORDAN
+          Why sure...come on in.
+
+                    ALVIN
+          I'd like to call my daughter and give
+          her an account of my recent travels.
+
+                    DANNY RIORDAN
+          Sure, sure. Come on in.
+
+     He opens the door wide to allow Alvin past.
+
+                    ALVIN
+          If it's all the same to you I was
+          wondering if you have one of those phones
+          without a cord.
+
+                    DANNY RIORDAN
+          The door's wide open...come on in.
+
+                    ALVIN
+          I can talk from out here.
+
+     Danny smiles, goes back in and returns with a
+     portable phone.
+
+                    DANNY RIORDAN
+          Here you go. You're more than welcome
+          to sit down at the kitchen table.
+          Darla and I can leave the room if you're
+          lookin' for a little privacy.
+
+                    ALVIN
+          Thank you. Out here's just fine.
+
+     Alvin turns and starts to hobble away. Danny is
+     starting to shut the door. Alvin turns back to him.
+
+                    ALVIN
+          What area code am I in? I don't think
+          this is 712 anymore.
+
+                    DANNY RIORDAN
+          No it isn't Alvin, that hill rolled you
+          into 319. You'll need to dial a one and
+          your area code to get her.
+
+                    ALVIN
+          I thank you.
+
+                         CUT TO:
+
+140     EXT.--DAY  ALVIN'S LAURENS HOME KITCHEN
+
+      The phone is ringing. Rose enters kitchen carrying a
+     birdhouse. She picks up the phone.
+
+                    ROSE
+          Dad? Oh dad...I'm...(she starts to tear
+          up)...so glad to hear you.
+
+                    ROSE (cont'd)
+          I been so worried. I know....you
+          can....O.K. I won't.
+
+                    ROSE (cont'd)
+          Clermont? Is that......in Iowa?....Oh.
+
+                    ROSE (cont'd)
+          Yah. Oh...your social security
+          check...yah.....it's here.
+
+                    ROSE (cont'd)
+          O.K....the check......I send it to
+          you......O.K.
+
+                    ROSE (cont'd)
+          Yes....I will....take it down....hold
+          on......Dad.
+
+     She puts the phone down, puts down the birdhouse
+     which she has been holding through the
+     conversation. She rummages through a drawer in the
+     kitchen. No luck. She moves stuff around the
+     countertops. No luck. She moves out of the kitchen and
+     we hear her rummaging in the other room.
+
+                         CUT TO:
+
+141     EXT.--DAY  RIORDAN'S BACKYARD
+
+     Alvin is patiently sitting at a picnic table. A little
+     smile comes across his face.
+
+                         CUT TO:
+
+142     INT.--DAY  THE STRAIGHT KITCHEN
+
+     Rose comes back into the kitchen with a big smile
+     on her face holding a fat carpenter's pencil. She
+     picks the phone back up.
+
+                    ROSE (cont'd)
+          O.K. Dad...I have a .......pencil. It's one
+          of those ones you use when you're
+          building stuff.
+
+     She concentrates and writes for what seems a long
+     time.
+
+                    ROSE (cont'd)
+          I'm going to read.....it back.
+
+                         CUT TO:
+
+143     EXT.--DAY RIORDAN'S BACKYARD
+
+     Alvin, phone to his ear, nods several times as Rose
+     haltingly reads back the address.
+
+                    ALVIN
+          That's right. I know I can count on you
+          sweetheart...........I'm fine. I'm hobbled
+          here but as soon as I get that check I
+          can head out to Lyle's..........Are you
+          O.K. there alone?...... Good, we can't
+          have too many bluebirds in the yard.
+
+                         CUT TO:
+
+144     EXT.--DAY  RIORDAN'S BACK PORCH
+
+     Close up Alvin sets the phone down on a few dollars
+     on the porch.
+
+                         CUT TO:
+
+145     EXT.--DAY  RIORDAN'S BACKYARD
+
+     Danny's POV. He comes out the door and watches
+     Alvin hobbling back to his trailer.
+
+                         CUT TO:
+
+146     EXT.--DAY  RIORDAN'S BACK PORCH
+
+     Danny stoops and picks up the phone and money.
+     He takes a look at Alvin and goes back in the house.
+
+                         CUT TO:
+
+147     EXT.--DAY  RIORDAN'S BACKYARD.
+
+     Alvin settles into the doorway of his trailer. Lights
+     up a Swisher Sweet.
+
+                         DISSOLVE TO:
+
+148     EXT.--DAY  RIORDAN'S BACKYARD
+
+     A Coleman cookstove is fired up and has a large pot
+     of water boiling on top of it.
+
+                         CUT TO:
+
+149     EXT.--DAY  RIORDAN'S BACKYARD
+
+     Alvin is stretched out on his chaise lounge. He is
+     watching the water boil. Danny approaches.
+
+                    DANNY RIORDAN
+          What are ya cookin' Alvin?
+
+                    ALVIN
+          I'm making my Mexican coffee.
+
+                    DANNY RIORDAN
+          Mind if I join you?
+
+                    ALVIN
+          You'd be a guest in your own yard.
+
+     Danny goes off, comes back with an aluminum
+     folding chair and sets it up next to Alvin's chaise
+     lounge.
+
+                    DANNY RIORDAN
+          I talked to the Olsen twins and they
+          estimate it will cost you around
+          $250.00 to get this mower running
+          again.
+
+                    ALVIN
+          That's twice what it oughta be. Must be
+          because they're twins.
+
+     Danny smiles at this.
+
+                    DANNY RIORDAN
+          You know I'd be happy to drive you the
+          rest of the way to Mount Zion.
+
+     Alvin starts shaking his head.
+
+                    DANNY RIORDAN (cont'd)
+          It'd be a nice Sunday drive for me and
+          Darla. We enjoy crossing the river.
+          Especially with the trees in color.
+
+                    ALVIN
+          I appreciate the offer friend. I'd like to
+          finish this my own way.
+
+                    DANNY RIORDAN
+          Even if you fix your mower there are
+          hills bigger than Clermont's between
+          here and Zion. There's no guarantee
+          that your machine won't break down
+          again. In fact I'll guarantee it will.
+          Alvin, this machine was meant to go
+          across a lawn, not the state of Iowa.
+
+                    ALVIN
+          You're a kind man talkin' to a stubborn
+          man. This is a trip I'd like to finish.
+
+     Danny resigns to Alvin's decision. Lights up a
+     cigarette.
+
+                    DANNY RIORDAN
+          Well then let me give you a loan for the
+          repairs.
+
+                    ALVIN
+          Well that is generous. And if I needed
+          that help I'd take it. But I phoned to
+          have money sent to me. I gave my
+          daughter your address. I hope that's
+          O.K.
+
+     Danny knows better than to argue with the proud
+     man about money.
+
+                    DANNY RIORDAN
+          Well then Alvin you'll stay right here in
+          our yard until you're ready to go. We
+          enjoy your company.
+
+                    ALVIN
+          I'm thankful for that.
+
+     Danny is satisfied with this arrangement and sits
+     back to enjoy the fine afternoon. They both sit and
+     smoke contentedly listening to the honking of a
+     passing flock of Canadian geese.
+
+                         FADE OUT.
+
+                         FADE IN:
+
+150     INT.--DAY  THE RIORDAN'S YARD ALVIN'S TRAILER
+
+     Alvin is sitting in his trailer with the door open.
+     Suddenly Darla and Janet pop their heads into either
+     side of the door opening and quickly pull back.
+
+                    DARLA RIORDAN (v.o.)
+          Oh excuse us Alvin. We were just
+          looking for you.
+
+                    ALVIN
+               (smiling)
+          Well you found me. It's alright ladies,
+          I'm decent.
+
+     The two heads pop back into either side of the
+     frame of the door.
+
+                    DARLA RIORDAN
+          Well we had some brownies we thought
+          you might enjoy.
+
+     Janet extends a plate of brownies.
+
+                    DARLA RIORDAN (cont'd)
+          Janet makes the best brownies in
+          Fayette county. She wins a prize for
+          them every year at the county fair.
+
+     Janet is very embarrassed by this.
+
+                    JANET
+          My mother's recipe.
+
+                    DARLA RIORDAN
+          She won't tell anyone what the secret
+          ingredient is.
+
+     Janet shakes her head. No way.
+
+151     INT.--DAY  ALVIN'S TRAILER
+
+     Alvin graciously accepts the plate.
+
+                    ALVIN
+          Thank you Janet. Very much. I'll let
+          'em cool down a little...can't eat hot
+          food. But I sure have a sweet tooth. I
+          love brownies. Haven't had any since I
+          went on the road. My daughter Rose
+          makes a pretty good brownie.
+
+152     EXT.--DAY  ALVIN'S TRAILER
+
+                    JANET
+          Does she live in Laurens?
+
+                    ALVIN
+          Yes. She lives with me. Just the two of
+          us.
+
+                    JANET
+          Oh.
+
+     Everyone is quiet for a bit. Alvin is holding the plate
+     and the two women's heads are just hanging there.
+     Darla shakes herself.
+
+                    DARLA RIORDAN
+          Well we'll be moving along. We just
+          wanted to make sure you're doing O.K.
+          Anything you need?
+
+                    ALVIN
+          No, thank you kindly.
+
+                    DARLA RIORDAN
+          Well don't you be afraid to ask now.
+
+153     INT.--DAY  ALVIN'S TRAILER
+
+                    ALVIN
+          I'm doing just fine. Thanks again.
+
+154     EXT.--DAY  ALVIN'S TRAILER
+
+     The ladies disappear from view. Alvin moves out of
+     the trailer and perches in the open door. Just then a
+     pickup truck pulls into the yard and Verlyn emerges
+     from the cab. As he approaches Alvin, both men
+     watch the women walk into the rear of the Riordan
+     house. Verlyn reaches the trailer with a smile on his
+     face.
+
+                    VERLYN
+          Janet give you a plate of her brownies?
+
+     Alvin chuckles at this and reaches behind him into
+     the trailer. He pulls out the plate of brownies. He
+     holds it out to Verlyn.
+
+                    VERLYN (cont'd)
+          Well how about that timing. Janet
+          makes...
+
+     Alvin joins in and they say in unison:
+
+                    VERLYN & ALVIN
+          ...the best brownies in Fayette county.
+
+                    VERLYN (cont'd)
+          She wins a prize every year at the
+          county fair.
+
+     He reaches and takes a brownie off the plate.
+
+                    ALVIN
+          Her mother's recipe.
+
+                    VERLYN
+               (munching)
+          Chocolate chips.
+
+                    ALVIN
+          Huh?
+
+                    VERLYN
+          The secret ingredient...no one's
+          supposed to know.....chocolate chips.
+
+     Alvin takes a brownie too and the two men enjoy
+     the delicious experience together. There is a brief,
+     comfortable silence between them.
+
+                    ALVIN
+          You've had enough rain this summer,
+          have ya?
+
+                    VERLYN
+          Put up third crop hay last week.
+
+                    ALVIN
+          Dairy farm?
+
+                    VERLYN
+          Beef. I got too old for milking and
+          both my sons moved to Dubuque.
+
+                    ALVIN
+          I worked cattle in Montana. Back when
+          it was all by horse. Before the war.
+
+                    VERLYN
+          Army?
+
+                    ALVIN
+               (looks off)
+          Infantry. Third Corps.
+
+                    VERLYN
+          Under Bradley. I was Second Corps.
+
+     Another silence. Alvin offers Verlyn a Swisher Sweet.
+     Verlyn accepts.
+
+                    VERLYN (cont'd)
+          I been out on errands and I'm headin'
+          for a beer. I thought you might like to
+          join me.
+
+     Alvin ponders the offer briefly.
+
+                    ALVIN
+          I don't drink no more but I'm always
+          up for a change of scenery. Thanks.
+
+     The two older men, both with troubled hips, head
+     for Verlyn's truck.
+
+                         CUT TO:
+
+155     I/E.--DAY  VERLYN'S TRUCK CLERMONT
+
+     Alvin enjoying the ride. Alvin leans out the window
+     to look at the road flying by.
+
+                         CUT TO:
+
+156     EXT.--DAY  ALVIN'S POV.
+
+     The road is flying by.
+
+                         CUT TO:
+
+157     I/E.--DAY  VERLYN'S TRUCK
+
+                    ALVIN
+          Sittin' a little higher and goin' a little
+          faster.
+
+                    VERLYN
+          Wait'll I get 'er over thirty.
+
+     They both chuckle.
+
+                         CUT TO:
+
+158     INT.--DAY  CLERMONT BAR
+
+     Alvin and Verlyn at the bar. The Weather Channel is
+     on the television over the bar. There are some local
+     farmers in the place. There is a cribbage board at a
+     table. Old timers are slapping cards on the table.
+     Verlyn is drinking beer. Alvin is having a glass of
+     milk.
+
+                    VERLYN
+          I can still have my beer but I can't
+          drink the brown stuff anymore.
+
+     Alvin nods with understanding at this comment.
+
+                    ALVIN
+          I picked up a mournful taste for liquor
+          in France.
+               (shaking his head)
+          When I came back I couldn't drink
+          enough of it. I wasn't worth a stick of
+          stove wood. Mean. A preacher helped
+          put some distance between me and the
+          bottle. He helped me see that I was
+          drinkin' because some of the sights I
+          was still seein' from over there.
+
+     Verlyn nods. Takes a sip of beer. Looks straight
+     ahead at the back bar.
+
+                    VERLYN
+          Lot of men came back drinking hard.
+          My brother Dewey did that. Spent
+          most of his adult life drinking from
+          noon on. He was an awful sweet drunk
+          though.
+
+     Alvin takes this in. Nods quietly.
+
+                    ALVIN
+          Everyone trying to forget. I can see it
+          still in a man right away.
+
+     Verlyn looks quickly at Alvin.
+
+                    VERLYN
+          Yup.
+
+                    ALVIN
+          It was one hard day after another hard
+          day all strung together.
+
+                    VERLYN
+          Yeah.
+
+     The bartender comes over. Verlyn orders another.
+     The bartender looks to Alvin who is nursing his
+     glass of milk.
+
+                    ALVIN
+          No, I'm good thanks.
+
+     The bartender moves down the bar. Alvin and
+     Verlyn sit in silence. Verlyn is peeling the label off
+     of his long neck bottle. He is really concentrating on
+     this process.
+
+                    VERLYN
+          There was this one time...We were just
+          ...waiting on our first warm meal in ten
+          days.
+
+      Verlyn looks up quickly at Alvin in the mirror on
+     the back bar to see how he's reacting. Alvin just
+     looks into his milk glass but doesn't stop him.
+
+                    VERLYN (cont'd)
+          ...We thought we'd seen the worst.
+          They hadn't given us much trouble
+          from the air.
+
+     Verlyn takes another drink of beer. He stops working
+     on the label. He looks straight ahead at the back bar.
+
+                    VERLYN (cont'd)
+          I was on a rise with the quartermaster
+          working on more coffee for me and my
+          buddies. A stray Focke-Wolf comes
+          over the treetops and drops an incendiary
+          right on the mess tent...all my
+          buddies...
+
+          The Kraut banks right in front of me
+          on that hill and......I can (he pauses and
+          the memory becomes the present) see
+          the Iron Cross...(suddenly unable to
+          speak...he tries in a choked
+          voice)....right in front of me (composes
+          himself, shaking his head)....
+
+     There is silence. Alvin gives Verlyn time to set
+     himself.
+
+                    VERLYN (cont'd)
+          Then I look...I couldn't tell which of
+          my buddies it was burnin' up down
+          there.
+
+     Verlyn can barely finish his story. Alvin is very still
+     and quiet. Verlyn has collected himself and looks
+     quietly to the mirror of the back bar.
+
+                    VERLYN (cont'd)
+          "...Swept with confused alarms of
+          struggle and flight,
+
+          Where ignorant armies clash by night."
+
+     Verlyn looks down, slightly embarrassed at his
+     speech. Alvin thinks about what he's heard. He starts
+     with his own story.
+
+                    ALVIN
+          There is a thing I can't let loose..... All
+          my buddies faces are still young...
+
+          The spirit of the thing is that the more
+          years I have... the more they lost.
+          And... it's not always a buddy's face I'm
+          seein'. Sometimes it's a German face. By
+          the end we were shooting moon-faced
+          boys....
+
+     Alvin takes a sip of milk and draws a deep breath.
+
+                    ALVIN (cont'd)
+          I was a sniper. The way I grew up...you
+          learn how to shoot huntin' for food.
+
+     Alvin stops. He's not sure if he's going to continue.
+
+                    ALVIN (cont'd)
+          They'd post me up front, damn near
+          ahead of the line. I'd sit still
+          forever.
+
+          Amazin' thing what you can see just sittin'.
+          I'd look for the officers...or their
+          radio guy or artillery spotter...
+          Sometimes I'd sight a gun nest by the
+          smoke and fire into that. Sometimes it
+          was just movement in the woods.
+
+     Alvin pauses.
+
+                    ALVIN (cont'd)
+          We had a scout. Small guy. Name of
+          Kotz. He was a Polish fella from
+          Milwaukee. He would always take
+          recon and he was good. We went by his
+          word and he saved our skins more'n
+          once. A short fella.
+
+     Alvin sets both hands palm down on the bar. He
+     looks hard at his hands.
+
+                    ALVIN (cont'd)
+          We had broken out of the
+          hedgerows...made a run across the open
+          when we come upon a woods an' started
+          drawin' fire. I took my usual spot. I
+          saw some movement real slow like. I
+          waited for ten minutes and it moved
+          again. I fired. The movement stopped.
+          We found Kotz the next day. Head
+          shot. He had been movin' back toward
+          our lines. Everyone in the unit thought
+          he was taken by a German
+          sniper...everyone all these years.
+          Everyone but me.
+
+     Alvin and Verlyn sit real quiet for a while. Verlyn
+     shifts on his stool...shakes his head.
+
+                         FADE OUT.
+
+                         FADE IN:
+
+159     EXT.--NIGHT  RIORDAN'S HOUSE
+
+     Alvin is sitting in his chaise lounge having a smoke.
+     It is night time and he is sitting without a fire in the
+     dark.
+
+                         CUT TO:
+
+160     EXT.--NIGHT  ALVIN'S POV OF THE SKY
+
+     A crisp, star-filled sky.
+
+                         CUT TO:
+
+161     EXT.--NIGHT  RIORDAN'S HOUSE
+
+     Alvin looking up at the stars...pain in his face.
+
+                         FADE OUT.
+
+                         FADE IN:
+
+162     EXT.--DAY  DANNY RIORDAN'S BACKYARD
+
+     Danny and the two Olsen brothers are fixing the
+     mower. Alvin looks on.
+
+                    HARALD
+          You can work all day and you won't get
+          that piece off with that wrench.
+
+                    THORVALD
+               (from beneath the mower)
+          Danny, did you hear me ask
+          Wisenheimer there for his advice on
+          how to fix a riding mower?
+
+                    HARALD
+          Fine. Then we'll all just stand here and
+          wait for Mr. Wizard to finish...Anyone
+          got a deck a cards?
+
+                    THORVALD
+               (still beneath)
+          Very funny Harald. If it was you
+          underneath here we could all go home
+          and wait for winter. Then we could just
+          put the snowplow on this rig.
+
+                    DANNY RIORDAN
+          Jeez you two can bitch. I heard you
+          about killed each other last week over
+          horseshoes at the Dew Drop.
+
+     Harald gets a mad look on his face.
+
+                    THORVALD
+               (up from beneath)
+          See Harald...brainiac...I got the mower
+          assembly free with this little old wrench
+          here you said wouldn't work...Well I'd
+          say it worked pretty good, wouldn't
+          you? Help me slide'er out here and we
+          can settle up.
+
+     They slide out the mower assembly. Thorvald steps
+     back, wiping the oil off his hands. Harald is pulling
+     out the bill. He reads off of it.
+
+                    HARALD
+          I got the labor and parts coming to
+          $247.80.
+
+     He hands the bill to Alvin. Alvin scans it. He looks
+     up at them.
+
+                    ALVIN
+          That's a little heavy for light work.
+
+     The Olsen brothers are a little taken aback by this.
+     Alvin moves over to the mower and starts a slow circle
+     around it.
+
+                    ALVIN (cont'd)
+          Now I got old man's eyes...
+
+     He reaches down and runs his hand along the treads
+     of the tires.
+
+                    ALVIN (cont'd)
+          ...but I was noticin' these new tires......
+
+     Danny is starting to enjoy himself. He crosses his
+     arms and smiles at the Olsens.
+
+                    HARALD
+          Well, now we did take them off of a
+          resell, but the treads are good.
+
+     Alvin, still caressing the treads gives him a long look
+     from under the brim of his Stetson.
+
+                    ALVIN
+          Friend, are you chargin' me good or are
+          you chargin' me new?
+
+                    HARALD
+          Uh, (turns to his brother) Thorvald?
+
+                    THORVALD
+          Well I guess we can make an adjustment
+          there.
+
+     Danny pulls up a lawn chair and lights a cigarette.
+     Hunkers down for the entertainment.
+
+                    ALVIN
+          I figure that adjustment to be about
+          $30.00? Is that what your pencil's
+          sayin'?
+
+                    DANNY RIORDAN
+          Sounds right to me.
+
+     The twins give Danny a dirty look.
+
+                    ALVIN
+          Now about that labor. I'm agreeable
+          that you boys have put some real time
+          in on this job. But a man's gotta ask
+          when he workin with twins, especially a
+          bickerin' pair, how much workin' was
+          fightin'.
+
+                    DANNY RIORDAN
+          You got that right.
+
+                    THORVALD AND HARALD
+               (in unison)
+          Shut up Danny.
+
+                    ALVIN
+          If I were to judge from the joyous affair
+          I've seen today I would calculate a 20%
+          discount on the labor charge.
+
+     Thorvald and Harald exchange a look
+
+                    THORVALD
+          Anything else mister.
+
+                    ALVIN
+          Now I'm not from these parts exactly
+          but where I come from this is a mighty
+          rich charge on a can of Iowa oil.
+
+     Thorvald and Harald can not believe this old fart.
+
+                    THORVALD
+          Take the oil. No charge.
+
+                    ALVIN
+          Well that's a splendid offer that I very
+          much appreciate. Now what's your tally?
+
+     Danny turns grinning to the twins. They are slightly
+     befuddled.
+
+                    HARALD
+          Uh...uh.
+
+     Looking at Thorvald who shrugs.
+
+                    HARALD (cont'd)
+          ...uh...$180.00 even?
+
+                    ALVIN
+          Done.
+
+     Sticks out his hand which each of the twins takes
+     in confusion. Alvin brings out the money, and pays
+     the twins. They see that he has 4 c-notes in his
+     wallet.
+
+                    ALVIN (cont'd)
+          Now it's thanks to you boys that I can
+          get back on the road.
+
+     Alvin stuffs the change in his wallet and puts the
+     wallet back in his pocket.
+
+                    ALVIN (cont'd)
+          I drove this rig across Iowa. I'm hopin'
+          it'll hold into Wisconsin...
+
+     Alvin looks up at them.
+
+                    ALVIN (cont'd)
+          ...that's where my brother lives. Haven't
+          seen him in ten years.
+
+     Alvin looks at the Olsen brothers. They squirm
+     under his gaze.
+
+                    ALVIN (cont'd)
+          No man knows your life better than a
+          brother near your age. He can know
+          who, and what you are best than most
+          anyone on the earth.
+
+     He stops for a moment. Looks hard at the Olsens.
+
+                    ALVIN (cont'd)
+          My brother and I said some unforgivable
+          things last time we were together. I
+          want to put those times behind us.
+          This trip is just one hard swallow of
+          pride. I'm only hopin' I'm not too late.
+
+     They make to gather their tools and leave.
+
+                    ALVIN (cont'd)
+          A brother's a brother.
+
+     Danny smiles at this. The Olsens move to get out of
+     there as fast as they can.
+
+                         CUT TO:
+
+163     EXT.--NIGHT  DANNY RIORDAN'S BACK YARD.
+
+     Alvin is cooking up a large jug of water for coffee.
+     Danny is sitting in the chair watching Alvin and
+     smoking a cigarette. He has come to enjoy his time
+     out in the backyard with Alvin.
+
+                    DANNY RIORDAN
+          I've gotta tell you Alvin that I'm
+          worried about you. About you...about your
+          trip on that mower.
+
+                    ALVIN
+          Not to worry. Me and my machine are
+          in splendid form after our stay here.
+
+                    DANNY RIORDAN
+          You're sure are you Alvin?
+
+      Alvin just nods. A somewhat awkward silence settles
+     on the scene.
+
+                    DANNY RIORDAN (cont'd)
+          Well.
+
+     Little more silence. Danny puts out his cigarette.
+
+                    DANNY RIORDAN (cont'd)
+          I guess I'll be turning in. See you in the
+          morning then before you go.
+
+                    ALVIN
+          I'll be traveling plenty early.
+
+     Alvin takes off his hat and stands directly in front of
+     Danny.
+
+                    ALVIN (cont'd)
+          I want to thank you for your kindness
+          to a stranger.
+
+     Danny stands up from his chair and puts out his
+     hand.
+
+                    DANNY RIORDAN
+          It has been a genuine pleasure having
+          you here Alvin. Write to us sometime.
+
+     Alvin takes his hand in a firm shake.
+
+                         CUT TO:
+
+164     EXT.--EARLY MORNING  DANNY RIORDAN'S BACKYARD
+
+     Tight on door of trailer closing. Alvin comes
+     around and gets on the mower and starts her up.
+
+                         CUT TO:
+
+165     EXT.--SUNRISE  DANNY RIORDAN'S HOUSE
+
+     Danny is standing at a window unseen by Alvin. He
+     has been watching Alvin's preparations from inside
+     the house, sensing Alvin's reluctance for goodbyes.
+     Alvin pulls out onto the road.
+
+                         CUT TO:
+
+166     EXT.--SUNRISE  RIORDAN'S FRONT PORCH
+
+     Danny steps out onto the porch, holding a coffee
+     mug. He watches Alvin in the distance heading
+     down the main drag of Clermont.
+
+                         CUT TO:
+
+167     EXT.--SUNRISE  MAIN DRAG CLERMONT
+
+     Traveling shot of Alvin going through a sleeping
+     Clermont. The only vehicle on the road is another
+     John Deere tractor. Alvin and the farmer exchange
+     the farmer wave.
+
+                         CUT TO:
+
+168     EXT.--DAY  A HILL JUST WEST OF THE MISSISSIPPI
+
+     Shot of empty road, top of the hill. The trees on
+     either side of the road are in full fall color. Alvin
+     and the mower rise into view. Then he stops and
+     eyes the steep downhill grade. He sets his hat and
+     starts down.
+
+                         CUT TO:
+
+169     EXT.--DAY  ANOTHER HILL JUST WEST OF THE MISSISSIPPI
+
+     Alvin again crests a hill. This one a bit bigger. Again
+     he takes a deep breath. He lashes down the gear shift
+     and heads down the hill.
+
+                         CUT TO:
+
+170     EXT.--DAY  THE LAST HILL LEADING DOWN TO THE MISSISSIPPI
+
+      Alvin pulls up to the top of a big hill and comes to a
+     stop.
+
+                         CUT TO:
+
+171      EXT.--DAY  HILL TOP ABOVE THE MISSISSIPPI
+
+     Close up of Alvin looking and taking off his hat.
+
+                         CUT TO:
+
+172     EXT.--DAY  SAME HILL TOP  ALVIN'S POV.
+
+      The beautiful, broad Mississippi stretches out before
+     him. The hills are in full autumn foliage. There is
+     river as far as the eye can see. It is dotted with boats
+     and barges. Directly across from Alvin, the
+     Wisconsin River flows into the Mississippi... the sun
+     glints off their surface where they join. Alvin secures
+     his hat and gets back out on the road.
+
+                         CUT TO:
+
+173     EXT.--DAY  TOP OF LAST HILL WEST OF MISSISSIPPI
+
+     OMIT
+
+174     EXT.--DAY  SAME HILL
+
+     OMIT
+
+175     EXT.--DAY  MACGREGOR IOWA
+
+     OMIT
+
+176     EXT.--DAY  HIGHWAY LEADING TO THE BRIDGE.
+
+     As he approaches the bridge over the river, Alvin has
+     to pull more off the shoulder and into the slow lane
+     of traffic. He begins his crossing.
+
+                         CUT TO:
+
+177     EXT.--DAY  HIGH ANGLE SHOT OF ALVIN ON BRIDGE
+
+      Alvin is tooling along in the slow lane. The landscape
+     around the bridge is breathtaking. Cars and
+     trucks pass him. A car tailgates him. Traffic behind
+     him begins to build.
+
+178     EXT.--DAY  MISSISSIPPI BRIDGE
+
+     Alvin riding on his mower, enjoying the view at his
+     nice, slow pace. The mower's pace allows him to
+     enjoy the scene. People in cars and trucks pass and
+     gawk in disbelief. A few are irritated. Some kids take
+     his picture. One child motions for him to blow his
+     air horn.
+
+179     EXT.--DAY  HIGH ANGLE SHOT OF ALVIN ON BRIDGE
+
+     Alvin at mid-point of the span. The number of cars
+     backed up behind him has increased. The flow of
+     cars in adjacent lane become affected by the gawkers.
+     Alvin has no idea that he is now a one man traffic
+     jam.
+
+180     EXT.--DAY  MISSISSIPPI
+
+     Alvin on his mower. He is oblivious to the traffic
+     behind him. He is really enjoying the view of the
+     Mississippi.
+
+181     EXT.--DAY  HIGH ANGLE OF ALVIN ON BRIDGE
+
+     Now there is a serious back up behind Alvin. He is
+     3/4 of the way across the bridge and cars are backed
+     up 1/2 way back.
+
+182     EXT.--DAY  ALVIN'S POV
+
+     Alvin scans the river but as his view moves past the
+     "WELCOME TO WISCONSIN" sign...
+
+183     EXT.--DAY  ALVIN'S FACE TIGHT
+
+     ...his expression changes from blissful tourist to
+     concerned motorist.
+
+184     EXT.--DAY  ALVIN POV
+
+     Next to the welcome sign Alvin's sees a Prairie du
+     Chien police officer leaning against his squad, lights
+     revolving.
+
+185     EXT.--DAY  PRAIRIE DU CHIEN, WISCONSIN
+
+     As Alvin approaches, the officer waves him to the side
+     of the road. Alvin slows to a stop along the shoulder.
+     The police officer begins to direct the cars past
+     around Alvin, moving the gawkers along. He begins
+     to converse with Alvin over his shoulder as he waves.
+
+                    PRAIRIE DU CHIEN COP
+          Sir, are you aware of the congestion you
+          caused on the bridge just now?
+
+                    ALVIN
+          I wasn't.
+
+                    PRAIRIE DU CHIEN COP
+          I am assuming sir that you have the
+          appropriate registration to operate a
+          Slow Moving Vehicle. Am I correct?
+
+                    ALVIN
+          Yes sir.
+
+                    PRAIRIE DU CHIEN COP
+          And where are you headed today?
+
+                    ALVIN
+          Mt. Zion.
+
+     At this the police officer stops directing traffic and
+     walks over to Alvin with an incredulous look on his
+     face.
+
+                    PRAIRIE DU CHIEN COP
+          You are going to drive that to Mt.
+          Zion? The Mt. Zion by Boscobel?
+
+                    ALVIN
+          Boscobel?
+
+                    PRAIRIE DU CHIEN COP
+          The Mt. Zion by Blue River?
+          That Mt. Zion?
+
+                    ALVIN
+          That Mt. Zion ...yes.
+
+                    PRAIRIE DU CHIEN COP
+          May I see some identification please?
+
+     Alvin extracts his wallet and chain and hands over
+     an ID.
+
+                    PRAIRIE DU CHIEN COP (cont'd)
+          It says here you're from Laurens. That
+          is...?
+
+                    ALVIN
+          A bit west of the Grotto.
+
+                    PRAIRIE DU CHIEN COP
+          And you've made it to Wisconsin with
+          this setup?
+
+                    ALVIN
+          I have.
+
+     The cop stands back and takes in the whole rig:
+     lawnmower, plywood trailer, antlers.
+
+                    PRAIRIE DU CHIEN COP
+               (amazed)
+          It says here Mr. Straight that you are 73
+          years old. How long have you been on
+          the road from Laurens?
+
+                    ALVIN
+          Goin' on six weeks.
+
+                    PRAIRIE DU CHIEN COP
+          And what's your business in Mt. Zion?
+
+                    ALVIN
+          My brother is sick.
+
+     The cop considers this for a moment.
+
+                    PRAIRIE DU CHIEN COP
+          Well Mr. Straight, we've got a problem
+          here. All of this traffic that you've
+          managed to stop runs right on through
+          downtown Prairie du Chien. I'd like
+          you to take the side streets.
+
+                    ALVIN
+          Well I'd like to accommodate you
+          but...I'm afraid I'm not familiar with
+          the streets in this town.
+
+                    PRAIRIE DU CHIEN COP
+          You stay right here Mr. Straight. Don't
+          move.
+
+     Alvin nods. The officer walks back to his squad and
+     begins talking in the radio. Alvin sits and watches
+     the river and the traffic. A car goes by and a dog
+     barks at him from a window. Little children stare at
+     him as they pass. The officer returns. He notices
+     again the deer antlers mounted on the trailer.
+
+                    PRAIRIE DU CHIEN COP (cont'd)
+          Do you have a hunting license?
+
+     Alvin turns and sees he's looking at the antlers.
+
+                    ALVIN
+          That was a road kill.
+
+     Another Prairie du Chien squad car pulls up lights
+     flashing.
+
+                    PRAIRIE DU CHIEN COP
+          Mr. Straight, I'd like you to follow me.
+
+                    ALVIN
+          Are you arresting me?
+
+                    PRAIRIE DU CHIEN COP
+          No sir....we're escorting you.
+
+     The two squads bracket Alvin and move out into
+     traffic. The caravan drives through the side streets of
+     town. The squad cars have their red lights flashing.
+     A state patrol car joins the procession. Locals look
+     on in confusion and amusement. They wave and
+     Alvin, a regular parade marshall, waves back.
+
+                         CUT TO:
+
+186     EXT.--DAY  EASTERN EDGE OF PRAIRIE DU CHIEN
+
+     The lead police car stops. The other cars wave and
+     peel away. The officer from the bridge walks over to
+     Alvin on the mower.
+
+                    PRAIRIE DU CHIEN COP
+          You take this up as far as 61, head
+          north and it'll take you straight into
+          Mt. Zion. Have a safe journey, Mr.
+          Straight.
+
+                    ALVIN
+          Thank you for the grand parade.
+
+                    PRAIRIE DU CHIEN COP
+          Our privilege sir.
+
+     He turns to walk away, then looks back.
+
+                    PRAIRIE DU CHIEN COP (cont'd)
+          Must've been one slow buck.
+
+     Alvin sits grinning on his rig, his head framed by the
+     buck's antlers.
+
+                         CUT TO:
+
+187a     EXT.--SUNSET
+
+      Alvin traveling along the Wisconsin country road.
+
+187b     EXT.--SUNSET
+
+      Alvin pulls off the road to set up camp alongside a
+     small country church and cemetery.
+
+187     EXT.--NIGHT  ALVIN'S CAMPSITE
+
+      Alvin sits in his chaise by the campfire. A train whistle
+     sounds in the distance. Alvin looks up, and looks
+     into the sky.
+
+188     EXT.--NIGHT  ALVIN'S POV
+
+     Stars in the cool autumn sky with a crescent moon.
+     The train whistle blows again.
+
+189     EXT.--NIGHT
+
+      Alvin looks off in the direction of the sound. His
+     trip is nearing an end. He looks around at his
+     surroundings.
+
+190     EXT.--NIGHT  ALVIN'S POV
+
+     He is camped alongside a small country church and
+     cemetery. A simple iron archway guards the cemetery.
+     The back door of the church opens and a swath
+     of light cuts into the cemetery. A PRIEST in layman's
+     clothes comes out carrying a plate and
+     approaches Alvin.
+
+                    PRIEST
+          I noticed your campfire. I brought you
+          some dinner...meat loaf and potatoes.
+
+     He holds the plate out to Alvin. Alvin hesitates and
+     then reaches out and takes the plate.
+
+                    ALVIN
+          I thank you kindly. Hope you don't
+          mind my trespassin'.
+
+                    PRIEST
+          Not at all. You've made a fine choice.
+          You're camped next to one of the oldest
+          cemeteries in the midwest. French
+          Catholic trappers.
+
+                    ALVIN
+          Marquette's party?
+
+                    PRIEST
+               (nodding)
+          Two of his men.
+
+     Alvin reflects on this. He motions for the priest to
+     sit down by the fire. The priest does so.
+
+                    PRIEST (cont'd)
+               (hesitantly)
+          I couldn't help but notice your rather
+          unusual mode of transport.
+
+                    ALVIN
+               (shakes his head
+               and smiles)
+          Well you wouldn't be the first person to
+          say so Padre.
+
+     The priest doesn't say anything...he waits on Alvin.
+     Finally...
+
+                    ALVIN (cont'd)
+               (he's ready to stop
+               explaining himself
+               to people)
+          I can't see good enough to drive a car, I
+          don't like someone else drivin' my bus
+          and I got to get to my brother's place.
+
+                    PRIEST
+          Fair enough. How far have you traveled?
+
+                    ALVIN
+          Well now this vehicle doesn't sport an
+          odometer so I couldn't exactly say...but
+          I been on the road since September
+           5th.
+
+                    PRIEST
+          But we're October 15th. Where in
+          heaven's name did you start out?
+
+                    ALVIN
+          Back in north central Iowa. Laurens,
+          Iowa.
+
+                    PRIEST
+          That must be over 300 miles from
+          here!
+
+                    ALVIN
+          I reckon that's not a bad guess.
+
+     The priest gets up and walks over to Alvin's mower
+     and trailer. He walks around it real slow...one full
+     circle.  He comes back and sits down by the fire. He
+     looks at Alvin for a bit.
+
+                    PRIEST
+          Well I would guess that you are on a
+          mission.
+
+     This sets Alvin to thinking. He nods to himself.
+
+                    ALVIN
+          You know I wouldna ever thought of it
+          that way but I guess you could say
+          that's exactly what I'm doin'.
+
+                    PRIEST
+          You say you've got to see your brother.
+          Where is he?
+
+                    ALVIN
+          So close I can practically feel him...
+          Mt. Zion.
+
+                    PRIEST
+          What's his name?
+
+                    ALVIN
+          Lyle Straight.
+
+                    PRIEST
+          That the fellow had a stroke some weeks
+          ago?
+
+                    ALVIN
+          That's right. You know him?
+
+                    PRIEST
+          Well I do some work over at the hospital
+          in Boscobel and I remember him
+          coming in. He caught my attention
+          because he lives in my parish.
+
+                    ALVIN
+          He's Baptist.
+
+                    PRIEST
+          I believe he told me that. He told me a
+          few things as a matter of fact. Didn't
+          mention having a brother though.
+
+     Alvin looks up to the sky.
+
+                    ALVIN
+          Don't think we've either of us had a
+          brother for some time now. I'm hopin'
+          to fix that...
+
+     Alvin pauses for a moment.
+
+                    ALVIN (cont'd)
+          So you saw him? ...He's O.K. then?
+
+                    PRIEST
+          I only saw him that once...never heard
+          anything more.
+
+     There is a pause in the talk. Alvin takes in the scene.
+
+                         CUT TO:
+
+191     EXT.--NIGHT SKY
+
+     Alvin's POV of the crescent moon, the stars and
+     down to the church and the cemetery. The priest
+     waits for him to go on. Night sounds, train whistles.
+
+                    ALVIN
+          Lyle and I grew up close as brothers
+          could be. We were raised on a farm up
+          in Moorhead, Minnesota. Worked so
+          hard...my ma and pa pretty much
+          killed themselves trying to make that
+          farm work.
+
+     Alvin shakes his head at the sorrow of this memory.
+     He takes out a cigar and lights it. The priest patiently
+     waits on him to continue.
+
+                    ALVIN (cont'd)
+          Me and Lyle...we made games out of
+          our chores. A day's work'd go quicker
+          when it was just the two of us. We'd
+          make up different races and wagers just
+          to get our mind off the cold...Christ it
+          was cold....
+
+     He looks quickly to the priest.
+
+                    ALVIN (cont'd)
+          'Scuse me Padre.
+
+     The priest nods tolerantly. He waits for Alvin to
+     continue.
+
+                    ALVIN (cont'd)
+          He and I used to sleep out in the yard
+          every summer night it wasn't pouring.
+          After nine months of winter we couldn't
+          get enough of summer. We'd bunk
+          down as soon as the sun went down
+          and lie there talkin' ourselves to sleep.
+          Talk about the stars...and other planets,
+          whether there might be other people
+          like us out there, 'bout all the places we
+          wanted to go...made our trials seem
+          smaller. We pretty much talked each
+          other through growin' up.
+
+     Alvin looks up to the sky.
+
+                         CUT TO:
+
+192     EXT.--NIGHT  ALVIN'S POV OF THE NIGHT
+
+                    ALVIN (cont'd)
+               (voice over)
+          Funny but lookin' up at these stars
+          tonight and feelin' him so close...makes
+          me feel I'm right back there again. All
+          those years ago.
+
+     They are both quiet for a bit...we stay on the night
+     sky.
+
+                    PRIEST
+               (voice over)
+          What happened between you two?
+
+                         CUT TO:
+
+193     EXT.--NIGHT  CAMPSITE
+
+     Alvin looks back down to the fire.
+
+                    ALVIN
+          Well that's a story old as the
+          bible...Cain and Abel. Anger...vanity
+          ...mix those things up with liquor and
+          you get two brothers not talkin' for ten
+          years....
+
+     Alvin shakes his head.
+
+                    ALVIN (cont'd)
+          It doesn't really matter anymore.
+
+     He's quiet for a while.
+
+                    ALVIN (cont'd)
+          I've lived on this earth for 73 years. I'm
+           a humble man in the world but my life
+          is so full that from where I sit now I'll
+          be damned if I know how I did it
+          all...growin' up on a hardscrabble
+          farm...then went to war...
+               (he shakes his head
+               at these painful
+               memories)
+          ...God help us.
+               (he pauses and
+               takes a breath)
+          I had seven children. We lived in every
+          part of this beautiful country...I loved a
+          woman for 40 years...and then she
+          died.
+
+     He has to stop for a while.
+
+     The priest is looking into the fire. He gives Alvin all
+     the time he needs.
+
+                    ALVIN (cont'd)
+               (he takes a breath)
+          I've got two daughters...one we lost
+          track of back in '74...don't even know
+          if she's alive. Got in with a mean fella.
+               (another painful pause.)
+          So...whatever it was made me and Lyle
+          so mad doesn't matter to me now...I
+          want to make peace...I want to sit with
+          him again and look up at all the stars.
+
+     The priest looks over at Alvin. Alvin looks up and
+     becomes embarrassed.
+
+                    PRIEST
+          Well sir, I say amen to that.
+
+                         CUT TO:
+
+194     EXT.--NIGHT  ALVIN'S CAMPSITE
+
+     The hilltop wide under the stars. The fire glows
+     small in the frame. The firelight's flickering
+     illumination of Alvin, the priest, the Church and the
+     cemetery.
+
+                         SLOW FADE TO BLACK.
+
+                         FADE IN:
+
+195     EXT.--DAY  WESTERN WISCONSIN
+
+     Alvin is driving through rolling Wisconsin farmland
+     dotted with dairy farms and red barns. He sees a
+     sign: "Mt. Zion. Unincorporated"
+
+                         CUT TO:
+
+196     INT.--DAY  MT. ZION BAR / GAS STATION
+
+     The bartender sits behind the bar watching the
+     Weather Channel.
+
+                         CUT TO:
+
+197     INT.--TV SCREEN
+
+      The weather person is giving the national five day
+     forecast.
+
+                    WEATHER PERSON
+          First frost of the season is expected for
+          the midwest and great lakes region...
+
+                         CUT TO:
+
+198     INT.--DAY  MT. ZION BAR
+
+      Something out the window catches the bartender's
+     eye. He glances out and his expression changes to
+     one of disbelief.
+
+                    MT. ZION BARTENDER
+          What the....
+
+     He gets up off his stool and walks over to the window
+     for a closer look.
+
+                    MT. ZION BARTENDER (cont'd)
+               ...hell?
+
+199     INT.--DAY  MT. ZION BAR/GAS STATION
+
+     Through the window we see Alvin hauling up the
+     hill approaching the bar.
+
+200     EXT.--DAY  MT. ZION BAR GAS PUMP
+
+     Alvin arrives at the top of the hill and stops at the
+     gas pumps. Alvin executes his usual laborious dismount
+     and enters the bar.
+
+                         CUT TO:
+
+201     INT.--DAY  THE MT. ZION BAR
+
+     Alvin crosses the bar and perches atop a bar stool.
+     He sets his canes against the bar rail and addresses
+     the bartender.
+
+                    ALVIN
+          I haven't had a drink in years but I
+          believe I'll have a cold beer right now.
+
+                    MT. ZION BARTENDER
+          What flavor?
+
+                    ALVIN
+          What does a Miller Lite taste like?
+
+     The bartender places a bottle in front of Alvin.
+
+                    MT. ZION BARTENDER
+          Interesting rig you got out there. Make
+          it up the hill OK?
+
+                    ALVIN
+          That one and about 200 others.
+
+                    MT. ZION BARTENDER
+          How far'd you come?
+
+                    ALVIN
+          Iowa. Headin' to Lyle Straight's place.
+
+                    MT. ZION BARTENDER
+          Iowa?...by God you must be thirsty.
+
+                    ALVIN
+          One'll do thank you. Can you point
+          me to Lyle's place? I don't quite recall
+          the way...it's been an awful long time
+          since I seen him.
+
+     Alvin starts drinking the beer in short order.
+
+                    MT. ZION BARTENDER
+          Cross 61 there on W. Take W to Weed
+          Road and then take Weed on down to
+          Remington. Remington drops down
+          onto S...that's the county trunk by
+          Frankie Schwartz's farm. On your right
+          would be Lyle's place...if he's even
+          there.  I heard he's had a bad stroke...if
+          you see him, tell him Micky O'Connor
+          tells him to get better quick.
+
+     Alvin finishes off the beer, gets up and heads out of
+     bar. MARTHA, the bartender's wife arrives after
+     Alvin's exit. She peers out the window. Then turns
+     to the bartender.
+
+                    MARTHA
+          I believe that would be a '66.
+
+                         CUT TO:
+
+202     EXT.--DAY  MT. ZION BAR
+
+     Alvin exits and does his departure ritual. Proceeds
+     down the road.
+
+203     EXT.--DAY  EXTERIOR VALLEY HWY W
+
+     Alvin drives through a beautiful valley.
+
+                         CUT TO:
+
+204     EXT.--DAY  WEED ROAD ALVIN TIGHT
+
+      Alvin knows that he is near the end of his journey.
+     Then a look crosses his face. We hear the engine
+     cough. Then with a puff of black smoke, the mower
+     dies. Alvin sits alone on the dirt road.
+
+                         DISSOLVE TO:
+
+205     EXT.--DAY  WEED ROAD LATER THAT DAY
+
+     Alvin is still sitting alone on the dirt road.
+
+                         DISSOLVE TO:
+
+206     EXT.--DAY  WEED ROAD EVEN LATER THAT SAME DAY
+
+     Alvin still sitting. We hear the off camera sound of a
+     tractor. Around the bend of the dirt road comes a
+     big John Deere farm tractor.
+
+                         CUT TO:
+
+207     EXT.--DAY  DIRT ROAD WIDE
+
+     The farmer stops and converses with Alvin. He is
+     offering to haul Alvin. Alvin tries the mower again
+     and to his surprise it starts. The farmer climbs on his
+     tractor and proceeds down the road in front of
+     Alvin. They continue like this approaching Lyle's
+     place. Alvin turns off into Lyle's yard and the tractor
+     keeps moving off. Alvin cuts his engine and the
+     sound of the tractor fades off.
+
+                         CUT TO:
+
+208     EXT.--MAGIC HOUR  LYLE'S FRONT YARD
+
+     Alvin dismounts and slowly walks toward the front
+     door of the house. He stops in the yard and calls out.
+
+                    ALVIN
+          Lyle.
+
+                         CUT TO:
+
+209     EXT.--MAGIC HOUR  LYLE'S HOUSE
+
+     Close on the screen door. A pause...then we hear
+     Lyle's voice from inside.
+
+                    LYLE
+          Is that you Alvin?
+
+      We hear a rhythmic bumping noise from inside.
+
+                         CUT TO:
+
+210     EXT.--MAGIC HOUR  LYLE'S YARD
+
+     Alvin starts moving toward the front porch. Lyle
+     comes out the front door using a walker. It makes
+     the bumping noise. As Alvin climbs the few steps he
+     and Lyle stand very close and take a good look at
+     each other...at the old men they have become.
+
+                    LYLE
+          Sit yourself down Alvin.
+
+     They move slowly to the two chairs set up on the
+     porch. They are situated about five feet apart on
+     either side of the screen door. Lyle is on the right
+     and Alvin on the left.
+
+                         CUT TO:
+
+     Lyle looking out at the lawnmower and trailer in the
+     yard.
+
+                    LYLE (cont'd)
+          Did you ride that thing all the way here
+          to see me?
+
+                         CUT TO:
+
+     Alvin nodding his head.
+
+                    ALVIN
+          I did Lyle.
+
+     We stay on Alvin's face for a while.
+
+                         CUT TO:
+
+      Close shot of Lyle. He is crying.
+
+                         CUT TO:
+
+     Alvin...tears are running down his cheeks. He turns
+     with a crying smile to Lyle.
+
+                         PAN UP TO:
+
+211     EXT.--NIGHT  SKY
+
+     A sky full of stars. Music plays.
+
+
+                    The End
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

@@ -1,0 +1,121 @@
+year	1995
+imdb score	6.7
+meta score	68
+genre	Comedy
+genre	Romance
+keyword	makeover
+keyword	school
+keyword	teacher
+keyword	matchmaker
+keyword	popularity
+keyword	fashion
+keyword	high school
+keyword	coming of age
+keyword	bong
+keyword	satire
+keyword	reference to oscar wilde
+keyword	teen angst
+keyword	reference to barbra streisand
+keyword	virgin
+keyword	teenage daughter
+keyword	reference to william shakespeare
+keyword	valley girl
+keyword	rich girl
+keyword	drawing
+keyword	title directed by female
+keyword	reference to the rat pack
+keyword	gay interest
+keyword	debate
+keyword	jeep
+keyword	generation x
+keyword	locker
+keyword	reference to claude monet
+keyword	lawyer
+keyword	walking alongside a car
+keyword	stepbrother stepsister relationship
+keyword	driving test
+keyword	wardrobe
+keyword	1990s
+keyword	beverly hills california
+keyword	teenage girl
+keyword	tennis
+keyword	los angeles california
+keyword	gay character
+keyword	shaved head
+keyword	mini skirt
+keyword	falling down stairs
+keyword	narrative
+keyword	camera shot of feet
+keyword	teen movie
+keyword	affection
+keyword	changing grade
+keyword	comedy of manners
+keyword	reference to jane austen
+keyword	one word title
+keyword	party
+keyword	cartoon on tv
+keyword	gay teenager
+keyword	report card
+keyword	teenager
+keyword	opposites attract
+keyword	modern day adaptation
+keyword	shopping mall
+keyword	teacher student relationship
+keyword	school teacher
+keyword	footsie
+keyword	playing footsie
+keyword	reference to shakespeare's hamlet
+keyword	shakespearean quote
+keyword	mugging
+keyword	social consciousness
+keyword	love poem
+keyword	dysfunctional family
+keyword	skateboarding
+keyword	ends with wedding
+keyword	stepbrother
+keyword	strauss also sprach zarathustra
+keyword	gym teacher
+keyword	nietzsche
+keyword	based on novel
+keyword	surprise ending
+keyword	
+cast	Alicia Silverstone	Cher
+cast	Stacey Dash	Dionne
+cast	Brittany Murphy	Tai
+cast	Paul Rudd	Josh
+cast	Donald Faison	Murray
+cast	Elisa Donovan	Amber
+cast	Breckin Meyer	Travis
+cast	Jeremy Sisto	Elton
+cast	Dan Hedaya	Mel Horowitz
+cast	Wallace Shawn	Mr. Wendell Hall
+cast	Twink Caplan	Miss Toby Geist
+cast	Justin Walker	Christian
+cast	Sabastian Rashidi	Paroudasm
+cast	Herb Hall	Principal
+cast	Julie Brown	Ms. Stoeger
+cast	Susan Mohun	Heather
+cast	Nicole Bilderback	Summer
+cast	Ron Orbach	DMV Tester
+cast	Sean Holland	Lawrence
+cast	Roger Kabler	College Guy
+cast	Jace Alexander	Robber
+cast	Josh Lozoff	Logan
+cast	Carl Gottlieb	Priest
+cast	Joseph D. Reitman	Student
+cast	Anthony Beninati	Bartender
+cast	Micki Duran	Dancer
+cast	Gregg Russell	Dancer
+cast	Jermaine Montell	Dancer
+cast	Danielle Eckert	Dancer
+cast	Dicky Barrett	Himself
+cast	Christopher E. Cooper	Student
+cast	Amy Heckerling	Maid of Honor
+cast	Mike Judge	Beavis / Butthead
+cast	Michael Klesic	Baggy Skater
+cast	John Kricfalusi	Ren Höek
+cast	Aida Linares	Lucy
+cast	Sam Maccarone	Baggy skater
+cast	Craig Ponder	Baggy Skater
+cast	Bobbie Sunday Starr	Passenger in Jeep
+cast	Billy West	Stimpson J. Cat

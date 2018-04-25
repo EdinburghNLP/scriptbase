@@ -1,0 +1,240 @@
+year	1999
+imdb score	8.5
+meta score	61
+genre	Crime
+genre	Drama
+genre	Fantasy
+genre	Mystery
+keyword	prison
+keyword	prison guard
+keyword	death row
+keyword	murder
+keyword	1930s
+keyword	execution
+keyword	prisoner
+keyword	knife
+keyword	guard prisoner relationship
+keyword	healing
+keyword	cookie monster
+keyword	wrongful conviction
+keyword	revolver
+keyword	urination
+keyword	mouse
+keyword	nursing home
+keyword	sneaking out
+keyword	spitting in someone's face
+keyword	saying boo
+keyword	tears
+keyword	hug
+keyword	no opening credits
+keyword	color in title
+keyword	doll
+keyword	charred body
+keyword	poetic justice
+keyword	hammer
+keyword	cornbread
+keyword	hit on the back of one's head
+keyword	death row inmate
+keyword	nightgown
+keyword	flashback
+keyword	solitary confinement
+keyword	materialization
+keyword	broken finger
+keyword	wetting pants
+keyword	racism
+keyword	bladder infection
+keyword	coward
+keyword	criminal
+keyword	forced perspective
+keyword	louisiana state penitentiary
+keyword	cigar box
+keyword	kneed in the crotch
+keyword	death penalty
+keyword	30 30 rifle
+keyword	fire hose used on a person
+keyword	urinating on someone
+keyword	frenchman
+keyword	three word title
+keyword	baton
+keyword	spit in the face
+keyword	lying on floor
+keyword	terminal illness
+keyword	coughing
+keyword	pissed in pants
+keyword	three piece suit
+keyword	toilet
+keyword	shot in the stomach
+keyword	face slap
+keyword	gay slur
+keyword	christianity
+keyword	feet on desk
+keyword	cure
+keyword	southern u.s.
+keyword	telling someone to shut up
+keyword	nostalgic
+keyword	reference to st. christopher
+keyword	catatonic state
+keyword	gagged
+keyword	grabbed by the wrist
+keyword	gun
+keyword	sadism
+keyword	male bare feet
+keyword	murder of a child
+keyword	shooting
+keyword	pail of water
+keyword	bare feet
+keyword	extrasensory perception
+keyword	racial slur
+keyword	dead mouse
+keyword	fire extinguisher
+keyword	sponge
+keyword	crotch grab
+keyword	state penitentiary
+keyword	killing a mouse
+keyword	fire hose
+keyword	staircase
+keyword	urination
+keyword	jail
+keyword	christ allegory
+keyword	urinary tract infection
+keyword	sadistic prison guard
+keyword	belching
+keyword	convict
+keyword	brain tumor
+keyword	moon pie
+keyword	barbecue
+keyword	reference to wild bill hickok
+keyword	handshake deal
+keyword	yelling for help
+keyword	throwing garbage can
+keyword	electrical storm
+keyword	calling into work saying you're sick
+keyword	pocket watch
+keyword	drugged drink
+keyword	grabbed in the crotch
+keyword	electric chair
+keyword	prison life
+keyword	supernatural power
+keyword	male tears
+keyword	reference to mae west
+keyword	film projector
+keyword	strait jacket
+keyword	christian subtext
+keyword	tragic event
+keyword	tragic hero
+keyword	capital punishment
+keyword	cell block
+keyword	weeping
+keyword	suspenders
+keyword	deliberate
+keyword	compassion
+keyword	male female hug
+keyword	overhead shot
+keyword	warden
+keyword	child rape
+keyword	prison road gang
+keyword	trial transcript
+keyword	thunder and lightning
+keyword	vest
+keyword	racial injustice
+keyword	breaking someone's fingers
+keyword	spiritual healing
+keyword	fedora
+keyword	magical negro stereotype
+keyword	comb
+keyword	corn broom
+keyword	african american
+keyword	truncheon
+keyword	shot to death
+keyword	blockbuster
+keyword	water closet
+keyword	mistake of law
+keyword	punched in the face
+keyword	social injustice
+keyword	beer
+keyword	dragging someone
+keyword	killer
+keyword	monologue
+keyword	bald man
+keyword	man slaps a man
+keyword	nickel
+keyword	mental hospital
+keyword	bleachers
+keyword	mental institution
+keyword	psychic power
+keyword	cross pendant
+keyword	double barreled shotgun
+keyword	n word
+keyword	ring
+keyword	louisiana
+keyword	padded cell
+keyword	based on the works of stephen king
+keyword	pump action shotgun
+keyword	miracle
+keyword	shaving someone's head
+keyword	urinating on one's self
+keyword	handshake
+keyword	crucifix
+keyword	spirituality
+keyword	male slaps a male
+keyword	astaire and rogers
+keyword	year 1935
+keyword	red paint
+keyword	elderly
+keyword	redemption
+keyword	grabbed by the throat
+keyword	healer
+keyword	based on novel
+keyword	title spoken by character
+keyword	surprise ending
+cast	Tom Hanks	Paul Edgecomb
+cast	David Morse	Brutus 'Brutal' Howell
+cast	Michael Clarke Duncan	John Coffey
+cast	Bonnie Hunt	Jan Edgecomb
+cast	James Cromwell	Warden Hal Moores
+cast	Michael Jeter	Eduard Delacroix
+cast	Graham Greene	Arlen Bitterbuck
+cast	Doug Hutchison	Percy Wetmore
+cast	Sam Rockwell	'Wild Bill' Wharton
+cast	Barry Pepper	Dean Stanton
+cast	Jeffrey DeMunn	Harry Terwilliger
+cast	Patricia Clarkson	Melinda Moores
+cast	Harry Dean Stanton	Toot-Toot
+cast	Dabbs Greer	Old Paul Edgecomb
+cast	Eve Brent	Elaine Connelly
+cast	William Sadler	Klaus Detterick
+cast	Mack Miles	Orderly Hector
+cast	Rai Tasco	Man in Nursing Home
+cast	Edrie Warner	Lady in Nursing Home
+cast	Paula Malcomson	Marjorie Detterick
+cast	Christopher Joel Ives	Howie Detterick
+cast	Evanne Drucker	Kathe Detterick
+cast	Bailey Drucker	Cora Detterick
+cast	Brian Libby	Sheriff McGee
+cast	Brent Briscoe	Bill Dodge
+cast	Bill McKinney	Jack Van Hay
+cast	Gary Sinise	Burt Hammersmith
+cast	Rachel Singer	Cynthia Hammersmith
+cast	Scotty Leavenworth	Hammersmith's Son
+cast	Katelyn Leavenworth	Hammersmith's Daughter
+cast	Bill Gratton	Earl the Plumber
+cast	Dee Croxton	Woman at Del's Execution
+cast	Rebecca Klingler	Wife at Del's Execution
+cast	Gary Imhoff	Husband at Del's Execution
+cast	Van Epperson	Police Officer
+cast	David E. Browning	Reverend at Funeral
+cast	Tommy Barnes	Tower Guard
+cast	Bill Craddock	Inmate
+cast	Christopher Greenwood	Prison Guard
+cast	Phil Hawn	Police Photographer
+cast	Ted Hollis	Coffee Execution Witness
+cast	Dono Langley	Posse Member
+cast	Robert Malone	Tower Guard
+cast	Gower Mills	Inmate
+cast	Garth Shaw	Inmate
+cast	Tim Smith	Member of the Posse
+cast	Toy Spears	Banker Posse Member
+cast	Dora Tate	Mourner
+cast	Samual Tate	Mourner
+cast	Todd Thompson	Prison Guard
+cast	James Marshall Wolchok	Prison Guard

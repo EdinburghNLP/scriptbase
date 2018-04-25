@@ -1,0 +1,277 @@
+year	2011
+imdb score	7.1
+meta score	57
+genre	Adventure
+genre	Comedy
+genre	Sci-Fi
+keyword	alien
+keyword	area 51
+keyword	nerd
+keyword	escape
+keyword	comic book
+keyword	british
+keyword	wyoming
+keyword	ufo
+keyword	geek
+keyword	road trip
+keyword	spacecraft
+keyword	san diego california
+keyword	christian
+keyword	government agent
+keyword	car crash
+keyword	hit with a chair
+keyword	saguaro cactus
+keyword	shot in the head
+keyword	state trooper
+keyword	shot in the arm
+keyword	marijuana joint
+keyword	sheriff
+keyword	secret agent
+keyword	creationism
+keyword	double barreled shotgun
+keyword	klingon
+keyword	disfigurement
+keyword	machine gun
+keyword	secret service agent
+keyword	singing in a car
+keyword	pistol
+keyword	mothership
+keyword	on the run
+keyword	exploding car
+keyword	desert
+keyword	boy with glasses
+keyword	reference to steven spielberg
+keyword	beer
+keyword	storm trooper
+keyword	tourist
+keyword	blind in one eye
+keyword	healing gift
+keyword	brawl
+keyword	kicked in the crotch
+keyword	convenience store
+keyword	no opening credits
+keyword	map
+keyword	samurai sword
+keyword	hide and seek
+keyword	kidnapping
+keyword	surprise during end credits
+keyword	crushed to death
+keyword	kicking in a door
+keyword	fundamentalist christian
+keyword	flashlight
+keyword	one eyed woman
+keyword	fight
+keyword	1940s
+keyword	soiling pants
+keyword	deception
+keyword	sailor
+keyword	exploding body
+keyword	face slap
+keyword	eyeglasses
+keyword	healing
+keyword	reference to bob dylan
+keyword	rifle
+keyword	tear gas
+keyword	one word title
+keyword	bullet time
+keyword	telepathy
+keyword	scene during end credits
+keyword	bar fight
+keyword	car off bridge
+keyword	pickup truck
+keyword	product placement
+keyword	briton abroad
+keyword	reference to google
+keyword	gas station
+keyword	helicopter
+keyword	camera
+keyword	character repeating someone else's dialogue
+keyword	secret service
+keyword	held at gunpoint
+keyword	man punching a woman
+keyword	gas explosion
+keyword	cigarette smoking
+keyword	bridge
+keyword	male rear nudity
+keyword	car accident
+keyword	gas mask
+keyword	montage
+keyword	sunglasses
+keyword	tracing a telephone call
+keyword	photograph
+keyword	blood splatter
+keyword	bar
+keyword	title appears in writing
+keyword	ambulance
+keyword	waitress
+keyword	passport
+keyword	farmhouse
+keyword	gay slur
+keyword	roadblock
+keyword	woods
+keyword	lens flare
+keyword	dancing
+keyword	mailbox
+keyword	pay phone
+keyword	fender bender
+keyword	supernatural power
+keyword	friendship
+keyword	holding breath
+keyword	dog
+keyword	alien contact
+keyword	fainting
+keyword	shot to death
+keyword	improvised weapon
+keyword	exploding house
+keyword	fish out of water
+keyword	dead bird
+keyword	artist
+keyword	costume
+keyword	hiding in a bathroom
+keyword	shot in the chest
+keyword	trailer park
+keyword	american midwest
+keyword	woman with glasses
+keyword	comic book shop
+keyword	father daughter relationship
+keyword	1980s
+keyword	sparkler
+keyword	subtitled scene
+keyword	devil's tower
+keyword	blood
+keyword	spaceship
+keyword	murder
+keyword	revolver
+keyword	moorcroft wyoming
+keyword	bible
+keyword	axe
+keyword	hostage
+keyword	police car
+keyword	drunkenness
+keyword	drawing
+keyword	recreational vehicle
+keyword	hotel
+keyword	hole in chest
+keyword	bar brawl
+keyword	eaten alive
+keyword	amateur radio
+keyword	disguise
+keyword	room service
+keyword	killing an animal
+keyword	campfire
+keyword	reference to rocky and bullwinkle
+keyword	cameo
+keyword	resurrection
+keyword	f word
+keyword	car chase
+keyword	barbecue
+keyword	walkie talkie
+keyword	book signing
+keyword	crash landing
+keyword	flashback
+keyword	race against time
+keyword	invisibility
+keyword	fireworks
+keyword	southern accent
+keyword	alien language
+keyword	alien space craft
+keyword	shot in the leg
+keyword	raised middle finger
+keyword	punched in the face
+keyword	female agent
+keyword	shot in the knee
+keyword	three breasted woman
+keyword	shoplifting
+keyword	convention
+keyword	pool table
+keyword	rv park
+keyword	cigarette lighter
+keyword	flipping car
+keyword	cowboy costume
+keyword	bare chested male
+keyword	younger version of character
+keyword	urination
+keyword	back from the dead
+keyword	author
+keyword	comicon
+keyword	kitchen
+keyword	mask
+keyword	fugitive
+keyword	wilhelm scream
+keyword	sword
+keyword	diner
+keyword	mountain
+keyword	pizza
+keyword	grabbing man's crotch
+keyword	knocked out
+keyword	fireball
+keyword	reference to star wars
+keyword	face mask
+keyword	hillbilly
+keyword	gas grenade
+keyword	investigation
+keyword	year 1980
+keyword	crotch grab
+keyword	chase
+keyword	epilogue
+keyword	arizona
+keyword	year 1947
+keyword	surrealism
+keyword	alien driving car
+keyword	shootout
+keyword	title spoken by character
+keyword	character name in title
+keyword	
+cast	Mia Stallard	Young Tara
+cast	Simon Pegg	Graeme Willy
+cast	Nick Frost	Clive Gollings
+cast	Jeremy Owen	Sword Vendor
+cast	Jeffrey Tambor	Adam Shadowchild
+cast	David House	Security Guard
+cast	Jennifer Granger	Adam Shadowchild Fan
+cast	Nelson Ascencio	Jorge
+cast	Jane Lynch	Pat Stevens
+cast	David Koechner	Gus
+cast	Jesse Plemons	Jake
+cast	Seth Rogen	Paul
+cast	Jason Bateman	Agent Zoil
+cast	Sigourney Weaver	The Big Guy
+cast	Bill Hader	Haggard
+cast	Joe Lo Truglio	O'Reilly
+cast	Mark Sivertsen	State Trooper
+cast	Joe Berryman	Gas Station Attendant
+cast	Kristen Wiig	Ruth Buggs
+cast	John Carroll Lynch	Moses Buggs
+cast	Steven Spielberg	Himself
+cast	Syd Masters	Band Member #1
+cast	Gary Roller	Band Member #2
+cast	Oliver O'Shea	Band Member #3
+cast	Lonnie Otha-Mayer	Band Member #4
+cast	Will Veitch	Band Member #5
+cast	Mike Miller	Police Officer
+cast	Lori Dillen	Robed Woman
+cast	J. Todd Anderson	Comic Store Clerk
+cast	Brett Michael Jones	Keith Nash
+cast	Diego Deane	Fireworks Store Clerk
+cast	Blythe Danner	Tara Walton
+cast	Joel Thingvall	Comic Book Dealer
+cast	Dawnielle Banks	Steampunk Woman
+cast	Dawn Barber	Sailor Moon
+cast	Corey Drake	Stormtrooper
+cast	Devin Faraci	Comic Con Nerd
+cast	David Fernandez Jr.	Comic Con
+cast	Brent 'Clutch' Gaubatz	Stormtrooper
+cast	Larry Goldstein	Comic-Con Chewbacca
+cast	Zack Kennedy	Comic Con Nerd
+cast	Paula LaBaredas	Princess Leia
+cast	Bobby Lee	Valet
+cast	Patrick Lee	Background Comic-Con
+cast	Patrick Mackie	Hotel Guest
+cast	Kevin G. O'Connor	Sandtrooper TD-0013
+cast	Sylvia Adelina Padilla	Felix the Cat
+cast	Michael Neal Powell	Bartender
+cast	Phoebe Price	Princess Lea
+cast	Erick Ramirez	Comic Con Galactic Marine
+cast	Chris Rymer	Comic Con Clone Trooper
+cast	Joy Sudduth	Angry Stage Manager
+cast	Kyle Sundgren	Comic Con Attendee

@@ -1,0 +1,130 @@
+year	1979
+imdb score	6.3
+meta score	48
+genre	Adventure
+genre	Mystery
+genre	Sci-Fi
+keyword	alien
+keyword	admiral
+keyword	star trek
+keyword	space station
+keyword	warp speed
+keyword	spacecraft
+keyword	end of the world
+keyword	invented language
+keyword	sequel
+keyword	shuttle craft
+keyword	medical examination
+keyword	based on cult tv series
+keyword	spacecraft officer
+keyword	castle thunder
+keyword	blockbuster
+keyword	based on tv series
+keyword	epic
+keyword	long take
+keyword	slow motion
+keyword	man versus machine
+keyword	famous score
+keyword	first part
+keyword	colon in title
+keyword	orchestral music score
+keyword	android
+keyword	biblical allegory
+keyword	san francisco california
+keyword	english subtitles in original
+keyword	23rd century
+keyword	overture
+keyword	space probe
+keyword	five word title
+keyword	reboot of series
+keyword	leitmotif
+keyword	planet
+keyword	spacesuit
+keyword	space exploration
+keyword	spacewalk
+keyword	golden gate bridge
+keyword	score employs electronic instruments
+keyword	family relationships
+keyword	outer space
+keyword	teleportation
+keyword	photon torpedoes
+keyword	doctor
+keyword	space opera
+keyword	psychedelic image
+keyword	telepathy
+keyword	cult film
+keyword	space travel
+keyword	artificial intelligence
+keyword	trapped in space
+keyword	phaser
+keyword	old flame
+keyword	wormhole
+keyword	first of series
+keyword	medical scanner
+keyword	disfigurement
+keyword	engineer
+keyword	stoicism
+cast	William Shatner	Captain Kirk
+cast	Leonard Nimoy	Spock
+cast	DeForest Kelley	Dr. McCoy
+cast	James Doohan	Scotty
+cast	George Takei	Sulu
+cast	Majel Barrett	Dr. Chapel
+cast	Walter Koenig	Chekov
+cast	Nichelle Nichols	Uhura
+cast	Persis Khambatta	Ilia
+cast	Stephen Collins	Decker
+cast	Grace Lee Whitney	Janice Rand
+cast	Mark Lenard	Klingon Captain
+cast	Billy Van Zandt	Alien Boy
+cast	Roger Aaron Brown	Epsilon Technician
+cast	Gary Faga	Airlock Technician
+cast	David Gautreaux	Commander Branch
+cast	John Gowans	Assistant to Rand
+cast	Howard Itzkowitz	Cargo Deck Ensign
+cast	Jon Rashad Kamal	Lt. Commander Sonak
+cast	Marcy Lafferty	Chief DiFalco
+cast	Michele Ameen Billy	Lieutenant
+cast	Jeri McBride	Technician
+cast	Terrence O'Connor	Chief Ross
+cast	Michael Rougas	Lt. Cleary
+cast	Susan O'Sullivan	Woman
+cast	Ralph Brannen	Crew Member
+cast	Ralph Byers	Crew Member
+cast	Paula Crist	Crew Member
+cast	Iva Lane	Crew Member
+cast	Franklyn Seales	Crew Member
+cast	Momo Yashima	Crew Member
+cast	Jimmie Booth	Klingon Crewman
+cast	Joel Kramer	Klingon Crewman
+cast	Bill McIntosh	Klingon Crewman
+cast	Dave Moordigian	Klingon Crewman
+cast	Tom Morga	Klingon Crewman
+cast	Tony Rocco	Klingon Crewman
+cast	Joel Schultz	Klingon Crewman
+cast	Craig Thomas	Klingon Crewman
+cast	Edna Glover	Vulcan Master
+cast	Norman Stuart	Vulcan Master
+cast	Paul Weber	Vulcan Master
+cast	Joshua Gallegos	Security Officer
+cast	Lisa Chess	Yeoman
+cast	Leslie C. Howard	Yeoman
+cast	Sayra Hummel	Technical Assistant
+cast	Junero Jennings	Technical Assistant
+cast	Richard Arnold	Crewmember
+cast	Celeste Cartier	Enterprise Crewmember
+cast	Vern Dietsche	Enterprise Crewmember
+cast	Christopher Doohan	Extra
+cast	Montgomery Doohan	Extra
+cast	Dennis Fischer	Engineering Officer
+cast	Cassandra Foster	Enterprise Crewmember
+cast	David Gerrold	Crewman
+cast	William Guest	Crewmember
+cast	Sharon Hesky	Federation Civilian
+cast	James T. Kirk	Enterprise Crewmember
+cast	Donald J. Long	Enterprise crewmember
+cast	Barbara Minster	Enterprise Crewmember
+cast	Ve Neill	Enterprise Crewmember
+cast	Louise Stange-Wahl	Crew Member on Rec Deck
+cast	Bjo Trimble	Crewman
+cast	Scott Whitney	Vulcan Medic

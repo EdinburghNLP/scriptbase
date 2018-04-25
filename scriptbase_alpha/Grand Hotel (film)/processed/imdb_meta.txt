@@ -1,0 +1,115 @@
+year	1932
+imdb score	7.7
+meta score	N/A
+genre	Drama
+genre	Romance
+keyword	baron
+keyword	hotel
+keyword	doctor
+keyword	dancer
+keyword	bookkeeper
+keyword	dictation
+keyword	rich snob
+keyword	stenographer
+keyword	business deal
+keyword	blue danube waltz
+keyword	hearse
+keyword	card game
+keyword	telephone
+keyword	gambling
+keyword	switchboard operator
+keyword	pocketbook
+keyword	money
+keyword	falling down drunk
+keyword	pearl necklace
+keyword	handcuffs
+keyword	ensemble
+keyword	merger
+keyword	nobility
+keyword	facial scar
+keyword	main character dies
+keyword	friend
+keyword	suicide door
+keyword	commentary track
+keyword	expectant father
+keyword	baccarat
+keyword	false identity
+keyword	ballerina
+keyword	burglar
+keyword	foreign language adaptation
+keyword	dog
+keyword	revolving door
+keyword	phone booth
+keyword	dance
+keyword	murder
+keyword	gentleman thief
+keyword	critically acclaimed
+keyword	typewriter
+keyword	bellboy
+keyword	drunkenness
+keyword	manager
+keyword	elevator
+keyword	fraud
+keyword	germany
+keyword	war wound
+keyword	terminal illness
+keyword	cigarette smoking
+keyword	berlin germany
+keyword	walking on a ledge
+keyword	model
+keyword	jewel thief
+keyword	box office hit
+keyword	switch board
+keyword	dachshund
+keyword	porter
+keyword	chain smoking
+keyword	industrialist
+keyword	based on play
+keyword	title spoken by character
+keyword	
+cast	Greta Garbo	Grusinskaya - the Dancer
+cast	John Barrymore	The Baron
+cast	Joan Crawford	Flaemmchen - the Stenographer
+cast	Wallace Beery	General Director Preysing
+cast	Lionel Barrymore	Otto Kringelein
+cast	Lewis Stone	Doctor Otternschlag
+cast	Jean Hersholt	Senf - the Porter
+cast	Robert McWade	Meierheim
+cast	Purnell Pratt	Zinnowitz
+cast	Ferdinand Gottschalk	Pimenov
+cast	Rafaela Ottiano	Suzette
+cast	Morgan Wallace	Chauffeur
+cast	Tully Marshall	Gerstenkorn
+cast	Frank Conroy	Rohna
+cast	Murray Kinnell	Schweimann
+cast	Edwin Maxwell	Dr. Waitz
+cast	Joan Barclay	Young Girl in Lobby
+cast	Max Barwyn	Hotel Guest / Gambler
+cast	Edward Biby	Hotel Guest
+cast	Mary Carlisle	Mrs. Hoffman - Young Honeymooner
+cast	John Davidson	Hotel Manager
+cast	Wally Dean	Hotel Guest
+cast	Herbert Evans	Clerk
+cast	Curt Furburg	Elevator Operator
+cast	Edmund Goulding	Cameo Appearance
+cast	Sherry Hall	Hotel Guest
+cast	Milton Holmes	Mr. Hoffman - Young Honeymooner
+cast	Sydney Jarvis	Police Officer
+cast	Allen Jenkins	Hotel Meat Packer
+cast	Robert Lees	Bellboy
+cast	Eric Mayne	Gambler
+cast	Philo McCullough	Hotel Guest / Gambler
+cast	Sam McDaniel	Bartender
+cast	Greta Meyer	Housekeeper in Room 174
+cast	King Mojave	Hotel Guest
+cast	Bert Moorhouse	Hotel Guest
+cast	Sarah Padden	Chambermaid in Room 174
+cast	Lee Phelps	Hotel Guest
+cast	Edward Reinach	Hotel Guest
+cast	Bodil Rosing	Nurse Helping Old Lady Into Elevator
+cast	Dick Rush	Gendarme
+cast	Rolfe Sedan	Hotel Guest in Bar
+cast	Mike Tellegen	Taxi Driver
+cast	Leo White	Hotel Porter
+cast	Harry Wilson	Worker
+cast	Florence Wix	Hotel Guest

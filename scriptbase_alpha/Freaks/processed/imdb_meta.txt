@@ -1,0 +1,100 @@
+year	1932
+imdb score	7.9
+meta score	N/A
+genre	Drama
+genre	Horror
+genre	Thriller
+keyword	freak
+keyword	circus
+keyword	dwarf
+keyword	trapeze artist
+keyword	trapeze
+keyword	sideshow
+keyword	poison
+keyword	party
+keyword	surrealism
+keyword	speech impediment
+keyword	handicapped person
+keyword	partially lost film
+keyword	midnight movie
+keyword	microcephalics
+keyword	sitting
+keyword	skeleton man
+keyword	champagne
+keyword	sword swallower
+keyword	knife
+keyword	storm
+keyword	grifts
+keyword	pre code
+keyword	infidelity
+keyword	revenge
+keyword	legless person
+keyword	disability
+keyword	bigotry
+keyword	bearded woman
+keyword	lifting someone into the air
+keyword	based on story
+keyword	disowned film
+keyword	horse
+keyword	unconventional romance
+keyword	beauty
+keyword	one word title
+keyword	cult film
+keyword	fire eater
+keyword	hermaphrodite
+keyword	limbless man
+keyword	siamese twins
+keyword	human deformity
+keyword	clown
+keyword	castration
+keyword	teratology
+keyword	told in flashback
+keyword	stuttering
+keyword	handicapped actor
+keyword	knife thrower
+keyword	pistol
+keyword	pony
+keyword	newlywed
+keyword	attempted murder
+keyword	emaciation
+keyword	armless man
+keyword	based on novel
+keyword	title spoken by character
+cast	Wallace Ford	Phroso
+cast	Leila Hyams	Venus
+cast	Olga Baclanova	Cleopatra
+cast	Roscoe Ates	Roscoe
+cast	Henry Victor	Hercules
+cast	Harry Earles	Hans
+cast	Daisy Earles	Frieda
+cast	Rose Dione	Madame Tetrallini
+cast	Daisy Hilton	Siamese Twin
+cast	Violet Hilton	Siamese Twin
+cast	Schlitze	By Herself
+cast	Josephine Joseph	Half Woman-Half Man
+cast	Johnny Eck	Half Boy
+cast	Frances O'Connor	Armless Girl
+cast	Peter Robinson	Human Skeleton
+cast	Olga Roderick	Bearded Lady
+cast	Koo Koo	By Herself
+cast	Prince Randian	The Living Torso
+cast	Martha Morris	Armless Girl
+cast	Elvira Snow	Pinhead
+cast	Jenny Lee Snow	Pinhead
+cast	Elizabeth Green	Bird Girl
+cast	Angelo Rossitto	Angeleno
+cast	Edward Brophy	Rollo Brother
+cast	Matt McHugh	Rollo Brother
+cast	John Aasen	Giant
+cast	Ernie Adams	Sideshow Patron
+cast	Demetrius Alexis	Mr. Rogers
+cast	Hooper Atchley	Doctoer
+cast	Jerry Austin	Knife-Throwing Dwarf
+cast	Sidney Bracey	Hans' Butler
+cast	Mathilde Comont	Madame Bartet
+cast	Albert Conti	Landowner
+cast	Tiny Doll	
+cast	Edith	Crawling Girl
+cast	Delmo Fritz	Sword-Swallower
+cast	Murray Kinnell	Freakshow Barker
+cast	Michael Visaroff	Jean

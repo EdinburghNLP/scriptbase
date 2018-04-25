@@ -1,0 +1,528 @@
+year	2006
+imdb score	7.5
+meta score	69
+genre	Drama
+keyword	rifle
+keyword	children
+keyword	mexican
+keyword	morocco
+keyword	mexico
+keyword	bus
+keyword	wedding
+keyword	american
+keyword	jackal
+keyword	terrorist
+keyword	japan
+keyword	goat
+keyword	widower
+keyword	nanny
+keyword	death
+keyword	gun
+keyword	mexican border
+keyword	san diego california
+keyword	marriage
+keyword	tour bus
+keyword	investigation
+keyword	tokyo japan
+keyword	desert
+keyword	police
+keyword	housekeeper
+keyword	dental exam
+keyword	child uses gun
+keyword	drugs
+keyword	diner
+keyword	suspect
+keyword	undressing
+keyword	bento box
+keyword	prayer
+keyword	target shooting
+keyword	shooting
+keyword	destiny
+keyword	dehydration
+keyword	scantily clad female
+keyword	tent
+keyword	chase
+keyword	ambulance
+keyword	girls' bathroom
+keyword	jumping off a balcony
+keyword	school uniform
+keyword	strobe light
+keyword	gym
+keyword	listening to a radio
+keyword	husband wife relationship
+keyword	violence
+keyword	bare breasts
+keyword	humiliation
+keyword	tears
+keyword	honking a car horn
+keyword	chicken
+keyword	video telephone
+keyword	camera
+keyword	consumerism
+keyword	red cross
+keyword	blood
+keyword	television news
+keyword	sudden infant death syndrome
+keyword	ejected from a game
+keyword	urination
+keyword	hispanic american
+keyword	food
+keyword	disco
+keyword	prostitute
+keyword	confession
+keyword	tea
+keyword	gangrene
+keyword	female rear nudity
+keyword	accidental shooting
+keyword	girl in panties
+keyword	book
+keyword	chaos theory
+keyword	holding hands
+keyword	deportation
+keyword	dentist
+keyword	washing clothes
+keyword	checkpoint
+keyword	telephone
+keyword	reckless driving
+keyword	actual animal killed
+keyword	shooting into the air
+keyword	drink
+keyword	inspection
+keyword	tazarine morocco
+keyword	car search
+keyword	rebellion
+keyword	cell phone
+keyword	gringo
+keyword	upskirt
+keyword	teenage girl
+keyword	hope
+keyword	notebook
+keyword	illegal immigrant
+keyword	accident
+keyword	indecent exposure
+keyword	snorricam
+keyword	tourist
+keyword	mother daughter relationship
+keyword	money
+keyword	bus driver
+keyword	grave
+keyword	reading lips
+keyword	shot in the back
+keyword	wedding reception
+keyword	donkey
+keyword	lifting up dress
+keyword	tour guide
+keyword	mini skirt
+keyword	shot in the neck
+keyword	shot in the shoulder
+keyword	police captain
+keyword	suicide of mother
+keyword	writing on hand
+keyword	tecate beer
+keyword	immigrant
+keyword	suicide
+keyword	pickup truck
+keyword	stitch
+keyword	child with gun
+keyword	ginza
+keyword	flashback
+keyword	veterinarian
+keyword	swimming pool
+keyword	female full frontal nudity
+keyword	father son relationship
+keyword	border guard
+keyword	immigration
+keyword	beating
+keyword	policeman
+keyword	child abuse
+keyword	pubic hair
+keyword	shot in the arm
+keyword	older man younger woman relationship
+keyword	goat skin
+keyword	pregnancy
+keyword	child in peril
+keyword	mariachi band
+keyword	hospital
+keyword	u.s. mexico border
+keyword	mexican immigrant
+keyword	wetting pants
+keyword	sign language
+keyword	lie
+keyword	ecstasy
+keyword	underage drinking
+keyword	topless female nudity
+keyword	knife
+keyword	lawyer
+keyword	shootout
+keyword	water fight
+keyword	interrogation
+keyword	deafness
+keyword	restroom
+keyword	helicopter ambulance
+keyword	depression
+keyword	cafe
+keyword	shochu
+keyword	watching tv
+keyword	deaf girl
+keyword	erfoud morocco
+keyword	doctor
+keyword	fried egg plant
+keyword	kicking
+keyword	soccer
+keyword	girls locker room
+keyword	teenage boy
+keyword	female removes her clothes
+keyword	telephone call
+keyword	female removes her dress
+keyword	pipe smoking
+keyword	cemetery
+keyword	gun held to one's head
+keyword	voyeur
+keyword	destroying a rifle
+keyword	cartridge
+keyword	bullet
+keyword	flirting
+keyword	falling asleep
+keyword	mother son relationship
+keyword	taking off panties
+keyword	loss of brother
+keyword	fight
+keyword	locker room
+keyword	band
+keyword	police brutality
+keyword	threat of castration
+keyword	cave
+keyword	mexican wedding
+keyword	pills
+keyword	firearms training
+keyword	street market
+keyword	witness
+keyword	drinking
+keyword	wringing a chicken's neck
+keyword	ensemble cast
+keyword	stoned
+keyword	multiple storyline
+keyword	female frontal nudity
+keyword	embassy
+keyword	cross
+keyword	friendship
+keyword	murder
+keyword	death of brother
+keyword	shot in the chest
+keyword	no panties
+keyword	public nudity
+keyword	helping someone urinate
+keyword	muslim
+keyword	ballpoint pen
+keyword	flashlight
+keyword	obscene gesture
+keyword	drunk driving
+keyword	vagina
+keyword	peeping tom
+keyword	aunt nephew relationship
+keyword	bleeding to death
+keyword	camel
+keyword	detective
+keyword	fear
+keyword	waiter
+keyword	wind
+keyword	border patrol
+keyword	suicide by jumping
+keyword	wedding cake
+keyword	panties
+keyword	water
+keyword	watching a cartoon on tv
+keyword	seduction
+keyword	car chase
+keyword	volleyball
+keyword	loss of son
+keyword	face slap
+keyword	balcony
+keyword	4 stories
+keyword	subway
+keyword	whiskey
+keyword	referee
+keyword	hunter
+keyword	uh 1 huey helicopter
+keyword	sleeping
+keyword	graveyard
+keyword	helicopter
+keyword	hermit crab
+keyword	translator
+keyword	u.s. ambassador
+keyword	suicide by shooting one's self in the head
+keyword	writing
+keyword	public telephone
+keyword	nonlinear timeline
+keyword	language barrier
+keyword	cleavage
+keyword	dysfunctional marriage
+keyword	arrest
+keyword	bleeding
+keyword	crying
+keyword	nightclub
+keyword	dancer
+keyword	friend
+keyword	multiple perspectives
+keyword	shoes
+keyword	cigarette smoking
+keyword	alone
+keyword	cell phone camera
+keyword	police detective
+keyword	terrorism
+keyword	video arcade
+keyword	swing
+keyword	nudity
+keyword	drunkenness
+keyword	mountain
+keyword	kiss
+keyword	valle de guadalupe mexico
+keyword	one word title
+keyword	dancing
+keyword	father daughter relationship
+keyword	bride and groom
+keyword	shot in the leg
+keyword	cat
+keyword	family relationships
+keyword	brother brother relationship
+keyword	voyeurism
+keyword	liar
+keyword	subjective camera
+keyword	female pubic hair
+keyword	penthouse
+keyword	cousin cousin relationship
+keyword	selling rifle
+keyword	village
+keyword	water fountain
+keyword	female nudity
+keyword	photograph
+keyword	death of baby
+keyword	gunshot wound
+keyword	pregnant bride
+keyword	tragic event
+keyword	wallet
+keyword	deaf mute
+keyword	sids
+keyword	cultural difference
+keyword	driving at night
+keyword	celebration
+keyword	single father
+keyword	train
+keyword	pain
+keyword	hiding place
+keyword	reference to god
+keyword	shooting one's self in the head
+keyword	van
+keyword	passport
+keyword	cartoon on tv
+keyword	white panties
+keyword	drug use
+keyword	japanese hunter
+keyword	tv commercial
+keyword	ouarzazate morocco
+keyword	sex scene
+keyword	leg spreading
+keyword	reference to mighty mouse
+keyword	suicide by gunshot
+keyword	guitar
+keyword	masturbation
+keyword	death of child
+keyword	death of son
+keyword	death of mother
+keyword	
+cast	Brad Pitt	Richard Jones
+cast	Cate Blanchett	Susan Jones
+cast	Mohamed Akhzam	Anwar
+cast	Peter Wight	Tom
+cast	Harriet Walter	Lilly
+cast	Trevor Martin	Douglas
+cast	Matyelok Gibbs	Elyse
+cast	Georges Bousquet	Robert
+cast	Claudine Acs	Jane
+cast	André Oumansky	Walter
+cast	Michael Maloney	James
+cast	Dermot Crowley	Barth
+cast	Wendy Nottingham	Tourist #1
+cast	Henry Maratray	Tourist #2
+cast	Linda Broughton	Tourist #3
+cast	Jean Marc Hulot	Tourist
+cast	Aline Mowat	Tourist #5
+cast	Liliane Escoza	Tourist #6
+cast	Lynsey Beauchamp	Tourist in Morocco
+cast	Michel Dubois	Tourist #8
+cast	Shirley Dixon	Tourist #9
+cast	Patrick Lebre	Tourist #10
+cast	John O'Mohoney	Tourist
+cast	Mary Mitchell	Tourist #12
+cast	Edward Lyon	Tourist #13
+cast	Robert Fyfe	Tourist #14
+cast	Abdelaziz Merzoug	Waiter Casbah
+cast	Omar El Mallouli	Bus Driver
+cast	El Hassan Ait Bablal	Old Man in Car
+cast	Sfia Ait Benboullah	Anwar's Grandmother
+cast	Hammou Aghrar	Doctor - Vet
+cast	Mohamed Ait Lahcen	Sheik
+cast	Ali Hamadi	Moukadem
+cast	Lhacen Znin	Store Owner
+cast	Mustapha Amhita	Mohammed
+cast	Mohammed Amal El Koussi	Mohammed's Friend #1
+cast	Mohamed Nait Addi	Mohammed's Friend #3
+cast	Mohammed El Bouamraoui	Mohammed's Friend #2
+cast	Rahmoune Abdelhalim	Mohammed's Friend #4
+cast	Soukayna Ait Boufakri	Yamile
+cast	Youssef Boukioud	Police at Anwar's #1
+cast	Khouyael Houssein	Police at Anwar's #1
+cast	Alex Jennings	Ken Clifford
+cast	Commandant Mesbah	Helicopter Pilot
+cast	Timothy Peter Buxton	US Army Medic #1
+cast	Mohammed Ourjdal	US Army Medic #2
+cast	Aimee Meditz	Reporter - US News
+cast	Mohammed Bennani	Moroccan Doctor
+cast	Boubker Ait El Caid	Yussef
+cast	Said Tarchani	Ahmed
+cast	Mustapha Rachidi	Abdullah
+cast	Driss Roukhe	Alarid
+cast	Wahiba Sahmi	Zohra
+cast	Fadmael Ouali	Yasira
+cast	Zahra Ahkouk	Jamila
+cast	Abdelkader Bara	Hassan
+cast	Ehou Mama	Hassan's Wife
+cast	Rida Taya	Abdullah's 2-Year-Old Son
+cast	Salah Mezzi	Moroccan Police Officer
+cast	Mohamed Atkliss	Moroccan Police Officer
+cast	Adriana Barraza	Amelia
+cast	Elle Fanning	Debbie Jones
+cast	Nathan Gamble	Mike Jones
+cast	Gael García Bernal	Santiago
+cast	Monica del Carmen	Lucia
+cast	Rosa Reyes	Comadre
+cast	Robert 'Bernie' Esquivel	Luis
+cast	Damian Garcia	Lucio
+cast	Barbarella Pardo	Amelia's Daughter #1
+cast	Úrsula García	Amelia's Daughter #2
+cast	Cynthia Montaño	Patricia
+cast	Maripaz Lopez	Patricia's Mother
+cast	Santiago Lizarraga	Tambora Band
+cast	Ismael Gregorio	Tambora Band
+cast	Pedro Sillas	Tambora Band
+cast	Enrique García Contreras	Tambora Band
+cast	Fernando Montes Avila	Tambora Band
+cast	Luis Avila	Tambora Band
+cast	Eugenio Jara Reynoso	Tambora Band
+cast	Pedro Cuota	Tambora Band
+cast	Romeo Echeverria Jimenez El Gitano	Musician
+cast	Guadalupe Quintero	Wedding Band
+cast	Mariano Quintero	Wedding Band
+cast	Eluterio Higuera	Wedding Band
+cast	Pascual Montaño	Wedding Band
+cast	Efrain Gonzalez	Wedding Band
+cast	Claudia Silvia Mendoza	Patricia's Grandmother
+cast	Norma Samarin	Patricia's Aunt
+cast	Polo Nuño	Jacinto
+cast	Jose Campas Agiñaga	Amelia's Grandfather
+cast	Miguel Maldonado Tinoco	Amelia's Father
+cast	Rosa Campos Maldonado	Amelia's Mother
+cast	Emilio Echevarría	Emilio
+cast	Clifton Collins Jr.	Officer at Border Crossing
+cast	Aaron D. Spears	Officer #2
+cast	Jamie McBride	Bill - Border Patrol
+cast	Michael Peña	John - Border Patrol
+cast	Ivor Shier	Helicopter Pilot
+cast	R.D. Call	FBI Interrogation Officer
+cast	Rinko Kikuchi	Chieko Wataya
+cast	Kôji Yakusho	Yasujiro Wataya
+cast	Yuko Murata	Mitsu
+cast	Kumi Ohkawatsu	Teammate
+cast	Miyuki Tamada	Teammate
+cast	Hirotaka Nabeya	Referee #1
+cast	Kazuya Senzaki	Referee #2
+cast	Takanobu Imaizumi	Referee #3
+cast	Koji Yoshida	Volleyball Coach
+cast	Saki Kito	J-Pop Hostess
+cast	Tomomi Kosugi	J-Pop Waitress
+cast	Noemi	J-Pop Waitress
+cast	Rika Watanabe	J-Pop Waitress
+cast	Ran Saotome	J-Pop Waitress
+cast	Sanae Miura	Kumiko
+cast	Kazunori Sasaki	Young Man
+cast	Ryoji Takiguchi	Shocked Young Man
+cast	Shoushi Nakasone	Young Man's Friend
+cast	Jun Tanaka	Young Man's Friend
+cast	Masayuki Ishii	Young Man's Friend
+cast	Yoshiyuki Yagisawa	Young Man's Friend
+cast	Hideto Onishi	Young Man's Friend
+cast	Hiroshi Yazaki	Young Man's Friend
+cast	Zengo Matayoshi	J-Pop Special #1
+cast	Koji Morisawa	J-Pop Special #2
+cast	Sumire Matsumura	Receptionist
+cast	Qyoko Kudo	Mother at Dentist
+cast	Hazuki Saito	Daughter at Dentist
+cast	Yu Tanabe	Son at Dentist
+cast	Kentaro Tokuhiro	Patient
+cast	Kiichiro Kawauchi	Patient
+cast	Shigemitsu Ogi	Dentist
+cast	Tose Fukuda	Nurse at Dentist's
+cast	Satoshi Nikaido	Det. Lt. Kenji Mamiya
+cast	Kazunori Tozawa	Det. Hamano
+cast	Jun'ichi Hayakawa	Doorman
+cast	Nobushige Suematsu	Haruki
+cast	Shinji Suzuki	Takeshi
+cast	Reina Makino	Chieko's Girl Friend
+cast	Ayako Masagaki	Chieko's Girl Friend
+cast	Yurie Okada	Chieko's Girl Friend
+cast	Erika Okada	Chieko's Girl Friend
+cast	Mika Yokoyama	Chieko's Girl Friend
+cast	Kimi Unno	Chieko's Girl Friend
+cast	Kazuma Yamane	Kazuma
+cast	Hideaki Kunieda	Haruki's Friend
+cast	Keita Kanegae	Haruki's Friend
+cast	Tomohiro Higashi	Chieko's Boyfriend
+cast	Onbou Miura	Chieko's Boyfriend
+cast	Daiki Inoue	Chieko's Boyfriend
+cast	Shinichi Osawa	Club DJ
+cast	Noriko Yamamura	Dancer - Club
+cast	Motomi Kobayashi	Dancer - Club
+cast	Akira Matsuda	Bartender
+cast	Shizue Yamamoto	Wife
+cast	Kaoru Mihira	Chieko's Teammate
+cast	Ayaka Kotake	Chieko's Teammate
+cast	Natsumi Hayashida	Chieko's Teammate
+cast	Maki Kuraya	Chieko's Teammate
+cast	Kana Harada	Chieko's Teammate
+cast	Sayaka Shimizu	Chieko's Teammate
+cast	Sumie Kobayashi	Babel Volleyball Girl
+cast	Yoko Iwasaki	Babel Volleyball Girl
+cast	Eri Terada	Babel Volleyball Girl
+cast	Reina Aoki	Babel Volleyball Girl
+cast	Naoko Kato	Babel Volleyball Girl
+cast	Ikumi Muramatsu	Babel Volleyball Girl
+cast	Keiko Nakamichi	Babel Volleyball Girl
+cast	Miyuki Kido	Babel Volleyball Girl
+cast	Fumie Takama	Babel Volleyball Girl
+cast	Miki Watanuki	Babel Volleyball Girl
+cast	Aki Yanagisawa	Babel Volleyball Girl
+cast	Megumi Watanabe	Babel Volleyball Girl
+cast	Hanako Komatsu	Babel Volleyball Girl
+cast	Fumie Kikuchi	Babel Volleyball Girl
+cast	Hotomi Nakajima	Babel Volleyball Girl
+cast	Miyuki Aoki	Babel Volleyball Girl
+cast	Yuko Raihon	Babel Volleyball Girl
+cast	Hosana Ueyama	Babel Volleyball Girl
+cast	Erika Nakaya	Babel Volleyball Girl
+cast	Sachiyo Yamashita	Babel Volleyball Girl
+cast	Kaori Shimizu	Babel Volleyball Girl
+cast	Yuta Hori	Tap Dancer
+cast	Ikken	Tap Dancer
+cast	Takayuki Matsumoto	Tap Dancer
+cast	Maro	Juggler
+cast	Marie Machida	Member of the Theatrical Company
+cast	Namiko Hatori	Member of the Theatrical Company
+cast	Yurako Takano	Member of the Theatrical Company
+cast	Kiyomi Ensô	Member of the Theatrical Company
+cast	Ikue Takada	Member of the Theatrical Company
+cast	Yoshiki Wakura	Member of the Theatrical Company
+cast	Yosuke Morita	Member of the Theatrical Company
+cast	Yuji Inanobe	Member of the Theatrical Company
+cast	Yoshi Ando	Japanese Man
+cast	Masami Kosaka	Japanese Guy
+cast	Linda Sans	

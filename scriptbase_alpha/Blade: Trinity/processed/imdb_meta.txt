@@ -1,0 +1,188 @@
+year	2004
+imdb score	5.9
+meta score	38
+genre	Action
+genre	Adventure
+genre	Fantasy
+genre	Horror
+genre	Sci-Fi
+genre	Thriller
+keyword	vampire
+keyword	blade
+keyword	dracula
+keyword	blood
+keyword	vampire hunter
+keyword	fbi
+keyword	vampire slayer
+keyword	dark heroine
+keyword	english subtitles in original
+keyword	bare chested male bondage
+keyword	spit in the face
+keyword	vampirism
+keyword	fistfight
+keyword	stabbed in the chest
+keyword	gun fu
+keyword	m 16
+keyword	blood splatter
+keyword	desert
+keyword	evil dog
+keyword	death
+keyword	brawl
+keyword	one man army
+keyword	shot in the head
+keyword	helicopter
+keyword	police chief
+keyword	third part
+keyword	archery
+keyword	arrow catching
+keyword	closing credits sequence
+keyword	strong female character
+keyword	surprise after end credits
+keyword	tough guy
+keyword	master vampire
+keyword	based on comic
+keyword	comic book
+keyword	shower
+keyword	person on fire
+keyword	dreadlocks
+keyword	shot in the back
+keyword	child in peril
+keyword	torture
+keyword	goth
+keyword	product placement
+keyword	mutant dog
+keyword	pump action shotgun
+keyword	disarming someone
+keyword	exploding building
+keyword	blindness
+keyword	revolving door
+keyword	sequel
+keyword	police raid
+keyword	decapitation
+keyword	exploding car
+keyword	good versus evil
+keyword	shootout
+keyword	hapkido
+keyword	sawed off shotgun
+keyword	bow and arrow
+keyword	obscene finger gesture
+keyword	hypodermic needle
+keyword	double edged sword
+keyword	transformation
+keyword	mixed martial arts
+keyword	shot in the eye
+keyword	cut into pieces
+keyword	action hero
+keyword	pistol
+keyword	marvel comics
+keyword	esperanto
+keyword	machine gun
+keyword	female vampire
+keyword	exploding body
+keyword	strap on dildo
+keyword	vampire vs vampire
+keyword	falling from height
+keyword	body landing on a car
+keyword	one against many
+keyword	goth girl
+keyword	neck breaking
+keyword	katana sword
+keyword	tough guy voice
+keyword	federal bureau of investigation
+keyword	uzi
+keyword	swat team
+keyword	police officer killed
+keyword	gunfight
+keyword	braille
+keyword	martial arts master
+keyword	returning character killed off
+keyword	bow
+keyword	martial artist
+keyword	violence
+keyword	based on comic book
+keyword	motorcycle
+keyword	timebomb
+keyword	blind girl
+keyword	shapeshifting
+keyword	knife in shoe
+keyword	samurai sword
+keyword	fast motion scene
+keyword	sword fight
+keyword	revolver
+keyword	two way mirror
+keyword	bitten in the throat
+keyword	hero
+keyword	loss of friend
+keyword	super villain
+keyword	compound bow
+keyword	shotgun
+keyword	hand to hand combat
+keyword	2000s
+keyword	automatic pistol
+keyword	laser cutter
+keyword	martial arts
+keyword	dog
+keyword	hit by a car
+keyword	dark hero
+keyword	tragic hero
+keyword	part of trilogy
+keyword	knife
+keyword	gore
+keyword	dildo
+keyword	kicked in the groin
+keyword	shot to death
+keyword	kicked in the face
+keyword	superhero
+keyword	severed head
+keyword	character name in title
+cast	Wesley Snipes	Blade
+cast	Kris Kristofferson	Whistler
+cast	Dominic Purcell	Drake
+cast	Jessica Biel	Abigail Whistler
+cast	Ryan Reynolds	Hannibal King
+cast	Parker Posey	Danica Talos
+cast	Mark Berry	Chief Martin Vreede
+cast	John Michael Higgins	Dr. Edgar Vance
+cast	Callum Keith Rennie	Asher Talos
+cast	Paul Levesque	Jarko Grimwood
+cast	Paul Anthony	Wolfe
+cast	Françoise Yip	Virago
+cast	Michael Anthony Rawlins	Wilson Hale
+cast	James Remar	Ray Cumberland
+cast	Natasha Lyonne	Sommerfield
+cast	Ginger Broatch	Zoe
+cast	Patton Oswalt	Hedges
+cast	Ron Selmour	Dex
+cast	Christopher Heyerdahl	Caulder
+cast	Eric Bogosian	Bentley Tittle
+cast	Scott Heindl	Gedge
+cast	John Ashker	Campbell
+cast	Clay Cullen	Stone
+cast	Steven McMichael	Denlinger
+cast	Paul Wu	Ellingson
+cast	Kimani Ray Smith	Doh
+cast	Darren McGuire	Emond
+cast	Shannon Powell	Woman Bystander
+cast	Jill Krop	Reporter
+cast	Jordan Hoffart	Squid
+cast	Kett Turton	Dingo
+cast	Cascy Beddow	Flick
+cast	Simon Pidgeon	Proof
+cast	Michael St. John Smith	FBI Agent
+cast	Stephen Spender	Agent
+cast	Kwesi Ameyaw	Agent
+cast	Alejandro Rae	Goth Guy Wannabe
+cast	Erica Cerra	Goth Vixen Wannabe
+cast	Garvin Cross	Hoop
+cast	Raymond Sammel	Security Guard
+cast	John Ulmer	Security Guard
+cast	Justin Sain	Security Guard
+cast	Darryl Scheelar	Doctor
+cast	Camille Martinez	Hysterical Mother
+cast	Michelle Stoll	Vance's Assistant
+cast	Dawn Mander	Biomedica Technician
+cast	Gabriel Beristain	One-Eyed Newspaper Vendor
+cast	Mike Cook	SWAT Member
+cast	Chris Gorak	Doctor
+cast	Johanna Olson	Shanghai Dancer
+cast	Brian Steele	Drake Creature

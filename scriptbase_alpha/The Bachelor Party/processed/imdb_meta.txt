@@ -1,0 +1,43 @@
+year	1957
+imdb score	6.9
+meta score	N/A
+genre	Drama
+keyword	bachelor
+keyword	friend
+keyword	bachelor party
+keyword	pregnant wife
+keyword	pregnant
+keyword	irreverence
+keyword	pregnancy
+keyword	virgin
+keyword	pregnant woman
+keyword	expectant mother
+keyword	accountant
+keyword	nymphomaniac
+keyword	expectant father
+keyword	male virgin
+keyword	friendship between men
+keyword	ensemble film
+keyword	beatnik
+keyword	male bonding
+keyword	subway
+keyword	friendship
+keyword	new york city
+keyword	based on tv movie
+keyword	melodrama
+keyword	
+cast	Don Murray	Charlie Samson
+cast	E.G. Marshall	Walter
+cast	Jack Warden	Eddie Watkins
+cast	Philip Abbott	Arnold Craig
+cast	Larry Blyden	Kenneth
+cast	Patricia Smith	Helen Samson
+cast	Carolyn Jones	The Existentialist
+cast	Nancy Marchand	Mrs. Julie Samson
+cast	Barbara Ames	Girl on Stoop
+cast	Norma Arden Campbell	Stripteaser
+cast	Paul Kruger	Greenwich Village Party Guest
+cast	Karen Norris	Hostess
+cast	Jeffrey Sayre	Greenwich Village Party Guest
+cast	Arthur Tovey	Existentialist's Landlord
+cast	Robert Williams	Bartender

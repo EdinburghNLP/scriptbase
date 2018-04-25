@@ -1,0 +1,319 @@
+year	2009
+imdb score	5.8
+meta score	37
+genre	Adventure
+genre	Biography
+genre	Drama
+genre	Romance
+keyword	ocean
+keyword	flying
+keyword	pilot
+keyword	pacific ocean
+keyword	atlantic ocean
+keyword	girl
+keyword	kansas
+keyword	globe
+keyword	print ad
+keyword	advertisement
+keyword	dancing
+keyword	one word title
+keyword	year 1935
+keyword	photograph
+keyword	prologue
+keyword	subjective camera
+keyword	horse
+keyword	u.s. coast guard
+keyword	radio
+keyword	adultery
+keyword	money
+keyword	pylon
+keyword	father daughter relationship
+keyword	singer
+keyword	freedom
+keyword	role model
+keyword	honolulu hawaii
+keyword	husband wife relationship
+keyword	lucky strike cigarette
+keyword	newspaper headline
+keyword	flashlight
+keyword	howland island
+keyword	gambia
+keyword	sleeping in a car
+keyword	falling from an airplane
+keyword	missing person
+keyword	karachi
+keyword	underwear
+keyword	drink
+keyword	welsh
+keyword	marriage proposal
+keyword	autograph
+keyword	public relations
+keyword	kissing in an elevator
+keyword	lecture circuit
+keyword	unfaithfulness
+keyword	press conference
+keyword	test flight
+keyword	boston massachusetts
+keyword	extramarital affair
+keyword	aeronautics
+keyword	newfoundland
+keyword	risk taking
+keyword	infidelity
+keyword	typewriter
+keyword	wanderlust
+keyword	camera
+keyword	lightning
+keyword	voice over writing
+keyword	standing ovation
+keyword	reference to eleanor roosevelt
+keyword	single engine airplane
+keyword	tetersboro new jersey
+keyword	song
+keyword	reference to paramount news
+keyword	photographer
+keyword	waterfall
+keyword	ocean liner
+keyword	clouds
+keyword	covering one's eyes with one's hands
+keyword	airplane hangar
+keyword	rowboat
+keyword	reference to wiley post
+keyword	jungle
+keyword	new york city
+keyword	scarf
+keyword	morse code
+keyword	search
+keyword	transpacific flight
+keyword	giving a toast
+keyword	year 1937
+keyword	tiger
+keyword	lockheed aircraft corporation
+keyword	wedding vow
+keyword	policeman
+keyword	swing band
+keyword	plane crash
+keyword	historical event
+keyword	lighthouse
+keyword	writer
+keyword	mother daughter relationship
+keyword	reference to franklin d. roosevelt
+keyword	telephone
+keyword	wales
+keyword	new deal
+keyword	ocean crossing
+keyword	reconstructed newsreel
+keyword	purdue university
+keyword	minister
+keyword	africa
+keyword	luggage
+keyword	powder puff derby
+keyword	fokker aircraft
+keyword	freckles
+keyword	wedding
+keyword	tears
+keyword	motorcycle
+keyword	papua new guinea
+keyword	kodak camera
+keyword	dog
+keyword	hawaii
+keyword	kiss
+keyword	whale
+keyword	ireland
+keyword	year 1928
+keyword	woman wearing trousers
+keyword	falling asleep
+keyword	dancer
+keyword	rocky mountains
+keyword	party
+keyword	los angeles california
+keyword	wristwatch
+keyword	le bourget airport
+keyword	teacher
+keyword	title directed by female
+keyword	year 1932
+keyword	ambition
+keyword	oakland california
+keyword	disappearance
+keyword	horse riding
+keyword	book
+keyword	transcontinental flight
+keyword	flash camera
+keyword	santa barbara california
+keyword	desert
+keyword	inner title card
+keyword	sleeping
+keyword	film camera
+keyword	fame
+keyword	lei
+keyword	air race
+keyword	publisher
+keyword	air derby
+keyword	crossing one's fingers
+keyword	bar
+keyword	recklessness
+keyword	man with glasses
+keyword	atchison kansas
+keyword	adventuress
+keyword	obedience
+keyword	aviator
+keyword	rye new york
+keyword	contract
+keyword	1930s
+keyword	sister sister relationship
+keyword	cigarette smoking
+keyword	parachute
+keyword	mirror
+keyword	cleveland ohio
+keyword	fourth of july
+keyword	flowers
+keyword	aviatrix
+keyword	airplane
+keyword	1920s
+keyword	lecture
+keyword	seaplane
+keyword	flashback
+keyword	reference to busby berkeley
+keyword	prayer
+keyword	boat
+keyword	16 year old
+keyword	reading aloud
+keyword	celebrity
+keyword	year 1931
+keyword	crying
+keyword	motorcycle with a sidecar
+keyword	west point
+keyword	shepherd
+keyword	waves
+keyword	handshake
+keyword	elevator
+keyword	starter pistol
+keyword	fear
+keyword	reference to amy guest
+keyword	ticker tape parade
+keyword	band
+keyword	female pilot
+keyword	eastman kodak
+keyword	around the world flight
+keyword	love
+keyword	love triangle
+keyword	limousine
+keyword	microphone
+keyword	oryx
+keyword	storm
+keyword	female boss
+keyword	legs
+keyword	new york times the newspaper
+keyword	book publishing
+keyword	loyalty
+keyword	commercial
+keyword	great depression
+keyword	washington d.c.
+keyword	hangover
+keyword	chicago illinois
+keyword	listening to a radio
+keyword	what happened to epilogue
+keyword	kolkata
+keyword	gao mali
+keyword	memory
+keyword	courage
+keyword	long beach
+keyword	transatlantic flight
+keyword	flight navigator
+keyword	looking at self in mirror
+keyword	thunder
+keyword	father son relationship
+keyword	year 1934
+keyword	beach
+keyword	new guinea
+keyword	weather
+keyword	test pilot
+keyword	flying teacher
+keyword	writing
+keyword	boy
+keyword	vagabond
+keyword	archive footage
+keyword	women's air derby
+keyword	character says i love you
+keyword	reference to charles lindbergh
+keyword	aviation history
+keyword	lae papua new guinea
+keyword	reference to admiral byrd
+keyword	wishing someone good luck
+keyword	rain
+keyword	champagne
+keyword	drunkenness
+keyword	drinking
+keyword	singing
+keyword	earphones
+keyword	pasture
+keyword	hotel
+keyword	telephone call
+keyword	olympic athlete
+keyword	sheep
+keyword	epilogue
+keyword	radio static
+keyword	paris france
+keyword	marriage
+keyword	miami florida
+keyword	bangkok
+keyword	indiana
+keyword	camel
+keyword	college
+keyword	photo shoot
+keyword	biplane
+keyword	waffle iron
+keyword	character name in title
+cast	Hilary Swank	Amelia Earhart
+cast	Richard Gere	George Putnam
+cast	Ewan McGregor	Gene Vidal
+cast	Christopher Eccleston	Fred Noonan
+cast	Joe Anderson	Bill Stultz
+cast	Cherry Jones	Eleanor Roosevelt
+cast	Mia Wasikowska	Elinor Smith
+cast	Aaron Abrams	Slim Gordon
+cast	Dylan Roberts	Leo Bellarts
+cast	Scott Yaphe	William Dalten
+cast	Tom Fairfoot	Balfour
+cast	Ryann Shane	Young Amelia
+cast	William Cuddy	Gore Vidal
+cast	Elizabeth Shepherd	Frances Putnam
+cast	Richard Donat	Gallagher
+cast	Scott Anderson	Parade Reporter
+cast	Sarah Kitz	George's Secretary
+cast	Keelin Jack	Student
+cast	Jeremy Akerman	Sheriff
+cast	Derek Keurvorst	Minister
+cast	Thomas Hauff	Man at Opera House
+cast	Sarah Dood	1st Woman at Opera
+cast	Danielle Bourgon	2nd Woman at Opera
+cast	Hamish McEwan	Paul
+cast	Michael Daly	Frank Cipriani
+cast	Jeffrey Knight	Commander Thompson
+cast	Paul Johnston	Thomas O'Hare
+cast	Michael Richard	Reporter #1
+cast	Daniel Janks	Reporter #2
+cast	Ron Smerczak	Reporter #3
+cast	Kerin McCue	Movie Tone Announcer
+cast	Richard Lothian	Coastguard Man
+cast	Divine Brown	Torch Singer
+cast	Elizabeth Saunders	Louise Thaden
+cast	Precious Chong	Gladys O'Donnell
+cast	Kathryn Haggis	Powder Puff Aviator
+cast	Duane Murray	Cleveland Reporter
+cast	Joe Renzi	Welsh Singer
+cast	Geoff Gillespie	Welsh Singer
+cast	Andrea Ciacci	Commodification Montage Dancer
+cast	Julia Juhas	Commodification Montage Dancer
+cast	Alexandra MacLean	Commodification Montage Dancer
+cast	Kristen Munro	Commodification Montage Dancer
+cast	Eva Redpath	Commodification Montage Dancer
+cast	Jamie Holmes	Commodification Montage Dancer
+cast	Brittany Gray	Commodification Montage Dancer
+cast	Karissa Strain	Commodification Montage Dancer
+cast	Katie Strain	Commodification Montage Dancer
+cast	Valerie Saija	Commodification Montage Dancer
+cast	Nina Strazzulla	Commodification Montage Dancer
+cast	Leanne Melissa Bishop	Amelia's Make-up Artist
+cast	James Byron	Charlie
+cast	Amelia Earhart	Herself
+cast	Michael Malott	Constitution Hall Announcer

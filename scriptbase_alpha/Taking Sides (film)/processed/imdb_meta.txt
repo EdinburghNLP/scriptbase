@@ -1,0 +1,207 @@
+year	2001
+imdb score	7.2
+meta score	61
+genre	Drama
+genre	Music
+genre	War
+keyword	major
+keyword	nazi
+keyword	orchestra
+keyword	german
+keyword	germany
+keyword	jewish
+keyword	rotterdam netherlands
+keyword	hanging
+keyword	philadelphia pennsylvania
+keyword	escape
+keyword	cigarette smoking
+keyword	cowardice
+keyword	nazi germany
+keyword	corpse
+keyword	snitch
+keyword	jeep
+keyword	ballroom
+keyword	criminal investigation
+keyword	birthday
+keyword	movie projector
+keyword	cello
+keyword	fear
+keyword	music critic
+keyword	reference to richard wagner
+keyword	complicity
+keyword	violinist
+keyword	song
+keyword	archive footage
+keyword	recording
+keyword	war crime
+keyword	heil hitler
+keyword	procurement
+keyword	rubble film
+keyword	liberty
+keyword	chewing gum
+keyword	concentration camp
+keyword	reference to goebbels
+keyword	reference to hermann goering
+keyword	art
+keyword	nuremberg
+keyword	cynicism
+keyword	switzerland
+keyword	bus
+keyword	propaganda
+keyword	belgrade
+keyword	berlin philharmonic orchestra
+keyword	vomit
+keyword	gas chamber
+keyword	air raid
+keyword	cigar smoking
+keyword	concert hall
+keyword	musician
+keyword	ministry of culture
+keyword	drunkenness
+keyword	classical music
+keyword	dead body
+keyword	german army
+keyword	conscience
+keyword	bicycle built for two
+keyword	military conscription
+keyword	singing
+keyword	tandem bicycle
+keyword	berlin germany
+keyword	crematorium
+keyword	denazification
+keyword	trümmerfilm
+keyword	tram
+keyword	reference to albert speer
+keyword	gestapo
+keyword	shorthand
+keyword	french
+keyword	bravery
+keyword	viola
+keyword	patriot
+keyword	liaison
+keyword	u.s. army
+keyword	singer
+keyword	investigation
+keyword	snow
+keyword	dancer
+keyword	jitterbug the dance
+keyword	betrayal
+keyword	bombed out concert hall
+keyword	justice
+keyword	poland
+keyword	telegram
+keyword	russia
+keyword	naivety
+keyword	boat
+keyword	typewriter
+keyword	reference to arturo toscanini
+keyword	hangman
+keyword	catholic
+keyword	band
+keyword	black market
+keyword	conspiracy
+keyword	dancing
+keyword	american flag
+keyword	secretary
+keyword	france
+keyword	reference to schubert
+keyword	string quintet
+keyword	music conductor
+keyword	power failure
+keyword	guilt
+keyword	politics
+keyword	jew
+keyword	newsreel footage
+keyword	rain
+keyword	percussion
+keyword	flashback
+keyword	illegitimate child
+keyword	reference to adolf hitler
+keyword	drinking
+keyword	bomb shelter
+keyword	music conductor's baton
+keyword	slave
+keyword	record player
+keyword	gramophone
+keyword	anti semitism
+keyword	interrogation
+keyword	reference to bob hope
+keyword	chamber music
+keyword	execution
+keyword	innocence
+keyword	world war two
+keyword	timpani
+keyword	exile
+keyword	reference to ludwig von beethoven
+keyword	drink
+keyword	swing music
+keyword	street market
+keyword	hero
+keyword	photograph
+keyword	burning flesh
+keyword	envy
+keyword	oboe
+keyword	lake
+keyword	theatre audience
+keyword	shaving
+keyword	rowboat
+keyword	swastika
+keyword	informer
+keyword	norway
+keyword	reference to betty grable
+keyword	brussels belgium
+keyword	communist
+keyword	third reich
+keyword	culture
+keyword	watching a movie
+keyword	post war germany
+keyword	city in ruins
+keyword	beating
+keyword	palestinian
+keyword	gallows
+keyword	yugoslavia
+keyword	russian
+keyword	bombing
+keyword	based on play
+keyword	
+cast	Harvey Keitel	Major Steve Arnold
+cast	Stellan Skarsgård	Dr. Wilhelm Furtwängler
+cast	Moritz Bleibtreu	Lt. David Wills
+cast	Birgit Minichmayr	Emmi Straube
+cast	Ulrich Tukur	Helmut Alfred Rode, 2nd violinist
+cast	Oleg Tabakov	Colonel Dymshitz
+cast	Hanns Zischler	Rudolf Otto Werner, oboist
+cast	Armin Rohde	Schlee, timpanist
+cast	R. Lee Ermey	General Wallace
+cast	August Zirner	Captain Ed Martin
+cast	Daniel White	Sergeant Adams
+cast	Thomas Thieme	Reichsminister
+cast	Jed Curtis	Colonel Green
+cast	Garrick Hagon	Major Richards
+cast	Robin Renucci	Captain Vernay
+cast	Markus Heinicke	Attendant
+cast	Aleksander Tesla	Projectionist
+cast	Jarreth J. Merz	US Soldier
+cast	Holger Schober	Steve's Driver
+cast	Frank Leboeuf	French Aide
+cast	Philip Bowen	US Aide
+cast	Thomas Morris	British Sergant
+cast	Peter Döring	British Officer
+cast	Rinat Shaham	Jazz Singer
+cast	Werner Armeln	Remer
+cast	Matthias Wilke	Schmidt
+cast	Holger Jahn	Aide 1
+cast	Werner Zwosta	Aide 2
+cast	Thomas Rösicke	Barkeeper 1
+cast	Marco Riccardi	Barkeeper 2
+cast	Jourii Babalikachvili	Russian Aide
+cast	Henry Schindler	U.K. Aide
+cast	Chris Martin	U.S. Soldier
+cast	Benno Wirth	Stallholder
+cast	Ron Hermann	Boy 1
+cast	Valentin Tornow	Boy 2
+cast	Wilhelm Furtwängler	Himself
+cast	Josef Goebbels	Himself
+cast	Heinrich Himmler	Himself
+cast	Adolf Hitler	Himself
+cast	István Szabó	Passanger on Train

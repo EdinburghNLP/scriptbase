@@ -1,0 +1,197 @@
+year	2009
+imdb score	5.8
+meta score	27
+genre	Action
+genre	Sci-Fi
+genre	Thriller
+keyword	game
+keyword	convict
+keyword	death
+keyword	battle
+keyword	online gaming
+keyword	mind control
+keyword	shot in the chest
+keyword	breaking an arm
+keyword	immolation
+keyword	butt slap
+keyword	vodka
+keyword	obese man
+keyword	combat
+keyword	foot blown off
+keyword	satire
+keyword	murder
+keyword	exploding motorcycle
+keyword	bubbles
+keyword	glitch
+keyword	forced to kill
+keyword	s&m
+keyword	shot to death
+keyword	erased memory
+keyword	stabbed in the chest
+keyword	interrogation
+keyword	held at gunpoint
+keyword	hit in the throat
+keyword	shot in the butt
+keyword	dancing
+keyword	hit by a truck
+keyword	punched in the face
+keyword	radio telescope
+keyword	exploding body
+keyword	beaten to death
+keyword	prison
+keyword	aquarium
+keyword	hit by a car
+keyword	licking a knife
+keyword	manipulation
+keyword	song and dance
+keyword	broken back
+keyword	role playing game
+keyword	motorcycle
+keyword	military
+keyword	lesbian kiss
+keyword	broken arm
+keyword	topless female nudity
+keyword	near future
+keyword	laughter
+keyword	husband wife relationship
+keyword	pistol
+keyword	blood splatter
+keyword	time lapse photography
+keyword	shot in the head
+keyword	neck breaking
+keyword	video footage
+keyword	vomit
+keyword	female rear nudity
+keyword	exploding building
+keyword	drunkenness
+keyword	target practice
+keyword	perversion
+keyword	margarita
+keyword	urination
+keyword	truncated icosahedron
+keyword	false memory
+keyword	hunter and the hunted
+keyword	jazz dancing
+keyword	dripping blood
+keyword	pasties
+keyword	extreme closeup
+keyword	thong
+keyword	critically bashed
+keyword	bullet proof vest
+keyword	exploding head
+keyword	kicked in the crotch
+keyword	car chase
+keyword	nanotechnology
+keyword	shot in the foot
+keyword	grenade launcher
+keyword	dance
+keyword	explosion
+keyword	lasersight
+keyword	tattoo
+keyword	threatened with a knife
+keyword	head blown off
+keyword	spoiled child
+keyword	helicopter
+keyword	laundry drying on a clothes line
+keyword	memory
+keyword	child in peril
+keyword	wrongful imprisonment
+keyword	punched in the stomach
+keyword	shootout
+keyword	air hockey
+keyword	tongue piercing
+keyword	miscarriage of justice
+keyword	flashback
+keyword	killed in an elevator
+keyword	shot in the leg
+keyword	pig nose mask
+keyword	film starts with text
+keyword	shot in the forehead
+keyword	rocket
+keyword	f word
+keyword	black light
+keyword	implanted memory
+keyword	machine gun
+keyword	jellyfish
+keyword	bare chested male
+keyword	shotgun
+keyword	fictional reality show
+keyword	taking control of someone's body
+keyword	shot in the back
+keyword	dystopia
+keyword	exploding truck
+keyword	21st century
+keyword	fictional game show
+keyword	lens flare
+keyword	one word title
+keyword	shark
+keyword	dreadlocks
+keyword	blood
+keyword	stabbed in the back
+cast	Gerard Butler	Kable
+cast	Amber Valletta	Angie
+cast	Michael C. Hall	Ken Castle
+cast	Kyra Sedgwick	Gina Parker Smith
+cast	Logan Lerman	Simon
+cast	Alison Lohman	Trace
+cast	Terry Crews	Hackman
+cast	Ramsey Moore	Gorge
+cast	Ludacris	Humanz Brother
+cast	Aaron Yoo	Humanz Dude
+cast	Jonathan Chase	Geek Leader
+cast	Dan Callahan	Backup Geek
+cast	Brighid Fleming	Delia
+cast	Johnny Whitworth	Scotch
+cast	Keith Jardine	Mean Slayer
+cast	Michael Weston	Producer
+cast	Joseph D. Reitman	Board Op
+cast	John de Lancie	Chief of Staff
+cast	Milo Ventimiglia	Rick Rape
+cast	Zoë Bell	Sandra
+cast	John Leguizamo	Freek
+cast	Noel Gugliemi	Upgrade Guard
+cast	Jarvis W. George	Brown Soldier #1
+cast	Jai Stefan	Brown Soldier #2
+cast	Richard Machowicz	Blue Soldier #1
+cast	Ken Smith	Lifer
+cast	Eidan Hanzei	Razorblade
+cast	Dylan Kenin	Train Guard
+cast	Keith David	Agent Keith
+cast	Maggie Lawson	Female News Host #1
+cast	James Roday	News Co-Host #1
+cast	Sam Witwer	Caseworker
+cast	Rebekah Tarin	Dale
+cast	Kate Mulligan	Sorority Chick
+cast	Med Abrous	Pig Face Ron
+cast	Ashley Rickards	2Katchapredator
+cast	Nikita Ramsey	Kumdumpsta #1
+cast	Jade Ramsey	Kumdumpsta #2
+cast	Mimi Michaels	Stikkimuffin
+cast	Sadie Alexandru	Society Victim
+cast	Ariana Scott	Sissypuss Shelley
+cast	Cynthia Robertson	Porn Girl
+cast	Antoinette Antonio	Female News Host #2
+cast	Donnie Smith	News Co-Host #2
+cast	Lloyd Kaufman	Genericon
+cast	Stephanie Mace	Geek Girl
+cast	Adam Loeb	Ben Richard
+cast	Efren Ramirez	DJ
+cast	David Rubin	Lab Tech
+cast	Fred Loeb	Society Concierge
+cast	Michael-David Aragon	Slayer
+cast	Jack Brunacini Jr.	Slayer
+cast	Stephanie Marie Delgado	Sorority Girl
+cast	Hayley Derryberry	Raver
+cast	Christian Di Salvo	Extra
+cast	Pamela Finley	Debutante Glitch
+cast	Daniel J Gonzales	Sniper
+cast	Stacie Jo	Rollerblader #1
+cast	Daniel Knight	Television Executive
+cast	Eric Martinez	Inmate
+cast	David Mate	Rave Blader
+cast	Jared Ortega	Raver
+cast	Paul J. Porter	Mohawk Raver
+cast	Jera Sky	Raver
+cast	Casey Wayne	Raver
+cast	Tyler Williams	Muscular Jogger
+cast	Paul Zepeda	Slayer

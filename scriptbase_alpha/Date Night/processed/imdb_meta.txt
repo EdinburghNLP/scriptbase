@@ -1,0 +1,243 @@
+year	2010
+imdb score	6.3
+meta score	56
+genre	Comedy
+genre	Crime
+genre	Romance
+genre	Thriller
+keyword	reservation
+keyword	city
+keyword	night
+keyword	date
+keyword	restaurant
+keyword	new york city
+keyword	mistaken identity
+keyword	locked bumpers
+keyword	gun
+keyword	lake
+keyword	bouncer
+keyword	car crash
+keyword	cameo
+keyword	soccer mom
+keyword	corrupt politician
+keyword	brother sister relationship
+keyword	tattoo
+keyword	prostitute
+keyword	shot at the camera
+keyword	escape
+keyword	brooklyn bridge
+keyword	threat
+keyword	mother daughter relationship
+keyword	foot chase
+keyword	outtakes during end credits
+keyword	news report
+keyword	burglary
+keyword	walking into a door
+keyword	farce
+keyword	dressing room
+keyword	detective
+keyword	stealing a car
+keyword	held at gunpoint
+keyword	standoff
+keyword	taxi
+keyword	broken windshield
+keyword	2010s
+keyword	mobster
+keyword	security camera
+keyword	dinner date
+keyword	videotape
+keyword	flash drive
+keyword	crime boss
+keyword	kiss
+keyword	coincidence
+keyword	investigation
+keyword	wig
+keyword	taxi driver
+keyword	cell phone
+keyword	subtitled scene
+keyword	sports car
+keyword	italian american
+keyword	irs agent
+keyword	motorcycle
+keyword	father son relationship
+keyword	running
+keyword	car chase
+keyword	thief
+keyword	central park manhattan new york city
+keyword	mexican standoff
+keyword	roof
+keyword	montage
+keyword	love
+keyword	strip club
+keyword	estranged couple
+keyword	firearm pointed at the camera
+keyword	lawyer
+keyword	bar
+keyword	book club
+keyword	thong
+keyword	alarm
+keyword	corrupt cop
+keyword	kissing
+keyword	father daughter relationship
+keyword	pole dance
+keyword	surveillance
+keyword	payphone
+keyword	husband wife relationship
+keyword	helicopter
+keyword	security expert
+keyword	policewoman
+keyword	surprise after end credits
+keyword	marriage
+keyword	bare chested male
+keyword	police
+keyword	car driving
+keyword	breaking a window
+keyword	scene during end credits
+keyword	nanny
+keyword	police chase
+keyword	female detective
+keyword	talking while driving
+keyword	police officer
+keyword	car accident
+keyword	marriage
+keyword	district attorney
+keyword	car
+keyword	urban setting
+keyword	apartment
+keyword	corruption
+keyword	pistol
+keyword	alley
+keyword	gangster
+keyword	scene after end credits
+keyword	boathouse
+keyword	wedding ring
+keyword	arrest
+keyword	wearing a sound wire
+keyword	manhattan new york city
+keyword	danger
+keyword	sexual humor
+keyword	steakhouse
+keyword	police station
+keyword	husband wife relationship
+keyword	woman with glasses
+keyword	wine
+keyword	photograph
+keyword	suburbia
+keyword	new jersey
+keyword	breaking and entering
+keyword	corrupt official
+keyword	antique gun
+keyword	family relationships
+keyword	times square manhattan new york city
+keyword	mother son relationship
+keyword	glasses
+keyword	boat
+keyword	tax adviser
+keyword	disguise
+keyword	knocked out
+keyword	time lapse photography
+keyword	camera phone
+keyword	hit by a car
+keyword	kiss
+keyword	train
+keyword	track suit
+keyword	xbox 360
+keyword	broom
+keyword	surveillance footage
+keyword	pole dancer
+keyword	one night
+keyword	stripper
+keyword	run
+keyword	surprise during end credits
+keyword	black humor
+keyword	car falls into water
+keyword	chrysler building manhattan new york city
+keyword	vomit
+keyword	subway
+keyword	boyfriend girlfriend relationship
+keyword	tattoo on chest
+keyword	shooting
+keyword	babysitter
+keyword	rooftop
+keyword	police raid
+keyword	cartoon on tv
+keyword	on the run
+keyword	central park chase
+keyword	argument
+keyword	swat team
+keyword	israeli
+keyword	chase
+keyword	video camera
+keyword	paddle
+keyword	diner
+keyword	real estate agent
+keyword	writing on hand
+keyword	title spoken by character
+cast	Steve Carell	Phil Foster
+cast	Tina Fey	Claire Foster
+cast	Mark Wahlberg	Holbrooke
+cast	Taraji P. Henson	Detective Arroyo
+cast	Jimmi Simpson	Armstrong
+cast	Common	Collins
+cast	William Fichtner	DA Frank Crenshaw
+cast	Leighton Meester	Katy
+cast	J.B. Smoove	Cabbie
+cast	Kristen Wiig	Haley Sullivan
+cast	Mark Ruffalo	Brad Sullivan
+cast	James Franco	Taste
+cast	Mila Kunis	Whippit
+cast	Bill Burr	Detective Walsh
+cast	Jonathan Morgan Heit	Oliver Foster
+cast	Savannah Paige Rae	Charlotte Foster
+cast	Nick Kroll	Claw Maitre D'
+cast	Olivia Munn	Claw Hostess
+cast	Gal Gadot	Natanya
+cast	Lauren Weedman	Wendy
+cast	Darren Le Gallo	Teaneck Waiter
+cast	Jaye Razor	Peppermint Hippo Doorman
+cast	Gillian Vigman	House-Hunting Woman
+cast	Chayim Frenkel	House-Hunting Man
+cast	Jon Bernthal	Young Man
+cast	Ari Graynor	Young Woman
+cast	Will i Am	Will.I.Am
+cast	Sho Brown	VIP Thug
+cast	Jahnel Curfman	Exotic Dancer #1
+cast	Stella Angelova	Exotic Dancer #2
+cast	Joe Starr	Miletto Thug #1
+cast	John Cenatiempo	Miletto Thug #2
+cast	Katie Gill	Claw Hottie
+cast	Michelle Galdenzi	Claw Hottie
+cast	Stacey Scowley	Book Club Member
+cast	Lourdes Regala	Book Club Member
+cast	Hal Devi	VIP Room Bodyguard
+cast	Dani Playel	VIP Room Dancer #1
+cast	Kat Howland	VIP Room Dancer #2
+cast	Alandrea Martin	VIP Room Dancer #3
+cast	January Adams	Pedestrian
+cast	Jeff Barry	Columbia Student
+cast	Samantha Bee	Woman in Times Square
+cast	Rachel Bernstein	Crenshaw Girl
+cast	Theo Breaux	Nubian Dancer
+cast	Rich Campbell	Pedestrian
+cast	Etalvia Cashin	Model
+cast	Michelle Celeste	Restaurant Patron
+cast	Natalie Cohen	Burlesque Dancer
+cast	Peter Conboy	New York City Police Officer
+cast	Tracy Dali	Nubian Dancer
+cast	Tony DeSean	Model
+cast	Evans Forlidas	Man with Blonde
+cast	Jim Garrity	Successful Financier
+cast	Jeff Grossman	Mob Thug
+cast	Chris Haemmerle	Tourist
+cast	Jason Jones	Man in Times Square
+cast	Vivian Khouri	Classy Bar Patron
+cast	Dianne Kwon	Crenshaw Girl
+cast	Ray Liotta	Joe Miletto
+cast	Karina Michel	Model
+cast	Kate Rogal	Jade
+cast	Dylan Saccoccio	Restaurant Patron
+cast	John J. Schneider	Police Officer
+cast	Woody Schultz	Jeremy - Restaurant Patron
+cast	Sabella Shake	Crenshaw Girl
+cast	Paul Thornton	Diner Patron
+cast	Nikki Tomlinson	Nubian Dancer

@@ -1,0 +1,287 @@
+year	1983
+imdb score	4.9
+meta score	42
+genre	Action
+genre	Comedy
+genre	Fantasy
+genre	Sci-Fi
+keyword	kryptonite
+keyword	computer
+keyword	high school reunion
+keyword	smallville
+keyword	villain
+keyword	high school
+keyword	leaning tower of pisa
+keyword	arizona
+keyword	lifting someone into the air
+keyword	police car
+keyword	stock footage
+keyword	x ray vision
+keyword	fight to the death
+keyword	bar
+keyword	childhood sweetheart
+keyword	diamond
+keyword	umbrella
+keyword	ship captain
+keyword	bingo
+keyword	acid burning
+keyword	actor returns playing different character
+keyword	newspaper staff
+keyword	computer cracker
+keyword	slapstick comedy
+keyword	third part
+keyword	kansas
+keyword	map
+keyword	fake drunkenness
+keyword	olympic games
+keyword	falling from height
+keyword	office
+keyword	oil leak
+keyword	golf club
+keyword	disguise
+keyword	bank robber
+keyword	explosion
+keyword	paycheck
+keyword	child in peril
+keyword	secretary
+keyword	blind man
+keyword	drinking at bar
+keyword	bully
+keyword	mayor
+keyword	based on comic book
+keyword	wedding ceremony
+keyword	computer class
+keyword	reference to kant
+keyword	boy in danger
+keyword	child's birthday
+keyword	piano
+keyword	explosive
+keyword	ship
+keyword	pistol
+keyword	computer operator
+keyword	olympic flame
+keyword	hotel
+keyword	typewriter
+keyword	fight
+keyword	police officer
+keyword	news broadcast
+keyword	olympic torch
+keyword	diner
+keyword	artificial intelligence
+keyword	new job
+keyword	tablecloth
+keyword	human versus computer
+keyword	hot air balloon
+keyword	1980s
+keyword	car accident
+keyword	motor car crusher
+keyword	elevator
+keyword	supernatural power
+keyword	church
+keyword	single parent
+keyword	firefighter
+keyword	fire
+keyword	olympics
+keyword	new york city
+keyword	convertible
+keyword	subway train
+keyword	drunkenness
+keyword	power outage
+keyword	fighting with self
+keyword	bank
+keyword	blindness
+keyword	roman numeral in title
+keyword	bowling
+keyword	computer hacker
+keyword	penthouse
+keyword	pie in the face
+keyword	human alien
+keyword	acid
+keyword	laser beam
+keyword	ski slope
+keyword	exploding truck
+keyword	bus
+keyword	mother son relationship
+keyword	man with glasses
+keyword	world trade center manhattan new york city
+keyword	pulling tablecloth and dishes off table
+keyword	pisa italy
+keyword	italy
+keyword	junkyard
+keyword	golf ball
+keyword	celebration
+keyword	numbered sequel
+keyword	tornado
+keyword	fax machine
+keyword	subway
+keyword	robot
+keyword	combine harvester
+keyword	product placement
+keyword	superhero
+keyword	hot dog stand
+keyword	time magazine
+keyword	welfare office
+keyword	yo yo
+keyword	flying man
+keyword	penthouse apartment
+keyword	punched in the face
+keyword	pay phone
+keyword	satellite
+keyword	photographer
+keyword	canyon
+keyword	coal
+keyword	train
+keyword	dog
+keyword	tragic hero
+keyword	telephone call
+keyword	diamond ring
+keyword	grand canyon
+keyword	heavy rain
+keyword	yelling for help
+keyword	coal miner
+keyword	adapted score
+keyword	super speed
+keyword	alter ego
+keyword	newspaper man
+keyword	jersey
+keyword	helicopter
+keyword	photo booth
+keyword	donkey
+keyword	car crash
+keyword	weather
+keyword	cornfield
+keyword	scene before opening credits
+keyword	perry white
+keyword	ambulance
+keyword	millionaire
+keyword	field
+keyword	rainbow
+keyword	redemption
+keyword	hot dog vendor
+keyword	buddy comedy
+keyword	accountant
+keyword	brother sister relationship
+keyword	picnic
+keyword	colombia
+keyword	character appears on magazine cover
+keyword	bowling alley
+keyword	skiing
+keyword	small town
+keyword	security guard
+keyword	coal mine
+keyword	cafeteria
+keyword	roller skating
+keyword	robot woman
+keyword	automobile junkyard
+keyword	flying
+keyword	oil
+keyword	seeing eye dog
+keyword	frozen water
+keyword	cave
+keyword	roman numbered sequel
+keyword	answering machine
+keyword	wedding
+keyword	snow
+keyword	oil tanker
+keyword	gas station
+keyword	boy
+keyword	falling from the sky
+keyword	phone booth
+keyword	unemployment
+keyword	fire truck
+keyword	fraud
+keyword	taxi
+keyword	rocket
+keyword	alcoholic
+keyword	military uniform
+keyword	german shepherd
+keyword	statue of liberty new york city
+keyword	weather manipulation
+keyword	lake
+keyword	newspaper owner
+keyword	sequel
+keyword	mime
+keyword	newspaper photographer
+keyword	check
+keyword	fan
+keyword	bridge
+keyword	chrysler building manhattan new york city
+keyword	megalomaniac
+keyword	newspaper reporter
+keyword	axe
+keyword	redhead
+keyword	chemical plant
+keyword	revolving door
+keyword	rescue from drowning
+keyword	drinking shots
+keyword	balloon
+keyword	dc comics
+keyword	rooftop
+keyword	old friends reunited
+keyword	super computer
+keyword	convenience store
+keyword	missile
+keyword	megalomaniac businessman
+keyword	two word title
+keyword	embezzlement
+keyword	earth viewed from space
+keyword	cabin
+keyword	oil field
+keyword	coffee
+keyword	scene during opening credits
+keyword	character name in title
+keyword	surprise ending
+cast	Christopher Reeve	Superman / Clark Kent
+cast	Richard Pryor	Gus Gorman
+cast	Jackie Cooper	Perry White
+cast	Marc McClure	Jimmy Olsen
+cast	Annette O'Toole	Lana Lang
+cast	Annie Ross	Vera
+cast	Pamela Stephenson	Lorelei
+cast	Robert Vaughn	Ross Webster
+cast	Margot Kidder	Lois Lane
+cast	Gavan O'Herlihy	Brad
+cast	Nancy Roberts	Unemployment Clerk
+cast	Graham Stark	Blind Man
+cast	Henry Woolf	Penguin Man
+cast	Gordon Rollings	Man In Cap
+cast	Peter Wear	Bank Robber
+cast	Justin Case	Mime
+cast	Bob Todd	Dignified Gent
+cast	Terry Camilleri	Delivery Man
+cast	Stefan Kalipha	Data School Instructor
+cast	Helen Horton	Miss Henderson
+cast	Lou Hirsch	Fred
+cast	Bill Reimbold	Wages Man
+cast	Shane Rimmer	State Policeman
+cast	Al Matthews	Fire Chief
+cast	Barry Dennen	Dr. McClean
+cast	Enid Saunders	Minnie Bannister
+cast	Kevin Harrison Cork	D.J.
+cast	Robert Henderson	Mr. Simpson
+cast	Paul Kaethler	Ricky
+cast	R.J. Bell	Mr. Stokis
+cast	Pamela Mandell	Mrs. Stokis
+cast	Peter Whitman	Man At Cash Point
+cast	Ronnie Brody	Husband
+cast	Sandra Dickinson	Wife
+cast	Philip Gilbert	Newsreader
+cast	Pat Starr	White Coated Scientist
+cast	Gordon Signer	Mayor
+cast	John Bluthal	Pisa Vendor
+cast	George Chisholm	Street Sweeper
+cast	David Fielder	Olympic Runner
+cast	Robert Beatty	Tanker Captain
+cast	Christopher Malcolm	1st Miner
+cast	Larry Lamb	2nd Miner
+cast	Frank Oz	Brain Surgeon
+cast	Roy Alon	Man Trapped in Car
+cast	Stan Edmonds	Applauding Man
+cast	Les Kimber	Bus Driver
+cast	Grant Lowe	Cab Driver
+cast	Derek Lyons	Commuter
+cast	Mildred Shay	Woman in Elevator
+cast	Aaron Smolinski	Boy at Photo Booth
+cast	Geoffrey Steele	Man in Elevator
+cast	David Winning	Commuter
+cast	Fred Wood	Dole Recipient - next to Richard Pryor

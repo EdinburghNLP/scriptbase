@@ -1,0 +1,188 @@
+year	2002
+imdb score	5.4
+meta score	33
+genre	Action
+genre	Drama
+genre	Thriller
+keyword	colombia
+keyword	terrorism
+keyword	explosion
+keyword	taser
+keyword	river
+keyword	hand to hand combat
+keyword	murder
+keyword	exploding car
+keyword	falling down a waterfall
+keyword	snake in mouth
+keyword	mercenary
+keyword	dead woman with eyes open
+keyword	gatling gun
+keyword	crotch grab
+keyword	generator
+keyword	amazing grace hymn
+keyword	female fbi agent
+keyword	choking
+keyword	false identity
+keyword	electrocution
+keyword	toilet
+keyword	rocket launcher
+keyword	attaché case
+keyword	one man army
+keyword	destroying a room
+keyword	elevator shaft
+keyword	fugitive
+keyword	roadblock
+keyword	female psychopath
+keyword	taking the law into one's own hands
+keyword	shot in the neck
+keyword	hero kills a woman
+keyword	snake
+keyword	jungle
+keyword	shootout
+keyword	drug cartel
+keyword	hospital
+keyword	electrocution of a woman
+keyword	loss of wife
+keyword	guerilla
+keyword	psychopath
+keyword	box office flop
+keyword	police
+keyword	stabbed in the chest
+keyword	deception
+keyword	corrupt official
+keyword	torture
+keyword	gas
+keyword	dead woman on floor
+keyword	hit by a car
+keyword	righteous rage
+keyword	brawl
+keyword	fragments of glass
+keyword	axe
+keyword	fbi
+keyword	helicopter
+keyword	latin america
+keyword	woman breaks woman's neck
+keyword	fireman
+keyword	jailbreak
+keyword	woman's neck broken
+keyword	loss of son
+keyword	fire
+keyword	washington d.c.
+keyword	woman killing a woman
+keyword	elevator
+keyword	mortar
+keyword	funeral
+keyword	circular saw
+keyword	los angeles california
+keyword	neck breaking
+keyword	elastic
+keyword	violence
+keyword	prison
+keyword	impersonating a police officer
+keyword	shot in the forehead
+keyword	bus
+keyword	passport
+keyword	revenge
+keyword	cia
+keyword	bomb
+keyword	toy
+keyword	martial arts
+keyword	biting of ear
+keyword	severed ear
+keyword	cocaine production
+keyword	police officer neck broken
+keyword	motorcycle
+keyword	shot to death
+keyword	machine gun
+keyword	fistfight
+keyword	massacre
+keyword	axe murder
+keyword	woman kills woman
+keyword	gas explosion
+keyword	mixed martial arts
+keyword	policewoman killing
+keyword	restaurant
+keyword	hit in the crotch
+keyword	tramp
+keyword	opening action scene
+keyword	waterfall
+keyword	hand grenade
+keyword	pistol
+keyword	death of mother
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Arnold Schwarzenegger	Gordy Brewer
+cast	Francesca Neri	Selena Perrini
+cast	Elias Koteas	Peter Brandt
+cast	Cliff Curtis	Claudio Perrini
+cast	John Leguizamo	Felix Ramirez
+cast	John Turturro	Sean Armstrong
+cast	Jsu Garcia	Roman
+cast	Tyler Posey	Mauro
+cast	Michael Milhoan	Jack
+cast	Rick Worthy	Ronnie
+cast	Raymond Cruz	Junior
+cast	Lindsay Frost	Anne Brewer
+cast	Ethan Dampf	Matt Brewer
+cast	Jorge Zepeda	Rocha
+cast	Miguel Sandoval	Joe Phipps
+cast	Harry Lennix	Dray
+cast	Madison Mason	Undersecretary Shrub
+cast	Don Fischer	Paramedic
+cast	Shelley Malil	Doctor
+cast	Jack Conley	Forensic Specialist
+cast	Todd Allen	FBI Agent
+cast	Rick Garcia	CNN Anchor
+cast	Penny Griego	Jenni Luz
+cast	John Verea	Ephraim Ortiz-Dominguez
+cast	Greg Collins	Agent #3
+cast	Bruce Ramsay	Brandt's Aide
+cast	Michael Cavanaugh	Chairman Paul Devereaux
+cast	Nicholas Pryor	Senator Delich
+cast	Rodrigo Obregón	Rodrigo
+cast	Gerardo Albarrán	Jorge
+cast	J. Kenneth Campbell	Ed Coonts
+cast	Flor Eduarda Gurrola	Teenage Girl
+cast	Pedro Altamirano	Fisherman
+cast	Salvador Sánchez	Peddler
+cast	Fernando Sarfatti	Federale
+cast	Raul Pozos	Ernesto
+cast	Ehécatl Chávez	Augustin
+cast	Víctor Carpinteiro	Carlos
+cast	Natalia Traven	Lita
+cast	Enrique Munoz	Captain Miguel
+cast	Omar Ayala	Boatman
+cast	Pedro Damián	Guerilla Motorista aka River Rat
+cast	Millie Slavin	Secretary of State Barbara Ramsey
+cast	Jane Lynch	Agent Russo
+cast	Jossara Jinaro	Rosetta
+cast	Clint Lilley	Buzz Cut
+cast	Marianne Lewis	Agent Davis
+cast	Louis Bernstein	Hot Dog Vendor
+cast	Doralicia	Hysterical Woman
+cast	Jay Acovone	Bennie
+cast	Ronald Donahue	Bomb Squad
+cast	Robert 'Bobby Z' Zajonc	Helicopter Pilot #1
+cast	Daniel H. Friedman	Helicopter Pilot #2
+cast	Joe Renteria	Safe House Guerrilla
+cast	Norm Compton	Brandt's Bodyguard
+cast	Esteban Cueto	Estaban
+cast	Robert Alonzo	Guard
+cast	Kevin Beard	Agent Phipps-Driver and FBI Agent
+cast	Jennifer Bobiwash	Columbian Guerilla
+cast	John Timothy Botka	FBI Agent
+cast	Mike DiGiacinto	Brandt's Assistant
+cast	Jonny Fair	Maitre D'
+cast	Brian Freifield	L.A. Fire Chief
+cast	Alan Gates	Swat Team
+cast	Paul G. Gray	FBI Agent
+cast	Ben Hisoler	State Department Official
+cast	Eric Lichtenberg	County Sheriff
+cast	Troy Martin	HazMat Worker
+cast	Ken Moreno	Soldier
+cast	Marcio Rosario	El Lobo's Assistant
+cast	John Strand	Shrub Bodyguard
+cast	Sven-Ole Thorsen	Bomb Victim
+cast	Clyde Tull	State Department Official
+cast	Cristo Yánez	The Snitch

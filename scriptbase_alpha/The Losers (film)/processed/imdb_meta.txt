@@ -1,0 +1,325 @@
+year	2010
+imdb score	6.4
+meta score	44
+genre	Action
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	mission
+keyword	special forces
+keyword	betrayal
+keyword	cia
+keyword	mumbai india
+keyword	hard drive
+keyword	bolivia
+keyword	drug lord
+keyword	double cross
+keyword	jungle
+keyword	suicide mission
+keyword	revenge
+keyword	presumed dead
+keyword	teddy bear
+keyword	falling to death
+keyword	flirting
+keyword	kicked in the face
+keyword	bare chested male
+keyword	indecent exposure
+keyword	husband wife relationship
+keyword	henchman
+keyword	school bus
+keyword	punched in the face
+keyword	river
+keyword	cowboy hat
+keyword	shotgun
+keyword	interracial sex
+keyword	electromagnet
+keyword	deception
+keyword	glove
+keyword	terrorist plot
+keyword	freeze frame
+keyword	timebomb
+keyword	ocean
+keyword	tear gas
+keyword	airport
+keyword	faked death
+keyword	martial arts
+keyword	bodyguard
+keyword	explosive
+keyword	mikoyan gurevich mig 21
+keyword	missile
+keyword	fugitive
+keyword	fake accent
+keyword	hiding in a coffin
+keyword	motorcycle
+keyword	exploding motorcycle
+keyword	taco
+keyword	robinson r44 raven helicopter
+keyword	teamwork
+keyword	diversion
+keyword	coffin
+keyword	shot in the chest
+keyword	colonel
+keyword	premarital sex
+keyword	exploding helicopter
+keyword	topless female nudity
+keyword	headset
+keyword	mercenary
+keyword	covert operation
+keyword	soccer game
+keyword	hacking
+keyword	held at gunpoint
+keyword	changing clothes
+keyword	heavy rain
+keyword	explosion
+keyword	shot through a window
+keyword	knocked out with a gun butt
+keyword	electrocution
+keyword	new mexico
+keyword	night vision binoculars
+keyword	hot dog stand
+keyword	kicked in the stomach
+keyword	secretary
+keyword	conspiracy
+keyword	island
+keyword	midget
+keyword	product placement
+keyword	megacorporation
+keyword	duct tape
+keyword	slow motion scene
+keyword	toy
+keyword	exploding plane
+keyword	gash in the face
+keyword	hummer
+keyword	head butt
+keyword	shootout
+keyword	sunglasses
+keyword	docks
+keyword	hit in the crotch
+keyword	helicopter
+keyword	indian
+keyword	reference to godzilla
+keyword	soccer team
+keyword	evil man
+keyword	interrogation
+keyword	card game
+keyword	hit with a chair
+keyword	elevator
+keyword	based on comic
+keyword	threatened with a knife
+keyword	american flag
+keyword	tracking device
+keyword	killed with a propeller
+keyword	tranquilizer dart
+keyword	niece
+keyword	swat team
+keyword	walkie talkie
+keyword	latin american
+keyword	sucked into jet engine
+keyword	chicken fight
+keyword	torture
+keyword	exploding airplane
+keyword	throwing a bottle
+keyword	los angeles california
+keyword	pistol
+keyword	miami florida
+keyword	laptop
+keyword	driver
+keyword	dog tag
+keyword	child in peril
+keyword	closing credits sequence
+keyword	fragments of glass
+keyword	falling from height
+keyword	wristwatch
+keyword	pentagon
+keyword	theft
+keyword	sociopath
+keyword	strangulation
+keyword	gas grenade
+keyword	pregnancy
+keyword	detonator
+keyword	shipping container
+keyword	husband wife reunion
+keyword	world domination
+keyword	traitor
+keyword	wound
+keyword	based on graphic novel
+keyword	ak 47
+keyword	car crash
+keyword	handcuffs
+keyword	shot in the face
+keyword	revolver
+keyword	anti aricraft missle
+keyword	outrunning explosion
+keyword	mirror
+keyword	stabbed in the arm
+keyword	no opening credits
+keyword	american muscle
+keyword	abandoned warehouse
+keyword	military
+keyword	disguise
+keyword	bikini
+keyword	ipod
+keyword	eye gouging
+keyword	champagne
+keyword	silencer
+keyword	stun gun
+keyword	spit in the face
+keyword	pilot
+keyword	surgery
+keyword	rooftop
+keyword	sniper rifle
+keyword	photograph
+keyword	fire
+keyword	vertigo comics
+keyword	falling through a rooftop window
+keyword	black ops
+keyword	interracial kiss
+keyword	flash drive
+keyword	shot in the arm
+keyword	tattoo
+keyword	soldier
+keyword	toy factory
+keyword	machine gun
+keyword	rocket
+keyword	female fighter
+keyword	motorcycle stunt
+keyword	swimming pool
+keyword	weapons testing
+keyword	kicked in the head
+keyword	facial piercing
+keyword	breaking a bottle over someone's head
+keyword	shot in the head
+keyword	money
+keyword	media coverage
+keyword	sabotage
+keyword	jumping from height
+keyword	tied up
+keyword	helicopter shot down
+keyword	burning money
+keyword	canadian
+keyword	security guard
+keyword	exploding building
+keyword	bus
+keyword	hospital
+keyword	reference to macgyver
+keyword	murder
+keyword	exploding car
+keyword	hotel room
+keyword	umbrella
+keyword	cockfight
+keyword	finger gun
+keyword	man punching a woman
+keyword	death threat
+keyword	beach
+keyword	dc comics
+keyword	burned to death
+keyword	bullet proof vest
+keyword	megalomaniac
+keyword	knife
+keyword	aerospatiale sa 330 puma helicopter
+keyword	money laundering
+keyword	doll factory
+keyword	child murder
+keyword	computer cracker
+keyword	nuclear weapon
+keyword	ambush
+keyword	woman punching a man
+keyword	money falling through the air
+keyword	binoculars
+keyword	hijacking
+keyword	tv set
+keyword	u.s. army
+keyword	terrorism
+keyword	dark humor
+keyword	gas mask
+keyword	bar
+keyword	computer
+keyword	whiskey
+keyword	disfigurement
+keyword	glasses
+keyword	cell phone
+keyword	shot through a door
+keyword	punched in the stomach
+keyword	tranquilizer gun
+keyword	ship
+keyword	taco stand
+keyword	skip motion
+keyword	rocket launcher
+keyword	rescue
+keyword	based on comic book
+keyword	puerto rico
+keyword	playing go fish
+keyword	crossbow
+keyword	50 calibre machine gun
+keyword	tape recorder
+keyword	scar
+keyword	pregnant wife
+keyword	shot in the neck
+keyword	rogue agent
+keyword	sniper
+keyword	scene during end credits
+keyword	suitcase
+keyword	cemetery
+keyword	man with glasses
+keyword	street vendor
+keyword	thrown from a rooftop
+keyword	lens flare
+keyword	armored truck
+keyword	bobble head doll
+keyword	lasersight
+keyword	arms dealer
+keyword	grapple
+keyword	motel
+keyword	airplane
+keyword	surprise during end credits
+keyword	hotel
+keyword	mexican standoff
+keyword	yacht
+keyword	fighter jet
+keyword	robbery
+keyword	gasoline
+keyword	blood
+keyword	death of father
+keyword	death of child
+keyword	title spoken by character
+keyword	surprise ending
+cast	Jeffrey Dean Morgan	Clay
+cast	Zoe Saldana	Aisha
+cast	Chris Evans	Jensen
+cast	Idris Elba	Roque
+cast	Columbus Short	Pooch
+cast	Óscar Jaenada	Cougar
+cast	Jason Patric	Max
+cast	Holt McCallany	Wade
+cast	Peter Macdissi	Vikram
+cast	Peter Francis James	Fadhil
+cast	Tanee McCall-Short	Jolene
+cast	Mark Ginther	Goliath Guard
+cast	Daniel Kalal	Goliath Guard
+cast	Colin Follenweider	Goliath Guard
+cast	Garrett Warren	Goliath Guard
+cast	Rey Hernandez	Armored Car Guard
+cast	Ernesto Morales	Nabil
+cast	Evan Mirand	Lead Chryon Guard
+cast	Noel Estrella	Indian Thug Leader
+cast	Gunner Wright	Jet Pilot
+cast	Robert Slavonia	Mr. Anderson
+cast	Debbie Ann Rivera	Mr. Anderson's Secretary
+cast	Kirk Sullivan	Transport Helicopter Pilot
+cast	Marcos Davila	Thug on Bus
+cast	Alanis M. Salinas	Little Girl at Compound
+cast	Manuel O. Velazquez	Boy with Teddy Bear
+cast	Thomas R. Nunan III	Pentagon Offical
+cast	John Galindez	MIG Pilot
+cast	Lindsey Sutton	E.M.T.
+cast	Alan J. Trudeau	E.M.T.
+cast	Rafael Lopez Diaz	Short Indian Scientist
+cast	Norman Grant	Delivery Room Doctor
+cast	Krissy Korn	Referee
+cast	Murisa Harba	Pretty Girl in Bleachers
+cast	Mariselle Morales	Bar Patron
+cast	Jadah Lynn Platt	Petunias Soccer Player
+cast	Ramiro 'Ramir' Delgado Ruiz	Tourist
+cast	Isaac Santiago	Soldier
+cast	Carla Tricoli	Extra

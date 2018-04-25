@@ -1,0 +1,241 @@
+year	1984
+imdb score	8.1
+meta score	84
+genre	Action
+genre	Sci-Fi
+keyword	the terminator
+keyword	future
+keyword	skynet
+keyword	soldier
+keyword	cyborg
+keyword	warrior
+keyword	future war
+keyword	war against machines
+keyword	robotics
+keyword	waitress
+keyword	thrown through a glass door
+keyword	assault rifle
+keyword	crashing through a door
+keyword	news report
+keyword	time travel
+keyword	shootout in a police station
+keyword	blood
+keyword	post nuclear war
+keyword	lifting a male into the air
+keyword	fictional war
+keyword	cyberpunk
+keyword	fate
+keyword	famous opening theme
+keyword	cigarette smoking
+keyword	exploding car
+keyword	eye gouging
+keyword	death
+keyword	shot in the back
+keyword	murder of a policewoman
+keyword	death of title character
+keyword	pregnancy
+keyword	violence
+keyword	stabbed in the chest
+keyword	woman on top
+keyword	topless female nudity
+keyword	kiss
+keyword	kissing while having sex
+keyword	gun store
+keyword	555 phone number
+keyword	psychiatrist
+keyword	biting someone's hand
+keyword	nuclear war
+keyword	switchblade
+keyword	blood splatter
+keyword	mercilessness
+keyword	blonde
+keyword	phone booth
+keyword	self surgery
+keyword	on the run
+keyword	kissing
+keyword	spanish
+keyword	villain played by lead actor
+keyword	torso cut in half
+keyword	one man army
+keyword	photograph
+keyword	exploding body
+keyword	killing an animal
+keyword	catch phrase
+keyword	corpse
+keyword	motel
+keyword	famous line
+keyword	fugitive sex
+keyword	action hero
+keyword	hand through chest
+keyword	power outage
+keyword	shot through a wall
+keyword	pump action shotgun
+keyword	sex
+keyword	killer robot
+keyword	uzi
+keyword	shot in the chest
+keyword	machine gun
+keyword	bare breasts
+keyword	sawed off shotgun
+keyword	disarming someone
+keyword	punched in the face
+keyword	android
+keyword	critically acclaimed
+keyword	blockbuster
+keyword	suspense
+keyword	subjective camera
+keyword	shootout
+keyword	impersonating a police officer
+keyword	police
+keyword	truck
+keyword	ambush
+keyword	parking garage
+keyword	factory
+keyword	mexico
+keyword	sunglasses
+keyword	part of series
+keyword	dystopia
+keyword	loss of loved one
+keyword	cult film
+keyword	thrown through a window
+keyword	laser gun
+keyword	talking to an unborn baby
+keyword	premarital sex
+keyword	pistol
+keyword	female nudity
+keyword	hacking
+keyword	altering history
+keyword	hydraulic press
+keyword	gun fu
+keyword	lasersight
+keyword	body armor
+keyword	one against many
+keyword	exploding truck
+keyword	tech noir
+keyword	neo noir
+keyword	hand to hand combat
+keyword	megacorporation
+keyword	murder
+keyword	post apocalypse
+keyword	male frontal nudity
+keyword	crushed to death
+keyword	shot to death
+keyword	sole black character dies cliche
+keyword	gun shop
+keyword	fistfight
+keyword	crushed by a car
+keyword	dream
+keyword	homemade explosive
+keyword	m 16
+keyword	impersonation
+keyword	artificial intelligence
+keyword	photo booth
+keyword	los angeles california
+keyword	bare chested male
+keyword	brawl
+keyword	heart ripped out
+keyword	interview
+keyword	2020s
+keyword	stalker
+keyword	gore
+keyword	slow motion scene
+keyword	time travel romance
+keyword	hit by a truck
+keyword	urban setting
+keyword	lifting someone into the air
+keyword	technology
+keyword	stealing a car
+keyword	character's point of view camera shot
+keyword	police station
+keyword	threatened with a knife
+keyword	phone book
+keyword	self sacrifice
+keyword	martial arts
+keyword	first part
+keyword	technology gone amok
+keyword	shotgun
+keyword	totalitarianism
+keyword	alternate history
+keyword	nightclub
+keyword	tough guy
+keyword	urban
+keyword	robot as menace
+keyword	department store
+keyword	social commentary
+keyword	recording
+keyword	lizard
+keyword	gash in the face
+keyword	combat
+keyword	knife
+keyword	pipe bomb
+keyword	skull
+keyword	foot chase
+keyword	held at gunpoint
+keyword	man versus machine
+keyword	1980s
+keyword	gunfight
+keyword	dual wield
+keyword	goth
+keyword	techne
+keyword	first of series
+keyword	hero
+keyword	mixed martial arts
+keyword	car chase
+keyword	diner
+keyword	opening action scene
+keyword	car crash
+keyword	sex scene
+keyword	murder of a police officer
+keyword	mistaken identity
+keyword	shot in the forehead
+keyword	battle
+keyword	death of friend
+keyword	title spoken by character
+keyword	character name in title
+keyword	
+cast	Arnold Schwarzenegger	Terminator
+cast	Michael Biehn	Kyle Reese
+cast	Linda Hamilton	Sarah Connor
+cast	Paul Winfield	Lieutenant Ed Traxler
+cast	Lance Henriksen	Detective Hal Vukovich
+cast	Rick Rossovich	Matt Buchanan
+cast	Bess Motta	Ginger Ventura
+cast	Earl Boen	Dr. Peter Silberman
+cast	Dick Miller	Pawn Shop Clerk
+cast	Shawn Schepps	Nancy
+cast	Bruce M. Kerner	Desk Sergeant
+cast	Franco Columbu	Future Terminator
+cast	Bill Paxton	Punk Leader
+cast	Brad Rearden	Punk
+cast	Brian Thompson	Punk
+cast	William Wisher Jr.	Policeman
+cast	Ken Fritz	Policeman
+cast	Tom Oberhaus	Policeman
+cast	Ed Dogans	Cop in Alley
+cast	Joe Farago	TV Anchorman
+cast	Hettie Lynne Hurtes	TV Anchorwoman
+cast	Tony Mirelez	Station Attendant
+cast	Philip Gordon	Mexican Boy
+cast	Anthony Trujillo	Mexican Boy
+cast	Stan Yale	Derelict
+cast	Al Kahn	Customer
+cast	Leslie Morris	Customer
+cast	Hugh Farrington	Customer
+cast	Harriet Medin	Customer
+cast	Loree Frazier	Customer
+cast	James Ralston	Customer
+cast	Norman Friedman	Cleaning Man
+cast	Barbara Powers	Ticket Taker
+cast	Wayne Stone	Tanker Driver
+cast	David Hyde Pierce	Tanker Partner
+cast	John E. Bristol	Phone Booth Man
+cast	Webster Williams	Reporter
+cast	Patrick Pinney	Bar Customer
+cast	Bill W. Richmond	Bartender
+cast	Chino 'Fats' Williams	Truck Driver
+cast	Greg Robbins	Motel Customer
+cast	Marianne Muellerleile	Wrong Sarah
+cast	John Durban	Sentry
+cast	J. Randolph Harrison	Policeman
+cast	Darrell Mapson	Bar Patron at Pay Phone with Sarah
+cast	John Stuart West	MacDougal

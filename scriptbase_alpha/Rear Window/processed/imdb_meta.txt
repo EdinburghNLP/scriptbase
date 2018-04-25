@@ -1,0 +1,268 @@
+year	1954
+imdb score	8.6
+meta score	N/A
+genre	Mystery
+genre	Thriller
+keyword	apartment
+keyword	neighbor
+keyword	salesman
+keyword	photographer
+keyword	nurse
+keyword	invalid
+keyword	newlywed
+keyword	broken leg
+keyword	wheelchair
+keyword	dog
+keyword	composer
+keyword	courtyard
+keyword	dancer
+keyword	traveling salesman
+keyword	detective
+keyword	window shade
+keyword	bed
+keyword	apartment building
+keyword	piano
+keyword	sleeping
+keyword	fire escape
+keyword	yapping dog
+keyword	trunk
+keyword	murder
+keyword	brushing hair
+keyword	rope
+keyword	hearing aid
+keyword	drink
+keyword	ice delivery man
+keyword	sitting
+keyword	telephoto lens
+keyword	murder of wife
+keyword	pills
+keyword	book
+keyword	face slap
+keyword	witness
+keyword	balcony
+keyword	dating
+keyword	eating alone
+keyword	long take
+keyword	helicopter
+keyword	milkman
+keyword	girl friday
+keyword	death of a pet
+keyword	police
+keyword	dismemberment
+keyword	older man younger woman relationship
+keyword	hatbox
+keyword	secretly observing
+keyword	street life
+keyword	wine
+keyword	ring
+keyword	ballet dancer
+keyword	money
+keyword	note
+keyword	slide photograph
+keyword	dance practice
+keyword	pajamas
+keyword	itch
+keyword	reading
+keyword	massage
+keyword	radio
+keyword	binoculars
+keyword	class differences
+keyword	blinded by camera flash
+keyword	wedding ring
+keyword	pianist
+keyword	suitcase
+keyword	meta film
+keyword	viewfinder
+keyword	note slid under a door
+keyword	u.s. soldier
+keyword	leg in cast
+keyword	photography
+keyword	flash camera
+keyword	bachelor
+keyword	postcard
+keyword	marriage
+keyword	cafe
+keyword	single set production
+keyword	brandy snifter
+keyword	nightgown
+keyword	ethics
+keyword	packing
+keyword	blackmail
+keyword	cigarette box
+keyword	thermometer
+keyword	songwriter
+keyword	spectator
+keyword	reference to general motors
+keyword	anonymous telephone call
+keyword	restaurant
+keyword	shaving
+keyword	musical scale
+keyword	brandy
+keyword	friendship
+keyword	waking up
+keyword	policeman
+keyword	clothes line
+keyword	may december romance
+keyword	darkness
+keyword	electric razor
+keyword	strangling a dog
+keyword	pakistan
+keyword	bazaar magazine
+keyword	loneliness
+keyword	venetian blind
+keyword	voyeurism
+keyword	alligator handbag
+keyword	husband wife relationship
+keyword	writing on leg cast
+keyword	watching
+keyword	photojournalist
+keyword	burglary
+keyword	cigarette smoking
+keyword	21 the restaurant manhattan new york city
+keyword	crying
+keyword	bird cage
+keyword	whistling
+keyword	cigar smoking
+keyword	trowel
+keyword	back scratcher
+keyword	innocent bystander
+keyword	age difference
+keyword	new york city
+keyword	suicidal thoughts
+keyword	imaginary dinner date
+keyword	claustrophobia
+keyword	temporary blindness
+keyword	suicide attempt
+keyword	character's point of view camera shot
+keyword	canary
+keyword	lobster
+keyword	older man young girl relationship
+keyword	miss lonely hearts
+keyword	telephone call
+keyword	photograph
+keyword	yawning
+keyword	flashbulb
+keyword	mattress
+keyword	lechery
+keyword	rainstorm
+keyword	theft
+keyword	thrown out window
+keyword	drinking
+keyword	blockbuster
+keyword	injury
+keyword	reference to reader's digest
+keyword	hanging from a window ledge
+keyword	butcher knife
+keyword	food
+keyword	two word title
+keyword	gender
+keyword	climbing a fence
+keyword	toes
+keyword	sculptor
+keyword	voyeur
+keyword	kiss
+keyword	falling asleep
+keyword	bride and groom
+keyword	heat wave
+keyword	arrest
+keyword	suspicion
+keyword	falling from a window
+keyword	based on short story
+keyword	phone book
+keyword	handbag
+keyword	sandwich
+keyword	camera
+keyword	breaking and entering
+keyword	socialite
+keyword	knife
+keyword	waiter
+keyword	watching through window
+keyword	hanging up without saying goodbye
+keyword	singing lesson
+keyword	bail
+keyword	ice bucket
+keyword	listening to a radio
+keyword	torso
+keyword	sleeping on fire escape
+keyword	sculpture
+keyword	carrying bride across threshold
+keyword	screaming
+keyword	recovery
+keyword	coffee
+keyword	dead dog
+keyword	1950s
+keyword	manhattan new york city
+keyword	beach chair
+keyword	fear
+keyword	world war two veteran
+keyword	party
+keyword	telephone
+keyword	killing a dog
+keyword	flower bed
+keyword	underwear
+keyword	moving man
+keyword	model
+keyword	feminine intuition
+keyword	urban setting
+keyword	falling from height
+keyword	costume jewelry salesman
+keyword	jewelry
+keyword	garden
+keyword	man on the verge of tears
+keyword	carried over threshold
+keyword	police lieutenant
+keyword	greenwich village manhattan new york city
+keyword	subjective camera
+keyword	song
+keyword	attacking someone in a wheelchair
+keyword	east river new york city
+keyword	climbing a fire escape
+keyword	fight
+keyword	police detective
+keyword	amateur detective
+keyword	director cameo
+keyword	alleyway
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	James Stewart	L.B. 'Jeff' Jefferies
+cast	Grace Kelly	Lisa Carol Fremont
+cast	Wendell Corey	Det. Lt. Thomas J. Doyle
+cast	Thelma Ritter	Stella
+cast	Raymond Burr	Lars Thorwald
+cast	Judith Evelyn	Miss Lonelyhearts
+cast	Ross Bagdasarian	Songwriter
+cast	Georgine Darcy	Miss Torso
+cast	Sara Berner	Woman on Fire Escape
+cast	Frank Cady	Man on Fire Escape
+cast	Jesslyn Fax	Miss Hearing Aid
+cast	Rand Harper	Newlywed
+cast	Irene Winston	Mrs. Emma Thorwald
+cast	Havis Davenport	Newlywed
+cast	Jerry Antes	Dancer with Miss Torso
+cast	Barbara Bailey	Choreographer with Miss Torso
+cast	Benny Bartlett	Man with Miss Torso
+cast	Nick Borgani	Minor Role
+cast	Sue Casey	Sunbather
+cast	Iphigenie Castiglioni	Woman with Bird
+cast	James Cornell	Minor Role
+cast	Don Dunning	Detective
+cast	Marla English	Girl at Songwriter's Party
+cast	Bess Flowers	Songwriter's Party Guest with Poodle
+cast	Art Gilmore	Radio Announcer
+cast	Fred Graham	Detective
+cast	Kathryn Grant	Girl at Songwriter's Party
+cast	Charles Harvey	Minor Role
+cast	Len Hendry	Policeman
+cast	Alfred Hitchcock	Clock-Winder in Songwriter's Apartment
+cast	Harry Landers	Man with Miss Lonelyhearts
+cast	Alan Lee	Newlyweds' Landlord
+cast	Mike Mahoney	Policeman
+cast	Jonni Paris	Sunbather
+cast	Eddie Parker	Detective
+cast	Robert Sherman	Minor Role
+cast	Dick Simmons	Man with Miss Torso
+cast	Ralph Smiley	Carl
+cast	Jack Stoney	Ice Man
+cast	Anthony Warde	Detective
+cast	Gig Young	Jeff's Editor

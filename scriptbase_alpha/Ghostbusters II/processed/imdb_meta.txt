@@ -1,0 +1,129 @@
+year	1989
+imdb score	6.4
+meta score	56
+genre	Action
+genre	Adventure
+genre	Comedy
+genre	Fantasy
+genre	Sci-Fi
+keyword	ghostbuster
+keyword	ghost
+keyword	baby
+keyword	painting
+keyword	slime
+keyword	new york city
+keyword	river of slime
+keyword	single mother
+keyword	1980s
+keyword	sequel
+keyword	555 phone number
+keyword	infant nudity
+keyword	christmas
+keyword	statue of liberty new york city
+keyword	deadpan
+keyword	crude humor
+keyword	reference to slinky
+keyword	ghost train
+keyword	possession
+keyword	bathtub
+keyword	blackout
+keyword	chrysler building manhattan new york city
+keyword	two way mirror
+keyword	black comedy
+keyword	blockbuster
+keyword	art museum
+keyword	scream
+keyword	bookstore
+keyword	new year's eve
+keyword	social commentary
+keyword	allegory
+keyword	revolving door
+keyword	lifting someone into the air
+keyword	paranormal investigation
+keyword	hope
+keyword	auld lang syne
+keyword	manhattan new york city
+keyword	stop motion animation
+keyword	telekinesis
+keyword	supernatural power
+keyword	titanic
+keyword	walking on a ledge
+keyword	irreverence
+keyword	occult research
+keyword	reincarnation
+keyword	man with glasses
+keyword	no opening credits
+keyword	product placement
+keyword	friendship
+keyword	idealism
+keyword	sewer
+keyword	hetero chromia
+keyword	cynicism
+keyword	strait jacket
+keyword	cult film
+keyword	old flame
+keyword	courtroom
+keyword	nudity
+cast	Bill Murray	Dr. Peter Venkman
+cast	Dan Aykroyd	Dr. Raymond Stantz
+cast	Sigourney Weaver	Dana Barrett
+cast	Harold Ramis	Dr. Egon Spengler
+cast	Rick Moranis	Louis Tully
+cast	Ernie Hudson	Winston Zeddemore
+cast	Annie Potts	Janine Melnitz
+cast	Peter MacNicol	Dr. Janosz Poha
+cast	Harris Yulin	The Judge
+cast	David Margulies	The Mayor of NY
+cast	Kurt Fuller	Hardemeyer
+cast	Janet Margolin	The Prosecutor
+cast	Wilhelm von Homburg	Vigo
+cast	William T. Deutschendorf	Baby Oscar
+cast	Henry J. Deutschendorf II	Baby Oscar
+cast	Michael P. Moran	Frank the Doorman
+cast	Olivia Ward	Meter Maid
+cast	Mordecai Lawner	Man with a Ticket
+cast	Susan Boehm	Young Woman on Crutches
+cast	Mary Ellen Trainor	Brownstone Mother
+cast	Christopher Villaseñor	Brownstone Boy #1
+cast	Jason Reitman	Brownstone Boy #2
+cast	Aaron Lustig	Norman the Producer
+cast	Page Leong	Spengler's Assistant
+cast	Mark Schneider	Arguing Couple
+cast	Valery Pappas	Arguing Couple
+cast	Catherine Reitman	Girl with Puppy
+cast	Dave Florek	First Cop
+cast	Richard Foronjy	Con Ed Supervisor
+cast	George P. Wilbur	Bailiff
+cast	Sharon Kramer	Stenographer
+cast	Walter Flanagan	Rudy the Museum Guard
+cast	Bobby Brown	Mayor's Doorman
+cast	Christopher Neame	Maitre D'
+cast	Judy Ovitz	Slimed Restaurant Patron
+cast	Tom Dugan	Restaurant Cop #1
+cast	Angelo Dimascio	Restaurant Cop #2
+cast	Robert Alan Beuth	Store Manager
+cast	Ralph Monaco	Police Sergeant
+cast	Ron Cummins	Police Lieutenant
+cast	Cheech Marin	Dock Supervisor
+cast	Yvette Cruise	Maria, Dana's Maid
+cast	John Hammil	Detective #1
+cast	Ray Glanzmann	Detective #2
+cast	Alex Zimmerman	Detective #3
+cast	Brian Doyle-Murray	Psychiatrist
+cast	Louise Troy	Woman with Fur Coat
+cast	Douglas Seale	Plaza Hotel Man
+cast	Ben Stein	Public Works Official
+cast	Erik Holland	Fire Commissioner
+cast	Philip Baker Hall	Police Commissioner
+cast	Eugene Levy	Sherman Tully
+cast	Steve Baker	Telephone Man
+cast	George G. Colucci	Man in Cab
+cast	Cibby Danyla	Jason's Mom
+cast	Kevin Dunn	Milton Angland
+cast	Donna Guidry	Art Restoration Student
+cast	Peter Papageorgiou	Spectator
+cast	Kariim Ratcliff	Crowd Member
+cast	Ivan Reitman	Man Walking Outside Firehouse / Slimer
+cast	Ira S. Rosenstein	Stage Manager
+cast	Max von Sydow	Vigo
+cast	Chloe Webb	Elaine

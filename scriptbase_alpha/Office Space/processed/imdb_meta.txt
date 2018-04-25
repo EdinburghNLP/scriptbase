@@ -1,0 +1,159 @@
+year	1999
+imdb score	7.9
+meta score	68
+genre	Comedy
+keyword	neighbor
+keyword	office
+keyword	computer
+keyword	software engineer
+keyword	downsizing
+keyword	waitress
+keyword	boss
+keyword	date
+keyword	computer engineer
+keyword	redneck
+keyword	heart attack
+keyword	rap music
+keyword	coffee
+keyword	inner awakening
+keyword	man with glasses
+keyword	mexico
+keyword	corporate
+keyword	business consultant
+keyword	revenge
+keyword	beach resort
+keyword	slacker
+keyword	break up
+keyword	raised middle finger
+keyword	philosophy
+keyword	laziness
+keyword	finger gun
+keyword	computer virus
+keyword	birthday party
+keyword	guilt
+keyword	embezzlement
+keyword	coworker relationship
+keyword	oversleeping
+keyword	based on short film
+keyword	freeze frame
+keyword	frustration
+keyword	tow truck
+keyword	flair
+keyword	computer fraud
+keyword	call center
+keyword	office work
+keyword	fax machine
+keyword	character repeating someone else's dialogue
+keyword	burnout
+keyword	slow motion scene
+keyword	celibacy
+keyword	static electricity
+keyword	fraud
+keyword	cult film
+keyword	immigrant
+keyword	1990s
+keyword	stapler
+keyword	restaurant
+keyword	kung fu
+keyword	cake
+keyword	midlife crisis
+keyword	answering machine
+keyword	tetris
+keyword	patronizing
+keyword	fired from the job
+keyword	smarm
+keyword	bar
+keyword	satire
+keyword	unlikely criminal
+keyword	door to door salesman
+keyword	boss from hell
+keyword	thirty something
+keyword	office worker
+keyword	stress
+keyword	traffic jam
+keyword	suicide attempt
+keyword	post it
+keyword	blackmail
+keyword	topless female nudity
+keyword	porsche
+keyword	anger
+keyword	fishing
+keyword	black comedy
+keyword	cubicle
+keyword	automated teller machine
+keyword	jealousy
+keyword	confession
+keyword	flashback
+keyword	dallas texas
+keyword	cult film
+keyword	sex scene
+keyword	arson
+keyword	fat lady
+keyword	disgruntled worker
+keyword	drone
+keyword	power drill
+keyword	suburbia
+keyword	dream sequence
+keyword	dancing
+keyword	friends falling out
+keyword	hypnosis
+keyword	las colinas
+keyword	information technology
+keyword	baseball bat
+keyword	corporate world
+keyword	friendship
+keyword	place of work
+keyword	cheating on one's boyfriend
+keyword	computer cracker
+keyword	wheelchair
+keyword	remake
+keyword	construction worker
+keyword	party
+keyword	job promotion
+keyword	car accident
+keyword	handicapped parking
+keyword	mumbling
+keyword	office party
+keyword	anxiety
+keyword	y2k
+keyword	fire
+keyword	office space
+keyword	surprise ending
+keyword	
+cast	Ron Livingston	Peter Gibbons
+cast	Jennifer Aniston	Joanna
+cast	David Herman	Michael Bolton
+cast	Ajay Naidu	Samir Nagheenanajar
+cast	Diedrich Bader	Lawrence
+cast	Stephen Root	Milton Waddams
+cast	Gary Cole	Bill Lumbergh
+cast	Richard Riehle	Tom Smykowski
+cast	Alexandra Wentworth	Anne
+cast	Joe Bays	Dom Portwood
+cast	John C. McGinley	Bob Slydell
+cast	Paul Willson	Bob Porter
+cast	Kinna McInroe	Nina
+cast	Todd Duffey	Brian - Chotchkie's Waiter
+cast	Greg Pitts	Drew
+cast	Michael McShane	Dr. Swanson
+cast	Linda Wakeman	Laura Smykowski
+cast	Jennifer Jane Emerson	Female Temp
+cast	Kyle Scott Jackson	Rob Newhouse - Smykowski's Lawyer
+cast	Orlando Jones	Steve - Magazine Salesman
+cast	Barbara George-Reiss	Peggy - Lumbergh's Secretary
+cast	Tom Schuster	Construction Foreman
+cast	Rupert Reyes	Mexican Waiter
+cast	Jackie Belvin	Swanson's Patient #1
+cast	Gabriel Folse	Swanson's Patient #2
+cast	Jesse De Luna	Cop at Fire
+cast	Mike Judge	Stan - Chotchkie's Manager
+cast	Justin Possenti	Spectator
+cast	Jack Betts	Judge
+cast	Charissa Allen	Jogger
+cast	Bob Crain	Sleepy Office Worker
+cast	Natalie Denning	Initech Employee
+cast	Samantha Inoue Harte	Initech Employee
+cast	Mark Kubiak	Initech Employee
+cast	K. Todd Lytle	Rush Hour Driver
+cast	David Sharp	Rush Hour Driver
+cast	Fabian Watkins	Pedestrian

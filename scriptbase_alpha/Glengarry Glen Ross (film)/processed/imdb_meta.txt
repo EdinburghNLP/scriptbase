@@ -1,0 +1,96 @@
+year	1992
+imdb score	7.9
+meta score	80
+genre	Drama
+keyword	real estate
+keyword	office
+keyword	robbery
+keyword	contest
+keyword	subway
+keyword	telephone book
+keyword	psychological manipulation
+keyword	detective
+keyword	chicago illinois
+keyword	pessimism
+keyword	business
+keyword	wage slave
+keyword	mislaid trust
+keyword	capitalism
+keyword	ambiguous title
+keyword	men's bathroom
+keyword	husband wife relationship
+keyword	fired from the job
+keyword	boss
+keyword	drink
+keyword	father daughter relationship
+keyword	corrupting influence of capitalism
+keyword	illinois
+keyword	office manager
+keyword	desperation
+keyword	employee theft
+keyword	employment
+keyword	one day
+keyword	pulitzer prize source
+keyword	lie
+keyword	phone booth
+keyword	threat of termination
+keyword	telephone sales
+keyword	chinese restaurant
+keyword	wristwatch
+keyword	hospital
+keyword	competition
+keyword	sex
+keyword	cigarette smoking
+keyword	money
+keyword	cafe
+keyword	florida
+keyword	breaking and entering
+keyword	meeting
+keyword	cheating
+keyword	new york city
+keyword	arizona
+keyword	bar
+keyword	con man
+keyword	umbrella
+keyword	pay phone
+keyword	closeted homosexual
+keyword	power
+keyword	salesman
+keyword	police investigation
+keyword	scheme
+keyword	restaurant
+keyword	repetition in title
+keyword	deception
+keyword	real estate agent
+keyword	liar
+keyword	rain
+keyword	employer employee relationship
+keyword	gay slur
+keyword	telephone call
+keyword	man with glasses
+keyword	all male cast
+keyword	drinking
+keyword	dignity
+keyword	despair
+keyword	independent film
+keyword	based on play
+cast	Al Pacino	Ricky Roma
+cast	Jack Lemmon	Shelley Levene
+cast	Alec Baldwin	Blake
+cast	Alan Arkin	George Aaronow
+cast	Ed Harris	Dave Moss
+cast	Kevin Spacey	John Williamson
+cast	Jonathan Pryce	James Lingk
+cast	Bruce Altman	Larry Spannel
+cast	Jude Ciccolella	Detective
+cast	Paul Butler	Policeman
+cast	Lori Tan Chinn	Coat Check Girl
+cast	Neal Jones	Man in Donut Shop
+cast	Barry Rohrssen	Assistant Detective
+cast	Leigh French	Additional Voices
+cast	George Cheung	Additional Voices
+cast	Murphy Dunne	Additional Voices
+cast	Dana Lee	Additional Voices
+cast	Julie Payne	Additional Voices
+cast	Gregory Snegoff	Additional Voices
+cast	Skipp Lynch	Telephone Service Man

@@ -1,0 +1,182 @@
+year	1998
+imdb score	7.8
+meta score	41
+genre	Comedy
+keyword	american dream
+keyword	drugs
+keyword	lawyer
+keyword	journalist
+keyword	convertible
+keyword	race
+keyword	hitchhiker
+keyword	motorcycle
+keyword	reporter
+keyword	gonzo journalist
+keyword	slow motion scene
+keyword	psychedelia
+keyword	cult film
+keyword	typewriter
+keyword	experimental film
+keyword	leaving without paying
+keyword	gibberish
+keyword	photographer
+keyword	misanthropy
+keyword	vietnam era
+keyword	ether
+keyword	whirlwind
+keyword	surrealism
+keyword	sweaty face
+keyword	las vegas nevada
+keyword	knife
+keyword	vomit
+keyword	wedding chapel
+keyword	police convention
+keyword	hitchhiking
+keyword	smiling
+keyword	cannabis
+keyword	singapore sling
+keyword	on the road
+keyword	american flag
+keyword	cigarette holder
+keyword	paranoia
+keyword	desert
+keyword	flyswatter
+keyword	mens room
+keyword	place name in title
+keyword	hallucination
+keyword	1970s
+keyword	drug abuse
+keyword	writer
+keyword	debauchery
+keyword	telephone booth
+keyword	hedonism
+keyword	cadillac convertible
+keyword	threatened with a knife
+keyword	midget
+keyword	beach
+keyword	looking at self in mirror
+keyword	electric typewriter
+keyword	magnum handgun
+keyword	critically bashed
+keyword	white rabbit
+keyword	bar
+keyword	smoking
+keyword	highway patrol
+keyword	city name in title
+keyword	high on drugs
+keyword	bathtub
+keyword	black comedy
+keyword	overweight
+keyword	corvette stingray
+keyword	flamingo hotel las vegas
+keyword	year 1965
+keyword	casino
+keyword	plotless
+keyword	cult director
+keyword	walker
+keyword	rum
+keyword	author cameo
+keyword	flying trapeze
+keyword	fake identity
+keyword	merry go round
+keyword	rolling stone magazine
+keyword	absurd
+keyword	hit by a car
+keyword	circus
+keyword	journalism
+keyword	anti war protest
+keyword	roadtrip
+keyword	lsd
+keyword	elevator
+keyword	grapefruit
+keyword	bat
+keyword	lizard
+keyword	mescaline
+keyword	cocaine
+keyword	hotel
+keyword	tuxedo
+keyword	film starts with text
+keyword	narrated by character
+keyword	drunk driving
+keyword	monster
+keyword	dwarf
+keyword	based on true story
+keyword	based on novel
+cast	Johnny Depp	Raoul Duke
+cast	Benicio Del Toro	Dr Gonzo
+cast	Tobey Maguire	Hitchhiker
+cast	Ellen Barkin	Waitress at North Star Cafe
+cast	Gary Busey	Highway Patrolman
+cast	Katherine Helmond	Desk Clerk at Mint Hotel
+cast	Michael Jeter	L. Ron Bumquist
+cast	Mark Harmon	Magazine Reporter
+cast	Penn Jillette	Carnie Talker
+cast	Craig Bierko	Lacerda
+cast	Lyle Lovett	Road Person
+cast	Flea	Musician
+cast	Laraine Newman	Frog-Eyed Woman
+cast	Harry Dean Stanton	Judge
+cast	Tim Thomerson	Hoodlum
+cast	Michael Lee Gogin	Uniformed Dwarf
+cast	Larry Cedar	Car Rental Agent - Los Angeles
+cast	Brian Le Baron	Parking Attendant
+cast	Michael Warwick	Bell Boy
+cast	Tyde Kierney	Reporter
+cast	Richard Riehle	Dune Buggy Driver
+cast	Ransom Gates	Dune Buggy Passenger
+cast	Frank Romano	Dune Buggy Passenger
+cast	Gil Boccaccio	Desert Inn Doorman
+cast	Cameron Diaz	Blonde TV Reporter
+cast	Gary Bruno	Desert Inn Doorman
+cast	Richard Portnow	Wine Colored Tuxedo
+cast	Steve Schirripa	Goon
+cast	Verne Troyer	Wee Waiter
+cast	Will Blount	The Black Guy
+cast	Ben Yeagar	Clown Barker
+cast	Christopher Callen	Bazooka's Circus Waitress
+cast	Christopher Meloni	Clerk at Flamingo Hotel
+cast	Benjamin A. van der Veen	TV Crew Man
+cast	Alex Craig Mann	Stockbroker
+cast	Christina Ricci	Lucy
+cast	Gregory Itzin	Clerk at Mint Hotel
+cast	Troy Evans	Police Chief
+cast	Gale Baker	Police Chief's Wife
+cast	Chris Hendrie	Executive Director
+cast	Larry Brandenburg	Cop in Back
+cast	Donald Morrow	Voice of Drug Film Narrator
+cast	Jenette Goldstein	Alice the Maid
+cast	Stephen Bridgewater	Human Cannonball
+cast	Buck Holland	Shopper
+cast	Mary Gillis	Shopper
+cast	Jennifer Elise Cox	Shopper
+cast	Robert Allen	Car Rental Agent - Los Angeles
+cast	David Brisbin	Man in Car
+cast	James O'Sullivan	Newscaster
+cast	Milt Tarver	Newscaster
+cast	Kathryn Alexander	Lounge Lizard
+cast	Mia Babalis	Lounge Lizard
+cast	Kristin Draudt	Lounge Lizard
+cast	Kim Flowers	Lounge Lizard
+cast	Nan Friedman	Lounge Lizard
+cast	Judith Lieff	Lounge Lizard
+cast	Tane McClure	Lounge Lizard
+cast	Diana Mehoudar	Lounge Lizard
+cast	Geoffrey B. Nimmer	Lounge Lizard
+cast	Marlene Bologna	Trapeze Artist
+cast	Chobi Gyorgy	Trapeze Artist
+cast	Karen E. Castoldi	Trapeze Artist
+cast	Lisa Hoyle	Trapeze Artist
+cast	Joseph S. Griffo	Trapeze Artist
+cast	Trudi Forristal	Lizard Performer
+cast	Debbie Reynolds	Herself
+cast	Ray Cooper	Distinguished Man
+cast	Kacee DeMasi	Hooker
+cast	Eva Ford	American Flag Girl
+cast	Matthew Hurley	Street Performer
+cast	Bryce Ingman	Man With White Elephant
+cast	Khris Kaneff	Pit Boss
+cast	Brian D. Kline	Medical Angel
+cast	Walter Ludwig	Race Official Mark Allen
+cast	Tony Mouleart	Hotel Valet
+cast	Warren Ross	Tent Doorman
+cast	Hunter S. Thompson	Other Duke in Matrix Flashback

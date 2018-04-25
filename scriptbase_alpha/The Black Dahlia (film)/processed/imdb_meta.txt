@@ -1,0 +1,366 @@
+year	2006
+imdb score	5.6
+meta score	49
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	black dahlia
+keyword	police
+keyword	investigation
+keyword	1940s
+keyword	death
+keyword	murder
+keyword	partner
+keyword	boxer
+keyword	detective
+keyword	actress
+keyword	corpse
+keyword	fight
+keyword	love
+keyword	friend
+keyword	autopsy
+keyword	suitcase
+keyword	whodunit
+keyword	porno film
+keyword	hatred
+keyword	typewriter
+keyword	bathroom
+keyword	boxing referee
+keyword	murder of sister
+keyword	pornography
+keyword	flashlight
+keyword	blood splatter
+keyword	lesbian relationship
+keyword	shootout
+keyword	first person narrative
+keyword	coward
+keyword	photographer
+keyword	hollywood california
+keyword	lesbian bar
+keyword	class differences
+keyword	running
+keyword	u.s. soldier
+keyword	shooting one's self in the head
+keyword	publicity
+keyword	coconut grove
+keyword	gangster
+keyword	bartender
+keyword	female frontal nudity
+keyword	motorcycle
+keyword	boxing match
+keyword	camera
+keyword	macarthur park los angeles
+keyword	following someone
+keyword	cadaver
+keyword	dog
+keyword	rooftop
+keyword	mutilation
+keyword	telephone call
+keyword	los angeles california
+keyword	shooting pigeons
+keyword	band
+keyword	hobo
+keyword	hotel
+keyword	truck
+keyword	beating
+keyword	bigot
+keyword	slow motion scene
+keyword	torso cut in half
+keyword	reading
+keyword	killing an animal
+keyword	sister sister relationship
+keyword	obsession
+keyword	gun
+keyword	topless female nudity
+keyword	father daughter relationship
+keyword	femme fatale
+keyword	painting
+keyword	baseball bat
+keyword	anal sex
+keyword	underage drinking
+keyword	doppelganger
+keyword	dysfunctional marriage
+keyword	child murder
+keyword	tuxedo
+keyword	throat slitting
+keyword	violence
+keyword	silent movie
+keyword	old people's home
+keyword	chandelier
+keyword	police detective
+keyword	policeman
+keyword	bare breasts
+keyword	gymnasium
+keyword	santa barbara california
+keyword	drink
+keyword	garrote
+keyword	hollywood sign
+keyword	drinking
+keyword	disembowelment
+keyword	jew
+keyword	chase
+keyword	erection
+keyword	knocked out
+keyword	robbery
+keyword	singer
+keyword	lesbianism
+keyword	lesbian
+keyword	liar
+keyword	flash camera
+keyword	broken leg
+keyword	incest
+keyword	theatre audience
+keyword	gun in mouth
+keyword	los angeles city hall
+keyword	chelsea smile
+keyword	burnt body
+keyword	torture
+keyword	riot
+keyword	interrogation
+keyword	subjective camera
+keyword	gardena california
+keyword	racial slur
+keyword	theft
+keyword	scottish american
+keyword	reference to alan ladd
+keyword	flashback
+keyword	flower in title
+keyword	greed
+keyword	aspiring actress
+keyword	reference to the keystone kops
+keyword	dance band
+keyword	film within a film
+keyword	newspaper
+keyword	cremation
+keyword	police academy
+keyword	post world war two
+keyword	bicycle
+keyword	padlock
+keyword	southern american accent
+keyword	unconsciousness
+keyword	police chief
+keyword	mirror
+keyword	blood
+keyword	disfigured face
+keyword	shot in the forehead
+keyword	socialite
+keyword	color in title
+keyword	mother daughter relationship
+keyword	cigarette smoking
+keyword	sex
+keyword	drive by the sea
+keyword	friendship
+keyword	pet store
+keyword	plant in title
+keyword	criminal
+keyword	lie
+keyword	starlet
+keyword	kiss
+keyword	neo noir
+keyword	sparring
+keyword	reference to david o selznick
+keyword	dismemberment
+keyword	racial discrimination
+keyword	park
+keyword	antique
+keyword	dead woman on floor
+keyword	forensic psychologist
+keyword	mattress
+keyword	movie projector
+keyword	switchblade
+keyword	police station
+keyword	female wearing a tuxedo
+keyword	three word title
+keyword	zoot suit
+keyword	rain
+keyword	hiding place
+keyword	reference to mack sennett
+keyword	pride
+keyword	knife
+keyword	stuffed dog
+keyword	rapist
+keyword	chorus girl
+keyword	bare chested male
+keyword	shooting
+keyword	shed
+keyword	nurse
+keyword	happy new year
+keyword	watching a movie
+keyword	diner
+keyword	scar
+keyword	wealth
+keyword	husband wife relationship
+keyword	unsolved crime
+keyword	dildo
+keyword	earthquake
+keyword	pimp
+keyword	cross dressing
+keyword	singing
+keyword	fountain
+keyword	street fight
+keyword	nudity
+keyword	redemption
+keyword	crying
+keyword	song
+keyword	bank robbery
+keyword	reference to scarlett o'hara
+keyword	men's bathroom
+keyword	lesbian slur
+keyword	sex crime
+keyword	blackmail
+keyword	exploding head
+keyword	male nudity
+keyword	german
+keyword	nightclub
+keyword	suicide
+keyword	pigeon
+keyword	screen test
+keyword	voice over narration
+keyword	lesbian kiss
+keyword	photograph
+keyword	san quentin
+keyword	female nudity
+keyword	swing music
+keyword	breaking and entering
+keyword	model airplane
+keyword	pistol
+keyword	deception
+keyword	dancer
+keyword	black american
+keyword	reference to hitler
+keyword	cook
+keyword	cutting someone's face
+keyword	tool box
+keyword	mugshot
+keyword	deputy district attorney
+keyword	box office flop
+keyword	surveillance
+keyword	shot through the mouth
+keyword	police officer
+keyword	police car
+keyword	drunkenness
+keyword	tears
+keyword	police captain
+keyword	teeth knocked out
+keyword	secret
+keyword	u.s. sailor
+keyword	falling from height
+keyword	strangulation
+keyword	ice
+keyword	shot in the chest
+keyword	reference to rita hayworth
+keyword	dead body
+keyword	anti semitism
+keyword	hollywood boulevard
+keyword	hidden money
+keyword	gunshot
+keyword	jewish american
+keyword	bare butt
+keyword	election
+keyword	female reproductive organs
+keyword	raven
+keyword	summary execution
+keyword	racial violence
+keyword	underwear
+keyword	fire
+keyword	chinatown los angeles
+keyword	money
+keyword	father son relationship
+keyword	carving into human flesh
+keyword	suicide by gunshot
+keyword	movie extra
+keyword	teeth
+keyword	flash forward
+keyword	california
+keyword	glasgow smile
+keyword	silent movie theatre
+keyword	movie set
+keyword	year 1946
+keyword	prostitute
+keyword	falling through a staircase
+keyword	biltmore hotel los angeles
+keyword	champagne
+keyword	building contractor
+keyword	scene of the crime
+keyword	dancing
+keyword	alcoholic
+keyword	beach
+keyword	bird's eye shot
+keyword	thief
+keyword	year 1947
+keyword	boxing
+keyword	crow
+keyword	ambition
+keyword	bank
+keyword	dressing
+keyword	split in two
+keyword	okie
+keyword	gash in the face
+keyword	death of sister
+keyword	locker room
+keyword	cigarette holder
+keyword	gardener
+keyword	finding a dead body
+keyword	initials
+keyword	stag film
+keyword	father daughter incest
+keyword	dead dog
+keyword	motel
+keyword	sex on a table
+keyword	millionaire
+keyword	circular staircase
+keyword	beastiality
+keyword	boyfriend girlfriend relationship
+keyword	police corruption
+keyword	woman shot
+keyword	african american
+keyword	love triangle
+keyword	falling to death
+keyword	death of friend
+keyword	death of child
+keyword	based on true story
+keyword	based on novel
+cast	Josh Hartnett	Dwight 'Bucky' Bleichert
+cast	Scarlett Johansson	Kay Lake
+cast	Aaron Eckhart	Lee Blanchard
+cast	Hilary Swank	Madeleine Linscott
+cast	Mia Kirshner	Elizabeth Short
+cast	Mike Starr	Det. Russ Millard
+cast	Fiona Shaw	Ramona Linscott
+cast	Patrick Fischler	Deputy DA Ellis Loew
+cast	James Otis	Dolph Bleichert
+cast	John Kavanagh	Emmett Linscott
+cast	Troy Evans	Chief Ted Green
+cast	Anthony Russell	Morrie Friedman
+cast	Pepe Serna	Tomas Dos Santos
+cast	Angus MacInnes	Capt. John Tierney
+cast	Rachel Miner	Martha Linscott
+cast	Victor McGuire	Sgt. Bill Koenig
+cast	Gregg Henry	Pete Lukins
+cast	Jemima Rooper	Lorna Mertz
+cast	Rose McGowan	Sheryl Saddon
+cast	Luis Daniel Ponce	Mp
+cast	Graham Norris	Cop
+cast	Mike O'Connell	Shore Patrol
+cast	Michael P. Flannigan	Desk Officer
+cast	John Solari	Baxter Fitch
+cast	Stephanie L. Moore	Baxter Fitch's Girlfriend
+cast	Noel Arthur	Gunman #1
+cast	Todd Thomas	Gunman #2
+cast	Steve Eastin	Detective
+cast	Ian McNeice	Coroner
+cast	Claudia Katz	Frolic Bartender
+cast	Mia Frye	Laverne Bartender
+cast	Richard Brake	Bobby DeWitt
+cast	William Finley	George Tilden
+cast	Joost Scholte	Madeleine's GI
+cast	Fatso-Fasano	Dealer
+cast	Teo	Friedman's Tough Guy #1
+cast	Kiril Efremov	Friedman's Tough Guy #2
+cast	Petar Milchev	Perp
+cast	Désirée Cyganek	Lesbian Bar Dancer
+cast	Brian De Palma	Elizabeth's Screen Test Director
+cast	Kevin Dunn	Elizabeth Short's Father
+cast	k.d. lang	Lesbian Bar Singer
+cast	David Raibon	Black Man

@@ -1,0 +1,133 @@
+year	1983
+imdb score	6.0
+meta score	N/A
+genre	Action
+genre	Adventure
+genre	Fantasy
+genre	Sci-Fi
+keyword	fortress
+keyword	planet
+keyword	king
+keyword	monster
+keyword	rescue
+keyword	army
+keyword	seer
+keyword	kingdom
+keyword	quest
+keyword	magic weapon
+keyword	sword
+keyword	alien
+keyword	wedding
+keyword	cavalry
+keyword	forest
+keyword	axe
+keyword	swashbuckler
+keyword	bigamist
+keyword	final battle
+keyword	b movie
+keyword	lightsaber
+keyword	sorcerer
+keyword	rescue mission
+keyword	eye
+keyword	abduction
+keyword	crushed to death
+keyword	trail of blood
+keyword	david and goliath
+keyword	sword fight
+keyword	sword and fantasy
+keyword	hourglass
+keyword	space opera
+keyword	action hero
+keyword	sword and sorcery
+keyword	dark fantasy
+keyword	battle
+keyword	falling from height
+keyword	self sacrifice
+keyword	fate
+keyword	spider
+keyword	mountain
+keyword	swamp
+keyword	hero
+keyword	combat
+keyword	kiss
+keyword	end of war
+keyword	bravery
+keyword	transformation
+keyword	love interest
+keyword	marsh
+keyword	adventure hero
+keyword	cult film
+keyword	laser gun
+keyword	interrupted wedding
+keyword	shot with a laser gun
+keyword	doppelganger
+keyword	coward
+keyword	showdown
+keyword	robbers
+keyword	fictional planet
+keyword	friendship
+keyword	sword and planet
+keyword	gunfight
+keyword	cliche
+keyword	one word title
+keyword	comic relief
+keyword	river battle
+keyword	love
+keyword	shootout
+keyword	magical artifact
+keyword	fictional war
+keyword	castle
+keyword	warrior
+keyword	smoke
+keyword	battlefield
+keyword	symbol
+keyword	fire
+keyword	quicksand
+keyword	old man
+keyword	dead body
+keyword	plot hole
+keyword	building collapse
+keyword	spiderweb
+keyword	cyclops
+keyword	web
+keyword	blind man
+keyword	lava
+keyword	box office flop
+keyword	siege
+keyword	horse
+keyword	giant spider
+keyword	vengeance
+keyword	changeling
+keyword	true love
+keyword	spear
+keyword	death of friend
+keyword	death of father
+keyword	
+cast	Ken Marshall	Colwyn
+cast	Lysette Anthony	Lyssa
+cast	Freddie Jones	Ynyr
+cast	Francesca Annis	Widow of the Web
+cast	Alun Armstrong	Torquil
+cast	David Battley	Ergo
+cast	Bernard Bresslaw	Cyclops
+cast	Liam Neeson	Kegan
+cast	John Welsh	Seer
+cast	Graham McGrath	Titch
+cast	Tony Church	Turold
+cast	Bernard Archard	Eirig
+cast	Belinda Mayne	Vella
+cast	Dicken Ashworth	Bardolph
+cast	Todd Carty	Oswyn
+cast	Robbie Coltrane	Rhun
+cast	Clare McIntyre	Merith
+cast	Bronco McLoughlin	Nennog
+cast	Andy Bradford	Darro
+cast	Gerard Naprous	Quain
+cast	Bill Weston	Menno
+cast	Lindsay Crouse	Princess Lyssa
+cast	Michael Elphick	Rhun
+cast	Derek Lyons	White Slayer with Tiger
+cast	Trevor Martin	The Beast
+cast	Dinny Powell	Slayer in the Swamp
+cast	Nosher Powell	Slayer in the Swamp
+cast	Tom Rumpf	Sword Fighter

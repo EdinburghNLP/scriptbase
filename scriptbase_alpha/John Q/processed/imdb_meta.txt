@@ -1,0 +1,253 @@
+year	2002
+imdb score	7.0
+meta score	30
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	hospital
+keyword	heart
+keyword	doctor
+keyword	hostage
+keyword	insurance
+keyword	heart failure
+keyword	emergency room
+keyword	heart transplant
+keyword	baseball
+keyword	song
+keyword	organ donation
+keyword	death of daughter
+keyword	reference to hillary clinton
+keyword	sleeping
+keyword	ambulance
+keyword	physician
+keyword	nosebleed
+keyword	cigarette smoking
+keyword	blood transfusion
+keyword	bureaucracy
+keyword	tv newscaster
+keyword	medical profession
+keyword	mayor
+keyword	childbirth
+keyword	kidnapper kidnapped relationship
+keyword	singing
+keyword	car accident
+keyword	shot in the arm
+keyword	anti republican
+keyword	pickup truck
+keyword	welding
+keyword	eating
+keyword	health insurance
+keyword	walkie talkie
+keyword	hymn
+keyword	gun
+keyword	standoff
+keyword	father son relationship
+keyword	identity swap
+keyword	tow truck
+keyword	chicago illinois
+keyword	helicopter
+keyword	reference to ted demme
+keyword	sick child
+keyword	demonstration
+keyword	mack truck
+keyword	robbery
+keyword	racial slur
+keyword	jury
+keyword	dying
+keyword	court
+keyword	reference to jay leno
+keyword	national health
+keyword	telephone call
+keyword	suffering
+keyword	ambulance driver
+keyword	hospital administrator
+keyword	rifle
+keyword	baseball hat
+keyword	camera crew
+keyword	suicide threat
+keyword	reporter
+keyword	repossession
+keyword	pregnancy
+keyword	police chief
+keyword	judge
+keyword	nurse
+keyword	mercedes
+keyword	police car
+keyword	fatigue
+keyword	montage
+keyword	kidnapping
+keyword	little league
+keyword	kitchen
+keyword	underwear
+keyword	drunk driving
+keyword	kicking
+keyword	politics
+keyword	mistaken identity
+keyword	video surveillance
+keyword	reckless driving
+keyword	tv news
+keyword	heavy machinery
+keyword	medicine
+keyword	shot in the chest
+keyword	crying
+keyword	father daughter relationship
+keyword	hostage negotiator
+keyword	mace the repellent
+keyword	truck
+keyword	heart in hand
+keyword	reference to jesse jackson
+keyword	corpse
+keyword	hiv
+keyword	morality
+keyword	heart surgeon
+keyword	courtroom
+keyword	bus
+keyword	orderly
+keyword	police
+keyword	bureaucrat
+keyword	bronco the car
+keyword	pawnshop
+keyword	food
+keyword	reference to bill maher
+keyword	surgery
+keyword	death
+keyword	prayer
+keyword	stabbed in the arm
+keyword	surgeon
+keyword	medical insurance
+keyword	telescope
+keyword	blood
+keyword	wig
+keyword	universal health care
+keyword	factory
+keyword	terminal illness
+keyword	factory worker
+keyword	desperation
+keyword	reference to gloria allred
+keyword	health care
+keyword	hmo
+keyword	ppo
+keyword	waiting on a miracle
+keyword	trial
+keyword	auto repossession
+keyword	church
+keyword	verbal abuse
+keyword	choir
+keyword	ethics
+keyword	road trip
+keyword	air conditioning
+keyword	supermarket
+keyword	latina
+keyword	air duct
+keyword	shooting
+keyword	sniper
+keyword	abusive boyfriend
+keyword	duct tape
+keyword	mother son relationship
+keyword	watching tv
+keyword	insurance company
+keyword	kicked in the crotch
+keyword	gun in mouth
+keyword	arrest
+keyword	security guard
+keyword	money
+keyword	hippocratic oath
+keyword	firefighter
+keyword	financial problem
+keyword	family relationships
+keyword	marriage
+keyword	second job
+keyword	thumb wrestling
+keyword	christian
+keyword	flexing muscles
+keyword	grade school
+keyword	fight
+keyword	body building
+keyword	swat team
+keyword	job interview
+keyword	red tape
+keyword	tears
+keyword	crash victim
+keyword	reference to adriana huffington
+keyword	reference to larry king
+keyword	organ donor
+keyword	parking garage
+keyword	title spoken by character
+keyword	character name in title
+keyword	surprise ending
+keyword	
+cast	Gabriela Oltean	Beautiful BMW Driver
+cast	Denzel Washington	John Quincy Archibald
+cast	Kimberly Elise	Denise Archibald
+cast	Ron Annabelle	Tow Truck Driver
+cast	Daniel E. Smith	Michael 'Mike' Archibald
+cast	David Thornton	Jimmy Palumbo
+cast	Barry G. King	Employee Manager
+cast	Laura Harring	Gina Palumbo
+cast	Kevin Connolly	Steve Maguire
+cast	Larissa Laskin	Dr. Ellen Klein
+cast	Vanessa Branch	Registered Nurse
+cast	Stephanie Moore	Admitting Nurse
+cast	James Finnerty	Nurse Reggie
+cast	Anne Heche	Rebecca Payne
+cast	James Woods	Dr. Raymond Turner
+cast	Michael Jaye	Insurance Rep
+cast	Yanna McIntosh	State Employee
+cast	Linda Massad	Social Services Rep
+cast	Lester Mathews	Human Services Rep
+cast	Noam Jenkins	Medicaid Official
+cast	Allegra Fulton	Sick Girl's Mother
+cast	Darrin Brown	TV Buyer
+cast	Paul Johansson	Tuck Lampley
+cast	Shera Danese	Wife of Heart Transplant Patient
+cast	Kirsta Teague	Dr. Turner's Assistant
+cast	Ethan Suplee	Guard Max Conlin
+cast	Rick Sood	Panicked E.R. Doctor
+cast	Shawn Hatosy	Mitch Quigley
+cast	Heather Wahlquist	Julie Bird
+cast	Troy Byer	Miriam Smith
+cast	Troy Winbush	Steve Smith
+cast	Eddie Griffin	Lester Matthews
+cast	Martha Chaves	Rosa Gonzales
+cast	Scott Bloom	Desk Guard
+cast	Dina Waters	Debby Utley
+cast	Carlos Diaz	Paramedic #1
+cast	Joe Duer	Paramedic #2
+cast	Simon Sinn	Fong
+cast	Robert Duvall	Lt. Frank Grimes
+cast	Obba Babatundé	Sgt. Moody
+cast	Ray Liotta	Chief Gus Monroe
+cast	Jeffrey Douglas	Computer Cop
+cast	Keram Malicki-Sánchez	Freddy B.
+cast	Philip Williams	Wally Pitoniak
+cast	Nigel Shawn Williams	News Anchor
+cast	Frank Cassavetes	Sniper
+cast	Colin Evans	Videographer
+cast	Angelo Tsarouchas	Barricade Cop
+cast	Marcia Johnson	Medical Transplant #1
+cast	Vijay Mehta	Medical Transplant #2
+cast	Andrew Schaff	U.N.O.S. Official
+cast	Malcolm Nefsky	Nick
+cast	Jay Leno	Jay Leno
+cast	Gloria Allred	Gloria Allred
+cast	Larry King	Larry King
+cast	Arianna Huffington	Arianna Huffington
+cast	Ted Demme	Ted Demme
+cast	Nas	Nas
+cast	Bill Maher	Bill Maher
+cast	Claire Rankin	Public Defender
+cast	Phillip Craig	Judge K. Ploucha
+cast	Gerry Quigley	Jury Foreman
+cast	Oluniké Adeliyi	Insurance Rep
+cast	John Andrews	Customer Service Rep
+cast	Joanna Bennett	Nurse
+cast	Jennifer Cohen	Nurse
+cast	Chantal Cousineau	Dr. Turner's Wife
+cast	Cheryl De Luca	OR Nurse
+cast	Larry Hatcher	Pawn Shop Customer
+cast	Sandra Jackson	News Anchor
+cast	Gillian Leigh	Schoolgirl Outside Hospital
+cast	Jane Luk	O.R. Nurse
+cast	Marcus Mayer	Orderly
+cast	Carroll Shelby	Heart Transplant Patient
+cast	Victor Sutton	Church choir member

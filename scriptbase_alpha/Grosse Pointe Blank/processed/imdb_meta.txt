@@ -1,0 +1,321 @@
+year	1997
+imdb score	7.4
+meta score	76
+genre	Action
+genre	Comedy
+genre	Crime
+genre	Romance
+genre	Thriller
+keyword	assassin
+keyword	reunion
+keyword	high school
+keyword	high school reunion
+keyword	suburb
+keyword	party
+keyword	hitman
+keyword	love
+keyword	union
+keyword	secretary
+keyword	death
+keyword	bodyguard
+keyword	one last job
+keyword	threatened with a knife
+keyword	motorcycle
+keyword	boat
+keyword	silencer
+keyword	mallet
+keyword	dance
+keyword	thrown through a glass door
+keyword	security guard
+keyword	informant
+keyword	corruption
+keyword	sniper
+keyword	headset
+keyword	fire
+keyword	laser pistol
+keyword	knife
+keyword	stabbed in the throat
+keyword	semtex
+keyword	street shootout
+keyword	hit with a television
+keyword	self discovery
+keyword	radio station
+keyword	faygo
+keyword	drug use
+keyword	fistfight
+keyword	father
+keyword	basement
+keyword	prom night
+keyword	topless female nudity
+keyword	waitress
+keyword	neck brace
+keyword	jogger
+keyword	terrorism
+keyword	secret agent
+keyword	yearbook
+keyword	police car
+keyword	bomb making
+keyword	frying pan
+keyword	twenty something
+keyword	hit by a car
+keyword	store
+keyword	date
+keyword	bar
+keyword	love interest
+keyword	old friend
+keyword	dj
+keyword	dancing
+keyword	radio show
+keyword	store clerk
+keyword	black suit clad killer
+keyword	graveyard
+keyword	convertible
+keyword	alcohol
+keyword	van
+keyword	kiss
+keyword	cyclist
+keyword	mexican standoff
+keyword	shoplifting
+keyword	baseball cap
+keyword	physical therapy
+keyword	biker
+keyword	air vent
+keyword	answering machine
+keyword	cell phone
+keyword	bartender
+keyword	high school student
+keyword	title appears in text
+keyword	glock
+keyword	gash in the face
+keyword	broken arm
+keyword	high school sweethearts
+keyword	bandaged hand
+keyword	three word title
+keyword	murder for hire
+keyword	needle
+keyword	red dress
+keyword	fax machine
+keyword	weapon
+keyword	bible quote
+keyword	disc jockey
+keyword	swearing
+keyword	shot through a window
+keyword	diner
+keyword	radio
+keyword	stabbing
+keyword	control room
+keyword	premarital sex
+keyword	hotel suite
+keyword	mafia
+keyword	kissing while having sex
+keyword	stabbed with a pen
+keyword	shot in the shoulder
+keyword	mother son relationship
+keyword	nsa
+keyword	teacher
+keyword	drunkenness
+keyword	jumping through a window
+keyword	ex boyfriend ex girlfriend relationship
+keyword	baby
+keyword	magazine
+keyword	convenience store
+keyword	airplane
+keyword	the english beat
+keyword	bridge
+keyword	violence
+keyword	black eye
+keyword	botched crime
+keyword	psychopath
+keyword	bomb
+keyword	chase
+keyword	therapy
+keyword	computer
+keyword	automobile
+keyword	cemetery
+keyword	fight
+keyword	place name in title
+keyword	joint
+keyword	man with glasses
+keyword	covering a dead body
+keyword	bicycle
+keyword	therapist
+keyword	friendship
+keyword	explosive
+keyword	police
+keyword	revenge
+keyword	infrared scope
+keyword	theft
+keyword	poison
+keyword	gun fu
+keyword	cult film
+keyword	infidelity
+keyword	contract killer
+keyword	arcade game
+keyword	psychologist
+keyword	gasoline
+keyword	shot in the back
+keyword	proposal
+keyword	on the run
+keyword	undercover
+keyword	blood
+keyword	microwave
+keyword	watching tv
+keyword	satire
+keyword	rifle
+keyword	fire extinguisher
+keyword	vodka
+keyword	letter
+keyword	sniper rifle
+keyword	anti hero
+keyword	beating
+keyword	martial arts
+keyword	laptop computer
+keyword	1990s
+keyword	hotel room
+keyword	gangster
+keyword	mansion
+keyword	face slap
+keyword	pistol
+keyword	stakeout
+keyword	hiding in a bathroom
+keyword	abduction
+keyword	gunfight
+keyword	smoking
+keyword	corpse
+keyword	pulp fiction
+keyword	tape recorder
+keyword	locker
+keyword	foot chase
+keyword	drunken telephone call
+keyword	fork
+keyword	shot through a wall
+keyword	moral ambiguity
+keyword	uzi
+keyword	shot in the stomach
+keyword	headphones
+keyword	hammer
+keyword	car chase
+keyword	shot in the chest
+keyword	home invasion
+keyword	mental hospital
+keyword	night vision
+keyword	neo noir
+keyword	black comedy
+keyword	shot to death
+keyword	church
+keyword	kitchen
+keyword	kicked in the face
+keyword	chain link fence
+keyword	washing hands
+keyword	dating
+keyword	bathroom
+keyword	tough guy
+keyword	set up
+keyword	kung fu
+keyword	shot in the head
+keyword	shot through a door
+keyword	dance floor
+keyword	held at gunpoint
+keyword	hand to hand combat
+keyword	realtor
+keyword	redemption
+keyword	father daughter relationship
+keyword	stabbed with a knife
+keyword	sex scene
+keyword	marijuana
+keyword	bathtub
+keyword	sociopath
+keyword	deception
+keyword	ex soldier
+keyword	tie
+keyword	cigarette smoking
+keyword	best friend
+keyword	real estate
+keyword	explosion
+keyword	palm tree
+keyword	depression
+keyword	office
+keyword	scar
+keyword	cut hand
+keyword	blood on shirt
+keyword	cigar smoking
+keyword	shot in the side
+keyword	revolver
+keyword	wheelchair
+keyword	money
+keyword	small town
+keyword	exploding building
+keyword	detroit michigan
+keyword	kicked in the stomach
+keyword	hidden gun
+keyword	rock music
+keyword	elderly people
+keyword	kicked in the shin
+keyword	cult film
+keyword	class reunion
+keyword	record player
+keyword	terrorist
+keyword	1980s
+keyword	double cross
+keyword	suitcase
+keyword	machine gun
+keyword	murder
+keyword	escape
+keyword	shootout
+keyword	religion
+keyword	generation x
+keyword	falling off a bicycle
+keyword	betrayal
+keyword	grass
+keyword	stabbed to death
+keyword	punched in the face
+keyword	disposing of a dead body
+keyword	blood splatter
+keyword	sunglasses
+keyword	party invitation
+keyword	eye wash
+keyword	suburbia
+keyword	assassination
+keyword	opening action scene
+keyword	female removes her clothes
+keyword	death of father
+keyword	surprise ending
+cast	John Cusack	Martin Q. Blank
+cast	Minnie Driver	Debi Newberry
+cast	Alan Arkin	Dr. Oatman
+cast	Dan Aykroyd	Grocer
+cast	Joan Cusack	Marcella
+cast	Hank Azaria	Steven Lardner
+cast	K. Todd Freeman	Kenneth McCullers
+cast	Jeremy Piven	Paul Spericki
+cast	Mitch Ryan	Mr. Bart Newberry
+cast	Michael Cudlitz	Bob Destepello
+cast	Benny Urquidez	Felix La PuBelle
+cast	Duffy Taylor	Ultimart Carl
+cast	Audrey Kissel	Arlene
+cast	Carlos Jacott	Ken
+cast	Brian Powell	Husky Man
+cast	Ann Cusack	Amy
+cast	D.V. DeVincentis	Dan Koretzky
+cast	Barbara Harris	Mary Blank
+cast	Wendy Thorlakson	Melanie the Waitress
+cast	Belita Moreno	Mrs. Kinetta
+cast	Patrick O'Neill	Nathaniel
+cast	Jenna Elfman	Tanya
+cast	Steve Pink	Terry Rostand
+cast	K.K. Dodds	Tracy
+cast	Bill Cusack	Waiter
+cast	Traci Dority	Jenny Slater
+cast	Doug Dearth	Eckhart
+cast	Colby French	Bartender
+cast	Brent Armitage	Cosmo
+cast	Jackie Rubin	Marie
+cast	Sarah DeVincentis	Dr. Oatman's Patient
+cast	Eva Rodriguez	Nurse
+cast	David Barrett	Bicycle Messenger
+cast	Bobby Bass	Assassin #1
+cast	Lance Gilbert	Assassin #2
+cast	Pete Antico	Assassin #3
+cast	Laurence Bilzerian	Assassin #4
+cast	Phil Aslaksen	Student
+cast	Karmyn Tyler	Student

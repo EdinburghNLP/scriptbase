@@ -1,0 +1,299 @@
+year	2003
+imdb score	7.2
+meta score	73
+genre	Drama
+genre	Romance
+genre	War
+keyword	mountain
+keyword	soldier
+keyword	civil war
+keyword	cold mountain north carolina
+keyword	friendship
+keyword	capture
+keyword	farm
+keyword	american civil war
+keyword	wounded soldier
+keyword	cotton
+keyword	flashback
+keyword	shot in the neck
+keyword	female nudity
+keyword	chains
+keyword	battle
+keyword	sniper
+keyword	drink
+keyword	atlantic ocean
+keyword	cherokee tribe
+keyword	shooting
+keyword	hanged man
+keyword	1860s
+keyword	water well
+keyword	nut seller
+keyword	tragic love
+keyword	revenge
+keyword	slave
+keyword	smokehouse
+keyword	kicking
+keyword	year 1864
+keyword	chained together
+keyword	tragic romance
+keyword	pigeon
+keyword	mother son relationship
+keyword	reference to wuthering heights
+keyword	snow
+keyword	jealousy
+keyword	cradle
+keyword	family relationships
+keyword	torture
+keyword	cotton picking
+keyword	passion
+keyword	home guard
+keyword	knife
+keyword	horse and carriage
+keyword	tintype
+keyword	shootout
+keyword	19th century
+keyword	hand to hand combat
+keyword	massacre
+keyword	abolition
+keyword	dying
+keyword	fire
+keyword	scarecrow
+keyword	farming
+keyword	rebel
+keyword	doctor
+keyword	playing violin
+keyword	defecation
+keyword	deserter
+keyword	crow
+keyword	star
+keyword	civil war
+keyword	rain
+keyword	murder
+keyword	confederate soldier
+keyword	drinking
+keyword	boat
+keyword	drunkenness
+keyword	appalachia
+keyword	dove
+keyword	blindness
+keyword	native american
+keyword	bayonet
+keyword	nonlinear timeline
+keyword	campfire
+keyword	love
+keyword	stabbed in the chest
+keyword	southern accent
+keyword	crabs
+keyword	bowel movement
+keyword	eating
+keyword	preacher
+keyword	church
+keyword	cannon
+keyword	marching band
+keyword	mirror
+keyword	long johns
+keyword	gun
+keyword	gunpowder
+keyword	plow
+keyword	death of loved one
+keyword	fiddle
+keyword	shaving
+keyword	prayer
+keyword	baby
+keyword	loneliness
+keyword	piano
+keyword	post office
+keyword	star crossed lovers
+keyword	photograph
+keyword	breasts
+keyword	vomit
+keyword	black american
+keyword	treason
+keyword	american flag
+keyword	friend
+keyword	coast
+keyword	mandolin
+keyword	conundrum
+keyword	blood
+keyword	rowboat
+keyword	dead body
+keyword	shot to death
+keyword	cow
+keyword	hymn
+keyword	confederacy
+keyword	african american
+keyword	theft
+keyword	voice over letter
+keyword	pistol
+keyword	omen
+keyword	birch forest
+keyword	chopping wood
+keyword	root beer
+keyword	union soldier
+keyword	musician
+keyword	farmers daughter
+keyword	goatherd
+keyword	magnolia
+keyword	illness
+keyword	petersburg virginia
+keyword	injury
+keyword	military encampment
+keyword	explosive
+keyword	trench
+keyword	march
+keyword	reference to abraham lincoln
+keyword	starving
+keyword	letter
+keyword	fence
+keyword	corn
+keyword	father son relationship
+keyword	army deserter
+keyword	army
+keyword	forest
+keyword	tradition
+keyword	blonde
+keyword	south carolina
+keyword	goat
+keyword	herb
+keyword	american indian
+keyword	female goatherd
+keyword	dead parents
+keyword	throat slitting
+keyword	minister
+keyword	rifle
+keyword	female bonding
+keyword	pianist
+keyword	military desertion
+keyword	year 1861
+keyword	prisoner
+keyword	saw
+keyword	charleston south carolina
+keyword	death
+keyword	woods
+keyword	horse
+keyword	hanging
+keyword	runaway slave
+keyword	cabin
+keyword	kissing while having sex
+keyword	rooster
+keyword	cane
+keyword	book
+keyword	banjo
+keyword	food
+keyword	girl
+keyword	bushwhacker
+keyword	father daughter relationship
+keyword	sheep
+keyword	turkey the bird
+keyword	cider
+keyword	fiddler
+keyword	sex
+keyword	rabbit
+keyword	shot in the back
+keyword	target practice
+keyword	slavery
+keyword	cross
+keyword	buttocks
+keyword	bare breasts
+keyword	swamp
+keyword	train
+keyword	shot in the chest
+keyword	confederate states of america
+keyword	bird
+keyword	reverend
+keyword	corpse
+keyword	blood spatter
+keyword	yankee
+keyword	mother daughter relationship
+keyword	union army
+keyword	shaving with a knife
+keyword	rape
+keyword	shotgun
+keyword	pregnancy
+keyword	confederate army
+keyword	flare
+keyword	feces
+keyword	death of lover
+keyword	shackled
+keyword	flash forward
+keyword	thief
+keyword	winter
+keyword	reading
+keyword	attempted rape
+keyword	underwear
+keyword	christmas
+keyword	coat
+keyword	freezing
+keyword	seed
+keyword	cold weather
+keyword	pig
+keyword	north carolina
+keyword	cornfield
+keyword	sermon
+keyword	fire dying out
+keyword	explosion
+keyword	wound
+keyword	combat
+keyword	hospital
+keyword	main character dies
+keyword	female frontal nudity
+keyword	kiss
+keyword	pocket watch
+keyword	bare butt
+keyword	singing
+keyword	nudity
+keyword	death of father
+keyword	death of child
+keyword	based on novel
+keyword	title spoken by character
+cast	Jude Law	Inman
+cast	Nicole Kidman	Ada Monroe
+cast	Renée Zellweger	Ruby Thewes
+cast	Eileen Atkins	Maddy
+cast	Brendan Gleeson	Stobrod Thewes
+cast	Philip Seymour Hoffman	Reverend Veasey
+cast	Natalie Portman	Sara
+cast	Giovanni Ribisi	Junior
+cast	Donald Sutherland	Reverend Monroe
+cast	Ray Winstone	Teague
+cast	Kathy Baker	Sally Swanger
+cast	James Gammon	Esco Swanger
+cast	Charlie Hunnam	Bosie
+cast	Jack White	Georgia
+cast	Ethan Suplee	Pangle
+cast	Jena Malone	Ferry Girl
+cast	Melora Walters	Lila
+cast	Lucas Black	Oakley
+cast	Taryn Manning	Shyla
+cast	Tom Aldredge	Blind Man
+cast	James Rebhorn	Doctor
+cast	Emily Deschanel	Mrs. Morgan
+cast	Robin Mullins	Mrs. Castlereagh
+cast	Ben Allison	Rourke
+cast	Trey Howell	Butcher
+cast	Alex Hassell	Orderly
+cast	Jay Tavare	Swimmer
+cast	William Boyer	Confederate Officer
+cast	Christopher Fennell	Acton Swanger
+cast	Erik Smith	Ellis Swanger
+cast	Cillian Murphy	Bardolph
+cast	Richard Brake	Nym
+cast	Sean Gleeson	Pistol
+cast	Rasool J'Han	Rebecca
+cast	Hank Stone	Brown
+cast	Mark Jeffrey Miller	Sheffield
+cast	Afemo Omilami	Joshua
+cast	Chet Dixon	Veasey Town Guard
+cast	Jamie Lee	Guard
+cast	Jen Apgar	Dolly
+cast	Katherine Durio	Mae
+cast	Martin Pemberton	Mo
+cast	Leonard Woodcock	Jo
+cast	William Roberts	Grayling
+cast	Dean Whitworth	Barber
+cast	Kristen Nicole LaPrade	Grace Inman
+cast	David Abrams	Orderly #2
+cast	Christopher Blackmore	Runaway Slave
+cast	Alex Layton	Cold Mountain Villager
+cast	Robert Rice	Civil War Soldier
+cast	Bruce Williamson	Wounded Soldier

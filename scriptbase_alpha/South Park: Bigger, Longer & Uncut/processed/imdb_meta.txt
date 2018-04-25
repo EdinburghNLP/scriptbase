@@ -1,0 +1,127 @@
+year	1999
+imdb score	7.8
+meta score	73
+genre	Animation
+genre	Comedy
+genre	Musical
+keyword	canada
+keyword	boy
+keyword	hell
+keyword	saddam hussein
+keyword	surprise after end credits
+keyword	satire
+keyword	cartoon nudity
+keyword	prophecy
+keyword	celebrity
+keyword	self righteousness
+keyword	stabbed in the back
+keyword	execution
+keyword	person on fire
+keyword	black comedy
+keyword	abusive father
+keyword	canada at war
+keyword	cult film
+keyword	shot in the forehead
+keyword	cut out animation
+keyword	spoof
+keyword	x rayed skeleton
+keyword	funny devil
+keyword	based on tv series
+keyword	u.s. canada war
+keyword	teleprompter
+keyword	air raid
+keyword	devil
+keyword	vomit
+keyword	reference to conan o'brien
+keyword	fictional war
+keyword	shock humor
+keyword	sexual obsession
+keyword	visions of hell
+keyword	returning character killed off
+keyword	round people
+keyword	suicide
+keyword	flatulence
+keyword	film within a film
+keyword	cartoon sex
+keyword	reference to satan
+keyword	moral crusade
+keyword	saved from execution
+keyword	rescue mission
+keyword	topical humor
+keyword	gay slur
+keyword	censorship
+keyword	scapegoat
+keyword	atheist
+keyword	prepubescent
+keyword	reference to barbra streisand
+keyword	heaven
+keyword	controversy
+keyword	hollywood california
+keyword	south park colorado
+keyword	blasphemy
+keyword	homosexual
+keyword	twisted version of current world
+keyword	personal responsibility
+keyword	f word
+keyword	falling to death
+keyword	body lands on car
+keyword	adult animation
+keyword	child swearing
+keyword	shot to death
+keyword	movie theatre
+keyword	cult film
+keyword	elementary school
+keyword	friendship
+keyword	falling from height
+keyword	friends who hate each other
+keyword	american canadian relations
+keyword	reference to anne murray
+keyword	battle
+keyword	racial stereotype
+keyword	self referential
+keyword	apocalypse
+keyword	electric shock
+keyword	hookah
+keyword	animated sex
+keyword	computer animation
+keyword	suggestive title
+keyword	lighting a fart
+keyword	hypocrisy
+keyword	telling someone to shut up
+keyword	written and directed by cast member
+keyword	clitoris
+keyword	altered version of studio logo
+keyword	male slaps female
+keyword	overweight child
+keyword	studio logo segues into film
+keyword	sequel
+keyword	actor playing multiple roles
+keyword	disembowelment
+keyword	mount rushmore
+keyword	skeleton visible during electrocution
+keyword	blood spatter
+keyword	teacher student relationship
+keyword	child abuse
+keyword	microwave oven
+keyword	death of child
+cast	Trey Parker	Stan Marsh / Eric Cartman / Satan / Mr. Herbert Garrison / Phillip Niles Argyle / Randy Marsh / Tom - News Reporter / Midget In A Bikini / Canadian Ambassador / Bombardiers / Mr. Mackey / Army General / Ned Gerblanski / Additional Voices
+cast	Matt Stone	Kyle Broflovski / Kenny McCormick / Saddam Hussein / Terrance Henry Stoot / Ticket Taker / Jimbo Kearn / Gerald Broflovski / Bill Gates / Additional Voices
+cast	Mary Kay Bergman	Liane Cartman / Sheila Broflovski / Sharon Marsh / Wendy Testeberger / Clitoris / Additional Voices
+cast	Isaac Hayes	Chef
+cast	Jesse Howell	Ike Broflovski
+cast	Anthony Cross-Thomas	Ike Broflovski
+cast	Franchesca Clifford	Ike Broflovski
+cast	Bruce Howell	Man In Theatre
+cast	Deb Adair	Woman In Theatre
+cast	Jennifer Howell	Bebe Stevens
+cast	George Clooney	Dr. Gouache
+cast	Brent Spiner	Conan O'Brien
+cast	Minnie Driver	Brooke Shields
+cast	Dave Foley	The Baldwin Brothers
+cast	Eric Idle	Dr. Vosknocker
+cast	Nick Rhodes	Canadian Fighter Pilot
+cast	Toddy Walters	Winona Ryder
+cast	Stewart Copeland	American Soldier #1
+cast	Stanley G. Sawicki	American Soldier #2
+cast	Mike Judge	Kenny's Goodbye
+cast	Howard McGillin	Gregory

@@ -1,0 +1,117 @@
+year	1984
+imdb score	6.6
+meta score	N/A
+genre	Action
+genre	Adventure
+genre	Sci-Fi
+keyword	planet
+keyword	emperor
+keyword	duke
+keyword	desert
+keyword	spice
+keyword	baron
+keyword	warrior
+keyword	dune
+keyword	space travel
+keyword	desert planet
+keyword	messiah
+keyword	battle
+keyword	mining
+keyword	drugs
+keyword	giant worm
+keyword	gene manipulation
+keyword	mutation
+keyword	space western
+keyword	writer director
+keyword	evil man
+keyword	spit in the face
+keyword	monster
+keyword	sandstorm
+keyword	explosion
+keyword	one word title
+keyword	ornithopter
+keyword	blood drinking
+keyword	super villain
+keyword	telepathy
+keyword	mother son relationship
+keyword	fictional war
+keyword	mysticism
+keyword	megacorporation
+keyword	violence
+keyword	feudalism
+keyword	witch
+keyword	woman warrior
+keyword	torture
+keyword	water
+keyword	christ figure
+keyword	outer space
+keyword	cult film
+keyword	epic
+keyword	decolletage
+keyword	giant animal
+keyword	water shortage
+keyword	fight to the death
+keyword	worm
+keyword	space opera
+keyword	good versus evil
+keyword	religion
+keyword	father son relationship
+keyword	talking to the camera
+keyword	102nd century
+keyword	inner voice
+keyword	suicide pill
+keyword	supernatural power
+keyword	chosen one
+keyword	mind reading
+keyword	rebellion
+keyword	tooth
+keyword	steampunk
+keyword	intrigue
+keyword	politics
+keyword	blood
+keyword	year 10991
+keyword	looking at the camera
+keyword	space war
+keyword	underwear
+keyword	based on novel
+keyword	based on book
+keyword	title spoken by character
+cast	Francesca Annis	Lady Jessica
+cast	Leonardo Cimino	The Baron's Doctor
+cast	Brad Dourif	Piter De Vries
+cast	José Ferrer	Padishah Emperor Shaddam IV
+cast	Linda Hunt	Shadout Mapes
+cast	Freddie Jones	Thufir Hawat
+cast	Richard Jordan	Duncan Idaho
+cast	Kyle MacLachlan	Paul Atreides
+cast	Virginia Madsen	Princess Irulan
+cast	Silvana Mangano	Reverend Mother Ramallo
+cast	Everett McGill	Stilgar
+cast	Kenneth McMillan	Baron Vladimir Harkonnen
+cast	Jack Nance	Nefud
+cast	Siân Phillips	Reverend Mother Gaius Helen Mohiam
+cast	Jürgen Prochnow	Duke Leto Atreides
+cast	Paul L. Smith	The Beast Rabban
+cast	Patrick Stewart	Gurney Halleck
+cast	Sting	Feyd Rautha
+cast	Dean Stockwell	Doctor Wellington Yueh
+cast	Max von Sydow	Doctor Kynes
+cast	Alicia Witt	Alia
+cast	Sean Young	Chani
+cast	Danny Corkill	Orlop
+cast	Honorato Magaloni	Otheym
+cast	Judd Omen	Jamis
+cast	Molly Wryn	Harah
+cast	Angélica Aragón	Bene Gesserit Sister
+cast	Miguel Cane	Little Fremen Boy
+cast	Humberto Elizondo	Czigo
+cast	Ernesto Laguardia	Harkonnen's Victim
+cast	David Lynch	Spice Worker
+cast	James Mathers	Fremen Boy
+cast	Ramón Menéndez	Kinet
+cast	Ana Ofelia Murguía	Palace Maid
+cast	Claudia Ramírez	Fremen Girl
+cast	Julieta Rosen	Palace Maid
+cast	John Sabol	Fedaykin Fighter
+cast	Margarita Sanz	Lady Jessica's Maid
+cast	Jacqueline Voltaire	Bit Part

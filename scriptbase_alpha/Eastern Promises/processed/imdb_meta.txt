@@ -1,0 +1,276 @@
+year	2007
+imdb score	7.7
+meta score	82
+genre	Crime
+genre	Mystery
+genre	Thriller
+keyword	russian
+keyword	diary
+keyword	baby
+keyword	midwife
+keyword	criminal
+keyword	driver
+keyword	restaurant
+keyword	hospital
+keyword	rape
+keyword	russian mafia
+keyword	brothel
+keyword	organized crime
+keyword	prostitute
+keyword	murder
+keyword	butt slap
+keyword	sunglasses
+keyword	accordion
+keyword	ritual
+keyword	death in childbirth
+keyword	naked killer
+keyword	engine trouble
+keyword	christmas tree
+keyword	uncle niece relationship
+keyword	kicked in the ribs
+keyword	voice over narration
+keyword	voyeur
+keyword	cigarette burn
+keyword	anglo russian
+keyword	mother daughter relationship
+keyword	captain
+keyword	hemorrhage
+keyword	homoeroticism
+keyword	christmas
+keyword	coitus
+keyword	tattoo
+keyword	stabbed in the chest
+keyword	mini skirt
+keyword	finger cut off
+keyword	ceremony
+keyword	scantily clad female
+keyword	pharmacist
+keyword	russian accent
+keyword	london england
+keyword	hitman
+keyword	investigation
+keyword	cell phone
+keyword	teenage girl
+keyword	severed finger
+keyword	female rear nudity
+keyword	girl riding motorcycle
+keyword	sex in bed
+keyword	homophobia
+keyword	protective male
+keyword	passing out
+keyword	undercover cop
+keyword	rape victim
+keyword	panties pulled down
+keyword	ukrainian
+keyword	mercedes
+keyword	wallet
+keyword	bathhouse
+keyword	breasts
+keyword	urination
+keyword	police inspector
+keyword	character repeating someone else's dialogue
+keyword	scotland yard
+keyword	female nudity
+keyword	turk
+keyword	undercover agent
+keyword	child in peril
+keyword	birthday party
+keyword	turkish bath
+keyword	orphan
+keyword	tombstone
+keyword	nudity
+keyword	code
+keyword	respirator
+keyword	knife fight
+keyword	darwinian struggle for survival
+keyword	rape of girl
+keyword	bruise
+keyword	burning book
+keyword	extreme violence
+keyword	christmas decoration
+keyword	st. petersburg russia
+keyword	barber
+keyword	import export
+keyword	vodka
+keyword	secret identity
+keyword	nude fight
+keyword	russian criminal tattoo
+keyword	singing
+keyword	pharmacy
+keyword	punched in the face
+keyword	blonde
+keyword	red panties
+keyword	rain
+keyword	bare breasts
+keyword	two on a motorcycle
+keyword	russophobia
+keyword	knife
+keyword	mentally challenged
+keyword	code of honor
+keyword	female frontal nudity
+keyword	interview
+keyword	steam bath
+keyword	lesbian kiss
+keyword	loss of child
+keyword	chauffeur
+keyword	wine
+keyword	leg spreading
+keyword	family relationships
+keyword	adoption
+keyword	child born of rape
+keyword	barber shop
+keyword	pizzicato
+keyword	blood spatter
+keyword	frozen body
+keyword	singer
+keyword	gore
+keyword	turkish
+keyword	choking
+keyword	secret life
+keyword	kicked in the stomach
+keyword	male full frontal nudity
+keyword	repeated line
+keyword	rear entry sex
+keyword	throat slitting
+keyword	cardinal direction in title
+keyword	prostitution
+keyword	male rear nudity
+keyword	bare chested male
+keyword	neo noir
+keyword	blood
+keyword	crime boss
+keyword	helium balloon
+keyword	copulation
+keyword	dead body in freezer
+keyword	suppressed love
+keyword	heroin
+keyword	girl in panties
+keyword	uncle nephew relationship
+keyword	nude
+keyword	pregnancy
+keyword	felony
+keyword	presumed dead
+keyword	deception
+keyword	upskirt
+keyword	revelation
+keyword	nude girl
+keyword	motorcycle helmet
+keyword	chelsea club
+keyword	respect
+keyword	sex scene
+keyword	russian folk song
+keyword	child rape
+keyword	kidnapping
+keyword	stabbed in the head
+keyword	kiss
+keyword	translation
+keyword	brutality
+keyword	chechen
+keyword	eye gouging
+keyword	sauna
+keyword	violin
+keyword	cellar
+keyword	rape of a minor
+keyword	party
+keyword	grand guignol
+keyword	voyeurism
+keyword	father son relationship
+keyword	spit in the face
+keyword	envelope full of money
+keyword	doggystyle sex
+keyword	birthday cake
+keyword	dumping a dead body in a river
+keyword	borscht
+keyword	russian song
+keyword	threat
+keyword	cemetery
+keyword	pole dancing
+keyword	nurse
+keyword	cut arm
+keyword	beating
+keyword	revenge
+keyword	child prostitute
+keyword	triangulated desire
+keyword	crime family
+keyword	violinist
+keyword	face slap
+keyword	drunkenness
+keyword	balloon
+keyword	stabbed in the eye
+keyword	corpse
+keyword	panties
+keyword	homosexual
+keyword	hair dryer
+keyword	no panties
+keyword	racist comment
+keyword	death
+keyword	locker room
+keyword	pregnant from rape
+keyword	disposing of a dead body
+keyword	newborn baby
+keyword	kgb
+keyword	prostitution ring
+keyword	fight to the death
+keyword	business card
+keyword	lift skirt
+keyword	violence
+keyword	fondling
+keyword	straight razor
+keyword	cleavage
+keyword	homosexuality
+keyword	urban setting
+keyword	betrayal
+keyword	cigarette smoking
+keyword	topless female nudity
+keyword	family business
+keyword	playing violin
+keyword	disappearance
+keyword	fainting
+keyword	surprise ending
+keyword	
+cast	Josef Altin	Ekrem
+cast	Mina E. Mina	Azim
+cast	Aleksandar Mikic	Soyka
+cast	Sarah-Jeanne Labrosse	Tatiana
+cast	Lalita Ahmed	Customer
+cast	Badi Uzzaman	Chemist
+cast	Naomi Watts	Anna
+cast	Doña Croll	Nurse
+cast	Raza Jaffrey	Doctor Aziz
+cast	Sinéad Cusack	Helen
+cast	Jerzy Skolimowski	Stepan
+cast	Tatiana Maslany	Tatiana
+cast	Viggo Mortensen	Nikolai
+cast	Vincent Cassel	Kirill
+cast	Armin Mueller-Stahl	Semyon
+cast	Shannon-Fleur Roux	Maria
+cast	Lillibet Langley	Violin Girl
+cast	Mia Soteriou	Azim's Wife
+cast	Radoslaw Kaim	Head Waiter
+cast	Donald Sumpter	Yuri
+cast	Rhodri Miles	Senior Officer
+cast	Tereza Srbová	Kirilenko
+cast	Elisa Lasowski	Prostitute
+cast	Cristina Catalina	Prostitute
+cast	Alice Henley	Prostitute
+cast	Faton Gerbeshi	Pimp
+cast	David Papava	Chechen
+cast	Tamer Hassan	Chechen
+cast	Gergo Danka	Junior Waiter
+cast	Michael Sarne	Valery
+cast	Boris Isarov	Russian Boss
+cast	Yuri Klimov	Russian Boss
+cast	Andrzej Borkowski	The Gypsy
+cast	Olegar Fedoro	Tattooist
+cast	Diane Beck	Nurse
+cast	Morne Botes	Vespa Rider
+cast	Tony Cook	Football Hooligan
+cast	James Fiddy	Football Supporter
+cast	Tatiana Lavrentieva	Mafia's Wife
+cast	Wayne Morgan-Williams	Football Hooligan
+cast	Anna Pernicci	Sonya
+cast	Robert Roman Ratajczak	Football Fan
+cast	Rebecca Reid	Prostitute
+cast	Peter Rnic	Fingers
+cast	John Warman	Policeman
+cast	Chris Wilson	Paramedic

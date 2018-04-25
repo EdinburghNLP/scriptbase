@@ -1,0 +1,168 @@
+year	1993
+imdb score	6.8
+meta score	N/A
+genre	Comedy
+genre	Romance
+keyword	first lady
+keyword	coma
+keyword	stroke
+keyword	chief of staff
+keyword	secret service
+keyword	white house
+keyword	u.s. president
+keyword	male in shower
+keyword	oval office
+keyword	dog
+keyword	barber
+keyword	pressure
+keyword	washington d.c.
+keyword	impeachment
+keyword	us senator
+keyword	sandwich
+keyword	sex on floor
+keyword	affair
+keyword	reference to lyndon johnson
+keyword	political campaign
+keyword	locker room
+keyword	dysfunctional marriage
+keyword	bicycle
+keyword	limousine
+keyword	fired from the job
+keyword	magic trick
+keyword	impersonation
+keyword	pig
+keyword	reference to franklin d roosevelt
+keyword	u.s. vice president
+keyword	temporary worker
+keyword	pen
+keyword	teleprompter
+keyword	political comedy
+keyword	national mall
+keyword	speech
+keyword	body double
+keyword	boss secretary romance
+keyword	u.s. congressman
+keyword	intensive care
+keyword	presidential candidate
+keyword	congress
+keyword	husband wife relationship
+keyword	dual role
+keyword	supreme court
+keyword	campaign headquarters
+keyword	shower
+keyword	impostor
+keyword	doughnut
+keyword	man with glasses
+keyword	substitution
+keyword	employment agency
+keyword	singing in the shower
+keyword	look alike
+keyword	bodyguard
+keyword	director cameo
+keyword	press conference
+keyword	politician
+keyword	scrapbook
+keyword	tour guide
+keyword	airforce one
+keyword	jefferson memorial
+keyword	critically acclaimed
+keyword	unemployment
+keyword	car dealer
+keyword	washington memorial
+keyword	corgi
+keyword	social activism
+keyword	loveless marriage
+keyword	cabinet meeting
+keyword	portrait of george washington
+keyword	budget
+keyword	title spoken by character
+keyword	character name in title
+cast	Kevin Kline	Dave Kovic / Bill Mitchell
+cast	Sigourney Weaver	Ellen Mitchell
+cast	Frank Langella	Bob Alexander
+cast	Kevin Dunn	Alan Reed
+cast	Ving Rhames	Duane Stevenson
+cast	Ben Kingsley	Vice-President Nance
+cast	Charles Grodin	Murray Blum
+cast	Faith Prince	Alice
+cast	Laura Linney	Randi
+cast	Bonnie Hunt	White House Tour Guide
+cast	Parley Baer	Senate Majority Leader
+cast	Stefan Gierasch	House Majority Leader
+cast	Anna Deavere Smith	Mrs. Travis
+cast	Charles Hallahan	Policeman
+cast	Tom Dugan	Jerry
+cast	Alba Oms	Lola
+cast	Steve Witting	Secret Service #1
+cast	Kellen Sampson	David
+cast	Lexie Bigham	White House Guard
+cast	Frederic W. Barnes	Frederic Barnes
+cast	Ronald Brownstein	Ronald Brownstein
+cast	Eleanor Clift	Eleanor Clift
+cast	Chris Dodd	Chris Dodd
+cast	Tom Harkin	Tom Harkin
+cast	Bernard Kalb	Bernard Kalb
+cast	Larry King	Larry King
+cast	Michael Kinsley	Michael Kinsley
+cast	Morton Kondracke	Morton Kondracke
+cast	Jay Leno	Jay Leno
+cast	Frank Mankiewicz	Frank Mankiewicz
+cast	Chris Matthews	Chris Matthews
+cast	John McLaughlin	John McLaughlin
+cast	Howard Metzenbaum	Howard Metzenbaum
+cast	Abner J. Mikva	Abner J. Mikva
+cast	Robert D. Novak	Robert D. Novak
+cast	Thomas P. 'Tip' O'Neill	Thomas P. 'Tip' O'Neill
+cast	Richard Reeves	Richard Reeves
+cast	Arnold Schwarzenegger	Arnold Schwarzenegger
+cast	Paul Simon	Paul Simon
+cast	Alan Simpson	Alan Simpson
+cast	Ben Stein	Ben Stein
+cast	Oliver Stone	Oliver Stone
+cast	Kathleen Sullivan	Kathleen Sullivan
+cast	Jeff Tackett	Jeff Tackett
+cast	Helen Thomas	Hellen Thomas
+cast	Nina Totenberg	Nina Totenberg
+cast	Sander Vanocur	Sander Vanocur
+cast	John Yang	John Yang
+cast	Stephen Root	Don Durenberger
+cast	Catherine Reitman	Girl at Durenberger's
+cast	Dawn Arnemann	Mom at Durenberger's
+cast	Marianna Harris	Clara
+cast	Sarah Marshall	Diane
+cast	Ralph Manza	White House Barber
+cast	George Martin	President's Physician
+cast	Laurie Franks	White House Nurse
+cast	Tom Kurlander	Trauma Doctor
+cast	Dendrie Taylor	Trauma Nurse
+cast	Joe Kuroda	Japanese Prime Minister
+cast	Geneviève Robert	Vice-President's Wife
+cast	Jason Reitman	Vice-President's Son
+cast	Ruth Goldway	Secretary of Education
+cast	Frank Birney	Director of OMB
+cast	Paul Collins	Secretary of Treasury
+cast	Peter White	Secretary of Commerce
+cast	Robin Gammell	Postmaster General
+cast	Heather Hewitt	Judy
+cast	Gary Ross	Policeman #2
+cast	Jeffrey Joseph	Ellen's Aide
+cast	Bonnie Bartlett	Female Senator
+cast	Robert Walsh	Speaker of the House
+cast	William Pitts	Congressional Doorkeeper
+cast	Dan Butler	Reporter
+cast	Wendy Gordon	Announcer
+cast	Ben Patrick Johnson	Announcer
+cast	Steve Kmetko	Announcer
+cast	Bob Bergen	Additional Voices
+cast	F. Pierre Gatling	Social Worker Greeter #1
+cast	Ryal Haakenson	Man at Banquet / Hotel Guest
+cast	Kirk Jordan	Man
+cast	Mary Kircher	Congressional Member
+cast	Aaron Michael Lacey	Reporter
+cast	Keith Lewis	Secret Service Agent
+cast	Melissa S. Markess	Politician
+cast	Michael Noel	Reporter
+cast	William Shipman	Restaurant Patron
+cast	Paul Speaks	Secret Service
+cast	Debbie Tsamoudakis	Restaurant Patron
+cast	Sam Wells	Political Adviser

@@ -1,0 +1,123 @@
+year	1995
+imdb score	7.5
+meta score	66
+genre	Drama
+genre	Romance
+keyword	love
+keyword	bridge
+keyword	photographer
+keyword	housewife
+keyword	1960s
+keyword	cremated remains
+keyword	iowa
+keyword	diary
+keyword	farm
+keyword	ashes
+keyword	fair
+keyword	national geographic magazine
+keyword	state fair
+keyword	lawyer
+keyword	extramarital affair
+keyword	flower
+keyword	tragic event
+keyword	loneliness
+keyword	husband wife relationship
+keyword	document
+keyword	dancing
+keyword	revelation
+keyword	time
+keyword	nudity
+keyword	small town
+keyword	journalist
+keyword	crucifix
+keyword	older man younger woman relationship
+keyword	impossible love
+keyword	falling in love
+keyword	cornfield
+keyword	tripod
+keyword	photography
+keyword	italian
+keyword	flirting
+keyword	urn
+keyword	parting
+keyword	told in flashback
+keyword	flashback
+keyword	tango
+keyword	nightclub
+keyword	nostalgia
+keyword	longing
+keyword	love letter
+keyword	deed
+keyword	letter
+keyword	old age
+keyword	bathtub
+keyword	buttocks
+keyword	county name in title
+keyword	infidelity
+keyword	tirade
+keyword	depressed woman
+keyword	brother sister relationship
+keyword	bar
+keyword	bar band
+keyword	deliberate cruelty
+keyword	jazz club
+keyword	last will and testament
+keyword	golden retriever
+keyword	rural setting
+keyword	divorced man
+keyword	prejudice
+keyword	sex
+keyword	encounter
+keyword	sex in a bathtub
+keyword	gossip
+keyword	covered bridge
+keyword	diner
+keyword	news photographer
+keyword	adultery
+keyword	passion
+keyword	winterset iowa
+keyword	directed by star
+keyword	watching tv
+keyword	goodbye
+keyword	camera
+keyword	photograph
+keyword	place name in title
+keyword	kitchen
+keyword	based on novel
+keyword	independent film
+cast	Clint Eastwood	Robert Kincaid
+cast	Meryl Streep	Francesca Johnson
+cast	Annie Corley	Carolyn Johnson
+cast	Victor Slezak	Michael Johnson
+cast	Jim Haynie	Richard Johnson
+cast	Sarah Kathryn Schmitt	Young Carolyn
+cast	Christopher Kroon	Young Michael
+cast	Phyllis Lyons	Betty
+cast	Debra Monk	Madge
+cast	Richard Lage	Lawyer Peterson
+cast	Michelle Benes	Lucy Redfield
+cast	Alison Wiegert	Child #1
+cast	Brandon Bobst	Child #2
+cast	Pearl Faessler	Wife
+cast	R.E. 'Stick' Faessler	Husband
+cast	Tania Mishler	Waitress #1
+cast	Billie McNabb	Waitress #2
+cast	Art Breese	Cashier
+cast	Lana Schwab	Saleswoman
+cast	Larry Loury	UPS Driver
+cast	James Rivers	James Rivers Band
+cast	Mark A. Brooks	James Rivers Band
+cast	Peter Cho	James Rivers Band
+cast	Eddie Dejean Sr.	James Rivers Band
+cast	Jason C. Brewer	James Rivers Band
+cast	Kyle Eastwood	James Rivers Band
+cast	George Orrison	Café Patron
+cast	Ken Billeter	Café Patron
+cast	Judy Trask	Café Patron
+cast	David Trask	Café Patron
+cast	Edna Dolson	Café Patron
+cast	Dennis McCool	Café Patron
+cast	Michael C. Pommier	Café Patron
+cast	Jana Corkrean	Café Patron
+cast	M. Jane Seymour	Café Patron
+cast	Karla Jo Soper	Café Patron

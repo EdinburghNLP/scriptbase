@@ -1,0 +1,5 @@
+logline	Tells the story of Benjamin Button, a man who starts aging backwards with bizarre consequences.
+tagline	Life isn't measured in minutes, but in moments
+tagline	"I was born under unusual circumstances".
+tagline	Life can only be understood backward. It must be lived forward.
+tagline	Time is passing, even backwards.

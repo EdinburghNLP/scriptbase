@@ -1,0 +1,96 @@
+year	2002
+imdb score	5.5
+meta score	25
+genre	Drama
+genre	Thriller
+keyword	escape
+keyword	marriage
+keyword	abusive husband
+keyword	mother daughter relationship
+keyword	teacher student relationship
+keyword	woman beater
+keyword	self defense
+keyword	training
+keyword	gunfight
+keyword	tough girl
+keyword	tough guy
+keyword	san francisco california
+keyword	kiss
+keyword	stalking
+keyword	glock
+keyword	krav maga
+keyword	pistol
+keyword	battered woman
+keyword	chase
+keyword	shootout
+keyword	one word title
+keyword	domestic violence
+keyword	ambush
+keyword	police
+keyword	hand to hand combat
+keyword	impersonating a police officer
+keyword	storm
+keyword	stalker
+keyword	martial arts
+keyword	infidelity
+keyword	semiautomatic pistol
+keyword	brawl
+keyword	martial artist
+keyword	psycho thriller
+keyword	woman in jeopardy
+keyword	cell phone
+keyword	revenge
+keyword	spouse
+keyword	suspense
+keyword	waitress
+keyword	new identity
+keyword	car chase
+keyword	obsessive love
+keyword	jealousy
+keyword	female protagonist
+keyword	husband wife relationship
+keyword	fistfight
+keyword	
+cast	Jennifer Lopez	Slim Hiller
+cast	Billy Campbell	Mitch Hiller
+cast	Tessa Allen	Gracie Hiller
+cast	Juliette Lewis	Ginny
+cast	Dan Futterman	Joe
+cast	Noah Wyle	Robbie
+cast	Fred Ward	Jupiter
+cast	Christopher Maher	Phil
+cast	Janet Carroll	Mrs. Hiller
+cast	Bill Cobbs	Jim Toller
+cast	Bruce A. Young	Instructor
+cast	Bruce French	Homeowner
+cast	Ruben Madera	Teddy
+cast	Dan Martin	FBI Agent
+cast	Jeff Kober	FBI Agent
+cast	Brent Sexton	FBI Agent
+cast	Michael P. Byrne	Desk Sergeant
+cast	Leif Riddell	First Cop
+cast	David Brokhim	Mustapha
+cast	Regan Forman	Preschool Director
+cast	Sandra Nelson	Teacher Betty
+cast	Lynne Marie Stewart	Waitress
+cast	Smadar Brener	Receptionist
+cast	Margaret Emery	Jupiter's Blonde Girl
+cast	Victor McCay	Electronics Store Clerk
+cast	James Noah	Mr. Hiller
+cast	Nikki Bokal	Mitch's Young Blonde
+cast	John O'Brien	Front Desk Clerk
+cast	Louisa Abernathy	Bank Teller
+cast	Kerri Higuchi	Ticket Clerk
+cast	Fern Ward	Soup Server
+cast	Tanya Fishburn	Mitch's Assistant
+cast	Brett Baxter Clark	Construction Site Cop
+cast	William Barillaro	Bus Driver
+cast	Adeline Allen	Girl Hugging Dad at Airport
+cast	Jeanne Allen	Girl Hugging Dad at Airport
+cast	Cabran E. Chamberlain	Tourist
+cast	Chris Guzzi	Police Officer
+cast	Bethany Hazelitt	Ginny's Daughter
+cast	Jesse King	Groom Family Member
+cast	Russell Milton	Alex
+cast	John Papp	Safe House Guest
+cast	Steven Paul Zsenyuk	Wedding Party Dancer

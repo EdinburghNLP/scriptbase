@@ -1,0 +1,174 @@
+year	1996
+imdb score	6.0
+meta score	N/A
+genre	Comedy
+genre	Drama
+genre	Thriller
+keyword	friend
+keyword	cable guy
+keyword	television
+keyword	homoerotic
+keyword	stalking
+keyword	directed by star
+keyword	personality disorder
+keyword	mental
+keyword	cable television
+keyword	threat
+keyword	psychopath
+keyword	punched in the face
+keyword	public humiliation
+keyword	jail
+keyword	sociopath
+keyword	speech impediment
+keyword	rainstorm
+keyword	terror
+keyword	cult film
+keyword	sword fight
+keyword	wanting to die
+keyword	breaking through a door
+keyword	medieval times
+keyword	cheating boyfriend
+keyword	mending friendship
+keyword	woman in jeopardy
+keyword	1990s
+keyword	helicopter
+keyword	lifting someone into the air
+keyword	dangerous friend
+keyword	fight
+keyword	black humor
+keyword	dark comedy
+keyword	false accusation
+keyword	homosexual subtext
+keyword	threatening telephone call
+keyword	police
+keyword	crime of passion
+keyword	actor playing multiple roles
+keyword	man with no name
+keyword	psycho
+keyword	arena
+keyword	jealousy
+keyword	chase
+keyword	impostor
+keyword	falling from height
+keyword	basketball
+keyword	satire
+keyword	tragic villain
+keyword	destiny
+keyword	deeply disturbed person
+keyword	villain played by lead actor
+keyword	satellite
+keyword	villain not really dead cliche
+keyword	mysterious man
+keyword	stalker
+keyword	intimidation
+keyword	tongue in cheek
+keyword	insanity
+keyword	heavy rain
+keyword	black comedy
+keyword	obsession
+keyword	physical abuse
+keyword	head in a toilet
+keyword	homosexual overtones
+keyword	dry hump
+keyword	arrest
+keyword	sex joke
+keyword	maniac
+keyword	break up
+keyword	nightmare
+keyword	lightning
+keyword	cult film
+keyword	architect
+keyword	crude humor
+keyword	double entendre
+keyword	deranged man
+keyword	movie reference
+keyword	frat pack
+keyword	reference to pepsi
+keyword	gay subtext
+keyword	knocking on a door
+keyword	cartoon on tv
+keyword	lisp
+keyword	karaoke
+keyword	coveralls
+keyword	menace
+keyword	self referential
+keyword	dream
+keyword	
+cast	Jim Carrey	The Cable Guy
+cast	Matthew Broderick	Steven M. Kovacs
+cast	Leslie Mann	Robin Harris
+cast	Jack Black	Rick
+cast	George Segal	Steven's Father
+cast	Diane Baker	Steven's Mother
+cast	Ben Stiller	Sam Sweet / Stan Sweet
+cast	Eric Roberts	Eric Roberts
+cast	Janeane Garofalo	Medieval Times Waitress
+cast	Andy Dick	Medieval Times Host
+cast	Harry O'Reilly	Steven's Boss
+cast	David Cross	Sales Manager
+cast	Amy Stiller	Steven's Secretary
+cast	Owen Wilson	Robin's Date
+cast	Keith Gibbs	Basketball Player
+cast	Tommy Hinkley	Basketball Player
+cast	Shawn Michael Howard	Basketball Player
+cast	Jeff Kahn	Basketball Player
+cast	Suli McCullough	Basketball Player
+cast	Jeff Michalski	Basketball Player
+cast	Joel Murray	Basketball Player
+cast	Andrew Shaifer	Basketball Player
+cast	Cameron Starman	Cable Boy
+cast	Kathy Griffin	Cable Boy's Mother
+cast	Greg Hopla	Medieval Times Fighter
+cast	John Ferdinand	Medieval Times Fighter
+cast	Misa Koprova	Heather
+cast	Paul Greco	Raul
+cast	Aki Aleong	Karaoke Party Guest
+cast	Donna Hardy	Karaoke Party Guest
+cast	Lloyd Kino	Karaoke Party Guest
+cast	Sara Lowell	Karaoke Party Guest
+cast	Cynthia Mason	Karaoke Party Guest
+cast	Michael Rivkin	Karaoke Party Guest
+cast	Harper Roisman	Karaoke Party Guest
+cast	Sandra Thigpen	Karaoke Party Guest
+cast	Sean Whalen	Karaoke Party Guest
+cast	Marty Zagon	Karaoke Party Guest
+cast	Cynthia Lamontagne	Restaurant Hostess
+cast	James O'Connell	Bathroom Attendant
+cast	Douglas Robert Jackson	Bathroom Patron
+cast	Charles Napier	Arresting Officer
+cast	Christopher Michael	Arresting Officer
+cast	Charles Robinson	Steven's Lawyer
+cast	John F. O'Donohue	Prison Guard
+cast	Lydell M. Cheshier	Jail Inmate
+cast	Jason Larimore	Jail Inmate
+cast	Ahmad Reese	Jail Inmate
+cast	Emilio Rivera	Jail Inmate
+cast	Bob Odenkirk	Steven's Brother
+cast	Julie Hayden	Steven's Sister
+cast	Annabelle Gurwitch	Steven's Sister-in-Law
+cast	Blake Boyd	Steven's Brother-in-Law
+cast	Liza D'Agostino	Newsroom Researcher
+cast	Tabitha Soren	Herself
+cast	Rikki Klieman	Rikki Klieman
+cast	Robert Simels	Robert Simels
+cast	Leonard O. Turner	Sam Sweet Judge
+cast	Carlo Allen	Sam Sweet Court Judge
+cast	Conrad Janis	Father 'Double Trouble'
+cast	Thomas Scott	Sam Sweet - Age 8
+cast	Steven Scott	Stan Sweet - Age 8
+cast	Christine Devine	Anchor Woman
+cast	Mark Thompson	Newsroom Reporter
+cast	Wendy L. Walsh	Reporter Outside Courtroom
+cast	Marion Dugan	Robin's Neighbor
+cast	Kyle Gass	Couch Potato
+cast	David Bowe	Helicopter Paramedic
+cast	Robert 'Bobby Z' Zajonc	Medevac Pilot
+cast	Jeremy Applegate	Serf #4
+cast	Barbara Babbin	Bar Patron
+cast	Bill Clinton	Himself
+cast	Adam Consolo	Serf #2
+cast	Hal Dion	Lead officer
+cast	Shann Johnson	
+cast	Alex D. Linz	
+cast	Robert Lyon Rasner	Serf #3
+cast	Raydeen Revilla	Karaoke Video Dancer

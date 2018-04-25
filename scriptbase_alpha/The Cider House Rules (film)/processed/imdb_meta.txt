@@ -1,0 +1,142 @@
+year	1999
+imdb score	7.4
+meta score	75
+genre	Drama
+genre	Romance
+keyword	orphanage
+keyword	maine
+keyword	doctor
+keyword	cider
+keyword	apple
+keyword	love
+keyword	abortion
+keyword	orphan
+keyword	war injury
+keyword	suicide
+keyword	1920s
+keyword	diploma
+keyword	rainstorm
+keyword	drive in theater
+keyword	male nudity
+keyword	female nudity
+keyword	military officer
+keyword	premarital sex
+keyword	incest
+keyword	friendship
+keyword	illiteracy
+keyword	music score features piano
+keyword	gift
+keyword	burial
+keyword	anesthetic
+keyword	boy
+keyword	abortionist
+keyword	convertible
+keyword	world war two
+keyword	apple orchard
+keyword	storytelling
+keyword	x ray
+keyword	protégé
+keyword	lobster
+keyword	child driving car
+keyword	orchard
+keyword	coming of age
+keyword	paraplegic
+keyword	reading to someone
+keyword	picking apples
+keyword	adoption
+keyword	wheelchair
+keyword	sex
+keyword	father daughter incest
+keyword	apple cider
+keyword	ether
+keyword	screenplay adapted by author
+keyword	new job
+keyword	unwed pregnancy
+keyword	forgery
+keyword	nurse
+keyword	friend
+keyword	orchestral music score
+keyword	paralysis
+keyword	african american
+keyword	death
+keyword	pregnancy
+keyword	1940s
+keyword	sick child
+keyword	mother son relationship
+keyword	loss of virginity
+keyword	boyfriend girlfriend relationship
+keyword	woman dies from abortion
+keyword	beach
+keyword	cheating on boyfriend
+keyword	girl
+keyword	deception
+keyword	racial slur
+keyword	movie theater
+keyword	board meeting
+keyword	author cameo
+keyword	drugs
+keyword	dock
+keyword	1930s
+keyword	fraud
+keyword	migrant worker
+keyword	voice over narration
+keyword	snowball fight
+keyword	cider brewery
+keyword	father daughter relationship
+keyword	cigarette smoking
+keyword	love triangle
+keyword	pregnant by incest
+keyword	drug overdose
+keyword	bronchitis
+keyword	pro choice
+keyword	vomit
+keyword	pilot
+keyword	birth
+keyword	prologue
+keyword	mentor protégé relationship
+keyword	rural setting
+keyword	incinerator
+keyword	railway station
+keyword	knife fight
+keyword	stabbing
+keyword	death of friend
+keyword	death of child
+keyword	based on novel
+keyword	independent film
+cast	Tobey Maguire	Homer Wells
+cast	Charlize Theron	Candy Kendall
+cast	Delroy Lindo	Arthur Rose
+cast	Paul Rudd	Lt. Wally Worthington
+cast	Michael Caine	Dr. Wilbur Larch
+cast	Jane Alexander	Nurse Edna
+cast	Kathy Baker	Nurse Angela
+cast	Erykah Badu	Rose Rose
+cast	Kieran Culkin	Buster
+cast	Kate Nelligan	Olive Worthington
+cast	Heavy D	Peaches
+cast	K. Todd Freeman	Muddy
+cast	Paz de la Huerta	Mary Agnes
+cast	J.K. Simmons	Ray Kendall
+cast	Evan Parke	Jack
+cast	Jimmy Flynn	Vernon
+cast	Lonnie Farmer	Hero
+cast	Erik Per Sullivan	Fuzzy
+cast	Spencer Diamond	Curly
+cast	Sean Andrew	Copperfield
+cast	John Albano	Steerforth
+cast	Skye McCole Bartusiak	Hazel
+cast	Clare Daly	Clara
+cast	Colin Irving	Major Winslow
+cast	Annie Corley	Carla
+cast	Patrick Donnelly	Adopting Father
+cast	Edie Schechter	Adopting Mother
+cast	Kasey Berry	12yr. Old Girl
+cast	Mary Bogue	Big Dot
+cast	Victoria Stankiewicz	Debra
+cast	Christine Stevens	Florence
+cast	Earle C. Batchelder	Dr. Holtz
+cast	Norma Fine	Mrs. Goodhall
+cast	John Irving	Stationmaster
+cast	Eric Bruno Borgman	Flirting Soldier on Train
+cast	Kevin Chapman	Adopting Dad
+cast	John H. Tobin	Man on Train

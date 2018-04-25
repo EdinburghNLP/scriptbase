@@ -1,0 +1,110 @@
+year	2009
+imdb score	6.2
+meta score	25
+genre	Horror
+genre	Mystery
+genre	Thriller
+keyword	social worker
+keyword	laundry drying on clothes line
+keyword	tire iron
+keyword	breaking down a door
+keyword	falling elevator
+keyword	supernatural power
+keyword	umbrella
+keyword	digit in title
+keyword	aquarium
+keyword	ice cream cone
+keyword	pier
+keyword	german shepherd
+keyword	telephone call
+keyword	spinning in a chair
+keyword	bare chested male
+keyword	stabbed with a fork
+keyword	hairy chest
+keyword	animal attack
+keyword	broken jaw
+keyword	screwdriver
+keyword	cityscape
+keyword	burned to death
+keyword	hornet
+keyword	demon
+keyword	child abuse
+keyword	driving into the sea
+keyword	thunderstorm
+keyword	ferocious dog
+keyword	child as villain
+keyword	arson
+keyword	startled
+keyword	murder
+keyword	alarm clock
+keyword	sedative
+keyword	overwork
+keyword	extreme close up
+keyword	school bus
+keyword	dog
+keyword	drown
+keyword	child killer
+keyword	camera shot of feet
+keyword	detective
+keyword	house fire
+keyword	popcorn
+keyword	close up of eyes
+keyword	mental institution
+keyword	two word title
+keyword	number in title
+cast	Renée Zellweger	Emily Jenkins
+cast	Jodelle Ferland	Lilith Sullivan
+cast	Ian McShane	Det. Mike Barron
+cast	Bradley Cooper	Doug
+cast	Callum Keith Rennie	Edward Sullivan
+cast	Adrian Lester	Wayne
+cast	Kerry O'Malley	Margaret Sullivan
+cast	Cynthia Stevenson	Nancy
+cast	Alexander Conti	Diego
+cast	Philip Cabrita	Javier
+cast	Vanesa Tomasino	Javier's Wife
+cast	Mary Black	Custody Judge
+cast	Domenico D'Ambrosio	Plainclothes Cop
+cast	Benita Ha	Therapist
+cast	J. Winston Carroll	Judge
+cast	Michael Bean	Co-Worker
+cast	Lesley Ewen	Co-Worker
+cast	David Patrick Green	Chief Psychiatrist
+cast	Dee Jay Jackson	Bus Driver
+cast	Taya Calicetto	Young Emily
+cast	Alisen Down	Emily's Mother
+cast	Darryl Quon	Inmate
+cast	Suzanne Bastien	Nurse
+cast	Jane Braithwaite	Nurse
+cast	Fulvio Cecere	Fire Marshall
+cast	Colin Lawrence	Police Sergeant
+cast	Dagmar Midcap	News Anchor
+cast	Fran Gebhard	Coordinator
+cast	Bill Mondy	Interviewer
+cast	Andrew Airlie	Doctor
+cast	Sarah-Jane Redmond	Barron's Wife
+cast	Charles Zuckermann	Demon Person
+cast	Yvonne Valdez	Mrs. Lynch
+cast	Paul Duchart	Priest
+cast	Daniel Bacon	Businessperson
+cast	Darren E. Scott	Young Cop
+cast	Dalias Blake	Detention Center Cop
+cast	Phillip Mitchell	Lead Guard
+cast	Camille Atebe	New Caseworker
+cast	Linden Banks	Angry Man
+cast	Georgia Craig	Denise
+cast	Terence Dament	Bailiff
+cast	Jillian Fargey	Foster Mom
+cast	Ryan Harder	Foster Brother
+cast	Adrian Hough	Man in Suit
+cast	Tiffany Lyndall-Knight	Darla - Teacher
+cast	Hal Myshrall	Gay Adoptive Parent
+cast	Kate Robbins	Supervisor
+cast	Michael Ryan	Foster Dad
+cast	Sadie	Terror Dog
+cast	Norm Sherry	Principal
+cast	Cindy Sungu	Mia - Girl in Classroom
+cast	John Andrew Vaas	Inmate
+cast	Ian Wallace	Lunatic
+cast	Ian A. Wallace	Bald Lunatic
+cast	Danny Wattley	Detention Center Cop

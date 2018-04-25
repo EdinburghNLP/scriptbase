@@ -1,0 +1,400 @@
+year	1983
+imdb score	8.3
+meta score	65
+genre	Crime
+genre	Drama
+keyword	cuban
+keyword	refugee
+keyword	friend
+keyword	drugs
+keyword	cocaine
+keyword	power
+keyword	money
+keyword	cuban refugee
+keyword	cuba
+keyword	gangster
+keyword	drug cartel
+keyword	killing
+keyword	1980s
+keyword	immigrant
+keyword	remake
+keyword	chainsaw
+keyword	stabbed in the stomach
+keyword	crowd
+keyword	dress
+keyword	corrupt cop
+keyword	drug dealer
+keyword	sunglasses
+keyword	begging for life
+keyword	infertility
+keyword	criminal gang
+keyword	out of control
+keyword	cuban mafia
+keyword	blood splatter
+keyword	female nudity
+keyword	clock
+keyword	blood
+keyword	topless female nudity
+keyword	showdown
+keyword	danger
+keyword	street
+keyword	loss of husband
+keyword	reference to james cagney
+keyword	drug smuggling
+keyword	grenade launcher
+keyword	attraction
+keyword	loss of control
+keyword	leisure suit
+keyword	money laundering
+keyword	famous line
+keyword	bolivia
+keyword	corrupt official
+keyword	electronic music score
+keyword	shot in the head
+keyword	character's point of view camera shot
+keyword	vintage car
+keyword	marriage
+keyword	crying
+keyword	murder
+keyword	face slap
+keyword	palms
+keyword	death of sister
+keyword	police
+keyword	blood spatter
+keyword	colombian drug cartel
+keyword	friendship gone bad
+keyword	blonde
+keyword	disco
+keyword	gun
+keyword	neck breaking
+keyword	fear
+keyword	purple panties
+keyword	ruthlessness
+keyword	anger
+keyword	diplomat
+keyword	respect
+keyword	falling into water
+keyword	murder attempt
+keyword	arrest
+keyword	drug addiction
+keyword	knife
+keyword	corruption
+keyword	scar
+keyword	bedroom
+keyword	scarred face
+keyword	porsche
+keyword	slapping
+keyword	flirting
+keyword	sadist
+keyword	rifle
+keyword	bare breasts
+keyword	montage
+keyword	telephone box
+keyword	decadence
+keyword	cult film
+keyword	cadillac
+keyword	hanging
+keyword	villain played by lead actor
+keyword	black humor
+keyword	subjective camera
+keyword	telephone
+keyword	strangulation
+keyword	assassination attempt
+keyword	pelican
+keyword	crime epic
+keyword	robe
+keyword	pay phone
+keyword	shot in the leg
+keyword	apartment
+keyword	restroom
+keyword	apartment building
+keyword	mercilessness
+keyword	bathroom
+keyword	drug lord
+keyword	shootout
+keyword	evil man
+keyword	shot in the forehead
+keyword	murder of sister
+keyword	hotel
+keyword	desire
+keyword	gunfight
+keyword	sadism
+keyword	rise and fall
+keyword	latin woman
+keyword	hidden camera
+keyword	new york city
+keyword	mob hit
+keyword	chainsaw murder
+keyword	spit in the face
+keyword	last stand
+keyword	undercover cop
+keyword	nightclub
+keyword	stabbed to death
+keyword	organized crime
+keyword	nipples
+keyword	fondling
+keyword	bandage
+keyword	interracial relationship
+keyword	bomb
+keyword	firearm pointed at the camera
+keyword	bikini
+keyword	brooklyn bridge
+keyword	slap
+keyword	car bomb
+keyword	grand guignol
+keyword	desk
+keyword	mob violence
+keyword	bank
+keyword	detonator
+keyword	falling from height
+keyword	bikini girl
+keyword	cocaine addict
+keyword	best friend
+keyword	blimp
+keyword	mansion
+keyword	controversy
+keyword	incestuous desire
+keyword	home
+keyword	one word title
+keyword	shot in the back
+keyword	death
+keyword	drug addict
+keyword	tiger
+keyword	loss of friend
+keyword	car driving
+keyword	criminal
+keyword	latino
+keyword	frustration
+keyword	love at first sight
+keyword	shot to death
+keyword	brother sister relationship
+keyword	shower curtain
+keyword	insult
+keyword	uzi
+keyword	cruelty
+keyword	miami beach
+keyword	clown
+keyword	mother son relationship
+keyword	rage
+keyword	helicopter
+keyword	immigration
+keyword	impulsiveness
+keyword	panic
+keyword	immigration officer
+keyword	multiple murder
+keyword	joy
+keyword	machine gun
+keyword	destruction
+keyword	watching tv
+keyword	cult movie cast
+keyword	surprise
+keyword	dancing
+keyword	latina
+keyword	sadness
+keyword	drink thrown into someone's face
+keyword	loss of sister
+keyword	bed
+keyword	wedding
+keyword	bitterness
+keyword	friendship
+keyword	loss of loved one
+keyword	silencer
+keyword	broken door
+keyword	colombia
+keyword	revenge
+keyword	thinness
+keyword	dismemberment
+keyword	tv news
+keyword	shot repeatedly
+keyword	hidden gun
+keyword	video surveillance
+keyword	color remake of black and white film
+keyword	husband wife relationship
+keyword	talking while driving
+keyword	police interrogation
+keyword	anti hero
+keyword	political corruption
+keyword	brutality
+keyword	beach resort
+keyword	blue dress
+keyword	broken mirror
+keyword	convertible
+keyword	remote control
+keyword	luxury
+keyword	slow motion scene
+keyword	gay slur
+keyword	riot
+keyword	shot in the arm
+keyword	revelation
+keyword	motel
+keyword	gore
+keyword	dolly zoom
+keyword	panties
+keyword	phone booth
+keyword	weapon
+keyword	living room
+keyword	undercover
+keyword	fake accent
+keyword	cleavage
+keyword	house
+keyword	revolver
+keyword	violence
+keyword	jealousy
+keyword	mafia
+keyword	miami florida
+keyword	interracial marriage
+keyword	interrogation
+keyword	stabbing
+keyword	dysfunctional marriage
+keyword	rampage
+keyword	pistol
+keyword	car dealer
+keyword	lawyer
+keyword	assassin
+keyword	love interest
+keyword	famous score
+keyword	facial scar
+keyword	explosion
+keyword	shot in the stomach
+keyword	wrath
+keyword	love
+keyword	bathtub
+keyword	attempted murder
+keyword	meat truck
+keyword	cuban american
+keyword	long take
+keyword	gang war
+keyword	drug dealing
+keyword	prison camp
+keyword	bloodshed
+keyword	swimming pool
+keyword	throat slitting
+keyword	hot tub
+keyword	shooting
+keyword	palm tree
+keyword	latin
+keyword	shotgun
+keyword	stand up comedian
+keyword	banker
+keyword	evil
+keyword	self destruction
+keyword	disco music
+keyword	sniper
+keyword	faked accent
+keyword	restaurant
+keyword	vengeance
+keyword	mass murder
+keyword	betrayal
+keyword	cocaine snorting
+keyword	dead man
+keyword	shot at the camera
+keyword	telephone call
+keyword	death of friend
+keyword	based on novel
+keyword	title spoken by character
+keyword	
+cast	Al Pacino	Tony Montana
+cast	Steven Bauer	Manny Ribera
+cast	Michelle Pfeiffer	Elvira Hancock
+cast	Mary Elizabeth Mastrantonio	Gina Montana
+cast	Robert Loggia	Frank Lopez
+cast	Miriam Colon	Mama Montana
+cast	F. Murray Abraham	Omar Suarez
+cast	Paul Shenar	Alejandro Sosa
+cast	Harris Yulin	Mel Bernstein
+cast	Ángel Salazar	Chi Chi
+cast	Arnaldo Santana	Ernie
+cast	Pepe Serna	Angel
+cast	Michael P. Moran	Nick The Pig
+cast	Al Israel	Hector The Toad
+cast	Dennis Holahan	Jerry The Banker
+cast	Mark Margolis	Alberto The Shadow
+cast	Michael Alldredge	Sheffield
+cast	Ted Beniades	Seidelbaum
+cast	Richard Belzer	M.C. at Babylon Club
+cast	Paul Espel	Luis
+cast	John Brandon	Immigration Officer #3
+cast	Tony Perez	Immigration Officer #2
+cast	Garnett Smith	Immigration Officer #1
+cast	Loren Almaguer	Dr. Munoz
+cast	Gil Barreto	Cuban Refugee
+cast	Heather Benna	Gutierrez Child
+cast	Sue Bowser	Miriam
+cast	Tina Leigh Cameron	Saleslady
+cast	Victor Campos	Ronnie Echevierra
+cast	Robert Hammer Cannerday	Marielito
+cast	Rene Carrasco	Shooter
+cast	Albert Carrier	Pedro Quinn
+cast	John Carter	Vic Phillips
+cast	Richard Caselnova	Driver
+cast	Gary Carlos Cervantes	Shooter #1
+cast	Carlos Cestero	Matos
+cast	Johnny Contardo	Miguel Echevierra
+cast	Roberto Contreras	Rebenga
+cast	Caesar Cordova	Taco stand cook
+cast	Gregory Cruz	Shooter #2
+cast	Dante D'Andre	General Strasser
+cast	Richard Delmonte	Fernando
+cast	Wayne Doba	Octavio The Clown
+cast	Michel François	Maitre d'
+cast	Ben Frommer	Male Patron
+cast	Edward R. Frommer	Taco Stand Customer
+cast	John Gamble	Helicopter Pilot
+cast	Troy Isaacs	Cuban Refugee
+cast	Ronald G. Joseph	Car Salesman
+cast	Mario Machado	Interviewer
+cast	Joe Marmo	Nacho 'El Gordo'
+cast	Ray Martel	Nacho's Bodyguard
+cast	John McCann	Bank Spokesman
+cast	Richard Mendez	Gina's Killer
+cast	Victor Millan	Ariel Bleyer
+cast	Santos Morales	Waldo
+cast	Mike Moroff	Gaspar's Bodyguard
+cast	Angela Nisi	Gutierrez Child
+cast	Manuel Padilla Jr.	Kid #2
+cast	Tony Pann	Driver
+cast	Ilka Tanya Payan	Mrs. Gutierrez
+cast	Barbra Perez	Marta
+cast	Michael Rougas	Monsignor
+cast	Anthony Saenz	Cuban Refugee
+cast	Geno Silva	The Skull
+cast	Arnold Tafolla	Kid #1
+cast	Charles A. Tamburro	Helicopter Pilot
+cast	Jim Towers	Cuban Refugee
+cast	Robert Vandenberg	Gaspar Gomez
+cast	Bob Yanez	Cuban Man
+cast	Angela Aames	Woman at Babylon Club
+cast	Nancy Lee Andrews	Woman at Babylon Club
+cast	Dona Baldwin	Woman at Babylon Club
+cast	Lee Benton	Woman at Babylon Club
+cast	Cynthia Burr	Woman at Babylon Club
+cast	Lana Clarkson	Woman at Babylon Club
+cast	Karen Criswell	Woman at Babylon Club
+cast	Margo Kelly	Woman at Babylon Club
+cast	Ava Lazar	Woman at Babylon Club
+cast	Emilia Crow	Woman at Babylon Club
+cast	Marii Mak	Woman at Babylon Club
+cast	Shelley Taylor Morgan	Woman at Babylon Club
+cast	Catharine Richardson	Woman at Babylon Club
+cast	Pat Simmons	Woman at Babylon Club
+cast	Terri Taylor	Woman at Babylon Club
+cast	Charlie Adiano	Woman at Babylon Club
+cast	Lisa Katz	Woman at Babylon Club
+cast	Jeanette Linne	Woman at Babylon Club
+cast	Margaret Michaels	Woman at Babylon Club
+cast	Rhonda Sandberg	Woman at Babylon Club
+cast	Katt Shea	Woman at Babylon Club
+cast	Marcia Wolf	Woman at Babylon Club
+cast	Fidel Castro	Himself
+cast	Barclay DeVeau	Ambassador's Daughter
+cast	Charles Durning	Immigration Officer
+cast	Dennis Franz	Immigration Officer
+cast	Linda Gillen	Voice
+cast	Gregg Henry	Charles Goodson
+cast	Kevyn Major Howard	Extra
+cast	Richard Jasen	Little Boy at Pool
+cast	Henry Kingi	Colombian Hitman
+cast	Jorge Porcel	Sasso
+cast	Brett Ratner	Boy Lying on Raft in Pool
+cast	Randall Rutledge	Night Club Patron
+cast	Marcus Shirock	Boy at Pool

@@ -1,0 +1,120 @@
+year	2012
+imdb score	7.3
+meta score	79
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	sex
+keyword	priest
+keyword	sex surrogate
+keyword	iron lung
+keyword	poet
+keyword	polio
+keyword	erection
+keyword	disability
+keyword	love
+keyword	catholic
+keyword	intimacy
+keyword	virgin
+keyword	actress breaking typecast
+keyword	paralyzed
+keyword	woman crying
+keyword	sexual exploration
+keyword	two in a bath
+keyword	cunnilingus
+keyword	polio victim
+keyword	beer
+keyword	kiss
+keyword	wheelchair
+keyword	catholic church
+keyword	near death experience
+keyword	undressing
+keyword	orange tabby cat
+keyword	voice over narration
+keyword	shaving someone
+keyword	implied nudity
+keyword	jewish
+keyword	crying woman
+keyword	college graduation
+keyword	implied male nudity
+keyword	power outage
+keyword	two word title
+keyword	woman on top
+keyword	jewish convert
+keyword	female frontal nudity
+keyword	man with glasses
+keyword	woman with glasses
+keyword	female rear nudity
+keyword	urination
+keyword	male virgin
+keyword	orgasm
+keyword	bed ridden
+keyword	sex therapist
+keyword	narrated by character
+keyword	church
+keyword	berkeley california
+keyword	funeral
+keyword	handicap sex
+keyword	thrift store
+keyword	first sexual experience
+keyword	sexual arousal
+keyword	jewish baptism
+keyword	loss of virginity
+keyword	first time sex
+keyword	forbidden love
+keyword	intimate
+keyword	sponge bath
+keyword	man in a wheelchair
+keyword	pubic hair
+keyword	gurney
+keyword	poem
+keyword	naked woman
+keyword	catholic priest
+keyword	female full frontal nudity
+keyword	star appears nude
+keyword	sexual awakening
+keyword	bare chested male
+keyword	written by director
+keyword	pity sex
+keyword	woman undressing
+keyword	true life character
+keyword	sexual pleasure
+keyword	jewish man
+keyword	sexual repression
+keyword	hotel
+keyword	graduation
+keyword	year 1988
+keyword	cat
+keyword	jealous husband
+keyword	poetry
+keyword	female nudity
+keyword	judaism
+keyword	
+cast	John Hawkes	Mark
+cast	Helen Hunt	Cheryl
+cast	William H. Macy	Father Brendan
+cast	Moon Bloodgood	Vera
+cast	Annika Marks	Amanda
+cast	Adam Arkin	Josh
+cast	Rhea Perlman	Mikvah Lady
+cast	W. Earl Brown	Rod
+cast	Robin Weigert	Susan
+cast	Blake Lindsley	Dr. Laura White
+cast	Ming Lo	Clerk
+cast	Rusty Schwimmer	Joan
+cast	Jennifer Kumiyama	Carmen
+cast	Tobias Forrest	Greg
+cast	Jarrod Bailey	Tony
+cast	James Martinez	Matt
+cast	Paul MacLean	Young Mark
+cast	Phoebe Lewin	Girl on Beach
+cast	Jonathan Hanrahan	Unicyclist
+cast	T.J. Edwards	Waiter
+cast	J. Teddy Garces	Man in Elevator
+cast	Daniel Quinn	E.R. Doctor
+cast	B.J. Clinkscales	Ambulance Driver
+cast	Terry	Cat
+cast	Gina-Raye Carter	Pill Nurse
+cast	Amanda Jane Fleming	Margaret
+cast	Stephane Nicoli	Patient
+cast	George F. Watson	Amanda's Husband with Baby

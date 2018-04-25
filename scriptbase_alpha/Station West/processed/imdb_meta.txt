@@ -1,0 +1,107 @@
+year	1948
+imdb score	6.8
+meta score	N/A
+genre	Action
+genre	Mystery
+genre	Romance
+genre	Western
+keyword	singer
+keyword	saloon
+keyword	saloon singer
+keyword	murder
+keyword	pipe
+keyword	punched in the face
+keyword	cook
+keyword	gambling debt
+keyword	lieutenant
+keyword	robbery
+keyword	stolen gold
+keyword	undercover
+keyword	female singer
+keyword	bandaged hand
+keyword	lawyer
+keyword	pistol whip
+keyword	wells fargo
+keyword	femme fatale
+keyword	dead soldier
+keyword	sheriff
+keyword	singing
+keyword	fire
+keyword	army captain
+keyword	deposition
+keyword	government agent
+keyword	casino
+keyword	woman shot
+keyword	sawmill
+keyword	u.s. army
+keyword	1880s
+keyword	investigation
+keyword	stagecoach
+keyword	shootout
+keyword	guitar
+keyword	two word title
+keyword	masked robber
+keyword	arizona
+keyword	button
+keyword	knocked out
+keyword	pipe smoking
+keyword	military officer
+keyword	stagecoach line
+keyword	dowager
+keyword	horse and buggy
+keyword	woman with gun
+keyword	i. o. u.
+keyword	drink thrown into someone's face
+keyword	craps
+keyword	derringer
+keyword	noir western
+keyword	hotel
+keyword	military
+keyword	shot to death
+keyword	stagecoach robbery
+keyword	hotel clerk
+keyword	gold
+keyword	fistfight
+keyword	new job
+keyword	riding shotgun
+keyword	based on novel
+cast	Dick Powell	Haven
+cast	Jane Greer	Charlie
+cast	Agnes Moorehead	Mrs. Caslon
+cast	Burl Ives	Hotel Clerk
+cast	Tom Powers	Captain Iles
+cast	Gordon Oliver	Prince
+cast	Steve Brodie	Stellman
+cast	Guinn 'Big Boy' Williams	Mick
+cast	Raymond Burr	Mark Bristow
+cast	Regis Toomey	Goddard
+cast	Olin Howland	Cook
+cast	John Berkes	Pianist
+cast	Michael Steele	Jerry
+cast	Dan White	Pete
+cast	John Kellogg	Ben
+cast	John Doucette	Bartender
+cast	Charles Middleton	Sheriff
+cast	Suzi Crandall	Girl
+cast	Erville Alderson	Stageline Hired Hand
+cast	Stanley Blystone	Bouncer
+cast	Chet Brandenburg	Waiter
+cast	Victor Cox	Kibitzer
+cast	Art Felix	Barfly
+cast	Robert Gates	Sam
+cast	Slim Gaut	Dancer
+cast	Al Hill	Dice Table Croupier
+cast	Robert Jefferson	Wagon Driver
+cast	Ethan Laidlaw	Townsman
+cast	Cactus Mack	Barfly
+cast	Frank Matts	Barfly
+cast	Leo J. McMahon	Rider
+cast	Monte Montague	Brawl Spectator
+cast	Bud Osborne	Brawl Spectator / Holdup Man
+cast	William Phipps	Sergeant
+cast	Joey Ray	Stickman
+cast	Jack Stoney	Bouncer
+cast	Lomax Study	Townsman
+cast	Marie Thomas	Dance Hall Girl
+cast	Jack Tornek	Barfly
+cast	Grant Withers	Whitey

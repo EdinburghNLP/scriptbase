@@ -1,0 +1,99 @@
+year	1997
+imdb score	5.4
+meta score	N/A
+genre	Action
+genre	Comedy
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	hostage
+keyword	hostage negotiator
+keyword	chase
+keyword	revenge
+keyword	jewel thief
+keyword	fire
+keyword	police officer
+keyword	sniper
+keyword	police
+keyword	car chase
+keyword	throat slitting
+keyword	shot in the chest
+keyword	car accident
+keyword	city
+keyword	shootout
+keyword	box office flop
+keyword	lasersight
+keyword	severed ear
+keyword	attempted murder
+keyword	speed
+keyword	security guard
+keyword	cable car accident
+keyword	pistol whip
+keyword	gunfight
+keyword	stabbed to death
+keyword	violence
+keyword	robbery
+keyword	blood
+keyword	kicked in the face
+keyword	exploding car
+keyword	police officer killed
+keyword	knife
+keyword	kidnapping
+keyword	security guard killed
+keyword	san francisco california
+keyword	hit by a car
+keyword	bullet proof vest
+keyword	swat team
+keyword	buddy comedy
+keyword	hidden gun
+keyword	automobile chase
+keyword	murder
+keyword	two man army
+keyword	one word title
+keyword	shot in the leg
+keyword	street shootout
+keyword	racial slur
+keyword	showdown
+keyword	shot in the shoulder
+keyword	death
+keyword	police shootout
+keyword	buddy cop
+keyword	title spoken by character
+keyword	
+cast	Eddie Murphy	Insp. Scott Roper
+cast	Kim Miyori	Detective Kimura
+cast	Art Evans	Lt. Sam Baffett
+cast	James Carpenter	Officer Forbes
+cast	Michael Rapaport	Kevin McCall
+cast	Donal Logue	Earl
+cast	Jeni Chua	Debbie, Earl's Hostage
+cast	Dick Bright	Bank Manager
+cast	David Michael Silverman	SWAT Officer Jennings
+cast	Denis Arndt	Capt. Frank Solis
+cast	Frank Somerville	Reporter
+cast	Malou Nubla	Reporter
+cast	Carmen Ejogo	Veronica 'Ronnie' Tate
+cast	Nino Degennaro	Repoman
+cast	Michael Wincott	Michael Korda
+cast	Val Diamond	Screaming Lady
+cast	Charleston Pierce	Greg Barnett
+cast	Paul Ben-Victor	Clarence Teal
+cast	Will Marchetti	Detective Glass
+cast	Trevor Denman	Racetrack Announcer
+cast	Joe Vincent	SWAT Captain
+cast	Corie Henninger	Jewelry Salesgirl #1
+cast	Nellie Cravens	Jewelry Customer Dotson
+cast	Danny Teal	John, Jewelry Manager
+cast	Karen Kahn	Jewelry Salesgirl #2
+cast	Jeff Mosley	Cable Car Brakeman
+cast	Ralph Peduto	Bail Bondsman Hawkins
+cast	James Cunningham	Postrio Waiter
+cast	C.W. Morgan	Jail Laundry Room Guard
+cast	Nick Scoggin	Property Room Sergeant Frank
+cast	Ia Villatuya	Tahitian Waitress
+cast	Richard Conti	Internal Affairs
+cast	Brian Danker	S.F.P.D. Officer
+cast	Bob Dini	Tourist
+cast	Mário Lara	Gambler
+cast	Terriel Lara	Gambler
+cast	Johnpaul Williams	Ticket Booth Agent

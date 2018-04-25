@@ -1,0 +1,94 @@
+year	1977
+imdb score	6.8
+meta score	N/A
+genre	Action
+genre	Comedy
+keyword	texas
+keyword	georgia
+keyword	sheriff
+keyword	police
+keyword	trucker
+keyword	trans am
+keyword	eighteen wheeler
+keyword	mississippi
+keyword	runaway bride
+keyword	citizens band radio
+keyword	coors beer
+keyword	hitchhiking
+keyword	dancer
+keyword	moustache
+keyword	motorcycle accident
+keyword	cowboy hat
+keyword	prostitute
+keyword	police chase
+keyword	fight
+keyword	dog
+keyword	bootlegging
+keyword	masturbation reference
+keyword	speed
+keyword	motorcycle cop
+keyword	arrest
+keyword	car in water
+keyword	jumping off a bridge
+keyword	friendship
+keyword	blockbuster
+keyword	wager
+keyword	car chase
+keyword	wedding dress
+keyword	diner
+keyword	mistaken identity
+keyword	hat
+keyword	roadblock
+keyword	forklift
+keyword	father son relationship
+keyword	gas station
+keyword	car accident
+keyword	arkansas
+keyword	alabama
+keyword	toilet paper
+keyword	breaking the fourth wall
+keyword	on the road
+keyword	convertible
+keyword	obscene gesture
+keyword	pond
+keyword	basset hound
+keyword	motorcycle
+keyword	gay slur
+keyword	vandalism
+keyword	character name in title
+cast	Burt Reynolds	Bandit
+cast	Sally Field	Carrie
+cast	Jerry Reed	Cledus
+cast	Mike Henry	Junior
+cast	Paul Williams	Little Enos
+cast	Pat McCormick	Big Enos
+cast	Alfie Wise	Patrolman - Traffic Jam
+cast	George Reynolds	Branford
+cast	Macon McCalman	Mr. B
+cast	Linda McClure	Waynette
+cast	Susan McIver	Hot Pants
+cast	Laura Lizer Sommers	Little Beaver
+cast	Michael Mann	Branford's Deputy
+cast	Lamar Jackson	Sugar Bear
+cast	Ronnie Gay	Georgia Trooper
+cast	Quinnon Sheffield	Alabama Trooper
+cast	Jackie Gleason	Sheriff Buford T. Justice of Portague County
+cast	Bruce Atkins	Man Little Enos pays off
+cast	Warde Q. Butler	Sheriff
+cast	Darin Chambers	State Police Tidwell
+cast	Curtis Credel	Country
+cast	David Donovan	Teen Car Thief
+cast	Pat Hustis	Tow Truck Driver
+cast	Ben Jones	Trucker with the redhead
+cast	Ingeborg Kjeldsen	Foxy Lady
+cast	Joe Klecko	Trucker
+cast	Fred Lerner	Member of M.C. Gang
+cast	Michael McManus	Trucker 'Silver Tongued Devil'
+cast	Mel Pape	Nude 'Smokey'
+cast	Bill Rampley	Policeman / Bodyguard
+cast	Bill Saito	Truck Driver
+cast	John Schneider	Cowboy Extra in Crowd Scene
+cast	Sonny Shroyer	Motorcycle Cop
+cast	Paul Sorensen	DOT Inspector
+cast	Gene Witham	Leader of the Gang
+cast	Hank Worden	Trucker

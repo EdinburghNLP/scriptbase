@@ -1,0 +1,152 @@
+year	1995
+imdb score	6.6
+meta score	N/A
+genre	Fantasy
+genre	Horror
+genre	Mystery
+genre	Thriller
+keyword	heaven
+keyword	angel
+keyword	soul
+keyword	corpse
+keyword	girl
+keyword	religion
+keyword	blood
+keyword	american indian
+keyword	hit by a car
+keyword	eating heart
+keyword	dark fantasy
+keyword	explosion
+keyword	burned alive
+keyword	personification of satan
+keyword	hermaphrodite
+keyword	police detective
+keyword	theology
+keyword	evil
+keyword	prophecy
+keyword	native american
+keyword	reference to satan
+keyword	hit with a tire iron
+keyword	burning corpse
+keyword	hell
+keyword	first of series
+keyword	bloody mouth
+keyword	cult film
+keyword	abandoned mine
+keyword	body landing on a car
+keyword	funeral
+keyword	religious rite
+keyword	devil
+keyword	crying
+keyword	depression
+keyword	policeman
+keyword	grandmother
+keyword	impalement
+keyword	graveyard
+keyword	demon
+keyword	morgue
+keyword	head wound
+keyword	gun
+keyword	gross out
+keyword	blood splatter
+keyword	holy war
+keyword	fallen angel
+keyword	religious conflict
+keyword	jealousy
+keyword	diner
+keyword	prayer
+keyword	killing
+keyword	narration
+keyword	korean war
+keyword	murder of a police officer
+keyword	shot in the stomach
+keyword	archangel gabriel
+keyword	kiss
+keyword	death wish
+keyword	dried blood
+keyword	ancient book
+keyword	person on fire
+keyword	misanthrope
+keyword	supernatural power
+keyword	detective
+keyword	coroner
+keyword	evil soul
+keyword	skeleton
+keyword	driving through a wall
+keyword	korean war veteran
+keyword	chosen one
+keyword	cigarette smoking
+keyword	ritual
+keyword	arrogance
+keyword	mint
+keyword	symbol
+keyword	tiredness
+keyword	heart ripped out
+keyword	teacher student relationship
+keyword	school teacher
+keyword	indian reservation
+keyword	good versus evil
+keyword	handcuffs
+keyword	dying
+keyword	eye gouging
+keyword	kiss on the forehead
+keyword	christian horror
+keyword	chanting
+keyword	heart in hand
+keyword	shushing
+keyword	autopsy
+keyword	thrown through a windshield
+keyword	hit on the head
+keyword	back from the dead
+keyword	visions of heaven
+keyword	school
+keyword	male tears
+keyword	waitress
+keyword	murder
+keyword	dead body
+keyword	mortal wound
+keyword	shot in the chest
+keyword	falling from height
+keyword	suicide attempt
+keyword	vision
+keyword	possession
+keyword	child in peril
+keyword	dark angel
+keyword	crisis of faith
+keyword	misanthropy
+keyword	lucifer
+keyword	lying
+keyword	taunting
+keyword	severed face
+keyword	bible
+keyword	liar
+keyword	
+cast	Christopher Walken	Gabriel
+cast	Elias Koteas	Thomas Dagget
+cast	Virginia Madsen	Katherine
+cast	Eric Stoltz	Simon
+cast	Viggo Mortensen	Lucifer
+cast	Amanda Plummer	Rachael
+cast	Moriah 'Shining Dove' Snyder	Mary
+cast	Adam Goldberg	Jerry
+cast	Steve Hytner	Joseph
+cast	J.C. Quinn	Burrows
+cast	Emma Shenah	Grandmother
+cast	Albert Nelson	Grey Horse
+cast	Shawn Nelson	Indian Healer
+cast	Emily Conforto	Sandra
+cast	Sioux-z Jessup	Nurse
+cast	Sandra Ellis Lafferty	Madge
+cast	William 'Buck' Hart	Grave Keeper
+cast	Christina Holmes	Allison
+cast	Nick Gomez	Jason
+cast	Jeremy Williams-Hurner	Brian
+cast	Jeff Cadiente	Usiel
+cast	Paul Schmidt	Novice Deacon
+cast	Bobby Lee Hayes	Deputy #1
+cast	John Sankovich	Deputy #2
+cast	Thomas 'Doc' Boguski	Security Officer
+cast	Randy Adakai-Nez	High School Kid
+cast	Joseph Blake Arnold	Novice Priest
+cast	Clark Hunter	Psycho Killer
+cast	Michele Spadaro	Jerry's Girlfriend

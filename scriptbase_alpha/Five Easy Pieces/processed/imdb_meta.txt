@@ -1,0 +1,129 @@
+year	1970
+imdb score	7.5
+meta score	N/A
+genre	Drama
+keyword	pianist
+keyword	bowling
+keyword	diner
+keyword	truck
+keyword	waitress
+keyword	musician
+keyword	oil field
+keyword	small town
+keyword	friend
+keyword	husband wife relationship
+keyword	fight
+keyword	ferry boat
+keyword	hitchhiking
+keyword	singing
+keyword	on the road
+keyword	oil worker
+keyword	mentor protégé relationship
+keyword	cheating on one's girlfriend
+keyword	los angeles california
+keyword	screenwriter credited under pseudonym
+keyword	contempt
+keyword	table tennis
+keyword	brother sister relationship
+keyword	cult film
+keyword	father son relationship
+keyword	gas station
+keyword	cafe
+keyword	dimple
+keyword	obsession
+keyword	melancholy
+keyword	betrayal
+keyword	virtuoso
+keyword	quitting a job
+keyword	friendship
+keyword	pacific coast
+keyword	snob
+keyword	trailer home
+keyword	sex
+keyword	eighteen wheeler
+keyword	violinist
+keyword	self discovery
+keyword	ping pong
+keyword	traffic jam
+keyword	piano practice
+keyword	california
+keyword	arrest
+keyword	chicken salad sandwich
+keyword	restaurant
+keyword	southern california
+keyword	dying
+keyword	love
+keyword	poker
+keyword	family relationships
+keyword	see through clothes
+keyword	failure
+keyword	pregnancy
+keyword	pantyhose
+keyword	lesbian
+keyword	piano playing
+keyword	weightlifting
+keyword	hard hat
+keyword	recording studio
+keyword	stroke
+keyword	eccentric
+keyword	existentialism
+keyword	rebellion
+keyword	nurse
+keyword	washington state
+keyword	brother brother relationship
+keyword	paraplegic
+keyword	intellectual
+keyword	360 degree pan
+keyword	sex standing up
+keyword	premarital sex
+keyword	cleanliness
+keyword	paralysis
+keyword	lesbianism
+keyword	ambiguous title
+keyword	alienation
+keyword	1970s
+keyword	infidelity
+keyword	neck injury
+keyword	road trip
+keyword	wheelchair
+keyword	violin
+keyword	anger
+keyword	pacific northwest
+keyword	dysfunctional family
+keyword	nipples visible through clothing
+keyword	boyfriend girlfriend relationship
+keyword	rough sex
+keyword	piano player
+keyword	dating
+keyword	island
+keyword	houseguest
+keyword	hitchhiker
+keyword	family tragedy
+keyword	class differences
+keyword	generation gap
+keyword	piano
+keyword	female nudity
+keyword	northern california
+keyword	drifter
+keyword	see through gown
+keyword	rebelliousness
+keyword	search
+keyword	number in title
+keyword	
+cast	Jack Nicholson	Robert Eroica Dupea
+cast	Karen Black	Rayette Dipesto
+cast	Billy Green Bush	Elton
+cast	Fannie Flagg	Stoney
+cast	Sally Struthers	Betty
+cast	Marlena MacGuire	Twinky
+cast	Richard Stahl	Recording Engineer
+cast	Lois Smith	Partita Dupea
+cast	Helena Kallianiotes	Palm Apodaca
+cast	Toni Basil	Terry Grouse
+cast	Lorna Thayer	Waitress
+cast	Susan Anspach	Catherine Van Oost
+cast	Ralph Waite	Carl Fidelio Dupea
+cast	William Challee	Nicholas Dupea
+cast	John P. Ryan	Spicer
+cast	Irene Dailey	Samia Glavia
+cast	Clay Greenbush	Baby

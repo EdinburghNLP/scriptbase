@@ -1,0 +1,227 @@
+year	1996
+imdb score	7.4
+meta score	59
+genre	Action
+genre	Adventure
+genre	Thriller
+keyword	alcatraz
+keyword	general
+keyword	fbi
+keyword	rocket
+keyword	hostage
+keyword	prison
+keyword	chemical weapons
+keyword	nerve gas
+keyword	bomb
+keyword	commando
+keyword	british intelligence
+keyword	escape
+keyword	ransom
+keyword	combat
+keyword	terrorist
+keyword	tram
+keyword	sewer
+keyword	shot in the chest
+keyword	glock
+keyword	violence
+keyword	convict
+keyword	reference to led zeppelin
+keyword	hero
+keyword	special forces
+keyword	scuba diving
+keyword	cable car accident
+keyword	fistfight
+keyword	terrorist group
+keyword	machine gun
+keyword	shot in the throat
+keyword	gun violence
+keyword	foot blown off
+keyword	anti hero
+keyword	duel
+keyword	car phone
+keyword	san francisco california
+keyword	grenade launcher
+keyword	mexican standoff
+keyword	golden gate bridge
+keyword	melting face
+keyword	patriot
+keyword	shootout
+keyword	purple heart
+keyword	commander
+keyword	person on fire
+keyword	anti villain
+keyword	california
+keyword	desert eagle .50
+keyword	stabbed in the throat
+keyword	murder
+keyword	vomit
+keyword	recipient of several purple hearts
+keyword	helicopter
+keyword	swimming
+keyword	john f kennedy
+keyword	showdown
+keyword	terrorist cell
+keyword	rogue soldier
+keyword	tough guy
+keyword	die hard scenario
+keyword	thrown through a window
+keyword	fighting
+keyword	1990s
+keyword	terrorist plot
+keyword	sex
+keyword	last stand
+keyword	terrorist attack
+keyword	faked death
+keyword	cult film
+keyword	prison cell
+keyword	jail
+keyword	military base
+keyword	air strike
+keyword	falling from height
+keyword	brawl
+keyword	disarming someone
+keyword	motorcycle
+keyword	crushed to death
+keyword	blood splatter
+keyword	gunfight
+keyword	knife
+keyword	neck breaking
+keyword	action hero
+keyword	domestic terrorism
+keyword	m16 rifle
+keyword	disaster
+keyword	state terrorism
+keyword	break in
+keyword	tunnel
+keyword	explosion
+keyword	shot in the foot
+keyword	crashing into a police car
+keyword	terrorism
+keyword	martial arts
+keyword	signal flare
+keyword	fight
+keyword	blood on camera lens
+keyword	commando unit
+keyword	opening action scene
+keyword	two man army
+keyword	soldier shot
+keyword	villain turns good
+keyword	foot chase
+keyword	massacre
+keyword	impalement
+keyword	slaughter
+keyword	car chase
+keyword	cardiac injection
+keyword	revenge
+keyword	chase
+keyword	fbi agent
+keyword	shot to death
+keyword	mixed martial arts
+keyword	lens flare
+keyword	reference to thomas jefferson
+keyword	shot in the leg
+keyword	soldier killed
+keyword	betrayal
+keyword	semiautomatic pistol
+keyword	black comedy
+keyword	stabbed in the chest
+keyword	ferrari
+keyword	sports car
+keyword	reference to jfk
+keyword	character repeating someone else's dialogue
+keyword	blockbuster
+keyword	death spasm
+keyword	shot in the back
+keyword	strangulation
+keyword	car explosion
+keyword	pregnancy
+keyword	traitor
+keyword	standoff
+keyword	commando mission
+keyword	gay hairdresser
+keyword	shot in the neck
+keyword	50 calibre machine gun
+keyword	pistol
+keyword	navy sea air and land force
+keyword	night vision goggles
+keyword	hand to hand combat
+keyword	grenade
+keyword	title spoken by character
+keyword	surprise ending
+cast	Sean Connery	John Patrick Mason
+cast	Nicolas Cage	Stanley Goodspeed
+cast	Ed Harris	General Francis X. Hummel
+cast	John Spencer	F.B.I. Director Womack
+cast	David Morse	Major Tom Baxter
+cast	William Forsythe	Ernest Paxton
+cast	Michael Biehn	Commander Anderson
+cast	Vanessa Marcil	Carla Pestalozzi
+cast	John C. McGinley	Marine Captain Hendrix
+cast	Gregory Sporleder	Captain Frye
+cast	Tony Todd	Captain Darrow
+cast	Bokeem Woodbine	Sergeant Crisp
+cast	Jim Maniaci	Private Scarpetti
+cast	Greg Collins	Private Gamble
+cast	Brendan Kelly	Private Cox
+cast	Steve Harris	Private McCoy
+cast	Danny Nucci	Lieutenant Shepard
+cast	Claire Forlani	Jade Angelou
+cast	Celeste Weaver	Stacy Richards
+cast	Todd Louiso	Marvin Isherwood
+cast	David Bowe	Dr. Ling
+cast	Raquel Krelle	Agent Margie Wood
+cast	Dennis Chalker	Seal Boyer
+cast	Marshall R. Teague	Seal Reigert
+cast	Duffy Gaver	Seal Dando
+cast	Steve Decker	Navy Seals
+cast	Joseph Hawes	Navy Seals
+cast	Mike Mahrer	Navy Seals
+cast	Carlos Sandoval	Navy Seals
+cast	Rick Toms	Navy Seals
+cast	Billy Devlin	Navy Seals
+cast	Jack Yates	Hummel Marine 'A'
+cast	Juan A. Riojas	Hummel Marine 'B'
+cast	Joseph Patrick Kelly	Hummel Marine 'C'
+cast	Ingo Neuhaus	Marine That Dies
+cast	John Laughlin	General Peterson
+cast	Harry Humphries	Navy Admiral
+cast	Howard Platt	Louis Lindstrom
+cast	Willie Garson	Francis Reynolds
+cast	John Nathan	F.B.I. Radar Technicians
+cast	Robert M. Anselmo	F.B.I. Radar Technicians
+cast	Jack Ford	Military Official
+cast	Thomas J. Hageboeck	F.B.I. Agent Cord
+cast	Dwight Hicks	F.B.I. Agent Star
+cast	Ralph Peduto	F.B.I. Agent Hunt
+cast	Anthony Clark	Paul the Hotel Barber
+cast	Andy Ryan	Lab Technician
+cast	Hans Georg Struhar	Valet
+cast	Robert C. Besgrove	F.B.I. Agent
+cast	Sean Skelton	Kid on Motorcycle
+cast	Raymond O'Connor	Park Ranger Bob
+cast	Jane Sanguinetti	Female Tourists
+cast	Luenell	Female Tourists
+cast	John W. Love Jr.	Male Tourist
+cast	Sam Whipple	Larry Henderson
+cast	Tom Towles	Alcatraz Park Rangers
+cast	Ronald Simmons	Alcatraz Park Rangers
+cast	Robert Ben Rajab	Alcatraz Park Rangers
+cast	Leonard McMahan	Cable Car Conductor
+cast	Anthony Guidera	Lead F-18 Pilot
+cast	Jim Caviezel	Rear F-18 Pilot
+cast	John Enos III	Sea Stallion Pilot
+cast	Ken Kells	Spotter
+cast	Fred Salvallon	Chef
+cast	Buck Kartalian	Reverend
+cast	Stanley Anderson	The President
+cast	Xander Berkeley	Lonner
+cast	Richard Conti	Detective
+cast	Raymond Cruz	Sergeant Rojas
+cast	Ric Drasin	Supporting
+cast	David Marshall Grant	Chief of Staff Hayden Sinclair
+cast	Matthew James Gulbranson	U.S. Marine
+cast	Philip Baker Hall	Chief Justice
+cast	Jeronimo Spinx	F.B.I. Radar Technicians
+cast	Ezra Stanley	Tourist
+cast	Kevin Weisman	Tourist
+cast	Stuart Wilson	General Al Kramer

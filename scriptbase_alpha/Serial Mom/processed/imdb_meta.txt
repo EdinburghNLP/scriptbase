@@ -1,0 +1,190 @@
+year	1994
+imdb score	6.6
+meta score	N/A
+genre	Comedy
+genre	Crime
+genre	Thriller
+keyword	murder
+keyword	housewife
+keyword	perfection
+keyword	dentist
+keyword	threat
+keyword	family dinner
+keyword	loosely based on real events
+keyword	campy
+keyword	jury
+keyword	middle america
+keyword	taking a picture
+keyword	van
+keyword	stabbed with scissors
+keyword	psychotic
+keyword	panic
+keyword	female protagonist
+keyword	psycho next door
+keyword	blood
+keyword	masturbation
+keyword	porn magazine
+keyword	boyfriend girlfriend relationship
+keyword	scissors
+keyword	media
+keyword	glory hole
+keyword	death threat
+keyword	nosy neighbor
+keyword	cake
+keyword	gardening
+keyword	dark comedy
+keyword	burned alive
+keyword	split personality
+keyword	baltimore maryland
+keyword	gore
+keyword	animal licking someone
+keyword	american mythology
+keyword	camp
+keyword	dead boy
+keyword	toilet
+keyword	bitch
+keyword	fly
+keyword	murder trial
+keyword	mouse
+keyword	reference to charles manson
+keyword	stabbed in the back
+keyword	person on fire
+keyword	double life
+keyword	violence
+keyword	satire
+keyword	based on supposedly true story
+keyword	crude humor
+keyword	irreverence
+keyword	fabergé egg
+keyword	toast
+keyword	suburbia
+keyword	toilet flush
+keyword	farce
+keyword	grande dame guignol
+keyword	pervert
+keyword	phone terror
+keyword	tv news
+keyword	hit on the head
+keyword	anti hero
+keyword	defending oneself in court
+keyword	caught masturbating
+keyword	cynicism
+keyword	dog
+keyword	female killer
+keyword	black comedy
+keyword	suburb
+keyword	church
+keyword	hit and run
+keyword	family protection
+keyword	celebrity guest
+keyword	cult film
+keyword	vehicular homicide
+keyword	crime spree
+keyword	serial killer
+keyword	stabbed in the stomach
+keyword	murder witness
+keyword	revenge
+keyword	car chase
+keyword	custom
+keyword	female serial killer
+keyword	decorum
+keyword	white shoes
+keyword	media hype
+keyword	cult director
+keyword	rock concert
+keyword	pantyhose
+keyword	police officer
+keyword	killer mother
+keyword	bad mother
+keyword	anti heroine
+keyword	video store
+keyword	carjacking
+keyword	slasher flick
+keyword	trial
+keyword	recycling
+keyword	courage
+keyword	female stockinged legs
+keyword	knife
+keyword	pot head
+keyword	husband wife relationship
+keyword	bird watching
+keyword	courtroom
+keyword	domineering mother
+keyword	reference to richard speck
+keyword	sociopath
+keyword	bird
+keyword	head in a toilet
+keyword	hit by a car
+keyword	independent film
+cast	Kathleen Turner	Beverly R. Sutphin
+cast	Sam Waterston	Eugene Sutphin, D.D.S.
+cast	Ricki Lake	Misty
+cast	Matthew Lillard	Chip
+cast	Scott Morgan	Detective Pike
+cast	Walt MacPherson	Detective Gracey
+cast	Justin Whalin	Scotty
+cast	Patricia Dunnock	Birdie
+cast	Lonnie Horsey	Carl
+cast	Mink Stole	Dottie Hinkle
+cast	Mary Jo Catlett	Rosemary Ackerman
+cast	John Badila	Mr. Stubbins
+cast	Kathy Fannon	Mrs. Sterner
+cast	Doug Roberts	Mr. Sterner
+cast	Traci Lords	Carl's Date
+cast	Tim Caggiano	Marvin Pickles
+cast	Jeff Mandon	Howell Hawkins
+cast	Colgate Salsbury	Father Boyce
+cast	Patsy Grady Abrams	Mrs. Jenson
+cast	Richard Pilcher	Herbie Hebden
+cast	Beau James	Timothy Nazlerod
+cast	Stan Brandorff	Judge
+cast	Kim Swann	Lu-Ann Hodges
+cast	Suzanne Somers	Herself
+cast	Bus Howard	Gus
+cast	Alan J. Wendl	Sloppy
+cast	Patricia Hearst	Juror #8
+cast	Nancy Robinette	Jury Forewoman
+cast	Peter Bucossi	Rookie Cop
+cast	Loretto McNally	Policewoman
+cast	Wilfred E. Williams	Press A
+cast	Joshua L. Shoemaker	Court TV Reporter
+cast	Rosemary Knower	Court Groupie A
+cast	Susan Lowe	Court Groupie B
+cast	John Calvin Doyle	Carl's Brother
+cast	Mary Vivian Pearce	Book Buyer
+cast	Brigid Berlin	Mean Lady
+cast	Jordan Brown	Police Officer
+cast	Anthony 'Chip' Brienza	Vendor
+cast	Jeffrey Pratt Gordon	Flea Market Boy
+cast	Shelbi Clarke	Flea Market Girl
+cast	Nat Benchley	Macho Man
+cast	Kyf Brewer	Dealer
+cast	Teresa R. Pete	Baby's Mother
+cast	Zachary S. Pete	Church Baby
+cast	Richard Pelzman	Doorman
+cast	Chad Bankerd	Kid A
+cast	Johnny Alonso	Kid B
+cast	Robert Roser	Kid C
+cast	Mike Offenheiser	Joe Flowers
+cast	Lee Hunsaker	Girl
+cast	Michael S. Walter	Burglar A
+cast	Mojo Gentry	Burglar B
+cast	Gwendolyn Briley-Strand	Mrs. Taplotter
+cast	Jennifer Mendenhall	Reporter
+cast	Joan Rivers	Joan Rivers
+cast	Catherine Anne Hayes	TV Serial Hag
+cast	Susan Duvall	Lady C
+cast	Valerie Yarborough	Press
+cast	Jordan Young	Kid
+cast	Jennifer Finch	Camel Lips
+cast	Suzi Gardner	Camel Lips
+cast	Demetra Plakas	Camel Lips
+cast	Donita Sparks	Camel Lips
+cast	John A. Schneider	Husband A
+cast	Lyrica Montague	Court Clerk
+cast	Bess Armstrong	Eugene Sutphin's Nurse
+cast	Greg Coale	Birdie's Father
+cast	Kim McGuire	Stage Diver
+cast	John Poague	Cop
+cast	Al Sotto	Club Kid
+cast	John Waters	Ted Bundy

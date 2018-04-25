@@ -1,0 +1,125 @@
+year	1998
+imdb score	3.6
+meta score	12
+genre	Action
+genre	Adventure
+genre	Sci-Fi
+genre	Thriller
+keyword	british
+keyword	weather
+keyword	team up
+keyword	secret agent
+keyword	ambush
+keyword	box office flop
+keyword	tommy gun
+keyword	evil scientist
+keyword	kung fu
+keyword	kicked in the groin
+keyword	pistol
+keyword	snow
+keyword	clone
+keyword	sunglasses
+keyword	falling from height
+keyword	machine gun
+keyword	cult film
+keyword	evil meteorologist
+keyword	rain
+keyword	violence
+keyword	superhero
+keyword	phone booth
+keyword	chase
+keyword	terrorism
+keyword	revolver
+keyword	sexy suit
+keyword	swordsman
+keyword	sequel
+keyword	hero
+keyword	chess
+keyword	strait jacket
+keyword	female spy
+keyword	based on tv series
+keyword	martial arts
+keyword	gunfight
+keyword	weather manipulation
+keyword	greenhouse
+keyword	car chase
+keyword	knife
+keyword	spy hero
+keyword	sword cane
+keyword	karate chop
+keyword	tough guy
+keyword	shootout
+keyword	wheelchair
+keyword	showdown
+keyword	hitman
+keyword	human duplication
+keyword	exploding building
+keyword	big ben london
+keyword	terrorist
+keyword	duel
+keyword	storm
+keyword	explosion
+keyword	spy
+keyword	kiss
+keyword	lightning
+keyword	remake
+keyword	sword fight
+keyword	clock tower
+keyword	sword duel
+keyword	englishwoman
+keyword	doppelganger
+keyword	fistfight
+keyword	spy turned terrorist
+keyword	sexy agent
+keyword	action hero
+keyword	stick fight
+keyword	black leather
+keyword	government agent
+keyword	megalomaniac
+keyword	umbrella
+keyword	henchman
+keyword	martial artist
+keyword	female agent
+keyword	englishman
+keyword	world domination
+keyword	electrocution
+keyword	eurospy
+keyword	hand to hand combat
+keyword	1990s
+keyword	karate
+keyword	disarming someone
+keyword	leather body suit
+keyword	kilt
+keyword	tough girl
+keyword	gadget
+keyword	mad scientist
+keyword	scotsman
+keyword	blindness
+keyword	hot air balloon
+keyword	london england
+keyword	brawl
+keyword	critically bashed
+keyword	gangster
+keyword	rogue agent
+keyword	villain played by lead actor
+keyword	fractal
+keyword	teddy bear
+cast	Ralph Fiennes	John Steed
+cast	Uma Thurman	Emma Peel
+cast	Sean Connery	Sir August de Wynter
+cast	Patrick Macnee	Invisible Jones
+cast	Jim Broadbent	Mother
+cast	Fiona Shaw	Father
+cast	Eddie Izzard	Bailey
+cast	Eileen Atkins	Alice
+cast	John Wood	Trubshaw
+cast	Carmen Ejogo	Brenda
+cast	Keeley Hawes	Tamara
+cast	Shaun Ryder	Donavan
+cast	Nicholas Woodeson	Dr. Darling
+cast	Michael Godley	Butler
+cast	Richard Lumsden	Boodle's Porter
+cast	Daniel Crowder	Messenger
+cast	Nadim Sawalha	World Council of Ministers
+cast	Christopher Godwin	World Council of Ministers
+cast	David Webber	World Council of Ministers

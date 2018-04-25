@@ -1,0 +1,175 @@
+year	2009
+imdb score	6.6
+meta score	57
+genre	Comedy
+genre	Romance
+keyword	graduation
+keyword	affair
+keyword	divorce
+keyword	hook up
+keyword	architect
+keyword	break up
+keyword	regret
+keyword	apostrophe in title
+keyword	doctor
+keyword	popcorn
+keyword	punctuation in title
+keyword	footsie under the table
+keyword	fertility clinic
+keyword	pot smoking
+keyword	stood up
+keyword	first date
+keyword	kitchen
+keyword	love
+keyword	love triangle
+keyword	fiancee
+keyword	crotch grab
+keyword	guilt
+keyword	therapist
+keyword	ex husband ex wife relationship
+keyword	anniversary
+keyword	cooking
+keyword	husband wife relationship
+keyword	embarrassment
+keyword	claim in title
+keyword	fear
+keyword	sex
+keyword	engagement
+keyword	beach resort
+keyword	drunkenness
+keyword	bath
+keyword	laptop computer
+keyword	mother children relationship
+keyword	marijuana
+keyword	lawyer
+keyword	divorced parents
+keyword	adultery
+keyword	dating
+keyword	dancing
+keyword	baker
+keyword	cook
+keyword	male nudity
+keyword	implied nudity
+keyword	humiliation
+keyword	remarriage
+keyword	rain
+keyword	title directed by female
+keyword	california
+keyword	nudity
+keyword	chef
+keyword	house party
+keyword	age difference
+keyword	cheating husband
+keyword	playing footsie
+keyword	webcam
+keyword	passing out
+keyword	middle age romance
+keyword	husband leaves wife
+keyword	jealousy
+keyword	watching tv
+keyword	blueprint
+keyword	giving a toast
+keyword	older man younger woman relationship
+keyword	bakery
+keyword	marijuana joint
+keyword	falling
+keyword	buttocks
+keyword	vomit
+keyword	stoned
+keyword	date
+keyword	hotel
+keyword	male to female footsie playing
+keyword	marriage
+keyword	new york city
+keyword	croissant
+keyword	plastic surgeon
+keyword	dvd rental
+keyword	father children relationship
+keyword	title spoken by character
+keyword	
+cast	Meryl Streep	Jane Adler
+cast	Steve Martin	Adam Schaffer
+cast	Alec Baldwin	Jake Adler
+cast	John Krasinski	Harley
+cast	Lake Bell	Agness Adler
+cast	Mary Kay Place	Joanne
+cast	Rita Wilson	Trisha
+cast	Alexandra Wentworth	Diane
+cast	Hunter Parrish	Luke Adler
+cast	Zoe Kazan	Gabby Adler
+cast	Caitlin FitzGerald	Lauren Adler
+cast	Emjay Anthony	Pedro Adler
+cast	Nora Dunn	Sally
+cast	Bruce Altman	Ted
+cast	Robert Curtis Brown	Peter
+cast	James Patrick Stuart	Dr. Moss
+cast	Peter Mackenzie	Dr. Allen
+cast	Pat Finn	Hotel Doctor
+cast	Heitor Pereira	Party Musician
+cast	Ramin Djawadi	Party Musician
+cast	Ryeland Allison	Party Musician
+cast	Sean Hamrin	Oliver
+cast	Valente Rodriguez	Reynaldo
+cast	Emily Kinney	Waitress
+cast	Amelia Rasche McCarthy	Bakery Manager
+cast	Zack Robidas	Hotel Reception Clerk
+cast	Lisa Masters	Woman in Elevator
+cast	Scott Geyer	Man in Elevator
+cast	Andrew Stewart-Jones	Restaurant Host
+cast	Jon Frazier	Bartender
+cast	Ryan Silverman	Bartender
+cast	Jennifer Restivo	Woman at Bar
+cast	Dana Power	Woman at Bar
+cast	Michael Kopp	Self-Help Narrator
+cast	Michael Rivera	Eddie
+cast	Jennifer Eatz	Woman at Fertility Clinic
+cast	Blanchard Ryan	Woman at Fertility Clinic
+cast	Geneva Carr	Woman at Fertility Clinic
+cast	Eric Rath	Man at Fertility Clinic
+cast	Phil Coccioletti	Man at Fertility Clinic
+cast	Deidre Goodwin	Fertility Nurse
+cast	Rosalie Ward	Biltmore Reception Clerk
+cast	Jessica St. Clair	Wedding Specialist
+cast	Marina Squerciati	Melanie
+cast	Ricardo Chacon	Police Officer
+cast	Michael Yavnielli	Police Officer
+cast	Robert Adamson	College Kid at Party
+cast	Patrick King Jr.	College Kid at Party
+cast	Donessa Alexander	Pedestrian
+cast	Ava Allan	Christmas Tree Shopper
+cast	Martin Andris	College Kid at Party
+cast	Giovanni Cirfiera	Businessman
+cast	Jimmy Clabots	College Kid at Party
+cast	Dee Cooke	Principal Dancer
+cast	Molly Culver	Adam's Girlfriend in Dream
+cast	Alan Cumming	TV Actor
+cast	Cynthia Daddona	Upscale Farmer's Market Shopper
+cast	Michael Dean	Upscale Café Patron
+cast	Rick L. Dean	Party Guest
+cast	Katherine Dickson	Passenger
+cast	Shakira Vanise Gamble	Woman at Fertility Clinic
+cast	Meryl Hathaway	Bakery Server
+cast	William James Kelly	Graduation Guest
+cast	Ashley Key	College Graduate
+cast	Anna Kuchma	Bakery Server #2
+cast	Janice LaFlam	Hero / Graduation Guest
+cast	Maximilian Law	Party Co-Host
+cast	Anne Lockhart	Party Guest
+cast	John Mitchell	Graduation Guest
+cast	Lauren L. Murray	Bakery Woman #1
+cast	Matthew Nadu	College Graduate
+cast	Sebastian O'Malley	Waiter
+cast	Louis C. Oberlander	Bohemian Gallery Owner
+cast	Chuk Ogbonna	College Graduate
+cast	Jason Roeser	Graduation Guest
+cast	Stephanie Maura Sanchez	Biltmore Lobby Guest
+cast	Kristen Schiano	Graduation Guest
+cast	Derek Schreck	College Student
+cast	Pooja Singh	College Student
+cast	Karl Thwaites	College Graduate
+cast	Julia Tokarz	Master's Graduate
+cast	David Villada	Construction worker
+cast	Pleasant Wayne	Resort Wife
+cast	David Weincek	Principal Dancer
+cast	Steven Weisz	Graduation Guest
+cast	Oprah Winfrey	Herself

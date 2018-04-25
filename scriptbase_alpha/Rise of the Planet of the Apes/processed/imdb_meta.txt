@@ -1,0 +1,294 @@
+year	2011
+imdb score	7.6
+meta score	68
+genre	Action
+genre	Drama
+genre	Sci-Fi
+genre	Thriller
+keyword	ape
+keyword	experimental drug
+keyword	attack
+keyword	scientist
+keyword	intelligence
+keyword	neighbor
+keyword	cure
+keyword	revolt
+keyword	uprising
+keyword	alzheimer's disease
+keyword	escape
+keyword	chimpanzee
+keyword	talking animal
+keyword	gas
+keyword	ambulance
+keyword	car accident
+keyword	bmw z3 e367
+keyword	near future
+keyword	chevrolet tracker
+keyword	interracial relationship
+keyword	cgi
+keyword	biting finger
+keyword	caged animal
+keyword	shot to death
+keyword	stun baton
+keyword	oldsmobile intruge
+keyword	gmc b series
+keyword	water hose
+keyword	baseball bat
+keyword	blood
+keyword	pregnancy
+keyword	animal attack
+keyword	helicopter pilot
+keyword	interracial kiss
+keyword	thrown through a glass door
+keyword	ford taurus
+keyword	dodge caliber
+keyword	chase
+keyword	fire
+keyword	bicycle jump
+keyword	social commentary
+keyword	jaguar xf x250
+keyword	kia rio
+keyword	electrocution
+keyword	mitsubishi delica star wagon
+keyword	bus
+keyword	macbook
+keyword	wilhelm scream
+keyword	piano
+keyword	corpse
+keyword	car crash
+keyword	orangutan
+keyword	killing an animal
+keyword	falling off a bridge
+keyword	ford excursion
+keyword	news report
+keyword	tranquilizer gun
+keyword	honda prelude
+keyword	scientific experiment
+keyword	swat team
+keyword	corporation
+keyword	epidemic
+keyword	animal tranquilizer
+keyword	german shepherd
+keyword	dodge ram
+keyword	rise to power
+keyword	animal wearing clothes
+keyword	apple macbook pro
+keyword	infection
+keyword	motion capture
+keyword	gorilla
+keyword	knife
+keyword	falling from height
+keyword	chrysler 300 m
+keyword	gmc sierra pickup truck
+keyword	2010s
+keyword	leader
+keyword	human experimentation
+keyword	transamerica pyramid
+keyword	chevrolet cavalier
+keyword	thrown from a car
+keyword	no opening credits
+keyword	re boot
+keyword	cadillac seville sts
+keyword	self sacrifice
+keyword	simian fiction
+keyword	chevrolet hhr
+keyword	baton
+keyword	san francisco california
+keyword	animal cruelty
+keyword	sprayed with a fire hose
+keyword	science runs amok
+keyword	chevrolet express
+keyword	apple macbook
+keyword	prequel
+keyword	jeep grand wagooner
+keyword	machine gun
+keyword	human animal relationship
+keyword	nissan maxima
+keyword	lucas tower
+keyword	giant redwood
+keyword	dog
+keyword	elevator
+keyword	laboratory
+keyword	bonobo
+keyword	chess
+keyword	pontiac grand prix
+keyword	jumping through a window
+keyword	rampage
+keyword	sign language
+keyword	mustang
+keyword	audi tt
+keyword	tragedy
+keyword	chevrolet uplander
+keyword	overturned bus
+keyword	ford crown victoria
+keyword	nurse
+keyword	sneezing
+keyword	golden gate bridge san francisco
+keyword	baby carriage
+keyword	ford focus
+keyword	helicopter
+keyword	ford ranger
+keyword	thrown from a horse
+keyword	scarred face
+keyword	death
+keyword	kia sportage
+keyword	apple computer
+keyword	bmw 3 e46
+keyword	primate
+keyword	character repeating someone else's dialogue
+keyword	pilot
+keyword	mercedes benz sl 63 amg r230
+keyword	gmc vandura
+keyword	dodge grand caravan
+keyword	explosion
+keyword	newspaper headline
+keyword	gmc jimmy
+keyword	blockade
+keyword	retinoscope
+keyword	ford f series
+keyword	falling into water
+keyword	falling to death
+keyword	shot in the chest
+keyword	exploding helicopter
+keyword	manhole cover
+keyword	mounted police
+keyword	cruelty to animal
+keyword	animal in title
+keyword	horse
+keyword	fog
+keyword	urban setting
+keyword	quitting a job
+keyword	interracial romance
+keyword	security guard
+keyword	chevrolet malibu
+keyword	planet of the apes
+keyword	cattle prod
+keyword	subtitled scene
+keyword	bell uh 1 iroquois helicopter
+keyword	parking garage
+keyword	ford escape
+keyword	zoo
+keyword	virus
+keyword	land rover freelander series i
+keyword	falling from a tree
+keyword	father son relationship
+keyword	animal intelligence
+keyword	shotgun
+keyword	chevrolet surburan
+keyword	falling from a bridge
+keyword	animal shelter
+keyword	surveillance
+keyword	animal testing
+keyword	murder of a police officer
+keyword	jungle
+keyword	helicopter crash
+keyword	airport
+keyword	chevrolet cruze
+keyword	alpha male
+keyword	animal escapes zoo
+keyword	honda civic coupe
+keyword	honda civic sedan
+keyword	dodge ram van
+keyword	babe scientist
+keyword	crashing through a window
+keyword	police
+keyword	animal experimentation
+keyword	cell phone
+keyword	cage
+keyword	playing piano
+keyword	pistol
+keyword	filmed killing
+keyword	lexus es
+keyword	scene during end credits
+keyword	forest
+keyword	riot
+keyword	chrysler intrepid
+keyword	climbing a tree
+keyword	ford mustang
+keyword	prequel to remake
+keyword	boyfriend girlfriend relationship
+keyword	death of mother
+keyword	death of son
+keyword	death of father
+keyword	character name in title
+keyword	surprise ending
+keyword	
+cast	Andy Serkis	Caesar
+cast	Karin Konoval	Maurice / Court Clerk
+cast	Terry Notary	Rocket / Bright Eyes
+cast	Richard Ridings	Buck
+cast	Christopher Gordon	Koba
+cast	Devyn Dalton	Cornelia
+cast	Jay Caputo	Alpha
+cast	James Franco	Will Rodman
+cast	Freida Pinto	Caroline Aranha
+cast	John Lithgow	Charles Rodman
+cast	Brian Cox	John Landon
+cast	Tom Felton	Dodge Landon
+cast	David Oyelowo	Steven Jacobs
+cast	Tyler Labine	Robert Franklin
+cast	Jamie Harris	Rodney
+cast	Ty Olsson	Chief John Hamil
+cast	David Hewlett	Hunsiker
+cast	Joey Roche	Todd Hunsiker
+cast	Madison Bell	Alice Hunsiker
+cast	Makena Joy	Alice Hunsiker
+cast	Kevin O'Grady	Animal Control Officer #1
+cast	Sean Tyson	Animal Control Officer #2
+cast	Kyle Riefsnyder	CHP #1
+cast	Anthony McRae	CHP #2
+cast	Jesse Reid	Donnie Thompson
+cast	BJ Harrison	Dottie
+cast	Leah Gibson	Party Girl #1
+cast	Tracy Spiridakos	Party Girl #2
+cast	Ivan Wanis-Ruiz	Handler @ Lab #1
+cast	Trevor Carroll	Handler @ Lab #2
+cast	Chelah Horsdal	Irena
+cast	Mattie Hawkinson	Linda
+cast	James Pizzinato	Lab Tech
+cast	Ryan Booth	South Side Commander
+cast	Gordon Douglas Myren	Local Guy
+cast	Elizabeth Weinstein	Mom in Muir Woods
+cast	Jeb Beach	Dad in Muir Woods
+cast	Jack Kuris	Boy in Muir Woods
+cast	Meredith Grantier	New Aide
+cast	Javier Caballero Cano	Newspaper Dad
+cast	Peter Bundic	Newspaper Boy #1
+cast	Dylan Nouri	Newspaper Boy #2
+cast	Derek Morrison	Security Guard #1
+cast	Dean Redman	Security Guard #2
+cast	Hector Johnson	Security Guard #3
+cast	David Richmond-Peck	Board Member #1
+cast	Adrian Hough	Board Member #2
+cast	Evans Johnson	Board Member #3
+cast	Riel Hahn	Zoo Guide
+cast	Michael Kopsa	Jerk Driver
+cast	Steve Lawlor	SFPD #1
+cast	Chris Shields	SFPD #2
+cast	Sandy Robson	SFPD #3
+cast	Mike Dopud	Northside Officer
+cast	Stacey Schmidt	Jogger
+cast	Willy Miles	Guy with Newspaper
+cast	Adrian Hein	Sharp Shooter
+cast	Camille Atebe	Playground Mom
+cast	Sonja Bennett	Mother on Sidewalk
+cast	Charles L. Campbell	News Voice
+cast	Richard Darwin	Baby Caesar
+cast	Qayam Devji	Todd's Buddy
+cast	Rufus Dorsey	CHP #3
+cast	Juliette Goodrich	KPIX News Anchor
+cast	Mark Henriques	Driver
+cast	Tammy Hui	Bridge Driver
+cast	Matteo Mazziotti	Child in Car
+cast	Monica Mustelier	Lab Tech. #3
+cast	Hal Myshrall	Suit
+cast	Syn Narula	Lab Tech. #4
+cast	Robin Nielsen	Lab Tech. #2
+cast	Frédéric North	Camera Ship Pilot
+cast	Panou	SFPD #4
+cast	Sean Connor Roche	Teen Todd Hunsiker
+cast	Luc Roderique	SWAT
+cast	Lauren Watson	Scared Girl in Stairway
+cast	Linda Watters	Primate Lab Technician
+cast	Timothy Webber	Janitor - Stan Timko
+cast	Kis Yurij	Worker

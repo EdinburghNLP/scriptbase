@@ -1,0 +1,203 @@
+year	1996
+imdb score	7.6
+meta score	71
+genre	Action
+genre	Adventure
+genre	Sci-Fi
+genre	Thriller
+keyword	borg
+keyword	captain
+keyword	first contact
+keyword	cube
+keyword	24th century
+keyword	alien
+keyword	vulcan
+keyword	warp speed
+keyword	nuclear missile
+keyword	21st century
+keyword	sphere
+keyword	escape
+keyword	inventor
+keyword	paradox
+keyword	exploding ship
+keyword	scientist
+keyword	nightclub
+keyword	end of the world
+keyword	drunkenness
+keyword	genetic engineering
+keyword	vortex
+keyword	escape pod
+keyword	cult film
+keyword	alternative history
+keyword	shot to death
+keyword	engineer
+keyword	space opera
+keyword	sequel
+keyword	drone
+keyword	directed by star
+keyword	severed arm
+keyword	reference to moby dick
+keyword	alien race
+keyword	weightlessness
+keyword	bar
+keyword	nightmare
+keyword	based on cult tv series
+keyword	space shuttle
+keyword	four word title
+keyword	spacesuit
+keyword	space battle
+keyword	fainting
+keyword	machine gun
+keyword	hologram
+keyword	invulnerability
+keyword	retribution
+keyword	forest
+keyword	telescope
+keyword	revenge
+keyword	arm amputation
+keyword	fictional war
+keyword	genetic mutation
+keyword	transformation
+keyword	world war three
+keyword	alien invasion
+keyword	blade
+keyword	statue
+keyword	electrocution
+keyword	flashback
+keyword	virtual reality
+keyword	alien contact
+keyword	spacecraft
+keyword	phaser
+keyword	montana
+keyword	tommy gun
+keyword	shot in the chest
+keyword	android
+keyword	mercy killing
+keyword	dereliction of duty
+keyword	time travel
+keyword	doctor
+keyword	disembodied head
+keyword	disintegration
+keyword	post nuclear war
+keyword	lieutenant
+keyword	hostage
+keyword	teleportation
+keyword	mutation
+keyword	vengeance
+keyword	commander
+keyword	post apocalypse
+keyword	alcoholic
+keyword	jukebox
+keyword	laser
+keyword	pool table
+keyword	disguise
+keyword	based on tv series
+keyword	blood
+keyword	spaceship
+keyword	2060s
+keyword	ray gun
+keyword	star trek
+keyword	shot in the shoulder
+keyword	shot in the back
+keyword	cyborg
+keyword	saga
+keyword	held at gunpoint
+keyword	klingon
+keyword	moby dick
+keyword	mind control
+keyword	invasion
+keyword	explosion
+keyword	changing the future
+keyword	dog
+keyword	good versus evil
+keyword	counsellor
+keyword	race against time
+keyword	genetic manipulation
+keyword	takeover
+keyword	assimilation
+keyword	lasersight
+keyword	neck breaking
+keyword	laser gun
+keyword	colon in title
+keyword	eighth part
+keyword	outer space
+keyword	sequel to cult favorite
+keyword	robot as pathos
+keyword	stabbed in the neck
+keyword	stowaway
+keyword	cigarette smoking
+keyword	whiskey
+keyword	infrared vision
+keyword	attack
+keyword	alternative timeline
+keyword	underground bunker
+keyword	commune
+keyword	robot
+keyword	obsession
+keyword	photon torpedoes
+keyword	space war
+keyword	deception
+keyword	admiral
+keyword	robot as menace
+keyword	shot in the face
+keyword	wilhelm scream
+keyword	cybernetics
+keyword	rock music
+keyword	lieutenant commander
+keyword	eye gouging
+keyword	kidnapping
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Patrick Stewart	Picard
+cast	Jonathan Frakes	Riker
+cast	Brent Spiner	Data
+cast	LeVar Burton	Geordi
+cast	Michael Dorn	Worf
+cast	Gates McFadden	Beverly
+cast	Marina Sirtis	Troi
+cast	Alfre Woodard	Lily
+cast	James Cromwell	Zefram Cochran
+cast	Alice Krige	Borg Queen
+cast	Michael Horton	Security Officer
+cast	Neal McDonough	Lt. Hawk
+cast	Marnie McPhail	Eiger
+cast	Robert Picardo	Holographic Doctor
+cast	Dwight Schultz	Lt. Barclay
+cast	Adam Scott	Defiant Conn Officer
+cast	Jack Shearer	Admiral Hayes
+cast	Eric Steinberg	Porter
+cast	Scott Strozier	Security Officer
+cast	Patti Yasutake	Nurse Ogawa
+cast	Victor Bevine	Guard
+cast	David Cowgill	Guard
+cast	Scott Haven	Guard
+cast	Annette Helde	Guard
+cast	Majel Barrett	Computer
+cast	C.J. Bau	Bartender
+cast	Hillary Hayes	Ruby
+cast	Julie Morgan	Singer in Nightclub
+cast	Ronnie Rondell Jr.	Henchman
+cast	Don Stark	Nicky the Nose
+cast	Cully Fredricksen	Vulcan
+cast	Tamara Lee Krinsky	Townsperson
+cast	Don Fischer	Borg
+cast	J.R. Horsting	Borg
+cast	Heinrich James	Borg
+cast	Andrew Palmer	Borg
+cast	Jon David Casey	Borg
+cast	Dan Woren	Borg
+cast	Robert Zachar	Borg
+cast	Patrick Barnitt	Borg
+cast	Mike Boss	Holodeck Nightclub Patron
+cast	Brannon Braga	Man Sitting on Table in Holodeck Nightclub
+cast	Michael Braveheart	Crewman Martinez
+cast	Cameron	Ensign Kellogg
+cast	Tracee Cocco	Ensign Jae
+cast	Jeff Coopwood	The Borg
+cast	Randy James	Lt. Jones
+cast	James Mapes	Holographic Drunk
+cast	Ronald D. Moore	Holodeck Nightclub Patron
+cast	Ethan Phillips	Holodeck Nightclub Maitre d'
+cast	Ray Uhler	Holodeck Nightclub Dancer
+cast	Michael Zaslow	Eddie

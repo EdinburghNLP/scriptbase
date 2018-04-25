@@ -1,0 +1,296 @@
+year	2011
+imdb score	7.0
+meta score	57
+genre	Action
+genre	Adventure
+genre	Fantasy
+keyword	thor
+keyword	throne
+keyword	scientist
+keyword	warrior
+keyword	humility
+keyword	arrogance
+keyword	hero
+keyword	immortal
+keyword	presumed dead
+keyword	mother son relationship
+keyword	960s
+keyword	trailer home
+keyword	forgiveness
+keyword	queen
+keyword	pop tart
+keyword	brother against brother
+keyword	professor
+keyword	super villain
+keyword	norse
+keyword	wormhole
+keyword	king
+keyword	alternate world
+keyword	camcorder
+keyword	action hero
+keyword	robot
+keyword	evil sorcerer
+keyword	guard
+keyword	abyss
+keyword	marvel comics
+keyword	year 965
+keyword	sorcerer
+keyword	spell
+keyword	young version of character
+keyword	pet shop
+keyword	giant
+keyword	armor
+keyword	based on comic book
+keyword	lasersight
+keyword	good versus evil
+keyword	budweiser
+keyword	stabbed in the back
+keyword	father son relationship
+keyword	teleportation
+keyword	handcuffs
+keyword	palace
+keyword	cape
+keyword	10th century
+keyword	anti hero
+keyword	brother betrays brother
+keyword	artificial intelligence
+keyword	based on comic
+keyword	arrest
+keyword	falling from height
+keyword	mentor
+keyword	brawl
+keyword	prince
+keyword	binoculars
+keyword	horse
+keyword	reference to god
+keyword	injection
+keyword	small town
+keyword	escape
+keyword	no opening credits
+keyword	doctor
+keyword	mythological
+keyword	martial arts
+keyword	hospital
+keyword	babe scientist
+keyword	warrior race
+keyword	body landing on a car
+keyword	library
+keyword	adopted son
+keyword	eye patch
+keyword	blizzard
+keyword	punched in the face
+keyword	observatory
+keyword	lens flare
+keyword	creature
+keyword	flashlight
+keyword	prisoner
+keyword	alien planet
+keyword	surprise after end credits
+keyword	tough guy
+keyword	anti villain
+keyword	new mexico
+keyword	giant robot
+keyword	lightning
+keyword	secret agent
+keyword	viking
+keyword	outer space
+keyword	gas station
+keyword	giant creature
+keyword	dr pepper
+keyword	heavy rain
+keyword	helmet
+keyword	female warrior
+keyword	family relationships
+keyword	casket
+keyword	origin of hero
+keyword	exploding gasoline station
+keyword	crater
+keyword	giant monster
+keyword	one man army
+keyword	planet
+keyword	visa
+keyword	bare chested male
+keyword	ice
+keyword	cameo
+keyword	product placement
+keyword	impact crater
+keyword	betrayal
+keyword	deception
+keyword	female soldier
+keyword	dark comedy
+keyword	rivalry
+keyword	super strength
+keyword	suicide
+keyword	interrogation
+keyword	traitor
+keyword	gate keeper
+keyword	electrocution
+keyword	hand to hand combat
+keyword	mountain
+keyword	exploding car
+keyword	head butt
+keyword	mythology
+keyword	self sacrifice
+keyword	bar
+keyword	mixed martial arts
+keyword	shapeshifting
+keyword	one word title
+keyword	mercenary
+keyword	machine gun
+keyword	scene after end credits
+keyword	21st century
+keyword	norse mythology
+keyword	honor
+keyword	monster
+keyword	snow
+keyword	hammer
+keyword	2010s
+keyword	flying
+keyword	exploding building
+keyword	slow motion scene
+keyword	castle
+keyword	space travel
+keyword	surveillance
+keyword	frozen alive
+keyword	taser
+keyword	super powers
+keyword	sword
+keyword	desert
+keyword	drunkenness
+keyword	axe
+keyword	stepbrother
+keyword	violence
+keyword	fistfight
+keyword	brother vs brother
+keyword	backhand slap
+keyword	interstellar travel
+keyword	no title at beginning
+keyword	mastercard
+keyword	falling down stairs
+keyword	thunder
+keyword	storm
+keyword	open ended
+keyword	sword fight
+keyword	hit by a truck
+keyword	human alien
+keyword	soldier
+keyword	diner
+keyword	fictional war
+keyword	goddess
+keyword	fish out of water
+keyword	blockbuster
+keyword	pool table
+keyword	spear
+keyword	pickup truck
+keyword	dutch angle
+keyword	scepter
+keyword	gash in the face
+keyword	norway
+keyword	combat
+keyword	rooftop
+keyword	waterfall
+keyword	opening action scene
+keyword	husband wife relationship
+keyword	kiss
+keyword	banishment
+keyword	bridge
+keyword	flashback
+keyword	government agent
+keyword	cell phone
+keyword	nurse
+keyword	kicked in the stomach
+keyword	strong man
+keyword	army
+keyword	battle
+keyword	freeze to death
+keyword	brother brother relationship
+keyword	heir to throne
+keyword	voice over narration
+keyword	superhero
+keyword	rivalry over throne
+keyword	exile
+keyword	cult film
+keyword	karate
+keyword	explosion
+keyword	sibling rivalry
+keyword	reference to facebook
+keyword	oath
+keyword	norse god
+keyword	walkie talkie
+keyword	sentry
+keyword	character name in title
+keyword	title spoken by character
+cast	Chris Hemsworth	Thor
+cast	Natalie Portman	Jane Foster
+cast	Tom Hiddleston	Loki
+cast	Anthony Hopkins	Odin
+cast	Stellan Skarsgård	Erik Selvig
+cast	Kat Dennings	Darcy Lewis
+cast	Clark Gregg	Agent Coulson
+cast	Colm Feore	King Laufey
+cast	Idris Elba	Heimdall
+cast	Ray Stevenson	Volstagg
+cast	Tadanobu Asano	Hogun
+cast	Josh Dallas	Fandral
+cast	Jaimie Alexander	Sif
+cast	Rene Russo	Frigga
+cast	Adriana Barraza	Isabel Alvarez
+cast	Maximiliano Hernández	Agent Sitwell
+cast	Richard Cetrone	Frost Giant Captain
+cast	Darren Kendrick	Frost Giant Sentry
+cast	Joshua Cox	Frost Giant Hailstrum
+cast	Justice Smith	Frost Giant Brute
+cast	Joseph Gatt	Frost Giant Grundroth
+cast	Luke Massy	Frost Giant Raze
+cast	Matt Ducey	Einherjar Guard
+cast	Jason Camp	Einherjar Guard
+cast	Buddy Sosthand	Agent Delancey
+cast	Blake Silver	Techie
+cast	Jamie McShane	Agent Jackson
+cast	Dale Godboldo	Agent Garrett
+cast	Patrick O'Brien Demsey	Agent Cale
+cast	Jim Palmer	SHIELD Guard
+cast	Seth Coltan	Townie
+cast	J. Michael Straczynski	Townie
+cast	Ryan Schaefer	Townie
+cast	Matt Battaglia	Pete
+cast	Stan Lee	Stan the Man
+cast	Joel McCrary	Drunk Townie
+cast	Isaac Kappy	Pet Store Clerk
+cast	Juliet Lopez	Admission Nurse
+cast	Rob Mars	Orderly
+cast	Carrie Lazar	Viking Mother
+cast	Harley Graham	Viking Child
+cast	Alexander Wright	Viking Elder
+cast	Hilary Pingle	Viking
+cast	Shawn-Caulin Young	Viking
+cast	Kinsey McLean	Viking
+cast	Kelly Hawthorne	Viking
+cast	Dakota Goyo	Young Thor
+cast	Ted Allpress	Young Loki
+cast	Chris Antonini	Man in Bar
+cast	John Bailey	Shield Guard
+cast	David Bantly	SHIELD Scientist
+cast	Vanessa Bednar	Viking Villager
+cast	Todd Bethke	Postman
+cast	Troy Brenna	Frost Giant
+cast	Adam Critchlow	Einherjar Guard
+cast	Michelle Csitos	Viking Village Wife
+cast	Elizabeth Dean	Asgardian Demigoddess
+cast	Pat Duke	Frost Giant Sentry
+cast	Kimberly Evan	Lady in Waiting to the Queen
+cast	Eric Holloway	Townie
+cast	Samuel L. Jackson	Nick Fury
+cast	Jasyn Jefferies	Einherjar Guard
+cast	James Kimball	Einherjar Guard
+cast	Raven Lewis	Soldier
+cast	Keith Middlebrook	Agent McGuire
+cast	Nabil Nona	Roman God
+cast	Martin Palmer	Towns Person
+cast	Terry Dale Parks	Nurse
+cast	Tanissa Potrovitza	Extra in Diner
+cast	Taylor Reed	Guard of Asland
+cast	Jeremy Renner	Clint Barton / Hawkeye
+cast	Douglas Tait	Frost Giant
+cast	Clay von Carlowitz	Asgardian Guard
+cast	Travis Willingham	Frost Giants

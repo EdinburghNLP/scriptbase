@@ -1,0 +1,138 @@
+year	2003
+imdb score	6.8
+meta score	59
+genre	Crime
+genre	Thriller
+keyword	grifter
+keyword	con
+keyword	accounting
+keyword	banker
+keyword	organized crime
+keyword	crime boss
+keyword	pickpocket
+keyword	shill
+keyword	murder
+keyword	lap dance
+keyword	stripper
+keyword	faked death
+keyword	shotgun
+keyword	manipulation
+keyword	arrest
+keyword	fake murder
+keyword	narrated by character
+keyword	bar
+keyword	shot in the forehead
+keyword	topless female nudity
+keyword	fix
+keyword	los angeles california
+keyword	customs officer
+keyword	canada
+keyword	long con
+keyword	strip club
+keyword	bathroom
+keyword	blood spatter
+keyword	breaking the fourth wall
+keyword	government agent
+keyword	female nudity
+keyword	shot in the chest
+keyword	corpse
+keyword	neo noir
+keyword	jewelry store
+keyword	pool
+keyword	pistol
+keyword	heroin
+keyword	con artist
+keyword	assault
+keyword	bare breasts
+keyword	jinx
+keyword	cafe
+keyword	blood
+keyword	gun
+keyword	breaking bottle over head
+keyword	double cross
+keyword	con game
+keyword	belize
+keyword	mob hit
+keyword	impersonating an fbi agent
+keyword	video camera
+keyword	redhead
+keyword	deception
+keyword	one word title
+keyword	talking to the camera
+keyword	kissing in public
+keyword	held at gunpoint
+keyword	punched in the face
+keyword	blow off
+keyword	diner
+keyword	big con
+keyword	mexican standoff
+keyword	customs agent
+keyword	restroom
+keyword	hundred dollar bill
+keyword	corrupt cop
+keyword	head butt
+keyword	cigarette burn
+keyword	exotic dancer
+keyword	passionate kiss
+keyword	police corruption
+keyword	nightclub
+keyword	bank
+keyword	airport
+keyword	video footage
+keyword	briefcase full of money
+keyword	dyed hair
+keyword	premarital sex
+keyword	nonlinear timeline
+keyword	customs service
+keyword	flashback
+keyword	bank fraud
+keyword	told in flashback
+keyword	superstition
+keyword	voice over narration
+keyword	caper
+keyword	pretending to be dead
+keyword	woman in a bikini
+keyword	face slap
+keyword	haircut
+keyword	shot in the head
+keyword	fight
+keyword	bird
+keyword	death of friend
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Edward Burns	Jake Vig
+cast	Rachel Weisz	Lily
+cast	Morris Chestnut	Travis
+cast	Leland Orser	Lionel Dolby
+cast	Louis Lombardi	Big Al
+cast	Paul Giamatti	Gordo
+cast	Brian Van Holt	Miles
+cast	Donal Logue	Whitworth
+cast	Luis Guzmán	Manzano
+cast	April O'Brien	Attractive Blonde
+cast	Jay Giannone	Car Salesman
+cast	Tommy 'Tiny' Lister	Harlin
+cast	Franky G	Lupus
+cast	Dustin Hoffman	King
+cast	Melissa Lawner	Katie
+cast	Nicole Marie Lenz	Nicole
+cast	Robert Forster	Morgan Price
+cast	Elle Alexander	Michelle Strigo
+cast	John Carroll Lynch	Grant Ashby
+cast	Elysia Skye	Salesgirl
+cast	Robert Pine	Mr. Lewis
+cast	Andy Garcia	Gunther Butan
+cast	Mary Portser	Marie
+cast	Michael Dempsey	Special Agent Artie / IA Officer #1
+cast	Steve Tom	Hamilton-Tan
+cast	Abdoulaye NGom	Jester
+cast	Barry Blueian	U.S. Customs Agent
+cast	Jackson Bolt	Judas
+cast	Aaron Brumfield	Goon
+cast	Angelo Fierro	Bartender
+cast	Steven Oliver Price	Jay Howsler - Young Turk
+cast	Michelle Ruben	Kitty
+cast	Tamie Sheffield	Club Dancer
+cast	Michael R. Thayer	Iain Preston
+cast	Santiago Verdu	Wall Street Broker

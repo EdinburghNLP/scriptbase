@@ -1,0 +1,87 @@
+year	2012
+imdb score	7.8
+meta score	94
+genre	Drama
+genre	Romance
+keyword	love
+keyword	music teacher
+keyword	daughter
+keyword	musician
+keyword	stroke
+keyword	nightmare
+keyword	bad smell
+keyword	ill wife
+keyword	reference to franz schubert
+keyword	end of life care
+keyword	falling off a bed
+keyword	ambiguous ending
+keyword	pain
+keyword	old love
+keyword	starving oneself
+keyword	illness
+keyword	one word title
+keyword	told in flashback
+keyword	seizure
+keyword	tearjerker
+keyword	mercy killing
+keyword	critically ill
+keyword	nurse
+keyword	old woman murdered
+keyword	growing old
+keyword	piano player
+keyword	break in
+keyword	incontinence
+keyword	murder of wife
+keyword	pigeon
+keyword	dream
+keyword	old age
+keyword	suppressed memory
+keyword	physiotherapy
+keyword	childhood memory
+keyword	hemiplegia
+keyword	piano concerto
+keyword	ill mother
+keyword	agony
+keyword	husband wife relationship
+keyword	memory lapse
+keyword	old woman old woman relationship
+keyword	retirement
+keyword	murder by smothering with a pillow
+keyword	confused old woman
+keyword	pillow
+keyword	apartment
+keyword	piano teacher
+keyword	broken door lock
+keyword	octogenarian
+keyword	murder
+keyword	end of life
+keyword	death
+keyword	piano recital
+keyword	complications
+keyword	brain disease
+keyword	brain damage
+keyword	wheelchair
+keyword	absence seizure
+keyword	pillow over head
+keyword	odor
+keyword	euthanasia
+keyword	temporary amnesia
+keyword	old couple
+keyword	family strife
+keyword	pianist
+keyword	brain surgery
+keyword	title spoken by character
+cast	Jean-Louis Trintignant	Georges
+cast	Emmanuelle Riva	Anne
+cast	Isabelle Huppert	Eva
+cast	Alexandre Tharaud	Alexandre
+cast	William Shimell	Geoff
+cast	Ramón Agirre	Concierge's Husband
+cast	Rita Blanco	Concierge
+cast	Carole Franck	Nurse #1
+cast	Dinara Drukarova	Nurse #2
+cast	Laurent Capelluto	Police Officer #1
+cast	Jean-Michel Monroc	Police Officer #2
+cast	Suzanne Schmidt	Neighbour
+cast	Damien Jouillerot	Paramedic #1
+cast	Walid Afkir	Paramedic #2

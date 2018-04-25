@@ -1,0 +1,149 @@
+year	1998
+imdb score	5.9
+meta score	N/A
+genre	Action
+genre	Adventure
+genre	Horror
+genre	Sci-Fi
+keyword	ocean
+keyword	hijacker
+keyword	ship
+keyword	ocean liner
+keyword	south pacific
+keyword	luxury
+keyword	sea
+keyword	creature
+keyword	panic
+keyword	greed
+keyword	underwater scene
+keyword	explosion
+keyword	night vision goggles
+keyword	captain
+keyword	sea monster
+keyword	raised middle finger
+keyword	exploding boat
+keyword	thrown through a window
+keyword	rain
+keyword	dark and stormy night
+keyword	torpedo
+keyword	monster
+keyword	terror
+keyword	tentacle
+keyword	shot in the leg
+keyword	exploding ship
+keyword	shot in the chest
+keyword	speedboat
+keyword	melting man
+keyword	jewel
+keyword	pipes
+keyword	stabbed in the head
+keyword	shot to death
+keyword	gore
+keyword	attempted suicide
+keyword	locked in a safe
+keyword	alien
+keyword	nipples visible through clothing
+keyword	cigarette smoking
+keyword	threatened with a knife
+keyword	red dress
+keyword	chase
+keyword	beach
+keyword	hole in hand
+keyword	survival horror
+keyword	trapped in an elevator
+keyword	casino
+keyword	box office flop
+keyword	squid
+keyword	death
+keyword	axe murder
+keyword	shotgun
+keyword	pickpocket
+keyword	island
+keyword	kicked in the head
+keyword	love
+keyword	blood
+keyword	multiple monsters
+keyword	repeated line
+keyword	cryptozoology
+keyword	thrown off a balcony
+keyword	kicked in the crotch
+keyword	escape
+keyword	boat captain
+keyword	fire
+keyword	uncharted island
+keyword	man eating monster
+keyword	machine gun
+keyword	kraken
+keyword	flare gun
+keyword	kicked in the stomach
+keyword	shot in the eye
+keyword	sabotage
+keyword	mechanic
+keyword	slowly dying
+keyword	ship crew
+keyword	creature feature
+keyword	vault
+keyword	pacific ocean
+keyword	film starts with text
+keyword	grenade
+keyword	blowtorch
+keyword	volcano
+keyword	suspense
+keyword	pistol
+keyword	thief
+keyword	mercenary
+keyword	madness
+keyword	flare gun as weapon
+keyword	boat
+keyword	exposed brain
+keyword	radar
+keyword	friendship
+keyword	lesbian kiss
+keyword	giant squid
+keyword	black comedy
+keyword	head wound
+keyword	eaten alive
+keyword	gatling gun
+keyword	spear gun
+keyword	breaking through a door
+keyword	elevator
+keyword	falling from height
+keyword	exploding body
+keyword	toilet
+keyword	beating
+keyword	b movie
+keyword	swallowed whole
+keyword	broken leg
+keyword	punched in the face
+keyword	face slap
+keyword	skeleton
+keyword	blood splatter
+keyword	jumping from a boat
+keyword	corpse
+keyword	held at gunpoint
+keyword	surprise ending
+keyword	
+cast	Treat Williams	John Finnegan
+cast	Famke Janssen	Trillian St. James
+cast	Anthony Heald	Simon Canton
+cast	Kevin J. O'Connor	Joey Pantucci
+cast	Wes Studi	Hanover
+cast	Derrick O'Connor	Captain Atherton
+cast	Jason Flemyng	Mulligan
+cast	Cliff Curtis	Mamooli
+cast	Clifton Powell	Mason
+cast	Trevor Goddard	T. Ray
+cast	Djimon Hounsou	Vivo
+cast	Una Damon	Leila
+cast	Clint Curtis	Billy
+cast	Warren Takeuchi	Radar Man
+cast	Linden Banks	Communications Officer
+cast	Jack Anker	Corpse
+cast	Anne-Simone	Video Vault Woman
+cast	Leanne Adachi	Toilet Lady
+cast	Melanie Carr	Dealer
+cast	Colin McCarlie	Sonar Man
+cast	Jim May	Mystery Man
+cast	Jana Sommers	Party Girl
+cast	Marti Baldecchi	Party Girl
+cast	Rana Morrison	Woman on Cruise Ship

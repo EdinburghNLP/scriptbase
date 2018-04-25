@@ -1,0 +1,173 @@
+year	2004
+imdb score	7.2
+meta score	64
+genre	Adventure
+genre	Comedy
+keyword	white castle
+keyword	stoner
+keyword	police
+keyword	hospital
+keyword	munchies
+keyword	stoned
+keyword	police officer
+keyword	asian american
+keyword	cheetah
+keyword	raccoon
+keyword	brother brother relationship
+keyword	gay man
+keyword	hang glider
+keyword	bare breasts
+keyword	sex scene
+keyword	cult film
+keyword	drug dealing
+keyword	amsterdam netherlands
+keyword	girl in panties
+keyword	obscene finger gesture
+keyword	reference to white castle
+keyword	scantily clad female
+keyword	sexual desire
+keyword	restaurant
+keyword	claim in title
+keyword	drug reference
+keyword	hit
+keyword	defecation
+keyword	party boy
+keyword	party
+keyword	wilhelm scream
+keyword	topless female nudity
+keyword	stoner comedy
+keyword	tv commercial
+keyword	singing in a car
+keyword	guy flick
+keyword	tow truck
+keyword	nudity
+keyword	bong
+keyword	racism
+keyword	police car siren
+keyword	one night
+keyword	drugs
+keyword	2000s
+keyword	drug trip
+keyword	cocaine
+keyword	racial slur
+keyword	elevator
+keyword	cubicle
+keyword	punctuation in title
+keyword	skateboard
+keyword	korean american
+keyword	police chase
+keyword	male rear nudity
+keyword	high speed pursuit
+keyword	female removes her clothes
+keyword	princeton university
+keyword	foursome
+keyword	laptop
+keyword	road trip
+keyword	doctor
+keyword	breasts
+keyword	craving
+keyword	nude girl
+keyword	adultery
+keyword	marijuana
+keyword	male nudity
+keyword	loyalty
+keyword	computer
+keyword	flatulence
+keyword	female frontal nudity
+keyword	cop
+keyword	mysterious stranger
+keyword	threesome
+keyword	reference to doogie howser
+keyword	foot pursuit
+keyword	driving while stoned
+keyword	fondling
+keyword	college
+keyword	female sitting on a toilet
+keyword	stolen car
+keyword	female nudity
+keyword	sexual attraction
+keyword	hamburger
+keyword	gunshot wound
+keyword	rich parents
+keyword	cleavage
+keyword	masturbation
+keyword	friendship
+keyword	drug use
+keyword	cult film
+keyword	panties
+keyword	nude
+keyword	marijuana joint
+keyword	new jersey
+keyword	ecstasy the drug
+keyword	teen movie
+keyword	bare butt
+keyword	interracial romance
+keyword	farting contest
+keyword	hang gliding
+keyword	police car
+keyword	redneck
+keyword	convertible
+keyword	on the road
+keyword	redemption
+keyword	jail
+keyword	interracial friendship
+keyword	father son relationship
+keyword	fast food
+keyword	fear
+keyword	reference to britney spears
+keyword	crop circle
+keyword	asian indian american
+keyword	car accident
+keyword	blood spurting
+keyword	crush
+keyword	muggle
+keyword	operating room
+keyword	urination
+keyword	foot chase
+keyword	pot smoking
+keyword	twin
+keyword	character name in title
+cast	John Cho	Harold Lee
+cast	Ethan Embry	Billy Carver
+cast	Robert Tinkler	J.D.
+cast	Fred Willard	Dr. Willoughby
+cast	Kal Penn	Kumar Patel
+cast	Steve Braun	Cole
+cast	Dan Bochart	Extreme Sports Punk #1
+cast	Paula Garcés	Maria
+cast	Mike Sheer	'I'm So High' Kid
+cast	Christopher Thompson	'Don't You Wanna Be Cool' Kid
+cast	David Krumholtz	Goldstein
+cast	Eddie Kaye Thomas	Rosenberg
+cast	Angelo Tsarouchas	Mean Tollbooth Guy
+cast	Anthony Anderson	Burger Shack Employee
+cast	Siu Ta	Cindy Kim
+cast	Bobby Lee	Kenneth Park
+cast	Dov Tiefenbach	Hippie Student
+cast	Kate Kelton	Christy
+cast	Brooke D'Orsay	Clarissa
+cast	Albert Howell	Security Guard
+cast	Errol Sitahal	Dr. Patel
+cast	Shaun Majumder	Saikat Patel
+cast	Ryan Reynolds	Male Nurse
+cast	Boyd Banks	E.R. Patient
+cast	Christopher Meloni	Freakshow
+cast	Malin Akerman	Liane
+cast	Neil Patrick Harris	Neil Patrick Harris
+cast	Rick Sood	Indian Cashier
+cast	Sandy Jobin-Bevans	Officer Palumbo
+cast	Gary Anthony Williams	Tarik
+cast	Brad Borbridge	Officer Martone
+cast	Frank Spadone	Officer Reilly
+cast	Jordan Prentice	Giant Bag of Weed
+cast	Gary Archibald	Nathaniel Brooks
+cast	John Boylan	Officer Brucks
+cast	Dan Warry-Smith	White Castle Teenager
+cast	Thea Andrews	Female Anchor
+cast	J. Blake Fichera	Extreme Sports Punk #4
+cast	Jennifer Hill	Blonde Party Girl
+cast	Jon Hurwitz	Tony
+cast	Jamie Kennedy	Creepy Guy
+cast	Melissa Papay	Billy Carvers Girlfriend
+cast	Weir Revie	Resident Doctor Holding Clipboard
+cast	Hayden Schlossberg	Hayden

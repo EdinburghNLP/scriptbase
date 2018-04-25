@@ -1,0 +1,229 @@
+year	2006
+imdb score	7.9
+meta score	80
+genre	Adventure
+genre	Comedy
+genre	Drama
+keyword	pageant
+keyword	beauty pageant
+keyword	drugs
+keyword	california
+keyword	beauty
+keyword	loser
+keyword	vow of silence
+keyword	graduate student
+keyword	redondo beach california
+keyword	speaker
+keyword	talent contest
+keyword	vw bus
+keyword	winner
+keyword	gay
+keyword	homosexual
+keyword	motivational speaker
+keyword	on the road
+keyword	heroin
+keyword	journey
+keyword	cross country trip
+keyword	beach
+keyword	suicidal
+keyword	cross country
+keyword	grandfather grandson relationship
+keyword	mute boy
+keyword	road rage
+keyword	speech
+keyword	notepad
+keyword	beauty contest
+keyword	popcorn
+keyword	dancing
+keyword	dysfunctional family
+keyword	remote control
+keyword	talent audition
+keyword	porno magazine
+keyword	auto mechanic
+keyword	drug snorting
+keyword	sarcasm
+keyword	apology
+keyword	hatred
+keyword	freak out
+keyword	begging
+keyword	computer
+keyword	mental hospital
+keyword	dancer
+keyword	car trouble
+keyword	dead body
+keyword	talent pageant
+keyword	argument
+keyword	magazine article
+keyword	family relationships
+keyword	singing
+keyword	gay pornography
+keyword	money
+keyword	uncle niece relationship
+keyword	grandfather granddaughter relationship
+keyword	singer
+keyword	affection
+keyword	book
+keyword	reading
+keyword	roadtrip
+keyword	albuquerque new mexico
+keyword	writing
+keyword	irreverence
+keyword	husband wife relationship
+keyword	parenthood
+keyword	highway travel
+keyword	homosexuality
+keyword	hair styling
+keyword	deadpan
+keyword	reference to nietzsche
+keyword	road trip
+keyword	make up
+keyword	cigarette smoking
+keyword	eye test
+keyword	cell phone
+keyword	tears
+keyword	businessman
+keyword	death of grandfather
+keyword	reckless driving
+keyword	uncle nephew relationship
+keyword	gas station
+keyword	scottsdale arizona
+keyword	father daughter relationship
+keyword	optimism
+keyword	child star
+keyword	master of ceremonies
+keyword	teenager
+keyword	answering machine
+keyword	war wound
+keyword	drug addiction
+keyword	packing
+keyword	marcel proust
+keyword	pay phone
+keyword	arizona
+keyword	new mexico
+keyword	mother daughter relationship
+keyword	father son relationship
+keyword	drug use
+keyword	motor bike
+keyword	stripping
+keyword	doctor
+keyword	fat
+keyword	biker
+keyword	quest
+keyword	convenience store
+keyword	wheelchair
+keyword	death
+keyword	reference to marcel proust
+keyword	sister sister relationship
+keyword	garage
+keyword	failure
+keyword	eyeglasses
+keyword	fried chicken
+keyword	car horn
+keyword	bandaged wrists
+keyword	color blind
+keyword	hospital waiting room
+keyword	teacher
+keyword	miss california
+keyword	old man
+keyword	screaming
+keyword	food
+keyword	pier
+keyword	motel
+keyword	no opening credits
+keyword	fired from the job
+keyword	innocence
+keyword	highway patrolman
+keyword	sprite
+keyword	friedrich nietzsche
+keyword	flight school
+keyword	brother sister relationship
+keyword	mute
+keyword	suffering
+keyword	dressing room
+keyword	suburb
+keyword	waitress
+keyword	police
+keyword	pride
+keyword	driving
+keyword	helmet
+keyword	running
+keyword	three word title
+keyword	diner
+keyword	hospital
+keyword	girl with glasses
+keyword	crying
+keyword	teenage boy
+keyword	telephone call
+keyword	teenager
+keyword	song
+keyword	audience
+keyword	watching tv
+keyword	teacher student relationship
+keyword	volkswagen bus
+keyword	pushing car
+keyword	mirror
+keyword	ice cream
+keyword	mother son relationship
+keyword	freeway
+keyword	striptease
+keyword	porn magazine
+keyword	van
+keyword	bechdel test passed
+keyword	mcdonald's glasses
+keyword	talent show
+keyword	ambulance
+keyword	death of father
+keyword	independent film
+keyword	title spoken by character
+keyword	
+cast	Abigail Breslin	Olive Hoover
+cast	Greg Kinnear	Richard Hoover
+cast	Paul Dano	Dwayne
+cast	Alan Arkin	Grandpa Edwin Hoover
+cast	Toni Collette	Sheryl Hoover
+cast	Steve Carell	Frank Ginsberg
+cast	Marc Turtletaub	Doctor #1
+cast	Jill Talley	Cindy
+cast	Brenda Canela	Diner Waitress
+cast	Julio Oscar Mechoso	Mechanic
+cast	Chuck Loring	Convenience Store Proprietor
+cast	Justin Shilton	Josh
+cast	Gordon Thomson	Larry Sugarman
+cast	Steven Christopher Parker	Teen Boy #1
+cast	Bryan Cranston	Stan Grossman
+cast	John Walcutt	Doctor #2
+cast	Paula Newsome	Linda
+cast	Dean Norris	State Trooper McCleary
+cast	Beth Grant	Pageant Official Jenkins
+cast	Wallace Langham	Kirby
+cast	Lauren Shiohama	Miss California
+cast	Mary Lynn Rajskub	Pageant Assistant Pam
+cast	Jerry Giles	Funeral Home Worker
+cast	Geoff Meed	Biker Dad
+cast	Matt Winston	Pageant MC
+cast	Joan Scheckel	Judge
+cast	Casandra Ashe	Girl in Hallway
+cast	Mel Rodriguez	Officer Martinez
+cast	Alexandria Alaman	Pageant Contestant
+cast	Alissa Anderegg	Pageant Contestant
+cast	Brittany Baird	Pageant Contestant
+cast	Cambria Baird	Pageant Contestant
+cast	Brenae Bandy	Pageant Contestant
+cast	Kristen Holaas	Pageant Contestant
+cast	Maliah Hudson	Pageant Contestant
+cast	Destry Jacobs	Pageant Contestant
+cast	Lindsey Jordan	Pageant Contestant
+cast	Shane Murphy	Pageant Contestant
+cast	Annabelle Roberts	Pageant Contestant
+cast	Sydni Stevenson-Love	Pageant Contestant
+cast	Nicole Stoehr	Pageant Contestant
+cast	Lauren Yee	Pageant Contestant
+cast	Erik David Barber	Photographer
+cast	Terry Bolo	Pageant Worker
+cast	Marc De'Antone	Seminar Class
+cast	Tara Dawn Holland	Herself
+cast	Ksenia Jarova	Pretty Girl
+cast	Alva Loomis	Hotel Security
+cast	Robert O'Connor	Pageant Judge #1
+cast	Regis Philbin	Himself
+cast	Matthew W. Tate	Funeral Worker #2

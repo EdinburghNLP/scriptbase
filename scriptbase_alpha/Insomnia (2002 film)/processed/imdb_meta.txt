@@ -1,0 +1,193 @@
+year	2002
+imdb score	7.2
+meta score	78
+genre	Crime
+genre	Mystery
+genre	Thriller
+keyword	detective
+keyword	police
+keyword	murder
+keyword	partner
+keyword	alaska
+keyword	investigation
+keyword	insomnia
+keyword	death
+keyword	guilt
+keyword	police detective
+keyword	blackmail
+keyword	foot chase
+keyword	novelist
+keyword	rifle
+keyword	sunlight
+keyword	garbage bag
+keyword	small town
+keyword	shooting
+keyword	lapd
+keyword	remake
+keyword	psychopath
+keyword	fight
+keyword	corpse
+keyword	morality
+keyword	shell casing
+keyword	tragedy
+keyword	redemption
+keyword	gunshot wound
+keyword	mother daughter relationship
+keyword	cheating on girlfriend
+keyword	boy
+keyword	murder suspect
+keyword	diary
+keyword	internal affairs
+keyword	held at gunpoint
+keyword	confession of crime
+keyword	beaten to death
+keyword	dead animal
+keyword	diner
+keyword	tunnel
+keyword	restaurant
+keyword	adult actress playing teenage girl
+keyword	halibut
+keyword	hallucination
+keyword	photograph
+keyword	gun held to head
+keyword	hotel
+keyword	pistol
+keyword	truck
+keyword	shotgun
+keyword	hypothetical flashback
+keyword	policeman
+keyword	fog
+keyword	beating
+keyword	planting evidence
+keyword	neo noir
+keyword	evidence
+keyword	shot by partner
+keyword	telephone call
+keyword	logging
+keyword	gun
+keyword	ferry
+keyword	shot in the leg
+keyword	trapped underwater
+keyword	gunfire
+keyword	waterfall
+keyword	frame up
+keyword	garbage dump
+keyword	sleeplessness
+keyword	police procedure
+keyword	rain
+keyword	fingernail
+keyword	2000s
+keyword	forensic evidence
+keyword	older man younger woman relationship
+keyword	storytelling
+keyword	cabin
+keyword	journal
+keyword	teenager
+keyword	school
+keyword	shootout
+keyword	snow
+keyword	blood
+keyword	boyfriend girlfriend relationship
+keyword	schizophrenic
+keyword	fbi
+keyword	murder confession
+keyword	high school
+keyword	crime writer
+keyword	los angeles police department
+keyword	accidental death
+keyword	flashback
+keyword	morgue
+keyword	backpack
+keyword	autopsy
+keyword	dead bear
+keyword	interrogation
+keyword	rubber gloves
+keyword	airplane
+keyword	poetry
+keyword	dead woman
+keyword	floating log
+keyword	windshield wiper
+keyword	pedophile
+keyword	fishing village
+keyword	cover up
+keyword	ballistics
+keyword	cabin in the woods
+keyword	dead girl
+keyword	crime confession
+keyword	pursuit
+keyword	double barreled shotgun
+keyword	child murder
+keyword	cigarette smoking
+keyword	murder of a police officer
+keyword	scene of the crime
+keyword	accidental shooting
+keyword	latex gloves
+keyword	dead dog
+keyword	kagan lake alaska
+keyword	bludgeoning
+keyword	glacier
+keyword	police station
+keyword	mystery writer
+keyword	fishing
+keyword	breaking and entering
+keyword	hospital
+keyword	criminal investigation
+keyword	hotel manager
+keyword	vomit
+keyword	teenage girl
+keyword	female detective
+keyword	playing chicken
+keyword	murder investigation
+keyword	phone call from suspect
+keyword	falling into water
+keyword	stakeout
+keyword	dead body
+keyword	shot to death
+keyword	tape recorder
+keyword	writer
+keyword	shot in the stomach
+keyword	car skid
+keyword	lodge
+keyword	death of husband
+keyword	remake of norwegian film
+keyword	dog
+keyword	betrayal
+keyword	sunshine
+keyword	love
+keyword	sleep deprivation
+keyword	toenail
+keyword	book
+keyword	typewriter
+keyword	telephone
+keyword	chase
+keyword	alarm clock
+keyword	hair
+keyword	arctic circle
+keyword	shot in the chest
+keyword	death of father
+keyword	
+cast	Al Pacino	Will Dormer
+cast	Martin Donovan	Hap Eckhart
+cast	Oliver 'Ole' Zemen	Pilot
+cast	Hilary Swank	Ellie Burr
+cast	Paul Dooley	Chief Nyback
+cast	Nicky Katt	Fred Duggar
+cast	Larry Holden	Farrell
+cast	Jay Brazeau	Francis
+cast	Lorne Cardinal	Rich
+cast	James Hutson	Officer #1
+cast	Andrew Campbell	Officer #2
+cast	Paula Shaw	Coroner
+cast	Crystal Lowe	Kay Connell
+cast	Tasha Simms	Mrs. Connell
+cast	Maura Tierney	Rachel Clement
+cast	Jonathan Jackson	Randy Stetz
+cast	Malcolm Boddington	Principal
+cast	Katharine Isabelle	Tanya Francke
+cast	Robin Williams	Walter Finch
+cast	Kerry Sandomirsky	Trish Eckhart
+cast	Chris Gauthier	Uniformed Officer
+cast	Ian Tracey	Warfield
+cast	Kate Robbins	Woman on the Road
+cast	Emily Perkins	Girl at Funeral
+cast	Dean Wray	Ticket Taker

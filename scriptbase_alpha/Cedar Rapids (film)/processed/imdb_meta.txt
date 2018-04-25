@@ -1,0 +1,99 @@
+year	2011
+imdb score	6.3
+meta score	70
+genre	Comedy
+keyword	insurance
+keyword	convention
+keyword	cedar rapids iowa
+keyword	hotel
+keyword	two word title
+keyword	drugs
+keyword	bribe
+keyword	topless female nudity
+keyword	scene during end credits
+keyword	city name in title
+keyword	award
+keyword	shiner
+keyword	swimming pool
+keyword	city in title
+keyword	drinking
+keyword	place name in title
+keyword	f word
+keyword	one night stand
+keyword	infidelity
+keyword	prostitute
+keyword	naivety
+keyword	party
+keyword	masturbation
+keyword	male rear nudity
+keyword	lighting a fart
+keyword	underwear
+keyword	scavenger hunt
+keyword	friendship
+keyword	reference to r2d2
+keyword	wedding
+keyword	mooning
+keyword	title spoken by character
+cast	Ed Helms	Tim Lippe
+cast	John C. Reilly	Dean Ziegler
+cast	Anne Heche	Joan Ostrowski-Fox
+cast	Isiah Whitlock Jr.	Ronald Wilkes
+cast	Stephen Root	Bill Krogstad
+cast	Kurtwood Smith	Orin Helgesson
+cast	Alia Shawkat	Bree
+cast	Thomas Lennon	Roger Lemke
+cast	Rob Corddry	Gary
+cast	Mike O'Malley	Mike Pyle
+cast	Sigourney Weaver	Macy Vanderhei
+cast	Inga R. Wilson	Gwen Lemke
+cast	Mike Birbiglia	Trent
+cast	Seth Morris	Uncle Ken
+cast	Christopher Lemon	Rock Climbing Dude #1
+cast	Sudhi Rajagopal	Rock Climbing Dude #2
+cast	Chris DiAngelo	Kurt Gambsky
+cast	Lindsey Alexandra Hartley	Pam Gambsky
+cast	Welker White	Dione Krogstad
+cast	John Djurovski	Bartender
+cast	Charlie Sanders	TSA Agent
+cast	Craig Janos	Jack Nicholson Impersonator
+cast	Tracey Maloney	Flight Attendant
+cast	Steve Blackwood	Lindy
+cast	Carl Harry Carlson	Older Man
+cast	Ken Wood	Waiter
+cast	Lise Lacasse	Lila
+cast	James Howard Carr	Swarthy Man
+cast	David Rhoads	Ball Pit Judge
+cast	Bruce Giffin	Photographer
+cast	Teresa Yenque	Maid
+cast	Helen-Jean Arthur	Church Lady
+cast	Michael Tuba Heatherton	Plate Spinner
+cast	Leisa Pulido	Talent Show MC
+cast	Ed Jewett	Bearded Dude
+cast	Zackary Hamlin	Clem
+cast	Kimberly Moncrieff	Small Woman
+cast	Linda Riker	Small Woman's Friend
+cast	Michael Buie	Brian Early
+cast	Roz Music	Lady
+cast	Loit A. Maripuu	Customer #3
+cast	Bruce Lawson	Customer #4
+cast	Ian Minicuci	Perry
+cast	Penny Gibbs	ASMI Representative
+cast	Victor Pytko	Merle Huss
+cast	Sandra Gittleson	Sherri Fahrenkrug
+cast	Richard L. Fox	Hotel Employee
+cast	John F. McCormick	Dad
+cast	Joanne McGee	Mom
+cast	Hayley Zeccardi	Daughter
+cast	Tony Beck	Tim Lippe
+cast	Deidre Backs	Pregnant Lesbian Bride
+cast	Brian Bell	Guy Falling Off Ladder
+cast	Joshua Ray Bell	Conventioneer
+cast	Tim Craiger	Church Attendant
+cast	Johnny Flynn	Bartender
+cast	David Hutchison	Tweeker #3
+cast	Sydney Lumbert	Kid in the Park
+cast	Ralph H. Meyer	Hot Dog Contest Judge
+cast	Gary L. Minix	Wedding Guest
+cast	Morris Lee Sullivan	Conventioneer
+cast	Laurie Valko	Core conventioneer
+cast	Paul Xiong	

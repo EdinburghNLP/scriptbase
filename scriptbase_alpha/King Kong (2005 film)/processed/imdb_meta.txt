@@ -1,0 +1,291 @@
+year	2005
+imdb score	7.3
+meta score	81
+genre	Action
+genre	Adventure
+genre	Drama
+genre	Romance
+keyword	island
+keyword	jungle
+keyword	gorilla
+keyword	1930s
+keyword	film director
+keyword	king kong
+keyword	playwright
+keyword	expedition
+keyword	monster
+keyword	dinosaur
+keyword	vaudeville
+keyword	giant ape
+keyword	actress
+keyword	play
+keyword	two word title
+keyword	central park
+keyword	manhattan new york city
+keyword	taxi
+keyword	giant bat
+keyword	army
+keyword	check
+keyword	shot in the arm
+keyword	unemployment
+keyword	ravine
+keyword	car accident
+keyword	giant insect
+keyword	cameraman
+keyword	animal name in title
+keyword	triceratops
+keyword	rooftop
+keyword	crushed to death
+keyword	spear
+keyword	new york city
+keyword	lifting an adult into the air
+keyword	escape
+keyword	storm at sea
+keyword	lifting someone into the air
+keyword	remake
+keyword	monster as victim
+keyword	log
+keyword	chasm
+keyword	police
+keyword	cliff
+keyword	native tribe
+keyword	falling over a cliff
+keyword	cook
+keyword	spear through chest
+keyword	air raid
+keyword	prohibition
+keyword	machine gun
+keyword	drawbridge
+keyword	no opening credits
+keyword	biplane
+keyword	kaiju
+keyword	seaman
+keyword	blockbuster
+keyword	rampage
+keyword	skyscraper
+keyword	filmmaking
+keyword	frozen lake
+keyword	human animal relationship
+keyword	slow motion
+keyword	starving
+keyword	juggling
+keyword	library book
+keyword	lifting a woman into the air
+keyword	brontosaurus
+keyword	gate
+keyword	empire state building manhattan new york city
+keyword	tommy gun
+keyword	skeleton
+keyword	wilhelm scream
+keyword	lifting female in air
+keyword	animal attack
+keyword	dancing
+keyword	fog
+keyword	falling from height
+keyword	broken jaw
+keyword	diner
+keyword	acrobatics
+keyword	screening room
+keyword	escaped beast
+keyword	rainstorm
+keyword	stabbing
+keyword	movie star
+keyword	central park manhattan new york city
+keyword	shot to death
+keyword	barefoot
+keyword	true love
+keyword	epic
+keyword	eaten alive
+keyword	wall
+keyword	sea captain
+keyword	broadway manhattan new york city
+keyword	actor
+keyword	cavern
+keyword	impalement
+keyword	airplane accident
+keyword	ape abducts a woman
+keyword	backstage
+keyword	film producer
+keyword	film studio
+keyword	stampede
+keyword	giant spider
+keyword	times square manhattan new york city
+keyword	kidnapping
+keyword	great depression
+keyword	rescue party
+keyword	cartwheel
+keyword	wrestling
+keyword	impossible love
+keyword	simian fiction
+keyword	director actor relationship
+keyword	lost world
+keyword	remake of remake
+keyword	rescue
+keyword	cult film
+keyword	monster on display
+keyword	steamship
+keyword	shot in the chest
+keyword	tyrannosaurus
+keyword	disaster in new york
+keyword	footprint
+keyword	monster movie
+keyword	vine
+keyword	canyon
+keyword	melodrama
+keyword	chloroform
+keyword	film within a film
+keyword	scream
+keyword	giant animal
+keyword	falling into water
+keyword	journey
+keyword	ladder
+keyword	bridge
+keyword	color remake of black and white film
+keyword	herald square new york city
+keyword	death
+keyword	chase
+keyword	typewriter
+keyword	human sacrifice
+keyword	kiss
+keyword	tribute
+keyword	map
+keyword	panic
+keyword	indian ocean
+keyword	pier
+keyword	troubled youth
+keyword	coward
+keyword	rowboat
+keyword	eavesdropping
+keyword	martial arts
+keyword	shoplifting
+keyword	bitten out tongue
+keyword	gas bomb
+keyword	animal death
+keyword	damsel in distress
+keyword	murder
+keyword	death of friend
+keyword	character name in title
+cast	Naomi Watts	Ann Darrow
+cast	Jack Black	Carl Denham
+cast	Adrien Brody	Jack Driscoll
+cast	Thomas Kretschmann	Captain Englehorn
+cast	Colin Hanks	Preston
+cast	Andy Serkis	Kong / Lumpy
+cast	Evan Parke	Hayes
+cast	Jamie Bell	Jimmy
+cast	Lobo Chan	Choy
+cast	John Sumner	Herb
+cast	Craig Hall	Mike
+cast	Kyle Chandler	Bruce Baxter
+cast	William Johnson	Manny
+cast	Mark Hadlow	Harry
+cast	Geraldine Brophy	Maude
+cast	David Dennis	Taps
+cast	David Pittu	Weston
+cast	Pip Mushin	Zelman
+cast	Jim Knobeloch	Thuggish Executive
+cast	Ric Herbert	Sleazy Executive
+cast	Lee Donahue	Studio Guy's Assistant
+cast	Tom Hobbs	Young Assistant
+cast	Tiriel Mora	Fruit Vendor
+cast	Jed Brophy	Venture Crew
+cast	Frank Edwards	Venture Crew
+cast	Michael Lawrence	Venture Crew
+cast	Crawford Thomson	Venture Crew
+cast	Richard Kavanagh	Venture Crew
+cast	Stephen Hall	Venture Crew
+cast	William Wallace	Venture Crew
+cast	Joe Folau	Venture Crew
+cast	Tim Wong	Venture Crew
+cast	Steve Reinsfield	Venture Crew
+cast	John Wraight	Venture Crew
+cast	Matthew Chamberlain	Venture Crew
+cast	Lee Hartley	Venture Crew - Radio Operator
+cast	Troy O'Kane	Venture Crew
+cast	Louis Sutherland	Venture Crew
+cast	Jason Whyte	Venture Crew
+cast	Toa Waaka	Venture Crew
+cast	John Clarke	Venture Crew
+cast	Ray Woolf	Venture Crew - Helmsman
+cast	David Dengelo	Venture Crew
+cast	Greg Smith	Venture Crew
+cast	Chris Bailey	Venture Crew
+cast	Peter McKenzie	Venture Crew
+cast	Peter Ford	Venture Crew
+cast	Tamihana Nuku	Venture Crew
+cast	Roussel Dubois	Venture Crew
+cast	Todd Rippon	Venture Crew
+cast	Eddie Campbell	Venture Crew - Crewman
+cast	Phil Grieve	Laughing Man
+cast	Vicky Haughton	Sharwoman
+cast	Jacinta Wawatai	Feral Child
+cast	Terence Griffiths	Skull Islander
+cast	Stephen A. Buckley	Cab Driver
+cast	Chic Littlewood	Old Security Guard
+cast	Rick Baker	Pilot
+cast	Jim Dietz	Pilot
+cast	Gene de Marco	Pilot
+cast	John Dybvig	Policeman
+cast	Tim Gordon	Hotel Clerk
+cast	Lee McDonald	Chorus Line Tap Dancer
+cast	Stig Eldred	Army Commander
+cast	Billy Jackson	NY Child
+cast	Katie Jackson	NY Child
+cast	Tania Rodger	Hooverville Mother
+cast	Samuel Taylor	Hooverville Child
+cast	Bob Burns	NY Stander
+cast	Kathy Burns	NY Stander
+cast	Joe Gertler	NY Stander
+cast	Jennifer Gertler	NY Stander
+cast	Geoff Timblick	Pressman
+cast	Geoff Allen	Pressman
+cast	Belindalee Hope	Burlesque Dancer
+cast	Crushanin Dixor-McIvor	Burlesque Dancer
+cast	Jodie Taylor	Burlesque Dancer
+cast	Hilton Denis	Vaudeville Act
+cast	Geoff Dunstan	Vaudeville Act
+cast	Daniel Tusia	Vaudeville Act
+cast	Paul Wilson	Vaudeville Act
+cast	Shannon Wilson	Vaudeville Act
+cast	Jesse Rasmussen	Vaudeville Act
+cast	Sosina Wogayehu	Vaudeville Act
+cast	Peter Corrigan	Vaudeville Act
+cast	Colin Bogaars	Vaudeville Act
+cast	Susan Eastwood	Vaudeville Act
+cast	Caron Dallas	Vaudeville Act
+cast	Matthew Dravitzki	Trampled Theatre-Goer
+cast	Darryl John	Vaudeville Act
+cast	Felicia O'Brien	Vaudeville Act
+cast	Peter Jackson	Gunner
+cast	Rick Porras	Gunner
+cast	Frank Darabont	Gunner
+cast	Hamish Bruce	Gunner
+cast	Latham Gaines	Photographer
+cast	Julia Walshaw	Theatre Actor
+cast	Randall William Cook	Pilot
+cast	Luanne Gordon	Theatre Actor
+cast	Lorraine Ashbourne	Theatre Actor
+cast	Edwin Wright	Theatre Actor
+cast	Glen Drake	Theatre Actor
+cast	Lawrence Jarden	NY Police Chief
+cast	Ross Duncan	Audience Member
+cast	Jim McLarty	Photographer
+cast	Matt Wilson	Photographer
+cast	Jarl Benzon	New Yorker
+cast	Lee Donoghue	Investment Assistant
+cast	Matt Gillanders	Usher
+cast	Jan Gopperth	New York Theatre Goer
+cast	Ran Grumolis	New York Theatre Goer
+cast	Julie Holmes	Vaudeville Extra
+cast	Nichola Jones	New York Theatre Goer
+cast	Camille Keenan	New York Citizen
+cast	Eric Leighton	Soldier in Truck
+cast	Asofa Manase	Tribesman
+cast	Sam Manzanza	Skull Island Native
+cast	Michaela Morgan	Girl Grabbed by Kong Outside Theater
+cast	Todd Morgan	Usher
+cast	Christian Rivers	Soldier in Truck
+cast	Howard Shore	Orchestra Pit Conductor
+cast	Sam Shore	Featured New Yorker
+cast	Dianne Smith	Vaudeville patron
+cast	Eric Vespe	Passenger in Rail Car

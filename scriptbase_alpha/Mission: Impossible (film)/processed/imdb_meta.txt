@@ -1,0 +1,168 @@
+year	1996
+imdb score	7.0
+meta score	60
+genre	Action
+genre	Adventure
+genre	Thriller
+keyword	mission
+keyword	spy
+keyword	stealing
+keyword	train
+keyword	secret agent
+keyword	remake
+keyword	theft
+keyword	cia
+keyword	traitor
+keyword	espionage
+keyword	prague
+keyword	heist
+keyword	photographic memory
+keyword	silencer
+keyword	vomit
+keyword	e mail
+keyword	hostage
+keyword	explosive
+keyword	high concept
+keyword	cnn reporter
+keyword	opening action scene
+keyword	rooftop
+keyword	kicked in the stomach
+keyword	magic trick
+keyword	berlin germany
+keyword	internet
+keyword	elevator
+keyword	shot in the chest
+keyword	loss of friend
+keyword	exploding helicopter
+keyword	killing an animal
+keyword	deception
+keyword	subway
+keyword	face mask
+keyword	held at gunpoint
+keyword	costume
+keyword	channel tunnel
+keyword	flashback
+keyword	mistaken identity
+keyword	stabbed to death
+keyword	stabbed in the chest
+keyword	rogue agent
+keyword	falling off a bridge
+keyword	impalement
+keyword	faked death
+keyword	computer cracker
+keyword	sleight of hand
+keyword	knife
+keyword	tgv
+keyword	chinese writing
+keyword	based on tv series
+keyword	husband wife relationship
+keyword	exploding car
+keyword	homing device
+keyword	thrown through a window
+keyword	1990s
+keyword	cell phone
+keyword	sequel to tv series
+keyword	threatened with a knife
+keyword	break in
+keyword	helicopter
+keyword	betrayal
+keyword	phone booth
+keyword	london england
+keyword	firefighter
+keyword	electrocution
+keyword	crushed to death
+keyword	murder
+keyword	bible
+keyword	first person perspective
+keyword	aquarium
+keyword	gadget
+keyword	bound and gagged
+keyword	bomb
+keyword	husband murders wife
+keyword	blood
+keyword	superspy
+keyword	faking own death
+keyword	fugitive
+keyword	hanging upside down
+keyword	stabbed in the stomach
+keyword	computer
+keyword	langley virginia
+keyword	bridge
+keyword	breaking and entering
+keyword	spy hero
+keyword	semiautomatic pistol
+keyword	mask
+keyword	hidden gun
+keyword	pistol
+keyword	grenade
+keyword	kiev ukraine
+keyword	czech republic
+keyword	false accusation
+keyword	shanghai china
+keyword	hidden camera
+keyword	based on tv show
+keyword	lock pick
+keyword	slow motion scene
+keyword	rescue
+keyword	fight on a train roof
+keyword	blockbuster
+keyword	elevator shaft
+keyword	gum
+keyword	broken glass
+keyword	rat
+keyword	drugged drink
+keyword	death of friend
+keyword	surprise ending
+keyword	
+cast	Tom Cruise	Ethan Hunt
+cast	Jon Voight	Jim Phelps
+cast	Emmanuelle Béart	Claire Phelps
+cast	Henry Czerny	Eugene Kittridge
+cast	Jean Reno	Franz Krieger
+cast	Ving Rhames	Luther Stickell
+cast	Kristin Scott Thomas	Sarah Davies
+cast	Vanessa Redgrave	Max
+cast	Ingeborga Dapkunaite	Hannah Williams
+cast	Valentina Yakunina	Drunken Female IMF Agent
+cast	Marek Vasut	Drunken Male IMF Agent
+cast	Nathan Osgood	Kittridge Technician
+cast	John McLaughlin	TV Interviewer
+cast	Rolf Saxon	CIA Analyst William Donloe
+cast	Karel Dobrý	Matthias
+cast	Andreas Wisniewski	Max's Companion
+cast	David Shaeffer	Diplomat Rand Housman
+cast	Rudolf Pechan	Mayor Brandl
+cast	Gaston Subert	Jaroslav Reid
+cast	Ricco Ross	Denied Area Security Guard
+cast	Mark Houghton	Denied Area Security Guard
+cast	Bob Friend	Sky News Man
+cast	Annabel Mullion	Flight Attendant
+cast	Garrick Hagon	CNN Reporter
+cast	Jirina Trebická	Cleaning Woman
+cast	Andrzej Borkowski	Kiev Room Agent
+cast	Maya Dokic	Kiev Room Agent
+cast	Sam Douglas	Kiev Room Agent
+cast	Olegar Fedoro	Kiev Room Agent
+cast	Carmela Marner	Kiev Room Agent
+cast	Mimi Potworowska	Kiev Room Agent
+cast	David Schneider	Train Engineer
+cast	Helen Lindsay	Female Executive in Train
+cast	Pat Starr	CIA Agent
+cast	Richard D. Sharp	CIA Lobby Guard
+cast	Randall Paul	CIA Escort Guard
+cast	Sue Doucette	CIA Agent
+cast	Graydon Gould	Public Official
+cast	Tony Vogel	M.I. 5
+cast	Michael Rogers	Large man
+cast	Laura Brook	Margaret Hunt
+cast	Morgan Deare	Donald Hunt
+cast	David Phelan	Steward on Train
+cast	Melissa Knatchbull	Air Stewardess
+cast	Ion Caramitru	Zozimov
+cast	Dale Dye	Frank Barnes
+cast	Marcel Iures	Alexander Golitsyn
+cast	Keith Campbell	Fireman
+cast	Michael Cella	Student
+cast	Emilio Estevez	Jack Harmon
+cast	Harry Fielder	Car Driver
+cast	John Knoll	Passenger on Train in Tunnel

@@ -1,0 +1,75 @@
+year	2010
+imdb score	5.6
+meta score	51
+genre	Comedy
+keyword	funeral
+keyword	family secret
+keyword	death
+keyword	valium
+keyword	eulogy
+keyword	author
+keyword	farce
+keyword	brother brother relationship
+keyword	saab
+keyword	homosexual
+keyword	mother son relationship
+keyword	mix up
+keyword	blackmailer
+keyword	husband wife relationship
+keyword	sex with dwarf
+keyword	bathroom humor
+keyword	remake
+keyword	drug use
+keyword	gay parent
+keyword	coffin
+keyword	remake of british film
+keyword	male nudity
+keyword	dwarf
+keyword	patriarch
+keyword	family conflict
+keyword	father daughter relationship
+keyword	blackmail
+keyword	male tied up
+keyword	african american stereotype
+keyword	gay father
+keyword	man in wheelchair
+keyword	hearse
+keyword	black dress
+keyword	minister
+keyword	reference to jackie chan
+keyword	african american
+keyword	black stereotype
+keyword	applying mascara
+keyword	obscene finger gesture
+keyword	family relationships
+keyword	sibling rivalry
+keyword	black american
+keyword	humiliation
+keyword	gay man
+keyword	death of father
+keyword	
+cast	Keith David	Reverend Davis
+cast	Loretta Devine	Cynthia
+cast	Peter Dinklage	Frank
+cast	Ron Glass	Duncan
+cast	Danny Glover	Uncle Russell
+cast	Regina Hall	Michelle
+cast	Kevin Hart	Brian
+cast	Martin Lawrence	Ryan
+cast	James Marsden	Oscar
+cast	Tracy Morgan	Norman
+cast	Chris Rock	Aaron
+cast	Zoe Saldana	Elaine
+cast	Columbus Short	Jeff
+cast	Luke Wilson	Derek
+cast	Regine Nehy	Martina
+cast	Bob Minor	Edward
+cast	Alexander Folk	Middle Aged Man
+cast	Leslie Rivers	Older Lady
+cast	Bronwyn Hardy	Mourner #1
+cast	Willi Willis	Mourner #2
+cast	Jamison Yang	Asian Man
+cast	Betty K. Bynum	Woman Mourner
+cast	Youlanda Davis	Woman Mourner
+cast	Katelyn Statton	Mourner
+cast	Elle Young	Mourner

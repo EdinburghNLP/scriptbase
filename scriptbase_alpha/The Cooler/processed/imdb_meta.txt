@@ -1,0 +1,245 @@
+year	2003
+imdb score	7.0
+meta score	69
+genre	Drama
+genre	Romance
+keyword	luck
+keyword	casino
+keyword	bad luck
+keyword	waitress
+keyword	love
+keyword	cooler
+keyword	mob
+keyword	cocktail waitress
+keyword	cocktail
+keyword	loser
+keyword	shangri la
+keyword	jinx
+keyword	break up
+keyword	gambling
+keyword	high roller
+keyword	casino card game
+keyword	death
+keyword	cleavage
+keyword	kiss
+keyword	bar
+keyword	slot machine
+keyword	leg spreading
+keyword	band
+keyword	spilled salt
+keyword	handshake
+keyword	cream
+keyword	dice
+keyword	topless female nudity
+keyword	broken mirror
+keyword	singing
+keyword	playing card
+keyword	bare butt
+keyword	hispanic slur
+keyword	penis
+keyword	sex
+keyword	gambler
+keyword	mantra
+keyword	recording
+keyword	dancing
+keyword	roulette
+keyword	father son relationship
+keyword	gambling debt
+keyword	policeman
+keyword	watching tv
+keyword	gangster
+keyword	suicide
+keyword	x ray vision
+keyword	hit with a baseball bat
+keyword	blonde
+keyword	freak accident
+keyword	upskirt
+keyword	con
+keyword	poker chip
+keyword	panties
+keyword	nightclub singer
+keyword	female rear nudity
+keyword	girl in panties
+keyword	record player
+keyword	bare breasts
+keyword	fistfight
+keyword	gambling chip
+keyword	faked pregnancy
+keyword	no panties
+keyword	disneyland
+keyword	child given up for adoption
+keyword	victoria's secret
+keyword	desert
+keyword	false identity
+keyword	tv show
+keyword	car
+keyword	suicide by overdose
+keyword	hotel
+keyword	misery
+keyword	losing
+keyword	pillow
+keyword	drinking
+keyword	carnival game
+keyword	imax theatre
+keyword	las vegas nevada
+keyword	reference to jimmy stewart
+keyword	drug abuse
+keyword	public nudity
+keyword	slacker
+keyword	nude girl
+keyword	red panties
+keyword	convertible
+keyword	undressing
+keyword	prisoner
+keyword	female full frontal nudity
+keyword	cd
+keyword	scantily clad female
+keyword	drink
+keyword	execution
+keyword	mother son relationship
+keyword	tuberculosis
+keyword	breasts
+keyword	cunnilingus
+keyword	violence
+keyword	broken leg
+keyword	beating
+keyword	obscene finger gesture
+keyword	debt
+keyword	set up
+keyword	changing times
+keyword	breakfast
+keyword	face slap
+keyword	tattoo
+keyword	storytelling
+keyword	salt
+keyword	police
+keyword	motel
+keyword	nude
+keyword	heroin
+keyword	extortion
+keyword	gun
+keyword	childbirth
+keyword	black cat
+keyword	white panties
+keyword	selfishness
+keyword	female frontal nudity
+keyword	female pubic hair
+keyword	orgasm
+keyword	blackjack
+keyword	cheating
+keyword	scolding
+keyword	retirement
+keyword	road accident
+keyword	thong
+keyword	money
+keyword	winning
+keyword	voyeur
+keyword	sex in bed
+keyword	drug deal
+keyword	drug overdose
+keyword	lounge singer
+keyword	stilts
+keyword	injection
+keyword	adoption
+keyword	banging on the wall
+keyword	chivas regal
+keyword	head butt
+keyword	sleight of hand
+keyword	coitus
+keyword	death by overdose
+keyword	mafia
+keyword	mobster
+keyword	organized crime
+keyword	abuse
+keyword	birthing labor
+keyword	card playing
+keyword	baseball hat
+keyword	copulation
+keyword	nightclub
+keyword	oral sex
+keyword	husband wife relationship
+keyword	boxer shorts
+keyword	distorted sound
+keyword	hypodermic needle
+keyword	card dealer
+keyword	male nudity
+keyword	felon
+keyword	limousine
+keyword	torture
+keyword	prostitute
+keyword	bed
+keyword	murder
+keyword	drug use
+keyword	voyeurism
+keyword	mirror
+keyword	astrology
+keyword	underwear
+keyword	singer
+keyword	remote control
+keyword	fondling
+keyword	scam
+keyword	bare chested male
+keyword	mini skirt
+keyword	crooked cop
+keyword	male rear nudity
+keyword	blackjack dealer
+keyword	song
+keyword	female nudity
+keyword	superstition
+keyword	dancer
+keyword	cocaine
+keyword	tv evangelist
+keyword	titanium
+keyword	limp
+keyword	nudity
+keyword	receipt
+keyword	reference to harry connick
+keyword	pubic hair
+keyword	cigarette smoking
+keyword	drunk driver
+keyword	highway patrol
+keyword	cat
+keyword	independent film
+keyword	
+cast	William H. Macy	Bernie Lootz
+cast	Alec Baldwin	Shelly Kaplow
+cast	Maria Bello	Natalie Belisario
+cast	Shawn Hatosy	Mikey
+cast	Ron Livingston	Larry Sokolov
+cast	Paul Sorvino	Buddy Stafford
+cast	Estella Warren	Charlene
+cast	Arthur J. Nascarella	Nicky Fingers Bonnatto
+cast	Joey Fatone	Johnny Cappella
+cast	M.C. Gainey	Highway Officer
+cast	Ellen Greene	Doris
+cast	Don Scribner	Lou
+cast	Tony Longo	Tony
+cast	Richard Israel	Marty Goldfarb
+cast	Timothy Landfield	The Player
+cast	T.J. Gioia	Bulldog
+cast	Jewel Shepard	Hooker
+cast	Gordon Michaels	Mr. Pinkerton
+cast	Doc Watson	Morrie
+cast	Dan Lemieux	Suburbanite
+cast	Larry Elliott	Floor Manager
+cast	Joe Conti	Pit Boss
+cast	Chris Platt	Dealer
+cast	Norbert Ganska	Stickman #1
+cast	Mitch Samboceti	Player
+cast	Andrew Simbeck	Stickman #2
+cast	Danny Grossen	Stickman #3
+cast	Jeff Hill	Stickman #4
+cast	Monet Beaman	Stickman #5
+cast	Charlie Carr	Boxman
+cast	Kanie Kastroll	Croupier
+cast	Bryon Baker	Stickman #6
+cast	John Kozeluh	Man
+cast	Cherilyn Hayres	Woman
+cast	Jim McCarthy	Televangelist
+cast	Frank Hannah	Dealer #2
+cast	Monica White	Johnny Capella's Girl
+cast	Heather McHenry	Johnny Capella's Girl
+cast	Portia Dawson	Waitress
+cast	Stephen Halbert	Carnie
+cast	Michelle Lopez	Lady Craps Player 'Cooled' by Bernie
+cast	Herb Santos Jr.	ER Doctor

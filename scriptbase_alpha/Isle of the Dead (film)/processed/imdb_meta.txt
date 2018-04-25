@@ -1,0 +1,36 @@
+year	1945
+imdb score	6.7
+meta score	N/A
+genre	Drama
+genre	Horror
+genre	Mystery
+genre	Thriller
+keyword	plague
+keyword	quarantine
+keyword	island
+keyword	vampire
+keyword	fictional war
+keyword	reporter
+keyword	rowboat
+keyword	buried alive
+keyword	catalepsy
+keyword	doctor
+keyword	greek mythology
+keyword	premature burial
+keyword	superstition
+keyword	british consulate
+keyword	general
+keyword	crypt
+keyword	soldier
+keyword	
+cast	Boris Karloff	Gen. Nikolas Pherides
+cast	Ellen Drew	Thea
+cast	Marc Cramer	Oliver Davis
+cast	Katherine Emery	Mrs. Mary St. Aubyn
+cast	Helene Thimig	Madame Kyra
+cast	Alan Napier	St. Aubyn
+cast	Jason Robards Sr.	Albrecht
+cast	Ernst Deutsch	Dr. Drossos
+cast	Sherry Hall	Col. Kobestes
+cast	Erick Hanson	Officer
+cast	Skelton Knaggs	Andrew Robbins

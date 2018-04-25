@@ -1,0 +1,75 @@
+year	1903
+imdb score	7.4
+meta score	N/A
+genre	Short
+genre	Western
+keyword	train
+keyword	bandit
+keyword	posse
+keyword	hold up
+keyword	sheriff
+keyword	cowboy
+keyword	outlaw
+keyword	train station
+keyword	explosion
+keyword	shootout
+keyword	forced to dance
+keyword	cowboy shirt
+keyword	looking at the camera
+keyword	pistol
+keyword	main characters killed off
+keyword	six shooter
+keyword	gang of outlaws
+keyword	main character shot
+keyword	lunch
+keyword	train robbery
+keyword	revolver
+keyword	standoff
+keyword	cowboy boots
+keyword	gunfighter
+keyword	fight
+keyword	firearm pointed at the camera
+keyword	bound and gagged
+keyword	gunfight
+keyword	breaking the fourth wall
+keyword	fast draw
+keyword	gunslinger
+keyword	telegraph
+keyword	shot with a gun
+keyword	dancer
+keyword	1900s
+keyword	street shootout
+keyword	character shoots at us in audience
+keyword	spurs
+keyword	bullets fired at feet
+keyword	handgun
+keyword	shot at the camera
+keyword	daughter
+keyword	brakeman
+keyword	colt 45
+keyword	gunfire
+keyword	showdown
+keyword	horse
+keyword	main character dies
+keyword	usa
+keyword	robbery
+keyword	thief
+keyword	horse chase
+keyword	villain played by lead actor
+keyword	gun
+keyword	dynamite
+keyword	cowboy hat
+keyword	cowboys and outlaws
+keyword	railway
+cast	A.C. Abadie	Sheriff
+cast	Gilbert M. 'Broncho Billy' Anderson	Bandit / Shot Passenger / Tenderfoot Dancer
+cast	George Barnes	
+cast	Justus D. Barnes	Bandit Who Fires at Camera
+cast	Walter Cameron	Sheriff
+cast	John Manus Dougherty Sr.	Fourth Bandit
+cast	Donald Gallaher	Little Boy
+cast	Frank Hanaway	Bandit
+cast	Adam Charles Hayman	Bandit
+cast	Morgan Jones	
+cast	Marie Murray	Dance-Hall Dancer
+cast	Mary Snow	Little Girl

@@ -1,0 +1,181 @@
+year	1991
+imdb score	4.9
+meta score	N/A
+genre	Horror
+genre	Thriller
+keyword	dream
+keyword	freddy krueger
+keyword	teenager
+keyword	elm street
+keyword	nightmare
+keyword	hit by a bus
+keyword	gore
+keyword	slow motion scene
+keyword	glove
+keyword	repressed memory
+keyword	loud noise
+keyword	newspaper clippings
+keyword	adopted child
+keyword	rampage
+keyword	1990s
+keyword	stabbed in the chest
+keyword	murder
+keyword	3d sequel to 2d film
+keyword	springwood ohio
+keyword	road trip
+keyword	blood splatter
+keyword	hit with a baseball bat
+keyword	insanity
+keyword	spikes
+keyword	ghost
+keyword	serial child killer
+keyword	father son relationship
+keyword	apostrophe in title
+keyword	slasher
+keyword	3d glasses
+keyword	thrown from an airplane
+keyword	killing an animal
+keyword	strangulation
+keyword	sleepwalking
+keyword	beaten to death
+keyword	flashback
+keyword	stoner
+keyword	knocked out
+keyword	hearing aid
+keyword	therapist
+keyword	blood
+keyword	ohio
+keyword	supernatural power
+keyword	green blood
+keyword	amnesia
+keyword	finger cut off
+keyword	stabbed in the hand
+keyword	fair
+keyword	title directed by female
+keyword	man punches a woman
+keyword	dark past
+keyword	younger version of character
+keyword	death
+keyword	character repeating someone else's dialogue
+keyword	daughter murders father
+keyword	husband murders wife
+keyword	newspaper clipping
+keyword	poster
+keyword	bare chested male
+keyword	father daughter relationship
+keyword	knife
+keyword	sleep deprivation
+keyword	kicked in the stomach
+keyword	head butt
+keyword	marijuana joint
+keyword	playing video game
+keyword	sixth part
+keyword	raised middle finger
+keyword	disfigurement
+keyword	good versus evil
+keyword	impalement
+keyword	part 3 dimensional
+keyword	thrown through a wall
+keyword	broken hand
+keyword	family relationships
+keyword	reference to nietzsche
+keyword	exploding body
+keyword	water tower
+keyword	exploding head
+keyword	hit with a belt
+keyword	punctuation in title
+keyword	stabbed in the ear
+keyword	falling down a hill
+keyword	severed finger
+keyword	subjective camera
+keyword	child killer
+keyword	demon
+keyword	ear bleeding
+keyword	deafness
+keyword	falling down stairs
+keyword	high school
+keyword	fear of heights
+keyword	crossbow
+keyword	self mutilation
+keyword	scene during opening credits
+keyword	burned alive
+keyword	drawing
+keyword	shelter
+keyword	thrown through a window
+keyword	shared dream
+keyword	human monster
+keyword	death of title character
+keyword	rescue
+keyword	shot in the leg
+keyword	statue
+keyword	teenager
+keyword	dream within a dream
+keyword	teacher
+keyword	molotov cocktail
+keyword	knife throwing
+keyword	film starts with quote
+keyword	child abuse
+keyword	map
+keyword	evil man
+keyword	parachute
+keyword	punching bag
+keyword	hit with a frying pan
+keyword	surrealism
+keyword	psychology
+keyword	burnt face
+keyword	kicked in the face
+keyword	fingernails on chalkboard
+keyword	pipe bomb
+keyword	burnt hand
+keyword	drugs
+keyword	rain
+keyword	falling through the floor
+keyword	sleeping in a car
+keyword	fire
+keyword	villain played by lead actor
+keyword	phone booth
+keyword	falling from height
+keyword	orphanage
+keyword	boxing
+keyword	cult film
+keyword	nightmare becomes reality
+keyword	kicked in the crotch
+keyword	airplane
+keyword	scene during end credits
+keyword	sequel
+keyword	serial killer
+keyword	death of mother
+keyword	independent film
+keyword	character name in title
+cast	Robert Englund	Freddy Krueger
+cast	Lisa Zane	Maggie Burroughs
+cast	Shon Greenblatt	John Doe
+cast	Lezlie Deane	Tracy
+cast	Ricky Dean Logan	Carlos
+cast	Breckin Meyer	Spencer
+cast	Yaphet Kotto	Doc
+cast	Tom Arnold	Childless Man
+cast	Roseanne Barr	Childless Woman
+cast	Elinor Donahue	Orphanage Woman
+cast	Johnny Depp	Guy on TV
+cast	Cassandra Rachel Friel	Little Maggie / Katherine Krueger
+cast	David Dunard	Kelly
+cast	Marilyn Rockafellow	Mrs. Burroughs
+cast	Virginia Peters	Woman in Plane
+cast	Stella Hall	Stewardess
+cast	Lindsey Fields	Loretta Krueger
+cast	Angelina Estrada	Carlos' Mother
+cast	Peter Spellos	Tracy's Father
+cast	Tobe Sexton	Teen Freddy
+cast	Chason Schirmer	Young Freddy
+cast	Michael McNab	Spencer's Father
+cast	Matthew Faison	Springwood Teacher
+cast	Vic Watterson	Officer #1
+cast	Carlease Burke	Officer #2
+cast	Robert Shaye	Ticket Seller
+cast	Warren Barrington	Cop in Shelter
+cast	Mel Scott-Thomas	Security Guard
+cast	Jonathan Mazer	Angry Boy
+cast	Frank Catalano	Various
+cast	Alice Cooper	Freddy's Father
+cast	Joshua Weisel	Freddy

@@ -1,0 +1,232 @@
+year	2002
+imdb score	6.5
+meta score	49
+genre	Adventure
+genre	Drama
+genre	Romance
+genre	War
+keyword	cowardice
+keyword	battle
+keyword	friend
+keyword	white feather
+keyword	british
+keyword	rebel
+keyword	regiment
+keyword	sudan
+keyword	honor
+keyword	hand to hand combat
+keyword	friendly fire
+keyword	north africa
+keyword	deserter
+keyword	bath
+keyword	victorian era
+keyword	military resignation
+keyword	pursuit
+keyword	massacre
+keyword	romantic rivalry
+keyword	reference to general gordon
+keyword	poison
+keyword	military
+keyword	caravan
+keyword	islamic fundamentalism
+keyword	fear of death
+keyword	humiliation
+keyword	shame
+keyword	19th century
+keyword	gun
+keyword	colonialism
+keyword	ambush
+keyword	england
+keyword	cavalry
+keyword	army
+keyword	murder
+keyword	combat
+keyword	corpse
+keyword	stabbed with a sword
+keyword	prayer
+keyword	jail break
+keyword	loyalty
+keyword	blindness
+keyword	prisoner of war
+keyword	rifle
+keyword	british colonialism
+keyword	sword
+keyword	historical event
+keyword	war violence
+keyword	drinking blood
+keyword	naked dead man
+keyword	coward
+keyword	love
+keyword	escape
+keyword	stabbed with a bayonet
+keyword	conscientious objector
+keyword	sand
+keyword	1880s
+keyword	gunfight
+keyword	misfiring gun
+keyword	military uniform
+keyword	hanging
+keyword	epic
+keyword	camaraderie
+keyword	egyptian
+keyword	rugby
+keyword	comrade
+keyword	general
+keyword	dancing
+keyword	marching band
+keyword	1890s
+keyword	church of england
+keyword	slavery
+keyword	make up
+keyword	pride
+keyword	sword fight
+keyword	rain
+keyword	starvation
+keyword	dancer
+keyword	christian
+keyword	hypocrisy
+keyword	stable
+keyword	drink
+keyword	torture
+keyword	family relationships
+keyword	rescue
+keyword	mass grave
+keyword	tribal warfare
+keyword	chase
+keyword	homestead settlement
+keyword	horse and carriage
+keyword	dedication
+keyword	royal cambrian
+keyword	male nudity
+keyword	whipping
+keyword	military commission
+keyword	imperialism
+keyword	orchestra
+keyword	military encampment
+keyword	tent
+keyword	mahdi
+keyword	love triangle
+keyword	redemption
+keyword	bayonet
+keyword	camel
+keyword	love letter
+keyword	kiss
+keyword	slaughter
+keyword	father son relationship
+keyword	friendship
+keyword	friendship between men
+keyword	shooting
+keyword	heartbreak
+keyword	burial
+keyword	islam
+keyword	british soldier
+keyword	heroism
+keyword	reference to god
+keyword	journey
+keyword	blood
+keyword	male camaraderie
+keyword	death
+keyword	year 1884
+keyword	sandstorm
+keyword	prison
+keyword	reference to queen victoria
+keyword	drinking
+keyword	fort
+keyword	grave
+keyword	siege
+keyword	oasis
+keyword	mutiny
+keyword	sniper
+keyword	dying
+keyword	fiancé fiancée relationship
+keyword	equestrian
+keyword	horse riding
+keyword	abandonment
+keyword	arrogance
+keyword	british army
+keyword	sex
+keyword	locker room
+keyword	shootout
+keyword	military ball
+keyword	fear
+keyword	fight
+keyword	british flag
+keyword	dead body
+keyword	british imperialism
+keyword	british empire
+keyword	prostitute
+keyword	british military
+keyword	goggles
+keyword	revenge
+keyword	horse
+keyword	black eye
+keyword	patriotism
+keyword	heathen
+keyword	broken engagement
+keyword	remake
+keyword	jealousy
+keyword	disgrace
+keyword	soldier
+keyword	parade
+keyword	slave
+keyword	sudanese
+keyword	marriage proposal
+keyword	violence
+keyword	nudity
+keyword	church
+keyword	bravery
+keyword	desert
+keyword	campfire
+keyword	disguise
+keyword	based on novel
+keyword	number in title
+keyword	
+cast	Wes Bentley	Jack Durrance
+cast	Mohamed Bouich	Sudanese Storyteller
+cast	Campbell Brown	Dervish Ansar
+cast	Daniel Caltagirone	Gustave
+cast	James Cosmo	Col. Sutch
+cast	Andy Coumbe	Colonel Other Regiment
+cast	Angela Douglas	Aunt Mary
+cast	Karim Doukkali	Egyptian Orderly
+cast	Lucy Gordon	Isabelle
+cast	Megan Hall	Millie
+cast	James Hillier	Drunken Corporal
+cast	Nick Holder	British Lion
+cast	Djimon Hounsou	Abou Fatma
+cast	Kate Hudson	Ethne Eustace
+cast	Alex Jennings	Colonel Hamilton
+cast	Alexandra Kabi	Woman in Red Veil
+cast	Heath Ledger	Harry Feversham
+cast	Julio Lewis	Saadi
+cast	Craig McDonald	Wounded Captain
+cast	Lionel Mahop	Dervish Captain
+cast	Richard Manlove	British Corporal
+cast	Kris Marshall	Edward Castleton
+cast	Manar Mohamed	Youssef
+cast	Marouazi Mohammed	Dervish Sniper
+cast	Nider Mohamed	Mullah
+cast	Anna Diafe Ndiaye	Dinka Slavegirl
+cast	Medoune Ndiaye	Gentle Faced Porter
+cast	Deobia Oparei	Idris-Es-Saier
+cast	Mohamen Mehdi Ouazanni	Hassan
+cast	Charles Pemberton	Impressario
+cast	Rupert Penry-Jones	Tom Willoughby
+cast	Tim Pigott-Smith	General Feversham
+cast	Mohamed Quatib	Ibrahim
+cast	Laila Rouass	Maya
+cast	Hugh Ross	Regimental Priest
+cast	Thioumbe Samb	Dinka Slavegirl
+cast	Michael Sheen	William Trench
+cast	Mark Tonderai	Egyptian Orderly
+cast	Alek Wek	Aquol
+cast	Alex Zorbas	Egyptian Orderly
+cast	Bruce Lawrence	British Soldier
+cast	Rhidian Bridge	British Soldier
+cast	Christian Coulson	Drummer Boy
+cast	Ray Donn	British Cavalry Officer
+cast	James Embree	British Cavalry Officer
+cast	Natalie Hallam	High Class Lady
+cast	Hugo Hedley	British Troop
+cast	Serena Lorien	Crying Widow
+cast	Ben Uttley	General Wolseley's Aide-de-Camp

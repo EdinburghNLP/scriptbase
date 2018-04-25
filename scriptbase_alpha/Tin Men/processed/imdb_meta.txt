@@ -1,0 +1,75 @@
+year	1987
+imdb score	6.5
+meta score	N/A
+genre	Comedy
+genre	Drama
+keyword	1960s
+keyword	car accident
+keyword	volkswagen beetle
+keyword	seduction
+keyword	two word title
+keyword	salesman
+keyword	adultery
+keyword	aluminium siding
+keyword	baltimore maryland
+keyword	competing businesses
+keyword	government hearing
+keyword	revenge
+keyword	title spoken by character
+keyword	
+cast	Richard Dreyfuss	Bill 'BB' Babowsky
+cast	Danny DeVito	Ernest Tilley
+cast	Barbara Hershey	Nora Tilley
+cast	John Mahoney	Moe Adams
+cast	Jackie Gayle	Sam
+cast	Stanley Brock	Gil
+cast	Seymour Cassel	Cheese
+cast	Bruno Kirby	Mouse
+cast	J.T. Walsh	Wing
+cast	Richard Portnow	Carly
+cast	Matt Craven	Looney
+cast	Alan Blumenfeld	Stanley
+cast	Brad Sullivan	Masters
+cast	Michael Tucker	Bagel
+cast	Deirdre O'Connell	Nellie
+cast	Sheila McCauley	Ada
+cast	Michael Willis	Mr. Shubner
+cast	Penny Nichols	Mrs. Shubner
+cast	Susan Duvall	Suburban Housewife
+cast	David DeBoy	Suburban Husband
+cast	Florence Moody	Diner Waitress
+cast	Myron Citronbaum	Salesman #1 at Hearing
+cast	Ralph Tabakin	Mr. Hudson
+cast	Norma Posner	Mrs. Hudson
+cast	Walt MacPherson	Cadillac Salesman
+cast	William C. Godsey	Belvedere Hotel Barman
+cast	Roland Gift	Band Member
+cast	David Steele	Band Member
+cast	Andy Cox	Band Member
+cast	Sharon Ziman	Mason Dixon Operator #1
+cast	Lois Raymond Munchel	Mason Dixon Operator #2
+cast	Kathy Jones	Mason Dixon Operator #3
+cast	Cindy Geppi	Social Security Girl #1
+cast	Ellen Sills	Social Security Girl #2
+cast	Mary Morgan	Social Security Girl #3
+cast	Marcia Herr	Social Security Girl #4
+cast	Karen Barth	Gibraltar Operator #1
+cast	Sharon Crofoot	Gibraltar Operator #2
+cast	Geri Lynn Kelbaugh	Gibraltar Operator #3
+cast	Lisa Ford	Gibraltar Operator #4
+cast	Becky Weidner	Gibraltar Operator #5
+cast	Patricia Pohlman	Gibraltar Operator #6
+cast	Shirley Ann Wilson	Gibraltar Operator #7
+cast	Joshua Billings	Man #1 at Crash
+cast	Jeffrey Moser	Man #2 at Crash
+cast	Freddie Stevens	Piano Bar Crooner
+cast	Bill Danoff	Police Officer
+cast	Katherine Ellis	Ruthie, Woman Asking BB to Dance
+cast	Eva Jean Berg	Woman at Smorgasboard
+cast	Todd Jackson	Young Boy
+cast	Barbara Rappaport	Coffee Shop Waitress
+cast	Theodore Goldman	Pool Hall Worker
+cast	Kathleen Goldpaugh	Arguing Wife
+cast	Brian Costantini	Arguing Husband
+cast	Herb Levinson	Metal Sideing Customer
+cast	Chuck Varesko	Process Server

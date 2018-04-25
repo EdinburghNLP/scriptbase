@@ -1,0 +1,93 @@
+year	2000
+imdb score	5.4
+meta score	24
+genre	Drama
+keyword	new york
+keyword	may december romance
+keyword	death
+keyword	title directed by female
+keyword	terminal illness
+keyword	winter in new york city
+keyword	expectant father
+keyword	city name in title
+keyword	grandchild
+keyword	autumn in new york city
+keyword	surgery
+keyword	philanderer
+keyword	surgeon
+keyword	ice skating
+keyword	expectant mother
+keyword	tragic love
+keyword	pregnant wife
+keyword	new york city
+keyword	older man younger woman relationship
+keyword	rockefeller center
+keyword	pregnant daughter
+keyword	skating
+keyword	cheating
+keyword	pregnancy
+keyword	pregnant woman
+keyword	pregnant
+keyword	christmas
+keyword	skating rink
+keyword	death of young woman
+keyword	
+cast	Richard Gere	Will Keane
+cast	Winona Ryder	Charlotte Fielding
+cast	Anthony LaPaglia	John
+cast	Elaine Stritch	Dolly
+cast	Vera Farmiga	Lisa Tyler
+cast	Sherry Stringfield	Sarah
+cast	Jill Hennessy	Lynn McCale
+cast	J.K. Simmons	Dr. Tom Grandy
+cast	Sam Trammell	Simon
+cast	Mary Beth Hurt	Dr. Sibley
+cast	Kali Rocha	Shannon
+cast	Steven Randazzo	Alberto
+cast	Toby Poser	Autumn Woman #1
+cast	George Spielvogel III	Netto
+cast	Ranjit Chowdhry	Fakir
+cast	Audrey Quock	Eriko
+cast	Tawny Cypress	Melissa
+cast	Gabriel Portuondo	458 Waiter
+cast	Laurent Schwaar	458 Waiter
+cast	Patrick Price	458 Waiter
+cast	Ted Koch	458 Bartender
+cast	Alvin H. Einbender	458 Bartender
+cast	Daniella Van Graas	Model at Bar
+cast	Rachel Nichols	Model at Bar
+cast	Steven Ravid	458 Customer
+cast	Ron Emanuel	458 Customer
+cast	Dan Camins	458 Customer
+cast	John Guidera	458 Customer
+cast	Russell Hunston	458 Customer
+cast	Nik Pjeternikaj	458 Customer
+cast	Paige Handler	Charlotte's Birthday Friend
+cast	Liza Lapira	Charlotte's Birthday Friend
+cast	Sarah Teresa Burns	Little Girl at Playground
+cast	Bill Raymond	Michael
+cast	Earl Carroll	Will's Driver
+cast	David Filippi	Taxi Driver
+cast	Becca Lee	Michelle
+cast	Estelle Robinson	Old Frail Lady
+cast	Brittney Bunkis	Little Girl at Museum
+cast	Delores Mitchell	Librarian
+cast	Hatsumi Yoshida	Clown at Halloween Party
+cast	Kristi Lee Guinness	50's Girl at Halloween Party
+cast	Luca Waldman	Vampire at Halloween Party
+cast	Daniella Canterman	Twin
+cast	Deanna Canterman	Twin
+cast	Harry Burney	Choirmaster
+cast	Cheyne M. Hansen	Boy at Rockerfeller
+cast	Pamela Twyble	Nurse at Cleveland Heart Institute
+cast	Iris Flick	Nurse at New Haven Hospital
+cast	Kathleen Goldpaugh	St. Vincent's Nurse
+cast	Robert Plunket	Grubby Man
+cast	Shawna Bermender	Ballroom Dancer
+cast	Jamie Harrold	
+cast	Timothy Huang	458 Waiter
+cast	Lindsay Huff	Young Teacher at Museum
+cast	Nami Paix	Birthday Friend
+cast	Rohan Quine	The Moroccan
+cast	Randall Marshall Troy	Package Boy
+cast	Jade Viggiano	Good Fairy Witch

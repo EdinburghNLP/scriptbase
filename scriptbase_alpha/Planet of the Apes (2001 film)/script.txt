@@ -1,0 +1,3121 @@
+Planet of the Apes (2001) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Planet of the Apes (2001) movie scriptby William Broyles Jr. and Lawrence Konner and Mark Rosenthal.Based on novel by Pierre Boulle.
+More info about this movie on IMDb.com
+
+
+CHAPTER 1: MAIN TITLES
+ 
+CHAPTER 2: PERICLES
+FADE IN:
+ext. space
+SPEEDING through star-spangled blackness.  Infinity around us.  Eternity before, and after.
+INTO FRAME: JUPITER. A massive swirl of colors. FILLING THE SCREEN for a beat.
+CONTINUE PAST THE PLANET: as JUPITER'S MOONS come INTO VIEW forming a breathtaking line of frozen orbs.
+CHANGE DIRECTION
+with gut-wrenching speed. Looping closer to one MOON.
+PULL BACK
+PAST the metallic FRAME of what seems to be a SHIP'S WINDOW to a multi-colored CONTROL PANEL.  Aglow with LCD LIGHTS.
+INTO FRAME
+a long, fur-covered FINGER punches buttons on the board.  In a precise SERIES.  A course is digitally IMAGED.
+TILT AND REVEAL: the startling vision of a CHIMPANZEE at the controls.  Fitted with monitoring helmet and vest.  His deep brown eyes sentient, intense.
+A RED LIGHT suddenly FLASHES ON THE PANEL.  A BEEP sounds harshly.
+The chimp (PERICLES) quickly re-enters his command sequence.  The BEEP gets faster. And the faster
+      it gets, the more flustered he gets.
+int. flight simulator - continuous
+THROUGH THE WINDOW the LIGHT BEGINS to FILL THE FRAME. Pericles tries to shield his eyes; now he can't see the BUTTONS on the board. Begins to SLAP at the controls in confusion.
+The BEEP turns into one long wail.  The view in the WINDOW FREEZES.  The CONTROL PANEL goes BLACK.
+REFLECTED ON THE CONTROL PANEL - A SECOND FACE
+Human.  CAPTAIN LEO DAVIDSON (20's) reaches over the chimp and punches OFF the BEEPING RED LIGHT.  Silence.
+leo
+You lose.
+WIDEN: OBERON - reveal FLIGHT SIMULATOR
+PERICLES, the chimpanzee, vocalizes.  
+
+leo
+Surprised? I changed your flight sequence. 
+Pericles taps the keys. Confused. He looks to Leo.
+leo (CONT'D)
+I know you can hit the fast ball ... but what about the curve? 
+Pericles bangs the equipment hard like a toddler.
+LEO (CONT'D)
+That's enough Pericles. 
+Pericles starts to throw a small tantrum.
+leo (CONT'D)
+Stop it.
+(when he doesn't)
+ ... or no treat.
+Pericles stops immediately.
+leo (CONT'D)
+How well do I know you?
+ext. space -- oberon
+MOVING through the silence of Space.
+CARD: JOINT FORCES MOBILE RESIDENT STATION, THE NEAR FUTURE
+      
+int. oberon - corridor
+ON THE WALL: a star-filled ICON INCORPORATING THE AMERICAN FLAG over which is written:
+                    USAF OBERONLeo walks quickly with Pericles. Pericles reaches
+      up and takes Leo's hand.
+EXT. OBERON - ANIMAL LIVING QUARTERS
+LEO WALKS BY A WARNING SIGN. INSERT SIGN:
+CAUTION: LIVE ANIMALS
+SECURITY ACCESS ONLY
+int. oberon - animal LIVING QUARTERS
+An EXPLOSION OF ANIMAL NOISES as we SWEEP BY CAGES OF PRIMATES: mostly CHIMPANZEES, a few ORANGUTANS, GIBBONS, even a young lowland GORILLA.
+VARIOUS MED TECH SPECIALISTS work with the apes in the b.g: ONE SPECIALIST picks out a simple MELODY (easily recognizable) on an electronic keyboard for ONE APE; the APE watches, then tries to repeat the notes.
+INSERT:  The cages are marked with METALLIC SQUARES stamped with SERIAL NUMBER and NICKNAME.
+Pericles scoots to the comforting arms of CHIEF
+      MEDICAL OFFICER LT. COL. GRACE ALEXANDER.
+Alexander
+Was the homo sapien mean to you again?
+(turns to Leo)
+We all know it's just rocket envy.
+leo
+Ever consider an actual boyfriend?
+Alexander
+You mean do I enjoy being miserable? I'll stick with my chimps.
+Pericles jumps up on a counter.  Pulls on a CABINET.  Leo takes a BISCUIT from a huge bag of TREATS.  Puts it behind his back, then holds out his hands.  Pericles chooses right, nothing; left, not there either. Pericles squawks.
+      
+leO
+Another curve ball.
+Alexander
+You weren't authorized to change his flight training.
+leo
+I'm teaching him. 
+Leo pulls the biscuit from his back pocket. Hands it to Pericles.
+Alexander
+You're teasing him.  
+leo
+He's gene spliced, chromosome enhanced ... a state of the art monkey ... he can take it. 
+ALEXANDER
+When you frustrate them, they lose focus ... get confused. Even violent.
+Across the room a CHIMP screeches and rattles its CAGE.  Alexander brings Pericles over.
+Alexander (CONT'D)
+Congratulations, Pericles, you're going to be a daddy. 
+leo
+I thought I saw a smirk on his face.
+Alexander
+Actually, the female was the aggressive one. 
+She looks right at Leo.  Leo reacts.  Is this a come on?
+leo
+Aggressive works for me.
+She looks up at him, smiles.  A moment between them, then, a TECH appears.
+tech
+Hey, Leo, you got a postcard.
+CHAPTER 3: EYE OF THE STORM
+NEW ANGLE
+Leo takes the 'POSTCARD' -- a small, thin WIRELESS LCD MONITOR and finds a quiet place to sit by himself. Clicks on his MAIL. TIME CODE DISPLAYS THE DATE: 02-07-2029
+
+on LCD screen: ext. leo's house - front porch - day
+Crammed in front of a LENS waving madly are Leo's FATHER, MOTHER, SISTER, YOUNGER BROTHER and a few other relatives. A handsome, strong family. ONE LITTLE BROTHER waves a TOY MODEL OF THE OBERON.
+leo's mother
+(flustered)
+Now? OK, Hi, honey, it's me ... your mom. 
+Leo smiles warmly. His MOTHER wears an OBERON PIN on her dress. In the b.g. we can see a small old AIR STRIP with several planes, a hangar and wind sock on a pole.
+leo's mother (CONT'D)
+I have so much to tell you ...
+Leo's Father steps FORWARD IN FRAME.
+leo's father
+But she won't ... 'cause this is  costing me a fortune. Hi, son. The TV showed some pictures of you from space. 
+THE PICTURE STUTTERS. JUMPS.
+LEO'S father (CONT'D)
+... we're all real proud of you ...
+leo's mother
+... we just want you to come back to us safely ...
+Her voice breaks. Leo reacts.
+THEN THE PICTURE GOES OUT. Leo bangs on the screen. It reads: 'YOUR SERVICE HAS BEEN INTERRUPTED.'
+WIDER: THE ENTIRE ROOM GOES DARK FOR A MOMENT. THE ANIMALS SCREECH.
+When the lights come back on Leo rushes out.
+int. oberon - JUST OUTSIDE bridge
+THE SECURITY DOOR.  A SHATTER PROOF GLASS BARRIER.  LEO uses a HAND PRINT ID SYSTEM to gain access.  The DOOR SLIDES OPEN.  Leo hurries through --
+int. oberon - the bridge - continuous
+As LEO ENTERS CREW MEMBERS are gathered around a LARGE DIGITAL SCREEN.  SPECIALIST HANSEN (20's) works the board with COMMANDER KARL VASICH (40's).
+MAJORS FRANK SANTOS (30's) and MARIA COOPER (20's) are already there.
+franK
+We found it.
+maRIA
+It found us.
+Leo looks up to see --
+ON screen: an electromagnetic cloud RUSHing through space
+HANSEN
+It's moving like a storm.
+vasich
+That's what it is. An electromagnetic storm ...  
+frANK
+This is what's causing blackouts on earth.
+marIA
+It's ... beautiful.
+VASICH
+So's the sun til you get too close. 
+haNSEN
+This is weird. I'm picking up frequency patterns.
+vasICH
+Tune them in.
+ON SCREEN: A QUICK RUSH OF IMAGES, including:
+TV COLOR BARS, DIGITAL GRIDS, THEN A SCENE FROM BONANZA, A SOCCER GAME IN ARABIC, AN OLD BANDSTAND, THE QUIZ SHOW CONCENTRATION, WALTER CRONKITE, A COOKING SHOW, A TOM AND JERRY CARTOON, BBC CONCERT, THE YOUNG CASTRO SPEECHIFYING, ALLY MCBEAL, PUBLIC SERVICE SPOT IN SPANISH, MAO WAVING TO TROOPS.  ALL THE WHILE INCONGRUOUS AUDIO PLAYS SIMULTANEOUSLY: NORTH KOREAN RADIO, PIECES OF CELLULAR PHONE CONVERSATION, AIR PILOT/TOWER CHATTER ... A TEN SECOND MONTAGE OF THE HISTORY OF WORLD COMMUNICATION.
+
+HANSEN
+It's sucking up satellite relays, cell phone conversations, TV broadcasts ... every electronic communication from earth ... from all time.
+leO
+(sarcastic)
+Ten billion channels and nothing to watch.
+widen
+The SHIP GOES DARK AGAIN. A strange stillness settles over the bridge.
+The POWER RETURNS. The display has spooked them all.
+maria
+It sure knows how to get your attention.
+vasICH
+Let's get to work. We'll start with a pass through the core. Take initial radiation and gamma ray readings.
+Vasich turns to Leo.
+VASICH (CONT'D)
+Get your monkey ready.
+Leo doesn't move. Looks at the other pilots.
+leo
+Sir, this is a waste of time.  
+vaSICH
+We have standard procedures ...
+leo
+(over)
+And by the time you go through all of them, it could be gone.
+Vasich knows what Leo is lobbying for.
+vasich
+No manned flights. First we send out an ape, then if it's safe, we send a pilot --in that order.
+
+leo
+Let me do my job.  You need somebody out there who can think, remember that? ... You need me.
+Vasich is calm but firm.
+VASICH
+He's the canary.  That's the coal mine.  Alpha pod deploys at 1600.
+close on pericles
+His soft brown eyes looking around anxiously for something.  Finally focusing on -- LEO.
+widen: int. oberon - launch PLATFORM
+Alexander and her CREW help Leo secure Pericles in the pod.  Leo checks the flight suit.  He tries to hide his concern from the chimp.
+leo
+Just follow your sequence and then come home.  Understand? Home.
+The CREW finishes up.  Pericles vocalizes, looks for Leo -- needing Leo's reassurance.  Leo turns to Pericles, smiles, gives him a THUMBS UP.
+PERICLES looks down at his own HAND.  Selects his THUMB.  Pulls it up -- as the DOOR IS SEALED and WIPES SCREEN.
+INT. OBERON - FLIGHT control - DECK
+Leo sits next to Vasich.  Frank, Alexander and the rest of the team huddle around.  Through Leo's head set he HEARS AN AURAL BOILER PLATE OF TECHNICAL DATA
+ON THE DIGITAL SCREEN: STATIC PULSES IN BRILLIANT COLORS
+CLOSE ON CONTROL BOARD
+They watch the ALPHA POD trace the course of an ELLIPSES around the OBERON.  MOVING TOWARDS THE ENERGY CLUSTER
+PUNCH EVEN CLOSER -- the IMAGE OF ALPHA POD FLICKERS.
+Alexander leans forward.
+Alexander
+What's wrong?
+leo
+He's off course. 
+Vasich speaks in a dull monotone that obscures concern.
+vasich
+Lock on him.
+Leo slides forward a RED LEVER on the board.  A BEAT, then --
+leo
+He's not responding. 
+Alexander
+Surge in the heart rate.  He's scared.
+The MONITOR FLASHES then GOES DEAD.  They're all stunned.
+vasich
+Light him up again.
+leo
+I can't... 
+An endless second of frantic activity at the board.  Frank checks his monitors.
+CLOSER - ON CONTROL BOARD as the POD DISAPPEARS.
+leo (CONT'D)
+Jesus.  He's gone.
+alexander
+He's trained to come back to the Oberon.
+frank
+If he's alive ...
+PAN THEIR FACES -- the silence is agony.  Leo can't just do nothing.
+leo
+I'm waiting for orders, sir.
+vaSICH
+We sit tight for now and wait.
+Beat, Leo thinks.
+leo
+I'll run some sequences in Delta pod. See if I can figure out what he did wrong.
+Leo gets up and leaves.
+CHAPTER 4: DAVIDSON’S RISK
+OMIT
+int. oberon - launch platform - DELTA POD - later
+Leo sits INTO DELTA POD. Staring out at the immensity of Space. OVER THE HEADSET LEO CAN HEAR FLIGHT CONTROL CHATTER.
+ON SCREEN -- Leo plots several variations on Pericles' flight sequences. OVER THE HEADSET: Leo recognizes Vasich's VOICE.
+vasich (os)
+OK, that's it. We lost him.
+frank (os)
+Want to send another chimp?
+PUSH IN CLOSE ON LEO -- as he waits for the response.
+vasich (os)
+No, it's too dangerous. ... shut it down. 
+widen
+Leo slowly swings his chair into command position. His hand trembles slightly as he reaches for the POD DOOR LOCK. PUNCHES: 'LOCK' It seals with a HISS.
+omit
+int. oberon - flight control - deck - later
+Hansen reacts to something ON FLIGHT CONTROL. Checks his instruments, then --
+hansen
+(astonished)
+Sir. Delta pod has launched.
+
+VASICH rushes INTO FRAME.
+int. DELTA pod - same time
+Leo leans back in his command chair as a VIEW OF THE      OBERON SWEEPS PAST THE WINDOW BEHIND HIM.  Leo squeezes into his gloves.  Takes control of the FLIGHT BOARD.
+ext. space -- delta pod (moving)
+Accelerating from the OBERON.
+int. delta pod -- close on leo
+IN SPACE. Vasich's VOICE sheds its monotone: full fury.
+vasich (os)
+(over radio)
+Delta Pod, you're flight is not authorized.  Repeat, your flight is not authorized. 
+leo
+Never send a monkey to do a man's job.
+VASICH (os)
+I swear you'll never fly again.
+leo
+But I'm sure as hell flying now.
+intercut: flight deck - same time
+CLOSE ON HANSEN -- looking at the DIGITAL SCREEN.
+hansen
+I'm getting a Mayday, sir. ... Jesus, it's on our secure channel..
+Vasich hurries over.
+frank
+Alpha pod?
+hANSEN
+I ... I don't know.  But, it's coming on strong.
+vaSICH
+Put it up.
+TILT UP TO DIGITAL SCREEN: OUT OF THE STATIC FIGURES EMERGE.  IN QUICK FLASHES. JUMPY, SHADOWED.  HARD TO READ. AUDIO OUT OF SYNC. WE HEAR BITS AND PIECES.
+
+VOICES
+(filtered)
+... help us ... massive turbulence ... request instructions ... 
+A LOUD WASH OF STATIC and then SILENCE.
+The crew is stunned.  Vasich lunges for the radio.
+vasICH
+Delta Pod ... abort mission.  Repeat.   Delta pod ... return to ship ...
+CHAPTER 5: CRASH LANDING
+ext. space/int. delta pod - leo's pov
+as he follows Pericles' course around the OBERON.  Vasich's VOICE melts into a RUSH OF RADIO STATIC.
+FROM THE RIGHT -- SWEEPING ACROSS SPACE
+A Tsunami of LIGHT washes through.  Glittering particles.  When it clears PERICLES' POD APPEARS AGAIN.
+leo
+Oberon. I've got a visual on Alpha pod ... Over.
+All he gets back is another WASH OF STATIC.  He sets course for ALPHA POD.
+ANOTHER WAVE OF LIGHT CRESTS AND FALLS.  ALPHA POD disappears.
+Leo has no way to process what he's just seen.
+leo (CONT'D)
+... Oberon? Come back ...
+For the first time we HEAR a note of fear in his voice.  Leo twists in his seat to look out the side WINDOW.
+LEO'S POV -- RUSHING AT CAMERA
+Another TIDAL WAVE OF LIGHT -- so thick it seems viscous.  Leo braces himself.  It rocks the POD as it sweeps by.  Shakes Leo viciously.
+int. delta pod - continuous
+Then STOPS cold.  LEO'S CONTROL MONITOR goes BLACK.  ALL SYSTEMS SHUT DOWN.  Leo bangs on the controls.  In full panic.
+ext. pod -- from space
+Powerless.  It begins to drift, then pitch and tumble with increasing speed.
+int. pod
+Leo's life support is down.  He gasps for air.
+leo
+Oberon ... Come in Oberon ...
+Leo flails at his helmet.  It's a horrifying moment.  He's almost unconscious.
+ext. pod -- from space/int. delta pod -- anotHER light wave
+This one far bigger and brighter than before -- rushes AT the POD.  Pummels it violently.
+Leo's CONTROL MONITOR EXPLODES INTO FULL COLOR.  EVERY SYSTEM JUMPS BACK ON.
+INSERT DIGITAL DATE CLOCK: going haywire; it spins FORWARD IN TIME, THEN BACK IN TIME. Then SHATTERS.
+LEO'S POV -- THROUGH WINDOW
+as the POD suddenly ACCELERATES in a blur, pinning Leo back into his seat.  Crushing him into his chair.
+int. delta pod - continuous
+BLACKNESS SWEEPS SCREEN
+THEN GIVES WAY TO A BLUE HALO OF LIGHT
+CLOSE ON LEO as he OPENS HIS EYES
+(THE ENTIRE ENTRY ONTO THE PLANET IS SEEN FROM LEO'S POV)
+A wash of blues and purples -- then, the eerie, whistling RUSH that AIR makes as it generates friction on metal.
+Leo looks down to see FLAMES licking the outside of the POD.   The TILES ON HIS HEAT SHIELD are white hot.  SMOKE coats the cockpit with dark grease.
+Leo tries to get his RETROS to fire -- but the heat has disabled the control panel.
+He grabs a MANUAL LEVER and fights to engage it.  ENGAGES.
+int. delta pod -- leo's pov
+The hazy outlines of LAND formations come RUSHING UP AT LEO.  A huge expanse of DENSE GREEN fills the POD WINDOW.  Leo fights to recover some steering.
+The shriek of the POD rises in pitch as it's about to impact with the surface.
+Leo crashes through FOREST CANOPY and EXPLODES INTO WATER.
+INT. DELTA POD -- COCKPIT -- UNDER WATER
+Leo tries to fire open his ENTRY DOOR -- the HINGE has melted.  Water pours in around him.
+He fumbles in the murky water for a RED HANDLE.  His EJECTION SEAT CONTROL.
+widen -- ext. delta pod -- under water
+as Leo trips his EJECTION SEAT -- the COCKPIT DOOR SOUNDLESSLY EXPLODES -- sending a rage of BUBBLES AT CAMERA.
+ACROSS FRAME -- LEO IS STILL STRAPPED INTO HIS SEAT AS HE'S THRUST INTO THE WATER LIKE A TORPEDO
+Still underwater, Leo tears himself OUT of his FLIGHT SUIT and swims for the surface.
+ext. forest - bog -- surface
+Leo breaks free -- gulps air.  Swims for shore.  Falls to his face -- reeling.
+CHAPTER 6: THE HUNTED
+ext. forest - day
+DISSOLVE THROUGH: CLOSE ON LEO as his eyes open and his senses focus.  He sits bolt upright.
+LEO'S POV -- 360 DEGREE PAN
+Nothing but intense jungle.  Leo stands, wobbly on his feet.  Trying to get his bearings.  Cut and bruised.  Black grease from the fire streaked across his face.  No idea where he is.  He gets no time to think about it.
+SOUND CUE: SOMETHING IS MOVING THROUGH THE WOODS
+Then Leo hears a frightening CRY.  Leo's military training takes over.  Leo moves quickly for cover.
+
+ext. forest -- leo's pov (moving)
+Racing through forest.  Nettles rip his arms.  He breaks from a tangle of vines.  Stumbles over roots.  THE SOUND IS RIGHT BEHIND HIM.  Leo wheels to fight.  Picks up a STONE.
+ANGLE - BREAKING CLEAR
+An older HUMAN (KARUBI), face decorated with intricate markings.  He's carrying a sack of exotic fruits.  Leo has no idea how to react -- he cocks his arm with the stone.
+ANGLE - BEHIND
+Karubi's fierce YOUNG DAUGHTER (DAENA) appears --
+daENA
+Father ... they're coming.
+She knocks the STONE from Leo's hand.  Karubi pushes Leo aide. Other HUMANS APPEAR -- many with the same markings.  Their raid on the fruit trees has become a run for their lives.  Some are badly wounded.  All following KARUBI.
+angle
+Leo is left alone.  Looks around.  BEAT -- then the FOREST CANOPY shakes furiously. Leo hears the eerie metallic tingle of bells.  DARK FIGURES MOVE with frightening speed towards him.  Like ghosts.
+Leo is spooked.  He backs up, races after the HUMANS.
+ext. forest - LEO'S POV - UP AHEAD
+The DARK FIGURES drop through the trees onto the HUMANS.  Cries and shouts.
+QUICK SHOTS: A HUMAN FIGURE is suddenly PROPELLED THROUGH THE AIR -- disappearing as it crashes in the underbrush. Branches snap. LOUD CRIES seem to come from everywhere. A YOUNG HUMAN is dragged into the foliage.
+Leo keeps moving.  The nightmarish NOISE builds to an unbearable furor.
+A hundred yards ahead the foliage CLEARS.  Giving way to a sun drenched HORIZON.  And HILLS in the distance.  KARUBI tries to lead the other HUMANS that way.
+Leo puts on a burst of speed.  HEARS a GROWL.  Leo looks UP.
+EXT. FOREST
+MATCH POV -- whatever it is looking down on Leo drops like a spirit through the trees. Branches whiz by. LEO GROWS IN FRAME, until --
+widen
+A ferocious GORILLA lands in front of Leo.  Bares its canines.
+CLOSER
+the Gorilla wears ARMOR across its massive chest and a strange HELMET that glistens in the sun.  THIS IS ATTAR -- the prodigious APE CAPTAIN OF THE HUNTING PARTY.
+leo
+Jesus.
+
+Leo grabs a branch to defend himself.  Holds it like a spear.
+ATTAR reacts almost with surprise.  Then fury.  With a fierce growl Attar SNAPS the branch in two.  HEFTS Leo INTO THE AIR and HURLS him.  Leo flies backwards.  Hits the ground. Stunned.
+Attar turns his attention to the other humans.  He signals a LINE OF GORILLAS behind him.  High-pitched HORNS ring out.
+EXT. FOREST - CONTINUOUS
+ATTAR takes out a BOLA with heavy stones affixed to make it spin quickly.  Whips it over his head -- unleashes it.
+The Bola cuts the air with a frightening shriek.  It catches a HUMAN MALE and wraps tightly around his legs.
+TWO GORILLAS race forward and tie the captured human arms-over-head to long poles.
+new angle
+MORE GORILLAS charge in from the other side with lightning speed.  Dragging a long NET affixed with hundred of small BELLS; the Apes shake it rhythmically -- scaring the humans, driving them on.
+NEW ANGLE
+Other soldiers dash across the tree branches with incredible speed and balance as if walking on air. They leap down on the terrified humans.
+on leo
+He staggers to his feet -- starts to run.  Looks over his shoulder.  As the NET closes in on Leo he's able to fall into a small ditch and roll UNDER it.
+EXT. FOREST - follow leo
+He runs the other way.  Cutting in front of him is a stocky Human (GUNNAR) trying to flee with a LITTLE HUMAN GIRL (5) in his arms.
+RACK FOCUS -- BEHIND GUNNAR -- TWO GORILLAS chase him down.  One GORILLA plucks the child from his arms.  The OTHER GORILLA knocks him forward.  APES swarm over him.
+KARUBI and DAENA lead the humans through a stand of small saplings.  The APES sweep across ripping the trees out of the ground by their roots.
+CLOSER ON KARUBI -- breathing hard, afraid, listening closely.
+But ATTAR attacks like a force of nature, graceful with his power, unrestrained with his speed.  The humans in his way are overwhelmed.  Only Karubi and Daena are left at large from this group.
+NEW ANGLE: a slight BOY (BIRN, 15) eludes several APES.  Feral and wild, he is very agile.  But he doesn't see an APE HANGING ONTO A TREE A LIMB.  THE APE SNAGS BIRN WITH HIS FEET.  Wrenches him into the air.
+KARUBI circles back to try and rescue the Boy.  Two more APES drop down -- slam him to his knees.  Daena is bowled over.  Karubi covers her with his body as a NET envelops them.
+EXT. FOREST - leo
+kneels behind a tree stump to catch his breath. Several APES drag human BODIES away. Leo tries to take this all in.
+AN APE ON HORSEBACK crashes through the brush dragging two HUMANS behind.  Leo waits til the Ape rides by --- then launches himself at the APE RIDER.  Grabbing onto the reins, swinging himself up and KNOCKING THE APE off his mount.
+Leo flips onto the horse. Tries to ride through the attack.
+EXT. FOREST/LAVA TREE LINE - widen to new pov
+Leo is suddenly PLUCKED OFF THE HORSE by an APE dangling from a tree. He's dropped hard to the ground.
+pov
+Leo looks up as ATTAR stands over him. Growls fiercely.
+CHAPTER 7: A WORLD UPSIDE-DOWN
+EXT. LAVA - ON THE EDGE OF THE FOREST - ROUND-UP CARTS
+The CLEARING beyond the forest.  Out of a HAZE OF DUST we see A DOZEN ORNATE CARTS WITH CAGES being loaded with HUMANS.  The CARTS are painted brightly with strange markings and symbols.
+ATTAR is directing the loading of the carts.  The humans are literally THROWN inside.
+We see DAENA tossed inside one cart.  Then GUNNAR, BIRN.  And finally, KARUBI, who's been beaten severely.
+find leo
+in a group of a dozen other HUMANS.  An APE binds Leo's hand tightly.  Suddenly all the HUMANS BOW THEIR HEADS, cower, turn their eyes to the ground.
+LEO'S POV: the SUN enshrouds a DARK SILHOUETTE MOVING TOWARDS THE CAPTIVES.
+ATTAR comes to attention -- with obvious pride at the success of the hunt.
+REVEAL AN APE IN A GLITTERING GOLD UNIFORM RIDING A MASSIVE BLACK CHARGER.  This is THADE, GENERAL OF THE APE ARMY.
+Leo reads the reactions: a sense of glory from the Apes; intense fear from the Humans.
+PUNCH CLOSE ON THADE AS HE WHEELS HIS HORSE AROUND AND MAKES EYE CONTACT WITH LEO.  Leo is the only human staring right at THADE.
+Thade's reaction is lightning quick: in a blur he's off his horse and in front of Leo. Grabs Leo by the hair. In a fury.
+
+thade
+This one looked at me.
+CLOSE ON LEO: his bewilderment takes a new twist.  The APE SPOKE ENGLISH.
+atTAR
+He won't do it again.
+Leo reacts, grabs Attar by the wrist.
+leo
+(amazed)
+You talk ... 
+attAR
+Take your stinking hand off me you damn, dirty human.
+
+Attar swats Leo away -- Leo is knocked unconscious.
+DISSOLVE TO:
+EXT. LAVA - ROAD TO CITY OF APES - CLOSE ON LEO
+
+as he blinks awake.  The CARTS ARE ROLLING on a road that winds into a HILL TOP CITY in the distance.
+crane up
+as ATTAR rides in front of the CARAVAN -- leading it into the CITY OF THE APES.  The CARTS are pulled by YOUNG HUMAN MALES, each fixed with BLINDERS.
+leo's pov:  ext. city of the apes - day
+A collage of old and new.  Great stone buildings draped with bright tapestries, narrow streets and wide public spaces, busy with commerce and filled with APES.
+SEVERAL OLD APES at a stone table argue over a game of chance.  Several smoke from a hookah like object.
+A GROUP OF FEMALE APES haggle with a FRUIT VENDOR.
+ONE YOUNG APE plays a long flute like instrument for his friends. (This could be subtly evocative of the melody we heard on the Oberon.)  A FEMALE APE passes by a drops a coin in his hat.
+A CHIMP carves caricature-like HUMAN DOLLS out of wood.
+ANOTHER APE JUGGLES USING HANDS -- AND FEET.
+And in the most menial tasks we can see HUMANS -- carrying goods, pulling vehicles, chained.  In all senses -- animals.
+pan across
+Most of the civilian APES ignore the CARTS.
+Except for a group of YOUNG GORILLA KIDS who are playing a soccer like game (in this game, however, they use their prehensile feet to manipulate the ball).  Several YOUNG APES rush up and throw a volley of stones at LEO'S CART.
+INTO FRAME -- a FEMALE CHIMP (ARI) rushes to stop them.
+ari
+Stop it. You're being cruel. ... Open your hands.
+When the kids hesitate, she slaps their hands.  The stones fall.  Leo reacts --
+arI (CONT'D)
+Who told you you could throw stones at humans?
+one gorilla kid
+My father.
+ari
+Then you're both wrong.  And you can tell him I said so. 
+They run off.  One GORILLA KID turns and sticks out his tongue.
+one gorilla kid
+Human lover.
+
+Ari scowls at him -- they scurry away.
+NEW ANGLE as ARI's friend, another FEMALE CHIMP (LEETA) comes up.
+leeta
+Do you always have to be so intense? I thought we're going shopping.
+But Ari is staring as the carts pass her by.  The humans wretched behind bars.  CLOSER ON ARI -- her eyes well with tears.  LEO makes EYE CONTACT with Ari for one second.
+Ari hurries after the carts.
+leeTA (CONT'D)
+Ari.  ... You're going to get in trouble again.
+
+EXT. CITY OF THE APES - CONTINUOUS - stay ON THE CARTS
+The other Humans all keep their heads down.  Silent.  Leo looks at ONE HUMAN MALE,  clearly dead.  No one reacts to the body.
+Leo catches the young boy, BIRN, staring boldly at him.  Through the layers of dirt Leo can sense his intelligence.
+widen
+The CARTS suddenly veer to the side of the road.  A PROCESSION OF APES in what looks like MONK'S ROBES, faces wrapped in scarves, shuffle by in single file chanting.
+ATTAR moves towards the Monks.  They stop and give Attar their blessing.  He bows his head, closes his eyes.  We can sense his deep spirituality.
+Leo crawls over to one HUMAN MALE face in his hand.
+leo
+(whispers)
+Where am I? 
+He moves away from Leo.  Leo tries a frightened HUMAN FEMALE.
+leo (CONT'D)
+... What is this place?
+CLOSER: the FEMALE looks quickly at Leo, eyes impossibly wide, too scared to speak. Then turns her face away.
+INTO FRAME: KARUBI, pulls leo back. Whispers urgently.
+karubi
+Head down.  Mouth shut.  You'll get us all killed. 
+Karubi looks around to make sure no Ape has heard them.  Daena glances at Leo.  Leo decides he'd better bide his time.  He kneels down with the others.
+ATTAR shouts and the CARTS move on.
+WIDEN: AS THE CARTS TURN UNDER A GREAT STONE ARCH.
+CLOSE ON A HOODED FIGURE
+happily slapping a small sap in his palm as he waits in the center of a walled QUADRANGLE.  LIMBO (ORANGUTAN) throws back his hood as --
+CHAPTER 8: THE SLAVE TRADER
+ext. ape city - limbo's quadrangle
+The Human CARTS come to a stop.  Limbo strides forward.  Looks over the humans.  Turns to an APE SOLDIER.
+limbo
+Are you trying to put me out of business? These are the skankiest, scabbiest, scuzziest humans I've ever seen.
+ape soldier
+You don't want them?
+liMBO
+I'll take the whole lot. I'll have to make it up on volume.
+Limbo pays the SOLDIER; turns to his HANDLERS.
+limbo (CONT'D)
+Get 'em out, get 'em cleaned!
+LEO peeks up as the CARTS are overwhelmed by large GORILLA HANDLERS wearing GERM PREVENTION MASKS.  It happens quickly: Cages thrown open.  Humans dragged out.  Men and women separated.  Cries and shouts.  The humans keep heads down.
+Karubi has to be pulled away from Daena.
+kARUBI
+(quickly)
+Don't be afraid.
+daena
+I'll find you ...
+Limbo appears IN FRAME suddenly.
+LIMBO
+Very touching.  Really.  I can't see for the tears in my eyes.
+He drags Daena by the hair into FEMALE PEN.  Karubi struggles to reach his daughter.  One HANDLER almost breaks his arm hurling him into the cage.  Karubi shouts, collapses in pain.
+Children are pulled from their Mothers.  Put in separate pens.
+LEO is thrown in the MALE PEN with Gunnar.  Amazed at what's happening around him.  Birn bites the hand of one HANDLER. LIMBO appears -- grabs Birn, shakes him hard, and tosses him in.  Leo helps the boy to his feet.
+limbo (CONT'D)
+How many times do I have to tell you? Wear your gloves when you handle humans. 
+thade (os)
+Are you softening, Limbo?
+LIMBO spins to see THADE -- mounted, followed by ATTAR.  Limbo turns from tyrant to toady in a second.
+tHADE (CONT'D)
+You used to hack off a limb.
+liMBO
+Yes, General... but unfortunately he's worth more intact. 
+Attar goes to the cage and spots Leo.
+attAR
+Don't turn your back on this one.  He's feisty.
+Karubi watches Leo closely.  Limbo talks quickly trying to suck up to Thade.
+limbo
+These the ones raiding the orchards, sir?  I know an old country remedy that never fails.  Gut one and string the carcass up ... 
+THADE
+The human rights faction is already nipping at my heels. 
+limbO
+Do-gooders.  Who needs them?  I'm all for free speech... as long as they keep their mouths shut.
+
+Thade stops by a PEN with the HUMAN CHILDREN.  WIDE-EYED, terrified.  Thade looks them over.
+thADE
+I promised my niece a pet for her birthday.
+limBO
+Excellent.  The little ones make wonderful pets... but make sure you get rid of it by puberty.  If there's one thing you don't want in your house it's a human teenager.
+ON LEO: he watches A YOUNG APE and HER APE MOTHER walk over to the pen.  Limbo quickly points out a few little Girls.
+limbO (CONT'D)
+Anyone you want, sweetheart.
+Like a kid in a pet store, the LITTLE APE looks over the children.  Points at the 5 YEAR OLD GIRL we saw earlier.
+liMBO (CONT'D)
+Excellent choice.
+ATTAR grabs the petrified LITTLE HUMAN GIRL and pets her head like a puppy -- sets her in the LITTLE APE's arms.  Her Ape mother puts a leash on the Human Girl's neck as they leave.
+IN THE FEMALE PEN -- the Little Girl's Human MOTHER stares at the ground blankly.  Her eyes dead.
+Daena watches them take the Little Girl.  We feel her rage.
+Thade turns his horse to the gate.  Limbo can't resist one last fawning word.
+liMBO (CONT'D)
+They say if you piss along the fence line it keeps them away from the crops.
+thADE
+(stops him with a growl)
+Close enough.  You stink of humans. 
+He gallops off.  LIMBO frowns, lifts his arm and sniffs.
+EXT. LIMBO'S QUADRANGLE - another angle
+As Thade and Attar ride off we see ARI hiding behind the gate.  Leeta is very nervous.
+leeTA
+No way I'm going in there.  It's disgusting.
+Ari isn't paying attention to her.  She moves closer to the entrance.
+Ari
+What's disgusting is the way we treat humans.  It demeans us as well as them.
+Leeta grabs her hand.
+leETA
+Ari... we should go home.
+
+ari
+(snaps)
+Then go home.
+
+CHAPTER 9: A NEW OWNER
+return to ext. limbo's quadrangle
+Leo moves round the PEN watching -- not sure what's next.
+limBO
+Get 'em marked.  I've got orders to fill.
+TWO HANDLERS heft BRANDING IRONS from a large STONE FIRE PIT.
+LEO'S POV: they use poles with wire loops at the end to grab DAENA by the neck.  Drag her to a WOODEN POST.  Then the Apes uncover her shoulders.
+Karubi is enraged -- shakes his cage.
+kaRUBI
+No.
+
+Limbo makes a funny face -- pretends he's scared.  Teasing Karubi.  The other Apes all laugh.
+CLOSE ON DAENA: as the BRAND is pressed deep into her flesh.  (THE BRAND IS FAINTLY EVOCATIVE OF THE ICON FROM THE OBERON.) But Daena does not scream.  Her eyes burn with defiance. She's thrown back.
+TWO APES come for LEO.  He digs his heels in but they easily drag him to the post.  One HANDLER quickly jabs the white hot IRON.  Leo twists himself and KICKS IT OUT OF THE APE'S HAND. Limbo is furious.
+limbo
+Do I have to do everything myself? 
+He reaches out to pick up the BRANDING IRON.
+EXT. LIMBO'S QUADRANGLE - CONTINUOUS - widen
+ARI comes exploding INTO THE QUADRANGLE. She moves so quickly Limbo can't react at first. Opens a cage, knocks over a table, and finally grabs the BRANDING IRON and hurls it aside.
+limbo
+Oh, no, by Semos, not you again.
+ari
+I can not stand idly by while humans are being mistreated, tortured...
+Leo watches Ari.  Karubi and the others rush to the bars.
+Ari dashes past Limbo to the FEMALE PENS.  TURNS THE LOCKS AND THROWS OPEN THE GATES. Before the women can escape an APE HANDLER appears -- the women retreat back in the cage.
+LIMBO grabs Ari. She twists away.
+limbo
+The only reason I put up with your nonsense is because of your father. 
+ari
+If you want me to stop, give up your bloody business.
+ON LEO: watching Ari carefully.
+limBO
+Hey, I do the job nobody else wants. I don't see any of you bleeding hearts spending all day with these dangerous, dirty, dumb beasts ...
+ARI
+They're not dumb. They can be taught to live with us ... and I'm going to prove it.
+LEO reaches out for a CHAIN snaked in the dirt -- suddenly whips it around the foot of his HANDLER. Yanks him off balance. His SPEAR flies from his hand. Leo grabs it. Points it right at Ari's neck.
+limbo
+There's your 'proof'. Now I'll have to put him down.
+Karubi and Daena watch intently.
+widen
+Leo wraps an arm, around Ari; tries to maneuver her to the gate. The HANDLERS surround them. Offering a low growl. Leo looks over at the gate. He knows he won't make it.
+CLOSER: LEO LOCKS EYES WITH ARI. Ari is thrown by the intimacy of this act. No human has ever dared look her in the eyes this way. LEO LEANS INSIDE THE 'SPACE' BETWEEN HUMANS AND APES. HE SPEAKS INTENSELY.
+leo
+Please ... help me.
+Ari is startled, frozen.
+ANGLE
+DAENA realizes the HANDLERS have been distracted by Leo.  The DOOR TO THE FEMALE PEN is still open.  She suddenly breaks out and runs for the gate.  Limbo knocks her down hard.  Turns furiously to Ari.
+limbo
+Look what you've started.  Now I'm getting a headache. 
+Leo starts to back up, pressing the spear to her neck.
+leo
+Get back.
+Limbo raises his hands, as if he's scared.
+limBO
+Oh, please, please don't hurt her.
+Leo keeps his eyes on Limbo's hands -- and doesn't see LIMBO USE HIS FOOT to reach up and grab the spear.  In one second he wallops Leo.  Stands over him.
+limBO (CONT'D)
+Who needs this aggravation.  Hold him.
+Limbo hefts the spear. Ari makes her choice --
+arI
+Sell him to me. 
+limBO
+Are you crazy?  He's wild... 
+(re: Daena)
+... they're both wild.  
+arI
+Then I'll buy them both.
+Limbo freezes -- a look comes over his face.  Nothing gets his attention like money.  Leo and Daena exchange a look.
+liMBO
+That would be expensive ... very expensive.  
+ari
+I'm sure we could come to a deal.
+Limbo scratches his head. He can't resist.
+arI (CONT'D)
+Deliver them to my house.
+liMBO
+I'll have to mark him first.
+In one quick thrust Limbo BRANDS Leo.
+CHAPTER 10: THE DINNER PARTY
+WIDE SHOT: EXT. CITY OF THE APES - NIGHT
+The evening darkens as the MOONS rise above the city.
+ext. ari's house - night
+High-walled gardens strung with red lanterns.  Tapestries billow in the night breeze.  We HEAR LOUD VOICES.
+ari'S VOICE
+Father, please, I'll pay with my own money.
+int. ARI'S kitchen - night
+Ari chases her Father (SANDAR, chimpanzee, hair streaked with gray) into the kitchen.
+sanDAR
+Your 'own money' is going to make a pauper of me. ... Where are they?
+KRULL (a large, elder silverbacked Gorilla) points. On the other side of the room Leo and Daena kneel on the floor with TWO OTHER HUMANS (TIVAL and BON).  Sandar groans when he sees them.
+Tival and Bon rise immediately.  These 'house humans' are well-groomed, wear nice robes.
+krULL
+(to Leo and Daena)
+Rise when your master enters.
+Daena scowls -- doesn't move.  Krull yanks her up. Leo stands and faces the old chimp.
+saNDAR
+Semos, help me, wild humans in my house. 
+ari
+(re: Leo)
+This one seems different. 
+saNDAR
+(dismissive)
+How different could he be? You can't tell one from the other.
+Leo looks up at Ari, meets her eyes again. Looking right at her. She is flustered, turns away.
+O.S. They HEAR the sound of VOICES.  Sandar is flustered.
+saNDAR (CONT'D)
+My guests are here.  Keep the savage ones out of sight  ... especially from General Thade.
+Ari reacts --
+arI
+Father ...
+
+saNDAR
+And you'd better be nice to him.
+Sandar runs out.  Ari looks at Leo -- runs after her father.
+ext. ARI'S DINING PATIO - NIGHT
+A long table and garlands of fruit and flowers.  A party of APES engage in small talk.
+at the front door
+Sandar exchanges ape touches with SENATOR NADO (an elderly orangutan) AND HIS WIFE NOVA (a young CHIMP).
+sanDAR
+Good evening Senator Nado, you look lovely tonight.
+nOVA
+I'm having a bad hair day.
+She sighs and strokes the fur on her face.
+naDO
+(rolls his eyes)
+Yet she spends a fortune grooming herself. 
+nova
+And I'm worth every penny.
+She strokes her old husband quickly and runs ahead of him inside.
+FIND ARI WITH LEETA: in elegant embroidered robes.
+leeTA
+Thade is powerful and aggressive ... what else could you want in a male?
+arI
+Someone I can respect ... and who respects me.
+leETA
+Don't play so hard to get. Say 'yes' to him and you'll be invited to every exclusive party in the city.
+ari
+How many silly parties can you go to?
+leETA
+How many are there?
+Krull appears ringing a small bell.  Sandar sweeps through.
+sandAR
+Please, everyone, sit.
+int. ARI'S kitchen - same time
+At the sound of the bell Tival and Bon carry wooden trays of food upstairs.
+As soon as they leave Leo jumps up, tests a WINDOW with wooden shutters.  Won't budge. Leo turns to Daena.
+leo
+How the hell did these monkeys get this way?
+Daena just stares --
+daena
+What other way would they be?
+leo
+They'd be begging me for a treat.
+daENA
+(confused, looks at him)
+What tribe do you come from?
+leo
+It's called the United States Air Force.  And I'm going back to it.
+Krull suddenly appears.
+krULL
+Finish your work... no talking.
+Krull grabs another tray of food and leaves.  Leo waits, then picks up a tray -- peeks up the stairs.
+EXT. ARI'S DINING PATIO
+The APES are seated at a long table.  Sandar at the head. Ari across from Leeta.  The CHAIR next to Ari is STILL OPEN.
+nado
+We just returned from our country house in the rain forest.
+Krull offers food to each guest.
+sANDAR
+And how was it?
+noVA
+Bor-ing.
+
+naDO
+I find it relaxing ... being away from the frantic pace of the city. 
+noVA
+I wanted to go out. But there was no place to go ... nothing but trees and rocks. All you did was nap.
+NADO
+Exactly. A bit of time away from politics is what is needed for a weary soul like me. 
+ON LEETA AND ARI
+whispering.
+ari
+Look at the old fool ... he left his wife and children for her ... a chimp half his age. Now he can't keep up.
+leETA
+But he's worth a fortune.
+back to nado
+He reaches for Sandar. Gives him a gentle touch.
+nadO
+We used to lose ourselves for days in the forest when we were young. Now I can barely climb a tree.
+saNDAR
+It's trite but true.  Youth is wasted on the young. Now that I have so much to do ... I'm exhausted. ... Still, some nights I dream of hurtling through the branches...
+(sighs)
+How did I get so old so fast?
+thade (o.s.)
+Living with your daughter would age any ape quickly.
+They all turn as THADE ENTERS THE PARTY WITH ATTAR.
+ari
+Quick. Switch seats.
+leeTA
+No, he's here to see you.
+THADE WAITS FOR KRULL TO PULL OUT THE CHAIR. KRULL DOESN'T MOVE. ATTAR HURRIES TO HOLD THE CHAIR FOR THADE. WE CAN SENSE ENORMOUS HOSTILITY BETWEEN THADE AND KRULL.
+Thade sits next to Ari. Sandar shoots Ari a look which says 'Please don't be rude.'
+sANDAR
+You are too long a stranger in our house. 
+thADE
+My apologies, Senator.  I stopped to see my father.
+sandar
+How is my old friend doing?
+THADE
+I'm afraid he's slipping.  I wish I could spend more time with him... but   these are troubled times. Humans infest the provinces... 
+ari
+Because our cities encroach on their habitat.
+THADE
+They breed quickly while we grow soft with our affluence.  Even now they outnumber us ten to one.
+nOVA
+Why can't the government simply sterilize them all?
+NADO
+The cost would be prohibitive. ... Although our scientists do tell me the humans carry terrible diseases.
+ari
+How would we know?  The army burns the bodies before they can be examined. ...
+Ari turns to Sandar for support.
+ari (CONT'D)
+Father.
+
+saNDAR
+At times, perhaps, the senate feels the army has been a tad... extreme ...
+thADE
+Extremism in defense of Apes is no vice.
+Senator Nado is about to bite into a piece of fruit.  ATTAR growls -- they all freeze.  Attar closes his eyes and prays.
+atTAR
+We give thanks to you, Semos, for the fruit of the land. Bless us, Holy Father, who created all Apes in his image. Hasten the Day when you will return ... and bring peace to your children. Amen.
+All the guests quickly say 'Amen.' Attar looks over at Krull, uncomfortable under the glare of the old silverback.
+int. aT the top of the stairs
+Leo is looking for a way out when an APE SOLDIER sees him and pushes him into the --
+EXT. ARI'S DINING PATIO
+Thade notices LEO ENTER THE ROOM.  Leo has no choice but to pretend to serve.  He tries hide his face from Thade. Thade sees LEO serving from the tray.
+thADE
+What is this beast doing in your house?
+Ari exchanges a look with her father.
+ari
+He'll be trained as a domestic.
+thade
+Your ideas threaten our prosperity. The human problem will not be solved by throwing money at it.  The government tried once and all we got was a welfare state that nearly bankrupted us. 
+Attar
+And changed the face of the city.
+leeTA
+I think the city has about as much diversity as I can handle.
+Ari glares at Leeta.  She holds up her EMBROIDERED SCARF.
+ari
+This garment was made by one of my humans.
+Ari smiles at BON, who averts her eyes nervously.
+arI (CONT'D)
+Can you deny the skill?  Isn't it obvious they are capable of a real culture?
+thADE
+Everything in 'human culture' takes place below the waist.
+The guests all laugh.
+nado
+Next you'll be telling us that these beasts have a soul.
+arI
+Of course, they do.
+Attar
+The senator's daughter flirts with blasphemy.
+Thade and Attar exchange a look.  Thade grabs Leo powerfully. Knocking the tray and its food to the floor.
+THADE
+Tell me.  Is there a soul inside you? 
+CLOSE ON LEO -- on the floor.  He sweeps up the food.  EVEN CLOSER: ON A SMALL PRONG the apes use as a fork.  Leo slips it into his shirt.  Thade pushes Leo away. Holds his HANDS UP with disgust.
+tHADE (CONT'D)
+Quick, a towel.  ... 
+The guests all laugh at Leo. Ari's had enough. She stands.
+ari
+You're all cruel and petty ... and I've lost my appetite.
+A quiet embarrassment in the room as Ari storms away from the table.
+Sandar seems embarrassed -- he gestures to Thade: 'Go after her.'
+CHAPTER 12: THE THING FROM THE SKY
+ext. forest - bog - night
+The woods are moon bright.  THADE rides behind the TWO APE SOLDIERS.  Just skirting the BOG.
+first ape soldier
+Here!  This is where I saw it.
+      
+Thade dismounts.
+thade
+Go on.
+      
+second ape soldier
+Something fell from the sky.
+      
+first ape soldier
+With wings of fire.
+      
+seCOND APE SOLDIER
+There was a terrible thunder and the ground itself shook!  I thought we'd all be killed.
+      
+The apes look at each other nervously.
+thADE
+Are you sure you didn't dream this?
+      
+fIRST APE SOLDIER
+It was no dream, sir. Look!
+      
+ON THADE: as they come upon the CHARRED AND BROKEN TREES LIKE SKELETONS IN THE MOONLIGHT.
+thADE
+Who else did you tell?
+      
+fiRST APE SOLDIER
+No one, sir.  We knew we had to come right to you.
+      
+CLOSE ON THADE: as he sets his hands on their shoulders.
+tHADE
+You did exactly the right thing.
+CHAPTER 13: ESCAPE
+close on a bowl of flowers
+bright, fragrant blossoms.  A FURRY HAND COMES INTO FRAME and CRUSHES THEM with a stone pestle.
+widen and reveal: int. limbo's house - night
+Limbo stands in front of a large mirror.  Looks himself over. Sniffs.  Sighs.  Then starts to rub the crushed flowers across his armpits and chest.
+ext. limbo's quadrangle - human pens - night
+Karubi rests with Gunnar.  The young feral boy, Birn, looks out through the slats.  POV -- he's focused on a tiny slice of the night sky.  As if it were a lifeline.
+Birn suddenly jumps up. He HEARS SOMETHING moving
+      above him.
+punch close on birn
+His eyes alive, senses alert.  Now Karubi hears it.  Gestures for them to be quiet.
+ext. human pens - same time
+TWO of Limbo's GORILLAS walk past the pens.  ONE GORILLA stops, looks up at the roof line, sniffs, cocks his head.
+first gorilla
+You smell that? 
+      
+second gorilla
+Don't start now.  We're off duty.  And I'm starvin'.
+      
+They leave.  PAN UP TO THE ROOF LINE.  A SHADOW MOVES.
+int. human pens - through the slats
+A sound -- then a SHADOW ripples past.  Karubi recoils against the back wall.  Looks for something to use as a weapon. Tears away a wooden plank.  Prepares for an attack.
+into frame
+DAENA appears.  Reaches out her hand.  Karubi takes it.  Kisses it.  The gate suddenly rattles.  CLOSER -- a rope snakes through.  Karubi hurries over and pushes the other end back outside.
+ON LEO - OUTSIDE THE PEN
+Leo uses a stake to twist a strand of rope tighter until the slat snaps.
+They all freeze at the SOUND.  Listen.  No one has heard it.
+Daena and Tival pull back the gate. Birn is out
+      first. Then Gunnar. Karubi comes out slowly Daena sees his injured
+      arm.
+daeNA
+You're hurt.
+      
+Karubi folds her into a warm embrace.
+kaRUBI
+How did you get away?
+      
+ Daena turns to Leo.  Karubi gives Leo a long look over.
+kaRUBI (CONT'D)
+Who are you?
+      
+leo
+Just somebody trying to get the hell out of here.
+      
+Gunnar pokes at Tival.
+guNNAR
+This is one of their house humans.  He thinks he's better than us. ...
+      
+(steps closer to taunt him)
+ He thinks he's part ape.
+      
+leo
+(to Daena)
+You promised to show me the way back.
+      
+Daena looks to Karubi.
+kaRUBI
+We'll go together.
+      
+ext. limbo's quadrangle - on the roof - night
+Leo steps onto the rooftop.  Followed by Karubi, Daena and the others.  They move quickly.  Silhouettes against the moon bright sky.  They know what will happen if they're caught.
+EXT. ROOFTOPS - angle - on the roof
+FOUR TEENAGE APES pass around a JUG, all a little tipsy.
+one teenage ape
+Shhh, I hear something.
+      
+second teenage ape
+I think it's my mom.  Hide it!
+      
+ONE TEENAGER runs to stash the jug.  Comes face to face with LEO.  He lunges for Leo but falls, too dizzy from the drink.
+Leo kicks OPEN the ATTIC DOOR. The others race
+      after him. The TEENAGE APES ROAR loud enough for the alarm to
+      carry.
+INT. BUILDING - WIDEN AS THEY RUSH INTO THE BUILDING.
+They fly down stairs.  Leo veers off THROUGH ANOTHER DOOR.
+MOVING QUICKLY THEY PASS THROUGH: int. bedroom (continuous)
+NADO is in bed. NOVA comes out of the bathroom in a sexy short robe. Slinks into bed.
+noVA
+Honey? I'm feeling frisky ...
+      
+SNORE ... Nado is fast asleep. She growls and
+      snuggles up to him just as LEO and the OTHERS explode into the room. NOVA
+      lets out a howl. She jumps to the ceiling. A moment later NADO does the
+      same. Leo veers for ANOTHER DOOR --
+
+      
+INT. APE APARTMENT (CONTINUOUS)
+An OLD APE removes his WIG revealing a bald head -- setting the wig on an APE BUST. Then he takes out FALSE TEETH, sighs, puts them in a glass as -- LEO EXPLODES THROUGH THE DOOR. Leo overturns the bust, but never stops moving.  Out the window, over a balcony.  Through ANOTHER WINDOW --
+INT. BEDROOM (CONTINUOUS)
+THADE'S NIECE (the LITTLE APE we saw earlier) is putting her 'pet' to bed in a small CAGE.  Her eyes filled with tears.
+Leo and Karubi burst into the bedroom.  Daena sees the LITTLE GIRL -- runs across the room and grabs her.
+PUSH IN ECU AS THE LITTLE APE OPENS HER MOUTH REVEALING TINY CANINES AND STARTS TO HOWL.
+INT. LIMBO'S HOUSE - SAME TIME
+Limbo picks off pieces of flower petals stuck all over his fur.  He HEARS the ROARS outside. Reacts.
+ext. streets - night
+Attar leads his soldiers through the city.  Wait til they pass, then —
+CHAPTER 14: AN APE ALLY
+TILT UP TO ROOF
+Leo hangs from an eave -- then drops down into the street. Daena hands him the Little Girl.  She drops next.  Then Gunnar, Birn, Tival.  Karubi can only use one arm -- he FALLS from the eave.  Hits HARD.  Daena runs to him.
+kaRUBI
+Leave me... 
+      
+daeNA
+No...
+      
+KARUBI
+I'm tired... and just too old.  And old men get scared.
+      
+leo
+You might be old and tired ... but you're done being scared.
+      
+Leo helps Karubi to his feet.  Daena supports him.
+gunnar
+Apes.
+        
+
+      
+EXT. STREETS - CONTINUOUS
+STEPPING OUT OF THE SHADOWS: TWO APES
+Leo pulls his knife. Prepares for the
+      attack.
+It's ARI. in a flash krull disarms leo. Ari is upset.
+
+      
+ari
+You're lucky I found you before they did.  Come back with me to the house.  I can reason with them.
+      
+karubi
+I know how apes 'reason.'
+      
+BON, Ari's servant, stands meekly behind her. She looks quickly at Tival then bows her head.
+leo
+Is there another way out of the city?
+      
+Ari reacts.  Leo can see it in her eyes right away -- she knows something. Krull tries to stop her.
+krull
+Do not get involved with these humans. 
+      
+Leo steps closer to Ari -- it unnerves her.  He speaks quickly, forcefully.
+leO
+Why did you save me? Why'd you take the chance?
+      
+Ari is flustered, then --
+ari
+I ... don't know. You are very unusual.
+      
+leo
+Like you can't even imagine. Come with me... and I'll show you something that'll turn your whole world upside down. 
+      
+dAENA
+(sharply to Leo)
+So this ape will understand you but I can't?
+      
+CLOSE ON ARI -- her mind racing. They can HEAR the howls of ape patrols echo across the city. Finally, Ari makes her decision.
+ari
+When I was little I found a way to sneak outside the city walls. Where no one could find me. I can lead you there.
+      
+krULL
+If you are caught even your father won't be able to protect you.
+      
+ari
+You know what the soldiers will do to them.  
+      
+krULL
+Your Father did not order it.
+      
+ari
+He didn't forbid it, either. 
+      
+The old Gorilla cannot refuse her. He looks them over.
+krULL
+This human child cannot survive the journey.
+      
+ARI
+My servant woman will hide her in my house.
+      
+Gunnar glares at Bon as she steps forward. Ari reaches for the LITTLE HUMAN GIRL.  Daena steps back.
+
+      
+Daena can't bring herself to let go. Karubi surprises them all by taking the Little Girl from Daena. Karubi hands her to Ari.Bon moves off quickly, disappearing into the shadows.
+Ari looks at Leo, then runs off. The others follow
+      quickly.
+OMIT
+OMIT
+OMIT
+OMIT
+Omit
+EXT. STREET - SAME TIME
+Ari runs through the shadows with Leo leading the others. Down the long, narrow street. STAY ON KARUBI -- in great pain. Watching carefully. The city seems alive. He knows the what the sounds signify: the apes are hunting them again.
+widen
+They turn a corner.
+KARUBI'S POV: AT THE FAR END OF THE STREET
+Several DARK SHAPES appear. Krull quickly pulls Ari into the shadows.
+PUNCH IN CLOSE - ATTAR
+Too late. He sees Ari with the humans. Attar lets out a terrible roar.
+krULL
+They've seen us.
+      
+CLOSE ON KARUBI: He touches Daena gently.
+kaRUBI
+Hurry. 
+      
+When she realizes what he's doing --
+daeNA
+No, father ...
+      
+kaRUBI
+Don't worry. I'll be right beside you. Just like always.
+      
+Karubi dashes out of the shadows.
+dAENA
+Father.
+        
+
+      
+ext. in the street - FOLLOWING KARUBI
+Karubi charges forward straight at Attar.
+ON ATTAR
+He flashes his canines at Karubi.
+closer - karubi
+running through his pain. He grabs a heavy wooden TOOL left by a doorway and wields it like a spear. With a warrior's cry Karubi attacks Attar.
+ATTAR merely puts out his arm to deflect the blow. With dazzling power he hurls Karubi to the ground.
+KARUBI lays stunned for a second. He pushes
+      himself to his knees. Looks UP to see Attar standing over him. Ape
+      Soldiers encircle him.
+Attar
+Why do you not tremble before me?
+      
+To Attar's dismay a smile play across Karubi's face as he recalls Leo's words.
+kaRUBI
+I'm done being scared.
+      
+CLOSE ON ATTAR -- surprised at the heroism of this human.  The nobility in Karubi's eyes freezes him.  He can't quite bring himself to kill him.
+NEW ANGLE -- The clatter of HOOFBEATS on stone.  THADE CHARGES INTO FRAME ON HIS HORSE.  Sword raised.
+TILT UP TO A SHADOW ON THE WALL -- as Thade's
+      sword pierces Karubi.(OR: THADE LEAPS FROM HIS HORSE TO KILL KARUBI WITH
+      HIS HANDS.)
+ext. moving through the shadows - same time
+Leo, Ari, Krull, Daena and the others HEAR the heart-rending last CRY of Karubi.  Daena tries to break away to go to him. But Krull stands in her way like a stone wall. Daena struggles ineffectively against his strength. Krull hands her to Leo.
+ext. street
+FOLLOW THADE charging back down the street with Attar and the soldiers.
+tHADE
+Where are the other humans?
+      
+atTAR
+This way ... they can't have gone far. 
+      
+at the end of the street
+The soldiers fan out. But there is no sign of the humans. Attar sniffs the air, looks around, surprised.
+attAR (CONT'D)
+They've disappeared.
+      
+thADE
+Ring the city. Block every gate. ... When you find them, kill them all. But keep the troublemaker alive.  I must talk to him before he dies.
+      
+Attar hesitates; this is very hard for him to say.
+Attar
+Sir... the Senator's daughter is with them.
+      
+Thade reacts --
+thADE
+They took her?
+      
+attAR
+She is helping them. I saw her myself.
+      
+Thade is thrown by the news -- but he recovers quickly and puts a 'spin' on Ari's involvement.
+thADE
+She had no choice. She was terrified. They threatened her life. I will report the matter to the senate myself.
+      
+(then)
+They'll beat their chests and ask for my help. 
+      
+atTAR
+They are weak without you, sir.
+      
+thaDE
+Has she taken the old silverback with her?
+      
+Attar is unhappy about the answer he must give.
+atTAR
+Yes, sir.
+      
+thADE
+I trust that will not be a problem for you. 
+      
+Thade stares intensely at Attar.
+atTAR
+No, sir, as of now he is a criminal.
+      
+But Attar is troubled.
+CHAPTER 15: NO TURNING BACK
+wide shot: ext. LAVA - night
+An old stone CISTERN and SPRING HOUSE.  The heavy wooden door shakes.  Can't be moved.
+SUDDENLY IT SHATTERS.  KRULL powers through -- his old body still prodigiously strong compared to humans.
+The humans stop to catch their breaths.
+Last, Ari steps out. She sees Daena, face streaked
+      with tears, staggered by her father's death.
+ari
+(gently)
+Your father was a brave man.
+      
+Daena focuses her rage on Ari.
+daENA
+You know nothing about my father.
+      
+Daena flies at Ari.  With stunning speed Ari flashes her canines and slaps Daena to the ground.
+In a moment humans separate from apes. Krull roars and shields Ari -- who's already regretting what she's done.
+Leo helps Daena to her feet.
+daENA (CONT'D)
+Let ... me ... go. 
+      
+She breaks free of Leo and runs off powerfully into the forest.
+Ari looks back at the city -- and the life she has
+      put in jeopardy.
+krULL
+Move quickly ... Thade will be after us. 
+      
+Krull turns to close up the TUNNEL DOOR by moving a massive ROCK in its place.
+Ari and Leo run off.
+stay with leo and ari
+leo
+He's no servant.
+      
+arI
+Krull was a general ... til he opposed Thade. Thade ruined his career. ... My father took him in. 
+      
+leo
+I'm glad he's on our side.
+      
+widen: ext. forest - night
+Impossibly lush.  MOVING ACROSS FRAME: DARK SHAPES IN A BLUR.
+REVEAL: DAENA leads the way -- running like a deer
+      through the thick foliage. LEO racing after her. Leo hears SOMETHING right
+      BEHIND him: BIRN continues to be his shadow. Birn smiles at Leo. Leo
+      doesn't want to deal with him.
+widen
+ARI streaks past them all easily. She looks back to make sure Leo can see her.
+Leo and the other humans stop to catch their breaths. Ari lopes back hardly winded.
+Tival immediately offers her fruit and water.
+      Daena and Gunnar watch.
+gunnar
+Look how they pamper her.  
+      
+Ari hears them, pushes the food away.
+ari
+I'm fine.
+      
+daENA
+Apes are always fine ... as long as you have humans to serve you.
+      
+Leo looks back to see if they're being followed.
+leo
+Keep moving.
+      
+They start off again. Krull stops Leo.
+krULL
+If this is some human trick, I will kill you.
+      
+ext. BACK TO THE STONE CISTERN
+at the end of the hidden tunnel.  A SHADOW MOVES.  WE CAN JUST MAKE OUT TWO YELLOW EYES.
+SOMEONE IS FOLLOWING THEM.
+
+      DISSOLVE THROUGH:EXT. FOREST - DAWN
+TWO SUNS take their place as the first violet streaks of dawn appear.
+EXT. BOG - DAWN
+The stippled pale light is reflected in deep still water.
+CLOSER -- IN the WATER
+LEO'S REFLECTION appears.  TILT UP AND FIND LEO -- racing along the bank.  He's wound up -- with the adrenaline of hope.
+INTO FRAME: The others try to keep up with LEO --
+      then they STOP, astonished at the sight.
+CHAPTER 16: BACK TO THE POD
+POV -- BURNT TREETOPS MARK A CHARRED TRAJECTORY FROM THE SKY INTO THE FOREST WHERE LEO CRASH LANDED.  It's unmistakable that something powerful went into the water.
+leO
+This is where I flew in ... 
+      
+ARI AND KRULL are not sure what to make of all this.  The others are confused and unsettled by this startling image.
+ari
+You caused this?
+        
+
+      
+leo
+My retro-burners ...
+      
+Birn's eyes are wide.  Leo's excitement infects him. Gunnar pushes forward to Daena.  He won't admit it -- he's spooked.
+guNNAR
+The soldiers will be hunting us. We can still make it to the mountains. 
+      
+Daena touches a scarred tree.
+daeNA
+I don't understand.  You fell from the sky?
+      
+leo
+With my ass on fire.
+      
+Krull gives Ari a very skeptical look.
+ari
+I'm sure he'll explain everything.
+      
+kruLL
+How can you explain what can't exist?
+      
+LEO
+I'll tell you what 'can't exist.'  You. Talking monkeys. This whole place.
+      
+Leo traces a streak of black soot leading deeper into the bog.  Krull STOPS Ari from following.
+leO (CONT'D)
+What's wrong?
+      
+ari
+Apes cannot swim.  We will drown in deep water.
+      
+Daena glares at Ari.
+daenA
+That's why we pray for rain every day. 
+      
+But Ari follows Leo anyway.  Leo spots an OIL SLICK.
+leo
+There's where I went in.
+        
+
+      
+Before they can react -- Leo DIVES INTO THE BOG AND DISAPPEARS BENEATH THE WATER.
+ON THE BANK: the others wait. No idea what to
+      think. Birn stands on the edge. The silence unsettles them. No sign of
+      Leo. Finally, Ari looks at Daena --
+ari
+How long can a human hold his breath beneath the water?
+      
+Birn looks at Deana -- Is Leo in trouble? Daena dives in.  Ari is taken back by her power and grace in the water.
+EXT. UNDERWATER - FOLLOW DAENA
+she swims powerfully.  Pulls apart a curtain of weeds.  REVEALING: THE POD.  Daena is amazed.  She runs her hand along the surface.
+PUSH EXTREME CLOSE: THE EMBLEM OF THE OBERON ON THE POD.  THE LETTERS 'USAF'. INTO FRAME -- LEO swims OUT of the pod carrying a METALLIC BOX. They turn to swim back.
+FILLING FRAME -- THE TWO BODIES OF THE SOLDIER APES THAT THADE HAS MURDERED.
+Daena reacts -- Leo
+      pulls her away.
+ext. bog
+Leo and Daena swim quickly back to shore. Looks at Krull.
+leo
+You guys don't go near water?
+      
+Leo sets the EMERGENCY BOX (with an OBERON LOGO) on the ground.
+LEO (CONT'D)
+How come there's two monkeys down there?
+      
+They all react --
+krULL
+Someone else knows about you. 
+      
+CLOSER: LEO URGENTLY UNPACKS THE BOX
+Removes a LAPTOP-SIZED DEVICE.  While Leo works to set it up BIRN rummages through the BOX.
+Out comes: COMPASS, FLARE, MRE'S (FIELD RATIONS), THERMAL BLANKET, CORD, MEDICAL KIT. Birn passes around the supplies; the others examine them, not sure what they're for.
+Gunnar tears open the FIELD RATIONS. The contents spill to the ground.
+Leo's box suddenly SQUAWKS to life. The humans
+      jump back.
+ari
+What is it?
+      
+leo
+It's called a 'Messenger'...it keeps an open frequency with my ship so I can talk to them. 
+      
+ari
+It can 'talk'?
+      
+leo
+With radio waves. 
+      
+(off their confused look)
+Invisible energy that floats all around us. 
+      
+krULL
+This is sorcery.
+      
+LEO
+Not sorcery, science. ... I just have to monkey with it a little.
+      
+Ari and Krull react.
+A LOUD PIERCING TONE startles them all. Ari and
+      Krull cover their ears. Leo is electrified.
+leo (CONT'D)
+Contact.
+      
+Birn creeps forward to peek at the machine. ON THE 'MESSENGER' SCREEN: a digital SWEEP shows Leo's POSITION and the POSITION of the responding beacon. Leo's face lights up brightly.
+leo (CONT'D)
+Jesus. They're already here.
+        
+
+      
+CLOSE ON ARI -- amazed.
+daENA
+You'd better warn them about the apes.
+      
+leo
+Better warn the apes about them.  We're in control now.  We're the 800-pound gorilla. 
+      
+ari
+It's time you told us the truth. ... Who are you?
+      
+CHAPTER 17: LIMBO INTERVENES
+PUSH IN CLOSE ON LEO AS HE TURNS TO THEM --
+leo
+I'm Captain Leo Davidson, of the United States Oberon.  I come from a galaxy called The Milky Way.  A planet in our star system called 'Earth'. 
+      
+birn
+Is it far?
+      
+leo
+Past any star you can see at night.
+      
+An impossible concept.  CLOSE ON ARI: her look reveals how much Leo has taken hold of her imagination.
+tival
+Your apes permit you to fly?
+      
+leo
+Our apes live in zoo's... They do what we tell them. ... 
+      
+Leo quickly closes up the Messenger.
+leo (CONT'D)
+I'd call this hostile territory. So I've got exactly 36 hours to rendezvous with them. ... And then my ass is out of this nightmare. 
+      
+gunNAR
+What happens to us?  Where do we go?
+      
+Omit
+OMIT
+EXT. BOG - CONTINUOUS - ANGLE - DROPPING OUT OF
+      THE TREES
+LIMBO slams down on Gunnar and holds him tight.
+limbo
+You're going nowhere.  This one still belongs to me.
+      
+Gunnar struggles but Limbo slaps him once -- and stuns him.  Limbo shackles his legs.
+ari
+This is an outrage ... stop.
+      
+limbo
+(growls at her)
+You I've had enough of.
+        
+
+      
+widen
+Birn breaks for the forest. He's pulled off the ground. TILT UP: TWO OF LIMBO'S HANDLERS explode from bushes.
+CLOSE ON LEO
+he quietly reaches into the EMERGENCY BOX.  Takes out a SIDEARM and setting his finger on the trigger makes a rapid adjustment to the handle.BIRN fights fiercely as Limbo tries to shackle
+      him.
+limbo (CONT'D)
+Hold still.  I'm not going to hurt you.  I wouldn't hurt my own property...
+      
+Birn punches him sharply in the face.  Limbo growls and backhands him hard.
+limBO (CONT'D)
+For you I'll make an exception.
+      
+He's about to hit Birn again -- PAN SLIGHTLY RIGHT -- as the TREE BRANCH next to Limbo suddenly EXPLODES.  Wood splinters.  The SOUND echoes through the forest.  It's never been heard before by any of them.  Birn stares wide-eyed at Leo.
+leo
+(re:gun)
+You saw what it did to the tree.  
+      
+Limbo's men are as loyal as he is honest; they disappear into the trees. Limbo freezes.  Gives a meek smile.  Quickly helps Birn to his feet.
+liMBO
+No harm done.
+      
+(to Birn)
+You're not hurt.  You're young... 
+      
+(smiles at Leo)
+... these kids bounce right back.
+      
+leo
+(as if commanding a dog)
+Play dead.
+      
+Limbo falls to his knees, puts his hands up.
+daENA
+Kill him!
+      
+Gunnar kicks Limbo.
+gunnar
+Slave trader.
+      
+But Ari steps in the way.
+arI
+If you kill him you'll only lower yourself to his level.
+      
+limbo
+Exactly. She's extremely smart. You
+        know I've heard her talking ... about apes and humans ...
+        
+
+      
+(fumbling)
+Separate but equal, to each his own ... something like that, right? Whatever it is, I agree with it completely. 
+      
+Limbo approaches Leo with his hands up (the way we saw him disarm Leo in the quadrangle.)
+limbo (CONT'D)
+Can't we all just get along? 
+      
+LEO FIRES AT THE GROUND JUST BEFORE LIMBO MAKES A MOVE TO GRAB THE GUN WITH HIS FOOT.
+leo
+Find a new trick.
+      
+(re: Gunnar's shackles)
+Take them off ...
+      
+Limbo frees Gunnar from the heavy shackles.
+limBO
+Well, I'm probably just in the way now.  So I'll get going ...
+      
+He tries to back away.
+daena
+He'll lead them to us.
+      
+leo
+Then we'll make him our guest.
+      
+Leo throws the shackles to Birn. Birn locks Limbo's wrists.
+limBO
+Ow! These things hurt.
+      
+INTO FRAME FROM ABOVE LEO -- KRULL flips down and grabs the gun from Leo. Jumps to the ground.
+leo
+What the hell are you doing?
+      
+krULL
+You can turn this on me. I can't allow it.
+      
+Before Leo can stop Krull he uses his massive strength to smash the gun against a rock. Ari scolds Leo.
+ARI
+Who would invent such a horrible device?  
+      
+leo
+(screams)
+That 'device' was going to keep me alive. 
+      
+ari
+We're better off without it.
+      
+dAENA
+There's no 'we' here.
+      
+arI
+Must you be so difficult?
+      
+dAENA
+Why don't I act more like a slave?
+      
+arI
+That's not what I meant.
+      
+As they argue --
+leo
+Shut up. ... That goes for all
+        species.
+        
+
+      
+Ari and Daena separate, then --
+daeNA
+You can't trust them.
+      
+leo
+Know who I trust? Myself. 
+      
+Leo picks up the Messenger and hurries off.
+CHAPTER 18: MARTIAL LAW
+OMIT
+NEW ANGLE - APE SOLDIERS MOVE THROUGH THE CITY
+
+FIND THADE -- walking with SANDAR, Ari's Father.
+saNDAR
+If I ever thought that those humans were capable of kidnapping my daughter ... 
+      
+Sandar's voice breaks.
+tHADE
+Don't blame yourself, Senator. Your family above all tried to be compassionate to the humans ... and look how they repaid you.
+      
+Sandar seems suddenly frail and weak.
+sANDAR
+Can you find my daughter?
+      
+thade
+If you untie my hands.
+      
+Sandar is caught off guard.
+sandar
+What do you want?
+      
+Thade stops -- turns to him boldly.
+thADE
+Declare Martial Law.  Give me the absolute power to rid our planet of humans once and for all.
+      
+When Sandar hesitates --
+thADE (CONT'D)
+Now is not the time to be timid and indecisive...
+      
+(steps closer)
+... I am the only one who can bring your daughter back to you ... alive.
+      
+Sandar looks at him -- nods, then leaves quickly.
+ANGLE
+Attar comes up to Thade.
+attar
+They're not within the city walls. 
+      
+thade
+We underestimate this human. 
+      
+Thade considers, then --
+thade (CONT'D)
+I will hunt him down myself.
+      
+He mounts his horse.
+angle
+An OLD APE SERVANT in dark robes ride up.
+old ape
+Your father has sent me to find you. You must come quickly.
+      
+Thade is shaken by the news. He gives orders to Attar.
+tHADE
+Alert our outposts. Make sure the human does not pass.
+      
+atTAR
+I understand, sir.
+      
+Thade looks at Attar.
+THADE
+Except for my father, you're the one I depend on most. We are not just soldiers ... we're friends. I'm depending on you.
+      
+Omit
+CHAPTER 19: A FATHER’S SECRET
+INT. thade's father's HOUSE - night
+A pitch dark room.  Windows shrouded.  A single candle BURNS by a wooden bed.  Silence broken only by the rasp of heavy breathing.
+CLOSER: IN THE BED
+An extremely frail, old APE, fur completely gray.  So insubstantial he seems to have no corporeality.
+INTO THE LIGHT: THADE
+startled by the pitiful shell of his father. We
+      read great pain in Thade's face. He reaches out and touches the old
+      ape.
+thade
+Father... 
+      
+The old ape opens his eyes -- cataracts distort their color.  He smiles when he recognizes his son.
+father
+I don't have much time. ... Tell me about this human who troubles you.
+      
+thADE
+He'll be captured soon ... and little trouble. 
+      
+faTHER
+You're not telling me everything. ... You believe he's not born of this world.
+      
+CLOSE ON THADE: he reacts -- surprised.
+fATHER (CONT'D)
+Has he come alone?
+      
+thADE
+Yes.
+      
+fATHER
+More will come looking for him.
+      
+thADE
+How can you possibly know?
+      
+FATHER
+I have something to tell you before I die. Something my father told me ... and his father told him ... back across our bloodline to Semos. 
+      
+PUSH IN CLOSE as Thade leans his ear to his father's lips.
+father (CONT'D)
+In the time before time ... we were the slaves and the humans were our masters. 
+      
+thADE
+Impossible.
+        
+
+      
+Thade's Father holds out his skeletal hand and points across the room. On a table sits a sealed URN.
+fATHER
+Break it.
+      
+Thade hurries across the room. Smashes the urn to the floor.
+insert: on the floor
+In the clay pieces Thade finds what looks like an ANCIENT METAL ARTIFACT. A GUN. Thade holds it up, confused.
+fATHER (CONT'D)
+What you hold in your hand is proof of their power. Their power of invention. Their power of technology. Against which our strength means nothing.
+      
+Thade looks at the GUN, holds it, studies it.
+fATHER (CONT'D)
+It has the force of a thousand spears. 
+      
+Greatly agitated, Thade's Father grimaces in pain; he fights to stay lucid.
+faTHER (CONT'D)
+I warn you ... their ingenuity goes hand-in-hand with their cruelty. No creature is as devious or violent... Find this human quickly ... do not let him reach Calima. 
+      
+tHADE
+The ancient ruins? There's nothing there but some old cave paintings.
+      
+fATHER
+Calima holds the secret of our true beginning. 
+      
+The old man's groans in great pain.
+thADE
+I will stop him, Father.
+      
+fATHER
+This human has already infected the others with his ideas. 
+      
+(with his last breath)
+Damn them all to Hell ...
+      
+His hand drops away. His eyes roll back. Thade's eyes well with tears.  He closes his Father's eyes -- and blows out the candle.
+OMIT
+
+
+
+
+CHAPTER 20: THE WAY TO KALIMA
+ext. mountain slopes - day
+Rough and steep. Leo and the other humans struggle towards the top.
+ext. mountain slopes - CONTINUOUS
+Leo stops to catch his breath. Tival and Krull immediately tend to Ari again. This time Ari bounds right to leo and hands him the water. Leo reacts -- unsettled by her intimate manner with him. Leo takes a sip. Returns it to her.
+NEW ANGLE: Daena is watching them. Ari holds out
+      the canteen to her. Daena brushes it aside. Moves on.
+widen (MOVING) - AS LEO AND ARI WALK
+Ari is excited, full of energy.
+arI
+I have so many questions I want to ask.
+      
+leo
+Get in line.
+      
+ARI
+What are these 'zoo's' you speak of?  ... this word is unfamiliar.
+      
+leo
+Zoo's are where you'll find our last few apes.
+      
+Ari and Krull react.
+      
+krULL
+What happened to the rest of them?
+      
+leo
+Gone. After we cut down their forests.  The ones that survived we lock in cages for our amusement... or use in scientific experiments.
+      
+ari
+(shocked and angry)
+How horrible. 
+      
+leo
+We do worse to our own kind. 
+      
+ari
+I don't understand ... you seem to possess such great intelligence.
+      
+leo
+Yeah, we're pretty smart ... and the smarter we get the more dangerous our world becomes.
+      
+Ari looks at Leo. No matter what he says she'll find a way to use it as a connection.
+arI
+You're sensitive, I knew it. It is an uncommon quality in a male.
+      
+krull
+Why don't your apes object to the way you treat them?
+      
+leo
+Our apes can't talk.
+      
+ari
+Maybe they choose not to, given the way you treat them.
+      
+Limbo snorts -- he doesn't believe a word.
+limbo
+Apes in cages.  Right.
+      
+daENA
+Sounds like paradise to me.
+      
+ext. mountain slopes - CONTINUOUS
+widen
+BIRN is watching Leo. Leo smiles at him. Birn is embarrassed -- scoots ahead.
+The hill becomes very steep now. Birn looks for something to grab onto.
+CLOSE ON BIRN'S HAND -- he latches onto AN APE FOOT.
+PAN UP TO SEE A MONSTROUS APE -- ARMS SPREAD WIDE -- CANINES EXPOSED.  Birn screams and tumbles backwards.
+FOLLOW BIRN caroming down the hill.
+INTO FRAME -- SOMEONE catches him. Birn looks up to see Leo.
+leo
+They're not real.
+      
+REVEAL: APE EFFIGIES.  Exaggerated in size, set in fearsome poses, hanging from high poles. A long line along the crest of the hill.
+Daena steps beside Leo.
+daENA
+The apes put them where they don't want us to go. Crossing means certain death.
+      
+leo
+What's so important on the other side of this hill?
+      
+krulL
+It leads to the ancient ruins at Calima.
+      
+leo
+Calima?
+      
+ari
+Our Holy writings say Creation began at Calima ... ... where the Almighty breathed life into Semos, the First Ape, in the time before time...
+      
+krull
+... and where it is said Semos will return to us one day.
+      
+arI
+Of course, most educated apes consider such religious notions as fairytales, metaphors we use to explain our origins. I doubt there ever really was a Semos.
+      
+daENA
+His friends aren't fairytales. They're real. 
+      
+Leo continues ACROSS THE LINE OF EFFIGIES. Krull shoves Limbo ahead.
+liMBO
+Doesn't he ever stop?
+      
+STAY ON HUMANS: afraid to cross the line. Birn suddenly springs forward. TILT UP AT THE EFFIGY as Birn chases past it to fall behind Leo. Daena sees it -- and runs after them with the others.
+ext. TOP OF THE HILL - evening
+Leo finally reaches the crest.  Below is a narrow MEADOW in a valley between two MOUNTAINS.  A DOZEN PATTERNED TENTS FORM A CAMP BY A RIVER.  APES guard the pass.
+Leo and the others hide in the ROCKS.
+POV - A SMALL HERD OF HORSES
+trapped in a natural rock pen between Leo and the
+      Ape Camp.
+dAENA
+(re: horses)
+Monsters.
+      
+leo
+(reacts)
+What are you talking about?
+      
+gunnar
+I've heard the apes feed them human flesh.
+      
+tival
+I've heard they're possessed by the spirits of great ape generals. 
+      
+leo
+They're just horses.  They'll do whatever you tell them to do.
+      
+gunnar
+We should to cross the river another way... over the mountains.
+      
+leO
+I've got no time for that. We'll go through them. 
+      
+Leo slips back down the hill.  Ari and Krull exchange a look. Limbo calls after him.
+limBO
+Where should we bury your remains?
+      
+ext. ape enCAMPMENT - night
+Brightly colored tents billow in the wind off the river.
+by a campfire - a group of ape soldiers
+are gambling.  ONE APE throws down a large PLAYING CARD.
+INSERT PLAYING CARD: THE FIGURES ARE APES IN ANCIENT COSTUMES
+FIRST ape soldier
+Semos smiles on me.  I win again.
+      
+He reaches for the pot.  A SECOND APE SOLDIER stops his arm.
+second ape soldier
+You win too often.  What have you hidden up your sleeve?
+      
+It immediately gets tense.  The FIRST SOLDIER pulls back the sleeves of his uniform.  One hand, the other hand.  Grins -- nothing there.  Reaches for the pot again. He's stopped again.
+second aPE SOLDIER (CONT'D)
+All of them...
+      
+He forces back one pant leg.  Nothing in that foot.  Tries the other.  PUNCH IN CLOSE: THE FIRST APE HOLDS A CARD WITH HIS FOOT.
+second aPE SOLDIER (CONT'D)
+Cheater!
+      
+He knocks the soldier back.  In a second they start to fight. A LOUD GROWL MAKES THEM STOP.  They turn to see --
+attar on horseback
+having just come into camp.  He has clearly covered a great distance. He rides right up to them and kicks over the cards. The soldiers jump to their feet.
+attar (o.s.)
+Who is in charge here?
+      
+ANGLE: Rushing out of a TENT: the APE COMMANDER, quickly buttoning his uniform.
+ape commander
+I am, sir.  ... They didn't tell me you were coming. 
+      
+atTAR
+(cuts him off)
+This camp is a disgrace. 
+      
+The Commander is terrified. Attar dismounts.
+ATTAR (CONT'D)
+Some humans have escaped.
+      
+apE COMMANDER
+If they come this way we'll crush them.
+      
+atTAR
+These humans are different.  They travel with apes.
+      
+The Ape Commander hesitates, then laughs --
+atTAR (CONT'D)
+You find this amusing?
+      
+apE COMMANDER
+(stops)
+No, sir.
+      
+Attar looks around at the mountains.
+atTAR
+I'm assuming command. I will personally make sure this camp is prepared.
+      
+
+ 
+ 
+CHAPTER 21: FIRE AND WATER
+ext. horse pen - night
+Leo holds a DUN COLORED STALLION.  They watch him grab a fistful of mane and hop on. The humans are all amazed. Leo wheels the horse round.
+leo
+Who's next?
+The others hang back. Too afraid to join him.
+leo (CONT'D)
+Then I guess we're saying good-bye here.
+Ari takes a hesitant step forward.
+daENA
+You can't go, you're afraid of water.
+arI
+You can't go, you're afraid of horses. 
+Leo rides between them.
+leo
+(to Daena)
+You want to ride? Grab a fistful of mane and hold on.
+(to Ari)
+You want to cross the river? Horses are great swimmers. They'll carry you across. ... 
+KRULL APPEARS OUT OF THE DARKNESS.
+krull
+You're assuming the soldiers won't tear you to pieces. ... I've just seen Thade's greatest warrior ride into the camp.
+leo
+Sounds like he scares you.
+krULL
+He does. I trained him myself.
+limBO
+Well, good luck, have a pleasant ride. Obviously, I can't go... so if you don't mind ...
+He holds out his shackles.  Leo surprises everyone by unlocking them.
+daENA
+You're letting him go?
+The shackles fall -- Limbo sighs, rubs his wrists.
+Leo
+No.  He'll ride with us. 
+LIMBO
+There is no way...
+ARI
+(over)
+And if you try to get away, I will tell Thade we bribed you to help us.
+limbo
+I'll deny it.
+KRULL
+A very large bribe. 
+Ari and Krull grin at him. Limbo explodes.
+limbO
+The whole thing's suicide. Ride through an army encampment? Only a human would think this could work.
+lEO
+Attitude is the first human freedom.
+Leo reaches into the Messenger Box, takes out the FLARE GUN.
+ext. ape encampment - night
+close on an altar - inside a tent
+kneeling on a small woven tapestry.  Eyes closed.  Candles illuminate a small ICON of SEMOS emerging out of PARTING CLOUDS. Attar waves his hands over the smoke. Bows his head.
+A LOUD WHOOSH -- and the tent is bathed in LIGHT.  Attar OPENS his eyes.
+ext. tent - around the camP
+Attar rushes out to see the soldiers staring at the sky.
+IN THE SKY - A BLINDING LIGHT
+Actually, an Army FLARE, raining down on them.  CLOSE ON ATTAR -- he cocks an ear -- listening intently.
+OVER HIS SHOULDER: STAMPEDING INTO VIEW -- HORSES
+CLOSER -- Leo leads the group.  Birn and Daena right behind. Tival, Gunnar, then Krull and Ari.  Finally, Limbo -- holding on for dear life.
+widen
+Leo has let the extra horses run with them.  The Apes dive out of the way as the horses stampede THROUGH THEM. Tents are pulled down.  Equipment crushed.  The sheer arrogance of Leo's maneuver leaves Attar stunned.
+CLOSE ON LIMBO
+as he rides holding on tightly.  He kicks the horse so it veers away towards the APE SOLDIERS.
+limbo
+Help, help. Don't hurt me. I'm on your side.
+But to Limbo's surprise the APE SOLDIERS answer with a barrage of FIREBALLS. One nicks Limbo's arm.  Limbo is stunned.  An APE SOLDIER charges Limbo with a spear. Limbo can't get his horse to move.
+INTO FRAME -- LEO whacks Limbo's horse.  It carries Limbo to the river.
+Leo leans down to grab a BURNING LOG and ignites one of the APE TENTS. The fire spreads like dry grass.  Whipped by the wind.  ONE APE runs out of a tent with his FUR ON FIRE.
+Leo charges for the river.
+EXT. THE river - night (continuous)
+Deep and wide.
+PAN UP TO -- the HORSES REFLECTED IN THE WATER.
+leo
+Drive them across!
+Daena feels the power of her horse as it splashes into the water.  Birn has a big smile on his face as his horse lunges through the river.  Tival grips the mane tightly as his horse goes in. Finally, Krull's horse carries him in.
+EXT. APE ENCAMPMENT - CONTINUOUS
+FIND ARI -- lagging far behind. Her eyes wide with terror.  Using all her will to fight the panic building up inside.
+ATTAR -- sees Ari.
+WIDEN
+Before Ari reaches the river Attar hurls his Bola -- it wraps around the horse's front feet and brings it down. Ari flies off rolling across the ground.
+LEO sees Ari fall. He turns his horse and races for her.
+EXT. THE RIVER - CONTINUOUS
+Daena, Birn, Gunnar and Tival emerge on the opposite bank. KRULL appears behind them. He falls from the horse. Looks for Ari. Runs back to the water's edge.
+pov - on the other side
+Krull can see Ari head for the rocks. She starts to climb. The apes are moving out of camp towards her. Krull is enraged he can't protect her. Let's out a fierce roar.
+CLOSE ON ATTAR -- he HEARS Krull. They lock eyes across the river. It makes Attar hesitate for just one moment.
+find leo
+He rides for the rocks and leaps from his horse. Scrambles up to Ari. Grabs her hand.
+leo
+You have to swim.
+Ari can't bring herself to enter the river.  Her instinctual aversion is just too strong.  Her eyes are wide with terror.
+LEO'S POV: rushing out of the night all he can see is Attar's eyes.
+
+ari
+I can't.
+
+leo
+I won't let go of you.
+Attar arrives just as ARI AND LEO LEAP OFF THE ROCKS INTO THE RIVER and DISAPPEAR beneath the dark water.
+The apes hurl fireballs after them but they only hiss and turn to steam in the river.
+ext. across the river - night
+Krull is still at the water's edge when Ari's HORSE emerges riderless. Krull is shaken to the core.
+Finally, Limbo rides up. Falls to the ground soggy and miserable.  Still reeling. He looks at the small burn on his fur. Whimpers as he licks it.
+Gunnar comes up with the shackles.
+limbo
+No, no, wait, there's no need now.
+gunnar
+Says who?
+Limbo gestures angrily across the water.
+limbo
+Says them. They tried to kill me...
+(touches his wound again)
+... like I was nothing but a miserable...
+daENA
+Human?
+guNNAR
+He's a liar and a coward. 
+PUSH IN ECU ON LIMBO -- he's too smart not to understand what this all means. His usual bravado melts away.
+limbo
+(softly)
+Please, I've nowhere else to go.
+Tival steps in front of Gunnar, helps Limbo to his feet.
+tival
+Then you belong with us.
+GUNNAR
+We're the only ones who made it. I say we should to stick to our own kind.
+Daena isn't sure what to do. She gives way to her doubts.  Looks at Krull.
+daeNA
+It's no use.  Nothing will ever change. 
+Birn suddenly sprints towards the water.  They all turn --
+EXT. ACROSS THE RIVER - CONTINUOUS - angle - staggering out of the river
+Leo carries Ari on his back.  Ari's claws dig tightly into his shoulder.
+It is a potent vision that contradicts the core reality of their planet -- and their races.
+HOLD ON DAENA'S reaction as the others rush down to help them.  Leo sets Ari on the ground.
+Krull takes Ari's hand.  She knows how worried he was about her.  She strokes his fur, comforting him.
+angle
+Daena pushes through to Leo.  Looks at his shoulders.  Ari's claws have left deep cuts.
+daENA
+She hurt you.
+Daena slaps a clump of wet leaves on the wounds.
+leo
+She was holding on pretty tight.
+She begins to rub his shoulders.  Slowly, deeply.
+daENA
+I know.  I've seen the way she looks at you.
+leo
+(reacting)
+She's a chimpanzee.
+daENA
+A female chimpanzee.
+Leo is freaked out by the conversation. Daena rubs harder.
+leo
+Ow...
+
+daENA
+These are Goma leaves.
+leo
+And they're supposed to help?
+Now she's really working the shoulder.
+DAENA
+First your body will tingle, then you'll feel very dizzy...
+Leo looks at her confused.
+dAENA (CONT'D)
+... and if you don't start growing fur everywhere ... you'll be healed.
+CLOSE ON LEO -- as he realizes she's been teasing him. Daena laughs, and the other humans join in.  Leo knows the joke's on him.  Leo and Daena look at each other.  She has a wickedly defiant look on her face.
+PAN ACROSS TO ARI -- who reacts to their intimacy.  She gets up quickly. Bounds across to them.
+ari
+The apes will head down river til they find a crossing. We should keep moving. 
+Leo stands.  Daena locks eyes with Ari.
+daena
+You've recovered quickly.
+Tival signals Leo; points to the cliffs.
+EXT. CLIFFS - PUNCH INTO POV - IN THE CLIFFS - TWO HUMAN MALES
+stare down at them from the shadows. THEY'RE FACES HAVE DISTINCT TRIBAL MARKINGS (WE'LL SEE THEM AGAIN.) As soon as they're spotted they disappear.
+CHAPTER 22: CALL TO ARMS
+ext. city of the apes - ARMY HEADQUARTERS - day
+THE TROOPS ARE MASSED IN THE CITY SQUARE, WAITING.
+ATTAR STANDS AT THE ENTRANCE TO THE HEADQUARTERS.  THADE ENTERS FROM INSIDE.  THEY WALK AND TALK:
+thaDE
+Where is he?
+Attar is ashamed to look at Thade.
+attAR
+They crossed the river.
+Thade's voice is quiet, intense.
+thADE
+You didn't stop them? 
+attAR
+They were carried by horses. 
+Attar can hardly bear the silence while Thade glares at him.  It seems an eternity -- until Thade finally speaks, his anger now building.
+thADE
+Horses?
+Attar
+Yes, sir. Our horses.
+WE SEE THADE'S ESSENTIAL APE NATURE TAKE OVER.  HE MOVES QUICKLY, LEAPING UP THE WALLS, PULLING DOWN TAPESTRIES, SWINGING UP TO THE OVERHEAD CHANDELIER.
+HE DRAWS HIS SWORD, AND WITH ONE FORCEFUL MOVE. CUTS DOWN THE CHANDELIER. IT CRASHES TO THE GROUND CARRYING THADE DOWN WITH IT AND BURSTS INTO FLAMES.
+THADE MOVES THROUGH THE FLAMES AND MOUNTS HIS HORSE.  HE TURNS TOWARD ATTAR, TAKES A BREATH, CALMS HIMSELF.
+Thade looks into Attar's eyes.  His rage melts as quickly as it came on.
+thaDE
+Forgive me?  I'm not angry at you.  ... My father has been taken from me.
+He embraces Attar emotionally.  Attar consoles him.
+atTAR
+He was a great leader.  ... Your family are direct descendents of Semos. Now it is time for you to lead. 
+Thade looks at Attar -- steadfast, loyal as always, then composes himself.
+thADE
+Form the divisions. 
+widen
+Attar hurries to the troops. Turns to his lieutenants.
+attAR
+Form the divisions.  Full battle ready. Sound the call to march...
+EXT. CITY OF THE APES
+QUICK SHOTS: APE BUGLERS start the clarion call.  DRUMMERS beat a marching rhythm.  Troops fall into line.
+wide shot: ext. city of the apes - gate
+Thade rides in front of his army as it marches to war.
+omit
+OMIT
+Omit
+EXT. PLAINS - ON THE WAY TO CALIMA - NIGHT
+campfire
+Krull walks off by himself and assumes a "guard" position. Ari and Leo watch him.
+arI
+He'll stand like that all night. 
+leo
+No question, he's army. I know the type.
+ari
+Maybe we're more alike than you think.
+Leo reacts. Ari looks up at the stars.
+arI (CONT'D)
+I'd like to see your world.
+leo
+No, you wouldn't. They'd prod you and poke you and throw you in a cage, too.
+arI
+You'd protect me.
+She gently reaches over and touches his arm. Waits for his reply.
+leo
+You'd never be able to go home again.
+arI
+I can't go home now.
+leo
+I can't take you with me. ... You're right. We are alike. It's just as dangerous for you on my world as it is for me here.
+There is heartbreak in Ari's voice.
+arI
+I think after tomorrow, when you find your friends ... I'll never see you again. 
+leo
+I never promised anyone anything.
+Ari looks over at Tival, Birn and Gunnar.
+ari
+That's not what they think ... they think you're going to save them. 
+pan across - DAENA is WATCHing THEM
+as she sits with the other humans grabbing food, shoving it to their mouths as quickly as they can.  Daena watches Ari break her food into small pieces; it seems refined, elegant.
+Daena looks down at her hand.  Drops her food.  Breaks off one small bit.  Mimics Ari.
+tival
+(sitting INTO FRAME)
+It's not the way she eats, it's the way she thinks that pleases him.
+Daena looks at him, embarrassed, then -- runs off.
+CHAPTER 23: KALIMA
+EXT. PLAINS -follow daena
+til she's by herself.  She stops at a small trail of water dribbling down a rock face.  Looks around nervously.
+CLOSER - Daena takes a small soft piece of cloth.  Touches the water.  Disrobes quickly.  Starts to wash herself.
+Omit
+Omit
+EXT. Calima - Dawn
+Leo leads the others over a small ridge.
+POV -- across the plain, through the haze, he can just make out the ruins.
+KRULL
+Calima.
+Leo dismounts. PUSH IN CLOSE: as Leo opens the MESSENGER again.  The others gather around.
+INSERT: MESSENGER SCREEN: the BEACON sounds loudly, bouncing off the walls, sweeping with precision.
+EXT. CALIMA - THE PLAINS
+Leo jumps up -- leaps onto the horse and streaks for the source of the signal. The others chase behind.
+Leo moves faster and faster. The beacon leading him on. Excited, expecting the crew to be right there.
+EXT. CALIMA RUINS
+TILT UP INTO POV
+as Leo gets his first clean look at Calima. EERIE.  SILENT. Leo holds up the beacon -- it sounds LOUDER THAN EVER.
+The others have followed.  They wait for him to say something.
+Leo can't hide what he's thinking; they see it on his face.
+guNNAR
+(realizing)
+They're not here.
+The notion leaves them unable to speak.  Gunnar explodes.
+gUNNAR (CONT'D)
+They were never here.
+
+Daena's voice betrays her fear --
+daena
+But ... you said they'd come for you.
+Ari, Krull and Limbo are watching. Limbo sniffs --
+
+liMBO
+I know this smell... right, it's a catastrophe.
+Leo is reeling. He dashes down a STONE PASSAGEWAY.
+Omit
+ 
+
+ext. Calima - cave entrance - DOWN A STONE PATH
+Leo looks around. The beeping of the messenger becomes louder.
+OMIT
+OMIT
+int. Calima cave
+WE MOVE WITH LEO'S POV AS HE MOVES DEEPER AND DEEPER INSIDE.  WE CAN HEAR LEO BREATHING HARD.  THE CAVE SLOPES DOWNWARD SHARPLY.
+At first it just seems like nothing more than rock cave.  His foot kicks something hard in the ground.
+SOMETHING WHITE IN THE DIRT
+Leo kneels and digs into the ground.  Reaches in. Leo rises with a round clump of dirt.  He breaks it clear. IT'S A HUMAN SKULL.  Leo drops it.  Looks around: HUMAN BONES are scattered along the cave.
+punch in close on leo
+He looks at the walls again.  He's been here before.
+Leo picks up a rock -- starts to scrape at the CAVE WALL. Works frantically.  Soil crumbles to the ground.  Leo hits something METALLIC.  Clears it away with his hands.
+ON THE WALL: REVEAL THE OBERON ICON THAT WE SAW IN THE CORRIDOR ON THE WALL
+CIRCLE LEO -- fighting this impossible revelation.
+LEO
+No, no...
+ECU: LEO HOLDS UP HIS BRAND AGAINST THE ICON.  IT'S A CLIPPED SECTION OF THE OBERON'S EMBLEM.
+Leo looks at the contours and shapes of the cavern.  It can't be.  But everything matches the way he remembers it.
+THIS IS THE OBERON.
+
+follow leo
+He dashes down what looks like a stone tunnel.  Leo stops in one 'cave' -- chips at the rock revealing THE ANIMAL CAGES OF THE OBERON.  Rusted and coated with limestone.
+LEO WALKS UP TO THE WARNING SIGN WE SAW IN THE BEGINNING:
+CAUTION: LIVE ANIMALS  -- but all that remains of the original letters: CA    LI     MA .... CALIMA
+KEEP MOVING WITH LEO
+to where the BRIDGE SECURITY DOOR should be.  He chips dust from the HAND ID SYSTEM.
+ECU: LEO REACHES ONE TREMBLING HAND OUT.
+NOTHING. BEAT -- THEN A HUM STARTS FROM DEEP INSIDE THE CAVE.  A FAINT LIGHT GLOWS.  THEN THE GLASS WALL BEGINS TO SLIDE OPEN.  DUST SPILLS INTO THE AIR.
+Leo staggers into the BRIDGE ROOM.
+Omit
+int. Calima cave/oberon bridge
+Daena and Ari move warily towards the source of the LIGHT.
+pov
+LEO stands in the middle of the great space.  Deep in thought. Trying to regain hold of his emotions.
+Daena steps closer.
+daena
+What is it?
+Leo can barely bring himself to say the words.
+leo
+It's... my ship.
+arI
+But... these ruins are thousands of years old.
+leo
+I was here ... just a few days ago.
+LEO MOVES OVER TO the CONTROL panel
+furiously pulls away soil and dust.  Ari and Daena watch as Leo LIGHTS UP THE BOARD.
+NOW LEO CAN READ THE DIGITAL DATE AS IT FLASHES BY IN MILLISECONDS:
+                 5021.946
+
+Leo begins to work the board.  The entire BRIDGE LIGHTS UP IN STAGES.  DAENA and ARI look around.  It is as profoundly incredible to them as landing on the planet was to Leo.
+Leo PUSHES THE RED TRACKING LEVER we saw him use in the first scene.  CLOSE ON THE SHIP'S MESSENGER BEACON -- Leo watches it pulse and sweep the screen.
+leo (CONT'D)
+This is what my Messenger was picking up. The Oberon.
+Leo forces open another CONTROL BOX.  Begins punching numbers.
+ari
+What are you doing?
+leo
+Accessing the data base.  Every ship keeps a visual log... 
+dAENA
+I don't understand.
+leo
+A way for them to tell their own story.
+ari
+Will it work?
+leo
+This ship has a nuclear power source with a half life of forever.
+int. Calima cave/oberon bridge
+Leo sweeps away dust from the giant DIGITAL SCREEN above them. LIGHT FLOODS out -- blinding them all for a moment.
+Leo starts scrolling through A TIME CODED VISUAL LOG.
+THE DIGITAL DATE BEGINS TO ROLL BACKWARDS.
+ON THE SCREEN
+A blur of IMAGES, jumpy, ripped by binary static.  Leo suddenly he sees VASICH.  His face burned and scarred.  His VOICE tremulous.
+VASICH (on screen)
+... we were searching for a pilot lost in an electromagnetic storm ....  when we got close our guidance systems went down.  ...
+LEO
+They couldn't find me ... because I was punched forward through time. 
+vasICH (on screen)
+... we've received no communications since we crash landed. This planet is uncharted and uninhabited. ...  We're trying to make the best of it ... the apes we brought along have been helpful. They're stronger and smarter than we ever imagined. ...
+THE SCREEN DISAPPEARS IN STATIC.  LEO CONTINUES TO SCROLL LOOKING FOR UNDAMAGED BITS OF LOG.
+int. Calima cave/oberon bridge
+ON DIGITAL SCREEN: MORE STATIC.  LEO SCROLLS THROUGH AGAIN.  HE CAN'T READ ANY OF THE IMAGES.
+int. Calima cave/oberon bridge - continuous - suddenly on the screen
+Leo finds ALEXANDER, with long silver hair.  Maybe sixty years old.  A weary, distressed glaze to her eyes. We HEAR strange NOISES O.S. The SOUND OF A DOOR BEING BATTERED AS IF UNDER SIEGE.
+alEXANDER
+... the others have fled with the children to the mountains.  ...... The apes are out of control. One male named Semos, who I raised myself, has taken over the pack. He's extremely brutal.
+(voice breaks)
+We have some weapons but ... I don't know how much longer we'll last. 
+Alexander keeps looking back over his shoulder.
+alexander(CONT'D)
+ ... Maybe I saw the truth when they were young and wouldn't admit it. We taught them too well. They were apt pupils ...
+in one quick blur we see FOUR large APES sweep across the SCREEN -- ONE APE (SEMOS) LOOKS RIGHT AT CAMERA. THEN GROWLS IN A RAGE AND REACHES OUT AT CAMERA.
+THE SCREEN TURNS TO PURE STATIC.
+Leo finally reaches out and changes controls.
+ON THE SCREEN: THE NAMES OF THE CREW
+Leo scrolls through them all until he stops on HIS OWN NAME:
+captain LEO DAVIDSON: MISSING IN ACTION
+punch in close on leo -- staring at his name
+stunned, his eyes glisten. INTO FRAME -- ARI kneels by him, tries to console him.
+leo
+The crash, their deaths ... they're all dead because they were looking for me.
+ari
+But we're all alive because of you.
+Leo fumbles with some of the gages.
+leo
+There's a little power left in one of the fuel rods.
+dAENA
+You're trying to find a way to leave us.
+CLOSE ON LEO -- looks around the ship longingly.
+leo
+I've been away from home a thousand years.
+CHAPTER 24: A HUMAN LEADER
+ext. CALIMA - THE RUINS
+LEO, ARI  & DAENA EMERGE INTO THE LIGHT. The others follow close behind. Leo can see DARK SHAPES emerge out of the haze. Surrounding the ruins.
+closer
+A large group of HUMANS waits at the ruins. They carry belongings and homemade weapons.Lead by the TWO HUMANS with distinctive tribal markings we saw at the river crossing. Scores of others join them.
+leo
+Who the hell are they?
+tivAL
+You're story is spreading through the villages... They all want to see this human who defies the apes.
+leo
+Send them back.
+daENA
+Back where? They've left their homes  to be with you.
+EXT. Calima RUINS - follow leo through the crowd
+As soon as the humans see Leo a great CHEER spreads among them like wildfire.  They crowd around him. Limbo wedges himself next to Leo.
+liMBO
+See if you can talk your space friends into taking me ...  'cause whichever way this goes, I'm out of business.
+Leo pushes away forward.
+ext. Calima RUINS - continue with leo through the humans
+Families, loners, the old and the young.  Some touch his hand. The humans glare at Ari, some curious, most hostile.
+OUT OF THE CROWD: A HUMAN FIGURE confronts Ari.  IT'S BON -- Ari's old servant.  They embrace with tears.  The Little Human Girl that Bon saved hides behind Bon, shy and wary.  But Ari kneels and smiles at her.  Slowly, the Little Girl lets Ari take her into her arms.  The Little Girl finally smiles back at Ari.
+ext. Calima CLIFF'S EDGE - sunSET - SECOND NIGHT
+As sunset turns the sky to fire, Leo stands on the cliff -- looking out over the Plain of Calima.  His face a study in concern.
+
+ext. CALIMA plains - night
+Vast and empty.  Birn on horseback.  Watching.  POV: from behind a distant hill he sees a strange glow.  Kicks his horse.  Rides quickly to the crest.
+widen to pov
+In the far distance he can see a LINE OF TORCHES snaking all the way to the horizon.
+REVEAL thade's army - on the move
+lead by DRUMMERS beating out a rhythm.  An endless stream of APES of all kinds -- in full battle gear -- storm ACROSS FRAME.  MOVING WITH INCREDIBLE SPEED.  ATTAR leads his division past THADE, mounted on an elaborately caparisoned HORSE.
+BACK TO BIRN
+he spins his horse and races away.
+ext. CALIMA RUINS - NIGHT
+SUDDENLY -- Birn comes galloping in on his horse.  Jumps off.  Runs up to Leo.
+birn
+I saw them. 
+krull
+How many?
+birn
+As far as I could see.
+Krull reacts --
+
+krull
+Thade has brought all his legions. That means the senate has capitulated.  He answers to no one now.
+Leo turns to Daena.
+leo
+Get your people away from here. They can go to the mountains, hide ... while there's still a chance.
+daENA
+They won't listen to me.
+Leo thinks about it, then --
+leo
+OK, if they came here to follow me, I'll let them follow.
+ext. Calima RUINs - widen - NIGHT
+The humans wait for Leo to talk to them. He mounts his horse.
+leo
+This is a fight we can't win.... break up and scatter. I'll draw them off. I'm the one they want. ... Let's go ...
+He spins his horse and starts to ride. STAY WITH LEO as he moves out.
+Then Leo stops, turns around --
+widen to pov
+The humans have not moved. They remain silently by the rocks.
+Leo gallops back to Daena. Dismounts.
+leo (CONT'D)
+They don't understand.  It's over. Finished. There's no help coming.
+She looks deeply at him.  Touches her hand to his face.
+daENA
+You came ...
+She leans in and kisses him.
+Omit
+ 
+CHAPTER 25: THE MARK OF A HUMAN
+wide shot: ext. Calima - THADE's ape encampment - night
+An eerie silence pervades the APE CAMP.  A thousand campfires seem to make the sky glow.
+IN THE SHADOWS
+A LARGE FIGURE moves furtively past the tents.
+ext. Calima - THADE'S ape encampment - close on attar
+in a dark mood.  At the edge of the camp.  Staring out across the plains to Calima.
+He HEARS something.  FOOTSTEPS.  INTO FRAME -- A FIGURE
+attar
+Stop!...
+Attar's senses come alive. Something jolts him.
+attAR (CONT'D)
+Come closer and identify yourself!
+The FIGURE hesitates.  Then moves towards them.  It's KRULL.
+Attar is caught by surprise seeing his teacher. For a second he even seems defensive. Then --
+attaR (CONT'D)
+You dare show your face here? 
+krULL
+It was not my decision ...
+Krull steps aside. Stepping from behind is ARI.
+arI
+I wish to speak to Thade.
+attAR
+Impossible.  You have betrayed your race.
+krULL
+And you have betrayed everything that I taught you.
+attAR
+I could have you killed on the spot.
+krULL
+(a low growl, then)
+You could try.
+Ari steps between them. Tries to reason with Attar.
+arI
+Don't you ever think we apes have lost our way?  Don't you ever have doubts?
+She can see Attar is affected by her words.
+int. thade's tent - night
+Ari stands with her head down.
+thADE
+Why have you come?
+ari
+To be with you. Isn't it what you want?
+quick cut: outside the tent
+Krull and Attar stand -- they can hear the conversation.
+back inside the tent
+Thade stalks round Ari not saying anything. Finally --
+thADE
+A trade?... That's what you're proposing. Yourself for the humans. ... Even when you were young you took in stray humans. Your family always indulged your every whim.
+Thade reaches out -- Ari tenses. Thade picks a fleck of dirt from her fur.
+thADE (CONT'D)
+Now look at what you've become.
+Ari knows this is her last chance. She has nothing else to offer; so she falls to an ape pose of submissiveness.
+arI
+It's what you want, isn't it? I will be with you.
+thade
+I have no feelings for you now. 
+CLOSE ON THADE --He turns his back to her. He takes Ari's SCARF. She watches him drop it into the fire.
+closer -- in the fire. Thade sees a branding iron.
+QUICKLY: Thade spins back and grabs Ari's HAND. Presses the brand into her. Ari cries out.
+thADE
+You want to be human? ... Then wear their mark.
+Krull bursts into the tent. Attar growls and leaps after him. Flashes his canines at Krull.
+Thade signals Attar to calm down. Thade drops Ari's hand. Turns to Attar.
+ 
+thADE (CONT'D)
+Let them return.  Tomorrow they will die with the humans.
+Attar lets Krull lead Ari away.
+STAY ON THADE -- for one quick moment he looks back for her.
+
+
+
+
+CHAPTER 26: NOT SO DIFFERENT
+EXT. CALIMA — night
+
+Leo stands before the ruins giving instructions to his close followers.
+LEO
+There's one possibility. One shot, but it's worth taking.
+He points to the ruins.
+LEO (CONT'D)
+We've got to draw them in close.  Put all these people behind the ship.  But don't hide them. I want them seen. 
+Daena
+What about us?
+LEO
+You'll be on the horseback.  In front of the ship.  Waiting for my signal. Absolutely still.  You're the bait.
+Birn
+I won't move till you say so.
+LEO
+You won't even be out there.  
+Birn starts to protest, but Leo won't let him.
+BIRN
+But..
+LEO
+That's enough.
+
+
+
+
+CHAPTER 27: A WAY TO FIGHT BACK
+int. Calima - the oberon - bridge
+Leo is at the dusty CONTROLS. The MESSENGER box beside him. Working on something.
+Limbo sneaks in as Leo taps the same FUEL GAGE on the BOARD.
+insert: fuel gage -- IT FLICKERS and then goes dark.
+HOLD ON LEO -- a moment of doubt plays across his face.
+limbo
+Whatever you're planning ... don't tell me. The anticipation will kill me before Thade does.
+(beat, then)
+I can't stand it ... you gotta tell me!
+leo
+I think I can do something that will shock them with the power of our technology.
+liMBO
+Excellent. Then we'll be victorious.
+leo
+But I can only do it once. If it doesn't work, we're defenseless.
+liMBO
+I told you not to tell me. ... Do you think we have any chance?
+leo
+In the ancient history of my planet three hundred Spartans held off an army of Persians for seven days.
+liMBO
+Excellent. ... What happened after seven days?
+leo
+They became legends.
+
+
+
+
+CHAPTER 28: THE HUMAN’S POWER
+ext. Calima THIRD DAY - on the cliffs - just BEFORE DAWN
+CLOSE ON LEO:
+Alone on his horse -- at the very edge of the plain.  Just watching.  For a moment he relives the odyssey that brought him to this moment.  Alone with his thoughts.
+Omit
+Omit
+Omit
+EXT. Calima - LOOKOUT ROCK - NEW ANGLE
+Tival as lookout gazing across the plain.
+ 
+ext. Calima - THADE'S ape ENCAMPMENT - dawn
+CLOSE ON THADE:
+--proud and confidant.  He finally turns to Attar.  Nods.
+PUNCH CLOSE ON ATTAR -- as he lets out a fearsome roar.
+
+EXT. PLAINS OF CALIMA
+The APE ARMY stands in crisp formations.  The soldiers pick up Attar's roar, echoing it until the sky is filled with their anger.  The BUGLERS sound.
+Thade leads a row of APE RIDERS forward towards CALIMA.
+ext. Calima -BEHIND THE RUINS - same time
+The Humans are hidden among the ruins.  They HEAR the apes before they see them.  PAN THE HUMANS FACES -- as the apes' deep, rolling HOWL breaks over them like a tidal wave.  Leo can sense a rising panic among them. He continues to check the controls on his Messenger Pack.
+NEW ANGLE
+There is movement from behind the rocks. Krull and Ari appear. They quickly join the humans.
+EXT. CALIMA - LOOKOUT ROCK
+ANGLE: TIVAL stands lookout high on the cliff.  Calls down.
+tiVAL
+I see them.
+
+EXT. PLAINS OF Calima - angle - MOVING across the plain
+CLOSER: thade, ATTAR AND SIX OTHER HORSEMAN
+CANTERING. He signals --ANOTHER TRUMPET CALL and --
+THE LOPERS DROP FROM MARCHING TO LOPING POSITION AND BEGIN TO RACE FORWARD
+They quickly overtake the riders and passing them accelerate towards the humans.
+A SEA OF RED AS THE ARMY LOPES ACROSS THE PLAIN.
+EXT. CALIMA PLAINS
+Gunnar, Krull, Daena and several other riders on their HORSES.
+Ari comes riding up. Daena glares at her -- until she sees the BRAND on Ari's hand. Ari refuses her pity -- moves her horse along the front of the line.
+As the APES approach, the horses become skittish.
+LEO
+(shouts, RE: Horses)
+Hold them, hold them... as long as you can.
+EXT. CALIMA RUINS - DAY
+Gathered HUMANS are hidden amongst the ruins watching expectantly. BIRN rides his horse out moving toward the other horses.
+EXT. CALIMA PLAINS -IN FRONT OF THE RUINS - DAY
+BACK THE OTHERS AS BIRN RIDES UP.
+DAENA
+What are you doing here?
+BIRN
+I'm part of this.
+DAENA
+Wait with the others like he told you.
+BUT IT'S TOO LATE, THE APE LOPERS ARE TOO CLOSE. LEO GIVES THE SIGNAL FOR THE HORSES TO GO.
+LEO
+Now!
+THE RIDERS take off at FULL GALLOP, heading TOWARDS THE RUINS. They divide into two groups and head for safety behind the ruins.
+EXT. CALIMA BEHIND THE RUINS (INTERCUT WITH PLAINS IN FRONT OF THE RUINS)
+ON LEO:
+Watching. Continuing to check his Messenger. HE TURNS TO SEE:
+BIRN'S HORSE STUMBLES, PINNING BIRN UNDERNEATH
+LEO'S POV:
+AS THE APE LOPERS BEAR DOWN ON BIRN.
+EXT. CALIMA -IN FRONT OF THE RUINS
+ON LEO -- he leaps from cover and runs hard into the open across the plain.
+ANGLE: the APES explode forward
+BIRN IS DIRECTLY IN THEIR PATH
+LEO RUNS HARD TOWARDS HIM TRYING TO GET TO HIM BEFORE THADE DOES.
+BIRN'S POV:
+THE APES BEARING DOWN ON HIM
+Leo reaches Birn
+He frees Birn's Horse and horse and rider (Birn) gallop out of frame
+The APES are closing in.  Leo runs full out to get back to the messenger before he is caught.
+OMIT
+ 
+ 
+OMIT
+Omit
+Omit
+Omit
+ 
+ 
+EXT. CALIMA PLAINS
+QUICK CUT TO THADE: watching from a distance. Unsettled by the sudden silence.
+EXT. CALIMA - SIDE OF RUINS
+quick pan to leo
+The humans WATCH LEO'S return. He reaches his messenger just before the apes are upon him.
+insert: messenger - as leo turns it 'on'
+No response.  Tries again, nothing.  Then:
+INT. CAVE - THE OBERON
+QUICK CUT: ON THE BRIDGE OF THE OBERON -- the FUEL MONITOR Flickers once, twice, then LIGHTS UP.
+EXT. CALIMA RUINS
+WIDE SHOT:
+The great SPIRES of the ruins are actually the ENGINES of the ship. A LOW HUM radiates from the engines.
+EXT. CALIMA RUINS
+A beat, then the ENGINES EXPLODE TO LIFE
+wideN
+as the rocket thrust EXPLODES.
+THEN: THE APES IN THE FIRST ROW
+are vaporized.  Others behind are burned and tossed into the air.
+INSERT: LIMBO'S REACTION
+LIMBO
+(astonished)
+By the Beard of Semos!
+EXT. CALIMA - THE PLAINS
+ON THADE:
+watching incredulously as his prized warriors tumble burned and scarred into the dust.
+PUNCH IN CLOSE ON THADE -- thinking this over.
+EXT. CALIMA RUINS
+The engines die out. A GIANT DUST CLOUD HAS FORMED. The few survivors stagger away from the haze.
+In the dust and confusion panic TWO WOUNDED APE SOLDIERS see HUMANS emerge from the dust and surround them.  The APES growl -- using their tried-and-true instincts to scare the humans away. THE HUMANS GROWL BACK.  A wild and mocking ROAR that rises from the depths of their souls.  It spreads until it drowns out the apes -- and their fears.
+ALL THE HUMANS
+rush in and begin to beat the surviving apes
+ON LEO WATCHING
+EXT. CALIMA - THE PLAINS - THE APE ARMY
+Thade and Attar can sense the fear spreading in their troops.
+attar
+How can there be such a weapon ... we cannot defeat them.
+MORE WOUNDED STAGGER BACK. PUNCH CLOSE ON THADE -- he listens. The wind whips the dust around them.
+intercut: leo
+wondering if he's pulled it off.
+liMBO
+It worked! ... I'll gather their weapons and sell them for a fortune!
+Leo holds up a hand. Looking out across the plain.
+back to thade
+Thade wheels around to Attar.
+thade
+We will attack.
+aTTAR
+But, sir ...he can destroy us all.
+Thade draws his sword.
+tHADE
+We will see.
+Before Attar can stop him Thade gallops straight at the humans.
+crane up
+Thade gallops across the plain.
+intercut: leo
+steps out from the rocks -- all he can see is the dust and haze from the explosion. He listens, too. It's as if he and Thade can sense each other.
+Then out of the dust --
+thade emerges
+Defiant, fearless, riding straight at Calima. He pulls up. Poised, daring them to destroy him.
+CLOSE ON LEO -- he knows Thade has played his bluff.
+Thade flashes his canines and ROARS -- it carries across the plain, to ape and human alike.
+Limbo can see the look on Leo's face.
+liMBO
+By Semos, we're done.
+
+
+
+
+CHAPTER 29: THADE STRIKES
+INTERCUT: THADE
+as Attar streaks to his side.
+thADE
+I am tired of this human. Attack!
+The HORNS SOUND. THADE LEADS THE CHARGE INTO THE DUST CLOUD.  ATTAR and the others follow.
+OMIT
+EXT. CALIMA - DUST CLOUD
+ON LEO: IN THE THICK OF BATTLE.
+ONE APE makes a stab for Leo with a spear -- but Leo kicks the spear away. Rolls underneath. Grabs the spear. Sprints forward.
+Out of the dust ANOTHER APE SOLDIER appears with a net. Leo grabs a handful of dirt and throws it into the ape's eyes. He stabs him with the spear and takes his net.
+EXT. CALIMA - LOOKOUT ROCK
+ON THE CLIFF FACE:
+AN APE APPEARS IN FRONT OF TIVAL. GROWLS.  TIVAL BACKS UP, BUMPS INTO ANOTHER APE APPROACHING FROM BEHIND.  THE TWO APES TOSS TIVAL OFF THE ROCKS TO HIS DEATH BELOW.
+OMIT
+EXT. CALIMA - DUST CLOUD
+FIND daEna:
+charging through the battle. Fighting valiantly from her horse.
+ON THADE:
+He spots her.  With cold resolve he takes a bola and swings it over his head. Lets it fly.
+Daena is knocked from her mount.  She scrambles to her feet. Looks around for help but sees only APE soldiers coming toward her.
+EXT. BEHIND THE RUINS -DUST CLOUD
+ON ARI:
+WATCHING FROM BEHIND THE RUINS:
+She sees Daena's trouble, grabs Birn's horse, mounts it and rides out to the battle.
+EXT. CALIMA - DUST CLOUD
+Ari arrives at Daena's side.  She reaches down and grabs her onto her horse.
+Their path to safety is blocked by apes.
+A mighty ROAR comes FROM BEHIND.
+ANGLE - KRULL CHARGES INTO VIEW
+an unstoppable force, wreaking havoc on the ape soldiers who are threatening ARI.
+They dodge an APE who appears out of the dust. Daena's shoulder is slashed by the APE's spear. Ari holds onto her.
+
+
+
+
+CHAPTER 30: KRULL’S LAST STAND
+BACK TO KRULL:
+Surrounded by more ape soldiers.  In fierce hand-to-hand combat he crushes several.  Then looks up.
+EXT. CALIMA
+OUT OF THE DUST:
+ATTAR APPEARS ON FOOT
+Both great Apes bare their fangs -- charge at each other.  Locking in a frightening embrace.  They cut and slash at each other FIRST WITH SWORDS, THEN with teeth and claws.  A blur of fur and dust. At first Krull gains the upper hand. But his age makes him no match for Attar.
+
+
+
+
+CHAPTER 31: THE PROPHECY FULFILLED?
+EXT. CALIMA -DUST CLOUD
+ON LIMBO:
+Trying to hide from ape soldiers. TWO rush towards him from opposite directions.  At the last moment Limbo jumps up causing the two APES to collide with each other.
+
+int. Calima CAVE - the oberon - same time
+tRACK IN SLOWLY ON THE CONTROL PANEL -- the red lever -- and the messenger beacon -- sounding relentlessly.
+
+CLOSER: ON THE RADAR SWEEP -- A BLANK SWEEP.  BEAT.  THEN A DOT APPEARS.
+
+Omit
+EXT. Calima - DUST CLOUD
+WIDE SHOT:
+The battle is turning into a rout.  Thade charges through looking for Leo.
+FIND LEO -- he's pulled down from behind.  One APE lifts his sword.  INTO FRAME -- Limbo runs him through with a spear.
+Ari rides back to the human line. Leo and Birn help Daena from the horse. She pushes them away -- grabs a weapon and joins the line.
+The humans try to retreat to the rocks but the Apes have managed to cut off their way. Thade has them surrounded.
+EXT. Calima - SKY
+TILT UP SLIGHTLY -- something moves on the horizon.  A SMALL GLITTERING DOT.  Moving too fast to be anything natural.
+CLOSER -- THE 'DOT' GROWS IN FRAME
+EXT. Calima -DUST CLOUD
+Thade wheels his horse and charges at Leo. Leo takes Thade's charge. THADE DISMOUNTS AND LEO AND THADE BEGIN FIERCE HAND TO HAND COMBAT. THADE QUICKLY GAINS THE UPPER HAND.  He swats Leo to the ground.  Leo rolls to his feet.  Thade lands a crushing blow.  Leo falls to one knee. THADE is about to finish him off, stops at a DEAFENING SOUND.
+EXT. Calima RUINS - ACROSS THE BATTLEFIELD - DUST CLOUD
+APES and HUMANS alike react to a sound never heard by anyone on this planet.  BOOM! THE BREAKING OF THE SOUND BARRIER.
+They stop fighting and look up.
+
+in the sky:
+The 'DOT' is now rocketing right AT THEM.
+LEO FIGHTS TO CLEAR IN HIS MIND.  He knows what this is.
+IT'S A POD.
+widen:
+The POD spreads a contrail that filters light into brilliant hues.
+ALL THE WHILE WE CAN HEAR THE BEEP OF THE MESSENGER BEACON.
+
+EXT. Calima RUINS
+THE POD LOOPS BACK AND ROCKETS JUST ABOVE THE GROUND.
+THE WAKE OF THE POD DISPERSES THE DUST CLOUD. IT LOOKS EXACTLY LIKE THE PARTING OF THE CLOUDS THAT WE'VE SEEN IN THE ICONS OF SEMOS.
+ATTAR watches as the POD skids through the dirt in a storm of dust and light.
+THE POD FINALLY COMES TO A STOP IN FRONT OF THE RUINS.
+THADE CAN'T IMAGINE WHAT THIS MEANS.  But he sees that his troops are paralyzed by the sight.
+EXT. Calima RUINS - on the pod
+The HATCH OPENS slowly.  Inside the POD we can hear the ping of the BEACON sounding over and over.
+A HAND GRIPS THE escape rungs.
+A FURRY HAND.
+AND PERICLES STEPS OUT.  The light around him, the swirling of the dust, mimics the icon.
+CLOSE ON ATTAR -- as he whispers a single word.
+atTAR
+Semos.
+
+He drops to his knees.
+PAN THE APE SOLDIERS as they think that 'Semos' has returned to them. They let out a huge CHEER.  The same WORD is repeated over and over AMONG THEM. "SEMOS."
+HOLD ON THADE'S reaction -- confused and wary.
+ATTAR runs to Thade with eyes wide.
+attar (CONT'D)
+Sir! The prophecy is true. Semos has returned to us.
+The HUMANS have no idea what to make of this.
+new angle
+LEO startles them all.  He runs to the POD.  PERICLES scrambles into Leo's arms. He  looks at Leo.  Looks down at his hand; picks out a thumb.
+closer on pericles
+He gives LEO a 'thumbs up' sign.  Leo returns it.
+leo
+Good boy.  You brought your pod home. 
+NOW THE HUMANS ALL CHEER.
+LEO is electrified.  Maybe Pericles has brought him a way home, too. Leo slings Pericles' BACK PACK over his own shoulder.
+leo (CONT'D)
+OK, Pericles, let's go explain evolution to the monkeys.
+ON THADE:
+watching his soldiers throw down their weapons as Leo strides towards them. Thade rushes at his soldiers.
+thADE
+Stop him! ... 
+Thade pushes a few towards Leo. These apes drop their weapons, too, and retreat. Thade tries to stop them.
+thADE (CONT'D)
+Go back ... I order you ... hold your positions ... cowards!
+The Humans cheer as they see the apes flee.  It's a day they thought they'd never see.  ATTAR watches his soldiers scatter. Confused, not sure what to do.
+Thade growls -- then charges and LEAPS -- landing hard at Leo. With one vicious backhand he sends Pericles sprawling into the dust. Attar and the other apes are shocked.
+thade (CONT'D)
+               (to Leo)
+Wherever you come from ... you're still just a wretched human.
+Thade grabs Leo and hurls him through the air.
+Leo hits the ground hard. Pericles' BACK PACK skitters along the rocks. Leo looks at Thade and runs for it. Thade charges Leo and throws him again. Leo takes another terrible fall.
+close on leo:
+
+
+
+
+CHAPTER 32: THADE’S NEW POWER
+as he pushes himself up out the dust. He can see the BACK PACK laying by the ENTRANCE to the Oberon.
+He gets to his feet and stands defiantly. Thade is enraged.
+Leo retreats -- luring Thade closer to the Oberon's bridge.
+Thade lopes forward and swats Leo back again. Leo lands by the BACK PACK -- tries furtively to reach into it before Thade can see.
+But Thade is on him too fast.
+IN LEO'S HAND -- THE GREEN GLOW STICK
+Thade grabs the Green Stick -- holds it up clsoe to examine it. Leo pretends to be worried.
+Thade bends, twists, sniffs the stick.
+Leo uses the opportunity to stagger back into the safety of the tunnel. Thade finally SNAPS THE GREEN STICK. Nothing happens. He roars -- and charges after Leo INTO THE TUNNEL.
+
+INT. Calima cave - OBERON TUNNEL
+Thade slaps Leo again -- and Leo tumbles deeper into the Oberon.
+int. Calima CAVE - the oberon tunnel
+Leo staggers down the old cave.
+int. Calima CAVE - oberon
+Thade throws Leo through the SECURITY DOOR onto the BRIDGE.
+ON THE BRIDGE - thade and LEO:
+Thade stands over Leo. Looking around at this strange place.
+thade
+I will bury your remains ... so they can be forgotten like the rest of your race.
+Thade starts for Leo -- but Leo manages to reach into Pericles' back pack and pull out the standard issue GUN.
+He wheels on Thade. Thade stops immediately.
+leo
+(reacting)
+You know what this is.
+Thade does. He is stunned. Caught off guard. Everything has turned around so quickly ... until --
+onto the bridge:
+Ari rushes in looking for Leo, but finds --
+THADE -- who leaps on her so quickly Leo dare not shoot. THADE stands with one hand gripping Ari's throat tightly. Leo points the gun at Thade.
+leo (CONT'D)
+Let her go.
+thADE
+I'm willing to die. ... Are you willing to see her die? 
+Leo realizes he has no option. He sets down the gun.  KICKS it to Thade.  It spins on the hard surface.  INTO FRAME -- ATTAR -- appears on the bridge.  Picks up the gun.  HOLDS IT UP as if he can't trust his eyes.
+thADE (CONT'D)
+(to Attar)
+With that weapon they are no longer the weaker race.  We can't allow it. 
+Leo speaks quickly to Attar.
+leo
+(re: ship)
+Look around ... this is who you really are. We brought you here. We lived together with you in peace ... until Semos murdered everyone.
+atTAR
+No ...
+
+(turns to Thade)
+Can it be true?
+thADE
+They'd make us their slaves. ... Bring me the gun.
+
+Attar is confused. He finally presents it to Thade.  Thade shoves Ari to the floor. Takes the gun. Thade let's his long finger wrap around the gun's trigger.
+thADE  (CONT'D)
+Does it really make a difference how we arrived here? We are the only ones who will survive.
+Ari pleads with Thade.
+ari
+Please don't hurt him.
+Thade reacts, looks at Ari.
+thADE
+I was always less than human to you.
+(points the gun)
+Someday if humans are even remembered, they will be known for what they really are... weak and stupid ...
+Thade PULLS THE TRIGGER.  Nothing happens.  He pulls it over and over.
+leo
+Stupid people, smart guns.
+Thade turns to Attar.
+thADE
+Kill them. 
+CLOSE ON ATTAR -- He doesn't move.
+THADE (CONT'D)
+  I'm your commander.  Obey me.
+atTAR
+Everything I have believed in... is a lie. You and your family have betrayed us. I will not follow you anymore.
+CLOSER -- LEO IS MANEUVERING THADE TO ONE SIDE OF THE BRIDGE AWAY FROM ARI AND ATTAR.
+thADE
+When you're dead and this place buried beneath the rocks ... no one know the truth.
+Leo takes one more STEP aside.
+leo
+You will ... forever.
+LEO PRESSES HIS HAND TO THE WALL.  Thade doesn't understand what he's doing until —
+
+
+
+
+CHAPTER 33: THE CAGED ANIMAL
+INT. Calima CAVE - THE BRIDGE - CONTINUOUS
+THE GLASS SECURITY DOOR OF THE OBERON BEGINS TO SLIDE SHUT.
+Leo grabs Ari and pulls her out.
+THADE is taken by surprise.  Confused at first.  Then with all his great power he grips the door as it closes.
+close on thade's hands
+With a terrifying roar Thade struggles and begins to slide the DOOR back.
+into frame -- another, larger set of hands
+Gripping Thade's wrists. Thade looks up to see --
+attar
+staring calmly, firmly at him.
+thADE
+Help me ... my friend ...
+(then)
+... I command you ...
+atTAR
+I will pray for you.
+Attar forcefully throws Thade back.  THE DOOR LOCKS CLOSED.
+widen
+Thade slams himself into the DOOR.  Over and over.  But this glass is beyond even an ape's force. Attar just stares at Thade.  Then turns and walks away.
+on thade - through the glass
+beats on the door viciously.  But they can no longer hear the sound of his ROARS.
+Thade runs to the CONTROL PANEL.  Starts to pound the board. His strength has no effect on the sophisticated technology.
+ecu
+Thade slams his hands down on the buttons.  He is trapped.
+angle
+Leo turns to look for Pericles.  But he's gone.  Ari kneels down, touches a BLOOD TRAIL that LEADS LEO TO --
+int. Calima CAVE/oberon - ANIMAL LIVING QUARTERS
+Leo comes into the 'cave' that was once the ANIMAL LABORATORY of the OBERON.
+PERICLES climbs slowly INTO THE HOLE THAT WAS ONCE HIS CAGE. The only home he's ever known.
+CLOSER: Pericles curls in the corner and lays his head down.  Breathing softly.
+INTO FRAME: LEO takes his hand.  Smiles at him.
+
+
+
+
+CHAPTER 34: A CHANCE TO GO BACK
+DISSOLVE TO:ext. plains of Calima - day
+Wind sweeps across the battlefield.
+at the ruins
+find attar
+kneeling at KRULL'S GRAVE. Attar places a last stone on top.
+INTO FRAME: Ari touches Krull's grave.
+arI
+All the years you put up with me ... this time I wish I could've protected you.
+widen
+Leo comes INTO FRAME with Pericles. Hands him to Ari.
+leo
+Take good care of him.
+arI
+I can promise you I won't put him in a cage.
+Attar looks across the battlefield.
+atTAR
+We will leave the graves unmarked. No one who comes here will be able to tell ape from human. They will be mourned together ... as it should be from now on.
+insert: pod as a loud beeping starts
+BACK TO LEO
+reacting to the SOUND.
+leo
+It's found the coordinates of the storm that brought me here. 
+Ari is trying to contain her emotions.
+arI
+It would mean a great deal to everyone if you would stay ... 
+(then)
+It would mean a great deal to me .... 
+Leo's mind is already made up. The BEEPING continues.
+leo
+I have to leave now ... I have to take a chance that it can get me back.
+Ari touches Leo in a gentle, grooming manner. There is heartbreak in her voice.
+Ari starts to say something, nods.
+arI
+One day they'll tell a story about a human who came from the stars and changed our world. ... Some will say it was just a fairy-tale ... that He was never real ...
+Ari's eyes well up.
+arI (CONT'D)
+...  but I'll know the truth.
+The BEEPING increases frequency. Leo backs up and then  starts sprinting for the pod.
+OMIT
+ext. THE POD(continuous)
+Leo comes running up. Surprising Limbo coming out -- Limbo immediately turns around -- TRIES TO HIDE SOMETHING BEHIND HIS BACK. Looks at Leo. Then sighs --
+Limbo holds out an OBERON EMBLEM.
+leo
+You gonna sell that?
+liMBO
+(sincerely)
+No ... I wanted soemthing to remember you by.
+He holds it out to Leo. Leo presses it back into his hand.
+leo
+Make sure you get a good price.
+OFF TO THE SIDE -- DAENA
+
+tries to stand proudly. Leo goes to her. She finally breaks down-- wraps her arms around him and holds him tight.
+leo (CONT'D)
+You know I can't take you with me ...
+dAENA
+Then you'll have to come back.
+She kisses him deeply. Then runs off.
+CIRCLE ROUND LEO AS HE TAKES ONE LAST LOOK AROUND AT THIS PLANET AND CLIMBS INTO THE POD.
+INT. POD
+Leo slips on his helmet.
+leo
+Close pod.
+The HATCH slides CLOSED.
+widen: ext. Calima - day
+Ari, Daena, Attar, Limbo and the others shield their eyes as the POD rises in the sky.
+WIDE SHOT - SKY
+Birn sits alone on horseback at the top of the cliffs as A STREAK OF LIGHT blazes across the sky.  Ascending until the bright light disappears.
+int. alpha pod - later
+The perfect blackness of SPACE. Leo is trying to map his coordinates.
+HIS CONTROL PANEL LIGHTS UP: A MESSAGE READS:
+               COORDINATES UNKNOWN
+
+WIDEN SHOT
+The same rush of LIGHTS we saw from the ELECTROMAGNETIC STORM appear to Leo's right.  Blinding him -- as it did before.
+THE ALPHA POD IS SUDDENLY OVERWHELMED WITH LIGHT FROM THE WORM HOLE.
+
+
+
+
+
+CHAPTER 35: WELCOME HOME
+And then it DISAPPEARS.
+wipe screen with static and dissolve to:
+the pod
+as it rockets OUT of NOTHINGNESS into view. Whipped through the TIME STORM to some other part of the universe.
+int. pod
+LEO blinks his eyes. Regains consciousness. He looks out the pod window.
+pov
+rushing up quickly AT Leo is the magnificent blue green ball of the EARTH. WE can discern the familiar LAND FORMS OF THE CONTINENTS.
+Leo is amazed, his eyes glisten. After his ordeal he's HOME.
+Then the POD begins to SHAKE violently.
+widEN
+as the POD enters the earth's atmosphere. Engulfed by clouds.
+Leo fights to hold the pod steady. It begins to roll. Leo can barely control it. He fires his RETRO BURNERS to slow down.
+The CLOUD COVER THICKENS -- Leo has lost sight of the horizon.
+angle - into view
+just for a moment: TWO LONG LINES OF LIGHTS FRAMING A GREEN STRETCH OF LAWN -- almost like a landing strip. Leo does the best he can to direct the pod to the light.
+ext. the mall - washington, d.c. - night
+A heavy Potomac FOG blankets the city as the POD rips through the expanse of lawn, throwing off sparks, splashing through the REFLECTING POOL, finally coming to rest.
+closer - the pod
+Leo climbs out. Stunned. Not sure where he is. He can HEAR SIRENS.
+angle - through the fog
+The spinning red LIGHTS of Capitol police cars speeding to the crash sight. Doors slam. Leo hears the filtered sounds of TWO WAY RADIOS. Then FIGURES appear in the fog. Leo starts to run towards them.
+Then he stops.
+angle - the cops
+APES. One 'cop' opens his mouth and gives a loud ROAR -- like we heard on the planet.
+Leo can't believe his eyes. He backs up. More police cars appear. The growls get louder.
+Leo turns and starts to run. _
+follow leo
+Up the steps of the "LINCOLN MEMORIAL' -- higher and higher. OVER HIS SHOULDER we can see the apes swarming. Leo races into the memorial. Exhausted.
+widen
+as the apes catch up with Leo and subdue him. Leo fights them as best he can. His eyes wide -- seeing something that makes his blood run cold. As the APES pull him away.
+leo
+No ... no ...
+leo's pov -- where lincoln always sat now sits thade. A MASSIVE MARBLE ICON OF THE APES.
+fade out.
+CHAPTER 36: END TITLES
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

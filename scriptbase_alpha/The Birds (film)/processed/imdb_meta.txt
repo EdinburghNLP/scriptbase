@@ -1,0 +1,149 @@
+year	1963
+imdb score	7.8
+meta score	N/A
+genre	Horror
+genre	Sci-Fi
+genre	Thriller
+keyword	bird
+keyword	socialite
+keyword	bird attack
+keyword	school
+keyword	california
+keyword	children
+keyword	seagull
+keyword	phone booth
+keyword	practical joke
+keyword	pet shop
+keyword	birthday
+keyword	lawyer
+keyword	trapped
+keyword	san francisco california
+keyword	burned alive
+keyword	teacher
+keyword	nature run amok
+keyword	shopkeeper
+keyword	deputy sheriff
+keyword	disaster
+keyword	cigarette lighter
+keyword	sheriff
+keyword	outboard motor
+keyword	bodega bay california
+keyword	crow
+keyword	fear
+keyword	evacuation
+keyword	killer animal
+keyword	canary
+keyword	piano playing
+keyword	cult film
+keyword	electronic music
+keyword	blood on head
+keyword	alcoholic drink
+keyword	elevator
+keyword	animal attack
+keyword	framed painting
+keyword	schoolteacher
+keyword	ornithologist
+keyword	convertible
+keyword	bird in title
+keyword	based on short story
+keyword	lighting a cigarette
+keyword	schoolhouse
+keyword	antiseptic
+keyword	two word title
+keyword	attic
+keyword	waitress
+keyword	farm
+keyword	motorboat
+keyword	covering a dead body
+keyword	director cameo
+keyword	houseguest
+keyword	brother sister relationship
+keyword	female slaps female
+keyword	finch
+keyword	cigarette smoking
+keyword	animal in title
+keyword	jungle gym
+keyword	love triangle
+keyword	mother son relationship
+keyword	female protagonist
+keyword	license plate
+keyword	bird cage
+keyword	widow
+keyword	telephone
+keyword	dock
+keyword	1960s
+keyword	island
+keyword	bloody hand
+keyword	eye gouging
+keyword	gift
+keyword	running from danger
+keyword	sparrow
+keyword	chased down street
+keyword	chimney
+keyword	single mother
+keyword	general store
+keyword	rotoscoping
+keyword	birthday party
+keyword	pet bird
+keyword	unsolved mystery
+keyword	telephone call
+keyword	face slap
+keyword	binoculars
+keyword	no ending
+keyword	lovebird
+keyword	broken window
+keyword	blonde
+keyword	fireplace
+keyword	child in peril
+keyword	man against nature
+keyword	flashlight
+keyword	eyes pecked out
+keyword	dead bird
+keyword	head wound
+keyword	diner
+keyword	corpse
+keyword	blockbuster
+keyword	playground
+keyword	no music
+keyword	piano
+keyword	silent scream
+keyword	exploding gasoline station
+keyword	portrait
+keyword	paranoia
+keyword	cotton ball
+keyword	small town
+keyword	seclusion
+keyword	teacup
+keyword	blindfold
+keyword	old flame
+keyword	vomiting
+keyword	blind man's bluff game
+keyword	painted portrait
+keyword	cigarette machine
+keyword	death of friend
+keyword	title spoken by character
+cast	Tippi Hedren	Melanie Daniels
+cast	Suzanne Pleshette	Annie Hayworth
+cast	Rod Taylor	Mitch Brenner
+cast	Jessica Tandy	Lydia Brenner
+cast	Veronica Cartwright	Cathy Brenner
+cast	Ethel Griffies	Mrs. Bundy - Ornithologist
+cast	Charles McGraw	Sebastian Sholes - Fisherman in Diner
+cast	Doreen Lang	Hysterical Mother in Diner
+cast	Ruth McDevitt	Mrs. MacGruder - Pet Store Clerk
+cast	Joe Mantell	Traveling Salesman at Diner's Bar
+cast	Malcolm Atterbury	Deputy Al Malone
+cast	Karl Swenson	Drunken Doomsayer in Diner
+cast	Elizabeth Wilson	Helen Carter
+cast	Lonny Chapman	Deke Carter - Diner Owner
+cast	Doodles Weaver	Fisherman Helping with Rental Boat
+cast	John McGovern	Postal Clerk
+cast	Richard Deacon	Mitch's City Neighbor
+cast	Bill Quinn	Sam - Man in Diner
+cast	Morgan Brittany	Brunette Girl at Birthday Party
+cast	Darlene Conley	Waitress
+cast	Alfred Hitchcock	Man Walking Dogs Out of Pet Shop
+cast	Dal McKennon	Sam the Cook
+cast	Mike Monteleone	Gas Station Attendant
+cast	Jeannie Russell	School Child
+cast	Roxanne Tunis	Extra

@@ -1,0 +1,334 @@
+year	1994
+imdb score	7.4
+meta score	53
+genre	Comedy
+keyword	stock
+keyword	industry
+keyword	mail
+keyword	reporter
+keyword	board of directors
+keyword	suicide
+keyword	business
+keyword	business executive
+keyword	new york city
+keyword	fire
+keyword	waitress
+keyword	extreme closeup
+keyword	country bumpkin
+keyword	sculptor
+keyword	montage
+keyword	suicide attempt
+keyword	corporation
+keyword	looking through a keyhole
+keyword	karma
+keyword	broadway manhattan new york city
+keyword	hanging out a window
+keyword	fainting
+keyword	water cooler
+keyword	gala
+keyword	dancer
+keyword	poetry reading
+keyword	cigar smoking
+keyword	sculpture
+keyword	printing press
+keyword	ukulele
+keyword	vomit
+keyword	innocence
+keyword	magical negro stereotype
+keyword	bus
+keyword	opening narration
+keyword	face slap
+keyword	economic exploitation
+keyword	punched in the face
+keyword	cafe
+keyword	stockings
+keyword	strait jacket
+keyword	ice pack
+keyword	rags to riches
+keyword	muncie college
+keyword	disgrace
+keyword	elevator
+keyword	drinking
+keyword	elevator operator
+keyword	u.s. president
+keyword	horatio alger myth
+keyword	corruption
+keyword	bar
+keyword	song
+keyword	deus ex machina
+keyword	art deco
+keyword	man on a ledge
+keyword	chisel
+keyword	newton's cradle
+keyword	exploitation
+keyword	mandala
+keyword	reference to william shakespeare
+keyword	mob
+keyword	new year's eve
+keyword	coonskin cap
+keyword	big business
+keyword	time clock
+keyword	stockholder
+keyword	barber shave
+keyword	mass production
+keyword	surrealism
+keyword	skyscraper
+keyword	tailor
+keyword	falling from height
+keyword	gardenia
+keyword	shame
+keyword	crying man
+keyword	sketching
+keyword	window ledge
+keyword	sorting mail
+keyword	slow motion scene
+keyword	davy crockett hat
+keyword	mailroom clerk
+keyword	time
+keyword	massage
+keyword	hanging from a clock
+keyword	night cityscape
+keyword	foot in waste basket
+keyword	reading a newspaper
+keyword	boy
+keyword	cult film
+keyword	starts with narration
+keyword	infiltrator
+keyword	hermetic world
+keyword	career woman
+keyword	screwball comedy
+keyword	pocket watch
+keyword	critique of capitalism
+keyword	false teeth
+keyword	cyclical
+keyword	stock ticker
+keyword	drunkenness
+keyword	box office flop
+keyword	model
+keyword	mob of reporters
+keyword	corsage
+keyword	dictating machine
+keyword	reading a comics page
+keyword	kicked in the shin
+keyword	reference to j. edgar hoover
+keyword	some scenes in black and white
+keyword	singer
+keyword	keyhole
+keyword	straw
+keyword	muncie indiana
+keyword	dreaming
+keyword	dream
+keyword	rubber stamp
+keyword	black eye
+keyword	pulitzer prize
+keyword	selflessness
+keyword	newspaper
+keyword	flying
+keyword	crossword puzzle
+keyword	file cabinet
+keyword	ukelele
+keyword	golf
+keyword	business administration
+keyword	enlightenment
+keyword	hyperrealism
+keyword	idea man
+keyword	angel
+keyword	character appears in newspaper
+keyword	shaving
+keyword	company president
+keyword	passionate kiss
+keyword	manhattan new york city
+keyword	laughing
+keyword	hanging by one's finger tips
+keyword	dance
+keyword	flashback
+keyword	satire
+keyword	stopping time
+keyword	kiss
+keyword	woman smoker
+keyword	jumping from a window
+keyword	circle
+keyword	christmas
+keyword	underwear
+keyword	baldness
+keyword	french poodle
+keyword	42nd street manhattan new york city
+keyword	price cut
+keyword	barber shop
+keyword	crying
+keyword	rebirth
+keyword	fairy tale
+keyword	broom
+keyword	mysticism
+keyword	coffee shop
+keyword	dancing
+keyword	hula hoop
+keyword	reference to the king and i the stage musical
+keyword	taxi driver
+keyword	looking for work
+keyword	beatnik
+keyword	second chance
+keyword	corporate power
+keyword	editor
+keyword	net
+keyword	reference to war and peace
+keyword	chase
+keyword	mailroom
+keyword	exotic dancer
+keyword	time freeze
+keyword	materialism
+keyword	mimeograph machine
+keyword	unity
+keyword	reference to oklahoma! the stage musical
+keyword	greed
+keyword	frisbee
+keyword	success
+keyword	security guard
+keyword	tears
+keyword	suicide by jumping
+keyword	patsy
+keyword	girl
+keyword	ambulance
+keyword	jumping out a window
+keyword	cult film
+keyword	memory
+keyword	singing
+keyword	eavesdropping
+keyword	fired from the job
+keyword	board meeting
+keyword	stock manipulator
+keyword	naivety
+keyword	idiot
+keyword	cigarette smoking
+keyword	watch works
+keyword	reincarnation
+keyword	empire state building manhattan new york city
+keyword	reference to dwight d eisenhower
+keyword	snow
+keyword	mechanic
+keyword	cucumber on eyes
+keyword	throwing drink in face
+keyword	string quartet
+keyword	male singer
+keyword	husband wife relationship
+keyword	toy
+keyword	wedding
+keyword	year 1959
+keyword	1950s
+keyword	mental hospital
+keyword	voice over narration
+keyword	power
+keyword	hawking newspapers
+keyword	clock
+keyword	transcendence
+keyword	intellectual property
+keyword	employment agency
+keyword	psychiatrist
+keyword	invention
+keyword	secretary
+keyword	drink
+keyword	typewriter
+keyword	restaurant
+keyword	christmas party
+keyword	wage slave
+keyword	martini
+keyword	remake
+keyword	spiral staircase
+keyword	halo
+keyword	sack of mail
+keyword	shakespearean quotation
+keyword	good versus evil
+keyword	french door
+keyword	pneumatic tube
+keyword	standing on ledge
+keyword	journalism
+keyword	boardroom
+keyword	snowing
+keyword	letter
+keyword	rube
+keyword	character name in title
+keyword	
+cast	Tim Robbins	Norville Barnes
+cast	Jennifer Jason Leigh	Amy Archer
+cast	Paul Newman	Sidney J. Mussburger
+cast	Charles Durning	Waring Hudsucker
+cast	John Mahoney	Chief
+cast	Jim True-Frost	Buzz
+cast	Bill Cobbs	Moses
+cast	Bruce Campbell	Smitty
+cast	Harry Bugin	Aloysius
+cast	John Seitz	Benny
+cast	Joe Grifasi	Lou
+cast	Roy Brocksmith	Board Member
+cast	John Wylie	Board Member
+cast	I.M. Hobson	Board Member
+cast	Gary Allen	Board Member
+cast	John Scanlan	Board Member
+cast	Richard Woods	Board Member
+cast	Jerome Dempsey	Board Member
+cast	Peter McPherson	Board Member
+cast	David Byrd	Dr. Hugo Bronfenbrenner
+cast	Christopher Darga	Mail Room Orienter
+cast	Patrick Cranshaw	Ancient Sorter
+cast	Robert Weil	Mail Room Boss
+cast	Mary Lou Rosato	Mussburger's Secretary
+cast	Ernest Sarracino	Luigi the Tailor
+cast	Eleanor Glockner	Mrs. Mussburger
+cast	Kathleen Perkins	Mrs. Braithwaite
+cast	Joseph Marcus	Sears Braithwaite of Bullard
+cast	Peter Gallagher	Vic Tenetta
+cast	Noble Willingham	Zebulon Cardoza
+cast	Barbara Ann Grimes	Mrs. Cardoza
+cast	Thom Noble	Thorstenson Finlandson
+cast	Steve Buscemi	Beatnik Barman
+cast	William Duff-Griffin	Newsreel Scientist
+cast	Anna Nicole Smith	Za-Za
+cast	Pamela Everett	Dream Dancer
+cast	Arthur Bridgers	The Hula-Hoop Kid
+cast	Sam Raimi	Hudsucker Brainstormer
+cast	John Cameron	Hudsucker Brainstormer
+cast	Skipper Duke	Mr. Grier
+cast	Jay Kapner	Mr. Levin
+cast	Jon Polito	Mr. Bumstead
+cast	Richard Whiting	Ancient Puzzler
+cast	Linda McCoy	Coffee Shop Waitress
+cast	Stan Adams	Emcee
+cast	John Goodman	Newsreel Announcer
+cast	Joanne Pankow	Newsreel Secretary
+cast	Mario Todisco	Norville's Goon
+cast	Colin Fickes	Newsboy
+cast	Dick Sasso	Drunk in Alley
+cast	Jesse Brewer	Mailroom Screamer
+cast	Philip Loch	Mailroom Screamer
+cast	Stan Lichtenstein	Mailroom Screamer
+cast	Todd Alcott	Mailroom Screamer
+cast	Ace O'Connell	Mailroom Screamer
+cast	Richard Schiff	Mailroom Screamer
+cast	Frank Jeffreys	Mailroom Screamer
+cast	Lou Criscuolo	Mailroom Screamer
+cast	Michael Earl Reid	Mailroom Screamer
+cast	Mike Starr	Newsroom Reporter
+cast	David Hagar	Newsroom Reporter
+cast	Willie Reale	Newsroom Reporter
+cast	Harvey Meyer	Newsroom Reporter
+cast	Tom Toner	Newsroom Reporter
+cast	David Fawcett	Newsroom Reporter
+cast	Jeff Still	Newsreel Reporter
+cast	David Gould	Newsreel Reporter
+cast	Gil Pearson	Newsreel Reporter
+cast	Marc Garber	Newsreel Reporter
+cast	David Massie	Newsreel Reporter
+cast	Mark Jeffrey Miller	Newsreel Reporter
+cast	Peter Siragusa	Newsreel Reporter
+cast	Nelson George	Newsreel Reporter
+cast	Mike Houlihan	Newsreel Reporter
+cast	Ed Lillard	Newsreel Reporter
+cast	Wantland Sandel	New Year's Mob
+cast	James Deuter	New Year's Mob
+cast	Roderick Peeples	New Year's Mob
+cast	Cynthia Baker	New Year's Mob
+cast	Catherine Bayley	Temple Masseuse
+cast	Bryan Keith DeBose	Orderly
+cast	Steve Head	Security Guard
+cast	Jack Rooney	Man at Merchandise Mart
+cast	Keith Schrader	Businessman

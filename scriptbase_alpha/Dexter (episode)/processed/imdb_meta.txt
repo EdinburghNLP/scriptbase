@@ -1,0 +1,73 @@
+year	2007
+imdb score	8.8
+meta score	N/A
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	secret
+keyword	american flag
+keyword	one word title
+keyword	eating and driving
+keyword	animal senses evil
+keyword	donut
+keyword	blood spatter analyst
+keyword	normalcy
+keyword	miami florida
+keyword	ice truck
+keyword	microscope slide
+keyword	ice cream
+keyword	child killer
+keyword	internet
+keyword	exhumation
+keyword	refrigerator truck
+keyword	garrote
+keyword	box of doughnuts
+keyword	undercover hooker
+keyword	crime scene photograph
+keyword	dismemberment
+keyword	close up of eyes
+keyword	hearing characters thoughts
+keyword	tied to a table
+keyword	barbie doll
+keyword	tattoo
+keyword	reference to jeffrey dahmer
+keyword	rape victim
+keyword	dog
+keyword	narrated by character
+keyword	bare chested male
+keyword	drop of blood
+keyword	kissing
+keyword	origins
+keyword	truck
+keyword	based on novel
+keyword	title spoken by character
+keyword	character name in title
+cast	Michael C. Hall	Dexter Morgan
+cast	Julie Benz	Rita Bennett
+cast	Jennifer Carpenter	Off. Debra Morgan
+cast	Erik King	Sgt. James Doakes
+cast	Lauren Vélez	Lt. Maria LaGuerta
+cast	David Zayas	Det. Angel Batista
+cast	James Remar	Harry Morgan
+cast	C.S. Lee	Vince Masuka
+cast	Margo Martindale	Camilla
+cast	Dominic Janes	Young Dexter
+cast	Christina Robinson	Astor Bennett
+cast	Daniel Goldman	Cody Bennett
+cast	Patrick Michael Buckley	Off. Oliver
+cast	Ethan S. Smith	Jaworski
+cast	Susanne Kreitman Taylor	Det. Sue
+cast	Marc Macaulay	Detective
+cast	Devon Graye	Teenage Dexter
+cast	Justin Kane	Off. Simon
+cast	Neeona Neal	Jane Saunders
+cast	Jeanne Tidwell	Mrs. Donovan
+cast	Roy Rutland	Desk Sergeant
+cast	Jim Abele	Mike Donovan
+cast	Parker Cristan	Crime Scene Investigator
+cast	Yvonne Gougelet	Crackhead
+cast	Jadin Gould	Young Debra
+cast	Karina Michel	Beth
+cast	Renier J. Murillo	Concert Vendor
+cast	Nicholas Simmons	Murdered Drug Dealer

@@ -1,0 +1,192 @@
+year	2007
+imdb score	7.5
+meta score	83
+genre	Drama
+genre	Horror
+genre	Musical
+genre	Thriller
+keyword	judge
+keyword	beadle
+keyword	lust
+keyword	accomplice
+keyword	widow
+keyword	sailor
+keyword	razor
+keyword	blood spatter
+keyword	picnic
+keyword	murderer
+keyword	seaman
+keyword	crushed hand
+keyword	death threat
+keyword	trapdoor
+keyword	wig
+keyword	lifting female in air
+keyword	righteous rage
+keyword	incest
+keyword	key
+keyword	cane
+keyword	stabbed in the neck
+keyword	protective male
+keyword	19th century
+keyword	social injustice
+keyword	wedding
+keyword	oven
+keyword	madhouse
+keyword	body in a trunk
+keyword	corpse
+keyword	underage drinking
+keyword	trial
+keyword	trail of blood
+keyword	mother figure
+keyword	blood on camera lens
+keyword	flashback
+keyword	victorian era
+keyword	grinder
+keyword	blackmail
+keyword	cellar
+keyword	killer
+keyword	baker
+keyword	husband wife relationship
+keyword	confession
+keyword	cockney
+keyword	london england
+keyword	throat slitting
+keyword	beggar
+keyword	shaving
+keyword	severed finger
+keyword	restaurant
+keyword	rescue
+keyword	bakery
+keyword	loss of loved one
+keyword	melodrama
+keyword	face slap
+keyword	jealousy
+keyword	gothic
+keyword	presumed dead
+keyword	secret door
+keyword	child abuse
+keyword	gothic horror
+keyword	young love
+keyword	villain played by lead actor
+keyword	whipping
+keyword	barber chair
+keyword	person on fire
+keyword	loss of family
+keyword	wager
+keyword	deception
+keyword	social satire
+keyword	crushed head
+keyword	ale
+keyword	adopted daughter
+keyword	lifting someone into the air
+keyword	burned alive
+keyword	implied rape
+keyword	black comedy
+keyword	widower
+keyword	murder
+keyword	assault
+keyword	infatuation
+keyword	off screen rape
+keyword	1850s
+keyword	sexual predator
+keyword	uxoricide
+keyword	severed hand
+keyword	sewer
+keyword	twitching
+keyword	psychopath
+keyword	name change
+keyword	cannibalism
+keyword	covered in blood
+keyword	love at first sight
+keyword	protective father
+keyword	serial killer
+keyword	grand guignol
+keyword	based on stage musical
+keyword	fantasy sequence
+keyword	fake accent
+keyword	poison
+keyword	blood on shirt
+keyword	estranged daughter
+keyword	mass murder
+keyword	asylum
+keyword	abuse of power
+keyword	child in peril
+keyword	cult film
+keyword	remake
+keyword	barbershop
+keyword	escaped convict
+keyword	blood
+keyword	child with liquor
+keyword	dismemberment
+keyword	tragedy
+keyword	corset
+keyword	unrequited love
+keyword	guardian
+keyword	character name in title
+keyword	title spoken by character
+keyword	surprise ending
+cast	Johnny Depp	Sweeney Todd
+cast	Helena Bonham Carter	Mrs. Lovett
+cast	Alan Rickman	Judge Turpin
+cast	Timothy Spall	Beadle
+cast	Sacha Baron Cohen	Pirelli
+cast	Jamie Campbell Bower	Anthony
+cast	Laura Michelle Kelly	Lucy / Beggar Woman
+cast	Jayne Wisener	Johanna
+cast	Ed Sanders	Toby
+cast	Gracie May	Baby Johanna
+cast	Ava May	Baby Johanna
+cast	Gabriella Freeman	Baby Johanna
+cast	Jody Halse	Policeman
+cast	Aron Paramor	Policeman
+cast	Lee Whitlock	Policeman
+cast	Nick Haverson	Pirelli & Todd Customer
+cast	Mandy Holliday	Pirelli & Todd Customer
+cast	Colin Higgins	Elixir Sniffing Customer
+cast	John Paton	Gasping Man
+cast	Graham Bohea	Contest Bald Man
+cast	Daniel Lusardi	Boy Prisoner
+cast	Ian McLarnon	Man in Need of a Shave
+cast	Phill Woodfine	Shave Customer Slit Throat
+cast	Toby Hefferman	Happy Customer
+cast	Charlotte Child	Happy Customer's Wife
+cast	Kira Woolman	Happy Customer's Child
+cast	Helen Slaymaker	Jolly Friend
+cast	Jess Murphy	Jolly Friend
+cast	Nicholas Hewetson	Jolly Friend
+cast	Adam Roach	Jolly Friend
+cast	Marcus Cunningham	Jolly Friend
+cast	David McKail	Minister
+cast	Philip Philmar	Mr. Fogg
+cast	Gemma Grey	Inmate
+cast	Sue Maund	Inmate
+cast	Emma Hewitt	Inmate
+cast	Buck Holland	Barber Customer
+cast	Peter Mountain	Fleet Street Dandy
+cast	Harry Taylor	Mr. Lovett
+cast	Stephen Ashfield	Pie Customer
+cast	Jerry Judge	Pie Customer
+cast	Norman Campbell Rees	Pie Customer
+cast	Jonathan Williams	Pie Customer
+cast	William Oxborrow	Pie Customer
+cast	Tom Pleydell-Pearce	Pie Customer
+cast	Laura Sanchez	Pie Customer
+cast	Johnson Willis	Pie Customer
+cast	Jon-Paul Hevey	Pie Customer
+cast	Liza Sadovy	Pie Customer
+cast	Jane Fowler	Pie Customer
+cast	Gaye Brown	Pie Customer
+cast	Shane James Bordas	St. Dunstan's Market Patron
+cast	Victoria Bull	Blonde Madwoman
+cast	Cecilia Colby	Dancer
+cast	Neil Findlater	Vicar
+cast	Elizabeth Ford	Mother
+cast	Tim Glanfield	Road Digger
+cast	Kas Graham	Music Box Man
+cast	Kasia Halpin	Market Girl
+cast	Anthony Head	Man in street - greets Todd after competition
+cast	Les Loveday	Bird Seller
+cast	Vince McGahon	Poet
+cast	Nick Thomas-Webster	Opium Den Customer
+cast	Paul Vigrass	City Gentleman
+cast	Vesna Vujat	Market Lady

@@ -1,0 +1,123 @@
+year	2006
+imdb score	7.4
+meta score	91
+genre	Biography
+genre	Drama
+keyword	queen
+keyword	monarchy
+keyword	prime minister
+keyword	queen elizabeth ii
+keyword	speech
+keyword	castle
+keyword	princess diana
+keyword	scottish accent
+keyword	british royal family
+keyword	etiquette
+keyword	funeral procession
+keyword	stag
+keyword	mother in law daughter in law relationship
+keyword	england
+keyword	husband wife relationship
+keyword	critically acclaimed
+keyword	kitchen
+keyword	buckingham palace london
+keyword	london england
+keyword	paparazzi
+keyword	scottish highlands
+keyword	reference to the cheshire cat
+keyword	funeral
+keyword	dog lover
+keyword	politician
+keyword	decorum
+keyword	mother son relationship
+keyword	woman with glasses
+keyword	grief
+keyword	great britain
+keyword	priest
+keyword	car trouble
+keyword	two word title
+keyword	hunting
+keyword	newspaper headline
+keyword	politics
+keyword	flower
+keyword	westminster abbey london
+keyword	travel
+keyword	queen of england
+keyword	corgi
+keyword	kilt
+keyword	deer
+keyword	title in title
+keyword	portrait sitting
+keyword	bereavement
+keyword	royalty
+keyword	public relations
+keyword	1990s
+keyword	loss of loved one
+keyword	archive footage
+keyword	mother daughter relationship
+keyword	independent film
+keyword	title spoken by character
+cast	Helen Mirren	The Queen
+cast	James Cromwell	Prince Philip
+cast	Alex Jennings	Prince Charles
+cast	Roger Allam	Robin Janvrin
+cast	Sylvia Syms	Queen Mother
+cast	Tim McMullan	Stephen Lamport
+cast	Robin Soans	Equerry
+cast	Lola Peploe	Janvrin's Secretary
+cast	Douglas Reith	Lord Airlie
+cast	Joyce Henderson	Balmoral Maid
+cast	Pat Laffan	Head Ghillie
+cast	Amanda Hadingue	Queen's Dresser
+cast	John McGlynn	Balmoral Head Ghillie
+cast	Gray O'Brien	Charles' Valet
+cast	Dolina MacLennan	Balmoral Switchboard Operator
+cast	Jake Taylor Shantos	Prince William
+cast	Dash Barber	Prince Harry
+cast	Michael Sheen	Tony Blair
+cast	Helen McCrory	Cherie Blair
+cast	Mark Bazeley	Alastair Campbell
+cast	Kananu Kirimi	Blair's PA
+cast	Susan Hitch	Blair's Secretary
+cast	Julian Firth	Blair's Aide
+cast	Harry Alexander Coath	Euan Blair
+cast	Earl Cameron	Portrait Artist
+cast	Elliot Levey	TV Director
+cast	Anthony Debaeck	Catholic Priest
+cast	Emmy Lou Harries	Little Girl
+cast	Laurence Burg	Princess Diana
+cast	Michel Gay	Dodi Fayed
+cast	Wolfgang Pissors	German Reporter
+cast	Malou Beauvoir	American Reporter
+cast	Paul Barrett	French Bodyguard
+cast	Xavier Castano	French Bodyguard
+cast	Mohamed Al-Fayed	Himself
+cast	Martin Bashir	Himself
+cast	Bill Clinton	Himself
+cast	Tom Cruise	Himself
+cast	Dodi Fayed	Himself
+cast	James Fiddy	No.10 Advisor
+cast	Tom Hanks	Himself
+cast	Martin Heathcote	Secret Service
+cast	Elton John	Himself
+cast	Forbes KB	Biker
+cast	Nicole Kidman	Herself
+cast	Martyn Lewis	Himself - Newsreader
+cast	Nelson Mandela	Himself
+cast	Alan Marsh	Extra
+cast	Trevor McDonald	Himself - Newsreader
+cast	Mae McDougall	Stalking Party
+cast	Nicholas Owen	Himself - Newsreader
+cast	Gavin Park	Royal Protection Officer
+cast	Camilla Parker-Bowles	Herself
+cast	Luciano Pavarotti	Himself
+cast	Princess Diana	Herself
+cast	Tony Red Richards	Man in Crowd
+cast	Stephen Samson	Greenkeeper
+cast	Jon Snow	Himself - Newsreader
+cast	Julia Somerville	Herself - Newsreader
+cast	Earl Charles Spencer	Himself
+cast	Steven Spielberg	Himself
+cast	David Starkey	Himself
+cast	Tracey Ullman	Herself
+cast	Ralitsa Vassileva	Herself

@@ -1,0 +1,157 @@
+year	1944
+imdb score	8.5
+meta score	N/A
+genre	Crime
+genre	Drama
+genre	Film-Noir
+genre	Thriller
+keyword	insurance
+keyword	double indemnity
+keyword	insurance policy
+keyword	murder
+keyword	insurance investigator
+keyword	insurance salesman
+keyword	insurance company
+keyword	double cross
+keyword	insurance agent
+keyword	gunshot
+keyword	death
+keyword	suspicion
+keyword	marriage
+keyword	1930s
+keyword	insurance fraud
+keyword	widowed father
+keyword	chinese checkers
+keyword	mortal wound
+keyword	murder disguised as accident
+keyword	nurse
+keyword	jumping from a train
+keyword	female killer
+keyword	murder of husband
+keyword	los angeles california
+keyword	ankle bracelet
+keyword	father daughter relationship
+keyword	love
+keyword	corpse
+keyword	dictaphone
+keyword	candlelight dinner
+keyword	office building
+keyword	obsession
+keyword	hard boiled dame
+keyword	parking garage
+keyword	told in flashback
+keyword	leg cast
+keyword	staircase conversation
+keyword	employer employee relationship
+keyword	tears
+keyword	lust
+keyword	femme fatale
+keyword	elevator operator
+keyword	janitor
+keyword	elevator
+keyword	claims investigator
+keyword	dead woman
+keyword	voice over narration
+keyword	assumed identity
+keyword	guilt
+keyword	shot to death
+keyword	paranoia
+keyword	female corrupts male
+keyword	bullet wound
+keyword	dating
+keyword	insurance claim
+keyword	stepmother
+keyword	anger
+keyword	train
+keyword	widow
+keyword	photograph
+keyword	adultery
+keyword	hollywood hills
+keyword	railroad tracks
+keyword	honeysuckle
+keyword	cult film
+keyword	husband wife relationship
+keyword	stepdaughter
+keyword	ice tea
+keyword	wrong suspect
+keyword	year 1938
+keyword	villainess played by lead actress
+keyword	impersonation
+keyword	mislaid trust
+keyword	goldfish bowl
+keyword	title same as book
+keyword	witness
+keyword	los feliz
+keyword	cast
+keyword	hanging up without saying goodbye
+keyword	insurance claims office
+keyword	perfect murder scheme
+keyword	suspense
+keyword	get rich quick scheme
+keyword	bowling alley
+keyword	crutches
+keyword	porter
+keyword	cynicism
+keyword	murder conspiracy
+keyword	eye witness
+keyword	glendale california
+keyword	betrayal
+keyword	job offer
+keyword	blood
+keyword	greed
+keyword	criminal
+keyword	stepmother stepdaughter relationship
+keyword	softball
+keyword	reckless driving
+keyword	insurance investigation
+keyword	supermarket
+keyword	telephone box
+keyword	wax cylinder
+keyword	suspected murder
+keyword	woman shot
+keyword	crime gone awry
+keyword	grief
+keyword	railway station
+keyword	wife murders husband
+keyword	flashback
+keyword	infidelity
+keyword	revolver
+keyword	blonde
+keyword	scam
+keyword	loss of father
+keyword	unhappy marriage
+keyword	unfaithfulness
+keyword	hollywood bowl
+keyword	death of father
+keyword	based on novel
+keyword	title spoken by character
+cast	Fred MacMurray	Walter Neff
+cast	Barbara Stanwyck	Phyllis Dietrichson
+cast	Edward G. Robinson	Barton Keyes
+cast	Porter Hall	Mr. Jackson
+cast	Jean Heather	Lola Dietrichson
+cast	Tom Powers	Mr. Dietrichson
+cast	Byron Barr	Nino Zachetti
+cast	Richard Gaines	Edward S. Norton, Jr.
+cast	Fortunio Bonanova	Sam Garlopis
+cast	John Philliber	Joe Peters
+cast	James Adamson	Pullman Porter
+cast	John Berry	Bit Part
+cast	Raymond Chandler	Man Reading Book
+cast	Edmund Cobb	Train Conductor
+cast	Kernan Cripps	Conductor
+cast	Betty Farrington	Nettie - Dietrichsons' Maid
+cast	Bess Flowers	Norton's Secretary
+cast	Miriam Franklin	Keyes' Secretary
+cast	Harold Garrison	Redcap
+cast	Eddie Hall	Man in Drug Store
+cast	Teala Loring	Pacific All-Risk Telephone Operator
+cast	George Magrill	Man
+cast	Sam McDaniel	Charlie - Garage Attendant
+cast	Billy Mitchell	Pullman Porter
+cast	Clarence Muse	Man
+cast	Constance Purdy	Fat Shopper in Market
+cast	Dick Rush	Pullman Conductor
+cast	Floyd Shackelford	Pullman Porter
+cast	Oscar Smith	Pullman Porter
+cast	Douglas Spencer	Lou Schwartz

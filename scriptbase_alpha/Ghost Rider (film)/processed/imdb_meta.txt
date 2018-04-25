@@ -1,0 +1,151 @@
+year	2007
+imdb score	5.2
+meta score	35
+genre	Action
+genre	Fantasy
+genre	Thriller
+keyword	mephistopheles
+keyword	devil
+keyword	blackheart
+keyword	bounty hunter
+keyword	cancer
+keyword	carnival
+keyword	motorcycle
+keyword	contract
+keyword	motorcycle accident
+keyword	biker
+keyword	leather jacket
+keyword	skull
+keyword	cowboy hat
+keyword	exploding car
+keyword	buxom
+keyword	faustian
+keyword	watching tv
+keyword	falling from height
+keyword	retribution
+keyword	dark hero
+keyword	caretaker
+keyword	chopper
+keyword	dark angel
+keyword	murder investigation
+keyword	biker bar
+keyword	mugger
+keyword	hand to hand combat
+keyword	lasso
+keyword	father son relationship
+keyword	football stadium
+keyword	cemetery
+keyword	sunglasses
+keyword	boyfriend girlfriend relationship
+keyword	motorcycle stunt
+keyword	marvel comics
+keyword	burning man
+keyword	lifting someone into the air
+keyword	car motorcycle chase
+keyword	based on comic book
+keyword	blockbuster
+keyword	restaurant
+keyword	rooftop
+keyword	hit by a truck
+keyword	police interrogation
+keyword	stuntperson
+keyword	reference to satan
+keyword	demonic possession
+keyword	talking to mirror
+keyword	magic eight ball
+keyword	person on fire
+keyword	female reporter
+keyword	superhero
+keyword	beer drinking
+keyword	no opening credits
+keyword	cartoon on tv
+keyword	underwater scene
+keyword	closing credits sequence
+keyword	waitress
+keyword	swat team
+keyword	one man army
+keyword	demon
+keyword	radical transformation
+keyword	motorcycle cop
+keyword	mirror
+keyword	deal with the devil
+keyword	pointing
+keyword	young love
+keyword	flashback
+keyword	desert
+keyword	motorcycle crash
+keyword	southern accent
+keyword	marvel entertainment
+keyword	voice over narration
+keyword	opening action scene
+keyword	heavy rain
+keyword	cgi
+keyword	skeleton
+keyword	son of satan
+keyword	loss of father
+keyword	cow
+keyword	cleavage
+keyword	wood carving
+keyword	holding cell
+keyword	ring of fire
+keyword	cane
+keyword	helicopter
+keyword	shotgun
+keyword	manic laughter
+keyword	underwater fight
+keyword	stunt riding
+keyword	character name in title
+keyword	title spoken by character
+cast	Matt Long	Young Johnny Blaze
+cast	Raquel Alessi	Young Roxanne Simpson
+cast	Brett Cullen	Barton Blaze
+cast	Peter Fonda	Mephistopheles
+cast	Nicolas Cage	Johnny Blaze / Ghost Rider
+cast	Donal Logue	Mack
+cast	Tony Ghosthawk	Team Blaze
+cast	Hugh Sexton	Team Blaze
+cast	Marcus Jones	Team Blaze
+cast	Matt Norman	Team Blaze
+cast	Lawrence Cameron Steele	X Games Announcer
+cast	Wes Bentley	Blackheart
+cast	Eddie Baroo	Motorcycle Gang Member
+cast	Jessica Napier	Broken Spoke Waitress
+cast	Laurence Breuls	Gressil
+cast	Daniel Frederiksen	Wallow
+cast	Mathew Wilkinson	Abigor
+cast	Kirstie Hutton	Amy Page
+cast	Eva Mendes	Roxanne Simpson
+cast	Gibson Nolte	Stuart
+cast	Ryan Johnson	Waiter
+cast	Jonathan Oldham	Motorcycle Cop
+cast	Peter Callan	Station Master
+cast	Rebel Wilson	Girl in Alley
+cast	Peter Barry	The Mugger
+cast	Bruce Hughes	Penance Stare Pharmacist
+cast	Rita Kalnejais	Penance Stare Mugger's Girlfriend
+cast	Sam Elliott	Caretaker
+cast	David Roberts	Captain Dolan
+cast	Arthur Angel	Officer Edwards
+cast	Jason Raftopoulos	Forensics Inspector
+cast	Brett Swain	Guard
+cast	Duncan Young	Skinhead
+cast	Joel Tobeck	Redneck
+cast	Jacob Vanderpuije	Innocent Young Man
+cast	Fabio Robles	Priest
+cast	Marty Fields	Surveillance Guard
+cast	Troy Planet	Impound Worker
+cast	Charlie Garber	Officer Mackie
+cast	Vittorio Scalise	Window Cleaner
+cast	Richard Ian Cox	Helicopter Pilot
+cast	Ling Hsueh Tang	News Reporter
+cast	Estefanie Sousa	Street Person
+cast	Sally Anne Arnott	Blazette
+cast	Noel Herriman	Bystander
+cast	Anita Marelic	Carnival Patron
+cast	Stefano Mazzeo	Carnival Patron
+cast	Jean McConnell	Hooker
+cast	Braydn Michael	Teenager in Carnival
+cast	Julia Perri	Carnival Patron
+cast	Alexis Porter	Makeup Artist
+cast	Kenneth Ransom	T.V. Reporter
+cast	Elizabeth Saunders	Fan

@@ -1,0 +1,272 @@
+year	2002
+imdb score	6.8
+meta score	53
+genre	Action
+genre	Adventure
+genre	Fantasy
+genre	Sci-Fi
+keyword	assassination attempt
+keyword	clone
+keyword	army
+keyword	jedi knight
+keyword	senator
+keyword	bounty hunter
+keyword	assassin
+keyword	planet
+keyword	tragedy
+keyword	chase
+keyword	star wars
+keyword	investigation
+keyword	senate
+keyword	cult figure
+keyword	stepfather
+keyword	child flying spacecraft
+keyword	young love
+keyword	explosion
+keyword	forbidden love
+keyword	decapitation
+keyword	combat
+keyword	teenage romance
+keyword	revenge killing
+keyword	ends with wedding
+keyword	colon in title
+keyword	fighting
+keyword	spacecraft
+keyword	giant monster
+keyword	escape pod
+keyword	two man army
+keyword	telekinesis
+keyword	hero
+keyword	prequel to cult film
+keyword	chosen one
+keyword	wilhelm scream
+keyword	space western
+keyword	love interest
+keyword	teenage love
+keyword	space travel
+keyword	stepbrother
+keyword	invented language
+keyword	kidnapping
+keyword	leitmotif
+keyword	mechanical hand
+keyword	wuxia fiction
+keyword	father figure
+keyword	hand to hand combat
+keyword	eaten alive
+keyword	asteroid
+keyword	spirituality
+keyword	numbered sequel
+keyword	blockbuster
+keyword	diner
+keyword	car chase
+keyword	space battle
+keyword	returning character killed off
+keyword	battle
+keyword	war violence
+keyword	hologram
+keyword	good versus evil
+keyword	desert planet
+keyword	arena
+keyword	woman in danger
+keyword	samurai
+keyword	future
+keyword	disarming someone
+keyword	messiah
+keyword	political manipulation
+keyword	jedi mind trick
+keyword	responsibility
+keyword	revenge
+keyword	honor
+keyword	cave
+keyword	cult film
+keyword	heavy rain
+keyword	death ray
+keyword	conspiracy
+keyword	mother son relationship
+keyword	shootout
+keyword	fight
+keyword	outer space
+keyword	origin of hero
+keyword	hate
+keyword	roman numeral in title
+keyword	loss of mother
+keyword	laser pistol
+keyword	epic
+keyword	laser gun
+keyword	bodyguard
+keyword	jedi youngling
+keyword	torture
+keyword	prequel
+keyword	foreshadow
+keyword	symphonic music score
+keyword	sword duel
+keyword	cannon
+keyword	gunfight
+keyword	prophecy
+keyword	sense of danger
+keyword	rain fight
+keyword	mass murder
+keyword	wedding
+keyword	space opera
+keyword	disguise
+keyword	roman numbered sequel
+keyword	sword
+keyword	changeling
+keyword	one armed man
+keyword	martial arts
+keyword	allegory of multiple historical events.
+keyword	wedding ceremony
+keyword	jumping from height
+keyword	falling from height
+keyword	kendo
+keyword	hyphen in title
+keyword	spaceport
+keyword	mistaking reality for dream
+keyword	mixed martial arts
+keyword	victory
+keyword	action hero
+keyword	teacher student relationship
+keyword	sequel
+keyword	warrior
+keyword	orchestral music score
+keyword	android
+keyword	sword fight
+keyword	shapeshifting
+keyword	gun battle
+keyword	teenage boy
+keyword	fate of the universe
+keyword	massacre
+keyword	secret marriage
+keyword	war against machines
+keyword	character's point of view camera shot
+keyword	bar fight
+keyword	eight word title
+keyword	dual wield
+keyword	closing eyes of dead person
+keyword	fictional war
+keyword	female pilot
+keyword	alien race
+keyword	ambush
+keyword	kiss
+keyword	duel
+keyword	murdered before giving protagonist information
+keyword	tough guy
+keyword	bar brawl
+keyword	severed arm
+keyword	showdown
+keyword	punctuation in title
+keyword	no opening credits
+keyword	fistfight
+keyword	character feels around for missing head
+keyword	galactic war
+keyword	good becoming evil
+keyword	part computer animation
+keyword	nightmare
+keyword	robot
+keyword	creature
+keyword	jumping through a window
+keyword	seduction
+keyword	force lightning
+keyword	second part
+keyword	battlefield
+keyword	warp speed
+keyword	recapitation
+keyword	escape
+keyword	subjective camera
+keyword	brawl
+keyword	death star
+keyword	childhood sweetheart
+keyword	lightsaber
+keyword	tough girl
+keyword	imax version
+keyword	teenage rebellion
+keyword	levitation
+keyword	surprise attack
+keyword	infatuation
+keyword	laser cannon
+keyword	death of mother
+keyword	number in title
+keyword	
+cast	Ewan McGregor	Obi-Wan Kenobi
+cast	Natalie Portman	Padmé
+cast	Hayden Christensen	Anakin Skywalker
+cast	Christopher Lee	Count Dooku / Darth Tyranus
+cast	Samuel L. Jackson	Mace Windu
+cast	Frank Oz	Yoda
+cast	Ian McDiarmid	Supreme Chancellor Palpatine
+cast	Pernilla August	Shmi Skywalker
+cast	Temuera Morrison	Jango Fett
+cast	Daniel Logan	Boba Fett
+cast	Jimmy Smits	Senator Bail Organa
+cast	Jack Thompson	Cliegg Lars
+cast	Leeanna Walsman	Zam Wesell
+cast	Ahmed Best	Jar Jar Binks / Achk Med-Beq
+cast	Rose Byrne	Dormé
+cast	Oliver Ford Davies	Sio Bibble
+cast	Ron Falk	Dexter Jettster
+cast	Jay Laga'aia	Capt. Typho
+cast	Andy Secombe	Watto
+cast	Anthony Daniels	C-3PO / Dannl Faytonni
+cast	Silas Carson	Ki-Adi-Mundi / Viceroy Nute Gunray
+cast	Ayesha Dharker	Queen Jamillia
+cast	Joel Edgerton	Owen Lars
+cast	Bonnie Piesse	Beru
+cast	Anthony Phelan	Lama Su
+cast	Rena Owen	Taun We
+cast	Alethea McGrath	Madame Jocasta Nu
+cast	Susie Porter	Hermione Bagwa / WA-7
+cast	Matt Doran	Elan Sleazebaggano
+cast	Alan Ruscoe	Lott Dod
+cast	Matt Sloan	Plo Koon
+cast	Veronica Segura	Cordé
+cast	David Bowers	Mas Amedda
+cast	Steve John Shepherd	Naboo lieutenant
+cast	Bodie Taylor	Clone Trooper
+cast	Matt Rowan	Senator Orn Free Taa
+cast	Steven Boyle	Senator Ask Aak / Passel Argente
+cast	Zachariah Jensen	Kit Fisto
+cast	Alex Knoll	J.K. Burtola
+cast	Phoebe Yiamkiati	Mari Amithest
+cast	Kenny Baker	R2-D2
+cast	Jerome Blake	Oppo Rancisis
+cast	Hassani Shapi	Eeth Koth
+cast	Gin Clarke	Adi Gallia
+cast	Khan Bonfils	Saesee Tiin
+cast	Michaela Cottrell	Even Piell
+cast	Dipika O'Neill Joti	Depa Billaba
+cast	Alfonso Sánchez	
+cast	Tux Akindoyeni	Agen Kolar
+cast	Giulio Alimenti	Naboo Holy Man
+cast	Amy Allen	Aayla Secura / Mya Nalle / Yma Nalle / Lela Mayn
+cast	Don Bies	Artuo Pratuhr
+cast	Marton Csokas	Poggle the Lesser
+cast	Natalie Danks-Smith	Hand Maiden
+cast	Russell Darling	Coruscant Starfreighter Passenger
+cast	Justin Dix	Dixon Just
+cast	Eliana Dona	Kell Borean
+cast	C. Michael Easton	Bus Driver
+cast	Nicole Fantl	Senator Lexi Dio
+cast	Sandi Finlay	Sly Moore
+cast	Stephen George	Senator Ronet Coorr
+cast	Hilton Howson	Toonbuck Toora
+cast	Jesse Jensen	Saesee Tiin - Arena Sequences
+cast	Fiona Johnson	Hayde Gofai
+cast	Matthew Joyce	Dex's Diner Bounty Hunter
+cast	Nalini Krishan	Barriss Offee
+cast	Gillian Libbert	Lillea Bringbit
+cast	Amanda Lucas	Adnama
+cast	Jett Lucas	Zett Jukassa
+cast	Katie Lucas	Lunae Minx
+cast	Liam Neeson	Qui-Gon Jinn
+cast	Kyle Rowling	Joclad Danva
+cast	Juan-Luis Sanchez	Temple Jedi
+cast	Mike Savva	Naboo Cruiser Security Guard
+cast	P. Kevin Scott	Tatooine Resident
+cast	Zeynep Selcuk	Zey Nep
+cast	Orli Shoshan	Shaak Ti
+cast	Trevor Tighe	Civ Sila
+cast	Christopher Truswell	Rune Haako / Shu Mai / San Hill / Wat Tambor / Sun Fac
+cast	Ian Watkin	COO-2180
+cast	R. Christopher White	Clone War Jedi
+cast	Eric Wong	Temple Jedi
+cast	Matthew Wood	Magaloof / Seboca

@@ -1,0 +1,114 @@
+year	2011
+imdb score	8.1
+meta score	62
+genre	Drama
+keyword	friend
+keyword	mississippi
+keyword	maid
+keyword	1960s
+keyword	friendship
+keyword	writer
+keyword	jackson mississippi
+keyword	black servant
+keyword	first job
+keyword	ressentiment
+keyword	writing a novel
+keyword	emotional manipulation
+keyword	power
+keyword	rich parents
+keyword	two word title
+keyword	pregnancy
+keyword	reference to martin luther king jr.
+keyword	expectant mother
+keyword	exploitation
+keyword	chocolate pie
+keyword	adult living with parents
+keyword	reference to martin luther king jr.
+keyword	aging
+keyword	year 1963
+keyword	racism
+keyword	husband wife relationship
+keyword	fired from the job
+keyword	pregnant
+keyword	class divide
+keyword	racial hatred
+keyword	dying from cancer
+keyword	title appears in writing
+keyword	mother daughter relationship
+keyword	university education
+keyword	pregnant woman
+keyword	newspaper columnist
+keyword	southern belle
+keyword	racial issues
+keyword	daughters of the american revolution
+keyword	southern u.s.
+keyword	high class
+keyword	pregnant wife
+keyword	kissing
+keyword	pie
+keyword	baking
+keyword	bus
+keyword	bechdel test passed
+keyword	moral courage
+keyword	university of mississippi
+keyword	miscarriage
+keyword	trophy wife
+keyword	intimidation
+keyword	based on novel
+keyword	title spoken by character
+cast	Emma Stone	Skeeter Phelan
+cast	Viola Davis	Aibileen Clark
+cast	Bryce Dallas Howard	Hilly Holbrook
+cast	Octavia Spencer	Minny Jackson
+cast	Jessica Chastain	Celia Foote
+cast	Ahna O'Reilly	Elizabeth Leefolt
+cast	Allison Janney	Charlotte Phelan
+cast	Anna Camp	Jolene French
+cast	Eleanor Henry	Mae Mobley
+cast	Emma Henry	Mae Mobley
+cast	Chris Lowell	Stuart Whitworth
+cast	Cicely Tyson	Constantine Jefferson
+cast	Mike Vogel	Johnny Foote
+cast	Sissy Spacek	Missus Walters
+cast	Brian Kerwin	Robert Phelan
+cast	Wes Chatham	Carlton Phelan
+cast	Aunjanue Ellis	Yule Mae Davis
+cast	Ted Welch	William Holbrook
+cast	Shane McRae	Raleigh Leefolt
+cast	Roslyn Ruff	Pascagoula
+cast	Tarra Riggs	Gretchen
+cast	Leslie Jordan	Mr. Blackly
+cast	Mary Steenburgen	Elain Stein
+cast	Tiffany Brouwer	Rebecca
+cast	Carol Lee	Pearly
+cast	Carol Sutton	Cora
+cast	Millicent Bolton	Callie
+cast	Ashley Johnson	Mary Beth Caldwell
+cast	Ritchie Montgomery	Bus Driver
+cast	Don Brock	White Bus Passenger
+cast	Florence 'Flo' Roach	Maid #1
+cast	Nelsan Ellis	Henry The Waiter
+cast	David Oyelowo	Preacher Green
+cast	LaChanze	Rachel
+cast	Dana Ivey	Gracie Higginbotham
+cast	Becky Fly	Woman in Grocery Store
+cast	Sheerene Whitfield	Maid #2
+cast	Cleta Elaine Ellington	Donna The Receptionist
+cast	Henry Carpenter	Jameso
+cast	John Taylor	Missus Walters' Date
+cast	Charles Cooper	Tire Winner @ Ballroom #1
+cast	Diana Cooper	Tire Winner @ Ballroom #
+cast	Coyt Bailey	Party Guest #3
+cast	Wade Cottonfield	Lead Singer of Band
+cast	Kelsey Scot	Sugar Jackson
+cast	Amy Beckwith	Bridge Club
+cast	Sloane Fair	Bridge Club
+cast	Anna Jennings	Bridge Club
+cast	Lauren Miller	Bridge Club
+cast	Elizabeth Smith	Bridge Club
+cast	Mary Taylor Killebrew	Bridge Club
+cast	Kathryn Ursy	Bridge Club
+cast	Stephanie Ward	Bridge Club
+cast	Julie Ann Doan	Restaurant Patron
+cast	Stuart Greenwell	Barber
+cast	Jordan Sudduth	Restaurant Gallant

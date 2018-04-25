@@ -1,0 +1,181 @@
+year	1933
+imdb score	8.1
+meta score	N/A
+genre	Comedy
+genre	Musical
+keyword	widow
+keyword	spy
+keyword	ambassador
+keyword	dictator
+keyword	dowager
+keyword	horse riding
+keyword	explosion
+keyword	thompson sub machine gun
+keyword	absurd humor
+keyword	animal in title
+keyword	singing
+keyword	bombardment
+keyword	pelted with food
+keyword	sabre
+keyword	paul revere
+keyword	garden party
+keyword	madcap comedy
+keyword	reference to napoleon
+keyword	mythical kingdom
+keyword	burglary
+keyword	pretending to be a reflection
+keyword	bicorne
+keyword	dignitary
+keyword	peanuts
+keyword	disguise
+keyword	mirror
+keyword	male slaps male
+keyword	absurdism
+keyword	two in a bath
+keyword	bath
+keyword	lemonade stand
+keyword	court martial
+keyword	male hits male
+keyword	crazy humor
+keyword	diplomacy
+keyword	dancing
+keyword	firecracker
+keyword	bird in title
+keyword	fire engine
+keyword	tank
+keyword	fanfare
+keyword	racial slur
+keyword	face slap
+keyword	bathtub
+keyword	piano
+keyword	door bell
+keyword	politician
+keyword	street vendor
+keyword	bugle
+keyword	motorcycle cop
+keyword	sandwich board
+keyword	testimony
+keyword	fireman
+keyword	skeet shooting
+keyword	speech
+keyword	motorcycle
+keyword	switching hats
+keyword	newspaper headline
+keyword	hit on the head
+keyword	treason
+keyword	man slaps man
+keyword	arch of swords
+keyword	inauguration
+keyword	impersonation
+keyword	elephant
+keyword	tricome
+keyword	anti hero
+keyword	fictitious country
+keyword	satire
+keyword	fighting to answer telephone
+keyword	tuxedo
+keyword	fictional war
+keyword	irreverence
+keyword	popcorn
+keyword	diplomat
+keyword	food in title
+keyword	duck
+keyword	banjo
+keyword	warrior
+keyword	military dress uniform
+keyword	card trick
+keyword	man with glasses
+keyword	horn
+keyword	blow torch
+keyword	espionage
+keyword	vendor
+keyword	battering ram
+keyword	monkey
+keyword	gala
+keyword	marriage proposal
+keyword	trial
+keyword	battle
+keyword	singer
+keyword	uniform
+keyword	imitation
+keyword	quill pen
+keyword	siren
+keyword	top hat
+keyword	three guesses
+keyword	playing banjo
+keyword	soldier
+keyword	tattoo
+keyword	dunking doughnut
+keyword	animate tattoo
+keyword	breaking the fourth wall
+keyword	song
+keyword	character acts like mirror image
+keyword	horse
+keyword	political satire
+keyword	delinquent
+keyword	lemonade
+keyword	tommy gun
+keyword	man hits man
+keyword	dancer
+keyword	doghouse
+keyword	mute person
+keyword	cabinet meeting
+keyword	surveillance
+keyword	insanity
+keyword	dolphin
+keyword	mistaken identity
+keyword	cigar smoking
+keyword	oversleeping
+keyword	slapstick comedy
+keyword	combat
+keyword	military
+keyword	sword
+keyword	dance
+keyword	farce
+keyword	guard
+keyword	marx brothers
+keyword	character appears in newspaper
+keyword	bolt action rifle
+keyword	cult film
+keyword	motorcycle with a sidecar
+keyword	bell
+keyword	phonograph record
+keyword	hat
+keyword	1930s
+keyword	stock footage
+keyword	mouse trap
+keyword	announcing entrance
+keyword	siege
+cast	The Marx Brothers	
+cast	Groucho Marx	Rufus T. Firefly
+cast	Harpo Marx	Pinky
+cast	Chico Marx	Chicolini
+cast	Zeppo Marx	Bob Roland
+cast	Margaret Dumont	Mrs. Teasdale
+cast	Raquel Torres	Vera Marcal
+cast	Louis Calhern	Trentino
+cast	Edmund Breese	Zander
+cast	Leonid Kinskey	Agitator
+cast	Charles Middleton	Prosecutor
+cast	Edgar Kennedy	Street Vendor
+cast	Edward Arnold	Politician
+cast	Wade Boteler	Officer at Battle Headquarters
+cast	Sidney Bracey	Mrs. Teasdale's Butler
+cast	E.H. Calvert	Officer in Battle Sequence
+cast	Davison Clark	Minister of Finance #2
+cast	Louise Closser Hale	Reception Guest
+cast	Carrie Daumery	Reception Guest
+cast	Mario Dominici	Minister
+cast	Maude Turner Gordon	Reception Guest
+cast	Verna Hillie	Trentino's Blonde Secretary
+cast	Edward LeSaint	Secretary of Labor
+cast	George MacQuarrie	First Judge
+cast	Edwin Maxwell	Freedonia's Secretary. of War #1
+cast	Eric Mayne	Third Judge
+cast	Edmund Mortimer	Minister
+cast	Dennis O'Keefe	Bridegroom at Firefly's Reception
+cast	Leo Sulky	Agitator
+cast	Frederick Sullivan	Second Judge
+cast	Dale Van Sickel	A Palace Guard
+cast	Florence Wix	Reception Guest
+cast	William Worthington	First Minister of Finance

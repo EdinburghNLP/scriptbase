@@ -1,0 +1,340 @@
+year	2008
+imdb score	6.6
+meta score	43
+genre	Action
+genre	Mystery
+genre	Thriller
+keyword	fbi
+keyword	pentagon
+keyword	death
+keyword	cell phone
+keyword	twin brother
+keyword	technology
+keyword	shotgun
+keyword	deus ex machina
+keyword	video surveillance
+keyword	top secret
+keyword	c 17 globemaster
+keyword	product placement
+keyword	kicking in a door
+keyword	semiautomatic pistol
+keyword	trumpet
+keyword	murder
+keyword	traffic light
+keyword	tunnel
+keyword	garbage barge
+keyword	gambling
+keyword	soldier
+keyword	mq 1 predator
+keyword	death of brother
+keyword	pump action shotgun
+keyword	parking garage
+keyword	funeral
+keyword	conveyor belt
+keyword	ex husband ex wife relationship
+keyword	shot in the back
+keyword	high voltage
+keyword	exploding car
+keyword	corpse
+keyword	airport
+keyword	crane
+keyword	fugitive
+keyword	electrocution
+keyword	self sacrifice
+keyword	shot in the shoulder
+keyword	school band
+keyword	evil computer
+keyword	air force
+keyword	indianapolis indiana
+keyword	x ray
+keyword	artificial intelligence
+keyword	lipton tea
+keyword	birthday party
+keyword	u.s. president
+keyword	birthday cake
+keyword	responsibility
+keyword	electrical tower
+keyword	skateboard
+keyword	burnt body
+keyword	terrorist
+keyword	mother son relationship
+keyword	bird in title
+keyword	human versus computer
+keyword	bullet proof vest
+keyword	commuter train
+keyword	home video
+keyword	bar
+keyword	armed robbery
+keyword	pay phone
+keyword	bomb
+keyword	japanese tourist
+keyword	knocked out
+keyword	cyber terrorism
+keyword	secretary of defense
+keyword	fbi agent
+keyword	car explosion
+keyword	merry go round
+keyword	chase
+keyword	shot in the chest
+keyword	animal in title
+keyword	sunglasses
+keyword	hostage
+keyword	orchestra
+keyword	foot chase
+keyword	check
+keyword	two word title
+keyword	gun
+keyword	audio surveillance
+keyword	loss of brother
+keyword	missile
+keyword	national anthem
+keyword	uh 60 blackhawk helicopter
+keyword	father son relationship
+keyword	super computer
+keyword	subway station
+keyword	medal
+keyword	pistol
+keyword	blind
+keyword	computer tries to take over the world
+keyword	coercion
+keyword	punched in the face
+keyword	answering machine
+keyword	jumping through a window
+keyword	car crash
+keyword	child in peril
+keyword	swat team
+keyword	assassination
+keyword	washington d.c.
+keyword	passport
+keyword	brother brother relationship
+keyword	automated teller machine
+keyword	injection
+keyword	package
+keyword	necklace
+keyword	arm sling
+keyword	happy birthday to you
+keyword	explosion
+keyword	title appears in writing
+keyword	drone
+keyword	rain
+keyword	shooting
+keyword	bus
+keyword	handgun
+keyword	playing violin
+keyword	president
+keyword	voice on the phone
+keyword	armored car
+keyword	white cane
+keyword	red dress
+keyword	american flag
+keyword	federal bureau of investigation
+keyword	eye surgery
+keyword	impersonating a police officer
+keyword	crushed to death
+keyword	falling from height
+keyword	car chase
+keyword	regaining sight
+keyword	title spoken by character
+keyword	
+cast	Shia LaBeouf	Jerry Shaw
+cast	Michelle Monaghan	Rachel Holloman
+cast	Rosario Dawson	Zoe Perez
+cast	Michael Chiklis	Defense Secretary Callister
+cast	Anthony Mackie	Major William Bowman
+cast	Ethan Embry	Agent Toby Grant
+cast	Billy Bob Thornton	Agent Thomas Morgan
+cast	Anthony Azizi	Ranim Khalid
+cast	Cameron Boyce	Sam Holloman
+cast	Lynn Cohen	Mrs. Wierzbowski
+cast	Bill Smitrovich	Admiral Thompson
+cast	Charles Carroll	Mr. Miller
+cast	William Sadler	Jerry's Dad
+cast	Deborah Strang	Jerry's Mom
+cast	Dariush Kashani	Translator
+cast	Sean Kinney	JTAC Team Leader
+cast	Bob Morrisey	Director of Intelligence
+cast	J. Patrick McCormack	Pentagon General Council
+cast	Lorenzo Eduardo	Kwame
+cast	Madylin Sweeten	Becky
+cast	Jorge-Luis Pallo	Intel Officer
+cast	James Huang	Intel Officer
+cast	Gerald Downey	Console Tech
+cast	Tony Flores	Team Leader
+cast	Donnie Jeffcoat	FBI Agent
+cast	Craig J. Harris	Man on Train
+cast	Jimmie Akins	Transit Cop on Train
+cast	Eric Christian Olsen	Craig
+cast	Marc Singer	Explosives Developer
+cast	Michael Maize	Master Sergeant
+cast	Eiko Nijo	Masako Tour Guide
+cast	Peter Gail	PFPA Officer
+cast	Brad Grunberg	Circuit City Salesperson
+cast	Cylk Cozart	Sectran Courier
+cast	Manny Perry	Sectran Courier
+cast	James Gohrick	Agent in Alley
+cast	Josh Todd	Convenience Store Clerk
+cast	Colby French	Console Tech
+cast	Matt DeCaro	Stranger at Airport
+cast	Judith Moreland	Security Attendant at Airport
+cast	Rolando Molina	TSA Agent
+cast	Michael Kostroff	Jeweler
+cast	Nigel Gibbs	Callister Aide
+cast	Michael Daniel Cassady	White House Staffer
+cast	David Grant Wright	Secret Service Agent #1
+cast	Jarod Einsohn	Reaper Control Tech
+cast	David Heckel	Squadron Commander
+cast	Jamie Martz	Northcom Control Tech
+cast	Greg Collins	Two Star General
+cast	McKay Stewart	F-16 Pilot
+cast	Terry Walters	Woman in Prius
+cast	Katija Pevec	Teenage Page
+cast	Chase Penny	Capitol Policeman #1
+cast	Madison Mason	President
+cast	Kevin Quinn	Pentagon Aide
+cast	Sebastian Tillinger	Pentagon Agent
+cast	Enver Gjokaj	Remote Pilot
+cast	Michael Potter	Doorkeeper
+cast	Webster Williams	Committee Head
+cast	Peggy Roeder	Forensics Agent
+cast	Gary Houston	Forensics Agent
+cast	Jonathan Chase	Suited Agent
+cast	Dean Cudworth	Capitol Policeman Stuart
+cast	Lindsay Corinn Luecht	Girl on Train
+cast	Nicol Paone	Rachel's Friend
+cast	Brittany Ishibashi	Rachel's Friend
+cast	Stacey Scowley	Waitress
+cast	Stephen Simon	Secret Service Agent #2
+cast	David Arakelyan	Ballochi Kid
+cast	Salah Salea	Funeral Chanter
+cast	Susan Jasmin Armon	Woman in Ballochi Village
+cast	Fahim Fazli	Al Kohei
+cast	Elijah Moreland	Guard at Library of Congress
+cast	David Rowden	Sectran Truck Driver
+cast	Brenda Goodbread	Speaker of the House
+cast	Caroline A. Jenks	Page
+cast	Roger Groh	Executive Aide to Callister
+cast	Lesley Stahl	Newscaster
+cast	Leyna Nguyen	Newscaster
+cast	Ralph Garman	Newscaster
+cast	Rick Chambers	Newscaster
+cast	Sharon Tay	Newscaster
+cast	Kent Shocknek	Newscaster
+cast	Brandon Caruso	Boy on Train
+cast	Andrew Anton	Sam's School Band
+cast	Rebecca Bacich	Sam's School Band
+cast	Blake Bordokas	Sam's School Band
+cast	Scottie Brown	Sam's School Band
+cast	Michelle Caplin	Sam's School Band
+cast	Clayton Caravaggio	Sam's School Band
+cast	Daniel Caruso	Sam's School Band
+cast	Sophia Anne Caruso	Sam's School Band
+cast	Brian Chao	Sam's School Band
+cast	Leonard Chong	Sam's School Band
+cast	Esteban Delgado	Sam's School Band
+cast	Jeanette Gialketsis	Sam's School Band
+cast	Madeline Horn	Sam's School Band
+cast	Jack Howorth	Sam's School Band
+cast	Robert Kellogg	Sam's School Band
+cast	Kara Jeong	Sam's School Band
+cast	Rhein Matlack	Sam's School Band
+cast	Matthew O'Brien	Sam's School Band
+cast	John Parks	Sam's School Band
+cast	Matthew Rice	Sam's School Band
+cast	Katherine Robak	Sam's School Band
+cast	Nathaniel Schickler	Sam's School Band
+cast	Katherine Shalvarjian	Sam's School Band
+cast	Blake Smith	Sam's School Band
+cast	Kristen Spence	Sam's School Band
+cast	Katherine Spencer	Sam's School Band
+cast	Isabella St. Ivany	Sam's School Band
+cast	Garrett Ung	Sam's School Band
+cast	Audrey Wong	Sam's School Band
+cast	Jon Lee Brody	Train Passenger
+cast	Don Abernathy	Capitol Police Officer
+cast	Jeff Albertson	Chicago Police Officer
+cast	Christopher Andrews	Senator
+cast	Stephen Anthony Bailey	Train Passenger
+cast	Derek Baker	Photographer
+cast	Tommy Bartlett	Train Passenger
+cast	Jessie Bayani	EL Passenger
+cast	Scott Alan Berk	FBI Uniform Officer
+cast	Eric Bolton	Businessman
+cast	Gina Brajkovich	El Train Commuter
+cast	Anthony Brawner	Man on Subway Platform
+cast	Tay Brooks	Murdered Senator
+cast	G. Larry Butler	Pentagon General Council
+cast	Dale Caba	Police Officer
+cast	Brad Carmody	Marine
+cast	Farouk Chakwa	United States Senator
+cast	Jack Chevanty	Secret Service Agent
+cast	David Cohen	Congressman
+cast	Adrian Colon	General's Aide
+cast	Josh Costell	Senator
+cast	Mike Dalager	Taliban Militiaman
+cast	Terryl Daluz	Military Soldier
+cast	Tony Domino	Pedestrian
+cast	Cyn Dulay	Train Passenger
+cast	Ken Edling	Secretary of Commerce
+cast	Jerry Ferrara	Jerry's Friend #1
+cast	Rachel Fisher	Congresswoman
+cast	Adam Fullilove	Hot Guy #2
+cast	Nathan Geist	Chase Bystander
+cast	Nikki Giavasis	Press
+cast	Jim Hager	'L' Train Passenger
+cast	Christopher Haskell	Senator
+cast	Robert Christopher Henderson	Congressman
+cast	David Hill	President's Administration
+cast	Alec Holmes	Subway Commuter
+cast	Austin Honaker	Congressman
+cast	Bill Ibrahim	El Train Passenger
+cast	Safia Jalila	Train Passenger
+cast	Peter James	Police Officer Responding to bank robbery
+cast	Christopher Karl Johnson	Congressman Escorting President in to the House
+cast	Dave Johnson	Senator
+cast	Christopher Jude	Congressman / Office Employee
+cast	Elizabeth M. Kelly	Member of Congress
+cast	Thomas Kosik	Man on Train
+cast	Kitty Kreidler	Car Chase pedestrian
+cast	Don Kress	EL Passenger
+cast	Tim Krueger	Train Passenger
+cast	Eddie Kunz	Catholic School Boy
+cast	Eric Langham	Congressman
+cast	Dan Latham	EL Passenger
+cast	David Josh Lawrence	Fire Fighter
+cast	Andrew J. Lee	Man on Train
+cast	David Lesley	El Train Passenger
+cast	Koco Limbevski	Arab Terrorist Leader
+cast	Angelina Lyubomirova	ATM Client
+cast	Joseph Mazurk	Lawyer at ATM
+cast	Seth Miller	Marine in the Pentagon
+cast	Albert Miranda	Politician
+cast	Michael Molthen	Man at Funeral
+cast	Julianne Moore	ARIIA
+cast	Lucas Mroczkowski	Mourning Family Member
+cast	Alan Mueting	Senator
+cast	Rene Napoli	TSA Agent
+cast	Aleh Neliubin	Neighbor
+cast	David E. Newham	FBI Agent
+cast	Sandi Nowa	El Train Commuter
+cast	Ali Olomi	Al Kohei - Afghan Soldier
+cast	Hash Patel	Taliban Funeral Mourner
+cast	Mark Peplow	Train Passenger
+cast	James Pusztay	Cell Phone Commuter
+cast	Liz Racster	Congresswoman
+cast	Jarrod Robbins	Young Senator
+cast	John Robert	Senator
+cast	Ann Ryan	Senator
+cast	Nick Searcy	David Johnson
+cast	Carol Shook	Congresswoman
+cast	Gubbi Sigurdsson	Marine Captain
+cast	Toni-Marie Spera	Pedestrian
+cast	Chris Spinelli	Assistant to Callister's Aide
+cast	Arne Starr	Bank Patron
+cast	Tom Townsend	Capitol Police Officer
+cast	Juan Pablo Veizaga	Man in BMW
+cast	Chuck Wagner	SWAT Team Member
+cast	James Warfield	Secret Service Agent
+cast	Al Whiting	Pentagon Worker
+cast	Lisa Wolf	Neighbor
+cast	Ben Youcef	Imam
+cast	Robert A. Young	Police Officer

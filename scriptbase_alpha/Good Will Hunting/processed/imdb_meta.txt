@@ -1,0 +1,145 @@
+year	1997
+imdb score	8.2
+meta score	70
+genre	Drama
+keyword	janitor
+keyword	professor
+keyword	genius
+keyword	jail
+keyword	friend
+keyword	mathematics
+keyword	apology
+keyword	man with glasses
+keyword	mathematical equation
+keyword	boston red sox
+keyword	shakespearean quotation
+keyword	community college
+keyword	fear of abandonment
+keyword	joke
+keyword	masturbation reference
+keyword	construction worker
+keyword	mathematical genius
+keyword	assault
+keyword	friendship
+keyword	harvard university
+keyword	hypnotherapy
+keyword	fear of failure
+keyword	mathematician
+keyword	death of wife
+keyword	cigarette smoking
+keyword	ethnic slur
+keyword	flashback
+keyword	widower
+keyword	hypnosis resistant
+keyword	painting
+keyword	toy store
+keyword	baseball
+keyword	disorder
+keyword	reference to noam chomsky
+keyword	date
+keyword	break up
+keyword	impersonation
+keyword	vietnam veteran
+keyword	playground
+keyword	theorum
+keyword	diner
+keyword	used car
+keyword	flirting
+keyword	f word
+keyword	child abuse
+keyword	batting cage
+keyword	restaurant
+keyword	magic eight ball
+keyword	reference to nietzsche
+keyword	ex convict
+keyword	slow motion scene
+keyword	harvard
+keyword	psychotherapy
+keyword	cancer
+keyword	psychiatrist
+keyword	lecture
+keyword	boston massachusetts
+keyword	sexual joke
+keyword	attachment disorder
+keyword	three word title
+keyword	reference to beethoven
+keyword	dog track
+keyword	reference to william shakespeare
+keyword	vulgarity
+keyword	death of loved one
+keyword	masturbation
+keyword	el train
+keyword	ambition
+keyword	mirror
+keyword	tough love
+keyword	irish american
+keyword	loss of wife
+keyword	orphan
+keyword	blockbuster
+keyword	construction site
+keyword	dog racing
+keyword	world series
+keyword	job interview
+keyword	reference to michelangelo
+keyword	class differences
+keyword	birthday
+keyword	prodigy
+keyword	courtroom
+keyword	bar
+keyword	autodidact
+keyword	class reunion
+keyword	little league
+keyword	premarital sex
+keyword	moving
+keyword	teaching assistant
+keyword	massachusetts institute of technology
+keyword	coming of age
+keyword	techne
+keyword	character name in title
+cast	Matt Damon	Will Hunting
+cast	Robin Williams	Sean Maguire
+cast	Ben Affleck	Chuckie Sullivan
+cast	Stellan Skarsgård	Prof. Gerald Lambeau
+cast	Minnie Driver	Skylar
+cast	Casey Affleck	Morgan O'Mally
+cast	Cole Hauser	Billy McBride
+cast	John Mighton	Tom - Lambeau's Teaching Assistant
+cast	Rachel Majorowski	Krystyn
+cast	Colleen McCauley	Cathy
+cast	Matt Mercier	Barbershop Quartet #1
+cast	Ralph St. George	Barbershop Quartet #2
+cast	Rob Lynds	Barbershop Quartet #3
+cast	Dan Washington	Barbershop Quartet #4
+cast	Alison Folland	M.I.T. Student #1
+cast	Derrick Bridgeman	M.I.T. Student #2
+cast	Vik Sahay	Nemesh = M.I.T. Student #3
+cast	Shannon Egleson	Girl on Street
+cast	Rob Lyons	Carmine Scarpaglia
+cast	Steven Kozlowski	Carmine Friend #1
+cast	Jennifer Deathe	Lydia
+cast	Scott William Winters	Clark
+cast	Philip Williams	Head Custodian
+cast	Patrick O'Donnell	Assistant Custodian
+cast	Kevin Rushton	Courtroom Guard
+cast	Jimmy Flynn	Judge George H. Malone
+cast	Joe Cannon	Prosecutor
+cast	Ann Matacunas	Court Officer
+cast	George Plimpton	Henry Lipkin - Psychologist
+cast	Francesco Clemente	Rich - Hypnotherapist
+cast	Jessica Morton	Maurine - Bunker Hill College Student
+cast	Barna Moricz	Vinnie - Bunker Hill College Student
+cast	Libby Geller	Toy Store Cashier
+cast	Chas Lawther	M.I.T. Professor
+cast	Richard Fitzpatrick	Timmy
+cast	Frank Nakashima	Executive #1
+cast	Chris Britton	Executive #2
+cast	David Eisner	Executive #3
+cast	Bruce Hunter	NSA Agent #1
+cast	Robert Talvano	NSA Agent #2
+cast	James Allodi	Security Guard
+cast	Bobby Curcuro	
+cast	Kent Damon	Chess Game Player
+cast	Riva Di Paola	M.I.T. Student
+cast	Harmony Korine	Jerve
+cast	Thomas Lundy	Waiter
+cast	Daniel Olsen	MIT Student

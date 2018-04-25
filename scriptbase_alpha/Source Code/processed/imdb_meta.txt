@@ -1,0 +1,214 @@
+year	2011
+imdb score	7.5
+meta score	74
+genre	Mystery
+genre	Sci-Fi
+genre	Thriller
+keyword	train
+keyword	time
+keyword	bomber
+keyword	bomb
+keyword	captain
+keyword	afghanistan
+keyword	commuter train
+keyword	army
+keyword	memory
+keyword	u.s. army
+keyword	helicopter pilot
+keyword	pilot
+keyword	scientist
+keyword	computer program
+keyword	time machine
+keyword	identity
+keyword	military
+keyword	explosion
+keyword	terrorist
+keyword	soldier
+keyword	teacher
+keyword	punched in the face
+keyword	air vent
+keyword	wrongful suspicion
+keyword	gunshot
+keyword	nuclear threat
+keyword	premonition
+keyword	death
+keyword	dirty bomb
+keyword	chamber
+keyword	slow motion scene
+keyword	immigrant
+keyword	top secret project
+keyword	kicked in the stomach
+keyword	time freeze
+keyword	train conductor
+keyword	tragic event
+keyword	taking the law into one's own hands
+keyword	hit in the face
+keyword	pistol
+keyword	psychopathic killer
+keyword	taking control of someone's body
+keyword	character repeating someone else's dialogue
+keyword	stalking
+keyword	surrealism
+keyword	alternative history
+keyword	paradox
+keyword	meeting on a train
+keyword	repeated scene
+keyword	serial killer
+keyword	psychopath
+keyword	destiny
+keyword	internet
+keyword	swat team
+keyword	massacre
+keyword	train explosion
+keyword	enigma
+keyword	time travel
+keyword	illinois
+keyword	sunglasses
+keyword	severed arm
+keyword	changing the future
+keyword	megalomaniac
+keyword	kiss
+keyword	alternate reality
+keyword	promise
+keyword	detonator
+keyword	cityscape
+keyword	aerial shot
+keyword	criminal
+keyword	punching ticket
+keyword	jumping from a train
+keyword	driver's license
+keyword	quantum leap
+keyword	video camera
+keyword	defusing bomb
+keyword	bathroom
+keyword	title appears in writing
+keyword	chicago illinois
+keyword	science experiment
+keyword	time loop
+keyword	military base
+keyword	science
+keyword	cell phone
+keyword	sleeping on a train
+keyword	preventing a murder
+keyword	exploding train
+keyword	alternative reality
+keyword	mirror
+keyword	looking at self in mirror
+keyword	monitor
+keyword	boyfriend girlfriend relationship
+keyword	military mission
+keyword	gun
+keyword	nuclear bomb
+keyword	falling onto train tracks
+keyword	following someone
+keyword	disaster
+keyword	memory games
+keyword	captive
+keyword	wallet
+keyword	shot in the chest
+keyword	suspicion
+keyword	cnn reporter
+keyword	dying repeatedly
+keyword	u.s. soldier
+keyword	evacuation
+keyword	alternative timeline
+keyword	van
+keyword	revolver
+keyword	hallucination
+keyword	paranormal phenomena
+keyword	top secret
+keyword	murder
+keyword	held at gunpoint
+keyword	stare
+keyword	mass murder
+keyword	american flag
+keyword	seeing the future
+keyword	train station
+keyword	assumed identity
+keyword	reliving same event
+keyword	handcuffed to a pipe
+keyword	blood
+keyword	reflection
+keyword	shot to death
+keyword	altering history
+keyword	nonlinear timeline
+keyword	torso cut in half
+keyword	motion sickness
+keyword	broken jaw
+keyword	deja vu
+keyword	handcuffs
+keyword	exposed brain
+keyword	woman shot
+keyword	u.s. air force
+keyword	flashback
+keyword	text messaging
+keyword	arrest
+keyword	hit by a train
+keyword	exploding body
+keyword	toilet
+keyword	suspense
+keyword	taser
+keyword	fight
+keyword	time limit
+keyword	multiple outcomes
+keyword	timebomb
+keyword	repeated event
+keyword	area 51
+keyword	corpse
+keyword	two word title
+keyword	laptop computer
+keyword	sociopath
+keyword	woman in jeopardy
+keyword	shot through a door
+keyword	precognition
+keyword	escape
+keyword	terrorism
+keyword	news report
+keyword	parallel universe
+keyword	psycho thriller
+keyword	race against time
+keyword	fire
+keyword	surveillance camera
+keyword	father son relationship
+keyword	one day
+keyword	comedian
+keyword	rewinding action
+keyword	high tech
+keyword	inventor
+keyword	travel
+keyword	title spoken by character
+keyword	surprise ending
+cast	Jake Gyllenhaal	Colter Stevens
+cast	Michelle Monaghan	Christina Warren
+cast	Vera Farmiga	Colleen Goodwin
+cast	Jeffrey Wright	Dr. Rutledge
+cast	Michael Arden	Derek Frost
+cast	Cas Anvar	Hazmi
+cast	Russell Peters	Max Denoff
+cast	Brent Skagford	George Troxel
+cast	Craig Thomas	Gold Watch Executive
+cast	Gordon Masten	Conductor
+cast	Susan Bain	Nurse
+cast	Paula Jean Hixson	Coffee Mug Lady
+cast	Lincoln Ward	Minister Sudoku
+cast	Kyle Gatehouse	College Student
+cast	Albert Kwan	Soda Can Guy
+cast	Anne Day-Jones	Office Manager
+cast	Clarice Byrne	Secretary
+cast	James A. Woods	Aviator Glasses Guy
+cast	Joe Cobden	Lab Technician
+cast	Tom Tammi	CNN Anchor
+cast	Matt Holland	Lock Tech
+cast	Jasson Finney	M.P.
+cast	Kyle Allatt	Aide
+cast	Frédérick De Grandpré	Sean Fentress Reflection
+cast	Pierre Leblanc	Train Official
+cast	Raynald Lapierre	UPG Medic
+cast	Scott Bakula	Colter's Father
+cast	Laura Atwood	Mother of Family
+cast	David Lunsford	Office Worker
+cast	Samuel Meadows	Fleeing Businessman
+cast	Lydia Moore	Nail Filing Woman
+cast	Rana Morrison	Lanelle
+cast	Joti Nagra	Medic
+cast	Chris Ramirez	Fleeing Businessman

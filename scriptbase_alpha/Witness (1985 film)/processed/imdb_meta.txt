@@ -1,0 +1,145 @@
+year	1985
+imdb score	7.5
+meta score	76
+genre	Crime
+genre	Drama
+genre	Romance
+genre	Thriller
+keyword	amish
+keyword	murder
+keyword	police
+keyword	love
+keyword	train
+keyword	shootout
+keyword	farm
+keyword	amish widow
+keyword	forbidden love
+keyword	widow
+keyword	crooked cop
+keyword	witness
+keyword	pennsylvania
+keyword	barn
+keyword	buggy
+keyword	grandfather
+keyword	prayer
+keyword	one word title
+keyword	voyeurism
+keyword	restroom
+keyword	bully
+keyword	police corruption
+keyword	silo
+keyword	diner
+keyword	female frontal nudity
+keyword	carpentry
+keyword	fish out of water
+keyword	construction site
+keyword	religion
+keyword	toy
+keyword	talking in sleep
+keyword	gunshot wound
+keyword	neo noir
+keyword	switchblade
+keyword	suitor
+keyword	milking
+keyword	bully comeuppance
+keyword	voyeur
+keyword	brother sister relationship
+keyword	pass out from blood loss
+keyword	tradition
+keyword	cleavage
+keyword	topless female nudity
+keyword	philadelphia pennsylvania
+keyword	loss of husband
+keyword	police detective
+keyword	broken nose
+keyword	non violence
+keyword	lancaster county
+keyword	sexual attraction
+keyword	police officer killed
+keyword	bare breasts
+keyword	dancing
+keyword	blood
+keyword	throat slitting
+keyword	police lineup
+keyword	scantily clad female
+keyword	hostage
+keyword	railway station
+keyword	parking garage
+keyword	corn
+keyword	telephone box
+keyword	sponge bath
+keyword	child in peril
+keyword	single mother
+keyword	kiss
+keyword	disguise
+keyword	fistfight
+keyword	barn raising
+keyword	female nudity
+keyword	horse and buggy
+keyword	fight
+keyword	rural setting
+keyword	funeral
+keyword	violence
+keyword	lifting someone into the air
+keyword	sole black character dies cliche
+keyword	buried alive
+keyword	gun
+keyword	gift
+keyword	blockbuster
+keyword	culture clash
+keyword	nursing back to health
+keyword	bar
+keyword	shotgun
+keyword	witness protection
+keyword	bell
+keyword	critically acclaimed
+keyword	title spoken by character
+keyword	
+cast	Harrison Ford	John Book
+cast	Kelly McGillis	Rachel
+cast	Josef Sommer	Schaeffer
+cast	Lukas Haas	Samuel
+cast	Jan Rubes	Eli Lapp
+cast	Alexander Godunov	Daniel Hochleitner
+cast	Danny Glover	McFee
+cast	Brent Jennings	Carter
+cast	Patti LuPone	Elaine
+cast	Angus MacInnes	Fergie
+cast	Frederick Rolf	Stoltzfus
+cast	Viggo Mortensen	Moses Hochleitner
+cast	John Garson	Bishop Tchantz
+cast	Beverly May	Mrs. Yoder
+cast	Ed Crowley	Sheriff
+cast	Timothy Carhart	Zenovich
+cast	Sylvia Kauders	Tourist Lady
+cast	Marian Swan	Mrs. Schaeffer
+cast	Maria Bradley	Schaeffer's Daughter
+cast	Rozwill Young	T-Bone
+cast	Paul S. Nuss	Amish
+cast	Emily Mary Haas	Amish
+cast	Fred Steinharter	Amish
+cast	John D. King	Amish
+cast	Paul Goss	Amish
+cast	Annemarie Vallerio	Amish
+cast	Bruce E. Camburn	Amish
+cast	William Francis	Town Man
+cast	Tom Kennedy	Ticket Seller
+cast	Ardyth Kaiser	Couple in Garage
+cast	Thomas Quinn	Couple in Garage
+cast	Eugene Dooley	Detective
+cast	Victoria Scott D'Angelo	Detective
+cast	Richard Chaves	Detective
+cast	Tim Moyer	Detective
+cast	Nino Del Buono	Detective
+cast	James Frank Clark	Detective
+cast	Joseph Kelly	Detective
+cast	Norman Carter	Detective
+cast	Craig Clement	Detective
+cast	Robert Earl Jones	Custodian
+cast	Michael Levering	Hoodlum
+cast	Cara Giallanza	Hoodlum
+cast	Anthony Dean Rubes	Hoodlum
+cast	Bernie Styles	Counterman
+cast	Blossom Terry	Mother in Station
+cast	Jennifer Mancuso	Little Girl
+cast	Nancy Kirk	Crying Amish Woman at Funeral

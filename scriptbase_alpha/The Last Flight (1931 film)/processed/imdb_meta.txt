@@ -1,0 +1,92 @@
+year	1931
+imdb score	7.9
+meta score	N/A
+genre	Drama
+keyword	shooting gallery
+keyword	biplane
+keyword	group of friends
+keyword	bull arena
+keyword	aerial combat
+keyword	world war one veteran
+keyword	armistice day 1918
+keyword	reference to michelangelo
+keyword	attempted rape
+keyword	survivor
+keyword	pilot
+keyword	comradeship
+keyword	year 1918
+keyword	elevator
+keyword	accidental death
+keyword	paris france
+keyword	bar
+keyword	gunfire
+keyword	post traumatic stress disorder
+keyword	airplane accident
+keyword	horse
+keyword	party goer
+keyword	airplane pilot
+keyword	airplane
+keyword	fight
+keyword	explosion
+keyword	armistice
+keyword	lisbon portugal
+keyword	dogfight
+keyword	dancing
+keyword	machine gun
+keyword	bullfight
+keyword	train ride
+keyword	pet turtle
+keyword	hospital
+keyword	reference to heloise and abelard
+keyword	air raid
+keyword	irrational behavior
+keyword	veteran
+keyword	murder
+keyword	friendship
+keyword	anti social behavior
+keyword	pere lachaise cemetery paris
+keyword	post world war one
+keyword	alcohol abuse
+keyword	ptsd
+keyword	turtle
+keyword	amusement park
+keyword	cemetery
+keyword	reporter
+keyword	american abroad
+keyword	martini
+keyword	champagne
+keyword	burnt hand
+keyword	bombing
+keyword	suicidal tendency
+keyword	dipsomania
+keyword	world war one
+keyword	aviator
+keyword	fatal accident
+keyword	gored by bull
+keyword	nightclub
+keyword	combat survivor
+keyword	november 11 1918
+keyword	train
+keyword	alcohol
+keyword	war injury
+keyword	socially awkward
+keyword	drunkenness
+keyword	eiffel tower paris
+keyword	cancan dance
+keyword	fighter pilot
+keyword	hotel
+keyword	fire
+keyword	crash survivor
+keyword	based on novel
+cast	Richard Barthelmess	Cary Lockwood
+cast	David Manners	Shep Lambert
+cast	Johnny Mack Brown	Bill Talbot
+cast	Helen Chandler	Nikki
+cast	Elliott Nugent	Francis
+cast	Walter Byron	Frink
+cast	Luis Alberni	Spectator at Bullfight
+cast	Herbert Bunston	Man on Train
+cast	Yola d'Avril	French Party Girl at Cafe
+cast	Jay Eaton	Extra in Claridge Bar
+cast	George Irving	Military Doctor
+cast	Wallace MacDonald	Officer at Hospital

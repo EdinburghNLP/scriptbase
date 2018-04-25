@@ -1,0 +1,33 @@
+year	1934
+imdb score	6.5
+meta score	N/A
+genre	Drama
+keyword	murder
+keyword	remake
+keyword	based on play
+keyword	
+cast	Guy Standing	Judge Martin Prentice
+cast	John Halliday	Jack Brookfield
+cast	William Frawley	Jury Foreman
+cast	Judith Allen	Nancy Brookfield
+cast	Tom Brown	Clay Thorne
+cast	Olive Tell	Mrs. Helen Thorne
+cast	Richard Carle	Lew Ellinger
+cast	Ralf Harolde	Frank Hardmuth
+cast	Purnell Pratt	District Attorney Robinson
+cast	Frank Sheridan	Police Chief
+cast	Gertrude Michael	Margaret Price
+cast	Ferdinand Gottschalk	Dr. von Strohn
+cast	Phil Dunham	Court Clerk
+cast	Ernest Hilliard	First Lawyer
+cast	Arthur Stuart Hull	Second Lawyer
+cast	Selmer Jackson	Henry Walthall
+cast	Howard Lang	Judge
+cast	John Larkin	Clarence - Brookfield's Butler
+cast	Robert Littlefield	Ambrose
+cast	Robert McKenzie	Juror
+cast	Jack Mower	Card Player
+cast	George Reed	Train - Prentice's Butler
+cast	Oscar Smith	Butler at Card Game
+cast	Guy Usher	Dick Wingate
+cast	George Webb	Assistant District Attorney

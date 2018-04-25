@@ -1,0 +1,5329 @@
+Viridiana (1961) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Viridiana (1961) movie scriptby Luis Bunuel (in collaboration with Julio Alejandro).Translated by Piergiuseppe Bozzetti.
+More info about this movie on IMDb.com
+
+
+THE COURTYARD AND CLOISTER OF A CONVENT. 
+
+A group of LITTLE BOYS, walking two by two in line, are led across the 
+courtyard by some NUNS. Other nuns are coming and going in the courtyard or 
+along the cloister, where a priest is also passing.
+
+In a corner of the courtyard a group of nuns are chatting. One of them is 
+VIRIDIANA. The MOTHER SUPERIOR comes toward her. The film opens to the 
+strains of Handel's "Hallelujah Chorus," which accompany the credits. Then 
+the music fades as the first picture comes on.
+
+               MOTHER SUPERIOR
+     Sister Viridiana.
+
+The young nun breaks away from the group and comes toward the MOTHER 
+SUPERIOR. She bows.
+
+               VIRIDIANA
+     Mother?
+
+               MOTHER SUPERIOR
+     I've just had a letter from your uncle. He 
+     won't be able to come when you take your vows. 
+
+               VIRIDIANA 
+          (indifferent)
+     All right, Mother.
+
+The MOTHER SUPERIOR is astonished at her lack of concern. 
+
+               MOTHER SUPERIOR
+     You don't seem to mind very much.
+
+Both have begun to walk along the cloister.
+
+               VIRIDIANA
+     I hardly know him. I saw him only once, some 
+     years ago. I can't even remember him.
+
+               MOTHER SUPERIOR
+     In any case he's asking you to come and stay 
+     with him.
+
+               VIRIDIANA
+     I don't want to leave the convent, Mother. 
+
+               MOTHER SUPERIOR
+     I'm afraid that his health is not good. He's 
+     your only relative and you ought to say 
+     farewell to him before taking your vows. You 
+     will certainly never see him again.
+
+They stop and face each other.
+
+               VIRIDIANA
+     But why does he want to see me? He has never 
+     bothered about me.
+
+               MOTHER SUPERIOR
+     He has paid for your studies and your 
+     maintenance, and he has just sent your dowry. 
+     Does that mean so little to you, Viridiana?
+
+VIRIDIANA, taken aback, seems to reflect. They start walking again.
+
+               VIRIDIANA
+     I have no desire to see the world again, but if 
+     you order me to...
+
+               MOTHER SUPERIOR
+     The retreat will start soon. You can leave 
+     tomorrow morning. 
+
+They stop and face each other again; VIRIDIANA looks dejectedly at the MOTHER 
+SUPERIOR.
+
+               MOTHER SUPERIOR
+     Everything you need for the journey has been 
+     put in your cell. Go get yourself ready, and 
+     try to show him some affection.
+
+She smiles at her again and leaves. VIRIDIANA, looking worried, watches her 
+go.
+
+
+
+
+PRIVATE PARK. 
+
+Close-up of the dirty, skinny legs of little RITA, who is jumping rope. They 
+come forward and go back, opening and shutting like compasses. RITA jumps 
+from one bare foot to the other. Nearby, behind her, the legs of a man are 
+seen passing. As they recede, the chest, then the face, of DON JAIME appear. 
+He watches the little girl's legs.
+
+The head of the breathless little girl is tousled, her eyes shining and her 
+lips moist. She bites her lower lip. DON JAIME comes toward her.
+
+The noise of a horse and carriage stopping is heard nearby. RITA stops 
+skipping and looks toward the carriage.
+
+               DON JAIME 
+     That's enough for today, Rita. Do you like that 
+     rope I gave you?
+
+               RITA
+     It's easier to jump with: it's got handles. 
+
+               DON JAIME
+     Go away now. Go and play.
+
+RITA hands the rope to DON JAIME, who hangs it on a nail fixed to the trunk 
+of a big tree which overshadows them. DON JAIME then turns his attention to 
+the carriage and begins to walk toward it. RITA also goes toward the 
+carriage. VIRIDIANA is getting out. The COACHMAN hands down her small bag.
+
+               RITA
+     Hello.
+
+               VIRIDIANA
+     Hello.
+
+               RAMONA
+     Welcome, miss. I'm Ramona, Don Jaime's servant. 
+
+               VIRIDIANA
+     Ah! Pleased to meet you.
+
+DON JAIME arrives now.
+
+               DON JAIME
+     Viridiana!
+
+The young girl leaves the maid and moves to face her uncle. They look at each 
+other with curiosity. The novice's expression is what one would expect in 
+such circumstances, but DON JAIME shows a more lively interest.
+
+               VIRIDIANA
+     Yes, Uncle. How are you?
+
+               DON JAIME
+     I'm well ... The bus was late, wasn't it? ... 
+     What was the journey like? 
+
+               VIRIDIANA
+     Excellent. What a charming, peaceful place, 
+     Uncle. 
+
+               DON JAIME
+     You'll think you're still at the convent.
+
+In spite of a total lack of cordiality and warmth on both sides, DON JAIME's 
+face now registers the great interest his niece has aroused in him.
+
+The camera frames the legs of VIRIDIANA and DON JAIME, who are moving forward 
+side by side. They stop occasionally, as people do when they are walking and 
+talking together. At first we only hear their voices. Then the camera shows 
+them both completely. The tone of the conversation is normal, except that 
+DON JAIME voice shows evident interest. Hers has less expression.
+ 
+               DON JAIME
+     How long are you staying?
+
+               VIRIDIANA 
+     A very short while, Uncle. I've been given 
+     permission to stay only a few days.
+
+               DON JAIME
+     Was that difficult to get?
+
+               VIRIDIANA
+     No. Mother Superior told me to come.
+
+DON JAIME stops.
+
+               DON JAIME 
+          (crestfallen)
+     Did you have so little interest in seeing me? 
+
+               VIRIDIANA 
+          (smiling, sincere)
+     To tell you the truth, not very much. I cannot 
+     lie. I respect you and I am grateful to you 
+     because I owe you everything materially, but 
+     otherwise ...
+
+               DON JAIME 
+          (sadly)
+     You have no feelings toward ... 
+
+               VIRIDIANA
+     No.
+
+They start walking again. He begins to show pleasure, as well as surprise, at 
+the frankness of the young girl.
+
+               DON JAIME
+     You are right. Being alone has made me 
+     self-centered. Now I am sorry we have not seen 
+     more of each other. It's too late, isn't it? 
+
+She makes a gesture of resignation and indifference. 
+
+               VIRIDIANA
+     Yes. It's too late.
+
+Now they are passing under a big tree, the branches and trunk of which 
+overshadow the two stories of the house. In the distance are the fields of 
+the estate, lying waste and fallow.
+
+               VIRIDIANA
+     You've been neglecting the farm, Uncle. 
+
+               DON JAIME
+     In twenty years the grass has invaded 
+     everything. There are spiders all over the 
+     house except on the first floor. I hardly ever 
+     go out.
+
+               RITA'S VOICE 
+          (from the thickest part of the tree)
+     It's true. When he goes out he makes me jump 
+     rope.
+
+Astonished, VIRIDIANA looks up into the branches. The head of the little girl 
+appears among the leaves.
+
+               DON JAIME
+     Come down here, you scamp. 
+
+               VIRIDIANA
+     Who is she?
+
+               DON JAIME
+     My maid Ramona's daughter. She's a little animal. 
+
+               VIRIDIANA
+     Come down.
+
+The little girl disappears again among the leaves. VIRIDIANA walks on, 
+drawing ahead of her uncle.
+
+               DON JAIME
+     How like your aunt you are, even in your walk. 
+
+               VIRIDIANA
+     I know, Uncle, you've told me that already. 
+
+               DON JAIME
+     You see, even the voice. 
+
+They walk on under the trees of the estate.
+
+
+
+
+DON JAIME'S SITTING ROOM AT NIGHT. 
+
+Close-up of DON JAIME's feet slowly working the pedals of a harmonium; his 
+hands playing on the keyboard. He is playing a piece of classical music.
+
+
+
+
+DO¥A ELVIRA'S BEDROOM. 
+
+VIRIDIANA is undressing. She takes off her dress and then sits on the edge 
+of the bed to take off her black stockings. Her legs, white and perfectly 
+shaped, appear in full light.
+
+
+
+
+THE SITTING ROOM. 
+
+DON JAIME, with an ecstatic faraway look on his face, continues to play the 
+harmonium.
+
+
+
+
+THE HALL. 
+
+RAMONA moves a few paces and stops. She hesitates for a moment, and then 
+comes back toward Viridiana's room. She looks through the keyhole. The sound 
+of the harmonium comes from the sitting room.
+
+
+
+
+THE SITTING ROOM. 
+
+DON JAIME is still in his musical ecstasy. RAMONA comes in and goes quietly 
+to her master. She stops near him and, for a moment, watches his hands on the 
+keys.
+
+               RAMONA
+     She has made her bed on the floor, sir! 
+
+The old man continues to play without answering.
+
+               RAMONA
+     She has something in her suitcase that looks 
+     like thorns. Her nightgown is made of some 
+     rough cloth. It really must tear her skin! 
+          (pause) 
+     Such beautiful skin, sir.
+
+DON JAIME, his attention suddenly caught, continues to play. 
+
+               DON JAIME 
+     Leave me now. You can go to bed. 
+
+               RAMONA 
+     Yes, sir. Good night. 
+
+DON JAIME goes on playing.
+
+
+
+
+DO¥A ELVIRA'S BEDROOM. 
+
+Close-up of a crucifix of rough wood, surrounded by replicas of the 
+instruments of the crucifixion: the crown of thorns, the hammer, the nails, 
+the sponge. These are all placed on a cushion on the ground. VIRIDIANA, clad 
+in a nightgown, is crouched in front of these things praying.
+
+
+
+
+INTERIOR OF A STABLE, DAYTIME. 
+
+Close-up of the udder of a cow and the hand of the man who is milking it. It 
+is the SERVANT whom we have already seen as the coachman. Little RITA is 
+perched on the wooden partition to which the cow is tied. VIRIDIANA, carrying 
+a basket, joins the group.
+
+               VIRIDIANA 
+     Good morning. 
+
+The servant answers politely.
+
+               VIRIDIANA 
+     Good morning, Rita. How are we today? 
+
+               RITA 
+     Today, a good girl.
+
+               VIRIDIANA 
+          (to the servant)
+     Could I trouble you for my glass of milk?
+
+               SERVANT
+     Certainly, miss.
+
+She takes a glass out of her basket and hands it to the SERVANT. The man 
+fills the glass straight from the udder. VIRIDIANA watches him with 
+curiosity.
+
+               VIRIDIANA 
+     Is that difficult?
+
+He looks at her for a moment as if he does not understand how anybody could 
+ask him such a silly question.
+
+               SERVANT
+     Here, try it yourself.
+
+The suggestion amuses VIRIDIANA, but she declines.
+
+               VIRIDIANA 
+     But I wouldn't know how.
+
+He insists.
+
+               SERVANT
+     I'll show you. Hold here.
+
+He grasps a teat and motions VIRIDIANA to take it. Hesitating, she finally 
+does so timidly. She sits on the stool that the SERVANT pushes toward her. 
+She blushes. She begins pulling the teat. RITA watches her clumsiness with 
+contempt.
+
+VIRIDIANA obviously finds the sensation of the teat in her hand unpleasant. 
+When no milk comes the SERVANT insists, guiding her hand.
+
+               SERVANT
+     Pull hard like that and squeeze.
+
+But VIRIDIANA gives up the struggle with a gesture of disgust. 
+
+               VIRIDIANA 
+     I can't. It makes me ... 
+
+The servant looks at her without understanding.
+
+               VIRIDIANA 
+     It makes me feel ...
+
+She trails off and goes to RITA. At the end of the stable the other servant, 
+old MONCHO, is carrying straw. 
+
+               RITA 
+     I saw you in your nightgown! 
+
+VIRIDIANA looks at her angrily. 
+
+               VIRIDIANA 
+     What? 
+
+               RITA 
+     Yes, yes, I saw you!
+
+               MONCHO 
+     Don't take her seriously, she's a liar. 
+
+The little girl turns to the old man furiously.
+
+               RITA 
+     I saw her! I saw her ... When she was dressing, 
+     her pins fell out and she picked them up.
+
+VIRIDIANA knows this is true. She takes RITA by the arm and speaks to her 
+seriously.
+
+               VIRIDIANA 
+     How did you see me? 
+
+               RITA 
+     From the terrace.
+
+               VIRIDIANA 
+     It's very wicked to spy. Why did you do it? 
+
+MONCHO shocked, bows his head resignedly. Viridiana smiles and addresses the 
+little girl.
+
+               VIRIDIANA 
+     I'm going to the hen house. Are you coming with 
+     me? 
+
+               RITA 
+     No, I don't want to.
+
+RITA sulkily comes down from her perch and goes away. VIRIDIANA thanks the 
+SERVANT, who hands her the glass of milk which she drinks.
+
+
+
+
+INTERIOR OF THE HENHOUSE. 
+
+VIRIDIANA takes the eggs that she finds in the nests and puts them in her 
+basket.
+
+               DON JAIME'S VOICE
+     Hello!
+
+There is a pause; VIRIDIANA stops collecting the eggs. 
+
+               VIRIDIANA 
+     Good morning, Uncle. You're very early this morning. 
+
+               DON JAIME (off)
+     So that I can see a little bit more of you. 
+
+The camera moves around the scene. The house is filled with egg crates and 
+pigeons' nests. The pigeons fly in and out beneath the stone arcades. 
+
+               VIRIDIANA 
+     I'm going to make you a nun's cake. It will 
+     make your mouth water.
+
+               DON JAIME
+     You are spoiling me too much. I won't know what 
+     to do with myself when you've gone.
+
+               VIRIDIANA 
+          (deliberately)
+     Only because you want it. 
+
+DON JAIME walks up and down. 
+
+               DON JAIME 
+     What do you mean?
+
+               VIRIDIANA 
+     Nothing. I didn't say anything. 
+
+A silence.
+
+               DON JAIME 
+     You don't trust me, do you? What do you want to 
+     know? 
+
+She hesitates for a moment.
+
+               VIRIDIANA 
+     Very well! I'm talking to you like this because 
+     I can't keep things to myself. 
+
+She goes up to him and looks him straight in the eye.
+
+               VIRIDIANA 
+     Is it true that you have a son?
+
+DON JAIME is left momentarily speechless. He blushes.
+
+               DON JAIME 
+     How did you know about that?
+
+               VIRIDIANA 
+     Oh, some years ago I heard my mother talking 
+     about it. But is it true?
+
+               DON JAIME 
+     Yes, it is.
+
+               VIRIDIANA 
+     Don't you ever see him?
+
+               DON JAIME 
+     Never.
+
+               VIRIDIANA 
+     How could anybody behave like that?
+
+               DON JAIME 
+     Sometimes these things happen because of 
+     inexperience. Sometimes it's because of... 
+
+               VIRIDIANA 
+          (interrupting)
+     Evil.
+
+               DON JAIME
+     And what do you know about life? When all is 
+     said and done you couldn't possibly understand.
+
+He walks forward a few steps looking worried.
+
+               VIRIDIANA 
+     I understand perfectly. But even if you were 
+     not entirely blameworthy, you should have 
+     brought up the child.
+
+VIRIDIANA's expression becomes harder. DON JAIME begins to pace again 
+nervously. He passes in front of his niece, speaking with a certain 
+embarrassment.
+
+Nearby is a basin of water. While they are speaking, DON JAIME looks down 
+into the basin, on the edge of which a bee has settled.
+
+               DON JAIME 
+     His mother wanted to keep him. She came from a 
+     poor family. I was in love with your aunt. I 
+     would like to have acknowledged him but I was 
+     afraid of losing her. That's why I didn't say 
+     anything.
+
+               VIRIDIANA 
+     And this innocent child. 
+
+               DON JAIME 
+     Don't worry. He won't be forgotten.
+
+There is silence. VIRIDIANA picks up her basket again. DON JAIME stares 
+obstinately at the basin. The bee is still there.
+
+               DON JAIME 
+     You must think I am a monster. 
+
+               VIRIDIANA 
+     No, but what a pity life is like that.
+
+The bee falls into the water. It flounders there, beating its legs and wings. 
+DON JAIME puts a bit of bamboo into the water and lets the bee climb onto it.
+
+               DON JAIME 
+     The poor little beast. It was going to drown.
+
+
+
+
+INTERIOR OF THE SITTING ROOM. 
+
+It is two o'clock in the morning. The chimes dominate the music of the 
+phonograph which plays a muted Ninth Symphony (fourth movement). The clock 
+then strikes two.
+
+The sitting room is lit only by the cheerful light of the wood burning in the 
+hearth. Don Jaime's bedroom, opening off the end of the sitting room and lit 
+by an oil lamp, appears to be empty. The camera pulls us into this room.
+
+
+
+INTERIOR OF DON JAIME'S ROOM. 
+
+DON JAIME is sitting in front of a large carved wooden chest which he has 
+just opened. He seems to be concentrating but his expression is impassive. He 
+is looking at the wedding attire he has kept, and judging from the cut of the 
+clothes, they are the ones his dead wife Do¤a Elvira wore on her wedding day. 
+DON JAIME gradually takes out the different parts of the outfit. He gazes at 
+some of them for a moment; others he hardly looks at at all. There is the 
+veil, the bodice, the skirt, the crown of artificial orange blossoms, the 
+satin slippers.
+
+He looks at some of these voluptuously. He throws the crown of orange 
+blossoms onto his bed. He takes off his shoes and tries to put his bare foot 
+into one of the delicate feminine slippers. Now he takes a satin corset with 
+ribbons out of the chest. The chorus of the Ninth Symphony is still heard. 
+With difficulty, DON JAIME gets up and, with the corset in his hands, goes 
+toward his mirror. He draws on the corset and gazes at his face.
+
+DON JAIME's head and shoulders are reflected in the glass. His expression is 
+blank. The music continues.
+
+The log fire in the fireplace makes leaping shadows on the walls.
+
+As DON JAIME is standing in front of the mirror a sudden noise makes him 
+start. He rapidly hides the corset which he had wrapped around him and goes 
+to the door.
+
+               DON JAIME 
+          (in a broken voice)
+     Who's there?
+
+He hears the sound of furniture being knocked against. He sees VIRIDIANA pass 
+two steps in front of him. She is barefoot. She has thrown over her nightgown 
+a large woolen shawl which covers her shoulders. The girl does not seem to 
+notice her uncle watching her and she continues to move toward the door of 
+the sitting room. Crossing his room simultaneously, DON JAIME goes into the 
+sitting room by the door which joins the two rooms.
+
+
+
+
+THE SITTING ROOM. 
+
+VIRIDIANA is carrying a wicker workbasket. Her eyes are open but the 
+expression on her face is cold, distant, statuesque. She goes directly to one 
+of the armchairs near the fireplace and sits down.
+
+DON JAIME comes into the sitting room. He follows the girl's movements with a 
+dismayed look. He goes and stands in front of her. He sees that VIRIDIANA is 
+sleepwalking. He makes every effort to avoid making a noise but never takes 
+his eyes off of her.
+
+As VIRIDIANA sits down, her nightgown is disarranged and her leg and the 
+beginning of her thigh are uncovered. DON JAIME stares at the white, finely 
+grained flesh, unable to look away. He is visibly agitated.
+
+VIRIDIANA takes the things that are in the workbasket -- needles, balls of 
+wool, skeins, and so on -- and throws them into the fire. But her eyes do not 
+see what her hands are doing. The precision of her movements is admirable; 
+but as she makes another movement to draw nearer the fire, more of her thigh 
+is exposed.
+
+DON JAIME sadly closes his eyes. What a torment, to have so near his grasp 
+the young woman he wishes to possess and yet dares not take in his arms!
+He opens his eyes again. Apparently what he sees gives him an idea. But for 
+the moment he is worried about what the young novice is doing.
+
+VIRIDIANA, kneeling now in front of the fire, takes handfuls of ashes and 
+sprinkles them into her basket. Then she gets up and walks slowly toward Don 
+Jaime's room and goes in. After a moment of astonished hesitation, he follows 
+her. As VIRIDIANA reaches the bed, she empties the ashes from her basket, 
+with a slow movement, onto the bedspread beside the orange blossoms DON JAIME 
+threw there.
+
+DON JAIME is startled; the expression on his face, seen in close-up, shows 
+horror at the girl's apparently absurd conduct.
+
+VIRIDIANA walks back across the room. As she passes DON JAIME, the basket in 
+her hand brushes against him. Her eyes, still open, have a dead look in them, 
+and since she is barefoot and walks slowly she seems to glide rather than 
+walk. She leaves the room. DON JAIME goes to the bed and looks, in a 
+distracted and incredulous way, at the ashes she has left there.
+
+
+
+
+THE HALL. 
+
+VIRIDIANA walks toward her room. DON JAIME stands in the doorway of his 
+bedroom watching his niece until she disappears into Do¤a Elvira's room.
+
+The door of Do¤a Elvira's room closes very slowly. A faint click is heard as 
+it is locked from the inside.
+
+
+
+
+INTERIOR OF DON JAIME'S ROOM. 
+
+Through the window which opens onto the balcony, the trees of the drive are 
+seen standing out against the bright daytime sky.
+
+RAMONA is busy brushing a suit. 
+
+               DON JAIME'S VOICE
+     Is she up yet?
+
+               RAMONA 
+     She's been up for some time. 
+
+She looks toward the bed where doubtless her master is and speaks, watching 
+to see what his reaction will be.
+
+               RAMONA 
+     She asked me to get her things ready.
+
+DON JAIME is shown sitting on his bed eating breakfast. What the servant has 
+just said makes him start.
+
+               DON JAIME 
+     Her last day in this house! I'll never see her 
+     again if she leaves.
+
+At the other end of the room, RAMONA is now dusting a shelf. 
+
+               RAMONA 
+     Why don't you ask her to stay on for a few 
+     days?
+
+               DON JAIME 
+          (put out)
+     I have asked her but she's ungrateful. 
+     Sometimes I feel like hitting her. When I talk 
+     to her about the convent, she turns to stone. 
+
+He is frowning and seems to be thinking of something important. 
+
+               DON JAIME 
+          (almost pleading) 
+     Ramona! 
+
+She stops dusting and looks intently at her master. He taps the edge of the 
+bed.
+
+               DON JAIME 
+     Come here, Ramona. 
+
+The servant lays down her duster and shyly goes over to the bed. 
+
+               DON JAIME 
+     Sit down, I'm going to need your help. 
+
+               RAMONA 
+     What's the matter?
+
+She hesitates; he takes her hand, forcing her to sit down on the edge of the 
+bed.
+
+               DON JAIME 
+     Sit down, woman, sit down. 
+          (looks into her eyes gently) 
+     You like me, don't you?
+
+               RAMONA 
+     I'd be really ungrateful, if I didn't like you, 
+     sir; you took me and my little girl in when I 
+     didn't know where to turn. 
+
+               DON JAIME 
+     Yes, yes, but there's no need to bring that up. 
+     How far are you prepared to help me?
+
+               RAMONA 
+     Just say the word, sir, and I'll do anything.
+
+Without a doubt there is something at the back of his mind but he wants to 
+feel his way first.
+
+               DON JAIME 
+     Why don't you speak to her, Ramona? Women are 
+     good at that sort of thing. Think of something 
+     that will make her stay a few more days. 
+          (again takes her hand 
+           and caresses it) 
+     You are kind, Ramona! Speak to her. I know I 
+     don't need to offer you anything, but, if 
+     you're successful in this, I'll not forget you 
+     or your little girl. 
+
+               RAMONA 
+     But sir, what can I say to her? And why should 
+     she pay any attention to what a servant tells 
+     her?
+
+DON JAIME twists his hands anxiously.
+
+               DON JAIME 
+     You're right, but we must do something. 
+
+He continues to think thoughts that he dare not express. 
+
+               RAMONA 
+     You must think what the best thing to do is, 
+     and I'll help you to my utmost.
+
+DON JAIME looks at his servant enigmatically, then speaks, without seeming to 
+attach much importance to what he says.
+
+               DON JAIME 
+     Look in the cupboard. On the upper shelf, 
+     there's a little blue bottle. There's no label 
+     on it. You'll find some white pills inside. 
+
+While DON JAIME is speaking the cupboard is shown in close-up, half-open. 
+Among other articles there are some bottles on one of the shelves. RAMONA 
+fully opens the cupboard door and takes one of the bottles. She turns to 
+DON JAIME. 
+
+               RAMONA 
+     This one, sir?
+
+DON JAIME nods in affirmation.
+
+               DON JAIME 
+     Yes, leave it there. Go on with what you were 
+     doing. I'll tell you what to do later.
+
+RAMONA goes out of the room. DON JAIME puts down his tray on the small 
+breakfast table and gets out of bed. He is in pajamas. He puts on his 
+slippers and goes to the window. He looks out at the drive.
+
+
+
+
+THE PARK. 
+
+Below DON JAIME'S window, RITA is jumping rope. VIRIDIANA is standing nearby. 
+She stops the little girl. They talk for a moment, then the girl takes the 
+rope and they begin to jump together very skillfully.
+
+DON JAIME is watching the scene with the same enigmatic look on his face that 
+he had a moment before and his eyes are full of tenderness.
+
+
+
+
+THE DRAWING ROOM, DAYTIME. 
+
+Close-up of a woman's hands peeling fruit. The peel unrolls in a long spiral. 
+It is VIRIDIANA who is executing this work of art. She puts the fruit on a 
+saucer and carries it to DON JAIME, who is sitting beside the fireplace where 
+a good fire is blazing. On the little round table there are the remains of a 
+meal which is just ending.
+
+DON JAIME, his back turned three-quarters to the fireplace, is cleaning his 
+pipes. He abandons them to thank his niece for her kindness. He admires the 
+spiral.
+
+               DON JAIME 
+     I have never been able to do that. I'm too 
+     nervous. 
+
+VIRIDIANA, her back to the camera and to her uncle, gazes at the fire, lost 
+for a moment in thought. She then turns and goes to DON JAIME and raises her 
+arms in a gesture of incomprehension. 
+
+               VIRIDIANA 
+     Why didn't you wake me? 
+
+DON JAIME is eating the fruit. 
+
+               DON JAIME 
+     They say it's dangerous.
+
+VIRIDIANA seems to be ashamed of her bout of sleepwalking. She reacts 
+energetically. She is trying to dismiss the matter as unimportant. 
+
+               VIRIDIANA 
+     I don't believe it. A few years ago -- the last 
+     time I walked in my sleep -- they woke me up by 
+     slapping my face. And you can see I'm still 
+     alive. 
+          (her face darkens) 
+     What worries me is that I put ashes on your 
+     bed.
+
+DON JAIME is busy munching a piece of fruit.
+
+               DON JAIME 
+     Why? It's no more odd than anything else. 
+     People who walk in their sleep don't know what 
+     they're doing. 
+
+VIRIDIANA, worried, shakes her head in disagreement. 
+
+               VIRIDIANA 
+     No, Uncle; ashes mean penance and death. 
+
+               DON JAIME 
+          (laughing)
+     Then it's penance for you who are going to be a 
+     nun; and for me, who am old, it's death ... 
+
+VIRIDIANA sits down. RAMONA, who has come into the room a second before, 
+serves a cup of coffee to DON JAIME.
+
+               DON JAIME 
+     If you like, I will come with you tomorrow to 
+     the village when you leave.
+
+               VIRIDIANA 
+     Thank you, Uncle.
+
+DON JAIME examines the pipe which he is filling.
+
+               DON JAIME 
+     This evening we must do something special by 
+     way of a farewell.
+
+               VIRIDIANA 
+     Whatever you like.
+
+DON JAIME offers a piece of fruit to his niece. She takes it.
+
+               DON JAIME 
+          (trying to appear detached about it)
+     I should like you to do something for me. It's 
+     an innocent sort of thing but I'm very set on 
+     it.
+
+               VIRIDIANA 
+     Today I can refuse you nothing.
+
+DON JAIME, surprised and happy, gets up and comes over to her.
+
+               DON JAIME 
+     You'll do what I ask, then?
+
+VIRIDIANA, not at all alarmed, bites the fruit which her uncle has given her.
+
+               VIRIDIANA
+     Whatever you wish. I'm at your command. 
+
+He looks at her with gratitude. At the same time he is sincerely modest 
+and shy.
+
+               DON JAIME 
+     No, wait ... 
+          (he smiles awkwardly) 
+     What a silly thing! It's quite difficult for me 
+     to tell you what it is.
+
+He takes a mouthful of coffee and relights his pipe. He shakes his head as if 
+he is sorry for himself.
+
+
+
+
+THE PARK AT NIGHT. 
+
+The fa‡ade of the house is lit by the moon. The windows of the only two rooms 
+which show light stand out in the darkness. Slowly, the light fades in the 
+window of Do¤a Elvira's room as if someone is carrying the light away. A dog 
+is heard barking.
+
+
+
+
+THE HALL. 
+
+VIRIDIANA, who appears clothed in the wedding dress previously seen in Don 
+Jaime's hands leaves Do¤a Elvira's room. She is holding a lit candelabra in 
+her hand. She advances as if walking to the altar. Although the situation is 
+not to her liking, she is a little amused by it. RAMONA helps by carrying her 
+train. They move toward the sitting room.
+
+
+
+
+THE SITTING ROOM. 
+
+DON JAIME looks toward the door as the radiantly beautiful VIRIDIANA enters 
+the room. His hand shakes; he is motionless for a second. Then he goes toward 
+her, takes the candelabra from her, and gazes at her in admiration. RAMONA 
+lets go of the train and goes off the frame.
+
+               DON JAIME 
+          (very tenderly)
+     How strange you are! When I asked you to do 
+     this favor for me you refused. You seemed 
+     almost offended. And now, here you are, making 
+     me so very happy all of a sudden. Thank you, 
+     my child!
+
+               VIRIDIANA 
+          (a bit oppressed)
+     I don't like masquerading, but as you see I 
+     decided to give in to your whim.
+
+DON JAIME frees the girl's hand; he looks bitter.
+
+               DON JAIME 
+     It's not a masquerade, nor is it a whim. 
+          (silence for a moment) 
+     I'm going to tell you something that few people 
+     know. 
+
+He takes a few steps with his fists clenched, stops, and turns to her.
+
+               DON JAIME 
+     Your aunt died of a heart attack, in my arms, 
+     on our wedding night, wearing that dress, and 
+     you look so like her ...
+
+As he speaks he goes to the table, on which he places the candelabra. His 
+words have moved the girl. DON JAIME follows her with his eyes.
+
+               DON JAIME 
+     You must think I'm mad.
+
+               VIRIDIANA 
+     No, Uncle, and now I'm pleased to have been 
+     able to do this favor, because, although I 
+     didn't think so at first, you are really a good 
+     man.
+
+VIRIDIANA adjusts her veil. DON JAIME has gone to another table near which 
+RAMONA is hovering. He lights the spirit lamp under a samovar.
+
+               DON JAIME 
+     If you only knew ... When I was young I was 
+     full of idealism. I wanted to do something on a 
+     big scale for others, something to show my 
+     great love for humanity. But as soon as I tried 
+     to do something about it, I became afraid that 
+     I would be laughed at and I felt like a fool 
+     ... and so I went back into my shell. 
+
+               VIRIDIANA 
+     Wasn't that cowardice?
+
+               DON JAIME 
+     No, it isn't that, I can assure you. I wouldn't 
+     be afraid in the face of real danger. I've 
+     proved that to myself. On the other hand, if a 
+     stranger visited me simply to say hello, I'd be 
+     alarmed. 
+
+There is silence for a moment. DON JAIME looks at VIRIDIANA almost lovingly.
+
+               DON JAIME 
+     I can't take my eyes off you. Come, let's sit 
+     down. 
+
+They sit side by side.
+
+               VIRIDIANA 
+     Uncle, you mustn't think that I won't be sad to 
+     leave you. 
+
+               DON JAIME 
+          (eagerly)
+     It's up to you entirely. Don't leave, then ... 
+
+VIRIDIANA shakes her head.
+
+               VIRIDIANA 
+     Unfortunately ...
+
+               DON JAIME 
+          (discouraged)
+     It's my fault. If I'd come to see you more 
+     often, if I'd invited you here for holidays, 
+     maybe everything would be different.
+
+               VIRIDIANA
+          (smiling)
+     Maybe ...
+
+DON JAIME gazes at his niece. His tension is at a peak. His whole future 
+depends on what he is about to say; he is convinced of that.
+
+               DON JAIME 
+     There's one way you could stay. If I asked ... 
+
+He stops in front of her; he lowers his eyes.
+
+               DON JAIME  
+     I mean .. . if I said to you ... 
+
+He cannot go on. His mouth is dry and he is flushed, his muscles contracting. 
+
+               DON JAIME 
+     No, I can't ... I can't ...
+
+VIRIDIANA looks at him in amazement.
+
+RAMONA comes up to them. The servant has followed the conversation with 
+interest and anxiety. She comes to her master's assistance. She quickly 
+intervenes to address the girl in a firm tone.
+
+               RAMONA
+     What he wants, miss, is to marry you. 
+
+This remark leaves the girl stunned.
+
+               RAMONA
+     Excuse me, sir, but I only said what you didn't 
+     dare say yourself. 
+
+DON JAIME is ashamed and looks at the servant reproachfully.
+
+               RAMONA
+     He loves you very much and he deserves to be 
+     loved in return, because he is a very good man.
+
+VIRIDIANA has not yet got over her surprise. Perhaps she is even more upset 
+than he is. But, gradually, she frowns and shows her irritation.
+
+               VIRIDIANA 
+     You're really serious?
+
+DON JAIME answers in a determined voice but with his eyes lowered.
+
+               DON JAIME 
+     Yes, I don't want you ever to leave this house. 
+
+               VIRIDIANA 
+          (getting up)
+     You must be out of your mind. I've been so 
+     happy these last few days -- now you've spoiled 
+     it all. 
+
+A silence. VIRIDIANA pulls off her veil angrily.
+
+               VIRIDIANA 
+     I think it would be better if I went to my 
+     room.
+
+She moves toward the door. DON JAIME rushes forward to restrain her.
+
+               DON JAIME 
+     Wait! Forgive me! Honestly, I really beg your 
+     pardon. Stay a few more minutes! If you go now, 
+     I'm afraid you'll always resent me. I promise 
+     not to say anything that might annoy you. I'll 
+     put some music on and we'll have a cup of 
+     coffee.
+
+DON JAIME makes a sign to RAMONA, who has gone over to the sideboard where 
+the coffeepot is. VIRIDIANA is motionless, her head hangs, she refuses to say 
+a word. RAMONA looks at DON JAIME, who signals to her almost imperceptibly. 
+He goes to the phonograph and puts on a classical record, as usual. 
+VIRIDIANA, head still down, has just sat down in the armchair. RAMONA fills 
+the coffee cups. The phonograph begins to play.
+
+               RAMONA 
+     Take this, miss, it'll do you good.
+
+RAMONA offers a cup of coffee to the girl. Gazing in front of her, she drinks 
+almost the whole cup in a quick gulp.
+
+
+
+
+THE SERVANTS' QUARTERS, NIGHTTIME. 
+
+A very simple room on the ground floor of the house. An old sideboard and a 
+rough kitchen table. MONCHO is sitting near the table mending a strap. Beside 
+him is a piece of paper with lumps of sugar on it. He eats them with 
+enthusiasm, munching noisily. The door opens and little RITA comes in, 
+sobbing and frightened. She is barefoot, dressed in a skirt and an old ragged 
+blanket which covers the upper part of her body. The old servant looks at her 
+disapprovingly.
+
+               MONCHO 
+     Why are you crying?
+
+               RITA 
+     I'm afraid.
+
+               MONCHO 
+     Don't invent stories; go to bed.
+
+               RITA 
+     A black bull came.
+
+               MONCHO 
+          (laughing mockingly)
+     A black bull! 
+
+RITA approaches him. Her fear is disappearing. 
+
+               RITA 
+     It's a very big one. 
+
+               MONCHO 
+     Very, very?
+
+               RITA 
+          (with an air of defiance)
+     Yes -- very, very big! 
+
+               MONCHO 
+     He couldn't get through the door, then? 
+
+RITA shakes her head vigorously. MONCHO laughs with an air of "Now you've 
+been caught in a barefaced lie." 
+
+               MONCHO 
+     Then how did it get in, silly?
+
+The little girl thinks for a moment.
+
+               RITA 
+          (energetically)
+     He came in through the cupboard. 
+
+               MONCHO 
+     You little liar! Get out of here!
+
+RITA starts crying again. 
+
+               RITA 
+     I'm afraid.
+
+MONCHO holds out a piece of sugar to her.
+
+               MONCHO 
+     Here! And call your mother if you're having 
+     nightmares. Now go away and don't annoy me.
+
+RITA accepts the gifts and lingers for a moment. The servant carries on with 
+his work and finally the girl leaves, munching her lump of sugar.
+
+
+
+
+THE SITTING ROOM. 
+
+RAMONA puts down her cup. Then DON JAIME gives her his. They look at each 
+other in silence. The music has stopped. DON JAIME goes to the phonograph and 
+switches it on again. VIRIDIANA is still sitting, with her back to the 
+camera, holding the empty cup in her hand. DON JAIME comes up behind her.
+
+Close-up of VIRIDIANA's right hand holding the cup and saucer. Her fingers 
+slacken and she lets go of them. DON JAIME holds his breath. He is just 
+behind her. He stops to watch her reactions. He looks at RAMONA. Then he
+speaks.
+
+               DON JAIME 
+          (in a shaky voice)
+     You look very tired. Perhaps you'd better go to 
+     bed.
+
+There is no reply. VIRIDIANA'S head falls on her shoulders. DON JAIME comes 
+toward her slowly until he is standing in front of her. He shakes her gently.
+
+               DON JAIME 
+     Viridiana! Viridiana! ... 
+
+There is no reply.
+
+
+
+
+THE HALL. 
+
+The only light comes from the sitting room. At the end of the hall, the small 
+silhouette of RITA appears as she comes upstairs. She carefully enters the 
+hall, going in the direction of the sitting room, from which muffled voices 
+are heard.
+
+               DON JAIME'S VOICE
+     Help me ...Take her by the legs. 
+
+               RAMONA'S VOICE
+     Lift her a little more, sir...
+
+A pause. There is the sound of a chair being overturned. 
+
+               DON JAIME'S VOICE
+     Don't think too badly of me, Ramona; I only 
+     want to have her close to me.
+
+The camera reaches RITA. There is the sound of footsteps approaching the door 
+and the child runs and hides herself behind the staircase, from where, 
+timorously, she watches the scene. DON JAIME and his servant appear from the 
+sitting room, carrying VIRIDIANA who appears to be dead. They go toward Do¤a 
+Elvira's room and enter it. RITA comes out of her hiding place. Her curiosity 
+aroused, she would like to see more but she is afraid of being discovered. 
+She withdraws gradually and starts to go downstairs again.
+
+
+
+
+INSIDE DO¥A ELVIRA'S ROOM. 
+
+DON JAIME and RAMONA have laid VIRIDIANA motionless on the bed. RAMONA lights 
+the candles. 
+
+               DON JAIME'S VOICE
+     That will be all, Ramona.
+
+She obeys in silence.
+
+VIRIDIANA remains lying on her back motionless. Her hair is slightly untidy, 
+as it was a few minutes before in the sitting room. DON JAIME, feverishly, 
+with an artist's meticulousness, begins to perfect his masterpiece. He 
+crosses the girl's arms over her breast, puts her feet together, arranges the 
+pleats of her dress. Lying thus, VIRIDIANA has the look of a lovely figure on 
+a tomb.
+
+The scene switches to the big tree which dominates the grounds. We see RITA 
+going toward it, looking up from time to time at the feebly lit window of 
+Do¤a Elvira's room. After a moment's hesitation, the little girl begins to 
+climb the tree. As she ascends, the sound of a dog barking is heard in the 
+night.
+
+
+
+
+DO¥A ELVIRA'S ROOM. 
+
+DON JAIME, sitting on the edge of the bed, stands up. For a moment he walks 
+up and down in front of the motionless body, without taking his eyes off it. 
+He stops for a second, then goes over and sits on the bed again. He caresses 
+VIRIDIANA'S hair and forehead. He is terribly affected. Then he puts his arms 
+around the girl's shoulders and lifts her gently into a sitting position. He 
+draws his face close to hers and joins his lips to hers in a sweet, prolonged 
+kiss.
+
+The window, through which little RITA, who has reached the terrace, looks 
+curiously in at the scene.
+
+With trembling hands, DON JAIME unfastens the neck of VIRIDIANA'S dress. Her 
+throat and the top of her breasts are exposed. The body he has been yearning 
+for, now defenseless, is at his mercy. He is completely beside himself. He 
+lays his cheek against VIRIDIANA'S breast. He feels the softness of the skin 
+and its warmth. He kisses it once, twice. Suddenly, he reacts. He gets up 
+with a start and looks, almost with terror, at the body. He sees the calm, 
+serene expression on the girl's face. DON JAIME now passes from the realm 
+of blind instinct to the realm of conscience. He realizes the meanness of his 
+actions. Basically, he is a good and kindly man. Nevertheless his hands reach 
+out to her again. Then suddenly, decisively, as if moved by fear of himself; 
+he runs to the door, opens it, and goes out into the hall, taking the lit 
+candelabra with him on the way. The music has not stopped throughout.
+
+RITA climbs down from the branches of the tree and jumps to the ground. She 
+sees her mother waiting for her and runs to join her. 
+
+               RAMONA 
+     What are you doing? 
+
+               RITA 
+     Don Jaime was kissing the lady.
+
+RAMONA, with a somber look, stares at her child. Then she sees how RITA has 
+come to know this. She frowns, annoyed.
+
+               RAMONA 
+     He only kisses her because she's his niece. 
+     Don't I kiss you? You should be in bed.
+
+               RITA 
+     A black bull came into my room. 
+
+               RAMONA 
+     Be quiet. I'm going to put you to bed. 
+
+She takes her by the hand and leads her to the servants' door. Again the 
+barking of a dog is heard.
+
+DON JAIME passes down the hall on his way to his room, walking quickly and 
+nervously. He opens the door, enters, and closes it with a bang. Absolute 
+silence then reigns in the house.
+
+
+
+
+INTERIOR OF DO¥A ELVIRA'S ROOM, THE NEXT DAY. 
+
+RAMONA, standing in front of the window, closes it. We hear the moaning voice 
+of VIRIDIANA.
+
+               VIRIDIANA (off) 
+     I'm thirsty.
+
+RAMONA gives her a glass of water from a bottle that is on the console. 
+VIRIDIANA drinks it greedily. 
+
+               RAMONA 
+     How do you feel? 
+
+               VIRIDIANA 
+     I have a headache.
+
+               RAMONA 
+     That will soon pass. It's nothing.
+
+VIRIDIANA notices her exposed body and covers herself modestly -- ill at ease.
+ 
+               VIRIDIANA 
+     What happened to me?
+
+               RAMONA 
+     You fainted last night after supper. The master 
+     and I carried you here.
+
+               VIRIDIANA 
+     Have I slept long?
+
+               RAMONA 
+     Oh, you slept well; don't worry.
+
+The sound of footsteps is heard approaching the bedroom. VIRIDIANA covers 
+herself under the bedclothes. The door opens and DON JAIME appears. His face 
+and the untidiness of his clothes show clearly that he must have spent a 
+sleepless night. Seeing him, VIRIDIANA wants to protest but does not dare. 
+DON JAIME comes in.
+
+               DON JAIME 
+     Leave us alone, Ramona. 
+
+               VIRIDIANA 
+          (vehemently)
+     Don't go!
+
+DON JAIME makes a sign with his head and the servant obeys. She leaves the 
+room, closing the door behind her. The uncle and niece remain, facing one 
+another.
+
+               VIRIDIANA 
+     Leave me alone, uncle, please. I want to get up.
+
+She receives no reply. The old man walks up and down the room, deep in 
+thought, obviously not knowing how to begin. She insists, in an irritated 
+manner.
+
+               VIRIDIANA 
+     I have to go!
+
+DON JAIME sits down on the edge of the bed. He answers very decisively. 
+
+               DON JAIME 
+     No. You can never go away now.
+
+There is a sudden look of impatience, almost of real fear, in the girl's 
+eyes. 
+
+               VIRIDIANA 
+     Last night you promised never to speak of that 
+     again. I beg you, leave me alone. 
+
+The old man does not budge.
+
+               DON JAIME 
+     What could be more unlike than an old man who 
+     lives alone and a young woman like you, 
+     consecrated to God. However ... 
+
+The girl, exasperated, almost sits up in bed.
+
+               VIRIDIANA 
+          (violently)
+     Be quiet! I don't want to listen to you! Don't 
+     you understand that I want to get dressed?
+
+He, lost in thought, does not seem to hear her.
+
+               DON JAIME 
+     I forgot everything because of you, even the 
+     passion that has kept me going all these years 
+     ... everything.
+
+He gets up and walks around the room. VIRIDIANA would like to get up and 
+force him to leave the room, but her state of semi-nudity prevents her.
+
+               DON JAIME 
+     I must have been mad. I thought that you would 
+     agree to marry me, but naturally you refused. 
+     And now it's the day that you must leave.
+
+She looks at him, wondering how the discussion is going to end. DON JAIME 
+comes to the bed and leans over her. He stares at her.
+
+               DON JAIME 
+          (coldly)
+     I had to force you. 
+          (pause) 
+     That was the only way I could find to have you 
+     in my arms.
+
+VIRIDIANA evidences growing dismay and anxiety.
+
+               VIRIDIANA 
+          (shouting)
+     You're lying.
+
+               DON JAIME 
+     No, it's true. 
+          (speaking each word distinctly) 
+     Last night when you were sleeping, I had you 
+     all to myself.
+
+She opens her eyes wide in horror. She can't believe what he's saying. She 
+feels a cold sweat breaking out on her forehead. DON JAIME starts pacing back 
+and forth again in front of her, sometimes staring at her and sometimes 
+obstinately lowering his eyes.
+
+               DON JAIME 
+     Now you won't be able to go back to your 
+     convent. You're not the same woman who left it 
+     a few days ago. Now, you'll have to stay with 
+     me here forever.
+
+He stops comes back to the bed, and sits down. There is a pleading note in 
+his voice.
+
+               DON JAIME 
+     Everything I have will be yours, and if you 
+     don't want to marry me, if you prefer to live 
+     as we have up to now, provided you're close to 
+     me, I'll content myself with ...
+
+She visibly takes time to understand her uncle's words. The blow is so hard 
+that she hardly even reacts. Her plight moves DON JAIME to sympathy.
+
+               DON JAIME 
+     Think about it. Don't hurry. Think it over. 
+
+               VIRIDIANA 
+          (with a start, almost shouting)
+     Go away! Leave me alone.
+
+She looks at him with hate and disgust. DON JAIME is affected. He hesitates. 
+He starts to speak to her again but does not do so. He finally gets up and 
+goes to the door. He feels VIRIDIANA's eyes, blazing with anger, upon him. He 
+leaves the room, head hanging, shattered. Immediately, VIRIDIANA leaps out 
+of bed, grabs her bag, and wildly begins to throw her clothes into it.
+
+
+
+
+AT THE DOOR OF DON JAIME'S ROOM. 
+
+RAMONA is waiting for DON JAIME, whom we see coming from the hall. He passes 
+the servant without noticing her. He goes into the room. RAMONA goes up to 
+him slowly.
+
+               RAMONA 
+     What did you say to her, sir?
+
+He looks at her.
+
+                    DON JAIME 
+     The way she looked at me, Ramona! She hates me 
+     now. I think I've made a great mistake. She's 
+     going away, she's going away and nothing will 
+     stop her.
+
+               RAMONA 
+          (without conviction)
+     Speak to her again. Explain everything to her 
+     seriously.
+
+               DON JAIME 
+     What for? She'll only look at me that way again 
+     ... I couldn't. You go. Perhaps she'll listen 
+     to you. Try to convince her. 
+
+               RAMONA 
+     But what can I say to her, sir?
+
+               DON JAIME 
+     Tell her I lied, that I didn't take advantage 
+     of her. 
+
+Ramona looks at him, stunned, incredulous. He continues with sincerity.
+
+               DON JAIME 
+     I did mean to do it, Ramona. But I realized in 
+     time what I was doing. I spent the whole night 
+     turning my thoughts over in my mind ... and I 
+     lied to her so she wouldn't go back to the 
+     convent. 
+          (taking RAMONA by the arm) 
+     Go on, explain to her.
+
+He almost pushes her to the door. She goes against her will, hesitating. He 
+watches her from the doorway.
+
+
+
+
+IN DO¥A ELVIRA'S ROOM. 
+
+VIRIDIANA has dressed and is closing her bag. RAMONA comes in stealthily 
+through the half-open door. VIRIDIANA's eyes are full of tears. In the 
+background, RAMONA hesitates for a moment, then half turns and goes back 
+quickly to DON JAIME's room.
+
+
+
+
+IN DON JAIME'S ROOM. 
+
+DON JAIME is leaning against the bed. RAMONA appears in the doorway.
+
+               RAMONA 
+     Sir, come right away.
+
+DON JAIME straightens himself with a start. He stares at the servant for a 
+second. Then he walks quickly to the door and goes out.
+
+
+
+
+DO¥A ELVIRA'S ROOM. 
+
+VIRIDIANA grabs her bag and is just about to go as her uncle enters. He 
+blocks her way and locks the door, taking the key from the lock. The girl 
+still has signs of tears on her face.
+
+               VIRIDIANA 
+     Let me pass!
+
+               DON JAIME 
+     You must listen to me before you go. 
+
+               VIRIDIANA 
+          (angrily)
+     I've listened to you long enough. Let me out.
+
+VIRIDIANA goes back a couple of steps and puts down her bag. She is no longer 
+afraid. She can hardly feel any emotion except anger mingled with disgust. 
+DON JAIME remains standing beside her.
+
+               DON JAIME 
+     All that I said just now was a lie. I said it 
+     so you wouldn't leave. I only molested you in 
+     my thoughts ... I can't bear to have you leave 
+     me, hating me like this. 
+          (pleadingly) 
+     Tell me you believe what I'm saying and I'll 
+     let you go.
+
+               VIRIDIANA 
+     You disgust me... even if what you say is true. 
+
+               DON JAIME 
+          (in a quieter voice)
+     Then you won't forgive me?
+
+The young woman's look shatters DON JAIME. With difficulty, VIRIDIANA, who 
+has turned her back to her uncle, holds back the sobs which are choking her. 
+After a moment's anguished silence, DON JAIME, resigned to his fate, holds 
+the key out to the girl. She snatches it from him, takes up her suitcase, and 
+makes for the door; she goes out without a glance in his direction.
+
+As VIRIDIANA comes out of Do¤a Elvira's room into the hall, RAMONA is seen 
+walking toward her away from the camera. DON JAIME's silhouette hovers on the 
+threshold which the girl has just crossed. VIRIDIANA passes in front of the 
+camera and her rushing footsteps are heard descending the staircase.
+
+
+
+
+
+DO¥A ELVIRA'S ROOM. 
+
+DON JAIME is looking out from the balcony. RAMONA enters, shaken by all that 
+has happened. Hearing her footsteps, DON JAIME turns around. His expression 
+is not what one would expect. He seems calm, without the slightest trace 
+of disappointment. He seems even to be smiling. Now that what he has feared 
+so much has occurred, he is recovering his former courage. The servant stops 
+a few feet away, her eyes lowered, not daring to look at him. DON JAIME goes 
+to her.
+
+               DON JAIME 
+     You believe me, don't you? 
+
+               RAMONA 
+     Yes, sir.
+
+Her voice is low, utterly without conviction. DON JAIME notices this. He 
+smiles.
+
+               DON JAIME 
+     Don't lie. You don't believe me either.
+
+               RAMONA 
+          (trying to find an excuse)
+     It's only that ... It's all very odd, sir.
+
+DON JAIME nods his head sympathetically. 
+
+               DON JAIME 
+     It's all right, my girl, it's all right.
+
+He makes for the hall. RAMONA goes to the unmade bed and examines the sheets, 
+as if trying to discover the truth. Seeing nothing, she sits on the edge of 
+the bed with a thoughtful air.
+
+
+
+
+THE PARK. 
+
+THE COACHMAN finishes preparing the carriage. Some yards away VIRIDIANA is 
+waiting, seated on a stone bench with her back to the camera. Her bag is at 
+her side. Nearby, RITA is playing diabolo. The toys DON JAIME gives her 
+indicate how old-fashioned he is. 
+
+               RITA 
+     See how high I can throw it!
+
+VIRIDIANA does not even look around. In order to attract her attention, RITA 
+collects the spool which has fallen back onto the string. She turns it and 
+puts it into place with the aid of one of the sticks. 
+
+               RITA 
+     Look! You can't do that!
+
+As VIRIDIANA remains sunk deep in thought, RITA loses heart and tries to 
+interest MONCHO, who has just picked up VIRIDIANA's bag and is taking it to 
+the carriage.
+
+               RITA 
+     Look! Moncho! Look how high it is! 
+
+As usual, he answers her in a surly manner. 
+
+               MONCHO 
+     Let me have a little peace, won't you?
+
+RITA goes on playing without paying any attention to his bad temper. MONCHO 
+approaches VIRIDIANA. 
+
+               MONCHO 
+     When you're ready, miss. 
+
+The girl stands up and goes to the carriage.
+
+
+
+
+THE BALCONY OUTSIDE DON JAIME'S ROOM. 
+
+DON JAIME watches his niece's departure. As VIRIDIANA goes to the carriage,
+RITA says something to her, but she merely caresses her head with her hand as 
+a sign of farewell. She gets in and the coachman gives the horse the whip. 
+The little girl waves goodbye, then begins to run after the carriage.
+
+DON JAIME sadly watches the carriage disappear. But he recovers quickly and 
+his face takes on a calm, almost indifferent look. He goes to the desk which 
+is in the corner of the room and sits down at it. He rubs his forehead. The 
+writing materials on the table are lying in disorder. Several months must 
+certainly have passed since he has been near his desk. Carefully, he begins 
+to make order out of the chaos. He rubs his fingers along the table to see 
+if there is any dust on it. Seeing that it is clean, he smiles at the thought 
+of Ramona's conscientiousness. Finally, he takes a pen and a sheet of 
+notepaper and begins to write. He smiles quietly, rubbing his beard dreamily. 
+He appears to have thought of something that pleases him very much.
+
+
+
+
+THE VILLAGE SQUARE. 
+
+Under the arcade which borders the square, VIRIDIANA is waiting for her bus 
+to arrive; its approach is heralded by the sound of its engine. She goes to 
+the bus stop, where others are waiting. As the bus stops, passengers get off 
+and those who were waiting get on. The driver comes up to VIRIDIANA.
+
+               DRIVER
+     I'll take your bag, please, miss.
+
+At this moment, an important-looking middle-class gentleman -- the MAYOR --
+comes along the arcade, followed by two uniformed POLICEMEN and a PEASANT.
+The group comes up to VIRIDIANA, to whom the man holds out his hand.
+
+               MAYOR
+     How do you do, Miss Viridiana! 
+
+               VIRIDIANA 
+     Is anything the matter, Mr. Mayor? 
+
+               MAYOR
+     You cannot leave ... 
+
+               VIRIDIANA 
+          (surprised)
+     Why not? 
+
+               MAYOR
+     There's been an accident. 
+
+               VIRIDIANA 
+     Where? 
+
+               MAYOR
+     Come with me.
+
+He takes her by the arm. VIRIDIANA neither protests nor asks any further 
+questions.
+
+
+
+
+DON JAIME'S ESTATE. 
+
+A car stops in the drive. The MAYOR gets out, followed by the group which was 
+with him in the village. All come toward the camera, eyes trained on the 
+branches of the big tree beside which Rita likes to play. MONCHO rushes up to 
+meet them.
+
+Near the tree, RAMONA and her daughter, clinging to one another watch the 
+people arrive.
+
+The big tree, through whose foliage hang the feet of a man. Close-up of 
+VIRIDIANA, who has just got out of the car and sees the body. Overcome, she 
+leans her forehead against the car door and remains like that for a moment, 
+motionless and silent.
+
+Close-up of the branch from which DON JAIME is hanging. The only part of him 
+that is visible is the back of his head. The body itself is outside the 
+frame. The rope which is tied to the branch has a wooden handle. It is 
+Rita's jump rope.
+
+
+
+
+THE TURRETS OF THE HOUSE AND THE TREES OF THE PARK. 
+
+The same picture of little RITA's legs skipping under the big tree as at the 
+beginning of the film.
+
+MONCHO, who is leading a horse, stops upon seeing RITA. He lets go of the 
+animal's halter and goes up to the little girl. Brutally, he takes hold of 
+the jump rope and tries to snatch it from her. RITA struggles with him 
+fiercely.
+
+               RITA 
+     Give it to me. It's mine! 
+
+The old man elbows her aside.
+
+               MONCHO 
+     I'll box your ears if you don't show some 
+     respect for the dead! You mustn't play under 
+     this tree. 
+
+               RITA 
+     Don Jaime loved to watch me skip. 
+
+The servant finally seizes the rope and throws it away. 
+
+               MONCHO 
+     If something terrible happens now it will be 
+     your fault. 
+
+He leaves. As soon as his back is turned, RITA picks up the rope and with the 
+same liveliness begins to skip. The picture of her legs again.
+
+
+
+
+VIRIDIANA'S ROOM. 
+
+Close-up of her black wooden cross and the crown of thorns hooked across the 
+end of the bed. The room has a red brick floor and white-washed walls.
+
+VIRIDIANA, who undoubtedly did not want to keep the room she was in before, 
+is now in a less elaborate room on the ground floor. The furniture consists 
+of an iron bed, two chairs, and a white wooden table. In the corner there is 
+a very simple dressing-table without a mirror. VIRIDIANA, with bucket and 
+broom, is washing the floor. The young woman's face is more drawn and she is 
+no longer smiling. Something seems to have happened to her: she appears 
+youthful, and with a certain balance that she lacked before.
+
+RAMONA comes into the room and puts a tray on the table. She lifts off the 
+napkin, revealing the meal of a plate of vegetables, a glass of milk, and a 
+piece of bread.
+
+               RAMONA 
+     You aren't eating enough. I've given you a 
+     glass of milk, and this evening I'll bring you 
+     some meat. 
+
+VIRIDIANA stops working and goes to wash her hands in a basin on the dressing 
+table.
+
+               RAMONA 
+     You don't look at all well! 
+          (Viridiana does not answer) 
+     The mayor told me that he's dealing with the 
+     problems you were talking about. You can go to 
+     the village when you want to. It'll do you good 
+     to see the world.
+
+In the distance a car is heard: it stops. RAMONA looks out the open window 
+... Two nuns pass outside and into the building. One of them is the MOTHER 
+SUPERIOR of VIRIDIANA's convent.
+
+VIRIDIANA goes to the door. Unruffled, she watches the MOTHER SUPERIOR enter. 
+RAMONA moves back to let the visitor pass and then leaves the room.
+
+               MOTHER SUPERIOR 
+     Good morning. You weren't expecting me, were 
+     you?
+
+               VIRIDIANA 
+     Mother.
+
+The MOTHER SUPERIOR looks at VIRIDIANA with compassion. She shakes her head 
+with pity.
+
+               MOTHER SUPERIOR 
+     You must have suffered, my child! 
+
+The young girl goes up to her, but instead of throwing herself into her arms 
+weeping, as her Superior seems to expect, she bows deeply and calmly kisses 
+the crucifix on the Mother Superior's rosary. This calm somewhat disconcerts 
+her visitor.
+
+               MOTHER SUPERIOR 
+     Ever since yesterday, when we heard by chance 
+     about the tragedy, we have been very anxious 
+     for you. Why didn't you write? I would have 
+     come immediately. 
+
+               VIRIDIANA 
+     I had so many things to think about!
+
+               MOTHER SUPERIOR 
+     A suicide is horrible. I know. But you should 
+     have told me. 
+
+She looks around her and seems to approve of the simplicity of the room.
+
+               MOTHER SUPERIOR 
+     I talked for a few minutes to the parish priest 
+     in the village and he told me how it happened. 
+     Everybody is asking why this horrible offense 
+     was committed against Our Lord. Do you know the 
+     reason?
+
+VIRIDIANA remains standing.
+
+               VIRIDIANA 
+     I only know that my uncle was a grave sinner 
+     and I feel guilty for his death.
+
+The MOTHER SUPERIOR'S face darkens. She moves toward VIRIDIANA.
+
+               MOTHER SUPERIOR 
+     How can you say that! You, responsible for the 
+     suicide of a man? I want a complete confession 
+     from you.
+
+VIRIDIANA lowers her eyes.
+
+               VIRIDIANA 
+          (firmly)
+     I'm not going back to the convent; therefore 
+     I'm no longer under obedience to anyone.
+
+She says this calmly, almost humbly, but there is an element of revolt in her 
+voice which angers her SUPERIOR, who struggles to control herself. The 
+SUPERIOR swallows hard and speaks without raising her voice. 
+
+               MOTHER SUPERIOR 
+     Is there some grave impediment which prevents 
+     you from taking your vows? There must be 
+     something. 
+
+               VIRIDIANA 
+     I have nothing to reproach myself for. All I 
+     know is that I've changed. With all my 
+     strength, which is not much, I will follow the 
+     road that the Lord has shown me. One can also 
+     serve outside a convent.
+
+               MOTHER SUPERIOR 
+     Are you aware of the pride there is in what 
+     you're saying?
+
+VIRIDIANA does not answer. She continues to look down. The nun changes her 
+tone. She tries irony.
+
+               MOTHER SUPERIOR 
+     What great plans are you thinking of dedicating 
+     yourself to now?
+
+VIRIDIANA looks her in the eye.
+
+               VIRIDIANA 
+     I know my own weakness, and whatever I do will 
+     be humble. But, however little it is, I want to 
+     do it alone.
+
+There is a moment of silence while the MOTHER SUPERIOR tries to follow
+VIRIDIANA's train of thought. Her amazement prevails over her indignation. 
+She does not know what to think. Finally she speaks, very dryly.
+
+               MOTHER SUPERIOR 
+     Very well. As you won't let me help you, I must 
+     leave you. I'm very sorry I came and disturbed 
+     you. Goodbye. 
+
+She half turns and goes to the door.
+
+               VIRIDIANA 
+     Mother! 
+
+The MOTHER SUPERIOR stops.
+
+               VIRIDIANA 
+     Forgive me if I have offended you.
+
+               MOTHER SUPERIOR 
+     You are forgiven. Goodbye. 
+
+She goes out, closing the door behind her.
+
+
+
+
+THE CHURCH SQUARE OF THE VILLAGE. 
+
+It is flooded with sunlight. A little old man dressed in rags half-walks, 
+half-runs, up to a group of beggars as shabbily dressed as himself who are 
+standing in the doorway of the church. The beggars are DON AMALIO, blind, 
+about 45; EL PELON (BALDY), a rather alarming character of about 40; ENEDINA, 
+who is carrying a two-year-old girl in her arms; REFUGIO, a woman of 
+uncertain age, showing obvious signs of pregnancy; and finally, the little 
+old man who has just arrived and who answers to the nickname "El POCA".
+
+DON AMALIO, who has the hard, sharp features of a countryman, is sitting with 
+his back against the stone steps of the church, his face absorbing the sun. 
+Near him lies a long white stick which acts as a guide when he walks. In his 
+arms, he holds ENEDINA's second little girl, who is about a year old. As 
+people pass him on their way into the church, he calls out sonorously for 
+alms.
+
+               PELON 
+     Why isn't she coming? 
+
+               POCA 
+     She has already crossed herself. 
+
+               REFUGIO 
+     She's a very firm believer.
+
+There is a silence. Some of them look toward the church door.
+
+               ENEDINA 
+     I've heard she's even going to pay us to go and 
+     live with her.
+
+Two women pass.
+
+               DON AMALIO 
+     Kind people! Don't forget a poor blind man. 
+
+In the background, VIRIDIANA comes out of the church. The beggars are in 
+confusion. POCA grasps the blind man by the arm and pulls him to his feet.
+
+               POCA 
+     There she is. Hurry up, come on. You've had it 
+     if you totter around like that and fool with 
+     the kids.
+
+VIRIDIANA joins them. She takes the child from AMALIO. 
+
+               VIRIDIANA 
+     Give the little girl to me. Come here, 
+     sweetheart. Are you ready?
+
+               PELON 
+     When you are, miss. 
+
+               VIRIDIANA 
+     Good, then let's go!
+
+POCA, who is leading the old man, comes up to VIRIDIANA. He looks at her and 
+speaks to DON AMALIO.
+
+               POCA 
+     She has the face of an angel. What a pity you 
+     can't see her. 
+
+               VIRIDIANA 
+     Right, let's go. 
+          (to Poca) 
+     And keep the compliments to yourself. I don't 
+     like them.
+
+The beggars get their belongings together, then join up.
+
+
+
+
+IN ANOTHER LITTLE SQUARE OF THE VILLAGE. 
+
+Two more beggars are waiting: one is DON ZEQUIEL, an old man of about sixty 
+whose full white beard gives him the look of a patriarch; the other is a man 
+of about forty, with a black beard. He moves with the help of a stick and is 
+known by the name of HOBBLY. He is drinking from the fountain of the small 
+square when the group led by VIRIDIANA comes toward them.
+
+               DON ZEQUIEL 
+     Here they come.
+
+HOBBLY turns away from the fountain to look at them.
+
+               VIRIDIANA 
+     Are you the other two? 
+
+               DON ZEQUIEL 
+     Yes, miss, that's us, yes. 
+
+               VIRIDIANA 
+     Good, come with me.
+
+
+
+
+INTERIOR OF DON JAIME'S SITTING ROOM. 
+
+Close-up of an oil portrait of Don Jaime.
+
+               JORGE'S VOICE (off)
+     What a strange man! I wish I knew what he was 
+     like.
+
+               LUCIA'S VOICE (off) 
+     As far as you're concerned, worthless. You can 
+     see how much he cared about you.
+
+The people who are speaking come into view. JORGE, Don Jaime's son, no more 
+than thirty, is a well-built energetic type. Not overimaginative or a 
+dreamer, he is a practical man of action. His custom-made clothes look 
+recently cleaned and pressed. LUCIA is younger. She is pretty and pleasant 
+but there is nothing to distinguish her from many other women. She too seems 
+dressed in her Sunday best.
+
+               JORGE 
+     I'm not at all bitter about it. Anyone can love 
+     and forget. But ... Why did he acknowledge me 
+     at the last moment? What was going through his 
+     mind?
+
+RAMONA, who is coming out of Don Jaime's room, is listening. She looks at the
+portrait tenderly.
+
+               RAMONA 
+     He was very good. Better than some people would 
+     think. 
+
+               JORGE
+     Why did he kill himself? 
+
+RAMONA tries not to show anything of what she knows, or her sorrow. 
+
+               RAMONA 
+     I don't know, sir.
+
+               JORGE 
+          (nodding)
+     One shouldn't be alone the whole time. 
+          (looks at Lucia; laughing) 
+     I'm not like him, am I? 
+
+He goes to the harmonium. LUCIA follows him. 
+
+               LUCIA 
+     Not in that way; you're always looking for 
+     company. 
+
+               JORGE 
+     Why do you say that? Perhaps the young girl is 
+     a bit jealous. 
+
+               LUCIA (off)
+     I know what I mean.
+
+JORGE pedals the harmonium and runs his hands across the keyboard, causing a 
+series of discords. RAMONA cannot bear this profanation and interrupts.
+
+               RAMONA 
+     Don't play, sir.
+
+He takes his hands from the keyboard and looks at the servant in 
+astonishment.
+
+               RAMONA 
+          (respectfully)
+     I beg your pardon, sir. The master used to play 
+     here by the hour. It was a real delight to 
+     listen to him. 
+
+She closes the harmonium slowly. JORGE leans against the instrument and 
+stares at her, looking half the seducer and half ironic. The servant, 
+disturbed, slips away.
+
+               RAMONA 
+     If you don't mind, I'll go get the other 
+     suitcase. 
+
+LUCIA, looking sulky, goes past them onto the balcony. JORGE follows her.
+
+The balcony looks out on a wasteland: scorched terrain, with some scrub and 
+weeds; some trees and among them some dilapidated outhouses of the old farm. 
+There are mountains in the background.
+
+               JORGE 
+     Look at these beautiful fields! And behind 
+     those pines the fields, dried up and abandoned. 
+     There's so much to do here and it's all mine. 
+     We won't have time to get bored.
+
+LUCIA smiles. JORGE takes the young girl by the shoulders and draws her to 
+him. He wants to embrace her, but she pulls away. 
+
+               JORGE 
+     Aren't you happy? 
+
+She seems rather sad, in fact.
+
+               LUCIA 
+     Yes. But I don't know ... I wish I hadn't come.
+
+Obviously, her lover is everything to her, but she fears that this unexpected 
+prosperity might separate them. Something happening in the drive attracts 
+Lucia's attention and she points.
+
+               LUCIA 
+     Look at that.
+
+JORGE leans over the balcony and looks at what is happening below.
+
+
+
+
+THE PARK. 
+
+VIRIDIANA is coming into the park followed by her troupe of beggars. The 
+beggars, in little groups, are looking around with curiosity. POCA and the 
+blind man DON AMALIO are among them. POCA is telling the blind man what he 
+sees.
+
+               POCA 
+          (full of admiration for the house)
+     It's very big ...
+
+The blind man hits the ground with his stick.
+
+               DON AMALIO 
+     So much the better. We'll all fit. How many 
+     floors are there?
+
+               POCA 
+     Two.
+
+               DON AMALIO 
+     Are there many windows? 
+
+               POCA 
+     Lots. It's got balconies and two big towers. 
+
+               DON AMALIO 
+          (sententiously)
+     Then it's a respectable house.
+
+The old servant MONCHO comes out of the house and approaches the arrivals.
+
+               VIRIDIANA 
+     Have you repaired the windows of the 
+     dormitories?
+
+               MONCHO 
+     They shut all right now. And the blankets are 
+     ready.
+
+ENEDINA and REFUGIO bring up the end of the line. 
+
+               REFUGIO 
+     That miss is as good as gold. 
+
+               ENEDINA 
+     She's very good, but a bit of a simpleton.
+
+The group stops near the house.
+
+               VIRIDIANA 
+     The men will sleep on one side, the women on 
+     the other, but we will eat together. We'll try 
+     to get you some decent clothes tomorrow. Moncho, 
+     show them where they'll be. I'll take the 
+     women. 
+
+JORGE and LUCIA have come out of the house and are looking with curiosity and 
+astonishment at this tattered group. They go up to VIRIDIANA.
+
+               JORGE 
+     Viridiana. 
+
+VIRIDIANA turns and notices the couple without showing any surprise. JORGE bows.
+
+               JORGE 
+          Miss Viridiana ... 
+
+               VIRIDIANA 
+     Are you Jorge? 
+
+She shakes the hand he is stretching out. 
+
+               JORGE
+     Jorge, Don Jaime's son, at your service.
+
+               VIRIDIANA 
+     I've been expecting you; I got a letter from 
+     the lawyer.
+
+She looks at LUCIA.
+
+               JORGE 
+          (smiling)
+     This is Lucia; she's a good girl. You'll get to 
+     know each other very quickly. 
+
+They shake hands.
+
+Little RITA has come out of the house and rushes toward the beggars, brushing 
+past LUCIA. The beggars are waiting near the house. MONCHO goes through them 
+to get in front. Old DON ZEQUIEL paternally puts his hand on RITA's head. 
+
+               DON ZEQUIEL 
+     What's your name?
+
+               RITA
+          (lively)
+     Don't touch me! You're going to sleep in the 
+     farmyard with the chickens!
+
+MONCHO gestures to the men to follow him.
+
+               MONCHO 
+     Get moving! Anyone who pokes around where he 
+     shouldn't be will pay for it.
+
+They begin walking, but the blind man is offended by these words. 
+
+               DON AMALIO 
+     Listen, although we may be poor, every man has 
+     his dignity, brother.
+
+               MONCHO 
+     Don't "brother" me: there aren't any scum in my 
+     family. 
+
+PELON, who doesn't inspire sympathy, understands the allusion. 
+
+               PELON 
+     Well now, even the servants put on airs here, 
+     don't they?
+
+MONCHO stops and turns around.
+
+               MONCHO 
+          (angrily)
+     Do you want me to smash your face? 
+
+VIRIDIANA, who is following with the women, hears the exchange and goes up to 
+the beggars.
+
+               VIRIDIANA 
+     What's going on, Moncho?
+
+               MONCHO 
+     This louse is looking for trouble. 
+
+PELON hardly lets him finish. 
+
+               PELON 
+     You runt.
+
+MONCHO is about to attack but VIRIDIANA stops him. 
+
+               VIRIDIANA 
+          (to Pel¢n)
+     Don't talk like that!
+
+               PELON 
+     I'll talk the way I want to. I've had enough of 
+     this. 
+
+The blind man, guided by the voices, is angered by PELON's lack of respect 
+and hits him with his stick.
+
+               DON AMALIO 
+     That'll teach you some manners. 
+
+               PELON 
+     Blind, shit! You can see now.
+
+He attacks DON AMALIO. All of them intervene to separate the two. VIRIDIANA 
+fearlessly stands between them.
+
+               VIRIDIANA
+     (shouting with authority)
+     In you go! Moncho, lead the way! 
+          (to Pel¢n) 
+     You stay here. 
+
+               MONCHO 
+     But, miss ...
+
+JORGE and LUCIA are anxiously watching the absurd proceedings. JORGE is about 
+to intervene but LUCIA stops him. 
+
+               LUCIA 
+     Leave her.
+
+The beggars, both men and women, are calmer. The blind man is muttering. 
+PELON looks at VIRIDIANA venomously.
+
+               VIRIDIANA 
+     Keep calm, Moncho. And you...
+          (to the blind man)
+     ...don't be quarrelsome!
+
+MONCHO, unwillingly resigning himself to the situation, goes forward followed 
+by the beggars. VIRIDIANA calmly goes up to PELON.
+
+               VIRIDIANA 
+     Would you mind telling me what I did wrong to 
+     you to deserve your insults?
+
+               PELON 
+     I've had a gutful of this.
+
+               VIRIDIANA 
+     If you want to stay you'll have to exercise a 
+     little self-control, and be a bit more humble 
+     to everybody.
+
+The beggar shrugs his shoulders contemptuously.
+
+               PELON 
+     If that's the way, it's better to leave. 
+
+He half turns and walks away a few steps, but then he hesitates a moment and 
+turns around again, facing the young woman.
+
+               PELON 
+     Give me something to go on with. 
+
+Viridiana reaches in her pocket and gives PELON some money.
+
+               PELON 
+     Because we are poor, without it ...
+
+He leaves. In the background, JORGE and LUCIA go back into the house.
+
+The beggars split up into two groups. On the left the men are led by MONCHO 
+and on the right are the women; VIRIDIANA joins them.
+
+
+
+
+THE SITTING ROOM AT NIGHT. 
+
+Close-up of a basin of hot water which is still steaming. In the water are 
+the feet of JORGE, who has rolled up his trousers. He is dressed for the 
+country. He is sitting on Don Jaime's special armchair and smoking one of his 
+pipes. LUCIA, sitting on a small low chair in front of him, has just finished 
+polishing his boots. They are silent. She looks at him now and then.
+
+               LUCIA (off) 
+     Are you tired?
+ 
+                    JORGE 
+     I nearly walked my legs off today. 
+          (rubs his legs, points to the basin) 
+     That has done me good.
+
+There is a silence. RAMONA comes in with a towel in her hand. She hands it to 
+JORGE and then looks at LUCIA, who goes on wiping the boots which have been 
+waxed.
+
+               RAMONA 
+     Why don't you let me do that, miss? 
+
+               LUCIA 
+          (dryly)
+     Because I've got him into bad habits.
+
+JORGE begins to dry his feet. The maid bends down to pick up the basin, gets 
+up, and turns. She goes to the door but stops before going out.
+
+               RAMONA 
+     Whenever you're ready I can serve supper. 
+
+               LUCIA 
+     Right, we'll have it now.
+
+The maid leaves the room after glancing at the little table which is already 
+laid. JORGE, suddenly in a bad mood, flings his towel to the floor. LUCIA 
+looks at him in surprise.
+
+               LUCIA 
+          (harshly)
+     What's the matter with you? 
+
+               JORGE 
+     Nothing.
+
+               LUCIA 
+     Why the bad temper?
+
+               JORGE 
+     It's Viridiana. She's getting on my nerves.
+
+LUCIA has finished his shoes and puts them in a corner.
+
+               LUCIA
+          (shrugging)
+     She's mad.
+
+               JORGE 
+     No, not mad at all: she's rotten with religion. 
+
+               LUCIA 
+     Let her do what she wants. She doesn't bother 
+     us in any way. She minds her business and we 
+     ... 
+
+They fall silent. LUCIA goes up to JORGE and looks at him meaningfully.
+
+               LUCIA 
+     Do you know what I think? What's annoying you 
+     is that she pays so little attention to you.
+
+He looks at her furiously, which seems to indicate that she has touched a 
+sore spot ... She moves away to the other side of the room and, at that 
+moment, RAMONA comes in carrying a tureen of soup. LUCIA leaves the room.
+
+JORGE goes over to the table, sits down, and opens his napkin with 
+irritation. RAMONA has put the soup tureen on the edge of a sideboard.
+
+JORGE turns his back to her so that she has only to turn her head to see him. 
+She gives him a look that is both tender and submissive. She is obviously 
+disturbed by the presence of Don Jaime's son. Without taking her eyes of him, 
+she goes to pick up the tureen again and prepares to bring it over to the 
+table, but at that moment LUCIA's voice is heard.
+
+               LUCIA 
+     Ramona!
+
+She starts as if she has been caught doing something wrong. For a moment, she 
+tries to catch the tureen, which is about to fall, but only succeeds in 
+making matters worse. The soup tureen smashes onto the floor, its contents 
+spreading out.
+
+               LUCIA 
+     That's the last straw! What were you looking 
+     at, woman? Look what you've done!
+
+JORGE has got up to look at the disaster. He looks at the maid, nodding his 
+head in commiseration.
+
+               JORGE 
+     So, Ramona!
+
+               LUCIA 
+     Run and get something to mop it up with, 
+     quickly. 
+
+RAMONA obeys, fleeing. LUCIA begins to pick up the pieces.
+
+               LUCIA
+     That woman's getting more and more stupid every 
+     day. 
+
+JORGE sits down again, looking resigned.
+
+                    JORGE
+     What of it?
+
+
+
+
+THE BEGGARS' REFECTORY: NIGHTTIME. 
+
+The beggars are eating at a rough table made of planks. Surprisingly, they 
+are respectfully dressed. Their clothes are worn out but clean. Their 
+appearance is relatively washed and tidy. DON AMALIO, POCA, DON ZEQUIEL, 
+HOBBLY, ENEDINA, and REFUGIO are there; also three other wretches, a man and 
+two women. One of the women is a DWARF, the other, whom we will call the 
+GARDENER, is a nondescript, middle-aged woman. The last character, who is 
+named PACO, is a man of about fifty with a shaggy beard but no scar or 
+physical deformity. They are all eating heartily.
+
+               DON AMALIO 
+     When I wasn't so miserable I used to sell pigs. 
+     Begging your pardon, I was more honest than my 
+     holy Mother. 
+
+               POCA 
+          (swallowing)
+     So you didn't come from the poorhouse! 
+
+The blind man puts his plate on the table and grasps his stick. 
+
+               DON AMALIO 
+     I'll hit whoever said that.
+
+DON AMALIO seems to mean what he says.
+
+               ENEDINA 
+     Don't pay any attention to him, Don Amalio, 
+     he's a rogue. 
+
+Other voices are raised.
+
+               VOICES
+     Good evening, miss.
+
+VIRIDIANA has just appeared on the threshold with two new guests, the woman 
+SINGER and the LEPER.
+
+               DON ZEQUIEL 
+          (standing up with respect)
+     Benedictus!
+
+VIRIDIANA smiles at this incongruity. The SINGER looks distrustfully at the 
+others; she didn't expect such a great number. The LEPER holds back as if 
+uncertain of the reception he will receive. All keep silent for the moment 
+and the noise of eating is heard. VIRIDIANA makes the new guests sit down and 
+gives them each a spoon and a plate.
+
+               VIRIDIANA 
+     Make room for your new companions. You sit 
+     there, you there. I guess they're hungry, 
+     aren't they? 
+
+               SINGER
+     God will reward you.
+
+               VIRIDIANA 
+     Have you eaten well? Did you like it?
+
+               DON ZEQUIEL 
+     I don't want to criticize the saintly miss who 
+     is so good to us, but I would take the liberty 
+     of saying that the beans were acid.
+
+               REFUGIO 
+     What does that mean? 
+
+               POCA 
+     Sour, idiot.
+
+               REFUGIO 
+     Don't pay any attention to them, they're 
+     peasants.
+
+VIRIDIANA silences them.
+
+               VIRIDIANA 
+     If Don Zequiel says the beans were bad it must 
+     be true. We'll do something about it tomorrow.
+
+They all look at the LEPER with disgust. VIRIDIANA helps him to something and
+the man begins to eat hungrily. VIRIDIANA places the bread basket near him.
+
+               VIRIDIANA 
+          (smiling)
+     Now I've got some good news for you. From 
+     tomorrow on, everyone will have some work to do.
+
+This is a disagreeable surprise. They look at each other. POCA is 
+flabbergasted and terrified.
+
+               VIRIDIANA 
+     Don't worry, you won't be asked to do anything 
+     impossible or anything you won't want to do. I 
+     only want you to have a bit of a change and to 
+     take some exercise.
+
+               ENEDINA 
+     I'm a cook, miss, I'm good at roasts and 
+     vanilla puddings. Last year I made pastry for 
+     the Companza people. They can still remember 
+     it.
+
+               VIRIDIANA 
+     Good. 
+
+She goes up to each of them in turn. 
+
+               VIRIDIANA 
+          (to the Dwarf) 
+     You can help me with the accounts. 
+
+               DWARF
+     Yes, miss.
+
+               HOBBLY
+     I can paint religious pictures ... Before, I 
+     used to be able to write, but now with this 
+     leg I've forgotten ...
+
+               PACO
+     I can weave hemp, but with the rheumatism in my 
+     fingers ... 
+
+               VIRIDIANA 
+     What about you, Manuel?
+
+               POCA 
+     I'm only good at making people laugh.
+
+               VIRIDIANA 
+     That's all right; we all laugh here, but not at 
+     you; I'll see to that.
+
+The LEPER is eating beside the woman GARDENER who sees him stretch out his 
+arm for a piece of bread.
+
+               GARDENER 
+     I've got green fingers. The priest will tell 
+     you ... 
+
+               VIRIDIANA 
+     So you won't get bored here, there'll be more 
+     than enough for you to do!
+
+The GARDENER suddenly points to the LEPER's arm.
+
+               GARDENER 
+     Look! It's disgusting.
+
+He immediately conceals his arm. Everybody looks at him. 
+
+               HOBBLY 
+     Let's see it.
+
+POCA, standing up to see better, tries to get a look at the sores. 
+
+               GARDENER 
+     That's leprosy.
+
+               REFUGIO 
+     Throw him out, miss! We're all clean here.
+
+VIRIDIANA goes up to the LEPER, who has stood up, and calmly takes his arm. 
+He resists a bit, but she succeeds in examining a sore. At her gesture, they 
+all fall silent and watch with revulsion.
+
+               LEPER 
+     They're varicose veins, miss, but some days I 
+     can't take care of them.
+
+               VIRIDIANA 
+     Are you sure it isn't contagious? 
+
+               LEPER 
+     They told me it isn't at the hospital.
+
+               VOICE
+     Don't listen to him, miss. I've known him for a 
+     long time.
+
+The LEPER looks at his companions.
+
+               LEPER 
+          (angrily)
+     They're varicose veins. It isn't leprosy. 
+
+               VIRIDIANA 
+          (to all)
+     I'll take him to the doctor tomorrow. Come on 
+     now, sit down and go on eating. And you, look 
+     after him as if he were a sick brother. Be 
+     understanding. Now finish eating and then go 
+     to bed. Everyone in bed by eight o'clock!
+
+VIRIDIANA shows the newcomers where to sleep. With varied inflections the 
+beggars bid her good night. HOBBLY goes to the door, opens it for VIRIDIANA 
+and wishes her good night. The LEPER sits down again in his place. VIRIDIANA 
+goes out.
+
+HOBBLY turns back and approaches the LEPER. He pushes him with his stick and 
+motions him to get up.
+
+               HOBBLY 
+     If you don't disappear, I'll make holes in your 
+     belly. 
+
+               LEPER 
+          (frightened)
+     You're not the one to make me move. 
+
+HOBBLY pulls out a knife.
+
+               LEPER 
+     The miss, she understands, she told me I could 
+     stay.
+
+There is a scuffle.
+
+               ENEDINA 
+     Hit him if he doesn't get out! 
+
+The blind man beats the table with his stick.
+
+               DON AMALIO 
+     Calm down, people, calm down. Somebody will get 
+     hurt. If anything happens, we'll all be thrown 
+     out. 
+
+               SINGER
+     Out, the turd!
+
+The LEPER relents and begins to leave.
+
+               LEPER 
+     Okay, that's it, I give in, but I'm staying on 
+     the grounds. All together you'd be able ... 
+
+He begins to walk away, goes a few paces, but then turns around. He indicates 
+the table, ashamed.
+
+               LEPER 
+     Give me something for tomorrow morning.
+
+The GARDENER, more compassionate than the others, takes a piece of bread and 
+hands it to him at arm's length. The LEPER puts it in his pocket and goes to
+the door.
+
+The blind man, who has not left his place, has ENEDINA at his side. He is 
+pawing her thighs. They whisper.
+
+               DON AMALIO 
+     I'll come to you tonight. 
+
+               ENEDINA 
+     No, the children sleep with me. 
+
+               DON AMALIO 
+     Give them to Refugio.
+
+               ENEDINA 
+     No, I don't want to because they yell. And I've 
+     got news for you too.
+
+               DON AMALIO 
+     Then I'll get you in the fields tomorrow ... 
+
+               VOICE (off)
+     Pass me the salt.
+
+They all get up. HOBBLY sees RITA's jump rope on the table and takes it to 
+tie up his trousers.
+
+
+
+
+VIRIDIANA'S ROOM. 
+
+The room is lit by a candle. The young girl is kneeling on the floor like a 
+countrywoman, telling her beads. There is a knock at the door.
+
+               VIRIDIANA 
+     Who's there?
+
+Without answering, JORGE comes into the room with a cigar between his lips. 
+Looking annoyed, VIRIDIANA gets up quickly.
+
+               VIRIDIANA 
+     Jorge. You frightened me. What's happening to 
+     you? 
+
+               JORGE
+     It's about time we spoke to each other, isn't 
+     it? 
+
+               VIRIDIANA 
+     Well... is it so urgent?
+
+               JORGE 
+     If I wait until tomorrow, it'll be the same as 
+     yesterday and the day before and all the other 
+     days. When you're not with your poor people, 
+     you're praying or you disappear, I never see 
+     you.
+
+Both furious and ill at ease at being surprised, VIRIDIANA rushes to the 
+chest of drawers on top of which is her wooden cross, the crown of thorns, 
+and the hammer. She quickly hides them in a drawer.
+
+               VIRIDIANA 
+     What's the matter?
+
+               JORGE (off) 
+     I want to put in some electricity, change the 
+     habits ... well, to make some improvements. 
+
+Viridiana listens as if this were foreign to her.
+
+               JORGE (off) 
+     Then there's the land. It really hurts me to 
+     think of its not producing anything.
+
+               VIRIDIANA 
+     I don't know anything about these things, 
+     Jorge ... 
+
+               JORGE 
+     But you have a right to let us know what you 
+     think. 
+
+               VIRIDIANA 
+     I'm not interested. Do what you think's best. 
+
+She steps forward as if to show that the conversation has come to an end.
+
+               VIRIDIANA 
+     Is that everything?
+
+JORGE has no intention of ending the conversation so abruptly. He goes on,
+irritably.
+
+               JORGE 
+     No, it isn't; there's much more. It seems 
+     absurd for us to be staying here so near each 
+     other in this situation without knowing each 
+     other.
+
+He plants himself near her and leans on the bed.
+
+               JORGE 
+     What do you know about me?
+
+               VIRIDIANA 
+     I know that you used to work with an architect. 
+
+               JORGE 
+     And do you know that my mother and I had to 
+     suffer? If my father had bothered himself a 
+     little more about us, I'd be an architect now.
+
+She does not reply and so does not encourage him to talk further. JORGE looks 
+around with curiosity. He sits on the bed and is suddenly aware of its 
+hardness. He punches the blanket. There is a board underneath instead of a 
+mattress. JORGE underlines his discovery with irony. 
+
+               JORGE 
+     I don't understand how you can like being 
+     alone so much. 
+
+               VIRIDIANA 
+     I'm not like you, you have your wife.
+
+This gives JORGE an opportunity to hurt her. He gets up and goes up behind 
+her.
+
+               JORGE 
+     We're not married. I don't need anybody's 
+     blessing to live with a woman. 
+
+VIRIDIANA does not blink. If she is embarrassed she does not show it.
+
+               JORGE 
+     I see that you ... I ought to go. Good night.
+
+He goes to the door.
+
+               VIRIDIANA 
+          (dryly)
+     The next time you come, knock first and wait 
+     until I tell you to come in.
+
+This remark, made perfectly naturally, produces an unexpected reaction in 
+JORGE and restores all his aplomb. Before leaving he runs his eyes over the 
+young woman's body. With a mocking smile he blows a puff of smoke toward her 
+and leaves.
+
+VIRIDIANA locks the door with the key and brushes the smoke away with her 
+hand. She goes to the window and opens it wide, to let in some air. Then she 
+moves to the center of the room again, while the camera frames the open 
+window.
+
+
+
+
+THE PARK. 
+
+The SINGER is heard, off, humming a couplet. Close-up of a sheet of tin plate 
+on which is painted in a very primitive style the scene of a miracle: a sick 
+woman lying on a bed, with the Virgin and two angels on one side. The painter 
+is adding the last touches to the face of the sick woman. We see the artist's
+arm, then his face: it is HOBBLY. A few feet away, sitting on an old 
+wheelbarrow, is the SINGER, who is posing for him. Behind her ENEDINA is 
+hanging out laundry on a line.
+
+               HOBBLY 
+     I'll put some yellow in her face to show she is 
+     ill. 
+
+               SINGER
+     Hurry up, I'm cramped all over. 
+
+               HOBBLY 
+     It's nearly finished, sweetheart.
+
+In the background, from near the house, DON AMALIO approaches, led by REFUGIO.
+
+                    SINGER 
+     I don't like having to stay still for so long.
+
+               HOBBLY 
+     It seems to me that you ought to know damn well 
+     how to swing your...
+
+VIRIDIANA appears a few yards behind the painter with POCA, both come 
+forward to inspect the painting. POCA looks at the masterpiece and begins to 
+laugh.
+
+               POCA
+          (referring to the sick woman)
+     She looks like a sick marrow! 
+
+               VIRIDIANA 
+     Don't pay any attention to him. It's very good. 
+
+               SINGER 
+     I don't like having to be the Virgin.
+
+               HOBBLY 
+     You ought to be the one in bed. I'd like to ask 
+     you, miss, to pose...
+
+HOBBLY stands up in his turn.
+
+               VIRIDIANA
+          (amused)
+     Me?
+
+               HOBBLY 
+     Come on, miss. Just so the Virgin can be really 
+     pretty. 
+
+VIRIDIANA doesn't seem convinced. HOBBLY insists.
+
+               HOBBLY 
+     It won't take but a minute. It's a votive 
+     offering for a lady who was cured just when she 
+     was dying of fever. Our Lady of the Helpless 
+     granted her a favor. 
+
+               VIRIDIANA 
+     Do you have great devotion for the Virgin?
+
+HOBBLY sits down again.
+
+               HOBBLY 
+     I'm not a bigot, miss, but everybody has his 
+     own beliefs ... and then ...with this terrible 
+     thing ...
+          (points to his legs)
+     ... if I didn't have faith ...
+
+VIRIDIANA is sitting on a wheelbarrow. Nearby REFUGIO is adjusting DON 
+AMALIO's clothes.
+
+               VIRIDIANA 
+          (to Refugio)
+     I must know when you expect to give birth. 
+
+               REFUGIO 
+     Why?
+
+               VIRIDIANA 
+     Heavens! So the doctor can be warned. 
+
+               REFUGIO 
+     In that case in about four months, but I can't 
+     tell you exactly. 
+
+               POCA 
+          (chiming in insolently)
+     She doesn't even know who the father was. She 
+     said that it was night and she couldn't even 
+     see his head. 
+
+               REFUGIO 
+          (vexed)
+     I didn't expect you to scream it from the house 
+     tops.
+
+               DON AMALIO 
+          (with authority)
+     Shut up. You shouldn't speak like that in front 
+     of our holy protector who is a well-bred person.
+
+VIRIDIANA gets up and arranges REFUGIO's clothes. She is astonished. She had 
+never imagined that such people existed. She finds this contact with 
+decadence both seductive and horrifying.
+
+               VIRIDIANA 
+          (to Refugio)
+     I'm very sorry for you. Have you any other 
+     children!
+
+               REFUGIO 
+     No, miss, it will be the first. Do you mind...?
+
+VIRIDIANA sits down again. At that moment DON ZEQUIEL, the bearded patriarch, 
+and the DWARF arrive. HOBBLY continues working. VIRIDIANA is posing. The 
+others are silent.
+
+               DWARF 
+     We're going to the village, miss ... 
+
+               DON ZEQUIEL 
+     With God's and your own permission. 
+
+               ENEDINA 
+          (to Viridiana)
+     They must bring me some potatoes, bacon, and 
+     rice.
+
+VIRIDIANA gives DON ZEQUIEL some money.
+
+               VIRIDIANA 
+     Take it and be careful not to be as late as you 
+     were yesterday.
+
+               DON AMALIO 
+          (with a sickly smile)
+     Could they bring me some tobacco?
+
+               POCA 
+     No, miss. Smoking makes him spit and feel ill. 
+
+               DON AMALIO 
+          (furiously)
+     Smoking makes me feel ill? It's these filthy 
+     fag ends. I won't mention in this company 
+     what's upsetting you.
+
+               VIRIDIANA 
+          (conciliatory)
+     That'll do. Bring the tobacco and I'll 
+     distribute it.
+
+               DON AMALIO 
+     Thank you, miss.
+
+The DWARF and DON ZEQUIEL leave.
+
+               HOBBLY (off)
+     Come over here and see the picture.
+
+He has finished his work. VIRIDIANA gets up and goes over to see the result. 
+All of them gather around to look at the artist's work.
+
+               VIRIDIANA 
+     It's very good.
+
+               HOBBLY 
+     Thank you; but it's missing something. 
+
+               VIRIDIANA 
+     That doesn't matter; I like it.
+
+
+
+A ROAD BORDERING ON DON JAIME'S PROPERTY. 
+
+JORGE and his FOREMAN are standing near an electric pole. They are measuring 
+the ground with a tape.
+
+               JORGE 
+     How much is that?
+
+                    FOREMAN 
+     Fifteen yards. 
+
+               JORGE 
+     That's fifteen by seven? 
+
+               FOREMAN 
+     That's it. 
+
+               JORGE 
+     Good.
+
+JORGE jots the figures down in his little notebook and rolls up the tape. They 
+are both walking toward the road. A little covered wagon pulled by a mule is 
+coming along the road in their direction. The wagon passes. Inside it, under 
+the canvas, are TWO POLICEMEN in uniform and another MAN. Behind them the 
+driver's back is visible. A dog is attached to the axle of the wagon by about 
+three feet of string.
+
+The dog runs along panting, its tongue hanging out. It seems to be exhausted 
+and can hardly keep up with the mule. If it stopped, it would be pulled along 
+and strangled by the rope.
+
+The dog recedes from the camera, framed between the two threatening wheels of 
+the wagon. It reaches JORGE and passes him and his companion. The wagon stops 
+at a fork in the road about a hundred yards farther on. JORGE goes toward it, 
+intrigued. As he approaches, the TWO POLICEMEN jump down and speak to the 
+PEASANT who owns the wagon.
+
+               ONE POLICEMAN 
+     Thanks, pal, see you later. 
+
+               PEASANT
+     Goodbye: if you ever need anything ...
+
+The TWO POLICEMEN go off. The PEASANT goes in back of the wagon to inspect 
+the brakes. JORGE, sickened by the cruelty of the scene, comes up to the 
+wagon. He is frowning and speaks harshly to the peasant.
+
+               JORGE 
+     That animal can't take any more. Now that the 
+     wagon's empty, why don't you let him ride?
+
+The PEASANT straightens up and stares at JORGE.
+
+               PEASANT
+     It's for people!
+
+               JORGE 
+     Then let him go and he'll follow you. 
+
+               PEASANT
+     And let him get run over by somebody else?
+
+The apparent contrast between the PEASANT'S cruelty and his care for the dog 
+bewilders JORGE. He bends down and strokes the animal.
+
+               JORGE 
+     I'll buy him.
+
+The PEASANT looks at him for a moment. He is perplexed but reacts 
+immediately.
+
+               PEASANT
+     He's good at rabbiting and he knows it. When 
+     we're in the country, if he doesn't hunt he 
+     doesn't get fed. 
+
+               JORGE
+     How much do you want for him?
+
+               PEASANT 
+          (hesitating)
+     I wasn't thinking of selling him, but if you 
+     want ... I'll leave it to you.
+
+JORGE pulls some notes out of his pockets and gives two to the PEASANT.
+
+               JORGE 
+     All right, untie him.
+
+The PEASANT does so and hands the string, which is used as a lead, to JORGE.
+
+               PEASANT 
+     Thank you, and God keep you and bless you. 
+          (taps the wagon and addresses the driver)
+     Get moving. 
+
+He gets onto the wagon and sits down where the policemen had been. The wagon 
+moves off. 
+
+               PEASANT 
+          (to Jorge) 
+     And remember, the less he eats, the better he 
+     runs. 
+
+               JORGE 
+          (as the cart is going away)
+     What's he called?
+
+               PEASANT
+          (shouting)
+     Canelo!
+
+On hearing his name, the dog tries to jump toward his master, but JORGE pulls 
+him back with the string.
+
+               JORGE 
+     Be quiet! Where are you going? Come here, 
+     Canelo! Canelo! Come on!
+
+JORGE and his companion leave the road and cross the field toward their 
+workers. The wagon continues on its way. Another carriage comes from the 
+opposite direction toward the camera. Neither JORGE nor the FOREMAN pays any 
+attention to it.
+
+The second carriage, with another miserable dog attached to its axle, passes 
+in front of the camera. The two men do not notice the unhappy dog as the cart 
+goes by.
+
+In the field, two or three WORKMEN are loading a truck with stones. Beyond 
+them, about twenty FARM WORKERS are clearing the land for plowing. It is full 
+of stones and brushwood. They are wielding hoes and mattocks and tearing out 
+bushes and weeds. JORGE and the FOREMAN stop to watch the men work.
+
+               FOREMAN 
+     Have you thought of what you want planted yet? 
+
+               JORGE
+     The fields have been left so long; with a good 
+     manuring anything will grow.
+
+               FOREMAN 
+     It's for wheat. We've always grown maize in the 
+     strip above the vegetables.
+
+               JORGE
+     And in the vegetable plot? 
+
+               FOREMAN 
+     That's good land.
+
+Suddenly, the young man sees VIRIDIANA passing nearby on the road. VIRIDIANA 
+comes up, followed by POCA. She is holding a white box which she had near her 
+when she was posing for HOBBLY's picture a short time before. JORGE goes
+forward to meet her.
+
+               JORGE 
+     What a miracle, you let yourself be seen. Have 
+     you come to look at the work?
+
+POCA passes discreetly, giving JORGE a wide berth to avoid meeting him.
+
+               VIRIDIANA 
+     I've told you before I'm not interested in this.
+
+JORGE looks around with the satisfied expression of a landlord.
+
+               JORGE 
+     The best thing my father left me was the land. 
+     You can see the result of the work on it, and 
+     if you helped me it wouldn't take long to 
+     change it even more. 
+
+VIRIDIANA does not reply and tries to move on. 
+
+               JORGE 
+          (to Poca) 
+     What are you doing here? Get out. 
+
+               VIRIDIANA 
+     Leave him alone.
+
+               JORGE
+     You won't get much done with those people. 
+     Those times are over! You ought to let me kick 
+     them out. 
+
+               VIRIDIANA 
+     Do they worry you that much, then?
+
+               JORGE
+     They worry me a great deal, and especially 
+     because of you.
+
+VIRIDIANA keeps walking. JORGE walks beside her. He still has the dog with 
+him.
+
+               JORGE 
+     There's no point in helping some of them when 
+     there are so many others.
+
+               VIRIDIANA 
+     I know perfectly well how little I can do. What 
+     I want to do is give passing beggars a roof, 
+     some food, and a bit of human warmth.
+
+               JORGE 
+     Is that all you're going to devote your life to? 
+
+               VIRIDIANA 
+     I'm not sure yet. I've had a shock recently, 
+     and I'm only beginning to get over it. Perhaps 
+     I'll go back to the convent one day.
+
+At this point there is a strange intermittent noise as if a bit of tin plate 
+were being knocked against stones. There is also shouting.
+
+               WORKMEN'S VOICES 
+          (shouting)
+     Put your things somewhere else! Get out of here!
+
+VIRIDIANA looks toward the commotion. The LEPER comes up. He is afraid to 
+come too close to her because of the people who are there. He is pulling 
+along an empty can which is attached to his belt by a piece of string: it is 
+the can hitting against the stones which is making the noise. On hearing the 
+shouts of the workmen, the beggar reacts with gestures of contempt.
+
+               LEPER 
+     Swine.
+
+               VIRIDIANA (off)
+     Why are they shouting at him? Haven't they any 
+     pity?
+
+JORGE, who has witnessed this scene, shrugs his shoulders.
+
+               JORGE 
+     I don't know what's going on; ask him.
+
+VIRIDIANA goes to the LEPER. The cruel mocking of the workmen can still be 
+heard. The FOREMAN goes up to JORGE, smiling. 
+
+               FOREMAN 
+     These rascals are demons. They've tied a can to 
+     him. Because they find the poor guy revolting, 
+     they make him walk with this can so they know 
+     when he's coming.
+
+VIRIDIANA, with POCA just behind her, goes up to the LEPER and unties the can 
+while she is talking.
+
+               VIRIDIANA 
+     Why did you come here, Jos‚? I told you where 
+     to go until you're cured.
+
+Jos‚ the LEPER kicks the can away angrily.
+
+               LEPER 
+     The weather is wonderful, the sun is warm, so I 
+     keep on walking and walking ... then you see ...
+
+VIRIDIANA doesn't reproach him, on the contrary she replies gently.
+
+               VIRIDIANA 
+     How are you today? 
+
+               LEPER 
+     Things seem to be getting better.
+
+               VIRIDIANA 
+     Hold your arm out. You can't hope to be cured 
+     quickly. You heard what the doctor said. If it 
+     had been seen to in time ...This'll take time. 
+     But with the help of God, we'll pull through. 
+
+They go up to a clump of trees. POCA keeps his distance and then hides behind 
+a bush. JORGE, very unhappy, watches them go. But he recovers immediately and 
+goes up to the workmen. VIRIDIANA sits down on a big stone and makes the 
+LEPER sit beside her.
+
+               VIRIDIANA 
+     Stretch out your arm.
+
+While he is obeying, she takes a tube of ointment and some gauze from the box 
+she is carrying. She begins to treat the arm. During this process the LEPER 
+talks.
+
+               LEPER 
+     It all started one unlucky day. A punishment 
+     from God because one windy day I was with a 
+     woman and after that I started to be punished. 
+     You're the first good woman I've seen; if all 
+     women were as bad as the priests say, you 
+     wouldn't take care of me. You, bad? He shakes 
+     his head and laughs stupidly. 
+
+VIRIDIANA does not seem to hear and goes on with her task calmly.
+
+               VIRIDIANA 
+     Are your parents alive?
+
+               LEPER 
+     Parents? Nobody cares a damn, what's the use of 
+     them! 
+
+               VIRIDIANA 
+     Don't say that.
+
+               LEPER 
+     Right, I won't say that, but I still think 
+     they're no use.
+
+POCA, who has been listening to the conversation, comes out of hiding and 
+intervenes angrily. He waves his arms around like a windmill.
+
+               POCA 
+     Don't pay any attention, miss; this man's no 
+     good. He wants you to catch it too. At church, 
+     he puts his arm into the Holy Water and seems 
+     to say would to God all those damn women got it. 
+     The priest won't let him in.
+
+The LEPER gets up mad with rage. The young woman can hardly hold him back.
+
+               LEPER 
+     You'll soon find out, you liar! 
+
+               VIRIDIANA 
+     Stop this!
+
+               LEPER 
+     He's lying through his ass! 
+
+               POCA 
+     Ask the priest, miss.
+
+               VIRIDIANA 
+     That's enough. 
+          (to Poca) 
+     Go join the others, and don't come back here. 
+          (to the leper) 
+     And you'll have to control your temper.
+
+Peace reigns. POCA leaves, annoyed. VIRIDIANA finishes bandaging the LEPER'S 
+arm. He bows his head, not daring to protest, in spite of his urge to do so.
+
+
+
+
+DON JAIME'S ROOM AT NIGHT. 
+
+An oil lamp is burning. JORGE is sitting at a table holding an old gold 
+watch. He is winding it carefully. His face expresses curiosity and pleasure.
+
+               JORGE 
+          (looking at the watch)
+     This must have been my grandfather's.
+
+LUCIA is getting ready for bed. She is sitting on the edge of the bed in her 
+nightgown. There is an atmosphere of cold conjugal routine. 
+
+               JORGE 
+     If you wake first, wake me up. 
+
+               LUCIA 
+     What are you going to do? 
+
+She gets up and comes over to him.
+
+               JORGE 
+     What I do every day, but I want to do it 
+     earlier. 
+
+               LUCIA 
+          (slightly reproachful)
+     You're happy, aren't you! 
+
+JORGE inserts a little gold key into the watch. 
+
+               JORGE 
+     Shouldn't I be? You, on the other hand ... 
+
+               LUCIA 
+     I'm bored. I'm alone all day and I don't know 
+     what to do. 
+
+               JORGE 
+     You should have enough to do in this house ... 
+     Come here and listen to this.
+
+She comes to him and he puts the watch to her ear, winding a little spring. A 
+tiny chime is heard. He is pleased with his discovery. She listens, frowning. 
+The tiny musical sound stops.
+
+               JORGE 
+     What are you thinking about?
+
+               LUCIA 
+          (harshly)
+     That your cousin is more to your taste.
+
+JORGE is startled. He hesitates, then tries to change the subject.
+
+               JORGE 
+     She isn't my cousin.
+
+               LUCIA 
+     It doesn't make any difference what she is: you 
+     like her. 
+
+JORGE puts the watch in a box.
+
+               LUCIA 
+     I had a feeling I shouldn't have come here. I'd 
+     better get out, fast ...
+
+She goes back to the bed. JORGE, who does not like the way this conversation 
+is going, wants to divert it.
+
+               JORGE 
+     We ought to talk about that some other time. 
+
+She gets into bed. JORGE, paying no attention, continues to play with the 
+watch.
+
+               JORGE
+     How in hell does it wind up?
+
+               LUCIA 
+     I think I'd better go tomorrow.
+
+               JORGE 
+     Don't be a fool! Why rush away from something 
+     which couldn't happen?
+
+He hums. LUCIA slips between the sheets. 
+
+               LUCIA 
+     You see how much you like her?
+
+                    JORGE 
+     That's life. Some people are brought together, 
+     others are separated. What can we do, if that's 
+     the way it happens? 
+
+LUCIA, under the blankets, sobs.
+
+                    JORGE 
+     Lucia! Don't cry! Come on, darling, don't cry 
+     like that!
+
+He is still very busy with his father's trinkets. He suddenly comes across a 
+small jeweled crucifix. With his left hand, he gets hold of the little blade 
+which is set into one side of it: the crucifix is in fact the handle of a 
+dagger.
+
+               JORGE 
+     What a thing! Where did Father find that?
+
+LUCIA is still sobbing. JORGE tries to open a watch case with the point of 
+the dagger.
+
+
+
+
+A SMALL WOOD A HUNDRED YARDS BEHIND THE HOUSE. 
+
+There are several buildings, mostly in ruins, all scattered. One of them 
+serves as the living quarters and dormitory of the beggars. Another building,
+in equally bad repair, is some sort of storehouse where a group of about 
+fifteen MASONS and LABORERS are working. A truck is standing in the yard with 
+a load of materials; the FOREMAN is supervising the unloading. JORGE comes 
+out of the house with Canelo, still on the end of the string.
+
+               JORGE 
+          (pointing to the truck)
+     Hold on, Ramon! Is there time to make another 
+     trip?
+
+               FOREMAN 
+     No, sir, it's nearly six o'clock. 
+          (to the workmen unloading the truck) 
+     Okay, let's get a move on! 
+          (to Jorge) 
+     When are you leaving?
+
+               JORGE 
+     Tonight, but I'll be back tomorrow afternoon.
+
+The village clock chimes six.
+
+
+
+
+ROWS OF ALMOND TREES. 
+
+Most of VIRIDIANA's beggars are sitting there on the ground or standing 
+around. DON AMALIO comes from the path, led by the DWARF. From afar, the six 
+strokes of the village clock finish chiming. VIRIDIANA arrives. She claps her 
+hands.
+
+               VIRIDIANA
+     The Angelus.
+
+Hurrying, the beggars kneel, with the exception of HOBBLY who remains 
+standing, leaning on his stick. VIRIDIANA also remains standing. The LEPER, 
+seeing what is happening, moves quickly past the group and goes away. In a 
+quick montage, there follow alternated shots of the beggars praying quietly 
+under the blossoms of the almond trees and the work in full swing: close-up 
+of cement slapped onto a dilapidated wall, a tub full of water in which some 
+lime falls, sand being sifted, logs piling up on the ground, a wheelbarrow 
+full of stones being tipped out, planks beings sawed. The sounds underline 
+the contrast: the otherworldly muttering of VIRIDIANA and the beggars; the 
+very actual and rhythmic sound of the activity in the work yard.
+
+               VIRIDIANA 
+          (praying)
+     The Angel of the Lord declared to Mary.
+
+There is a subdued murmur in which the voices of women, who are more familiar 
+with the words, are prominent.
+
+               BEGGARS  
+     And she conceived by the Holy Ghost.
+
+               ALL
+     Hail Mary full of grace the Lord is with thee 
+     blessed art thou amongst women and blessed is 
+     the fruit of thy womb Jesus. Holy Mary Mother 
+     of God pray for us sinners now and at the hour 
+     of our death. Amen.
+
+The camera moves to dump truck noisily emptying its load onto the ground. Two 
+MASONS are stacking bricks. The beggars are heard in the distance reciting 
+the Hail Mary. JORGE walks in front of a heap of cement and sand, where there 
+are two MEN shoveling.
+
+               VIRIDIANA'S VOICE 
+     Behold the handmaid of the Lord. 
+
+               BEGGARS' VOICES 
+     Be it done unto me according to thy word. Hail 
+     Mary full of grace ...
+
+               VIRIDIANA'S VOICE 
+     And the word was made flesh. 
+
+               BEGGARS' VOICES 
+     And dwelt among us. Hail Mary full of grace ...
+
+The camera shifts back to VIRIDIANA in prayer. She prays without ostentation, 
+very simply. A few feet away from her, HOBBLY leans on his stick, 
+contemplatively.
+
+               VIRIDIANA 
+     Pray for us, O Holy Mother of God.
+
+               BEGGARS
+     That we may be made worthy of the promises of 
+     Christ.
+
+The BEGGARS cross themselves, stand up, and go away. VIRIDIANA walks in the 
+direction of the work yard.
+
+JORGE sees the young woman coming toward him smiling. He feels sorry for her. 
+To a man of action like himself, his feet well on the ground, VIRIDIANA seems 
+to be behaving absurdly: but he is strongly attracted by her gentleness and 
+beauty.
+
+As the two young people approach each other, the WORKERS and the FOREMAN, who 
+have finished work and changed their clothes, come out of the building and 
+pass in front of them. They wave to JORGE and leave.
+
+               VIRIDIANA 
+          (indicating the building 
+           and the beggars' house)
+     Are they going to work here too? 
+
+               JORGE 
+     Don't worry. Nobody's going to disturb you. 
+
+His eyes run quickly over her body. He can't hide the ironic reaction he 
+experiences upon completing this examination.
+
+               JORGE 
+     Don't forget the meeting with the lawyer. The 
+     car will pick you up tomorrow morning. 
+
+               VIRIDIANA 
+     I'll be ready.
+
+               JORGE 
+          (nodding toward the dormitories)
+     Do you intend to stay here for some time?
+
+The BEGGARS pass to and fro.
+
+               VIRIDIANA 
+     Yes. Why?
+
+               JORGE
+     You can come and live again in the big house if 
+     you want. Now that I'm alone, I can settle 
+     down anywhere.
+
+VIRIDIANA lowers her eyes shyly. 
+
+               VIRIDIANA
+     And ...your friend?
+
+               JORGE 
+     She's left.
+
+               VIRIDIANA 
+     Is she coming back? 
+
+               JORGE 
+     No.
+
+               VIRIDIANA 
+     Why?
+
+JORGE stares at her with a certain amount of insolence.
+
+               JORGE 
+     Why does any man leave a woman? 
+
+She shrugs and purses her lips, indicating her lack of experience.
+
+               JORGE 
+     If you don't understand, I don't want to 
+     explain it to you. You're too cold and 
+     religious; you'd be shocked. 
+
+VIRIDIANA blushes. He bursts out laughing and walks off toward the work yard.
+
+               VOICE (off) 
+     Miss!
+
+Old MONCHO and the COACHMAN, looking awkward, are waiting nearby. VIRIDIANA 
+goes up to them. We can see RAMONA'S back behind them. She is fidgeting with 
+a bunch of keys. She seems to be waiting for something.
+
+               VIRIDIANA 
+     You have decided to leave, Moncho. 
+
+               MONCHO 
+     Yes!
+
+               VIRIDIANA 
+     I can't do anything to make you stay? These 
+     people annoy you, isn't that it? 
+
+The two men don't answer but look down.
+
+               VIRIDIANA 
+     Well, what are you going to do?
+
+JORGE passes near the group and goes to RAMONA. 
+
+               COACHMAN 
+     He's coming to live with me, miss.
+
+               VIRIDIANA 
+     If that's what you want ... But I'm very sorry 
+     you're leaving. Thank you for everything, 
+     Moncho. God bless you. 
+
+She shakes hands with them. They go off toward the village. RAMONA hands 
+JORGE the bunch of keys when he comes up to her. Without saying anything, 
+they go off toward the house.
+
+
+
+
+THE ATTIC AT THE TOP OF THE HOUSE. 
+
+There is a bizarre collection of junk: an ancient worm-eaten piano, some old 
+suitcases, some broken chairs, various boxes, unsteady-looking piles of 
+crates, a burst mattress, a once elegant couch, now torn and dirty. The 
+voices of JORGE and RAMONA are heard coming from another room.
+
+               JORGE'S VOICE 
+     Obviously! Here's the missing furniture! What a 
+     state it's in! Father must have been a peculiar 
+     type. 
+
+               RAMONA'S VOICE 
+     I don't think the master ever came here. 
+
+They both appear. JORGE is carrying the keys RAMONA gave him earlier, in the 
+field. He looks at the couch cover.
+
+                    JORGE 
+     And this chest?
+
+               RAMONA 
+     There are some curtains and drapes, but they're 
+     all very old.
+
+A cat makes its way through the piled-up crates.
+
+               JORGE 
+     There must be some rat's nest in there! I'd 
+     like to ask you something. You worked for my 
+     father for seven years, didn't you? Did he ever 
+     mention me?
+
+RAMONA's eyes follow him tenderly.
+
+               RAMONA 
+     I don't know; I can't remember. But I'm sure he 
+     loved you.
+
+                    JORGE 
+     Why?
+
+               RAMONA 
+     You wouldn't be here otherwise.
+
+               JORGE 
+          (hitting a chair)
+     These chairs are in good condition. With a 
+     little varnish and some new covers this one 
+     will be quite presentable. 
+
+JORGE continues to poke around. Again, RAMONA looks at him with the willing 
+submission evident before. JORGE goes to another corner of the attic where, 
+on one side, sacks are heaped against the wall. The camera frames a door and 
+a few beams. JORGE goes up to a heap of sacks.
+
+               JORGE 
+     What are these sacks doing here?
+
+He half lifts them.
+
+               RAMONA 
+     I don't know -- they've always been there. 
+
+               JORGE 
+     That's stupid! Plaster! It can still be used. 
+
+He goes up to another pile of sacks. Ramona follows him, fascinated.
+
+               JORGE 
+     And those! That's sand. As I won't be here 
+     tomorrow, tell the foreman to take them.
+
+He shows the sacks to RAMONA. Turning suddenly, his eyes meet hers. He 
+understands everything. Frightened by the discovery, she avoids his glance. 
+JORGE begins to laugh.
+
+               JORGE 
+     What's wrong with you, woman? Why are you 
+     looking at me like that?
+
+RAMONA tries to escape, but the young man catches her by the arm. He pulls 
+her around to face him and looks at her for a moment, in silence, smiling. 
+Then he holds her chin.
+
+               JORGE 
+     Do you know something, Ramona? If you took some 
+     trouble, you'd be quite pretty ... Small teeth, 
+     a good mouth -- what more do you want?
+
+Without further ado, he kisses her on the lips, not even bothering to hold 
+her. Feeling his lips on hers, she shuts her eyes. Her eyelids quiver. She 
+gives herself up to the long awaited pleasure. JORGE looks around.
+
+               JORGE 
+          (pulling her with him)
+     Let's sit down a moment.
+
+They go over to a pile of sacks.
+
+Close-up of the piled-up furniture. The camera frames a big rat busy by an 
+old sack. With a bound, the cat is on it.
+
+
+
+
+IN FRONT OF THE HOUSE. 
+
+A car stops near VIRIDIANA, who is waiting. The driver gets out.
+
+               VIRIDIANA 
+     Are we leaving?
+
+               DRIVER
+     Don Jorge said he'd be waiting for you at the 
+     lawyer's at four o'clock.
+
+               VIRIDIANA 
+     Good. 
+
+She goes up to DON ZEQUIEL and the SINGER, who are waiting nearby. 
+
+               VIRIDIANA 
+          (to Don Zequiel) 
+     You're the most responsible here. I'm handing 
+     them over to you. Make sure they all behave 
+     themselves.
+
+               DON ZEQUIEL (off)
+     Don't worry, miss, I'll look after things. 
+
+               VIRIDIANA (off)
+     Do you want anything else?
+
+               DON ZEQUIEL (off) 
+     Bring me a flute if you see one. I'd like to 
+     learn music.
+
+RAMONA, together with RITA who has her face bandaged as if she has a 
+toothache, comes out of the house and shuts the door. 
+
+               RITA 
+          (weeping)
+     They're going to hurt me.
+
+               RAMONA 
+     Well if they hurt you, put up with it! Let's 
+     go! 
+
+RAMONA and RITA get into the car, followed by VIRIDIANA. 
+
+               BEGGARS' VOICES 
+     Good luck, miss!
+
+
+
+
+THE KITCHEN. 
+
+ENEDINA is cradling her yelling baby in her arms.
+
+               DON AMALIO 
+     Keep quiet. These miserable brats only get in 
+     the way. 
+
+               ENEDINA 
+     You'd like me to kill them?
+
+               POCA 
+     With the life that's ahead of them they'd be 
+     better off being sent to Paradise.
+
+ENEDINA goes up to PACO and hands him the child.
+
+               ENEDINA 
+     Put her in the sun with her sister.
+
+PACO takes the little girl, who is still crying, and leaves. 
+
+HOBBLY, who has been standing at the door watching the car go, comes back 
+into the kitchen rubbing his hands.
+
+               HOBBLY 
+     Now to knock off a couple of lambs. We'll have 
+     them roasted. 
+
+This idea obviously amazes ENEDINA. She looks at the blind man and POCA, who 
+are enjoying themselves.
+
+               HOBBLY 
+     What do you think of that?
+
+               DON AMALIO 
+     I'll go along with it ... if it's being 
+     respectful enough. 
+
+               ENEDINA 
+     What will the lady say? 
+
+               POCA 
+     She won't even know.
+
+               ENEDINA 
+     If everybody agrees, but to make a roast takes 
+     four hours. 
+
+               HOBBLY 
+     Well, what's all the hurry?
+
+The blind man turns to ENEDINA.
+
+               DON AMALIO
+     Didn't you say you know how to make vanilla 
+     pudding?
+
+               ENEDINA 
+     Yes, yes.
+
+               HOBBLY 
+     You hear that, Poca? Get the eggs and milk. 
+     I'll see to the lambs.
+
+POCA takes a pail and PACO hands him a basket. The blind man sits down on a 
+bench and breaks out into merry idiotic laughter.
+
+
+
+
+THE PARK. 
+
+REFUGIO, the pregnant woman, is busy collecting dead wood. The SINGER is 
+sitting near her on a bench. She sings a few bars of a song in a grating 
+voice, accompanying herself on a guitar. DON ZEQUIEL is not far away. Unlike 
+her normal self, REFUGIO is very active. She moves with great ease. The 
+SINGER interrupts her song and addresses her companion.
+
+               SINGER 
+     Don't kill yourself, Refugio! Can't you see 
+     we're alone? 
+
+               REFUGIO 
+     What's that got to do with it? 
+
+               SINGER 
+     What's the good of working? 
+
+DON ZEQUIEL, scandalized, goes up to them.
+
+               DON ZEQUIEL 
+     You keep quiet. The miss left me in charge here 
+     and nobody is going to upset things. You, stick 
+     to your singing! 
+
+               SINGER 
+     Look at us now! What made you think that I was 
+     up to something?
+
+There are shouts from the house. They look around. The DWARF and the GARDENER 
+are gesturing from the doorway. 
+
+               GARDENER 
+     Don Zequiel! Refugio! Come here! 
+
+               DON ZEQUIEL 
+     Damn women! How did you get in there? 
+
+               DWARF 
+     Through a back window.
+
+REFUGIO and the GARDENER rush toward the house. DON ZEQUIEL follows them 
+uncertainly. 
+
+               DON ZEQUIEL 
+     Where are you going? 
+
+The SINGER has reached the door.
+
+               SINGER 
+     Come here, Don Zequiel. I was here with the 
+     lady. There're wonderful things inside!
+
+DON ZEQUIEL seems unconvinced.
+
+                    DON ZEQUIEL 
+     If it's only to have a look ... 
+
+He moves toward the house.
+
+                    DON ZEQUIEL 
+     But don't touch anything. Leave everything 
+     where it is! 
+
+The three beggars, one behind another, itching to have what has been 
+forbidden them, join the others in the house.
+
+
+
+
+THE FIELD. 
+
+Close-up of a dove working its way awkwardly over the grass. The LEPER, who 
+is following it, throws himself forward and traps it in his hands.
+
+               LEPER 
+     Little dove from the south, you're hurt. What 
+     are you called? 
+          (stroking it) 
+     My little dove! My dear dove! My darling, sweet 
+     dove! 
+
+Suddenly, he is struck on the shoulder by a stone. He gets to his feet. 
+Without realizing it, he has come to the place where the men are working. The 
+laborers have seen him and are warning him in this crude way.
+
+               FIRST WORKER 
+     Get out!
+
+               SECOND WORKER 
+     Come any nearer and I'll bust your head in! 
+
+               THIRD WORKER 
+     Get lost.
+
+One of them picks up a stone and hurls it at him. The LEPER, furious, makes 
+obscene gestures at them and pours out insults while he rubs the place where 
+the stone hit him.
+
+               LEPER 
+     You bastards! I hope you get what I've got!
+
+But while he is shouting, he is making off. Foaming with rage, he disappears 
+into the trees, jabbering incoherently.
+
+
+
+
+INTERIOR OF THE SITTING ROOM. 
+
+Close-up of the portrait of Do¤a Elvira. While the camera pulls back to 
+include the portrait of Don Jaime, the comments of the beggars, who have just 
+come into the house, are heard off.
+
+               SINGER
+     That woman, the one who looks like our Miss 
+     Viridiana, she's the wife of the man who hanged 
+     himself.
+
+Among the first group of beggars, DON ZEQUIEL is in the act of filling one of 
+Don Jaime's pipes.
+
+               DON ZEQUIEL 
+     Think of hanging yourself, with all that money! 
+
+               SINGER 
+     He must have had asthma. All those loaded old 
+     men have asthma.
+
+They stop examining the picture and begin exploring the drawing room. The 
+women go up to the cupboard which holds tablecloths and silver. The SINGER 
+opens it. They stand, gaping.
+
+               DWARF 
+     What stuff!
+
+               GARDENER 
+     Jesus, Mary, and Joseph.
+
+The SINGER takes out a heavily embroidered tablecloth which she has seen 
+among others at the bottom of the cupboard. DON ZEQUIEL, smoking the pipe, 
+comes up to look.
+
+               SINGER 
+     Look at that. How's that for a tablecloth! 
+
+               GARDENER 
+     Come on, let's put it out.
+
+Excited, she puts it on the table and begins to spread it. The others help 
+her.
+
+               REFUGIO 
+     That must have cost a fortune. At least a 
+     thousand. 
+
+               SINGER 
+     A thousand! More like ten thousand! Can't you 
+     see it's French lace?
+
+               DON ZEQUIEL 
+     Go on, fold it up, you're going to spoil it. 
+
+               SINGER 
+     Keep on smoking and shut up. We're not doing 
+     any harm. It's not as bad as smoking his 
+     tobacco.
+
+               REFUGIO 
+     Don Zequiel's right. If those people come back 
+     and we don't hear them, God help you.
+
+               GARDENER 
+     They won't get back before tomorrow. I heard 
+     them tell the driver.
+
+               REFUGIO 
+     If you haven't eaten on lace like that, you 
+     haven't lived.
+
+
+
+
+THE DINING ROOM THAT NIGHT. 
+
+Close-up of a shaking hand trying to pick up a full glass of wine from the 
+laid table. The sumptuous tablecloth is stained with wine and grease. The 
+hand knocks the glass over. Scraps of talk are heard.
+
+               VOICE (off)
+     Watch it, Don Zequiel!
+
+               REFUGIO 
+     Don't worry! We'll all clean it up; it'll be as 
+     right as rain.
+
+The camera reveals an extraordinary scene. The BEGGARS are sitting at the 
+table; the LEPER is by himself at a small adjacent table. They have got 
+through two roast lambs, the remains of which are scattered over the table. 
+There is an extraordinary confusion of glasses, plates, and bottles; the 
+"guests" are unhampered by any formality, and some of them -- like the 
+patriarchal DON ZEQUIEL, who has just knocked over the glass -- are really 
+drunk, others only "lit-up."
+
+               PACO
+     Pass me that bottle. 
+
+               SINGER 
+     Go on, Don Amalio!
+
+               DON AMALIO 
+     They've got a real hen house here! You can't 
+     hear yourself speak.
+
+               POCA 
+     Tell me the answer to this! What bird lays eggs 
+     in a barn? 
+
+               VOICE 
+     Shut up, let's hear Don Amalio!
+
+               DON AMALIO 
+     Quiet! Now we're gathered together to beg under 
+     the porches. But only in the churches of the 
+     rich! The girls passing by smelled so sweet 
+     that you felt them on you.
+
+POCA is chewing a hunk of mutton. His hands and chin are shiny with fat.
+
+               POCA 
+     That's great! You can smell them but you can't 
+     lay your hands on them! Is that it?
+
+The LEPER is sitting some feet away from the others, but as the drinking goes 
+on he gradually works his way in until finally he joins the group; the others 
+are beyond noticing his sores. The LEPER claps his hands to show his 
+appreciation of the blind man's story.
+
+               LEPER 
+     Why did you split up?
+
+DON AMALIO grimaces at the sound of the LEPER's voice. He half turns toward 
+him.
+
+               DON AMALIO 
+     You, shut your face! I won't have questions 
+     from any one!
+
+Most of them are not listening; they are talking to each other, eating 
+noisily, pouring out wine for themselves and each other.
+
+               VOICE (off) 
+     Go on with the story!
+
+               DON AMALIO 
+          (heavily)
+     Okay, it broke up when this deaf fellow started 
+     on the collection boxes in the churches with a 
+     knife.
+
+ENEDINA has finished eating and is picking her teeth with her fingers, 
+unconcernedly.
+
+               SINGER 
+     How did you know?
+
+               DON AMALIO 
+     The noise of the money in his pocket gave him 
+     away. We hardly got a sou that day. 
+
+He strikes the table to get silence and attention.
+
+               DON AMALIO 
+     You know what I did? I told the police about 
+     him! 
+
+               HOBBLY 
+     You sang because he didn't cut you in, you rat! 
+
+The blind man reacts, seizing his stick. Then he decides to talk his way out.
+
+               DON AMALIO 
+     The judges thanked me very much, and one of 
+     them, who was a gentleman, said I was ...
+
+The old man, DON ZEQUIEL, who is half slumped over the table, comes around 
+sufficiently to pick up the blind man's story.
+
+               DON ZEQUIEL 
+          (muttering)
+     Shitty bastard, that's what I'd call you!
+
+DON AMALIO goes on as if he has not heard. The SINGER, his neighbor, leaves 
+the table.
+
+               DON AMALIO 
+     He said "Honest citizen," if you want to know. 
+
+The SINGER takes up her guitar and begins to sing a popular song. Most of 
+them join in. DON ZEQUIEL is slumped over the table, trying to sleep. POCA is 
+drinking heavily with one of the women. One of ENEDINA's daughters, who is 
+sleeping on a couch, wakes up frightened and begins to bawl. REFUGIO, who is 
+tight, cannot bear the din and lurches toward the little girl.
+
+               REFUGIO 
+          (shouting)
+     You filthy little brat. Shut up or watch out! 
+
+She picks up the whining child and shakes her brutally.
+
+               REFUGIO 
+     What's up with you? Why are you screaming? I'll 
+     belt you one!
+
+ENEDINA rushes up furiously and takes the child out of her arms.
+
+               ENEDINA 
+     Don't you touch my little girl.
+
+               REFUGIO 
+     Keep the brat quiet so we can hear what's going 
+     on. 
+
+               ENEDINA 
+     I'll bust your face.
+
+               REFUGIO 
+     Keep your hands off me, you filthy whore!
+
+ENEDINA hits her powerfully. REFUGIO jumps on her like a tigress and grabs 
+her hair. The crying of the children gets louder. The others go on singing, 
+apparently unperturbed by the fight. The two women hit each other in a blind 
+fury. POCA and PACO try in vain to separate them, under the glassy stare of 
+DON ZEQUIEL. But it takes DON AMALIO to calm them. He takes ENEDINA and 
+protects her with his body.
+
+               DON AMALIO 
+     Stop this, stop this.
+
+               ENEDINA 
+     Let me go, Don Amalio, I'll tear her apart. 
+
+During the brawl, the LEPER goes up to the table to get a bottle. HOBBLY, 
+without leaving his place, pokes him viciously with his stick.
+
+DON AMALIO does not let ENEDINA go.
+
+               DON AMALIO 
+     Keep quiet, Enedina, she's not worth paying 
+     attention to. Let's behave ourselves nicely. 
+          (to Refugio) 
+     Stick to your place.
+
+There is calm once again. They all go back to their places and adjust their 
+clothes.
+
+POCA goes up to the sideboard where he finds the plate of vanilla pudding. He 
+sticks in his finger and licks it greedily. 
+
+               ENEDINA (off)
+     My pudding! Leave it, you thief!
+
+She pushes POCA's hand into the plate. He pulls it out covered with cream.
+
+               VOICES (off)
+     Bring in the pudding, enough of the brawling. 
+
+ENEDINA, still puffing and blowing, takes the plate of pudding, walks to the 
+table, and puts the pudding down. There are claps and murmurs of 
+satisfaction. There is no more singing. The children are quiet. They all help 
+themselves to pudding and there is quiet while they all taste the dessert. 
+The LEPER prowls around the table with a plate in his hand, not daring to 
+take any. Once again HOBBLY drives him away. The GARDENER realizes what is 
+going on, fills a plate and brings it to him. Then she sits down again and 
+helps herself. POCA catches ENEDINA's eye.
+
+               POCA 
+     Enedina?
+
+               ENEDINA (off)
+     What do you want? 
+
+               POCA 
+     Is it all right? 
+
+               ENEDINA 
+     Yes.
+
+               POCA 
+          (addressing all of them)
+     Enedina's going to take a picture. So we'll 
+     have a souvenir.
+
+               DON AMALIO 
+     Where's the camera?
+
+               ENEDINA 
+          (laughing cagily)
+     It's a present from my parents.
+
+They go to one side of the table. The LEPER places himself near the blind 
+man, who sits in the middle. The blind man sits very straight, with his arms 
+stretched out and his two hands on the table. The others arrange themselves 
+on either side of him, striking different poses. In honor of the occasion, 
+DON ZEQUIEL has come out of his stupor. When everyone is ready, ENEDINA 
+stands in front of them. She turns her back to the camera. In a flash the 
+still scene suddenly conjures up the scene of another Supper.
+
+ENEDINA sweeps her very ample skirt up to her face. The photograph is taken. 
+She chokes with laughter behind her skirt. They all relax their poses and 
+break out into disordered babbling. The group comes to life again and the 
+hubbub reigns supreme.
+
+The LEPER now appears lecherous and gay. He goes up to the phonograph, takes 
+a record, puts it down dissatisfied, and then picks up another at random. He 
+puts it on the record player. It is the "Hallelujah Chorus" from Handel's 
+Messiah. He plays it very loud and this seems to give him pleasure and even 
+more strength. He glides toward Don Jaime's room. Before going in, he looks 
+at them defiantly but they don't seem to notice.
+
+ENEDINA helps shake DON ZEQUIEL, who has fallen asleep again.
+
+               REFUGIO 
+     The lousy man. Tables aren't meant to lie on.
+
+               SINGER 
+     Eat your pudding. It's a dream.
+
+Handel's music fills the room with sound. DON ZEQUIEL opens an eye and looks 
+bleary. He sees the plate which is being handed to him. The SINGER, laughing, 
+spoon-feeds him like a child.
+
+               DON ZEQUIEL 
+          (half unconscious)
+     You're a dainty piece. How spry you are, 
+     Enedina.
+
+They all burst out laughing. 
+
+               SINGER 
+     This isn't Enedina.
+
+In the middle of the hubbub, the LEPER appears at the door of Don Jaime's 
+room in Do¤a Elvira's veil and corset. He begins to dance to the music of the
+"Hallelujah Chorus." It is a wild, grotesque dance, with movements of the 
+fandango and an expression of inane merriment. His incongruous toothless 
+mouth makes it slightly sinister. He pulls tufts of feathers out from his 
+jacket and throws them around the room onto the guests. His entry causes some 
+surprise. The women scream and the men jeer. Soon the SINGER gets up and goes 
+to dance with the LEPER. She takes of his veil and puts it around herself. It
+begins to look like a witches' sabbath. 
+
+               LEPER 
+          (throwing the feathers) 
+     Little dove of the south. Little dove.
+
+The blind man, still sitting, pulls ENEDINA onto his knee. 
+
+               DON AMALIO 
+     Enedina, come here. Sit down. Come on, drink up!
+
+ENEDINA drinks.
+
+POCA joins the others. He pulls his beret over his eyes and goes into a 
+series of contortions, moving his arms and legs with a frenzied agility 
+remarkable for a man of his age, gyrating in a mad jig. He dances with the 
+GARDENER. REFUGIO joins in to dance with the LEPER, keeping her distance, 
+however.
+
+While the couples are dancing, HOBBLY, DON ZEQUIEL, and DON AMALIO still sit 
+around the table. One of ENEDINA's little girls has begun to cry again. DON 
+ZEQUIEL, who has finished his dessert, contemplates the show without 
+understanding clearly what is going on.
+
+ENEDINA goes to the couch, carrying the weeping little girl in her arms. 
+
+               ENEDINA 
+     There, there, don't cry.
+
+She puts the child on the couch; the crying stops. PACO appears behind the 
+couch, gesturing to ENEDINA, and points to where he is. 
+
+               PACO
+     Look at this, Enedina.
+
+ENEDINA goes around the couch to PACO, curious to see what it is. 
+
+               ENEDINA 
+     What is it?
+
+               PACO 
+     Get down, you won't see it otherwise.
+
+The woman does so. PACO grabs her and makes her fall behind the couch; they 
+roll over each other. Their legs stick out behind one end of the couch. 
+Sometimes hers are on top, sometimes his. They roll around on the floor, PACO 
+laughing, ENEDINA protesting. The GARDENER sees what is happening behind the 
+couch and waves DON ZEQUIEL over. 
+
+               GARDENER 
+     Just look at this, Don Zequiel! Isn't it awful! 
+
+He looks and sees. The legs of the couple struggle behind the couch. Close-up 
+of the scared face of the little child stretched out on the couch. 
+
+               ENEDINA'S VOICE 
+     Get off, let me go! Let me go! Let me go! 
+
+DON ZEQUIEL vigorously thumps the table.
+
+               DON ZEQUIEL 
+     Leave them alone! It'll make them sorrier 
+     later! 
+
+HOBBLY hurls a plate of pudding into the "patriarch's" face. DON ZEQUIEL 
+wipes his face with his hands, trying to get the stuff off his beard. 
+Meanwhile, POCA, who has just seen what is happening behind the couch, passes 
+near DON ZEQUIEL and laughs at the state he is in.
+
+               GARDENER (off)
+     That's just the thing for you, Don Zequiel! 
+     Ecce Homo, that's what I'd say!
+
+DON ZEQUIEL tries to get to his feet to defend himself; but he wobbles and
+falls back heavily onto his chair. POCA, who is looking cautiously over his 
+shoulder, comes up to DON AMALIO who is still in his place and touches him on 
+the shoulder.
+
+               POCA 
+     Don Amalio!
+
+               DON AMALIO 
+     What's that? 
+
+               POCA 
+     Enedina and Paco ... 
+
+               DON AMALIO 
+     What about them?
+
+               POCA 
+     They're playing games behind the couch ...
+
+The blind man starts. His jaw trembles and anger takes hold of him. He seizes 
+his stick and gets up. 
+
+               DON AMALIO 
+     Which couch? 
+
+               POCA 
+          (vaguely)
+     That one.
+
+DON AMALIO puts his hand on POCA's shoulder.
+
+               DON AMALIO 
+     Take me there.
+
+               POCA 
+     Really, Don AMALIO, there's not much point in 
+     making a fuss.
+
+POCA, who does not seem to be too happy about this turn of events, walks 
+toward the couch, followed by the blind man who is gripping him. POCA does 
+not seem keen on getting involved in the events he stirred up and slithers 
+out of the way, leaving his jacket in the hands of AMALIO, whose fury is 
+mounting.
+
+               DON AMALIO 
+     Where are you, you swine? I'll crack your skull 
+     in. Take me to them and I'll kill him.
+
+Without his guide, he loses all sense of direction. He moves from one side to 
+the other. In vain, HOBBLY tries to stop him. Overcome with rage, the blind 
+man clutches his cane and, facing the banquet table, lays about him with all 
+his strength. His flaying creates havoc with the contents of the table: 
+plates, glasses, bottles. Wines, sauces, and puddings are spilled. Very soon 
+the beautiful embroidered tablecloth becomes a battlefield of destruction.
+
+PACO and ENEDINA, terrified, get up from behind the couch.
+
+REFUGIO and the GARDENER begin to be troubled by the turn of events. 
+Disorderliness has turned into an orgy without anyone's really being aware 
+of what is happening. A glimmer of sense in their befuddled minds makes the 
+two women aware of the possible consequences.
+
+In the middle of the room, ENEDINA tidies herself up. The LEPER tries to 
+extricate himself from the corset that he has wrapped himself in.
+
+               REFUGIO 
+          (whispering to the Gardener)
+     Things are going to be worse than the Cuban 
+     War ...
+
+               GARDENER 
+     You're right. We'll be better off if we're seen 
+     in the village tonight.
+
+They slip into the hall.
+
+The blind man is finally in command. DON ZEQUIEL falls face down and gets 
+entangled in Do¤a Elvira's wedding veil as he tries in vain to stand up 
+again.
+
+               LEPER 
+     Now he has spoiled the party.
+
+               SINGER (off)
+     Holy Virgin, how can we fix up this brothel? 
+
+All of them have stopped dancing although the phonograph is still playing.
+
+ENEDINA tries to justify herself.
+
+               ENEDINA 
+          (apropos the blind man)
+     If he were my man, he'd have his rights; but as 
+     it is, why?
+
+               SINGER 
+     You're quite right, old dear. The way he treats 
+     you ...
+
+REFUGIO and the GARDENER rush down the stairs into the lower hall. When they 
+reach the big front door, they open it and go out into the park.
+
+They have hardly left the building when they hear the noise of a car, and 
+almost at once the headlights appear, making them hesitate for a moment and 
+try to hide in the shadow. The music of Handel's Messiah is still playing.
+
+
+
+
+THE CAR ROUNDS THE TURN IN THE ROAD. 
+
+It comes to a halt in front of the house. JORGE, RAMONA, then VIRIDIANA and 
+RITA get out one at a time. VIRIDIANA, noting the two beggars running away, 
+takes a few steps in their direction. JORGE realizes immediately that 
+something abnormal has been going on. He sees a woman running away and hears 
+the solemn chorus of Handel's Messiah. Without pausing a moment to reflect, 
+he goes into the house.
+
+The camera switches to the beggars grouped in the sitting room.
+
+               POCA 
+     Now it's every man for himself. Let's go.
+
+The camera shifts back to JORGE, entering the house. One by one the beggars 
+pass him in the hall, looking crestfallen and as innocent as the situation 
+allows. The first one he meets is POCA, who with great difficulty is 
+supporting the almost completely unconscious DON ZEQUIEL. 
+
+               PACO 
+     Good night ... He doesn't feel too well.
+
+Appalled, JORGE stands in the hall and watches the strange herd pass by. The 
+SINGER, carrying one of the little girls who is bawling, goes by with the
+DWARF. 
+
+               SINGER 
+     Good night, Don Jorge. We're leaving now... 
+
+Then it is POCA's and ENEDINA's turn. The latter has another infant in her 
+arms.
+
+               ENEDINA 
+          (pathetically)
+     They told us you'd be back tomorrow ... 
+
+               POCA 
+     I didn't want to do it, Don Jorge. They made 
+     me ...
+
+JORGE, quite beside himself, takes POCA by the arm.
+
+               JORGE 
+     Get out of here! Out!
+
+The blind man, led on as if by instinct and by the noise of the departing 
+fugitives, goes toward the exit with the aid of his stick. He marches along, 
+head high, his stick in front of him. It is difficult to know whether he is 
+aware of JORGE's presence or not. On passing in front of him, he intones in a 
+sonorous voice.
+
+               DON AMALIO 
+     Blessed are the generous, master, who take into
+     their respectable house a poor defenseless 
+     blind man. God will reward them.
+
+He advances while he speaks. His feet get entangled in the wedding veil which 
+was left on the floor. Finally he gets rid of it with his stick and goes out 
+as quickly as his blindness allows.
+
+The room is now empty. JORGE, frowning, takes in the carnage caused by the 
+senseless orgy. He advances toward the record player, where the "Hallelujah 
+Chorus" is still playing, and turns it off. He starts suddenly on hearing the 
+noise of furniture being knocked against in Don Jaime's room.
+
+JORGE enters Don Jaime room and gropes around in the half light. The room 
+is faintly lit by one chandelier with the six candles which are still intact. 
+JORGE looks around. At first he does not see anybody. But then a curtain 
+moves and he goes toward it.
+
+               JORGE 
+          (shouting)
+     Didn't you hear me? Beat it. 
+
+HOBBLY appears from behind the curtain.
+
+               JORGE 
+          Okay, get out, you.
+
+HOBBLY smiles in a sinister way.
+
+               HOBBLY 
+     Your Lordship must not get annoyed: I have not 
+     done anything wrong . ..
+
+Without saying a word, JORGE advances on him, ready to seize his arm and put 
+him out. HOBBLY, now alert, suddenly pulls out a dagger. JORGE is undecided 
+for a moment, but soon reacts by finding a chair in the passage and 
+brandishing it, ready to attack his opponent. In a flash, a raised arm behind 
+him swings a bottle. Before he is aware of the danger, JORGE is hit by the 
+bottle, staggers, and falls heavily to the floor. The LEPER, looking happy and 
+proud of himself, leans over his victim.
+
+               LEPER 
+     I got him, comrade. I got him!
+
+At this point, VIRIDIANA appears at the door and is frightened by what she 
+sees.
+
+               VIRIDIANA 
+     My God, what have you done to him! 
+
+               HOBBLY 
+     He was asking for it.
+
+               VIRIDIANA 
+     But why? Why? 
+
+She rushes to him and leans over him, calling him in anguish.
+
+               VIRIDIANA 
+     Jorge! Jorge!
+
+HOBBLY stops her and takes her by the arm.
+
+               HOBBLY 
+     You shouldn't cry over that. If you're without 
+     one man you can always find another to console 
+     you.
+
+He embraces her, crushing her cheek with his lips. She screams and looks 
+around for a means of escape. She sees the LEPER and there is a glimmer of 
+hope in her eyes.
+
+               VIRIDIANA 
+     Jos‚, Jos‚! For the love of God, don't let 
+     him... 
+
+The LEPER empties a bottle and begins to jeer again without moving an inch.
+
+               LEPER 
+     Nothing will happen to you, miss. We're all good 
+     folk here. Aren't we, Hobbly?
+
+It is apparent from VIRIDIANA's expression that she feels lost. She tries to 
+escape but HOBBLY takes hold of her again. She looks at him in terror.
+
+
+
+
+IN THE PARK. 
+
+The beggars have disappeared except for the old man DON ZEQUIEL, who is 
+staggering along the wall, helped by PACO. RAMONA and her daughter are 
+standing in front of the car and have seen them coming out of the house. So 
+has the DRIVER. RAMONA makes up her mind and quickly gets back into the car 
+with RITA.
+
+               RAMONA 
+          (to the driver)
+     To the village! We've got to warn ... 
+
+               DRIVER
+     They'll get them in no time. If they've stolen 
+     anything, it won't do them any good.
+
+The car starts up and moves quickly away from the estate.
+
+
+
+
+DON JAIME'S ROOM. 
+
+JORGE is stretched out unconscious. The LEPER, kneeling, is tying up his legs 
+with a curtain cord. He ties one end to the wardrobe.
+
+               HOBBLY (off)
+     Why all the fuss? It had to happen sooner or 
+     later! 
+
+               VIRIDIANA 
+     Ramona! Help!
+
+They can be heard struggling. A chair crashes to the ground. The LEPER 
+finishes tying up JORGE. His livid face looks ghostly in the half light. He 
+laughs, jerking his head back as if he is having a fit of St. Vitus' dance. 
+His work finished, he gets up and with the look of an impartial spectator 
+watches the struggle between his benefactress and the beggar.
+
+VIRIDIANA is defending herself with more energy than she ever looked capable 
+of. HOBBLY is strong, but despair provides the young woman with equal 
+strength. HOBBLY pushes her onto the bed and then jumps on her, but VIRIDIANA 
+reacts quickly and flees toward the door. But the LEPER is waiting for her 
+there and blocks her passage with folded arms. HOBBLY catches his prey again 
+and, holding her tightly in his arms, takes her once again to the bed.
+
+               VIRIDIANA 
+          (screaming)
+     Ramona! Ramona!
+
+               HOBBLY 
+          (between his teeth, with rage)
+     Quiet, my dove. Quiet, or I'll ...
+
+JORGE opens his eyes and, only half conscious, becomes aware of the struggle. 
+He desperately tries to free himself from his bonds but they do not give way. 
+With muffled voice, he calls to the LEPER.
+
+               JORGE 
+     Come here! 
+
+The LEPER jeers foolishly.
+
+               JORGE 
+     Come here, you rogue! Come here!
+
+The LEPER goes up to him and speaks in confidence, with a greedy laugh, 
+indicating the struggling couple.
+
+               LEPER 
+     Maybe afterwards he'll let me ... 
+
+               JORGE 
+     If you free me, you'll be a rich man ... 
+
+The LEPER shrugs his shoulders, laughing. 
+
+               LEPER 
+     Me, rich? Come on!
+
+               JORGE 
+     There's plenty of money in this house. Piles of 
+     it. 
+
+The LEPER becomes serious and leans a little lower in order to hear better. 
+
+               LEPER 
+     Where?
+
+Meanwhile, in the fight, VIRIDIANA ends up by falling on the bed under 
+HOBBLY. Her arms flail furiously in resistance. Her clenched hand grips the 
+cord that the beggar is using as a belt. It is Rita's jump rope, the same one 
+Don Jaime hanged himself with. As her hand touches the handle of the rope, 
+her gesture freezes. Then she lets go, dropping her arms as if giving up the 
+struggle. HOBBLY brutally turns her face to his and avidly kisses her.
+
+But Jorge's words seem to have had an effect on the LEPER.
+
+               JORGE 
+     I don't want you to untie me. Kill him and then 
+     I'll give you the money.
+
+               LEPER 
+     Where's the dough?
+
+               JORGE 
+     Kill him and I'll tell you. If I don't keep my 
+     word, you can kill me too. There are thousands 
+     of pesetas. Kill him, idiot!
+
+The LEPER trembles with cupidity. He gets up, seizing an iron fire shovel. He 
+goes toward the bed, where VIRIDIANA seems to have fainted. HOBBLY is 
+embracing her. At this point the LEPER hits HOBBLY's head with all his 
+strength. There is the sound of heavy blows then nothing more ...
+
+               JORGE 
+          (through clenched teeth)
+     Kill him.
+
+               LEPER 
+          (with a ferocious laugh)
+     That will teach you not to bother me any more, 
+     you son of a bitch.
+
+The LEPER, having satisfied his vengeance in order to gratify his avarice, 
+turns to JORGE. Pointing the shovel at him, he reminds him savagely of his 
+situation.
+
+               LEPER 
+     Where's the cash?
+
+JORGE realizes that the LEPER is quite likely to finish him off too. He is 
+even more afraid that, now that the LEPER is master of the house, he might 
+try to do something to VIRIDIANA.
+
+               JORGE 
+     There in the cupboard. It's open. 
+
+The LEPER quickly opens the cupboard and begins looking.
+
+               JORGE 
+     On the top shelf under the linen.
+
+The LEPER looks there. He seizes piles of linen and throws them on the floor. 
+Finally he finds a bundle of notes and counts them avidly.
+
+Outside the house, the car is back and stops in front of the door. RAMONA and 
+RITA get out, with the MAYOR and two POLICEMEN. They rush into the house. The 
+DRIVER is the last.
+
+               RAMONA 
+     Up there. 
+
+               MAYOR
+     Let's go!
+
+
+
+
+THE PARK, THE NEXT DAY. 
+
+Two cows are being led toward the fields by the COACHMAN, who has returned. 
+RITA is walking behind, playing with a stick and jumping happily in the 
+grass. Old MONCHO, who has also returned, is pushing the wheelbarrow beside 
+them.
+
+
+
+
+INSIDE THE HOUSE. 
+
+JORGE stands near a door to one of the rooms with a MAN who is taking 
+measurements and writing them down in a notebook.
+
+               JORGE 
+     I want a switch here; and put a plug over there.
+
+The MAN indicates the fitting on the other wall with chalk marks. He crosses 
+the room. JORGE then turns to VIRIDIANA, whose presence in the room is 
+apparent only now. She is seated a few steps away, sewing, dressed in a print 
+blouse, which gives her an unexpectedly youthful air. She seems finally to 
+have become just like any other young woman.
+
+               JORGE 
+          (amiably but insistently)
+     Have you got over the scare you had yesterday?
+
+VIRIDIANA, her eyes lowered, does not reply. JORGE turns around again and
+joins the MAN who was accompanying him. Their conversation continues, off.
+
+               JORGE 
+     You can put the other plug there at the bottom 
+     for the two floor lamps that I've bought.
+
+With her eyes, VIRIDIANA follows the young man who no longer pays any 
+attention to her. It is a look we have never seen in her. It is undefinable, 
+but seems full of gratitude, apology, and tenderness -- a woman's look.
+
+
+
+
+VIRIDIANA'S ROOM, NIGHTTIME. 
+
+VIRIDIANA pulls out a small broken mirror from a drawer. By the light of a 
+single candle, she smooths her loose hair. She has cried and there are traces 
+of tears on her cheeks. Without a doubt she is undergoing some internal 
+struggle. She stands up, picks up a garment, and leaves.
+
+
+
+
+ON THE DRIVE, NEAR VIRIDIANA'S CELL-LIKE ROOM. 
+
+A brushwood fire has been lit. MONCHO puts some leaves on it. It is cool and 
+the old servant warms his hands over the flames and then goes off to find 
+some more dry leaves.
+
+Some jazz, in contrast with Handel's Messiah, begins to play. This continues 
+until the end of the film.
+
+Little RITA, her shoulders covered by the old blanket already seen on her, is 
+sitting on a big stone near the fire. She is holding the crown of thorns dear 
+to Viridiana, looking at it curiously. While she is handling it, she pricks 
+her finger and a drop of blood appears. She sucks it. And, after looking 
+sorrowfully at the crown of thorns, she throws it onto the fire with an air 
+of detachment. The crown of thorns very soon becomes a crown of fire. Jazz 
+music.
+
+
+
+
+DON JAIME'S ROOM. 
+
+JORGE with his sleeves rolled up is washing his hands and arms. RAMONA is 
+sitting on the edge of the turned-back bed, sewing a button on JORGE's 
+jacket. It is a peaceful family scene.
+
+               JORGE 
+          (off)
+     The towel.
+
+RAMONA puts the jacket on the bed and goes to look for the towel. She hands 
+it to him. JORGE looks at her, smiling, while he is drying himself. He 
+strokes her cheek. RAMONA happily lets his hand run across her face to her 
+mouth. She covers his hand with little kisses and nibbles it gently.
+
+The jazz music gets louder; it is coming from the phonograph. The camera 
+switches briefly to the crown of thorns in flames. With a stick, a hand takes 
+it out of the flames and puts it on the ground, where it goes on burning and 
+crackling.
+
+
+
+
+IN DON JAIME'S ROOM. 
+
+JORGE and RAMONA are startled by the noise of light rapid knocks on the door. 
+
+               JORGE 
+     Who's there?
+
+RAMONA starts to leave the room but JORGE stops her. 
+
+               JORGE
+      Where are you going? Wait!
+
+Nobody appears or replies and he goes to the door himself. VIRIDIANA is 
+there. Her expression is strange. She is apparently very calm but she betrays 
+a great inner agitation. Her hair hangs loosely on her shoulders. She has 
+never looked so feminine. Her appearance takes him by surprise. 
+
+               JORGE 
+     Come in, Viridiana. Has something happened? 
+
+She does not reply. She tries to look him in the eye but, overcome, soon 
+lowers her gaze. She stands still and silent on the threshold.
+
+               JORGE 
+     Did you want to speak to me? Is there anything 
+     I can do? 
+
+JORGE tries to penetrate her thoughts but does not succeed. VIRIDIANA finally 
+looks at him imploringly as if asking to be understood and pardoned. JORGE's 
+concentrated gaze relaxes. As if by instinct, he suddenly realizes that the 
+long desired moment has arrived. The girl is at his mercy.
+
+His smile is ironic but friendly as he moves back to let her in. Seeing 
+RAMONA there, she is taken aback. Her face hardens and her body stiffens as 
+she stares at the servant and then JORGE. RAMONA herself seems petrified, 
+while JORGE, apparently at ease, tries to relax the atmosphere.
+
+               JORGE
+     I must say, I was not expecting you. We are 
+     playing cards ... 
+
+While he is talking he moves toward the table.
+
+               JORGE 
+     I hope you are not surprised by this pastime, 
+     but the evenings are long and they must be got 
+     through, somehow. But ... do sit down ...
+
+VIRIDIANA, who is a little reassured, but not completely at home, taut, with 
+a fixed look and without a word, follows him. RAMONA, who feels she is not 
+wanted, is about to leave.
+
+               JORGE 
+     Don't leave, Ramona. Come here! Mademoiselle is 
+     not proud and she doesn't mind your staying 
+     here. Isn't that so?
+
+RAMONA goes timorously to the table. VIRIDIANA's expression is blank. JORGE 
+takes up the cards and shuffles them rigorously. He does not seem to find the 
+situation at all unnatural.
+
+               JORGE 
+     You know how to play cards, cousin? No? Then sit 
+     down. I'm sure you'll like it.
+
+VIRIDIANA, still detached, decides to sit down. RAMONA remains standing, 
+partly out of distress and partly out of respect. 
+
+               JORGE 
+     You too, sit down. Come on, sit down. All cats 
+     are gray at night...
+
+RAMONA sits down and JORGE finishes shuffling the cards. 
+
+               JORGE 
+     Do you like this music, Viridiana? It's popular 
+     now. 
+
+He puts the cards on the table in front of VIRIDIANA. She is still taut and 
+silent.
+
+               JORGE 
+     Cut. Like that ...
+
+Close-up of JORGE's hand, which quietly takes VIRIDIANA's limp hand and puts 
+it on the cards, helping her with a light pressure to divide the pack. JORGE 
+then puts the cards together and begins dealing to each according to the 
+rules of the game ...
+
+               JORGE
+     You won't believe me, but the first time I met 
+     you I said to myself: "My cousin Viridiana will 
+     end up playing cards with me."
+
+He finishes dealing. RAMONA is slightly animated. VIRIDIANA, who seems to be 
+paying no attention to what she is doing, with the tips of her fingers starts 
+playing her cards.
+
+The camera now recedes at top speed, showing the room in immense perspective. 
+At the end of it, the three players are soon almost indistinct in the center 
+of the image. The shooting angle widens more and more and in the center of 
+the image, while the music continues its euphoric and frenzied rhythm, there 
+appear the words: 
+
+
+
+THE END.
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

@@ -1,0 +1,410 @@
+year	2005
+imdb score	8.3
+meta score	70
+genre	Action
+genre	Adventure
+genre	Crime
+genre	Drama
+keyword	gotham
+keyword	fight
+keyword	fear
+keyword	murder
+keyword	organized crime
+keyword	ninja
+keyword	cave
+keyword	scarecrow
+keyword	training
+keyword	detective
+keyword	mentor
+keyword	bat
+keyword	mansion
+keyword	mafia
+keyword	deception
+keyword	revenge
+keyword	butler
+keyword	gadget
+keyword	party
+keyword	anti hero
+keyword	killing spree
+keyword	gadget car
+keyword	split personality
+keyword	hand to hand combat
+keyword	fistfight
+keyword	burning building
+keyword	nonlinear timeline
+keyword	ninja army
+keyword	district attorney
+keyword	1990s
+keyword	sawed off shotgun
+keyword	armored car
+keyword	swat team
+keyword	pearl necklace
+keyword	grand piano
+keyword	head butt
+keyword	helicopter
+keyword	snow
+keyword	fire
+keyword	aerial shot
+keyword	orphan
+keyword	tough guy
+keyword	mask
+keyword	female lawyer
+keyword	billionaire
+keyword	mountaintop monastery
+keyword	birthday
+keyword	warrior
+keyword	guilt
+keyword	birthday party
+keyword	title at the end
+keyword	eurocopter as350 squirrel
+keyword	himalayas
+keyword	gasoline
+keyword	shot in the chest
+keyword	machine gun
+keyword	dark past
+keyword	mountain
+keyword	one against many
+keyword	costumed hero
+keyword	fictional city
+keyword	lawyer
+keyword	cult film
+keyword	character repeating someone else's dialogue
+keyword	stylized violence
+keyword	monastery
+keyword	gasoline can
+keyword	superhero
+keyword	body armor
+keyword	mafia boss
+keyword	disarming someone
+keyword	sack mask
+keyword	double barreled shotgun
+keyword	mortar and pestal
+keyword	man with glasses
+keyword	disguise
+keyword	mugging
+keyword	dark hero
+keyword	martial arts
+keyword	husband wife relationship
+keyword	evil doctor
+keyword	murder of family
+keyword	homelessness
+keyword	action hero
+keyword	raining
+keyword	drug smuggling
+keyword	lifting a female into the air
+keyword	terrorist plot
+keyword	recurring dream
+keyword	secret society
+keyword	dc comics
+keyword	broken leg
+keyword	push ups
+keyword	singing happy birthday
+keyword	courtroom
+keyword	frozen river
+keyword	shotgun
+keyword	poison
+keyword	neo noir
+keyword	chase
+keyword	umbrella
+keyword	prison guard
+keyword	prison
+keyword	shot in the back
+keyword	gadgetry
+keyword	gangster
+keyword	parking garage
+keyword	race against time
+keyword	good versus evil
+keyword	microwave generator
+keyword	one man army
+keyword	drawbridge
+keyword	limousine
+keyword	secret identity
+keyword	costume
+keyword	crushed to death
+keyword	attempted rape
+keyword	crime fighter
+keyword	water contamination
+keyword	super villain
+keyword	mixed martial arts
+keyword	tragic villain
+keyword	news report
+keyword	psychiatrist
+keyword	vigilante justice
+keyword	animal attack
+keyword	terrorist group
+keyword	nail gun
+keyword	vigilante
+keyword	bioterrorism
+keyword	elevator
+keyword	silencer
+keyword	loss of mother
+keyword	son seeing mother murdered
+keyword	redemption
+keyword	trial
+keyword	flashback
+keyword	monk
+keyword	explosion
+keyword	horse
+keyword	tragic hero
+keyword	private jet
+keyword	cargo ship
+keyword	taser
+keyword	strait jacket
+keyword	masked vigilante
+keyword	vigilantism
+keyword	drugs
+keyword	caped crusader
+keyword	social decay
+keyword	psychiatric hospital
+keyword	boy wearing a tuxedo
+keyword	haunted by the past
+keyword	terrorism
+keyword	masked hero
+keyword	based on comic book
+keyword	urban decay
+keyword	childhood friend
+keyword	assassin
+keyword	no title at beginning
+keyword	21st century
+keyword	falling from height
+keyword	violence
+keyword	destiny
+keyword	flower
+keyword	opera
+keyword	rescue
+keyword	shot to death
+keyword	injection
+keyword	searchlight
+keyword	person on fire
+keyword	glacier
+keyword	based on comic
+keyword	city hall
+keyword	corrupt cop
+keyword	police
+keyword	greenhouse
+keyword	board meeting
+keyword	sword fight
+keyword	origin of hero
+keyword	camouflage
+keyword	hot dog stand
+keyword	tibet
+keyword	gothic
+keyword	car rollover
+keyword	restaurant
+keyword	insane asylum
+keyword	face slap
+keyword	political corruption
+keyword	brawl
+keyword	ninjitsu
+keyword	loss of father
+keyword	airplane
+keyword	container ship
+keyword	kung fu
+keyword	falling down a well
+keyword	slow motion scene
+keyword	el train
+keyword	presumed dead
+keyword	blockbuster
+keyword	shootout
+keyword	secretary
+keyword	katana sword
+keyword	stabbed in the chest
+keyword	british actor playing american character
+keyword	drug dealer
+keyword	altered version of studio logo
+keyword	showdown
+keyword	2000s
+keyword	dream
+keyword	mounted police
+keyword	night cityscape
+keyword	police officer killed
+keyword	undercover
+keyword	dual identity
+keyword	antidote
+keyword	death of family
+keyword	mob boss
+keyword	rescued
+keyword	frozen lake
+keyword	wiretapping
+keyword	zippo lighter
+keyword	undercover cop
+keyword	falling through ice
+keyword	train explosion
+keyword	character's point of view camera shot
+keyword	judge
+keyword	jujitsu
+keyword	police chase
+keyword	birthday present
+keyword	urban setting
+keyword	hallucination
+keyword	court
+keyword	elevated train
+keyword	serial killer
+keyword	terrorist
+keyword	1980s
+keyword	honor
+keyword	exploding building
+keyword	psychopath
+keyword	cliffhanger
+keyword	megalomaniac
+keyword	gas mask
+keyword	flying
+keyword	subjective camera
+keyword	revolver
+keyword	no opening credits
+keyword	pistol
+keyword	hitman
+keyword	crime boss
+keyword	train wreck
+keyword	police corruption
+keyword	riot
+keyword	police detective
+keyword	chiroptophobia
+keyword	car chase
+keyword	falling into a well
+keyword	lifting a male into the air
+keyword	mp5
+keyword	20th century
+keyword	arson
+keyword	henchman
+keyword	ak 47
+keyword	reboot of series
+keyword	docks
+keyword	ghetto
+keyword	secret passage
+keyword	hanging upside down
+keyword	cigarette lighter
+keyword	car accident
+keyword	prison fight
+keyword	character name in title
+keyword	surprise ending
+keyword	
+cast	Christian Bale	Bruce Wayne / Batman
+cast	Michael Caine	Alfred
+cast	Liam Neeson	Ducard
+cast	Katie Holmes	Rachel Dawes
+cast	Gary Oldman	Jim Gordon
+cast	Cillian Murphy	Dr. Jonathan Crane / Scarecrow
+cast	Tom Wilkinson	Carmine Falcone
+cast	Rutger Hauer	Earle
+cast	Ken Watanabe	Ra's Al Ghul
+cast	Mark Boone Junior	Flass
+cast	Linus Roache	Thomas Wayne
+cast	Morgan Freeman	Lucius Fox
+cast	Larry Holden	Finch
+cast	Gerard Murphy	Judge Faden
+cast	Colin McFarlane	Loeb
+cast	Sara Stewart	Martha Wayne
+cast	Gus Lewis	Bruce Wayne - age 8
+cast	Richard Brake	Joe Chill
+cast	Rade Serbedzija	Homeless Man
+cast	Emma Lockhart	Rachel Dawes - age 8
+cast	Christine Adams	Jessica
+cast	Catherine Porter	Blonde Female Reporter / Assassin
+cast	John Nolan	Fredericks
+cast	Karen David	Courthouse Reporter #1
+cast	Jonathan D. Ellis	Courthouse Reporter #2
+cast	Tamer Hassan	Faden's Limo Driver
+cast	Ronan Leahy	Uniformed Policeman #1
+cast	Vincent Wong	Old Asian Prisoner
+cast	Tom Wu	Bhutanese Prison Guard #1
+cast	Mark Chiu	Bhutanese Prison Guard #2
+cast	Turbo Kong	Enormous Prisoner
+cast	Sai-Kit Yung	Chinese Police Officer
+cast	Chike Chan	Chinese Police Officer
+cast	Tenzin Clive Ball	Himalayan Child
+cast	Tenzin Gyurme	Old Himalayan Man
+cast	Jamie Hayden	Stocky Chinese Man
+cast	David Murray	Jumpy Thug
+cast	John Kazek	Dock Thug #2
+cast	Darragh Kelly	Dock Thug #3
+cast	Patrick Nolan	Dock Cop #1
+cast	Joseph Rye	Dock Cop #2
+cast	Kwaku Ankomah	Dock Cop #3
+cast	Jo Martin	Police Prison Official
+cast	Charles Edwards	Wayne Enterprises Executive
+cast	Lucy Russell	Female Restaurant Guest
+cast	Timothy Deenihan	Male Restaurant Guest
+cast	David Bedella	Maitre D
+cast	Flavia Masetto	Restaurant Blonde #1
+cast	Emily Steven-Daly	Restaurant Blonde #2
+cast	Martin McDougall	Gotham Dock Employee
+cast	Noah Lee Margetts	Arkham Thug #1
+cast	Joe Hanley	Arkham Thug #2
+cast	Karl Shiels	Arkham Thug #3
+cast	Roger Griffiths	Arkham Uniformed Policeman
+cast	Stephen Walters	Arkham Lunatic
+cast	Richard Laing	Arkham Chase Cop
+cast	Matt Miller	Gotham Car Cop #3
+cast	Risteard Cooper	Captain Simonson
+cast	Shane Rimmer	Older Gotham Water Board Technician
+cast	Jeremy Theobald	Younger Gotham Water Board Technician
+cast	Alexandra Bastedo	Gotham Society Dame
+cast	Soo Hee Ding	Farmer
+cast	Conn Horgan	Monorail Driver
+cast	Phill Curr	Transit Cop
+cast	Jack Gleeson	Little Boy
+cast	John Judd	Narrows Bridge Cop
+cast	Sarah Wateridge	Mrs. Dawes
+cast	Charlie Kranz	Basement Club Manager
+cast	Terry McMahon	Bad Swat Cop #1
+cast	Cedric Young	Liquor Store Owner
+cast	Tim Booth	Victor Zsaz
+cast	Tom Nolan	Valet
+cast	Leon Delroy Williams	Pedestrian
+cast	Roger Yuan	Hazmat Technician
+cast	Joe Sargent	Narrows Teenager #1
+cast	Mel Taylor	Narrows Resident
+cast	Ilyssa Fradin	Barbara Gordon
+cast	Andrew Pleavin	Uniformed Policeman #2
+cast	Jeff Christian	Driving Cop
+cast	John Burke	Arkham Lunatic Cell Mate
+cast	Earlene Bentley	Arkham Asylum Nurse
+cast	Alex Moggridge	Arkham Asylum Orderly
+cast	Jay Buozzi	Asian Man - Ra's Al Ghul Decoy
+cast	Jordan Shaw	African Boy in Rags
+cast	Omar Mustafa	Falafel Stand Vendor
+cast	Patrick Pond	Opera Performer #1 Faust- Bass
+cast	Poppy Tierney	Opera Performer #2 Margaret - Soprano
+cast	Rory Campbell	Opera Performer #3 Mefistofele - Tenor
+cast	Fabio Cardascia	Caterer
+cast	Spencer Wilding	League of Shadows Warriors
+cast	Mark Rhino Smith	League of Shadows Warriors
+cast	Khan Bonfils	League of Shadows Warriors
+cast	Dave Legeno	League of Shadows Warriors
+cast	Ruben Halse	League of Shadows Warriors
+cast	Rodney Ryan	League of Shadows Warriors
+cast	Dominic Burgess	Narrows Cop
+cast	Nadia Cameron-Blakey	Additional Restaurant Guest #1
+cast	Mark Straker	Male Restaurant Guest #2
+cast	T.J. Ramini	Crane Thug #1
+cast	Kieran Hurley	Crane Thug #2
+cast	Emmanuel Idowu	Narrows Teenager #2
+cast	Jeff Tanner	Bridge Cop
+cast	Dean Alexandrou	League of Shadows Warriors
+cast	Joey Ansah	League of Shadows Warriors
+cast	Anoushka Arden	Juror
+cast	Alex Argenti	Countess at the Opera
+cast	Lasco Atkins	Passenger
+cast	Morne Botes	Party Animal
+cast	Kimber Closson	Extra
+cast	Thomas D. Craven	Thug
+cast	Ray Donn	Gotham Police Officer
+cast	James Embree	Fighting Shadow Warrior
+cast	Jon Foo	League of Shadows Warriors
+cast	Tommy Gunn	Shadow Warrior
+cast	Philip Harvey	Victor Zsasz Attorney
+cast	Adam Hawkes	Gotham Police Officer
+cast	Scott Hinds	League of Shadows Warriors
+cast	Gil Kolirin	Narrows Person
+cast	Jeff Lipman	Falcone Bodyguard
+cast	Emil Martirossian	League of Shadows Warriors
+cast	Jane Osborn	Dancer in Opera
+cast	Ernest Pierce	Swat Team Member
+cast	Dan Poole	Narrows Rioter
+cast	Abdul Popoola	Court Reporter
+cast	Marc Radz	Gotham Swat
+cast	Mike Savva	Arkham Cop
+cast	Michael Stailey	Driver
+cast	Mark Strange	League of Shadow Warriors
+cast	Chuen Tsou	Shadow Warrior

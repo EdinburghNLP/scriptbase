@@ -1,0 +1,118 @@
+year	1989
+imdb score	7.6
+meta score	57
+genre	Drama
+genre	Family
+genre	Fantasy
+genre	Sport
+keyword	farmer
+keyword	baseball
+keyword	iowa
+keyword	ghost
+keyword	farm
+keyword	hearing voices
+keyword	shoeless joe jackson
+keyword	author
+keyword	baseball field
+keyword	volkswagen microbus
+keyword	family farm
+keyword	father son relationship
+keyword	inspiring story
+keyword	cornfield
+keyword	black sox scandal
+keyword	recluse
+keyword	reference to josef stalin
+keyword	supernatural power
+keyword	christmas
+keyword	realisation of dreams
+keyword	pacifist
+keyword	pretending to have a gun in one's pocket
+keyword	1970s
+keyword	athlete
+keyword	volkswagen
+keyword	father son estrangement
+keyword	road trip
+keyword	traffic jam
+keyword	male bonding
+keyword	baseball movie
+keyword	child
+keyword	kidnapping
+keyword	scoreboard
+keyword	telephone booth
+keyword	voice over narration
+keyword	fenway park
+keyword	reconciliation
+keyword	mortgage
+keyword	small town
+keyword	boston massachusetts
+keyword	choking
+keyword	doctor
+keyword	school board
+keyword	1980s
+keyword	prologue
+keyword	regret
+keyword	marriage
+keyword	miracle
+keyword	volkswagen bus
+keyword	second chance
+keyword	child in danger
+keyword	ballpark
+keyword	reference to eva braun
+keyword	lifting person in air
+keyword	based on book
+keyword	independent film
+keyword	surprise ending
+keyword	
+cast	Kevin Costner	Ray Kinsella
+cast	Amy Madigan	Annie Kinsella
+cast	Gaby Hoffmann	Karin Kinsella
+cast	Ray Liotta	Shoeless Joe Jackson
+cast	Timothy Busfield	Mark
+cast	James Earl Jones	Terence Mann
+cast	Burt Lancaster	Dr. Archibald 'Moonlight' Graham
+cast	Frank Whaley	Archie Graham
+cast	Dwier Brown	John Kinsella
+cast	James Andelin	Feed Store Farmer
+cast	Mary Anne Kean	Feed Store Lady
+cast	Fern Persons	Annie's Mother
+cast	Kelly Coffield Park	Dee, Mark's Wife
+cast	Michael Milhoan	Buck Weaver - 3B
+cast	Steve Eastin	Eddie Cicotte - P
+cast	Charles Hoyes	Swede Risberg - C
+cast	Art LaFleur	Chick Gandil - 1B
+cast	Lee Garlington	Beulah Gasnick
+cast	Mike Nussbaum	Principal
+cast	Larry Brandenburg	PTA Heckler
+cast	Mary McDonald Gershon	PTA Heckler
+cast	Robert Kurcz	PTA Heckler
+cast	Don John Ross	Boston Butcher
+cast	Beatrice Fredman	Boston Yenta
+cast	Geoffrey Nauffts	Boston Pump Jockey
+cast	Anne Seymour	Chisolm Newspaper Publisher
+cast	C. George Biasi	Man in Bar #1
+cast	Howard Sherf	Man in Bar #2
+cast	Joseph R. Ryan	Man in Bar #3
+cast	Joe Glasberg	Customer
+cast	Mark Danker	Additional Ballplayer
+cast	Frank Dardis	Additional Ballplayer
+cast	Jim Doty	Additional Ballplayer
+cast	Mike Goad	Additional Ballplayer
+cast	Jay Hemond	Additional Ballplayer
+cast	Mike Hodge	Additional Ballplayer
+cast	Steve Jenkins	Additional Ballplayer
+cast	Terry Kelleher	Additional Ballplayer
+cast	Ron Lucas	Additional Ballplayer
+cast	Fred Martin	Additional Ballplayer
+cast	Curt McWilliams	Additional Ballplayer
+cast	Jude Milbert	Additional Ballplayer
+cast	Steve Olberding	Additional Ballplayer
+cast	Gene Potts	Additional Ballplayer
+cast	James Roth	Additional Ballplayer
+cast	Paul Scherrman	Additional Ballplayer
+cast	Dale Till	Additional Ballplayer
+cast	Brian Waldvogel	Additional Ballplayer
+cast	Brian E. Frankish	Clean-Shaven Umpire
+cast	Jeffrey Neal Silverman	Clean-Shaven Centerfielder
+cast	Ben Affleck	Baseball Fan at Fenway Park
+cast	Matt Damon	Baseball Fan at Fenway Park
+cast	Kevin Fennessy	Baseball Fan

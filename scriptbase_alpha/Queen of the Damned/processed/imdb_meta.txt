@@ -1,0 +1,226 @@
+year	2002
+imdb score	5.1
+meta score	30
+genre	Fantasy
+genre	Horror
+genre	Music
+keyword	vampire
+keyword	queen
+keyword	rock star
+keyword	fame
+keyword	fatal attraction
+keyword	prey
+keyword	singer
+keyword	dream
+keyword	press conference
+keyword	telekinesis
+keyword	interspecies romance
+keyword	voice over narration
+keyword	sequel
+keyword	killer
+keyword	skeleton
+keyword	vampirism
+keyword	cold blooded killer
+keyword	hand to hand combat
+keyword	turned to stone
+keyword	mediterranean
+keyword	killing spree
+keyword	immortality
+keyword	hollywood sign
+keyword	media
+keyword	secret society
+keyword	murderer
+keyword	coven
+keyword	paranormal investigator
+keyword	rose petal
+keyword	island
+keyword	predator
+keyword	bloodshed
+keyword	decapitation
+keyword	sadomasochism
+keyword	groupie
+keyword	superiority complex
+keyword	stardom
+keyword	england
+keyword	evil versus evil
+keyword	female vampire
+keyword	species
+keyword	inhumanity
+keyword	burned alive
+keyword	fire
+keyword	slide projector
+keyword	cemetery
+keyword	neck breaking
+keyword	secret passageway
+keyword	predator turns victim
+keyword	new orleans louisiana
+keyword	death
+keyword	bloody mouth
+keyword	reverse footage
+keyword	flashback
+keyword	rock band
+keyword	heart in hand
+keyword	part computer animation
+keyword	reference to elvis presley
+keyword	rolling stone magazine
+keyword	1780s
+keyword	reading magazine
+keyword	severed head
+keyword	burned to death
+keyword	levitation
+keyword	los angeles california
+keyword	music video
+keyword	nightclub
+keyword	mobbed by fans
+keyword	homoeroticism
+keyword	goth
+keyword	blood
+keyword	evil woman
+keyword	violin
+keyword	hunting people
+keyword	martial arts
+keyword	misanthropy
+keyword	blood drinking
+keyword	spontaneous combustion
+keyword	supremacy
+keyword	mother
+keyword	misanthrope
+keyword	speciesism
+keyword	violinist
+keyword	redheaded woman
+keyword	blood draining
+keyword	fans
+keyword	night
+keyword	statue
+keyword	concert
+keyword	london england
+keyword	undead
+keyword	gothic
+keyword	death valley
+keyword	rock concert
+keyword	star died before release
+keyword	person on fire
+keyword	supernatural
+keyword	california
+keyword	murder
+keyword	blood spatter
+keyword	evil man
+keyword	episcopalian
+keyword	cold blooded murder
+keyword	bitten in the neck
+keyword	watching tv
+keyword	evil queen
+keyword	homosexual subtext
+keyword	korn
+keyword	crypt
+keyword	supernatural power
+keyword	revenge
+keyword	killer vs killer
+keyword	rock 'n' roll
+keyword	vampire human love
+keyword	title in title
+keyword	magazine
+keyword	predator chases prey
+keyword	living dead
+keyword	throat slitting
+keyword	loneliness
+keyword	ginger
+keyword	femme fatale
+keyword	woman loyal to bad man
+keyword	mojave desert
+keyword	egyptian
+keyword	painting
+keyword	secret organization
+keyword	airport
+keyword	diary
+keyword	human prey
+keyword	fetishism
+keyword	based on novel
+cast	Aaliyah	Queen Akasha
+cast	Stuart Townsend	Lestat de Lioncourt
+cast	Marguerite Moreau	Jesse Reeves
+cast	Vincent Perez	Marius de Romanus
+cast	Paul McGann	David Talbot
+cast	Lena Olin	Maharet
+cast	Christian Manon	Mael
+cast	Claudia Black	Pandora
+cast	Bruce Spence	Khayman
+cast	Matthew Newton	Armand
+cast	Tiriel Mora	Roger
+cast	Megan Dorman	Maudy
+cast	Johnathan Devoy	James
+cast	Robert Farnham	Alex
+cast	Conrad Standish	T.C.
+cast	Richael Tanner	Young Jesse
+cast	Christopher Kirby	New York Vampire
+cast	MiG Ayesa	New York Vampire
+cast	Joe Manning	New York Vampire
+cast	Pip Mushin	Guy Being Sucked
+cast	Kat Rhodes	Vampire Girl
+cast	Chris Connelly	Mortal Yuppie
+cast	Renee De Bondt	Vampire Girl Sucking
+cast	Renee Quast	Vampire Girl Sucking
+cast	Dan Zizys	Vampire Doorman
+cast	Tayler Kane	Club Vampire
+cast	Imogen Annesley	Club Vampire
+cast	Daniel Schlusser	Club Vampire
+cast	Rowland S. Howard	Vampire Guitarist
+cast	Hugo Race	Vampire Bass Player
+cast	Robin Casinader	Vampire Pianist
+cast	Aimee Nash	Vampire Singer
+cast	Nicole Fantl	London Groupie
+cast	Alyssa McClelland	London Groupie
+cast	Marnie Reece-Wilmore	LA Groupie
+cast	Andrew L. Urban	Himself
+cast	Jo Buckley	French Journalist
+cast	Dino Marnika	Music Journalist
+cast	Kirsty Meares	Lifestyle Journalist
+cast	Bruce Myles	Talamascan
+cast	Marg Downey	Talamascan
+cast	John Dicks	Talamascan
+cast	Fouad Harraka	Greek Father
+cast	Mandie Vieira	Young Violin Player
+cast	Bobby Bright	Sound Engineer
+cast	Darren Wilson	Sound Engineer
+cast	Russell Kiefel	Fire Marshall
+cast	Nandila Gaskell	West Indian Girl
+cast	Nalishebo Gaskell	West Indian Girl
+cast	Tamasin Ramsay	Woman Victim
+cast	Michael Azria	VW Driver
+cast	Arroyn Lloyd	VW Passenger
+cast	Antonios Greige	Camel Driver
+cast	Nicki Paull	Flight Attendant
+cast	Peter Olsen	Enkil
+cast	Franklyn Ajaye	French Dealer
+cast	Duncan Myers	Rent Boy
+cast	Mark O'Halloran	Rent Boy
+cast	Twapa Kapote	Prostitute
+cast	Ron Bingham	Businessman
+cast	Strawberry Fields	Girl with Businessman
+cast	Bob Halsall	Businessman with Girl
+cast	Antony Neate	Euro Trash Vampire
+cast	Karoline Hohlweg	Euro Trash Vampire
+cast	Rochelle Ward	Euro Trash Vampire
+cast	Anni Finsterer	Euro Trash Vampire
+cast	Alistair Reid	Euro Trash Vampire
+cast	Suzi Dougherty	Pale Faced Vampire
+cast	Humphrey Bower	Nigel
+cast	Pia Miranda	Jesse's Roommate
+cast	Simon Wilton	Vampire in the Park
+cast	Enrico Mammarella	Greek Fisherman
+cast	Serena Altschul	Herself
+cast	Nick Gill	Band Member
+cast	Becky Thomas	Band Member
+cast	Jonathan Davis	Scalper
+cast	Nathan Hill	Attacking Vampire
+cast	Felicity Andersen	Flight Attendant
+cast	Tracy Downs	Extra
+cast	Daniel Gardner	Lestat's Fan
+cast	Shayne Greenman	Band Member
+cast	Rashad Haughton	Queen Akasha
+cast	Brendan Parry Kaufmann	Concert Goer
+cast	David Lorensene	Vampire
+cast	Anita Marelic	Goth Girl
+cast	Ruth Palma	Dancer
+cast	Jet Tsui	Asian Vampire
+cast	Richard Wiggan	Plantation Worker

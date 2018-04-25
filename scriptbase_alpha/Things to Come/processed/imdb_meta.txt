@@ -1,0 +1,69 @@
+year	1936
+imdb score	6.8
+meta score	N/A
+genre	Sci-Fi
+keyword	plague
+keyword	progress
+keyword	1940s
+keyword	scientist
+keyword	world war two
+keyword	2030s
+keyword	philosopher
+keyword	science
+keyword	london england
+keyword	philosophy
+keyword	anti war
+keyword	1960s
+keyword	rocket to the moon
+keyword	aviation
+keyword	barbarism
+keyword	science runs amok
+keyword	post apocalypse
+keyword	future
+keyword	machinery
+keyword	utopia quest
+keyword	fanatic
+keyword	technology
+keyword	sleeping gas
+keyword	techne
+keyword	warrior
+keyword	rocket
+keyword	barefoot
+keyword	future shock
+keyword	technology gone amok
+keyword	rubble
+keyword	based on novel
+keyword	
+cast	Raymond Massey	John Cabal / Oswald Cabal
+cast	Edward Chapman	Pippa Passworthy / Raymond Passworthy
+cast	Ralph Richardson	The Boss
+cast	Margaretta Scott	Roxana / Rowena
+cast	Cedric Hardwicke	Theotocopulos
+cast	Maurice Braddell	Dr. Harding
+cast	Sophie Stewart	Mrs. Cabal
+cast	Derrick De Marney	Richard Gordon
+cast	Ann Todd	Mary Gordon
+cast	Pearl Argyle	Catherine Cabal
+cast	Kenneth Villiers	Maurice Passworthy
+cast	Ivan Brandt	Morden Mitani
+cast	Anne McLaren	The Child
+cast	Patricia Hilliard	Janet Gordon
+cast	Charles Carson	Great Grandfather
+cast	Gordon Bailey	Undetermined role
+cast	Patrick Barr	World Transport Official
+cast	Noel Brophy	Irishman
+cast	Tony Bruce	Undetermined role
+cast	John Clements	The Airman
+cast	Hilda Davies	Undetermined role
+cast	Aubrey Dexter	
+cast	Don Gemmell	Undetermined role
+cast	Florence Harwood	Undetermined role
+cast	Anthony Holles	Simon Burton
+cast	Allan Jeayes	Mr. Cabal
+cast	Eugene Leahy	Undetermined role
+cast	Pickles Livingston	Horrie Passworthy
+cast	Kim Peacock	Undetermined role
+cast	Clarence Rigge	
+cast	George Sanders	Pilot
+cast	Abraham Sofaer	The Jew
+cast	Terry-Thomas	Man of the Future

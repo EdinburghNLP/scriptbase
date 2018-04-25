@@ -1,0 +1,192 @@
+year	2004
+imdb score	6.8
+meta score	72
+genre	Action
+genre	Adventure
+genre	Fantasy
+genre	Sci-Fi
+keyword	nazi
+keyword	hero
+keyword	demon
+keyword	occult
+keyword	superhero
+keyword	assassin
+keyword	love triangle
+keyword	throat slitting
+keyword	dark horse comics
+keyword	blood
+keyword	funeral
+keyword	roof
+keyword	nazi experiment
+keyword	mental institution
+keyword	exploding building
+keyword	one man army
+keyword	title appears in writing
+keyword	black comedy
+keyword	brawl
+keyword	halloween
+keyword	moldavia
+keyword	battle
+keyword	based on comic
+keyword	electrocution
+keyword	combat photography
+keyword	slide locked back
+keyword	sword fight
+keyword	wilhelm scream
+keyword	murder
+keyword	fistfight
+keyword	kicked in the face
+keyword	subway
+keyword	eaten alive
+keyword	martial arts
+keyword	world war two
+keyword	hit by a car
+keyword	corpse
+keyword	stabbed in the chest
+keyword	shootout
+keyword	car accident
+keyword	explosion
+keyword	trap
+keyword	shot in the shoulder
+keyword	pay phone
+keyword	apocalypse
+keyword	fbi
+keyword	hanged man
+keyword	person on fire
+keyword	pyrokinesis
+keyword	six pack
+keyword	steampunk
+keyword	stabbed to death
+keyword	wrestling
+keyword	fire
+keyword	shot in the leg
+keyword	new york
+keyword	father figure
+keyword	sword
+keyword	one against many
+keyword	paranormal phenomena
+keyword	rubik's cube
+keyword	crushed to death
+keyword	cemetery
+keyword	resurrection
+keyword	gunfight
+keyword	rosary
+keyword	traffic
+keyword	stabbed in the arm
+keyword	revolver
+keyword	based on comic book
+keyword	stabbed in the throat
+keyword	disfigurement
+keyword	milk
+keyword	shot to death
+keyword	telepathy
+keyword	tunnel
+keyword	man eating monster
+keyword	underwater scene
+keyword	hand to hand combat
+keyword	owning many cats
+keyword	reverse footage
+keyword	clairvoyance
+keyword	grave
+keyword	face slap
+keyword	cigar smoking
+keyword	destiny
+keyword	repeated line
+keyword	museum
+keyword	falling from height
+keyword	no opening credits
+keyword	secret government organisation
+keyword	showdown
+keyword	garbage truck
+keyword	action hero
+keyword	candy bar
+keyword	pistol
+keyword	opening action scene
+keyword	paranormal investigation
+keyword	1940s
+keyword	russia
+keyword	anti hero
+keyword	cartoon on tv
+keyword	severed tongue
+keyword	fbi agent
+keyword	reanimated corpse
+keyword	vision
+keyword	self mutilation
+keyword	professor
+keyword	good versus evil
+keyword	impalement
+keyword	alternate dimension
+keyword	aquarium
+keyword	stabbed in the leg
+keyword	torso cut in half
+keyword	outcast
+keyword	brunette
+keyword	cover up
+keyword	narration from the grave
+keyword	new york city
+keyword	soul
+keyword	megalomaniac
+keyword	severed hand
+keyword	mixed martial arts
+keyword	grenade
+keyword	surprise after end credits
+keyword	fighting in the air
+keyword	decomposing body
+keyword	stabbed in the back
+keyword	exploding body
+keyword	hit by a train
+keyword	carousel
+keyword	kitten
+keyword	character name in title
+keyword	title spoken by character
+cast	Ron Perlman	Hellboy
+cast	John Hurt	Trevor "Broom" Bruttenholm
+cast	Selma Blair	Liz Sherman
+cast	Rupert Evans	John Myers
+cast	Karel Roden	Grigori Rasputin
+cast	Jeffrey Tambor	Tom Manning
+cast	Doug Jones	Abe Sapien
+cast	Brian Steele	Sammael
+cast	Ladislav Beran	Karl Ruprecht Kroenen
+cast	Biddy Hodson	Ilsa Haupstein
+cast	Corey Johnson	Agent Clay
+cast	Kevin Trainor	Young "Broom"
+cast	Brian Caspe	Agent Lime
+cast	James Babson	Agent Moss
+cast	Stephen Fisher	Agent Quarry
+cast	Garth Cooper	Agent Stone
+cast	Angus MacInnes	Sgt. Whitman
+cast	Jim Howick	Cpl. Matlin
+cast	Mark Taylor	Truck Driver
+cast	Daniel Aarsman	Kid
+cast	Bettina Ask	Kid
+cast	Alvaro Navarro	Kid
+cast	Emilio Navarro	Kid
+cast	Rory Copus	Kid on Rooftop
+cast	Tara Hugo	Doctor Jenkins
+cast	Richard Haas	Second Doctor
+cast	Andrea Miltner	Doctor Marsh
+cast	Jo Eastwood	Down's Patient
+cast	Charles Grisham	Museum Guard
+cast	Jan Holicek	Museum Guard
+cast	Jeremy Zimmermann	Lobby Guard
+cast	Monty L. Simons	Orderly
+cast	Pavel Cajzl	Sherpa Guide
+cast	Andrea Stuart	Girl with Kittens
+cast	William Hoyland	Von Krupt
+cast	Millie Wilkie	Young Liz
+cast	Bob Sherman	Television Host
+cast	Ellen Savaria	Blonde Television Reporter
+cast	Petr Sekanina	German Scientist
+cast	Ales Kosnar	German Scientist
+cast	Justin Svoboda	Young Guy
+cast	Winter Ave Zoli	Girlfriend
+cast	Santiago Segura	Train Driver
+cast	Albert Moy	Train Driver
+cast	Dennison Betram	Cab Driver
+cast	Guillermo del Toro	Guy Dressed as Dragon
+cast	David Hyde Pierce	Abe Sapien
+cast	Todd Kramer	Radioman
+cast	Michael Lindsay	Security Guard
+cast	Mike Mignola	Knight
+cast	Helene Wilson	Liz Sherman's Mother

@@ -1,0 +1,288 @@
+year	2008
+imdb score	6.9
+meta score	61
+genre	Comedy
+genre	Drama
+keyword	private school
+keyword	school
+keyword	business
+keyword	death
+keyword	crime scene
+keyword	high school sweetheart
+keyword	suicide
+keyword	biohazard
+keyword	climbing a railroad trestle
+keyword	licking
+keyword	shooting one's self in the head
+keyword	blood stain
+keyword	used car salesman
+keyword	lesbian
+keyword	boy
+keyword	problem child
+keyword	gun held to one's head
+keyword	police
+keyword	donating blood
+keyword	house cleaner
+keyword	aunt nephew relationship
+keyword	flashback
+keyword	black comedy
+keyword	bartender
+keyword	working class
+keyword	bra
+keyword	decomposing body
+keyword	tears
+keyword	motel
+keyword	women's bathroom
+keyword	family relationships
+keyword	crying
+keyword	police investigation
+keyword	amputee
+keyword	panties
+keyword	trailer park
+keyword	diner
+keyword	money
+keyword	cleaning
+keyword	cigarette butt
+keyword	truck
+keyword	van
+keyword	sporting goods store
+keyword	remote control
+keyword	birthday
+keyword	albuquerque new mexico
+keyword	temporary tattoo
+keyword	toy helicopter
+keyword	being followed
+keyword	newspaper ad
+keyword	watching tv
+keyword	illegitimate son
+keyword	bare butt
+keyword	high school friend
+keyword	pot smoking
+keyword	swing
+keyword	cleaning supplies store
+keyword	reference to god
+keyword	murder
+keyword	siamese cat
+keyword	babysitter
+keyword	shell
+keyword	storytelling
+keyword	severed finger
+keyword	seminar
+keyword	talking to self in mirror
+keyword	old woman
+keyword	horse ride
+keyword	school principal
+keyword	memento
+keyword	uniform
+keyword	mother son relationship
+keyword	baby shower
+keyword	montage
+keyword	house on fire
+keyword	birth control patch
+keyword	cb radio
+keyword	fire
+keyword	shower
+keyword	selling shrimp
+keyword	apology
+keyword	supermarket
+keyword	dead body
+keyword	popcorn
+keyword	vacuum cleaner
+keyword	ex schoolmate
+keyword	mother daughter relationship
+keyword	elementary school
+keyword	break up
+keyword	embarrassment
+keyword	grandfather grandson relationship
+keyword	flashlight
+keyword	candy
+keyword	fanny pack
+keyword	elevator
+keyword	nudity
+keyword	slow motion scene
+keyword	hazmat suit
+keyword	hazardous material
+keyword	shooting off one's finger
+keyword	gunshot wound
+keyword	mobile phone
+keyword	sense of smell
+keyword	truck driver
+keyword	talking to heaven
+keyword	suicide by gunshot
+keyword	trailer house
+keyword	policeman
+keyword	photograph
+keyword	driving
+keyword	lesbian subtext
+keyword	blood donation
+keyword	wealthy woman
+keyword	small business owner
+keyword	loss of parent
+keyword	lie
+keyword	husband wife relationship
+keyword	police detective
+keyword	real estate agent
+keyword	tattoo
+keyword	stuck in an elevator
+keyword	cell phone
+keyword	small business
+keyword	bathtub
+keyword	reference to coca cola
+keyword	train
+keyword	post mortem
+keyword	model builder
+keyword	accidentally setting a fire
+keyword	shooting
+keyword	driving a car into a building
+keyword	one armed man
+keyword	pregnancy
+keyword	reference to disneyland
+keyword	drug use
+keyword	maggot
+keyword	scam
+keyword	pistol
+keyword	grocery store
+keyword	tv news
+keyword	sunglasses
+keyword	fired from the job
+keyword	sex
+keyword	unfaithfulness
+keyword	dysfunctional family
+keyword	mexican restaurant
+keyword	corpse
+keyword	railroad trestle
+keyword	new mexico
+keyword	old man
+keyword	american flag
+keyword	kissing
+keyword	motel room
+keyword	medication
+keyword	slacker
+keyword	blood spatter
+keyword	reference to howard johnson's restaurant
+keyword	key
+keyword	financial problems
+keyword	salesman
+keyword	lawn sprinkler
+keyword	shotgun
+keyword	untucked shirt flap
+keyword	binoculars
+keyword	girl
+keyword	title directed by female
+keyword	father daughter relationship
+keyword	burning house
+keyword	male nudity
+keyword	shrimp
+keyword	cleaning lady
+keyword	dressing
+keyword	fire extinguisher
+keyword	liar
+keyword	mirror
+keyword	blood
+keyword	swimming pool
+keyword	death of husband
+keyword	restaurant
+keyword	ex cheerleader
+keyword	business card
+keyword	extramarital affair
+keyword	memory
+keyword	party
+keyword	childhood memory
+keyword	telephone call
+keyword	candle
+keyword	fireman
+keyword	housemaid
+keyword	fast food restaurant
+keyword	vomit
+keyword	waitress
+keyword	birthday party
+keyword	childhood photo
+keyword	precocious child
+keyword	shoes
+keyword	janitorial duties
+keyword	adultery
+keyword	gunshot
+keyword	fire truck
+keyword	sea food
+keyword	car accident
+keyword	cleaning crew
+keyword	school uniform
+keyword	kiss
+keyword	train tracks
+keyword	maid
+keyword	birthday cake
+keyword	married lover
+keyword	licking a wall
+keyword	single mother
+keyword	teacher
+keyword	biohazard removal
+keyword	mattress
+keyword	sister sister relationship
+keyword	police officer
+keyword	undressing
+keyword	eight year old
+keyword	model airplane
+keyword	kitten
+keyword	sex in a motel
+keyword	suicide of mother
+keyword	birthday present
+keyword	belief in heaven
+keyword	gun shop
+keyword	infidelity
+keyword	marijuana
+keyword	following someone
+keyword	cake
+keyword	reference to movie of the week
+keyword	heaven
+keyword	mathematics
+keyword	contamination
+keyword	candy store
+keyword	dead mother
+keyword	death of mother
+keyword	independent film
+keyword	title spoken by character
+cast	Amy Adams	Rose
+cast	Emily Blunt	Norah
+cast	Alan Arkin	Joe
+cast	Jason Spevack	Oscar
+cast	Steve Zahn	Mac
+cast	Mary Lynn Rajskub	Lynn
+cast	Clifton Collins Jr.	Winston
+cast	Eric Christian Olsen	Randy
+cast	Paul Dooley	Sherm
+cast	Kevin Chapman	Carl
+cast	Judith Jones	Paula Datzman-Mead
+cast	Amy Redford	Heather
+cast	Christopher Dempsey	Gun Shop Suicide
+cast	Vic Browder	Gun Shop Owner
+cast	Ivan Brutsche	Above and Beyond Worker
+cast	Arron Shiver	Detective
+cast	Ralph Jason Aukison	Gun Shop Employee #1
+cast	Cliff Garstka Sr.	Gun Shop Employee #2
+cast	Charles Domenici	Gun Shop Employee #3
+cast	Susie Yip	Mrs. Kim
+cast	Mike Miller	Counselor
+cast	Sarah Hudnut	Teacher
+cast	Anya Alyassin	Mac's Daughter
+cast	Pab Schwendimann	Apartment Super
+cast	William Sterchi	Candy Store Manager
+cast	Amber Midthunder	Candy Store Girl
+cast	Angelique Midthunder	Girl's Mother
+cast	Olive Gallagher	Seminar Speaker
+cast	Lois Geary	Mrs. Davis
+cast	Frank E. Cruz	Shrimp Truck Driver
+cast	Esodie Geiger	Reporter
+cast	Kevin Wiggins	Police Officer
+cast	Epifanio Hernández	Restaurant Owner
+cast	McKenna Hutton	Young Rose
+cast	Mason Frank	Young Norah
+cast	Marya Beauvais	TV Waitress / Mother
+cast	Maddie Corman	Mousy Baby Shower Guest
+cast	Rebekah Wiggins	Peppy Baby Shower Guest
+cast	Kristin Reese	Hinkle's Employee Singer #1
+cast	Veronica Hernandez	Hinkle's Employee Singer #2
+cast	Jourdan Reese	Hinkle's Employee Singer #3
+cast	Josh Berry	TV Detective
+cast	Jason Henning	Guy In White Coat
+cast	Kathy Lamkin	Fair N Square Owner
+cast	Davin Ruggles	Paulas daughter

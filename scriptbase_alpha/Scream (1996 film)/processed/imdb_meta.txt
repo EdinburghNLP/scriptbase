@@ -1,0 +1,194 @@
+year	1996
+imdb score	7.2
+meta score	65
+genre	Crime
+genre	Horror
+genre	Mystery
+keyword	death
+keyword	mask
+keyword	murder
+keyword	tabloid
+keyword	high school
+keyword	news reporter
+keyword	teenager
+keyword	california
+keyword	gore
+keyword	deputy
+keyword	fear
+keyword	group of friends
+keyword	serial killer
+keyword	masked killer
+keyword	fire
+keyword	betrayal
+keyword	high school student
+keyword	cameraman
+keyword	horror spoof
+keyword	first of series
+keyword	television
+keyword	subjective camera
+keyword	father daughter relationship
+keyword	threatened with a knife
+keyword	friendship
+keyword	rescue
+keyword	video store clerk
+keyword	critically acclaimed
+keyword	false accusation
+keyword	discovery
+keyword	voice changer
+keyword	telephone terror
+keyword	post modern
+keyword	divorce
+keyword	climbing through a window
+keyword	throat slitting
+keyword	father son relationship
+keyword	disembowelment
+keyword	villain
+keyword	blood
+keyword	homoerotic
+keyword	weapon
+keyword	television reporter
+keyword	news report
+keyword	cut arm
+keyword	one word title
+keyword	suspicion
+keyword	self referential
+keyword	hiding in a closet
+keyword	knife in back
+keyword	psychopath
+keyword	beer
+keyword	stabbed to death
+keyword	tied to a chair
+keyword	van
+keyword	small town
+keyword	mother daughter relationship
+keyword	school bus
+keyword	high school principal
+keyword	director cameo
+keyword	american flag
+keyword	characters killed one by one
+keyword	danger
+keyword	interrogation
+keyword	breaking a bottle over someone's head
+keyword	black comedy
+keyword	scream
+keyword	pistol
+keyword	cult film
+keyword	cigarette smoking
+keyword	foot chase
+keyword	falling from height
+keyword	anniversary
+keyword	violence
+keyword	lifting someone into the air
+keyword	boyfriend girlfriend relationship
+keyword	falling off a roof
+keyword	drunkenness
+keyword	falling down stairs
+keyword	homage
+keyword	hanged teenage girl
+keyword	question
+keyword	bound and gagged
+keyword	mystery killer
+keyword	premarital sex
+keyword	telephone
+keyword	family relationships
+keyword	disguise
+keyword	based on painting
+keyword	yelling
+keyword	spoof
+keyword	death of daughter
+keyword	threatening telephone call
+keyword	teen movie
+keyword	darkness
+keyword	character's point of view camera shot
+keyword	woman in danger
+keyword	hidden camera
+keyword	face slap
+keyword	video store
+keyword	motive
+keyword	knife
+keyword	revelation
+keyword	flashlight
+keyword	cell phone
+keyword	heroine
+keyword	female protagonist
+keyword	revenge
+keyword	water fountain
+keyword	home invasion
+keyword	infidelity
+keyword	satire
+keyword	slow motion scene
+keyword	1990s
+keyword	arrest
+keyword	slasher
+keyword	rope
+keyword	party
+keyword	car crash
+keyword	fake blood
+keyword	hiding in a bathroom
+keyword	garage
+keyword	virgin
+keyword	underage drinking
+keyword	duct tape over mouth
+keyword	brother sister relationship
+keyword	held at gunpoint
+keyword	villain not really dead cliche
+keyword	hanged teen
+keyword	homicide
+keyword	crushed head
+keyword	accomplice
+keyword	electrocution
+keyword	sheriff
+keyword	reflection in eye
+keyword	framed for murder
+keyword	police station
+keyword	beer bong
+keyword	curfew
+keyword	popcorn
+keyword	sitting
+keyword	intestine
+keyword	intestines
+keyword	hit with a door
+keyword	red herring
+keyword	blood on shirt
+keyword	presumed dead
+keyword	death of mother
+keyword	death of friend
+keyword	independent film
+keyword	title spoken by character
+keyword	surprise ending
+cast	Drew Barrymore	Casey
+cast	Roger Jackson	Phone Voice
+cast	Kevin Patrick Walls	Steve
+cast	David Booth	Casey's Father
+cast	Carla Hatley	Casey's Mother
+cast	Neve Campbell	Sidney
+cast	Skeet Ulrich	Billy
+cast	Lawrence Hecht	Mr. Prescott
+cast	Courteney Cox	Gale Weathers
+cast	W. Earl Brown	Kenny
+cast	Rose McGowan	Tatum
+cast	Lois Saunders	Mrs. Tate
+cast	David Arquette	Deputy Dewey
+cast	Joseph Whipp	Sheriff Burke
+cast	Matthew Lillard	Stuart
+cast	Jamie Kennedy	Randy
+cast	Lisa Beach	TV Reporter #1
+cast	Tony Kilbert	TV Reporter #2
+cast	C.W. Morgan	Hank Loomis
+cast	Frances Lee McCain	Mrs. Riley
+cast	Liev Schreiber	Cotton Weary
+cast	Troy Bishop	Expelled Teen #1
+cast	Ryan Kennedy	Expelled Teen #2
+cast	Leonora Scelfo	Cheerleader in Bathroom
+cast	Nancy Anne Ridder	Girl in Bathroom
+cast	Lisa Canning	Reporter with Mask
+cast	Bonnie Wood	Young Girl in Video Store
+cast	Aurora Draper	Party Teen #1
+cast	Kenny Kwong	Party Teen #2
+cast	Justin Sullivan	Teen on Couch
+cast	Kurtis Bedford	Bored Teen
+cast	Angela Miller	Girl on Couch
+cast	Linda Blair	Obnoxious Reporter
+cast	Wes Craven	Fred the Janitor
+cast	Matt McDonald	Video Customer
+cast	Henry Winkler	Principal Arthur Himbry

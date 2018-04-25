@@ -1,0 +1,107 @@
+year	1931
+imdb score	7.7
+meta score	N/A
+genre	Horror
+keyword	dracula
+keyword	vampire
+keyword	count
+keyword	abbey
+keyword	undead
+keyword	blood
+keyword	fiancée
+keyword	castle
+keyword	bed
+keyword	spider
+keyword	bat
+keyword	madman
+keyword	wolf
+keyword	love triangle
+keyword	sanitarium
+keyword	monster
+keyword	coffin as bed
+keyword	death of title character
+keyword	vampire slayer
+keyword	coffin
+keyword	villain played by lead actor
+keyword	fly
+keyword	mansion
+keyword	stake
+keyword	crucifix
+keyword	woman in jeopardy
+keyword	armadillo
+keyword	stagecoach
+keyword	mirror
+keyword	doctor
+keyword	goth
+keyword	falling down stairs
+keyword	staircase
+keyword	bite
+keyword	bitten in the neck
+keyword	maid
+keyword	servant
+keyword	vampire bat
+keyword	opera
+keyword	ghoul
+keyword	creature feature
+keyword	london england
+keyword	cross protects against evil
+keyword	obsession
+keyword	hungary
+keyword	gothic horror
+keyword	bedroom
+keyword	master vampire
+keyword	universal monsters
+keyword	reincarnation
+keyword	neck
+keyword	village
+keyword	pair of evil eyes
+keyword	cult director
+keyword	hypnosis
+keyword	insanity
+keyword	psychotronic
+keyword	sleepwalking
+keyword	good versus evil
+keyword	satin dress
+keyword	scientist
+keyword	wine
+keyword	one word title
+keyword	mental institution
+keyword	literary adaptation
+keyword	gothic
+keyword	transylvania
+keyword	insane asylum
+keyword	cult film
+keyword	post hypnotic suggestion
+keyword	impalement
+keyword	immortality
+keyword	bloodsucker
+keyword	opossum
+keyword	based on novel
+keyword	based on play
+keyword	character name in title
+keyword	
+cast	Bela Lugosi	Count Dracula
+cast	Helen Chandler	Mina
+cast	David Manners	John Harker
+cast	Dwight Frye	Renfield
+cast	Edward Van Sloan	Van Helsing
+cast	Herbert Bunston	Doctor Seward
+cast	Frances Dade	Lucy
+cast	Joan Standing	Maid
+cast	Charles K. Gerrard	Martin
+cast	Anna Bakacs	Innkeeper's Daughter
+cast	Nicholas Bela	Coach Passenger
+cast	Daisy Belmore	Coach Passenger
+cast	Barbara Bozoky	Innkeeper's Wife
+cast	Tod Browning	Harbormaster
+cast	Moon Carroll	Maid
+cast	Geraldine Dvorak	Dracula's Wife
+cast	John George	Small Scientist
+cast	Anita Harder	Flower Girl
+cast	Carla Laemmle	Coach Passenger
+cast	Donald Murphy	Coach Passenger
+cast	Wyndham Standing	Surgeon
+cast	Cornelia Thaw	Dracula's Wife
+cast	Dorothy Tree	Dracula's Wife
+cast	Josephine Velez	Grace - English Nurse
+cast	Michael Visaroff	Innkeeper

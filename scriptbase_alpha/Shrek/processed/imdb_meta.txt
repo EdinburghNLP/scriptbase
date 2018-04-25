@@ -1,0 +1,182 @@
+year	2001
+imdb score	7.9
+meta score	84
+genre	Adventure
+genre	Animation
+genre	Comedy
+genre	Family
+genre	Fantasy
+keyword	shrek
+keyword	lord
+keyword	ogre
+keyword	donkey
+keyword	princess
+keyword	fairy tale
+keyword	swamp
+keyword	fairy
+keyword	friend
+keyword	quest
+keyword	rescue
+keyword	pitchfork
+keyword	shield
+keyword	hero
+keyword	castle
+keyword	loyalty
+keyword	belch
+keyword	sarcasm taken literally
+keyword	skeleton
+keyword	dreamworks animated film
+keyword	alienation
+keyword	lifting someone into the air
+keyword	bear
+keyword	leadership
+keyword	dismemberment
+keyword	vengeance
+keyword	kingdom
+keyword	ethnic cleansing
+keyword	hunter
+keyword	violence
+keyword	fairy tale parody
+keyword	talking animal
+keyword	critically acclaimed
+keyword	cannibalism
+keyword	outhouse
+keyword	isolation
+keyword	blockbuster
+keyword	dagger
+keyword	cartoon violence
+keyword	cult film
+keyword	onion
+keyword	transformation
+keyword	character's point of view camera shot
+keyword	sunset
+keyword	brawl
+keyword	forest
+keyword	judgment
+keyword	fire breathing dragon
+keyword	warrior
+keyword	gross out comedy
+keyword	death
+keyword	mutilation
+keyword	honor
+keyword	hand to hand combat
+keyword	wolf
+keyword	animal attack
+keyword	pig
+keyword	beer
+keyword	sunrise
+keyword	corruption
+keyword	showdown
+keyword	male nudity
+keyword	knight
+keyword	crossbow
+keyword	giant
+keyword	lifting female in air
+keyword	flatulence
+keyword	midget
+keyword	courage
+keyword	bullet time
+keyword	unlikely hero
+keyword	sword
+keyword	wrestling
+keyword	martial arts
+keyword	redemption
+keyword	sword and sorcery
+keyword	spear
+keyword	rope bridge
+keyword	beaten to death
+keyword	eaten alive
+keyword	tower
+keyword	crude humor
+keyword	anti hero
+keyword	dark ages
+keyword	gingerbread man
+keyword	armor
+keyword	combat
+keyword	candlestick
+keyword	awkward silence
+keyword	spell
+keyword	chase
+keyword	slow motion
+keyword	mouse
+keyword	duel
+keyword	storybook in opening shot
+keyword	reluctant hero
+keyword	interrupted wedding
+keyword	gnome
+keyword	disfigurement
+keyword	friendship
+keyword	challenge
+keyword	wedding
+keyword	coffin
+keyword	arm ripped off
+keyword	blind
+keyword	fight to the death
+keyword	surprise after end credits
+keyword	curse
+keyword	lava filled moat
+keyword	windmill
+keyword	magic
+keyword	battle
+keyword	stained glass window
+keyword	severed leg
+keyword	trampled to death
+keyword	accordion
+keyword	dwarf
+keyword	mirror
+keyword	satire
+keyword	rotisserie
+keyword	epic
+keyword	magic mirror
+keyword	exploding bird
+keyword	spoof
+keyword	shot with an arrow
+keyword	sword throwing
+keyword	hit in the crotch
+keyword	disarming someone
+keyword	bishop
+keyword	kiss
+keyword	soldier
+keyword	torture
+keyword	subjective camera
+keyword	dragon
+keyword	sidekick
+keyword	anachronism
+keyword	altered version of studio logo
+keyword	decree
+keyword	computer animation
+keyword	cgi film
+keyword	destiny
+keyword	fistfight
+keyword	based on book
+keyword	title spoken by character
+keyword	character name in title
+keyword	surprise ending
+cast	Mike Myers	Shrek
+cast	Eddie Murphy	Donkey
+cast	Cameron Diaz	Princess Fiona
+cast	John Lithgow	Lord Farquaad
+cast	Vincent Cassel	Monsieur Hood
+cast	Peter Dennis	Ogre Hunter
+cast	Clive Pearse	Ogre Hunter
+cast	Jim Cummings	Captain of Guards
+cast	Bobby Block	Baby Bear
+cast	Chris Miller	Geppetto / Magic Mirror
+cast	Cody Cameron	Pinocchio / Three Pigs
+cast	Kathleen Freeman	Old Woman
+cast	Michael Galasso	Peter Pan
+cast	Christopher Knights	Blind Mouse / Thelonious
+cast	Simon J. Smith	Blind Mouse
+cast	Conrad Vernon	Gingerbread Man
+cast	Jacquie Barnbrook	Wrestling Fan
+cast	Guillaume Aretos	Merry Man
+cast	John Bisom	Merry Man
+cast	Matthew Gonder	Merry Man
+cast	Calvin Remsberg	Merry Man
+cast	Jean-Paul Vignon	Merry Man
+cast	Val Bettin	Bishop
+cast	Andrew Adamson	Duloc Mascot
+cast	Patty Cornell	Clockwork Chorus
+cast	Charles Dennis	Villager
+cast	Susan Fitzer	Clockwork Chorus
+cast	Elisa Gabrielli	Additional Voices

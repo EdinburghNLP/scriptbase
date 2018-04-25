@@ -1,0 +1,186 @@
+year	2010
+imdb score	6.5
+meta score	46
+genre	Comedy
+genre	Romance
+keyword	airport
+keyword	iphone
+keyword	confidence
+keyword	love
+keyword	pilot
+keyword	advice
+keyword	airport security
+keyword	swimming pool
+keyword	airplane
+keyword	self esteem
+keyword	brother brother relationship
+keyword	webbed toes
+keyword	fiancé fiancée relationship
+keyword	pregnancy
+keyword	lacoste france
+keyword	airline employee
+keyword	best friend
+keyword	mother son relationship
+keyword	sister sister relationship
+keyword	tropicana orange juice
+keyword	northrop f 5 freedom fighter
+keyword	restaurant
+keyword	pittsburgh penguins
+keyword	product placement
+keyword	nudity
+keyword	first date
+keyword	montage
+keyword	new york city
+keyword	spilling drink on self
+keyword	kiss on the lips
+keyword	dog
+keyword	father son relationship
+keyword	f word
+keyword	21st birthday
+keyword	blue light
+keyword	cityscape
+keyword	pepsi
+keyword	husband wife relationship
+keyword	reference to aladdin
+keyword	cover band
+keyword	lacoste polo shirt
+keyword	lacoste alligator shirt
+keyword	claim in title
+keyword	camera shot of feet
+keyword	reebok
+keyword	friendship between men
+keyword	goalie
+keyword	insecurity
+keyword	pepsi cola
+keyword	foot chase
+keyword	teen comedy
+keyword	air show
+keyword	hockey game
+keyword	girl in bra and panties
+keyword	mastercard
+keyword	punctuation in title
+keyword	hit in the crotch
+keyword	ex boyfriend ex girlfriend relationship
+keyword	family relationships
+keyword	break up
+keyword	woman wearing black lingerie
+keyword	mountain dew
+keyword	family vacation
+keyword	contraction in title
+keyword	new york islanders
+keyword	metal detector
+keyword	visa card
+keyword	birthday party
+keyword	bowling
+keyword	nervousness
+keyword	bare chested male
+keyword	reference to chris tucker
+keyword	male rear nudity
+keyword	obscene finger gesture
+keyword	pittsburgh pennsylvania
+keyword	raised middle finger
+keyword	jealousy
+keyword	2000s
+keyword	male nudity
+keyword	shaving
+keyword	pizza hut
+keyword	sex scene
+keyword	television
+keyword	sweater
+keyword	art museum
+keyword	boyfriend girlfriend relationship
+keyword	apostrophe in title
+keyword	ticketmaster
+keyword	premature ejaculation
+keyword	nickname
+keyword	jacket
+keyword	national hockey league
+keyword	boyfriend girlfriend reconciliation
+keyword	party planner
+keyword	rating
+keyword	pubic hair
+keyword	visa
+keyword	finger gun
+keyword	teenager
+keyword	comcast
+cast	Jay Baruchel	Kirk
+cast	Alice Eve	Molly
+cast	T.J. Miller	Stainer
+cast	Mike Vogel	Jack
+cast	Nate Torrence	Devon
+cast	Lindsay Sloane	Marnie
+cast	Kyle Bornheimer	Dylan
+cast	Jessica St. Clair	Debbie
+cast	Krysten Ritter	Patty
+cast	Debra Jo Rupp	Mrs. Kettner
+cast	Adam LeFevre	Mr. Kettner
+cast	Kim Shaw	Katie
+cast	Jasika Nicole	Wendy
+cast	Geoff Stults	Cam
+cast	Hayes MacArthur	Ron
+cast	Andrew Daly	Mr. Fuller
+cast	Sharon Maughan	Mrs. McCleish
+cast	Trevor Eve	Mr. McCleish
+cast	Adam Tomei	Randy
+cast	Robin Shorr	Tina Jordan
+cast	Patrick Jordan	Bowler
+cast	Tom Stoviak	Museum Director
+cast	Rick Applegate	"Plane Doctor"
+cast	Heather Leigh	Flight Attendant
+cast	Chuck Aber	Pilot
+cast	Jason McCune	Restaurant Patron
+cast	Yan Xi	Karen
+cast	Evan Alex Cole	Scotty Reese
+cast	Joseph F. Eberle	Hockey Bartender
+cast	Phil Spano	Hockey Coordinator
+cast	Jeff Adams	Hockey Player
+cast	Mila Cermak	Hockey Player
+cast	Mike Gaffney	Hockey Player
+cast	Todd Gally	Hockey Player
+cast	Jim Gricar	Hockey Player
+cast	Rob Hofmann	Hockey Player
+cast	Jason C. Lewis	Hockey Player
+cast	Ed Nusser	Hockey Player
+cast	Jory Rand	Hockey Player
+cast	Tom Rieck	Hockey Player
+cast	Matthew Richert	Hockey Player
+cast	Joe Sager	Hockey Player
+cast	Lucia M. Aguirre	Flight Attendant
+cast	Elyse Alberts	Airline Passenger
+cast	Cristina Aloe	Airport Traveler
+cast	Tony Amen	Airport Passenger
+cast	Aaron Bernard	First Class Passenger
+cast	Sidney Crosby	Himself
+cast	Shawn Dando	Extra
+cast	Jonathan Eldell	Traveler
+cast	Jackie Evancho	Extra
+cast	Lamar Darnell Fields	Airport Traveler
+cast	Minda Fisher	Airport Passenger
+cast	Jim Fitzgerald	Pilot / Airline Passenger
+cast	Josiah Hoffman	Pilot Smith
+cast	Jeffrey Jones	Airport Admirer
+cast	William Kania	Pittsburgh Penguins Hockey Fan
+cast	David Kneeream	Airline Co-pilot
+cast	Alexis Kupka	Herself
+cast	Eric Leach	Extra
+cast	Stephanie Macdougall	Airport Passenger
+cast	Lorelei Mahoney	Passenger
+cast	Laurie Mann	Hockey Crowd Extra
+cast	Buster Maxwell	Flower seller
+cast	Sean P. McCarthy	Airport Traveler
+cast	Leslie McGuier	Airline Extra
+cast	Tiffany Sander McKenzie	Airline Passenger
+cast	Ian Michael	Restaurant Goer
+cast	Jeremy Moon	Airshow Worker
+cast	Phil Nardozzi	Airline Passenger
+cast	Jillian O'Neil	Woman with Sweater
+cast	Dawn Renee	Flight Attendant
+cast	Paul J. Rosenburg	Bowler
+cast	David Santiago	Club Patron
+cast	Gaynelle W. Sloman	Party Guest / Driver on Bridge
+cast	Robert Stull	First Class Passenger
+cast	James Viscusi	TSA Agent
+cast	Jillian Vitko	Party Guest
+cast	Blase Ward	Airport Patron
+cast	James Werley	Airport Person
+cast	Mandy Wilson	Stewardess

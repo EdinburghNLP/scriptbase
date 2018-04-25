@@ -1,0 +1,261 @@
+year	2004
+imdb score	6.6
+meta score	60
+genre	Action
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	harvard
+keyword	kidnapping
+keyword	special ops
+keyword	abductor
+keyword	dubai
+keyword	secret service
+keyword	cia
+keyword	abuse
+keyword	air cargo
+keyword	gunfight
+keyword	topless female nudity
+keyword	airplane
+keyword	prostitute
+keyword	airport
+keyword	filling station
+keyword	shot in the back
+keyword	earring
+keyword	dying one's hair
+keyword	mirror
+keyword	student
+keyword	helicopter
+keyword	drugs
+keyword	wedding ring
+keyword	flashlight
+keyword	u.s. army
+keyword	following someone
+keyword	unfaithfulness
+keyword	dna
+keyword	deception
+keyword	extramarital affair
+keyword	shot through a window
+keyword	shooting
+keyword	video surveillance
+keyword	beach house
+keyword	martha's vineyard
+keyword	tv news
+keyword	infidelity
+keyword	code
+keyword	shot in the chest
+keyword	politics
+keyword	letter
+keyword	cell phone
+keyword	face slap
+keyword	intrigue
+keyword	boat
+keyword	sex trafficking
+keyword	teacher student relationship
+keyword	photograph
+keyword	stabbing
+keyword	suicide
+keyword	blonde
+keyword	cigarette smoking
+keyword	woods
+keyword	screwdriver
+keyword	telephone call
+keyword	father daughter relationship
+keyword	brothel madam
+keyword	haircut
+keyword	presumed dead
+keyword	london england
+keyword	wig
+keyword	confession
+keyword	undercover agent
+keyword	violence
+keyword	government agent
+keyword	conspiracy
+keyword	prisoner transport
+keyword	fear
+keyword	sign
+keyword	sex trade
+keyword	death
+keyword	shootout
+keyword	first daughter
+keyword	cargo container
+keyword	homing device
+keyword	hangar
+keyword	u.s. coast guard
+keyword	professor
+keyword	murder
+keyword	suspense
+keyword	punched in the stomach
+keyword	election
+keyword	scar
+keyword	vomit
+keyword	storytelling
+keyword	gunshot
+keyword	beach
+keyword	broken arm
+keyword	football stadium
+keyword	airfield
+keyword	black american
+keyword	one word title
+keyword	interrogation
+keyword	adultery
+keyword	forest
+keyword	breaking one's arm
+keyword	pursuit
+keyword	dying
+keyword	first lady
+keyword	punched in the face
+keyword	special agent
+keyword	brothel
+keyword	gun
+keyword	impersonating a police officer
+keyword	nightclub
+keyword	security breach
+keyword	book
+keyword	female soldier
+keyword	surveillance camera
+keyword	stalker
+keyword	arabic
+keyword	blood
+keyword	rifle
+keyword	arm in a sling
+keyword	sergeant
+keyword	faked death
+keyword	boyfriend girlfriend relationship
+keyword	rolling a cigarette
+keyword	knife
+keyword	gas station
+keyword	scarecrow
+keyword	hostage
+keyword	throat slitting
+keyword	female nudity
+keyword	head wound
+keyword	tv reporter
+keyword	american football
+keyword	sniper
+keyword	reporter
+keyword	convict
+keyword	rescue
+keyword	bar
+keyword	beating
+keyword	pay phone
+keyword	kidnapper
+keyword	nudity
+keyword	boston massachusetts
+keyword	rescue mission
+keyword	running
+keyword	breakup
+keyword	chase
+keyword	drug use
+keyword	sex
+keyword	politician
+keyword	mailbox
+keyword	bartender
+keyword	shot in the head
+keyword	key
+keyword	stabbed in the neck
+keyword	teacher
+keyword	shot in the neck
+keyword	mother daughter relationship
+keyword	fight
+keyword	surrogate mother
+keyword	sex slave
+keyword	bare chested male
+keyword	fake blood
+keyword	cover up
+keyword	stadium
+keyword	shotgun
+keyword	cocaine
+keyword	u.s. president
+keyword	fbi
+keyword	being followed
+keyword	sex slavery
+keyword	threatened with a knife
+keyword	older man younger woman relationship
+keyword	construction site
+keyword	illness
+keyword	shot to death
+keyword	african american
+keyword	military training
+keyword	gay slur
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Tia Texada	Jackie Black
+cast	Derek Luke	Curtis
+cast	Val Kilmer	Scott
+cast	Jeremie Campbell	Cadre Candidate
+cast	Bob Jennings	Grace's Aide
+cast	Lionel Mark Smith	Colonel Blane
+cast	Johnny Messner	Grace
+cast	Chris LaCentra	Cpl. Sattler
+cast	Renato Magno	Grossler
+cast	Mark FitzGerald	Training Facility Guard
+cast	Tony Mamet	Parker
+cast	Clark Gregg	Miller
+cast	Ron Butler	Headquarters Agent
+cast	Steven Culp	Gaines
+cast	Vincent Guastaferro	Naylor
+cast	Robert Bella	Davio
+cast	Lana Bilzerian	Undercover Agent
+cast	Aaron Stanford	Michael Blake
+cast	Annie Morgan	Secret Service Agent
+cast	Geoff Pierson	Pearce
+cast	Sophia Adella Luke	Agent
+cast	Alexandra Kerry	Bartender
+cast	Andy Davoli	Zimmer
+cast	J.J. Johnston	Night Club Manager
+cast	Natalija Nogulich	Nadya
+cast	Margot Farley	Young Whore
+cast	William H. Macy	Stoddard
+cast	Ed O'Neill	Burch
+cast	Rick Levy	Sedan Man
+cast	Jim Frangione	Stakeout Agent
+cast	Danny Hovanesian	Stakeout Driver
+cast	Norm Compton	Essex House Man #1
+cast	Chino Binamo	Essex House Man #2
+cast	Saïd Taghmaoui	Tariq Asani
+cast	Mark Pellegrino	Convict
+cast	Mordecai Finley	Cadre Operator
+cast	Jonathan Rossetti	Medic
+cast	Gail Silver	Pharmacist
+cast	Scott Barry	Cadre Team Leader
+cast	Robert Castro	State Police Liaison Officer
+cast	Deb Martin	Debriefer
+cast	Richard L. Friedman	Crew Chief
+cast	David Aranovich	Cadre Technician
+cast	Jody Snider	Harvard Square Reporter
+cast	Virginia Pereira	TV Anchor Woman
+cast	Morris Lamore	Billy
+cast	Clara Mamet	Billy's Daughter
+cast	Matt Malloy	Mr. Reese
+cast	Deborah Bartlett	Mrs. Newton
+cast	Linda Kimbrough	Donny
+cast	Moshe Ivgy	Avi
+cast	Christopher Kaldor	Yitzik
+cast	Ektimal Shbib	Stewardess
+cast	Nasser Faris	Customs Official
+cast	Zosia Mamet	Bedouin Woman
+cast	Kick Gurry	Jones
+cast	Kristen Bell	Laura Newton
+cast	Damon Caro	Balcony Shooter
+cast	Ken Moreno	Bodyguard #1
+cast	J.J. Perry	Bodyguard #2
+cast	Michael Hilow	Perimeter Guard
+cast	Steve Martinez	Gate Keeper #1
+cast	Max Daniels	Gate Keeper #2
+cast	Sandra Lindquist	Swedish Reporter
+cast	Neil Pepe	News Cameraman
+cast	Tim Fleming	Night Sun Operator
+cast	Marc-Allen Barker	Pilot
+cast	Chelle Cerceo	Marine Flight Crew Chief
+cast	Jennifer Ritchkoff	Marine Captain
+cast	Stephen Greif	Business Man
+cast	Michael Kuroiwa	Swat Team Member
+cast	Lauren Bowles	Entertainment Reporter
+cast	Yasmine Hanani	Arabic Girl
+cast	Shireen Kadivar	Arab Woman
+cast	Camden Munson	Bicycle Boy
+cast	David Paymer	TV News Anchor
+cast	Christopher Tandon	Professor Gerald Sloan

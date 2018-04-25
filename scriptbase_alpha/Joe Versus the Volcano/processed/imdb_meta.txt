@@ -1,0 +1,66 @@
+year	1990
+imdb score	5.6
+meta score	N/A
+genre	Comedy
+genre	Romance
+keyword	island
+keyword	volcano
+keyword	yacht
+keyword	love
+keyword	tropical
+keyword	dying man's last fling
+keyword	falling from height
+keyword	terminal illness
+keyword	vacation
+keyword	luggage
+keyword	actor playing multiple roles
+keyword	self discovery
+keyword	surrealism
+keyword	orange soda
+keyword	millionaire
+keyword	ship wreck
+keyword	boredom
+keyword	ukulele
+keyword	twin
+keyword	dying man
+keyword	satire
+keyword	suicide
+keyword	escape
+keyword	mission
+keyword	underdog
+keyword	chauffeur
+keyword	character name in title
+keyword	
+cast	Tom Hanks	Joe
+cast	Meg Ryan	DeDe / Angelica / Patricia
+cast	Lloyd Bridges	Graynamore
+cast	Robert Stack	Dr. Ellison
+cast	Abe Vigoda	Chief of the Waponis
+cast	Dan Hedaya	Mr. Waturi
+cast	Barry McGovern	Luggage Salesman
+cast	Amanda Plummer	Dagmar
+cast	Ossie Davis	Marshall
+cast	Jayne Haynes	Nurse
+cast	David Burton	Mike
+cast	Jon Conrad Pochron	Tony
+cast	Jim Hudson	Fred - Guard
+cast	Antoni Gatti	Italian Tailor
+cast	Darrell Zwerling	Underwear Salesman
+cast	Jim Ryan	Bellman
+cast	Karl Rumburg	Ralph
+cast	Brian Esteban	Emo - Waponi Lookout
+cast	Nathan Lane	Baw - The Waponi Advance Man
+cast	Wally Ruiz	Spanish Singer
+cast	Guillermo Guzman	Spanish Singer
+cast	Tommy Franco	Spanish Singer
+cast	Tony Salome	Clerk
+cast	Courtney Gibbs	Saleswoman
+cast	Lala Sloatman	Waitress
+cast	Jennifer Stewart	Statue of Liberty
+cast	William Ward	Salesman - Hammacher Schlemmer
+cast	Carol Kane	Hairdresser
+cast	Paul Michael Thorpe	God Woo
+cast	Jack E. Herman	Waponi Warrior
+cast	Sidney S. Liufau	Waponi
+cast	Beverly Overstreet	Female Waponi at Feast
+cast	Branscombe Richmond	Waponi

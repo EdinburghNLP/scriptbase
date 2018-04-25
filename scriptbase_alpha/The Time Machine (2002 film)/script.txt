@@ -1,0 +1,5510 @@
+Time Machine, The (2002) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Time Machine, The (2002) movie scriptby John Logan.Based on the novel by H.G. Wells.Draft script, February 22, 2000.
+More info about this movie on IMDb.com
+
+
+INT.  COLUMBIA UNIVERSITY - LECTURE HALL - DAY
+
+Darkness.  Then a sound...
+
+Click-clack, click-clack, click-clack...
+
+The familiar sound of chalk writing on a blackboard.
+
+Fade up to see...
+
+A hand zooming across a blackboard at incredible speed,
+forming an endless algebraic equation.
+
+Amazingly, when the writer reaches the end of the blackboard
+he does not lift the chalk and return to the left side to
+begin a new line -- instead he simply loops around and
+continues writing, right to left, upside down.
+
+The college students in his class -- all male and dressed in
+late Victorian clothes -- smile at this familiar peculiarity
+and tilt their heads to try and read the endless equation,
+copying furiously into notebooks.
+
+The hand continues to zoom along the blackboard... and then
+slows... and then stops... the students wait... the hand taps
+the chalk on the blackboard for a moment and we finally
+see...
+
+ALEXANDER HARTDEGEN, a handsome young man not much older than
+his students, standing at the blackboard.  He is gazing out a
+window, looking at a bird on a tree branch.  He smiles.
+
+The students glance to one another.
+
+Alexander remembers himself and turns back to the blackboard,
+his hand again flying as:
+
+                    ALEXANDER
+          So -- length, width, breadth --
+          formulate the area and of course we
+          arrive at solid mass.  But imagine
+          if we continue the equation as I've
+          done -- can't we begin to recognize
+          another dimension beyond the first
+          three?  I theorize we begin to find
+          duration -- the object's place in
+          time.  Let's note that as "D"
+          here...
+
+Alexander reaches the left side of the blackboard and loops
+around again in an unbroken line to continue the equation
+from left to right again.
+
+The students are hopelessly lost.  They finally stop copying
+and just watch Alexander work, admiring his brilliant
+innovation.
+
+Meanwhile, a man watches from the back of the lecture hall. 
+He is DAVID PHILBY, Alexander's closest friend, a bit older.
+
+                    ALEXANDER
+          ... If we accept the theoretical
+          possibility of duration as a fourth
+          dimension we find that our equation
+          might -- no, that's not right --
+
+He erases some numbers quickly with his hand, sending up a
+cloud of chalk dust, he coughs.
+
+                    ALEXANDER
+          -- there, that looks more like
+          it...
+
+He continues to scribble at lightning speed.  Then...
+
+He begins humming to himself.
+
+The students watch, amused.  Philby smiles.
+
+Alexander finally stops humming and writing.  Steps back and
+looks at the equation.  Then he turns to his students.
+
+                    ALEXANDER
+          Does this make any sense to you?
+
+The students are confused.  One offers:
+
+                    STUDENT
+          Sir, if I may, wouldn't it be
+          easier if you applied a Fibonacci
+          sequence to the differential
+          coefficient?
+
+                    ALEXANDER
+              (smiles)
+          It's not supposed to be easy, it's
+          supposed to be beautiful... All of
+          you think about that tonight and
+          we'll press on tomorrow.  Good
+          afternoon.
+
+The students begin to rise, class over.  They leave the
+classroom talking eagerly about Alexander's theories,
+inspired.
+
+A sudden new angle: from above we see Alexander going to
+Philby, leaving the classroom talking with him.  We are in
+the upper balcony of the classroom.  A solitary figure looks
+down, watching them.
+
+This new figure is a thin man with pale skin, dry like
+parchment.  Somehow ominous.
+
+INT.  COLUMBIA - HALLWAY - DAY
+
+Alexander walks with Philby:
+
+                    ALEXANDER
+          ... The point is I know it will
+          work once the, um, numbers and such
+          are in order.
+
+                    PHILBY
+          Do you know you were humming?
+
+                    ALEXANDER
+          I was not.
+
+                    PHILBY
+          Somewhere around "D+2xy something
+          something."
+
+                    ALEXANDER
+          Damned if I can keep her out of my
+          equations.
+
+                    PHILBY
+          Tonight's the night?
+
+                    ALEXANDER
+              (checking pocket watch)
+          God, and I'm running late --
+
+A PRIM WOMAN appears before them:
+
+                    PRIM WOMAN
+          Dr. Hartdegen, Dr. Philby... Dean
+          Fulton would like to see you.
+
+Alexander and Philby exchange a look.  Gulp.  They follow the
+prim woman.
+
+INT.  COLUMBIA - DEAN FULTON'S OFFICE - DAY
+
+They follow the prim woman, Dean Fulton's secretary, into his
+dark, paneled office.
+
+                    PRIM WOMAN
+          He's outside.
+
+Alexander and Philby move through the office and out to a
+garden courtyard...
+
+EXT.  COLUMBIA - GARDEN COURTYARD - DAY
+
+Oddly, chickens are clucking about the courtyard.
+
+The thin man we saw before, DEAN FULTON, is casually tossing
+down feed for the chickens.  With his other hand he carries
+an umbrella to protect himself from the sun.  He does not
+look up.
+
+                    DEAN FULTON
+          Gentlemen, watch your step.
+
+Alexander and Philby stop.  Dean Fulton looks up and smiles,
+benevolent.
+
+                    DEAN FULTON
+          My fowl have polluted the yard.
+
+                    PHILBY
+          Dean Fulton...
+
+Dean Fulton continues to lazily scatter feed for his
+chickens.
+
+                    DEAN FULTON
+          Dr. Philby, Dr. Hartdegen.  I
+          received the most extraordinary
+          letter last week.  From a parent. 
+          We are always pleased to receive
+          letters from parents.  They are our
+          employers, after all.  This
+          gentleman's son is in your class,
+          Dr. Hartdegen.
+
+                    ALEXANDER
+              (knows what's coming)
+          I see.
+
+                    DEAN FULTON
+          As I recall the syllabus the name
+          of your tutorial is "Applied
+          Mathematics and Engineering", am I
+          correct?
+
+                    ALEXANDER
+          Exactly correct, sir.
+
+Dean Fulton stops scattering feed and gazes at Alexander with
+a smile.  This is an old game between them and they both
+rather enjoy it.  To a point.
+
+                    DEAN FULTON
+          Well, just as I thought.  Surely
+          it's all been a terrible mistake. 
+          This parent actually suggested that
+          your freshman course in applied
+          mathematics has somehow become a
+          seminar on theoretical physics!
+
+                    ALEXANDER
+          Imagine that.
+
+                    DEAN FULTON
+          But I know that none of my faculty
+          would ever deviate from the
+          assigned curriculum.
+
+                    ALEXANDER
+          Well... perhaps I have "deviated"
+          the tiniest bit.
+
+                    DEAN FULTON
+          Might I ask why?
+
+                    ALEXANDER
+          Because the assigned curriculum is
+          boring.
+
+Philby groans very quietly.
+
+                    ALEXANDER
+          Sir, that curriculum is forty years
+          out of date.  The students today
+          are looking toward the new century 
+          -- they want to be challenged and
+          inspired, not spoon-fed dusty old
+          equations that have been proved a
+          thousand times.  They want to
+          explore.
+
+                    DEAN FULTON
+          Do they?
+
+Dean Fulton smiles and then begins to scatter feed again.
+
+                    DEAN FULTON
+          What are these animals, gentlemen?
+
+Alexander and Philby exchange a look.
+
+                    PHILBY
+          Um, your chickens, sir.
+
+Alexander helpfully offers:
+
+                    ALEXANDER
+          And roosters.
+
+                    DEAN FULTON
+          No, Dr. Hartdegen, they are not
+          just chickens and roosters.  They
+          are science.  Perhaps they aren't
+          "inspiring" to you.  Perhaps they
+          don't "challenge" you --
+
+                    ALEXANDER
+          No, sir --
+
+                    DEAN FULTON
+          Animal husbandry is science, Dr.
+          Hartdegen.  I have been breeding
+          these fowl for fourteen years.  I
+          have filled a library with
+          information on their feeding
+          patterns, social behavior and
+          breeding.  Empirical, exacting,
+          quantifiable records.
+
+                    ALEXANDER
+          Sir --
+
+Dean Fulton looks up at him, his eyes cold:
+
+                    DEAN FULTON
+          "Duration" is not a dimension. 
+          Scientists do not imagine the world
+          around them.  They do not wool-
+          gather or cloud-spin.  They prove. 
+          They demonstrate.  Columbia
+          University does not teach fantasy.
+
+Philby shoots Alexander a warning look, but Alexander can't
+help himself:
+
+                    ALEXANDER
+          With respect, sir, would we have
+          the telegraph without fantasy? 
+          Would we have radium and X-rays
+          without someone first dreaming we
+          could?
+
+                    DEAN FULTON
+          The advances you speak of were the
+          result of countless years of study
+          and empirical experimentation, a
+          careful evolutionary process, not
+          chalkboard parlor-tricks.
+
+                    ALEXANDER
+          My equations are not parlor-tricks!
+
+                    DEAN FULTON
+          Abstract mathematics, relativity of
+          dimensions, geometrical "durations"
+          -- even allowing for the uses of
+          speculation, what is the point?
+
+                    ALEXANDER
+          Because it's a new way of seeing
+          the world!  Of seeing our place in
+          it!
+
+                    PHILBY
+          Sir, if I may --
+
+                    DEAN FULTON
+              (with finality, to
+               Alexander)
+          Young man, we have a way of doing
+          things here.  Radical theorizing is
+          not acceptable.  Have I made myself
+          understood?
+
+                    ALEXANDER
+          Yes, sir.
+
+                    DEAN FULTON
+          Very good.  Now if you will excuse
+          us for a moment.
+
+Alexander goes back into the office.
+
+                    PHILBY
+          If I might explain, sir --
+
+                    DEAN FULTON
+          You supported his application, Dr.
+          Philby.  You are his senior,
+          advisor.  I depend upon you to
+          restrain his... excesses.  Any
+          repetition of the behavior I
+          witnessed in his classroom today
+          and there will be consequences for
+          you both.
+
+                    PHILBY
+          Yes, sir.
+
+                    DEAN FULTON
+          Now you are upsetting my fowl. 
+          Please go.
+
+Philby extricates himself from a chicken pecking at his shoe
+and goes.
+
+                    ALEXANDER (V.O.)
+          He's a dinosaur.  He's already
+          extinct, he just doesn't know it...
+
+EXT.  STREETCAR - DAY
+
+Alexander and Philby are in an open horse-drawn streetcar,
+heading downtown.  Everywhere around them, the massive city
+bustles.
+
+New York City at the end of the 19th Century.  It is vibrant
+to the point of frenzy; reaching for the future in a furious
+upheaval of construction.
+
+Title: NEW YORK CITY - MAY 12, 1895 - 5:17 p.m.
+
+                    ALEXANDER
+          ... One day he'll be discovered by
+          some future archeologists and they
+          won't know what to make of him. 
+          The thick brow, so lacking in
+          imagination.  The dim little eyes,
+          devoid of curiosity.
+
+                    PHILBY
+          You know generally teachers are
+          supposed to teach real equations
+          that add up to real numbers.
+
+                    ALEXANDER
+          Where's the challenge in that?
+
+                    PHILBY
+          Alex, this is your first year as an
+          associate professor.  You might
+          want to play things a little more
+          conservatively.
+
+                    ALEXANDER
+          You sound like my father...
+
+Alexander points to the masses of grey businessmen, all in
+identical bowler hats, marching along the sidewalk:
+
+                    ALEXANDER
+          Look at them, Philby, all alike,
+          everyone in an identical bowler
+          hat.  Do you want your students to
+          turn out like them?
+
+                    PHILBY
+          I want my students to emerge with
+          theoretical and practical
+          knowledge.
+
+                    ALEXANDER
+          I don't.  I want them to run along
+          this street and knock off every
+          bowler they see.
+
+                    PHILBY
+          You may not like it, but this is
+          the world we live in, Alex.  Little
+          grey men with little grey hats.
+
+                    ALEXANDER
+          But shouldn't it be better? 
+          Shouldn't we be teaching our
+          students to imagine a world beyond
+          all this?
+
+Alexander points to a new building going up, a complex
+spider's web of steel girders.
+
+                    ALEXANDER
+          Look at that, Philby.  A steel
+          frame building.  Ten years ago it
+          was unheard of.  No little grey man
+          thought of that.  The new Century
+          belongs to men who are willing to
+          imagine the impossible...
+
+Their streetcar passes a few huddled beggars on the curb. 
+The businessmen ignore them.  Alexander watches them, his
+eyes sad.
+
+                    ALEXANDER
+              (quietly)
+          In the future, we'll be better.
+
+                    PHILBY
+          What?
+
+                    ALEXANDER
+          Nothing.
+
+EXT.  ALEXANDER'S HOUSE - EVENING
+
+Alexander's sprawling Victorian house sits on a quiet street.
+
+There is a quaint shop right across the street.  The shop
+features a window showing a female mannequin dressed in
+period clothes.  The sign above the shop: BRANSON'S APPAREL
+AND HABERDASHERY.
+
+Alexander and Philby hurry into his house...
+
+INT.  ALEXANDER'S HOUSE - EVENING
+
+Alexander's house is a lovely world of Victorian elegance
+constantly at war with his erratic and creative enterprises.
+
+Everywhere Alexander's scientific passions are evident:
+animal skulls rest alongside leather-bound tomes; mechanical
+inventions in various states of completion rest atop heavy
+mahogany tables; test tubes and microscopes are spread out on
+an unused piano.
+
+The one facet that most immediately reflects Alexander is
+aural: the ticking of scores of clocks; a steady metronomic
+cadence.
+
+Alexander bounds in, Philby following.
+
+                    ALEXANDER
+          MRS. WATCHIT!  MRS. WATCHIT!
+
+MRS. WATCHIT, Alexander's housekeeper, troops down the
+stairs.  She is a wry and commanding British woman in her
+60's.
+
+                    MRS. WATCHIT
+          Oh huzzah, the master's home.
+
+                    ALEXANDER
+          Do you have it?!
+
+                    MRS. WATCHIT
+          Hello, Mr. Philby.
+
+                    PHILBY
+          Hello, Mrs. Watchit.  You're
+          looking in the pink.
+
+                    MRS. WATCHIT
+          Must be all the exercise I get
+          scampering up and down these stairs
+          like a wee lamb.
+
+                    ALEXANDER
+          Don't torture me -- do you have it?
+
+                    MRS. WATCHIT
+          I have it, but don't you think for
+          one moment I'll be letting you go
+          out in that filthy coat -- now go
+          upstairs and change.  I've laid out
+          your green coat.
+
+                    ALEXANDER
+          What's the matter with -- ?
+              (he notes he is covered
+               in chalk dust)
+          -- What would I do without you,
+          Mrs. Watchit?
+
+He bounds up the stairs.  Phiby follows.
+
+                    MRS. WATCHIT
+          And change your tie!
+
+She bustles off, grumbling happily.
+
+INT.  ALEXANDER'S BEDROOM - EVENING
+
+Charles Darwin stares at us.  Imposing.  Inspiring. 
+Challenging.
+
+A bust of Darwin looms over Alexander's bedroom.
+
+Alexander, in a new coat, is trying to work a complicated
+knot in his tie.  His eyes study the problem in a mirror.
+
+                    ALEXANDER
+          Emma actually likes chalk dust --
+          says it smells like me.
+
+                    PHILBY
+          How romantic...
+
+Philby goes to Alexander, helps him with his tie.
+
+                    PHILBY
+          The most able inventor I know and
+          you can't tie a simple four-in-
+          hand.
+
+                    ALEXANDER
+          That's how I knew we were destined
+          to be together.  When I met her
+          parents for the first time I came
+          right from class and I was covered
+          in chalk.  They sniffed and
+          snorted, but she just smiled.  At
+          that moment -- I just knew.  How
+          did you know with Molly?
+
+                    PHILBY
+          She made the best Shepherd's pie I
+          ever tasted.
+
+                    ALEXANDER
+          Do you have a romantic bone in your
+          body?
+
+                    PHILBY
+              (completing the tie)
+          No, I'm all bowler hat, remember?
+
+Alexander quickly goes to his old coat and transfers his
+pocket watch, journal and many loose scraps of paper covered
+in equations to the new coat as:
+
+                    PHILBY
+          Alex, really... good luck tonight. 
+          She's a fine girl, and she's done
+          wonderful things for you.
+
+                    ALEXANDER
+          Oh?
+
+                    PHILBY
+              (smiles)
+          She's gotten into your equations.
+
+Alexander stops, looks at him.  Smiles.
+
+                    ALEXANDER
+          I guess she has.
+
+He glances at his pocket watch.
+
+                    ALEXANDER
+          I've got to hurry...
+
+He hurries out, Philby following...
+
+INT.  ALEXANDER'S HOUSE - STAIRS - EVENING
+
+Alexander races down the stairs, tucking the watch into his
+vest.
+
+They pass a series of clocks of every size and shape that run
+down the wall along the stairway.
+
+                    PHILBY
+          All these clocks -- how can you
+          constantly be running late?!
+
+                    ALEXANDER
+          Perseverance.
+
+INT.  ALEXANDER'S HOUSE - ENTRY HALL - EVENING
+
+Mrs. Watchit waits.  Alexander and Philby appear down the
+stairs.
+
+                    MRS. WATCHIT
+          Now that's more like it.  You look
+          a proper gentlemen for once.
+
+                    ALEXANDER
+          Then if Emma turns me down will you
+          marry me?
+
+                    MRS. WATCHIT
+              (dry)
+          Oh, I'm already swooning.
+
+                    ALEXANDER
+          Ouch -- all right, wish me luck.
+
+He begins to sprint out the door -- Mrs. Watchit stops him
+with:
+
+                    MRS. WATCHIT
+          You might be wanting this?
+
+She holds up a velvet ring box.  He takes the box.
+
+                    ALEXANDER
+          Oh -- Thanks.  Well...
+              (a wink to Philby)
+          ... Time's a wastin'!
+
+With that he is out the door.
+
+Mrs. Watchit and Philby stand for a moment, catching their
+breath after Alexander's tornado of enthusiasm.
+
+                    PHILBY
+          I wonder if that poor girl has any
+          idea what she's in for?
+
+                    MRS. WATCHIT
+          For our sake, I hope not.
+
+EXT.  FIFTH AVENUE - NIGHT
+
+The many luxurious horse-drawn carriages glide along Fifth
+Avenue with stately dignity.  Rich pedestrians stroll along
+the sidewalk.
+
+Alexander leaps out of a carriage and begins to stride toward
+an entrance to Central Park.
+
+He passes a Flower Seller.
+
+                    FLOWER SELLER
+          Have some flowers, sir?
+
+                    ALEXANDER
+          Not tonight, thanks.
+
+He continues on toward the entrance to the Park -- stops.
+
+                    ALEXANDER
+          No -- I promised her flowers.
+
+He turns around and hurries back toward the Flower Seller. 
+But...
+
+A sudden mechanical clanking sound makes him stop dead in his
+tracks.  The Siren's song...
+
+He turns...
+
+Pulled over to the curb is a magnificent Stanley Steamer
+automobile.  It is a glorious collection of bronze and copper
+and steel and wooden dashboard and leather upholstery and
+groaning steam tank and clanking engine.  Alexander stares,
+transfixed.
+
+Alexander glances at his watch -- running late -- but he just
+can't resist this new marvel.  Flowers forgotten, Alexander
+steps to the MOTORIST, currently tinkering with the car's
+engine.
+
+                    ALEXANDER
+          It's spectacular...
+
+                    MOTORIST
+          Thanks.  Old Nell's my girl all
+          right.  Al least when she decides
+          to move, stubborn beast.
+
+                    ALEXANDER
+              (walking around the car,
+               admiring)
+          I've only read about them -- and
+          the new internals.
+
+                    MOTORIST
+          Now that's what I call plain crazy 
+          -- internal combustion is just too
+          dangerous, all those little
+          explosions, never catch on.
+
+                    ALEXANDER
+          How do you keep the water
+          temperature stable?
+
+                    MOTORIST
+          There's a cantilevered gasket on
+          the --
+
+Suddenly -- the car lurches forward dangerously -- Alexander
+instantly grabs the brake lever and hauls it back -- the car
+screeches to a stop.
+
+                    MOTORIST
+          God -- could have killed me -- bad
+          girl, Nell!  How did you know to do
+          that?
+
+                    ALEXANDER
+          I just love mechanical things.
+
+                    MOTORIST
+          Well, much obliged -- I'm always
+          forgetting the confounded brake --
+          say, if you wait until I get her up
+          and running I'll give you a
+          perambulation.  Tell you all about
+          her.
+
+                    ALEXANDER
+              (pained)
+          Ahhh... I'm afraid I've got a prior
+          commitment.
+
+                    MOTORIST
+          Next time then.  We perambulate
+          here most every night.
+
+                    ALEXANDER
+          You have my word...
+              (he takes a last, longing
+               look at the car)
+          ... She's just a beauty.
+
+He sprints off into Central Park.
+
+EXT.  PAVILION - CENTRAL PARK - NIGHT
+
+A full moon shines in the night sky.
+
+Gentle period music from a band, glowing lanterns hanging
+down and the swaying shapes of dancers.
+
+We are at a beautiful pavilion in Central Park.  A magical
+antique setting of ease and grace.  White linen suits and
+straw boaters.  Parasols and high-button shoes.
+
+A beautiful woman stands with her back to us watching the
+dancers... she slowly turns...
+
+EMMA smiles.
+
+Alexander stands, just watching her, bewitched.
+
+Then they come together and kiss lightly, as befits 1895
+decency.
+
+                    EMMA
+          You're late.
+
+                    ALEXANDER
+          Got here as soon as I could.
+
+                    EMMA
+          Dance with me...
+
+                    ALEXANDER
+          You know I can't.
+
+                    EMMA
+          Trust me...
+
+She takes his hand and they dance.  She is a natural dancer,
+smooth and gentle.  He does his best, following her minute
+cues with great sensitivity.
+
+As they dance:
+
+                    EMMA
+          You promised me flowers.
+
+                    ALEXANDER
+          What?
+
+                    EMMA
+          You promised me flowers tonight,
+          don't you even remember?
+
+                    ALEXANDER
+          Sorry... I was distracted.
+
+                    EMMA
+              (lightly)
+          Well there's something new.
+
+                    ALEXANDER
+          I need to... um... talk to you.
+
+                    EMMA
+          Talk away, Professor.
+
+                    ALEXANDER
+          Not here... alone.  May we? 
+          Please?
+
+She leads him from the dance floor.
+
+                    EMMA
+          Let's walk through the park...
+
+EXT.  CENTRAL PARK - PATH - NIGHT
+
+Alexander and Emma walk through the park, arm in arm,
+enjoying the exquisite night.
+
+Flickering gaslights provide a dim illumination on the path
+they follow as it winds through the dark foliage.
+
+                    EMMA
+              (looking at
+               constellations)
+          ... Orion's belt, pointing to the
+          earth.  You see it over the rocks
+          there?  Sailors consider that an
+          omen of good fortune; the hunter
+          watching over them on their
+          travels... Are you listening to me,
+          Alex?
+
+                    ALEXANDER
+              (glancing up)
+          What?  Yes -- Orion -- good fortune
+          -- sailors.
+
+                    EMMA
+          All right, what is it now?
+
+                    ALEXANDER
+              (nervously)
+          Emma, you know I have great...
+          admiration for you.
+
+                    EMMA
+          Admiration?  My my.
+
+                    ALEXANDER
+          I mean... well... affection.
+
+                    EMMA
+          You're getting warmer.
+
+He stops.
+
+                    ALEXANDER
+          Oh dammit, I love you!  I can't
+          eat, I can't sleep, I can't think,
+          all I do is moon over you and --
+          hum, apparently.
+
+                    EMMA
+              (mock seriously)
+          And what do you propose, Professor? 
+          Shall we hold a seminar to study
+          the problem?
+
+A beat.  He takes a huge gulp of air and then commits himself
+-- he dramatically drops to one knee -- and then in a great
+rush of words:
+
+                    ALEXANDER
+          Marry me.  I'll do everything I can
+          to make you happy and build a life
+          and have babies and make you proud
+          and be worthy of you and... ah...
+          make you happy, did I say that?
+
+She looks down at him, tears of joy coming to her eyes.
+
+                    EMMA
+          Oh, Professor...
+
+He leaps up and embraces her.  A long, joyous embrace.
+
+He stops --
+
+                    ALEXANDER
+          Wait, I have something for you.
+
+He searches through his many pockets -- coat, vest, pants --
+begins plucking out the loose scraps of paper covered with
+equations -- but can't seem to find the jewelry box.
+
+She watches him for a moment, amused, loving him all the more
+for his befuddlement.
+
+                    EMMA
+          You know, the moment is rather
+          dying here.
+
+                    ALEXANDER
+          Hold on... I know I have it...
+
+He finally finds the velvet jewelry box.  Snaps it open. 
+Inside is a lovely moonstone ring.  The gem is a pale,
+translucent blue mirroring the full moon above.
+
+                    ALEXANDER
+          I know it's not a diamond but --
+
+                    EMMA
+          A moonstone.
+
+                    ALEXANDER
+          Your birth stone.  I thought --
+
+She holds a finger to his lips.
+
+                    EMMA
+          You thought right.
+
+He slips the ring on her finger.  She holds it up to the
+moonlight, deeply moved.
+
+                    EMMA
+          Look, it matches the moon...
+
+Then...
+
+A low voice from the thick trees next to them.
+
+                    VOICE
+          I just might cry.
+
+Alexander and Emma turn to see a tall THIN MAN stepping from
+the trees.  His hands are buried deep in his overcoat
+pockets.
+
+                    THIN MAN
+          Couldn't help but overhearing.  Two
+          fine young people starting out on
+          the road of life.  I wish you the
+          very best.
+
+                    ALEXANDER
+          Thank you...
+
+                    THIN MAN
+          I hope it's a happy journey for you
+          both -- and much as I hate to do
+          this, moved as I am by your
+          protestations of love, I'll be
+          needing your money now.
+
+                    ALEXANDER
+              (smiles)
+          Sir...?
+
+                    THIN MAN
+          And your jewelry too.  I guess we
+          could consider this your first
+          little bump on the road to married
+          bliss.
+
+                    ALEXANDER
+          I don't understand.
+
+The Thin Man removes a hand from his pocket.  He holds a
+small revolver.
+
+                    THIN MAN
+          Now don't make a scene... there's
+          no cause for that.  Just hand over
+          your wallet, will you?
+
+He holds the gun up, lethal, a sudden glint as the barrel
+shines in the moonlight.
+
+                    THIN MAN
+          Did you hear me, lad?
+
+                    ALEXANDER
+          All right, all right -- here --
+          everything --
+
+Alexander swiftly gives the man his billfold.
+
+                    THIN MAN
+          And the watch.
+
+Alexander hands over his pocket watch as the Thin Man eyes
+Emma's ring.
+
+                    THIN MAN
+          And the ring.
+
+                    EMMA
+          No --
+
+                    THIN MAN
+          I'm afraid so, darling.  Maybe
+          he'll buy you a diamond now.
+
+                    ALEXANDER
+          Please, not that -- look --
+
+The Thin Man pulls back the hammer of the revolver.  Click.
+
+                    THIN MAN
+          Give me the ring.
+
+                    EMMA
+          No...
+
+The Thin Man suddenly lurches forward and grabs Emma's arm --
+trying to wrench the ring violently from her finger --
+Alexander instantly springs to her defense -- a struggle --
+
+The gun fires -- the flash of cruel, phosphorous light
+momentarily illuminating them all starkly --
+
+Emma recoils to Alexander -- Alexander looks at the Thin Man,
+disbelieving --
+
+The Thin Man glares at him --
+
+                    THIN MAN
+          Why did you do that?!  It's only a
+          ring!
+
+The Thin Man races away into the darkness.
+
+Alexander holds Emma, she clings to him, blood flowing over
+his fingers.  He snatches her up and carries her -- running
+urgently through some trees to a carriage path beyond --
+
+Carriages filled with young lovers float past.
+
+                    ALEXANDER
+          HELP ME!  PLEASE!
+
+An empty carriage finally stops -- Alexander lurches into the
+carriage with Emma --
+
+INT./ EXT.  CARRIAGE - CENTRAL PARK - NIGHT
+
+-- Alexander holds Emma in the back of a carriage.  He
+urgently screams to the driver:
+
+                    ALEXANDER
+          GET TO COLUMBUS HOSPITAL!  NOW!
+
+The driver whips his horses and the carriage takes off.
+
+                    ALEXANDER
+          PLEASE HURRY!  WE'VE NO TIME!
+
+                    CARRIAGE DRIVER
+          I'M TRYING SIR -- !
+
+Emma clings to Alexander, her hand clasped tight to his vest,
+blood flowing out of her, pooling.  Her dying eyes just
+watching him.
+
+                    ALEXANDER
+          GOD HURRY PLEASE -- JUST GET OUT OF
+          THE PARK --
+
+And then the carriage slows -- stops -- Alexander stabs his
+head out the window and sees --
+
+A long line of carriage ahead of them.  A traffic jam.  Pairs
+of lovers enjoying the beautiful night, gazing up at the
+stars.
+
+                    ALEXANDER
+          Oh God...
+
+A distant bell begins to toll.  Time inexorably, cruelly
+moving on.
+
+                    ALEXANDER
+          PLEASE -- HURRY!
+
+The driver whips the horse -- tries to maneuver the carriage
+through the traffic jam -- a jumble of horses -- their horse
+shies -- can't get through.
+
+Emma's hand clutches Alexander's vest, fingers moving
+slightly.  The bell continues to toll.  Time running out. 
+Her lips move noiselessly, her eyes stare up at him, praying
+for one parting glance.
+
+He continues to shout to the driver, fighting time, not
+looking at her:
+
+                    ALEXANDER
+              (desperate)
+          FOR GOD SAKE DO SOMETHING!! --
+          JUST -- GET OFF THE PATH!
+
+                    CARRIAGE DRIVER
+          I'm trying, sir! -- I can't get
+          through!
+
+Alexander glances down to Emma.  She is dead.  Her eyes open. 
+He stares at her.  Not wanting to believe.  The bell
+continues to toll.
+
+Fade to Black...
+
+And then a strange sound in the darkness...
+
+The roar of a tiger -- distorted, echoing...
+
+Then another sound...
+
+Click-clack, click-clack, click-clack...
+
+Chalk racing across a blackboard.
+
+Title: FOUR YEARS LATER.
+
+Fade up to...
+
+INT.  ALEXANDER'S HOUSE - LAB - DAY
+
+An endless equation -- Alexander's hand speeds across a
+blackboard -- manic, ferocious.  We pull back to reveal...
+
+An enormous blackboard, floor to ceiling, two stories high,
+filling one wall -- and two other blackboards, filling two
+other walls, also covered with equations.  A shocking flash
+of Alexander's fevered mind.
+
+He stands with his back to us, perched high on a rolling
+library ladder, his hand violently scrawling numbers in a
+frenzied rush.  He pulls the ladder along as he works,
+totally absorbed.
+
+Title: AUGUST 7, 1899 - 5:23 p.m.
+
+The drapes around the room are drawn tight against any hint
+of the day outside.  Windows sealed.
+
+In the flickering gaslight we see a cacophony of scientific
+equipment and experiments filling every inch of the chamber
+below him, two stories filled with beakers and test tubes;
+microscopes and coils; engineering blueprints and gyroscopes;
+and the huge chalkboards crowded with layers upon layers of
+intense calculus and geometry and equations.
+
+There is another large part of the lab, jutting off from the
+house.  A closed curtain conceals this part of the lab.
+
+And all the clocks have stopped.  The steady metronomic
+cadence that was the aural life of Alexander's house is no
+more.  We see a number of clocks around the lab.  All have
+been allowed to run down.
+
+A knock at the door -- Alexander ignores it -- another knock.
+
+He finally turns from the blackboard.
+
+                    ALEXANDER
+          What?!
+
+And we see him -- Alexander is very different now: cadaverous
+and intense, a face that looks as if it has not seen the sun
+in years.  And eyes marked by tragedy.
+
+Mrs. Watchit enters.  The years of dealing with his
+heartbreak have taken a toll on her as well.
+
+                    MRS. WATCHIT
+          Sir, Mr. Philby is here.
+
+                    ALEXANDER
+          Here?
+
+                    MRS. WATCHIT
+          Yes, sir, he --
+
+                    ALEXANDER
+          Tell him to go away --
+
+Philby pushes past Mrs. Watchit.  He wears an overcoat and a
+bowler hat.
+
+                    PHILBY
+          I won't go away, Alex.
+
+Alexander stares down at Philby.  Philby is shocked at the
+change in his friend.
+
+                    ALEXANDER
+          All right, Mrs. Watchit.  You can
+          go.
+
+                    MRS. WATCHIT
+          May I get you some --
+
+                    ALEXANDER
+          That'll be all.
+
+She leaves the lab.
+
+                    PHILBY
+          My God, Alex, what's happened to
+          you?
+
+Alexander climbs down the ladder as:
+
+                    ALEXANDER
+          I've been working.
+
+                    PHILBY
+          I came by the house every day after
+          the funeral.  And then every week. 
+          Then every other month.  Then I
+          stopped coming.  Did you even
+          notice?
+
+                    ALEXANDER
+          I'm sorry, David.
+
+                    PHILBY
+          It hurt me, Alex.  Very much.
+
+                    ALEXANDER
+          Then why are you here?
+
+Alexander proceeds to obsessively tidy the lab, almost hiding
+things from Philby.  Philby is increasingly disturbed by this
+behavior, as:
+
+                    PHILBY
+          It's my Jamie's birthday today. 
+          Your godson.  He's nine years old. 
+          At his party he asked me if Uncle
+          Alex was coming.  I told him no. 
+          Then he asked me if you didn't like
+          him anymore.
+
+                    ALEXANDER
+          For God's Sake, David --
+
+                    PHILBY
+          There are some things I need to say
+          to you.  You may not like hearing
+          them, but I don't know if I'll ever
+          get another chance --
+
+                    ALEXANDER
+          You care for me.  And you're
+          concerned.  And I have to start
+          living my life again.  I hear it
+          from Mrs. Watchit every day.
+
+                    PHILBY
+          But you won't listen.  You won't
+          see me, you won't see anyone.  What
+          would you like me to tell Jamie? 
+          That Uncle Alex is busy?  That
+          Uncle Alex is hiding up there in
+          his laboratory --
+
+                    ALEXANDER
+          Hiding?
+
+                    PHILBY
+          You know that's what it is.  Mrs. 
+          Watchit tells me you're here at all
+          hours -- day and night --
+
+                    ALEXANDER
+              (sharply)
+          That's because I'm working.  You
+          remember that?  You used to care
+          about your work.
+
+                    PHILBY
+          I care more about my life.  And
+          yours.
+
+A difficult beat.
+
+                    PHILBY
+          Alex... Alex, please stand still
+          and look at me.
+
+Alexander stops.  Looks at Philby.
+
+                    PHILBY
+              (gently)
+          What happened to Emma will never go
+          away.  It's part of you now and it
+          always will be.  But you have to
+          learn to live with it...
+
+                    ALEXANDER
+          I live with it every minute of
+          every day.
+
+                    PHILBY
+          I know that --
+
+                    ALEXANDER
+          You don't know that.  You couldn't
+          possibly.  If I'd only done this,
+          or that, if I'd arrived ten minutes
+          earlier, or later.  If we'd taken a
+          different path or I hadn't fought
+          the man for the ring.  You have no
+          idea what it is to relive every
+          moment of that night -- consider
+          every action you made -- and every
+          one of them wrong.
+
+                    PHILBY
+          It wasn't your fault, Alex.
+
+                    ALEXANDER
+          Wasn't it?... I have a dream almost
+          every night now.  The Lady and the
+          Tiger, you remember that story?  In
+          the dream I'm alone in a huge
+          chamber with a thousand doors. 
+          Behind every door, save one, is a
+          tiger.  I have to make the
+          decision.  Which door conceals
+          Emma?  And I just stand there...
+          looking at the doors...
+
+                    PHILBY
+          Do you find her?
+
+Alexander doesn't answer.  A beat.
+
+                    PHILBY
+          Alex, nothing will ever change what
+          happened, but --
+
+                    ALEXANDER
+          That's where you're wrong.  I will
+          change it.
+
+A beat.  Philby looks at him.  Alexander offers nothing more,
+continues to scurry around the lab.
+
+                    ALEXANDER
+          David... I appreciate your concern,
+          I do.  But I ask you to have faith
+          in me.  Just for a little while
+          longer.  I'm working on something
+          now.  Something... extraordinary.
+
+                    PHILBY
+          What is it?
+
+                    ALEXANDER
+          You wouldn't believe me.
+
+                    PHILBY
+          I would.
+
+                    ALEXANDER
+          I'll tell you what... come by for
+          dinner in a week and I'll show you.
+
+                    PHILBY
+          Why don't you come to our house
+          instead?
+
+                    ALEXANDER
+          I can't do that --
+
+                    PHILBY
+          When's the last time you were
+          outside this house --
+              (notes a disheveled cot in
+               the corner)
+          -- or this room?
+
+                    ALEXANDER
+              (tense)
+          I can't leave when I'm so close.
+
+                    PHILBY
+          There are trains leaving Grand
+          Central every then minutes.  A
+          dozen liners leaving the harbor. 
+          Get on one of them.  Go to
+          Singapore, Scotland, Manchuria,
+          anywhere, just away from here --
+
+                    ALEXANDER
+          That's absurd --
+
+                    PHILBY
+          You're dying here.  Don't you see
+          that?!
+
+A tense beat.
+
+                    ALEXANDER
+          You won't say that in a week.
+
+                    PHILBY
+          I pray to God that in a week you're
+          not here.
+
+A beat.
+
+                    PHILBY
+          All right.  I'll come for dinner. 
+          And in the meantime... you'll think
+          about what we discussed?
+
+                    ALEXANDER
+          In a week... we will never have had
+          this conversation.
+
+Philby looks at him, mystified and concerned.
+
+                    ALEXANDER
+          Good night, David.
+
+                    PHILBY
+          Good night, Alex.
+
+Philby turns to go.
+
+                    ALEXANDER
+          Still wearing that bowler hat.
+
+Philby stops.  Turns back.
+
+                    PHILBY
+          It's raining outside.  Open the
+          drapes and you might know that.
+
+He goes.
+
+Alexander stands for a moment.
+
+INT.  ALEXANDER'S HOUSE - LAB - NIGHT
+
+Alexander sits, drinking a glass of brandy.  He is staring at
+the curtain concealing the other part of the lab.
+
+We notice that all the chalkboards have been wiped clean.
+
+He drains the glass of brandy.  Bon voyage.
+
+Then he rises and moves to the curtain.  He pulls the curtain
+back and reveals...
+
+The magnificent creation itself: The Time Machine.
+
+We take in this beautiful creation of curving brass and thick
+velvet, elegant lines and a hopeful feeling of Victorian
+futurism, as Alexander moves to the windows by the machine.
+
+He slowly pulls back all the drapes on the windows.  The Time
+Machine sits in an area of the lab that juts off, like a
+greenhouse with windows offering a generous view of the world
+around him: his quiet garden and the small dress shop across
+the street.
+
+Alexander moves to the Time Machine.  He sits, nervously
+settling in.
+
+The brass control panel ahead of him has a simple display
+showing the year and date -- AUGUST 7, 1899 -- and a control
+lever that moves forward and back.
+
+A beat.  He takes a deep breath and then... reaches for the
+control lever --
+
+                                                  CUT TO:
+
+EXT.  PAVILION - CENTRAL PARK - NIGHT
+
+All is as it was.  Gentle period music from a band, glowing
+lanterns hanging down and the swaying shapes of dancers.
+
+A beautiful woman stands with her back to us watching the
+dancers... she slowly turns.
+
+Emma smiles.
+
+Alexander stands, just watching her, his eyes wide,
+incredibly moved.  We note that Alexander wears the clothes
+he was wearing when he got into the Time Machine.  It is the
+older Alex, pale and thin.
+
+She goes to him and kisses him.
+
+                    EMMA
+          You're late.
+
+                    ALEXANDER
+              (with difficulty)
+          Got here as soon as I could.
+
+                    EMMA
+          Dance with me...
+
+                    ALEXANDER
+          You know I can't.
+
+                    EMMA
+          Trust me...
+
+She takes his hand and they dance.  She is, again, a natural
+dancer, smooth and gentle.  He tries to follow her minute
+cues but the experience of holding her in his arms again is
+almost too much for him.  He is overcome with emotion.
+
+                    EMMA
+          Alex, what is it?
+
+                    ALEXANDER
+          Holding you... again.
+
+                    EMMA
+          Darling.
+
+                    ALEXANDER
+          I need... to talk to you.
+
+                    EMMA
+          All right...
+
+                    ALEXANDER
+          Not here... alone.  Please.
+
+She leads him from the dance floor.
+
+                    EMMA
+          Let's walk through the park...
+
+                    ALEXANDER
+          No... let's walk through the city.
+
+                    EMMA
+              (a little mystified)
+          All right...
+
+He takes her hand and leads her away from the pavilion --
+
+Then he stops, sees he must lead her through one of a number
+of tree-lined paths out of the park.  The gaping darkness of
+the park is strangely ominous.  Behind each door a tiger.
+
+                    EMMA
+          Alex, what is it?
+
+                    ALEXANDER
+          Nothing -- let's just get out of
+          the park.
+
+He takes her arm and makes his decision -- he pulls her
+quickly down one of the paths.
+
+EXT.  CENTRAL PARK - PATH - NIGHT
+
+Alexander pulls Emma toward an exit to the city, going as
+quickly as he can.  His eyes dart nervously into the dark
+trees around them.
+
+                    EMMA
+          Alex...?!
+
+                    ALEXANDER
+          Shhh.  Let's just hurry on here. 
+          We don't have to talk, all right?
+
+She stops, pulling him.
+
+                    EMMA
+          Why do we have to race for heaven's
+          sake?!
+
+                    ALEXANDER
+              (looking around, alert)
+          I want to get into the light,
+          that's all.  Please...
+
+He pulls her along.
+
+                    EMMA
+          This running along is all well for
+          you -- you're not wearing a corset.
+
+Then a sound stops him -- an unholy echo through the night,
+tormenting him from his nightmares -- the roar of a tiger.
+
+                    ALEXANDER
+          My God...
+
+                    EMMA
+          Alex, it's just the zoo.
+
+He grabs her and pulls more quickly, a little desperate.
+
+                    ALEXANDER
+          Please, Emma, it's just a little
+          further.
+
+He hurries her along.  They finally reach the exit and emerge
+from Central Park to Fifth Avenue...
+
+EXT.  FIFTH AVENUE - PARK EXIT - NIGHT
+
+He stops, looks around, sees lots of pedestrians and
+carriages and gaslight.  Safety.  Victory.
+
+He breathes deeply and smiles.  He offers her his arm.
+
+                    EMMA
+          Oh, now you're all gallant.
+
+She shakes her head and then takes his arm.  They stroll.
+
+EXT.  FIFTH AVENUE - NIGHT
+
+A bit later.  Alexander and Emma make their way down this
+most magnificent of boulevards.  He holds her arm tightly, as
+if in fear of losing her again.
+
+                    EMMA
+          You're so pale... I hope you're not
+          coming down with something.
+
+                    ALEXANDER
+          No, I'm fine.  I'm...
+              (laughs)
+          ... wonderful.  Just walking down
+          the street with you again.
+
+                    EMMA
+          We took a walk three days ago.
+
+                    ALEXANDER
+          Not like this.  Never like this. 
+          Emma, I swear to you -- if I've
+          learned one thing, it's that
+          moments like this are rare.  And I
+          will thank God for them every
+          moment of every day.
+
+She is confused at his strange intensity, but respects his
+seriousness.
+
+                    EMMA
+          They are rare...
+              (she glances up at the
+               constellations above)
+          ... Orion's belt, pointing to the
+          earth --
+
+                    ALEXANDER
+              (smiles)
+          The sailor's omen of good fortune. 
+          The hunter watching over him on his
+          travels.
+
+                    EMMA
+          So it's astronomy now, is it?
+
+They are passing by the Stanley Steamer at the curb Alexander
+saw earlier.  The Motorist is still tinkering with the
+engine.
+
+                    EMMA
+          Heavens, look at that now!
+
+                    ALEXANDER
+          I've seen it.
+
+He continues escorting her along.
+
+                    EMMA
+          Now I know you're ill -- passing up
+          the chance to explore some new
+          gadget.
+
+                    ALEXANDER
+          It's only a machine.
+
+She stops.  Genuinely concerned now.
+
+                    EMMA
+          Alexander... tell me what's going
+          on.  Is something wrong?
+
+He looks at her deeply:
+
+                    ALEXANDER
+          No, Emma.  Everything is finally
+          right.  Tonight we're going to
+          start all over again.  And this
+          time... I'm never going to let you
+          go.
+
+He kisses her deeply.  She is shocked at this public display
+of affection, pulling back slightly.
+
+                    EMMA
+          Alex... people are staring.
+
+                    ALEXANDER
+          Let them.
+
+He kisses her again.
+
+                    EMMA
+          Let them.
+
+                    ALEXANDER
+          I have something for you...
+
+He pats his pockets, feels the jewelry box, smiles.  Then he
+notes the Flower Seller he saw before.
+
+                    ALEXANDER
+              (smiles)
+          Wait -- I want to do it right this
+          time -- stay here, don't move...
+
+Emma stands, mystified, as he goes to the Flower Seller.
+
+                    FLOWER SELLER
+          Have some flowers, sir?
+
+                    ALEXANDER
+          Yes, as many as you have!
+
+A sudden sound makes him spin back --
+
+A frenzy of movement -- on the curb, the Stanley Steamer
+suddenly lurches forward -- the brake not set -- the Motorist
+jumps out of the way -- the Steamer slams forward to the
+street full of horse-drawn carriages -- a horse rears and
+bolts -- panic, screams -- the horse lurches to the curb --
+toward Emma -- the carriage topples over --
+
+Burying Emma in a violent crash.
+
+Alexander races to Emma -- too late.  A crowd begins to form. 
+Alexander folds himself over her in wordless torment.
+
+INT.  ALEXANDER'S HOUSE - LAB - NIGHT
+
+Alexander sits in his lab, glaring at the Time Machine. 
+Tormented.  Eyes haunted.  Drinking a glass of brandy.  Not
+his first.
+
+He glares at the Time Machine, his fury building -- then he
+bolts up -- flings the brandy glass away from him -- it
+shatters -- strides across the lab -- throws himself into the
+Machine.
+
+                    ALEXANDER
+          Time heals all wounds -- then let
+          it!
+
+He SLAMS the control lever forward violently -- in fury -- a
+high-pitched whine -- building -- the world undulating around
+Alexander --
+
+Suddenly all the silent clocks in Alexander's lab begin to
+tick --
+
+TIME TRAVEL
+
+Alexander's spine immediately arches back -- he screams in
+pain --
+
+The molecules of his body revolt as they are torn forward
+through time -- as time tears through him -- his whole body
+suffers as he bends and floats and rips through time -- when
+he turns his head his whole face seems to elongate --
+
+He's going too fast -- he eases back on the control lever --
+the pain receding somewhat --
+
+And the world around him changes --
+
+The sun rises and then sets and then rises; in his garden
+snails zoom past flowers that bloom and die in an instant;
+apples grow ripe and then fall and decay in his garden; a
+complicated spider's web grows in a corner of his laboratory
+in seconds --
+
+The sun and moon now shoot through the sky, a strobe-like
+flashing of day and night, finally settling into a strange,
+perpetual grey light.
+
+He begins to control the lever a bit more -- it is sensitive
+to his touch -- soon he can glance around a bit without
+absolute agony -- and then with no pain at all --
+
+In the window of the dress shop across the street he watches
+a female mannequin as she is redressed, her clothes morphing
+from style to style, a swirl of styles and outfits.  And new
+buildings spring up across the street as the seasons pass in
+a blur, summer-fall-winter-spring-summer-fall-winter-spring.
+
+His journey is accompanied by a strange symphony -- sound
+bending around him; voices, music, period radio news reports,
+industry.  Sounds that float and flit through his
+consciousness, distorted, barely recognizable.
+
+And bizarre shapes move through his world as well -- ghost
+like apparitions -- strange and eerie as they bend and morph
+through space -- people.
+
+He can almost control the appearance of the people as he
+gently modulates his speed with the control lever -- he sees
+Mrs. Watchit bending through time -- Philby, concerned --
+then people he doesn't know, architects with blueprints,
+pointing --
+
+Then the world directly around him is changing -- his lab
+changing -- walls being torn down --
+
+His lab is now a GARAGE -- a series of swiftly morphing cars
+denoting the passing time as years spin by on his control
+panel display in a dizzying blur: 1905... 1919... 1924...
+
+In the distance he sees New York City expanding -- the
+Chrysler Building (1930) and the Empire State Building (1931)
+shoot up.
+
+Then the garage is torn down around him -- another
+construction going up -- larger -- a RESTAURANT.
+
+He modulates the control lever -- controlling the ebb and
+flow of time -- the patrons of the restaurant huddled around
+a radio, a news report, FDR's voice... "December 7... A day
+that will live in infamy..."
+
+He notes a store going up next to the dress shop: a newspaper
+shop -- sees banner headlines as the years sweep past -- 
+D-DAY! -- VE DAY! -- VJ DAY! -- an enormous celebration in
+the street.
+
+The years spin by on his control panel: 1946... 1953...
+1957...
+
+The strange aural symphony continues as he hears music and
+news, the music evolving from swing to early rock...
+
+The restaurant dissolves around him and a HOUSE grows up --
+he is in a den -- a black-and-white TV on -- Alexander gapes 
+-- slowly, slightly...
+
+On the TV: JFK's funeral... in the den he sees the shape of a
+family nestled together, watching the funeral, weeping...
+
+He presses on.  The years spin by on his control panel:
+1963... 1966... 1969...
+
+On the new color TV in the den: news reports of the Apollo
+11, Neil Armstrong stepping on the moon... "One small step
+for man..."  Alexander stares, amazed.
+
+The aural and visual symphony continues... rock segueing to
+disco, Vietnam news...
+
+He is shocked to see the mannequin in a miniskirt!  He sees
+the dress shop becoming a department store and the newspaper
+store becoming a high tech electronics shop --
+
+On a bank of TVs in the electronics shop window he sees Nixon
+leaving the White House for the last time, August 9, 1974,
+walking to the helicopter, the ferocious victory "V"...
+
+Then Alexander is suddenly outside as the house is demolished
+-- quickly eroding around him -- he is in a VACANT LOT...
+
+He is stunned to see the towers of the World Trade Center
+looming in the distance -- the rollerskaters with boom boxes
+swirling past with the grace of ballet dancers -- and
+something so fantastical that Alexander can only gape...
+
+An airplane soaring above.
+
+The years zip by on his control panel: 1979... 1985...
+1989...
+
+More disjointed sounds and images, TV reports and radio news
+and music: oil crisis, plop-plop-fizz-fizz-oh-what-a-relief
+it-is, Ronald Reagan, punk rock, Gulf War, Clinton...
+
+Then order from the chaos -- the overgrown vacant lot is
+landscaped -- becoming a beautiful PARK...
+
+He slows a bit, almost stopping -- intrigued by a
+transformation across the street: the banks of TV screens are
+replaced by an informational kiosk of some kind.
+
+The control panel display clicks more slowly... February
+2005... April 2005... May 2005...
+
+Alexander continues to stare at the information kiosk as he
+comes to a stop, briefly, at: MAY 24, 2005
+
+EXT.  PARK (2005) - DAY
+
+Alexander sits unnoticed in the Time Machine as he watches a
+group of schoolchildren and their teacher gathering around
+the informational kiosk.  It is a public information booth
+with a video screen showing the word VOX.  A glowing red blip
+within the "O".
+
+The Vox kiosk is activated when the TEACHER steps in front of
+a sensor eye.
+
+                    VOX KIOSK (V.O.)
+          May I help you?
+
+                    TEACHER
+          Yes, please... tell us about the
+          terraforming.
+
+The children watch, delighted, as images of the moon and
+renderings and videos of some massive engineering project
+appear on the Vox screen.
+
+                    VOX KIOSK (V.O.)
+          The joint United Nations/Microsoft
+          terraforming operation began nine
+          months ago with the Moon Base Alpha
+          landings.  After establishing
+          Plymouth Center the terraformers
+          began colony construction.  Can I
+          tell you more?
+
+                    CHILD
+          What are they doing now?
+
+Alexander watches, stunned.  A machine that converses with
+people.
+
+                    VOX KIOSK (V.O.)
+          Currently, the terraformers are
+          preparing the first excavation
+          demolitions for the subterranean
+          chambers.  It is projected that the
+          first lunar colonists should be
+          landing within the decade.  Can I
+          tell you more?
+
+Alexander gapes at the Vox kiosk.  Magnificent renderings of
+a vast underground metropolis.  People living on the moon.
+
+He must see this grand adventure out.  He presses on...
+
+TIME TRAVEL
+
+But almost immediately the Time Machine is lurching and
+buffeting -- a strange darkness spreading over it as air raid
+sirens scream --
+
+Alexander is alarmed -- he begins to pull back on the control
+lever -- the date on the display clicks to: AUGUST 26, 2007.
+
+And Alexander and the Time Machine suddenly topple over as
+the ground lurches below them --
+
+EXT.  PARK (2007) - DAY
+
+Alexander looks up from the grass...
+
+Right into the eyes of a small albino alligator.
+
+The alligator blinks at him and then slithers off, a brood of
+other alligators with it.
+
+Alexander glances to the street -- sees an enormous pack of
+rats emerging from a sewer drain -- a thick, undulating
+carpet of rats --
+
+And Alexander feels the vibrations.  The earth, a steady
+rumble.  His eye is drawn to a small puddle of water near
+him.  The water swirls around strangely and then -- whoosh --
+forms into a vortex and spirals away into the sky --
+
+Alexander follows the water with his eyes and finally sees
+it...
+
+The Moon.
+
+Filling the sky as if it were falling toward the Earth.
+
+Parts of the moon are beginning to sheer off -- violently
+peeling away like the skin of an onion -- as it impacts the
+gravitational Roche Limit, 7,300 miles above the Earth.  (The
+moon is currently 230,000 miles above the Earth.)
+
+The people on the street race around, tense and desperate,
+flowing along the streets and sidewalks.  National Guard
+soldiers are trying to retain order, urgent voices into
+megaphones --
+
+Alexander hauls himself up -- and races into the mob --
+
+EXT.  STREET (2007) - DAY
+
+He grabs a man --
+
+                    ALEXANDER
+          What's going on -- ?!
+
+The Man pulls away from him, terrified -- Alexander is
+bustled along the sidewalk in the mass of people -- He turns
+to a woman:
+
+                    ALEXANDER
+          Please tell me -- what's
+          happening?!
+
+She ignores him -- he is buffeted along in the mob of people 
+-- then, a voice, remarkably calm in the chaos, a familiar
+voice:
+
+                    CALM VOICE
+          May I help you?... May I help
+          you?... May I help you?...
+
+Alexander pushes his way through the frenzy of people toward
+the voice.  Finds himself at...
+
+The front steps of the Fifth Avenue New York Public Library. 
+The twin stone lions looming over the chaos on the street.
+
+The calm voice is coming from another Vox kiosk, an upgrade
+of the one he saw previously.  Alexander unintentionally
+activates the unit by stepping in front of a red sensor eye.
+
+                    VOX KIOSK (V.O.)
+          May I help you?
+
+                    ALEXANDER
+          I -- what are you?!
+
+                    VOX KIOSK (V.O.)
+          I am the Fifth Avenue Public
+          Library informational kiosk.  VOX
+          registration NY-114.  May I help
+          you?
+
+                    ALEXANDER
+          What's happening to the moon?!
+
+Informational videos appear on the screen, showing the cause
+and horror of the moon's fall, as:
+
+                    VOX KIOSK (V.O.)
+          The 2005 terraforming demolitions
+          for the lunar excavations sent the
+          moon into a diminishing retrograde
+          orbit resulting in global
+          gravitational fluctuations,
+          increased seismic activity and
+          tidal anomalies.  Can I tell you
+          more?
+
+                    ALEXANDER
+          No -- wait -- the moon's falling
+          out of orbit -- that's not
+          possible!
+
+                    VOX KIOSK (V.O.)
+          Well, considering it is, in fact,
+          happening, I would assume it's
+          possible.  The retrograde orbit
+          began in 2005 when the demolitions
+          for the lunar colonies --
+
+                    ALEXANDER
+          Why is it -- breaking up?
+
+                    VOX KIOSK (V.O.)
+          I was getting to that... The moon
+          has reached the gravitational Roche
+          Limit, 7,300 miles above the
+          surface of the Earth.  This has
+          created pressure on the lunar
+          stratum beyond gravitational
+          tolerances.  It might be helpful to
+          know that the nearest public
+          evacuation shelters can be found at
+          Grand Central Station, Madison
+          Square Garden --
+
+Then -- behind Alexander -- the entire street EXPLODES up --
+the asphalt twisting crazily -- people tossed through the
+air --
+
+And Hell has come to earth.
+
+The earth begins to shake and quake and undulate violently --
+as if gravity itself is rebelling.
+
+Above -- a huge part of the moon breaks away --
+
+Alexander gapes around -- horrified to see violent seismic
+and gravitational upheavals -- the tectonic plates shifting
+wildly, jutting up at harsh angles -- the East River swirling
+into a twisting cyclone of water spiraling into the sky --
+
+And most shocking of all: a volcanic mountain BURSTING up
+through Manhattan.
+
+A National Guard soldier races to him --
+
+                    SOLDIER
+          Underground -- we have to -- !
+
+His words are drowned out by a DEAFENING BLAST -- the
+reverberation sending SHOCK WAVES down the street -- people
+are thrown through the air, blood streaming from some
+punctured eardrums --
+
+In the distance, the volcano is ERUPTING --
+
+The soldier hustles a mass of people toward a subway entrance
+-- they scurry down --
+
+Alexander spins around and races back, towards the Time
+Machine.
+
+As the Vox Kiosk continues its lonely chore:
+
+                    VOX KIOSK (V.O.)
+          May I help you?... May I help you?
+
+EXT.  STREET (2007) - DAY
+
+Alexander sprints down the street, passing horrific flashes
+of the end:
+
+-- Looters, lighting fires and taking nihilistic joy in their
+   useless treasures...
+
+-- A family, kneeling in prayer, holding hands...
+
+-- Doomsday cultists, celebrating the end.  A macabre Dance
+   of Death as the city dies...
+
+-- A man standing quite calmly, trying to use his cell
+   phone...
+
+-- A taxi trying to drive through the mayhem, desperate
+   people attacking the taxi, trying to get in, trying to get
+   away...
+
+Then -- the earth HEAVES violently and Alexander is thrown to
+the ground -- in the distance, but much closer, another
+VOLCANO BLASTS UP -- THRUSTING through the earth -- RIPPING
+aside the Empire State Building and most of midtown
+Manhattan --
+
+Alexander barely has time to pull himself to his feet before
+it happens again --
+
+The THUNDEROUS explosion -- the cascading SHOCK WAVE --
+Alexander is hurled through the air --
+
+He SMASHES into a parked car, shattering the windshield -- he
+rolls off the car, his coat shredded, a gaping wound in his
+side --
+
+As the new, closer volcano ERUPTS in a torrent of spewing
+lava -- great rivers and explosions of lava everywhere --
+
+JETS of lava SHOOT through the air -- incinerating everything
+in sight --
+
+Gasping through his pain, Alexander rises and hurries down
+the street -- he tosses off his shredded coat -- his injury
+slows him, but he goes as quickly as he can --
+
+But a vast TIDAL WAVE OF LAVA is careening after him --
+burning everything --
+
+And then he see it... the park... the Time Machine.
+
+It is a race against time as Alexander sprints for the Time
+Machine -- the lava closer and closer --
+
+Alexander leaps to the Time Machine and hauls it to its
+upright position -- the lava is almost on him -- he dives
+into the Time Machine and SLAMS the lever forward --
+
+A high-pitched whine -- building -- the world undulating
+around Alexander --
+
+JUST as the tidal wave of lava ROARS over him --
+
+TIME TRAVEL
+
+Alexander lurches back in agony -- quickly slows the Time
+Machine's momentum -- he pants for breath as the red, molten
+lava glows and then quickly cools into --
+
+Darkness.
+
+The eerie blue glow from the Time Machine's control panel is
+the only light.
+
+Alexander is now inside a mountain, the perfect sphere of
+time-energy around the Machine his only salvation.
+
+He pushes the lever forward more -- the years spin by on his
+control panel in a blur -- he grits his teeth in pain -- the
+rapid bending through time assaulting him --
+
+Time passes...
+
+Alexander is having real trouble breathing now --
+
+The years continue to spin past on his control panel in a
+dizzying blur.
+
+Time passes...
+
+Alexander is in agony -- his body writhes from the assault of
+time -- every movement is torture -- his skin vibrates and
+stretches bizarrely -- and he is almost out of air, panting
+for breath --
+
+He takes one last deep gasp of air --
+
+And holds the breath -- the seconds tick away -- the years
+shoot past on his control panel, truly a race against time --
+
+He's not going to make it -- he can't hold his breath a
+second longer --
+
+Suddenly -- a flash of blinding sunlight --
+
+The mountain around the Time Machine begins to erode --
+quickly wearing away --
+
+Alexander immediately pulls back on the control lever --
+reducing his momentum and the assault on his body -- he takes
+a deep, gasping breath --
+
+The date on the display quickly clicks forward and finally
+stops at: JULY 12, 802,701.
+
+Alexander looks at the date, stunned, gasps for breath,
+fainting...
+
+Fade to black...
+
+INT.  HOUSE - VISIONS - DAY/NIGHT
+
+Visions as Alexander fades in and out of consciousness.
+
+-- Night.  Candles...
+
+-- Night.  Emma's face... close, concerned... a beautiful
+   angel welcoming him to death... No, not Emma... Another
+   woman.
+
+-- Day.  Hands, dressing the wound on his side.  Tender...
+
+-- Day.  A room.  In a pleasant, rustic house...
+
+-- Night.  The woman again.  Not Emma.  But close,
+   concerned...
+
+INT.  MARA AND KALEN'S HOUSE - SUNSET
+
+Alexander awakes.  Looks around.  A simple room in a simple
+house.  He sees his wound has been dressed and cared for.
+
+He slowly rises and pulls on his shirt and vest.  Goes to the
+door of the house...
+
+EXT.  ELOI VILLAGE - SUNSET
+
+Alexander emerges from the house...
+
+And finds himself in a village built around a large central
+square.  All the buildings are unadorned and designed with
+architectural simplicity.  It has an agrarian and peaceful
+feeling.
+
+And it is totally deserted.
+
+The entire village is enclosed by a great, wooden wall. 
+Large gates open to the world beyond.  Everywhere beyond this
+barricade is lovely mountainous and forest scenery.
+
+Alexander wanders to the square.
+
+                    ALEXANDER
+          Hello...?
+
+Nothing.  His word echoes around the eerily empty village.
+
+He notes that several tables are waiting in the square.  Set
+for dinner.  Plates and cups and utensils.  No food.
+
+                    ALEXANDER
+          Is anyone here...?
+
+Again.  Nothing.
+
+He goes to the open gates and steps out...
+
+EXT.  OUTSIDE THE ELOI VILLAGE - SUNSET
+
+A path leads away from the village, cutting through a
+magnificent forest with lush foliage.
+
+He begins to follow the path -- then stops when a curious
+squirrel scampers onto the path.  The squirrel looks at him,
+large eyes, tilting inquisitive head.
+
+Alexander smiles at seeing something so familiar in this
+strange time.
+
+                    ALEXANDER
+          Hello...
+
+The startled squirrel turns and scampers away -- and
+Alexander is shocked to see a flash of vermillion scales on
+its back.  Not a squirrel at all.
+
+Alexander continues on for a bit.  Most of the lush
+vegetation is alien to him: enormous fruit hanging on
+colorful vines; gentle petals and dandelion-like wisps that
+float on the breezes.  It is an untamed wilderness exploding
+with verdant beauty.
+
+And then he hears something...
+
+Voices.
+
+He stops, alert.
+
+Then he sees figures, heading up the path towards him.
+
+And Alexander sees the ELOI.  About two hundred of them are
+trooping up the path.  They are completely human-looking. 
+Very healthy.  Simple clothing, not unlike what Alexander is
+wearing.  And not one is over the age of 30.
+
+Alexander braces himself, not sure what to expect.
+
+The Eloi see him... And go to him enthusiastically. 
+Alexander instinctively steps back.  No need.  The beautiful
+woman who was tending his wounds, MARA, is first to him.
+
+                    MARA
+          You're up!  You must be feeling
+          better --
+
+                    ALEXANDER
+          Yes...
+
+More Eloi crowd around him, all very friendly.  A slightly
+older Eloi, late 20's, KORUS, steps to him.
+
+                    KORUS
+          And hungry, I'd say.  You had such
+          a long journey.
+
+                    ALEXANDER
+          I did...
+
+                    KORUS
+          Well, we're happy you're here. 
+          Come inside.
+
+                    MARA
+          We want to hear all about it.
+
+Korus and Mara lead Alexander back toward the village.
+
+KALEN, Mara's nine-year-old son, grabs Alexander's hand. 
+Alexander is surprised.  The Eloi are seemingly a bit more
+tactile than we are.
+
+                    KALEN
+          How did you get hurt?
+
+                    MARA
+          Kalen...
+
+                    KALEN
+              (eagerly)
+          I found you.  I saved your life. 
+          You were bleeding all over the
+          place!
+
+                    MARA
+          That's quite enough, Kalen.
+
+Korus claps an arm around Alexander's shoulders
+enthusiastically, Alexander rocks from the hearty embrace.
+
+                    KORUS
+          Let the poor man eat first, then he
+          can tell us the whole story!
+
+He leads the befuddled Alexander back toward the village.
+
+EXT.  ELOI VILLAGE - NIGHT
+
+The gates to the village are now securely locked, a heavy
+crossbar in place.
+
+Alexander and the Eloi are eating dinner, the tables now full
+of fruits and vegetables.  Braziers burn around the central
+square.  Everyone strains to see and hear Alexander.
+
+Mara watches him particularly closely from across the table,
+her cautious eyes never leaving him.
+
+                    ALEXANDER
+          "Eloi"?
+
+                    KORUS
+          What are your people called?
+
+                    ALEXANDER
+          Well, I guess you'd call us... New
+          Yorkers.
+
+                    KORUS
+              (savoring the words)
+          New Yorkers.
+
+                    MARA
+          How long did you travel?
+
+                    ALEXANDER
+          Well it seems like a long time --
+          but it wasn't really.  It's rather
+          hard to explain.
+
+                    KALEN
+          It must have been hard, leaving
+          your work.
+
+                    ALEXANDER
+          The journey is part of my work.
+
+                    KORUS
+          You can work with us as soon as
+          you're feeling better... Looks like
+          a climber to me.
+
+The Eloi agree.  Definitely a "climber."
+
+                    KORUS
+          We had another visitor from beyond
+          the valley about four years ago. 
+          His name was Moren.  Do you know
+          him?
+
+                    ALEXANDER
+          No...
+
+                    KORUS
+          He said he traveled for two months.
+
+                    ALEXANDER
+          I took a different route.
+
+                    KALEN
+          What did you do at night?
+
+                    MARA
+              (a bit quickly)
+          What's it like where you come from?
+
+                    ALEXANDER
+          Oh, very different.  But not
+          entirely... I mean we have lots of,
+          um, trees and such.  But not
+          everywhere.  And more roads.  And
+          buildings.
+
+                    KORUS
+          Why?
+
+                    ALEXANDER
+          To live in.  There's a lot of us...
+          beyond the valley.
+
+                    KORUS
+          New Yorkers.
+
+                    ALEXANDER
+          Yes.  I hope you won't take this
+          the wrong way but is there someone
+          older I could talk to?  An elder or
+          patriarch of some kind?
+
+The Eloi look at him a little oddly.
+
+                    KORUS
+          I am the oldest.
+
+                    ALEXANDER
+          No, I mean someone considerably
+          older.  Your father perhaps?
+
+                    KORUS
+          My father has gone to a better
+          place.
+
+                    ALEXANDER
+          I'm sorry, I didn't mean to...
+
+                    KORUS
+          Of course.  You're just tired. 
+          Mara, will you look after Alexander
+          tonight?
+
+                    MARA
+          Yes.
+
+                    ALEXANDER
+          Thank you.
+
+                    KORUS
+              (stands, toasting)
+          Friends, join me in welcoming our
+          brother from beyond the valley,
+          Alexander.
+
+The Eloi stand and toast.  Applause and good fellowship. 
+Before Alexander can open his mouth to respond the Eloi are
+clearing the table.  A bit abruptly.
+
+Mara and Kalen go to Alexander, they head back to their
+house.
+
+                    KALEN
+          Now how did you get hurt?
+
+                    ALEXANDER
+          I had an accident.
+
+                    KALEN
+          I figured that.  What kind of
+          accident?
+
+                    MARA
+          Kalen, don't be morbid.
+
+Kalen grabs Alexander's hand and pulls him along.
+
+                    KALEN
+          What do you do on the towers?
+
+                    ALEXANDER
+          On the towers?
+
+                    KALEN
+          I'm training to be a high climber.
+
+                    MARA
+          We'll see about that.
+
+                    KALEN
+          I am.  Are you a climber?
+
+                    ALEXANDER
+          Ah... no.
+
+                    KALEN
+          Don't tell me you're a mud carrier.
+
+                    ALEXANDER
+          'Fraid so.  Just a regular old...
+          mud carrier.
+
+Kalen is disappointed.
+
+                    MARA
+          That's all right, Kalen...
+              (a wry glance to
+               Alexander)
+          ... Mud carriers are important too.
+
+They continue on toward their house.
+
+INT.  MARA AND KALEN'S HOUSE - NIGHT
+
+Alexander sits with Kalen and Mara.  The boys's eyes alive
+with wonder.
+
+                    ALEXANDER
+          ... Thousands and thousands of
+          people.  And sometimes we live in
+          great buildings that reach up five
+          or ten stories.
+
+                    KALEN
+          And everyone looks like us?
+
+                    ALEXANDER
+          Exactly like you.  Well, maybe not
+          as healthy.
+
+                    MARA
+          Is there a lot of illness?
+
+                    ALEXANDER
+          Some.  But I mean we aren't all
+          so... handsome.
+
+                    KALEN
+          I want to see your home.  Will you
+          take me?
+
+                    MARA
+          Kalen, right now you need to go up
+          to bed.  You're exhausting
+          Alexander.
+
+                    KALEN
+          You'll tell me more tomorrow?
+
+                    ALEXANDER
+          I will.  Good night.
+
+Kalen kisses his mother and then kisses Alexander.  He goes
+up the stairs, disappearing to another part of the house.
+
+                    ALEXANDER
+          His curiosity is amazing.
+
+                    MARA
+          Mm.
+
+A beat.  Mara gazing at Alexander.
+
+                    MARA
+          Come to the roof.  We can talk
+          there.
+
+EXT.  MARA AND KALEN'S HOUSE - ROOF - NIGHT
+
+Alexander and Mara emerge from a stairway to the flat roof of
+the house.
+
+Alexander stops, looking up...
+
+The moon -- or what's left of the moon -- shines in the
+night.  Oddly shaped shards are spread out in uneven
+intervals.  It is bizarrely beautiful.
+
+                    ALEXANDER
+          My God...
+
+Mara notes his reaction as she sits at the edge of the roof
+by a large brazier.  She lights a fire in the brazier as:
+
+                    MARA
+          Sit with me.
+
+He goes to her and sits.
+
+He notices that other Eloi are also sitting on their roofs
+all around the village, braziers burning like campfires
+through the night.
+
+                    MARA
+          Kalen will tire you out if you let
+          him.  He's always been curious. 
+          His father was firm with him but...
+          it's just his way.
+
+                    ALEXANDER
+          Your husband is dead?
+
+                    MARA
+          He's gone to a better place.
+
+He looks over the peaceful night.
+
+                    ALEXANDER
+          It's hard for me to imagine a
+          better place.  Where I come from
+          there's so much... frenzy.  Day and
+          night.  It seems we're all running
+          faster and faster...
+              (he smiles)
+          ... All in identical bowler hats.
+
+                    MARA
+          You're not from beyond the valley.
+
+                    ALEXANDER
+          What makes you say that?
+
+She reaches into her clothing and pulls out his pocket watch. 
+She holds it up.
+
+                    MARA
+          We don't have anything like this. 
+          Or the machine where Kalen found
+          you.  And I doubt they do beyond
+          the valley... Now where do you come
+          from?
+
+                    ALEXANDER
+          You might find the truth rather
+          hard to understand.
+
+                    MARA
+              (dry)
+          Then you can speak slowly.
+
+He smiles.  Fair enough.
+
+                    ALEXANDER
+          All right... I'm from here.  Around
+          here anyway.  The machine where you
+          found me allowed me to travel
+          through time... I'm from the past.
+
+She looks at him.
+
+                    MARA
+          Oh, that explains everything.
+
+                    ALEXANDER
+          I know it's hard to believe, but
+          it's true.
+
+                    MARA
+          That machine --
+
+                    ALEXANDER
+          Allowed me to travel from my time
+          to yours.
+
+                    MARA
+          How long ago?
+
+                    ALEXANDER
+          More than 800,000 years.
+
+She looks at him.  She looks at his pocket watch.  Then back
+at him.
+
+                    MARA
+          Why?
+
+                    ALEXANDER
+          Why not?
+
+                    MARA
+          Why would you do that?
+
+Alexander doesn't respond.
+
+                    MARA
+          I might find the truth rather hard
+          to understand?... Can you go back?
+
+                    ALEXANDER
+          Yes.  Or forward into the future. 
+          I suppose I really should check on
+          the machine, see that it hasn't
+          been damaged...
+
+                    MARA
+          I'll take you tomorrow... You must
+          have seen a lot on your journey.
+
+                    ALEXANDER
+          For a time it was astounding.  I
+          saw the years spinning by, I was in
+          the years spinning by.  We made
+          such advances.  I don't understand
+          half of them.  There was a machine
+          that talked to me and others that
+          flew through the sky... We must
+          have been incredible thinkers and
+          artists --
+
+A sudden scream cuts through the night -- Kalen -- Mara bolts
+up, races down into the house, Alexander following --
+
+INT.  KALEN'S ROOM - NIGHT
+
+Kalen is sitting up in bed, eyes wide, screaming -- Mara runs
+to him, holds him closely -- Alexander stands in the doorway.
+
+                    MARA
+          Kalen, it's all right, I'm here --
+
+                    KALEN
+              (terror)
+          They're here!  They're inside the
+          house -- !
+
+                    MARA
+          No, you're safe --
+
+                    KALEN
+          They're inside --
+
+                    MARA
+              (calming)
+          Kalen, look at me.  There's no one
+          here but us.  You see... I'm here,
+          you're here, Alexander's here. 
+          There are no Morlocks.  It was just
+          a dream...
+
+She holds him closely, he is weeping uncontrollably.
+
+                    MARA
+          You're safe...
+
+Alexander moves away, allowing them their privacy.
+
+EXT.  MARA AND KALEN'S HOUSE - ROOF - NIGHT
+
+Alexander sits, looking over the night.  He notes that most
+of the Eloi have gone in, but, oddly, their fires still burn
+on the rooftops.
+
+He glances up at the stars, gazing at the dazzling mosaic of
+beautiful lights.
+
+                    MARA'S VOICE
+          He's asleep.
+
+Alexander turns.  Mara is standing at the entrance to the
+roof.
+
+                    ALEXANDER
+          Is he all right?
+
+                    MARA
+          Just a dream.  You should sleep
+          too.  You're still not well.
+
+A beat.
+
+                    MARA
+          I'm going to sit with Kalen.  Keep
+          the fire burning if you can.
+
+                    ALEXANDER
+          I will...
+
+A beat.  She doesn't move.
+
+                    MARA
+          I'll take you to your machine
+          tomorrow.
+
+                    ALEXANDER
+          Thank you...
+
+A beat.  She doesn't move.
+
+                    MARA
+          You seem fascinated by the stars.
+
+                    ALEXANDER
+          You can see so many here.
+
+                    MARA
+              (smiles)
+          Don't then have stars where you
+          come from?
+
+                    ALEXANDER
+          Not like this... They don't seem so
+          bright with all the city lights.  I
+          never really noticed them much...
+
+A beat.  He is on the verge of asking her to join him in
+enjoying the night.
+
+                    MARA
+          Good night, then.
+
+                    ALEXANDER
+          Good night.
+
+She turns to go...
+
+                    ALEXANDER
+          Mara... what's a "Morlock"?
+
+She stops.
+
+                    MARA
+          A child's nightmare, that's all.
+
+She goes into the house.
+
+He sits for a moment, looking over the beautiful night.  He
+glances up at the shards of the moon.
+
+O Brave New World...
+
+EXT.  DREAMSCAPE - DAY/SUNSET
+
+We are moving through the Eloi world.  Through lush jungles
+and glades and forests.  Everywhere around us there are
+fascinating geological and botanical wonders to behold...
+
+Bucolic and beautiful.  Idyllic...
+
+And then the landscape is more mountainous, rocks and the
+beginning of a splendid desert... the sun is setting... the
+desert sand burns red in the sunset... still beautiful...
+
+And then a shape appears in the distance -- we sweep toward
+it -- it is hulking -- predatory -- terrifying -- sparkling
+red as if the setting sun is reflecting from shinning
+metal --
+
+INT.  MARA AND KALEN'S HOUSE - DAY
+
+-- Alexander bolts awake.  Unsettled by the dream.
+
+EXT.  FOREST PATH - HILL - DAY
+
+Alexander and Mara are making their way up an ascending path
+through the forest with the rest of the Eloi.  Kalen is ahead
+of them with some other children.
+
+Korus comes to them:
+
+                    KORUS
+          Good morning, Alexander.  Feeling
+          up to some work?
+
+                    ALEXANDER
+          I suppose so.
+
+                    MARA
+          I'm going to take him to where
+          Kalen found him first.
+
+                    KORUS
+          And then you'll join us?
+
+                    MARA
+          Yes.
+
+                    KORUS
+          Good.  We'll see you later then.
+
+He moves ahead, walking briskly.  Excited about a day of
+work.
+
+                    ALEXANDER
+          Mara, I had a strange dream last
+          night.  I was here, walking through
+          a forest very much like this, and
+          then...
+
+                    MARA
+          Then you came to a desert and
+          mountains...
+
+                    ALEXANDER
+          Yes.
+
+                    MARA
+          And you saw a shape ahead of you...
+
+                    ALEXANDER
+          Yes!
+
+                    MARA
+          We all have that dream.
+
+                    ALEXANDER
+          All of you?
+
+                    MARA
+          Every night.
+
+                    ALEXANDER
+          You share dreams?  That's
+          incredible.
+
+                    MARA
+          We share everything.
+
+He slows, looking ahead, amazed.
+
+In the distance, just over the crest of the hill he sees a
+strange point, like the top of a high steeple, jutting up to
+the sky.
+
+They approach the crest of the hill...
+
+EXT.  HILLTOP - DAY
+
+Alexander stands, utterly staggered, looking down into a
+valley.
+
+And he sees...
+
+A city... not exactly... s sculpture... no...
+
+Imagine Monument Valley.  Man-made.
+
+Twisting spires and towers and monoliths shoot up for a
+hundred feet, swirling multicolored constructions of sand and
+stone.  They are mammoth creations that bend and twist and
+soar, filling the valley.  There is a bizarre sort of
+architectural order to the creation, yet it is also inspired
+and mad and emotional.
+
+                    MARA
+          Our work.
+
+They begin to descend into the valley with the rest of the
+Eloi.
+
+EXT.  VALLEY - ELOI CREATIONS - DAY
+
+Among the towers now, Alexander sees the fabulous detail to
+the constructions.  They are beautiful, soaring combinations
+of mud and stone sculpture; fabric and wood; sand and
+flowers.
+
+It is ethereal pyramid building: primitive creation of
+stunning artistic courage and clarity.
+
+Already the Eloi are busy.
+
+Like a race of master builders, they climb wooden
+scaffoldings and scale ropes -- swarming busily around the
+towers like insects -- unified in their task of amazing
+artistic creation.
+
+Alexander and Mara move through the towers.
+
+                    ALEXANDER
+          This is magnificent...
+
+                    MARA
+          Thank you.
+
+                    ALEXANDER
+          And this is your "work"?
+
+                    MARA
+          Yes.
+
+They pass some Eloi carrying mud from a nearby river to the
+towers.
+
+                    MARA
+              (dry)
+          The mud carriers.
+
+                    ALEXANDER
+          I can see Kalen's point.
+
+                    MARA
+          Want to be a high climber now, do
+          you?
+
+                    ALEXANDER
+          What you need is an engineer.  If
+          you set up a system of pulleys and
+          counterweights, some basic block
+          and tackle mechanism, you could to
+          this a lot more easily.
+
+                    MARA
+          It's not supposed to be easy, it's
+          supposed to be beautiful.
+
+                    ALEXANDER
+          What's it all for?
+
+                    MARA
+          I don't understand.
+
+                    ALEXANDER
+          I mean, why do you do it?  What
+          purpose does it serve?
+
+                    MARA
+          It has no purpose.  It's just
+          beautiful... Does everything have a
+          purpose where you come from?
+
+                    ALEXANDER
+          Most things.  We're very high on
+          purpose.
+
+                    MARA
+          It's always been this way here.  We
+          work on the towers all our lives. 
+          When we're young we train to be
+          planners or climbers or
+          sculptors...
+
+                    ALEXANDER
+          Or mud carriers.
+
+                    MARA
+          And there's no shame to that.  It's
+          all the same here.  Everyone has an
+          important job to do.  We all work
+          together and couldn't survive
+          without each other.
+
+                    ALEXANDER
+          What are you?
+
+                    MARA
+          I'm a planner.  I help decide where
+          the new towers go and what they
+          should look like.
+
+                    ALEXANDER
+          How do you decide?
+
+                    MARA
+          I try to imagine how they'll look
+          when they're done.  I try to
+          imagine how we'll fit in with
+          them... our place in the world.
+
+Alexander is impressed with her quiet words, so much like his
+own creative passion.
+
+He stops, taking in the communal activity everywhere around
+him for a moment.  Enjoying the warm sunshine and peaceful
+surroundings.  
+
+Paradise.
+
+He continues to gaze at the towers, smiling.  Mara looks at
+him, almost on the verge of saying something.  She decides
+against it.
+
+                    MARA
+          We should go if you want to see
+          your machine.
+
+They continue on.
+
+EXT.  FIELD - NEAR SUNSET
+
+The first stars are beginning to shine in the night sky as
+Alexander and Mara make their way across an open field.
+
+                    ALEXANDER
+          ... It was a great city.  The
+          greatest city in the world.
+
+                    MARA
+          You liked it there.
+
+                    ALEXANDER
+          Oh, very much...
+              (he points)
+          ... I used to work somewhere in
+          that direction, I think.  A huge
+          university where we taught
+          everything from botany to history
+          to literature.
+
+                    MARA
+          Learning was important?
+
+                    ALEXANDER
+          Oh very.  Learning, commerce, the
+          arts -- the whole place was buzzing
+          all the time.  Night and day.
+
+                    MARA
+          Did you have fires at night?
+
+                    ALEXANDER
+          Only to keep warm.  For
+          illumination we had gaslights on
+          most of the streets and a new
+          invention called electrical
+          lighting that made it seem like
+          daylight all through the night.
+
+                    MARA
+          It must have been safe.
+
+                    ALEXANDER
+          Oh, it was...
+              (beat)
+          ... Most of the time.
+
+                    MARA
+          It sounds like a wonderful place to
+          live.
+
+                    ALEXANDER
+          Looking back... I suppose it was. 
+          I didn't quite realize it at the
+          time but...
+
+Alexander stops, frozen.  Staring up.
+
+                    MARA
+          Alexander...?
+
+                    ALEXANDER
+              (quietly)
+          Orion's belt...
+
+The constellation gleams in the sky.  The string of three
+stars pointing to the earth.  Exactly as it was on the night
+Emma died.  Alexander looks around, amazed, getting his
+bearings:
+
+                    ALEXANDER
+          Those rocks, over there... they're
+          the same... this is... Central
+          Park.
+
+                    MARA
+          You know this?
+
+                    ALEXANDER
+          Over there was Fifth Avenue -- and
+          the Plaza Hotel was there... this
+          is... the carriage path.  We're on
+          the carriage path.
+
+A stunning realization for Alexander.  The stars and rock
+formations confirming his thoughts.
+
+                    ALEXANDER
+          The whole world is different.  But
+          this never changes...
+
+A long beat as he looks around, his eyes full of pain.
+
+                    ALEXANDER
+          This is where my journey started...
+          right here.
+
+                    MARA
+          You lost someone.
+
+                    ALEXANDER
+          Yes.
+
+                    MARA
+          Someone you loved very much.
+
+                    ALEXANDER
+          Yes... After her death, it was
+          intolerable for me here... The
+          future had to be better.
+
+                    MARA
+          Is it?
+
+                    ALEXANDER
+          If you only knew...
+
+A beat.  He looks at her deeply.
+
+                    ALEXANDER
+          You've welcomed me into your home. 
+          Into your lives.  Everyone has...
+          For the first time in a long time
+          it doesn't hurt quite so much.  I
+          thank you for that.
+
+                    MARA
+          I know what it is to lose someone. 
+          When my husband was taken from
+          us... I thought the pain would
+          never end.
+
+She gently touches his face.
+
+                    MARA
+          But time helps.
+
+A beat.  She breaks the moment, turning:
+
+                    MARA
+          Now let's see this amazing machine
+          of yours.
+
+She moves off.  He takes one final glance at Orion's belt,
+and then follows.
+
+One of the squirrel-like creatures scampers after them and
+then stops -- and something bizarre happens -- the squirrel's
+jaws distend unnaturally -- and it vomits forth an eyeball --
+
+The human-looking eyeball oscillates on a thick mechanical
+tendril.  Watching Alexander and Mara.  Spying.
+
+EXT.  JUNGLE - SUNSET
+
+The Time Machine awaits.  It sits at the edge of some thick
+jungle foliage.
+
+Alexander goes to it.  Mara following.  He circles the
+machine, checking it.
+
+                    ALEXANDER
+          Good -- it looks fine.  We had
+          quite a ride together...
+
+                    MARA
+          It's undamaged?
+
+                    ALEXANDER
+          Yes... a little scorching on the
+          upholstery but otherwise all ship-
+          shape.
+
+                    MARA
+          So you can use it now?
+
+                    ALEXANDER
+          Yes... I suppose so.
+
+                    MARA
+          Go back to your own time?
+
+                    ALEXANDER
+          I could...
+
+Suddenly, she is a different person -- she takes his arm
+firmly, her eyes burning into his:
+
+                    MARA
+              (urgently)
+          Alexander, take my son away.  Take
+          him back to your time.  Will you do
+          that?
+
+                    ALEXANDER
+          Mara --
+
+                    MARA
+          Please, I beg you.  Take him away
+          from here --
+
+And then...
+
+A mournful wailing stabs through the night.  A distant horn.
+
+Mara freezes.  Her eyes wide in horror.
+
+                    MARA
+          Kalen...
+
+                    ALEXANDER
+          Mara...?
+
+                    MARA
+          No!
+
+She turns and bolts, racing away from him.
+
+                    ALEXANDER
+          Mara!?
+
+He runs after her -- leaving the Time Machine behind --
+
+                    ALEXANDER
+          Wait -- tell me -- !
+
+Then a frenzy of movement draws his attention back to the
+Time Machine for a moment --
+
+He just sees the Time Machine as it is DRAGGED AWAY --
+amazingly quickly -- something violently hauling it into the
+darkness of the jungle in an instant -- the jungle swallowing
+it up --
+
+Alexander slams to a stop -- amazed -- and then turns to
+follow Mara --
+
+EXT.  FOREST - SUNSET
+
+Alexander and Mara race through the deep forest -- she is
+running flat out -- he struggles to keep up --
+
+                    ALEXANDER
+          Mara -- what -- ?!
+
+                    MARA
+          Kalen -- we have to get Kalen -- !
+
+A building thunder in the forest behind them --
+
+Something approaching -- a crashing cacophony of something
+thrashing quickly through the trees -- closer and closer --
+the earth vibrating, something pounding after them --
+
+Another horn call, closer --
+
+Dark shapes sweeping through the forest behind them --
+
+EXT.  VALLEY - ELOI CREATIONS - SUNSET
+
+Alexander and Mara speed into the valley from the darkness of
+the forest --
+
+The Eloi ahead of them are just standing.  Waiting.  A
+terrible moment of stasis, terror in their eyes.  The world
+coiled.
+
+                    MARA
+          Kalen -- !
+
+An EXPLOSION of horror as the MORLOCKS appear --
+
+They erupt from the dark forest into the valley --
+
+The Morlocks are horrible, muscular creatures with
+unnaturally long and distended jaws and ferocious, huge claws
+like those of a mole --
+
+And they ride horribly mutated horses and let out ferocious,
+animal roars.
+
+About twenty mounted Morlocks sweep into the valley -- the
+Eloi scatter in terror.
+
+It is a hunt.
+
+The Eloi race in panic, so utterly unlike the beatific calm
+of the rest of their lives -- and everywhere the Morlocks
+pursue -- weaving in and out of the Eloi towers and swinging
+heavy nets -- capturing Eloi and dragging them away --
+
+The Eloi scramble desperately to protect their children --
+the Morlocks are brutal -- great claws slamming Eloi aside or
+snatching them up -- nets swinging -- the Eloi never really
+resist -- once they are captured they allow the Morlocks to
+pull them away --
+
+By now the sun is fully setting and it is an unearthly
+spectacle in the blood red dusk, made even more bizarre by
+the glowing red eyes of the Morlocks --
+
+Mara and Alexander race through the mammoth constructions.
+
+                    MARA
+          KALEN! -- KALEN!
+
+Everywhere around them the Morlocks are netting Eloi and
+dragging them away --
+
+But it is not random.  The Morlocks seem to target particular
+Eloi.
+
+A Morlock spins on his horse, his glowing red eyes fasten on
+Mara.  He spurs his horse and gallops toward Mara and
+Alexander.
+
+Alexander sees the Morlock pursuing --
+
+                    ALEXANDER
+          This way!
+
+He pulls Mara towards one of the towers --
+
+The Morlock gallops toward them -- swinging his net -- the
+net traps Mara -- Alexander spins around and grabs the net --
+he yanks at it violently and pulls the Morlock from his
+horse --
+
+The Morlock slams to the ground -- the horse bolts off -- the
+Morlock snarls and slashes at Alexander quickly and then, to
+his absolute shock, the Morlock dives into the earth -- he
+tunnels away with his huge claws in a frenzy of movement --
+disappearing into the ground --
+
+Alexander pulls Mara from the net and hauls her up --
+
+He pulls her to one of the towers and begins climbing,
+hauling her after him, away from the Morlocks --
+
+Another Morlock fastens his crimson eyes on Mara, gallops
+toward them -- swings his net up -- can't reach them.  He
+glares up at Alexander and Mara and then snaps open his huge
+jaws, screeching in frustration --
+
+Then the Morlock below VAULTS from his horse and scales up
+the tower after Alexander and Mara -- he climbs very quickly,
+his great jaws snapping -- they scramble to keep above him,
+desperately climbing -- the Morlock is almost on them when --
+
+They see Kalen -- lost amidst the panic below -- the Morlock
+horses pounding around him -- a frenzy of horror --
+
+                    ALEXANDER
+          KALEN! --
+              (to Mara)
+          -- GO GET HIM -- !
+
+Alexander instantly leaps down on the Morlock pursing them --
+allowing Mara to scale down after Kalen --
+
+The Morlock grapples with Alexander briefly -- essentially
+tossing him aside -- Alexander falls and then lands hard on a
+scaffolding below --
+
+As Mara leaps down and begins racing through the chaos for
+Kalen --
+
+The Morlock on the tower spins around and scales down after
+her quickly --
+
+But Alexander sees that Mara is almost to Kalen --
+
+When SUDDENLY the ground ERUPTS directly before Mara -- a
+Morlock BURST up from the hole and LEAPS on Mara like a lion
+on a gazelle --
+
+He grabs her with his great claws -- Alexander watches,
+impotent -- as the Morlock drags Mara down the hole,
+amazingly quickly --
+
+Then from the forest -- another blast of the horn.
+
+And everything abruptly stops.  The Morlock instantly stop
+pursuing -- the Eloi stop running.
+
+A frozen moment and then...
+
+The horn call ends.
+
+The Morlock spin their horses and gallop into the dark
+forest, disappearing with their prey.
+
+The Eloi look around, slightly dazed, their panic ended as if
+someone flipped a switch.
+
+Alexander sees Kalen's face.  It is too painful.  Alexander
+closes his eyes.
+
+EXT.  ELOI VILLAGE - NIGHT
+
+Alexander stands, frustrated, with Korus and a few Eloi. 
+Braziers burn around the village.
+
+                    ALEXANDER
+          Where do they take them?!
+
+                    KORUS
+          We don't know.
+
+                    ALEXANDER
+          We have to go after them, find
+          where -- !
+
+                    KORUS
+          Alexander, I know you're trying to
+          help.  But they don't come back.
+
+                    ALEXANDER
+          What do you mean?!
+
+                    KORUS
+          They've gone to a better place.
+
+                    ALEXANDER
+          You know that's not true.
+
+                    KORUS
+          We choose to believe it.
+
+                    ALEXANDER
+          My God!  How can you just do
+          nothing!?  They're your friends,
+          your family.  You all knew Mara. 
+          You ate with her and worked with
+          her... Your work in the valley,
+          what is that for if not to --
+
+                    ELOI MAN
+          To find our place in the world
+          and --
+
+                    ALEXANDER
+          No -- it's more than that.  When
+          you create something you say to the
+          world: I was here.  I mean
+          something.  How can you just let
+          that be taken away from you?!
+
+                    KORUS
+          This is out life, Alexander.  It's
+          a hard life but it is how we have
+          always lived.
+
+                    ALEXANDER
+          Then it's time to change that --
+
+                    KORUS
+              (firm)
+          We are what we are.
+
+A tense beat.
+
+                    ALEXANDER
+          You won't even try?
+
+                    KORUS
+          We can't change the day and the
+          night, Alexander.  This is the
+          world.
+
+Alexander sees Kalen standing at the door to his house.
+
+                    ALEXANDER
+          Why don't you try telling him that?
+
+He strides off toward Kalen.
+
+INT.  MARA AND KALEN'S HOUSE - NIGHT
+
+Alexander sits across from Kalen.
+
+Silence.
+
+Kalen goes to him.  Sits next to him.  Strangely comforting.
+
+                    KALEN
+          This is how things happen.  It
+          happened to my father.  My mother
+          said if we remember him every day
+          he'll always be here and we'll feel
+          better.
+
+A beat.
+
+                    KALEN
+          I remember him before I go to
+          sleep.  We built a table once.  I
+          remember that.
+
+He leans his head on Alexander's shoulder.  Both remembering.
+
+EXT.  DREAMSCAPE - SUNSET
+
+More of the shared Eloi dream we saw before...
+
+We are moving through the desert... the sun is setting... the
+desert sand burns red in the sunset...
+
+And then a shape appears in the distance -- we sweep forward 
+-- it is hulking -- predatory -- sparkling red as if the
+setting sun is reflecting from shining metal --
+
+Glowing red -- a great bird of prey -- blazing in the sunset
+now -- enormous coiled shoulders -- sharp talons -- strangely
+metallic --
+
+Then the huge head lunges forward -- the curved beak snapping
+open -- devouring us --
+
+INT.  MARA AND KALEN'S HOUSE - DAY
+
+Alexander bolts awake -- sweating -- terrified.
+
+INT.  MARA AND KALEN'S HOUSE - LATER
+
+Alexander stands at the doorway, watching the Eloi troop off
+to work.
+
+                    KALEN'S VOICE
+          You're thinking about her...
+
+Alexander turns, Kalen is standing in the room.
+
+                    ALEXANDER
+          Yes.
+
+Kalen goes to him.
+
+                    KALEN
+          She didn't want me to be a climber. 
+          She wanted me to be a planner like
+          her.
+
+                    ALEXANDER
+          I'm so sorry, Kalen.
+
+They watch the Eloi troop off to work for a moment.
+
+                    ALEXANDER
+          How can they just go back to work
+          as if nothing happened?
+
+                    KALEN
+          What else can they do?
+
+                    ALEXANDER
+          Kalen... Do you have any idea where
+          they take them?
+
+                    KALEN
+          We're not supposed to think about
+          it.  But I dream about it
+          sometimes...
+
+Kalen is deep in thought.  He finally comes out with it,
+hesitant.
+
+                    KALEN
+          There's a place that might help...
+          we could try going there.
+
+                    ALEXANDER
+          Where?
+
+                    KALEN
+          The Hall of Books.
+
+                    ALEXANDER
+          You have books?!  Kalen, you've got
+          to take me there.  There might be
+          history.  Records.  Something to
+          help us find where the Morlocks
+          took --
+
+                    KALEN
+          I shouldn't have mentioned it.  We
+          can't go there.
+
+                    KALEN
+          Why?
+
+Kalen looks at him.  Deadly serious.
+
+                    KALEN
+          Because it's haunted.
+
+EXT.  JUNGLE - DAY
+
+Alexander and Kalen are making their way through a dense
+jungle path, long overgrown.
+
+                    KALEN
+          No one ever comes here.  My mother
+          told me stories about it late at
+          night.  They tell all the children.
+
+                    ALEXANDER
+          What kind of stories?
+
+                    KALEN
+          About the voice in the darkness. 
+          About the ghosts...
+
+They push through some tangled vines.  A gaping tunnel opens
+into the earth ahead of them.
+
+They stop.  Kalen considers the dark opening.  He bravely
+steels himself.
+
+                    KALEN
+          Climbers should go first.
+
+Then he continues on, Alexander following.  They begin to go
+down into the tunnel, pushing aside overgrown vines and
+foliage.  No one has been this way for a great many years.
+
+INT.  TUNNEL - DAY
+
+They descend the dank tunnel.  Here and there shafts of
+sunlight shoot down from holes above.
+
+                    KALEN
+          I had a friend who came here once. 
+          Sort of a dare.
+
+                    ALEXANDER
+          What happened?
+
+                    KALEN
+          He came back screaming... He never
+          talked about it after that.  I
+          don't think he even got this far.
+
+Not even noticing, they pass by an imposing figure buried
+deep in the sediment of the tunnel wall.  A stone lion, its
+great head just protruding from the rock.
+
+It is one of the lions from the entrance to the Fifth Avenue
+New York City Public Library.
+
+INT.  READING ROOM - DAY
+
+Alexander and Kalen slowly walk into a cavernous chamber --
+shrouded in dust, spiderwebs and cobwebs -- filthy, abandoned
+and echoing.  Eerie.
+
+Around the edges we can just glimpse a sense of something
+familiar, of our time.  They are, in fact, standing in the
+sad remains of the reading room of the New York City Public
+Library.  Massive walls of books.
+
+A dazzling shaft of sunlight shoots straight down from a hole
+above, creating a pillar of light.  Everything else is
+darkness.
+
+Except for a tiny red glow in a far corner of the room.
+
+Then a voice, echoing from the red glow:
+
+                    VOICE
+          May I help you?
+
+Alexander and Kalen stop.
+
+                    VOICE
+          ... It has been one thousand, three
+          hundred and seven years since I
+          have seen a living soul...
+
+The glowing red light approaches, ominous...
+
+                    VOICE
+          And you are alive.  I can feel your
+          pulse from here...
+
+The glowing red light approaches...
+
+                    VOICE
+          If I had known you were coming...
+
+The glowing red light stops just short of the ray of sunlight
+from above...
+
+                    VOICE
+          I would have baked something.
+
+And VOX steps into the pillar of light.
+
+He is a truly horrifying sight.  A human-shaped robot of
+sorts.  A twisting, hideous collection of circuits and wires,
+pistons and metal.  A gaping face-plate.  Bits of ashen skin
+grafted uneasily to rubber and metal.  And one very human eye
+peering from his wretched visage.
+
+The glowing red light comes from deep within his incomplete
+chest cavity.  A power source of some kind.
+
+He has the same voice as the informational kiosk Alexander
+spoke to earlier.
+
+Vox moves with the strange, jerky gait of a machine well past
+his prime.  He lurches about, but with a bizarre sort of
+elegance.
+
+                    VOX
+          My manners have become deplorable
+          through lack of use.  The spiders
+          and the scorpions don't care much,
+          I'm afraid.
+
+He smiles, a truly ghastly sight, and perambulates to a
+bookcase.
+
+                    VOX
+          What can I get you, let's see...
+              (he flips through some
+               books)
+          ... Henry James?  No, too dreary...
+          Hemingway, perhaps?  No, too
+          sweaty.  Plato?  Proust?  Poe? 
+          Pinter?  Pound?  No, something
+          else... ahhhh... I have it...
+              (he hold up a book)
+          ... Jules Verne.
+
+He turns to Alexander.
+
+                    VOX
+          Right up your alley, I would think. 
+          You are from the past, yes?
+
+                    ALEXANDER
+          How did you know?!
+
+                    VOX
+          I can smell carcinogens and
+          industrial pollutants on your skin
+          that have not been known here for --
+              (he leans forward and
+               smells Alexander)
+          -- 800,000 years perhaps.  Don't
+          keep me in suspense.  What year?
+
+                    ALEXANDER
+          1899.
+
+                    VOX
+          I must say, you look remarkably
+          good.  You don't want a book then?
+
+                    ALEXANDER
+          What are you?
+
+                    VOX
+          I'm the librarian.  I've always
+          been the librarian.
+
+                    ALEXANDER
+          I know you -- you're an automaton
+          of some sort that --
+
+                    VOX
+          An "automaton"?!  Please!  I'm a
+          biomechanical organism.  Well,
+          what's left of one.  What's left of
+          all of them, actually.  I am the
+          last...
+              (he sweeps his arms to
+               take in the whole
+               chamber)
+          ... And "these fragments I have
+          shored against my ruins."  T.S. 
+          Eliot.  You wouldn't know him yet
+          but you'll just love him, he's
+          divine, if a little dour.  Very shy
+          though... hiding over here...
+
+He jerks away toward another bookcase.
+
+                    ALEXANDER
+          Sir... have you a name?
+
+                    VOX
+          I am called Vox...
+              (he jerks quickly to
+               Kalen)
+          ... Now you are Eloi.
+
+                    KALEN
+              (terrified)
+          Yes...
+
+                    VOX
+          Don't be frightened, Vox is here to
+          help.  To serve.  How may I serve
+          you, child?
+
+He leans very close to Kalen.  Then quietly and rather
+cruelly baaa's like a sheep.
+
+                    ALEXANDER
+          Please, we need your help.  The
+          Morlocks have taken --
+
+                    VOX
+              (jerking at the word)
+          Morlocks --
+
+                    ALEXANDER
+          You know of them?
+
+                    VOX
+          Who doesn't know the Morlocks?
+
+                    ALEXANDER
+          Do you know where they live?
+
+                    VOX
+          Oh yes... They found our knowledge
+          useful for a time.  They used us
+          much as your people did.  Then they
+          decided they had learned enough so
+          they tore us up for spare parts.
+
+                    ALEXANDER
+          But you escaped.
+
+                    VOX
+          I was lucky.  The others weren't.
+
+                    ALEXANDER
+          How have you survived so long?
+
+Vox touches the red glow in his chest cavity:
+
+                    VOX
+          Regenerating fission reactor, you
+          wouldn't understand.  It's power is
+          well beyond your neanderthal
+          cranial capacity.
+
+                    ALEXANDER
+          Can you show us where they live?
+
+                    KALEN
+          Please... it's important.
+
+                    VOX
+          An Eloi who would seek out the
+          Morlocks?  Aren't you a plucky
+          little thing?
+
+He stares at Kalen, gauging him.  Kalen bravely returns his
+stare.
+
+                    ALEXANDER
+          We need your help.
+
+                    VOX
+              (with rising passion)
+          Why should I help you?  You
+          primates -- you great, lumbering,
+          hairy animals, drenched in blood
+          from the moment of your hideous
+          conception -- what have you ever
+          used knowledge for but destruction
+          and bloodshed!  A little bit of
+          learning and you lay waste to the
+          world!  You're no better than the
+          Morlocks!
+
+                    KALEN
+          They took my mother!
+
+                    VOX
+          THEY TOOK MY ENTIRE RACE!
+
+His thundering words echo around the chamber.
+
+A beat.  Vox calms down.  Takes in his massive walls of
+books.
+
+                    VOX
+          But all that's ancient history. 
+          I'm safe here.  Now I live in
+          serene contemplation.  I commune
+          with the great minds of history. 
+          Socrates, Aristotle, Shakespeare,
+          Martha Stewart.  Why should I risk
+          all of that to help you?
+
+A beat.
+
+                    ALEXANDER
+          Because you'll never die.
+
+                    VOX
+          Excuse me?
+
+                    ALEXANDER
+          You'll live like this forever. 
+          Alone.  You were meant to help.  To
+          be with people.  Not like this.
+
+A long beat.
+
+                    VOX
+              (darkly)
+          So, Relic, you want to open
+          Pandora's box, do you?  See all the
+          mysteries exposed?
+
+                    ALEXANDER
+          Yes.
+
+                    VOX
+          And if the truth is so horrible
+          that it will haunt your dreams for
+          all time?
+
+                    ALEXANDER
+          I'm used to that.
+
+Vox stares at Alexander for a long beat.
+
+                    VOX
+          All right, Dorothy, let's go and
+          see the Wizard.
+
+EXT.  FOREST - DAY
+
+Alexander, Vox and Kalen are making their way down a forest
+path.  Kalen a bit ahead.
+
+Vox talks quietly to Alexander:
+
+                    VOX
+          When was his mother taken?
+
+                    ALEXANDER
+          Last night.
+
+                    VOX
+          Send him away.
+
+                    ALEXANDER
+          What?
+
+                    VOX
+          Send him home.  You don't want him
+          to see it.
+
+                    ALEXANDER
+          Kalen... hold on a minute.
+
+Kalen stops.  Alexander kneels by him.
+
+                    ALEXANDER
+          I think we should go on by
+          ourselves.
+
+                    KALEN
+          No...
+
+                    ALEXANDER
+          Please, just listen to me... Your
+          mother would be very cross with me
+          if you got hurt.  I'll find her.
+
+                    KALEN
+          But you're only a mud carrier.
+
+                    ALEXANDER
+              (smiles)
+          I'll be all right... You go back to
+          the village and light the fire.  So
+          we can find our way home.
+
+A beat.
+
+                    KALEN
+          I'll wait for you.
+
+He hugs Alexander, tightly.  And then goes.
+
+A beat.
+
+Vox watches Alexander, actually moved.
+
+                    ALEXANDER
+          Come on.
+
+He rises and they continue down the path.
+
+EXT.  DESERT - DAY
+
+Alexander and Vox are staring up, gazing at something ahead
+of them.  An odd shadow falling across them.
+
+                    ALEXANDER
+          My God... I saw this.
+
+                    VOX
+          It frightens you.
+
+                    ALEXANDER
+          Yes...
+
+                    VOX
+          It was meant to.
+
+And then we see it... like a vision from the shared Eloi
+dream... a great metallic bird of prey... coiled muscles...
+shining red in the light.
+
+It is, in fact, one of the gargoyles from the Chrysler
+Building.  The top of the building towers up from the sand. 
+Shattered and desolate, looming at an odd angle.
+
+                    VOX
+          So, do we go on?
+
+                    ALEXANDER
+          Yes.
+
+                    VOX
+          Aren't you a plucky little -- ?
+
+                    ALEXANDER
+          Oh, shut up.
+
+He bravely moves past the top of the Chrysler Building,
+keeping an eye on the frozen gargoyle as he passes.
+
+Vox smiles and follows.
+
+EXT.  CLIFFS - DAY
+
+Great cliffs soar up like dragon's teeth.  Alexander and Vox
+approach the tallest, sharpest cliff.  Like a knife cutting
+into the sky.
+
+                    VOX
+          ... The Morlocks never bother me. 
+          Why should they?  I'm obsolete. 
+          Where's the danger in a book no one
+          wants to read?
+
+Vox notes one of the little squirrel-like creatures.  He
+calmly crushes it under his foot.
+
+Alexander is surprised but says nothing.
+
+Then Vox stops at the great cliff, gazing up, a complex
+tornado of emotions flashing across his one human eye.
+
+                    VOX
+              (quietly)
+          I have not seen this place for
+          120,000 years... Very well, Relic. 
+          Here's the way in.
+
+Alexander stares at the wall of impenetrable stone.
+
+                    VOX
+          It's not what you think.  Touch it.
+
+Alexander slowly reaches forward -- his hand passes through
+the stone.
+
+                    VOX
+          It's what they want you to see.
+
+                    ALEXANDER
+          This is the way in?
+
+                    VOX
+          Yes... Are you sure you want to do
+          this?
+
+                    ALEXANDER
+          Yes.  But you've done enough. 
+          Thank you for your help... I hope
+          someday people read your books
+          again.
+
+And then Alexander takes a breath and... steps through the
+wall.  Disappearing.
+
+Vox stands for a moment.  Thinking.  And follows Alexander
+through the wall...
+
+INT.  MORLOCK CAVES - DAY
+
+Alexander turns.
+
+                    VOX
+          In for a penny, in for a pound.  Do
+          you know that saying?
+
+                    ALEXANDER
+          Yes... Thank you.
+
+And they turn to face...
+
+The lair of the Morlocks.
+
+It is a serpentine network of tunnels that shoot off
+dramatically in all directions.  Some of the tunnels are
+rough and natural, stalagmites and stalactites gaping like
+teeth.  Others are smooth and architectural, seeming almost
+man-made.
+
+In the rocks around them, we can just glimpse relics from the
+Old World -- buried under thousands of years of rock
+formation and evolution -- treasures deep in the sediment.
+
+Bit of New York -- a building -- a car -- a soda machine --
+twisting subway tracks arching into the darkness.
+
+And in the background a steady inhalation and exhalation -- a
+constant rasping and hollow moaning -- as if the Earth itself
+was breathing.
+
+And the low thrum of machinery.
+
+                    ALEXANDER
+          Machines?
+
+                    VOX
+          Yes.
+
+                    ALEXANDER
+          Do you know which way?
+
+Vox stands frozen... his nightmares coming back to haunt him.
+
+                    ALEXANDER
+          Vox?
+
+                    VOX
+          This way.
+
+They begin to move through a tunnel...
+
+INT.  MORLOCK CAVES - SUBWAY TUNNEL - DAY
+
+Although he doesn't know it -- and such a thing would be
+unknown to him anyway -- Alexander and Vox are traveling down
+the remains of a decaying New York City subway tunnel.
+
+They pass bits of crumbling tile on the wall -- the letters
+"I.R.T." and "42nd Street" are just visible through years of
+grime and geological growth.
+
+They move toward the next chamber, the source of the strange
+breathing and mechanical sounds seems to be coming from this
+new chamber...
+
+They emerge on a ledge high above...
+
+INT.  MORLOCK CAVES - MACHINERY CAVERN - DAY
+
+Alexander and Vox peer down, hidden.
+
+If Alexander had the knowledge of its existence he would know
+he is above the sunken remains of Madison Square Garden.  The
+whole Garden has fallen in on itself at some points, at
+others the cathedral of metal girders support the ceiling
+high above.
+
+The air around them vibrates and whooshes, the breathing
+sound roaring.  And at last Alexander can see the source...
+
+Machines.  Towering, sweating, industrial.  A network of
+enormous pipes and electrical cables and air channels like
+the circulator system of a body that twist off in every
+direction.  A sweatshop Hell.  A mechanized Dante's Inferno
+of wood and leather and steel.
+
+And the Morlocks are working.  All the machines are powered
+by the brute strength of the Morlocks alone.  They labor
+among the hellish machines -- slowly turning great wheels and
+pulling at enormous bellows and hauling ropes and grinding
+levers.  They are nightmare figures of a Bosch painting.
+
+Alexander looks down in amazement.
+
+                    ALEXANDER
+          What's it all for?
+
+                    VOX
+          The air... the power.
+
+                    ALEXANDER
+          Why did they built it?
+
+                    VOX
+          The Morlocks didn't build this.
+
+Alexander looks at him.
+
+                    VOX
+          Alexander... Listen to me, it was
+          wrong to bring you.  You're not
+          going to find what you're looking
+          for.
+
+                    ALEXANDER
+          What do you mean?
+
+                    VOX
+              (grim)
+          Trust me... You don't want to see
+          any more.
+
+A beat.
+
+                    ALEXANDER
+          Show me.
+
+Vox looks at him for a moment.  And leads him down another
+tunnel...
+
+INT.  MORLOCK CAVES - HALL OF BONES - DAY
+
+The tunnel gradually opens out, getting wider and wider,
+opening to a vast chamber...
+
+And as the tunnel opens out, they get a stunning perspective
+of the whole...
+
+Bones.  Skeletons.  The entire chamber is a vast necropolis.
+
+They are standing in an enormous hall entirely made up of
+Eloi bones and skulls and rib cages and complete skeletons. 
+Some buried deep into the sediment -- some reaching out for
+them like grisly nightmare images -- an entire sweeping wall
+of skulls on one side.  At other places the bones glisten
+wetly, fresh kill.
+
+Here and there around the chamber holes drop away to
+blackness, gaping chasms.
+
+A silent beat as they take in the horror everywhere around
+them.
+
+                    VOX
+          The slaughterhouse.
+
+Alexander looks around, shattered.
+
+                    VOX
+          They raise them like cattle... Feed
+          them until they're ready and then
+          hunt them.
+
+                    ALEXANDER
+          No...
+
+                    VOX
+              (a whisper)
+          How are your dreams now?
+
+His words hang in the air for a moment as Alexander takes in
+the gruesome chamber.
+
+                    ALEXANDER
+          This has to end.
+
+                    VOX
+          End...?
+
+                    ALEXANDER
+          This has to end.
+
+Vox looks at him.
+
+                    VOX
+          May I help you?
+
+Before Alexander can respond --
+
+The ground beside them suddenly EXPLODES up -- bones fly --
+
+Morlocks ERUPT up from the ground -- Alexander tries to
+resist -- but he is quickly overpowered --
+
+A Morlock grabs Vox and BRUTALLY flings him aside -- Vox
+falls into a gaping hole -- sailing down -- SLAMMING against
+the sides of the abyss -- his body RECOILING grotesquely like
+a rag doll, shattered -- he CRASHES to the bottom of the
+chasm, lies still --
+
+Above, a Morlock leans over the defeated Alexander, he opens
+his enormous jaws wide and screeches down at Alexander,
+inches away, Alexander can see into his throat.
+
+INT.  MORLOCK CAVES - EVOLVING TUNNEL - DAY
+
+Two Morlocks are leading Alexander down a long, sloping
+tunnel, deeper and deeper and deeper.  But this tunnel is
+different.
+
+It evolves from the natural subterranean and bone caves of
+the Morlocks to rough walls and then walls with decaying
+frescos and tapestries.  It is as if Alexander is walking
+through a microcosm of man's development.
+
+A tall figure is waiting ahead of them in the deep darkness
+of the tunnel.  The Morlocks stop, Alexander as well.
+
+Alexander peers at the figure, trying to see.  Too dark.
+
+Then a voice.  Surprisingly gentle.
+
+                    GENTLE VOICE
+          I won't be what you expect...
+
+A beat.
+
+                    GENTLE VOICE
+          We're not really so different, you
+          and I.
+
+Then a light.  A pulsing bio-electric glow radiates from the
+figure, illuminating it from within, and Alexander sees...
+
+The UBER-MORLOCK OVERLORD.
+
+The Uber-Morlocks are strange creatures.  The centuries of
+living deep underground without any physical activity have
+left them anemic and enervated.  They are fragile, weak,
+elongated creatures.  Their skin is almost translucent --
+like bizarre mutations of a man and a silverfish.
+
+A beat as Alexander takes in this eerie figure.  The Overlord
+bears a disturbing resemblance to Dean Fulton.
+
+                    OVERLORD
+          It's bio-electric illumination. 
+          Like certain deep sea creatures
+          from your own time.
+
+He moves to Alexander.  The Uber-Morlocks move slowly, almost
+having lost ambulatory power.  The Overlord stops close. 
+Studies Alexander.  Then smiles.
+
+                    OVERLORD
+          Come... see your future.
+
+He ushers Alexander into...
+
+INT.  UBER-MORLOCK CHAMBERS - DAY
+
+A breathtaking cacophony of the past and the future.
+
+A serpentine honeycomb of chambers that combine a Victorian
+Jules Verne sense of the "future" with artifacts from our
+world: obelisks of cars and computers; towers of scientific
+equipment alongside rotting advertising posters and preserved
+animals floating in huge tanks.
+
+Mammoth columns of decaying books soaring up like monoliths. 
+Vast towers of enormous tomes of every description.
+
+Here and there in the murky darkness of the network of rooms
+we see flickering lights -- decaying power cables -- the hum
+and sputter of some machinery in the shadows.
+
+The Overlord slowly leads Alexander through the network of
+chambers, past the amazing artifacts.
+
+                    OVERLORD
+          What's your name?
+
+                    ALEXANDER
+          Alexander.
+
+                    OVERLORD
+          Well, Alexander, as a fellow
+          scientist I know you have a
+          thousand questions --
+
+                    ALEXANDER
+          You came underground when the world
+          was ending above.  And you evolved. 
+          Some into the Morlocks and others --
+
+                    OVERLORD
+          No, we created the Morlocks.
+
+                    ALEXANDER
+          Created?
+
+                    OVERLORD
+          You wouldn't understand.  We
+          genetically engineered the Morlock
+          class to serve our needs.
+
+                    ALEXANDER
+          As slaves.
+
+                    OVERLORD
+          To work the machines and build the
+          tunnels.  You can't imagine what it
+          was like when it all started.  We
+          survived for millennia, scraping
+          the lichen and microscopic
+          organisms from the rock with our
+          teeth and digging for water with
+          our nails.  Endlessly.  For
+          generations.  And we... became.
+
+The Overlord continues to lead Alexander through the
+chambers, the two Morlocks following.  Alexander can see that
+the Morlocks are clearly terrified by the Overlord.
+
+A few other Uber-Morlocks lurk in the darkness of the corners
+and high walls of the chambers.
+
+                    OVERLORD
+          And centuries later when we tried
+          to emerge into the sun again, we
+          couldn't.  Our adaptation was too
+          successful.  We survived... we
+          endured... for this.
+
+                    ALEXANDER
+          How do you control the Morlocks?
+
+                    OVERLORD
+          We make them see what we wish.
+
+                    ALEXANDER
+          How?
+
+                    OVERLORD
+          As our bodies atrophied our
+          minds... compensated.
+
+The two Morlocks following suddenly stop -- mind control from
+the Overlord freezing them in their tracks.
+
+The Overlord continues to walk with Alexander.
+
+                    ALEXANDER
+          And what of the Eloi?
+
+                    OVERLORD
+          They survived above.  Became what
+          they are.
+
+                    ALEXANDER
+          No... they didn't survive only to
+          be your food.  You did that.
+
+                    OVERLORD
+          I'm afraid your indignation is lost
+          here.  I have no more "human"
+          response to the Eloi then you would
+          have to a carrot.  It's just how we
+          live now.
+
+                    ALEXANDER
+          But this is barbaric!  Have you
+          completely lost all sense of --
+
+                    OVERLORD
+              (stops, calm)
+          And who are you, Alexander?  Who
+          are you to question thousands of
+          years of evolution?  This is the
+          world now.  I am fact.
+
+                    ALEXANDER
+          It can't all be like this...
+
+They continue walking.
+
+                    OVERLORD
+          Underground and above.  Light and
+          dark.  Predator and prey.  There is
+          nothing else.  There is not even a
+          desire for anything else.  We have
+          finally arrived at... stasis. 
+          Which brings us to the problem of
+          you... You can see that you have no
+          place here.  Your blood, your
+          offspring, your ideas just don't
+          belong anymore.  So...
+
+They round a corner to another chamber.
+
+And the Time Machine is sitting before them.
+
+                    OVERLORD
+          ... You're free to go.
+
+A stunning bell tower looms through the sediment just above
+the Time Machine.  It is a huge clock face from the front of
+some long lost building.  The huge bell silent.  The hands
+still for generations.
+
+                    ALEXANDER
+          What?
+
+                    OVERLORD
+          Go back to where you came from.  Or
+          die here.
+
+                    ALEXANDER
+          Why would you let me go back?
+
+                    OVERLORD
+          Because the past is immutable. 
+          Frozen.  Dead... And you are the
+          past.
+
+A beat as the Overlord gazed at Alexander dispassionately.
+
+                    ALEXANDER
+          Say I just come back again?
+
+                    OVERLORD
+          Alexander, yours is a world of
+          brocade and velvet, not tooth and
+          claw.  Why would you come back to
+          this?  To save a few cattle?  No.
+
+                    ALEXANDER
+          I could tell them.  Warm them of
+          what's to come.
+
+The Overlord gazed at him deeply.  Then with strange
+poignancy.
+
+                    OVERLORD
+          Please, warn them.  No one will
+          ever believe... we have come to
+          this.
+
+Then a weak voice, echoing from the darkness down the
+corridor...
+
+                    MARA'S VOICE
+          Alexander...
+
+Alexander spins around -- races across the chamber -- the
+Overlord slowly follows --
+
+And Alexander discovers Mara, almost lost in the incredibly
+Baroque chaos of the chamber.  She is hanging on a wall,
+leather straps holding her in place.  Filthy plastic IV tubes
+connect her to some chugging medical equipment.
+
+Alexander reaches up to grasp her hand, can just reach her.
+
+                    ALEXANDER
+          Mara...
+
+Mara weakly raises her head -- a shocking sight -- already
+her skin is becoming strangely translucent, her veins
+beginning to show through.
+
+                    ALEXANDER
+          No...
+
+Mara tries to speak, cannot.  Alexander stands for a beat,
+holding her hand.  Then, without turning:
+
+                    ALEXANDER
+          Why?
+
+                    OVERLORD
+          We have lost the capacity to
+          reproduce.  But the species must
+          continue.
+
+                    ALEXANDER
+          So you take their best...
+
+                    OVERLORD
+          When a creature shows too much
+          independent thought we remove them
+          from the gene pool.  We're breeding
+          them for submission.  Soon they
+          will be fully domesticated.
+
+                    ALEXANDER
+              (quietly)
+          You took her because she helped me.
+
+                    OVERLORD
+          Yes.  Initiative and daring are not
+          desirable traits in the Eloi.  But
+          you should be happy for her.  She
+          won't remember the creature she
+          was.  She will... become.
+
+A beat.  Alexander looks up at Mara deeply.
+
+                    OVERLORD
+          She won't remember you.  None of
+          them will.  You will be forgotten. 
+          That is how history works.
+
+                    ALEXANDER
+          A man can change his history.
+
+                    OVERLORD
+          After all you've seen... after
+          man's entire journey... you still
+          believe that?
+
+Alexander slowly turns to the Overlord, his eyes burning, his
+fury mounting.
+
+                    OVERLORD
+          Now will you go?
+
+                    ALEXANDER
+          No...
+
+Alexander steps towards the Overlord, threatening.
+
+                    ALEXANDER
+          This has to end.
+
+The Overlord steps back.  A frail creature, he is no match
+for Alexander.
+
+He has no defense.  But for one.
+
+                    OVERLORD
+          Her name... was Emma.
+
+Alexander stops.
+
+                    OVERLORD
+          If I can only find the right
+          door... the lady or the tiger...
+
+                    ALEXANDER
+          No...
+
+                    OVERLORD
+          It's always the tiger for you,
+          Alexander, haven't you learned that
+          by now?...
+
+He glances to Mara, strapped to the wall, her head hanging
+limp.
+
+                    OVERLORD
+          ... It wasn't possible then and it
+          isn't possible now...
+
+The Overlord slowly moves to Alexander, his eyes burning into
+Alexander's, his voice low and steady, hypnotic.
+
+                    OVERLORD
+          Past... present... future... it's
+          all the same ribbon.  You can't
+          change a thing.  Not a moment.  Not
+          a molecule... You never could.
+
+The Overlord is very close.  A whisper:
+
+                    OVERLORD
+          You came 800,000 years not to
+          relive it.  But you are reliving
+          it.  How can you watch it again?
+
+Alexander looks at him, pain in his eyes.
+
+                    OVERLORD
+          Go... before it's too late...
+          Accept what is destined to be.  Go
+          back to your own time.  The
+          future's finished for you...
+
+Alexander looks at Mara.  Then he slowly turns his back on
+her and steps to the Time Machine.
+
+                    OVERLORD
+          That's right... go back... Tell
+          them of your journey.  Of your
+          destiny.  This was all... meant to
+          be.
+
+Alexander stands at the Time Machine.
+
+Then he reaches forward and gently throws the Time Machine's
+control lever --
+
+The Overlord is stunned --
+
+Alexander withdraws his hand and turns to the Overlord.
+
+                    ALEXANDER
+          Not this time.
+
+A high-pitched whine -- building -- the world undulates
+around the Time Machine --
+
+And then it is gone.
+
+The Overlord gapes at Alexander.
+
+                    OVERLORD
+          That was a foolish thing to do.
+
+                    ALEXANDER
+          I'm a foolish man.
+
+Alexander begins to circle the Overlord.
+
+                    OVERLORD
+          I could have a hundred Morlocks
+          here in thirty seconds.
+
+                    ALEXANDER
+          I know.
+
+                    OVERLORD
+          Does this prove something to you? 
+          Have you made some great stand of
+          which I'm unaware?
+
+Alexander continues to circle, the Overlord matching him.
+
+                    ALEXANDER
+          I'm tired of running.
+
+                    OVERLORD
+          Oh, you won't be running for
+          long...
+
+Alexander stops.  The Overlord stops as well.  The Overlord
+is now standing where the Time Machine was.  A tense stand
+off.
+
+                    OVERLORD
+          But you've earned a reward for your
+          valor.  I think you should become. 
+          You'll like it here.  Once you get
+          used to the darkness.
+
+                    ALEXANDER
+          I don't think that's going to
+          happen.
+
+                    OVERLORD
+          And why not?
+
+                    ALEXANDER
+          Because...
+
+He smiles.
+
+                    ALEXANDER
+          Time's up.
+
+Before the Overlord can react -- a buzzing sound -- the world
+undulating around him -- his eyes shoot wide with
+realization --
+
+And the Time Machine reappears -- appearing through the
+Overlord -- the Overlord is torn apart -- the Time Machine
+forcing it's way through his body --
+
+Splat.
+
+The spacial and auditory vibration caused by the reappearance
+of the Time Machine cascades through the chamber -- and the
+great clock face above suddenly shifts -- its bell tolling
+loudly -- the bell swaying back and forth unsteadily --
+
+Alexander races to Mara -- urgently tearing her from the wall
+-- she collapses down into his arms --
+
+As the huge clock begins to crumble from the wall --
+
+Alexander turns to see --
+
+The great clock face finally falling --
+
+On top of the Time Machine.  Smashing it to pieces.
+
+Alexander gathers Mara up and begins racing out of the
+chamber.
+
+Another Uber-Morlock reaches for them from the shadows --
+Alexander easily knocks the anemic creature aside and
+continues on.
+
+INT.  MORLOCK CAVES - HALL OF BONES - DAY
+
+Alexander is carrying Mara quickly through the grisly Hall of
+Bones, trying to remember his way out --
+
+Then a hulking figure appears ahead of him.  And another. 
+Two Morlocks.  Alexander quickly sets Mara down and snatches
+up a bone to use as a weapon.
+
+The two Morlocks circle him, almost toying with him -- then
+they attack -- Alexander fights them but is almost
+immediately overpowered -- they roughly shove him to his
+knees, preparing to dispatch him when --
+
+A voice, Vox:
+
+                    VOX
+          That's quite enough of that, you
+          great bloated ticks.
+
+The Morlocks spin to Vox, surprised -- he stands proudly a
+few feet away -- Alexander instantly drives up and SLAMS into
+one of the Morlocks --
+
+The other springs for Vox -- jaws snapping -- Vox thrusts up
+an arm -- the Morlock crashes into him -- clamping his jaws
+down on Vox's forearms -- they fall to the ground --
+
+Alexander fights with his Morlock as best he can -- but he is
+woefully overpowered -- the Morlock slashes at him --
+
+The other Morlock continues to bite down on Vox's forearm --
+Vox smiles --
+
+                    VOX
+          That's titanium, you idiot.
+
+He powers forward with his other hand and grabs the Morlock's
+throat, squeezing the life out of him as the Morlock slashes
+at him brutally --
+
+Meanwhile, Alexander is having a bad time of it -- the
+Morlock springs away from him into the darkness of the
+chamber -- clinging to the walls and scaling along them
+quickly like a spider -- and then vaults back and slashes at
+Alexander -- Alexander spins -- wounded -- falls.
+
+The Morlock hunches, coiling for the kill --
+
+Alexander rolls over, pulling something from his vest -- a
+box of matches -- the Morlock races forward to destroy him --
+
+Alexander desperately strikes a match -- a sudden
+phosphorescent flare from the match -- the Morlock stops,
+stunned, blinded for a moment --
+
+And then the Morlock jerks, stiffens -- amazed -- as Vox's
+titanium arm shoots through him from behind -- Vox's fist
+explodes through the Morlock's chest.
+
+Vox jerks his hand free as the Morlock falls.
+
+Then a look of surprise passes across Vox's face... he sinks
+to his knees.
+
+                    ALEXANDER
+          Vox --
+
+                    VOX
+          Imagine that... seems that little
+          devil got my power relays...
+
+Viscous fluid begins to trickle down his face plate.
+
+                    VOX
+              (smiles)
+          Takes a licking but keeps on
+          ticking...
+              (his head jerks oddly)
+          ... For a while anyway.
+
+                    ALEXANDER
+          What can I do?  Tell me what to do.
+
+                    VOX
+          Nothing to do, I'm afraid.  I'm
+          just a librarian after all.  Wasn't
+          exactly made for all this
+          swashbuckling.  Very Byronic end,
+          though.  I appreciate that.  Do you
+          know Byron?
+
+                    ALEXANDER
+          Vox...
+
+                    VOX
+          I'm babbling.  Good to have someone
+          to talk to for a change... But you
+          need to go.  Take her out of
+          here...
+              (he jerks again, in pain)
+          ... I don't have long.
+
+                    ALEXANDER
+          I won't leave you like this.
+
+                    VOX
+          Go back to the light.  You weren't
+          made for this.  I was... I was made
+          for this moment.
+
+                    ALEXANDER
+          I don't understand.
+
+                    VOX
+          I'm going to end it, Alexander.  As
+          we discussed...
+
+He touches the red glow of the reactor in his chest.
+
+                    VOX
+          ... It'll only take a moment.  One
+          interrupted circuit, a few atoms
+          smashing together and this will all
+          be history.  I'll give you as much
+          time as I can... help me up.
+
+Alexander helps Vox to his feet.
+
+                    VOX
+          Now get out of my sight, you
+          hideous primate.
+
+                    ALEXANDER
+          I'll never forget this.
+
+                    VOX
+          I should hope not...
+              (he jerks again in pain)
+          ... Alexander... Make them read my
+          books.  Tell them who they are. 
+          Who they could be.
+
+                    ALEXANDER
+          I will...
+
+A difficult beat.
+
+                    VOX
+          Tick-tick-tick -- better scamper
+          along now.
+
+Alexander picks up Mara and sprints off.
+
+Vox slowly turns toward the Machinery Cavern.
+
+INT.  MORLOCK CAVES - SUBWAY TUNNEL - DAY
+
+Alexander makes his way with Mara up the decaying subway
+tunnel.
+
+Meanwhile --
+
+INT.  MORLOCK CAVES - MACHINERY CAVERN - DAY
+
+The Morlocks are absorbed in their mindless toil, as they
+have been for generations.  Slaving and sweating at the great
+machines.
+
+Vox slowly limps into the chamber.  He is near the end, fluid
+flowing down his face, moving with difficulty.
+
+The Morlocks notices him, surprised.  Vox just continues to
+limp into the center of the cavern.
+
+The Morlocks begin to surround him, circling him, predatory.
+
+Vox looks at the Morlocks surrounding him.  He smiles.
+
+                    VOX
+          May I help you?
+
+Then he reaches deep into his gaping chest cavity --
+
+And the world explodes --
+
+A terrific reaction -- a cascading shock wave that tears
+through the chamber -- the entire cavern begins to implode
+from the violent percussions --
+
+INT.  MORLOCK CAVES - HALL OF BONES - DAY
+
+The shock wave from the explosion rips through the
+slaughterhouse -- destroying everything --
+
+INT.  UBER-MORLOCK CHAMBERS - DAY
+
+The shock wave tears through the chambers.  The entire Uber
+Morlock world crumbles, burying the artifacts of man's past
+in an avalanche of rock.
+
+INT.  MORLOCK CAVES - SUBWAY TUNNEL - DAY
+
+Alexander hears the shock wave nearing -- the world
+dissolving as the caverns collapse behind him -- he sprints
+forward with Mara -- the subway tunnels twist and writhe and
+implode behind him --
+
+Alexander sees sunlight ahead -- the way out -- he speeds
+toward the light --
+
+EXT.  CLIFFS - DAY
+
+Alexander races with Mara into the blinding sunlight --
+emerging from the gaping tunnel leading to the Morlock's
+caves --
+
+Just as the final tunnels collapse behind them.
+
+Alexander sinks to his knees and looks back.
+
+Dust and boulders and earth.  Vox has done it.  The Morlock
+world is no more.
+
+EXT.  ELOI VILLAGE - NIGHT
+
+Fires burn through the night.
+
+The Eloi are standing, amazed, not believing what they see...
+
+Alexander and Mara.  Alive.
+
+They walk through the stunned Eloi without a word.  Kalen
+emerges from his house and runs to them.
+
+Slow fade to...
+
+INT./ EXT.  FIELD/ALEXANDER'S HOUSE - DAY/NIGHT
+
+Alexander walks with Mara and Kalen across a green, grassy
+field.
+
+                    ALEXANDER
+          ... Well, you wanted to see it.
+
+                    KALEN
+          This is it?
+
+                    ALEXANDER
+          Around here.
+
+He stops.
+
+                    ALEXANDER
+              (smiles)
+          Yes.  Just about here.
+
+                    KALEN
+          But there's nothing here.
+
+                    MARA
+          It was different then.
+
+                    ALEXANDER
+          My laboratory was about... here. 
+          And the kitchen was over there,
+          where that tree is.  Mrs. Watchit
+          wouldn't allow me in much... but,
+          yes, this is about the kitchen.
+
+They continue to move around the world that was Alexander's
+house as we become aware of something else...
+
+Almost like ghosts at first.  Philby and Mrs. Watchit. 
+Moving around Alexander's house in 1899.  Then we see the
+house and the field simultaneously.  The same space,
+centuries apart.
+
+                    MRS. WATCHIT
+          I don't know what to tell you, sir. 
+          He's been gone this whole week.
+
+                    PHILBY
+          And you've no idea where he went?
+
+                    MRS. WATCHIT
+          No, sir.
+
+Philby smiles.  They move into the study...
+
+                    ALEXANDER
+          And this would be my study.  There
+          was an elm tree outside the window
+          then.
+
+                    PHILBY
+          I'm glad.
+
+                    MRS. WATCHIT
+          Sir?
+
+                    PHILBY
+          I'm glad he's gone.  Maybe he's
+          finally found a place where he can
+          be happy.
+
+                    ALEXANDER
+          This... was my home.
+
+                    PHILBY
+          His home.
+
+Alexander puts an arm around Mara.  At peace with his past. 
+And his future.
+
+                    ALEXANDER
+          Long ago.
+
+Alexander, Mara and Kalen and their time slowly disappear as
+we fully come to...
+
+INT.  ALEXANDER'S HOUSE - NIGHT
+
+Mrs. Watchit leads Philby to the front door.
+
+                    PHILBY
+          You know, Molly and I were talking
+          about engaging a nanny for Jamie. 
+          Someone to live with us and take
+          care of the boy.  Would you be
+          interested?
+
+They stop at the front door.  Mrs. Watchit looks back at the
+empty house for a moment.  Then turns to Philby.
+
+                    MRS. WATCHIT
+          I think I might be.  But there'll
+          be some changes made.  I run a
+          tight house.
+
+                    PHILBY
+              (smiles)
+          I have no doubt of that.  I'll come
+          by in the morning and we'll arrange
+          it.  Goodnight, Mrs. Watchit.
+
+                    MRS. WATCHIT
+          Goodnight, Mr. Philby.
+
+He goes.
+
+Mrs. Watchit gently closes the door and turns back to the
+empty house.  She stands for a moment and then, quietly:
+
+                    MRS. WATCHIT
+          Godspeed, my fine lad, Godspeed...
+
+EXT.  ALEXANDER'S HOUSE - NIGHT
+
+Philby walks away from the house, stops, takes one look back.
+
+And he looks up at the moon for a moment.
+
+Then he takes his bowler hat off and flings it away.
+
+He smiles.
+
+And continues away.
+
+                                                FADE OUT.
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

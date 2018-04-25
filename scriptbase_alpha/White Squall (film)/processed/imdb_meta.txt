@@ -1,0 +1,105 @@
+year	1996
+imdb score	6.6
+meta score	53
+genre	Adventure
+genre	Drama
+keyword	ship
+keyword	sailing
+keyword	squall
+keyword	1960s
+keyword	storm
+keyword	sail
+keyword	sat test
+keyword	caribbean
+keyword	coming of age
+keyword	mal de mer
+keyword	schoolgirl
+keyword	reference to ulysses
+keyword	friendship
+keyword	male bonding
+keyword	cuban american
+keyword	ship's cook
+keyword	box office flop
+keyword	teenager
+keyword	reference to howard hughes
+keyword	grenada
+keyword	coast guard
+keyword	jamaica
+keyword	sex
+keyword	death of brother
+keyword	reference to homer
+keyword	reference to odysseus
+keyword	reference to shakespeare's the tempest
+keyword	year 1960
+keyword	floating school
+keyword	license revocation hearing
+keyword	topless girl
+keyword	reference to moses
+keyword	death of wife
+keyword	seasickness
+keyword	dolphin
+keyword	reference to william shakespeare
+keyword	dive
+keyword	tragedy
+keyword	prostitute
+keyword	reference to john donne
+keyword	galley
+keyword	reference to roger maris
+keyword	bell
+keyword	study group
+keyword	urination
+keyword	acrophobia
+keyword	bay of pigs
+keyword	shakespearean quote
+keyword	loss of wife
+keyword	year 1961
+keyword	spear gun
+keyword	reference to fidel castro
+keyword	prosecutor
+keyword	diary
+keyword	vertigo
+keyword	wetting one's pants
+keyword	ship captain
+keyword	reference to rudolph valentino
+keyword	west indies
+keyword	brothel
+keyword	based on book
+keyword	based on true story
+keyword	title spoken by character
+keyword	
+cast	Jeff Bridges	Captain Christopher 'Skipper' Sheldon
+cast	Caroline Goodall	Dr. Alice Sheldon
+cast	John Savage	McCrea, Albatross Crewman / English Teacher
+cast	Scott Wolf	Charles 'Chuck' Gieg / Narrator
+cast	Jeremy Sisto	Frank Beaumont
+cast	Ryan Phillippe	Gil Martin
+cast	David Lascher	Robert March
+cast	Eric Michael Cole	Dean Preston
+cast	Jason Marsden	Shay Jennings, Albatross First Mate
+cast	David Selby	Francis Beaumont
+cast	Julio Oscar Mechoso	Girard Pascal, Albatross Cook
+cast	Zeljko Ivanek	Coast Guard Capt. Sanders
+cast	Balthazar Getty	Tod Johnstone
+cast	Ethan Embry	Tracy Lapchick
+cast	Jordan Clarke	Charles Gieg
+cast	Lizbeth MacKay	Middy Gieg
+cast	Jill Larson	Peggy Beaumont
+cast	James Medina	Cuban Patrol Boat Commander
+cast	James Rebhorn	Tyler
+cast	Nicole Ann Samuel	Girl in Brothel
+cast	Becky Ann Baker	Ms. Boyde
+cast	Camilla Overbye Roos	Bregitta
+cast	Nathaniel Ives	Relief Bo'sun
+cast	Chris Condon	Crew Member
+cast	Andrew Hartley	Crew Member
+cast	Peyton Thomas	Crew Member
+cast	Jordan Scott	Danish School Girl
+cast	Anja Clausen	Danish School Girl
+cast	Nynne Christiansen	Danish School Girl
+cast	Anita Weider	Danish School Girl
+cast	Charlotte Anderson	Danish School Girl
+cast	Emily Chittell	Danish School Girl
+cast	Lene Kristensen	Danish School Girl
+cast	Mette Hocke	Danish School Girl
+cast	John F. Kennedy	Himself
+cast	Charles Parshley	Sailor

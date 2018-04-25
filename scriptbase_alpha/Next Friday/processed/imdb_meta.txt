@@ -1,0 +1,103 @@
+year	2000
+imdb score	5.9
+meta score	41
+genre	Comedy
+keyword	brother brother relationship
+keyword	stolen bicycle
+keyword	uncle nephew relationship
+keyword	sex
+keyword	face slap
+keyword	father son relationship
+keyword	massage
+keyword	breaking the fourth wall
+keyword	african american
+keyword	limousine
+keyword	pit bull dog
+keyword	stalker
+keyword	chase
+keyword	used condom
+keyword	bitten by a dog
+keyword	house party
+keyword	obesity
+keyword	pregnancy
+keyword	punched in the face
+keyword	suburbia
+keyword	pistol
+keyword	bad smell
+keyword	skateboard
+keyword	chased by a dog
+keyword	white male pretending to be black
+keyword	blood
+keyword	blunt
+keyword	flashback
+keyword	showdown
+keyword	brownie the food
+keyword	chainsaw
+keyword	hit by a truck
+keyword	butt slap
+keyword	knocked out
+keyword	flatulence
+keyword	latino
+keyword	sequel
+keyword	brownie
+keyword	brick
+keyword	fight
+keyword	restraining order
+keyword	bare chested male
+keyword	ak 47
+keyword	brother sister relationship
+keyword	porno magazine
+keyword	pepper spray
+keyword	reverse footage
+keyword	fantasy sequence
+keyword	punched in the stomach
+keyword	cigarette smoking
+keyword	joint
+keyword	pink limousine
+keyword	dog humping someone's leg
+keyword	cousin cousin relationship
+keyword	escape from jail
+keyword	stalking
+keyword	racial slur
+keyword	diarrhea
+keyword	second part
+keyword	held at gunpoint
+keyword	jheri curl hairstyle
+keyword	beating
+keyword	tied to a chair
+keyword	marijuana
+keyword	swimming pool
+keyword	dog
+keyword	chihuahua
+keyword	independent film
+keyword	title spoken by character
+keyword	
+cast	Ice Cube	Craig Jones
+cast	Mike Epps	Day-Day
+cast	Justin Pierce	Roach
+cast	John Witherspoon	Mr. Jones
+cast	Don 'D.C.' Curry	Uncle Elroy
+cast	Jacob Vargas	Joker
+cast	Lobo Sebastian	Lil Joker
+cast	Rolando Molina	Baby Joker
+cast	Lisa Rodríguez	Karla
+cast	Tommy 'Tiny' Lister	Deebo
+cast	Kym Whitley	Suga
+cast	Amy Hill	Mrs. Ho-Kym
+cast	Tamala Jones	D'wana
+cast	The Lady of Rage	Baby D'
+cast	Carmen Serano	Girl #1
+cast	Maria Arcé	Girl #2
+cast	Vanessa White	Girl #3
+cast	Clifton Powell	Pinky
+cast	Michael Blackson	Customer #1
+cast	Ronn Riser	Stanley / Mystery Guest
+cast	David Earl Waterman	Sheriff #3
+cast	Cheridah Best	Sheriff Lady
+cast	Sticky Fingaz	Tyrone
+cast	Shane Conrad	Jay Sedrich
+cast	Keebo	Pinky Chauffeur
+cast	Daniel Dehring	
+cast	Faizon Love	Big Worm
+cast	Michael Rapaport	Mailman with Tax Notice
+cast	Chris Tucker	Smokey

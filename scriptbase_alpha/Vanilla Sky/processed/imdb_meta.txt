@@ -1,0 +1,257 @@
+year	2001
+imdb score	6.9
+meta score	45
+genre	Fantasy
+genre	Mystery
+genre	Romance
+genre	Sci-Fi
+genre	Thriller
+keyword	party
+keyword	dream
+keyword	psychologist
+keyword	publisher
+keyword	love
+keyword	wealth
+keyword	reality
+keyword	death
+keyword	doctor
+keyword	car accident
+keyword	mask
+keyword	murder
+keyword	jail
+keyword	author
+keyword	nightmare
+keyword	dancer
+keyword	prosthetic
+keyword	movie poster
+keyword	tv talk show
+keyword	reference to bjork
+keyword	internet
+keyword	flashback
+keyword	family lawyer
+keyword	court order
+keyword	spanish american
+keyword	no opening credits
+keyword	jumping from height
+keyword	reference to jules verne
+keyword	cryonics
+keyword	smothered by pillow
+keyword	hallucination
+keyword	falling leaves
+keyword	rehearsal
+keyword	man falling
+keyword	contract
+keyword	attempted murder
+keyword	virtual reality
+keyword	distrust
+keyword	false memory
+keyword	new york city
+keyword	obsession
+keyword	mind
+keyword	paranoia
+keyword	reference to joni mitchell
+keyword	phobia
+keyword	reckless driving
+keyword	reference to vicki carr
+keyword	rich snob
+keyword	romantic rejection
+keyword	bridge
+keyword	remake
+keyword	elevator
+keyword	sex in bed
+keyword	cell phone
+keyword	times square manhattan new york city
+keyword	jazz music
+keyword	sketch pad
+keyword	suicide by car
+keyword	dancing
+keyword	reference to claude monet
+keyword	22nd century
+keyword	martini
+keyword	unrequited love
+keyword	acrophobia
+keyword	nudity
+keyword	talking while driving
+keyword	fear
+keyword	dna
+keyword	operating room
+keyword	caricature
+keyword	hospital
+keyword	hologram
+keyword	singer
+keyword	afterlife
+keyword	mistaken identity
+keyword	love triangle
+keyword	tequila
+keyword	birthday party
+keyword	central park, new york city
+keyword	no title at beginning
+keyword	skyscraper
+keyword	police officer
+keyword	reference to george harrison
+keyword	plastic surgeon
+keyword	flashback while falling
+keyword	speeding car
+keyword	reference to john lennon
+keyword	physician
+keyword	dream within a dream
+keyword	reference to bob dylan
+keyword	nonlinear time frame
+keyword	remake of spanish film
+keyword	repeated line
+keyword	manhattan new york city
+keyword	ambiguous ending
+keyword	falsely accused
+keyword	compact disc
+keyword	headache
+keyword	disfigured face
+keyword	jumping off roof
+keyword	mustang car
+keyword	coma
+keyword	artist
+keyword	pet dog
+keyword	infidelity
+keyword	prison
+keyword	reference to jeff buckley
+keyword	character repeating someone else's dialogue
+keyword	tied feet
+keyword	plastic surgery
+keyword	disfigurement
+keyword	jealousy
+keyword	montage of stills
+keyword	tied up while barefoot
+keyword	analyst
+keyword	nightclub
+keyword	bar
+keyword	photograph
+keyword	phantasmagoria
+keyword	surrealism
+keyword	urinal
+keyword	amnesia
+keyword	stalker
+keyword	dark past
+keyword	asylum
+keyword	emotional roller coaster of a movie
+keyword	aerial shot
+keyword	cd
+keyword	autumn
+keyword	reference to frank sinatra
+keyword	watching tv
+keyword	reference to o j simpson
+keyword	secret past
+keyword	medication
+keyword	freeze frame
+keyword	thanksgiving day parade
+keyword	suicidal
+keyword	memory
+keyword	board of directors
+keyword	breasts
+keyword	corporate take over
+keyword	bartender
+keyword	reference to paul mccartney
+keyword	tenor sax
+keyword	actor appears in original and remake
+keyword	cgi
+keyword	free fall
+keyword	reference to the beatles
+keyword	reference to bob dylan
+keyword	isolation
+keyword	reference to john coltrane
+keyword	2150s
+keyword	reconstructive surgery
+keyword	lucid dream
+keyword	death of father
+keyword	title spoken by character
+cast	Tom Cruise	David Aames
+cast	Penélope Cruz	Sofia Serrano
+cast	Cameron Diaz	Julie Gianni
+cast	Kurt Russell	McCabe
+cast	Jason Lee	Brian Shelby
+cast	Noah Taylor	Edmund Ventura
+cast	Timothy Spall	Thomas Tipp
+cast	Tilda Swinton	Rebecca Dearborn
+cast	Michael Shannon	Aaron
+cast	Delaina Mitchell	David's Assistant
+cast	Shalom Harlow	Colleen
+cast	Oona Hart	Lynette
+cast	Ivana Milicevic	Emma
+cast	Johnny Galecki	Peter Brown
+cast	Jhaemi Willens	Jamie Berliner
+cast	Armand Schultz	Dr. Pomeranz
+cast	Cameron Watson	Other Doctor
+cast	Robertson Dean	Third Doctor
+cast	W. Earl Brown	Barman
+cast	Ray Proscia	Doctor from Berlin
+cast	Tim Hopper	Man in Blue Coat
+cast	Alicia Witt	Libby
+cast	Ken Leung	Art Editor
+cast	Carolyn Byrne	Beatrice
+cast	Mark Pinter	Carlton Kaller
+cast	Jeff Weiss	Raymond Tooley
+cast	Conan O'Brien	Conan O'Brien
+cast	James Murtaugh	Benny's Owner
+cast	Mark Kozelek	Dude, Fix Your Face Guy
+cast	John Fedevich	Silent Ed Vallencourt
+cast	Bobby Walsh	Young David
+cast	Stacey Sher	Rayna
+cast	Fred Schruers	Cryo Man
+cast	Jessica Siemens	Sofia's Friend
+cast	Julia Carothers Hughes	Sofia's Friend
+cast	Holly Raye	Dancer
+cast	Marty Collins	Martini Waiter
+cast	Mark Bramhall	Sneezy
+cast	Jack Hall	Bashful
+cast	David Lewison	Sleepy
+cast	Jennifer Griffin	Happy
+cast	Adam LeGrant	Doc
+cast	John Kepley	Dopey
+cast	Robin Van Sharner	Grumpy
+cast	Laurel Wiley	Dr. Jennifer Ash
+cast	Nicole Taylor Hart	Party Videographer
+cast	Julia Decker	Model
+cast	Jennifer Marie Kelley	Model
+cast	Erin McElmurry	Model
+cast	Alice Marie Crowe	Lucid Dreamer
+cast	Jonathan Sanger	Frozen Pediatric Cardiologist
+cast	Tommy Lee	Frozen Vintage Car Man
+cast	Ana Maria Quintana	Frozen Theologist
+cast	Paul Haggar	Frozen Risktaker
+cast	Randy Woodside	Frozen Dad
+cast	Robert F. Harrison	Laughing Guy
+cast	Carly Starr Brullo Niles	Carly
+cast	Jane Pratt	Jane Pratt
+cast	Patrick McMullen	Patrick McMullen
+cast	Steven Colvin	Steven Colvin
+cast	Cindy Crowe	Cindy Crowe
+cast	The Great John Sypolt	The Great John Sypolt
+cast	Michael G. Kehoe	Chef
+cast	Danielle Wolf	Coat Check Girl
+cast	Scotch Ellis Loring	L.E. Building Guard
+cast	Brent Sexton	Security Guard
+cast	Curt Skaggs	Security Guard
+cast	Jennifer Gimenez	Lola
+cast	Lori Lezama	Skyscraper Girl
+cast	Todd Harrison	Skyscraper Guy
+cast	Blossom	Benny the Dog
+cast	Laura Fraser	The Future
+cast	Jennifer Aspen	Nina
+cast	Craig Callow	Clubgoer
+cast	Christie Campagna	Guest at Funeral
+cast	Jean Carol	Woman Nearby
+cast	Tony Collucci	Guy at Party
+cast	Janine Foster	Dancer
+cast	Zach Hudson	Life Extension Security Guard
+cast	Ryan Keating	SWAT Team Officer #3
+cast	Dustin LaValley	Extra
+cast	Zachary Lee	Joshua
+cast	Roger Lim	SWAT Team Officer #5
+cast	Tara Lipinski	Girl at Party
+cast	William Mapother	Clubgoer
+cast	Christy Meyers	Girl in Office
+cast	Jan Munroe	Older Editor
+cast	Louis E. Rosas	Bar Patron
+cast	Steven Spielberg	Guest at David Aames' Party
+cast	Andrei Sterling	Dancer
+cast	Tasha Tae	Dancer
+cast	Bryan Todd	Dancer
+cast	Christie Will	Waiting Room Model

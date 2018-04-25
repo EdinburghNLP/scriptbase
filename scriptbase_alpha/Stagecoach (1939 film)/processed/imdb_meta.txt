@@ -1,0 +1,133 @@
+year	1939
+imdb score	7.9
+meta score	N/A
+genre	Adventure
+genre	Western
+keyword	stagecoach
+keyword	doctor
+keyword	drunken doctor
+keyword	murder
+keyword	fugitive
+keyword	revenge
+keyword	shotgun
+keyword	river crossing
+keyword	native american
+keyword	drunkard
+keyword	long black hair
+keyword	banker
+keyword	street fight
+keyword	chase
+keyword	shootout
+keyword	cowboy hat
+keyword	revolver
+keyword	desert
+keyword	double barreled shotgun
+keyword	ambush
+keyword	escaped convict
+keyword	afi
+keyword	gambler
+keyword	western town
+keyword	cowboys and indians
+keyword	gunfight
+keyword	winchester rifle
+keyword	cowboy boots
+keyword	kiss
+keyword	brunette
+keyword	six shooter
+keyword	cult film
+keyword	outlaw gang
+keyword	cowboy
+keyword	giving birth
+keyword	dress
+keyword	prostitution
+keyword	western hero
+keyword	horse chase
+keyword	childbirth
+keyword	embezzlement
+keyword	street shootout
+keyword	small town
+keyword	birth
+keyword	hero
+keyword	cavalry
+keyword	pistol
+keyword	apache
+keyword	pregnancy
+keyword	outlaw
+keyword	cowboy shirt
+keyword	love interest
+keyword	duel
+keyword	repeating rifle
+keyword	henry rifle
+keyword	native american attack
+keyword	showdown
+keyword	sheriff
+keyword	colt .45
+keyword	cowboys and outlaws
+keyword	pregnant woman
+keyword	
+cast	Claire Trevor	Dallas
+cast	John Wayne	Ringo Kid
+cast	Andy Devine	Buck
+cast	John Carradine	Hatfield
+cast	Thomas Mitchell	Doc Boone
+cast	Louise Platt	Lucy Mallory
+cast	George Bancroft	Curley
+cast	Donald Meek	Peacock
+cast	Berton Churchill	Gatewood
+cast	Tim Holt	Lieutenant
+cast	Tom Tyler	Luke Plummer
+cast	Dorothy Appleby	Girl in Saloon
+cast	Frank Baker	
+cast	Chief John Big Tree	Indian Scout
+cast	Ted Billings	Bit Part
+cast	Wiggie Blowne	Bit Part
+cast	Danny Borzage	
+cast	Ed Brady	Lordsburg Saloon Owner
+cast	Fritzi Brunette	Bit Part
+cast	Yakima Canutt	Cavalry Scout
+cast	Nora Cecil	Boone's Landlady
+cast	Steve Clemente	Bit
+cast	Bill Cody	Rancher
+cast	Jack Curtis	Bartender
+cast	Marga Ann Deighton	Mrs. Pickett
+cast	Patricia Doyle	Bit Part
+cast	Tex Driscoll	Bit Part
+cast	Johnny Eckert	Small Role
+cast	Franklyn Farnum	Deputy Frank
+cast	Francis Ford	Billy Pickett
+cast	Brenda Fowler	Mrs. Gatewood
+cast	Helen Gibson	Girl in Saloon
+cast	Robert Homans	Ed - Editor
+cast	William Hopper	Sergeant
+cast	Si Jenks	Bartender
+cast	Cornelius Keefe	Capt. Whitney
+cast	Florence Lake	Nancy Whitney
+cast	Al Lee	Small Role
+cast	Duke R. Lee	Lordsburg Sheriff
+cast	Theodore Lorch	Lordsburg Express Agent
+cast	Chris-Pin Martin	Chris
+cast	Jim Mason	Jim - Tonto Express Agent
+cast	Louis Mason	Tonto Sheriff
+cast	Merrill McCormick	Ogler
+cast	J.P. McGowan	
+cast	Walter McGrail	Capt. Sickel
+cast	Paul McVey	Pony Express Agent
+cast	Jack Mohr	Small Role
+cast	Kent Odell	Billy Pickett Jr
+cast	Artie Ortego	Lordsburg Bar Patron
+cast	Vester Pegg	Hank Plummer
+cast	Jack Pennick	Bartender in Tonto
+cast	Chris Phillips	Small Role
+cast	Joe Rickson	Ike Plummer
+cast	Buddy Roosevelt	Rancher
+cast	Elvira Ríos	Yakima
+cast	Mickey Simpson	
+cast	Margaret Smith	Small Role
+cast	Woody Strode	Man in Saloon
+cast	Chuck Stubbs	
+cast	Harry Tenbrook	Telegraph Operator
+cast	Leonard Trainor	Small Role
+cast	Mary Kathleen Walker	Lucy's Infant
+cast	Bryant Washburn	Capt. Simmons
+cast	Whitehorse	Indian Chief
+cast	Hank Worden	Cavalryman Extra

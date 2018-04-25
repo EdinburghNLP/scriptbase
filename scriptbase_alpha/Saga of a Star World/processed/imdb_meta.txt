@@ -1,0 +1,51 @@
+year	1978
+imdb score	6.6
+meta score	N/A
+genre	Adventure
+genre	Sci-Fi
+keyword	escape
+keyword	refugee
+keyword	robot as menace
+keyword	aircraft carrier
+keyword	scene reshot for syndication
+keyword	genocide
+keyword	space carrier
+keyword	space
+keyword	ancient astronaut
+keyword	tv series pilot
+keyword	spaceship name in title
+keyword	diaspora
+keyword	edited from tv series
+keyword	robot
+cast	Richard Hatch	Capt. Apollo
+cast	Dirk Benedict	Lt. Starbuck
+cast	Lorne Greene	Cmdr. Adama
+cast	Herbert Jefferson Jr.	Lt. Boomer
+cast	Maren Jensen	Athena
+cast	Tony Swartz	Sgt. Jolly
+cast	Noah Hathaway	Boxey
+cast	Terry Carter	Colonel Tigh
+cast	Lew Ayres	President Adar
+cast	Wilfrid Hyde-White	Sire Anton
+cast	John Colicos	Baltar
+cast	Laurette Spang	Cassiopeia
+cast	John Fink	Dr. Paye
+cast	Jane Seymour	Serina
+cast	Ray Milland	Sire Uri
+cast	Ed Begley Jr.	Flight Sgt. Greenbean
+cast	Rick Springfield	Lieutenant Zac
+cast	Randi Oakes	Young Woman
+cast	Norman Stuart	Statesman
+cast	David Greenan	Bridge Officer
+cast	Sarah Rush	Woman on Duty
+cast	David Matthau	Operative
+cast	Chip Johnson	1st Warrior
+cast	Geoffrey Binney	2nd Warrior
+cast	Paul Coufos	Pilot
+cast	Bruce Wright	Deck Hand
+cast	Paula Crist	Ovion
+cast	Patrick Macnee	Imperious Leader
+cast	Myrna Matthews	Space Angel
+cast	Marti McCall	Space Angel
+cast	Lee Michaels	Galactic Warrior
+cast	Carolyn Willis	Space Angel

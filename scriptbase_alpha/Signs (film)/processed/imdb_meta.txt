@@ -1,0 +1,152 @@
+year	2002
+imdb score	6.7
+meta score	59
+genre	Drama
+genre	Sci-Fi
+genre	Thriller
+keyword	crop circle
+keyword	crops
+keyword	farm
+keyword	faith
+keyword	extraterrestrial
+keyword	pennsylvania
+keyword	alien
+keyword	farmhouse
+keyword	baseball player
+keyword	priest
+keyword	car accident
+keyword	water
+keyword	baseball
+keyword	paranormal phenomena
+keyword	transmission
+keyword	military recruiting office
+keyword	fate
+keyword	television
+keyword	german shepherd
+keyword	baby monitor
+keyword	boarded up window
+keyword	confession
+keyword	radio
+keyword	delusion
+keyword	barricade
+keyword	pet dog
+keyword	knife
+keyword	contaminated water
+keyword	photograph
+keyword	apocalypse
+keyword	fright
+keyword	miracle
+keyword	bookstore
+keyword	minister
+keyword	brazil
+keyword	police officer
+keyword	flashlight
+keyword	glass of water
+keyword	barbecue
+keyword	dying words
+keyword	death of wife
+keyword	hit with a baseball bat
+keyword	widower
+keyword	christianity
+keyword	darkness
+keyword	blockbuster
+keyword	drugstore
+keyword	asthma
+keyword	ex priest
+keyword	bangalore india
+keyword	baseball bat
+keyword	small town
+keyword	policewoman
+keyword	brother brother relationship
+keyword	veterinarian
+keyword	animal senses evil
+keyword	tv news
+keyword	flashback
+keyword	single father
+keyword	repeated scene
+keyword	panic
+keyword	cornfield
+keyword	bible
+keyword	uncle nephew relationship
+keyword	2000s
+keyword	killing a dog
+keyword	loss of wife
+keyword	message
+keyword	barking dog
+keyword	dog
+keyword	murder
+keyword	rural setting
+keyword	uncle niece relationship
+keyword	ufo
+keyword	crisis of faith
+keyword	christian theme
+keyword	father son relationship
+keyword	poison gas
+keyword	telescope
+keyword	crying man
+keyword	basement
+keyword	vegetarian
+keyword	invisible monster
+keyword	revenge
+keyword	fear
+keyword	little girl
+keyword	cartoon on tv
+keyword	dream sequence
+keyword	severed finger
+keyword	cellar
+keyword	alien contact
+keyword	loss of faith
+keyword	religion
+keyword	siren
+keyword	chute
+keyword	pharmacy
+keyword	brother sister relationship
+keyword	walkie talkie
+keyword	pantry
+keyword	one word title
+keyword	police car
+keyword	video cassette
+keyword	watching tv
+keyword	reflection
+keyword	father daughter relationship
+keyword	finger cut off
+keyword	radar
+keyword	written and directed by cast member
+keyword	little boy
+keyword	mexico
+keyword	investigation
+keyword	news report
+keyword	ambulance
+keyword	curse
+keyword	blood
+keyword	supernatural power
+keyword	alien invasion
+keyword	grief
+keyword	title spoken by character
+keyword	surprise ending
+cast	Mel Gibson	Rev. Graham Hess
+cast	Joaquin Phoenix	Merrill Hess
+cast	Rory Culkin	Morgan Hess
+cast	Abigail Breslin	Bo Hess
+cast	Cherry Jones	Officer Paski
+cast	M. Night Shyamalan	Ray Reddy
+cast	Patricia Kalember	Colleen Hess
+cast	Ted Sutton	SFC Cunningham
+cast	Merritt Wever	Tracey Abernathy, the Pharmacist
+cast	Lanny Flaherty	Mr. Nathan
+cast	Marion McCorry	Mrs. Nathan
+cast	Michael Showalter	Lionel Prichard
+cast	Kevin Pires	Brazilian Birthday Boy
+cast	Clifford David	Columbia University Professor
+cast	Rhonda Overby	Sarah Hughes
+cast	Greg Wood	TV Anchor
+cast	Paul L. Nolan	Mexico City Reporter
+cast	Ukee Washington	Off-Screen TV Anchor
+cast	Babita Hariani	Car Radio Voice
+cast	Adam Way	Radio Eye Witness
+cast	Angela Eckert	Soda Commercial Girl
+cast	Jose L. Rodriguez	Radio Host
+cast	Paul Wilson	Soda Commercial Singer
+cast	Thomas Griffin	Soda Commercial Singer
+cast	Chuck Pressler	Fireman
+cast	Samantha Steffen	Bo Stand In

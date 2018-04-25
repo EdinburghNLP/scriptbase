@@ -1,0 +1,59 @@
+year	1992
+imdb score	6.2
+meta score	N/A
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	serial killer
+keyword	police
+keyword	murder
+keyword	blind woman
+keyword	school
+keyword	jealousy
+keyword	severed hand
+keyword	attempted rape
+keyword	girls' school
+keyword	rain
+keyword	deception
+keyword	passion
+keyword	infidelity
+keyword	school for the blind
+keyword	slip the undergarment
+keyword	framed for murder
+keyword	lust
+keyword	blindness
+keyword	obsession
+keyword	number in title
+keyword	character name in title
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Andy Garcia	John Berlin
+cast	Lance Henriksen	Freddy Ross
+cast	Uma Thurman	Helena
+cast	Graham Beckel	John Taylor
+cast	Kathy Baker	Margie Ross
+cast	Kevin Conway	Citrine
+cast	John Malkovich	St. Anne
+cast	Perry Lang	Travis
+cast	Nicholas Love	Bisley
+cast	Michael O'Neill	Serato
+cast	Paul Bates	Venables
+cast	Bob Gunton	Goodridge
+cast	Lenny von Dohlen	Blattis
+cast	Bryan Larkin	Bobby Rose
+cast	Debbon Ayer	Amanda
+cast	Eddie Korbich	Myopic Janitor
+cast	Stephen Piemonte II	Trimble
+cast	Ken Camroux	Pathologist
+cast	Carol Schneider	Ann
+cast	Deborah Spector	Emerson
+cast	Frank Birney	Expert
+cast	Mike Winlaw	Male Reporter
+cast	Jeffrey Josephson	Popeye
+cast	Thomas J. Hageboeck	Max
+cast	Jaylene Hamilton	Woman Reporter
+cast	Joe Drago	St. Anne's Assistant
+cast	Jonas Quastel	Lab Technician
+cast	Charles 'Mark' Eaton	Airplane Pilot

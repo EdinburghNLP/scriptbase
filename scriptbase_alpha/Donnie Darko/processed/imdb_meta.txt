@@ -1,0 +1,214 @@
+year	2001
+imdb score	8.2
+meta score	71
+genre	Drama
+genre	Mystery
+genre	Sci-Fi
+keyword	vision
+keyword	teacher
+keyword	psychiatrist
+keyword	hypnosis
+keyword	vandalism
+keyword	insanity
+keyword	school
+keyword	self help guru
+keyword	death
+keyword	knife
+keyword	psychology
+keyword	cult film
+keyword	end of the world
+keyword	party
+keyword	car accident
+keyword	police
+keyword	bicycle
+keyword	american football
+keyword	fire
+keyword	prophecy
+keyword	preparatory school
+keyword	suburbia
+keyword	reference to god
+keyword	christ allegory
+keyword	evil dead
+keyword	halloween
+keyword	gun
+keyword	hypnotherapy
+keyword	medication
+keyword	cellar door
+keyword	sleepwalking
+keyword	fate
+keyword	police car
+keyword	deus ex machina
+keyword	motivational speaker
+keyword	real life siblings as fictional siblings
+keyword	watership down
+keyword	enigma
+keyword	love
+keyword	masturbation
+keyword	tragedy
+keyword	reverse footage
+keyword	halloween party
+keyword	shot in the eye
+keyword	homage
+keyword	rewind
+keyword	parallel world
+keyword	sabotage
+keyword	arson
+keyword	psychotic
+keyword	alternative history
+keyword	bottle
+keyword	halloween costume
+keyword	dream
+keyword	hallucination
+keyword	avant garde
+keyword	drawing
+keyword	teen angst
+keyword	religion
+keyword	espionage
+keyword	high school
+keyword	parallel universe
+keyword	gothic
+keyword	alternative timeline
+keyword	ego
+keyword	murder
+keyword	lust
+keyword	the star spangled banner
+keyword	supernatural power
+keyword	reference to jesus christ
+keyword	bathroom
+keyword	troubled teen
+keyword	goth
+keyword	confusion
+keyword	surrealism
+keyword	antiseptic
+keyword	irony
+keyword	stocking mask
+keyword	costume
+keyword	paranoid schizophrenia
+keyword	plane crash
+keyword	soul
+keyword	reference to led zeppelin
+keyword	virginia
+keyword	time warp
+keyword	parallel time
+keyword	change history
+keyword	chalkboard
+keyword	imaginary friend
+keyword	count down
+keyword	clown
+keyword	new wave
+keyword	excrement
+keyword	metaphor
+keyword	fear
+keyword	switchblade
+keyword	defacing property
+keyword	pantry
+keyword	savior
+keyword	superego
+keyword	catcher in the rye
+keyword	teenage romance
+keyword	year 1988
+keyword	cocaine
+keyword	stepfather
+keyword	school project
+keyword	good versus evil
+keyword	debate
+keyword	morality
+keyword	sanity
+keyword	disturbed individual
+keyword	cigarette smoking
+keyword	terrorism
+keyword	object falling from the sky
+keyword	school life
+keyword	time travel
+keyword	airplane accident
+keyword	coming of age
+keyword	freudian
+keyword	cult film
+keyword	fantasy life
+keyword	schizophrenia
+keyword	scar
+keyword	1980s
+keyword	box office flop
+keyword	allegory
+keyword	harvard
+keyword	closet
+keyword	investigation
+keyword	stalker
+keyword	child pornography
+keyword	kissing
+keyword	psychotherapy
+keyword	revenge
+keyword	suburban american life
+keyword	psychoanalysis
+keyword	suicide
+keyword	beer
+keyword	suburb
+keyword	destiny
+keyword	virtuality
+keyword	death of title character
+keyword	communist agent
+keyword	prophet motive
+keyword	first love
+keyword	messiah
+keyword	time loop
+keyword	axe
+keyword	altering history
+keyword	time lapse photography
+keyword	another dimension
+keyword	flooding
+keyword	rabbit suit
+keyword	dark hero
+keyword	teenage boy
+keyword	no opening credits
+keyword	mortality
+keyword	rabbit costume
+keyword	politics
+keyword	independent film
+keyword	character name in title
+keyword	title spoken by character
+cast	Jake Gyllenhaal	Donnie Darko
+cast	Holmes Osborne	Eddie Darko
+cast	Maggie Gyllenhaal	Elizabeth Darko
+cast	Daveigh Chase	Samantha Darko
+cast	Mary McDonnell	Rose Darko
+cast	James Duval	Frank
+cast	Arthur Taxier	Dr. Fisher
+cast	Patrick Swayze	Jim Cunningham
+cast	Mark Hoffman	Police Officer
+cast	David St. James	Bob Garland
+cast	Tom Tangen	Man in Red Jogging Suit
+cast	Jazzie Mahannah	Joanie James
+cast	Jolene Purdy	Cherita Chen
+cast	Stuart Stone	Ronald Fisher
+cast	Gary Lundy	Sean Smith
+cast	Alex Greenwald	Seth Devlin
+cast	Beth Grant	Kitty Farmer
+cast	Jena Malone	Gretchen Ross
+cast	Seth Rogen	Ricky Danforth
+cast	David Moreland	Principal Cole
+cast	Noah Wyle	Prof. Kenneth Monnitoff
+cast	Drew Barrymore	Karen Pomeroy
+cast	Kristina Malota	Susie Bates
+cast	Marina Malota	Emily Bates
+cast	Carly Naples	Suzy Bailey
+cast	Tiler Peck	Beth Farmer
+cast	Patience Cleveland	Roberta Sparrow / Grandma Death
+cast	Katharine Ross	Dr. Lilian Thurman
+cast	Lisa K. Wyatt	Linda Connie
+cast	Rachel Winfree	Shanda Riesman
+cast	Jack Salvatore Jr.	Larry Riesman
+cast	Lee Weaver	Leroy
+cast	Phyllis Lyons	Anne Fisher
+cast	Ashley Tisdale	Kim, Dorky Girl
+cast	Alison Jones	Dorky Half-Sister
+cast	Jerry Trainor	Lanky Kid
+cast	Joan Blair	Mystery Woman
+cast	Sarah Hudson	Friend
+cast	Fran Kranz	Passenger
+cast	Scotty Leavenworth	David
+cast	Conrad Angel Corral	Vice Principal
+cast	Phil Hawn	Teacher
+cast	Nancy Juvonen	Flight Attendant
+cast	Margaret Kontra Palmer	Concerned Mother
+cast	Dee Austin Robertson	Movie Ticket Salesman
+cast	Jack Truman	Teacher

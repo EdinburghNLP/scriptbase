@@ -1,0 +1,82 @@
+year	1962
+imdb score	8.1
+meta score	N/A
+genre	Biography
+genre	Drama
+keyword	helen keller
+keyword	struggle
+keyword	institution
+keyword	teacher
+keyword	tutor
+keyword	dedicated teacher
+keyword	female protagonist
+keyword	temper tantrum
+keyword	family relationships
+keyword	honesty
+keyword	blind girl
+keyword	inspiring story
+keyword	anger
+keyword	19th century
+keyword	brother sister relationship
+keyword	doll
+keyword	manners
+keyword	pupil
+keyword	train
+keyword	sign language
+keyword	deaf blind
+keyword	train station
+keyword	deafness
+keyword	groping
+keyword	handicapped
+keyword	crippled
+keyword	boston massachusetts
+keyword	fight
+keyword	luggage
+keyword	handicap
+keyword	water pump
+keyword	husband wife relationship
+keyword	sunglasses
+keyword	water
+keyword	visually impaired person
+keyword	captain
+keyword	long take
+keyword	power struggle
+keyword	learning speech
+keyword	mother daughter relationship
+keyword	father daughter relationship
+keyword	father son relationship
+keyword	disability
+keyword	language
+keyword	blindness
+keyword	flashback
+keyword	1880s
+keyword	alabama
+keyword	face slap
+keyword	based on tv movie
+keyword	lost
+keyword	dog
+keyword	teacher student relationship
+keyword	doting
+keyword	fingerspelling
+keyword	teacher hero
+keyword	based on play
+keyword	based on book
+cast	Anne Bancroft	Annie Sullivan
+cast	Victor Jory	Captain Arthur Keller
+cast	Inga Swenson	Kate Keller
+cast	Andrew Prine	James Keller
+cast	Kathleen Comegys	Aunt Ev
+cast	Patty Duke	Helen Keller
+cast	Maribel Ayuso	Undetermined Role
+cast	Dale Ellen Bethea	Martha at Age 10
+cast	John Bliss	Admissions Officer
+cast	Grant Code	Doctor
+cast	Michael Darden	Percy at Age 10
+cast	Michele Farr	Annie at Age 10
+cast	William F. Haddock	2nd Crone
+cast	Jack Hollander	Mr. Anagnos of Perkins School in Boston
+cast	Alan Howard	Jimmie at Age 8
+cast	Judith Lowry	1st Crone
+cast	Helen Ludlam	3rd Crone
+cast	Beah Richards	Viney - Keller Maid
+cast	Madge West	Undetermined Role

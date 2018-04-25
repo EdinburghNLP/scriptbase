@@ -1,0 +1,173 @@
+year	1975
+imdb score	6.3
+meta score	N/A
+genre	Drama
+genre	Romance
+keyword	party
+keyword	hairdresser
+keyword	director
+keyword	bank
+keyword	actress
+keyword	haircut
+keyword	television
+keyword	cigarette smoking
+keyword	los angeles california
+keyword	one word title
+keyword	three piece suit
+keyword	effeminacy
+keyword	throwing garbage can
+keyword	accountant
+keyword	pay phone
+keyword	leg spreading
+keyword	self employment
+keyword	love triangle
+keyword	caught having sex
+keyword	the beatles song
+keyword	dial phone
+keyword	henchman
+keyword	tuxedo
+keyword	one day
+keyword	hippie
+keyword	mini skirt
+keyword	mirror
+keyword	refrigerator
+keyword	kerchief
+keyword	sunglasses
+keyword	sex
+keyword	interrupted sex
+keyword	sex in public
+keyword	1960s
+keyword	moustache
+keyword	candle
+keyword	robe
+keyword	cut flowers
+keyword	wristwatch
+keyword	loan officer
+keyword	gay slur
+keyword	ruffled shirt
+keyword	jacuzzi
+keyword	dog
+keyword	present
+keyword	telephone
+keyword	womanizer
+keyword	towel
+keyword	rolls royce
+keyword	pearl necklace
+keyword	cheating on girlfriend
+keyword	cuban heels
+keyword	show handkerchief
+keyword	champagne
+keyword	banquet
+keyword	evacuation
+keyword	fur coat
+keyword	kissing
+keyword	drug abuse
+keyword	earring
+keyword	bandanna
+keyword	steam
+keyword	matches
+keyword	trashcan
+keyword	cadillac
+keyword	mother daughter relationship
+keyword	speech
+keyword	bracelet
+keyword	hair salon
+keyword	turtleneck sweater
+keyword	sex in a bathroom
+keyword	marijuana
+keyword	motorcycle
+keyword	bra
+keyword	tennis racket
+keyword	cigar smoking
+keyword	apple
+keyword	tennis court
+keyword	cooking
+keyword	belt
+keyword	sex with minor
+keyword	breaking glass
+keyword	presidential election
+keyword	sex with client
+keyword	pendant
+keyword	ring
+keyword	female nudity
+keyword	tie
+keyword	blow dryer
+keyword	restaurant
+keyword	eyeglasses
+keyword	investment
+keyword	panties
+keyword	breakup
+keyword	leather jacket
+keyword	strobe light
+keyword	chase
+keyword	old flame
+keyword	swimming pool
+keyword	bathroom
+keyword	extramarital affair
+keyword	flared pants
+keyword	senator
+keyword	middle finger
+keyword	voyeur
+keyword	millionaire
+keyword	muscle shirt
+keyword	chant
+cast	Warren Beatty	George
+cast	Julie Christie	Jackie
+cast	Goldie Hawn	Jill
+cast	Lee Grant	Felicia
+cast	Jack Warden	Lester
+cast	Tony Bill	Johnny Pope
+cast	George Furth	Mr. Pettis
+cast	Jay Robinson	Norman
+cast	Ann Weldon	Mary
+cast	Luana Anders	Devra
+cast	Randy Scheer	Dennis
+cast	Susanna Moore	Gloria
+cast	Carrie Fisher	Lorna
+cast	Mike Olton	Ricci
+cast	Richard E. Kalk	Detective Younger
+cast	Ronald Dunas	Nate
+cast	Hal Buckley	Kenneth
+cast	Jack Bernardi	Izzy
+cast	William Castle	Sid Roth
+cast	Brad Dexter	Senator East
+cast	Doris Packer	Rozalind
+cast	Faye Michael Nuell	Norma
+cast	Howard Hesseman	Red Dog
+cast	Cherie Latimer	Girl in Car
+cast	George Justin	Producer
+cast	Lesley Evans	Secretary
+cast	Brunetta Barnett	Mona
+cast	Joan Marshall	Mrs. Schumann
+cast	Kathleen Miller	Anjanette
+cast	Janice Baker	Model #1
+cast	April Ross	Model #2
+cast	Paula Warner	Model #3
+cast	Luis Delgado	Waiter at Bistro
+cast	Dina Ousley	Hairdresser
+cast	Mack Eden	Hairdresser
+cast	Daryl Keith Roach	Boy at Party
+cast	Melinda Smith	Twin #1
+cast	Constance Smith	Twin #2
+cast	Sean Walsh	Boy with Twins
+cast	Gary Marsh	Boy #1
+cast	Andrew Stevens	Boy #2
+cast	Colleen Brennan	Painted Lady
+cast	Larry Bischof	Guest
+cast	Don Ames	Guest
+cast	Wally Crowder	Malone's Delivery Boy
+cast	Cynthia Wood	Beauty Shop Customer
+cast	Jamie Cannon	Beauty Shop Customer
+cast	Susan McIver	Beauty Shop Customer
+cast	Kimberly McGowen	Beauty Shop Customer
+cast	Gail Landry	Beauty Shop Customer
+cast	Annalee Coyle	Beauty Shop Customer
+cast	Spiro Agnew	Himself
+cast	Susan Blakely	Girl on Street
+cast	David Brinkley	Himself
+cast	Howard Culver	Newscaster
+cast	Chet Huntley	Himself
+cast	Richard Nixon	Himself
+cast	Michelle Phillips	Girl at Party
+cast	Arthur Tovey	White-Haired Man at Party
+cast	Robert Towne	Party Guest

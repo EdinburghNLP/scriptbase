@@ -1,0 +1,81 @@
+year	2000
+imdb score	6.8
+meta score	75
+genre	Comedy
+genre	Drama
+keyword	small town
+keyword	bare chested male
+keyword	hairy chest
+keyword	amateur theater
+keyword	filmmaking
+keyword	car accident
+keyword	lawsuit
+keyword	hotel
+keyword	product placement
+keyword	new england
+keyword	dalmatian
+keyword	stained glass window
+keyword	film in film
+keyword	writing
+keyword	statutory rape
+keyword	starstruck
+keyword	nun
+keyword	independent film
+cast	Michael Higgins	Doc Wilson
+cast	Michael Bradshaw	Priest
+cast	Morris Lamore	Bunky
+cast	Allen Soule	Spud
+cast	Clark Gregg	Doug Mackenzie
+cast	Rebecca Pidgeon	Ann
+cast	Ricky Jay	Jack
+cast	Julia Stiles	Carla
+cast	Matt Malloy	Hotel Clerk
+cast	Charles Durning	Mayor George Bailey
+cast	Tony V.	Water Delivery Man
+cast	Tony Mamet	Electrician
+cast	Jack Wallace	Bellhop
+cast	Michael James O'Boyle	Chuckie
+cast	Charlotte Potok	Maude
+cast	Christopher Kaldor	Officer Cal Thompkin
+cast	Frederic Levy	Gun Store Owner
+cast	J.J. Johnston	Stationmaster
+cast	Patti LuPone	Sherry Bailey
+cast	Richard L. Friedman	Postman
+cast	Kolbie McCabe	Girl on Scooter
+cast	Emma Norman	Fisherwoman
+cast	Dee Nelson	Decorator
+cast	Brian Howe	Bartender
+cast	Robert Walsh	Trooper #1
+cast	G. Roy Levin	Salesman with Rubber Duck
+cast	Matthew Pidgeon	B.B.G. TV Reporter
+cast	Danny Hovanesian	Bailiff
+cast	Jerry Graff	Fake Judge
+cast	Timothy Jernigan-Smith	Billy on Bike
+cast	Paul Butler	Real Judge
+cast	Alexandra Kerry	Television Director
+cast	Ken Cheeseman	Trooper #2
+cast	Jordan Lage	Doc Morten
+cast	William H. Macy	Walt Price
+cast	Lionel Mark Smith	Bill Smith
+cast	Vincent Guastaferro	Uberto Pazzi-Sforzo
+cast	Linda Kimbrough	Courteney
+cast	Philip Seymour Hoffman	Joseph Turner White
+cast	Jim Frangione	Tommy Max
+cast	Alec Baldwin	Bob Barrenger
+cast	Lana Bilzerian	Girl PA
+cast	Sarah Jessica Parker	Claire Wellesley
+cast	Laura Silverman	Secretary
+cast	David Paymer	Marty Rossen
+cast	Josh Marchette	Production Assistant
+cast	Jonathan Katz	Howie Gold
+cast	Sean Patrick Reilly	Loop
+cast	Chris De Christopher	Painter 1
+cast	Alan Francis	Vermont State Trooper
+cast	Darrell Geer	Vermont State Trooper
+cast	John Krasinski	Judge's Assistant
+cast	David Lauren	News Producer
+cast	Cindy Lentol	Reporter
+cast	Molly Levine	Girl Pictured in Magazine
+cast	Kevin Foster McCarthy	Airport Van Driver
+cast	Todd Poudrier	Production Assistant
+cast	Kate Super	Production Assistant

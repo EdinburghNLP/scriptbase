@@ -1,0 +1,184 @@
+year	1989
+imdb score	5.0
+meta score	N/A
+genre	Horror
+genre	Thriller
+keyword	freddy krueger
+keyword	dream
+keyword	murderer
+keyword	nightmare
+keyword	serial killer
+keyword	graduation party
+keyword	baby stroller
+keyword	lifting male in air
+keyword	pregnancy
+keyword	slow motion
+keyword	springwood ohio
+keyword	falling from height
+keyword	friendship
+keyword	swimming pool
+keyword	lollipop
+keyword	tower
+keyword	sex
+keyword	screaming
+keyword	baby carriage
+keyword	supernatural
+keyword	doll
+keyword	insanity
+keyword	part of series
+keyword	slashed to death
+keyword	tension
+keyword	pregnant from rape
+keyword	reformed alcoholic
+keyword	mother son relationship
+keyword	gun
+keyword	birth
+keyword	car
+keyword	loss of lover
+keyword	boyfriend girlfriend relationship
+keyword	father
+keyword	mental institution
+keyword	deformed baby
+keyword	friend
+keyword	death of lover
+keyword	villain played by lead actor
+keyword	weapon
+keyword	street in title
+keyword	child born of rape
+keyword	plant in title
+keyword	diner
+keyword	champagne
+keyword	serial child killer
+keyword	mother daughter relationship
+keyword	boogeyman
+keyword	lifting a boy into the air
+keyword	photograph
+keyword	terror
+keyword	homicidal maniac
+keyword	pistol
+keyword	wanting child custody
+keyword	fifth part
+keyword	comic book
+keyword	rampage
+keyword	playground
+keyword	ultrasound
+keyword	love
+keyword	food
+keyword	springwood ohio
+keyword	hospital
+keyword	sequel
+keyword	elm street
+keyword	fusion
+keyword	father daughter relationship
+keyword	danger
+keyword	diving board
+keyword	doctor
+keyword	impalement
+keyword	disfigurement
+keyword	fetus
+keyword	swimmer
+keyword	drawing
+keyword	sadistic
+keyword	church
+keyword	cut into pieces
+keyword	shower
+keyword	blood
+keyword	1980s
+keyword	automobile
+keyword	dismemberment
+keyword	cult film
+keyword	premarital sex
+keyword	bed
+keyword	motorcycle
+keyword	violence
+keyword	artist
+keyword	demon
+keyword	good versus evil
+keyword	lifting a teen into the air
+keyword	hand through chest
+keyword	pain
+keyword	hot tub
+keyword	nun
+keyword	severed arm
+keyword	domineering mother
+keyword	skateboard
+keyword	high school graduation
+keyword	teenager
+keyword	fear
+keyword	spider
+keyword	loss of boyfriend
+keyword	lifting female in air
+keyword	elm street
+keyword	loss of friend
+keyword	cut hand
+keyword	undead
+keyword	force feeding
+keyword	falling asleep
+keyword	teen angst
+keyword	water
+keyword	indoor swimming pool
+keyword	lifting someone into the air
+keyword	waitress
+keyword	returning character killed off
+keyword	slasher
+keyword	death of boyfriend
+keyword	picnic
+keyword	arm ripped off
+keyword	murder
+keyword	place name in title
+keyword	comic book art
+keyword	evil man
+keyword	jock
+keyword	lover
+keyword	skeleton
+keyword	gore
+keyword	splatter
+keyword	death
+keyword	child killer
+keyword	airplane ticket
+keyword	death of friend
+keyword	independent film
+keyword	surprise ending
+cast	Robert Englund	Freddy Krueger
+cast	Lisa Wilcox	Alice
+cast	Kelly Jo Minter	Yvonne
+cast	Danny Hassel	Dan
+cast	Erika Anderson	Greta
+cast	Nicholas Mele	Dennis Johnson
+cast	Joe Seely	Mark Gray
+cast	Valorie Armstrong	Mrs. Jordan
+cast	Burr DeBenning	Mr. Jordan
+cast	Clarence Felder	Mr. Gray
+cast	Michael Ashton	Gurney Orderly
+cast	Beatrice Boepple	Amanda Krueger
+cast	Matthew Borlenghi	Jock
+cast	Noble Craig	Merging Freddy
+cast	E.R. Davies	Delivery Doctor
+cast	Beth DePatie	Anne
+cast	Will Egan	Semi-Truck Driver
+cast	Stacey Elliott	Girl in Locker
+cast	Steven Grives	Dr. Moore
+cast	Whit Hertford	Jacob
+cast	Jennifer Honneus	Asylum Girl
+cast	Jake Jacobs	Trendy Guest
+cast	Annie Lamaje	Elm Street Kid
+cast	Gerry Loew	Orderly #1
+cast	Kara Marie	Baby Jacob
+cast	Roxanne Mayweather	Delivery Nurse
+cast	Don Maxwell	Coach Ostrow
+cast	John R. Murray	Customer
+cast	Marnette Patterson	Little Girl
+cast	Cameron Perry	Guest
+cast	Marc Siegler	Thirty-Something
+cast	Michael Bailey Smith	Super Freddy
+cast	Pat Sturges	Racine Gibson
+cast	Cesar Anthony Torres	Cop
+cast	Peter Trencher	Trendy
+cast	Wally George	Himself
+cast	Ron Armstrong	Hot Seat Band Member
+cast	Ted Nugent	Hot Seat Band Member
+cast	Rudy Sarzo	Hot Seat Band Member
+cast	Eric Singer	Hot Seat Band Member
+cast	Jill Adler	Dinner Guest
+cast	Victor A. Haddox	Asylum Inmate
+cast	James Vallo	Paramedic

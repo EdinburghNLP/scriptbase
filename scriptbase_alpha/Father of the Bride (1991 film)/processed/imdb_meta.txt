@@ -1,0 +1,91 @@
+year	1991
+imdb score	6.4
+meta score	51
+genre	Comedy
+keyword	wedding
+keyword	wedding planner
+keyword	remake
+keyword	child driving a car
+keyword	leg touching
+keyword	attacked by a dog
+keyword	father dislikes daughter's boyfriend
+keyword	family relationships
+keyword	wedding at home
+keyword	mother in law son in law relationship
+keyword	breaking the fourth wall
+keyword	wedding dress
+keyword	mother in law daughter in law relationship
+keyword	hand on thigh
+keyword	falling into a pool
+keyword	father of the bride
+keyword	marriage
+keyword	in laws
+keyword	bride
+keyword	mother son relationship
+keyword	wedding gift
+keyword	chick flick
+keyword	hand on knee
+keyword	planning a wedding
+keyword	father in law daughter in law relationship
+keyword	father in law son in law relationship
+keyword	husband wife relationship
+keyword	groom
+keyword	barking dog
+keyword	feminism
+keyword	father son relationship
+keyword	father daughter relationship
+keyword	1990s
+keyword	fiancé fiancée relationship
+keyword	blockbuster
+keyword	based on novel
+keyword	title spoken by character
+keyword	
+cast	Steve Martin	George Banks
+cast	Diane Keaton	Nina Banks
+cast	Kimberly Williams-Paisley	Annie Banks
+cast	Kieran Culkin	Matty Banks
+cast	George Newbern	Bryan MacKenzie
+cast	Martin Short	Franck Eggelhoffer
+cast	BD Wong	Howard Weinstein
+cast	Peter Michael Goetz	John MacKenzie
+cast	Kate McGregor-Stewart	Joanna MacKenzie
+cast	Carmen Hayward	Grace
+cast	April Ortiz	Olivia
+cast	Mina Vasquez	Marta
+cast	Gibby Brand	David
+cast	Richard Portnow	Al - the Tux Salesman
+cast	Barbara Perry	Female Factory Worker
+cast	Martha Gehman	Andrea - the Florist
+cast	Frank Kopyc	Don, the Field Engineer
+cast	David Pasquesi	Hanck - the Caterer
+cast	Ira Heiden	Stock Boy
+cast	Thomas Wagner	Police Officer
+cast	Marissa Lefton	Annie - 3 Years Old
+cast	Sarah Rose Karr	Annie - 7 Years Old
+cast	Amy Young	Annie - 12 Years Old
+cast	Hallie Meyers-Shyer	Flower Girl
+cast	Annie Meyers-Shyer	Flower Girl
+cast	Morgan Dox	Bridesmaid
+cast	Elisa Mandell	Bridesmaid
+cast	Christine Beliveau	Bridesmaid
+cast	Natasha Wieland	Bridesmaid
+cast	Eric Kay	Usher
+cast	Scott Hogan	Usher
+cast	Peter James Cooper	Usher
+cast	David Day	Usher
+cast	Ed Williams	Reverend
+cast	Patricia Meyers	Guest at Reception
+cast	Irving Meyers	Guest at Reception
+cast	Mark Steen	Waiter #1
+cast	Robert Bauer	Waiter #2
+cast	Kevin Shaw	Waiter #3
+cast	Bruce A. Block	Photographer
+cast	Peter Murnik	Patrolman
+cast	Chauncey Leopardi	Cameron
+cast	Steve Tyrell	Bandleader
+cast	Tom Irish	Ben Banks
+cast	Eugene Levy	Singer at Audition
+cast	Nicole Abramson	Neighbor Girl
+cast	Britt Leach	Assistant Manager of Supermarket
+cast	Pamela Matheson	Sweedish cousin
+cast	Marc Ian Sklar	Wedding Guest

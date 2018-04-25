@@ -1,0 +1,307 @@
+year	1977
+imdb score	8.8
+meta score	91
+genre	Action
+genre	Adventure
+genre	Fantasy
+genre	Sci-Fi
+keyword	empire
+keyword	planet
+keyword	galaxy
+keyword	princess
+keyword	rescue
+keyword	rebellion
+keyword	droid
+keyword	farm
+keyword	desert
+keyword	emperor
+keyword	alien
+keyword	combat
+keyword	spacecraft
+keyword	farmer
+keyword	wookiee
+keyword	space station
+keyword	jedi
+keyword	lightsaber
+keyword	epic
+keyword	battle
+keyword	jedi knight
+keyword	knight
+keyword	sword
+keyword	hermit
+keyword	death star
+keyword	smuggler
+keyword	twin suns
+keyword	scavenger
+keyword	space battle
+keyword	spaceship
+keyword	hyperspace
+keyword	aerial combat
+keyword	sabotage
+keyword	anti hero
+keyword	space travel
+keyword	exhaust shaft
+keyword	jet fighter
+keyword	no opening credits
+keyword	good versus evil
+keyword	tough guy
+keyword	honor
+keyword	disarming someone
+keyword	leitmotif
+keyword	laser pistol
+keyword	lifting an adult into the air
+keyword	lifted by the throat
+keyword	gunfight
+keyword	hangar
+keyword	jedi mind trick
+keyword	prison
+keyword	two word title
+keyword	bar fight
+keyword	female fighter
+keyword	subjective camera
+keyword	medal
+keyword	single shot
+keyword	future
+keyword	numbered sequel
+keyword	evil empire
+keyword	lifting a male into the air
+keyword	mind control
+keyword	sword duel
+keyword	design flaw
+keyword	reward
+keyword	destiny
+keyword	slow motion scene
+keyword	lightsaber battle
+keyword	fictional planet
+keyword	disguise
+keyword	force choke
+keyword	storm trooper
+keyword	walls close in
+keyword	spaceport
+keyword	famous line
+keyword	alien race
+keyword	shrinking room
+keyword	family relationships
+keyword	sword fight
+keyword	lifting someone into the air
+keyword	uncle nephew relationship
+keyword	laser gun
+keyword	character's point of view camera shot
+keyword	spirit
+keyword	part of trilogy
+keyword	trash compactor
+keyword	destruction of planet
+keyword	saga
+keyword	fictional war
+keyword	swordsman
+keyword	general
+keyword	exploding ship
+keyword	abyss
+keyword	prison escape
+keyword	tough girl
+keyword	android
+keyword	stop motion animation
+keyword	bounty hunter
+keyword	symphonic music score
+keyword	science fantasy
+keyword	remake of japanese film
+keyword	troubled production
+keyword	fourth part
+keyword	foot chase
+keyword	non human
+keyword	escape pod
+keyword	galactic war
+keyword	death ray
+keyword	shot with a laser gun
+keyword	hologram
+keyword	burnt body
+keyword	martial arts
+keyword	gunslinger
+keyword	cult figure
+keyword	famous score
+keyword	pleading
+keyword	shootout
+keyword	castle thunder
+keyword	governor
+keyword	allegory of multiple historical events.
+keyword	mask
+keyword	telepathy
+keyword	space opera
+keyword	murder
+keyword	poetic justice
+keyword	ancient astronaut
+keyword	genocide
+keyword	duel
+keyword	extraterrestrial
+keyword	severed arm
+keyword	reverse footage
+keyword	reluctant hero
+keyword	neck breaking
+keyword	cantina
+keyword	strangulation
+keyword	hand to hand combat
+keyword	ambush
+keyword	underdog
+keyword	super villain
+keyword	action hero
+keyword	band
+keyword	cult film
+keyword	wilhelm scream
+keyword	loss of family
+keyword	assault
+keyword	scanimate
+keyword	sniper
+keyword	robot
+keyword	farmboy
+keyword	totalitarianism
+keyword	husband wife relationship
+keyword	exploding planet
+keyword	aunt nephew relationship
+keyword	preemptive strike
+keyword	computer
+keyword	courage
+keyword	stormtrooper
+keyword	alternate version
+keyword	chase
+keyword	impersonation
+keyword	escape
+keyword	incestuous kiss
+keyword	laser cannon
+keyword	hitman
+keyword	number in character's name
+keyword	the force
+keyword	famous opening theme
+keyword	tractor beam
+keyword	wuxia fiction
+keyword	monster
+keyword	blockbuster
+keyword	sword and planet
+keyword	animated chess
+keyword	space western
+keyword	warrior culture
+keyword	nomad
+keyword	mixed martial arts
+keyword	victory
+keyword	long time ago
+keyword	outer space
+keyword	marksman h combat remote
+keyword	self sacrifice
+keyword	telekinesis
+keyword	translator
+keyword	bar
+keyword	canyon
+keyword	innocent deaths avenged
+keyword	sequel
+keyword	warp speed
+keyword	sword and sorcery
+keyword	hypnosis
+keyword	space war
+keyword	hero
+keyword	orchestral music score
+keyword	invented language
+keyword	death of friend
+keyword	
+cast	Mark Hamill	Luke Skywalker
+cast	Harrison Ford	Han Solo
+cast	Carrie Fisher	Princess Leia Organa
+cast	Peter Cushing	Grand Moff Tarkin
+cast	Alec Guinness	Ben Obi-Wan Kenobi
+cast	Anthony Daniels	C-3PO
+cast	Kenny Baker	R2-D2
+cast	Peter Mayhew	Chewbacca
+cast	David Prowse	Darth Vader
+cast	Phil Brown	Uncle Owen
+cast	Shelagh Fraser	Aunt Beru
+cast	Jack Purvis	Chief Jawa
+cast	Alex McCrindle	General Dodonna
+cast	Eddie Byrne	General Willard
+cast	Drewe Henley	Red Leader
+cast	Denis Lawson	Red Two
+cast	Garrick Hagon	Red Three
+cast	Jack Klaff	Red Four
+cast	William Hootkins	Red Six
+cast	Angus MacInnes	Gold Leader
+cast	Jeremy Sinden	Gold Two
+cast	Graham Ashley	Gold Five
+cast	Don Henderson	General Taggi
+cast	Richard LeParmentier	General Motti
+cast	Leslie Schofield	Commander #1
+cast	David Ankrum	Red Two
+cast	Mark Austin	Boba Fett
+cast	Scott Beach	Stormtrooper
+cast	Lightning Bear	Stormtrooper
+cast	Jon Berg	Cantina Alien
+cast	Doug Beswick	Cantina Alien
+cast	Paul Blake	Greedo
+cast	Janice Burchette	Nabrun Leids
+cast	Ted Burnett	Wuher
+cast	John Chapman	Drifter
+cast	Gilda Cohen	Cantina Patron
+cast	Tim Condren	Stormtrooper
+cast	Barry Copping	Wioslea
+cast	Alfie Curtis	Dr. Evazan
+cast	Robert Davies	Cantina Patron
+cast	Maria De Aragon	Greedo
+cast	Robert A. Denham	Hrchek Kal Fas
+cast	Frazer Diamond	Jawa
+cast	Peter Diamond	Stormtrooper / Tusken Raider / Death Star Trooper / Garouf Lafoe
+cast	Warwick Diamond	Jawa
+cast	Sadie Eden	Garindan
+cast	Kim Falkinburg	Djas Puhr
+cast	Harry Fielder	Death Star Trooper
+cast	Ted Gagliano	Stormtrooper with Binoculars
+cast	Salo Gardner	Cantina Patron
+cast	Steve Gawley	Death Star Trooper
+cast	Barry Gnome	Kabe
+cast	Rusty Goffe	Kabe / Jawa / GONK Droid
+cast	Isaac Grand	Cantina Patron
+cast	Nelson Hall	Stormtrooper
+cast	Reg Harding	Stormtrooper
+cast	Alan Harris	Leia's Rebel Escort
+cast	Frank Henson	Stormtrooper
+cast	Christine Hewett	Brea Tonnika
+cast	Arthur Howell	Stormtrooper
+cast	Tommy Ilsley	Ponda Baba
+cast	Joe Johnston	Death Star Trooper
+cast	Annette Jones	Mosep
+cast	James Earl Jones	Darth Vader
+cast	Linda Jones	Chall Bekan
+cast	Joe Kaye	Solomohal
+cast	Colin Michael Kitchens	Stormtrooper
+cast	Melissa Kurtz	Jawa
+cast	Tiffany L. Kurtz	Jawa
+cast	Al Lampert	Daine Jir
+cast	Anthony Lang	BoShek
+cast	Laine Liska	Muftak / Cantina Band Member
+cast	Derek Lyons	Temple Guard / Medal Bearer
+cast	Mahjoub	Jawa
+cast	Alf Mangan	Takeel
+cast	Rick McCallum	Stormtrooper
+cast	Grant McCune	Death Star Gunner
+cast	Geoffrey Moon	Cantina Patron
+cast	Mandy Morton	Swilla Corey
+cast	Lorne Peterson	Massassi Base Rebel Scout
+cast	Marcus Powell	Rycar Ryjerd
+cast	Shane Rimmer	InCom Engineer
+cast	Pam Rose	Leesub Sirln
+cast	George Roubicek	Cmdr. Praji
+cast	Erica Simmons	Tawss Khaa
+cast	Angela Staines	Senni Tonnika
+cast	George Stock	Cantina Patron
+cast	Roy Straite	Cantina Patron
+cast	Peter Sturgeon	Sai'torr Kal Fas
+cast	Peter Sumner	Lt. Pol Treidum
+cast	John Sylla	Cantina Voices
+cast	Tom Sylla	Massassi Outpost Announcer / Various Voices
+cast	Malcolm Tierney	Lt. Shann Childsen
+cast	Phil Tippett	Cantina Alien
+cast	Burnell Tucker	Del Goren
+cast	Morgan Upton	Stormtrooper
+cast	Jerry Walter	Stormtrooper
+cast	Hal Wamsley	Jawa
+cast	Larry Ward	Greedo
+cast	Diana Sadley Way	Thuku
+cast	Harold Weed	Ketwol / Melas
+cast	Bill Weston	Stormtrooper
+cast	Steve 'Spaz' Williams	Mos Eisley Citizen
+cast	Fred Wood	Cantina Patron

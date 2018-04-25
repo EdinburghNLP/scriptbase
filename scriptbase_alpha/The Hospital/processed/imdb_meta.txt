@@ -1,0 +1,109 @@
+year	1971
+imdb score	7.3
+meta score	N/A
+genre	Comedy
+genre	Drama
+genre	Mystery
+keyword	hospital
+keyword	black comedy
+keyword	doctor
+keyword	suicidal
+keyword	monologue
+keyword	dead patient
+keyword	murder
+keyword	drugs
+keyword	vest
+keyword	rape
+keyword	hypodermic needle
+keyword	protest
+keyword	mini skirt
+keyword	malpractice
+keyword	telephone
+keyword	heart attack
+keyword	chaos
+keyword	dead nurse
+keyword	cynicism
+keyword	satire
+keyword	anti hero
+keyword	shaman
+keyword	upskirt
+keyword	death on operating table
+keyword	sex
+keyword	dead doctor
+keyword	impotence
+keyword	negligence
+keyword	medical profession
+keyword	new york
+cast	George C. Scott	Dr.Herbert Bock
+cast	Diana Rigg	Barbara Drummond
+cast	Barnard Hughes	Drummond
+cast	Richard Dysart	Dr. Welbeck
+cast	Stephen Elliott	Dr. Sundstrom
+cast	Donald Harron	Milton Mead
+cast	Andrew Duncan	William Mead
+cast	Nancy Marchand	Mrs. Christie
+cast	Jordan Charney	Hitchcock
+cast	Roberts Blossom	Guernsey
+cast	Lenny Baker	Dr. Schaefer
+cast	Richard Hamilton	Dr. Ronald Casey
+cast	Arthur Junaluska	Mr. Blacktree
+cast	Kate Harrington	Nurse Dunne
+cast	Katherine Helmond	Marilyn Mead
+cast	David Hooks	Dr. Einhorn
+cast	Frances Sternhagen	Mrs. Cushing
+cast	Robert Walden	Dr. Brubaker
+cast	William Perlow	Cardiac Arrest Doctor
+cast	Bette Henritze	Operating Room Nurse
+cast	Rehn Scofield	Dr. Spezio
+cast	Dora Weissman	Lady in the Hospital
+cast	Carolyn Krigbaum	Dr. Bock's Secretary
+cast	Robert Anthony	Dr. Elroy Ives - Second Victim
+cast	Leigh Beery	Mead's Secretary
+cast	Cynthia Belgrave	Nurse Reardon
+cast	Norman Berns	Dr. Biegelman
+cast	Charles Bershatsky	Medical Student Boswell
+cast	Jacqueline Brookes	Dr. Immelman
+cast	Lonnie Burr	Intern
+cast	Stockard Channing	E.R. Nurse
+cast	Paddy Chayefsky	Opening Narrator
+cast	Alex Colon	Young Lord
+cast	Matthew Cowles	Intern Chandler
+cast	Reid Cruickshanks	Chief Engineer
+cast	Anita Dangler	Paranoid Lady
+cast	Jean David	Stephanie McGuire
+cast	Lorrie Davis	Nurse Divine
+cast	Dennis Dugan	E.R. Doctor
+cast	Eddie Epstein	Resident
+cast	Milton Earl Forrest	Militant Leader
+cast	George Garcia	Militant Leader
+cast	Julie Garfield	Nurse Perez
+cast	Richard Goode	Dr. Sutcliffe
+cast	Nat Grant	Black Panther
+cast	Sarina C. Grant	Nurse X
+cast	Christopher Guest	Resident
+cast	Bette Howard	Young Mother
+cast	Tresa Hughes	Mrs. Donovan
+cast	Paul Jott	Administrative Resident
+cast	Bruce Kornbluth	Young Activist Doctor
+cast	Bill Lazarus	Police Captain
+cast	Paul Mace	Intern Ambler
+cast	Nancy MacKay	Sheilah
+cast	Marja Maitland	Nurse's Aide
+cast	Tony Major	Ambulance Attendant
+cast	Shawn McAllister	Medical Intern
+cast	Ruth Attaway Morrison	Circulating Nurse
+cast	Joy Nicholson	Sundstrom's Secretary
+cast	Bob O'Connell	Policeman
+cast	Angie Ortega	Nurse Teresa Campanella - Third Victim
+cast	Janet Paul	Emergency Room Receptionist
+cast	Lou Polan	Dr. Lagerman
+cast	Paul B. Price	Nameless Man
+cast	Janet Sarno	Nurse Rivers
+cast	Sab Shimono	
+cast	Marilyn Sokol	Lady Lib.
+cast	Tom Spratley	Mitgang
+cast	John Tremaine	Doctor
+cast	Tracey Walter	Man in Crowd
+cast	Paul Whaley	Hospital Spokesman
+cast	Gena Wheeler	Holding Nurse
+cast	Lydia Wilen	Emergency Nurse

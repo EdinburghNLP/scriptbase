@@ -1,0 +1,130 @@
+year	1997
+imdb score	5.9
+meta score	55
+genre	Horror
+genre	Sci-Fi
+keyword	insect
+keyword	disease
+keyword	entomologist
+keyword	epidemic
+keyword	cockroach
+keyword	subway
+keyword	giant insect
+keyword	sewer
+keyword	nest
+keyword	sweat
+keyword	killing an animal
+keyword	mutation
+keyword	glow stick
+keyword	hit by a train
+keyword	bloody body of child
+keyword	pistol
+keyword	gene manipulation
+keyword	switchblade
+keyword	hazmat suit
+keyword	center for disease control
+keyword	virus
+keyword	strickler's disease
+keyword	bum
+keyword	subterranean
+keyword	tape recorder
+keyword	murder of a police officer
+keyword	exploding car
+keyword	corpse
+keyword	judas breed
+keyword	cut hand
+keyword	dissection
+keyword	bathtub
+keyword	autism
+keyword	train
+keyword	missing child
+keyword	shot in the head
+keyword	scientist
+keyword	drugged drink
+keyword	stabbed to death
+keyword	shoe
+keyword	impaled child
+keyword	dragging a body
+keyword	shoe shiner
+keyword	pregnancy test
+keyword	father son relationship
+keyword	new york city
+keyword	piano playing
+keyword	dog
+keyword	injured leg
+keyword	subway station
+keyword	tunnel
+keyword	lungs
+keyword	lighter
+keyword	falling through a glass roof
+keyword	imitation
+keyword	torn in half
+keyword	chase
+keyword	impalement
+keyword	spoon
+keyword	button
+keyword	polaroid camera
+keyword	blood splatter
+keyword	flashlight
+keyword	new york
+keyword	babe scientist
+keyword	cigarette smoking
+keyword	jumping off a roof
+keyword	dead children
+keyword	stabbed in the chest
+keyword	blood
+keyword	crucifix
+keyword	shot to death
+keyword	falling from height
+keyword	manhattan new york city
+keyword	one word title
+keyword	preacher
+keyword	disappearance
+keyword	press conference
+keyword	rain
+keyword	scent
+keyword	based on short story
+keyword	child in peril
+keyword	eaten alive
+keyword	child killed by an animal
+keyword	falling to death
+keyword	dead dog
+keyword	search for son
+keyword	creature
+keyword	double child murder
+keyword	explosion
+keyword	sick child
+keyword	husband wife relationship
+keyword	car set on fire
+keyword	death of father
+keyword	death of child
+keyword	actor shares first name with character
+keyword	title spoken by character
+keyword	
+cast	Mira Sorvino	Dr. Susan Tyler
+cast	Jeremy Northam	Dr. Peter Mann
+cast	Alexander Goodwin	Chuy
+cast	Giancarlo Giannini	Manny
+cast	Charles S. Dutton	Leonard
+cast	Josh Brolin	Josh
+cast	Alix Koromzay	Remy
+cast	F. Murray Abraham	Dr. Gates
+cast	James Costa	Ricky
+cast	Javon Barnwell	Davis
+cast	Norman Reedus	Jeremy
+cast	Pak-Kwong Ho	Preacher
+cast	Glenn Bang	Yang
+cast	Margaret Ma	Chinese Woman
+cast	Warna Fisher	Bag Lady
+cast	Alan Argue	Skeletal Bum
+cast	Charles Hayter	Homeless Man
+cast	Julian Richings	Workman
+cast	James Kidnie	Subway Repairman
+cast	Eve English	Homeless Woman
+cast	Bill Lasovich	Long John #1
+cast	Doug Jones	Long John #2
+cast	Roger Clown	Long John #3
+cast	Marian Caparrós	Bystander SWAT arrival
+cast	Thomas Lundy	Subway Passenger
+cast	Napo	Homeless
+cast	Rocco Salata	Swat Team Leader

@@ -1,0 +1,453 @@
+year	2009
+imdb score	7.6
+meta score	56
+genre	Action
+genre	Drama
+genre	Mystery
+genre	Sci-Fi
+keyword	vigilante
+keyword	conspiracy
+keyword	investigation
+keyword	murder
+keyword	watch
+keyword	nuclear war
+keyword	masked vigilante
+keyword	clock
+keyword	killer
+keyword	usa
+keyword	doomsday
+keyword	retirement
+keyword	doomsday clock
+keyword	soviet
+keyword	shot in the head
+keyword	stabbed in the head
+keyword	panties
+keyword	kiss
+keyword	rumor
+keyword	bully comeuppance
+keyword	cult director
+keyword	broken glass
+keyword	tv news
+keyword	megacorporation
+keyword	black bra and panties
+keyword	surrealism
+keyword	shot in the forehead
+keyword	death of superhero
+keyword	atheist
+keyword	1980s
+keyword	right wing
+keyword	scientist
+keyword	cigarette smoking
+keyword	lifting someone into the air
+keyword	super villain
+keyword	dystopia
+keyword	bank robber
+keyword	police raid
+keyword	rooftop
+keyword	pregnant woman murdered
+keyword	utopia
+keyword	flying
+keyword	love
+keyword	shot to death
+keyword	friendship between men
+keyword	dismemberment
+keyword	lesbian nurse
+keyword	date rape
+keyword	kidnapped girl
+keyword	jail break
+keyword	number in character's name
+keyword	friendship
+keyword	evil man
+keyword	earring
+keyword	f word
+keyword	chest hair
+keyword	mother son relationship
+keyword	melancholy
+keyword	u.s. president
+keyword	diary
+keyword	explosion
+keyword	intelligence
+keyword	mental illness
+keyword	cynicism
+keyword	cyanide capsule
+keyword	black panties
+keyword	vegetarian
+keyword	comedian
+keyword	falling to death
+keyword	murder of lesbian couple
+keyword	hit in the groin
+keyword	innocent person killed
+keyword	cult film
+keyword	smiley
+keyword	cartoon on tv
+keyword	virtual set
+keyword	assassination of president
+keyword	post coital scene
+keyword	button
+keyword	burned alive
+keyword	friends falling out
+keyword	breast flashing
+keyword	1940s
+keyword	dog
+keyword	reporter
+keyword	police detective
+keyword	severed limb
+keyword	arm cut off
+keyword	social commentary
+keyword	prison riot
+keyword	gash in the face
+keyword	falling from height
+keyword	release from jail
+keyword	spacecraft
+keyword	misanthrope
+keyword	compassion
+keyword	bible
+keyword	murderer
+keyword	diner
+keyword	one word title
+keyword	smartest person
+keyword	domino mask
+keyword	suicide pill
+keyword	new york city
+keyword	black bra
+keyword	shot in the shoulder
+keyword	russia
+keyword	time
+keyword	pity sex
+keyword	manhattan new york city
+keyword	devastation
+keyword	bare butt
+keyword	lesbianism
+keyword	year 1969
+keyword	child murder
+keyword	dead woman with eyes open
+keyword	broken arm
+keyword	american president
+keyword	severed arm
+keyword	soviet american cooperation
+keyword	1950s
+keyword	american dream
+keyword	secret identity
+keyword	ruthlessness
+keyword	cleavage
+keyword	one eyed man
+keyword	newscaster
+keyword	kent state
+keyword	woman breaks man's neck
+keyword	cigar smoking
+keyword	big man
+keyword	death
+keyword	person on fire
+keyword	mother daughter relationship
+keyword	attempted rape
+keyword	shot in the back
+keyword	lesbian kiss
+keyword	lesbophobia
+keyword	superhero
+keyword	photograph
+keyword	masked superhero
+keyword	shot multiple times
+keyword	defenestration
+keyword	gatling gun
+keyword	masked man
+keyword	molotov cocktail
+keyword	news vendor
+keyword	tycoon
+keyword	epic
+keyword	topless female nudity
+keyword	existentialism
+keyword	shot in the leg
+keyword	post modern
+keyword	nudity
+keyword	cruelty
+keyword	based on comic book
+keyword	floppy drive
+keyword	male full frontal nudity
+keyword	death of expectant mother
+keyword	alternate history
+keyword	promiscuous mother
+keyword	flashback
+keyword	framed for murder
+keyword	dc comics
+keyword	water tank
+keyword	anti villain
+keyword	brutality
+keyword	happy face
+keyword	dark comedy
+keyword	two man army
+keyword	saving the world
+keyword	scar
+keyword	fake assassination
+keyword	flag
+keyword	fire rescue
+keyword	rape
+keyword	businessman
+keyword	fight
+keyword	flashing
+keyword	female nudity
+keyword	based on comic
+keyword	super speed
+keyword	thrown from a building
+keyword	cemetery
+keyword	paternity revealed
+keyword	title appears in writing
+keyword	killer dog
+keyword	tragic hero
+keyword	burn victim
+keyword	building on fire
+keyword	nihilism
+keyword	reading newspaper
+keyword	female hero
+keyword	vomit
+keyword	conspiracy theory
+keyword	press conference
+keyword	man on top
+keyword	crime fighter
+keyword	los angeles california
+keyword	famous line
+keyword	police
+keyword	evacuation
+keyword	pregnant from rape
+keyword	bare chested male
+keyword	partnership
+keyword	slow motion scene
+keyword	dead woman on bed
+keyword	bully
+keyword	1960s
+keyword	jumping through a window
+keyword	lifting person in air
+keyword	assassination
+keyword	alternative history
+keyword	inkblot
+keyword	flamethrower
+keyword	rapist
+keyword	hit in the crotch
+keyword	controversy
+keyword	terrorism
+keyword	eccentric
+keyword	laboratory
+keyword	destroyed city
+keyword	vietnam
+keyword	mass murder
+keyword	pregnant woman shot
+keyword	midget
+keyword	protest
+keyword	trenchcoat
+keyword	cold war
+keyword	love triangle
+keyword	funeral
+keyword	nihilist
+keyword	female rear nudity
+keyword	cancer
+keyword	double life
+keyword	death of hero
+keyword	street crime
+keyword	attempted murder
+keyword	satire
+keyword	year 1985
+keyword	shot in the chest
+keyword	military funeral
+keyword	poison
+keyword	tv anchorman
+keyword	woman on top
+keyword	mars
+keyword	postmodern
+keyword	1970s
+keyword	man with glasses
+keyword	severed arms
+keyword	based on graphic novel
+keyword	swat team
+keyword	afghanistan
+keyword	freak accident
+keyword	dark hero
+keyword	gadget
+keyword	world trade center manhattan new york city
+keyword	vietnam war
+keyword	red square
+keyword	ear bitten off
+keyword	voice over narration
+keyword	knife
+keyword	man on moon
+keyword	assassin
+keyword	teleportation
+keyword	kennedy assassination
+keyword	killing a dog
+keyword	watching tv
+keyword	sex on couch
+keyword	nuclear holocaust
+keyword	mask
+keyword	detective
+keyword	supernatural power
+keyword	blood spatter
+keyword	riot
+keyword	american flag
+keyword	astronaut
+keyword	face slap
+keyword	crystal palace
+keyword	abuse
+keyword	president
+keyword	moral ambiguity
+keyword	anti hero
+keyword	human eaten by dog
+keyword	outlaw
+keyword	male nudity
+keyword	airship
+keyword	moon
+keyword	world war three
+keyword	moral dilemma
+keyword	alternative reality
+keyword	acquaintance rape
+keyword	violence
+keyword	sex with hologram
+keyword	sacrifice
+keyword	pregnancy
+keyword	prison
+keyword	sociopath
+keyword	antarctica
+keyword	picture
+keyword	false promise of the american dream
+keyword	based on novel
+keyword	title spoken by character
+keyword	surprise ending
+cast	Malin Akerman	Laurie Jupiter / Silk Spectre II
+cast	Billy Crudup	Dr. Manhattan / Jon Osterman
+cast	Matthew Goode	Adrian Veidt / Ozymandias
+cast	Jackie Earle Haley	Rorschach
+cast	Jeffrey Dean Morgan	Edward Blake / Comedian
+cast	Patrick Wilson	Dan Dreiberg / Nite Owl
+cast	Carla Gugino	Sally Jupiter / Silk Spectre
+cast	Matt Frewer	Moloch
+cast	Stephen McHattie	Hollis Mason
+cast	Laura Mennell	Janey Slater
+cast	Rob LaBelle	Wally Weaver
+cast	Gary Houston	John McLaughlin
+cast	James M. Connor	Pat Buchanan
+cast	Mary Ann Burger	Eleanor Clift
+cast	John Shaw	Doug Roth
+cast	Robert Wisden	Richard Nixon
+cast	Jerry Wasserman	Detective Fine
+cast	Don Thompson	Detective Gallagher
+cast	Frank Novak	Henry Kissinger
+cast	Sean Allan	NORAD General
+cast	Garry Chalk	NORAD General
+cast	Ron Fassler	Ted Koppel
+cast	Stephanie Belding	Janet Black
+cast	Michael Kopsa	Paul Klein
+cast	William S. Taylor	Prison Psychiatrist
+cast	Chris Burns	Dumb Thug
+cast	Malcolm Scott	Fat Thug
+cast	Danny Wattley	Huge Prisoner
+cast	Nhi Do	Vietnamese Girl
+cast	Walter Addison	Lee Iacocca
+cast	Keith Martin Gordey	Auto CEO
+cast	David MacKay	Child Murderer
+cast	Fulvio Cecere	Agent Forbes
+cast	Ted Cole	Dick Cavett
+cast	Mark Acheson	Large Man At Happy Harry's
+cast	John B. Destry	Happy Harry's Bartender
+cast	Chris Gauthier	Seymour
+cast	L. Harvey Gold	New Frontiersman Editor
+cast	Jay Brazeau	News Vendor
+cast	Jesse Reid	Teenager at Newsstand
+cast	Manoj Sood	Karnak Scientist
+cast	Dan Payne	Dollar Bill
+cast	Niall Matter	Mothman
+cast	Apollonia Vanova	Silhouette
+cast	Glenn Ennis	Hooded Justice
+cast	Darryl Scheelar	Captain Metropolis
+cast	Clint Carleton	Young Hollis Mason
+cast	Mike Carpenter	Young Moloch
+cast	Leah Gibson	Silhouette's Girlfriend
+cast	Brett Stimely	John F. Kennedy
+cast	Carrie Genzel	Jackie Kennedy
+cast	Greg Travis	Andy Warhol
+cast	Greg Armstrong-Morris	Truman Capote
+cast	Andrew Colthart	Naked Man At Warhol Party
+cast	Bruce Crawford	Bank Robber
+cast	Sal Sortino	1940 Watchmen Photographer
+cast	Eli Snyder	Young Rorschach
+cast	Lori Watt	Rorschach's Mother
+cast	Tony Bardach	John With Rorschach's Mother
+cast	John Kobylka	Fidel Castro
+cast	Carmen Lavigne	Anti War Protester
+cast	J.R. Killigrew	David Bowie
+cast	Steven Stojkovic	Mick Jagger
+cast	Martin Reiss	Brezhnev
+cast	Frank Cassini	Sally's Husband
+cast	John R. Taylor	Priest
+cast	Tara Frederick	Aggressive Hooker
+cast	Daryl Shuttleworth	Jon's Father
+cast	Jaryd Heidrick	Young Jon
+cast	Ron Chartier	Carnival Photographer
+cast	Carly Bentall	Wally's Girlfriend
+cast	Matt Drake	Older Boy Bully
+cast	Haley Guiel	Laurie - 13 Years
+cast	Sonya Salomaa	Adrian Veidt's Assistant
+cast	Tyler McClendon	Veidt Enterprises Security Guard
+cast	Salli Saffioti	Annie Leibovitz
+cast	Neil Schell	Man In Riot Crowd
+cast	Michael Eklund	Man In Riot Crowd
+cast	Deborah Finkel	Woman In Riot Crowd
+cast	Louis Chirillo	Face To Face TV Producer
+cast	Marsha Regis	Face To Face TV Receptionist
+cast	Patrick Sabongui	Knot Top Gang Leader
+cast	John Tench	Knot Top Gang Member
+cast	Santo Lombardo	Knot Top Gang Member
+cast	Jason Schombing	NY SWAT
+cast	Darren Shahlavi	NY SWAT
+cast	Marshall Virtue	NY SWAT
+cast	Colin Lawrence	Officer Kirkpatrick
+cast	Chris Weber	Officer O'Brien
+cast	Alessandro Juliani	Rockefeller Military Base Technician
+cast	Alison Araya	Foreign Newscaster
+cast	Sahar Biniaz	Foreign Newscaster
+cast	Matthew Harrison	Foreign Newscaster
+cast	Bernadeta Wrobel	Foreign Newscaster
+cast	Youri Obryvtchenko	Foreign Newscaster
+cast	Heidi Iro	Foreign Newscaster
+cast	Kit Koon	Foreign Newscaster
+cast	Parm Soor	Foreign Newscaster
+cast	Cristina Menz	Foreign Newscaster
+cast	Lynn Colliar	Foreign Newscaster
+cast	Tony Ali	Foreign Newscaster
+cast	Katie Bennison	Foreign Newscaster
+cast	Ian Farthing	Foreign Newscaster
+cast	Calvin Lee	Foreign Newscaster
+cast	Alexander Mandra	Foreign Newscaster
+cast	Isabelle Champeau	Foreign Newscaster
+cast	Ashley O'Connell	Foreign Newscaster
+cast	Mark Gash	On Location Reporter
+cast	Suzanne E. Smith	On Location Reporter
+cast	Agam Darshi	On Location Reporter
+cast	Tom McBeath	News Analyst
+cast	Kevin McNulty	News Anchor
+cast	Mark Docherty	Newscaster
+cast	Clay St. Thomas	Newscaster
+cast	Dale Wolfe	Keene Act Anchor
+cast	Ken Tremblett	Keene Act Anchor
+cast	Dawn Chubai	Keene Act Anchor
+cast	Manuelita Kinsley	Keene Riot Reporter
+cast	Tamara Stanners	Vietnam 51st State Anchor
+cast	Sahara Davis	Young Tenement Fire Child
+cast	Greig Hospes	Tenement Fire Child
+cast	Danny Hospes	Tenement Fire Child
+cast	Ali Dunn	Tenement Fire Child
+cast	Jeffrey Flieler	Tenement Fire Policeman
+cast	Kurt Evans	Tenement Fire News Reporter
+cast	Sylvesta Stuart	Destruction Firefighter
+cast	Terence Kelly	General West
+cast	Mi-Jung Lee	A Bomb Test Anchorwoman
+cast	Ted Friend	Larry Culpeper
+cast	Tiffany Burns	News Reporter
+cast	Michael Adamthwaite	Bar Knot Top
+cast	Damon Caro	U.S. Soldier
+cast	Douglas Chapman	Roy Chess
+cast	Trevor Coppola	NY Swat #4
+cast	Dave Cote	Man at Club
+cast	Saira De Goede	Girl at Club
+cast	Ed Metzger	Prof. Albert Einstein
+cast	Yoosik Oum	Scientist
+cast	Kennith Overbey	Village People Cop
+cast	Zack Snyder	Commando in Vietnam
+cast	Michael Stevens	Doomsday Clock Scientist #1
+cast	Danny Woodburn	Big Figure Prisoner

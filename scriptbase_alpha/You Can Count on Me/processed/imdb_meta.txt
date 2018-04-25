@@ -1,0 +1,63 @@
+year	2000
+imdb score	7.8
+meta score	85
+genre	Drama
+keyword	single mother
+keyword	new york
+keyword	bank
+keyword	car accident
+keyword	loss of parent
+keyword	church
+keyword	pancake
+keyword	cemetery
+keyword	star gazing
+keyword	fistfight
+keyword	pool table
+keyword	suicide attempt
+keyword	father figure
+keyword	plumber
+keyword	dysfunctional relationship
+keyword	fishing
+keyword	countryside
+keyword	mother son relationship
+keyword	cannabis
+keyword	billiards
+keyword	rain
+keyword	orphan
+keyword	precocious child
+keyword	pastor
+keyword	house construction
+keyword	automated teller machine
+keyword	police
+keyword	billiard contest
+keyword	bus trip
+keyword	marriage proposal
+keyword	brother sister relationship
+keyword	employer employee relationship
+keyword	uncle nephew relationship
+keyword	small town
+keyword	independent film
+keyword	
+cast	Laura Linney	Samantha 'Sammy' Prescott
+cast	Mark Ruffalo	Terry Prescott
+cast	Matthew Broderick	Brian Everett
+cast	Rory Culkin	Rudy Prescott
+cast	Jon Tenney	Bob Steegerson
+cast	J. Smith-Cameron	Mabel
+cast	Gaby Hoffmann	Sheila
+cast	Amy Ryan	Rachel Louise Prescott
+cast	Michael Countryman	Thomas Gerard Prescott
+cast	Adam LeFevre	Sheriff Darryl
+cast	Halley Feiffer	Amy
+cast	Whitney Vance	Young Sammy Prescott
+cast	Peter Kerwin	Young Terry Prescott
+cast	Betsy Aidem	Minister
+cast	Lisa Altomare	Waitress
+cast	Kenneth Lonergan	Ron
+cast	Nina Garbiras	Nancy Everett
+cast	Richard Hummer	Plumber
+cast	Kim Parker	Rudy Sr.'s Girlfriend
+cast	Josh Lucas	Rudy
+cast	Allan Gill	Older Cop
+cast	Brian Ramage	Young Cop
+cast	Kevin Kean Murphy	Chuck

@@ -1,0 +1,171 @@
+year	1987
+imdb score	7.1
+meta score	46
+genre	Adventure
+genre	Comedy
+genre	Sci-Fi
+keyword	planet
+keyword	princess
+keyword	king
+keyword	president
+keyword	rescue
+keyword	wedding
+keyword	parody
+keyword	robot
+keyword	teacher student relationship
+keyword	self destruct
+keyword	escape pod
+keyword	subjective camera
+keyword	botched teleportation
+keyword	sci fi spoof
+keyword	space battle
+keyword	alien
+keyword	shooting
+keyword	rich snob
+keyword	weapon
+keyword	transformer
+keyword	high tech
+keyword	desert planet
+keyword	hostage
+keyword	space opera
+keyword	cult film
+keyword	canceled wedding
+keyword	parody of cult film
+keyword	marriage
+keyword	panting
+keyword	shot in the crotch
+keyword	technology
+keyword	alien space craft
+keyword	star wars spoof
+keyword	planet enclosed within shield
+keyword	obscene finger gesture
+keyword	cult film
+keyword	cult director
+keyword	man with glasses
+keyword	one word title
+keyword	android
+keyword	breaking the fourth wall
+keyword	spoof
+keyword	statue of liberty new york city
+keyword	role reversal
+keyword	sword fighting
+keyword	duel
+keyword	alien invasion
+keyword	actor playing multiple roles
+keyword	lifting someone into the air
+keyword	explosion in space
+keyword	kiss
+keyword	transforming robot
+keyword	chase
+keyword	cowboy boots
+keyword	sword fight
+keyword	self referential
+keyword	smuggler
+keyword	character's point of view camera shot
+keyword	space exploration
+keyword	deliberate cruelty
+keyword	shootout
+keyword	lifting female in air
+keyword	desert
+keyword	film within a film
+keyword	cowboy hat
+keyword	alien contact
+keyword	extraterrestrial
+keyword	alien civilization
+keyword	hero
+keyword	villain
+keyword	spacecraft
+keyword	damsel in distress
+keyword	lawrence of arabia spoof
+keyword	motor home
+keyword	urination
+keyword	space travel
+keyword	ship
+keyword	alien technology
+keyword	self cannibalism
+keyword	kidnapping
+keyword	creature
+keyword	shapeshifting
+keyword	ufo
+keyword	written and directed by cast member
+keyword	teleportation
+keyword	battle
+keyword	satire
+keyword	unlikely hero
+keyword	flamethrower
+keyword	lifting an adult into the air
+keyword	psychotronic
+keyword	space cowboy
+keyword	wedding ceremony gone awry
+keyword	swordplay
+keyword	space war
+keyword	courage
+keyword	kidnapping
+keyword	good versus evil
+keyword	wilhelm scream
+keyword	outer space
+keyword	bravery
+keyword	winnebago
+keyword	warp speed
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Mel Brooks	President Skroob / Yogurt
+cast	John Candy	Barf
+cast	Rick Moranis	Dark Helmet
+cast	Bill Pullman	Lone Starr
+cast	Daphne Zuniga	Princess Vespa
+cast	Dick Van Patten	King Roland
+cast	George Wyner	Colonel Sandurz
+cast	Michael Winslow	Radar Technician
+cast	Joan Rivers	Dot Matrix
+cast	Lorene Yarnell Jansson	Dot Matrix
+cast	John Hurt	John Hurt
+cast	Sal Viscuso	Radio Operator
+cast	Ronny Graham	Minister
+cast	Jim J. Bullock	Prince Valium
+cast	Leslie Bevis	Commanderette Zircon
+cast	Jim Jackman	Major Asshole
+cast	Mike Pniewski	Laser Gunner
+cast	Sandy Helberg	Dr. Schlotkin
+cast	Stephen Tobolowsky	Captain of the Guard
+cast	Jeff MacGregor	Snotty
+cast	Henry Kaiser	Magnetic Beam Operator
+cast	Denise Gallup	Charlene
+cast	Dian Gallup	Marlene
+cast	Gail Barle	Waitress
+cast	Dey Young	Waitress
+cast	Rhonda Shear	Woman in Diner
+cast	Robert Prescott	Sand Cruiser Driver
+cast	Jack Riley	TV Newsman
+cast	Tom Dreesen	Megamaid Guard
+cast	Rudy De Luca	Vinnie
+cast	Tony Griffin	Prison Guard
+cast	Rick Ducommun	Prison Guard
+cast	Ken Olfson	Head Usher
+cast	Bryan O'Byrne	Organist
+cast	Wayne Wilson	Trucker in Cap
+cast	Ira Miller	Short Order Cook
+cast	Earl Finn	Guard with Captain
+cast	Mitchell Bock	Video Operator
+cast	Tommy Swerdlow	Troop Leader
+cast	Tim Russ	Trooper
+cast	Ed Gale	Dink
+cast	Antonio Hoyos	Dink
+cast	Felix Silla	Dink
+cast	Arturo Gil	Dink
+cast	Tony Cox	Dink
+cast	John Kennedy Hayden	Dink
+cast	Dee Booher	Bearded Lady
+cast	Johnny Silver	Caddy
+cast	Brenda Strong	Nurse
+cast	Dom DeLuise	Pizza the Hutt
+cast	Camille Hagen	Woman in Diner
+cast	Jerry Maren	
+cast	Terence Marsh	Spaceball Drum Beater
+cast	Thomas Meehan	King Roland's Aide
+cast	Rob Paulsen	Spaceball with Comb
+cast	Julie Pitkanen	Self-Destruct Voice
+cast	Cary Stratton	
+cast	Dick Warlock	Vulcan Pinch Guard
+cast	Michael York	Ape #1

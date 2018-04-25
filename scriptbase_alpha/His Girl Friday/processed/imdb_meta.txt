@@ -1,0 +1,113 @@
+year	1940
+imdb score	8.1
+meta score	N/A
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	editor
+keyword	newspaper
+keyword	reporter
+keyword	newspaper editor
+keyword	mayor
+keyword	sheriff
+keyword	arrest
+keyword	satire
+keyword	escape
+keyword	fugitive
+keyword	journalist
+keyword	marriage proposal
+keyword	working women
+keyword	marriage
+keyword	interview
+keyword	self referential
+keyword	sold to american
+keyword	cop killer
+keyword	automobile accident
+keyword	warden
+keyword	poker game
+keyword	jail
+keyword	police
+keyword	telephone
+keyword	screwball comedy
+keyword	captive
+keyword	1940s
+keyword	investigator
+keyword	restaurant
+keyword	political campaign
+keyword	remake
+keyword	execution
+keyword	female reporter
+keyword	pickpocket
+keyword	doctor
+keyword	false accusation
+keyword	gunfire
+keyword	capital punishment
+keyword	mother son relationship
+keyword	jumping from a window
+keyword	urban setting
+keyword	bribery
+keyword	battle of the sexes
+keyword	vocational obsession
+keyword	saved from execution
+keyword	rolltop desk
+keyword	work ethic
+keyword	contemporary setting
+keyword	insurance agent
+keyword	frame up
+keyword	kiss
+keyword	kidnapping
+keyword	fiancé fiancée relationship
+keyword	manhunt
+keyword	business
+keyword	political corruption
+keyword	handcuffs
+keyword	career woman
+keyword	counterfeit money
+keyword	psychiatrist
+keyword	press room
+keyword	broken engagement
+keyword	prison escape
+keyword	journalism
+keyword	wager
+keyword	murder
+keyword	reprieve
+keyword	jail break
+keyword	divorce
+keyword	day in title
+keyword	based on play
+keyword	
+cast	Cary Grant	Walter Burns
+cast	Rosalind Russell	Hildy Johnson
+cast	Ralph Bellamy	Bruce Baldwin
+cast	Gene Lockhart	Sheriff Peter B. Hartwell
+cast	Porter Hall	Murphy
+cast	Ernest Truex	Roy B. Bensinger
+cast	Cliff Edwards	Endicott
+cast	Clarence Kolb	Fred - Mayor
+cast	Roscoe Karns	McCue
+cast	Frank Jenks	Wilson
+cast	Regis Toomey	Sanders
+cast	Abner Biberman	Louie
+cast	Frank Orth	Duffy
+cast	John Qualen	Earl Williams
+cast	Helen Mack	Mollie Malloy
+cast	Alma Kruger	Mrs. Baldwin
+cast	Billy Gilbert	Joe Pettibone
+cast	Pat West	Warden Cooley
+cast	Edwin Maxwell	Dr. Egelhoffer
+cast	Irving Bacon	Gus
+cast	Wade Boteler	Mike
+cast	Harry C. Bradley	Insurance Doctor
+cast	Wheaton Chambers	Elevator Passenger
+cast	Edmund Cobb	Cop
+cast	Ann Doran	Newspaper Office Worker
+cast	Ralph Dunn	Plainclothesman
+cast	Earl Dwire	Pete Davis
+cast	Pat Flaherty	Frank - Policeman
+cast	Jack Gardner	Elevator Passenger
+cast	Eddie Hart	Carl - Plainclothesman
+cast	Marion Martin	Evangeline
+cast	Frank McClure	Newsman
+cast	James Millican	Tim
+cast	Gene Morgan	Gene
+cast	Delmar Watson	Skinny

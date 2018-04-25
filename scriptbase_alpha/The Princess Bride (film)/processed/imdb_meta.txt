@@ -1,0 +1,271 @@
+year	1987
+imdb score	8.2
+meta score	77
+genre	Adventure
+genre	Comedy
+genre	Family
+genre	Fantasy
+genre	Romance
+keyword	prince
+keyword	pirate
+keyword	swamp
+keyword	giant
+keyword	princess
+keyword	true love
+keyword	kissing
+keyword	boy
+keyword	evil prince
+keyword	miracle
+keyword	rodent
+keyword	fairy tale
+keyword	swordsman
+keyword	marriage
+keyword	fire swamp
+keyword	shrieking eel
+keyword	quicksand
+keyword	torture
+keyword	fire
+keyword	escape
+keyword	eel
+keyword	fencing
+keyword	sword fight
+keyword	respect
+keyword	screaming
+keyword	revenge
+keyword	old hag
+keyword	wedding ceremony
+keyword	chopping wood
+keyword	wheelbarrow
+keyword	rock
+keyword	rope
+keyword	stabbing
+keyword	strapped down
+keyword	strapped to table
+keyword	immunity
+keyword	chocolate
+keyword	choking
+keyword	mother son relationship
+keyword	jeering
+keyword	self worth
+keyword	ravine
+keyword	unrequited love
+keyword	dagger
+keyword	hope
+keyword	friend
+keyword	machine
+keyword	sword
+keyword	book
+keyword	laughing
+keyword	old man
+keyword	sand pit
+keyword	famous line
+keyword	bellows
+keyword	albino
+keyword	forest
+keyword	drunkenness
+keyword	grandfather grandson relationship
+keyword	storyteller
+keyword	honor
+keyword	stabbed to death
+keyword	reference to socrates
+keyword	sword fighting
+keyword	arranged marriage
+keyword	horse riding
+keyword	pitcher
+keyword	father son relationship
+keyword	swimming
+keyword	hill
+keyword	reunion
+keyword	clergyman
+keyword	electronic music score
+keyword	reference to plato
+keyword	farmboy
+keyword	story within the story
+keyword	spaniard
+keyword	avenger
+keyword	swashbuckler
+keyword	falling down a hill
+keyword	impalement
+keyword	pill
+keyword	hag
+keyword	king
+keyword	coward
+keyword	climbing
+keyword	coughing
+keyword	funny accent
+keyword	battle of wits
+keyword	gate
+keyword	clothes on fire
+keyword	back from the dead
+keyword	extra finger
+keyword	reference to aristotle
+keyword	crossbow
+keyword	bare chested male bondage
+keyword	scar
+keyword	portcullis
+keyword	brought back to life
+keyword	wrestling
+keyword	castle
+keyword	cloak
+keyword	murder
+keyword	good versus evil
+keyword	running away
+keyword	talking to one's dead father
+keyword	bitten by a rat
+keyword	cup
+keyword	reverse footage
+keyword	hugging
+keyword	reading aloud
+keyword	secret entrance
+keyword	fictional country
+keyword	mask
+keyword	duel
+keyword	jumping on a horse
+keyword	jealousy
+keyword	dead father
+keyword	masked man
+keyword	pushing someone
+keyword	escape attempt
+keyword	poisoned wine
+keyword	hand with six fingers
+keyword	death by poison
+keyword	sick bed
+keyword	kidnapping
+keyword	man in black
+keyword	redemption
+keyword	scream
+keyword	sicilian
+keyword	deception
+keyword	white horse
+keyword	eel infested waters
+keyword	rat
+keyword	boat
+keyword	facial scar
+keyword	rat bite
+keyword	poisoned drink
+keyword	cutting rope
+keyword	parody
+keyword	life and death battle
+keyword	pinching someone's cheek
+keyword	wedding
+keyword	wine
+keyword	lifting someone into the air
+keyword	pit
+keyword	belief in the soul
+keyword	reading
+keyword	bedroom
+keyword	friendship between men
+keyword	goblet
+keyword	repeated line
+keyword	wizard
+keyword	kiss
+keyword	blood
+keyword	suicide attempt
+keyword	steep hill
+keyword	jumping into water
+keyword	present
+keyword	sick child
+keyword	farm
+keyword	killing a rat
+keyword	secret door
+keyword	lifting a female into the air
+keyword	warrior
+keyword	screenplay adapted by author
+keyword	boyfriend girlfriend relationship
+keyword	family relationships
+keyword	killing an animal
+keyword	sleeper hold
+keyword	old woman
+keyword	pharmacist
+keyword	door in a tree
+keyword	knocking on a door
+keyword	fiancé fiancée relationship
+keyword	rhyme
+keyword	friendship
+keyword	cult film
+keyword	climbing a rope
+keyword	lifting an adult into the air
+keyword	jumping through a window
+keyword	lisp
+keyword	knife
+keyword	playing a video game
+keyword	cliff
+keyword	impersonation
+keyword	knife throwing
+keyword	powder
+keyword	speech impediment
+keyword	giant rat
+keyword	damsel in distress
+keyword	being followed
+keyword	kingdom
+keyword	blindfold
+keyword	tied to a chair
+keyword	sword and sorcery
+keyword	stabbed in the stomach
+keyword	priest
+keyword	loss of boyfriend
+keyword	animal attack
+keyword	life and death
+keyword	nightmare
+keyword	iocane powder
+keyword	slow motion scene
+keyword	hit on the head
+keyword	tree
+keyword	murder of father
+keyword	hopelessness
+keyword	queen
+keyword	screwball
+keyword	key
+keyword	suicide threat
+keyword	poison
+keyword	cult film
+keyword	pinching cheek
+keyword	giant animal
+keyword	coming back to life
+keyword	title in title
+keyword	pounding on a door
+keyword	throwing a rock
+keyword	breaking down a door
+keyword	sand
+keyword	interruption
+keyword	storytelling
+keyword	stabbed in the chest
+keyword	insult
+keyword	deformity
+keyword	following someone
+keyword	speaking in rhyme
+keyword	horse
+keyword	fight
+keyword	tied up
+keyword	secret identity
+keyword	gentle giant
+keyword	magic
+keyword	death of father
+keyword	based on novel
+cast	Cary Elwes	Westley / The Man in Black
+cast	Mandy Patinkin	Inigo Montoya
+cast	Chris Sarandon	Prince Humperdinck
+cast	Christopher Guest	Count Tyrone Rugen
+cast	Wallace Shawn	Vizzini
+cast	André the Giant	Fezzik
+cast	Fred Savage	The Grandson
+cast	Robin Wright	The Princess Bride
+cast	Peter Falk	The Grandfather / Narrator
+cast	Peter Cook	The Impressive Clergyman
+cast	Mel Smith	The Albino
+cast	Carol Kane	Valerie
+cast	Billy Crystal	Miracle Max
+cast	Anne Dyson	The Queen
+cast	Margery Mason	The Ancient Booer
+cast	Malcolm Storry	Yellin
+cast	Willoughby Gray	The King
+cast	Betsy Brantley	The Mother
+cast	Paul Badger	The Assistant Brute
+cast	Errol Bennett	The Balladeer's Percussionist
+cast	Willy DeVille	The Balladeer
+cast	Mickey Feat	The Balladeer's Bassist
+cast	Guy Fletcher	The Balladeer's Keyboardist
+cast	Mark Knopfler	The Balladeer's Guitarist
+cast	Jamie Lane	The Balladeer's Drummer
+cast	Sallie McLaughlin	
+cast	Derek Pykett	Villager

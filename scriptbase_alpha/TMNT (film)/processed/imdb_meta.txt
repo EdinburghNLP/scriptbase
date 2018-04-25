@@ -1,0 +1,138 @@
+year	2007
+imdb score	6.4
+meta score	41
+genre	Action
+genre	Adventure
+genre	Animation
+genre	Comedy
+genre	Family
+genre	Fantasy
+genre	Sci-Fi
+keyword	turtle
+keyword	new york city
+keyword	ninja
+keyword	martial arts master
+keyword	martial arts
+keyword	warrior
+keyword	monster
+keyword	warlord
+keyword	tranquilizer dart
+keyword	animate statue
+keyword	cartoon violence
+keyword	rat
+keyword	brawl
+keyword	cosmic zoom
+keyword	teenage mutant ninja turtles
+keyword	sai
+keyword	katana sword
+keyword	halfpipe
+keyword	ninja army
+keyword	tech support
+keyword	underwater
+keyword	airplane
+keyword	nunchucks
+keyword	combat
+keyword	kung fu
+keyword	dating
+keyword	rooftop fight
+keyword	sibling rivalry
+keyword	skateboard
+keyword	flashback
+keyword	opening action scene
+keyword	based on tv series
+keyword	vigilante
+keyword	narration
+keyword	sword fight
+keyword	stick fight
+keyword	jungle
+keyword	rooftop
+keyword	acronym in title
+keyword	based on comic
+keyword	hero
+keyword	fistfight
+keyword	ninja magic
+keyword	television news
+keyword	kiss
+keyword	hang glider
+keyword	fighting
+keyword	immortality
+keyword	terrorist
+keyword	violence
+keyword	action heroine
+keyword	museum
+keyword	disarming someone
+keyword	action hero
+keyword	double cross
+keyword	vortex
+keyword	knife fight
+keyword	showdown
+keyword	group name in title
+keyword	birthday party
+keyword	ninjitsu
+keyword	mask
+keyword	fight
+keyword	sword duel
+keyword	caged monster
+keyword	construction site
+keyword	skyscraper
+keyword	bo staff
+keyword	mentor
+keyword	heroine
+keyword	cult film
+keyword	rescue
+keyword	female villain
+keyword	brother brother relationship
+keyword	machete
+keyword	hand to hand combat
+keyword	battle
+keyword	kung fu fighting
+keyword	computer animation
+keyword	pizza
+keyword	living statue
+keyword	sewer
+keyword	chop socky
+keyword	based on comic book
+keyword	diner
+keyword	entire title is capitalized acronym
+keyword	ancient curse
+keyword	
+cast	Chris Evans	Casey
+cast	Sarah Michelle Gellar	April O'Neil
+cast	Mako	Splinter
+cast	Kevin Smith	Diner Cook
+cast	Patrick Stewart	Winters
+cast	Ziyi Zhang	Karai
+cast	Laurence Fishburne	Narrator
+cast	Mitchell Whitfield	Donatello / Additional Voices
+cast	James Arnold Taylor	Leonardo
+cast	Mikey Kelley	Michelangelo
+cast	Nolan North	Raphael / Nightwatcher
+cast	John DiMaggio	Colonel Santino
+cast	Paula Mattioli	General Serpiente
+cast	Kevin Michael Richardson	General Aguila / Additional Voices
+cast	Fred Tatasciore	General Gato / Additional Voices
+cast	Dee Bradley Baker	Additional Voices
+cast	Greg Baldwin	Additional Voices
+cast	Jeff Bennett	Additional Voices
+cast	Jim Cummings	Additional Voices
+cast	Grey DeLisle	Additional Voices
+cast	Chris Edgerly	Additional Voices
+cast	Kim Mai Guest	Additional Voices
+cast	Jennifer Hale	Additional Voices
+cast	Jess Harnell	Additional Voices
+cast	Phil LaMarr	Additional Voices
+cast	Kevin Michael Richardsons	Additional Voices
+cast	Paul Michael Robinson	Additional Voices
+cast	Tara Strong	Additional Voices
+cast	Billy West	Additional Voices
+cast	Jason Broad	Background Voices
+cast	Willow Geer	Background Voices
+cast	Andy Hirsch	Background Voices
+cast	Barbara Harris	Background Voices
+cast	Terry Maratos	Background Voices
+cast	Jeremy Maxwell	Background Voices
+cast	Tracy Metro	Background Voices
+cast	David Michie	Background Voices
+cast	David Randolph	Background Voices
+cast	Vernon Scott	Background Voices
+cast	Andreana Weiner	Background Voices

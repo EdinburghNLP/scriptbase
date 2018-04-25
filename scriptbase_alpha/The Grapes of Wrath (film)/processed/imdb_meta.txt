@@ -1,0 +1,246 @@
+year	1940
+imdb score	8.2
+meta score	N/A
+genre	Drama
+keyword	farm
+keyword	california
+keyword	jail
+keyword	home
+keyword	great depression
+keyword	title from bible
+keyword	pickup truck
+keyword	preacher
+keyword	framed
+keyword	ex convict
+keyword	shot in the chest
+keyword	radiator cap
+keyword	family abandonment
+keyword	sharecropper
+keyword	pregnant woman
+keyword	american literature
+keyword	family relationships
+keyword	journey
+keyword	mother daughter relationship
+keyword	bearing witness
+keyword	strike
+keyword	grandfather granddaughter relationship
+keyword	on the road
+keyword	road trip
+keyword	truck driver
+keyword	expectant father
+keyword	inspiring story
+keyword	new deal
+keyword	cross country trip
+keyword	poverty
+keyword	sister sister relationship
+keyword	dust bowl
+keyword	home sweet home
+keyword	drought
+keyword	tractor
+keyword	labor
+keyword	everyman
+keyword	route 66
+keyword	grandmother grandson relationship
+keyword	brother sister relationship
+keyword	fruit picker
+keyword	truck
+keyword	prejudice
+keyword	works progress administration
+keyword	father daughter relationship
+keyword	roadtrip
+keyword	fruit
+keyword	pregnant sister
+keyword	fugitive
+keyword	camp
+keyword	talking while driving
+keyword	pregnancy
+keyword	scar
+keyword	burial
+keyword	cabin
+keyword	social conscience
+keyword	oklahoma
+keyword	starvation
+keyword	job
+keyword	federal government
+keyword	injustice
+keyword	grandmother granddaughter relationship
+keyword	1930s
+keyword	california history
+keyword	socialism
+keyword	gun shot
+keyword	farmhouse
+keyword	deep focus
+keyword	deputy
+keyword	grandfather grandson relationship
+keyword	social commentary
+keyword	brother brother relationship
+keyword	demolition
+keyword	railroad crossing
+keyword	wage
+keyword	death
+keyword	fruit in title
+keyword	farmer
+keyword	labor union
+keyword	socialist
+keyword	cross country
+keyword	mother son relationship
+keyword	expectant mother
+keyword	rural setting
+keyword	murder
+keyword	plant in title
+keyword	transient
+keyword	pulitzer prize source
+keyword	ditch
+keyword	dance
+keyword	father son relationship
+keyword	dancer
+keyword	death of grandmother
+keyword	husband wife relationship
+keyword	dancing
+keyword	san joaquin valley
+keyword	earring
+keyword	farm worker
+keyword	children
+keyword	pregnant
+keyword	prodigal son
+keyword	pregnant wife
+keyword	based on novel
+keyword	
+cast	Henry Fonda	Tom Joad
+cast	Jane Darwell	Ma Joad
+cast	John Carradine	Casy
+cast	Charley Grapewin	Grandpa
+cast	Dorris Bowdon	Rosasharn
+cast	Russell Simpson	Pa Joad
+cast	O.Z. Whitehead	Al
+cast	John Qualen	Muley
+cast	Eddie Quillan	Connie
+cast	Zeffie Tilbury	Grandma
+cast	Frank Sully	Noah
+cast	Frank Darien	Uncle John
+cast	Darryl Hickman	Winfield
+cast	Shirley Mills	Ruth Joad
+cast	Roger Imhof	Thomas
+cast	Grant Mitchell	Caretaker
+cast	Charles D. Brown	Wilkie
+cast	John Arledge	Davis
+cast	Ward Bond	Policeman
+cast	Harry Tyler	Bert
+cast	William Pawley	Bill
+cast	Charles Tannen	Joe
+cast	Selmer Jackson	Inspection Officer
+cast	Charles Middleton	Leader
+cast	Eddy Waller	Proprietor
+cast	Paul Guilfoyle	Floyd
+cast	David Hughes	Frank
+cast	Cliff Clark	City Man
+cast	Joe Sawyer	Bookkeeper
+cast	Frank Faylen	Tim
+cast	Adrian Morris	Agent
+cast	Hollis Jewell	Muley's Son
+cast	Robert Homans	Spencer
+cast	Irving Bacon	Driver
+cast	Kitty McHugh	Mae
+cast	Wally Albright	Boy Who Bragged of Eating Chicken
+cast	Erville Alderson	Arkansas Storekeeper
+cast	Josephine Allen	Migrant
+cast	Robert J. Anderson	Hungry Boy
+cast	Frank Atkinson	Migrant
+cast	Arthur Aylesworth	Father
+cast	Trevor Bardette	Jule - Bouncer at Dance
+cast	John Binns	Migrant
+cast	Joe Bordeaux	Migrant
+cast	Leon Brace	Migrant
+cast	Henry Brahe	Migrant
+cast	George P. Breakston	Boy
+cast	Buster Brodie	Migrant
+cast	Scotty Brown	Migrant
+cast	Hal Budlong	Migrant
+cast	Nora Bush	Migrant
+cast	Russ Clark	Guard
+cast	Shirley Coates	Girl in Migrant Camp
+cast	Cal Cohen	Migrant
+cast	Cecil Cook	Migrant
+cast	Harry Cording	Deputy
+cast	Jim Corey	Buck Jackson - Witness at Dance
+cast	Gino Corrado	Chef
+cast	Delmar Costello	Migrant
+cast	Jane Crowley	Migrant
+cast	W.H. Davis	Migrant
+cast	Helen Dean	Migrant
+cast	John Dilson	Bookseller
+cast	Lillian Drew	Migrant
+cast	Ralph Dunn	Deputy
+cast	Thornton Edwards	Motorcycle Cop
+cast	Billy Elmer	Migrant
+cast	Pat Flaherty	Deputy
+cast	James Flavin	Guard
+cast	Francis Ford	
+cast	Emily Gerdes	Migrant
+cast	Tyler Gibson	Migrant
+cast	Barney Gilmore	Migrant
+cast	William Haade	Deputy with Shotgun
+cast	Ben Hall	Gas Station Attendant in Bakersfield
+cast	Dean Hall	Migrant
+cast	Edna Hall	Migrant
+cast	Sidney Hayes	Migrant
+cast	Cliff Herbert	Migrant
+cast	Charles Herzinger	Migrant
+cast	Herbert Heywood	Gas Station Attendant
+cast	Harry Holden	Migrant
+cast	E.J. Kaspar	Migrant
+cast	David Kirkland	Migrant
+cast	Lillian Lawrence	Migrant
+cast	Rex Lease	Cop
+cast	Hazel Lollier	Migrant
+cast	Mae Marsh	Muley's Wife
+cast	Louis Mason	Man in Camp
+cast	Harry Matthews	Migrant
+cast	Scotty Mattraw	Migrant
+cast	Walter McGrail	Gang Leader
+cast	Jules Michelson	Migrant
+cast	Walter Miller	New Mexico Border Guard
+cast	Philip Morris	Guard
+cast	Frank Newburg	Migrant
+cast	Frank O'Connor	Deputy #1
+cast	L.F. O'Connor	Migrant
+cast	George O'Hara	Clerk
+cast	Ted Oliver	State Policeman
+cast	Inez Palange	Woman in Camp
+cast	Steve Pendleton	Gas Station Attendant #2 in Needles
+cast	Jack Pennick	Camp Helper
+cast	Walter Perry	Migrant
+cast	Walton Pindon	Migrant
+cast	Rose Plumer	Migrant
+cast	Chauncey Pyle	Migrant
+cast	Bob Reeves	Deputy
+cast	Gladys Rehfeld	Migrant
+cast	Waclaw Rekwart	Migrant
+cast	Dick Rich	Keene Ranch Guard
+cast	Gloria Roy	Waitress
+cast	Peggy Ryan	Hungry Girl
+cast	Robert Shaw	Gas Station Attendant #1 in Needles
+cast	Lee Shumway	Deputy
+cast	Georgia Simmons	Woman
+cast	C.B. Steele	Migrant
+cast	Al Stewart	Migrant
+cast	Harry Strang	Fred - Trucker #2 at Diner
+cast	Paul Sutton	Deputy
+cast	Harry Tenbrook	Deputy / Troublemaker
+cast	Charles Thurston	Migrant
+cast	D.H. Turner	Migrant
+cast	Tom Tyler	Deputy Handcuffing Casy
+cast	Pearl Varvalle	Migrant
+cast	Eleanore Vogel	Migrant
+cast	Max Wagner	Guard
+cast	Harry Wallace	Migrant
+cast	John Wallace	Migrant
+cast	Glen Walters	Woman Who Gets Shot
+cast	Jack Walters	Migrant
+cast	Frank Watson	Migrant
+cast	Jim Welch	Migrant
+cast	Charles West	Migrant
+cast	Dan White	Poor Man Walking with Woman in Transient Camp
+cast	Norman Willis	Joe - Shot at Floyd
+cast	Bill Wolfe	Square-Dance Caller
+cast	Bill Worth	Migrant

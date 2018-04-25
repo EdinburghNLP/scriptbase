@@ -1,0 +1,110 @@
+year	1985
+imdb score	7.0
+meta score	N/A
+genre	Comedy
+genre	Romance
+genre	Sci-Fi
+keyword	laser
+keyword	weapon
+keyword	student
+keyword	military
+keyword	teenager
+keyword	genius
+keyword	science
+keyword	professor
+keyword	ego
+keyword	beautician
+keyword	teleprompter
+keyword	prank
+keyword	betrayal
+keyword	research
+keyword	cult film
+keyword	computer cracker
+keyword	revenge
+keyword	college
+keyword	usaf
+keyword	party
+keyword	dormitory
+keyword	scientist
+keyword	u.s. air force
+keyword	airforce
+keyword	human relationship
+keyword	teacher student relationship
+keyword	top secret
+keyword	penis enlarger
+keyword	teen comedy
+keyword	cia
+keyword	ice
+keyword	title directed by female
+keyword	experiment
+keyword	popcorn
+keyword	smart kids
+keyword	general
+keyword	eccentric
+keyword	mentor
+keyword	major
+keyword	whiz kid
+keyword	exploding house
+keyword	independent film
+cast	Val Kilmer	Chris Knight
+cast	Gabriel Jarret	Mitch Taylor
+cast	Michelle Meyrink	Jordan
+cast	William Atherton	Prof. Jerry Hathaway
+cast	Jon Gries	Lazlo Hollyfeld
+cast	Patti D'Arbanville	Sherry Nugil
+cast	Stacy Peralta	Shuttle Pilot
+cast	Daniel Ades	Laser Ray Victim
+cast	Andres Aybar	Bartender
+cast	Louis Giambalvo	Maj. Carnagle
+cast	Ed Lauter	David Decker
+cast	Charles Shull	Air Force General
+cast	Beau Billingslea	George
+cast	Charles Parks	Larry
+cast	Sean Frye	Boy at Science Fair
+cast	JoAnn Willette	Girl at Science Fair
+cast	Ina Gould	Old Lady
+cast	Nadine Vix	Student at Science Fair
+cast	Paul Tulley	Mr. Taylor
+cast	Joanne Baron	Mrs. Taylor
+cast	Chip Johnson	Darlington Recruiter
+cast	Monte Landis	Dr. Dodd
+cast	Sandy Martin	Mrs. Meredith
+cast	Severn Darden	Dr. Meredith
+cast	Randy Lowell	Cornell
+cast	Robert Prescott	Kent
+cast	John Shepherd Reid	Carter
+cast	Tommy Swerdlow	Bodie
+cast	Mark Kamiyama	'Ick' Ikagami
+cast	Martin Gundersen	Math Professor
+cast	Brett Miller	Carpet Man
+cast	Dean Devlin	Milton
+cast	Yuji Okumoto	Fenton
+cast	Lynda Wiesmeier	Chris' Girl at Party
+cast	Penny Baker	Ick's Girl at Party
+cast	Marcia Karr	Cornell's Girl at Party
+cast	Isabelle Walker	Girl at Party
+cast	Marii Mak	Girl at Party
+cast	Cheri Wells	Girl at Party
+cast	Catherine MacNamara	Girl at Party
+cast	John Vasily	Student
+cast	Ed Garrabrandt	TV Makeup Man
+cast	Isabel Cooley	TV Stage Manager
+cast	Robin Stober	Waitress
+cast	Deborah Foreman	Susan Decker
+cast	David Marvit	Student in Hall
+cast	Michael Crabtree	Air Force SP at Gate
+cast	Charles Sweigart	Air Force SP at Gate
+cast	Peter Parros	Air Force SP at Gate
+cast	Ronald Taylor	Computer Technician
+cast	James Carrington	Air Force Major
+cast	Michael Backes	Air Force Controller
+cast	Corki Grazer	Air Force Sergeant
+cast	Jeanne Mori	Laser Technician
+cast	David Ursin	Engineer
+cast	Joe Dorsey	Congressman Dougton
+cast	Will Knox	Laser Specialist
+cast	Kevin Hurley	Air Force Technician
+cast	Helen Kelly	Party Guest
+cast	David Monterosso	Student In Cafeteria
+cast	Joy Michelle Moore	Party Girl on Surfboard
+cast	Tom Tangen	Student on Ice Skates

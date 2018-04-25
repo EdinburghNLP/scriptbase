@@ -1,0 +1,144 @@
+year	1987
+imdb score	7.1
+meta score	N/A
+genre	Horror
+keyword	cenobites
+keyword	demon
+keyword	hell
+keyword	creature
+keyword	blood
+keyword	adulterous wife
+keyword	pinhead
+keyword	nudity
+keyword	photograph
+keyword	religious icon
+keyword	hook
+keyword	chained to a wall
+keyword	killing an animal
+keyword	maggot
+keyword	gothic
+keyword	cheating wife
+keyword	monster
+keyword	sexual imagery
+keyword	rat
+keyword	blood on shirt
+keyword	portal to hell
+keyword	severed ear
+keyword	goth
+keyword	boxing
+keyword	father daughter relationship
+keyword	villain not really dead cliche
+keyword	good versus evil
+keyword	bare chested male
+keyword	female nudity
+keyword	gore
+keyword	candlelight
+keyword	seduction
+keyword	murder
+keyword	male rear nudity
+keyword	crushed to death
+keyword	extramarital affair
+keyword	one word title
+keyword	fire
+keyword	adaptation directed by original author
+keyword	reverse footage
+keyword	gash in the face
+keyword	pet store
+keyword	destroyed home
+keyword	cult film
+keyword	sadomasochism
+keyword	switchblade
+keyword	deception
+keyword	nightmare
+keyword	blood splatter
+keyword	rain
+keyword	dripping blood
+keyword	impalement
+keyword	incestuous desire
+keyword	supernatural power
+keyword	remade
+keyword	flashback
+keyword	body torn apart
+keyword	lust
+keyword	eating insect
+keyword	slow motion scene
+keyword	covered in blood
+keyword	unfaithfulness
+keyword	famous line
+keyword	blood on floor
+keyword	brother brother relationship
+keyword	corpse
+keyword	bum
+keyword	infidelity
+keyword	nun
+keyword	statue
+keyword	sex
+keyword	mutilation
+keyword	person on fire
+keyword	occult
+keyword	skeleton
+keyword	punched in the face
+keyword	hole in chest
+keyword	chain
+keyword	hit in the crotch
+keyword	beaten to death
+keyword	cult film
+keyword	skin
+keyword	cut hand
+keyword	husband wife relationship
+keyword	dream sequence
+keyword	skull
+keyword	stabbed in the chest
+keyword	bar
+keyword	puzzle box
+keyword	adultery
+keyword	hit with a hammer
+keyword	literary adaptation
+keyword	sadism
+keyword	brother murders brother
+keyword	hospital
+keyword	uncle niece relationship
+keyword	wearing human skin
+keyword	scratching face
+keyword	jealousy
+keyword	dismemberment
+keyword	hung upside down
+keyword	threatened with a knife
+keyword	chase
+keyword	based on short story
+keyword	fear of blood
+keyword	disposing of a dead body
+keyword	eyes sewn shut
+keyword	severed face
+keyword	splatterpunk
+keyword	topless female nudity
+keyword	drunkenness
+keyword	supernatural horror
+keyword	death
+keyword	female rear nudity
+keyword	independent film
+keyword	based on novel
+keyword	surprise ending
+keyword	
+cast	Andrew Robinson	Larry
+cast	Clare Higgins	Julia
+cast	Ashley Laurence	Kirsty Cotton
+cast	Sean Chapman	Frank
+cast	Oliver Smith	Frank the Monster
+cast	Robert Hines	Steve
+cast	Anthony Allen	1st Victim
+cast	Leon Davis	2nd Victim
+cast	Michael Cassidy	3rd Victim
+cast	Frank Baker	Derelict
+cast	Kenneth Nelson	Bill
+cast	Gay Baynes	Evelyn
+cast	Niall Buggy	Dinner Guest
+cast	Dave Atkins	Moving Man 1
+cast	Oliver Parker	Moving Man 2
+cast	Pamela Sholto	Complaining Customer
+cast	Doug Bradley	Pinhead the Lead Cenobite
+cast	Nicholas Vince	Chattering Cenobite
+cast	Simon Bamford	'Butterball' Cenobite
+cast	Grace Kirby	Female Cenobite
+cast	Sharon Bower	Nurse
+cast	Raul Newney	Doctor

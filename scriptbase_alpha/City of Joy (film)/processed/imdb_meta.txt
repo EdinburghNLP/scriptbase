@@ -1,0 +1,90 @@
+year	1992
+imdb score	6.3
+meta score	N/A
+genre	Drama
+keyword	hope
+keyword	india
+keyword	leper
+keyword	street gang
+keyword	wedding
+keyword	poverty
+keyword	nun
+keyword	prostitution
+keyword	razor blade
+keyword	overpopulation
+keyword	protection racket
+keyword	birth
+keyword	courage
+keyword	anil kapoor
+keyword	population growth
+keyword	kolkata
+keyword	hospital
+keyword	foreign language adaptation
+keyword	corruption
+keyword	dowry
+keyword	chicken
+keyword	protection money
+keyword	violence
+keyword	controversial
+keyword	taxi
+keyword	mafia
+keyword	knife
+keyword	city
+keyword	monsoon
+keyword	doctor
+keyword	based on book
+keyword	
+cast	Patrick Swayze	Max Lowe
+cast	Om Puri	Hazari Pal
+cast	Pauline Collins	Joan Bethel
+cast	Shabana Azmi	Kamla H. Pal
+cast	Ayesha Dharker	Amrita H. Pal
+cast	Santu Chowdhury	Shambu H. Pal
+cast	Imran Badsah Khan	Manooj H. Pal
+cast	Art Malik	Ashok Ghatak
+cast	Nabil Shaban	Anouar
+cast	Debatosh Ghosh	Ram Chander
+cast	Suneeta Sengupta	Poomina
+cast	Mansi Upadhyay	Meeta
+cast	Shyamanand Jalan	Ghatak - Godfather
+cast	Shyamal Sengupta	Gangooly - Con man
+cast	Rudraprasad Sengupta	Chomotkar
+cast	Baroon Chakaborty	Said
+cast	Masood Akhtar	Rassoul
+cast	Loveleen Mishra	Shanta
+cast	Pavan Malhotra	Ashish
+cast	Anashua Mujumdar	Selima
+cast	Dipti Dave	Schoolgirl
+cast	Aloke Roychoudhury	Aristotle John
+cast	Siv Sankar Banerjee	Goonda
+cast	Aloknanda Datta	Schoolgirl's Mother
+cast	Chakradhar Jena	Mehboub
+cast	Sunil Mukherjee	Hotel Porter
+cast	Chetna Jalan	Court Judge
+cast	Ravi Jhankal	Obstructing Policeman
+cast	Debraj Ray	Binal
+cast	Charu Bala Chokshi	Binal's Wife
+cast	Durba Datta	Margareta
+cast	Tamal Ray Chowdhury	Surya
+cast	Sanjay Pathak	Shoba
+cast	Anjan Dutt	Dr. Sunil
+cast	Debasish Banerjee	Dr. Sunil's Assistant
+cast	Swatilekha Sengupta	Hotel Manageress
+cast	Sami Ahmad	Bartender
+cast	Chhotu Bhai	Thug
+cast	Rana Mitra	Thug
+cast	Siddharth Roy	Thug
+cast	Monu Mukherjee	Waiter at Hamburger Bar
+cast	John Nair	Selima's Son
+cast	Subrata Sensharma	Minister at Railway Station
+cast	Sujan Mukherjee	Subash
+cast	Satya Banerjee	Subash's Father
+cast	Paresh Ghosh	Subash's Uncle
+cast	Saran Chatterjee	Subash's Uncle
+cast	Gouri Sankar Panda	Subash's Uncle
+cast	Sudip Banerjee	Subash's Uncle
+cast	Kajal Chaudhury	Hasari's Mother
+cast	Iftekhar	Hasari's Father
+cast	Chitra Sen	Angry Woman
+cast	Keira Jane Malik	Young Patient
+cast	Sam Wanamaker	

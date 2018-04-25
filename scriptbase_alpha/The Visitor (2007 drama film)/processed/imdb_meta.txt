@@ -1,0 +1,171 @@
+year	2007
+imdb score	7.7
+meta score	79
+genre	Crime
+genre	Drama
+genre	Music
+genre	Romance
+keyword	apartment
+keyword	illegal immigrant
+keyword	immigrant
+keyword	professor
+keyword	michigan
+keyword	college
+keyword	new york city
+keyword	piano
+keyword	conference
+keyword	lawyer
+keyword	drum
+keyword	immigration
+keyword	syrian
+keyword	detention
+keyword	african
+keyword	class
+keyword	lonely
+keyword	subway
+keyword	book
+keyword	connecticut
+keyword	police
+keyword	new york university
+keyword	musician
+keyword	friendship
+keyword	drummer
+keyword	drumming
+keyword	jewelry
+keyword	economics
+keyword	arrest
+keyword	african drum
+keyword	syllabus
+keyword	singer
+keyword	houseguest
+keyword	handcuffs
+keyword	cafe
+keyword	singing
+keyword	palestinian
+keyword	widower
+keyword	subtitled scene
+keyword	street life
+keyword	piano lesson
+keyword	ferry
+keyword	boyfriend girlfriend relationship
+keyword	earphones
+keyword	post september 11 2001
+keyword	food
+keyword	bathtub
+keyword	cell phone
+keyword	faculty meeting
+keyword	staten island new york city
+keyword	saxophone
+keyword	widow
+keyword	busker
+keyword	broadway manhattan new york city
+keyword	rain
+keyword	world trade center manhattan new york city
+keyword	self discovery
+keyword	husband wife relationship
+keyword	egyptian
+keyword	cd
+keyword	manhattan new york city
+keyword	writer
+keyword	wine
+keyword	attorney
+keyword	taxi
+keyword	prisoner
+keyword	nypd
+keyword	sleeplessness
+keyword	shaving
+keyword	music club
+keyword	deportation
+keyword	senegal
+keyword	student
+keyword	whiteout
+keyword	underwear
+keyword	dancing
+keyword	subway station
+keyword	piano player
+keyword	police station
+keyword	elevator
+keyword	syria
+keyword	jail visitation
+keyword	restaurant
+keyword	airport
+keyword	dancer
+keyword	central park manhattan new york city
+keyword	briefcase
+keyword	telephone call
+keyword	listening to music
+keyword	friend
+keyword	teacher
+keyword	coffee shop
+keyword	detainee
+keyword	park
+keyword	policeman
+keyword	song
+keyword	umbrella
+keyword	loneliness
+keyword	piano teacher
+keyword	kiss
+keyword	djembe
+keyword	teacher student conference
+keyword	hot dog
+keyword	asylum
+keyword	bracelet
+keyword	turnstile
+keyword	diner
+keyword	jail
+keyword	photograph
+keyword	muslim
+keyword	bath
+keyword	teacher student relationship
+keyword	whistling
+keyword	classroom
+keyword	jazz music
+keyword	queens new york city
+keyword	street market
+keyword	statue of liberty new york city
+keyword	faculty
+keyword	banquet
+keyword	tenant
+keyword	jazz club
+keyword	mother son relationship
+keyword	times square manhattan new york city
+keyword	nightclub
+keyword	american flag
+keyword	street musician
+keyword	squatter
+keyword	african american
+keyword	arab
+keyword	man with glasses
+keyword	interracial romance
+keyword	wrongful arrest
+keyword	reference to the phantom of the opera the stage musical
+keyword	independent film
+keyword	
+cast	Richard Jenkins	Walter
+cast	Haaz Sleiman	Tarek
+cast	Danai Gurira	Zainab
+cast	Hiam Abbass	Mouna
+cast	Marian Seldes	Barbara
+cast	Maggie Moore	Karen
+cast	Michael Cumpsty	Charles
+cast	Bill McHenry	Darin
+cast	Richard Kind	Jacob
+cast	Tzahi Moskovitz	Zev
+cast	Amir Arison	Mr. Shah
+cast	Neal Lerner	Martin Revere
+cast	Ramon Fernandez	Cop #1
+cast	Frank Pando	Cop #2
+cast	Waleed Zuaiter	Omar
+cast	Deborah Rush	Upper Eastside Woman
+cast	Ashley Springer	Student
+cast	Laith Nakli	Nasim
+cast	Jacqueline Brogan	Waiter
+cast	Walter Mudu	Ronald Cole
+cast	Yevgeniy Dekhtyar	Slavic Man
+cast	Earl Baker Jr.	Lester James
+cast	Walter the Dog	Sprinkles the Dog
+cast	Bandar Albuliwi	Man in subway
+cast	Jesus A. Del Rosario Jr.	Park Drummer
+cast	Brother Eden Douglas	Airport Security Guard
+cast	Hristo Hristov	Detainee
+cast	Waléra Kanischtscheff	Cabbie

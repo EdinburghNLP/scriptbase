@@ -1,0 +1,156 @@
+year	1996
+imdb score	6.7
+meta score	62
+genre	Comedy
+genre	Drama
+keyword	friend
+keyword	parking lot
+keyword	hanging out
+keyword	convenience store
+keyword	rock star
+keyword	murder
+keyword	new jersey
+keyword	old crow whiskey
+keyword	cynicism
+keyword	concert
+keyword	dream
+keyword	pakistani american
+keyword	marijuana
+keyword	1990s
+keyword	dancer
+keyword	drug overdose
+keyword	cheating on boyfriend
+keyword	police
+keyword	reference to sandra bullock
+keyword	public nudity
+keyword	chinese food
+keyword	policeman
+keyword	generation x
+keyword	hockey stick
+keyword	pay phone
+keyword	autograph
+keyword	album cover
+keyword	ennui
+keyword	airport
+keyword	drug use
+keyword	gnome
+keyword	singing
+keyword	six pack
+keyword	van
+keyword	nurse's aide
+keyword	alcoholism
+keyword	tragic event
+keyword	wealth
+keyword	pizza
+keyword	high school prom
+keyword	underwear
+keyword	roller skates
+keyword	idealism
+keyword	writing
+keyword	anarchy
+keyword	watching tv
+keyword	gas station
+keyword	singer
+keyword	drunkenness
+keyword	underage drinking
+keyword	hospital
+keyword	anger
+keyword	roller skating
+keyword	performance artist
+keyword	conceptual artist
+keyword	american football
+keyword	monkey brains
+keyword	jealousy
+keyword	race relations
+keyword	mushroom
+keyword	community college
+keyword	school of visual arts new york
+keyword	cigarette smoking
+keyword	musician
+keyword	suburb
+keyword	friendship
+keyword	beer
+keyword	nudity
+keyword	telephone
+keyword	fame
+keyword	school dropout
+keyword	camcorder
+keyword	los angeles california
+keyword	vomit
+keyword	hamburger joint
+keyword	racism
+keyword	slacker
+keyword	whiskey
+keyword	drink
+keyword	racist comment
+keyword	pakistani
+keyword	lotto
+keyword	gun
+keyword	new york city
+keyword	video recorder
+keyword	one word title
+keyword	prejudice
+keyword	telephone call
+keyword	eating with fingers
+keyword	tent
+keyword	songwriter
+keyword	video artist
+keyword	drinking
+keyword	mtv
+keyword	blow job
+keyword	reference to cap'n crunch
+keyword	reference to johnny depp
+keyword	testosterone
+keyword	liquor store
+keyword	dancing
+keyword	street corner
+keyword	waiting
+keyword	one day
+keyword	male frontal nudity
+keyword	third world
+keyword	punk
+keyword	chopsticks
+keyword	group of friends
+keyword	lie
+keyword	twenty something
+keyword	tv news
+keyword	reference to anne rice
+keyword	alienation
+keyword	fellatio
+keyword	rock musician
+keyword	reference to victoria's secret
+keyword	liar
+keyword	song
+keyword	boom box
+keyword	obscene finger gesture
+keyword	circle a store
+keyword	chinese restaurant
+keyword	u.s. air force
+keyword	garage
+keyword	boyfriend girlfriend relationship
+keyword	birthday
+keyword	limousine
+keyword	male nudity
+keyword	rehabilitation
+keyword	based on play
+keyword	independent film
+keyword	
+cast	Jayce Bartok	Pony
+cast	Amie Carey	Sooze
+cast	Nicky Katt	Tim
+cast	Ajay Naidu	Nazeer Choudhury
+cast	Parker Posey	Erica
+cast	Giovanni Ribisi	Jeff
+cast	Samia Shoaib	Pakeesa Choudhury
+cast	Dina Waters	Bee-Bee
+cast	Steve Zahn	Buff
+cast	Kitt Brophy	Sooze's Mom
+cast	Jonn Cherico	Shopping Channel Host
+cast	Keith Preusse	Officer Chip
+cast	Eric Park	Officer Gary
+cast	William Martin Hayes	Scuff
+cast	Bill Wise	George the Limo Driver
+cast	M.J. Lin	Restaurant Hostess
+cast	Peter Atherton	Extra
+cast	Prebble Q. Ramswell	Beauty
+cast	Ryan Wickerham	Patron

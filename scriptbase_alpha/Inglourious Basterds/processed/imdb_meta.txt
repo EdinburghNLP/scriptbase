@@ -1,0 +1,279 @@
+year	2009
+imdb score	8.3
+meta score	69
+genre	Adventure
+genre	Drama
+genre	War
+keyword	nazis
+keyword	german
+keyword	soldier
+keyword	france
+keyword	jewish
+keyword	colonel
+keyword	actress
+keyword	military
+keyword	jewish american
+keyword	spy
+keyword	revenge
+keyword	lieutenant
+keyword	scalping
+keyword	german army
+keyword	theatre
+keyword	woman strangled to death
+keyword	reference to jesse owens
+keyword	reference to charlie chaplin
+keyword	murder
+keyword	murder of family
+keyword	betrayal
+keyword	lighting cigarette for woman
+keyword	film projection booth
+keyword	explosion
+keyword	dairy farm
+keyword	shootout
+keyword	cult film
+keyword	film reel
+keyword	gun
+keyword	bomb in public place
+keyword	paris france
+keyword	forest
+keyword	english subtitles in original
+keyword	nonlinear timeline
+keyword	exit wound
+keyword	waiter
+keyword	investigation
+keyword	title appears in writing
+keyword	bar shootout
+keyword	knife
+keyword	torture threat
+keyword	uncle niece relationship
+keyword	holocaust
+keyword	voice over narration
+keyword	grisly shootout
+keyword	projectionist
+keyword	whipping
+keyword	farm
+keyword	splicing film
+keyword	escape from prison
+keyword	beaten to death
+keyword	strudel
+keyword	graphic violence
+keyword	autograph
+keyword	nazi hunter
+keyword	defenestration
+keyword	garrotting
+keyword	sadism
+keyword	held at gunpoint
+keyword	nazi propaganda
+keyword	1940s
+keyword	movie theater
+keyword	gunfight
+keyword	anger
+keyword	germany
+keyword	fake identity
+keyword	sergeant
+keyword	lens flare
+keyword	african american
+keyword	epilogue
+keyword	slow motion scene
+keyword	secret military operation
+keyword	dog
+keyword	gun
+keyword	film projectionist
+keyword	evil man
+keyword	death
+keyword	austrian
+keyword	reference to adolf hitler
+keyword	slow motion scene
+keyword	fire
+keyword	rear entry sex
+keyword	racism
+keyword	golem
+keyword	blood
+keyword	war hero
+keyword	fistfight
+keyword	historically inaccurate
+keyword	special forces
+keyword	flash forward
+keyword	alternate history
+keyword	combat
+keyword	man strangles woman
+keyword	brutality
+keyword	unsubtitled foreign language
+keyword	nazi
+keyword	racial slur
+keyword	italian
+keyword	intentionally misspelled title
+keyword	film critic
+keyword	bayonet
+keyword	general
+keyword	camera shot of feet
+keyword	slow motion shootout
+keyword	blood spatter
+keyword	scar
+keyword	dead woman on floor
+keyword	red dress
+keyword	champagne
+keyword	telephone call
+keyword	gore
+keyword	aunt niece relationship
+keyword	wilhelm scream
+keyword	bar
+keyword	psychopath
+keyword	hit with a baseball bat
+keyword	restaurant
+keyword	hiding under floorboards
+keyword	milk
+keyword	suspicion
+keyword	basement
+keyword	fear
+keyword	newspaper
+keyword	axe
+keyword	historical fiction
+keyword	torture
+keyword	tension
+keyword	world war two
+keyword	stabbing
+keyword	knife fight
+keyword	multiple perspectives
+keyword	flashback
+keyword	kiss leaves lipstick
+keyword	dead woman with eyes open
+keyword	thrown through a window
+keyword	bag over head
+keyword	love
+keyword	anti semitism
+keyword	black african
+keyword	strangulation
+keyword	farmhouse
+keyword	death
+keyword	veterinarian
+keyword	death of family
+keyword	metaphorical language
+keyword	street shootout
+keyword	corpse
+keyword	violence
+keyword	bell tower
+keyword	film projector
+keyword	shooting a woman
+keyword	peasant
+keyword	waitress
+keyword	bloodbath
+keyword	carving into human flesh
+keyword	sniper
+keyword	blood splatter
+keyword	sister sister relationship
+keyword	sole survivor
+keyword	record player
+keyword	search
+keyword	gun kata
+keyword	person on fire
+keyword	secret mission
+keyword	self sacrifice
+keyword	violence
+keyword	mutilation
+keyword	detective
+keyword	black dress
+keyword	bomb
+keyword	blood splatter
+keyword	interrogation
+keyword	machine gun
+keyword	hand kissing
+keyword	pistol
+keyword	bullet ballet
+keyword	multiple languages
+keyword	reference to berlin olympics
+keyword	exploding building
+keyword	baseball bat
+keyword	danger
+keyword	threaten with a baseball bat
+keyword	truck
+keyword	village
+keyword	title appears in text
+keyword	rat
+keyword	nickname
+keyword	whipped cream
+keyword	bullet time
+keyword	stabbing a pillow
+keyword	winston churchill
+keyword	throat slitting
+keyword	hermann göring
+keyword	gun sau
+keyword	escape
+keyword	beaten to death with a baseball bat
+keyword	gun fu
+keyword	massacre
+keyword	translator
+keyword	actor shares first name with character
+cast	Brad Pitt	Lt. Aldo Raine
+cast	Mélanie Laurent	Shosanna
+cast	Christoph Waltz	Col. Hans Landa
+cast	Eli Roth	Sgt. Donny Donowitz
+cast	Michael Fassbender	Lt. Archie Hicox
+cast	Diane Kruger	Bridget von Hammersmark
+cast	Daniel Brühl	Fredrick Zoller
+cast	Til Schweiger	Sgt. Hugo Stiglitz
+cast	Gedeon Burkhard	Cpl. Wilhelm Wicki
+cast	Jacky Ido	Marcel
+cast	B.J. Novak	Pfc. Smithson Utivich
+cast	Omar Doom	Pfc. Omar Ulmer
+cast	August Diehl	Major Hellstrom
+cast	Denis Ménochet	Perrier LaPadite
+cast	Sylvester Groth	Joseph Goebbels
+cast	Martin Wuttke	Hitler
+cast	Mike Myers	Gen. Ed Fenech
+cast	Julie Dreyfus	Francesca Mondino
+cast	Richard Sammel	Sgt. Rachtman
+cast	Alexander Fehling	Master Sgt. Wilhelm / Pola Negri
+cast	Rod Taylor	Winston Churchill
+cast	Sönke Möhring	Pvt. Butz / Walter Frazer
+cast	Samm Levine	Pfc. Hirschberg
+cast	Paul Rust	Pfc. Andy Kagan
+cast	Michael Bacall	Pfc. Michael Zimmerman
+cast	Arndt Schwering-Sohnrey	German Soldier / Winnetou
+cast	Petra Hartung	German Female Soldier / Beethoven
+cast	Volker Michalowski	German Soldier / Edgar Wallace
+cast	Ken Duken	German Soldier / Mata Hari
+cast	Christian Berkel	Proprietor Eric
+cast	Anne-Sophie Franck	Mathilda
+cast	Léa Seydoux	Charlotte LaPadite
+cast	Tina Rodriguez	Julie LaPadite
+cast	Lena Friedrich	Suzanne LaPadite
+cast	Ludger Pistor	Cpt. Wolfgang
+cast	Jana Pallaske	Babette
+cast	Wolfgang Lindner	Herrman #1
+cast	Michael Kranz	Herrman #3
+cast	Rainer Bock	General Schonherr
+cast	André Penvern	Old French Veterinarian
+cast	Sebastian Hülk	Hellstrom's Driver / Nazi Usher #1
+cast	Buddy Joe Hooker	Gaspar
+cast	Carlos Fidel	Pfc. Simon Sakowitz
+cast	Christian Brückner	Kliest Voice
+cast	Hilmar Eichhorn	Emil Jannings
+cast	Patrick Elias	Jakob Dreyfus
+cast	Eva Löbau	Miriam Dreyfus
+cast	Salvadore Brandt	Bob Dreyfus
+cast	Jasper Linnewedel	Amos Dreyfus
+cast	Wilfried Hochholdinger	German Company Sgt.
+cast	Olivier Girard	Maxim's Waiter
+cast	Michael Scheel	General Frank
+cast	Leo Plank	Motorcycle Rider #1
+cast	Andreas Tietz	Motorcycle Rider #2
+cast	Bo Svenson	American Colonel
+cast	Enzo G. Castellari	Himself
+cast	Michael August	German Soldier
+cast	Noemi Besedes	German Movie Star
+cast	Alex Boden	Military Attaché
+cast	Hélène Cardona	German Official
+cast	Bela B. Felsenheimer	Usher #2
+cast	Guido Föhrweißer	SS Major
+cast	Jake Garber	German Soldier
+cast	Samuel L. Jackson	Narrator
+cast	Harvey Keitel	OSS Commander Who Agrees to Deal
+cast	Andrew Napier	Nazi Theatre Attendee
+cast	Greg Nicotero	Gestapo Major
+cast	Niko Novick	Nazi Soldier
+cast	Aleksandrs Petukhovs	Soldier
+cast	Brendan Potter	Jimi Dean
+cast	Sabrina Rattey	German Civilian
+cast	Quentin Tarantino	First Scalped Nazi / American Soldier in 'Pride of Nation'
+cast	Vitus Wieser	French Waiter

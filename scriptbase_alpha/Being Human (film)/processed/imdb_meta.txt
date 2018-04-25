@@ -1,0 +1,143 @@
+year	1994
+imdb score	5.2
+meta score	33
+genre	Comedy
+genre	Drama
+genre	Fantasy
+keyword	navel
+keyword	caveman
+keyword	book
+keyword	divorce
+keyword	melodrama
+keyword	reincarnation
+keyword	clue
+keyword	struggle
+keyword	nomad
+keyword	1600s
+keyword	portugal
+keyword	middle ages
+keyword	ancient rome
+keyword	beach
+keyword	box office flop
+keyword	reflection
+keyword	explorer
+keyword	chicken
+keyword	sacrifice
+keyword	prehistoric times
+keyword	slavery
+keyword	portuguese
+keyword	new york
+keyword	professor
+keyword	past
+keyword	class differences
+keyword	jealousy
+keyword	melancholy
+keyword	knife
+keyword	short story
+keyword	happiness
+keyword	mule
+keyword	sea
+keyword	priest
+keyword	parenthood
+keyword	widow
+keyword	chase
+keyword	dead child
+keyword	medieval times
+keyword	desert
+keyword	slave
+keyword	rome italy
+keyword	suicide
+keyword	hanging
+keyword	father child
+keyword	roman
+keyword	innocence lost
+keyword	italy
+keyword	success
+keyword	
+cast	Robin Williams	Hector
+cast	Kelly Hunter	Deirdre
+cast	Maudie Johnson	Girl Child
+cast	Max Johnson	Boy Child
+cast	Robert Carlyle	Priest
+cast	Eoin McCarthy	Leader
+cast	Irvine Allen	Raider
+cast	Iain Andrew	Raider
+cast	Robert Cavanah	Raider
+cast	Tony Curran	Raider
+cast	Andrew Flanagan	Raider
+cast	Seamus Gubbins	Raider
+cast	Iain McAleese	Raider
+cast	David McGowan	Raider
+cast	Gavin Mitchell	Raider
+cast	Michael Nardone	Raider
+cast	Brian O'Malley	Raider
+cast	Paul Riley	Raider
+cast	John Turturro	Lucinnius
+cast	Grace Mahlaba	Thalia
+cast	Danny Kanaber	Gallus
+cast	Bill Nighy	Julian
+cast	Jim Hooper	Julien's Slave
+cast	Robin Hooper	Julien's Slave
+cast	Simon McBurney	Hermas
+cast	Vivienne Ritchie	Dalmia
+cast	David Morrissey	Cyprion's Man
+cast	Andrew Tiernan	Cyprion's Man
+cast	Laurance Rudic	Solus
+cast	Mark Long	Slave
+cast	Rouchdi Mohamed	Man #1 at Cyprian's
+cast	Hassan Mekkiat	Man #2 at Cyprian's
+cast	Simon Clark	Man in Bathhouse
+cast	Sam Guttman	Sailor
+cast	Dave Jones	
+cast	Anna Galiena	Beatrice
+cast	Vincent D'Onofrio	Priest
+cast	Winnie Watts	Nun
+cast	Gemma Francés	Girl on Wagon
+cast	Finlay Welsh	Pedlar
+cast	Andrew Charleson	Wagon Driver
+cast	Matteo Mazetti Di Pietralata	Beatrice's Son
+cast	Maria Mazetti Di Pietralata	Beatrice's Daughter
+cast	Elena Salvoni	Beatrice's Mother
+cast	Paul Higgins	Soldier
+cast	John Surman	Soldier
+cast	Conrad Asquith	Officer
+cast	Zoot Lynman	Boy Squire
+cast	George Dillon	Peter
+cast	Jonathan Hyde	Francisco
+cast	Lizzy McInnerny	Ursula
+cast	Hector Elizondo	Dom Paulo
+cast	Gregor Henderson-Begg	Nuño
+cast	Ken Stott	Gasper Dias
+cast	Steve Shill	Luis
+cast	Peter Kelly	Father Diogo
+cast	Donald Sumpter	Salgado
+cast	Tobie Cronje	Dario
+cast	Bhasker Patel	Andre
+cast	Ewan McGregor	Alvarez
+cast	Gavin Richards	Da Cunha
+cast	Nicholas Hewetson	Deserter
+cast	Tim McMullan	Deserter
+cast	Stefan Weclawek	Dom Paulo's Son
+cast	Willie Jonah	Slave
+cast	Luke Hardy	Sailor
+cast	Helen Miller	Betsy
+cast	Charles Miller	Tom
+cast	Lindsay Crouse	Janet
+cast	Lorraine Bracco	Anna
+cast	John X. Heart	Donald
+cast	William H. Macy	Boris
+cast	Rafiu Omidiiji	Cab Driver
+cast	Jeanne Reynolds	Reporter
+cast	Andrew Dolan	Reporter
+cast	Karen L. Thorson	News Sound
+cast	Louis Landman	NY Policeman #1
+cast	John Finn	Detective Cobb
+cast	José Pérez	Santiago
+cast	Adam Bryant	Neighbour
+cast	Diane Gnagnarelli	Neighbour
+cast	Nina Lektorsky	Mrs. Philippopilis
+cast	David Proval	George
+cast	Danny Kovacs	NY Policeman #2
+cast	Rob Brezsny	TV Man-Psychic
+cast	Robert F. Keefe	Tony
+cast	Theresa Russell	The Storyteller

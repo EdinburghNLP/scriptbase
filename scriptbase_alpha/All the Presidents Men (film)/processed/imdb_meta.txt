@@ -1,0 +1,165 @@
+year	1976
+imdb score	8.0
+meta score	N/A
+genre	Drama
+genre	History
+genre	Mystery
+genre	Thriller
+keyword	watergate
+keyword	nixon
+keyword	reporter
+keyword	newspaper
+keyword	washington post
+keyword	white house
+keyword	journalist
+keyword	scandal
+keyword	investigation
+keyword	nixon resignation
+keyword	washington d.c.
+keyword	helicopter
+keyword	telephone call
+keyword	news reporter
+keyword	fbi agent
+keyword	politics
+keyword	presidential campaign
+keyword	telephone conversation
+keyword	telephone
+keyword	sergeant
+keyword	mcdonald's restaurant
+keyword	quest
+keyword	coffee
+keyword	journalism
+keyword	political cover up
+keyword	boss
+keyword	patience
+keyword	political news
+keyword	presidency
+keyword	political campaign
+keyword	critically acclaimed
+keyword	hanging up without saying goodbye
+keyword	typewriter
+keyword	parking garage
+keyword	cover up
+keyword	teamwork
+keyword	volvo car
+keyword	political intrigue
+keyword	telephone box
+keyword	paranoia
+keyword	man with no name
+keyword	government scandal
+keyword	cigarette smoking
+keyword	presidential election
+keyword	newspaper man
+keyword	american politics
+keyword	library of congress
+keyword	underground carpark
+keyword	political corruption
+keyword	library
+keyword	muckraking
+keyword	investigative journalism
+keyword	darkness
+keyword	u.s. president
+keyword	pulitzer prize source
+keyword	whistleblower
+keyword	blockbuster
+keyword	newspaper publisher
+keyword	persistence
+keyword	presidential pardon
+keyword	f word
+keyword	cubicle
+keyword	political scandal
+keyword	conspiracy
+keyword	based on book
+keyword	
+cast	Dustin Hoffman	Carl Bernstein
+cast	Robert Redford	Bob Woodward
+cast	Jack Warden	Harry Rosenfeld
+cast	Martin Balsam	Howard Simons
+cast	Hal Holbrook	Deep Throat
+cast	Jason Robards	Ben Bradlee
+cast	Jane Alexander	Bookkeeper
+cast	Meredith Baxter	Debbie Sloan
+cast	Ned Beatty	Dardis
+cast	Stephen Collins	Hugh Sloan
+cast	Penny Fuller	Sally Aiken
+cast	John McMartin	Foreign Editor
+cast	Robert Walden	Donald Segretti
+cast	Frank Wills	Frank Wills
+cast	F. Murray Abraham	Arresting Officer #1
+cast	David Arkin	Eugene Bachinski
+cast	Henry Calvert	Bernard L. Barker
+cast	Dominic Chianese	Eugenio R. Martinez
+cast	Bryan Clark	Arguing Attorney
+cast	Nicolas Coster	Markham
+cast	Lindsay Crouse	Kay Eddy
+cast	Valerie Curtin	Miss Milland
+cast	Gene Dynarski	Court Clerk
+cast	Nate Esformes	Virgilio R. Gonzales
+cast	Ron Hale	Frank Sturgis
+cast	Richard Herd	James W. McCord, Jr.
+cast	Polly Holliday	Dardis' Secretary
+cast	James Karen	Hugh Sloan's Lawyer
+cast	Paul Lambert	National Editor
+cast	Frank Latimore	Judge
+cast	Gene Lindsey	Alfred D. Baldwin
+cast	Anthony Mannino	Arresting Officer #2
+cast	Allyn Ann McLerie	Carolyn Abbott
+cast	James Murtaugh	Congress Library Clerk
+cast	John O'Leary	Attorney #1
+cast	Jess Osuna	Joe, FBI Agent
+cast	Neva Patterson	CRP Woman
+cast	George Pentecost	George
+cast	Penny Peyser	Sharon Lyons
+cast	Joshua Shelley	Al Lewis
+cast	Sloane Shelton	Bookeeper's Sister
+cast	Lelan Smith	Arresting Officer #3
+cast	Jaye Stewart	Male Librarian
+cast	Ralph Williams	Ray Steuben
+cast	George Wyner	Attorney #2
+cast	Leroy Aarons	Financial Editor
+cast	Donnlynn Bennett	Reporter
+cast	Stanley Bennett Clay	Assistant Metro Editor
+cast	Carol Coggin	News Aide
+cast	Laurence Covington	News Announcer
+cast	John Devlin	Metro Editor
+cast	John Furlong	News Desk Editor
+cast	Sidney Ganis	L.A. Stringer
+cast	Amy Grossman	Reporter
+cast	Cynthia Herbst	Reporter
+cast	Basil Hoffman	Assistant Metro Editor
+cast	Mark Holtzman	Reporter
+cast	Jamie Smith-Jackson	Post Librarian
+cast	Barbara Lipsky	Reporter
+cast	Doug Llewelyn	White House Aide
+cast	Jeff MacKay	Reporter
+cast	Irwin Marcus	Reporter
+cast	Ron Menchine	Post Librarian
+cast	Christopher Murray	Photo Aide
+cast	Jess Nadelman	Assistant Metro Editor
+cast	Noreen Nielson	Reporter
+cast	Florence Pepper	Message Desk Receptionist
+cast	Barbara Perlman	CRP Receptionist
+cast	Louis Quinn	Salesman
+cast	Peter Salim	Reporter
+cast	Shawn Shea	News Aide
+cast	Marvin Smith	Reporter
+cast	Pam Trager	Reporter
+cast	Carol Trost	Ben Bradlee's Secretary
+cast	Richard Venture	Assistant Metro Editor
+cast	Bill Willens	Hippie
+cast	Wendell Wright	Assistant Metro Editor
+cast	Spiro Agnew	Himself
+cast	Warren Burger	Himself
+cast	Walter Cronkite	Himself
+cast	Cara Duff-MacCormick	Tammy Ulrich
+cast	Thomas Eagleton	Himself
+cast	Gerald Ford	Himself
+cast	Richard Kleindienst	Himself
+cast	Clark MacGregor	Himself
+cast	Robert S. Mills	TV Reporter
+cast	Pat Nixon	Herself
+cast	Richard Nixon	Himself
+cast	Rick O'Donnell	CIA Agent
+cast	Del Rager	CIA Agent
+cast	John Randolph	John Mitchell
+cast	Ronald L. Ziegler	Himself

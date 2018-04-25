@@ -1,0 +1,317 @@
+year	2009
+imdb score	6.5
+meta score	63
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	boarding school
+keyword	alter ego
+keyword	love
+keyword	trailer house park
+keyword	vomiting
+keyword	teenage love
+keyword	fictional tv news show
+keyword	bikini
+keyword	reference to federico fellini
+keyword	urination
+keyword	reading someone's private journal
+keyword	friendship
+keyword	boxer shorts
+keyword	runaway car
+keyword	santa cruz california
+keyword	sex
+keyword	exploding trailer house
+keyword	bmw
+keyword	spanking
+keyword	alternate reality
+keyword	mushroom
+keyword	school cafeteria
+keyword	pastry shop
+keyword	older woman younger man relationship
+keyword	donut
+keyword	journal
+keyword	bathrobe
+keyword	ex boyfriend ex girlfriend relationship
+keyword	arrest
+keyword	sunglasses
+keyword	rock placed on car gas pedal
+keyword	gasoline can
+keyword	sedation
+keyword	swimsuit
+keyword	adultery
+keyword	student
+keyword	aspiring writer
+keyword	holding hands
+keyword	drug trip
+keyword	part time job
+keyword	dream girl
+keyword	claymation sequence
+keyword	child support
+keyword	photograph
+keyword	first kiss
+keyword	mobile home
+keyword	pay phone
+keyword	telephone call
+keyword	steroid
+keyword	war the card game
+keyword	france
+keyword	eavesdropping on a telephone call
+keyword	reading
+keyword	invented language
+keyword	apology
+keyword	penis
+keyword	pipe organ
+keyword	buying a toy
+keyword	reference to john dillinger
+keyword	boyfriend girlfriend relationship
+keyword	bunk bed
+keyword	venetian blinds
+keyword	brother sister relationship
+keyword	chase
+keyword	cabin
+keyword	father daughter relationship
+keyword	falling asleep in class
+keyword	erection
+keyword	divorced parents
+keyword	fight
+keyword	cliff
+keyword	food
+keyword	driving in the nude
+keyword	lp recording
+keyword	obsession
+keyword	reference to yasujirô ozu
+keyword	hiking
+keyword	tent
+keyword	tampon
+keyword	binoculars
+keyword	school expulsion
+keyword	pursuit
+keyword	restaurant
+keyword	reference to john muir
+keyword	family portrait
+keyword	father son relationship
+keyword	liar
+keyword	sleeping under a bridge
+keyword	cigarette smoking
+keyword	religious fanatic
+keyword	cutting up a bra
+keyword	washing a car
+keyword	fire
+keyword	guilt
+keyword	shower
+keyword	moustache
+keyword	vandalism
+keyword	stoned
+keyword	infidelity
+keyword	police siren
+keyword	american flag
+keyword	ukiah california
+keyword	exploding building
+keyword	teenager
+keyword	jail
+keyword	windsurfer
+keyword	lie
+keyword	making out
+keyword	juvenile detention
+keyword	plagiarism
+keyword	policeman
+keyword	belt
+keyword	truck driver
+keyword	bra
+keyword	cunnilingus
+keyword	grief
+keyword	finger in someone's anus
+keyword	destroying a car
+keyword	wig
+keyword	tripping and falling
+keyword	mischievous boy
+keyword	sleeping pills
+keyword	death of boyfriend
+keyword	high school
+keyword	mother's boyfriend
+keyword	knocking on a door
+keyword	three headed monster
+keyword	adolescence
+keyword	best friend
+keyword	male virgin
+keyword	pot smoking
+keyword	video store
+keyword	poet
+keyword	pathological liar
+keyword	loss of virginity
+keyword	sociopath
+keyword	explosion
+keyword	drawing on a photograph
+keyword	car inside a house
+keyword	marijuana
+keyword	black bra
+keyword	running
+keyword	extramarital affair
+keyword	ascot
+keyword	father's girlfriend
+keyword	reference to frank sinatra
+keyword	family dinner
+keyword	clothing store
+keyword	beating with a belt
+keyword	breaking a recording
+keyword	underwear
+keyword	in loco parentis
+keyword	backpack
+keyword	gun
+keyword	berkeley california
+keyword	teenage boy
+keyword	scene during end credits
+keyword	slurping
+keyword	forest
+keyword	grandmother grandson relationship
+keyword	maple bar
+keyword	lighting a cigarette
+keyword	reference to albert camus
+keyword	eating with one's fingers
+keyword	letter
+keyword	slumber party
+keyword	computer
+keyword	woman in bikini
+keyword	vagina
+keyword	split personality
+keyword	dog
+keyword	panties
+keyword	laundry drying on clothes line
+keyword	sleeping bag
+keyword	deception
+keyword	coming of age
+keyword	animated bird
+keyword	mother daughter relationship
+keyword	political activist
+keyword	white trash
+keyword	pain killer
+keyword	applying sunscreen
+keyword	looking for a job
+keyword	vandalizing a car
+keyword	car accident
+keyword	neighbor
+keyword	love child
+keyword	broken down car
+keyword	beach
+keyword	magic mushroom
+keyword	running out of gas
+keyword	misery
+keyword	groceries
+keyword	mother son relationship
+keyword	blogging
+keyword	grocery store
+keyword	car over a cliff
+keyword	exploding car
+keyword	16 year old
+keyword	car trouble
+keyword	f word
+keyword	reference to robert bresson
+keyword	slow motion scene
+keyword	split screen
+keyword	police officer
+keyword	on the run
+keyword	bathroom
+keyword	cell phone
+keyword	destruction of property
+keyword	teenage girl
+keyword	loss of boyfriend
+keyword	woods
+keyword	reference to jean paul belmondo
+keyword	garden hose
+keyword	trailer house
+keyword	friend
+keyword	phone booth
+keyword	prologue
+keyword	lake
+keyword	love letter
+keyword	book
+keyword	doughnut shop
+keyword	french
+keyword	animated sequence
+keyword	sex manual
+keyword	narrated by character
+keyword	film fan
+keyword	running away
+keyword	caught having sex
+keyword	card playing
+keyword	punched in the face
+keyword	flashback
+keyword	masturbation
+keyword	listening to music
+keyword	reciting poetry
+keyword	voice over narration
+keyword	animated owl
+keyword	thanksgiving dinner
+keyword	cafe
+keyword	legs
+keyword	breakfast
+keyword	black panties
+keyword	animated opening credits
+keyword	bible
+keyword	teenage sex
+keyword	setting a car on fire
+keyword	thanksgiving
+keyword	man in drag
+keyword	convertible
+keyword	hand on someone's thigh
+keyword	talking to one's alter ego
+keyword	kiss
+keyword	u.s. sailor
+keyword	older man younger woman relationship
+keyword	unfaithfulness
+keyword	sex in a shower
+keyword	teen angst
+keyword	oakland california
+keyword	police car
+keyword	reference to serge gainsbourg
+keyword	virgin
+keyword	poem
+keyword	school locker
+keyword	eating
+keyword	teenage rebellion
+keyword	note
+keyword	suicide contemplation
+keyword	undressing
+keyword	based on novel
+keyword	
+cast	Michael Cera	Nick Twisp / Francois
+cast	Portia Doubleday	Sheeni Saunders
+cast	Jean Smart	Estelle Twisp
+cast	Zach Galifianakis	Jerry
+cast	Erik Knudsen	Lefty
+cast	Adhir Kalyan	Vijay Joshi
+cast	Steve Buscemi	George Twisp
+cast	Fred Willard	Mr. Ferguson
+cast	Ari Graynor	Lacey
+cast	Ray Liotta	Lance Wescott
+cast	Justin Long	Paul Saunders
+cast	Rooney Mara	Taggarty
+cast	Jade Fusco	Bernice Lynch
+cast	Lise Lacasse	Matron
+cast	M. Emmet Walsh	Mr. Saunders
+cast	Mary Kay Place	Mrs. Saunders
+cast	Jonathan B. Wright	Trent
+cast	Michael Collins	Old Man
+cast	Gregory F Anderson	Sailor #1
+cast	Connell Brown	Sailor #2
+cast	Randy Godwin	Officer #1
+cast	Tony Fanning	Officer #2
+cast	Oscar the Dog	Albert
+cast	Francine Roussel	Headmistress
+cast	Chuy Chávez	Illegal Immigrant #1
+cast	Miguel Arteta	Illegal Immigrant #2
+cast	Bruce Lawson	Officer A. Fanning
+cast	Sudhi Rajagopal	Officer T. Cahill
+cast	Roz Music	Store Clerk
+cast	Christa B. Allen	Teenage Girl
+cast	Trevor Duke-Moretz	Jock Guy
+cast	JoAnn Fregalette Jansen	Sheeni Consultant
+cast	Arnaud Crowther	French Student #1
+cast	Danielle Nicole Czirmer	French Student #2
+cast	Sara Cicilian	Student
+cast	Kyle Colton	Student
+cast	Stephanie Ann Dunlap	Student
+cast	Dan Eppley	Student
+cast	Jimmy Mero	Student
+cast	James Paul	Street Pedestrian
+cast	C.D. Payne	Neighbor on porch

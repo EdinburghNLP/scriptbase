@@ -1,0 +1,152 @@
+year	1964
+imdb score	7.7
+meta score	95
+genre	Comedy
+genre	Musical
+keyword	the beatles
+keyword	concert
+keyword	television
+keyword	cult film
+keyword	apostrophe in title
+keyword	grandfather grandson relationship
+keyword	mirror
+keyword	behind the scenes
+keyword	phone booth
+keyword	backstage
+keyword	showgirl
+keyword	arrest
+keyword	director
+keyword	police chase
+keyword	police
+keyword	chase
+keyword	cult director
+keyword	television show
+keyword	camera
+keyword	mockumentary
+keyword	hotel
+keyword	fast motion scene
+keyword	broken engagement
+keyword	piano
+keyword	gambling
+keyword	laying jacket over puddle
+keyword	autograph
+keyword	pursuit
+keyword	pseudo documentary
+keyword	london england
+keyword	actor playing himself
+keyword	press conference
+keyword	fame
+keyword	cafeteria
+keyword	beatlemania
+keyword	talent agent
+keyword	the beatles song
+keyword	helicopter
+keyword	musician
+keyword	fake beard
+keyword	cult film
+keyword	sweater
+keyword	fan mail
+keyword	surrealism
+keyword	television director
+keyword	tuxedo
+keyword	bathtub
+keyword	culture clash
+keyword	rock music
+keyword	ensemble film
+keyword	songwriter
+keyword	nose joke
+keyword	club
+keyword	railway station
+keyword	rock 'n' roll
+keyword	rock band
+keyword	screaming
+keyword	price of fame
+keyword	generation gap
+keyword	performer
+keyword	photography
+keyword	england
+keyword	irreverence
+keyword	police station
+keyword	adolescence
+keyword	tv studio
+keyword	casino
+keyword	makeup
+keyword	card playing
+keyword	older man younger woman relationship
+keyword	shaving
+keyword	pub
+keyword	man with glasses
+keyword	magician
+keyword	disguise
+keyword	train
+keyword	dancing
+keyword	theatrical agent
+keyword	screaming with excitement
+keyword	title based on song
+keyword	liverpudlian
+keyword	swinging london
+keyword	photo booth
+keyword	rehearsal
+keyword	nightclub
+keyword	psychotronic
+keyword	punctuation in title
+keyword	book
+keyword	auto theft
+keyword	marketing
+cast	The Beatles	Beatles
+cast	John Lennon	John
+cast	Paul McCartney	Paul
+cast	George Harrison	George
+cast	Ringo Starr	Ringo
+cast	Wilfrid Brambell	Grandfather
+cast	Norman Rossington	Norm
+cast	John Junkin	Shake
+cast	Victor Spinetti	T.V. Director
+cast	Anna Quayle	Millie
+cast	Deryck Guyler	Police Inspector
+cast	Richard Vernon	Man on Train
+cast	Edward Malin	Hotel Waiter
+cast	Robin Ray	T.V. Floor Manager
+cast	Lionel Blair	T.V. Choreographer
+cast	Alison Seebohm	Secretary
+cast	David Janson	Young Boy
+cast	Bridget Armstrong	Lead Makeup Woman
+cast	Roger Avon	
+cast	Bruce Beeby	Man Talking to Casino Manager
+cast	John Bluthal	Car Thief
+cast	Pattie Boyd	Jean - Schoolgirl on Train #1
+cast	Andrea Brett	Bit Role
+cast	Terry Brooks	Urchin
+cast	Prudence Bury	Rita - Schoolgirl on Train #2
+cast	Anne Clune	Bit Role
+cast	Phil Collins	Seated Fan with Necktie
+cast	Rosemarie Frankland	Brunette Showgirl
+cast	Bob Godfrey	Man in Park
+cast	Kenneth Haigh	Simon Marshall
+cast	Susan Hampshire	Dancer at Disco
+cast	Julian Holloway	Adrian - Simon's Assistant
+cast	Terry Hooper	Casino Croupier
+cast	Ric Hutton	Bit Role
+cast	Clare Kelly	Barmaid
+cast	Lavinia Lang	Bit Role
+cast	David Langton	Actor
+cast	Richard Lester	Man in Back of the Stage
+cast	Linda Lewis	Audience Member
+cast	Jeremy Lloyd	Tall Dancer at the Disco
+cast	Maggie London	Girl at Disco
+cast	Jane Lumb	Bit Role
+cast	Dougie Millings	Tailor
+cast	Peter Newton	Bit Role
+cast	Derek Nimmo	Leslie Jackson - Magician
+cast	Margaret Nolan	Grandfather's Girl at Casino
+cast	Gordon Rollings	Man with Sandwich in Pub
+cast	Edina Ronay	Girl at Disco
+cast	Sally Sheridan	Bit Role
+cast	Geraldine Sherman	Girl Outside Secondhand Shop
+cast	Marianne Stone	Society Reporter
+cast	Michael Trubshawe	Casino Manager
+cast	Hedger Wallace	Bit Role
+cast	Shalini Waran	T.V. Studio Audience Member
+cast	Carol White	Bit Role
+cast	Susan Whitman	Susan
+cast	Tina Williams	Tina

@@ -1,0 +1,190 @@
+year	2005
+imdb score	8.0
+meta score	74
+genre	Action
+genre	Adventure
+genre	Sci-Fi
+genre	Thriller
+keyword	alliance
+keyword	planet
+keyword	operative
+keyword	cannibal
+keyword	reavers
+keyword	future
+keyword	fugitive
+keyword	spacecraft
+keyword	captain
+keyword	military
+keyword	doctor
+keyword	robbery
+keyword	spaceship
+keyword	computer
+keyword	famous entrance
+keyword	priest
+keyword	psycho thriller
+keyword	incense
+keyword	wedding ceremony
+keyword	terraforming
+keyword	wrath
+keyword	funeral
+keyword	fire
+keyword	grenade
+keyword	mandarin
+keyword	warrior
+keyword	pilot
+keyword	returning character killed off
+keyword	one word title
+keyword	altered version of studio logo
+keyword	sexual tension
+keyword	shot in the back
+keyword	atheist
+keyword	super soldier
+keyword	death
+keyword	preacher
+keyword	heroine
+keyword	government coverup
+keyword	good versus evil
+keyword	child murder
+keyword	space western
+keyword	attempted murder
+keyword	katana sword
+keyword	series film
+keyword	husband wife relationship
+keyword	kicked in the crotch
+keyword	friendship
+keyword	wisecrack humor
+keyword	body armor
+keyword	impalement
+keyword	thief
+keyword	chase
+keyword	dream
+keyword	companion
+keyword	explosion
+keyword	psychic
+keyword	loss of friend
+keyword	sword
+keyword	martial arts
+keyword	space exploration
+keyword	eye injury
+keyword	outer space
+keyword	escape pod
+keyword	broken arm
+keyword	firefly
+keyword	anti hero
+keyword	mind control
+keyword	based on tv series
+keyword	corpse
+keyword	suspense
+keyword	bickering
+keyword	political satire
+keyword	mechanic
+keyword	kitchen
+keyword	suicide attempt
+keyword	psychic power
+keyword	stabbed in the foot
+keyword	shot in the hand
+keyword	shot in the chest
+keyword	shootout
+keyword	shepherd
+keyword	fictional war
+keyword	megacorporation
+keyword	cult film
+keyword	hologram
+keyword	grief
+keyword	space travel
+keyword	space fight
+keyword	interracial romance
+keyword	female warrior
+keyword	loyalty
+keyword	cannibalism
+keyword	brother sister relationship
+keyword	black humor
+keyword	space battle
+keyword	ex soldier
+keyword	long take
+keyword	spaceship crash
+keyword	unrequited love
+keyword	shot to death
+keyword	gatling gun
+keyword	stabbed in the chest
+keyword	interracial friendship
+keyword	sin
+keyword	mercy killing
+keyword	spaceship name in title
+keyword	escape
+keyword	freedom
+keyword	space colony
+keyword	space opera
+keyword	shot in the neck
+keyword	eaten alive
+keyword	black comedy
+keyword	teenage girl
+keyword	shot in the shoulder
+keyword	26th century
+keyword	camouflage
+keyword	female pilot
+keyword	advertisement
+keyword	blood splatter
+keyword	veteran
+keyword	vacuum
+keyword	shot in the leg
+keyword	subliminal message
+keyword	trapped
+keyword	based on tv show
+keyword	resistance
+keyword	studio logo segues into film
+keyword	future war
+keyword	exploding spaceships
+keyword	interracial marriage
+keyword	based on cult tv series
+keyword	throat slitting
+keyword	deceit
+keyword	tension
+keyword	death of child
+keyword	title spoken by character
+keyword	
+cast	Nathan Fillion	Mal
+cast	Gina Torres	Zoë
+cast	Alan Tudyk	Wash
+cast	Morena Baccarin	Inara
+cast	Adam Baldwin	Jayne
+cast	Jewel Staite	Kaylee
+cast	Sean Maher	Simon
+cast	Summer Glau	River
+cast	Ron Glass	Shepherd Derrial Book
+cast	Chiwetel Ejiofor	The Operative
+cast	David Krumholtz	Mr. Universe
+cast	Michael Hitchcock	Dr. Mathias
+cast	Sarah Paulson	Dr. Caron
+cast	Yan Feldman	Mingo
+cast	Rafael Feldman	Fanty
+cast	Nectar Rose	Lenore
+cast	Tamara Taylor	Teacher
+cast	Glenn Howerton	Lilac Young Tough
+cast	Hunter Ansley Wryn	Young River
+cast	Logan O'Brien	Boy Student
+cast	Erik Erotas	Boy Student
+cast	Demetra Raven	Girl Student
+cast	Jessica Huang	Girl Student
+cast	Marley McClean	Girl Student
+cast	Scott Kinworthy	Ensign
+cast	Erik Weiner	Helmsman
+cast	Conor O'Brien	Lab Technician
+cast	Peter James Smith	Lab Technician
+cast	Weston Nathanson	Trade Agent
+cast	Carrie 'CeCe' Cline	Young Female Intern
+cast	Chuck O'Neil	Vault Guard
+cast	Amy Wieczorek	Lilac Mom
+cast	Tristan Jarred	Lilac Son
+cast	Elaine Mani Lee	Fan Dancer
+cast	Terrence Hardy Jr.	Mining Camp Boy
+cast	Brian O'Hare	Alliance Pilot
+cast	Ryan Tasz	Black Room Soldier
+cast	Colin Patrick Lynch	Black Room Soldier
+cast	Terrell Tilford	News Anchor
+cast	Joshua Michael Kwiat	Slovenly Beaumonde Man
+cast	Antonio Rufino	Bartender
+cast	Linda Wang	Chinese Snake Dancer
+cast	Joss Whedon	Trade Agent
+cast	Rick Williamson	Bar Guy
+cast	Mark Winn	Furturistic Worker

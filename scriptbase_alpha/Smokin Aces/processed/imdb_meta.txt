@@ -1,0 +1,187 @@
+year	2006
+imdb score	6.7
+meta score	45
+genre	Action
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	lake
+keyword	fbi
+keyword	magician
+keyword	fbi agent
+keyword	casino
+keyword	plan
+keyword	shootout
+keyword	plastic surgery
+keyword	male nudity
+keyword	theatrical agent
+keyword	black and white scene
+keyword	closing credits sequence
+keyword	one day
+keyword	freeze frame
+keyword	no opening credits
+keyword	contact lens
+keyword	hospital
+keyword	lawyer
+keyword	lake tahoe nevada
+keyword	mafia
+keyword	swede
+keyword	bare chested male bondage
+keyword	rifle
+keyword	penthouse
+keyword	police officer killed
+keyword	racial slur
+keyword	shot in the face
+keyword	suicidal
+keyword	black comedy
+keyword	helicopter
+keyword	bail bondsman
+keyword	torture
+keyword	rabbit suit
+keyword	witness protection
+keyword	oxygen tent
+keyword	gore
+keyword	self mutilation
+keyword	polaroid
+keyword	soft focus
+keyword	magic act
+keyword	wheelchair
+keyword	police
+keyword	bodyguard
+keyword	corpse
+keyword	murder
+keyword	split screen
+keyword	severed finger
+keyword	mask
+keyword	prostitute
+keyword	shot in the chest
+keyword	shot to death
+keyword	presumed dead
+keyword	stairwell
+keyword	surgeon
+keyword	bathtub
+keyword	video surveillance
+keyword	betrayal
+keyword	character's point of view camera shot
+keyword	slow motion action scene
+keyword	ensemble cast
+keyword	disguise
+keyword	slow motion
+keyword	electrocution
+keyword	name change
+keyword	mob hit
+keyword	shot in the back
+keyword	las vegas nevada
+keyword	father son relationship
+keyword	sniper
+keyword	pool hall
+keyword	hitman
+keyword	impersonation
+keyword	stabbing
+keyword	slow motion scene
+keyword	elevator
+keyword	nightclub
+keyword	slow motion violence
+keyword	blood spatter
+keyword	neo nazi
+keyword	gun in mouth
+keyword	prologue
+keyword	drugs
+keyword	topless female nudity
+keyword	lesbian
+keyword	grandmother
+keyword	shot in the leg
+keyword	erection
+keyword	faked death
+keyword	los angeles california
+keyword	organized crime
+keyword	surveillance
+keyword	1950s
+keyword	shot in the arm
+keyword	thong
+keyword	stakeout
+keyword	undercover
+keyword	bare breasts
+keyword	eye patch
+keyword	female nudity
+keyword	security guard
+keyword	killed in an elevator
+keyword	flashback
+keyword	chainsaw
+keyword	gay slur
+keyword	hotel
+keyword	black humor
+keyword	ritalin
+keyword	bare chested male
+keyword	cocaine
+keyword	diner
+keyword	lift shooting
+keyword	person on fire
+keyword	underwear
+keyword	fast motion scene
+keyword	card trick
+keyword	lens flare
+keyword	hitwoman
+keyword	crime boss
+keyword	blow torch
+keyword	male underwear
+keyword	death of friend
+keyword	surprise ending
+cast	Ryan Reynolds	Richard Messner
+cast	Ray Liotta	Donald Carruthers
+cast	Joseph Ruskin	Primo Sparazza
+cast	Alex Rocco	Serna
+cast	Wayne Newton	Himself
+cast	Jeremy Piven	Buddy Israel
+cast	Ben Affleck	Jack Dupree
+cast	Peter Berg	"Pistol" Pete Deeks
+cast	Martin Henderson	Hollis Elmore
+cast	Common	Sir Ivy
+cast	Christopher Michael Holley	Beanie
+cast	Andy Garcia	Stanley Locke
+cast	Mike Falkow	Freeman Heller
+cast	Joe Drago	FBI Aid
+cast	Jeff Habberstad	Top Coated Gunman
+cast	Alicia Keys	Georgia Sykes
+cast	Davenia McFadden	Loretta Wyman
+cast	Taraji P. Henson	Sharice Watters
+cast	Nestor Carbonell	Pasquale Acosta "S.A. Gerald Diego"
+cast	Chris Pine	Darwin Tremor
+cast	Kevin Durand	Jeeves Tremor
+cast	Maury Sterling	Lester Tremor
+cast	George Fisher	McGarey
+cast	Tommy Flanagan	Lazlo Soot
+cast	Curtis Armstrong	Morris Mecklen
+cast	Vladimir Kulich	The Swede
+cast	Janet Edwards	Naked Prostitute
+cast	Joel Edgerton	Hugo Croop
+cast	David Proval	Victor Padiche
+cast	Jason Bateman	Rupert 'Rip' Reed
+cast	Suzanna Stover	Prostitute #1
+cast	Scott Halberstadt	Pimply Casino Employee
+cast	Lorna Scott	Hotel Receptionist
+cast	Matthew Fox	Bill Security Super
+cast	Lonnie Moore	Gary the Security Guard
+cast	Patrick St. Esprit	Moustache
+cast	Steve Florian	Security Member #1
+cast	Robert Weir	Security Member #2
+cast	Zach Cumer	Warren
+cast	Ken Rudulph	CS Team Member
+cast	Christopher Murray	Sergeant / Chief
+cast	Max Murphy	Sheriff Badger
+cast	Marianne Muellerleile	Margie Turlock
+cast	Stefanie Cruz	Reporter #1
+cast	John Alston	Reporter #2
+cast	Brian Bloom	Agent Baker
+cast	R. Paul Wilson	Magician
+cast	Scott Bloom	FBI Agent #3
+cast	Al Woodley	FBI Agent #2
+cast	James Conkle	Young Buddy
+cast	Clare Carey	Laverne
+cast	David Goldsmith	Stage Manager
+cast	Sheryl Chambers	Reporter
+cast	Nick Fenske	Douglas County Sherriff
+cast	Darrell Geer	FBI Agent
+cast	James Henderson	F.B.I. Agent #4
+cast	P. David Miller	FBI Agent
+cast	Jim Robertson	Poolside Guest

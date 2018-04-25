@@ -1,0 +1,6357 @@
+The Fabulous Baker Boys (1989) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+The Fabulous Baker Boys (1989) movie scriptby Steve Kloves. Final draft, November 4, 1988.
+More info about this movie on IMDb.com
+
+
+FADE IN:
+
+1     INT. APARTMENT - DUSK
+
+JACK BAKER is standing before a dirty window, looking 
+out at a dirty city street. He is wearing a tuxedo.
+
+     VOICE
+     Hey.
+
+Jack looks at the GIRL in the bed, then at the rest of the 
+apartment. Not good.
+
+     JACK.
+     Hey.
+
+     GIRL     
+     Whatcha doin' over there?
+
+     JACK
+     Gotta go.
+
+     GIRL
+     How come?
+
+     JACK
+     Job.
+
+The girl glances at the bedside clock.
+
+     GIRL
+     Funny hours.
+
+     JACK
+     Funny job.
+
+     GIRL
+     Will I see you again?
+
+Jack looks out at the dirty street again.
+
+     JACK
+     No.
+
+The girl doesn't appear terribly unnerved by this.
+
+     GIRL
+     (the tux)     
+     You weren't wearing that, were you, earlier?
+
+Jack shakes his head, taps a brown bag on the sill.
+
+     JACK
+     Brought it.
+
+     GIRL          
+     Thank God. You look like a creep.
+
+     JACK
+     Thanks.
+
+     GIRL
+     I mean, I'd hate to think I'd pick up someone who 
+     wore that shit.
+
+Jack nods, grabs the bag, and moves to the door.
+
+     GIRL
+     Hey.
+     (as he stops)
+     You got great hands.
+
+Hearing this, a slow smile forms on Jack's lips and:
+
+
+2     MAIN TITLES BEGIN
+
+A) OMITTED
+thru
+E)
+
+F) EXT. SEATTLE DOWNTOWN STREET - DUSK
+
+     Jeff walking. (Street wetdown.)
+
+G) EXT. SEATTLE DOWNTOWN STREET - DUSK
+
+     Jeff walking. (Street wetdown.)
+
+H) EXT. SEATTLE DOWNTOWN STREET - NIGHT.
+
+     Jeff walking on way to work.
+
+I) EXT. SEATTLE DOWNTOWN STREET - NIGHT.
+
+     Jeff walking on way to work.
+
+J) EXT. SEATTLE DOWNTOWN STREET - NIGHT.
+
+     Jeff stops at State Liquor store purchase.
+
+   MAIN TITLES END, we...
+
+     DISSOLVE TO:
+
+
+3     EXT. A NICE DOWNTOWN HOTEL (STARFIRE) 
+- NIGHT
+
+As Jack approaches, he takes a hit off a flask of whiskey,
+then returns it to his pocket. A DOORMAN swings open 
+the door.     
+
+     JACK.
+     How'm I doing, Tommy?
+
+     DOORMAN.
+     Two minutes.
+
+
+4     INT. STARFIRE LOBBY - NIGHT
+
+As Jack enters the lobby, he lights a cigarette, and nods to
+a waitress (SHEILA) passing by.
+
+     JACK
+     Hey, Sheil. How's tips? 
+
+     SHEILA
+     I ain't booking a cruise. 
+
+     JACK
+     You seen my brother?
+
+     SHEILA
+     In the john.
+
+
+5     INT. STARFIRE BATHROOM - NIGHT 
+
+Jack's brother, FRANK, is standing in front of the mirror, 
+stuffing the collar of his tux with towels while LOUIS, an 
+old black attendant, looks on. Jack enters.
+
+     JACK
+     (a nod)
+     Louis.
+
+     FRANK
+     You're giving me an ulcer, Jack.
+
+     JACK
+     I'm early.
+
+     FRANK
+     Forty-five seconds doesn't qualify as early, Jack. 
+     Jesus, who's doing your tux these days?          
+
+     JACK
+     Moon.
+
+     FRANK
+     Go to China Boy, will ya. You look like you just 
+     crawled out of bed.
+
+Jack picks up a tiny spray can on the sink, reads it.
+
+     JACK
+     "Be the envy of all your friends with Crowning 
+     Glory's Miracle Hair"...?
+     (looking up)
+     You gotta be kidding.
+
+Jack studies the bald spot on the crown of his brother's 
+head, then shakes the can. A MIXING BALL is heard.
+
+     JACK
+     This is paint, Frank.
+
+     FRANK
+     It's not paint.
+     (pointing to the can)
+     It's a "magical sheath which simulates a dazzling 
+     head of hair."
+
+     JACK
+     Frank, this is paint.
+
+     FRANK
+     Just help me put it on, okay? You're supposed to 
+     spray in a circular motion.
+
+As Frank positions himself, Jack exchanges a glance with 
+Louis. Shrugging, Jack gives the can a shake, steps back, 
+and fires away.
+
+     FRANK
+     Well...?
+
+Jack just stares. There is a dark spot on the back of Frank's 
+head about the size of a scooter pie.
+
+     FRANK
+     Louis?
+
+Louis looks up. His face could conceal a royal flush.
+
+     LOUIS
+     Dazzling...
+
+APPLAUSE is heard as we...
+
+     CUT TO:
+
+
+6     INT. STARFIRE LOUNGE - CLOSEUP - A 
+CARDBOARD STAND-UP - NIGHT
+
+featuring two 8x10 glossies of Frank and Jack (more hair) 
+and in bold letters: "TONIGHT! THE FABULOUS 
+BAKER BOYS!"
+
+We HOLD on the stand-up, then RISE above it to reveal a 
+candlelit lounge, where Jack and Frank sit behind 
+matching grand pianos, a poor man's version of Ferrante
+and Teicher.
+
+     FRANK
+     (Mr. Smile)
+     Thank you, thank you. Good evening and welcome 
+     to the Starfire Lounge. My name is Frank Baker 
+     and eighty-eight keys across from me is my little
+     brother Jack.
+
+The audience -- consisting of middle-aged out-of-towners 
+swilling enormous banana daiquiris -- APPLAUDS.
+
+     FRANK
+     You know, my brother and I have been playing 
+     together, gosh, I don't know. How long has it
+     been, Jack?
+
+     JACK
+     (lighting cigarette)
+     Thirty-one years, Frank.
+
+     FRANK
+     That's a lot of water under the bridge, eh, Jack?
+
+     JACK
+     Lotta water.
+
+     FRANK
+     Of course, back then, things were a little different. 
+     I was eleven, Jack was seven. and about the only 
+     one who would listen to us was the family cat, 
+     Cecil. We must've shaved three lives off that cat,
+     eh, Jack?
+
+The audience, having the benefit of the daiquiris, 
+LAUGHS. Jack smiles like he's got a mouth full of razor 
+blades.
+
+     FRANK
+     But seriously. It's been fifteen years since Jack 
+     and I first stepped onto the stage as professionals. 
+     But even though we've played some of the finest 
+     venues in the world... there's one place that's 
+     always been, for us, a very special place, and 
+     that place is... this place, the Starfire Lounge.
+
+Jack lays in a few soft bass chords.
+
+     FRANK
+     Why? Well, I guess you could say it's the...
+     (pregnant moment)
+     ...people.
+
+At which point, Frank's hands descend onto the keyboard 
+and give birth to the melody of -- what else? -- "People."
+
+
+7      INT. STARFIRE KITCHEN - LATER 
+
+Jack and Frank pass through the steamy hotel kitchen. 
+
+
+     FRANK
+     Now when we go in there, don't make trouble, 
+     all right? 
+
+     JACK
+     Who's gonna make trouble? 
+
+     GIRL'S VOICE
+     Hi, Jack. 
+
+A young GIRL in an apron smiles at Jack. 
+
+     JACK
+     Hi, Jenny. New earings? 
+
+     JENNY
+     Like 'em? 
+
+     JACK
+     Swell. You got something for me? 
+
+The girl holds up a huge soup bone. 
+
+     JENNY
+     Been hiding it from Hector all day. 
+
+     JACK
+     You're a doll. 
+
+     FRANK
+     (as they exit)
+     I mean it Jack. Behave. 
+
+     JACK
+     Like an angel. 
+
+
+8     INT. LLOYD'S OFFICE - NIGHT
+
+Frank stands across the desk from the hotel's very young, 
+very condescending assistant manager (LLOYD) as he 
+prepares a cash envelope. Jack stays in the doorway, 
+smoking.
+
+     LLOYD
+     Terrific, boys. Really. Terrific. Yes, sir... You're 
+     just what we needed on a night like this.
+
+     FRANK
+     Uh... thanks, Lloyd.
+
+Frank glances at Jack and realises he should have left him 
+in the kitchen with Jenny and the soup bone.
+
+     LLOYD
+     Only Jack, do me a favour, will ya, pal. If you 
+     wanna smoke onstage, put on a pair of sunglasses 
+     and go play with the niggers on State Street.
+
+Smoke curls out of Jack's nose. He is utterly still, like a pit 
+bull eyeing a steak.
+
+     LLOYD
+     Okay, boys, that ought to buy you a few more 
+     lessons. By the way, Frankie, I'm declaring this.
+
+Lloyd slaps a slender envelope onto the desk.
+
+     FRANK
+     Uh... You don't know when you'll be wanting us 
+     back, do you, Lloyd?
+
+     LLOYD
+     I'll call you.
+
+     FRANK
+     Uh, well, you know, the way our schedule is, I 
+     thought maybe...
+
+     LLOYD
+     I'll call you.
+
+Frank bites down and takes the envelope from the desk.
+
+     JACK
+     Count it.
+
+     FRANK
+     Huh?
+
+     JACK
+     Count it.
+
+     FRANK
+     Jack...
+
+     JACK
+     Count the fucking money, Frank.
+
+Lloyd looks up. Jack is staring right into him. Reluctantly,
+Frank opens the envelope.
+
+     FRANK     
+     It's all here.
+     (pulling Jack out)
+     I'll be talking to you, Lloyd.
+
+Lloyd doesn't answer. He just looks at Jack, smiling with 
+amusement.
+
+
+9     EXT. STREET - NIGHT
+
+Jack comes out onto the street with the wrapped up soup 
+bone. Frank follows with the stand-up.     
+
+     FRANK
+     Very nice, Jack. Very nice.
+
+     JACK
+     Fuck him.
+
+     FRANK
+     This isn't the Pine Tree Inn on Route 81, Jack.
+
+     JACK
+     Fuck him.
+
+     FRANK
+     Fuck him. Great, terrific. Fuck him.
+
+As Frank reaches his car, he opens the trunk for the 
+stand-up, then counts out Jack's share of the night's money.
+
+     JACK
+     So we on tomorrow night?
+
+     FRANK
+     Maybe Thursday. I hear the harpist at the 
+     Sheraton's got appendicitis.
+
+Frank slams the trunk closed.
+
+     JACK
+     Hey.
+
+As Frank turns, Jack tosses him the Miracle Hair can.
+
+     JACK
+     Don't forget your hair.
+
+
+10      INT. JACK'S APARTMENT - NIGHT 
+
+Small, old, sparsely furnished. A piano by the window, an 
+old phonograph, a bookcase full of records. Few 
+photographs. 
+
+As Jack enters, EDDIE, an old black Labrador, walks over
+and yawns. 
+
+     JACK
+     Try to control your excitement, will ya, Ed. 
+
+Eddie nuzzles the soup bone. 
+
+     JACK
+     Let's see your mouth.
+     (taking a look)
+     All right. But go easy. 
+
+As Eddie retreats with the bone, Jack breaks the collar of 
+his shirt and pauses by the piano. He considers the keys 
+but, instead, flips on the PHONOGRAPH. As Bill Evans'
+smoky piano solo "Turn Out the Stars" spills quietly into 
+the room, Jack takes off his tie... then stops. He glances to 
+the kitchen: dishes drip-drying in a rack. He touches an 
+ashtray: clean. 
+
+Taking two silent steps backward, Jack peers into the
+bedroom. Inside, curled up on the bed, is a little girl 
+(NINA). Jack studies her a moment, then, taking the bottle
+of whiskey from his coat, sits at the piano by the window, 
+staring into the night. 
+
+
+11     EXT. JACK'S APARTMENT BUILDING - MORNING 
+(EARLY)
+
+The sun begins to peek through the buildings of Jack's 
+neighborhood. Suddenly, ringing out over the rooftops is 
+"JINGLE BELLS" -- not the entire song, just the first few 
+bars, over and over.
+
+
+12     INT. JACK'S APARTMENT - MORNING
+
+Jack, on the couch covered with a blanket, his arm draped
+over the slumbering Eddie, opens his eyes, Across the 
+room, seated at the piano, is Nina, the little girl. She stops 
+playing and turns.
+
+     NINA
+     If you want some coffee? I made some coffee.
+
+Jack looks into the sleepy face of Eddie and sits up. He
+nods to the coffee. Nina goes to the kitchen,
+
+     NINA
+     (the piano)
+     I practiced last night. I think I'm ready for "oh, 
+     what fun it is to ride."
+
+Jack nods. Suddenly the SOUND of heavy footsteps is 
+heard. Jack and Nina glance up at the ceiling.
+     
+     JACK
+     Sounds big. What's he do?
+
+     NINA
+     I don't know. Ma said it's like a lawyer, only the 
+     hours are more regular. All I know's he came to 
+     take the TV one afternoon and ended up staying 
+     for dinner.
+
+     JACK
+     What happened to the donut king?
+
+     NINA
+     Married.
+
+Upstairs, a door slams and heavy feet ECHO in the 
+stairwell. Nina peers out the window.
+
+     NINA.
+     No breakfast. Maybe they had a fight.
+
+Two deep thumps SOUND on the ceiling, a signal.
+
+     NINA
+     Gotta go. Teach me later?
+
+Jack nods. As Nina exits, Jack turns to the couch and 
+gives Eddie a nudge.
+
+     JACK
+     Hey.
+
+
+12A     EXT. WILLIE'S PIANO SHOWROOM - DAY
+
+The front window is cluttered with photographs of 
+celebrity patrons, including two of Jack and Frank in their
+tuxedos.
+
+
+13      INT. PIANO SHOWROOM - DAY 
+
+Inside, Jack and Frank pick through a sea of rentals. 
+
+     FRANK
+     I just think it's time you came out for a visit, that's
+     all. I mean, how long's it been? A year? 
+
+     JACK
+     (pointing to a piano)
+     Try the Bosen. 
+
+As Jack plays a little "Alfie" on one grand, Frank follows
+suit on another. Jack frowns and glances across the room, 
+where a fat MAN sits absorbed in the racing form. 
+
+     JACK
+     When you getting the Steinways back in, Willie? 
+
+     WILLIE
+     Wednesday next. 
+
+Jack frowns again, moves to another piano. 
+
+     FRANK
+     Look. Here's what I'm saying. You come out to the 
+     house next weekend. You spend a few hours with 
+     the kids. You have a ball. 
+
+     JACK
+     I hate your kids, Frank. 
+
+     FRANK
+     You're their uncle. 
+
+     JACK
+     Only by relation. Besides, they hate me too. 
+
+     FRANK
+     They don't. They're always asking about you. 
+
+     JACK
+     They tried to electrocute me. 
+
+     FRANK
+     It was an accident. 
+
+     JACK
+     It was no fucking accident. The little one... 
+
+     FRANK
+     Cindy. 
+
+     JACK
+     She threw a goddamn radio into the bathtub. How
+     do you explain that? 
+
+     FRANK
+     She didn't know what she was doing. You're too 
+     sensitive. 
+
+     JACK
+     You got weird kids, Frank. 
+
+     FRANK
+     (wearying of this)
+     Look. It's Cindy's birthday. It'd be nice if you came
+     out. 
+
+     Jack
+     (pointing)
+     Try the Yamaha. 
+
+Jack and Frank do a little "I Think I'm Going Out Of My 
+Head", then Frank looks up for a verdict. 
+
+     JACK
+     (exiting)
+     Tag 'em. 
+
+     FRANK
+     The Capri, Willie. Monday and Tuesday.
+
+
+14     INT. CAPRI HOTEL/LUAU LOUNGE - NIGHT 
+
+Decked out in Hawaiian shirts, Jack and Frank bang out 
+"The Girl From Ipanema," while the audience -- three 
+sorry-looking businessmen -- stares glumly at the 
+grass-skirted waitresses yawning by the bar.
+
+     FRANK
+     ...Thank you. The concludes our show for the 
+     evening. Jack and I only hope you enjoyed 
+     yourselves as much as we did.
+
+
+15.     INT. CAPRI HOTEL MANAGER'S OFFICE - NIGHT
+
+Frank stops before a half-open door marked "HOTEL 
+MANAGER." Inside, a heavy MAN in a shiny suit is 
+throwing darts in the general direction of a dartboard. 
+He's not very good.
+
+     MAN (CHARLIE)
+     Frankie.
+
+     FRANK
+     You wanted to see me, Charlie?
+
+     CHARLIE
+     Yeah, yeah. Come on in.
+
+     FRANK
+     Little slow tonight.
+
+     CHARLIE
+     (waving it off)
+     Mondays. How's Jack?
+
+     FRANK
+     Okay.
+
+     CHARLIE
+     The reason I wanted to see you alone... I mean the
+     kitchen crew, the maids -- everybody loves him. 
+     But me, he makes me nervous.
+
+     FRANK
+     Sometimes he makes me nervous.
+
+     CHARLIE
+     Yeah. Well, anyway.
+
+Charlie takes an envelope, hands it to Frank.
+
+     FRANK
+     What's this?
+
+     CHARLIE
+     Your pay.
+
+     FRANK
+     What about tomorrow?
+
+     CHARLIE
+     It's all there. Both nights.
+     
+     FRANK
+     What are you saying, Charlie?
+
+     CHARLIE
+     Look, Frankie. You and Jack been playing here a 
+     long time.
+
+     FRANK
+     Twelve years.
+
+     CHARLIE
+     Maybe it's time we took a vacation from one 
+     another.
+
+     FRANK
+     Vacation? Christ, Charlie, it's a Monday night. You 
+     said so yourself... I've got the pianos for two 
+     nights... 
+
+     CHARLIE
+     It wasn't half full out there tonight, Frankie. I got 
+     six waiters standing in back listening to baseball. 
+     I gotta move the liquor. To move the liquor, I gotta 
+     fill the tables. It's a matter of economics. Me, I 
+     love you guys, you know that. You're class. But 
+     people today. They don't know class if it walks 
+     up and grabs 'em by the balls.
+
+
+16      INT. CAPRI HOTEL LOBBY - NIGHT
+(MINUTES LATER) 
+
+
+As Jack waits, he notices an elegantly dressed woman 
+watching him. She smiles. As Jack considers her, Frank 
+appears, carrying the stand-up. 
+
+     JACK
+     Charlie's aim getting any better? 
+
+Frank keeps walking. Jack notices the stand-up. 
+
+     JACK
+     What's with the board? 
+
+     FRANK
+     We're dark tomorrow. 
+     
+     JACK
+     Dark? 
+
+     FRANK
+     Don't worry. Charlie stayed true. I'll give you your 
+     share this weekend. At the house. 
+
+As Frank moves quickly out of the door, the CAMERA 
+PUSHES IN SLOWLY on Jack's face. 
+
+
+17      OMITTED
+thru
+18a
+
+
+19      EXT. STREET/FRANK'S HOUSE - DAY 
+
+A taxi dumps Jack out onto the street of shabby tract 
+houses. In his rumpled city suit, Jack looks like a cheap 
+gangster amid the weedy lawns and overgrown junipers. 
+He stuffs the gift he's carrying into his coat and walks up 
+to the small white house, presses the bell. No response. 
+
+The back yard is small, with a short chain link fence 
+surrounding it. Two kids -- a girl (CINDY) and a boy -- 
+wearing party hats and buoyance devices, are splashing 
+around in a build-it-yourself above-ground pool. When
+they see Jack coming, they hunker down like crocodiles,
+only their heads visible. 
+
+     JACK
+     Hey, kids. Dad home? 
+
+The two heads say nothing. 
+
+     JACK
+     What d'ya say? Wanna run and get him for me? 
+
+Still nothing. Jack frowns, takes out a cigarette, pats his 
+pocket for matches. No matches. 
+
+     JACK
+     Shit. 
+
+The kids' eyes widen at this profanity. Jack ponders things
+a moment, then steps over the fence. 
+
+At which point, the tiniest head begins to SCREAM. 
+
+     JACK
+     Hey, kid. Take it easy. 
+
+No use. The kid's a world-class screamer. Suddenly 
+Frank comes racing out of the house. 
+
+     FRANK
+     Cindy! What is it?
+     (seeing Jack)
+     Jack. 
+
+     JACK
+     Your doorbell doesn't work. 
+
+     FRANK
+     Honey, it's only Uncle Jack. You remember Uncle 
+     Jack.
+     (to Jack)
+     It's probably just the excitement of seeing you again. 
+
+As Jack nods slowly, we... 
+
+     CUT TO: 
+
+
+20      INT. FRANK'S DINING ROOM - EARLY EVENING 
+
+
+A battered birthday cake, which reads "Happy Birthday 
+Cindy", sits amid crumpled party hats and shreds of gift 
+wrap. Jack stands alone, looking out the window into the
+back yard. Turning, he glances at the cake, then exits. 
+
+
+21      INT. FRANK'S HALLWAY - EARLY EVENING 
+
+At the end of the hallway, shadows cling to the ceiling 
+outside the kitchen and VOICES can be heard -- the sound 
+of family. As Jack moves towards the light, a half-open
+door catches his eye. Stopping, he pushes the door open, 
+flips on a lamp. 
+
+
+22      INT. BAKER BOYS' ROOM - EARLY EVENING 
+
+Elvis has Graceland. The Fabulous Baker Boys have this 
+little room in a tract house in the suburbs. 
+
+Memorabilia is everywhere: music ribbons, newspaper 
+clippings, photographs of Jack and Frank at every age, 
+always dressed alike, smiling identical smiles. The first 
+stand-up is there, carefully mounted and framed. Sheet 
+music, dusty and dog-eared, is everywhere, piled in 
+drunken stacks. 
+
+But most noticeable are the pianos: two tiny uprights,
+perfectly matched, their simulated ivory keys yellowed 
+with age. 
+
+Jack enters and surveys all around him. There is a shelf 
+crowded with shot glasses from a hundred hotels, and, 
+next to that, a stack of souvenir coasters from another 
+hundred. Seeing a tiny monkey with "Hula Girl 
+Hideaway" printed on it's belly (lighter), Jack gives one 
+of the little plastic arms a flick and -- snap -- the little 
+tiki torch in the other hand flames up. Jack lights the unlit 
+cigarette in his mouth, replaces the monkey. 
+
+Slowly, Jack's eyes come back to the pianos. He taps a 
+key on the one nearest him and a curious expression falls
+over his face. He moves to the other piano, taps a key. 
+They're in tune. 
+
+Turning, Jack sees that little Cindy is standing behind him, 
+holding a pocket radio. She looks at it, then takes a step 
+forward and holds her arms up to him. Jack looks wary. 
+She shakes her arms impatiently and he bends down. 
+Putting her hands on his neck, she gives him a kiss, then 
+runs out of the room. 
+
+
+     WOMAN'S VOICE
+     Looks like you've found yourself a girlfriend. 
+
+Jack looks up, sees Franks' wife, DONNA. 
+
+     JACK
+     The young ones always break your heart. 
+
+Donna nods, gestures to the pianos. 
+
+     DONNA
+     Which one was yours? I can never remember. 
+
+Jack taps the one nearest to him and Donna nods again, 
+then studies a photo on the wall. 
+
+     DONNA
+     Funny... I don't ever seem to come in here... you 
+     guys were really something, weren't you? 
+
+     JACK
+     Yeah, well, Frank always made sure we dressed 
+     sharp. Said that was half of it. 
+
+Donna nods. She and Jack obviously don't talk much. 
+
+     DONNA
+     So, how's that dog of yours? 
+
+     JACK
+     Losing his teeth. 
+
+Donna nods slowly, then does a little shiver. 
+
+     DONNA
+     Gee, it's cold on here, isn't it? Think I need a 
+     sweater. 
+
+Donna starts to exit, then stops by the door. 
+
+     DONNA
+     Thanks for coming, Jack. The radio, that was nice. 
+
+As Donna exits, Jack notices a stack of glossies on a table. 
+As he touches them they fan into a dozen images of himself. 
+
+
+23     INT./EXT. FRANK'S CAR - NIGHT
+
+As Frank drives Jack back to his apartment, Jack taps an 
+unlit cigarette on the dash.
+
+     FRANK
+     (a shiver)     
+     Jesus, it's gonna be mean this year, huh?
+
+Jack taps the cigarette.
+
+     JACK
+     What happened the other night, Frank? With 
+     Charlie.
+
+Frank says nothing, just driving.
+
+     JACK
+     He paid us off, didn't he? Fifteen years, Frank.
+     No one paid us off.
+
+     FRANK
+     He made a deal. There's no shame in it.
+
+Jack stares at Frank, then looks back out the window.
+
+     FRANK
+     We gotta talk.
+
+     JACK
+     Talk.
+
+     FRANK
+     I been thinking maybe we should make some 
+     changes.
+     (pauses)
+     I been thinking maybe we should take on a singer.
+
+Silence. Jack taps the cigarette again.
+
+     FRANK
+     It's just an idea. I want your opinion. I mean, we go
+     halfway on everything, right?
+
+     JACK
+     I wouldn't say exactly halfway, would you?
+     
+     FRANK
+     We agreed if I took care of the business I'd be 
+     entitled to a little extra. Isn't that what we agreed?
+
+     JACK
+     That's what we agreed.
+
+     FRANK
+     If you're unhappy with the arrange...
+
+     JACK
+     I'm not unhappy.
+
+     FRANK
+     If you'd like to assume more of the financial 
+     responsibilities, I'd be...
+
+     JACK
+     Frank. Fuck it. Okay?
+     (beat)
+     How much? For the singer.
+
+     FRANK
+     I thought maybe twenty percent. I figure with the
+     additional bookings we'll come out ahead. The 
+     big hotels, they want a pretty girl with a big voice.
+     We have to stay competitive.
+
+Jack laughs coldly.
+
+     FRANK
+     What?
+
+Jack says nothing, just tapping the cigarette again.
+
+     FRANK
+     Two pianos isn't enough anymore, Jack.
+
+Jack looks out the window, at the night flickering by.
+
+     JACK
+     It never was.     
+
+
+24      INT. WILLIE'S REHEARSAL ROOM - DAY     
+
+A YOUNG WOMAN in a pink sweater and short black
+skirt stands in a tiny room in the back of Willie's 
+showroom, holding some sheet music. Sammy Davis Jr.s 
+face is on the sheet music. Frank is sitting with a notepad 
+on his lap. Jack is at the piano.
+
+     FRANK
+     Good morning, miss...?
+
+     YOUNG WOMAN (MONICA)
+     Moran. Monica Moran.
+
+     FRANK
+     All right, Miss Moran...
+
+     MONICA
+     Actually, that's my stage name.
+
+     FRANK
+     I'm sorry?
+
+     MONICA
+     Moran. Monica. The whole thing. It's my stage 
+     name. My real name's Blanche.
+
+     FRANK
+     Blanche...
+
+     MONICA
+     No romance, right? That's why I came up with 
+     Monica. It's what I prefer.
+
+     FRANK
+     Well, that's fine.
+
+     MONICA
+     But if you call my house and my mother answers, 
+     ask for Blanche. If you ask for Monica, she'll think 
+     you have the wrong number and hang up.
+
+     FRANK
+     Right.
+
+     MONICA
+     And if she asks what it's about, don't tell her. She's 
+     opposed to my career.
+
+     FRANK
+     Uh huh. Well, Miss Moran, what is it you'd like to 
+     do for us?
+
+     MONICA
+     "Candy Man."
+     (worried)
+     Is that all right?
+
+     FRANK
+     It's one of Jack's favourites.
+
+Monica turns, and, seeing Jack at the piano, gives a little
+start.
+
+     MONICA
+     Oops. I almost forgot you were there. Here's the
+     instructions.
+
+Monica begins to hand Jack the sheet music.
+
+     FRANK
+     Uh... he knows it.
+
+     MONICA
+     Really? Isn't that a coincidence?
+
+     JACK
+     Small world.
+
+Monica smiles. She likes Jack.
+
+     FRANK
+     Well, shall we?
+     
+Probably not, but Jack begins to play anyway. Swinging 
+her arms and tapping her foot, Monica gets a feel for the 
+rhythm, then launches in --  between beats -- so that Jack 
+has to scramble over a chord to rescue her.
+
+     MONICA
+     "Who can take a sunrise
+     Sprinkle it with dew
+     Toss it in the air and make a groovy lemon pie
+     The Candy Man can
+     The Candy Man can..."
+
+There would appear to be ample evidence as to why the 
+mother of Monica nee Blanch opposes her daughter's 
+career.
+               
+     FRANK
+     Thank you, Miss Moran, that's enough.
+
+Monica -- eyes closed, arms flung wide -- is fully caught 
+up in the moment. Frank looks at Jack. Jack shrugs and 
+continues to play.
+
+     FRANK
+     Miss Moran... Miss Moran... BLANCH!
+
+Monica's eyes pop open, her mouth shut.
+
+     MONICA
+     Oh, sorry. I get so caught up in it sometimes. It's
+      scary.
+
+     FRANK
+     Yes, it is.
+
+     MONICA
+     Well... thanks.
+     (to Jack)
+     'Bye. Boy, you're good.
+
+     JACK
+     Drive carefully.
+
+As Monica exits, Jack and Frank glance at one another 
+apprehensively and a --
+
+
+25       MONTAGE BEGINS
+
+in which a parade of singers come forth to offer their own
+unique interpretations of:
+
+A) "Feelings,"
+
+B) "I Gotta Be Me," (sung by twins)
+
+C) "This Is My Song," and perhaps most appropriately,
+
+D) “What Kind Of Fool Am I?”
+
+When it’s all over, Jack and Frank -- ties limp, collars 
+broken -- look like they’ve been mugged.
+
+     FRANK
+     This must be statistically impossible.
+
+
+26      INT. WILLIE'S SHOWROOM - DAY 
+
+A YOUNG WOMAN appears in the doorway, heavily 
+BACKLIT. A silhouette in high heels. Willie, eating a 
+corn beef on rye, looks up. 
+
+     YOUNG WOMAN
+     Hey. You one of the Fabulous Baker Boys? 
+
+
+27     INT. WILLIE’S REHEARSAL ROOM - DAY 
+(SAME TIME)
+
+Frank is counting names on his note pad.
+
+     FRANK
+     Thirty-seven. Thirty-seven girls and not one who 
+     can carry a tune.
+
+     JACK
+     There was a certain surreal quality to it.
+
+     YOUNG WOMAN (O.S.)
+     Goddamnit!
+
+The woman in high heels stumbles into the doorway, 
+holding a shoe in her hand. It’s broken.
+
+     SUSIE
+     Brand new Thursday. Believe it?
+
+After today, Jack and Frank are prepared to believe 
+anything.
+
+     SUSIE
+     This where the auditions are?
+
+     FRANK
+     This is where the auditions WERE. We’re finished.
+
+     SUSIE
+     What about me?
+
+     FRANK
+     You’re an hour and a half late.
+
+     SUSIE
+     Yeah, well, I had a little trouble catching a cab.
+
+     FRANK          Punctuality. First rule of showbusiness.
+
+     SUSIE
+     (looking around)
+     This is showbusiness?
+
+     FRANK
+     (in no mood)
+     Look, Miss. We’re tired, you have gum on your
+     lip, and we’re going home.
+
+     SUSIE
+     (touching her lip)
+     Just like that, huh? I come all the way down here,
+     break a heel, and you’re not going to give me a 
+     chance because I have gum on my lip and I’m a 
+     few minutes late?
+
+     FRANK
+     You’re an hour and a half late. Do you want me 
+     to say it again?
+
+     SUSIE
+     It’s not exactly bewitching me.
+     (stepping in)
+     Besides, you’re not going anywhere.
+
+     FRANK
+     I beg your pardon?
+
+     SUSIE
+     Intuition, I’ve had a hunch about this all day. 
+     Only I gotta say, in my mind it was a little more 
+     glamorous. And anyway, if I’m so late how come 
+     you’re still here?
+
+     FRANK
+     We ran long.
+
+     SUSIE
+     Uh huh. So where’s the winner?
+
+Frank looks a little thrown. Susie nods knowingly and 
+makes a little clicking noise as she taps her head.
+
+     SUSIE
+     See? What I tell you? Intuition.
+
+     FRANK
+     (pleading)
+     Jack.
+     
+Jack studies the girl, shrugs.
+
+     JACK
+     What’ve we got to lose?
+
+     FRANK
+     Terrific. Thirty-eight.
+
+     SUSIE
+     What’s that? Thirty-eight? You guys have some 
+     kind of code or something?
+
+Jack gestures as if to say, “it’s nothing”.
+
+     SUSIE
+     (to Frank)
+     You know, I’m sensing a lot of hostility from you.
+
+Frank ignores this and sits down with the notepad.
+
+     FRANK
+     Name?
+
+     SUSIE
+     Susie. Susie Diamond.
+
+     JACK
+     Catchy. You have any previous experience as 
+     a singer, Miss Diamond?
+
+     SUSIE
+     No.
+
+     FRANK
+     You have any entertainment experience at all?
+
+     SUSIE
+     Well... for the last couple years I’ve been on call
+     for the Triple A Escort Service.
+
+Jack and Frank exchange a glance.
+
+     FRANK
+     Any RATIONAL reason you think you can sing 
+     professionally, Miss Diamond?
+
+     SUSIE
+     Well, I figure if you want to see if you can swim, 
+     throw yourself in the water. What’s the worst that 
+     can happen?
+
+     FRANK
+     How about drown?
+
+     SUSIE
+     You know, my bet is that you’re too literal a 
+     person.
+
+     JACK
+     (intervening)
+     What is it you’d like to share with us today, 
+     Miss Diamond?
+
+     SUSIE
+     “More Than You Know.”
+
+     JACK
+     Key?
+
+     SUSIE
+     Low.
+
+Jack nods and begins to play.
+
+     SUSIE
+     Real slow, okay?
+
+Frank slumps in his chair, ready to be tortured again.
+
+     SUSIE
+     “More than you know
+     More than you know
+     Man of my heart
+     I love you so
+     Lately I find
+     You’re on my mind
+     More than you know...
+     
+     Whether you’re right
+     Whether you’re wrong
+     Man of my heart
+     I’ll string along
+     You need me so
+     More than you’ll ever know...”
+
+Susie stops. Frank Just sits there. Jack just sits there. 
+She can sing. 
+
+     SUSIE
+     So? 
+
+     FRANK
+     Uh... We'll let you know. 
+
+Jack shoots Frank a glance. 
+
+     SUSIE
+     Don't leave a girl hanging. Second rule of 
+     showbusiness. 
+
+Frank's not amused. 
+
+     SUSIE
+     Yeah, well, okay. 'Bye, Bakers. Nice socks. 
+
+Susie walks out barefoot. Jack's eyes have Frank pinned. 
+
+     FRANK
+     I just thought we should talk about it between 
+     ourselves. I mean, don't you think she's got a little 
+     too much... personality? 
+
+     JACK
+     I think she's got half a voice. That makes her a 
+     goddamn diva in this choir. We put one of those 
+     other girls onstage, we're gonna get arrested.
+     (leaning forward)
+     And in case you didn't notice, I'm not sure 
+     anybody's gonna be keeping track of how many 
+     notes she hits. 
+
+     FRANK
+     What? Her? She looks like a tramp. 
+
+     JACK
+     Trust me. 
+
+     FRANK
+     (the notepad)
+     Look, not all of them were awful. Here, Teresa 
+     Meyers. A very nice low soprano. Sweet, 
+     unassuming... 
+
+     JACK
+     Low soprano? That girl could make bats cry. 
+     Besides, she was sixteen. What're we gonna do, 
+     help her with her algebra between sets? 
+
+Frank stares glumly at the notepad. 
+
+     JACK
+     Frank. There ain't no pearls in a litter box. 
+     
+     FRANK
+     All right. I'll call her. 
+
+Frank rises wearily, then freezes. 
+
+     JACK
+     What? 
+
+
+28      EXT. STREET OUTSIDE SHOWROOM - DAY 
+
+Jack and Frank dash outside. Nobody. 
+
+     FRANK
+     We can always look her up in the book. 
+
+     JACK
+     Right. Susie Diamond. She's probably listed right 
+     next to Monica Moran. 
+
+The sound of a MATCH STRIKING is heard. There, 
+lighting a cigarette in the doorway, is Susie. She exhales. 
+
+     SUSIE
+     Intuition. 
+
+
+29      INT. WILLIE'S REHEARSAL ROOM - DAY. 
+
+The new trio poises for their first rehearsal. 
+
+     FRANK
+     Ready? 
+
+Jack nods. 
+
+     FRANK
+     Ready? 
+
+Susie, sitting on a stool smoking, nods without looking 
+up from her lyric sheet. Frank pauses, then... 
+
+     FRANK
+     Ready? 
+
+Jack squints strangely at Frank. Frank turns to Susie. 
+
+     FRANK
+     Ready? 
+     
+     SUSIE
+     What are we, an orchestra all of a sudden? 
+
+Frank glares at her. 
+
+     SUSIE
+     READY. 
+
+Frank begins to play the opening passage of "Can't Take 
+My Eyes Off of You". Jack joins in, then Susie. 
+Unfortunately, Jack and Frank, accustomed to playing 
+alone, are a tad overwhelming. 
+     
+     SUSIE
+     Fellas, fellas... 
+
+Jack and Frank stop. 
+
+     FRANK
+     What's the problem? 
+
+     SUSIE
+     The problem is I can't hear myself sing with all 
+     this... music. You know what I'm saying? 
+
+Jack and Frank look at one another. 
+
+     SUSIE
+     I mean back there it may be hard to notice, but up 
+     here I'm having trouble getting a word in. 
+
+Jack and Frank just stare. 
+
+     SUSIE
+     I mean you're supposed to be backing me up, right? 
+     
+     FRANK
+     (icily)
+     No. We are not supposed to be backing you up. 
+
+     SUSIE
+     What I mean is... 
+
+     JACK
+     We'll bring it down. 
+
+Susie's eyes shift to Jack. 
+
+     JACK
+     Okay? 
+
+     SUSIE
+     Okay. 
+
+
+30      EXT. JACK'S APARTMENT - EARLY EVENING 
+
+Once again, "Jingle Bells" is heard. Plaintively picked out 
+on PIANO. 
+
+
+31      INT. BATHROOM - JACK'S APARTMENT - EARLY 
+EVENING (SAME TIME) 
+
+A tuxedo, freshly pressed, hangs in the shower as Eddie 
+watches Jack soap his face with a shaving brush, then picks 
+up a razor. As NINA CLINKS badly on the final note of 
+"in a one horse open sleigh", Jack almost slices open his 
+throat. 
+
+     JACK
+     Sharp! F Sharp!
+     (eyeing his throat)
+     Jesus. 
+
+As Nina appears in the doorway, she sees the blood 
+welling on Jack's neck. 
+
+     NINA
+     You're bleeding, Jack. 
+
+As Jack gives her a "no kidding" look. 
+
+     JACK
+     Hand me a towel, Chopin 
+
+Nina starts to gather up towels, cleaning up, and hands
+one to Jack. She notes the shaving brush. 
+
+     NINA
+     You shave like a old movie, Jack.
+     (nodding to ceiling)
+     Bigfoot gets his out of a can. 
+     
+     JACK
+     Yeah? How do you know? 
+
+     NINA
+     I saw his stuff in the bathroom. 
+
+     JACK
+     Sounds serious. 
+
+     NINA
+     Uh uh. No toothbrush. 
+
+     JACK
+     What do you mean? 
+
+     NINA
+     No toothbrush. Toothbrush is serious. The donut 
+     king...? 
+
+     JACK
+     Yeah? 
+
+     NINA
+     He had a toothbrush. And toothpaste. 
+
+     JACK
+     I thought he was married. 
+
+Nina exits with an armful of laundry. 
+
+     NINA (O.S.)
+     He was married, but he was serious. 
+
+
+32     INT. HILTON LOBBY - NIGHT (AN HOUR LATER)
+
+As Frank paces, Jack smokes calmly.
+
+     FRANK
+     I told everyone seven-fifteen. Didn’t I? 
+     Seven-fifteen.
+
+     JACK
+     She’ll get here.
+
+     FRANK
+     Just like the day of the auditions, right? Jesus. 
+     How’s my hair?
+
+     JACK
+     Awe inspiring.
+
+     FRANK
+     Yeah, well, yours isn’t. Let me run a comb through 
+     it.
+
+     JACK
+     Get out of here!
+
+     FRANK
+     It’s not gonna hurt you.
+
+     JACK
+     I’ll hit you, Frank. I swear.
+
+Frank hesitates, like a basketball player trying to feint an
+opponent, then takes a flick at Jack’s hair. Jack cuffs him 
+on the shoulder.
+
+     FRANK
+     You hit me.     
+
+     JACK
+     I told you I was gonna hit you.
+
+He looks capable of hitting him again, too.
+
+     FRANK
+     All right, I’m a little wound up.
+
+     JACK
+     You’re a fucking alarm clock.
+
+     FRANK
+     I just wish she’d get here.
+
+     JACK
+     She’s here.
+
+Susie, wearing a flamboyant dress, is standing across the
+lobby, staring at the stand-up.
+
+     FRANK
+     Christ, look at her.
+     (walking over)
+     Good evening, Miss Diamond. You’re late.
+
+Susie is still looking at the stand-up, which is unchanged 
+except for a small notation at the bottom: “WITH GUEST 
+VOCALIST.”
+
+     SUSIE
+     Guest vocalist? Who’s next week? Beverly Sills?
+     And how come you guys are the only ones with 
+     your pictures on the poster?
+
+     FRANK
+     We’ll talk about it later. Where’s your dress?
+
+     SUSIE
+     (to Jack)
+     What’s he talking about?
+
+     FRANK
+     Is there a language problem here? Your dress. For 
+     tonight. Where is it?
+     
+     SUSIE
+     Do I look like I’m naked?
+
+     FRANK
+     That! Are you insane!
+
+     SUSIE
+     (to Jack)
+     He doesn’t like the dress, right?
+
+Before Jack can reply, Frank grabs Susie’s arm.
+
+     SUSIE
+     Hey!
+
+     FRANK
+     Come on. We don’t have much time.
+                
+
+33     INT. DEPARTMENT STORE - DRESS DEPARTMENT 
+- NIGHT
+
+As the trio dashes into Ladies Wear, Frank begins to flip 
+frantically through the dress racks.
+
+     FRANK
+     What do you wear? An eight?
+
+     SUSIE
+     (offended)
+     A six.
+
+     FRANK
+     My wife wears a six. You don’t look like a six 
+     to me.
+
+     SUSIE
+     I WEAR A SIX.
+
+     FRANK
+     Okay, okay. Here, how about this?
+
+     SUSIE
+     Save it for your wife.
+
+     FRANK
+     Jack, you find anything?
+
+Jack has drifted to lingerie.
+
+     JACK
+     Maybe.
+
+     FRANK
+     Here, how’s this?
+
+Frank holds out an inky black dress. Susie sizes it up.
+
+     FRANK
+     Close enough. Let’s go.
+
+Frank begins to drag Susie into the dressing room.
+
+     SUSIE
+     Hey, pal. I don’t know about you, but where I 
+     come from there’s a little girl’s room and a little
+     boy’s room and the little boys don’t go where the
+     little girls go.
+
+     FRANK
+     All right, but make it quick.
+     (remembering)
+     Shoes! What size do you wear?
+
+     SUSIE
+     (from the dressing room)
+     Nine.
+
+     FRANK
+     Nine?
+
+     SUSIE (O.S.)
+     NINE!
+
+     FRANK
+     (to himself)
+     Big feet.
+
+
+34      INT. DEPARTMENT STORE - SHOE DEPARTMENT 
+- NIGHT
+
+Frank and Jack work the shoe department quickly.
+
+     FRANK
+     See anything?
+
+     JACK
+     How about these?
+
+Frank grabs the shoe out of Jack's handand gestures to a 
+SALESMAN who looks like Jimmy Breslin.
+
+     FRANK
+     Hey! Do these come in black?
+
+     SALESMAN
+     I'll be with you in a minute,sir.
+
+     FRANK
+     I don't have a minute, pal. Yes or no?
+
+     SALESMAN
+     (glowering)Yeah. They come in black.
+
+     FRANK
+     Okay. Give me a pair of nines.Pronto.
+
+The salesman glances casually at Jack.
+
+     SALESMAN
+     Does he want a pair, too?
+
+
+35     INT. DEPARTMENT STORE - DRESS DEPARTMENT 
+- NIGHT
+
+As Jack and Frank return to Ladies Wear, Frank jettisons 
+the shoe box and tissue paper.
+
+     FRANK
+     All right, we got your shoes.
+
+Just then, Jack and Frank notice Susie, standing in front of 
+a mirror in the new dress.  The dress is open down to the
+small of her back. It’s a nice back.
+
+     SUSIE
+     (turning)
+     What do you think?
+
+     FRANK
+     Uh... good.
+
+     SUSIE
+     (to Jack)
+     Zip me up?
+
+As Jack takes the zipper, he gives Frank a “what did I tell 
+you” glance.
+
+     SUSIE
+     Shoes?
+
+     FRANK
+     Right.
+
+Frank puts the shoes down and Susie steps in.
+
+     SUSIE
+     They’re tight.
+
+     FRANK
+     They’re nines.
+
+     SUSIE
+     Well they’re aspiring to be sevens.
+
+     FRANK
+     We can buy new ones tomorrow. Don’t worry. 
+     We’ll take these out of your share.
+
+     SUSIE
+     You’re a prince.
+
+
+36     OMITTED     
+     
+
+37     INT. HILTON KITCHEN - NIGHT
+
+As the trio rushes in, Frank hands Jack the Miracle Hair 
+can, then turns to Susie.
+
+     FRANK
+     Okay, now remember, Jack and I go on first, I do 
+     the set-up, then introduce you. And you say...
+
+     SUSIE
+     (as Jack sprays Frank’s head)
+     Good evening, ladies and gentlemen, I can’t tell 
+     you how thrilled I am to be here.
+
+As Susie starts to inquire about Frank’s head, RAY, the 
+assistant manager, leans into the kitchen.
+
+     RAY
+     Winding your watch these days, Frankie?
+
+     FRANK
+     We had a little emergency, Ray.
+
+     RAY
+     (seeing Susie)
+     Who’s this, Minnie Pearl?
+
+All eyes turn to Susie’s dress, which still has the tags 
+attached. Frank turns to the kitchen crew.               
+
+     FRANK
+     Scissors! We need scissors here!
+
+     RAY
+     (exiting)
+     I want seventy-five minutes, Frankie.
+
+     FRANK
+     Jesus... Let’s go, Jack. Fix your tie.
+
+     WAITRESS
+     (in passing)
+     Good luck, guys. It’s a pretty ugly group. They’re 
+     sending back the cheeseballs.
+
+As Jack and Frank exit, Susie turns and sees a TINY 
+MAN in an apron holding a meat cleaver.
+
+     TINY MAN/CARLOS
+     No scissors.
+
+
+38     INT . HILTON LOUNGE - NIGHT
+
+As the Bakers slide quickly behind their pianos, Frank 
+bumps his head on the microphone.
+
+     FRANK
+     Good evening. Welcome to the Ambassador 
+     Lounge. My name’s Frank Baker and no, you’re 
+     not seeing double, it’s just my little brother Jack.
+
+The audience peers at Jack as if he were some curious life
+form they’ve never seen before. Jack and Frank exchange 
+a wary glance.     
+
+
+39     INT. HILTON KITCHEN - NIGHT
+
+Susie, sitting on a stool, fits something on her wrist while
+Carlos looks for a good angle to get at the tags. As the 
+waitress passes by, Susie snares a drink.
+
+     WAITRESS
+     Hey!
+
+     SUSIE          
+     Just a sip. To kill the butterflies.
+
+     WAITRESS
+     Okay. But no lipstick. Hey, what’s that on your 
+     wrist?
+
+     SUSIE
+     The next hour and a half of my life.
+
+Carlos brings the cleaver down with an ominous chop.
+
+
+40     INT. HILTON LOUNGE - NIGHT          
+     
+An audience of stone.
+
+     FRANK
+     This is nice. I feel an unspoken warmth here. We 
+     may not know each other’s names, but over the 
+     years we’ve shared something. A little music. A 
+     little laughter. Maybe even... a few tears. But I 
+     guess that’s what life’s about, huh?
+
+Dead silence. As Frank glances at Jack, Jack cuts a rueful 
+grin.
+
+     FRANK
+     Well, anyway. This is a very special evening for
+     Jack and I, because tonight we have with us a 
+     young lady who we think is very exciting...
+
+Smoking nervously offstage, Susie checks her wrists, 
+which is fitted with tiny cards, each containing the lyrics 
+to a song.
+
+     FRANK
+     As far as I’m concerned, she couldn’t have chosen
+      a better place to make her debut.
+     (solemnly)
+     Because, for us, there’s one place that’s always 
+     been a very special place. And that place is this 
+     place, the Ambassador Lounge. Ladies and 
+     gentlemen, please give a warm welcome to a 
+     very special lady with a very special way of 
+     singing a song, Miss Susie Diamond...!
+
+Absently crushing her cigarette into a container of cocktail
+napkins, Susie strides to the microphone, which, 
+unfortunately, is not on.
+
+     FRANK
+     (whispering)
+     The switch. Hit the switch.
+
+     SUSIE
+     Switch?
+     (hitting it, voice booming)
+     What fucking switch?
+
+Silence. Susie looks at the audience.
+
+     SUSIE
+     Pardon me.
+
+Jack and Frank glance at one another, then quickly plunge
+into the opening number.
+
+     SUSIE
+     I can’t tell you how thrilled I am to be here.
+
+The feeling at this point, it would seem, is not mutual.
+Susie glances at her wrist, finds the song she wants, then 
+grabs the microphone. It’s stuck. She gives it a yank, 
+trying to free it, but pulls so hard that the rubber band 
+holding the cards snaps.
+
+Mystified, Jack and Frank watch as the couple nearest the
+stage is showered in tiny cards. Then they notice Susie.
+
+She’s frozen. Stiff.
+
+Jack looks at Frank. Frank looks at Jack. Then...
+
+     FRANK
+     (singing)
+     “I work at the Palace ballroom...”
+
+Every head in the lounge, Jack’s included, swivels 
+to Frank.
+
+     FRANK
+     “But gee that place is cheap
+     When I get back to my chilly old room
+     I’m much to tired to sleep...”
+
+Jack looks at Frank like he’s insane. Frank nods earnestly
+to him as all heads swivel to Jack.
+
+     JACK
+     (reluctantly)
+     “I’m one of those lady teachers
+     A beautiful hostess you know
+     One that the palace features
+     At exactly a dime a throw...”
+
+Jack’s voice -- damning evidence that he and Frank are
+related -- brings Susie around. She takes the next lines 
+right out of Frank’s mouth.
+
+     SUSIE
+     “Ten cents a dance
+     That’s what they pay me
+     Gosh how they weigh me down
+
+     Ten cents a dance
+     Pansies and rough guys
+     Tough guys who tear my gown...”
+
+ Compared to what preceded her, Susie sounds like 
+Streisand. The audience -- bewildered, but oddly charmed 
+-- applauds spontaneously. The effect on Susie is 
+immediate. Hitting on all cylinders now, she grips the 
+microphone like a trophy.
+
+     SUSIE
+     “Seven to midnight I hear drums
+     Loudly the saxophone blows
+     Trumpets are tearing my eardrums
+     Customers crush my toes...
+
+     “Sometimes I think I’ve found my hero
+     But it’s queer romance
+     All that you need is a ticket
+     Come on big boy, ten cents a dance...”
+
+
+41     EXT. HILTON SERVICE ENTRANCE - NIGHT 
+(LATER)
+
+The new trio comes out into the night.
+
+     FRANK
+     Fucking. She says fucking in front of an entire
+      room of people.
+
+     SUSIE
+     I apologised.
+
+     FRANK
+     (to Jack)
+     Did you hear it.
+
+     JACK
+     Fucking.
+
+     SUSIE
+     Look, they were all on their third Mai Tai by the 
+     time I got out there anyway.
+
+     FRANK
+     FUCKING.
+
+     SUSIE
+     For Christ sake, I SAID it. I didn’t DO it. Besides,
+      I don’t think they were too offended, do you?
+
+Susie pulls out some crumpled bills. Frank grabs them.
+
+     FRANK
+     We are not a saloon act. We do not take tips from
+      dirty old men.
+
+     SUSIE
+     (innocent)
+     I was gonna split with you guys.
+
+     FRANK
+     WE DO NOT TAKE TIPS. I’ll apply this to the
+     cost of the dress.
+
+Frank puts the money away. Susie watches, steaming.
+
+     SUSIE
+     Then I want my name on the poster. And my 
+     picture! And these shoes are too goddamn tight!
+
+Susie hurls the shoes at Frank and stalks off barefoot. 
+Jack, leaning against a wall, watches with amusement.
+
+     JACK
+     Nice girl.
+
+On Frank’s expression we hear the opening NOTES of 
+“Can’t Take My Eyes Off Of You” and a MONTAGE 
+begins.
+
+
+42     INT. VARIOUS LOUNGES - NIGHT - MONTAGE
+
+of Susie and boys performing the song in one lounge after
+another, playing to increasingly enthusiastic crowds, no 
+empty tables now. As the song ends, we close on the  
+cardboard stand-up, newly done over with a picture of 
+Susie and an accompanying exclamation: “SEE THE 
+SENSATIONAL SUSIE DIAMOND!”. As the final 
+CHORD sounds, the
+
+MONTAGE ENDS and we --
+
+
+43     INT. LLOYD’S OFFICE AT STARFIRE - NIGHT
+
+Where, once again Jack and Frank stand before the 
+supercilious Lloyd.
+
+     LLOYD
+     I gotta hand it to you, guys. This two Jacks and 
+     Jill bit -- very sharp. Where’d you find her, 
+     anyway. The girl.
+
+     FRANK
+     Ah, you know these kids. They hang around. We 
+     figured we’d give her a break.
+
+     LLOYD
+     You’ve got a kind heart, Frankie. Well, give her
+     a tip from me, will ya: The smaller the dress, the 
+     larger the crowd.
+     (closing an envelope)
+     Okay, guys, there you go. Don’t spend it all in 
+     one place.
+
+As Frank reaches for the envelope, Lloyd pulls it back.
+
+     LLOYD
+     Oh... maybe you want to count it, Jack.
+
+     FRANK
+     We trust you, Lloyd. You know that.
+
+Frank takes the envelope and starts to leave.
+
+     LLOYD
+     Say Frankie. Long as I’ve got you here... How’s 
+     next week look for you guys?
+
+Frank glances at Jack, giving it to him.
+
+     JACK
+     We’ll call you.
+
+As Lloyd’s face falls, we --          
+
+
+44     EXT. STREET OUTSIDE OF HOTEL - NIGHT 
+(STARFIRE)
+
+An exultant Frank spins giddily out of the hotel.
+
+     FRANK
+     Did you see his face? Did you see it! “We’ll call 
+     you.”
+
+Jack calmly lights a cigarette, says nothing.
+
+     FRANK
+     The world is good, little brother... Don’t let 
+     anybody tell you different...
+
+As Frank dances away with the stand-up, Jack notices 
+Susie standing at the corner, watching Frank too, a slight
+         smile on her face.
+
+     SUSIE
+     ‘Night, Baker.
+
+
+45     EXT. CITY - DAY          
+
+The city, gray and cold. Once again we hear a tentative 
+PIANO: Jingle bells, jingle bells, jingle all the way. Oh
+ what fun it is to ride... Oh what fun it is to ride... Oh what
+ fun...
+
+46     OMITTED
+
+47     EXT. VETERINARY CLINIC - ESTABLISH - DAY
+
+47A     INT. VETERINARY CLINIC WAITING ROOM - DAY
+
+Jack and Eddie wait with several other pet owners and 
+their pets.
+
+48     INT. VETERINARY OFFICE - DAY
+
+Jack looks on as a VET examines Eddie’s mouth. 
+
+     DR. FINNEGAN
+     Mmm... mmm hmm...
+     (looking up)
+     They gotta go.
+
+     JACK
+     Go? What do you mean?
+
+     DR. FINNEGAN
+     Five’s my guess. Maybe more. Won’t know till I 
+     get in there.
+
+     JACK
+     How will he eat?
+
+     DR. FINNEGAN
+     Cottage cheese to start. A banana now and then.
+
+     JACK
+     No bones?
+
+     DR. FINNEGAN
+     (patting Eddie)
+     ‘Fraid those days are over, my friend. Don’t 
+     worry, Mr. Baker. We’ll knock him out. He won’t 
+     feel a thing.
+
+As Dr. Finnegan exits, Jack looks at Eddie.
+
+     JACK
+     You shoulda brushed, pal.
+
+
+49     OMITTED
+
+
+50     INT. MOONLIGHT LOUNGE - BACKSTAGE - NIGHT
+
+Jack, wearing a Santa hat, sits on a busing cart backstage, 
+smoking. Frank and Susie, in the midst of a discussion, 
+are also wearing Santa hats.
+
+     SUSIE
+     Look, all I’m telling you is what Bernadette over 
+     the Hilton said. The nights we play, she’s drawing 
+     three times the tips because the Chivas is jumping
+     out of the bottle and the room’s pearls instead of 
+     polyester.
+
+     FRANK
+     I don’t understand. You’re saying we should...
+
+     SUSIE
+     Ask for a percentage of the bar.
+
+     FRANK
+     Mel Torme doesn’t get a percentage of the bar.
+
+     SUSIE
+     Maybe he never asked.
+
+     HOUSE MANAGER
+     (passing by)
+     Five minutes, Baker.
+
+     FRANK
+     (to Jack)
+     You hearing this?
+
+     JACK
+     How much you say she’s drawing?
+
+     SUSIE
+     Let’s put it this way. Two months ago she’s 
+     wearing a Timex. Now she’s got a Seiko strapped 
+     to her wrist. And it sure as hell wasn’t the Hilton 
+     that put it there.
+
+     FRANK
+     You’re not actually listening to this, are you?
+
+Jack rolls the tip of his cigarette in an ashtray.
+
+     JACK
+     Jerry Stein books the Hilton, right?
+
+     FRANK
+     For eight years.
+
+     JACK
+     Forget the bar. We’d look like amateurs. But why
+     not bump him for an extra hundred up front.
+
+     FRANK
+     And if he tells us to take a walk?
+
+     JACK
+     We play the other side of the street.
+
+     FRANK
+     I don’t like it. It’s not the way we play the game.
+
+Susie watches Jack crush out his cigarette.
+
+     JACK     
+     The game is changing.      
+
+
+51      INT. MOONLIGHT KITCHEN - NIGHT (AFTER THE 
+SHOW)
+
+Becky, the pretty young kitchen worker, drops a bunch 
+of bananas into a bag.
+
+BECKY
+The cottage cheese is at the bottom. You're sure this is 
+what you want?
+
+JACK
+(exiting)
+Perfect. Merry Christmas, Becky.
+
+
+52     EXT. STREET OUTSIDE MOONLIGHT - NIGHT
+
+As Jack exits the hotel, he finds Susie standing on the
+sidewalk, shaking her purse. She sees the bag he’s 
+carrying.
+
+     SUSIE
+     Ol’ Freckles in the kitchen slip you a stack of 
+     T-bones?
+
+     JACK
+     Not exactly.
+
+Susie fishes a pack of cigarettes out of her purse. Empty.
+
+     SUSIE
+     Damnit!
+
+Jack offers his pack.
+
+     SUSIE
+     No thanks. I never touch American cigarettes.
+     (searching again)
+     Three fifty a pack and I go through ‘em like 
+     toothpicks.
+
+     JACK
+     Huh?
+
+Susie hands Jack the empty cigarette box. It has an exotic
+design.
+
+     SUSIE
+     Paris Opals. Three fifty a pack. Know how much
+      that is a piece?
+
+     JACK
+     Seventeen cents.
+
+     SUSIE
+     Seventeen and a half. But I figure, If you’re gonna 
+     be sticking something in your mouth, might as well
+     make it the best.
+
+     JACK
+     As Jack ponders this, Frank steps outside in a 
+     lumpy Santa suit.
+
+     FRANK
+     What do you think?
+
+Jack and Susie just stare.
+
+     FRANK
+     Thought I’d give the kids a thrill.
+     (moving off)
+     Don’t forget Monday. Bright and early. We’ve got 
+     a long drive.
+
+As Frank leaves, Susie goes back to her purse.
+
+     SUSIE
+     I don’t know. It’s hard figuring you and egghead 
+     as brothers. Seems like the hospital might’ve 
+     scrambled the babies somewhere.
+     (finding an Opal)
+     Ah, here’s a lost soul.
+
+Jack flicks out his lighter, snaps it. Susie inhales.
+
+     SUSIE
+     Mmm. Like kissing a rose. Well, au revoir.
+
+     JACK
+     (studying her)
+     You feel like a cup of coffee?
+
+     SUSIE
+     (looking up)
+     Now? On Christmas Eve?
+
+Jack nods.
+
+     SUSIE
+     Nah. Gives me the shakes. Anyway, I’d better get 
+     home. Rest the pipes.
+
+     JACK
+     You want me to walk you?
+
+Susie looks at Jack a little funny.
+
+     SUSIE
+     No. Thanks.
+
+She starts to move away, then stops and looks back.
+
+     SUSIE
+     Hey, listen, you’re not going soft on me, are you? 
+     I mean, you’re not gonna start dreaming about me 
+     and waking up all sweaty and looking at me like 
+     I’m some kinda princess when I burp.
+
+     JACK
+     Forget it.
+
+     SUSIE
+     I mean, that’d be too creepy with us working 
+     together and all.
+
+     JACK
+     Forget it.
+
+     SUSIE
+     Nothing personal...
+
+Jack holds up his hand. Susie just stands there.
+
+     JACK
+     Better hurry. You’re a nickel down on your 
+     cigarette.
+
+
+53     EXT. VET CLINIC - NIGHT
+
+A sign flickers: “Twenty-Four Hour Emergency Care.”
+
+
+54     INT. VET CLINIC - NIGHT
+
+Inside, a KID with deep-set eyes is bent over a magazine.
+Jack enters, still wearing his tux.
+
+     KID     
+     Super Chief around the corner.
+
+     JACK
+     Huh?
+
+     KID
+     Bathroom. Super Chief around the corner.
+
+     JACK
+     No, I, uh, left a dog here this morning.
+
+The kid looks up, eyes Jack’s tux warily.
+
+     KID
+     Regular hours are eight to five.
+
+     JACK
+     Yeah, yeah, I know. I was just passing by. 
+     Thought I’d check in on him.
+
+     KID
+     You can check in on him tomorrow. Between 
+     eight and five.
+
+     JACK
+     Yeah, well, I thought maybe...
+
+     KID
+     Hey, pal. We’re not communicating, are we?
+
+The kid shakes his head with contempt.
+
+     KID
+     You want to know if he’s okay. Right?
+
+     JACK
+     (uncomfortable)
+     Yeah.
+
+     KID
+     All right. Hold on.
+
+     JACK
+     The name’s Baker...
+
+     KID
+     Save it. What’s he look like?
+
+     JACK
+     (puzzled)
+     Black. Lab.
+
+     KID
+     All right. They lay the dead ones out in the cold 
+     room. I’ll take a look.
+
+The Kid disappears. Jack stands frozen, watching the 
+swinging door come to rest, looking like a man who, 
+unexpectedly, finds a razor pressed to his throat.
+
+Suddenly the door swings back open.
+
+     KID
+     Nope. Just a couple poodles.
+
+As the kid hunches down again, Jack stares at him. 
+Slowly, as Jack’s shadow falls across his magazine, the 
+kid looks up. Jack looks like he could EAT a dead poodle.
+
+     JACK
+     I WANT MY DOG.
+
+     KID
+     Listen, pal. Get the hell...
+
+Jack, quick as knife, pinches the Kid’s nose between his
+thumb and forefinger.
+
+     JACK
+     No, YOU listen, you little fuck. You either get off 
+     your candy ass and get me my dog or I’m gonna 
+     roll that magazine and stick it straight down your 
+     throat.
+     (leaning in close)
+     Are we communicating now?
+
+
+55     OMITTED
+
+
+55A     INT. HALLWAY - JACK’S BUILDING - NIGHT
+
+Jack, with Eddie slung over one shoulder, mounts the 
+stairs to his apartment.
+
+
+56     INT. JACK’S APARTMENT - NIGHT (SAME TIME)
+
+Nina is watching an old Christmas movie in the dark, the 
+walls of the apartment dripping with black and white 
+snow.
+
+     JACK
+     (entering)               
+     Hey. How about a little light in here.
+
+Hearing Jack, Nina turns and flips on a lamp.
+
+     NINA
+     Eddie!
+
+     JACK
+     Forget it. He’s still circling the airport.
+
+Jack plops Eddie onto the couch and heads for the kitchen.
+
+     NINA
+     I didn’t know he was coming home tonight.
+
+     JACK
+     Yeah, well, we sorta skipped the paperwork.
+     Besides, it’s Christmas, right?          
+
+Nina just nods, strokes Eddie. Jack studies her, then grabs
+a carton of eggnog and two glasses.
+
+     JACK
+     So, where’s Ma tonight?
+
+Nina just shrugs.
+
+     JACK
+     You play her the song.
+
+     NINA
+     Maybe tomorrow, she said.
+
+Nina looks up and sees the carton of eggnog.
+
+     NINA
+     From Hurley’s?
+
+     JACK
+     Eighty proof. Think you can handle it?
+
+Nina nods. As Jack fills the glasses, Nina takes the Santa 
+hat from his pocket.
+
+     NINA
+     Jack.
+
+     JACK
+     Yeah.
+
+     NINA
+     Can I stay here tonight? Even if she comes home
+      alone?
+
+     JACK
+     (a beat)
+     Okay.
+
+Jack settles next to Nina, staring out the window with her.
+
+     NINA
+     I think I’m getting drunk.
+
+Jack studies the lights twinkling in the darkness beyond the 
+window.
+
+     JACK
+     That’s what you’re supposed to do on Christmas 
+     Eve.
+
+
+57      INT./EXT. FRANK’S CAR - MORNING
+
+As Frank drives through the city, Susie pores over a slick
+hotel brochure.
+
+     SUSIE
+     Get this: “Each room is an event, an excursion 
+     into unprecedented luxury. Step outside and the 
+     adventure continues with your own private 
+     terrace...” Jesus, this place is like OZ.
+
+Frank glances at the brochure dispassionately. Susie 
+looks up from the brochure.
+
+     FRANK
+     You don’t think it really looks like that, do you?
+
+     SUSIE
+     It’s right here. Pictures.
+
+     FRANK
+     Welcome to the road, Dorothy. You’re about to
+     lose your virginity.
+
+
+58     EXT. FRONT OF JACK’S BUILDING - MORNING
+
+As Frank turns the corner into Jack’s street, Jack is sitting
+on a suitcase in front of his building... with Eddie.
+
+     FRANK
+     What the hell...?
+
+As Frank stops the car, he gets out, looks at Eddie.
+
+     FRANK
+     He’s just seeing you off, right?
+
+Jack picks up his suitcase, moves to the trunk.
+
+     FRANK
+     Jack. This is not possible. Jack...
+
+
+59      INT./EXT. FRANK'S CAR - MORNING
+
+Jack and Eddie sit in the back. Susie hangs over the front
+ seat, studying Eddie.
+
+     SUSIE
+     You try mashed potatoes? Or how 'bout yams? I 
+     love yams. Put me right to sleep.
+
+     FRANK
+     He doesn't need to sleep, he needs to eat.
+
+     SUSIE
+     I'm just throwing out suggestions.
+
+     FRANK
+     The dog just had oral surgery. Why don't you two
+     give him a few days before you set him up at a 
+     smorgasboard.
+
+Frank, so agitated he's let the car wander, gets some
+vigorous HONKING from the next lane.
+
+     FRANK
+     (yelling out the window)
+     That the only tune you know!
+
+     JACK
+     Hey. You're spooking Ed.
+
+     FRANK
+     (to himself)
+     I'm spooking Ed.
+
+
+60     EXT. “KING’S” HOTEL - DUSK
+
+The hotel, done in a sort of King Arthur motif.
+
+
+61     INT./EXT. FRANK’S CAR - DUSK
+
+As Frank guides the car down a simulated cobblestone
+drive, Susie smiles.
+
+     SUSIE
+     Is it just me? Or is that one spectacular hotel?
+
+     FRANK
+     (unimpressed)
+     Stunning.
+
+Two boys in jodhpurs descend upon the car immediately,
+opening the doors with exaggerated courtesy.
+
+     SUSIE
+     Why, THANK YOU.
+     (to Jack, Frank)
+     I’ll see you boys inside?
+
+As Susie strolls inside, she gives them a little wave with
+the brochure.
+
+
+62     INT. “KING’S MANOR” LOBBY - NIGHT
+
+Susie stands in the lobby, fixed on the brochure. We 
+HOLD on the picture in her hands -- a lobby of rich 
+velvets and handsome woods, gleaming under a 
+magnificent vaulted ceiling -- then TILT UP SLOWLY 
+to the real thing.
+
+A perfect match.
+
+As the doors behind her open, Susie turns to see Jack and
+Frank enter. They stop cold. Eddie yawns.
+
+     SUSIE
+     Come on, Toto. Tell the Tin Man and the 
+     Scarecrow to get the lead out. Dorothy’s got a 
+     five day engagement. Guaranteed.
+
+
+63     INT. FRANK AND JACK’S ROOM - NIGHT
+
+A magnificent room, with a pair of mammoth fruit baskets.
+
+Frank is lining family photographs on the dresser.
+
+     FRANK
+     I took the right side of the closet like always, 
+     okay?
+
+     JACK
+     Okay.
+
+     FRANK
+     Since I have the bed on the right and the drawers 
+     on the right, I figured it’s easier to remember.
+
+     JACK
+     Good idea.
+
+     FRANK
+     But if it doesn’t work out, let me know. I’m 
+     flexible.
+
+     JACK
+     Right.
+
+Just then, Susie enters from the other side of the suite,
+through the connecting bathroom. She has a piece of fruit 
+in her hand.
+
+     SUSIE
+     Looks like Carmen Miranda had an accident in 
+     my room.
+     (seeing their baskets)
+     They must get a deal on these things. What do you 
+     make of this?
+
+Susie holds up the tiny furry fruit in her hand.
+
+     FRANK
+     Kiwi.
+
+     SUSIE
+     Jesus. It’s got more hair than you, Frank.
+     (exiting)
+     No peeking at tub time.
+
+
+63A      EXT. HOTEL GROUNDS - INNER 
+COURTYARD - NIGHT
+
+The inner courtyard is a maze of low hedges and small 
+bridges, with a tiny stream running through it all. As 
+Susie and Eddie inspect the menagerie of topiary animals 
+along the way, Jack and Frank follow several yards 
+behind.
+
+     FRANK
+     I'm telling you right now, I'm not gonna put up 
+     with it. Did you see what she ate at dinner? 
+
+Jack, working his mouth with a toothpick, studies Susie's
+trim figure up ahead.
+
+     FRANK
+     Prime rib, confetti pasta, a festive cheese 
+     platter, my potato, and two desserts. Two.
+
+     JACK
+     You never eat your potato. Besides, we're not 
+     paying for it. What do you care?
+
+     FRANK
+     You think they'd don't keep track of these things?
+
+Frank spots Eddie, up ahead, sniffing a topiary animal.
+
+     FRANK
+     Oh, that's very attractive. Your dog just went to
+     the bathroom on an elephant.
+
+     JACK
+     I think it's a unicorn.
+
+     FRANK
+     And she has no business talking about my head.
+
+     JACK
+     Frank. Relax, will ya. You know what happens
+     when you get tense on the road.
+
+Frank gives Jack a look.
+
+     JACK
+     Howard Johnson? Four years ago.
+
+     FRANK
+     I do not sleepwalk.
+
+     JACK
+     Frank. I found you down in the lobby at 3 A.M.
+     sitting by the Christmas tree in your pajamas.
+
+     FRANK
+     I went down for a pack of Chiclets, I saw the tree,
+     I sat down for a few minutes. That is not 
+     sleepwalking.
+
+     JACK
+     Then how come you leave the bathroom light on? 
+     
+Frank, a little thrown, stops.
+
+     FRANK
+     I leave the light on in case either of us has to 
+     get up in the middle of the night.
+
+     JACK
+     (walking on)
+     Mm hm.
+
+     FRANK
+     You want me to leave it off tonight? Fine, I'll
+     leave it off...
+
+64     INT. JACK AND FRANK’S ROOM - NIGHT
+
+Pitch dark, except for a tiny sliver of light coming from 
+the bathroom. Suddenly, the BLARE of BIG BAND 
+MUSIC is heard coming from Susie’s side of the suite.
+
+A bedside lamp flicks on. Frank.
+
+     FRANK
+     What the hell is this?
+
+Jack squints awake. Eddie, in the chair by the window, 
+looks up groggily.
+
+     FRANK
+     Do you hear this? Do you?
+
+     JACK
+     I do now.
+
+Frank, wearing boxers, gets out of bed.
+
+     FRANK
+     This is great. Before we play a single note, we’re
+     gonna get thrown out.
+
+Jack sits up, takes a cigarette.
+
+     JACK
+     So she’s playing a little music.
+
+     FRANK
+     A little music! She’s got the Harry James 
+     Orchestra in there.
+
+     JACK
+     Ellington.
+
+Frank yells through the bathroom.
+
+     FRANK
+     Hey!
+
+     JACK
+     Frank.
+
+     FRANK
+     What?
+
+     JACK
+     You look a little tense.
+
+     FRANK
+     Of course I’m a little tense. It’s two o’clock in the
+     morning. She’s gonna wake up everyone in the
+      hotel.
+
+Suddenly there’s a KNOCK on the door.
+
+     FRANK
+     See? See?
+
+As Frank opens the door, a hulking FIGURE is there.
+
+     HULK
+     Massage?
+
+     SUSIE’S VOICE
+     Down here, gorgeous.
+
+Susie is leaning out her door, “Perdido” is BLASTING 
+into the hallway. She eyes Frank’s boxers.
+
+     SUSIE
+     Funny, I would have figured you for jockeys,
+     Frank.
+
+
+65     OMITTED
+thru
+68
+
+
+68A      EXT. "KING'S MANOR" HOTEL - MORNING 
+
+
+69      INT. FRANK AND JACK'S ROOM - MORNING 
+(SAME TIME) 
+
+Jack, rubbing a bad night's sleep out of his eyes, glances
+over at Frank's bed. Eddie is lying there, lost in deep 
+slumber. A light SNORING is heard and Jack looks 
+down between the beds. 
+
+Frank. Blissfully asleep. 
+
+
+70      INT. "KING'S MANOR" DINING ROOM - DAY 
+
+Darkness. Quickly, one chandelier after another burns on,
+illuminating a grand dining room. At the far end sit two 
+dazzling Steinways. 
+
+     SUSIE
+     Holy shit. 
+
+The trio, standing by a panel of light switches, stares up 
+at the chandeliers. 
+
+     SUSIE
+     You know, it's the least dusted lighting fixture in 
+     the world. Fulla spiders. That's a fact. 
+
+Jack and Frank don't quite know how to respond to this. 
+
+     SUSIE
+     Guy I met on an escort gig sold 'em. 
+
+As Jack and Frank nod, Susie looks at the stage. 
+
+     SUSIE
+     Hey, turn 'em off. 
+
+Susie dashes to the other end of the room, to the stage. 
+
+     SUSIE
+     Come on. Kill 'em. 
+
+     FRANK
+     (doing it)
+     Do you mind telling us exactly what it is we're 
+     doing? 
+
+     SUSIE
+     (out of the darkness)
+     When I say go, you hit the lights. Okay? Okay? 
+
+     FRANK
+     (sarcastically)
+     Sure. Why not? 
+
+     SUSIE
+     Okay... Go! 
+
+As Frank hits the switches, the chandeliers trip on, 
+sending a rolling wave of light towards the stage. 
+
+     SUSIE
+     Ladies and gentlemen! The Sensational Susie 
+     Diamond! 
+
+As the stage bursts to life, Susie is revealed, head thrown
+back, arms outstretched. Lena Horne couldn't do it better. 
+
+Finally, Susie breaks her pose. Jack and Frank are
+staring at her. 
+
+     SUSIE
+     Oh. And The Fabulous Baker Boys... 
+
+As Jack and Frank look at each other, MUSIC begins, and
+ we -- 
+
+
+CUT TO: 
+
+
+71     INT. “KING’S MANOR” DINING ROOM
+
+A sea of elegantly-dressed couples dancing cheek to
+cheek on the dance floor, while others sit at candlelit 
+tables, sipping wine. As the stage drifts INTO VIEW, 
+Susie steps forwards and begins to croon, “The Look Of 
+Love,” while Jack and Frank underscore her voice with 
+lush phrasings. The atmosphere is dreamlike, hypnotic.
+
+Almost too good to be true.
+
+
+72     EXT. FRANK AND JACK’S TERRACE - NIGHT
+(LATER)
+
+The trio is on the terrace, surrounded by champagne
+buckets and caviar, radio purring SOFT MUSIC. Frank’s
+hair looks a little wild, as if someone has been rubbing 
+his head.
+
+     FRANK
+     (euphoric; smashed)
+     Why kid ourselves? It’s time to set new goals.
+     Cruise ships... it’s ours if we want it.
+
+     SUSIE
+     Fulla rats. I guy I escorted gave me the lowdown.
+
+     FRANK
+     (undeterred)
+     After that... Europe.          
+
+     SUSIE
+     Europe?
+
+     FRANK
+     Music’s the international language.
+
+     SUSIE
+     I thought love was.
+
+     FRANK
+     Mark my words. From this night forward, our 
+     lives will never be the same.
+
+     SUSIE
+     Tell you what, Frank. You get more pop out of 
+     two glasses of champagne that anyone I know.
+
+     FRANK
+     This is a long way from Hula Girl Hideaway,
+     huh, Jack? Remember? Banana trees in the lobby.
+
+     JACK
+     Takahama’s Tahitian.
+
+     FRANK
+     Takahama’s? We play there. I thought we just 
+     stopped for teriyaki.
+
+     JACK
+     Three nights.
+
+     FRANK
+     (to Susie)
+     It’s amazing. He can remember every place we 
+     ever played. The day, the month, the year, how 
+     many shows -- you name it. When was 
+     Takahama’s, Jack?
+
+     JACK
+     August. ‘74.
+
+     FRANK
+     See? He’s brilliant. Really. Brilliant. Hey, Jack.
+
+     JACK
+     Hm.
+
+     FRANK
+     You’re brilliant.
+
+     JACK
+     Thanks.
+
+     FRANK
+     (to Susie)
+     Same with music. You should’ve seen him when 
+     we were kids. No one could ride the keys like 
+     Jack. Miss Simpson would play something once
+     and that was it -- he had it.
+
+Susie, intrigued by this, studies Jack.
+
+     SUSIE
+     Really?
+
+     FRANK
+     I never won a single blue ribbon until the day 
+     Jack showed up drunk at Spring Recital and 
+     played “Moon Over Cuba” instead of “Clare de 
+     Lune.” 
+
+Susie glances at Jack.
+
+     JACK
+     The mood just hit me.
+
+     FRANK
+     Hey... “Moonglow.”
+
+Frank turns up the VOLUME of the radio and looks at 
+Jack with a smile. Jack shoots him a warning glance.
+
+     SUSIE
+     “Moonglow”...?
+
+     FRANK
+     High school formal. I didn’t know how to dance.
+     Jack did the boxstep with me for a week.
+
+     JACK
+     It wasn’t a week, it was an afternoon.
+
+     SUSIE
+     You two are closer than I thought.
+
+     JACK
+     He paid me.
+
+     FRANK
+     Worth every penny. It was my first big social 
+     with Donna. We fell in love on the dance floor.
+      I have a beautiful wife, two beautiful children... 
+     all because of my brother.
+
+     JACK
+     I think you’re overestimating the boxstep.
+
+Suddenly Frank slips into Susie’s arms and begins to 
+dance with her, humming to the radio. Susie laughs, then 
+goes with him. Jack takes a sip of champagne, watching.
+
+     FRANK
+     It was just like this on our honeymoon. The moon, 
+     the stars... Remember, Jack?
+
+     JACK
+     I wasn’t there.
+
+     FRANK
+     Oh, right. My first solo gig. God, she was
+     gorgeous. Couldn’t believe she was mine. How
+     come I got so lucky, Jack?
+
+     JACK
+     You’re a lucky guy.
+
+     FRANK
+     I am. I am a lucky guy. She could’ve married 
+     anyone, but she chose me...
+     (to Susie)
+     You know I’ve never kissed my wife on New 
+     Year’s Eve. Not once. Always onstage 
+     somewhere.
+
+This seems to make Frank a little melancholy and he 
+almost stops dancing. Finally, he pulls away.
+
+     FRANK
+     I think I’m drunk. You two dance. I gonna go 
+     sit with the wallflowers.
+
+As Frank turns Susie toward Jack, they glance at each 
+other awkwardly.
+
+     SUSIE
+     I don’t know. I’m not used to leading.
+     
+     FRANK          
+     Come on, Jack. Give the girl a glide.
+
+     SUSIE
+     I think maybe your little brother prefers to dance 
+     alone.
+
+Susie smiles slightly, offers Jack a cigarette.               
+
+     JACK
+     No thanks. I never touch French cigarettes.
+
+Susie’s drunk enough that this tickles her a bit. Jack steps 
+forward and takes her hand and they begin to move.
+
+     SUSIE
+     Your brother’s a pretty good dancer.
+
+     FRANK
+     Big heartbreaker. Never had to say a word. 
+     Couple turns on the dance floor and that was it.
+
+     SUSIE
+     (amused)
+     REALLY.
+
+     FRANK
+     (tapping his knees)
+     Got ‘em right in the knees. They practically had 
+     to carry the girls off the floor.
+
+     SUSIE
+     How thrilling.
+
+     JACK
+     Frank, why don’t you have another drink?
+
+     FRANK
+     I’m sleepy.
+
+     JACK
+     Why don’t you go to sleep then.
+
+     FRANK
+     All right.
+
+Frank grabs a bottle and disappears into the bedroom.
+
+     SUSIE
+     Looks like I lost my chaperone.
+
+     JACK
+     I think you’re safe.
+
+Jack presses in closer, moving smoothly to the music.
+
+     SUSIE
+     So, where do you keep all your blue ribbons,
+     Baker?
+
+     JACK
+     Frank keeps them.
+
+Jack slides his hand  a little lower on Susie’s back.
+
+     SUSIE
+     Nice night, huh?
+
+     JACK
+     Hm-hm.
+
+Susie swallows, melting into the rhythm of Jack’s 
+movements, into his body, drifting to the purr of the 
+MUSIC, swirling under the stars. Suddenly, she dips in 
+a little quivering motion and Jack catches her.
+
+     JACK
+     Careful.
+
+Susie looks a little shocked by her body’s betrayal. She 
+separates from Jack and takes a step back.
+
+     SUSIE
+     I... I think I’ve had too much to drink. Champagne 
+     goes right to my... head.
+
+     JACK
+     Maybe we should call it a night.
+
+Susie nods. A smile flickers on Jack’s lips, then he turns 
+away. Susie looks down.
+
+At her knees.
+
+
+73     INT. FRANK AND JACK’S ROOM - NEXT MORNING
+
+Seemingly empty, both beds unmade and unoccupied, a 
+champagne bottle on the carpet, a tuxedo jacket hanging 
+cockeyed on the closet floor, and Frank... fast asleep in 
+the chair by the window.
+
+
+74     INT. “KING’S MANOR” LOBBY - MORNING (EARLY)
+
+As Susie steps out of the elevator, THEO, the clerk at the 
+front desk, motions to her.
+
+     THEO
+     Oh, Miss Diamond. These just arrived for you.
+
+A dozen red roses are sitting on the desk.
+
+     THEO
+     Looks like you’ve got an admirer.
+
+     SUSIE
+     There’s no card.
+
+     THEO
+     The gentleman who left them said he would be in
+     contact with you. I can have someone put them in 
+     water if you like.
+
+     SUSIE
+     Nah, that’s all right.
+
+Susie takes the roses and turns back to the elevators. As 
+the doors open, Eddie trots out, heading off across the 
+lobby. Susie watches him go by, then we...
+
+     CUT TO:
+
+
+75     INT. “KING’S MANOR” CORRIDOR - EDDIE - 
+MORNING
+
+A moment later, coming toward us down a corridor off the
+lobby. As he passes out of sight, Susie appears at the 
+opposite end.
+
+SUSIE’S POV                
+
+as Eddie disappears into the grand dining room. Curious, 
+she follows. As she draws closer, the SOUND of a piano 
+becomes clear. Peering inside, she finds Jack playing 
+alone at one of the grands onstage.
+
+
+76     INT. “KING’S MANOR” DINING ROOM - MORNING
+
+In the vast emptiness of the room, the piano resonates 
+powerfully and the music Jack makes is like nothing 
+we’ve heard him play before. Fluid and unpredictable, it 
+is played with the focused abandon of a jazz hand. Susie 
+watches, transfixed.
+
+As he finishes, Jack notices Susie, but says nothing, 
+instead pouring himself another glass of whiskey and 
+starting to play again.
+
+     SUSIE
+     Working overtime?
+
+     JACK
+     I like the crowd.
+
+Susie smiles slightly.
+
+     JACK
+     (the roses)
+     Win a pageant?
+
+     SUSIE
+     First runner-up. Story of my life.
+
+Jack doesn’t react, just keeps playing. Susie drops the 
+flowers onto a table and walks over to the piano.
+
+     SUSIE
+     What’s this? You’re playing?
+
+     JACK
+     (shrugging)
+     Just thinking out loud.
+
+     SUSIE
+     Nice.
+
+     JACK
+     Hm?
+
+Susie watches Jack’s hand glide deftly over the keys, 
+then looks at his face. He is oblivious to all but the sounds
+he is making.
+
+     SUSIE
+     (quietly)
+     Nice.
+
+
+77      INT. "KING'S MANOR" LOBBY - MORNING 
+
+Frank steps out of the elevator, looking like a man with 
+the worst hangover in history. 
+
+     THEO
+     (cheery)
+     Good morning, Mr. Baker 
+
+     FRANK
+     (grim)
+     Hi, Theo. 
+
+     THEO
+     Your wife's called again. 
+
+     FRANK
+     Yeah, what is it now? 
+
+     THEO
+     (reading a note)
+     Little Frank refuses to ride his new bike unless the
+     training wheels are removed, he's locked himself 
+     in the bathroom, and he has Cindy with him. He's 
+     says he'll only talk to you.          (pointing)
+     You can use the courtesy phone around the 
+     corner if you like. 
+
+Frank nods wearily. He goes to the phone, begins to dial,
+then hears the SOUND of Jack's piano. Hanging up the 
+phone, he wanders down to the dining room and looks 
+inside. 
+
+
+78     INT. DINING ROOM - MORNING
+
+Susie is leaning over the piano, smoking a cigarette, a 
+shoe dangling from her toe as she watches Jack play. 
+There is something intimate in her posture.
+
+There is something about it Frank doesn’t like.
+
+
+79     INT. “KING’S MANOR” BACKSTAGE - NIGHT
+
+As Jack smokes calmly, Frank paces tensely. He takes a 
+few steps, glances at Jack, then resumes pacing, stops, 
+looks at Jack again.      
+
+     FRANK
+     You know I think it’s been five years since I saw 
+     you without a cigarette in your mouth. Five years.
+
+Jack, a cigarette dangling from his lip, just stares at Frank.
+
+     FRANK
+     The whole goddamn room upstairs smells like an
+     ashtray. You know that, don’t you? The sheets, the 
+     carpet, the drapes, the towels, my tux, my shirt. 
+     Do you want to smell my shirt? Do you?
+
+     JACK
+     Maybe later.
+
+     FRANK
+     I’m not kidding about this. Do you have any idea 
+     what an insidious habit that is? I mean, how many 
+     cigarettes do you smoke in one day? It must be 
+     hundreds.
+
+     JACK
+     This is just a wild stab, but... is something 
+     bothering you, Frank?
+
+     FRANK
+     Leave her alone. I mean it.
+     
+Jack looks at Frank, puzzled.
+
+     FRANK
+     Jack. This isn’t some hatcheck girl you can leave 
+     behind at the Sheraton. You got two shows a 
+     night with her.
+
+As Jack realises what Frank means, his eyes harden.
+
+     JACK
+     You don’t know what you’re talking about.
+
+     FRANK
+     I know trouble. And its name starts with an “S.”
+
+     JACK
+     Do me a favour, Frank. Relax.
+
+     FRANK
+     Do me a favour, little brother. Stick to cocktail 
+     waitresses.
+
+
+80     INT. “KING’S MANOR” DINING ROOM - NIGHT
+
+Moments later, onstage. Frank is addressing the audience.
+
+     FRANK
+     You know, meeting here each night as we do, 
+     sharing these few moments, I feel as if we’re 
+     becoming one big happy family.
+     
+Jack, still burning from Frank’s comments backstage, 
+eyes Frank coolly.
+
+     FRANK
+     The candlelight. The music. You. Everyone of you. 
+     Just being yourselves. People being people. What’s
+     all this mean? I don’t know. Who’s to say? All I 
+     can tell you is, it makes it very special for us up 
+     here to have you out there. Right, Susie?
+
+     SUSIE
+     Right, Frank.
+
+     FRANK
+     Right, Jack?
+
+     JACK
+     Right. But if I could, I’d just like to add one thing... 
+     I love you, Frank.
+
+     FRANK
+     (stunned)
+     What?
+
+     JACK
+     I love you. I just wanted to say it.
+
+Frank stares incredulously at Jack. Suddenly the audience 
+breaks into APPLAUSE.
+
+     FRANK
+     Uh, well, thanks for sharing that with us, Jack.
+     (moving quickly)
+     So. Susie. How ‘bout it?
+
+     SUSIE
+     Huh?
+
+     FRANK
+     Got another song for us?
+
+     SUSIE
+     Oh. Yeah. I gotta bunch of them.
+
+     FRANK
+     Well then... shall we?
+
+As Frank stares over at Jack, Jack lights a cigarette and 
+exhales a long plume of smoke.
+
+
+81     INT. FRANK AND JACK’S ROOM - NIGHT (AFTER 
+THE SHOW)
+
+Eddie watches Jack and Frank undress in heavy silence. 
+Susie, washing up, listens from the bathroom.
+
+     FRANK
+     You came in late on “Little Green Apples.”
+
+     JACK
+     (pointedly)
+     I’m sorry?
+
+     FRANK
+     You heard me.
+
+     JACK
+     You came in early, Frank. You’ve been coming in 
+     early for the last decade.
+
+     FRANK
+     I never miss the beat.
+
+Jack lets out a derisive chuckle.
+
+     FRANK
+     I NEVER MISS THE BEAT.
+
+     JACK
+     That’s because you make it up as you go along.
+
+Frank stops undressing, stares at Jack.
+
+     FRANK
+     Take it back.
+
+     JACK
+     Take it back? What is this? Third grade?
+
+     FRANK
+     TAKE IT BACK.
+
+Jack frowns at his brother, then tosses him a kiwi.
+
+     JACK
+     Eat a kiwi, Frank.
+
+Frank flings the kiwi back at Jack. Jack ducks.
+
+     JACK
+     Hey!
+
+
+81A     INT. BATHROOM (SAME TIME)
+
+Susie peeks through the door. Jack is standing in his 
+boxers, a pineapple in his hand, pointing at Frank.
+
+     JACK
+     Go to bed, Frank. Or this is gonna get ugly.
+
+     SUSIE
+     (to herself)
+     It’s the fucking Newlywed Game.
+
+Shaking her head, Susie exits, flicking off the light.
+
+     FRANK (O.S.)
+     Hey!
+
+     SUSIE
+     (flicking it back on)
+     Sorry.
+
+
+82     INT. JACK AND FRANK’S ROOM - MORNING
+
+We START on the kiwi, lying in a battered lump on the 
+windowsill, PASS OVER a pack of cigarettes on the 
+night table, then SETTLE on Frank... nestled under Jack’s
+shoulder, dead to the world.
+
+Jack blinks awake. Slowly his eyes slide over...
+
+
+83     INT. SUSIE’S ROOM - MORNING (SAME TIME)
+
+As Susie strokes her hair before the mirror, the phone 
+RINGS.
+
+     SUSIE
+     Yeah?... No, Mr. Baker’s next door... Huh?... 
+     Urgent?... No, never mind, I’ll get him.
+
+Susie passes through the bathroom, opens the door.
+
+     SUSIE
+     Phone call, Frank. They say it’s... important.
+
+Susie stops, seeing Jack, smoking now, with Frank still 
+slumbering under his shoulder. It’s a rather striking 
+tableau.
+
+     SUSIE
+     Guess you guys made up, huh?
+
+
+84     OMITTED
+
+
+85     INT. FRANK AND JACK’S ROOM - A SUITCASE 
+- DAY (LATER)
+
+Frank moves like a twister through the room, tossing his 
+belongings in a suitcase.
+
+     FRANK
+     We made a deal. Man to man. Training wheels for 
+     a month, then we’d see.
+
+     SUSIE
+     He ran into a car?
+
+     FRANK
+     Mrs. Ramondino’s station wagon. It wasn’t moving.
+     It was just parked on the street. He barely made it 
+     out of the driveway. All right, who’s got a pencil?
+
+     SUSIE
+     Pencil?
+
+     FRANK
+     I want you to take down the New Year’s show.
+     Remember, at ten o’clock you start with “Thanks 
+     For The Memories,” then...
+
+     JACK
+     I know the show, Frank.
+
+     FRANK
+     I just think it’s best if...
+
+     JACK
+     Frank. Go.
+
+Frank gives in, grabs the suitcase, then pauses by the door.
+
+     FRANK
+     Guess I’m gonna get to kiss my wife on New 
+     Year’s after all.     
+
+
+86     INT. JACK’S ROOM - DAY (SEVERAL HOURS 
+LATER)
+
+Jack has lined a row of kiwis on the windowsill and is 
+shooting rubber bands at them.
+
+
+87     INT. SUSIE’S ROOM - DAY (SAME TIME)
+
+Susie is smoking a cigarette, staring out the window. She 
+glances at the bathroom once, twice, then takes the 
+newspaper and passes through.
+
+
+88     INT. JACK’S ROOM - DAY (SAME TIME)
+
+     SUSIE
+     Any word from Egghead?
+
+Jack shakes his head. Susie nods, offers the paper.
+
+     SUSIE
+     I’m through with it.
+
+     JACK
+     Oh. Thanks.
+
+     SUSIE
+     Left the crossword.
+
+This doesn’t seem to excite Jack, but he nods anyway.
+
+     SUSIE
+     Well. Happy reading.
+
+
+89     INT. BATHROOM - DAY
+
+Susie retreats, frowns to herself, then notices Jack’s 
+shaving cup. Curious, she takes the brush, runs the 
+bristles over her cheek, then spins the cap off a bottle of 
+aftershave, sniffs.
+
+
+90     INT. JACK’S ROOM - DAY
+
+Jack, up and pacing, pauses as he passes the bathroom, 
+listening to the strange STIRRINGS inside.
+
+
+91     INT. BATHROOM - DAY
+
+Susie inspects a few more items, then exits. Seconds 
+later, the door opens tentatively and Jack enters. He eyes
+his things, adjusts the shaving brush. He glances as the riot
+of powders and creams crowding Susie’s sink. Picking up
+a tiny perfume vial, he gives it a spray: it packs quite a 
+wallop. Startled, he waves his hand to defuse the odor.
+
+
+92     INT. SUSIE’S ROOM - DAY          
+
+Outside, Susie pauses on her cigarette, sniffs the air.
+
+
+93     INT. BATHROOM - DAY                    
+
+Jack replaces the bottle, accidentally causing a stir among 
+a few other others, then exits. As Susie re-enters, a tiny 
+nail polish bottle wobbles upright. She studies the bottle, 
+sniffs again, then pokes her head into Jack’s room.
+
+
+94     INT. JACK’S ROOM - DAY
+
+     SUSIE
+     Anything yet?
+
+     JACK
+     Not a peep.
+
+     SUSIE
+     Well. I think I’ll take a bath.
+
+Jack nods. Susie nods.
+
+
+95     INT. BATHROOM - DAY 
+
+Susie pulls the door closed, frowns again, then turns on the 
+bath. Taking a bottle of Mr. Bubble, she sits on the toilet 
+and sprays pink lazy eights into the tub. 
+
+
+96      INT. JACK'S ROOM - DAY 
+
+Jack stops, pivots and sends a kiwi towards the 
+waste-basket. SWISH. 
+
+
+97      INT. SUSIE'S ROOM - DAY 
+
+Susie goes to the bedroom, strips, slips into a robe. 
+There are cigarettes burning in every corner of the room. 
+Oblivious, she lights another. 
+
+
+98      INT. JACK'S ROOM - DAY 
+
+Eddie ducks as a plum sails over his head. The carpet 
+around the waste-basket is littered with fruit. Jack grabs 
+a coconut, eyes the basket, then notices a crescent forming
+on the carpet outside the bathroom. He raps on the door, 
+gets nothing. 
+
+
+99      INT. BATHROOM - DAY 
+
+Jack enters just as Mr. Bubble glides over the lip of the 
+tub. 
+
+
+100      INT. SUSIE'S ROOM - DAY 
+
+
+Susie, staring at the ocean like Garbo, hears the BOTTLE 
+tumble, then sees the water. She dashes in. 
+
+
+101      INT. BATHROOM - DAY 
+
+As the door pounds Jack, Susie does a little slip-slide-spin
+on the sudsy floor and tumbles into Jack's arms. 
+
+Not exactly "From Here To Eternity", but the room IS 
+pretty steamy and Susie's robe has slipped off one very
+nice shoulder. Jack looks at the shoulder, then into Susie's
+eyes. Susie looks back. Swallows. 
+
+     SUSIE
+     Thanks. 
+
+They stand like this, sort of like a statue, then the phone 
+RINGS. They disengage. Jack goes to the phone. 
+
+     JACK
+     Yeah... Oh, hi, Frank.
+     (to Susie)
+     It's Frank. 
+
+Susie nods, pulls her robe closed. 
+
+
+     JACK
+     So. How's little Frank?... Yeah?... Well, that's a 
+     relief, huh?... No, I understand, call me when you 
+     have more time... Huh? Oh, nothing. We're taking 
+     a bath. Well, Susie's taking a bath, I'm doing the 
+     crossword. Huh?... What's that?... Newt?... Yeah, 
+     I know what it is. Turns up a lot, huh? okay, I'll 
+     remember. Thanks. 'Bye... 
+
+
+Jack hangs up the phone, looks at Susie. 
+
+     JACK
+     Kid's in the pink. 
+
+Susie nods, tightens her robe again. 
+
+     SUSIE
+     Well. Thanks for the catch. Coulda got quite a 
+     bump. 
+
+     JACK
+     It was nothing. 
+
+Susie nods, pulls the door closed. 
+
+
+102      INT. "KING'S MANOR" BACKSTAGE - NIGHT 
+
+Susie, wearing a very sexy black silk dress, joins Jack. 
+She hands him a piece of paper. 
+
+     SUSIE
+     Theo at the front desk just dropped this on me. 
+
+     JACK
+     (reading aloud)
+     "Ladies and gentlemen, due to a family emergency,
+     my dear brother is unable to share this most 
+     special of evenings with us..." 
+
+     SUSIE
+     Frank must've dictated it from the hospital. There's
+     patter for all the songs, too. 
+
+As Jack stares at the paper, Susie inspects her hair in the
+reflection of a silver tea tray. 
+
+     SUSIE
+     Gotta give it to ol' Egghead. Never gives the kite
+     too much string. 
+
+As Susie turns back to Jack, he crumples the paper. 
+
+     JACK
+     So what do you want to open with tonight? 
+
+
+103     INT. “KING’S MANOR” DINING ROOM - NIGHT
+
+A banner stretched between two chandeliers, proclaims 
+“HAPPY NEW YEAR!” As the CAMERA DESCENDS, 
+Jack can be heard picking out a familiar TUNE, but 
+showering it in blue notes, drawing it out, giving it 
+smoke.
+
+Susie’s face drifts up INTO FRAME, her eyes closed, 
+but the CAMERA CONTINUES to drop, moving like 
+syrup down her body, over the silk that clings to her hips 
+and thighs, down her legs to a pair of wicked 
+arch-breaking heels.
+
+She’s standing on Jack’s Steinway.
+
+     SUSIE
+     (cooing)
+     “Another bride,
+     Another June,
+     Another sunny honeymoon
+     Another season
+     Another reason
+     To make whoopie...”
+
+Caught somewhere between Ray Charles and Marilyn 
+Monroe, Susie’s voice slides silkily from a whisper to a 
+growl, her fingers running like sand over her body.
+
+     SUSIE
+     “A lot of shoes,
+     A lot of rice,
+     The groom is nervous,
+     He answers twice,
+     It’s really killin’,
+     The boy’s so willin’,
+     To make whoopie...”
+
+As Jack knocks hell out of the bridge, Susie melts onto 
+the piano like a kitten, stretching out languorously on her 
+back. On the dance floor, men in tuxedos sneak guilty 
+glances while their wives just stare, mouths agape. In less 
+that a minute, Susie’s managed to turn a dignified resort 
+hotel into a sizzling roadhouse.
+
+     SUSIE
+     “Picture a little lovenest
+     Down where the roses cling
+     Picture that same sweet lovenest
+     See what a year can bring...
+     (toying with Jack’s chin)
+     I tell you the boy’s washing dishes,
+     baby clothes
+     He’s so ambitious,
+     Ooooh, I tell you he sews”
+
+Susie runs her fingers through Jack’s hair and slides 
+oh-so-slowly off the piano, slinking toward the audience, 
+and suddenly it’s apparent: she’s winning them over.
+
+     SUSIE
+     It’s really killin’
+     The boy’s so willin’
+     To make whoopee...”
+
+
+104     INT. DINING ROOM - NIGHT (HOURS LATER)
+
+Now a mass of swarming jubilation. Suddenly, the 
+lights begin to dim.
+
+     SUSIE
+     All right, boys and girls. Find a friend. This is it. 
+     Ten. Nine...
+
+Gradually the entire room joins the chant.
+
+     SUSIE/EVERYONE
+     ... Eight. Seven. Six. Five. Four. THREE. TWO! 
+     ONE! HAPPY NEW YEAR!
+
+A blizzard of confetti fills the air as people scramble for
+that certain someone to kiss in the new year. In this 
+moment, Jack and Susie find themselves oddly distanced 
+from the happiness below them.
+
+Susie glances at Jack, then finally goes to him. As their 
+lips touch, they kiss lightly, then pull away awkwardly. 
+As Susie turns away, Jack sounds the first chord of 
+“Auld Lang Syne” and the room rises as one voice.
+
+     SUSIE/EVERYONE
+     “Should old acquaintance be forgot...”
+
+
+105      INT. DINING ROOM - NIGHT (HOURS LATER)
+
+Dark and lonely now, the tables and floors covered with 
+confetti, like virgin snow. Jack sits on a table, looking 
+out at the moonlit ocean. Susie comes up behind him, 
+carrying a half-empty bottle of champagne.
+
+     SUSIE
+     So. Make any resolutions?
+
+Jack shakes his head. Susie sits down on the table next
+to him, their arms almost touching.
+
+     JACK
+     You?
+
+     SUSIE
+     Nah. I figure that stuff’s all a bunch of crap 
+     anyway. You do what you do, right?
+
+     JACK
+     Right.
+
+Susie takes a drink, looks over at the empty stage.
+
+     SUSIE
+     Boy, ol’ Egghead would’ve blown a gasket if 
+     he’d seen us tonight, wouldn’t he?
+
+Jack just takes a drag on his cigarette, says nothing.
+
+     SUSIE
+     You’re good, aren’t you?
+
+As Jack looks up, Susie’s eyes shift, staring straight 
+into his.
+
+     JACK
+     I can carry a tune.
+
+     SUSIE
+     Better than that.
+
+Jack just looks out the window again, takes another drag 
+on his cigarette. Susie studies his face, then pushes off the
+table, walks over to the window.
+
+     SUSIE
+     You know, I saw you guys once. You and Frank. 
+     At the Roosevelt.
+
+     JACK
+     Must’ve been a cheap date.
+     
+     SUSIE
+     Soap convention.
+
+Jack glances over at Susie.
+     
+     JACK
+     Soap?
+
+     SUSIE
+     Yeah, they got a convention for everything. This 
+     guy was some big roller in suds. At least he was 
+     clean. Some of the guys I met through the service, 
+     you wouldn’t believe. The older ones, they were 
+     okay. Nice. Polite. Pulled the chair out for you. 
+     But the younger ones...
+
+Jack watches as Susie takes another hit off the bottle.
+
+     SUSIE
+     It wasn’t so bad, though. I’d get a nice piece of 
+     steak, flowers, sometimes even a gift. Usually 
+     whatever the guy was into. Got a set of socket 
+     wrenches once. Believe it? The guy looked like 
+     he’d just given me four dozen roses.
+
+Susie smiles to herself, then her face changes, becomes 
+almost wistful.
+
+     SUSIE
+     But I stayed at the Hartford once. You should see
+     the rooms. All satin and velvet. And the bed. Royal
+     blue, trimmed in lace clean as snow. Hard to 
+     believe sleeping in a room like that don’t change 
+     your life. But it don’t. The bed may be magic, but 
+     the mirror isn’t. You wake up the same old Susie.
+     (pause)
+     I didn’t always, you know. If I liked the guy...
+
+Susie glances at Jack, uncomfortable.
+
+     JACK
+     I never liked the Hartford much myself.
+
+Susie’s eyes lock into Jack’s, then she turns a little and 
+starts to roll her neck.
+
+     SUSIE
+     My neck is so tight. Usually singing relaxes me, 
+     but I don’t know, tonight...
+
+Jack watches her a moment, then stands up and sweeps
+the hair off her shoulder, placing his hands on her neck, 
+massaging the muscles softly. She swallows.
+
+     SUSIE
+     Thanks.
+
+Jack hesitates, then unhooks the catch, letting the panels 
+divide a bit.
+
+     SUSIE
+     Thanks.
+
+As Jack’s fingers work down to Susie’s shoulders, the 
+dress begins to divide slowly, the fabric pulling silently 
+apart. Susie turns her head a little just as Jack’s fingers 
+slip under the silk, skimming down her sides, just below 
+her breasts. He leans in and kisses her neck.
+
+     SUSIE
+     Oh shit...          
+          
+     
+106     OMITTED
+
+
+107      INT. "KING'S MANOR" CORRIDOR - MORNING 
+
+As the service elevator opens, two maid exit left, then 
+Eddie trots out and turns right. 
+
+We TRACK him for a moment, then he stops: by a room 
+service tray sitting outside a door. He sniffs finds nothing 
+to his taste, then moves down the hall to the next tray. 
+
+Finally, after several stops, Eddie returns to the elevator 
+and waits... three T-bones in his mouth. 
+
+
+108     INT. SUSIE’S ROOM - MORNING
+
+Jack, quiet as a mouse, slips out of bed, gathers his 
+clothes, and in approximately ten seconds, is dressed.
+
+     SUSIE
+     You’d make a helluva fireman, you know that?
+
+Jack stops, looks over his shoulder.
+
+     SUSIE
+     You practice that at home with a stopwatch?
+
+     JACK
+     Didn’t want to wake you. Early riser.
+
+Susie glances out the window. It’s gotta be about noon.
+
+     SUSIE
+     Yeah. Listen. I didn’t expect you to rush out and 
+     buy me a corsage this morning, you know. Your 
+     school ring’s safe.
+
+Jack nods, slips into the bathroom.
+
+     
+109      INT. BATHROOM - DAY (SAME TIME)
+
+As he closes the door, Jack looks in the mirror.
+
+     JACK
+     Shit.
+
+
+110     INT. SUSIE’S ROOM - DAY (SAME TIME)
+
+Susie stares at the bathroom door, then notices Jack’s tie 
+slung over the bedpost.
+
+     SUSIE
+     Shit.
+
+
+111 INT. "KING'S MANOR" LOBBY - DAY 
+
+As Jack stands at the front desk, members of the hotel 
+staff pose for photographs with Eddie. 
+
+     JACK
+     I don't get it. 
+
+     THEO
+     What's that, Mr Baker? 
+
+     JACK
+     Ed. He barely touched a thing while he was here, 
+     but I don't know... I could swear he's GAINED 
+     weight. 
+
+Theo points his finger to a line on the checkout form. 
+
+     THEO
+     (as Jack signs)
+     Well, we're sure going to miss him. All of you. 
+     It's too bad your brother missed all the excitement 
+     last night. 
+
+Jack glances up. 
+
+     JACK
+     Yeah. Too bad. You seen Miss Diamond? 
+
+     THEO
+     I believe that's her talking to the gentleman in the 
+     blue suit. 
+
+Across the lobby, Jack sees Susie talking to a man in the 
+far corner.
+
+     THEO
+     Have a nice day, Mr. Baker. 
+
+     JACK
+     Yeah, you too... 
+
+
+112     EXT. THE CITY SKYLINE - NIGHT
+
+Home.
+
+
+113     INT. JACK’S APARTMENT - NIGHT
+
+As Jack and Eddie enter, Jack sets his suitcase on the 
+floor and flicks on a lamp. A string, hanging like a smile 
+from one side of the bedroom door frame to the other, 
+droops with paper letters: “WELCOME HOME.”
+
+In the kitchen, Jack opens the refrigerator. A container 
+of cottage cheese. Two desperate bananas. One beer. 
+Opting for the beer, he goes to the piano by the window, 
+sits down.
+
+He taps out a skeleton phrase, teases it, then, like the 
+morning Susie found him in the dining room, begins to 
+expand on the idea, filling the room with music.
+
+
+113A     EXT. DINER - DAY
+
+In the front window, the usual photos of celebrity patrons,
+ including one of Susie placed between those of Jack and 
+Frank.
+
+
+114     INT. DINER - DAY (SAME)
+
+Susie and the brothers sit at a table strews with empty 
+coffee cups and half-eaten food. Frank has several slips 
+of paper before him with names and dates.
+
+     FRANK
+     That takes care of the week of the fifth. After that, 
+     we got the Avedon downtown or the Plaza. Four 
+     day turns. What do you think, Jack?
+
+Jack is staring out the window. Bored.
+
+     JACK
+     You with me, Jack?
+
+     SUSIE
+     The Avedon’s a dump. No cover. No minimum. 
+     And they water their drinks. It’s strictly for the 
+     Fuller Brush crowd.
+
+Susie, as she says this, pours sugar into her Coke.
+
+     FRANK
+     (watching)          
+     It’s not that bad. Besides, Blackie Carson books 
+     the Avedon. He’s always been good to us.
+
+     JACK
+     (drily)                                                       He’s hasn’t been that good to us.
+
+     FRANK
+     All right, we’ll take the Plaza. After that, we’re 
+     locked into the Capri for five days, then we got 
+     our choice...
+
+     SUSIE
+     The Capri? Oh Christ, not the goddamn Luau 
+     Lounge again.
+
+     FRANK
+     What’s the matter with the Luau Lounge? They 
+     don’t salt their peanuts?
+
+     SUSIE
+     Singing “Feelings” knee deep in paper orchids 
+     and plastic tiki lamps isn’t exactly my idea of a 
+     fun evening.
+
+     FRANK
+     Fun? Who promised you fun? We get paid, 
+     remember?
+
+     SUSIE
+     I’m just saying maybe we should vote on it. Or 
+     maybe... we should ask Jack what he thinks.
+
+     FRANK
+     I don’t have to ask Jack what he thinks. I know 
+     what he thinks.
+
+Jack, hearing this. shifts his eyes coolly to Frank.
+
+     FRANK
+     It’s five days. The money’s green. We’re there.
+
+Susie, looking tense, watches Frank go back to his slips.
+Jack taps an unlit cigarette on the table.     
+
+     FRANK
+     And by the way, speaking of  “Feelings,” you 
+     might think about brushing up on the lyrics. The 
+     other night, at the resort, you sang the first verse 
+     twice.
+
+     SUSIE
+     Really? That must explain the gasp I heard from 
+     the audience.
+
+     FRANK
+     Okay. Let’s hear it. We’ve trashed the Avedon and 
+     the Luau Lounge. What’s our beef with 
+     “Feelings”?
+
+     SUSIE
+     Nothing.
+
+Frank nods, starts to go back to the slips.
+
+     SUSIE
+     EXCEPT... who cares? I mean, does anybody 
+     really need to hear “Feelings” again in their 
+     lifetime? It’s like parsley...
+     (taking a sprig from her plate)
+     Take it away and no one would know the 
+     difference.
+
+     FRANK
+     “Feelings” is not parsley.
+
+     SUSIE
+     To you, “Feelings” may be goddamn filet mignon. 
+     To me, it’s parsley. Less that parsley.
+
+Jack, mildly amused, settles against the window to listen.
+
+     FRANK
+     Look, “Feelings,” despite what you may think of 
+     it, has always been one of the bright moments in 
+     the show and a consistent crowd pleaser. 
+     Consequently, we have an obligation to play it. If 
+     we didn’t the audience would be disappointed.
+
+     SUSIE
+     Yeah, well, they weren’t exactly crying their eyes 
+     out on New Year’s.
+
+Frank stops shuffling the slips, looks up slowly.
+
+     FRANK
+     You passed over “Feelings”?
+
+       SUSIE
+     Yeah. And for your information, “Bali Hai” went 
+     out with the bathwater too.
+
+Frank looks from Susie to Jack.
+
+     FRANK
+     Well, I see. The cat goes away for a night and the 
+     mice take over the orchestra.
+
+     SUSIE
+     Hey. I ain’t no mouse.
+
+     FRANK
+     That’s right. You’re parsley.
+
+Big silence.
+
+     JACK
+     I think you better calm down, Frank.
+
+     FRANK
+     I think you better make sure it’s your head that’s 
+     doing the thinking these days, little brother.
+
+Susie stands up, takes her coat.
+
+     SUSIE
+     This food’s been sitting here too long. It’s starting 
+     to make me feel SICK.
+
+Susie turns and slams out the door.
+
+     JACK
+     Why don’t you loosen the leash.
+
+     FRANK
+     Let’s not let a whiff of perfume blow off fifteen 
+     years. Be reasonable, Jack.
+
+     JACK
+     I play three hundred nights a years with you, 
+     Frank. How much more reasonable you expect me 
+     to be?
+
+
+115      EXT. JACK’S BUILDING - EARLY EVENING
+
+Susie paces under a street lamp, working on a Paris Opal. 
+She takes a glance up at Jack’s window, then drops her 
+cigarette to the sidewalk. There are half-a-dozen others 
+already there. Deciding, she enters the building.
+
+
+115A     INT. JACK’S BUILDING - STAIRWELL
+
+Susie arrives at Jack’s door, knocks. A moment passes, 
+then it swings open.
+
+Nina.     
+
+
+116     OMITTED
+&
+117
+
+
+118     EXT. JAZZ CLUB - NIGHT (LATER)
+
+The murmur of MUSIC can be heard.     
+
+
+119     INT. BASEMENT - JAZZ CLUB - NIGHT
+
+Jack sits at the bar, sipping a whiskey gingerly, watching 
+a trio perform on the dimly-lit stage. A BLACK MAN in 
+a suit steps up next to him.
+
+     JACK
+     (watching the trio)
+     How you doing, Henry?
+
+     HENRY
+     Can’t complain. What do you think of the kid?
+
+Jack glances at the baby-faced pianist onstage.
+
+     JACK
+     When’s his mother pick him up?
+
+     HENRY
+     He’s been playing here a year. You oughta come 
+     around more often, Jack.
+
+     JACK
+     He’s good. That Tyler on drums?
+
+     HENRY
+     (nodding)
+     Some old man, huh? Guy’d fall down a fucking 
+     staircase and keep the beat.
+
+As the bartender passes, Henry motions to Jack’s drink.
+
+     HENRY
+     On the house, Tony.
+     (to Jack)
+     So how about Jack Baker? Still stompin’ at the 
+     Sheraton?
+
+     JACK
+     Keeps me out of trouble.
+
+     HENRY     
+     So what’re you doing here?
+
+Jack crushes out his cigarette.
+
+     JACK
+     Lookin’ for trouble.
+
+
+120     EXT. JAZZ CLUB - NIGHT (LATER)
+
+Susie arrives, glances around. She hesitates, then 
+pushes through the doors to the club.
+
+
+121     INT. JAZZ CLUB - NIGHT (SAME TIME)
+
+As Susie descends the cement stairs inside, a man with a 
+saxophone rushes past her, heading for the street. Patrons 
+linger in the corridor, drinks in hand, talking animatedly, 
+laughing.
+
+The main room is even darker, full of shadows smoking 
+cigarettes. Susie looks for Jack, doesn’t see him, then 
+settles by the bar.
+
+     SUSIE
+     Double vodka.
+
+Across the room, the men’s room opens and two black 
+men exit, but no one else. Scanning the tables again, Susie 
+sees only the same unfamiliar shadows.
+
+Then she hears the PIANO.
+
+Turning slowly, Susie discovers Jack, hunched over the 
+piano onstage, playing with the trio. At first, he toys with 
+the melody, finding his way, then seduces the song away 
+from itself entirely. Lost in concentration, he plays more 
+expressively, ending with a passionate cascade of notes 
+as he reconstructs the melody. As the audience 
+APPLAUDS, Susie settles back into the shadows of the 
+bar. Hidden, studies Jack.
+
+His face is calm. Peaceful.
+
+
+122     INT. STAIRWELL - JACK’S BUILDING - NIGHT 
+(LATER)
+
+Jacks trots up the stairs to his apartment, then stops 
+suddenly. Susie is sitting on the landing, one shoe off, 
+massaging her bare foot.
+
+     SUSIE
+     Oh. Hi.
+     (uncomfortable)
+     I was in the neighbourhood. Thought I’d drop by.
+
+Jack nods, eyes her foot.
+
+     SUSIE
+     (shrugs)
+     Big feet.
+
+Jack says nothing, starts up the stairs.
+
+     SUSIE
+     Look, don’t get nervous or anything. I just came 
+     over to...
+
+Susie’s voice falters as Jack hooks her stray shoe on his 
+finger and continues toward his apartment.
+
+     SUSIE
+     ...talk.
+
+Jack doesn’t want to talk.
+
+
+123     EXT. JACK’S BUILDING - MORNING
+     
+As the sun comes up.
+
+
+124      INT. JACK’S BEDROOM - MORNING
+
+Naked, Susie slips quietly out of bed, gathers her clothes, 
+dresses. Twelve seconds, tops. Only one problem: only 
+one shoe.
+
+Limping to the bathroom, Susie catches herself in the 
+mirror, grimaces, then hobbles to the front room...
+
+...Just as Nina pushes open the window and enters from 
+the fire escape. Both stop cold, stare at each other.
+
+     NINA
+     I guess you found him, huh?
+
+     SUSIE
+     Yeah...
+
+     NINA
+     I came to walk Eddie.
+
+Susie nods. Nina eyes Susie’s footwear situation, then 
+slips off the windowsill and goes to the kitchen, where 
+Eddie’s leash is hanging on the wall.
+
+     NINA
+     You don’t have a toothbrush with you, do you?
+
+Susie, puzzled, shakes her head. Nina nods, then points 
+behind Susie. There, on the bookshelf, is her shoe.
+
+     SUSIE
+     Oh... thanks.
+
+As Nina exits with Eddie, Susie stares at the door, a little 
+confused, then goes to retrieve her shoe. There, sitting on 
+the shelf, is an old photograph of Jack and Frank. Wearing 
+boyish grins and bad suits, they hold a bottle of liquor out 
+for the camera.
+
+     JACK
+     Terry’s Tap Room.
+
+Susie jumps, surprised to see Jack, dressed now. He 
+smiles, nods to the photo.
+
+     JACK
+     First gig we ever played. The guy that ran the 
+     place gave us the bottle but wouldn’t open in.
+
+     SUSIE
+     How come?
+
+     JACK
+     (charming)
+     Told us to save it. Said someday it would soften 
+     the edges of the bad times and make the good ones 
+     seem even better. The best idea would’ve been to 
+     drink it before we played Terry’s Taproom.
+
+Jack watches Susie study the photo.
+
+     JACK
+     Coffee?
+
+     SUSIE
+     Yeah... no. I mean...
+
+     JACK
+     Look, if you want to leave...
+
+     SUSIE
+     No... yeah. That is...
+
+     JACK
+     I’ll see you tonight at the Hilton. Okay?
+
+Susie nods, but doesn’t move.
+
+     SUSIE
+     Listen. The reason I came by last night... I’m 
+     thinking about leaving. The act.
+
+Susie looks at Jack, but he says nothing.
+
+     SUSIE
+     It’s a... I met this guy over New Year’s, at the 
+     hotel. He liked my voice. And, well, it’s... He 
+     thinks I can sell cat food just singing about it. 
+     Crazy, huh?
+
+Susie tries to laugh. Jack nods.
+
+     SUSIE
+     I mean, it’s nothing big. Mostly local stuff 
+     probably.
+
+     JACK
+     Take it.
+
+     SUSIE
+     Well, I haven’t decided. I’m just thinking about it...
+
+     JACK
+     Take it.
+
+Susie stops, studies Jack’s face.
+
+     SUSIE
+     So how long you been taking care of the kid 
+     upstairs?
+
+     JACK
+     I don’t take care of her.
+
+     SUSIE
+     Doesn’t look that way to me...
+
+     JACK
+     What’s the difference?
+
+     SUSIE
+     (beat)
+     Yeah, well, anyway, like I said, I know Frank’s 
+     got us booked through March.
+
+     JACK
+     Don’t worry about Frank.
+
+     SUSIE
+     What about you?
+
+     JACK
+     What’s that got to do with anything?
+
+     SUSIE
+     Well... nothing. I just mean, I don’t want to leave 
+     you guys with an empty mike...
+
+     JACK
+     Hey. There’s always another girl.
+
+Susie looks at Jack. His face is unflinching.
+
+     SUSIE
+     (grabbing her coat)
+     Right. Well... Thanks for the advice. I’ll think it 
+     over.
+
+As the door slams behind Susie, Jack’s face changes, 
+resolve giving in to ambivalence.
+
+
+125     INT. HILTON OLD AMERICA LOUNGE - NIGHT 
+(AS IN SC. 38)
+
+As Susie croons, waiters pass by.
+
+     SUSIE
+     “Feelings... Wo wo wo... Feelings...”
+
+
+126      INT. HILTON BACKSTAGE - NIGHT (AFTER THE 
+SHOW) 
+
+Susie whips on her coat tensely. 
+
+     SUSIE
+     I can't sing it anymore. 
+
+     FRANK
+     What? 
+
+     SUSIE
+     That song. I can't sing it anymore. I'm gonna get 
+     sick. 
+
+
+127      INT. HILTON KITCHEN - NIGHT (SAME TIME) 
+
+Frank follows Susie into the kitchen, where a KID in an 
+apron is chopping onions. 
+
+     FRANK
+     (patiently)
+     Look, Susie. We talked about this. I told you why 
+     we... 
+
+     SUSIE
+     (stopping)
+     I'm going to throw up Frank. Do you understand? 
+     I'm going to vomit right into somebody's Pina 
+     Colada. 
+
+     FRANK
+     It's just a song. It's a couple times a night. Ten 
+     minutes of your life. That's all. 
+
+     SUSIE
+     And ten minutes tomorrow night, and ten minutes 
+     the next night, and the next night. Frank, I can't 
+     sing that fucking song anymore! 
+
+As Susie storms out of the kitchen, the Kid in the apron 
+looks over. 
+
+     APRON
+     Volare? 
+
+
+128     EXT. STREET OUTSIDE HILTON - NIGHT
+
+Susie comes up alongside Jack.
+
+     SUSIE
+     I’m quitting.
+
+     JACK
+     Congratulations.
+
+     SUSIE
+     As of now.
+
+     JACK
+     Well, if you ever need a recommendation, let me 
+     know.
+
+     SUSIE     
+     Jesus, you’re cold, you know that? You’re like a 
+     fucking razor blade.
+
+     JACK
+     Careful. You’ll have me thinking you’re going soft 
+     on me.
+
+Susie stops, looks at him in amazement.
+
+     SUSIE
+     You don’t give a fuck, do you? About anything.
+
+Jack stops, turns.
+
+     JACK
+     Hey. What do you want from me? You want me to 
+     tell you to stay? Is that what you’re looking for? 
+     You want me to get down on my knees and beg 
+     you to deliver the Baker Boys from doom? Well, 
+     forget it. We survived for fifteen years before you 
+     strutted onto the scene, sweetheart. FIFTEEN 
+     YEARS. Two seconds and you’re bawling like a 
+     two year old. You shouldn’t be wearing a dress. 
+     You should be wearing a diaper.
+
+     SUSIE
+     Jesus. You and Egghead ARE brothers, aren’t you?
+
+     JACK
+     Damn straight. And let me tell you something. 
+     Over the years they’ve dropped like flies in every 
+     fucking hotel in this city, but we’re still here. 
+     We’ve never held a day job in our lives. He may 
+     be an easy target, but add it up and you’ll see; 
+     Frank’s done fine.
+
+     SUSIE
+     Yeah. Frank’s done great. He’s got the wife, the 
+     kids, the little house in the suburbs. Meanwhile his 
+     brother’s sitting in a shitty apartment with a sick 
+     dog, Little Orphan Annie, and a chip on his 
+     shoulder as big as a Cadillac.
+
+     JACK
+     (tensely)
+     Listen to me, princess. We fucked twice. That’s it. 
+     Once the sweat dries, you still don’t know shit 
+     about me. Got it?
+
+     SUSIE
+     I know one thing. While Frank Baker was home 
+     putting the kids to sleep last night, little brother 
+     Jack was out dusting off his dreams for a few 
+     minutes.
+
+Jack just stares at her.
+
+     SUSIE
+     I was there. I saw it in your face. You’re full of 
+     shit. You’re a fake. Every time you walk into 
+     some shitty daiquiri hut, you’re selling yourself 
+     on the cheap. I know all about that. I used to find 
+     myself at the end of the night with some malt ball 
+     mogul, then wake up in the morning and tell 
+     myself it didn’t matter. You kid yourself that you 
+     got this empty place inside where you can put it 
+     all. But do it long enough and all you are is 
+     empty.
+
+     JACK
+     I didn’t know whores were so philosophical.
+     
+     SUSIE
+     At least my brother’s not my pimp.
+
+Susie turns to walk away, then stops and looks back.
+
+     SUSIE
+     You know I had you pegged for a loser the first 
+     time I saw you. But I was wrong. You’re worse. 
+     You’re a coward.
+
+As Susie turns away, we HOLD on Jack.
+
+
+129      INT. HILTON LOUNGE - THE AMBASSADOR LOUNGE - NIGHT 
+
+The site of Jack and Frank's first night with Susie. As 
+busboys move in and out, Jack and Frank stand with Ray, 
+the assistant manager. 
+
+     RAY
+     Sick? How sick? 
+
+     FRANK
+     The flu. 
+
+     RAY
+     So she's got a few sniffles. 
+
+     FRANK
+     Doctor's orders. 
+
+Ray frowns, looks at the two pianos across the room. 
+
+     RAY
+     You got no right springing this on me, Frankie. 
+     It's unethical. 
+
+     FRANK
+     Look, Ray. You want us to pack up, we'll pack up. 
+
+     RAY
+     What am I gonna do? Put a record player out there?
+     (exiting)
+     Bad, Frankie. Bad. 
+
+     JACK
+     What're you doing? 
+
+     FRANK
+     Just until we find another girl. 
+
+     JACK
+     Cancel, Frank. 
+
+     FRANK
+     We're in for three weeks solid, Jack. 
+
+     JACK
+     Better give her pneumonia. 
+
+
+130     INT. STARFIRE LOUNGE - NIGHT (2 NIGHTS 
+LATER)
+
+Jack and Frank, onstage. A small crowd.
+
+     FRANK
+     You know, my brother and I have been playing
+      together, gosh, I don’t know. Jack?
+
+     JACK
+     Thirty-one years.
+
+No response. As Frank clears his throat nervously, 
+Jack studies the bored, brutally indifferent faces of the 
+people in the lounge.
+
+     FRANK
+     Of course, uh, back then it was, uh, a little 
+     different. We were just kids. Just about the only 
+     one who would listen to us was the family cat, 
+     Cecil. We must’ve shaved three lives off old 
+     Cecil, huh, Jack?
+
+Frank laughs. His voice, eerily magnified by the 
+microphone, is the only sound in the room.
+
+     FRANK
+     Yeah, well, anyway. It’s nice to be back here at 
+     the Ambassador Lounge, because this place has 
+     always been a very special place for Jack and I...
+
+Jack watches a woman dribble her drink accidentally and 
+let out a peal of laughter.
+
+     FRANK
+     Why? I guess you could say it’s just... the people.
+
+As Frank launches into “People,” Jack watches the 
+woman wipe her chin, still laughing, and we --
+
+     CUT TO:
+
+
+131     EXT. CITY STREETS - NIGHT (LATER)
+
+Jack moves down the block, then starts to slow as he 
+sees Susie up ahead, standing on the corner, talking with 
+a man. She says something to him, laughs, and the man 
+gives her a peck on the cheek and walks away. As she 
+begins to search her purse, Jack approaches. Just as her 
+face comes INTO VIEW, she senses him and turns, 
+startled.
+
+Not Susie.
+
+For a moment, he just stares at her.
+
+     JACK
+     Sorry.
+
+
+132     INT. JACK’S APARTMENT - NIGHT (LATER)
+
+Jack enters and slams the door. He looks wired up, 
+restless. Lighting a cigarette, he flicks on the TV, gets only 
+haze, adjusts the antenna, still gets nothing, then gives it a 
+pop with his fist... still nothing. Infuriated, he steps back, 
+eyes the TV, then gives it a kick with his foot, sending it 
+tumbling. He studies it, unsatisfied, turns to the bookcase, 
+and clears a shelf with a sweep of his arms. He looks at 
+the debris at his feet, sees the “Terry’s Tap Room” photo 
+of he and Frank and picks it up, studying it as he drags on 
+his cigarette. Sliding behind the piano, he props the photo 
+there, and begins to play, searching for something 
+interesting, but he’s too distracted. He stops, tries again, 
+loses the groove after a few bars and then begins to pound 
+the keys furiously in frustration. As he stops, his eyes shift 
+to the photograph of he and Frank.
+
+Two skinny kids, smiling goofily.
+
+
+133     INT./EXT. FRANK’S CAR - NIGHT
+
+As Frank guides the car through the wet city streets, 
+Jack cradles a whiskey flask, occasionally taking a hit. 
+It’s two A.M. and raining hard.
+
+     JACK
+     We’re not getting paid then.
+
+     FRANK
+     No.
+
+     JACK
+     Nothing. We get nothing.
+
+     FRANK
+     I told you, Jack. It’s a telethon. No one gets a cent.
+
+     JACK
+     What’s it for?
+
+     FRANK
+     I don’t know. Some disease.
+
+     JACK
+     What disease?
+
+     FRANK
+     I don’t know.
+
+     JACK
+     You don’t know?
+
+     FRANK
+     It’s a disease, Jack. We’re against it. It’s not a 
+     moral decision.
+
+     JACK
+     What channel’s it on?
+
+     FRANK
+     Seventy-one.
+
+     JACK
+     Seventy-one? What’s seventy-one?
+
+     FRANK
+     (defensively)
+     A channel. It’s just a little further down the dial, 
+     that’s all. Look, it’s publicity. Publicity’s publicity. 
+     Right?
+
+Jack stares at Frank, then takes another drink.
+
+     JACK
+     Right.
+
+
+134     INT. TELEVISION STUDIO - NIGHT
+
+Jerry Lewis need not fear. This is strictly a tinfoil and 
+crepe paper operation. In front of a huge tote board, a kid 
+in a wheelchair is doing basketball tricks before the 
+camera.
+
+     FRANK
+     I’ll see when we’re on.
+
+As Frank leaves, Jack glances around the studio like he’s 
+walked into a nightmare. At the phone bank, a heavyset 
+MAN in a sweatshirt and cap looks over. Both the 
+sweatshirt and the cap have “Earl” printed on them.
+
+     EARL           
+     You the magician?
+
+     JACK
+     No.
+
+     EARL
+     (disappointed)
+     Oh. What do you do?
+
+Jack points to the pianos across the room.
+
+     JACK
+     Piano.
+
+     EARL
+     (hopeful)
+     Two at a time?
+
+     JACK
+     My brother and I. One each.
+
+     EARL
+     (disappointed again)
+     Oh.
+
+     JACK
+     (indicating the kid in the wheelchair)
+     What’s wrong with the kid?
+
+     EARL
+     Knee. Tore it up against St. Joseph’s. Right before 
+     the accident.
+
+     JACK
+     Accident?
+
+     EARL
+     The fire. The way we’re going, we’ll be lucky to 
+     buy a carton of jockstraps, let alone a new gym.
+
+As Jack registers this, Earl’s phone RINGS. Frank 
+returns and gestures to the kid in the wheelchair.
+
+     FRANK
+     We’re on after Meadowlark.
+
+     JACK
+     Are you fucking kidding me? Are you fucking 
+     kidding me?
+
+     FRANK
+     What?
+
+     JACK
+     We’re playing for a goddamn gymnasium!
+
+     FRANK
+     (worried)
+     What?
+
+Just then, the kid in the wheelchair rolls off and a guy in 
+a cheap rented tux strides in front of the camera. He’s 
+VINCE NANCY, the host.
+
+     VINCE
+     Let’s hear it for our own Jimmy Marshall, shall 
+     we?
+
+The audience APPLAUDS.
+
+     VINCE
+     As most of you know, young Jimmy put a nasty 
+     twist on that knee trying to win one for good ol’ 
+     Grant High this year. Luckily, the doctors tell us 
+     Jimmy’ll be able to play next season. That is... 
+     if there is a next season.
+     (Uncle Sam)
+     That’s where you come in. Pick up that phone. 
+     Make a donation. Let’s keep our kids off the 
+     streets and in the gym where they belong.
+
+APPLAUSE.
+     
+     VINCE
+     All right. Well, friends, what can I say about our 
+     next guest?
+     (consulting a card)
+     He, uh, they, uh, we are very pleased to have with 
+     us two of the most respected men in the musical 
+     entertainment field... The Fabulous Bunker Boys! 
+     Come on out here, guys.
+
+Vince gestures grandly to the left and Jack and Frank enter 
+from the right.
+
+     VINCE
+     Whoops, there they are. Hey, nice suits, fellas.
+     (to camera)
+     Now, I know a lot of you amateur musicians out 
+     there are going to want to rap with these guys -- 
+     and don’t worry. Right after they finish up here, 
+     they’re going to be manning the phones. Maybe 
+     we can even convince them to raffle off a few 
+     piano lessons if we’re lucky. What do you think?
+
+The audience APPLAUDS. Jack glares at Frank.
+
+     VINCE
+     Well all right then. What are we waiting for? 
+     Take it away, guys.
+
+As Jack and Frank begin to play. As the music rises, the 
+studio becomes very quiet, almost still. Unfortunately, 
+Jack and Frank are barely though the opening passage 
+when a thunderously loud BELL begins to ring. Suddenly 
+Vince steps out again.
+
+     VINCE
+     Uh oh. We know what that means, don’t we? It’s 
+     time to turn the big board over again.
+     (to Jack, Frank)
+     I’m afraid you fellas’ll just have to wait a minute. 
+     All right boys. Bring it out.
+
+Two post-pubescent giants roll out the tote board -- right 
+in front of Jack and Frank. Jack looks homicidal.
+
+     FRANK
+     Jack...
+
+Jack kicks out the piano bench and starts to leave. Then, 
+seeing the kid in the wheelchair, he grabs the basketball 
+and fires it and Vince.
+
+     VINCE
+     What the...
+
+     JACK
+     (pointing at him)
+     You’re a fucking creep, you know that. I oughta 
+     kick your ass.
+
+     FRANK
+     (whispering)
+     Jack, you’re on television.
+
+     JACK
+     Shut up, Frank.
+
+Earl of the sweatshirt and cap puts his hand on Jack’s 
+shoulder.
+
+     EARL
+     What do you say we go for a walk, pal?
+
+     JACK
+     Get your hand off me.
+     
+     EARL
+     Come on friend. I can smell it on you. Get 
+     yourself a cup of coffee. You’ll forget what 
+     you’re angry about.
+
+     JACK
+     Go fuck yourself.
+
+Earl’s eyes go hard.
+
+     EARL
+     You’re a real tough guy when the ladies are 
+     around, aren’t you, Ace?
+
+     JACK
+     I don’t see any ladies here. Except maybe you.
+
+That does it. Earl takes hold of Jack’s collar and starts 
+to wrestle him roughly toward the door.     
+          
+     FRANK
+     Hey, leave him alone.
+
+     JACK
+     (eying Earl’s sweatshirt, cap)
+     Buy all your clothes at the same place, Earl?
+
+Earl shoves Jack out of the studio, hard. Jack stumbles 
+back, ends up in a heap.
+
+     EARL
+     Who do you think you are, asshole? Liberace?     
+
+
+135     EXT. STREET - NIGHT
+
+Jack walks down the street, mindless of the rain. Frank 
+follows a few yards behind him.
+
+     FRANK
+     Jack. We just passed the car. JACK. This is a 
+     tuxedo. Three hundred dollars.
+     (pause)
+     You gonna talk to me? Or is this Jack’s famous 
+     silent act? Look, it was for publicity. Do you 
+     understand? Publicity.
+
+Jack stops and stares at Frank incredulously.
+
+     JACK
+     What are you? A fucking moron? It’s three 
+     o’clock in the morning, Frank. Who’s watching? 
+     Paperboys?
+
+     FRANK
+     Look. I didn’t know when we were going to be 
+     on until yesterday.
+
+     JACK
+     Basketballs, Frank. You had us playing for 
+     basketballs.
+
+     FRANK
+     I’m sorry. I should’ve checked it out. I screwed 
+     up. But that doesn’t mean you walk out in the 
+     middle of a gig.
+
+     JACK
+     WHAT?
+     
+     FRANK
+     It wasn’t professional, Jack.
+
+Jack just stares at Frank, as if looking at a stranger.     
+     
+     JACK
+     What’s happened to you, Frank? You been kissing 
+     ass so long you’re starting to like it? You let that 
+     guy turn us into clowns tonight. We were always 
+     small-time, but we were never clowns, Frank. 
+     What’s happened to your dignity?     
+     
+     FRANK
+     Dignity? Who the hell are you to talk about dignity?
+
+Frank steps forward and reaches into Jack’s coat, coming 
+away with the whiskey.
+
+     FRANK
+     This where you get your dignity, Jack? This 
+     where you get your courage?
+
+Jack tries to grab the bottle but Frank holds it away.
+
+     FRANK
+     No, let’s do it straight for once.
+
+Frank tosses the bottle into the street, where it 
+SHATTERS.
+
+     FRANK
+     I want to explain something to you, little brother. 
+     See, there are people in this world who depend on 
+     me. I’ve got a wife, and two kids who expect to 
+     wake up every morning with food on the table and 
+     heat in the house. I got a mortgage. I got car 
+     payments. And, oh yeah, I got you. My little 
+     brother Jack who’s so cool and so hip and so 
+     fucking sure he’s better than everyone else. Don’t 
+     you think I’d like to walk up to one of these 
+     assholes and blow smoke in his face? Goddamn 
+     right I would. But I can’t. I have to be 
+     responsible, little brother. I have to make sure the 
+     numbers balance out in my favour at the end of 
+     each month so everyone can go on living their 
+     lives. You don’t win medals for it, but you can be 
+     damn sure you’d all take notice if I folded up 
+     shop. So don’t talk to me about dignity, little 
+     brother. You’re drawing on a weak hand.
+
+Jack stares at Frank through the rain, then turns and 
+begins to walk away.
+
+     FRANK
+     Great. Terrific. Walk away. You’re good at that, 
+     Jack. You never could commit to anything, even 
+     a conversation.
+
+     JACK
+     Is that what that was? Sounded more like a speech 
+     to me. Next time save it for the PTA.
+     
+     FRANK
+     (beat)
+     You just had to, didn’t you, Jack? You couldn’t 
+     keep your cock in your pocket.
+
+Jack stops, glares at Frank.
+
+     JACK
+     Hey. Who I fuck and who I don’t fuck is none of 
+     your fucking business. Got it?
+
+     FRANK
+     It is when it affects my business.
+
+     JACK
+     Your business. YOUR business? Your business 
+     exists because of me.
+
+     FRANK
+     YOU? Who’re you kidding? I make the calendar, 
+     I pay the expenses. Christ, I even make your shoes
+     are shined. What do you do? Show up for a couple 
+     hours a night and smoke cigarettes.
+
+     JACK
+     Frank. If someone requested “Chopsticks,” you’d 
+     ask for the sheet music.
+
+     FRANK
+     (stung)
+     If it wasn’t for me, little brother, you’d be playing 
+     for dimes out of the back of a truck.
+
+     JACK
+     Yeah, you’re a real pro, Frank. You were doing 
+     such a bang up job a few months ago, you had 
+     ‘em paying us NOT to play. That’s fucking genius.
+
+Enraged by this, Frank glares at Jack, then suddenly bolts 
+forward, drilling hard with his shoulder, driving Jack 
+into the wall.
+
+     JACK
+     Jesus, Frank! What the fuck’s the matter with you?
+
+Jack twists Frank around and pushes him off, but Frank 
+charges back.
+
+     JACK
+     Goddamnit, Frank! Knock it off!
+
+As they pound off the wall again, Jack’s anger suddenly 
+multiplies on itself, as of fuelled by fifteen years of 
+frustration. Flinging Frank against the wall, he becomes 
+the aggressor, pounding, pulling, and slamming him in 
+fitful rage. Frank is suddenly scared.
+
+     FRANK
+     Jack!... Jack!...
+
+Frank slides down the cement wall, trying to protect 
+himself. Unrelenting, Jack comes down with a vicious 
+fist at Frank’s face, catching his fingers instead.
+     
+     FRANK
+     My hands! My hands!
+
+Jack grabs one of Frank’s hands roughly, twisting the 
+fingers back.
+
+     FRANK
+     (terrified)
+     Jack!
+
+Jack twists Frank’s fingers harder. A knuckle cracks.     
+
+     FRANK
+     Jack! JACK!
+
+Frank’s voice ECHOES high above the SOUND of the 
+rain. Jack stops, looks at Frank’s hand, still clasped in 
+his own. Letting go, he stares at his own hands, the skin 
+split and bleeding. He no longer looks dangerous. He 
+looks hollow, frightened.
+
+     JACK
+     I’m through with it. I can’t do it anymore.
+
+Before Frank can say anything, Jack turns away, leaving 
+his brother on the sidewalk, and disappears in the rain.
+
+
+136     EXT. CITY SKYLINE - DAWN (A FEW HOURS 
+LATER)
+
+     WOMAN’S VOICE
+     (singing)
+     “Who can take a sunrise
+     Sprinkle it with dew...
+     Toss it in the air
+     And make a groovy lemon pie
+     The candy man can...
+     The candy man can...”
+
+
+137     INT. DINER  - DAWN (SAME TIME)
+     
+Jack, looking like he’s gone fifteen rounds, is sitting at the
+table by the window, his head against the glass. He opens
+one eye, sees a waitress smiling over him. Monica 
+Moran.
+
+     MONICA
+     You’re one of the “Fabulous” guys. I remember.
+
+     JACK
+     Wrong number.
+
+     MONICA
+     Ah, you can’t kid me. I see you every day.
+
+She points behind the cash register, to the wall covered 
+with photographs. Frank. Himself. Susie...
+
+     MONICA
+     That’s why I took the job. The day I came in I seen 
+     you and your brother’s faces hanging there and I 
+     figured it was like a sign or something. Like 
+     destiny.
+
+Jack looks away from the photo of Susie, nods.
+
+     JACK
+     How you doing, Monica?
+     
+     MONICA
+     Swell. Only it’s Blanche here.
+
+Jack nods, starts to take his coffee, but Monica pushes it 
+away and turns over a fresh cup.
+
+     MONICA
+     Nah, don’t touch that. That’s three hours cold.
+     (pouring)
+     Yeah, I been sitting over there just waiting for 
+     you to wake up. Finally, I figured maybe you had 
+     an appointment or something.
+     (shaking her head)
+     Boy, it’s weird, huh? You meet people, and you 
+     think you’re never gonna to see them again...           
+
+Jack studies Monica’s body and she pulls away with the 
+coffee pot. She notices.
+     
+     MONICA
+     Guess you got caught in the rain, huh?
+
+     JACK
+     (looking at her)
+     Yeah, I got caught in the rain.
+
+Monica looks at Jack, then laughs a little nervously.
+
+     MONICA
+     God, I still can’t get over it. You just walking in 
+     here...
+
+     JACK
+     When do you punch out?
+
+     MONICA
+     (swallowing)
+     You’re my last ticket.
+
+Monica looks a little nervous, but hopeful. Jack studies 
+her -- it would be easy -- but then his eyes shift to the 
+photo of Susie again.
+
+     JACK
+     Well, button up on the way home, Blanche. It’s 
+     cold out there.
+
+
+138     INT. JACK’S APARTMENT - EARLY MORNING 
+(AN HOUR LATER)
+
+As Jack enters, he finds Nina sitting by the piano, trying to 
+master a paddleball toy.
+
+     NINA
+     (not looking up)
+     Hi, Jack.
+
+As Nina whacks the tiny red ball off the paddle, it makes 
+a dull, snapping SOUND. Thwack. Thwack. Finally, she 
+misses, looks up, sees Jack’s rain-rumpled tux.
+
+     NINA
+     You better take that tux in, Jack. I could drop it off 
+     this afternoon.
+
+Jack says nothing, takes off the jacket. Nina starts with the 
+paddle again. THWACK. THWACK.
+
+     NINA
+     You want me to make some coffee?
+
+Jack hangs his jacket on the closet door and pauses by the 
+bookcase. Everything he had knocked off has been 
+carefully replaced. He runs his fingers over an ashtray 
+-- clean.
+
+     NINA
+     Jack...?
+
+Jack turns and watches Nina slap the ball. THWACK. 
+THWACK. Missing, she looks up.
+
+     NINA
+     ... Coffee?
+
+Jack shakes his head slowly and Nina goes back to the 
+paddle. THWACK. THWACK. THWACK. The sound is 
+driving Jack crazy.
+
+     JACK
+     (quietly)
+     Could you stop that please?
+     
+     NINA
+     (not hearing)
+     How ‘bout eggs? I could make you some eggs if 
+     you want...
+
+THWACK. THWACK. THWACK. Suddenly, Jack steps 
+forward and whips the toy out of her hands.
+
+     JACK
+     Will you knock it off with that fucking thing?!
+
+Nina looks up, startled.
+
+     JACK
+     You’re driving me nuts.
+     (mocking her)
+     “You want some eggs, Jack? you want some 
+     coffee?” What’s the matter with you? You’re not 
+     my housekeeper and I’m not your fucking father. 
+     I can’t babysit you every time Mama gets an itch!
+
+Nina, flushed with fear and hurt, turns and slips out the 
+window, up the fire escape. Jack stares after her, still 
+seething, then looks at the paddle in his hand, loses his 
+anger. He notices Eddie staring at him.
+
+     JACK
+     What’re you looking at?
+
+
+139     EXT. THE FIRE ESCAPE - MORNING 
+(A FEW MINUTES LATER)
+
+Jack climbs out his window and scales the iron ladder 
+to the roof, where Nina is sitting, dangling her legs over 
+the rain gutter, chin in hand.
+
+Jacks sits next to her, drops the paddle into her lap.
+
+     NINA
+     You’re having a bad day, right?
+
+     JACK
+     Right.
+
+     NINA
+     It’s okay. My Ma used to have lots of those. 
+     Sometimes that’s why I came down. Even when 
+     there was no one sleeping over.
+
+Jack nods, studies the skyline.
+
+     JACK
+     What do you say we go over to Empire and get a 
+     couple Coney’s.
+
+     NINA
+     Can’t. I’m going to the zoo with Howard.
+
+     JACK
+     Howard?
+
+     NINA
+     Ma says I can’t call him Bigfoot anymore.
+
+Suddenly, from down in the street, the SOUND of a car 
+horn is heard. Nina looks down.
+
+     NINA
+     Uh-oh. I think he’s early.
+
+Nina gets up, pauses by the ladder.
+
+     NINA
+     You ever go to the zoo, Jack?
+
+     JACK
+     Sure.
+
+     NINA
+     No one ever took me to the zoo before. Boy, he 
+     must REALLY be serious.
+
+Jack watches as Nina takes the ladder, starts to descend.
+
+     JACK
+     Hey.
+     (as she stops)
+     Teach you later.
+
+Nina looks at him, a little surprised.
+
+     JACK
+     What’re you going to do? Go around playing 
+     “Jingle Bells” the rest of your life?
+
+Nina smiles, then disappears over the side of the 
+building. Jack picks up the paddle she’s left behind, 
+studies it.
+
+THWACK. THWACK.
+
+As the SOUND of the paddle ball FADES, it’s 
+overtaken by the sound of a bluesy piano and we --
+
+DISSOLVE TO:
+
+
+140     INT. THE TINY JAZZ CLUB - DAY               
+
+MOVING INTO IT SLOWLY, hearing the MUSIC long 
+before the CAMERA reveals Jack, at the far end of the 
+room, sitting alone at the piano. It’s afternoon and sharp 
+blades of sunlight slice into the ghostly room from street 
+level windows. After a moment, a huge figure appears in 
+the f.g., his back to us. It’s Henry, the owner. He watches 
+Jack until he finishes.
+
+     HENRY
+     I’ve got Tuesdays and Thursdays open the rest of 
+     the month.
+
+Jack runs his hands lightly over the keys, just touching 
+them, making no sound.
+
+     
+141     EXT. SUSIE’S APARTMENT BUILDING - DAY)
+
+Susie steps out of her apartment building, pauses by the 
+mailboxes.
+
+     SUSIE
+     You’re risking your life, you know.
+
+Jack is leaning against a car, watching her.
+
+     JACK
+     You got a gun?
+
+Silence. Jack pushes away from the car, comes closer.
+
+     JACK
+     You look good.
+
+     SUSIE
+     You look like shit.
+
+     JACK
+     No, I mean it. You look good.
+
+     SUSIE
+     I mean it too. You look like shit.
+
+     JACK
+     So how’s the cat food business?
+
+     SUSIE
+     Terrific. I’m doing vegetables now.
+
+Jack nods.
+
+     JACK
+     What kind?
+
+     SUSIE
+     Carrots, peas. None of the important ones.
+
+Jack nods, taps the cigarette on the railing, thinking.
+
+     JACK
+     You know, the other night...
+
+     SUSIE
+     I was out of line.
+
+     JACK
+     No. I was out of line.
+
+Susie looks a little surprised by this.
+
+     SUSIE
+     Well, I was a little rough on Egghead. I mean, beats 
+     the hell out of me, but... I kinda miss him.
+
+     JACK
+     Yeah, well, he grows on you after awhile.
+
+As Jack stares off down the street, Susie studies his face.
+
+     SUSIE
+     So... you find another girl?
+
+     JACK
+     I didn’t look.
+
+As Jack looks up, Susie locks into his eyes, vulnerable 
+to him, then glances away.
+
+     SUSIE
+     Well, I’m gonna be late.
+     (singing)
+     “Peas, peas try our peas                                        Our peas are a deli-ca-see...”
+     From “Strangers In The Night” to that. It’s a funny
+      world, huh?
+
+Jack nods.
+     
+     SUSIE
+     Yeah, well, ‘bye, Baker,
+
+Susie brushes by Jack and heads up the street.
+
+     JACK
+     Hey.
+
+She stops, turns.
+
+     JACK
+     Am I gonna see you again?
+
+     SUSIE
+     (not giving in)
+     What do you think?
+
+     JACK
+     Yeah. I think I’m gonna see you again.
+
+Susie looks at him suspiciously. Jack smiles at her.
+
+     JACK
+     Intuition.
+
+Susie just looks at Jack, saying nothing, then she can’t stop 
+herself... she smiles.
+
+
+142     EXT. FRANK'S HOUSE  - DAY
+
+As the cab pulls away, Jack is left standing alone in the the 
+street. He glances at the house, then goes to the front door. 
+As he presses the new doorbell, a cacophony of CHIMES resonates 
+inside the house and a moment later, the door swings open.
+
+Little Cindy, in a lollipop-print dress. Jack eyes her warily, 
+still not sure he's in her good graces.
+
+     CINDY
+     (cheerfully)          
+     Hi, Uncle Jack.
+
+     JACK
+     (relieved)
+     Hi, kid. Nice dress.
+
+     CINDY
+     Thanks.
+
+     JACK
+     Daddy around?
+
+Cindy steps aside, points down the hall.
+
+     JACK
+     Thanks.
+     
+
+143     OMITTED
+
+
+144     INT. “BAKER BOYS” ROOM - DAY
+
+Frank is taking things off the shelves, putting them into 
+boxes. Coming to the Hula Girl Hideaway monkey, Frank 
+studies it curiously, then gives the arm a flick, igniting the 
+little torch in the other. He tosses it in a box.
+
+     JACK
+     You don’t want that?
+
+Frank turns. Jack steps in.
+
+     FRANK
+     How the hell’d you get in here?
+
+     JACK
+     Cindy. We’re pals now.
+
+     FRANK
+     Great. Have your pal show you the way out.
+
+As Frank turns back to the shelf, Jack just glances around 
+the room, not leaving.
+
+     JACK
+     Everything goes, that the idea?
+
+     FRANK
+     That’s the idea.
+
+     JACK
+     You’re just throwing it away?
+
+Frank turns, a little shocked.
+
+     FRANK
+     No. Into the garage. I’m just getting too old for 
+     trophy dens, that’s all. And, anyway, it’s about 
+     time Little Frank had his own room.
+
+     JACK
+     You gonna paint?
+
+     FRANK
+     We’re gonna paint.
+
+     JACK
+     What color?
+
+     FRANK
+     (turning)
+     Look, Jack. Let’s cut the bullshit. You came here 
+     to talk business, right? Okay, fine. We’ll put the 
+     other night behind us and in a couple weeks 
+     everything’ll be the same again. Okay? Now you 
+     can go.
+
+Frank goes back to the boxes.
+
+     JACK
+     I didn’t come here to talk business.
+     (beat)
+     I’m not coming back, Frank.
+
+Frank stops, looks at Jack.
+
+     FRANK
+     So what’s there to talk about?
+
+     JACK
+     We’re still brothers.
+
+     FRANK
+     I’m touched, Jack. Really.
+
+     JACK
+     Frank...
+
+     FRANK
+     Look, Jack. If you want to piss away everything 
+     we’ve built over fifteen years, that’s fine. Just 
+     spare me the ruminations on brotherly love.
+
+     JACK
+     Listen to me, Frank...
+
+     FRANK
+     I don’t want to listen to you anymore, Jack. 
+     What’re you going to tell me? That I wasted your 
+     life? That I twisted your arm for fifteen years? 
+     Well, forget it, little brother. That’s a lie. 
+     Hear me? A fucking lie.
+
+     JACK
+     (with sudden anger)
+     You’re right. Okay? You’re right. I don’t blame 
+     you, Frank. I don’t blame anyone. I just can’t do it 
+     anymore.
+     (beat)
+     I’m drying up inside, Frank. I’ve been drying up 
+     for years. Do you understand? Somewhere along 
+     the way I started to close down. It’s like I had this 
+     big house and one day I just started painting the      
+     windows black, one by one. I mean, I sit in the
+     fucking Hilton or the Sheraton or wherever, 
+     practically every night of my life, and from the 
+     minute I get onstage, I’m waiting for it to end. We 
+     play the same goddamn songs the same goddamn 
+     way every night. That isn’t enough for me. It just 
+     doesn’t mean anything to me.
+     (beat)
+     It’s dishonest. I can’t do that anymore. I’ve been 
+     lying to myself long enough.
+
+Frank stares at Jack for a moment, then turns back to the 
+boxes.
+
+     FRANK
+     If you see anything you want, take it.
+
+Jack stands there, staring at his brother’s back, defeated. 
+He starts to leave, then something catches his eye. From a 
+dusty shelf, he pulls out a bottle.
+
+     JACK
+     Okay if I take this?
+
+As Frank turns, Jack tosses the bottle to him, hard. Frank 
+scrambles to catch it, then looks at it. It’s the bottle from 
+the photograph in Jack’s apartment.
+
+     JACK
+     Come on, Frank. I’m trying.
+
+Frank looks up, reacting to the nakedness of Jack’s 
+statement, then looks at the bottle. It seems to hold some 
+special magic for him.
+
+     JACK
+     How’re your hands?
+
+     FRANK
+     My hands are fine. Don’t worry about my hands. 
+     And don’t worry about me. I don’t need this any 
+     more than you do, little brother. We both know I 
+     can make just as much teaching “Campdown 
+     Races” to these snotty kids in the neighbourhood 
+     as being a lounge rat. Don’t kid yourself.
+
+Jack just nods. Frank studies him for a long moment, then 
+looks at the bottle again. Finally, making a decision, he 
+flips it back to Jack.
+
+     FRANK
+     Open it.
+
+Jack just looks at him.
+
+     FRANK
+     Open the fucking bottle.
+
+As Jack holds the bottle carefully, he watches Frank grab 
+a handful of souvenir shot glasses.
+
+     FRANK
+     What’s your pleasure? We got the airport Ramada. 
+     We got the Travelodge on 410. And... the Mallory.
+
+     JACK
+     I’ll take the Mallory.
+
+     FRANK
+     Forget it. I want the Mallory. You take the 
+     Travelodge.
+
+Jack smiles slightly and takes the glass. As he and Frank 
+settle on the tiny piano benches, Frank notices the dust on 
+the glasses.
+
+     FRANK
+     Looks like these got a few years on them.
+     
+     JACK
+     This’ll kill ‘em.
+
+Frank nods. Jack hesitates, then breaks the seal on the 
+bottle, pours. As they swallow, each grimaces, looks at 
+the other.
+
+     JACK/FRANK
+     (in unison)
+     Not bad.
+
+It suddenly grows silent, each sitting in his old familiar 
+place, staring into his glass.
+
+     JACK
+     How come you keep them in tune?
+
+Frank looks suprised, then shrugs.
+
+     FRANK
+     Habit.
+
+Frank looks at his glass and his mind leads him to 
+something uncomfortable.
+
+     FRANK
+     Maybe this is horrible. I mean, I know it’s like 
+     breathing to you... But sometimes, when I was up 
+     there with you, playing, it was almost like I had it 
+     too. That feeling.
+
+Jack glances at Frank. He looks old, sitting on the tiny 
+bench. Suddenly, Frank lifts his glass, eyes the tiny hotel 
+rendered there.
+
+     FRANK
+     Jesus, when was the last time we played the 
+     Mallory?
+
+     JACK
+     (thinking)
+     ‘78... November.
+
+     FRANK
+     Right. It was someone’s birthday. Halloran?
+
+     JACK
+     Daughter. Sweet sixteen.
+
+     FRANK
+     Christ, that’s right. How could I forget. What a 
+     nightmare.
+
+     JACK
+     She asked for it.
+     
+     FRANK
+     I told Halloran we didn’t do vocals, but he said --
+
+     JACK AND FRANK
+     (in unison)
+     “What my Sissy wants, my Sissy gets.”
+
+     JACK
+     She got it alright.
+
+Jack and Frank glance at one another, little boy mischief 
+glowing in their faces. Suddenly, they swivel on the 
+pianos and begin to play “You’re Sixteen”.
+
+     JACK AND FRANK
+     (singing)
+     “She comes on like a dream
+     Peaches and cream
+     Lips like strawberry wine
+     She’s sixteen, she’s beautiful
+     and she’s mine...
+
+     Ribbons and curls
+     Ooh, what a girl
+     Eyes that sparkle and shine
+     You’re sixteen, you’re beautiful
+     and you’re mine...”
+
+As Jack and Frank finish, they’re laughing. After a moment, 
+their voices die and the room is quiet again. Full of ghosts.
+Each stares at the tiny keyboard before him, awkward with 
+the intimacy of the moment. Is quiet for a very long time. 
+Finally, Frank looks over.
+
+     FRANK
+     Well... One more time?
+
+Jack glances up and sees that Frank has his empty glass 
+held out. He picks up the bottle and pours.
+
+     JACK
+     One more time...
+
+     FADE OUT
+
+     THE END                                                                  
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

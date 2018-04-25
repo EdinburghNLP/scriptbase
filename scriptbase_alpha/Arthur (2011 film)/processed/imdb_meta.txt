@@ -1,0 +1,149 @@
+year	2011
+imdb score	5.8
+meta score	36
+genre	Comedy
+genre	Romance
+keyword	alcoholic
+keyword	one word title
+keyword	wedding
+keyword	grief
+keyword	alcoholics anonymous
+keyword	mother dislikes son's friend
+keyword	remake
+keyword	singing
+keyword	male tears
+keyword	nail gun
+keyword	peter pan syndrome
+keyword	british accent
+keyword	mother son conflict
+keyword	remake of cult classic
+keyword	man child
+keyword	disinheritance
+keyword	reference to star wars
+keyword	reference to simon and garfunkel
+keyword	based on film
+keyword	poverty
+keyword	underwear
+keyword	cartoon on tv
+keyword	grand central station manhattan new york city
+keyword	punched in the face
+keyword	chauffeur
+keyword	glamorous lifestyle
+keyword	forced marriage
+keyword	foundation
+keyword	nanny
+keyword	businesswoman
+keyword	mother son relationship
+keyword	top hat
+keyword	children's book
+keyword	magnetic bed
+keyword	disinheriting someone
+keyword	party
+keyword	title at the end
+keyword	domineering mother
+keyword	reference to batman
+keyword	table saw
+keyword	star wars spoof scene
+keyword	loss of loved one
+keyword	billionaire
+keyword	overbearing mother
+keyword	reference to little orphan annie
+keyword	alcohol
+keyword	costume
+keyword	character name in title
+keyword	title spoken by character
+keyword	
+cast	Russell Brand	Arthur
+cast	Helen Mirren	Hobson
+cast	Greta Gerwig	Naomi Quinn
+cast	Jennifer Garner	Susan Johnson
+cast	Geraldine James	Vivienne
+cast	Luis Guzmán	Bitterman
+cast	Nick Nolte	Burt Johnson
+cast	Christina Jacquelyn Calph	Tiffany
+cast	Murphy Guyer	Officer Kaplan
+cast	José Ramón Rosario	Employment Clerk
+cast	John Hodgman	Candy Store Manager
+cast	Scott Adsit	Gummy Bear Man
+cast	Evander Holyfield	Boxing Trainer
+cast	Peter Van Wagner	Naomi's Dad
+cast	Robert Clohessy	Veteran Cop
+cast	Ed Herbstman	Rookie Cop
+cast	Jared Parker	Wedding Kid
+cast	Tom Toner	Wedding Priest
+cast	Richard Bekins	Chancellor
+cast	Matt Malloy	Spoon Guy
+cast	Nigel Barker	Photographer
+cast	Tuffy Questell	Tito
+cast	Sara Chase	Journalist #1
+cast	Ali Reza	Journalist #2
+cast	Kimberly Pauley	Journalist #3
+cast	Brian McElhaney	College Student
+cast	Charlie Hewson	Receptionist / Best Man
+cast	Peter Brouwer	Auctioneer
+cast	Saul Stein	Officer #2
+cast	Stink Fisher	Foreman
+cast	Debbie Lee Jones	Kissed Woman
+cast	Pascal Yen-Pfister	Maitre D'
+cast	Dylan Clark Marshall	Boy on Tour
+cast	Steve Rosen	Grand Central Waiter
+cast	Leslie Hendrix	Alice Johnson
+cast	George Feaster	James
+cast	Ed Jewett	Group Leader
+cast	John Carrafa	Choreographer
+cast	Jennie Eisenhower	Maid of Honor
+cast	Sean G. Tarjoto	Bookstore Clerk
+cast	Pamela Stewart	Librarian
+cast	Tori Feinstein	Library Girl #2
+cast	Jackson Nicoll	Library Boy #1
+cast	Caden Draper	Library Boy #2
+cast	Jase Draper	Library Boy #3
+cast	Anna Kuchma	Tiffany's Friend
+cast	Anthony Urillo	Wedding Photographer
+cast	Sylvia Ward	Bridal shower guest
+cast	Devin Almonte	Susan's Bridesmaid
+cast	Anthony Amodeo	ATM User
+cast	Marc Alan Austen	Hasidic
+cast	Kayla Ayler-McCormick	Customer in Candy Store
+cast	Ryan Barratt	Waiter
+cast	Joseph Basile	Job Hunter at Unemployment Office
+cast	Denny Bess	Police Sergeant
+cast	Jasmine Hope Bloch	Astoria Resident
+cast	Peter Bond	Happy Birthday Prisoner
+cast	David Boston	Hospital Guest
+cast	Jackie Brown	Surprised Wedding Guest
+cast	Farouk Chakwa	Wedding Guest
+cast	Jamie Choi	Bridesmaid
+cast	Andrew Justin Cohen	Wedding Guest
+cast	Avery Davis	Kid at Dylan's Candy Store
+cast	Donato DeMarinis	Waiter
+cast	Chelsey Donn	Clerk
+cast	Dawn Douglas	AA Support Client
+cast	Elli	Rabbi Elli
+cast	Melody Garcia	Justin Bieber Mom
+cast	Kathryn Gerhardt	Woman at AA Group
+cast	Takako Haywood	Member of Grand Central Tour Group
+cast	Gina Hernandez	Bodega Woman #1
+cast	Rosemary Howard	Le Cirque Patron
+cast	Skai Jackson	Little Girl
+cast	Anne Bergstedt Jordanova	Party Girl
+cast	Tony Kost	Naomi's Neighbor
+cast	Dylan Lauren	Herself
+cast	Geoff Lee	Asian Tourist 'Korean John Lennon'
+cast	Ron Maestri	A Walking Stephen Hawking
+cast	John Mancini	NYPD Police Officer
+cast	Jeremy McLain	Wedding Guest
+cast	Scott O'Grady	Wedding Guest
+cast	Toshiko Onizawa	Party Guest
+cast	Evan Elise Owens	Girl in Plaid Shirt at Dylan's
+cast	Frederick Piña	Extra
+cast	Julianna Rigoglioso	Little Girl at Dillons
+cast	Tatsumi Romano	Tour Girl
+cast	Ilana Seagull	Grand Central Station Commuter
+cast	Madisyn Shipman	Little Girl
+cast	Robert Shulman	MOMA Benefit Attendee
+cast	Nate Steinwachs	Restaurant Patron
+cast	Joseph Urban	Happy Birthday Prisoner
+cast	Naeem Uzimann	Hot Dog Vendor
+cast	Barbara Vincent	Le Cirque Patron
+cast	Alex Ziwak	Casual New Yorker

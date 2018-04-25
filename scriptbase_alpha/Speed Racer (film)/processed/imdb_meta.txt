@@ -1,0 +1,249 @@
+year	2008
+imdb score	6.1
+meta score	37
+genre	Action
+genre	Family
+genre	Sport
+keyword	speed
+keyword	racer
+keyword	race
+keyword	racing
+keyword	driver
+keyword	mach 5
+keyword	car
+keyword	industry
+keyword	competition
+keyword	race car
+keyword	cheating
+keyword	finish line
+keyword	tunnel
+keyword	glock
+keyword	daydream
+keyword	thrown from a car
+keyword	flashback
+keyword	kicked in the crotch
+keyword	television news
+keyword	slingshot
+keyword	critically bashed
+keyword	corporate conglomeration
+keyword	knocked out
+keyword	exploding car
+keyword	candy
+keyword	ape
+keyword	contract
+keyword	plastic surgery
+keyword	car chase
+keyword	torture
+keyword	mother son relationship
+keyword	fight
+keyword	running a car off the road
+keyword	boyfriend girlfriend relationship
+keyword	hand to hand combat
+keyword	desert
+keyword	box office flop
+keyword	tour
+keyword	car jump
+keyword	rich snob
+keyword	tycoon
+keyword	based on anime
+keyword	pet monkey
+keyword	kung fu
+keyword	suit
+keyword	armored car
+keyword	punched in the face
+keyword	fistfight
+keyword	racetrack
+keyword	childhood
+keyword	pushed from height
+keyword	mechanic
+keyword	based on japanese tv series
+keyword	checkered flag
+keyword	blowgun
+keyword	loyalty
+keyword	theft
+keyword	father son relationship
+keyword	bet
+keyword	wrestling
+keyword	falling from height
+keyword	television broadcast
+keyword	nonlinear timeline
+keyword	secret identity
+keyword	body slam
+keyword	brother sister relationship
+keyword	mountain
+keyword	handgun
+keyword	private jet
+keyword	race track
+keyword	sunbathing
+keyword	loss of son
+keyword	virtual set
+keyword	undercover
+keyword	chimpanzee
+keyword	garage
+keyword	car goes over a cliff
+keyword	pancake
+keyword	explosion
+keyword	eavesdropping
+keyword	secret agent
+keyword	disarming someone
+keyword	actual animal killed
+keyword	fish tank
+keyword	loss of brother
+keyword	tommy gun
+keyword	kicked in the face
+keyword	t 180
+keyword	wilhelm scream
+keyword	brawl
+keyword	shoulder holster
+keyword	gunfight
+keyword	child in peril
+keyword	actor talks to audience
+keyword	pushed out a window
+keyword	drugged
+keyword	mexican standoff
+keyword	held at gunpoint
+keyword	schoolyard fight
+keyword	father son estrangement
+keyword	childhood sweetheart
+keyword	gocart
+keyword	based on tv series
+keyword	ninja
+keyword	finger bitten off
+keyword	corporate crime
+keyword	helicopter
+keyword	bomb
+keyword	automobile racing
+keyword	deception
+keyword	factory
+keyword	corruption
+keyword	magazine
+keyword	brother brother relationship
+keyword	alliance
+keyword	gun
+keyword	hotel
+keyword	car accident
+keyword	breaking the fourth wall
+keyword	faking own death
+keyword	person in a car trunk
+keyword	school teacher
+keyword	car race
+keyword	martial arts
+keyword	mask
+keyword	motor
+keyword	examination
+keyword	childhood love
+keyword	urban setting
+keyword	game fixing
+keyword	aquarium
+keyword	family relationships
+keyword	rigged outcome
+keyword	conspiracy
+keyword	pants falling down
+keyword	fantasy sequence
+keyword	gadget car
+keyword	pistol
+keyword	machine gun
+keyword	presumed dead
+keyword	race car crash
+keyword	kiss
+keyword	racecar driver
+keyword	future
+keyword	stock market
+keyword	obscene finger gesture
+keyword	piranha
+keyword	school
+keyword	stocks
+keyword	shootout
+keyword	altered version of studio logo
+keyword	pet
+keyword	title spoken by character
+keyword	character name in title
+cast	Emile Hirsch	Speed
+cast	Nicholas Elia	Young Speed Racer
+cast	Susan Sarandon	Mom
+cast	Melissa Holroyd	Speed's Teacher
+cast	Ariel Winter	Young Trixie Shimura
+cast	Scott Porter	Rex Racer
+cast	Gian Ganziano	Everyman Announcer
+cast	Peter Fernandez	Local Announcer
+cast	Harvey Friedman	Harold Ledermann Announcer
+cast	Sadao Ueda	Japanese Announcer
+cast	Valery Tscheplanowa	Russian Announcer
+cast	Sami Loris	Italian Announcer
+cast	Olivier Marlo	French Announcer
+cast	Sean McDonagh	Celtic Announcer
+cast	Kick Gurry	Sparky
+cast	Christian Oliver	Snake Oiler
+cast	John Goodman	Pops
+cast	Vinzenz Kiefer	Crew Chief / Sempre Fi-Ber Driver
+cast	Mark Zak	Blackjack Benelli
+cast	Paulie Litt	Spritle Racer
+cast	Willy	Chim Chim
+cast	Kenzie	Chim Chim
+cast	Christina Ricci	Trixie
+cast	Julia Joyce	Blonde Pack Leader
+cast	Clayton Nemrow	Race Announcer
+cast	Ricky Watson	Race Commentator
+cast	Brandon Robinson	Big Mouth
+cast	L. Trey Wilson	Press Man
+cast	Matthew Fox	Racer X
+cast	Nayo Wallace	Minx
+cast	Roger Allam	Royalton
+cast	Lauren Blake	Flight Attendant
+cast	Cosma Shiva Hagen	Gennie
+cast	Ralph Herforth	Cannonball Taylor
+cast	Rain	Taejo Togokahn
+cast	Waldemar Kobus	Vinny - Cruncher Thug
+cast	John Benfield	Cruncher Block
+cast	Max Hopp	Cruncher Thug
+cast	Julie T. Wallace	Truck Driver
+cast	Hiroyuki Sanada	Mr. Musha
+cast	Matthias Redlhammer	Marvin the Cleaning Man
+cast	Eckehard Hoffmann	Joel Goldman
+cast	Stephen Marcus	Security Goon
+cast	Art LaFleur	Fuji Announcer
+cast	Peter Navy Tuiasosopo	Fuji Announcer
+cast	Nan Yu	Horuko Togokahn
+cast	Moritz Bleibtreu	Grey Ghost
+cast	Paul Sirr	Dour Face
+cast	Richard Roundtree	Ben Burns
+cast	Benno Fürmann	Inspector Detector
+cast	Ramon Tikaram	Casa Cristo Announcer
+cast	Melvil Poupaud	Johnny 'Goodboy' Jones
+cast	Kady Taylor	Queen of Casa Cristo
+cast	Junior Sone Enang	Shark Driver
+cast	Jana Pallaske	Delila
+cast	Bojidara Maximova	Flying Fox
+cast	Werner Daehn	Sempre Fi-Ber Leader
+cast	Komi Togbonou	Thor-azine Leader
+cast	Leila Rozario	Hydro-cell Driver
+cast	Steven Wilson	C.I.B. Security Man
+cast	Karl Yune	Taejo Body Guard
+cast	Togo Igawa	Mr. Togokahn
+cast	Jonathan Kinsler	Fuji Reporter
+cast	Anatole Taubman	Fuji Reporter
+cast	Ben Miles	Cass Jones
+cast	Frank Witter	Security Official
+cast	Megan Gay	Senior Race Official
+cast	Corinne Orr	Grand Prix Female Announcer
+cast	Joe Mazza	Nitro
+cast	Joon Park	Yakuza Driver
+cast	Ludmilla Ismailow	Denise
+cast	Milka Duno	Gearbox / Kellie Kalinkov
+cast	Amira Osman	Count Down Tower Woman
+cast	Ashley Walters	Prince Kabala
+cast	Jens Neuhaus	German Announcer
+cast	Sesede Terziyan	Turkish Announcer
+cast	Ill-Young Kim	Korean Announcer
+cast	Yuriri Naka	Japanese Announcer
+cast	Oscar Ortega Sánchez	Spanish Announcer
+cast	Fang Yu	Chinese Announcer
+cast	Narges Rashidi	Persian Announcer
+cast	Andrés Cantor	Grand Prix Announcer
+cast	William R. Dean	Sleazy Telephone Salesman
+cast	Jin Akanishi	Speed Racer
+cast	Luka Andres	Big Mouth
+cast	Joel Cross	Prince Fan
+cast	Alister Mazzotti	Pitter Pat
+cast	Nicolas Walier	Security
+cast	Alexander Yassin	Reporter - Grand Prix

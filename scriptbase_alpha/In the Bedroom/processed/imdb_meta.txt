@@ -1,0 +1,173 @@
+year	2001
+imdb score	7.5
+meta score	86
+genre	Crime
+genre	Drama
+keyword	wife
+keyword	ex husband
+keyword	school choir
+keyword	mother
+keyword	new england
+keyword	maine
+keyword	doctor
+keyword	grief
+keyword	taking the law into one's own hands
+keyword	single mother
+keyword	music teacher
+keyword	courtroom
+keyword	bruise
+keyword	shot in the eye
+keyword	physical abuse
+keyword	gun
+keyword	divorce
+keyword	father son relationship
+keyword	revenge
+keyword	grieving family
+keyword	woods
+keyword	disposing of a dead body
+keyword	injustice
+keyword	attorney
+keyword	cemetery
+keyword	female slaps female
+keyword	boston red sox
+keyword	flashback
+keyword	father
+keyword	dysfunctional family
+keyword	melodrama
+keyword	off screen murder
+keyword	controlling ex spouse
+keyword	subaru
+keyword	revenge murder
+keyword	forest
+keyword	dysfunctional marriage
+keyword	conspiracy
+keyword	child
+keyword	crying
+keyword	night
+keyword	barbecue
+keyword	jealousy
+keyword	prosecuting attorney
+keyword	face slap
+keyword	cleavage
+keyword	kidnapping
+keyword	only son
+keyword	summer
+keyword	darkness
+keyword	convenience store
+keyword	gloomy
+keyword	revenge killing
+keyword	tragic event
+keyword	love triangle
+keyword	gore
+keyword	scene based on painting
+keyword	card game
+keyword	coleslaw
+keyword	psychopath
+keyword	rain
+keyword	evidence tampering
+keyword	scantily clad female
+keyword	held at gunpoint
+keyword	older woman younger man relationship
+keyword	college student
+keyword	class differences
+keyword	violence
+keyword	anger
+keyword	lie
+keyword	lobster
+keyword	girlfriend
+keyword	sardine can
+keyword	corpse
+keyword	architecture student
+keyword	bar
+keyword	marriage
+keyword	small town
+keyword	killing
+keyword	lobster fishing
+keyword	mexican restaurant
+keyword	abusive husband
+keyword	murder
+keyword	mini skirt
+keyword	mini dress
+keyword	child's drawing
+keyword	death of son
+keyword	independent film
+cast	Tom Wilkinson	Matt Fowler
+cast	Sissy Spacek	Ruth Fowler
+cast	Nick Stahl	Frank Fowler
+cast	Marisa Tomei	Natalie Strout
+cast	William Mapother	Richard Strout
+cast	William Wise	Willis Grinnel
+cast	Celia Weston	Katie Grinnel
+cast	Karen Allen	Marla Keyes
+cast	Frank T. Wells	Henry
+cast	W. Clapham Murray	Carl
+cast	Justin Ashforth	Tim Bryson
+cast	Terry A. Burgess	District Attorney
+cast	Jonathan Walsh	Father McCasslin
+cast	Diane E. Hamlin	Davis' Assistant
+cast	Camden Munson	Jason Strout
+cast	Christopher Adams	Duncan Strout
+cast	Henry Field	Young Frank / Rockland T-Ball
+cast	Deborah Derecktor	Janelle
+cast	Harriet Dawkins	Alma Adamson
+cast	Bill Dawkins	Elwyn Adamson
+cast	Kevin Chapman	Tim's Friend
+cast	Joseph Field	Judge
+cast	Harold Withee	Grocery Clerk
+cast	David Blair	Marlboro Man
+cast	Elisabeth McClure	Elderly Woman
+cast	Alida P. Field	Young Gymnast
+cast	Andrea Wright	Waitress
+cast	John Campanello	Reporter
+cast	Robert Demkowicz	Reporter
+cast	Veronica Cartwright	Minister on Television
+cast	Daran Norris	Red Sox Replay
+cast	Don Lewis	Bridge Operator
+cast	Doug Rich	Fork Lift Operator
+cast	Sara Armstrong	Chorus
+cast	Elly Barksdale	Chorus
+cast	Erin Barksdale	Chorus
+cast	Adah Holman	Chorus
+cast	Gwendolyn Gilchrist	Chorus
+cast	Shauneen Grout	Chorus
+cast	Jessie Lanoue	Chorus
+cast	Alicia Laplant	Chorus
+cast	Iris Leslie	Chorus
+cast	Erica Towle-Powers	Chorus
+cast	Nichole Wimbiscus	Chorus
+cast	Anna Winsor	Chorus
+cast	Evanne Weirich	The Newark, Vermont Balkan Girls Chorus Director
+cast	Robin Wimbiscus	Performance Coordinator
+cast	Lisa Carlton	Rockland T-Ball
+cast	Rebecca Benner	Rockland T-Ball
+cast	Francis Mazzeo	Rockland T-Ball
+cast	Tyler Shane Smith-Campbell	Rockland T-Ball
+cast	Brian Hagley	Rockland T-Ball
+cast	Sam Cousins	Rockland T-Ball
+cast	Jackie Hagley	Rockland T-Ball
+cast	Comenic Cuccinello III	Rockland T-Ball
+cast	Ronald Russell	Rockland T-Ball
+cast	Rachel Freeman	Rockland T-Ball
+cast	Dale Johnson	Rockland T-Ball
+cast	Daniel Hendricks	Rockland T-Ball
+cast	Parker Spear	Rockland T-Ball
+cast	Sam Johnson	Rockland T-Ball
+cast	Matthew Maxwell	Rockland T-Ball
+cast	Shyann Gauthier	Rockland T-Ball
+cast	Joshua Mills	Rockland T-Ball
+cast	Bethany Berry	Rockland T-Ball
+cast	Eric Rahkonen	Rockland T-Ball
+cast	Hope Berry	Rockland T-Ball
+cast	Natalie Russell	Rockland T-Ball
+cast	Chelsea Peasley	Rockland T-Ball
+cast	Misty Seekins	Rockland T-Ball
+cast	Daniel Baxter-Leahy	Rockland T-Ball
+cast	Philip Spearing	Rockland T-Ball
+cast	Brandon Carleton	Rockland T-Ball
+cast	Mackenzie Tucker	Rockland T-Ball
+cast	Owen Thompson	Rockland T-Ball
+cast	Ben Staples	Rockland T-Ball
+cast	Ryan Ecker	Rockland T-Ball
+cast	Jared Mekin	Rockland T-Ball
+cast	Tom Cumler	Father with daughters at picnic
+cast	Jennifer Struk	Young Woman

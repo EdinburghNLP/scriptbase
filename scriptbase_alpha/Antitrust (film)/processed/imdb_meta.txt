@@ -1,0 +1,138 @@
+year	2001
+imdb score	6.1
+meta score	31
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	job
+keyword	computer
+keyword	boss
+keyword	genius
+keyword	satellite
+keyword	software
+keyword	trust
+keyword	best friend
+keyword	computer programmer
+keyword	betrayal
+keyword	man with glasses
+keyword	baseball bat
+keyword	computer room
+keyword	investigation
+keyword	computer genius
+keyword	college graduate
+keyword	first job
+keyword	suspicion
+keyword	competition
+keyword	allergy
+keyword	scandal
+keyword	one word title
+keyword	hate crime
+keyword	information technology
+keyword	security
+keyword	cover up
+keyword	vandalism
+keyword	wealth
+keyword	silicon valley
+keyword	racist comment
+keyword	webcast
+keyword	billionaire
+keyword	graduate
+keyword	night watchman
+keyword	conspiracy
+keyword	violence
+keyword	idealist
+keyword	evil corporation
+keyword	microsoft
+keyword	internet
+keyword	business
+keyword	secret identity
+keyword	motivational speaker
+keyword	party
+keyword	communication satellite
+keyword	road trip
+keyword	idealism
+keyword	murder
+keyword	henchman
+keyword	explosion
+keyword	internet domain in title
+keyword	whiz kid
+keyword	competitive task
+keyword	babe scientist
+keyword	fbi
+keyword	corporation
+keyword	boyfriend girlfriend relationship
+keyword	boy with glasses
+keyword	communications equipment
+keyword	college graduation
+keyword	villain
+keyword	video surveillance
+cast	Ryan Phillippe	Milo Hoffman
+cast	Rachael Leigh Cook	Lisa Calighan
+cast	Claire Forlani	Alice Poulson
+cast	Tim Robbins	Gary Winston
+cast	Douglas McFerran	Bob Shrot
+cast	Richard Roundtree	Lyle Barton
+cast	Tygh Runyan	Larry Banks
+cast	Yee Jee Tso	Teddy Chin
+cast	Nate Dushku	Brian Bissel
+cast	Ned Bellamy	Phil Grimes
+cast	Tyler Labine	Redmond
+cast	Scott Bellis	Randy
+cast	David Lovgren	Danny
+cast	Zahf Paroo	Desi
+cast	Jonathon Young	Stinky
+cast	Rick Worthy	Shrot's Assistant
+cast	Nathaniel DeVeaux	Lawyer
+cast	Ian Robison	Lawyer
+cast	Linda Ko	Gary's Secretary
+cast	Ed Beechner	Ken Cosgrove
+cast	Bobby Stewart	Building 20 Guard
+cast	Eric Breker	Building 20 Guard
+cast	Colin Cunningham	Building 20 Guard
+cast	JR Bourne	Building 21 Guard
+cast	Eric Keenleyside	Coffee Guard
+cast	Dayna Devon	TV Interviewer
+cast	Ron Halder	Houseman
+cast	Sarah Deakins	DOJ Receptionist
+cast	Daniel McKellar	Co-Worker
+cast	Howard Storey	Rent-A-Guard
+cast	Elizabeth Carol Savenkoff	Clarissa Winston
+cast	Ingelise Nherlan	Yoga Woman
+cast	Peter New	Skinhead
+cast	Blaine Perrin	Skinhead
+cast	Colin Foo	Grocer
+cast	Helena Yea	Grocer's Wife
+cast	Kevin Hayes	News Anchor
+cast	Claire Riley	Reporter
+cast	Patti Vieta	Reporter
+cast	Rob Court	Reporter
+cast	Scott Fee	Reporter
+cast	Norma Jean Wick	Reporter
+cast	Tamara Taggart	Reporter
+cast	Linden Banks	Reporter
+cast	Benita Ha	Party Reporter
+cast	Justin Sain	Policeman
+cast	Ricardo Scarabelli	Policeman
+cast	Ian Bliss	Policeman
+cast	Peter Goudie	Senator
+cast	Anees Peterman	Senator
+cast	Gregor Trpin	Computer Guy
+cast	Peter Howitt	Homeless Man
+cast	Julie McDowell	Concerned Guest
+cast	Miguel de Icaza	Himself
+cast	Scott McNealy	Himself
+cast	Brian Walley	Press Photographer
+cast	Robert J. Halas	Cameraman
+cast	Daniel Cruz	Geek
+cast	Tyson Holmes	Geek
+cast	Rachel McGinnis	Geek
+cast	Francisco Ortiz	Geek
+cast	Dino Pallome	Geek
+cast	Paresh Ramji	Geek
+cast	Jason Singer	Geek
+cast	Simon Wong	Geek
+cast	Greg Armstrong-Morris	Geek
+cast	David Clennon	Barry Linder
+cast	Amy Esterle	Golden Waitress
+cast	Rana Morrison	Dawna - Computer Operator
+cast	Benjamin B. Smith	Ben

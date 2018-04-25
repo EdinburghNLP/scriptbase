@@ -1,0 +1,179 @@
+year	1995
+imdb score	5.3
+meta score	N/A
+genre	Action
+genre	Crime
+genre	Sci-Fi
+genre	Thriller
+keyword	judge
+keyword	justice
+keyword	police
+keyword	murder
+keyword	future
+keyword	law
+keyword	escape
+keyword	robot
+keyword	assassination
+keyword	desert
+keyword	hacker
+keyword	reporter
+keyword	prison
+keyword	chaos
+keyword	shot in the forehead
+keyword	murder of a police officer
+keyword	villain
+keyword	imprisonment
+keyword	blood splatter
+keyword	cyberpunk
+keyword	chase
+keyword	superhero
+keyword	impalement
+keyword	brawl
+keyword	roundhouse kick
+keyword	head butt
+keyword	killer robot
+keyword	kiss
+keyword	mission
+keyword	showdown
+keyword	burnt body
+keyword	opening action scene
+keyword	psychopath
+keyword	frame up
+keyword	box office flop
+keyword	clone
+keyword	car chase
+keyword	stabbed in the back
+keyword	exploding car
+keyword	airplane crash
+keyword	shot in the back
+keyword	shot in the chest
+keyword	cult film
+keyword	authoritarianism
+keyword	democracy
+keyword	falling from height
+keyword	statue of liberty new york city
+keyword	long black hair
+keyword	hand to hand combat
+keyword	photograph
+keyword	female villain
+keyword	secret experiment
+keyword	based on comic
+keyword	disfigurement
+keyword	apocalypse
+keyword	love
+keyword	framed for murder
+keyword	locker
+keyword	falling to death
+keyword	ambush
+keyword	severed arm
+keyword	two word title
+keyword	martial arts
+keyword	dystopia
+keyword	academy
+keyword	gunfight
+keyword	tough girl
+keyword	blood
+keyword	2000 a.d. comics
+keyword	prosthetic limb
+keyword	post apocalypse
+keyword	future city
+keyword	giant robot
+keyword	automatic pistol
+keyword	good versus evil
+keyword	critically bashed
+keyword	based on comic book
+keyword	corrupt judge
+keyword	filmed killing
+keyword	mixed martial arts
+keyword	false accusation
+keyword	electrocution
+keyword	court
+keyword	gadget
+keyword	shot to death
+keyword	shot in the head
+keyword	spiral staircase
+keyword	car crash
+keyword	brunette
+keyword	hero
+keyword	revenge
+keyword	outrunning an explosion
+keyword	cannibal
+keyword	futuristic city
+keyword	punched in the face
+keyword	product placement
+keyword	flying car
+keyword	threatened with a knife
+keyword	lawyer
+keyword	wisecrack humor
+keyword	post holocaust
+keyword	action hero
+keyword	fireball
+keyword	pistol
+keyword	rocket launcher
+keyword	one man army
+keyword	bomb
+keyword	fistfight
+keyword	tough guy
+keyword	exploding building
+keyword	22nd century
+keyword	neck breaking
+keyword	corruption
+keyword	exploding motorcycle
+keyword	catfight
+keyword	arm ripped off
+keyword	disarming someone
+keyword	human duplication
+keyword	gene manipulation
+keyword	anti hero
+keyword	dna testing
+keyword	shootout
+keyword	cyborg
+keyword	title spoken by character
+keyword	character name in title
+cast	Sylvester Stallone	Judge Joseph Dredd
+cast	Armand Assante	Rico
+cast	Rob Schneider	Herman 'Fergee' Ferguson
+cast	Jürgen Prochnow	Judge Griffin
+cast	Max von Sydow	Chief Justice Fargo
+cast	Diane Lane	Judge Hershey
+cast	Joanna Miles	Judge Evelyn McGruder
+cast	Joan Chen	Dr. Ilsa Hayden
+cast	Balthazar Getty	Cadet Nathan Olmeyer
+cast	Maurice Roëves	Warden Miller
+cast	Ian Dury	Geiger
+cast	Christopher Adamson	Mean Machine
+cast	Ewen Bremner	Junior Angel
+cast	Peter Marinker	Judge Carlos Esposito
+cast	Angus MacInnes	Judge Gerald Silver
+cast	Louise Delamere	Locker Judge
+cast	Phil Smeeton	Link Angel
+cast	Steve Toussaint	Hunter Squad Leader
+cast	Bradley Lavelle	Chief Judge Hunter
+cast	Mark Morghan	Judge Killed by Robot
+cast	Ed Stobart	Barge Crew Member
+cast	Huggy Leaver	Brutal Prisoner
+cast	Lex Daniel	Judge Brisco
+cast	John Blakey	Border Guard
+cast	Howard Grace	Pilot
+cast	Dig Wayne	Reggie
+cast	Martin McDougall	Twist
+cast	Ashley Artus	Squatter 1
+cast	Christopher Glover	Squatter 2
+cast	Brendan Fleming	Squatter 3
+cast	Stephen Lord	Zed Squatter 1
+cast	Phil Kingston	Zed Squatter 2
+cast	Ewan Bailey	Aspen Guard
+cast	Stuart Mullen	Co-Pilot
+cast	Pat Starr	Lily Hammond
+cast	Adam Henderson	Fuppie
+cast	Mitch Ryan	Vartis Hammond
+cast	Adrienne Barbeau	Central
+cast	Sam Barriscale	Cadet Marks
+cast	Alan Bond	Rioter
+cast	Ryan Gage	Young Thief
+cast	Mark Houghton	Supporting
+cast	James Earl Jones	Narrator
+cast	Mark Moraghan	Judge Monroe
+cast	James Remar	Block Warlord
+cast	Al Sapienza	Young Judge Who Removes Dredd's Helmet
+cast	Scott Wilson	Pa Angel

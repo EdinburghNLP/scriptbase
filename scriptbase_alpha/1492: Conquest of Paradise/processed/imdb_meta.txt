@@ -1,0 +1,86 @@
+year	1992
+imdb score	6.4
+meta score	N/A
+genre	Adventure
+genre	Biography
+genre	Drama
+genre	History
+keyword	christopher columbus
+keyword	new world
+keyword	caribbean
+keyword	execution
+keyword	tribe
+keyword	island
+keyword	admiral
+keyword	abuse
+keyword	navigator
+keyword	royalty
+keyword	persecution of jews
+keyword	ocean
+keyword	ship
+keyword	child nudity
+keyword	spanish inquisition
+keyword	famous score
+keyword	whipping
+keyword	nudity
+keyword	1500s
+keyword	indian
+keyword	bare butt
+keyword	decapitated child
+keyword	flogging
+keyword	journey
+keyword	year 1492
+keyword	moors
+keyword	cathedral
+keyword	queen
+keyword	armory
+keyword	male rear nudity
+keyword	male nudity
+keyword	severed head
+keyword	father son relationship
+keyword	corporal punishment
+keyword	public nudity
+keyword	exploration
+keyword	public humiliation
+keyword	1490s
+keyword	suicide
+keyword	spain
+keyword	brother brother relationship
+keyword	blood
+keyword	voyage
+keyword	native american
+keyword	sword
+keyword	box office flop
+keyword	murder
+keyword	explorer
+keyword	church
+keyword	bare chested male
+keyword	number in title
+keyword	
+cast	Gérard Depardieu	Columbus
+cast	Armand Assante	Sanchez
+cast	Sigourney Weaver	Queen Isabel
+cast	Loren Dean	Older Fernando
+cast	Ángela Molina	Beatrix
+cast	Fernando Rey	Marchena
+cast	Michael Wincott	Moxica
+cast	Tchéky Karyo	Pinzon
+cast	Kevin Dunn	Captain Mendez
+cast	Frank Langella	Santangel
+cast	Mark Margolis	Bobadilla
+cast	Kario Salem	Arojaz
+cast	Billy L. Sullivan	Fernando
+cast	John Heffernan	Brother Buyl
+cast	Arnold Vosloo	Guevara
+cast	Steven Waddington	Bartolome
+cast	Fernando Guillén Cuervo	Giacomo
+cast	José Luis Ferrer	Alonso
+cast	Bercelio Moya	Utapan
+cast	Juan Diego Botto	Diego
+cast	Achero Mañas	Ship's Boy
+cast	Fernando García Rimada	King Ferdinand
+cast	Albert Vidal	Hernando de Talavera
+cast	Isabel Prinz	Duenna
+cast	Ángela Rosal	Pinzon's Wife
+cast	Jack Taylor	Vicuna
+cast	Silvia Montero	Pinzon's Daughter

@@ -1,0 +1,112 @@
+year	1966
+imdb score	6.9
+meta score	N/A
+genre	Adventure
+genre	Fantasy
+genre	Sci-Fi
+keyword	scientist
+keyword	blood
+keyword	doctor
+keyword	body
+keyword	coma
+keyword	submarine
+keyword	soldier
+keyword	microscopic
+keyword	miniaturization
+keyword	saboteur
+keyword	medical
+keyword	magnifying glass
+keyword	siren
+keyword	tear
+keyword	hypodermic needle
+keyword	radioactive
+keyword	location
+keyword	scuba diver
+keyword	whirlpool
+keyword	shrink
+keyword	sabotage
+keyword	traitor
+keyword	trapped in a human body
+keyword	brain surgery
+keyword	airplane
+keyword	real time
+keyword	non person
+keyword	miniature
+keyword	attempted assassination
+keyword	babe scientist
+keyword	reverse footage
+keyword	microscopic view
+keyword	tommy gun
+keyword	vibration
+keyword	antibody
+keyword	claustrophobia
+keyword	the human body
+keyword	power struggle
+keyword	teardrop
+keyword	artery
+keyword	injection
+keyword	inside
+keyword	military police
+keyword	two word title
+keyword	brain surgeon
+keyword	car crash
+keyword	comatose
+keyword	underground
+keyword	assassination attempt
+keyword	sugar
+keyword	top secret
+keyword	inner space
+keyword	turbulence
+keyword	nuclear power
+keyword	human brain
+keyword	inside man
+keyword	military
+keyword	double agent
+keyword	coffee
+keyword	shrinking ray
+keyword	white blood cell
+keyword	proteus
+keyword	sudden change in size
+keyword	nuclear submarine
+keyword	blood clot in brain
+keyword	blob
+keyword	security
+keyword	body parts
+keyword	ant
+keyword	shootout
+keyword	ear
+keyword	physician
+keyword	person
+keyword	tympanic membrane
+keyword	human heart
+keyword	radar
+keyword	trapped inside a human body
+keyword	gadget
+keyword	would be assassin
+keyword	shrinking
+keyword	id card
+keyword	hospital
+keyword	lung
+keyword	air
+keyword	body part
+keyword	nonperson
+keyword	chart
+keyword	nurse
+keyword	laser
+keyword	heart
+cast	Stephen Boyd	Grant
+cast	Raquel Welch	Cora
+cast	Edmond O'Brien	General Carter
+cast	Donald Pleasence	Dr. Michaels
+cast	Arthur O'Connell	Col. Donald Reid
+cast	William Redfield	Capt. Bill Owens
+cast	Arthur Kennedy	Dr. Duval
+cast	Jean Del Val	Jan Benes
+cast	Barry Coe	Communications Aide
+cast	Ken Scott	Secret Service
+cast	Shelby Grant	Nurse
+cast	James Brolin	Technician
+cast	Brendan Fitzgerald	Wireless Operator
+cast	Brendon Boone	MP
+cast	Kenneth MacDonald	Henry - Heart Monitoring
+cast	Christopher Riordan	Young Scientist

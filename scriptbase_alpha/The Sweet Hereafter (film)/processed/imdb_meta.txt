@@ -1,0 +1,215 @@
+year	1997
+imdb score	7.8
+meta score	90
+genre	Drama
+keyword	bus
+keyword	children
+keyword	lawyer
+keyword	community
+keyword	school
+keyword	anger
+keyword	wheelchair
+keyword	lawsuit
+keyword	bus accident
+keyword	grief
+keyword	drugs
+keyword	flashback
+keyword	lake
+keyword	death
+keyword	pied piper of hamlin
+keyword	winter
+keyword	mourning
+keyword	ice
+keyword	loss
+keyword	school bus
+keyword	canadian
+keyword	native american
+keyword	spider bite
+keyword	drinking
+keyword	watching tv
+keyword	guilt
+keyword	drug addict
+keyword	throat
+keyword	car wash
+keyword	train
+keyword	rural
+keyword	1990s
+keyword	robbery
+keyword	stepfather stepson relationship
+keyword	food
+keyword	calendar
+keyword	canada goose
+keyword	redemption
+keyword	drink
+keyword	drunkenness
+keyword	deceit
+keyword	garage
+keyword	arts and crafts
+keyword	breast feeding
+keyword	small town
+keyword	adopted son
+keyword	reckoning
+keyword	music band
+keyword	father daughter relationship
+keyword	divorce
+keyword	bus sinking into lake
+keyword	nipples
+keyword	infidelity
+keyword	friend
+keyword	piggy back ride
+keyword	thief
+keyword	flash forward
+keyword	extramarital affair
+keyword	neck brace
+keyword	mother son relationship
+keyword	stroke victim
+keyword	a frame
+keyword	buttocks
+keyword	dead body
+keyword	bus driver
+keyword	negligence
+keyword	debt
+keyword	rabbit
+keyword	sexual abuse
+keyword	single father
+keyword	pregnancy
+keyword	unfaithfulness
+keyword	car accident
+keyword	lie
+keyword	bridge
+keyword	motel
+keyword	sex
+keyword	death of daughter
+keyword	adultery
+keyword	telephone call
+keyword	death of wife
+keyword	investigation
+keyword	umbrella
+keyword	betrayal
+keyword	metaphor
+keyword	video footage
+keyword	artist
+keyword	vagina
+keyword	knife
+keyword	nonlinear timeline
+keyword	friendship
+keyword	earphones
+keyword	mother daughter relationship
+keyword	father daughter incest
+keyword	bus manufacturer
+keyword	liar
+keyword	family relationships
+keyword	incest
+keyword	cell phone
+keyword	dead child
+keyword	band
+keyword	stroke
+keyword	fairy tale
+keyword	greed
+keyword	death of children
+keyword	welfare
+keyword	stewardess
+keyword	deposition
+keyword	breasts
+keyword	trailer home
+keyword	human immunodeficiency virus positive
+keyword	father son relationship
+keyword	collect telephone call
+keyword	computer
+keyword	snow
+keyword	panties
+keyword	fair
+keyword	theft
+keyword	carnival
+keyword	phone booth
+keyword	hippie
+keyword	pain
+keyword	single parent
+keyword	airport
+keyword	nudity
+keyword	retribution
+keyword	bare breasts
+keyword	spreadeagle
+keyword	survival
+keyword	bar
+keyword	tea
+keyword	guitar
+keyword	bedtime story
+keyword	class action lawsuit
+keyword	fairground
+keyword	photograph
+keyword	transmogrification
+keyword	drunkard
+keyword	american indian
+keyword	singing
+keyword	retrograde narrative
+keyword	husband wife relationship
+keyword	beating
+keyword	bra
+keyword	singer
+keyword	barn
+keyword	deception
+keyword	drowning
+keyword	reverse chronology
+keyword	pubic hair
+keyword	airplane
+keyword	female nudity
+keyword	tracheotomy
+keyword	reading
+keyword	child molestation
+keyword	charity
+keyword	windpipe
+keyword	drug use
+keyword	learning disability
+keyword	song
+keyword	stepmother stepson relationship
+keyword	cow
+keyword	insurance
+keyword	sadness
+keyword	interview
+keyword	school band
+keyword	candle
+keyword	law
+keyword	survivor
+keyword	guitarist
+keyword	dead children
+keyword	pickup truck
+keyword	ham radio
+keyword	spider
+keyword	sister sister relationship
+keyword	identifying dead body
+keyword	siren
+keyword	blood
+keyword	inside car in car wash
+keyword	tv news
+keyword	death of mother
+keyword	death of son
+keyword	death of child
+keyword	based on novel
+keyword	independent film
+keyword	title spoken by character
+cast	Ian Holm	Mitchell Stevens
+cast	Caerthan Banks	Zoe Stevens
+cast	Sarah Polley	Nicole Burnell
+cast	Tom McCamus	Sam Burnell
+cast	Gabrielle Rose	Dolores Driscoll
+cast	Alberta Watson	Risa
+cast	Maury Chaykin	Wendell
+cast	Stephanie Morgenstern	Allison
+cast	Kirsten Kieferle	Stewardess
+cast	Arsinée Khanjian	Wanda
+cast	Earl Pastko	Hartley
+cast	Simon Baker	Bear
+cast	David Hemblen	Abbott
+cast	Bruce Greenwood	Billy
+cast	Sarah Rosen Fruitman	Jessica
+cast	Marc Donato	Mason
+cast	Devon Finn	Sean
+cast	Fides Krucker	Klara
+cast	Magdalena Sokoloski	Young Zoe
+cast	James D. Watts	Young Mitchell
+cast	Brooke Johnson	Mary
+cast	Allegra Denton	Jenny
+cast	Peter Donaldson	Schwartz
+cast	Russell Banks	Dr. Robeson
+cast	Mychael Danna	Live band harmonium player

@@ -1,0 +1,181 @@
+year	2000
+imdb score	6.6
+meta score	51
+genre	Drama
+genre	Horror
+genre	Mystery
+genre	Thriller
+keyword	research
+keyword	secret
+keyword	vermont
+keyword	ghost
+keyword	college
+keyword	ouija
+keyword	fear
+keyword	cellist
+keyword	therapist
+keyword	ouija board
+keyword	friend
+keyword	shower
+keyword	bathtub
+keyword	revenge
+keyword	key
+keyword	death of husband
+keyword	mother daughter relationship
+keyword	infidelity
+keyword	blockbuster
+keyword	restaurant
+keyword	laptop computer
+keyword	seance
+keyword	wine
+keyword	hair dryer
+keyword	possession
+keyword	footprint
+keyword	fireplace
+keyword	sleeplessness
+keyword	therapy
+keyword	pet cat
+keyword	unfaithfulness
+keyword	empty nest
+keyword	reference to jonas salk
+keyword	boat
+keyword	rural setting
+keyword	death
+keyword	pickup truck
+keyword	cello
+keyword	reference to dupont
+keyword	computer
+keyword	rat
+keyword	college student
+keyword	ghost in a mirror
+keyword	boston massachusetts
+keyword	valium
+keyword	tea
+keyword	teacher
+keyword	sound system
+keyword	graveyard
+keyword	voyeurism
+keyword	sailboat
+keyword	supernatural power
+keyword	villain played by lead actor
+keyword	lake
+keyword	cocktail party
+keyword	poltergeist
+keyword	hair dryer falling into a bathtub
+keyword	bathroom
+keyword	panic
+keyword	spying
+keyword	dock
+keyword	electrocution
+keyword	car accident
+keyword	drowning
+keyword	hammer
+keyword	psychiatrist
+keyword	alimony
+keyword	tire print
+keyword	shoe
+keyword	missing person
+keyword	husband wife relationship
+keyword	911
+keyword	pier
+keyword	princeton university
+keyword	telephone call
+keyword	adultery
+keyword	411
+keyword	yacht
+keyword	drug overdose
+keyword	teacher student relationship
+keyword	cemetery
+keyword	fireball
+keyword	laboratory
+keyword	haunting
+keyword	underwater scene
+keyword	reference to madame curie
+keyword	2000s
+keyword	source music
+keyword	visions
+keyword	glass shard
+keyword	garden
+keyword	gothic
+keyword	genetics
+keyword	dog
+keyword	pet dog
+keyword	charming but evil man
+keyword	cat
+keyword	professor
+keyword	anxiety
+keyword	stepping on glass
+keyword	runaway
+keyword	paramedic
+keyword	cell phone
+keyword	rain
+keyword	drugged
+keyword	occult
+keyword	anger
+keyword	roommate
+keyword	blood
+keyword	writing on a wall
+keyword	fence
+keyword	photograph
+keyword	musician
+keyword	missing girl
+keyword	father son relationship
+keyword	lock of hair
+keyword	suspense
+keyword	teenage girl
+keyword	watching tv
+keyword	marriage
+keyword	extramarital affair
+keyword	binoculars
+keyword	snow
+keyword	candle
+keyword	suspicion
+keyword	power failure
+keyword	physician
+keyword	murder
+keyword	haunted house
+keyword	neighbor
+keyword	grave
+keyword	father daughter relationship
+keyword	student
+keyword	mirror
+keyword	steam
+keyword	party
+keyword	mouse
+keyword	photo album
+keyword	murderer
+keyword	opening a door
+keyword	tears
+keyword	bath
+keyword	swimming pool
+keyword	friendship
+keyword	murder by drowning
+keyword	crying
+keyword	interview
+keyword	surprise ending
+cast	Michelle Pfeiffer	Claire Spencer
+cast	Katharine Towne	Caitlin Spencer
+cast	Miranda Otto	Mary Feur
+cast	James Remar	Warren Feur
+cast	Harrison Ford	Norman Spencer
+cast	Victoria Bidewell	Beatrice
+cast	Diana Scarwid	Jody
+cast	Dennison Samaroo	PhD Student #1
+cast	Jennifer Tung	PhD Student #2
+cast	Eliott Goretsky	Teddy
+cast	Rachel Singer	PhD Student #3
+cast	Daniel Zelman	PhD Student #4
+cast	Ray Baker	Dr. Stan Powell
+cast	Wendy Crewson	Elena
+cast	Amber Valletta	Madison Elizabeth Frank
+cast	Joe Morton	Dr. Drayton
+cast	Sloane Shelton	Mrs. Templeton
+cast	Tom Dahlgren	Dean Templeton
+cast	Micole Mercurio	Mrs. Frank
+cast	Donald Taylor	Male EMT Worker
+cast	Jayson Argento	Cafe Customer
+cast	J.C. Brandy	Band Member
+cast	Mark Patrick Costello	
+cast	Fabio May	Lab Tech
+cast	Julian Roca-Chow	Dorm Student
+cast	Carolyn Weidell	Restaurant Patron

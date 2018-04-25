@@ -1,0 +1,91 @@
+year	2008
+imdb score	6.7
+meta score	57
+genre	Drama
+genre	Romance
+keyword	wedding
+keyword	shopping montage
+keyword	father daughter relationship
+keyword	dating
+keyword	neighbor
+keyword	wedding reception
+keyword	mother
+keyword	lunch
+keyword	hospital
+keyword	divorce
+keyword	no opening credits
+keyword	speech
+keyword	thames
+keyword	cell phone
+keyword	stepfather
+keyword	airport
+keyword	job
+keyword	drinking
+keyword	american abroad
+keyword	jingle
+keyword	composer
+keyword	piano
+keyword	marriage
+keyword	trying on clothes
+keyword	hotel
+keyword	london england
+keyword	montage
+keyword	love
+keyword	character name in title
+keyword	
+cast	Dustin Hoffman	Harvey Shine
+cast	Emma Thompson	Kate Walker
+cast	Eileen Atkins	Maggie
+cast	Kathy Baker	Jean
+cast	Liane Balaban	Susan
+cast	James Brolin	Brian
+cast	Richard Schiff	Marvin
+cast	Tim Howar	Johnnie
+cast	Wendy Mae Brown	Aggie
+cast	Bronagh Gallagher	Oonagh
+cast	Jeremy Sheffield	Matt
+cast	Daniel Lapaine	Scott
+cast	Patrick Baladi	Simon
+cast	Adam James	Josh Hillman
+cast	Michael Landes	Peter Turner
+cast	Jamie Sives	Doctor Butler
+cast	Kate Harper	Jill
+cast	Angela Griffin	Melissa
+cast	Alex Avery	Andrew
+cast	Tim Ahern	Barry
+cast	Charlotte Lucas	Gwen
+cast	Nadia Cameron-Blakey	Attractive Woman
+cast	Lauren Dennington	Airline Stewardess
+cast	Figs Jackman	Barman
+cast	Adam Astill	Business Man
+cast	Rhydian Jones	Check-In Steward 1
+cast	Andrea Harris	Check-In Steward 2
+cast	Vincent Brimble	Concierge
+cast	Paul Haley	Elderly Man
+cast	Gaia Wise	Girl at Wedding
+cast	Amy Younger	Girl at Wedding
+cast	Leslie Randall	Mild Mannered Mike
+cast	Imogen Byron	Niece at Wedding
+cast	Ginny Holder	Nurse
+cast	Pascal Scott	Paddy the Postman
+cast	Robert Jezek	Polish Neighbor
+cast	Heather Bleasdale	Receptionist
+cast	Femi Oguns	Room Service Waiter
+cast	Noah Marullo	Silent Boy
+cast	Mark Kempner	Taxi Cab Driver
+cast	Nick Cavaliere	Waiter Reception
+cast	Mickey Sumner	Friend of the Bride
+cast	Kitty Daisy & Lewis	Buskers
+cast	Tolula Adeyemi	Monique the Jazz Singer
+cast	Debbie Attwell	Shopper
+cast	Jemma Bolt	Sarah
+cast	James Currie	Cyclist
+cast	Tim Glanfield	Charming Man
+cast	Joanna Jeffrees	Girl at Theatre
+cast	Masato Kamo	Waiter
+cast	Sid Karne	Doctor
+cast	Javed Khan	Bar Cleaner
+cast	Tracy Redington	Wedding Guest
+cast	Ian Stacey	Passenger
+cast	Gill Stoker	Woman in Airport
+cast	Chris Wilson	Airport Police Officer

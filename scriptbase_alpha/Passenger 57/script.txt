@@ -1,0 +1,2591 @@
+Passenger 57 (1992) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Passenger 57 (1992) movie scriptby David Loughery     .Revised draft, October 8 1991.      
+More info about this movie on IMDb.com
+
+
+#loc {font-family:Courier New; font-size:11pt; margin-top:0in; margin-right:1.2in; margin-bottom:0in;margin-left:0.8in;text-transform:uppercase }
+#slug {font-family:Courier New; font-size:11pt; margin-top:0in;margin-right:1.2in;margin-bottom:0in;margin-left:0.8in;text-transform:uppercase;}
+#act {font-family:Courier New; font-size:11pt; font-weight: normal;margin-top:0in; margin-right:1.8in; margin-bottom:0in;margin-left:0in}
+#speaker{font-family:Courier New; font-size:11pt; margin-top:0in; margin-right:1.in; margin-bottom:0in;margin-left:1.5in;text-transform:uppercase }
+#spkdir {font-family:Courier New; font-size:11pt; margin-top:0in; margin-right:2.7in; margin-bottom:0in;margin-left:1in }
+#dia {font-family:Courier New; font-size:11pt; margin-top:0in; margin-right:2.6in; margin-bottom:0in;margin-left:0.5in }
+#pg {font-family:Courier New; font-size:11pt; margin-top:0in; margin-right:1.75in; margin-bottom:0in;margin-left:6.5in }
+#right {font-family:Courier New; font-size:11pt; margin-top:0in; margin-right:0.75in; margin-bottom:0in;margin-left:5.0in }
+
+NOTE: Charles Rane was originally named Wolfgang.
+FADE IN:
+1A     CLOSEUP - MAN'S FACE                                     1A
+Handsome.  Capable-looking.  Sharp, chiseled features. But it's the eyes that grab you.  They're the coldest, crudest eyes you've ever seen and they belong to CHARLES RANE, known in the terrorism trade as "Wolfgang."  On the Interpol Hit Parade, Wolfgang is number one with a bullet.
+DR. BAUMAN (O.S.)
+Close, please.
+Wolfgang closes his eyes.  A felt-tip pen ENTERS FRAME and begins to make precise marks on Wolfgang's features. These are the marks of a skilled plastic surgeon, mapping out the operation he intends to perform.  Everything about Wolfgang's face will change.
+DR. BAUMAN (O.S.)
+Open.
+Wolfgang opens his eyes.  No amount of surgery can change them.  They remain cold, cruel and penetrating.
+DR. BAUMAN (O.S.)
+Well?
+A mirror ENTERS FRAME.  Wolfgang smiles at his marked-up image, eyes gleaming with wicked pleasure.  This is one scary guy.
+WOLFGANG
+I think I'm going to like the new me.
+CUT TO:
+2      INT. SURGERY                                             2
+Darkness.  Then -- BOOM! --a big overhead light comes on, illuminating Wolfgang who reclines in a custom operating chair surrounded by gleaming high-tech equipment and a surgical team headed by DR. MICHAEL BAUMAN, the Florida Gulf coast's foremost plastic surgeon.
+Dr. Bauman looks at the wall clock.  Two minutes 'til noon.  Bauman wipes some sweat from his lip and adjusts his surgical mask.
+BAUMAN 
+Sedate the patient.
+An enter TANK HISSES to life.
+3      EXT. CLINIC GROUNDS - DAY                                3
+Bauman's beautiful hacienda-style hospital is located high in the Palisades overlooking the ocean.  Without noise or fanfare, three SWAT vans arrive ON the SCENE.
+4      SURGERY                                                  4
+A nurse prepares to place the ether mask over Wolfgang's nose and mouth.  But the patient has other ideas. Wolfgang reaches up and catches the nurse by the wrist.
+WOLFGANG 
+(politely)
+That won't be necessary.  I intend to stay awake.
+The surgical team reacts with shocked surprise.
+5      INT. CORRIDOR                                            5
+SWAT commandos are on their way, moving with swift, military precision -- each commando armed with the latest in high-tech weaponry.
+6      SURGERY                                                  6 
+Bauman is flustered by Wolfgang's refusal to be sedated.
+BAUMAN 
+You don't understand.  The work I have to do -- the pain involved --
+Pain is Wolfgang's favorite word.  He smiles his Death's Head smile.
+WOLFGANG 
+Pain is something I've learned to live with.
+It's all there in Wolfgang's eyes.  Not just pain but the pleasure of pain.  Wolfgang can't wait for Bauman to cut into him!  Bauman realizes he's dealing with one weird motherfucker and wisely decides to humor him.
+BAUMAN 
+All right.  Let's proceed.
+A scrub nurse presents an operating tray to Bauman.  On it are an assortment of strange scalpels and instruments. Bauman shoots a nervous look at the clock -- thirty seconds 'til noon -- and selects a wicked-looking scalpel.
+7      CORRIDOR                                                 7
+SWAT commandos converge on the door marked "Surgery."
+8      SURGERY                                                  8
+Bauman bends over Wolfgang.  He brings up the scalpel, his hand shaking ever so slightly.  A drop of sweat falls from Bauman's forehead and lands on Wolfgang's lower lip.  Wolfgang's tongue darts out and licks it away.
+Bauman and Wolfgang lock eyes.  Wolfgang knows that Bauman has set him up.
+WOLFGANG 
+The patient lived.  But I'm afraid we lost the doctor.
+Wolfgang's hand darts up like a cobra, grabs the scalpel and thrusts it into Bauman's neck.  Bauman screams and staggers back, spraying blood.  The surgical team recoils in horror.
+At that moment, the door is kicked open by SWAT.
+SWAT COMMANDER 
+Freeze!
+Wolfgang is already on his feet.  He takes two long strides, dives through the air and CRASHES through a wall of smoked GLASS.
+8A     ADJOINING ROOM                                           8A
+Wolfgang hits the floor in a shower of glass, scrambles to his feet and bursts through a door, knocking over a nurse.
+8B     INT. CORRIDOR                                            8B
+Terrified patients and staff flatten themselves against the walls as Wolfgang comes charging down the corridor, half-naked, surgical gown flapping behind him, pursued by a wave of SWAT commandos.
+9 thru 11      OMITTED
+12     ANGLE                                                    12
+Wolfgang rounds the bend.  At the end of the corridor is an elevator -- its doors have begun to separate.  It's Wolfgang's only chance.
+Wolfgang races for the elevator, bare feet slapping marble.  He's halfway there when the elevator doors slide open to reveal a second team of SWAT cops.  They spill out with weapons drawn, ready to open fire.
+Wolfgang puts on the brakes.  The first SWAT team arrives from behind and Wolfgang is caught in the middle.  One false move and he gets fragged from both directions.  Oh, well.  With a shrug of indifference, Wolfgang raises his hands over his head.
+SWAT OFFICER 
+You're under arrest!
+The smile on Wolfgang's face seems to say, "Temporarily." Wolfgang begins to whistle "Pack Up Your Troubles" as SWAT cops rush forward to cuff him.
+CUT TO:
+13     EXT. NIGHT SKY                                           13
+Fierce RAIN.  Dense clouds.  First the awsome ROAR, then we see the massive underbelly of a 707 airliner as it lumbers ACROSS FRAME.  Clouds thicken.  The big ENGINES work hard against the storm.  Suddenly, an EXPLOSION rips out the bulk cargo door and the airliner hurtles to earth -- on fire and out of control -- a symphony of WIND and noise.
+CUT TO:
+13A    INT. BEDROOM (LOS ANGELES) - NIGHT                       13A
+JOHN CUTTER sits upright in bed, jolted from the nightmare.  His eyes are wide with fear.
+CUTTER
+Lisa...
+Cutter's naked chest is soaked with sweat and his heart is pounding like a jackhammer.  The annoying sound in his ears is the BUZZ OF his ALARM CLOCK.
+Cutter SHUTS OFF the ALARM.  6 A.M.
+Cutter looks around.  Nothing to worry about.  He's alone in his own bedroom, bathed in the blue glow of a TV test pattern.  Cutter runs a hand through his damp hair.  He's a black man in his late 20s -- handsome and muscular --but unable to shake the nightmare that has haunted him for two years.
+CUTTER 
+(under his breath)
+I gotta get some new dreams.
+ANGLE WIDENS.
+The room is pretty much bare.  Bed, nightstand and a Solo-flex exercise set-up.  Cutter is a man of few possessions.  The walls are covered with a variety of bulls-eyes and target silhouettes -- the kind used by law enforcement.  Each one is expensively framed -- Cutter's idea of art.
+The ALARM GOES OFF AGAIN.
+CUTTER 
+I heard you the first time.
+Cutter SHUTS OFF the ALARM and climbs out of bed.  He goes to the Solo-flex and begins a rigorous workout --pumping iron to keep the chaos inside him at bay.  As Cutter battles the weights, we PUSH IN ON the nightstand...
+13B    FRAMED PHOTOGRAPH                                        13B
+of Cutter and a beautiful young woman in happier times. Perhaps this is "Lisa."  Next to the photo is an Amtrack brochure and a ticket -- round trip -- Los Angeles to Orlando.  But it's the Amtrak brochure that really catches our attention.  It's illustrated with a bold drawing of a powerful locomotive.  PUSH IN ON the train as we...
+DISSOLVE TO:
+13C    EXT. TRESTLE BRIDGE - DAY (STOCK)                        13C
+Darkness.  Then... a real train bursts out of tunnel and hurtles PAST CAMERA.  It crosses a span somewhere in the Rocky Mountains, headed east.
+CUT TO:
+14 thru 16     OMITTED
+17     INT. MAXIMUM SECURITY LOCKDOWN - NIGHT                   17
+RAIN streaks a window re-enforced with steel mesh. THUNDER CRASHES!
+Bars slide open with a LOUD CLANG.  CAMERA FOLLOWS a distinguished, silver-haired ATTORNEY as he enters the bowels of a prison designed in hell.  He travels down a long corridor lined with cells containing the evil and the insane.  They jeer, laugh, taunt and spit at the Attorney as he runs their gauntlet of abuse.
+At the end of the corridor, a stem-faced guard stands in front of an iron door.  The Attorney, wiping spit off his expensive suit with a handkerchief, shows the indifferent guard some papers.  The guard wheels open the heavy iron door.
+CAMERA FOLLOWS the Attorney into a small dark room. The iron DOOR CLANGS shut behind him.  On the other side of a mesh screen sits Wolfgang, stripped naked, wearing handcuffs.  His body is hard and muscular, a map of ugly scars.  He greets his Attorney with a wolfish smile.
+WOLFGANG 
+what's wrong, Martin?  Haven't you ever seen a naked man before?
+ATTORNEY 
+How can you be so calm?  They know who you are.
+WOLFGANG 
+Knowing it and proving it are two different things.
+ATTORNEY 
+Will you listen to me?  They can prove it.  They've got the Welshman.
+Wolfgang's eyes cloud.  They do that when something displeases him.
+WOLFGANG
+Go on.
+ATTORNEY 
+The N.S.A. has him in protective custody.  He's connected you to Islamic Jihad, the American Embassy bombing in Beirut and God knows what else.  They're flying you to Los Angeles to stand trial.
+WOLFGANG 
+Then the solution's simple.  I must not reach Los Angeles.
+ON Wolfgang's confident look...
+CUT TO:
+18     EXT. TRANS PACIFIC AIRLINES BUILDING (ORLANDO) - DAY     18
+The logo of Trans Pacific atop a tower of glass and steel.  ANGLE DOWN TO street level as a taxi pulls up to the entrance and stops.  John Cutter climbs out.  We see him full figure in a dark suit -- ramrod straight --lean, hard and muscular.  Cutter pays the driver, hefts his bag and enters the building.
+CUT TO:
+18A    INT. SLY DELVECCHIO'S OFFICE                             18A
+An efficient young SECRETARY looks up from her computer as Cutter steps into the outer office.  He tosses his bag on the couch.
+SECRETARY 
+You must be Mister Cutter.  Mister Delvecchio's expecting you.
+CUTTER 
+Don't buzz him.  I want this to be a surprise.
+Cutter crosses the room and pushes open the big door to...
+18B    SLY'S INNER OFFICE                                       18B
+Cutter is barely through the door when SLY DELVECCHIO jumps him from behind.
+In a blinding flash of martial arts skill. Cutter flips Sly over his shoulder.  Sly hits the carpet with a thud. Swift as a cobra, Cutter is upon him -- knee planted in the center of Sly's chest, hand tight around Sly's throat -- thumb pressed to his jugular.
+CUTTER 
+(with a smile)
+You're dead. Sly.  Get yourself buried.
+Through his surprise and pain, Sly smiles back.  He's in his early 30s, a friendly, likable guy -- Cutter's buddy from way back.
+SLY 
+(his voice is a rough whisper) 
+Okay, I'm dead.  Now would you mind getting your big knee off my chest?
+(gasping)
+I can't breathe...
+Cutter just smiles as Sly continues to gasp.  Sly is very convincing but Cutter's not buying.  He knows his friend too well.
+SLY 
+Cutter... please... I can't breathe...
+CUTTER 
+Sly, do the words 'acting lessons' mean anything to you?
+SLY 
+(really gasping)
+Cutter, no shit... you know I've got this asthma thing...
+Cutter frowns and steps back.  As he does, sneaky Sly tries to hook him with his foot.  But Cutter has anticipated this.  He catches the foot with one hand and hoists Sly into the air so that he's hanging upside down -- face buried in the rug.
+CUTTER 
+(amused) 
+How's that carpet taste?
+SLY 
+All right!  Okay!  Uncle!
+Sly's Secretary appears in the doorway, alarmed to see her boss in this most undignified position.
+SECRETARY 
+(frightened)
+Mister Delvecchio?  Should I call Security?
+SLY
+(upside down) 
+Ellen, I am Security.
+(then; chuckling) 
+Don't worry.  It's just a couple of Navy buddies catching up on old times.
+CUTTER 
+We're bonding.
+SLY 
+(to Cutter) 
+You want something?  Coffee?  Tea?
+CUTTER 
+I'm fine.
+(to the Secretary) 
+But you'd better bring Mister Delvecchio some Therapeutic Mineral Ice.  He's not as young as he thinks he is.
+The Secretary nods and backs away.  Cutter releases Sly and lets him crumple to the floor.  With a groan. Sly gets to his feet.  He straightens his suit and tie in a dignified manner.
+SLY
+Okay.  So I'm a little rusty.  But you... you sonovabitch...
+Sly and Cutter regard each other soberly, then break out laughing.  They embrace.
+CUTTER 
+I think you put on some weight.
+SLY
+Corporate life.  I think you lost some.
+CUTTER 
+You ever tried the food at Forrestal?
+SLY 
+(scoffing)
+Forrestal.  Jesus, Cutter. Teaching counter-terrorism and evasion techniques to a bunch of rich guys' bodyguards and chauffeurs -- it's beneath you. What's next?  Church Groups?  Cub Scouts?
+CUTTER 
+Maybe.  How much do they pay?
+SLY 
+It's not you. Cutter.
+CUTTER 
+It's me, Sly -- the new me.  And the new me happens to like teaching.  It's got some great perks.
+SLY
+Name one.
+CUTTER 
+You want to know what I like best? It's make-believe.  The danger is pretend.  Strictly hypothetical. Nobody gets hurt -- especially me.
+SLY
+You ever hear that old expression? 'Those who can -- do.  Those who can't -- teach.'
+CUTTER 
+What about it?
+SLY
+I know you. Cutter, and you're no teacher.
+CUTTER 
+Then I'm in big trouble because the idea of being a 'do-er' again makes me break out in a cold sweat.
+SLY 
+'You fall off a horse, you get back on.'
+CUTTER 
+Sly, don't you know any new expressions?
+The Secretary returns.
+SECRETARY 
+Mister Delvecchio -- your meeting with Mister Ramsay.
+SLY 
+(looks at his watch) 
+Better hustle.
+CUTTER 
+Look, Sly, I'm not even sure I want this job.  The idea of getting back in the shit doesn't exactly thrill me.
+SLY 
+I need you, Cutter -- and you need this job.
+It's the truth.  ON Sly's imploring look...
+CUT TO:
+18C    INT. ATRIUM - DAY                                        18C
+Sly and Cutter wind their way through an in-door botanical garden that doubles as a dining area for the employees of Trans Pacific.
+SLY
+Ramsay is Stuart Ramsay, the guy above me -- President of Operations.  To get the airlines anti-terrorism unit off the ground, we're gonna need Ramsay's support. He's a slick prick but he can be handled.  You've done these dog and pony shows before so you know the drill.  Nod.  Smile.  Jump through a few hoops.
+STUART RAMSAY rises from a table to greet them.  He's in his thirties, handsome, immaculately groomed and styled. Stuart Ramsay's only real interest in life is his own survival in the corporate jungle.  In this respect he is ruthless.  He can also be quite charming.
+RAMSAY 
+Welcome to the jungle.
+SLY 
+Stuart, meet John Cutter.
+They shake hands.
+RAMSAY 
+(friendly) 
+John -- I'm a big fan.
+Cutter smiles.  He knows a shark when he sees one. 
+CUT TO:
+18D    SAME SCENE - SOME MINUTES LATER                          18D
+Cutter, Sly and Ramsay are deep in discussion.
+CUTTER 
+These are facts.  Over the last year, there's been a forty percent increase in terrorist actions against Trans Pacific.  Most of these incidents occurred in-flight. Most of them could have been prevented.
+RAMSAY
+How?
+CUTTER 
+By doing what the Israelis do... having trained security specialists 'ride shotgun' on all international and coast-to-coast flights.
+RAMSAY 
+I hope you aren't suggesting we put armed guards on our planes. Our passengers would never stand for it.
+CUTTER 
+I'm not talking about armed guards.  I'm talking about trained counter-terrorists -- disguised as passengers.  Their identities would be known only to the flight crew.  You want to stop terrorism?
+CUTTER (CONT'D) 
+Then you gotta send a message. Let the terrorists know you're not afraid to fight back.
+RAMSAY
+(amused)
+Maybe we could use it as an advertising gimmick.  'Fly Trans Pacific -- We'll Get You There Alive.'
+(a friendly smile) 
+John... air travel is supposed to be a pleasant and relaxing experience.  We don't want the public to think their lives are in danger every time they get on a plane.
+CUTTER 
+But their lives are in danger.
+Cutter knows this only too well.  Ramsay considers for a moment.
+RAMSAY 
+(turns to Sly)
+He doesn't pull his punches, does he?  What do you think?
+SLY 
+I'm with John.  I've worked up some numbers and it's not as expensive as you might think. Not in the long run.
+RAMSAY 
+Well, you guys are the experts... but it seems kind of extreme to me.
+CUTTER 
+Terrorism is a growth industry, Mister Ramsay.  It should be your number one priority.
+RAMSAY 
+I can understand why you feel that way.
+CUTTER
+You can?
+RAMSAY 
+You've been a victim of terrorism yourself.
+Caught slightly off-guard. Cutter turns to Sly.
+SLY 
+I told him about Lisa.
+RAMSAY 
+I'm very sorry for your loss.  I know it's got to be painful.
+Cutter nods, remains stoic.
+CUTTER 
+It's been two years.  I'm not over it -- I never will be -- but I can talk about it now.  Yeah. I'm a victim of terrorism.  Pan International Flight 107.  The ironic part is, I wasn't on a job. I was on my honeymoon.  We were halfway to Buenos Aires when a bomb went off in the cargo hold. One second we're making jokes about the lousy food.  The next... 
+(too painful; stick to the facts) 
+One hundred and forty-two people lost their lives.  Twenty-seven survived.  They tell me I was lucky but the truth is, a big part of me died in that crash.
+RAMSAY 
+I apologize.  I know this is a sensitive area.  But I have to know if your own experience has made you a bit... over-zealous when it comes to airline security.
+CUTTER 
+If anything it's made me realize that terrorism isn't something that only happens to other people. It can happen to any of us... at any time.
+RAMSAY 
+I appreciate your honesty.  One more question and we're through.
+(a slight beat) 
+Do you always travel by train?
+Sly sits up like he's been stuck with a red-hot poker. How the hell did Ramsay know that?  Even Cutter looks perplexed... until he follows Ramsay's eyes to the Amtrak brochure poking out of his breast pocket.  Cutter removes it, playing for time.
+CUTTER 
+You mean this?
+SLY
+(butting in)
+I thought I told you.  Cutter took the train so he could have time to relax and work on his presentation.  But he's returning to L.A. tonight -- by air.
+(giving Cutter a strained look) 
+The six o'clock flight, I believe.
+CUTTER 
+(playing along) 
+Right.  The six o'clock.
+RAMSAY 
+Well, that's a relief.
+(joking)
+We wouldn't want to hire an airlines security specialist who's afraid to fly.
+SLY 
+(laughing)
+We'd have to be pretty crazy to do a thing like that.
+CUTTER 
+Stark raving mad.
+Ramsay's WATCH goes BEEP.
+RAMSAY 
+Guys, I'm late.
+(standing)
+John -- most impressive.  Sly and I will run your ideas by Addison Cale and see what the old man thinks.  I hope the next time I see you will be to welcome you on board.
+(they shake hands)
+Have a nice flight.
+CUTTER 
+Thanks.
+But Ramsay is gone.  Cutter and Sly exchange uneasy smiles.
+SLY
+You think he bought it?
+CUTTER 
+He's an asshole but he's not a fool.
+SLY
+I know him.  He'll check to see if you're on the plane.  I'd better make you a reservation.
+(calling to a waiter) 
+Phone!
+CUTTER
+Don't bother.
+SLY 
+(as if betrayed) 
+You gonna make me a liar?
+CUTTER 
+Oh, man.  Don't give me that look.
+SLY
+What look?
+CUTTER 
+What look?  The 'Please, mister, don't shoot my puppy' look. Forget it. Sly.  I agreed to come here and take a meeting.  That's all.  Nobody said nothin' about flyin' on a plane.  So don't try to talk me into it because my mind's made up.  And don't try any of your blackmail tricks.
+SLY 
+Fine.  End of discussion.
+A waiter arrives with a cordless phone.  Sly takes it and punches some numbers.
+SLY 
+(into the phone) 
+Honey, it's me.  I think you should put the house up for sale...
+CUTTER 
+Aw, man...
+CUT TO:
+18E    EXT. ORLANDO INTERNATIONAL AIRPORT - ARRIVAL ZONE - DAY  18E
+A convertible pulls INTO FRAME and stops.  Sly is at the wheel.  He turns to Cutter in the passenger seat and tries not to smile.
+CUTTER 
+Get it straight, you smug sonovabitch.  I'm not doing this for you.  I'm doing it for me.
+SLY 
+I understand.
+CUTTER 
+What?  You're not even gonna say thanks ?
+SLY
+Why should I?  You're not doing it for me.  You're doing it for you.
+Cutter shakes his head.
+CUTTER 
+I gotta get some new friends.
+Sly breaks into a happy smile.
+SLY 
+Thanks, flyboy.  You're saving both our asses.
+CUTTER 
+(like it's no big deal)
+Hey, it's just a little plane ride.  A couple hours from now we'll be talking on the phone and laughing about it.
+Cutter reaches over and squeezes Sly's neck affectionately.  They shake hands.  Cutter gets out, hefts his bag and enters the terminal.
+CUT TO:
+19 thru 28     OMITTED 
+29     EXT. TERMINAL 5 - PARKING BAY                            29
+A Trans Pacific 747 is being prepped for flight.  FROM an OVERHEAD ANGLE the jumbo jet looks like a patient on life support with all the machinery and vehicles hooked up to it -- tow tractor, fuel truck, cargo belt loaders, cabin/galley and lavatory service -- all coming and going with swift, military precision.
+30     ANGLE                                                    30
+A Sky Cuisine catering truck is parked alongside the 747. A fat man wearing orange coveralls pushes a food cart into the open cargo door of the plane.  Then he goes back for the next cart.  Making sure no one's watching, the fat man produces a square metal package, slips it into the bottom tray of the cart and pushes the cart into the plane.
+31     INT. 747 - LOWER GALLEY                                  31
+The plane's lower galley is accessible by a small elevator located mid-ship.
+Two flight attendants steer the food carts into their bays.  MARTI SLAYTON is in her mid-twenties -- dark, very pretty, friendly and outgoing.  FIONA RITCHIE is Irish, a tall, hard-bodied redhead.
+MARTI 
+(friendly) 
+Marti Slayton.
+FIONA 
+Fiona Ritchie.  I just transferred from London/Chicago.
+MARTI 
+(as they work) 
+Single?
+FIONA 
+Don't rub it in.
+MARTI 
+Then you'll like Orlando/L.A.
+FIONA 
+Pretty good pickings, huh?
+MARTI
+It's got its rewards --if you can recognize the bullshit artists. Not that I'm an expert.  Last week I met this guy.  Cute.  No ring. Says he's in town for one night and doesn't know a soul...
+FIONA 
+Sounds familiar.
+MARTI 
+We go out.  Dinner.  Dancing. Then a stroll on the beach.  The moon's out.  Very romantic.  He takes my hand, looks deep into my eyes and says --
+FIONA 
+(imitating a male voice)
+'Uh, Marti, I think I should tell you -- I'm married but my wife and I have an understanding.'
+MARTI 
+(nods)
+Next thing, he's sitting in the surf checking for loose teeth. Like he's surprised I decked him.
+FIONA 
+Good for you.
+They both laugh.
+FIONA 
+I probably would've cut his balls off.
+Say what?  Marti gives Fiona a look.  Fiona smiles brightly as if to say, "Just kidding."  Marti nods and goes back to work.
+The smile fades from Fiona's face.  She shoots a glance at the last food cart -- the one with the package inside. Obviously, Fiona knows what's inside it.
+32     EXT. PARKING BAY                                         32
+The Sky Cuisine truck drives away.  It travels to a deserted spot under the terminal.  The fat man gets out, looks around to make sure no one's watching.
+He sheds his orange coveralls.  Underneath he wears slacks and a sports jacket.
+The Fat Man wads up the cover-alls and stuffs them into a large trash bin.  He walks away.  CAMERA MOVES CLOSER TO the bin.  Beneath the cover-alls is the body of a man.  Naked, his throat cut.
+33     INT. DEPARTURE GATE                                      33
+Observing the 747 through one of the big windows is a razor-thin young man wearing a black beret and a leather jacket.  His face is sharp, ferret-like.  His name is         
+VINCENT and he looks like a reject from the Ramones.
+34     VINCENT'S POV - PARKING BAY BELOW                        34
+A dark sedan approaches the 747.  It parks next to special boarding stairs that connect to the aircraft's upper entrance hatch, located behind the flight deck.
+35     WOLFGANG                                                 35
+is removed from the sedan by two cops and two no-nonsense Federal Marshals, MANNING and DUNCAN.  Wolfgang wears a coat draped over his shoulders to conceal the fact that his hands are cuffed and attached to a leather belt around his waist.
+MANNING 
+(to Wolfgang)
+When we say walk, you walk.  When we say sit, you sit.  You want something, you ask.  You have to take a leak, we'll hold your dick for you.
+WOLFGANG 
+Sounds like the beginning of a beautiful friendship.
+As they walk him to the boarding stairs, Wolfgang's eyes casually drift up to the terminal windows.  He sees Vincent who flashes him a spooky smile.
+35A    INT. TERMINAL - TICKETING AND CHECK-IN                   35A
+Cutter waits while a FEMALE AIRLINES CLERK does the computer thing.  Cutter is looking a little anxious. Just being inside an airport has quickened his pulse.
+CLERK 
+I can get you on the five o'clock flight if you'd like.  It'll save you sitting around for an hour.
+CUTTER 
+Do it.  Might as well get this over with.
+CLERK 
+(cheerful)
+Sir, there's nothing to worry about.  Statistically speaking, flying is still the safest form of travel.
+Cutter gives her a dark look.  He's not so sure.
+36     OMITTED                                                  36
+37     INT. 747 - UPPER DECK                                    37
+CAPTAIN, CO-PILOT and NAVIGATOR arrive and enter the cockpit, closing the door behind them.
+PAN OVER TO Manning and Duncan as they bring Wolfgang on board, showing their orders to Fiona who checks them against the manifest.  The upper deck can seat up to fifty passengers but it's empty for this flight.
+FIONA 
+We're underbooked so you'll have the upper deck all to yourselves.
+WOLFGANG 
+(reading her name tag)
+'Fiona.'  That's Irish, isn't it? I've always loved the Irish.  They make such good bombs.
+Wolfgang gives Fiona a lascivious look.
+38     INT. MAIN CABIN                                          38
+Passengers are boarding.  In a SERIES OF SHOTS, we get to know the layout of the jumbo jet's main cabin.  There are two different sections down here -- first class and beyond it, the much larger coach section.
+A staircase behind first class leads to the flight deck and the upper deck (where Wolfgang, Manning and Duncan are settling in).  This 747 can carry five hundred passengers but tonight's flight is spotty.
+39     INT. BOARDING BRIDGE                                     39
+Cutter walks down the jetway, surrounded by cheerful, chattering travelers.  Cutter feels like a lamb on its way to the slaughter.
+40     INT. 747 - MAIN CABIN                                    40
+Marti welcomes passengers onboard, verbally numbering each one to get a head count.
+MARTI 
+55... 56...
+Cutter appears... "57."  He shows Marti his boarding pass.  Between them, a slight flicker of attraction.
+MARTI 
+Hello, Mister... Cutter.  Down the aisle and to your right.
+Cutter moves on.  Behind him is a Big American Indian, tall and powerfully built with a long black braid.  The guy looks like a mountain of granite -- with a personality to match.  Stoically, he shows Marti his boarding pass.
+MARTI 
+Hello, Mister... Elk Horn.  Right down the aisle.  Watch your head.
+The next passenger is a long-haired kid wearing rimless glasses and lugging a big backpack.  We'll call him the STUDENT.  He smiles shyly and shows Marti his boarding pass.
+MARTI 
+Hello, Mister... Ernst.
+41     COACH SECTION                                            41
+Cutter find his seat near the rear of the plane.  A window seat.  His closest fellow passenger is a GRANDMOTHER across the aisle.
+42     MAIN CABIN - UPPER GALLEY                                42
+The faint WHIRR of a MOTOR.  The narrow elevator door opens and Fiona emerges, carrying a tray of complimentary champagne.
+43     FIRST CLASS                                              43
+Vincent finds his seat and settles in paying special attention to the spiral staircase that leads to the upper deck -- and Wolfgang.  Fiona serves him a glass of champagne.
+44     COACH                                                    44
+Cutter is doing fine until he hears the airtight HISS of the HATCH DOOR being sealed.  The jet lurches into motion and backs away from the gate.  Cutter remains calm, assuring himself that he'll be fine.
+At the front of the cabin, Marti speaks into a MICROPHONE .
+MARTI 
+Ladies and gentlemen, we are now preparing for departure.  Please make sure that all carry-on luggage is stored safely in the overhead compartments.  Make sure your seatbelts are fastened and please extinguish all cigarettes.
+45     EXT. TAXI LANE                                           45
+The 747 rolls along a strip of concrete that parallels the take-off runway.
+MARTI (V.O.)
+Once we reach our cruising altitude, we'll be serving our complimentary beverages and then a little later, our dinner.  Thank you and have a safe, enjoyable flight.
+46     FLIGHT DECK                                              46
+Captain, FIRST OFFICER and FLIGHT ENGINEER.  Through the windscreen panels is the runway, stretching out to infinity.
+TOWER (V.O.) 
+T.P. 694, you are clear for take off.
+CAPTAIN 
+Roger, tower.
+The 747 starts down the runway, speed increasing knot by knot until everything beyond the windscreen starts to blur.
+47     UPPER DECK                                               47
+Wolfgang sits in a center row between Manning and Duncan. He closes his eyes and settles back to enjoy the take-off.
+48     EXT. RUNWAY                                              48
+The 747 leaves the runway and climbs into a dark and threatening sky.
+49     INT. 747 - COACH                                         49
+Climbing.  Cabin vibrating.  Cutter's eyes are clamped shut.  But sensing something, he opens them.  Across the aisle the Grandmother smiles at him, obviously amused by his discomfort.
+GRANDMOTHER 
+(slightly condescending) 
+I've been flying for forty-seven years.
+CUTTER 
+You must be tired.
+CUT TO:
+50     EXT. SKY                                                 50 
+The 747 thunders overhead, headed west.
+51     INT. 747 - LOWER GALLEY                                  51
+Marti and Fiona are propping the rolling food carts. Marti rolls one into the elevator and closes the door. The ELEVATOR WHINES into service and up she goes.
+Once Marti is gone, Fiona goes to the special food cart. She squats down, reaches into the lower shelf and nervously removes the package.
+CUT TO:
+52     EXT. NIGHT SKY                                           52
+Just like Cutter's nightmare only this time it's for real.  Fierce rain.  Dense clouds.  First the awesome ROAR -- then we see the massive underbelly of the 747 as it lumbers INTO FRAME.  The clouds thicken.  The big engines struggle against the mounting storm. There is a flash of lightning.
+53     INT. 747 - MAIN CABIN                                    53 
+PING!  The "fasten seatbelts" light comes on.
+CAPTAIN (V.O.) 
+This is Captain Diehl.  Folks, I've turned on the seatbelt sign. We've got some unfriendly weather up ahead and we're apt to bounce a bit.  So just bear with us.
+54     CUTTER                                                   54
+He's not doing so well.  To him, every BOOM OF THUNDER is an exploding bomb.  Marti appears in the aisle beside him.
+MARTI 
+How are you doing?
+CUTTER 
+(manages to smile)
+Well, I'm not exactly flying the friendly skies.
+MARTI 
+Is there anything I can do to help?
+CUTTER 
+How about holding my hand?
+MARTI 
+(smiling sweetly) 
+I'm sorry, sir, but we're not allowed to do that.  However, there's a three-year-old child up in First Class with a teddy bear. Maybe he'd let you borrow it. Shall I ask?
+Cutter's a good sport.  He knows when he's been shot down.
+CUTTER 
+Right between the eyes.
+54     CONTINUED:                                               54
+MARTI 
+Don't forget.  I'm a professional. I know all the lines.
+CUTTER 
+And all the comebacks, too.
+MARTI 
+Besides, you're married.
+We see that Cutter still wears his wedding band.
+CUTTER 
+I guess I should take it off one of these days.
+MARTI 
+Divorced?
+CUTTER
+Not exactly. 
+Marti looks at Cutter and she knows.
+MARTI 
+I'm sorry.
+CUTTER 
+Great.  Now it looks like I'm trying for sympathy.
+LIGHTNING CRACKLES.  Cutter reacts.
+CUTTER 
+Damn.  Can't you turn off the sound effects?
+MARTI 
+There's really nothing to worry about.  Statistically speaking --
+CUTTER 
+Flying is still the safest form of travel.
+They share a smile.
+MARTI 
+Heard it before, huh?
+CUTTER 
+Thanks for trying.
+MARTI 
+Sure you don't want that teddy bear?
+CUTTER
+It's tempting but I think I'll tough it out.
+Marti smiles, rises from her seat and makes her way up the aisle.  Cutter checks her out from behind and likes what he sees.
+CUTTER 
+(to himself) 
+Yeah.  Tempting.
+Another BOOM --a flash of lightning -- and Cutter's had enough.  He unbuckles and leaves his seat, making his way to the rear of the plane where he finds an unoccupied lavoratory.
+55     INT. LAVATORY                                            55
+Cutter bolts the door.  He stares at himself in the mirror.  A nervous stranger stares back.
+In this tiny space, the SOUND OF the PLANE only increases Cutter's discomfort.  He reaches into his pocket and takes out his DISC MAN.  He puts on the earphones, punches play and cranks it.  Loud R & B MUSIC drowns out the plane ambiance and Cutter closes his eyes, trying to get into the music, hoping it will help him forget where he is.
+CUT TO:
+56     EXT. NIGHT SKY                                           56 
+ENGINES STRAIN as the 747 climbs above the storm.
+57     INT. 747 - FIRST CLASS                                   57
+Dinner is underway.  Fiona approaches Vincent.  She's carrying a tray of empty glasses.  Under the tray is the smuggled package.  Fiona bends down and whispers in Vincent's ear-ringed ear.
+FIONA 
+Sir, it's time for the in-flight entertainment.
+58     COACH                                                    58
+Pushing aside the curtain, Fiona leaves first class and enters coach, heading for the rear of the plane.  The Indian leaves his seat and follows.  So does the Student. Vincent brings up the rear, licking food off his fingers.
+Fiona steps behind the partition wall that separates the main cabin from the rear lavatories (one of which is occupied by Cutter).  There's only one person back here, a businessman who finishes up a call on one of the air phones and returns to his seat.
+The Indian, the Student, and Vincent arrive.  They acknowledge each other in a curt, professional manner.
+VINCENT 
+(eager)
+Unwrap the present and let's get this party started.
+Fiona opens the metal package.  Inside are several automatic pistols and a grenade.
+59     UPPER DECK                                               59 
+Duncan holds a spoonful of spinach to Wolfgang's mouth.
+DUNCAN 
+Eat your spinach or no dessert.
+Manning chuckles.  We RACK FOCUS.  Behind them, silently ascending the spiral staircase is Vincent.  Vincent raises his gun and takes aim at the back of Manning's head.  The plane is bouncing and he'll have to be good to make a shot like this.  He is.
+Manning is to take his next bite when -- POP! --a BULLET enters the back of his head and comes out between his eyes.  He slumps forward.
+VINCENT 
+He shoots, he scores!
+As Duncan reacts to his partner's death, Wolfgang clamps his teeth down on the spoon, rips it free of Duncan's fingers and lunging forward, drives the end of the spoon into Duncan's left eyeball, savagely tearing upward into Duncan's brain.
+60     BELOW - FIRST CLASS                                      60
+The GUNSHOT has caused a chain reaction of panic throughout the entire ship.  Fiona appears in first class.
+The passengers are shocked to see a flight attendant pointing a gun at them!
+FIONA
+(shouting) 
+Put your heads down!
+61     UPPER DECK                                               61
+Wolfgang pulls away from Duncan, the spoon (now bent) still clamped between his teeth.  As Duncan writhes in agony, Vincent steps up and FIRES a bullet into his chest, finishing him.
+Wolfgang spits out the spoon and smiles at Vincent, his teeth flecked with Duncan's blood.
+WOLFGANG 
+I hate spinach.
+62     COACH                                                    62
+The Indian and the Student aim their guns at the now hysterical passengers.
+STUDENT 
+(shouting)
+Put your heads down!  Heads down now!
+A macho man passenger stands up to protest and the Indian treats him to a brutal pistol whipping.  Terrified, the other passengers put their heads down.
+63     UPPER DECK                                               63
+Vincent finds the key in Duncan's pocket and unlocks Wolfgang's handcuffs.  Wolfgang tosses the cuffs away and stands, stretching like he just got up from a restful nap.  He holds out his hand like a surgeon awaiting a scalpel.  Vincent slaps a gun into it.
+64     FIRST CLASS                                              64
+A terrified WOMAN turns to the passenger beside her --a burly, florid-faced Catholic PRIEST who, oddly, is casually sipping a cocktail and popping peanuts into his mouth.
+WOMAN 
+Father --do something!
+The Priest pats her thigh in a most un-Priestlike manner.     *
+PRIEST 
+Excuse me.  I'm needed by the man upstairs.
+The Priest downs his drink, stands up and brushes the crumbs off his garment.  He smiles at Fiona who allows him to climb the staircase to the upper deck, passing Vincent on his way down.  They nod at each other in recognition.
+65     FLIGHT DECK                                              65 
+The Captain reacts to a throbbing emergency light.
+CAPTAIN 
+We've got a security problem.
+WOLFGANG (0.S.)
+Not anymore.
+They turn as Wolfgang steps into the cockpit and FIRES three perfect headshots.  BOOM, BOOM, BOOM.  He's just executed the flight crew!
+Priest, still chewing peanuts, enters the cockpit.  He shoves the Captain's corpse aside and settles into his seat.  Priest puts on the Captain's headset and starts punching a new flight plan into the ship's computer.
+Wolfgang puts on a headset and activates the P.A. SYSTEM. His voice BOOMS through the airliner.  We INTERCUT:
+66     SHOTS OF TERRIFIED PASSENGERS                            66
+WOLFGANG (V.O.)
+Your attention please.  By now you've noticed four people with automatic weapons.  A word of advice for those of you too dense to grasp the obvious.  These people are killers.  Obey them and you will live.  Disobey them and you will die.  Have a nice flight.
+67     FIRST CLASS                                              67
+At gunpoint, Vincent and Fiona herd first-class passengers into the coach section.
+VINCENT 
+Don't worry.  We're not gonna kill you.  We're gonna do something a lot worse.
+FIONA 
+We're gonna make you fly coach.
+68     COACH                                                    68
+As passengers scramble to find empty seats, Marti comes toward Fiona.
+MARTI 
+(can't believe it) 
+Fiona.  What're you doing?
+FIONA 
+(a new and deadly person)
+Sit down, bitch, or I'll blow your tits off.
+She means it, too.  Marti sits down.
+69     INT. LAVATORY                                            69
+Cutter, eyes still closed, hasn't heard a thing in here, grooving on the music from his Disc Man.  The last track comes to an end and Cutter opens his eyes.  He looks at himself in the mirror.  He smiles, feeling relaxed and relieved.  The music has worked so well he's wondering why he was ever nervous in the first place.
+Cutter removes his earphones.  Feeling confident now, he opens the door, ready to return to his seat and ride out the flight.  But before he's halfway out, he hears...
+VINCENT 
+(to the passengers) 
+Just be cool and maybe you'll live!
+Instinctively, Cutter ducks down and crouches behind the partition.  What the hell's going on?  Cutter eases over to the edge and peers around the comer.  He sees that the terrorists have re-located all passengers to the Coach section of the main cabin.
+Cutter ducks back.  Talk about a worst case scenario.
+CUTTER 
+(under his breath) 
+This is not happening.
+But it is happening and Cutter knows he's got to do something.  Thinking hard, his eyes drift up to the air phones.
+CUTTER 
+(to himself) 
+What're you gonna do?  Dial 911?
+70     FLIGHT DECK                                              70
+Priest has altered the 747's course which gets an immediate RADIO REACTION.
+TOWER (V.O.) 
+T.P. 694, this is Orlando Tower.
+WOLFGANG 
+Go ahead. Tower.
+TOWER (V.O.) 
+Say reason for deviation of flight plan.
+WOLFGANG 
+(playful)
+We felt like it.
+TOWER (V.O.) 
+(cautious) 
+Who am I speaking to?
+WOLFGANG 
+You can call me... Wolfgang.
+CUT TO:
+71 & 72     OMITTED
+73     INT. TRANS PACIFIC BOARDROOM - NIGHT                     73
+A large meeting room has been transformed into mission control to deal with the hijack situation.
+Staff are busy dealing with the problem, shouting at each other and into phones.  Video and communications equipment arrives.  In the middle of this madhouse Stuart Ramsay arrives in mid-conversation with a top EXECUTIVE.
+RAMSAY 
+Who authorized his transit on our airline?
+EXECUTIVE 
+You know how it works.  The fucking F.B.I, shows up at the airport, they flash their badges and bully their way on board whatever flight they like.  We're powerless to stop them.
+RAMSAY 
+They'll take full responsibility for this one, believe me.
+VOICE 
+Unfortunately, Stuart, the public will blame us.
+Ramsay turns as a tall, imposing gray-haired man in his early seventies enters... ADDISON CALE, the Chairman and C.E.O. of Trans Pacific.  Cale does not look pleased.
+RAMSAY
+Addison.
+CALE 
+Who fucked up?
+RAMSAY 
+Isn't it a little early to start looking for a scapegoat?
+CALE 
+Stuart, in my experience, it's never too early.
+Ramsay sees a way out.
+RAMSAY 
+Sly Delvecchio's our V.P. in charge of airline security.  Talk about a coincidence.  Just today I was telling him how we need an anti-terrorism unit to handle situations like this.
+CALE 
+(sad) 
+Too bad.  I always liked Sly.
+An ASSISTANT carrying a telephone approaches them.
+ASSISTANT 
+Mister Ramsay, there's a Mister Cutter on the line.
+RAMSAY 
+I'm in the middle of a crisis here.
+ASSISTANT 
+He says he's on the hijacked plane and wants to speak to Sly Delvecchio.
+Ramsay and Cale exchange looks of surprise.  Ramsay grabs the phone.
+RAMSAY 
+Cutter, this is Stuart Ramsay. Where are you?
+INTERCUTTING WITH:
+74     CUTTER                                                   74
+Crouched behind the partition, whispering into an air phone.
+CUTTER 
+I'm camped out behind the left bulkhead on one of the air phones. Is Sly there?
+RAMSAY 
+No.  Cutter, talk to me.  What the hell's going on up there?
+CUTTER 
+Four terrorists have taken over the plane.
+RAMSAY 
+Cutter, don't do anything rash.
+RAMSAY 
+Just follow my instructions.  I want you to make your presence known and contact the leader. Tell him you have the President of Trans Pacific on the line.  I'm here with the Chairman and we're willing to negotiate.
+CUTTER 
+Ramsay, you don't negotiate with terrorists.
+(the truth) 
+You kill them.
+And so saying. Cutter knows what he has to do.
+RAMSAY 
+Wait.  Listen to me. Cutter...
+CUTTER 
+(lying)
+What's that, Ramsay?  You're breaking up.  I can't hear you.
+RAMSAY 
+Cutter, you have no authority.  If you do anything to --
+CUTTER 
+(cuts him off) 
+Gotta go.  Gotta get busy.
+CLICK.  Cutter hangs up.  Ramsay turns to Cale in utter bewilderment.
+RAMSAY 
+He hung up on me.
+That's when Sly enters in a rush.
+SLY 
+I got here as fast as I could.
+RAMSAY 
+You just missed your friend Cutter. He's on 694.
+SLY
+He can't be.  I put him on the six o'clock.
+CALE 
+(to Sly) 
+You know this man?
+SLY 
+(confident)
+Yes sir.  I do.  But don't worry. Cutter's a pro.  He won't do anything to jeopardize the safety of the passengers.
+RAMSAY 
+No?  He just said he was going to kill the terrorists.
+Now it's Sly's turn to look worried.
+75     CUTTER                                                   75
+He returns the air phone to its cradle, removes his credit card and leans back against the partition, thinking hard.  Directly in front of him are the two lavatory doors.
+76     FLIGHT DECK                                              76
+The bodies of the flight crew have been dumped outside the cockpit in the empty upper deck.  Wolfgang and Priest are studying a map.  The RADIO CRACKLES.
+VOICE (V.O.) 
+T.P. 694.  Do you read?
+WOLFGANG 
+(into his headset) 
+Go ahead.
+NEW VOICE (V.O.) 
+This is Special Agent Stern of the F.B.I.  First, I'd like to establish the status of Marshals Manning and Duncan.
+WOLFGANG 
+Their status is dead.  They looked so lonely I had the flight crew join them.  The passengers have not been harmed.  So far.
+STERN (V.O.) 
+(NEW VOICE) 
+What are your demands?
+WOLFGANG 
+We're diverting to Houston. Estimating arrival there in two hours.  I want a small jet standing by, fueled and ready for take-off.  Meet my demands and the passengers will be released.
+Wolfgang CLICKS OFF.
+WOLFGANG
+Chew on that.
+77     OMITTED                                                  77
+78     INT. 747 - COACH                                         78
+Vincent, Fiona, Indian and Student stand in the front of the cabin, keeping the passengers covered.  Vincent reacts to their frightened sobs.
+VINCENT 
+Knock that shit off.  We don't want any cry-babies.  Let's see some happy faces.
+(pointing his gun at a passenger)
+Smile.
+The passenger, a middle-aged woman, tries to smile but dissolves into tears.
+VINCENT 
+You people are pathetic.
+A series of LOUD THUMPING sounds.  They're coming from the rear of the jet.
+VINCENT 
+What the hell is that?
+Marti rises from her seat.
+MARTI 
+The lavatory doors -- they sometimes come open when there's turbulence.  Would you like me to go back and shut them?
+VINCENT 
+How sweet of you to offer.  Now sit down and shut UP.
+(to the Student) 
+Check it out.
+Gun up, the Student heads for the rear of the plane.
+79     AFT SECTION                                              79
+The Student steps around the partition and discovers both LAVATORY DOORS open, swinging open and shut, going THUMP THUMP THUMP.  The Student investigates the first compartment.  Empty.  He secures the door and peers into the second compartment.
+Cutter, who has wedged himself overhead, drops down on the Student like a ton of bricks.  Cutter slams the Student's face into the mirror.  The GLASS SHATTERS.
+CUTTER 
+There goes your next seven years.
+80     MAIN CABIN                                               80 
+Vincent, growing impatient, calls out.
+VINCENT 
+Hey, Ernst!  You fall in?
+The Student steps out from behind the partition.  His face is bloody and his legs are wobbly.  He's being held up by Cutter who appears behind him, pressing a gun to the dazed kid's head -- using him for a shield.
+CUTTER 
+(shouting like a crazy man)
+I'll kill him!  Swear to God I'll blow his goddamn brains out!
+Passengers scream and duck as Cutter frog-marches the Student up the aisle.  Vincent, Fiona and the Indian are unsure what to do.  Cutter looks positively rabid.
+VINCENT 
+Don't fuck with us, man!  Let him go or we start offing people!
+CUTTER 
+(raving)
+You think I give a shit about them?  Hell, I may take out a few myself just for kicks!  Now pull those curtains and move back! Move back or I'll blow a window and suck everybody's ass into space!
+Cutter aims his gun at a window.
+VINCENT 
+Okay, just level out...
+Vincent opens the curtains to first class.  He, Fiona and the Indian retreat into the empty area, keeping their guns on Cutter who shoves the dazed Student in front of him.
+81     FIRST CLASS                                              81
+As Cutter and the Student enter, Vincent shouts up the stairway to the flight deck.
+VINCENT
+Wolfgang!
+Wolfgang.  Cutter recognizes the name and realizes he's in very dangerous company.  Marti, up and out of her seat, watches from a position near the upper galley.
+Wolfgang comes down from above, gun at his side.
+WOLFGANG 
+I see we have a hero.
+CUTTER 
+(demanding) 
+Lose the guns!
+Wolfgang considers, shrugs, then raises his GUN and FIRES TWO SHOTS into the Student.  As the Student folds like a marionette. Cutter FIRES back at Wolfgang -- but Wolfgang is already diving for cover.
+Cutter drops the Student and leaps back, colliding with Marti.  They tumble into the upper galley.
+82     UPPER GALLEY                                             82 
+Cutter and Marti disentangle themselves.
+CUTTER 
+What do you think you're doing?
+MARTI 
+I could ask you the same question.
+Cutter is on his feet -- suddenly all business.  He pushes Marti into the recesses of the tiny compartment.
+CUTTER 
+Get down and cover your head.
+MARTI 
+(realizes) 
+You were faking!
+CUTTER 
+No shit!  Get your ass down!
+Marti gets her ass down.  Cutter crouches in front of her, gun pointed at the entryway.
+MARTI 
+What's your plan?
+CUTTER
+Stay alive. 
+MARTI
+Good plan.
+WOLFGANG (O.S.) 
+(shouting)
+Hero!  Throw out your gun or I'll start executing passengers!
+Big problem.  If Cutter throws out his gun, he and Marti are dead.  If he doesn't, the passengers are. That's when Cutter notices the little elevator.
+CUTTER 
+(shouting) 
+All right -- here it comes!
+83     FIRST CLASS                                              83
+Cutter's gun sails out of the upper galley and lands in the aisle.  Wolfgang nods at the Indian and together, they rush the upper galley.
+84     UPPER GALLEY                                             84
+It's empty!  Wolfgang and the Indian look at each other in confusion.  Then, they hear the ELEVATOR MOTOR. Wolfgang grabs the elevator door but it refuses to open.
+85     LOWER GALLEY                                             85
+The elevator door opens to reveal Cutter and Marti, face to face, wedged against each other like sardines.
+CUTTER 
+I guess this is what they mean by 'Fly United.'
+They untangle themselves and pop out.  Cutter grabs a food cart and jams it into the doorway, making the elevator inoperative.
+86     UPPER GALLEY                                             86
+The Indian tries to pry the elevator doors apart with his superior strength but they won't budge.  Wolfgang doesn't seem particularly upset.  He gives calm instructions to Fiona and Vincent.
+WOLFGANG
+Handle the passengers.  We'll take care of the hero. 
+Fiona and Vincent go aft.
+87     LOWER GALLEY                                             87 
+Cutter scrambles around, searching for something.
+CUTTER 
+Where's the hatch to the avionics compartment?
+MARTI 
+What do you want that for?
+CUTTER 
+We've got to find a way to bring this plane down.
+Marti looks at Cutter in horror.  Maybe he is crazy.
+MARTI 
+Down?  This is a jumbo jet.  You don't just bring a jumbo jet down.
+Cutter finds the handle to the avionics compartment. He opens the hatch.
+MARTI 
+Hey!  You can't go in there.
+Cutter ignores her and enters.
+88     AVIONICS COMPARTMENT                                     88
+Marti grabs Cutter from behind.  They struggle and he pins her against the wall.
+CUTTER 
+Where'd you lear to fight like that?
+MARTI 
+(snarling) 
+Five older brothers.  Let go.
+CUTTER 
+Not until you promise to cool out.
+MARTI 
+All right.  I promise.
+Cutter steps back.  That's when Marti throws a punch at his head.  Cutter catches her fist, twists it around and pins her again.
+CUTTER 
+Now that I know I can't trust you...
+MARTI 
+Like I'm supposed to trust you? For all I know you're as crazy as those hi-jackers.  Crazier!  They just want to steal the plane --you want to crash it!
+CUTTER 
+My name is John Cutter.  I'm a former airlines security specialist.
+MARTI 
+Former?  What happened?  They fired you and now you're gonna get revenge by crashing a 747?
+CUTTER 
+(with conviction) 
+I'm trying to save lives.  The people who've taken over this ship are killers.  Their leader is a man called Wolfgang and he's only the most dangerous fucking terrorist in the world.  He kills hostages and he'll wipe out everybody onboard if we don't find a way to change his plans.  Yeah, bringing the jet down is dangerous. But staying in the air with that psycho is even more dangerous.
+Marti considers... and decides to trust him.
+MARTI 
+So what do we do?
+Cautiously, Cutter lets her go.  Marti makes no move to attack.  So Cutter crouches down and opens a small panel. Inside is a river of bright circuits and wires.
+CUTTER 
+We cut some wires.
+Cutter searches his pockets for something sharp but has nothing that will work.  Marti taps him on the shoulder. From her pocket, she produces a knife, fork and spoon sealed in plastic.
+89     UPPER GALLEY                                             89
+The Indian is trying to wedge open the elevator door when a sudden drop in altitude knocks him off his feet.
+90     EXT. NIGHT SKY                                           90 
+The 747 falls, coming AT US in excess of 500 knots.
+91     INT. 747 - MAIN CABIN                                    91
+It's panic time for everybody -- terrorists as well as passengers.  Screams and shouts.  The interior lights flicker out -- then burst back on.  The ENGINE WHINE is deafening.
+CUT TO:
+91A    INT. TRANS PACIFIC BOARDROOM                             91A
+Sly, Ramsay and Addison Cale react to news from a TECHNICIAN monitoring the A.F.C.
+TECHNICIAN 
+694 has dropped off the radar screen!
+The room becomes very quiet, very tense.
+CALE 
+(pragmatic)
+Well, if they crashed, it would certainly take the pressure off.
+CUT TO:
+92     OMITTED                                                  92
+93     INT. 747 - FLIGHT DECK                                   93
+Wolfgang enters to see what's gone wrong.  Fighting the yoke, Priest jabs a finger at the fuel gauge.  The needle is steadily going down.  Red lights wink on.  Under each red light it says "Manual Emergency Fuel Void."
+PRIEST 
+Somebody's dumping fuel!
+WOLFGANG 
+What does that mean?
+PRIEST 
+It means we find a place to land in five minutes or we're dead!
+94     AVIONICS COMPARTMENT                                     94
+While Marti watches. Cutter severs wires with the blunt butter knife.
+95     EXT. GULF OF MEXICO - NIGHT                              95
+Men working on the back of a fishing boat look up as the mammoth JETLINER THUNDERS overhead, sending them scurrying for cover or diving overboard.
+96     INT. 747 - FLIGHT DECK                                   96 
+Priest motions for Wolfgang to take the co-pilot seat.
+PRIEST 
+Better strap yourself down.  This is gonna get hairy.
+Wolfgang buckles up as the fuel gauge hits empty.
+WOLFGANG 
+(a trace of admiration) 
+The hero did this.
+PRIEST 
+(into his headset) 
+Lake Lucille Tower.  Do you read?
+97     EXT. AIRFIELD (LAKE LUCILLE, LOUISIANA) - NIGHT          97
+A terminal, control tower and a couple of runways in the middle of a soggy cow pasture.
+In the distance, we see the lights and hear the faint noise of a small county fair and carnival.  The ferris wheel is a revolving beacon in the gathering darkness.
+TOWER (V.O.) 
+This is Lake Lucille.  Identify yourself.
+98     INT. TOWER                                               98
+A night crew of four or five including FRANK ALLEN and his wife, NORA.  The Allens work as flight controllers.       *
+PRIEST (V.O.) 
+This is Trans Pacific Flight 694 on emergency approach!  Request landing instructions, your field.
+Frank and Nora can't believe their headsets.
+FRANK 
+Negative 694 -- this is not a commercial airport.  We are not equipped to accommodate a craft of your size.  Suggest you reroute to Baton Rouge --
+PRIEST (V.O.) 
+And I suggest you shut up and get ready 'cause we're coming in!
+NORA 
+694 -- that's the hijacked ship.
+Frank nods grimly.
+FRANK 
+Say your position, 694.
+PRIEST (V.O.) 
+Due west.  Two miles out at five hundred feet -- coming in hot and fast!
+Frank and Nora look at each in alarm.  Then, gripped by the same thought, their eyes go to the window... and the fairgrounds beyond the landing strip.  If the 747 comes in too low...
+99     EXT. FAIRGROUNDS - ESTABLISHING                          99
+The familiar sights and sounds of a county fair.  The mid-way is packed with innocent, unsuspecting fun-seekers from neighboring farms and towns.  Families, couples and teenagers enjoy the rides and attractions. They're out for a night of excitement (and danger) headed their way.
+100    FERRIS WHEEL                                             100
+Revolving, brightly lit, framed against the night sky.  Just as a seat containing two necking teenagers comes up over the top, the 747 plunges out of the clouds. FILLING the FRAME.  It THUNDERS overhead -- almost close enough to touch.  Then -- WHOOM! it's gone.  And the ferris wheel shakes -and shimmies in the powerful jetwash.
+101    MID-WAY                                                  101
+People react and panic as if the sky is falling.  And it is!  The massive underbelly of the 747 completely obliterates the moon and stars.  Over by the pony rides, a terrified mother clutches her CHILD who points at the big plane with excitement.
+CHILD 
+Mommy, I wanna ride on that!
+102    EXT. END OF RUNWAY                                       102
+Barely missing the fairgrounds, the 747 continues to drop like a brick with wings.
+103    INT. 747 - LOWER GALLEY                                  103
+Cutter and Marti strap themselves into harnesses.  The plane shakes, RATTLES and rolls -- dislodging the food cart from the elevator.  As Cutter and Marti look on in horror, the elevator door closes and the MOTOR WHIRS to life.
+CUTTER 
+Shit!  We've got company!
+Cutter struggles to unstrap himself.
+104    EXT. RUNWAY                                              104 
+The jet comes down, biting asphalt, blue smoke rising.
+105    INT. 747 - LOWER GALLEY                                  105
+Cutter frees himself just as the elevator opens to reveal the Indian, gun up.  Cutter leaps into the air. With a vicious roundhouse kick, he knocks the gun out of the Indian's hand.  The Indian swings at Cutter and connects.
+While Marti looks on, the two men slam each other around the compartment.  Cutter's good but it's like fighting a mastadon.
+106    INT. 747 - FLIGHT DECK                                   106 
+Priest mashes the brake pedals to the floor.
+107    MAIN CABIN                                               107 
+Everyone and everything is violently thrown forward.
+108    LOWER GALLEY                                             108
+Cutter and the Indian are lifted off their feet and hurled forward.  Cutter manages to get behind the Indian and use him as a buffer.  The Indian hits the wall head first -- Thud! -- and knocks himself cold.
+109    EXT. RUNWAY                                              109 
+The 747 -- bumping and SKIDDING along the tarmac.
+110    INT. 747 - LOWER GALLEY                                  110
+Cutter sits on the floor beside the unconscious Indian, trying to clear his head.  He picks up the Indian's gun, then gestures to Marti who is out of her harness.
+CUTTER 
+Open the loading hatch!
+Marti wheels it open -- letting in a blast of wind. Cutter stands.
+MARTI
+Now what?
+CUTTER 
+Climb down and jump.
+MARTI 
+You're kidding.
+CUTTER 
+Somebody's got to tell 'em our situation and I just elected you. So climb down and jump -- or I'll throw you out.
+That's when a huge foot slams into Cutter's back.  He loses the gun and falls out through the open hatch.
+111    EXT. RUNWAY                                              111 
+Cutter lands in the wet grass alongside the runway.
+CUTTER 
+(a groan of pain) 
+Grounded.
+Cutter looks up and sees the 747 growing small in the distance.  The Indian stands in the open hatchway, restraining Marti while waving "bye bye" to Cutter with the gun.  And to make matters worse, the big bastard is smiling.  The plane disappears into the distance.
+The sound of a GUN being COCKED.  Cutter raises his head and finds himself staring into the barrel of a revolver. Behind it is a BURLY SECURITY COP, ready to blow him away.
+BURLY COP 
+Hold it right there, boy.
+CUTTER 
+Bov?
+ON Cutter's fierce look...
+CUT TO:
+111A   INT. TRANS PACIFIC BOARDROOM - NIGHT                     111A
+Staff is crowded around a TV to watch a VIDEO TAPE.  On the screen, a bearded man with an Israeli accent is speaking.  Under his face is supered DR. ROBERT KAPOV, AUTHOR, "THE NEW TERRORISM."
+KAPOV 
+(on the TV)
+Wolfgang's services are available to any group or government willing to meet his price.  He hasn't got a political bone in his body. In my opinion, he is all the more dangerous because he does not align himself with any particular cause other than his own survival.  And Wolfgang has the survival instincts of a cockroach.
+Sly, Ramsay and Cale are watching from nearby.
+CALE 
+Given that, it seems unlikely Wolfgang would intentionally crash the plane.
+SLY
+Highly.
+RAMSAY 
+Can you say the same for your friend. Cutter?
+There's a big commotion as an entourage of FBI agents enter the room.  They look like clones of each other • tall, cropped hair, conservative dark suits.  Their leader, JAMES WEBB approaches Sly.  Webb is in his fifties, tough as they come -- completely devoid of humor.
+WEBB
+Sly.
+SLY 
+Hello, Jim.  Addison Cale and Stuart Ramsay... James Webb of the F.B.I.
+WEBB
+Gentlemen.
+RAMSAY 
+I'm glad you're here.  I'd like to have a word with you about transporting dangerous criminals on commercial aircraft --
+WEBB 
+Some other time.
+(to Sly)
+I understand John Cutter's on board 694.
+(CONTINUED)
+SLY 
+That's right.
+WEBB
+Do you think he can be trusted to keep a cool head?
+SLY 
+Oh, absolutely.
+The Technician monitoring the A.F.C. interrupts with an announcement.
+TECHNICIAN 
+Confirmed.  694 has made an emergency landing at Lake Lucille, Louisiana.
+The staff greets this news with joy and relief.  But Sly, Webb, Ramsay and Cale are not ready to celebrate. They find a map of Louisiana and locate Lake Lucille.
+SLY 
+Talk about the boondocks.
+CUT TO:
+112    OMITTED                                                  112
+113    EXT. LAKE LUCILLE AIRFIELD - APPROACH ROAD - NIGHT       113
+Headlights FILL the SCREEN as three police cruisers speed TOWARD CAMERA, SIRENS WHOOPING and bubble-tops flashing. As the third cruiser CLEARS CAMERA, we WHIP-PAN WITH it. The cruisers are hauling ass to the airfield.  SLOWLY CRANE UP.
+In the distance, we see the tiny terminal and control tower.  But beyond that --a truly staggering sight. Dwarfing everything around it like Gulliver in Lilliput, is the awesome amd immense 747, squatting on the tarmac. It gleams in the moonlight like some great silver monster.
+114    INT. 747 - MAIN CABIN                                    114
+The Indian throws Marti into a seat near Rita and Sly.  He points a warning finger at her.  "Stay."  Marti glares at him.
+115    EXT. RUNWAY PERIMETER                                    115
+The three police cruisers pull up alongside the Tower, aiming their headlights at the 747.  Police officers scramble out with assault weapons, taking cover beside their vehicles.
+116    INT. CONTROL TOWER                                       116
+Frank and Nora Alien stare in amazement at the huge airliner.
+FRANK 
+(into his headset)
+694, that was one hell of a landing. Welcome to Lake Lucille.
+WOLFGANG (V.O.) 
+So much for Southern hospitality. Now get a fuel truck out here in two minutes or I start tossing out bodies.
+Frank and Nora react to Wolfgang's chilling threat.  Just then, the door to the tower flies open and POLICE CHIEF BIGGS swaggers in, followed by two officers.  Biggs is in his fifties, muscle gone to fat, a cracker cop who'd never admit he's out of his depth in a situation like this.
+NORA 
+Chief Biggs...
+Biggs goes to the window and peers out at the 747.  He puts his hands on his hips, cowboy-style.
+BIGGS
+I got orders from the F.B.I, to take charge 'til they get here. 
+(jabbing a finger at the 747) 
+Now get me those sonsabitches on the horn.
+117    INT. 747 - FLIGHT DECK                                   117
+Wolfgang considers his options.  Priest peers out the cockpit window at the police bordering the runway perimeter.
+PRIEST 
+What're we going to do?
+WOLFGANG 
+Now that we're on the ground, we're going to turn our disadvantage into an advantage.
+PRIEST 
+What about 'Geronimo?'
+WOLFGANG 
+It was a beautiful plan but hardly useful in our present condition.
+The RADIO SQUAWKS,
+This is Lucille
+BIGGS (V.O.) 
+Chief Biggs of the Lake Police Department.
+Wolfgang looks at Priest and smiles.
+WOLFGANG 
+Good.  If Andy of Mayberry is calling the shots, it means the F.B.I, hasn't arrived yet.
+(into his headset) 
+Talk to me. Chief.
+BIGGS (V.O.) 
+You want fuel?  I'll swap you for it.  You give me the passengers and I'll give you the fuel.  How's that sound?
+Wolfgang becomes folksy and amiable, subtly mocking Biggs,
+WOLFGANG 
+(into his headset) 
+Looks like you got me over a barrel, good buddy.  I'll give you half the passengers now and the other half when the fuel's delivered.  That fair enough?
+INT. CONTROL TOWER
+Biggs is puffed up, confident he'll come out of this a big hero.
+BIGGS 
+You let us know when you're ready.
+118    CONTINUED:                                               118 
+Biggs releases the mike and strokes his several chins.
+BIGGS 
+Once we get those passengers off, we'll shoot out his goddamn tires.
+There's a COMMOTION OUTSIDE.  Everybody turns as the burly Security COP is shoved in through the open door, followed by Cutter.
+CUTTER 
+Somebody lose this?
+BIGGS
+What the...
+COP 
+(to Biggs) 
+He took my gun!
+CUTTER 
+I was afraid he might hurt himself with it.
+Cutter tosses the gun to Biggs who catches it and reacts with outrage.
+BIGGS 
+Who the hell are you?
+CUTTER 
+John Cutter.  I was a passenger on that plane until one of the terrorists showed me the door. Are you in charge here?
+BIGGS 
+You're damn right I'm in charge here.  What's the idea of roughing up my officer?
+CUTTER 
+I'm a security specialist working for Trans Pacific.
+Cutter hands Biggs his wallet and I.D.  Biggs looks it over.
+BIGGS 
+California? 
+CUTTER 
+It's a state out west.  Look, we're wasting time.  I have intelligence relating to the terrorists.  You want it or not?
+BIGGS 
+It don't say nothing here about you working for Trans Pacific. For all I know you could be one of them terrorists trying to pull a fast one.
+CUTTER 
+And for all I know you could be a cop -- but I doubt it.
+BIGGS 
+Understand something.  Even if you're who you say you are, you don't come in here and start throwing your weight around.  This is my airfield, my rescue --
+CUTTER 
+(indicating 747)
+And their funeral.  You want that on your head?
+Nora approaches Biggs with a telephone. 'Chief
+NORA 
+Trans Pacific.
+BIGGS 
+(into the phone)
+Biggs.
+INTERCUTTING WITH:
+118A   INT. TRANS PACIFIC BOARDROOM  NIGHT                      118A
+Sly, Webb, Ramsay and Cale are grouped around a speaker.
+WEBB 
+Chief, this is James Webb of the F.B.I.  I'm in Orlando with the executive officers of Trans Pacific.  Can you tell us what's happening?
+BIGGS 
+The plane's on the ground and we're negotiating for the passengers' release.  We're gonna swap 'em fuel for passengers.
+RAMSAY 
+Has anyone been hurt?
+BIGGS 
+Not unless you count one of my officers who got his nose bloodied by a fella who says he works for you -- John Cutter.
+SLY 
+(amazed)
+Cutter's there?  How'd he get off the plane?
+BIGGS 
+He says he was pushed.
+SLY 
+(anxious)
+Is he all right?  Put him on.
+BIGGS 
+(to Cutter) 
+Pick up that line over there.
+Cutter picks up another phone.
+CUTTER 
+(into the phone) 
+This is Cutter.
+SLY 
+Sounds like you've been busy.
+CUTTER 
+Well, I had a hell of a time getting the plane on the ground.
+SLY 
+How'd you do it?
+CUTTER 
+I dumped the fuel.
+Ramsay, Cale and Webb can't believe their ears.  Sly wishes he hadn't asked.
+CALE 
+(outraged) 
+He what?
+WEBB 
+He dumped the fuel.
+SLY 
+It was probably an accident...
+RAMSAY 
+He could've killed every passenger on that plane.  Chief Biggs, this is Stuart Ramsay, President of Trans Pacific Operations.  John Cutter does not work for this company.  I am instructing you to lock him up until I can determine how many violations of civil air code to charge him with.
+SLY
+You can't do that, Stuart.  Cutter's the only person there who's trained to handle the situation.
+RAMSAY 
+Cutter is obviously out of his mind and I do not intend to stand by and allow him to further endanger those lives.
+(turning to Cale) 
+Addison?
+CALE 
+It's your call, Stuart.
+Biggs turns to two of his officers.
+BIGGS 
+Fellas, take Mister Cutter downstairs and introduce him to the dentention room.
+CUTTER 
+Sly, I'm beginning to feel real unpopular.
+SLY
+There's nothing I can do, man. Just hang in there.
+The two cops grab Cutter and take him away from the phone. 
+CUTTER 
+(shouting)
+Give Ramsay a message for me! Tell him I'm gonna reach out and touch him -- and it's not gonna be with a phone!
+Cutter is hustled out the door.
+118B   BACK IN BOARDROOM                                        118B
+Sly turns to Ramsay in a fury.
+SLY
+That was a mistake.
+RAMSAY 
+(tough)
+I'm doing your friend a favor. Now back off. Sly.  I've got an airline to protect.
+The two men stare daggers at each other.
+CUT TO:
+119 & 120 OMITTED 
+121    EXT. AIRFIELD                                            121
+More police and emergency vehicles arrive.  A staging area has been set up in front of the terminal with paramedics standing by.  A fuel truck sits on the edge of the tarmac, waiting for a signal.  All eyes are glued to the fortress-like 747.
+122    INT. 747 - MAIN CABIN                                    122
+Vincent, Fiona and the Indian guard the passengers from the front of the cabin.  Wolfgang and Priest join them.
+WOLFGANG 
+Change of plans.  Who's got the party favor?
+Vincent opens his jacket to reveal the grenade hooked to the lining.  Wolfgang offers it to the Indian.
+WOLFGANG 
+Mister Elk Horn, you know what to do.
+The Indian nods solemnly.  He puts the grenade in his pocket.  Wolfgang turns and addresses the passengers.
+WOLFGANG 
+Good news.  In just a minute, half of you will be released.
+Excited reactions.  Some faces, like Marti's, are wary.
+WOLFGANG 
+After we've been refueled, the rest of you will follow.  Now... who'd like to be in the group that goes first?
+As anticipated, every hand in the cabin shoots up. Wolfgang hides a smile.
+WOLFGANG 
+You can't all go first.
+Clamoring and shouting as individuals plead for Wolfgang's attention.  To him, their begging is better than an orgasm.  Marti, who's seen enough, stands up.
+MARTI 
+(to passengers)
+Stop it!  Don't beg him!  Can't you see he's getting off on this?
+The cabin becomes silent.  Wolfgang fixes Marti with his deadly look.  He walks down the aisle to her.  Marti defiantly stands her ground.  Wolfgang stands very close to her.
+WOLFGANG
+Our brave little stewardess. 
+(reading her name badge)
+'Marti.'  The whole plane's dying to know.  What happened down there in the lower galley?  You and the hero in that tight little place, two healthy young people facing death, wondering if you'd ever have another chance to -- tell us, Marti, did the hero get into your tight little place?
+MARTI You're sick.
+WOLFGANG 
+Guess what?  I knew that before you did.  And you're right.  I do get off on people's suffering. So... help me get off, Marti.
+(a beat) 
+Beg me for your life.
+MARTI 
+Go to hell.
+Wolfgang raises his gun and presses the barrel to Marti's forehead.  Passengers gasp.  Marti, jaw trembling, continues to stare defiantly at Wolfgang.
+WOLFGANG 
+(a sexy whisper)
+Beg.
+Marti refuses.  Wolfgang considers, withdraws the gun --and points it at the nearest person -- a mother with a small child in an aisle seat.  It's the kid with the teddy bear!
+MARTI 
+(crying out) 
+Please -- don't--
+Wolfgang closes his eyes, feeling a rush of pleasure.  He lowers the gun and opens his eyes.  They gleam at Marti who feels like she's been raped.
+WOLFGANG 
+Thank you, Marti.  You were very good... darling.
+(announcing) 
+All right.  I've decided who will go first.  All passengers in rows ten through thirty --
+Passengers in these rows brighten.
+WOLFGANG
+-- will go last.
+Wolfgang inhales their disappointment.
+122A   INT. SERVICE CORRIDOR                                    122A
+TWO COPS escort Cutter down a long dark passageway, lit by dim overhead bulbs.
+They journey from one pool of light to another, disappearing into darkness in between.  Cutter is extremely agitated and getting more "street" by the second.  He begins to struggle between the Two Cops who are overweight country boys.
+CUTTER 
+(ranting)
+Fuck this shit!  No way!  No fuckin' way you're lockin' my ass in jail!  You hear what I'm sayin', you shit-kickin', grits-eatin' motherfuckers?  I ain't goin'!
+COP #1
+Cool it, suntan.
+CUTTER 
+Fuck you, cottonball!  I ain't afraid of your wimpy Barney Fife ass!
+(to the Cop #2) 
+Yours either, corn pone.
+COP #2 
+(losing it) 
+That's it!  Let's cuff him!
+CUTTER 
+(defiant)
+You try to cuff me and I will definitely fuck you up!
+COP #1 
+(angry)
+Get him under the light!  Turn him around!
+The Second Cop shoves Cutter up against the wall while the First Cop pulls out his handcuffs.  Cutter struggles as they brace him and try to get the cuffs on.
+COP #1
+Hold still!
+CUTTER
+Hold this!
+COP #1 
+(fumbling with the handcuffs)
+I can't see a goddamn thing!  Get him back in the light!
+Taking advantage of the situation and the bad light, Cutter suddenly whips around, catching the Cops off guard. A couple of lightning fast moves and -- snap!  click! The two Cops are handcuffed to each other!
+They're so amazed that Cutter is easily able to push them over.  Floundering off-balance, the Two Cops tumble to the floor, tangled together, thrashing to get free.
+As they struggle to get up, Cutter grabs one of their guns and aims it at them, COCKING back the TRIGGER.  The Two Cops freeze in terror.  The look on Cutter's face is murderous.
+COP #1 
+(pleading) 
+Please don't kill us!
+Cutter's "murderous look" vanishes, replaced by his regular look of cool, calculating intelligence.
+CUTTER 
+What?  And waste perfectly good bullets?
+The Two Cops realize the whole thing was an act to throw them off guard -- and it worked.
+Keeping the gun trained on them, Cutter walks over to a door marked "Janitor."  He opens it to reveal a small closet filled with mops and buckets and brooms.
+CUTTER
+In.
+CUT TO:
+123    OMITTED                                                  123
+124    INT. CONTROL TOWER                                       124 
+The RADIO CRACKLES.  Biggs and the others perk up.
+WOLFGANG (V.O.) 
+This is Wolfgang.  Is the fuel truck in position?
+BIGGS 
+(into the microphone) 
+Sure is.
+WOLFGANG (V.O.) 
+If anyone else comes within a hundred feet of this plane during refueling, the remaining passengers will be executed.  Do you read me?
+BIGGS 
+Loud and clear.
+WOLFGANG (V.O.) 
+There will be no communication during the refueling process.
+(a beat) 
+Stand by to receive passengers.
+125    EXT. RUNWAY - ANGLE ON 747         .                     125
+Emergency slides start inflating and passengers come tumbling down, reaching the tarmac and running for the terminal.
+126    TERMINAL AND STAGING AREA                                126
+The meager emergency teams are overwhelmed by the sudden tidal wave of humanity.
+127    INT. SERVICE CORRIDOR                                    127
+Cutter locks the Two angry Cops in the janitor's closet. Then he races down the corridor, responding to the O.S. NOISE of the evacuation.  He disappears up a flight of stairs.
+A series of THUMPING sounds comes from the Janitor's closet as the Two Cops try to break out.  Suddenly, the door shatters and they come tumbling out.
+128    EXT. RUNWAY                                              128
+Cutter moves through a wave of humanity as passengers continue to de-plane.  It's a madhouse scene so there's little chance of Cutter being discovered in the middle of it.
+Cutter stops.  He stands very still like an island in the middle of a sea of swarming, moving people.  He's got his radar out.  It may be a madhouse but Cutter's trained eye picks up something out of whack -- something in the distance that sends a jolt through his body.
+128A   CUTTER'S POV                                             128A
+Four "passengers" have broken away from the crowd and are hurrying off in the opposite direction, crossing a grassy field in the direction of the fairgrounds.  As they pass the runway lights, they are revealed as Wolfgang, Priest, Vincent and Fiona.
+128B   BACK TO CUTTER                                           128B 
+He can't help being impressed by Wolfgang's ingenuity.
+CUTTER 
+(to himself)
+'America's Most Wanted.'  Out for a moonlight stroll.
+Cutter's first instinct is to chase after them but it's too hard -- he's already being swept back by the pushing, shoving passengers.  Maybe he can find a way to intercept them.
+Cutter turns and allows the tide of humanity to carry him toward the terminal.  At the last moment, he breaks away and disappears around the side of the building.
+128C   EXT. FRONT OF TERMINAL                                   128C
+More cars are arriving.  Most of them contain locals who've come to the airfield to rubberneck at the spectacle.
+Cutter sees what he's looking for.  A big BIKER and his woman come ROARING up to the curb on a monster HARLEY. The woman dismounts as Cutter arrives.
+BIKER 
+(to Cutter)
+We seen all the cars.  What's goin' on?
+CUTTER 
+You'll never believe it.  Some crazy black guy just stole a big redneck's motorcycle!
+Cutter shoves the Biker to the pavement, hops into the seat, REVS the BIKE and ROARS off into the night.  The Biker, sitting stupidly on the ground, can't fucking believe it.
+129    EXT. FIELD                                               129
+Wolfgang, Priest, Vincent and Fiona, wearing borrowed coats and hats, hurry for the light of the fairgrounds.
+PRIEST 
+(curious) 
+What'll happen to Mister Elk Horn?
+WOLFGANG 
+He'll babysit the passengers until the police rush the plane.  Then he'll detonate the grenade and blow everything to kingdom come.  With all those mangled body parts, no one will know we weren't on board.
+PRIEST 
+He'll do. that?  Kill himself for you?
+WOLFGANG 
+Of course.  Wouldn't you?
+Priest looks uneasy.
+FIONA 
+Too bad we can't stay and watch it go 'boom.*
+VINCENT 
+Why bother?  It'll be on the news for the next six months!
+They come to a tall cyclone fence.  Without hesitation, the four terrorists hit the fence, scale it and clamber down to the other side.  A pasture separates them from the fairgrounds.
+WOLFGANG 
+(running)
+Keep moving.  We're free but we're not clear.
+130    EXT. RUNWAY                                              130
+The last of the freed passengers escape to the terminal. On the 747, hatch doors close.
+131    INT. 747 - MAIN CABIN                                    131
+Keeping his gun trained on the fifty or so remaining passengers, the Indian seals the final hatch with his free hand.  All eyes are on him.  With the same hand, he pulls the grenade out of his pocket.  The passengers shriek and cower.  The Indian says nothing but the message is clear.  "If I pull the pin, we all blow up."
+132    INT. CONTROL TOWER                                       132
+Standing at the window, Chief Biggs is satisfied that the first half of the transaction has gone smoothly. Frank Alien thinks something's fishy.
+FRANK 
+They freed a lot more than half.
+BIGGS 
+You complaining?
+FRANK 
+You gotta admit it's odd.
+BIGGS 
+I can live with odd.  Gas her up.
+Frank gives the signal.  Outside, the fuel truck drives up to the 747.
+The door to the control tower opens and the Two Cops stagger in -- bruised, bloody and humiliated.
+BIGGS 
+(roaring) 
+Where is he?
+CUT TO:
+132A   EXT. PASTURE                                             132A
+Cutter rides the HARLEY, rocketing cross-country in the direction of the fairgrounds.  He's running without lights but the ROAR of the bike beneath him is like a warning bell.  Wolfgang and company appear in the near distance.  Cutter guides the bike with one hand.  In his other hand -- the stolen gun, up and ready for action.
+132B   ANGLE                                                    132B
+Wolfgang and his crew turn and react to the fast-approaching Harley.  The moonlight reveals the rider as Cutter.
+VINCENT 
+It's that crazy fucker from the plane!
+WOLFGANG 
+He's not crazy.
+(impressed by Cutter's moxie) 
+He's dead.
+(whipping out his gun) 
+Take him out!
+Wolfgang, Vincent, Priest and Fiona OPEN FIRE, lighting up the night.
+132C   ANGLE                                                    132C
+Cutter bears down on them, RETURNING FIRE.  They scatter as Cutter comes over a rise -- and goes airborne. Vincent keeps PUMPING lead at him.  One of his shots hits the FUEL TANK and it EXPLODES beneath Cutter.
+Cutter and the flaming BIKE go CRASHING down into a deep ravine.  Cutter is thrown from the Harley and hurled into the darkness.
+VINCENT
+Bullseye.
+WOLFGANG 
+See that he's dead and meet us at the fairgrounds.
+(to Priest and Fiona) 
+Let's go.
+They depart as Vincent slides down the ravine, gun up, drawn to the wreckage of the smouldering Harley.
+132D   BOTTOM OF RAVINE                                         132D 
+Vincent arrives.  He sees the bike -- but no Cutter.
+VINCENT 
+(calling out)
+Don't be a shy guy.  Come out and play.
+As Vincent turns to look for him, Cutter comes flying out of the darkness.  He tackles Vincent and slams him to the earth.  Two quick punches and Vincent is out like a light.
+CUTTER 
+You're 'it,' motherfucker.
+Cutter stands, out of breath.  He sees Wolfgang, Fiona and Priest in the distance, entering the fairgrounds. At Cutter's feet is the mangled Harley.  One of the saddle-bags is open and a leather jacket is hanging out. Cutter reaches down and grabs it for a disguise.
+132E   EXT. FAIRGROUNDS                                         132E
+CLANG!  A softball hits a bullseye, RINGS a BELL and a board drops out from under a clown, dumping him in a tank of water.  The crowd cheers and laughs.  As the soggy Clown climbs back on his perch, we see Wolfgang, Priest and Fiona coming down the midway.
+WOLFGANG 
+How far to the rendezvous point?
+PRIEST 
+Port Arthur, Texas?  Maybe two hundred miles.
+WOLFGANG 
+Secure some transportation.  I'll call the rendezvous team and instruct them to hold their position.  We'll come to them. Move.
+Priest and Fiona nod and scurry off.
+CUT TO:
+132F   INT. CONTROL TOWER                                       132F
+While the re-fueling continues, a COP enters with news for Biggs.
+COP
+Some biker says a black guy stole his motorcycle and took off toward the fairgrounds.
+ANOTHER COP 
+(as he hangs up a phone)
+Chief, we've got reports of gunfire coming from over near the fairgrounds.
+CHIEF 
+(rising anger)
+Put them both together they spell 'Cutter.'  Get some men over there and nail his ass.
+As the Cops scramble for the exit...
+CUT TO:
+132G   EXT. FAIRGROUNDS - MIDWAY                                132G
+ANGLE DOWN FROM a big banner that proclaims "COUNTY FAIR -- FIREWORKS TONITE!"  In the crowd, we find Cutter on the hunt, effectively disguised in the leather jacket.
+A LOUD SCREAM.  Cutter reacts but it's only a couple of teenagers on the ferris wheel.  Cutter continues on, pushing through the dense crowd.  The gun in his pocket is a reassuring weight but he's clearly worried. Wolfgang and innocent people are a lethal combination.
+We RACK FOCUS.  Behind Cutter, Wolfgang steps out of a telephone booth.  Like a shark, he glides silently up behind Cutter and ever so gently pokes his gun into Cutter's back.  Cutter stiffens.
+WOLFGANG 
+(in Cutter's ear) 
+Lovely night.  Let's go for a walk... hero.
+Cutter does as he's told, wondering how the hell Wolfgang recognized him.
+WOLFGANG 
+Nice 'disguise.'  How did you resist wearing a neon sign?
+They walk past a distortion mirror.  Cutter glances at his reflection and sees that the back of his leather jacket is decorated with big letters that spell out "ARYAN ARMY."
+CUTTER 
+(feeling like a chump) 
+I gotta get some new brains.
+WOLFGANG 
+(amused)
+I'm curious to know how a black man got into a Neo-Nazi bike gang.
+CUTTER 
+I promised to introduce them to Michael Jordan.
+WOLFGANG 
+A sense of humor.  I like that in a corpse.
+(as they walk) 
+Now, very gently, remove the pistol from your pocket and drop it into the nearest trash receptacle. Any hesitation and I'll blow a hole through your spine.  And if that's not incentive enough, I assure you I have no problem with wasting a few bystanders.
+As they pass a trash can. Cutter carefully removes his pistol and drops it in.
+WOLFGANG 
+Very good.
+CUTTER
+Now what?
+WOLFGANG 
+We walk and we talk.  Get to know each other.  I don't usually care who I kill but in your case I'm willing to make an exception.  You fascinate me.  But first things first.  What happened to the young man I sent to kill you?
+CUTTER 
+He's taking a nap in some cow shit.
+They pass the carousel with its HURDY GURDY MUSIC, spinning lights and happy children.  For a brief moment, Wolfgang savors the scene with an almost child-like wistfulness.
+WOLFGANG 
+Quite a fascinating place, wouldn't you agree?  I've never actually been to a county fair before.  I've never even been on a carousel.
+CUTTER 
+You poor little thing.  I'll bet you had a deprived childhood.
+WOLFGANG 
+My childhood was a nightmare.
+CUTTER 
+You're adulthood's no golden dream.
+WOLFGANG 
+And you're no ordinary passenger. Who are you?
+(poking Cutter with the gun)
+If you don't tell me, somebody will die.  Maybe you... maybe one of them.
+Cutter's blood freezes.  He looks around at the happy, unsuspecting people on the midway.  Teenagers.  Toddlers. Moms and Dads.  A whole cross-section of humanity.
+WOLFGANG 
+Let's see.  Who shall it be?  The fat girl with the ice cream cone? Too easy.  How about the sailor trying to impress his girl friend? Wait.  Just the thing.  A pair of identical twins...
+Cutter simply has no choice.
+CUTTER 
+My name's John Cutter.
+WOLFGANG 
+Don't lie.  I'll know if you lie.
+CUTTER 
+I'm a security specialist working for Trans Pacific.  I asked the local cops to let me take you down without causing a scene. They're watching us right now.
+WOLFGANG 
+I hardly think so.  You're a lone wolf. Cutter.  I know the breed. I assume you know who I am.
+CUTTER 
+I'm your biggest fan.
+WOLFGANG 
+You're very clever.  Very resourceful.  Dumping the fuel was quite brilliant.
+CUTTER 
+Thanks.  I've never been complimented by a psychopath before.
+WOLFGANG 
+Well, it takes one to know one.  I could use a man like you. Cutter, but I'm sure you're hopelessly tied to some sense of morality. We're not really that different, you and me.  We're both killers.
+CUTTER 
+The people I've killed were scum. They had it coming.  The people you kill are innocent.
+WOLFGANG 
+Innocent?  Who says they're innocent?  I'm surprised at you, Cutter.  Haven't you figured it out by now?  The world is a hell. It doesn't matter what we do in it.
+CUTTER 
+Wolfgang, I hope you won't take this the wrong way... but you are one sick fuck... and it's gonna be a pleasure to kill you.
+WOLFGANG 
+(can't believe Cutter's nerve) 
+Kill me?  Cutter, you need a reality check.
+Fiona comes toward them.  She recognizes Cutter.
+FIONA 
+Back from the dead?
+WOLFGANG 
+Vincent failed.  Where's Priest?
+FIONA 
+Waiting with the bus.  We borrowed it from a Baptist church group.
+(indicating Cutter) 
+What about him?
+WOLFGANG 
+We'll kill him on the bus and dump his body in the swamp. Let's go.
+132H   ANGLE                                                    132H
+Fiona leads Cutter and Wolfgang down the midway.  In the distance sits a battered yellow church bus on the edge of the parking area, belching black exhaust fumes,
+Cutter notices police arriving on the scene.  The Cops are mingling with the crowd, obviously on the lookout. Wolfgang sees them, too.
+CUTTER 
+They're looking for me.
+WOLFGANG 
+They can't have you.  I found you first.
+They continue along the midway, careful not to attract attention, approaching...
+132I   OPEN-AIR STAGE                                           132I
+Where a pie and cake auction is underway.  A folksy AUCTIONEER in a cowboy suit examines the next item, a pit displayed by its creator, a twelve-year-old Cajun girl.
+AUCTIONEER 
+(into a microphone) 
+What do we have here?  Looks like a lovely pecan pie baked by Suzanne Belreve, a sixth grader from Natchitoches .  Mnunnun, that do smell good.  I'm gonna start the bidding at five dollars. Who's gonna gimme six?
+As Cutter moves past the assembled crowd, flanked by Wolfgang and Fiona, he realizes he has to take a chance,
+MAN IN CROWD
+Six!
+ANOTHER MAN
+Seven!
+AUCTIONEER 
+Seven.  Do I hear eight?
+VOICE (V.O.)
+Fifty bucks!
+The crowd lets out a collective gasp.  Heads turn, seeking the owner of the voice.  It's Cutter, wearing a big grin.  Wolfgang and Fiona are momentarily flummoxed. They can't believe it.  On stage, the Cajun girl's eyes light up with excitement. Fifty dollars!
+AUCTIONEER 
+Did you say fifty bucks?
+CUTTER 
+(feeling generous) 
+What the hell, make it a hundred!
+A bigger gasp.  This attracts the attention of other people strolling the midway.  They drift over to see what's going on.  Even the Cops are pressing closer to see who the big spender is.  Wolfgang feels his power slipping away:
+WOLFGANG 
+(hissing in Cutter's ear) 
+Enough.
+CUTTER 
+What's that?  Two hundred?  Hey! My buddy here bids two hundred!
+Now everybody's looking at Wolfgang!
+Just what Cutter wanted.  He takes advantage of the situation and steps away, burrowing deeper into the crowd.  Wolfgang squirms.  He looks like a rat trapped in a corner.  This is the first time we've ever seen him flustered.
+AUCTIONEER 
+(to Wolfgang) 
+Is that right, sir?  Are you bidding two hundred dollars?
+Wolfgang is in a cold fury.  Even the Cops are looking at Wolfgang now, waiting for his response.
+WOLFGANG
+No.
+CUTTER 
+What a cheap ass!
+(stirring up the crowd)
+You gonna let him get away with that?
+Wolfgang shrinks back as people begin to jeer, giving him shit for being a phoney bidder.  He gives Cutter a deadly look.  Cutter returns it with a look of his own. Wolfgang turns and takes off with Fiona.
+AUCTIONEER 
+(to Cutter)
+What about you, friend?  You're still at two hundred.
+Cutter may have solved one problem but in doing so, he's created another.  In the crowd. Cutter sees the Burly Airport Cop -- the one he beat up.  Uh oh.  The Burly Cop sees Cutter and signals the other Cops to close in.
+CUTTER 
+Three hundred!
+The Cajun girl looks at her pie.  Three hundred dollars. It never occurs to her that this is a bluff.
+AUCTIONEER 
+Come on now.  Fun's fun but we're talking about a pie.
+The Cops are all around Cutter.  He realizes his only avenue of escape is the stage itself.
+CUTTER 
+(pushing forward) 
+You're right!  Let me get a better look at it!
+Cutter leaps up on the stage.  That's it.  The Cops have had enough.  Guns come out.  Wrong move.  The crowd panics as the Cops rush the stage.
+Without fear, the Cajun girl steps up happily to offer her pie to Cutter.
+CUTTER 
+Hang on to that pie, kid.  I'll be back for it.
+(looking around) 
+I hope.
+Cutter dives through the flimsy stage backing and is gone.
+132J   ANGLE                                                    132J
+Suddenly, there's a LOUD EXPLOSION overhead --a bright flash of light -- the FIREWORKS SHOW has begun.  Instead of responding with delight, the crowed freaks out, thinking World War III has erupted.  The midway becomes a riot and the Cops must try to contain it.
+132K   PARKING AREA                                             132K
+Wolfgang and Fiona run to the waiting church bus. Priest, in the driver's seat, pulls the lever that opens the door.  Wolfgang and Fiona scramble on board.
+PRIEST 
+What happened?
+WOLFGANG 
+Hit it.
+Priest shoves the bus into gear.  But just as it lurches into motion, two military transport trucks arrive on the scene, blocking their getaway.
+The loading doors of the transport trucks roll open, discharging COMMANDOS with assault weapons and "FBI" stencilled on their back and chests.  In their black body armor and night vision goggles, they look like invaders from hell.
+VOICE (V.O.) 
+(amplified)
+Driver, yellow bus!  This is the F.B.I.!  Stop your engine!
+WOLFGANG
+Short trip.
+132L   REAR OF CHURCH BUS                                       132L
+The emergency exit hatch is kicked open.  Wolfgang and Fiona drop to the ground and take off running low.  They head for the midway, the only place where they have a chance.
+132M   CHURCH BUS                                               132M 
+Commandos surround the bus.
+VOICE (V.O.) 
+(amplified)
+Come out with your hands over vour head!  Do it now!
+The bus door slowly opens and Priest steps out, hands high in the air.
+PRIEST 
+Thank God!  I'm Father Seamus O'Brien!  They held a gun to my head!
+VOICE (V.O.) 
+(amplified) 
+Take him down!
+Two Commandos rush Priest, throw him to the ground and cuff him.
+COMMANDO 
+(from the rear of the bus; shouting) 
+Exit hatch is open!
+A tall man in a black windbreaker and FBI baseball cap steps out of the lead transport truck.  He's the man whose amplified voice we've been hearing... FBI Agent, DWIGHT HENDERSON.  Henderson is standard FBI issue --rigid, professional and emotionally detached.
+HENDERSON 
+(into his megaphone) 
+Units One and Two -- execute Containment Plan!
+Commandos take off in different directions to surround the midway as FIREWORKS CONTINUE to EXPLODE overhead.
+133 thru 148   OMITTED
+LINE OF GENERATOR TRUCKS
+HUMMING and THRUMMING, providing the fair with power. Two Uniform Cops run by, searching for Cutter.
+149A   ANGLE UP                                                 149A
+to reveal Cutter on the roof of one of the trucks, using it for a lookout the FBI and sees the point.  He has witnessed the arrival of the Commandos fanning out to surround the fairgrounds.
+Cutter runs along the roofs of the trucks, jumping from one to the next, scouting the midway for a glimpse of Wolfgang.
+149B   MIDWAY                                                   149B
+The Cops have manged to get the Wolfgang and Fiona skulk past a games -- ring toss, water race, crowd under control. row of contests and shooting gallery, etc.  Wolfgang stops at the entrance to "The House of Mirrors.' He turns to Fiona.
+WOLFGANG 
+Are you prepared to do what's necessary?
+FIONA
+Yes.
+Wolfgang indicates the House of Mirrors.
+WOLFGANG 
+Go inside.  In thirty seconds I want you to blow the fuck out of the place.  Break every mirror and make a lot of noise.  That'll bring the cops and buy me a chance.  Hold them off for as long as you can, then execute yourself.
+FIONA
+I understand.
+WOLFGANG
+Don't fail me.
+Fiona nods, the dutiful soldier.  Wolfgang takes off. Fiona enters...
+149D   INT. HOUSE OF MIRRORS                                    149D
+A Empty and dark labyrinth of distortion mirrors, creating dozens of Fionas -- fat ones, skinny ones, tall ones, short ones.  Fiona takes out her GUN and pulls back the bolt.
+CUTTER (O.S.)
+Stewardess?
+Fiona whirls and sees Cutter behind her.  She FIRES and Cutter EXPLODES!  Surprise!  He's a mirror reflection. Before Fiona can recover, the real Cutter is upon her. He slams a fist into her beautiful, snarling face.
+MIDWAY
+Wolfgang is now some distance from the House of Mirrors. He wonders why Fiona hasn't started the diversion.  But it's a moot point because he's got trouble -- Commandos are coming up the midway.  Wolfgang turns and looks behind him.  Cutter -- fifty feet away.
+Cutter stops.  He and Wolfgang lock eyes.  They hold it for a long moment.  Faintly, we hear the HURDY GURDY MUSIC of the carousel.  Wolfgang's eyes drift in its direction.  Cutter's do likewise.
+149E   LONG SHOT - CAROUSEL                                     149E
+With its gaily spinning lights and happy children.  As Wolfgang and Cutter know, children make the best hostages.
+CUTTER
+No. . .
+But Wolfgang is already running for the carousel.  Cutter takes off after him.  He's got Fiona's gun but there's no way he can take a shot.  Too many people.
+Wolfgang collides with the ticket taker, knocking him down.
+149F   CAROUSEL                                                 149F
+Round and round go the colorful carved horses and their merry young riders.  The MUSIC is LOUDER here.  It seems almost demented.  Suddenly Wolfgang is on board -- a wolf among sheep, seeking a victim.  He zeroes in on a five-year-old boy astride a bucking bronco.
+Wolfgang grabs the child by the back of his T-shirt, lifts him out of the saddle.  In the center ring, the ride operator sees Wolfgang, the child and Wolfgang's gun.  Terrified, he panics and yanks the brake -- too fast.
+The sudden braking is too much for the over-taxed MOTOR. It BLOWS.  Gears fly apart, showering sparks.  The carousel begins to spin out of control, shimmying and shaking.  Children scream and cling to their horses for dear life.
+149G   CROWD                                                    149G
+It watches in horror.  Cutter pushes through the throng and races to the madly spinning carousel.  He throws himself on board and smashes into a horse.  He bounces off, crashes into another horse and is knocked around like a pinball.
+ANGLE
+Wolfgang is thrown forward against a pole.  He loses his grip on the boy who drops to the spinning platform and rolls toward the edge.  The ground beyond is a dangerous blur.  The boy is just about to roll off when Cutter dives INTO FRAME.  He grabs the boy just in time and pulls him back to safely.
+CUTTER 
+(to the terrified boy) 
+You're okay.
+WOLFGANG 
+You should've let him fall.
+Wolfgang is now standing over them, one hand clinging to a striped pole for support, the other clutching the gun -- aimed at Cutter and the boy.  Cutter cocks his leg and kicks the pole Wolfgang is using for support. The pole splinters and Wolfgang loses his balance.  He falls off the ride.
+ANGLE
+Wolfgang hits the ground and rolls for several yards. The gun flies out of his hand.  It skitters across the dirt and Wolfgang lunges after it like it was a life line.  As his fingers close around the gun stock, a foot comes down, trapping hand and gun.
+Wolfgang looks up.  The foot belongs to FBI Agent Henderson.  He is flanked by Commandos whose assault rifles are pointed at Wolfgang's head.
+WOLFGANG 
+(with relief) 
+Thank God.  My name is John Cutter.  I'm an airlines security specialist.  The terrorist is on the carousel.
+HENDERSON 
+Nice try, Wolfgang.
+The Commandos pounce on Wolfgang.  They cuff his arms and legs and slap adhesive tape over his mouth to keep him quiet.
+ANGLE
+The CAROUSEL GRINDS to a smokey stop.  Out steps Cutter like a modem day Pied Piper. He's carrying the boy in his arms and half a dozen other kids are clustered around him.  Parents rush out of the smoke to be reunited with their kids.
+Henderson approaches Cutter.  He's a fan.
+HENDERSON 
+Dwight Henderson, Mister Cutter. I attended a lecture you gave at Quantico three years ago.  I believe the title was 'Damage Control At Terrorist Sites.'
+Cutter looks around at the destruction.
+CUTTER 
+(a sheepish smile) 
+Do as I say, not as I do.
+HENDERSON 
+We were a little shocked to hear you were on the plane.
+CUTTER
+Yeah?
+HENDERSON 
+There was a rumor you'd given up flying after the Pan International thing.
+(then; realizing he's hit a nerve) 
+Sorry.
+CUT TO:
+WOLFGANG
+Not far away, the bottom half of his face hidden under adhesive tape.  He's hearing every word.
+CUTTER 
+Guess I've had pretty bad luck when it comes to picking planes. Well, I can take a hint.  After tonight's little adventure, there's no way I'm ever getting on another one.
+And he means it.
+HENDERSON
+What can you tell us about the terrorists still on board?
+CUTTER 
+There's only one.  A big Indian. I don't know what his agenda is. Why don't we squeeze Wolfgang and see what comes out?
+Wolfgang's hooded eyes bore into Cutter and Henderson as they come closer.  Cutter wears a weary half-smile of victory.
+CUTTER
+(to Wolfgang) 
+These people just saved your life, shithead.
+(a beat)
+Too bad.  I was really looking forward to killing you.
+Wolfgang nods politely.  Some other time.
+HENDERSON 
+Tell us what we want to know and it might help you down the line.
+Henderson reaches up and tears the adhesive from Wolfgang's mouth.
+WOLFGANG 
+(rapid fire) 
+The information you seek is this? There is one man on board the plane and he has a grenade -- a grenade powerful enough to wipe out everyone onboard.  He has no intention of flying the plane. The refueling was merely a ruse to buy us escape time.  When the plane is attacked, he will detonate the device.  The man is willing to die for me.  In fact, he's looking forward to it. Gentlemen, he will kill everyone on board that plane unless...
+CUTTER 
+Unless what?
+WOLFGANG 
+Unless I tell him not to.
+ON Wolfgang's face, the faintest of smiles.  He begins to whistle "Pack Up Your Troubles..."
+CUT TO:
+156A   EXT. PARKING AREA - MINUTES LATER                        156A
+A struggling Fiona, gagged and cuffed, is bodily lifted into the rear of a transport truck.  Wolfgang and Priest are already inside under heavy guard.  A Commando squad leader hustles around to the front of the truck to report to Henderson who is riding up front with Cutter.
+COMMANDO 
+We found the girl but there's no sign of the other perp.
+HENDERSON 
+Keep looking.
+(to the driver) 
+Airfield.  Stat.
+The driver stomps the gas and the TRUCK ROARS off.
+156B   EXT. EDGE OF FAIRGROUNDS                                 156B
+A YOUNG PARAMEDIC returns to his vehicle only to find Vincent waiting there, leaning against the driver's door. Thanks to Cutter, Vincent's face is pretty torn up.
+PARAMEDIC 
+(startled) 
+Are you okay?
+VINCENT 
+I am now.
+Vincent smiles.  He's missing several front teeth. 
+CUT TO:
+156C   INT. TRANS PACIFIC BOARDROOM - NIGHT                     156C
+FBI Agent Webb hangs up a telephone.  Sly, Ramsay and Cale are eager to hear the news.
+WEBB 
+Wolfgang and three of the terrorists slipped off the plane with the first group of passengers.  It's all right. They're in custody now.
+RAMSAY
+Thank God.
+156C   CONTINUED:                                               156C
+WEBB 
+No.  Thank John Cutter.
+RAMSAY
+Cutter?
+WEBB 
+It seems he practically captured them single-handedly.
+SLY
+(lets out a whoop) 
+Yes!  That's my boy!
+Sly realizes his behavior is a little juvenile but he doesn't give a shit.  He's genuinely happy for his buddy.
+RAMSAY 
+How?  I thought he was locked up.
+CALE
+Stuart, try to get your priorities straight.  This is good news.
+RAMSAY 
+(to Webb)
+All right.  Cutter captured the terrorists.  Does that mean the crisis is over?
+WEBB 
+No.  There's still one terrorist on board.  He has a bomb.
+RAMSAY 
+So what you're saying is, the plane could blow up at any second.
+WEBB
+I think we should be prepared for that possibility.
+CUT TO:
+157 & 158    OMITTED
+159    EXT. LAKE LUCILLE AIRFIELD - RUNWAY - NIGHT              159
+The fuel truck pulls away from the 747.
+160    INT. 747 - MAIN CABIN - CLOSE ON GRENADE                 160
+gripped in the Indian's fist.  PULL BACK to reveal him towering over the passengers, the gun in his other hand. The passengers are near the breaking point.  Marti stands up and speaks for them all.
+MARTI
+Your partners left you holding the bag.  What good's it gonna do to keep us here?  Can't you see your leader played you for a fool?  You think he'd sacrifice his life for you?
+The Indian angrily strides over to Marti and slaps her with his gun.  Marti falls back into her seat.  She touches her cheek and glares at the Indian with wet, angry eyes.
+161    INT. TERMINAL - STAGING AREA                             161
+Biggs and Frank Alien come down from the tower.  The terminal is filled with Biggs' officers and Lake Lucille emergency teams.  Most of the previously-rescued passengers are present, too, not to mention several TV news teams.
+BIGGS 
+They got their goddamn fuel. What're they waiting for?  Let's see the rest of those passengers.
+FRANK 
+Come on, Chief, they're not gonna give up the passengers.  They do that and they're dead in the water.
+BIGGS 
+I don't like this.
+(making up his mind) 
+Screw the F.B.I.  We'll have to rush the plane ourselves.
+HENDERSON (O.S.) 
+Chief Biggs -- call it a night.
+Biggs swings around as Henderson enters with Cutter, followed by Commandos who hustle gear and weapons into the room.
+HENDERSON 
+We'll take it from here.
+(to an assistant) 
+Tie me into the tower, the plane and all other systems.
+Biggs glares at Cutter who smiles back.
+CUTTER 
+What?  No hug?
+BIGGS 
+(to Henderson)
+I guess I should thank you for returning my prisoner.  He thinks he pulled a fast one but the joke's on him because he's still under arrest.  Boys...
+Biggs' cops move in to brace Cutter.
+HENDERSON 
+Mister Cutter is aiding me in my investigation.  He stays.
+Henderson has just pulled rank.  Biggs has no choice but to back down.
+BIGGS 
+All right... but he's not leaving my sight.  As soon as this is over, I'm taking the sonovabitch In.
+HENDERSON 
+We'll settle it later.  Pick your spot. Cutter.
+CUTTER 
+Outside.  Front row center.
+(walking off) 
+Yo, Chief?  You coming?
+BIGGS 
+(scrambling after him) 
+Damn right I'm coming.
+They pass a containment area where Wolfgang, Priest and Fiona are under guard.  Both of Fiona's eyes are black.  She glares at Cutter.
+WOLFGANG 
+(to Cutter; cheerful) 
+Leaving so soon?  You'll miss all the fun.
+CUTTER 
+Feel that breath on the back of your neck?  It's mine.
+Cutter and Biggs move on.
+162    ANGLE                                                    162
+Wolfgang, Fiona and Priest are brought before Henderson. Their handcuffs are removed but guns are kept pointed at their heads.  Wolfgang scans the surrounding crowd and sees Vincent wearing a paramedic uniform.  Vincent smiles at him.
+HENDERSON 
+(to Wolfgang) 
+You will approach the plane in the company of two commandos.  You will tell the Indian that you and your people are being exchanged for the remaining hostages.  Get him to come to the hatchway and we'll kill him there.  Two sharpshooters will be in position on the roof.  One will kill the Indian.  The other will kill you if anything goes wrong.
+WOLFGANG
+Nothing will go wrong.  You have my word.
+HENDERSON 
+(to his team) 
+Mike him.
+An F.B.I, agent comes forward with a lapel microphone. Wolfgang lifts his arms to have it installed, his keen eyes drifting over to one of the SWAT commandos. Attached to the front of the commando's Kevlar vest are several smoke grenades.
+163    EXT. TERMINAL ROOF                                       163
+Two sharpshooters take up positions on either side of the Tower.  They unsling their high-powered rifles, adjust their night vision eyesights and draw beads on the 747.
+164    EXT. RUNWAY PERIMETER                                    164
+Lake Lucille police vehicles are positioned around the runway, ENGINES GROWLING, RADIOS SQUAWKING, trained on the 747.
+Biggs and Cutter emerge from the terminal.
+BIGGS 
+No F.B.I, out here.  I got half a mind to run you in right now, smart guy.
+CUTTER 
+You're right. Chief.  You've got half a mind.
+Cutter indicates a news crews setting up nearby.
+CUTTER 
+You leave the scene now and they'll say you ran away like a whipped dog.  But if you stay... well, at least you'll look like you're still in charge.
+Just then, Biggs' WALKIE-TALKIE SQUAWKS to life.
+HENDERSON (V.O.) 
+We're secure.  Send 'em out.
+165    EXT. RUNWAY                                              165
+A motorized boarding stairs approaches the 747.  Standing on the platform on top are Wolfgang, Fiona and Priest flanked by two armed commandos.
+WOLFGANG 
+(speaking into his lapel mike)
+Can you hear me. Cutter?  I have a confession to make.
+166    INTERCUTTING WITH:                                       166
+CUTTER AND BIGGS Cutter perks up.
+WOLFGANG 
+I know you've been twisting in the wind for two years, wondering about the Pan International crash.  Allow me to relieve your mind.
+Cutter's gut tightens.
+BIGGS 
+What's he talking about?
+WOLFGANG 
+The explosion was caused by an aneroid bomb in the cargo hold that detonated when the jet descended to five thousand feet. How do I know?  Very simple.  I put it there.
+Cutter closes his eyes as if stabbed in the heart.
+WOLFGANG 
+I did it as a favor for the Colombian Cartel.  They wanted some rivals eliminated and I was happy to comply.
+(with satisfaction) 
+Just thought you'd like to know, hero.
+CAMERA PUSHES IN ON Cutter.  He is devastated.  He leans against Biggs' cruiser and slowly sinks down to a squatting position.  He puts his face in his hands.
+Biggs can see that Cutter is in pain.  He actually feels a twinge of sympathy.
+BIGGS 
+(bending down)
+Son, I don't understand.  What he said there...
+Cutter removes his hands and raises his face.  There are tears in his eyes.
+CUTTER 
+(very quiet) 
+He said he murdered my wife.
+167    ANGLE                                                    167
+The stairway draws closer to the 747.
+WOLFGANG 
+(calling out) 
+Mister Elk Horn!  It's Wolfgang!
+168    INT. 747 - MAIN CABIN                                    168
+The Indian peers through a window, his eyes registering surprise.  He turns away and looks at Marti who, like the rest of the passengers, is watching him warily.  The Indian puts the pin back in his grenade and signals Marti to open the number two passenger door. 
+169    EXT. RUNWAY                                              169
+The motorized stairway stops a few feet short of the plane.  The passenger DOOR HISSES open.
+170    TERMINAL ROOFTOP                                         170
+A sharpshooter draws a bead on the opening door.  We
+INTERCUT his POV THROUGH the rifle scope as a figure appears in the doorway, moving into the scope's cross hairs.  It's Marti.  The sharpshooter hesitates.
+171    EXT. RUNWAY                                              171
+Wolfgang gazes across the void at Marti.  He gives her a hungry, lascivious look.
+WOLFGANG 
+Marti.  So nice to see you again. Be a good girl and ask Mister Elk Horn to come to the door.
+Marti considers.  She fixes Wolfgang with a hateful look.
+MARTI 
+Beg me.
+Wolfgang's eyes narrow to mean slits.  Marti smiles. 
+SWAT COMMANDO 
+(to Wolfgang) 
+You heard the lady.  Beg.
+WOLFGANG 
+I don't beg.
+The Indian materializes behind Marti.
+172 & 173     OMITTED
+174    INT. TERMINAL                                            174
+Henderson, watching through binoculars, sees the Indian. He whispers into his radio.
+HENDERSON 
+Take him out.
+175    SHARPSHOOTER'S POV                                       175 
+The scope's crosshairs pinpoint the Indian.
+HENDERSON (V.O.) 
+What're you waiting for?  Kill him.
+The crosshairs MOVE AWAY FROM the Indian and FOCUS ON the back of one of the Commandos.
+176    EXT. 747                                                 176
+BAM!  A bullet tears into the Commando's back and knocks him off the stairs.  Another GUNSHOT -- and the second Commando is hit.  But before he can fall off the stairs, Wolfgang catches him.
+177    EXT. TOWER                                               177
+The two sharpshooters lie dead, their throats cut.  The person doing the shooting is Vincent!
+178    HENDERSON                                                178
+Momentarily confused.  The impossible has just happened and he can't comprehend it.
+179    CUTTER AND BIGGS                                         179
+They, too, are astounded.  Cutter's eyes go to the terminal roof and he sees Vincent.  Vincent swings his RIFLE in their direction and OPENS FIRE, spraying the police.  Cutter, Biggs and the other cops dive for cover.
+180    EXT. RUNWAY AND 747                                      180
+Wolfgang rips two smoke grenades off the body of the dead Commando and sets them off.  Smoke engulfs the plane like a magician's stage trick as the Indian yanks Marti back inside.
+Priest and Fiona leap from the stairs and into the airliner.  With a final look of satisfaction at the confusion he's wrought, Wolfgang does likewise.
+Smoke rolls away from the 747 like a wave, rushing up against the windows of the terminal and rising up to engulf the Tower.
+Vincent leaps from the Tower roof and lands with a SICKENING CRUNCH on the tarmac far below.  He scrambles to his feet but he's sprained an ankle and has to hobble like a crab toward the boarding stairs.
+Commandos in gas masks emerge from the terminal and are quickly disoriented.
+181    CUTTER AND BIGGS                                         181
+Driven back by the smoke.  On the walkie-talkie, the sounds of STRUGGLE and MOVEMENT inside the 747.  THUMPING, CRASHING sounds.  More GUNSHOTS.  COMMOTION and then --the sound of the passengers SCREAMING.
+WOLFGANG (V.O.) 
+(filtered)
+-- seal the hatch -- resuming 'Geronimo' plan.
+Geronimo -- the name makes Cutter stiffen with horror. He knows what it means.  Cutter starts forward.
+BIGGS 
+Don't go in there, you damn fool!
+Cutter disappears into the smoke but this is the stuff they use for riot control.  Cutter staggers back out, coughing and gagging.  Suddenly, all noise is obliterated by a lound WHINE -- the whine of the 747's ENGINES starting up.
+182    EXT. RUNWAY                                              182
+A section of smoke mysteriously begins to swirl.  It swirls faster and faster as the big engines of the 747 suck it in.
+183    VINCENT                                                  183
+He's at the top of the stairs when he realizes they've closed the hatch on him.  Wolfgang's face appears in the window.  He gives smiles at Vincent and shrugs as if to say. "Tough shit."
+VINCENT 
+(screaming) 
+Wolfgang!
+As the jumbo jet begins to taxi forward Vincent hurls himself at the hatch.  He hits the side and falls to the tarmac below.  He lies there, still conscious as one of the huge landing gear wheels rolls right over him, squashing him like the bug he is.
+184    INT. TERMINAL                                            184 
+Henderson and his people stare helplessly into the smoke.
+WOLFGANG (V.O.) 
+This is Wolfgang.  We are once again in control of the aircraft and will continue with our scheduled flight to Houston.  The passengers are safe but their lives are forfeit if you interfere with our plans.  Remember our demands.  A small jet standing by, fueled and ready for take-off. Wolfgang out.
+185    EXT. RUNWAY PERIMETER                                    185
+Cutter grabs Biggs by the lapels and pulls him close, shouting above the ROAR of the JET.
+CUTTER 
+He said 'Geronimo.'  It's code. It means he plans to ditch the plane in mid-air.
+BIGGS 
+What about Houston?
+CUTTER 
+They're not going to Houston. They never were.  Chief, unless you help me, those people are dead.
+BIGGS 
+What do we do?
+CUTTER 
+We get busy.  I got some payback to deliver.
+ON Cutter's almost maniacal look...
+CUT TO:
+186    EXT. RUNWAY AND LAKE LUCILLE AIRFIELD - FROM A GREAT DISTANCE    186 
+We see the gigantic cloud of smoke that has settled over everything.  From within it, the mighty SCREAM of JET ENGINES.
+Suddenly, like a great ghostly whale, the 747 bursts out of the smoke and comes RUMBLING down the slick tarmac. Right behind it -- something small and moving fast --Biggs' police cruiser.
+187    INT. CRUISER                                             187
+Chief Biggs drives, flattening the gas pedal to the floor.  Cutter, in the passenger seat, rolls his window down.  They're gaining on the 747's inboard main undercarriage bogie -- the landing gear.
+Biggs draws up as close as possible.  Cutter is about to go through the window when Biggs whips out his gun -- and offers it.
+BIGGS 
+(shouting above the roar of the 747) 
+Take my gun!
+CUTTER 
+Is it loaded?
+BIGGS 
+(he almost smiles) 
+Hurry up or you'll miss your flight.
+Cutter takes the gun.  He shoves it in his waistband. And with that, his upper half disappears out the window.
+188    INT. 747 - FLIGHT DECK                                   188
+Priest is once again at the controls of the aircraft, oblivious to the pursuing police cruiser.  Marti occupies one of the observer seats.  She glares at Wolfgang who sits across from her, holding a gun.
+WOLFGANG 
+I'm afraid you'll have to pay for that 'begging' business.
+MARTI 
+It was worth it just to see the look on your face.
+Wolfgang leans forward and smiles like a lascivious wolf.     *
+WOLFGANG
+What do you think of the look on my face now?
+189    EXT. RUNWAY IN FRONT OF TERMINAL                         189
+The smoke clears as Henderson and his people swarm out on the tarmac.  Crumpled up dead on the runway are the two commandos.  Their weapons are gone.
+HENDERSON
+Damn.
+He looks off through the wispy smoke at the distant, departing 747.
+190    EXT. RUNWAY                                              190
+Cutter, hanging out of the cruiser, tries to get a grip on the landing gear.  He misses and almost falls.  He'd better hurry.  The 747 is beginning to lift off.
+Cutter scrambles onto the roof of the speeding cruiser. He balances on his knees and reaches up as Biggs guides the cruiser directly beneath the rising wheel.  Cutter grabs hold and is lifted into the air as the 747 becomes airborne.
+191    CUTTER                                                   191
+He dangles above the blurring ground, then pulls himself up onto the wheel assembly.  Biggs' cruiser grows small beneath him.  Cutter looks down and almost loses it.
+Painfully, Cutter clambers up the wheel assembly and rides it as the hydraulics come to life and the wheel folds into the 747's undercarriage.  Biggs' gun falls out of his waistband and plummets to Earth.
+CUTTER 
+Gimme a break...
+192 & 193   OMITTED
+194    EXT. NIGHT SKY                                           194
+The 747 climbs into a twinkling starfield.
+195    INT. 717 - WHEEL WELL                                    195
+The NOISE is DEAFENING.  Cutter works his way up the strut as the wheel folds into the jet, enveloping him in darkness.
+196    INT. 747 - MAIN CABIN                                    196
+The passengers are not happy to be in the air again but no one's complaining since Fiona and the Indian are once again covering them with automatic weapons.  One of the PASSENGERS begins to whimper.
+PASSENGER 
+Please... don't kill us...
+FIONA 
+What do you expect from your frequent flyer plan?  To live forever?
+197    INT. FLIGHT DECK                                         197
+Wolfgang continues to appraise Marti.  He leans forward and presses the tip of the gun to her knee.  When he tries to poke it inside her skirt, Marti recoils.
+MARTI 
+You're repulsive.
+Wolfgang gives her a suggestive look.
+WOLFGANG 
+You'll change your mind after we've gotten to know each other better.
+MARTI 
+You'll have to kill me first.
+WOLFGANG 
+(a sexy whisper)
+No, Marti.  I'm going to kill you during.
+Marti's defiance evaporates and she looks truly scared. 
+WOLFGANG 
+(to Priest)
+How long 'til we reach Geronimo Junction?
+PRIEST 
+Soon.  Twenty minutes.
+MARTI 
+Geronimo Junction?
+WOLFGANG 
+It's a place in the sky about twelve hundred feet above Port Arthur, Texas, where my colleagues and I will be deplaning.
+MARTI 
+(confused) 
+What're you talking about?
+Wolfgang imitates a skydiver pulling an imaginary ripcord.
+WOLFGANG 
+'Geronimo!'
+MARTI 
+But Houston --  
+WOLFGANG
+Houston was just to throw off the Feds.  Our intention all along has been to bail out at a pre-arranged point.  'Geronimo Junction.'
+MARTI
+There aren't any parachutes on this plane.
+WOLFGANG 
+There aren't?
+Wolfgang picks up the Captain's microphone and speaks over the P.A. system.
+WOLFGANG 
+Mister Elk Horn, it's time to break out the silk.
+MARTI 
+You can't just leave us in the air.
+WOLFGANG
+Can't I?
+198    INT. MAIN CABIN                                          198
+The Indian hands Fiona his gun, leaving her in charge of the passengers.  He goes into the upper galley and steps into the service elevator.
+199    INT. LOWER GALLEY                                        199
+The WHIRR of the ELEVATOR.  WHOOSH!  The door opens and the Indian steps out.  He goes to the baggage door and opens it.
+200    INT. BAGGAGE COMPARTMENT                                 200
+A long, straight corridor lined with luggage containers. Dim overhead lights.
+The Indian searches the containers until he finds the one he seeks.  Inside it is the trunk he checked in.  The Indian lifts out the trunk and places it in the middle of the corridor.  He squats over it and undoes the clasps.
+CUTTER (O.S.) 
+Hey -- trout face.
+As the Indian turns a large hook on the end of a nylon fishing line sails through the air and snags the fleshy part of his right cheek.
+Cutter, down the corridor, gives the borrowed fishing rod a savage yank and the Indian is jerked off his feet. He lands on the hard metal floor, howling in agony.
+Cutter charges down the corridor and jumps on the Indian's back.  He twists a section of the fishing line around the Indian's throat, garrote-style.  Cutter begins to strangle the big brute.  But this guy has incredible strength.  With Cutter still riding on his back, strangling him, the Indian stands up.
+CUTTER 
+(astounded) 
+You gotta be kiddin* me!
+The Indian throws himself back, slamming Cutter into a luggage container.  Cutter loses his grip and falls to the floor, bringing down a shower of luggage on top of himself.  A duffel bag opens, spilling out baseballs, gloves and a bat.
+The Indian rips the fishing line from around his neck and catches his breath.  Then, he begins to dig through the tumble of luggage to find Cutter.  Where the hell is he?
+The Indian hears a NOISE behind him.  As he turns, a Louisville slugger baseball bat connects with his skull. That's all she wrote.  The big Indian goes down in a heap, dead.
+Cutter lowers the bat, breathing heavily.
+CUTTER 
+You're out.
+Cutter tosses the bat aside and searches the Indian's body for weapons.  All he finds is the grenade.
+Out of curiosity. Cutter goes to the trunk the Indian pulled out.  He opens it.  Inside are five carefully packed parachutes.  It doesn't take a genius to figure out what they're intended for.
+201    INT. MAIN CABIN                                          201 
+Wolfgang enters with Marti in tow.
+WOLFGANG 
+(to Fiona) 
+Where's Elk Horn?
+FIONA 
+He went below like you told him to.
+WOLFGANG 
+It shouldn't be taking him this long.
+(pointing to Marti) 
+Watch her.
+FIONA 
+My pleasure.
+Marti stares at Fiona's busted nose and black eyes.
+MARTI 
+There's something different about you.  Wait.  Don't tell me.  I know.  You changed your hair.
+201A   WOLFGANG                                                 201A
+He goes to the flight attendant's station in the upper galley and picks up the announcement mike.
+WOLFGANG 
+(on the P.A. system) 
+Mister Elk Horn, I want you and those chutes up here -- now.
+Wolfgang watches the elevator.  Nothing happens.  Then, the MOTOR STARTS and the elevator rises.  It stops.  Gun ready, Wolfgang ventures closer to the door.  He slides it open and jumps back as the Indian's corpse tumbles out at his feet.
+There can be only one explanation.
+WOLFGANG
+Cutter.
+Marti hears this and prays it's true.  Wolfgang takes the mike and speaks privately to the flight deck.
+WOLFGANG 
+We're having a slight delay with those parachutes.
+PRIEST (V.O.) 
+Fifteen minutes, Wolfgang.
+WOLFGANG 
+Lock in the course.  Switch to autopilot and stand by to receive all passengers on the upper deck. You're going to watch them while Fiona and I go hunting.
+CUT TO:
+202    EXT. MISSISSIPPI DELTA                                   202
+The 747 is traveling quite low, no more than three thousand feet above the swampland.
+203    INT. UPPER DECK                                          203
+Priest stands outside the flight deck, gun in hand as Marti directs passengers up the stairs to the unused upper deck seating.  Fiona comes up last to make sure things are secure.  Priest nods and Fiona goes back down.
+204    INT. LOWER GALLEY                                        204
+Cutter, carrying the baseball bat, works his way to the nose of the ship.  Cutter studies the ceiling until he finds what he's looking for --a small hatch.
+205    INT. UPPER GALLEY                                        205 
+Wolfgang directs Fiona into the elevator.
+WOLFGANG 
+Here's your second chance to die for me.
+206    INT. LOWER GALLEY                                        206
+The elevator door opens.  Fiona, crouched low and gun ready, leaps out.  She looks around and shouts up to Wolfgang.
+FIONA 
+Clear!
+Fiona sends the elevator back up.
+207    INT. FIRST CLASS                                         207
+The floor hatch opens and Cutter pulls himself up from below.  Cutter secures the hatch.  He creeps to the curtains that separate first class from the main cabin.  He peeks through and is alarmed to see that it's empty.  Where did all the passengers go?
+208    INT. LOWER GALLEY                                        208
+Wolfgang and Fiona stand on either side of the baggage compartment door, guns ready.  Wolfgang nods and Fiona slides the door open.
+209    INT. UPPER DECK                                          209
+Priest glances at his watch.  Ten minutes 'til bail-out time.
+PRIEST 
+(to himself; worried) 
+Come on, Wolfgang...
+Marti is seated nearby, watching Priest when she feels something go bump against her toe.  Marti looks down and is startled to find a baseball resting against her foot.
+Marti raises her eyes and sees Cutter, halfway up the stairs, just out of Priest's line of vision.  He gestures for her to distract Priest.  Marti nods.
+Marti stands up suddenly and addresses the passengers, her back to Priest.
+MARTI 
+(cheerful) 
+Anybody feel like a singalong?                     *
+Priest looks at Marti in surprise.  The passengers are equally dumbfounded.  She's like a high school cheerleader onboard the Titanic.
+MARTI 
+Come on, it'll be fun.
+PRIEST
+Hey.
+MARTI 
+We'll do 'Row Your Boat.'  Come on.  Everybody knows 'Row Your Boat.'  I'll start it off and then everybody on this side --
+PRIEST
+Sit down.
+Priest comes toward her.  That's when Cutter's bat slams down on Priest's wrist, shattering it and causing him to drop the gun.  Cutter follows the bat, tackling Priest and knocking him back into the flight deck.
+One of the passengers, a freaked-out Businessman, scrambles out of his seat and grabs the fallen GUN before Marti can.  He shoves her aside and, as the other passengers scream hysterically, he barges into the flight deck and starts FIRING wildly at Priest -- the bullets barely missing Cutter.
+BUSINESSMAN 
+(screaming) 
+Goddamn you!  Goddamn you!
+Marti grabs a serving tray and brings it down on the Businessman's head.  Clang!  He collapses.  Cutter picks up the fallen gun and checks the chamber.  Empty.  Cutter looks down at the unconscious Businessman.
+CUTTER 
+Can't say I blame him.
+Cutter turns his attention to Priest.  He's slumped against the console, leaking blood from two holes in his chest.  He's alive.  Barely.  He knows he's going to die and manages a sick smile.
+PRIEST 
+Guess I'll be giving the last rites to myself.
+Cutter picks Priest up by the scruff of his neck and slams him into the Captain's seat.
+CUTTER 
+Sorry, asshole, but you don't have my permission to die.  Not yet. Not until you turn this plane around and get us back to Lake Lucille.  Once we're on the ground, I'll see to it personally that you make your connecting flight to hell.
+Frightened, Priest nods.  Marti slips into the co-pilot's seat and puts on a headset.
+MARTI 
+(into the headset) 
+Lake Lucille Tower, this is T.P. 694...
+Cutter leaves the flight deck and addresses the frightened passengers.
+CUTTER 
+I want you to stay in your seats and try to remain calm.  We're gonna get through this -- that's a promise.
+FEMALE PASSENGER 
+(timid) 
+Who are you?
+Cutter picks up his Louisville slugger and smiles.
+CUTTER 
+I'm Batman.
+This takes the edge off their fear -- just a bit.
+210    INT. BAGGAGE COMPARTMENT                                 210
+While Fiona stands lookout, Wolfgang finds the trunk. He throws open the lid and discovers to his horror that all the parachutes have been ripped to shreds.
+For a moment, Wolfgang is staggered.  His plan has been completely fucked.  Rage rumbles through him.  Wolfgang throws back his head and lets out a scream from the bottom of his evil heart -- a scream that seems to ECHO throughout the ship.
+WOLFGANG 
+CutterrrrrrrrrI!!
+211    EXT. NIGHT SKY                                           211
+Big ENGINES HOWLING, the 747 alters course and heads back to Lake Lucille.
+212    INT. 747 - FLIGHT DECK                                   212
+Priest, his life ebbing, pilots the craft back to Lake Lucille.  Marti watches him, sweating bullets, wondering if he'll live long enough to get them on the ground.
+213    INT. 747 - MAIN CABIN - UPPER GALLEY                     213
+Wolfgang steps out of the elevator.  He notices that it's very dark in the main cabin.  Dim illumination comes from tiny border lights along the aisles and the faint glow of moonlight through the windows.
+CUTTER 
+(O.S.) 
+Hey, shithead.
+Wolfgang whirls.  At the far end of the main cabin, a tall figure stands in the aisle.  Wolfgang's GUN FLICKERS once.  The BULLET SLAMS into the figure and knocks it down.
+WOLFGANG 
+Don't die on me, Cutter.  Not yet. Not until I've given you my greatest gift.  The gift of pain.
+Wolfgang starts down the aisle, then stops abruptly.  In the faint light he can see that the figure isn't Cutter -- it's the dead Indian.  Cutter had propped him up.
+Something comes out of the darkness behind Wolfgang. It's Cutter -- sailing over the middle seats.  He crashes down on Wolfgang and they go sprawling in a tangle of fists and kicking legs.
+CUTTER 
+(as they struggle) 
+It's payback time, motherfucker!
+Cutter punches Wolfgang in the face and smashes his gun hand with the baseball bat.  The gun goes skittering down the aisle.  Cutter throws the bat aside and lays into Wolfgang with his fists.
+CUTTER 
+(as he punches andpunches)
+You hear me?  I'm paying it back! All of it!  All the pain, you sick bastard!
+Wolfgang jabs a thumb into Cutter's eye and rolls free. Both men leap to their feet and face each other, assuming martial arts stances.
+WOLFGANG 
+You think I'm sick?  The world is sicker.
+CUTTER 
+You don't like it?  Leave.
+WOLFGANG 
+(polite) 
+After you.  I insist.
+Wolfgang attacks like lightning.  Talk about fists of fury.  This guy is good.  Cutter expertly blocks Wolfgang's blows but a lucky roundhouse kick catches him under the chin and snaps his head back.  Cutter is staggered.  Blood trickles from his nose.  Wolfgang smiles.
+WOLFGANG 
+You're the one who doesn't belong. Times have changed.  There are more of me in the world than there are you.  Face it. Cutter.  Heroes are out of style.
+CUTTER 
+I hear they're making a comeback.
+Now Cutter attacks -- and if you've been looking forward to seeing Wolfgang get his ass kicked, this is it. Cutter pulls out every trick in his martial arts bag. Wolfgang is kicked, punched and knocked around the cabin, rendered helpless by Cutter's murderous onslaught.
+Wolfgang falls back against a row of seats.  His face is a bloody map.  He looks up at Cutter and grins through red teeth.
+WOLFGANG 
+(a hiss)
+More.
+CUTTER
+You got it.
+Cutter wades into Wolfgang, pummeling and punching him down the aisle.  Wolfgang falls, gets up, is knocked down again and again.  Cutter closes in for the kill.
+WOLFGANG 
+Come on, hero!  Finish me!
+Cutter hesitates.  He's never seen anyone derive this kind of pleasure from pain.
+WOLFGANG 
+What're you waiting for?  I blew up that plane!  I killed all those people!
+CUTTER 
+(long murderous look) 
+You killed my wife.
+WOLFGANG 
+(a rush of pleasure) 
+Thank you.  I didn't know.
+That's when Fiona appears behind Cutter, having sneaked up on the elevator.  She raises her gun to blow his brains out.  But Cutter sees her reflected in Wolfgang's cold eves.
+Cutter ducks as Fiona FIRES.  The BULLET WHIZZES past him and hits Wolfgang in the shoulder.  Cutter spins around and dispatches Fiona with a kick that breaks her neck.  She's dead before she hits the floor.
+Cutter picks up Fiona's gun and turns back to Wolfgang but Wolfgang is gone.  He's scrambling away and diving into the next aisle.  He grabs his fallen GUN and OPENS FIRE on Cutter.
+WOLFGANG 
+(shouting as he FIRES)
+One of us dies, hero!  It's the only way!
+Cutter ducks as BULLETS SPRAY the overhead storage bins. Cutter FIRES back at Wolfgang.  The BULLETS miss and EXPLODE one of the Plexiglas passenger windows, causing the cabin to depressurize.
+The cabin fills with debris.  Magazines, cups, etc. go flying.  Oxygen masks drop from the ceiling.
+Wolfgang, closest to the window, is lifted off his feet and sucked backwards.  To keep from being sucked out the window, he drops his gun and grabs the head rest of a seat with both hands.
+Cutter is buffeted by the decompression.  Plates and utensils pour out of the galley.  Cutter ducks as they soar past him.
+The overhead projector module drops from the ceiling and the in-flight movie begins.  The Wamer Brothers logo flickers on.
+214    EXT. 747                                                 214
+zooming above the dark Mississippi delta.  We see objects spewing out the open window.
+215    INT. 747 - MAIN CABIN                                    215
+Dodging flying debris. Cutter makes his way to Wolfgang. Wolfgang is barely able to hang on.  It's as though the shattered window is a gaping, sucking mouth and it wants Wolfgang.
+A fork flies out of nowhere and embeds itself in Wolfgang's forehead.  He screams and his fingers begin to lose purchase on the headrest.  In a moment he'll be sucked out if Cutter doesn't do something.
+WOLFGANG 
+(begging) 
+Cutter... help me...
+CUTTER 
+Take my hand!
+Cutter offers his hand.
+In desperation, Wolfgang grabs it and comes away with the grenade -- the detonating pin dangling from the end of Cutter's finger.  Cutter smiles grimly.  With a look of betrayed horror, Wolfgang is sucked out of the jet and into the HOWLING night.
+WOLFGANG 
+(screaming) 
+Cutterrrrrrr!!!
+216    EXT. NIGHT SKY - 747                                     216
+The grenade goes off. blowing a bright red hole in the night sky.  The jet, untouched, continues on its way.
+217    INT. 747 - MAIN CABIN                                    217
+Cutter shuts his eyes in a moment of prayer.
+CUTTER 
+Okay, Lisa.
+218    EXT. NIGHT SKY                                           218
+The 747 THUNDERS wildly THROUGH FRAME, beginning its descent.
+219    INT. 747 - FLIGHT DECK                                   219
+Priest turns to Marti, his hands going slack on the yoke. On his face, a sad rictus smile.
+PRIEST 
+Gotta go now...
+Priest slumps dead across the yoke, causing the plane to go into a steep dive.  Screams and pandemonium.  Everyone and everything is thrown forward.
+Before Marti can act, a powerful hand grabs Priest and pulls him off the yoke and out of the pilot's seat.  It's Cutter.  He slides behind the controls, grabs the yoke and, with a mighty effort, straightens out the plane.
+MARTI 
+(relieved) 
+Where have you been?
+CUTTER 
+I had to throw out the trash.
+They share a smile.  Then, back to the problem at hand.
+MARTI 
+Can you land one of these?
+Cutter stares at the intimidating lights and gauges of the control console.
+CUT TO:
+220    INT. LAKE LUCILLE CONTROL TOWER                          220
+Where everyone is tensely assembled -- Frank and Nora Alien, Henderson, the FBI, police and emergency personnel.  They're all glued to the windows.
+FRANK 
+(into the microphone) 
+T.P. 694, this is Lake Lucille Tower.  Acknowledge.  Please acknowledge.
+A burst of STATIC, then...
+CUTTER (V.O.) 
+Tower, this is Cutter.
+FRANK 
+(with excitement) 
+Cutter's got the plane!
+A huge cheer goes up.  But the loudest cheering comes from someone in the back of the room -- Chief Biggs. When everyone turns to look at him. Biggs scowls back.
+BIGGS 
+What the hell are you looking at? I'm the one who put him up there.
+A burst of RADIO STATIC.
+CUTTER 
+Yo, guys, I hate to spoil the party but we've got a problem. I don't exactly know how to land this beast.
+FRANK 
+(into his headset) 
+Don't worry.  I'm gonna talk you down.  So sit back, relax and leave the driving to me.  You see the four throttles to your right?  Those are the thrust levers...
+220A   EXT. NIGHT SKY                                           220A
+The 747 plunging through layer after layer of clouds. Down, down, down.  ON the SOUNDTRACK we hear Frank Alien's calm but urgent instructions.
+221    INT. 747 - FLIGHT DECK                                   221
+Cutter, doing as Frank tells him, fighting the big bird, bringing it down.  He bites his lip.  Marti bites hers. We CUT FROM the fierce ROAR of the ENGINES TO...
+222 thru 224     OMITTED
+225    EXT. TERMINAL                                            225
+Abolute silence.  Ground crews and rescue personnel wait tensely on the tarmac, staring up at the dark sky for a sign.  Then, like a miracle, a beacon light breaks through the clouds.
+226    INT. 747 - FLIGHT DECK                                   226
+THROUGH the windscreen, clouds separate majestically and the landing lights of Lake Lucille Airfield come INTO VIEW.
+MARTI 
+(thrilled) 
+Way... to... go.
+CUTTER 
+I just remembered.
+MARTI 
+What?
+CUTTER 
+(almost laughing) 
+I'm afraid to fly.
+They share a smile.  Cutter turns back to the controls and speaks into his headset.
+CUTTER 
+Let's do it.
+FRANK (V.O.)
+Flaps 20... now.
+227    EXT. NIGHT SKY                                           227 
+The 747 drops out of the sky like a HOWLING BANSHEE.
+228    EXT. RUNWAY                                              228
+Wheels touch down on the tarmac.  A TIRE BLOWS OUT as the big bird SKIDS to a stop in front of the terminal. Rescue crews rush out as the forward passenger door pops open and the chute comes down, carrying the flood of passengers.
+Another sudden POP! and we...
+CUT TO:
+228A   INT. TRANS PACIFIC BOARDROOM - CLOSE ON CHAMPAGNE - NIGHT 228A
+flowing from a bottle into papercups.  The cups are passed around as staff celebrates the good news.  It's like a New Year's party.  Sly is in the center of the merriment, being congratulated.
+SLY 
+Hey, I'm just the guy's friend. But okay, it's true.  I taught him everything he knows.
+This gets a big laugh.  Sly raises his cup.
+SLY
+A toast to John Cutter.  May he be on board all our hi-jacked planes.
+228B   RAMSAY AND CALE                                          228B
+They watch the celebration from the other side of the room.
+CALE
+You'll want to drop those charges against Cutter.
+RAMSAY 
+Drop them?  They never existed. As soon as the news crews arrive, I'm going to announce that Cutter's heading up our new anti-terrorism unit.
+CALE 
+(deciding)
+I think it would be more appropriate if Sly made that announcement.
+Ramsay looks like he's just been hit in the face with a bag of shit.
+RAMSAY 
+Sly?  But he's just a Vice President...
+But Ramsay can already see the future.  Cale has turned away from him and is smiling in Sly's direction with fatherly fondness.
+CALE 
+I've always liked Sly.
+228C   SLY                                                      228C
+An ASSISTANT brings him a phone.
+ASSISTANT 
+Here's your call. Sly.
+SLY 
+(into the phone)
+Hello? 
+INTERCUTTING WITH:
+229    INT. LAKE LUCILLE AIRFIELD TERMINAL - NIGHT              229
+Chief Biggs has one ear to a phone.  He's plugging the other ear with a finger to hear above the noise of the CELEBRATION going on there in Lake Lucille.
+BIGGS 
+This is Chief Biggs.
+SLY 
+Congratulations, Chief.  I can barely hear you.  Where's Cutter? Put him on.
+BIGGS 
+I would but I can't find him.  I saw him get off the plane but it seems he's disappeared.
+(disappointed) 
+And I was gonna have him over to the house for dinner.
+SLY
+Where could he go?
+ON Sly's puzzled look...
+CUT TO:
+229A   EXT. FAIRGROUNDS   NIGHT                                 229A
+It's late and there are only a few stragglers on the midway, mostly couples with their arms around each other. Cutter and Marti ENTER FRAME, happily chowing down on pecan pie.  CAMERA TRACKS IN FRONT of them as they walk.
+MARTI 
+This pie is fantastic.
+CUTTER 
+(laughing)
+It better be.  It cost me four hundred bucks.
+MARTI 
+Worth every penny.
+Cutter lifts his hand to brush some pie crust off Marti's face.
+MARTI 
+(noticing) 
+Lose your wedding ring?
+CUTTER 
+(a little sad) 
+I took it off.  It was time.
+Then Cutter sees something up ahead.  He takes Marti's arm and they hurry along.
+CUTTER
+Come on.
+MARTI 
+(when she sees where they're going)
+Wait a minute.  Are you sure you want to do this?  After what you went through tonight...
+Cutter hands some cash to a ride operator.  He and Marti settle into a seat on the Ferris wheel.
+CUTTER 
+(happy) 
+After tonight...
+The safety bar clangs down in front of them.
+CUTTER 
+... I'll have to get some new fears.
+The Ferris wheel starts up.  Cutter and Marti are lifted into the dazzling night sky.
+MUSIC UP and ROLL CREDITS. When the CREDITS are over...
+CUT TO:
+230    EXT. LOUISIANA DELTA - DAY                               230
+Water laps against a barren, sandy shore.  In the wet sand we see footprints leading into the surrounding tall grass.  ON the SOUNDTRACK, somebody begins to whistle "PACK UP YOUR TROUBLES."
+FADE OUT.
+THE END
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

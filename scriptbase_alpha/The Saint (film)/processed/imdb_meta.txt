@@ -1,0 +1,127 @@
+year	1997
+imdb score	6.1
+meta score	50
+genre	Action
+genre	Adventure
+genre	Romance
+genre	Sci-Fi
+genre	Thriller
+keyword	cold fusion
+keyword	the saint
+keyword	fusion
+keyword	disguise
+keyword	energy
+keyword	orphan
+keyword	thief
+keyword	master of disguise
+keyword	orphanage
+keyword	russian mafia
+keyword	sewer
+keyword	police
+keyword	russia
+keyword	chase
+keyword	secret agent
+keyword	former soviet union
+keyword	police detective
+keyword	gentleman thief
+keyword	electronic music
+keyword	coup d'état
+keyword	nuclear power
+keyword	fake accent
+keyword	undressing
+keyword	fire hose used on a person
+keyword	theme song
+keyword	detective
+keyword	suspense
+keyword	oxford
+keyword	politics
+keyword	assassin
+keyword	1990s
+keyword	post cold war
+keyword	physics
+keyword	loner
+keyword	martial arts
+keyword	shootout
+keyword	career criminal
+keyword	action hero
+keyword	london england
+keyword	computer
+keyword	president
+keyword	sequel
+keyword	one man army
+keyword	pistol
+keyword	spy
+keyword	babe scientist
+keyword	based on tv series
+keyword	uzi
+keyword	blond
+keyword	snow
+keyword	microchip
+keyword	explosion
+keyword	general
+keyword	chemist
+keyword	one last job
+keyword	box office flop
+keyword	based on novel
+keyword	surprise ending
+cast	Val Kilmer	Simon Templar
+cast	Elisabeth Shue	Dr. Emma Russell
+cast	Rade Serbedzija	Ivan Tretiak
+cast	Valeriy Nikolaev	Ilya Tretiak
+cast	Henry Goodman	Dr. Lev Botvin
+cast	Alun Armstrong	Inspector Teal
+cast	Michael Byrne	Vereshagin, Tretiak's Aide
+cast	Evgeniy Lazarev	President Karpov
+cast	Irina Apeksimova	Frankie
+cast	Lev Prygunov	General Sklarov
+cast	Charlotte Cornwell	Inspector Rabineau
+cast	Emily Mortimer	Woman on Plane
+cast	Lucija Serbedzija	Russian Prostitute
+cast	Velibor Topic	Skinhead
+cast	Tommy Flanagan	Scarface
+cast	Egor Pazenko	Scratchface
+cast	Adam Smith	Young Simon Templar
+cast	Pat Laffan	Catholic Priest
+cast	Verity-Jane Dearsley	Agnes
+cast	Michael Marquez	Boy in Orphanage
+cast	Lorelei King	TV Reporter
+cast	Alla Kazanskaya	Old Russian Lady
+cast	Ronnie Letham	Old Russian Man
+cast	Tusse Silberg	Prostitute's Mother
+cast	Peter Guinness	Frankie's Curator
+cast	Stefan Gryff	President's Aide
+cast	Malcolm Tierney	Russian Doctor
+cast	Stephen Tiller	Russian Policeman
+cast	Christopher Rozycki	Russian Chief of Police
+cast	Etela Pardo	President Karpov's Wife
+cast	Nikolai Veselov	Red Square Tramp
+cast	David Schneider	Rat Club Comedian
+cast	Oxana Popkova	Ilya's Girlfriend
+cast	Agnieszka Liggett	Rat Clubparty Girl
+cast	Lidija Zovkic	Rat Club Beauty
+cast	Aleksandr Tyutin	Russian Colonel
+cast	Vadim Stepashkin	Russian Soldier
+cast	Ravil Isyanov	Tretiak Guard
+cast	Aleksandr Kadanyov	Tretiak Security Guard
+cast	Petar Vidovic	Tretiak's Builder
+cast	Susan Porrett	Orphanage Nun
+cast	Cliff Parisi	Pub Waiter
+cast	Richard Cubison	Customs Officer
+cast	Tony Armatrading	Customs Officer
+cast	Benjamin Whitrow	Chairman at Oxford
+cast	Julian Rhind-Tutt	Young Student
+cast	Kate Isitt	Student #2
+cast	Barbara Jefford	Academic Woman
+cast	Sean O'Kane	Running Student
+cast	Lucy Akhurst	Policewoman
+cast	Nigel Clauzel	Marine Guard
+cast	Eric Loren	Embassy Official
+cast	William Hope	State Department Official
+cast	Michael Cochrane	Cold Fusion Broker
+cast	Ginny Holder	Jamaican Video Girlfriend
+cast	Akiko	Japanese Video Girlfriend
+cast	Melissa Knatchbull	English Video Girlfriend
+cast	Caroline Lee-Johnson	Private Hotel Receptionist
+cast	Roger Moore	Car Radio Announcer
+cast	Pentti Halonen	Russian State Treasurer
+cast	Yana Yanezic	Drug Addict

@@ -1,0 +1,93 @@
+year	1999
+imdb score	6.3
+meta score	45
+genre	Drama
+keyword	boy
+keyword	reunion
+keyword	childhood trauma
+keyword	mother son relationship
+keyword	chicago illinois
+keyword	family relationships
+keyword	party
+keyword	mother
+keyword	memory
+keyword	jail
+keyword	brother brother relationship
+keyword	prison
+keyword	false identity
+keyword	box office flop
+keyword	stolen child
+keyword	policewoman
+keyword	punishment
+keyword	husband wife relationship
+keyword	guilt
+keyword	disappearance
+keyword	missing person
+keyword	kidnapper
+keyword	parenthood
+keyword	father figure
+keyword	photographer
+keyword	healing
+keyword	kidnapping
+keyword	high school reunion
+keyword	grief
+keyword	child kidnapping
+keyword	childhood memory
+keyword	mother son reunion
+keyword	father son relationship
+keyword	confrontation
+keyword	missing child
+keyword	based on novel
+keyword	based on book
+keyword	
+cast	Michelle Pfeiffer	Beth Cappadora
+cast	Treat Williams	Pat Cappadora
+cast	Whoopi Goldberg	Candy Bliss
+cast	Jonathan Jackson	Vincent Cappadora - Age 16
+cast	Cory Buck	Vincent Cappadora - Age 7
+cast	Ryan Merriman	Sam Karras / Ben Cappadora - Age 12
+cast	Alexa PenaVega	Kerry Cappadora
+cast	Michael McGrady	Jimmy Daugherty
+cast	Brenda Strong	Ellen
+cast	Michael McElroy	Ben Cappadora - Age 3
+cast	Tony Musante	Grandpa Angelo
+cast	Rose Gregorio	Grandma Rosie
+cast	John Kapelos	George Karras
+cast	Lucinda Jenney	Laurie
+cast	John Roselius	Chief Bastokovich
+cast	K.K. Dodds	Aunt Theresa
+cast	Joey Simmrin	Vincent's Friend
+cast	Holly Towne	Martha the Babysitter
+cast	Olivia Summers	Cecil Lockhart
+cast	Susie Spear Purcell	Blonde Cheerleader
+cast	Lisa Maris	Brunette Cheerleader
+cast	Daniel Hagen	Hotel Manager
+cast	McNally Sagal	Officer McGill
+cast	Robert Cicchini	Uncle Joey
+cast	Frank Marocco	Bandleader
+cast	Alison McMillan	Desk Clerk
+cast	Stephanie Feury	Waitress
+cast	Wayne Duvall	Det. McGuire
+cast	Gerald McSorley	Father Cleary
+cast	Mickey Swenson	Cop Tommy / Cop #1
+cast	Todd Jeffries	Cop Ricky
+cast	Steve Ireland	Reporter
+cast	Scott W. Mckinlay	Reporter
+cast	Wylie Small	Reporter
+cast	Ana Gabriel	Reporter
+cast	Nancy Sullivan	Reporter
+cast	Timothy Davis-Reed	Reporter
+cast	Robert Clotworthy	Reporter
+cast	Ken Magee	Cop #2
+cast	Van Epperson	Guard
+cast	Jennifer Reznikoff	Waitress
+cast	Ron von Gober	Police Officer
+cast	Steve Blalock	ND Cop
+cast	Mike Watson	ND Cop
+cast	Robert 'Bobby Z' Zajonc	Helicopter Pilot
+cast	Jim James	Zoo Employee
+cast	Emidio Antonio	Zoo Employee
+cast	Patricia M. Leahy	Zoo Employee
+cast	Pete Sutton	Community Center Volunteer
+cast	Joan Blair	Reunion Classmate
+cast	Scott King	Agressive Reporter

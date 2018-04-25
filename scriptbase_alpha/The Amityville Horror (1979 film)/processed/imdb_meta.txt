@@ -1,0 +1,155 @@
+year	1979
+imdb score	6.2
+meta score	N/A
+genre	Horror
+keyword	priest
+keyword	terror
+keyword	real estate agent
+keyword	evil
+keyword	fear
+keyword	murder
+keyword	catholic priest
+keyword	nudity
+keyword	microfilm
+keyword	love
+keyword	husband wife relationship
+keyword	male underwear
+keyword	dead children
+keyword	camel toe
+keyword	dog
+keyword	blessing a house
+keyword	thunderstorm
+keyword	stormy night
+keyword	shotgun
+keyword	fly
+keyword	occult
+keyword	blockbuster
+keyword	light bulb
+keyword	library
+keyword	church
+keyword	tree
+keyword	red room
+keyword	river
+keyword	paranoia
+keyword	flashback
+keyword	horror movie remade
+keyword	motorcycle
+keyword	wedding reception
+keyword	female nudity
+keyword	unholy
+keyword	wedding
+keyword	black goo
+keyword	suffocation
+keyword	torment
+keyword	rainy night
+keyword	family in danger
+keyword	cross
+keyword	orchestral music score
+keyword	blessing from a priest
+keyword	curse
+keyword	blood
+keyword	nightmare
+keyword	putrid
+keyword	fly the insect
+keyword	boathouse
+keyword	long island new york
+keyword	lifting someone into the air
+keyword	van
+keyword	marriage
+keyword	bar
+keyword	ghost
+keyword	attack
+keyword	nun
+keyword	girl stripped down to panties
+keyword	black cat
+keyword	surveillance
+keyword	white panties
+keyword	murder of family
+keyword	tavern
+keyword	bare midriff
+keyword	stairs
+keyword	hoax
+keyword	catholic church
+keyword	going crazy
+keyword	menace
+keyword	stepfather
+keyword	paranormal phenomena
+keyword	theft
+keyword	three story dutch colonial
+keyword	gothic
+keyword	lightning
+keyword	scream
+keyword	gurney
+keyword	demon
+keyword	supernatural power
+keyword	reincarnation
+keyword	grindhouse
+keyword	ambulance
+keyword	falling through a staircase
+keyword	bare breasts
+keyword	babysitter
+keyword	glowing eyes
+keyword	indian burial ground
+keyword	based on supposedly true story
+keyword	1970s
+keyword	door off its hinges
+keyword	park
+keyword	remade
+keyword	newspaper article
+keyword	vomit
+keyword	three word title
+keyword	demonic possession
+keyword	axe
+keyword	half moon windows
+keyword	sex
+keyword	place name in title
+keyword	village name in title
+keyword	haunting
+keyword	police investigation
+keyword	evil force
+keyword	bedroom
+keyword	fly swarm
+keyword	fireplace
+keyword	haunted house
+keyword	cult film
+keyword	panic
+keyword	fleeing from a house
+keyword	toilet
+keyword	child murder
+keyword	wall of mirrors
+keyword	panties
+keyword	supernatural horror
+keyword	based on book
+keyword	independent film
+keyword	
+cast	James Brolin	George Lutz
+cast	Margot Kidder	Kathy Lutz
+cast	Rod Steiger	Father Delaney
+cast	Don Stroud	Father Bolen
+cast	Murray Hamilton	Father Ryan
+cast	John Larch	Father Nuncio
+cast	Natasha Ryan	Amy
+cast	K.C. Martel	Greg
+cast	Meeno Peluce	Matt
+cast	Michael Sacks	Jeff
+cast	Helen Shaver	Carolyn
+cast	Amy Wright	Jackie
+cast	Val Avery	Sgt. Gionfriddo
+cast	Irene Dailey	Aunt Helena
+cast	Marc Vahanian	Jimmy
+cast	Elsa Raven	Mrs. Townsend
+cast	Ellen Saland	Bride
+cast	Eddie Barth	Agucci
+cast	Hank Garrett	Bartender
+cast	James Tolkan	Coroner
+cast	Carmine Foresta	Cop at the House
+cast	Peter Maloney	Newspaper Clerk
+cast	Charlie Welch	Carpenter
+cast	J.R. Miller	Boy
+cast	Patty Burtt	Girl
+cast	Michael Hawkins	New York State Trooper
+cast	Richard Hughes	2nd New York State Trooper
+cast	James Dukas	Neighbor
+cast	Baxter Harris	Cop #2 at the House
+cast	Michael Stearns	Policeman
+cast	Jack Krupnick	Dead Father

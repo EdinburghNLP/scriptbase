@@ -1,0 +1,226 @@
+year	1985
+imdb score	7.4
+meta score	36
+genre	Comedy
+genre	Crime
+genre	Mystery
+genre	Thriller
+keyword	guest
+keyword	butler
+keyword	murder
+keyword	maid
+keyword	house
+keyword	study
+keyword	rope
+keyword	suspect
+keyword	billiard room
+keyword	weapon
+keyword	gun
+keyword	clue
+keyword	clumsiness
+keyword	dragging a dead body
+keyword	broken down car
+keyword	old dark house
+keyword	cook
+keyword	detective
+keyword	bad smell
+keyword	revolver
+keyword	secret door
+keyword	year 1954
+keyword	locked door
+keyword	black comedy
+keyword	blackmailer
+keyword	monkey brains
+keyword	darkness
+keyword	eating brains
+keyword	woman shot
+keyword	doberman
+keyword	drawing lots
+keyword	attic
+keyword	shower
+keyword	hat
+keyword	search
+keyword	dead woman with eyes open
+keyword	alcohol
+keyword	hate
+keyword	woman with glasses
+keyword	corpse in freezer
+keyword	strangulation
+keyword	pool table
+keyword	irreverence
+keyword	animal
+keyword	unsubtitled foreign language
+keyword	night
+keyword	singing
+keyword	fainting
+keyword	cigarette smoking
+keyword	throwing away a key
+keyword	bathroom
+keyword	thunderstorm
+keyword	blackmail
+keyword	suspicion
+keyword	knife
+keyword	stairs
+keyword	storm
+keyword	crime reenactment
+keyword	locking a door
+keyword	eating monkey brains
+keyword	envelope
+keyword	espionage
+keyword	dark and stormy night
+keyword	photograph negative
+keyword	power outage
+keyword	spoof
+keyword	reenactment
+keyword	french maid
+keyword	knocked out
+keyword	gunshot
+keyword	black gloves
+keyword	door bell
+keyword	based on board game
+keyword	food
+keyword	hall
+keyword	death
+keyword	black widow
+keyword	sitting
+keyword	police officer
+keyword	house search
+keyword	dancing
+keyword	serial killer
+keyword	glasses
+keyword	heavy rain
+keyword	motorist
+keyword	car
+keyword	yelling
+keyword	lifting person in air
+keyword	stepping in shit
+keyword	blood
+keyword	lead pipe
+keyword	burning evidence
+keyword	head injury
+keyword	secret
+keyword	eccentricity
+keyword	black humor
+keyword	murder investigation
+keyword	false identity
+keyword	comical female death
+keyword	invitation
+keyword	flashback
+keyword	closing eyes of dead person
+keyword	flashlight
+keyword	stranger
+keyword	fake butler
+keyword	1950s
+keyword	secret tunnel
+keyword	held at gunpoint
+keyword	assumed identity
+keyword	doghouse
+keyword	reference to rudyard kipling
+keyword	falling chandelier
+keyword	psychiatrist
+keyword	thunder
+keyword	red herring
+keyword	lie
+keyword	mind game
+keyword	murder reenactment
+keyword	investigation
+keyword	fireplace
+keyword	rainy night
+keyword	scheme
+keyword	broken window
+keyword	revelation
+keyword	body count
+keyword	library
+keyword	one word title
+keyword	20th century
+keyword	secret passage
+keyword	man with glasses
+keyword	fire
+keyword	dinner
+keyword	pipe
+keyword	danger
+keyword	kitchen
+keyword	woman strangled to death
+keyword	lifting male in air
+keyword	sipping soup
+keyword	multiple endings
+keyword	deception
+keyword	falling down stairs
+keyword	federal bureau of investigation
+keyword	woman in danger
+keyword	face slap
+keyword	singing telegram
+keyword	blood on hand
+keyword	candlestick
+keyword	lounge
+keyword	wrench
+keyword	pretending to be gay
+keyword	cellar
+keyword	based on game
+keyword	humor
+keyword	running into door
+keyword	gay slur
+keyword	screwball comedy
+keyword	fear
+keyword	lightning
+keyword	telephone call
+keyword	mystery killer
+keyword	rain
+keyword	real time
+keyword	dog
+keyword	slapstick comedy
+keyword	german shepherd
+keyword	cold war
+keyword	widow
+keyword	whodunit
+keyword	police
+keyword	chandelier
+keyword	dining room
+keyword	noose
+keyword	running
+keyword	key
+keyword	veil
+keyword	maid killed
+keyword	multiple outcomes
+keyword	reference to j. edgar hoover
+keyword	tape recording
+keyword	reference to perry mason
+keyword	recording
+keyword	corpse
+keyword	pool cue
+keyword	alias
+keyword	automobile
+keyword	prostitute
+keyword	ballroom
+keyword	homosexual
+keyword	conservatory
+keyword	dinner party
+keyword	beaten to death
+keyword	new england
+keyword	violence
+keyword	soup
+keyword	gloves
+keyword	mansion
+keyword	pseudonym
+keyword	letter
+keyword	villainess
+keyword	slurping
+keyword	surprise ending
+keyword	
+cast	Eileen Brennan	Mrs. Peacock
+cast	Tim Curry	Wadsworth
+cast	Madeline Kahn	Mrs. White
+cast	Christopher Lloyd	Professor Plum
+cast	Michael McKean	Mr. Green
+cast	Martin Mull	Colonel Mustard
+cast	Lesley Ann Warren	Miss Scarlet
+cast	Colleen Camp	Yvette
+cast	Lee Ving	Mr. Boddy
+cast	Bill Henderson	The Cop
+cast	Jane Wiedlin	The Singing Telegram Girl
+cast	Jeffrey Kramer	The Motorist
+cast	Kellye Nakahara	The Cook
+cast	Will Nye	Cop #1
+cast	Rick Goldman	Cop #2
+cast	Don Camp	Cop #3
+cast	Howard Hesseman	The Chief

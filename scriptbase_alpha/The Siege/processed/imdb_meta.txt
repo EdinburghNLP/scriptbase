@@ -1,0 +1,192 @@
+year	1998
+imdb score	6.3
+meta score	53
+genre	Action
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	terrorist
+keyword	abduction
+keyword	new york city
+keyword	martial law
+keyword	bombing
+keyword	military
+keyword	fbi
+keyword	cia
+keyword	theatre
+keyword	army
+keyword	geneva convention
+keyword	laws of war
+keyword	due process
+keyword	explosion
+keyword	blood spatter
+keyword	bill clinton
+keyword	nosebleed
+keyword	die hard scenario
+keyword	drinking
+keyword	general
+keyword	dancing
+keyword	policeman
+keyword	bomb threat
+keyword	pursuit
+keyword	machine gun
+keyword	undercover agent
+keyword	african american
+keyword	broadway manhattan new york city
+keyword	de briefing
+keyword	false alarm
+keyword	murder
+keyword	rights of the accused
+keyword	van
+keyword	world trade center manhattan new york city
+keyword	father son relationship
+keyword	civil rights
+keyword	detention center
+keyword	exploding bus
+keyword	police
+keyword	controversy
+keyword	rule of law
+keyword	torture
+keyword	civil liberties
+keyword	chrysler building manhattan new york city
+keyword	prisoner
+keyword	gunfight
+keyword	mosque
+keyword	blood
+keyword	u.s. president
+keyword	tank
+keyword	human rights
+keyword	sharpshooter
+keyword	extraordinary rendition
+keyword	human rights violation
+keyword	violence
+keyword	pistol
+keyword	interracial relationship
+keyword	bus
+keyword	arab
+keyword	u.s. army
+keyword	arrest
+keyword	traffic jam
+keyword	muslim american
+keyword	brooklyn bridge
+keyword	brooklyn new york city
+keyword	president
+keyword	fanatic
+keyword	lasersight
+keyword	terrorist plot
+keyword	pre 911
+keyword	siege
+keyword	stereotype
+keyword	backfire
+keyword	fear
+keyword	arab american
+keyword	mexican standoff
+keyword	sheik
+keyword	desert
+keyword	interrogation
+keyword	shootout
+keyword	suspense
+keyword	dilemma
+keyword	terrorism
+keyword	suicide bomber
+keyword	manhattan new york city
+keyword	racism
+keyword	disaster in new york
+keyword	surprise ending
+cast	Denzel Washington	Anthony 'Hub' Hubbard
+cast	Annette Bening	Elise Kraft / Sharon Bridger
+cast	Bruce Willis	Major General William Devereaux
+cast	Tony Shalhoub	Agent Frank Haddad
+cast	Sami Bouajila	Samir Nazhde
+cast	Ahmed Ben Larby	Sheik Achmed Bin Talal
+cast	Mosleh Mohamed	Muezzin
+cast	Lianna Pai	Tina Osu
+cast	Mark Valley	FBI Agent Mike Johanssen
+cast	Jack Gwaltney	Fred Darius
+cast	David Proval	Danny Sussman
+cast	Lance Reddick	FBI Agent Floyd Rose
+cast	Jeremy Knaster	INS Official
+cast	William Hill	INS Uniform
+cast	Aasif Mandvi	Khalil Saleh
+cast	Frank DiElsi	Officer Williams
+cast	Wood Harris	Officer Henderson
+cast	Ellen Bethea	FBI Agent Anita
+cast	David Costabile	Fingerprint Expert
+cast	Glenn Kessler	Fiber Expert
+cast	Jeffrey Waid	Video Agent
+cast	Tom McDermott	Phone Bank Agent
+cast	Sherry Ham-Bernard	Hubbard's Secretary
+cast	Joseph Hodge	Landlord
+cast	Joey Naber	Rashad
+cast	Said Faraj	Sleeper terrorist
+cast	Ali Afshar	Ali Wiziri, #87 Bus Bomber
+cast	Jacqueline Antaramian	Najiba Haddad
+cast	Helmi Kassim	Frank Haddad Jr.
+cast	Ghoulam R. Rasoully	Frank Haddad Jr.'s Teacher
+cast	Joseph Badalucco Jr.	EMT
+cast	Diana Naftal	Injured Woman
+cast	Ben Shenkman	INS Agent Howard Kaplan
+cast	Barton Tinapp	Mayoral Candidate
+cast	Neal Jones	NYPD Representative
+cast	Donna Hanover	District Attorney
+cast	Peter Schindler	Johnson, FAA
+cast	Hany Kamal	Arab Spokesman
+cast	Chip Zien	Chief of Staff
+cast	Dakin Matthews	Senator Wright
+cast	John Rothman	Congressman Marshall
+cast	John Henry Cox	Speaker of the House
+cast	E. Katherine Kerr	Attorney General
+cast	Jimmie Ray Weeks	Army General
+cast	Will Lyman	FBI Director
+cast	Ray Godshall	CIA Director
+cast	Victor Slezak	Colonel Hardwick, Army Intelligence
+cast	Chris Messina	Corporal
+cast	Gilbert Rosales	Mechanic
+cast	Amro Salama	Tariq Husseini, Auto Shop Owner
+cast	Jim Shankman	ACLU Lawyer
+cast	Matt Servitto	Journalist #1
+cast	Jourdan Fremin	Journalist #2
+cast	Anjua Warfield-Maximo	March Organizer
+cast	Susie Essman	Protest Speaker
+cast	Rory J. Aylward	Lieutenant
+cast	Jeff Beatty	Undercover FBI Agent
+cast	Graham Larson	FBI Agent
+cast	Arianna Huffington	Capitol Week Pundit
+cast	Robert Scheer	Capitol Week Pundit
+cast	Matt Miller	Capitol Week Pundit
+cast	John F. Beard	Newscaster
+cast	Stan Brooks	Newscaster
+cast	Alex Chadwick	Newscaster
+cast	Epi Colon	Newscaster
+cast	Judy de Angelis	Newscaster
+cast	Luis Jimenez	Newscaster
+cast	Sean Hannity	Newscaster
+cast	Ronald Kuby	Newscaster
+cast	Daniel Schorr	Newscaster
+cast	Curtis Sliwa	Newscaster
+cast	Susan Stamberg	Newscaster
+cast	Mary Alice Williams	Newscaster
+cast	Mike Akrawi	Terrorist
+cast	Anthony Batarse	Terrorist
+cast	Buzz Cartier	Concentration Camp Detainee
+cast	Scott Charles	Fireman
+cast	Bill Clinton	Himself
+cast	Sean Patrick Doherty	FBI Agent
+cast	Sean Patrick Folster	Arab
+cast	Mark A. Langston	Terrorist
+cast	Andrew Lasky	FBI agent
+cast	Marshall Dancing Elk Lucas	Bus Hostage
+cast	Dave Mallow	Newscaster
+cast	Tim Maloney	FBI Agent
+cast	Lisa Masters	Reporter #2
+cast	Trish McGettrick	FBI Agent
+cast	Ali Merhi	Ali Akhmed
+cast	George F. Miller	Soldier / Humvee Driver
+cast	Luis Moro	Hubbard FBI Decoy
+cast	Garry Pastore	Officer Perry
+cast	Robin Anne Phipps	Crying Girl on Monitor
+cast	Andy Redmond	Officer McFall
+cast	Rocco	Fireman / Reporter
+cast	Michael Rothberger	EMT #2 / ESU #2
+cast	Patrick Russo	Special Agent FBI
+cast	Tony Snow	Newscaster

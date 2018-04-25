@@ -1,0 +1,154 @@
+year	1984
+imdb score	6.2
+meta score	N/A
+genre	Comedy
+genre	Romance
+keyword	party
+keyword	friend
+keyword	bachelor party
+keyword	shower
+keyword	prostitution
+keyword	chippendale
+keyword	kiss
+keyword	stolen car
+keyword	bare breasts
+keyword	female rear nudity
+keyword	bare butt
+keyword	drug
+keyword	boyfriend girlfriend relationship
+keyword	hot dog
+keyword	tennis
+keyword	playing tennis
+keyword	promiscuity
+keyword	pantyhose
+keyword	bondage
+keyword	nudity
+keyword	suicide attempt
+keyword	class tension
+keyword	car
+keyword	rich guy vs average guy
+keyword	male nudity
+keyword	red pantyhose
+keyword	crossbow
+keyword	impersonating a prostitute
+keyword	female nudity
+keyword	public humiliation
+keyword	group of friends
+keyword	fitting room
+keyword	pimp
+keyword	suntan pantyhose
+keyword	adultery
+keyword	whip
+keyword	white briefs
+keyword	reference to gandhi
+keyword	rich snob
+keyword	loincloth
+keyword	animal death
+keyword	attempt to prevent marriage
+keyword	donkey
+keyword	female frontal nudity
+keyword	porsche
+keyword	marriage
+keyword	sports car
+keyword	fidelity
+keyword	three on a match
+keyword	class clash
+keyword	bachelorette party
+keyword	female stockinged legs
+keyword	sex
+keyword	joy
+keyword	topless female nudity
+keyword	prostitute
+keyword	stockings
+keyword	female stockinged feet
+keyword	bunny costume
+keyword	male rear nudity
+keyword	pubic hair
+keyword	male stripper
+keyword	black pantyhose
+keyword	bathtub
+keyword	fiancé fiancée relationship
+keyword	black humor
+keyword	patterned pantyhose
+keyword	falling from height
+keyword	nipples
+keyword	camera
+keyword	go go dancer
+keyword	undressing
+keyword	public nudity
+keyword	first part
+keyword	school bus driver
+keyword	dominatrix
+keyword	underwear
+keyword	dancing
+cast	Tom Hanks	Rick Gassko
+cast	Tawny Kitaen	Debbie Thompson
+cast	Adrian Zmed	Jay O'Neill
+cast	George Grizzard	Ed Thompson
+cast	Barbara Stuart	Mrs. Thompson
+cast	Robert Prescott	Cole Whittier
+cast	William Tepper	Dr. Stan Gassko
+cast	Wendie Jo Sperber	Dr. Tina Gassko
+cast	Barry Diamond	Rudy
+cast	Gary Grossman	Gary
+cast	Michael Dudikoff	Ryko
+cast	Bradford Bancroft	Brad Mollen
+cast	Martina Finch	Phoebe
+cast	Deborah Harmon	Ilene
+cast	Tracy Smith	Bobbi
+cast	Florence Schauffler	Sister Mary Francis
+cast	Sumant	Rajah
+cast	John Bloom	Milt
+cast	Kenneth Kimmins	Parkview Hotel Manager
+cast	Gerard Prendergast	Michael
+cast	Brett Baxter Clark	Nick
+cast	Ji-Tu Cumbuka	Alley Pimp
+cast	Rosanne Katon	Bridal Shower Hooker
+cast	Dani Douthette	Bridal Shower Hooker
+cast	Katie Mitchell	Kelley
+cast	Christopher Morley	She-Tim
+cast	Toni Alessandrini	Desiree
+cast	Monique Gabrielle	Tracey
+cast	Angela Aames	Mrs. Klupner
+cast	Richard Lorenzo Hernandez	Raul
+cast	Jonathan Tyler Trevillyan	Skip
+cast	Billy Beck	Patient
+cast	Jim Hudson	Neighbor
+cast	Dean Dittman	Elkshead Executive
+cast	Ben Slack	Suitcase Man
+cast	Milt Kogan	Restaurant Customer
+cast	Greg Norberg	Restaurant Customer
+cast	Coleen Maloney	Jean Store Customer
+cast	Arlee Reed	Jean Store Customer
+cast	Donald Thompson	Schoolboy
+cast	Gregory Brown	Schoolboy
+cast	Marcelino Razo	Schoolboy
+cast	Pat Proft	Screaming Man
+cast	Rebecca Perle	Screaming Woman
+cast	Elizabeth Arlen	Garage Customer
+cast	Dorothy Bartlett	Candy Counter Lady
+cast	Anne Gaybis	Hooker
+cast	Peaches Johnson	Hooker
+cast	Sheri Shortt	Hooker
+cast	Michael Yama	Japanese Businessman
+cast	George Sasaki	Japanese Businessman
+cast	Tad Horino	Japanese Businessman
+cast	William T. Yamadera	Japanese Businessman
+cast	Michele Starck	IBM Girl
+cast	Renee Breault	IBM Girl
+cast	Kim Robinson	Party Crasher
+cast	Elizabeth Carter	Party Crasher
+cast	Cynthia Kania	Sue
+cast	Bruce A. Block	Ticket Man
+cast	Paul Angelo	Movie Patron
+cast	Lisa Purcell	3-D Actress
+cast	Hugh McPhillips	Father O'Donall
+cast	Hillary Carlip	Herself - Angel and The Reruns
+cast	Lovey	Herself - Angel and The Reruns
+cast	Julia Fisher	Herself - Angel and The Reruns
+cast	Ginger	Herself - Angel and The Reruns
+cast	Véronique Baylaucq	
+cast	Noreen Bordonaro	
+cast	Julie Davis	
+cast	Anthony S. Johnson	Cop
+cast	Helen Kelly	Party Crasher

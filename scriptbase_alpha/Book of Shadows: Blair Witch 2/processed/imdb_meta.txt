@@ -1,0 +1,105 @@
+year	2000
+imdb score	4.0
+meta score	15
+genre	Horror
+genre	Mystery
+genre	Thriller
+keyword	witch
+keyword	digit in title
+keyword	convenience store
+keyword	throat slitting
+keyword	sheriff
+keyword	van
+keyword	grocer's shop
+keyword	mass murder
+keyword	miscarriage
+keyword	male nudity
+keyword	insane asylum
+keyword	convenience store clerk
+keyword	human sacrifice
+keyword	clerk
+keyword	surveillance
+keyword	forest
+keyword	spiral staircase
+keyword	dream
+keyword	murder
+keyword	photography
+keyword	second part
+keyword	hanged girl
+keyword	video
+keyword	police
+keyword	wiccan
+keyword	owl
+keyword	grocery store
+keyword	blood
+keyword	sequel
+keyword	sexuality
+keyword	grocery mart
+keyword	vision
+keyword	dog
+keyword	punctuation in title
+keyword	female nudity
+keyword	nightmare
+keyword	reporter
+keyword	possession
+keyword	violence
+keyword	fire
+keyword	independent film
+keyword	actor shares first name with character
+keyword	number in title
+keyword	surprise ending
+cast	Kurt Loder	Himself
+cast	Chuck Scarborough	Himself
+cast	Bruce D. Reed	Burkittsville Resident #1
+cast	Jeffrey Donovan	Jeffrey Patterson
+cast	Joe Berlinger	Burkittsville Tourist #1
+cast	Sara Phillips	Burkittsville Tourist #2
+cast	Lynda Millard	Burkittsville Resident #2
+cast	Deb Burgoyne	Burkittsville Resident #3
+cast	Andrea Cox	Burkittsville Resident #4
+cast	Lanny Flaherty	Sheriff Cravens
+cast	Pete Burris	MBI Man #1
+cast	Tristine Skyler	Tristen Ryler
+cast	Stephen Barker Turner	Stephen Ryan Parker
+cast	Erica Leerhsen	Erica Geerson
+cast	Kim Director	Kim Diamond
+cast	Briton Green	Stoner #1
+cast	Erik Jensen	Stoner #2
+cast	Peggy K. Chang	Foreigner #1
+cast	Tony Tsang	Foreigner #2
+cast	Anja Baron	Foreigner #3
+cast	Kevin Murray	Doctor
+cast	Keira Naughton	Nurse
+cast	Lauren Hulsey	Eileen Treacle
+cast	Ed Sala	MBI Man #2
+cast	Tyler Zeisloft	Teenager #1
+cast	Richard Kirkwood	Teenager #2
+cast	Justin Fair	Teenager #3
+cast	Raynor Scheine	Rustin Parr
+cast	Brilane Bowman	Ham Lady
+cast	Kennen Sisco	Peggy
+cast	Robert M. Kelly	MBI Man #3
+cast	Dina Napoli	Reporter, WBAL
+cast	Landra Booker	Reporter, Fox 45
+cast	Jacqui Allen	Reporter
+cast	Sloane Brown	Reporter, WJZ 13
+cast	Roger Ebert	Himself
+cast	Karen Tsen Lee	
+cast	Jay Leno	Himself
+cast	Conan O'Brien	Himself
+cast	Andy Richter	Himself
+cast	Heidi Burger	Print Reporter
+cast	Craig Campbell	Crime scene onlooker
+cast	Heather Donahue	Herself
+cast	Brian Dragonuk	Angry Citizen at Courthouse
+cast	Armen Garo	Doctor
+cast	Nasi Glekas	Security Guard
+cast	Cathy Haase	First Nurse
+cast	Oscar Haynes	Videographer
+cast	Rick Kain	On Camera News Reporter
+cast	Joshua Leonard	Himself
+cast	Julie Mabry	Hiker in Woods
+cast	Martin Pfefferkorn	Mental Patient
+cast	Chad Ridgely	Photographer
+cast	Ryan Slattery	
+cast	Michael C. Williams	Himself

@@ -1,0 +1,84 @@
+year	1994
+imdb score	6.4
+meta score	N/A
+genre	Biography
+genre	Drama
+genre	Sport
+keyword	baseball
+keyword	misanthrope
+keyword	ghost writer
+keyword	baseball player
+keyword	baseball movie
+keyword	sex
+keyword	watermelon
+keyword	female nudity
+keyword	detroit tigers
+keyword	breasts
+keyword	based on article
+keyword	male full frontal nudity
+keyword	male nudity
+keyword	female frontal nudity
+cast	Tommy Lee Jones	Ty Cobb
+cast	Robert Wuhl	Al Stump
+cast	Lolita Davidovich	Ramona
+cast	Ned Bellamy	Ray
+cast	Scott Burkholder	Jimmy
+cast	Allan Malamud	Mud
+cast	Bill Caplan	Bill
+cast	Jeff Fellenzer	Sportswriter
+cast	Doug Krikorian	Sportswriter
+cast	Gavin Smith	Sportsman's Lounge Bartender
+cast	Lou Myers	Willie
+cast	William Utay	Jameson
+cast	J. Kenneth Campbell	William Herschel Cobb
+cast	Rhoda Griffis	Amanda Chitwood Cobb
+cast	Tyler Logan Cobb	Young Ty
+cast	Gary Morris	Baptist Minister
+cast	Harry Herthum	Gambler
+cast	Jay Chevalier	Gambler
+cast	Roger Clemens	Opposing pitcher
+cast	George Rafferty	Teammate
+cast	Jay Tibbs	Teammate
+cast	Rodney Max	Umpire
+cast	Gary D. Talbert	Opposing Catcher
+cast	Fred Lewis	Philly Fan
+cast	David U. Hodges	Philly Fan
+cast	Joy Michiel	Last Chance Hotel Clerk
+cast	Michael 'Mitch' Hrushowy	Harrah's Club Manager
+cast	Eloy Casados	Louis Prima
+cast	Paula Rudy	Keely Smith
+cast	Artie Butler	Harrah's Bartender
+cast	Robert Earl Berkhigler	Croupier
+cast	George P. Wilbur	Casino Security Man
+cast	Steven Brown	Husband at Motel
+cast	Dana Hill	Wife at Motel
+cast	Tony L. McCollum	Texas Motel Manager
+cast	Bobby Holcombe	Texas Motel Security Guard
+cast	Stephen Mendillo	Mickey Cochrane
+cast	Tom Todoroff	Hall of Fame Announcer
+cast	Ernie Harwell	Hall of Fame MC
+cast	Reid Cruickshanks	Pie Traynor
+cast	Rath Shelton	Paul Warner
+cast	Jim Shelton	Lloyd Waner
+cast	Stacy Keach Sr.	Jimmie Foxx
+cast	Clive Rosengren	Hall of Fame Director
+cast	Lawrence 'Crash' Davis	Sam Crawford
+cast	Tommy Bush	Rogers Hornsby
+cast	Tracy Keehn-Dashnaw	Cobb's Wife
+cast	Jimmy Buffett	The armless guy
+cast	Michael H. Moss	Lover
+cast	Janice Certain	Cobb's Daughter
+cast	Bradley Whitford	Process Server
+cast	Jeanne McCarthy	Nurse
+cast	Patricia Forte	Nurse
+cast	Toni Prima	Hospital Receptionist
+cast	Michael Chieffo	Young Doctor
+cast	Don Hood	Older Doctor
+cast	Jennifer Decker	Sportsman's Lounge Waitress
+cast	Bill Wittman	Newsreel Narrator
+cast	Brian Patrick Mulligan	Charlie Chaplin
+cast	Jerry Hauck	Handicapper
+cast	Jerry Gatlin	Train Engineer
+cast	Harold G. Herthum	
+cast	L. Gregory Joiner	Jimmy / angry fan
+cast	Jim J. Poslof	Harrahs Security Man

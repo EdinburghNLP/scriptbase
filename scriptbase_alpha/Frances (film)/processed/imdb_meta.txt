@@ -1,0 +1,167 @@
+year	1982
+imdb score	7.4
+meta score	N/A
+genre	Biography
+genre	Drama
+genre	Romance
+keyword	frances farmer
+keyword	political repression
+keyword	atheist
+keyword	female protagonist
+keyword	high school student
+keyword	atheism
+keyword	female lead
+keyword	asylum
+keyword	toilet
+keyword	drunkenness
+keyword	reading aloud
+keyword	swimming
+keyword	wrongful commitment
+keyword	clifford odets
+keyword	1950s
+keyword	electroshock therapy
+keyword	mental institution
+keyword	mental breakdown
+keyword	anger
+keyword	dancing
+keyword	group theater
+keyword	actor's life
+keyword	hollywood california
+keyword	mother daughter relationship
+keyword	actress
+keyword	showbiz
+keyword	filmmaking
+keyword	1930s
+keyword	writer
+keyword	temper tantrum
+keyword	brain damage
+keyword	compassion
+keyword	what happened to epilogue
+keyword	family relationships
+keyword	escape
+keyword	domineering mother
+keyword	nudity
+keyword	rape
+keyword	school essay
+keyword	psychiatric nurse
+keyword	drink
+keyword	broadway manhattan new york city
+keyword	new york city
+keyword	mental health
+keyword	strong female character
+keyword	playwright
+keyword	drinking
+keyword	mental illness
+keyword	manhattan new york city
+keyword	one word title
+keyword	insulin coma therapy
+keyword	escape from mental institution
+keyword	loss of faith
+keyword	lobotomy
+keyword	price of fame
+keyword	insane asylum
+keyword	1940s
+keyword	insanity
+keyword	teenage girl
+keyword	police arrest
+keyword	cigarette smoking
+keyword	hypodermic needle
+keyword	police
+keyword	theater
+keyword	electroconvulsive therapy
+keyword	essay
+keyword	essay contest
+keyword	writing
+keyword	independent film
+keyword	character name in title
+keyword	title spoken by character
+keyword	
+cast	Jessica Lange	Frances Farmer
+cast	Kim Stanley	Lillian Farmer
+cast	Sam Shepard	Harry York
+cast	Bart Burns	Ernest Farmer
+cast	Jonathan Banks	Hitchhiker
+cast	Bonnie Bartlett	Studio Stylist
+cast	James Brodhead	Desk Sergeant
+cast	Jane Jenkins	Lady at Roosevelt Hotel
+cast	Jordan Charney	Harold Clurman
+cast	Rod Colbin	Sentencing Judge
+cast	Daniel Chodos	'No Escape' director
+cast	Donald Craig	Ralph Edwards
+cast	Sarah Cunningham	Alma Styles
+cast	Lee de Broux	'Flowing Gold' Director
+cast	Jeffrey DeMunn	Clifford Odets
+cast	Jack Fitzgerald	Clapper Man
+cast	Nancy Foy	Autograph Girl
+cast	Anne Haney	Hairdresser
+cast	Richard L. Hawkins	Bum on Street
+cast	James Karen	Judge Hillier
+cast	Darrell Larson	Louella's Spy
+cast	Patricia Larson	Mrs. Hillier
+cast	Albert Lord	'Flowing Gold' Assistant Director
+cast	Vincent Lucchesi	Arresting Sergeant
+cast	Jack Manning	Studio Photographer
+cast	Gerald S. O'Loughlin	Lobotomy Doctor
+cast	Woodrow Parfrey	Dr. Doyle
+cast	Christopher Pennock	Dick Steele
+cast	Rod Pilloud	Martoni Kaminski
+cast	Larry Pines	Man on Phone / Bookie Joint
+cast	John Randolph	Kindly Judge
+cast	Allan Rich	Mr. Bebe
+cast	Jack Riley	Bob Barnes
+cast	David Schroeder	Studio Lawyer
+cast	Helen Schustack	Wardrobe Mistress
+cast	Sandra Seacat	Drama Teacher
+cast	Charles Seaverns	Real Estate Man
+cast	Lane Smith	Dr. Symington
+cast	Karin Strandjord	Connie
+cast	Vern Taylor	Studio Executive
+cast	Andrew Winner	Firechief
+cast	Biff Yeager	Motorcycle Cop
+cast	Keone Young	Chinese Doctor
+cast	Alexander Zale	Man in Screening Room
+cast	Paul Fleming	Reports, Publicists, Photographers
+cast	M.C. Gainey	Reports, Publicists, Photographers
+cast	Roger Galloway	Reports, Publicists, Photographers
+cast	Matthew Goldsby	Reports, Publicists, Photographers
+cast	Paul Keith	Reports, Publicists, Photographers
+cast	F. William Parker	Reports, Publicists, Photographers
+cast	Charles Shull	Reports, Publicists, Photographers
+cast	Teda Bracci	Mental Patient
+cast	Jan Burrell	Mental Patient
+cast	Flo Di Re	Mental Patient
+cast	Dodds Frank	Mental Patient
+cast	Patricia Gaul	Mental Patient
+cast	Robin Ginsburg	Mental Patient
+cast	Pamela Gordon	Mental Patient
+cast	Anjelica Huston	Mental Patient
+cast	Jamie Johnston	Mental Patient
+cast	Ola Kauffman	Mental Patient
+cast	Donna Lamana	Mental Patient
+cast	Sharmagne Leland-St. John	Mental Patient
+cast	Jane Lillig	Mental Patient
+cast	Alexandra Melchi	Mental Patient
+cast	Patricia Post	Mental Patient
+cast	Zelda Rubinstein	Mental Patient
+cast	Nina Schneider	Mental Patient
+cast	Marlene Silvers	Mental Patient
+cast	Vicki Williams	Mental Patient
+cast	Susan Wolf	Mental Patient
+cast	Tom Amundsen	Doctors, Nurses and Orderlies
+cast	Anne Haslett	Doctors, Nurses and Orderlies
+cast	Barry Jamesby	Doctors, Nurses and Orderlies
+cast	Leonard Lookabaugh	Doctors, Nurses and Orderlies
+cast	Oceana Marr	Doctors, Nurses and Orderlies
+cast	Vahan Moosekian	Doctors, Nurses and Orderlies
+cast	Tom Pletts	Doctors, Nurses and Orderlies
+cast	Eileen T'Kaye	Doctors, Nurses and Orderlies
+cast	Lila Waters	Doctors, Nurses and Orderlies
+cast	Charles Prior	Soldier
+cast	Carl Kraines	Soldier
+cast	Kevin Costner	Luther
+cast	J. Michael Flynn	Minor Role
+cast	Ted King	Doctor
+cast	Casey MacGill	Singer, musician
+cast	Michael Mallory	Seattle Reporter
+cast	Allen Nause	Reports - Publicists - Photographers
+cast	Jayne Taini	Nurse

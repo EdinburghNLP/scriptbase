@@ -1,0 +1,5838 @@
+Thing Called Love, The (1993) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Thing Called Love, The (1993) movie scriptby Carol Heikkinen. Second Draft, May 1992.
+More info about this movie on IMDb.com
+
+
+FADE IN:
+
+INT. APARTMENT - DAY
+
+A small New York City apartment, sparsely furnished. MIRANDA
+PRESLEY, 21, sits on the floor amid moving boxes and suitcases packing to move 
+out.  She’s sorting through a stack of old record albums, looking through them as she 
+piles them in a box.  We catch sight of some relics from the disco era as well as several  
+classic country albums - Donny Osmond and the “Saturday Night Fever” soundtrack 
+mixed in with Patsy Cline and Hank Williams and Elvis. After a brief look, she piles 
+them in a box and closes the lid.   She looks outside her window and sees the sun 
+coming up; she’s been up all night.
+
+Miranda goes over to the window and opens it.   It’s barely light out, but already the 
+sound of someone’s radio filters in.  We hear a car alarm going off in the distance.  
+Miranda drags a large,  full trash bag over to the window,  looks down,  and heaves it 
+out.
+
+EXT.  MIRANDA’S APARTMENT BUILDING - DAY
+
+The trash bag falls from a fifth-floor window and into a dumpster overflowing with 
+about ten huge trash bags;  Miranda’s thrown out a lot of stuff.   The garbage truck 
+arrives just as the bag lands in the dumpster.
+
+EXT.  MIRANDA’S APARTMENT BUILDING - DAY
+
+The sun’s all the way up now.   It’s a bright June morning.  Two teenage boys sit on the 
+stoop next to Miranda’s building.  They have a boom box,  and we hear loud street 
+music.  Miranda comes out of her building carrying a moving box.  She wears Levi’s cut 
+off mid-thigh, sneakers, and a black leather jacket over a white y-shirt.  She carries the 
+box down the front steps and drops it on a pile on the sidewalk in front of a waiting cab.  
+The cab driver just leans against his car, watching her work.
+
+MIRANDA
+You know what would be great?   If you
+could just stand there, watching me carry
+all these boxes out by myself.   Don’t
+carry out any yourself,   don’t hold the
+door for me,  and whatever you do, don’t
+put them in your cab.   And if you could
+possible start the meter running now. . .
+
+She leans over and peers into the cab.   The meter’s running.   She smiles at the cab 
+driver,  who doesn’t seem to understand English.
+
+MIRANDA  (CONT’D)
+Perfect.  Good job.  Thank you.
+
+She gives him a thumbs up.   He smiles and gives her one back.   She goes back for 
+another box
+
+EXT.   APARTMENT BUILDING - DAY
+
+We see the cab parked in from of a luxury high-rise apartment building.   The cab driver 
+leans again the car, waiting.
+
+INT.  ELLEN DALY’S APARTMENT - DAY
+
+A large,  expensively furnished apartment.    Miranda’s boxes are piled in the hallway.   
+ELLEN DALY,  43,  and immaculately dressed socialite,  looks with mild distaste at the 
+boxes cluttering her hallway.
+
+ELLEN
+. . . I just never imagined there would be this much,  Miranda.
+
+Miranda stands in the living room, looking at pictures of Ellen and a family that doesn’t 
+include Miranda - a respectable, clean-cut husband and two perfect little boys.  There is 
+one small picture of Miranda;  she looks like she’s still in high school.
+
+MIRANDA
+You should see how much I threw out.
+
+Ellen walks in and sits on the couch.   She sits formally;  she doesn’t exactly radiate 
+warmth.   Miranda turns away from the photos.
+
+MIRANDA  (CONT’D)
+You can ship them to me as soon as I get
+an apartment.
+
+ELLEN
+Maybe I should keep them in storage until
+you come back.
+
+MIRANDA
+I’m not coming back.
+
+Ellen looks at her like she doesn’t believe her, but she’ll go along.
+
+MIRANDA  (CONT’D)
+Mom,  I told you,  I’m moving.
+
+Ellen occupies her hands by compulsively straightening the books on her coffee table,  
+which were already pretty straight.
+
+ELLEN
+Saying you’re going to do something and
+actually doing it are two entirely
+different things.   I hate to see you give
+up everything to go and pursue this . . .
+fantasy you have about being  a . . . country
+singer.   Have you taken a moment to stop
+and look at your behavior?
+
+MIRANDA
+I’ll do it on the bus, O.K.? 
+
+Ellen assumes the role of the voice of reason.
+
+ELLEN
+I know you father made Nashville sound
+very romantic.   I wish he were here now to
+see you acting this way.   He could tell
+you how difficult it is.
+
+MIRANDA
+That’s not what he’d tell me.
+     (sadly,  remembering)
+Daddy would tell me I can anything in
+the world.
+
+ELLEN
+Yes,  he probably would, but in the real
+world, the chances of making it are a
+million to one.
+
+MIRANDA
+How can I pass up a one in a million
+opportunity?
+
+She smiles.   Ellen doesn’t.
+
+MIRANDA  (CONT’D)
+I don’t expect you to understand why I
+have to do this.   I just want you to send
+me my stuff.
+
+ELLEN
+I really think you should think about this
+for a few days.
+
+MIRANDA
+(determined)
+I’ve been thinking about it my whole life.
+It’s time for me to do it.
+
+Miranda’s saying this more for her own benefit; her mother doesn’t seem to be listening.
+
+MIRANDA  (CONT’D)
+I have to go.   My cab is waiting.
+
+She goes to her mother and kisses her on the cheek.
+
+APARTMENT BUILDING - DAY
+
+Miranda comes out of the building and crosses the sidewalk to the cab.   She talks to the 
+driver,  not expecting him to understand
+
+MIRANDA
+My mother thinks she can control my life.
+
+Surprisingly,  the driver speaks,  with a heavy foreign accent.
+
+DRIVER
+She stills sees you as a little girl.
+
+Miranda looks only mildly surprised that the driver has understood everything  she has 
+said.   She gets in the cab.
+
+EXT.  HIGHWAY - DAY
+
+We hear a simple country ballad.   A Greyhound bus travels through the mountains.
+
+INT.  BUS - DAY
+
+Miranda sits in a window seat,  asleep,  resting  her head against her jacket.
+
+INT.  BUS - NIGHT
+
+Miranda’s in the same seat, awake now,  staring out the window into the darkness.
+
+EXT.  TRUCK STOP - DAY
+
+The bus is making a rest stop.  (We see that the destination sign reads “Nashville”.)  
+Passengers walk around,  stretching their legs.   Miranda leans against a wall, checking 
+her watch, impatient.
+
+INT.  NASHVILLE GREYHOUND STATION - DAY
+
+We still hear the country music.   Miranda comes into the terminal, carrying a huge 
+suitcase and a guitar.   She squints at the light, reaches into her jacket pocket, pulls out 
+her sunglasses and puts them on.   She looks around.   A man in a cowboy hat sits on a 
+bench.   He gives Miranda a friendly smile and an almost tip of the hat.   She looks at 
+him like she’s trying to figure out what species he is and drags her stuff outside.
+
+EXT.  GREYHOUND STATION - DAY
+
+Miranda looks around and spots a taxi across the street.   She puts her index and middle 
+fingers inside her mouth of whistles.   Everyone within earshot turns and looks at her.    
+The taxi driver looks up from his newspaper.
+
+INT.  TAXI - DAY
+
+Miranda gets in the back of the cab.   The driver closes the trunk and gets in front. 
+
+DRIVER
+Where to?
+
+Miranda hands him a newspaper clipping.
+
+MIRANDA
+Do you know where this is?   Lucy’s Café?
+
+DRIVER
+They’d have to take away my license if I
+didn’t.
+
+He starts to drive.
+
+EXT.  SIDEWALK - DAY
+
+Close on a guitar case.   Then another, and another,  separated by a row of blue-jeaned 
+knees and cowboy boots.
+
+Now we see faces,  some young,  some not-so-young,  some hopeful, some weary.   All 
+are patient,  lined up against a brick wall, an incongruous sight at any mini-mall but this 
+one.
+
+FEMALE VOICE  (O.S.)
+O.K.   Listen up.   Gentlemen,  ladies.
+
+Everyone in line quiets down.   They turn their attention to LUCY JENKINS, 30’s, the 
+owner of Lucy’s Café.
+
+LUCY
+As you go in, make sure you take an
+application.  No one tries out without
+filling one of these out.   Hurry it up,
+doors close at 3:05.   Anyone not inside
+by 3:05 gets locked out.
+
+Lucy goes back inside.   The line files in.
+
+INT.  TAXI - DAY
+
+The driver turns to talk to Miranda.
+DRIVER
+You a songwriter?
+
+MIRANDA
+No.
+DRIVER
+Lucky for you.   Town’s full of them.   I’m
+a songwriter myself.
+
+MIRANDA
+I’m a singer.
+
+The driver reacts to this silently;  she’s not lucky after all.
+INT.  LUCY’S CAFÉ -DAY
+
+A cozy restaurant with small tables,  country music memorabilia on the walls, and a 
+small stage.
+
+Lucy stand on the stage with a stack of completed applications in her hand.
+
+LUCY
+Thank you all for coming today.  When I
+call your name,  come right up on stage.
+Pretend like you’re in a hurry,  we got all
+day but there’s a lot of people want to be
+famous here.  If it’s your first time
+here,  you should know:  if you don’t pass,
+it just means I don’t think you’re ready.
+Go home and keep at it and come back
+again.  Don’t give up unless you can’t
+stand to listen to your own material. All
+right,  let’s get to it.
+
+Lucy looks at the first application.
+
+LUCY (CONT’D)
+Cash Wilneck,  get on up here.
+
+INT.  TAXI - DAY
+
+The driver hands the clipping back to Miranda.  She takes it, then moves her hand in the 
+air over the back of the driver’s seat.
+
+MIRANDA (CONT’D)
+Where’s the safety glass?
+
+He glances over his shoulder at her;  what safety glass?
+
+MIRANDA  (CONT’D)
+I could shoot you if I wanted.
+
+This is an observation,  not a threat.
+
+DRIVER
+(smiles)
+Appreciate it if you didn’t.
+
+INT. LUCY’S CAFÉ - DAY
+
+A young man takes the stage,  sits on the stool and begins singing a mediocre country 
+ballad, slightly out of tune.
+
+EXT. LUCY’S CAFÉ - DAY
+
+Miranda, carrying her guitar in one hand and her suitcase in the other, gets out of the 
+cab and heads for the entrance of Lucy’s
+
+At the same time, JAMES WYNN, 23,  gets out of his pick-up truck in Lucy’s parking 
+lot.   James is good-looking in a somewhat dangerous way.   He picks up his guitar case 
+and strides over to Lucy’s, getting there just before Miranda.   He tries the door.   It’s 
+locked.
+
+MIRANDA
+It’s locked?
+
+James looks at her, the way she’s dressed,  the huge suitcase she carries.   He looks 
+amused.
+
+JAMES
+Was your bus late?
+
+She gives him the same attitude back.
+
+MIRANDA
+As a matter of fact . . .
+
+JAMES
+Well,   it’s a long way from . . . New York
+City.
+
+MIRANDA
+Yes it is.  Who are you?  The psychic
+welcoming committee?
+
+JAMES
+James Wynn.   The door is locked.
+
+MIRANDA
+Miranda Presley.   I’ll just knock.
+
+She goes up to the door.
+
+JAMES
+No,  don’t.  Lucy doesn’t let anyone in
+late.   That’ll set me back a month.  We’ll
+have to get in some other way.
+
+MIRANDA
+I’m sure there’s a secret underground 
+tunnel.
+
+INT.  LUCY’S CAFÉ - DAY
+
+Another young songwriter auditions.   This one plays the fiddle and has a friend backing 
+him up on guitar.   He’s energetic, but the song isn’t very good.
+
+Lucy sits in the back of the crowded room.   She reveals no expression as she watches 
+the songwriter, but we see her head shake “no” slightly as she makes a notation on his 
+application and places it in what is presumably the reject pile
+
+EXT.  LUCY’S CAFÉ - DAY
+
+Miranda sits on the sidewalk outside the café.   James locks her suitcase in his truck and 
+comes and sits down next to her.
+
+MIRANDA
+Maybe someone will come out.
+
+JAMES
+There’ll be a lot of people coming out in
+about two hours.
+
+MIRANDA
+Did I mention that I can vaporize myself
+like “I Dream of Jeannie”?
+
+JAMES
+A lot of good that does me.
+
+They sit there a moment.
+
+JAMES (CONT’D)
+I have an idea.  Let’s knock.
+
+MIRANDA
+It’s true.   Everyone is slower down here.
+
+INT.  LUCY’S CAFÉ - DAY
+Onstage, a woman with teased blond hair,  fringed cowboy shirt,  and matching white 
+cowboy hat and boots,  stands with her guitar,  dancing around as she sings off-key.
+
+EXT.  LUCY’S CAFÉ - DAY
+Miranda knocks quietly on the door.   No answer.   She knocks a little louder.  The 
+door opens.   She gives James a look.   A face appears from inside;  it belongs to 
+LINDA LUE LINDEN, 20, a sweetly attractive Southern belle.   She puts her finger to 
+her lips and lets them in.
+
+The blond woman finishes and steps off the stage.   Lucy calls out the next name.
+
+LUCY
+Nick Reynolds.
+
+NICK REYNOLDS, early 30’s,  gets up to and goes to the stage.  James and Miranda 
+sit down with Linda Lue at a table near the door.   Linda Lue finds some blank 
+applications on the next table and hands them to James and Miranda.
+
+Nick takes the stage.   He wears a baseball cap with a trucking company logo.   He sits 
+at the microphone and addresses the room.
+
+NICK
+Hi, I’m Nick Reynolds.  I’m from Memphis,
+originally.  This one’s called “Shoot me 
+up,  run me down,  take me back,” and it’s
+dedicated to you,  Lucy.
+
+Lucy seems unmoved by the sentiment.  A few auditioners smile knowingly.   Nick 
+starts to play.   He seemed like a pretty soft-spoken guy up till now, but he was 
+apparently saving his personality for his performance.   The song is humorous, about 
+cartoonishly extreme devotions to a woman who won’t pay him any attention.   Nick’s 
+fellow musicians are a good audience, laughing in the appropriate places.
+
+Lucy doesn’t laugh at the song; she matter-of-factly moves Nick’s application into the 
+“yes” pile.
+
+CUT TO:
+LUCY  (O.S.)
+Next.   Linda Lue Linden.
+
+We see Lucy look up,  amused.
+
+LUCY  (CONT’D)
+Goodness,  honey,  is that your name?
+
+Linda Lue hurries toward the stage.
+
+LINDA LUE
+I’m afraid so.
+     (smiling,  into the microphone)
+Hi,   I’m Linda Lue,  from Briar Hill,
+Alabama.   I jut finished this one,  it’s
+called  “Heaven knocked on my door.”
+
+Linda Lue starts her song;  she has a sweet voice, but it’s weak.  Her song is cute,  
+using silly metaphors.  She’s not awful, but she’s not especially good, either.
+
+CUT TO:
+
+Onstage,  a young singer, eyes closed beneath his cowboy hat, sings a heartfelt ballad.  
+He’s pretty good.  While he’s performing,  James takes his and Miranda’s completed 
+applications over to Lucy’s table.  He presents them confidently,  as if he has no doubt 
+she’ll accept them.   Lucy raises any eyebrow at him, but takes the applications.
+
+CUT TO:
+
+KYLE DAVIDSON, 22, sits on the stool.   He’s clean cut, wearing jeans and boots, but 
+no hat.  He looks a little jumpy.
+
+KYLE
+I’m, um, Kyle Davidson.  I’m from Texas.
+(laughs nervously)
+I’m a little nervous,  but it doesn’t
+really show.
+
+Kyle clears his throat and stares at the floor.
+
+KYLE  (CONT’D)
+This song is called “Blue and Blue.”
+
+Kyle seems to be more than just a little nervous;  he barely manages to raise his head 
+high enough to sing into the mike.  He sings without confidence, his voice cracking.  
+The songs sounds like it might actually be good if he wasn’t butchering it.  Lucy stares 
+at Kyle, deep in thought, holding his application.  Miranda watches him too, listening 
+closely to his song.
+
+CUT TO:
+
+Lucy’s down to the last two applications.   She calls James’ name out, an edge in her 
+voice.
+
+LUCY
+James Wynn
+
+James gets up and picks up his guitar.   He strides up and sits on the stool.   He looks 
+straight out at the audience and introduces himself.  His stage manner is folksy.
+
+JAMES  (CONT’D)
+Howdy.  James Wynn,  from Austin,  Texas.  I
+call this one “Friends no more.”
+
+He strums the guitar and starts to sing.   His voice is strong,  and he’s a charismatic 
+performer.   His song is great too  (a ballad, e.g.  “It Only Hurts Me When I Cry”).  The 
+audience is drawn into his performance.
+
+CUT TO:
+
+Lucy holds the last application.
+
+LUCY
+Miranda Presley,  looks like you get to be
+the fat lady.
+
+Miranda takes the stage.  She looks good.  Not too nervous.
+
+MIRANDA
+Hi,  I’m Miranda Presley from New York
+City.
+
+She starts to play.   She didn’t mention the name of her song, but that’s all right because 
+we already know this song.   It’s “Desperado”.  Miranda closes her eyes as she starts 
+the lyrics
+
+She has a beautiful voice,   very distinctive,   and the song sounds great.   Just as she 
+finishes the first verse,  we hear:
+
+LUCY  (O.S.)
+Excuse me.   Excuse me.   Miranda?   Honey,
+do you have another song?
+
+Miranda smiles, rolling with the punches.
+
+MIRANDA
+Sure.   I know lots of songs.   What do you
+want to hear?
+
+LUCY  (O.S.)
+Try something I haven’t heard before.   A
+Miranda Presley composition,   maybe.   This
+ain’t “Star Search”.
+
+MIRANDA
+Oh.   Well, I don’t have anything right
+now.
+
+Lucy picks up her pile of applications and approaches the stage.  Auditions are over.
+
+LUCY
+Well,   come on back when you do,  O.K.?
+
+Miranda hops off the stage, spirit intact.
+
+MIRANDA
+Sure thing.
+
+Lucy shakes her head in wonder at the girl and walks up to the microphone.
+
+LUCY
+Now.   I’m going to read off the names of
+the people who passed for next month’s
+performances.   If I read your name,  come
+see me to sign up for which night you want
+to play.    Nancy Butterworth,   Nick
+Reynolds,   Tom Mortenson,  Ricky Hogan,
+James Wynn. . . .
+
+EXT.  PARKING LOT - NIGHT
+James and Miranda stand next to his truck.   He opens the passenger door and takes out 
+her suitcase.   He sets it on the ground.   She looks disappointed;  she doesn’t know 
+where she’s going to go now.
+
+JAMES
+You want a lift somewhere?
+
+MIRANDA
+Why, I would be much obliges if you would
+convey me in this Glen Campbell Hee-Haw
+pick-up truck.
+
+James picks up the suitcase and tosses it in the back of the truck.
+
+JAMES
+Just so you know, I’m not taking this
+personally,  these little jabs and put-
+downs about what a yee-haw hillbilly town
+you have landed your cosmopolitan self in.
+Where are you staying?
+
+MIRANDA
+I haven’t decided.
+
+Miranda sees Linda Lue crossing the parking lot next to her car and calls to her.
+
+MIRANDA
+Linda Lue Linden.
+
+Linda Lue turns around.   She looks pleased to be noticed,   and comes over.
+
+MIRANDA  (CONT’D)
+Thanks for sneaking us in.
+
+LINDA LUE
+Oh,   you’re welcome.   I don’t normally
+flaunt the rules,  but my little voice told
+me I should open that door.   And I do
+believe it was right.
+     (to James)
+You were real good.   You got a lot of
+presence up there.  Some people,  they sing
+real good,  but they got no presence,  you
+know?
+
+JAMES
+Thanks.
+
+One of the singers approaches;  his truck is parked next to James’.  We recognize him as 
+Kyle,  the one with stage fright.   He notices James.
+
+KYLE
+James,   right?   Kyle Davidson.
+
+They shake hands
+
+KYLE  (CONT’D)
+Nice job tonight.   First time?
+
+JAMES
+     (nods)
+First week in town.
+
+MIRANDA
+     (to Kyle)
+Did you make it?
+
+He seems a little startled by her directness.
+
+KYLE
+No.
+
+MIRANDA
+Too bad.   I liked your song.
+
+He looks at her skeptically;  is she making fun of him?
+
+KYLE
+Yeah,  I liked yours too.   Always have.
+
+She laughs,  then starts to sing Kyle’s song a cappella.  If we didn’t know it before, we 
+now know it’s a beautiful song.   She sings just the first verse and stops.   Kyle stares at 
+her,   drawn into her singing,  hearing his song the way it should be.   Even after she 
+stops,  he stares at her.   Finally,  he grins.
+
+KYLE
+That’s it exactly.   How did you know that?
+
+Miranda doesn’t see what he’s so excited about.
+
+MIRANDA
+All I did was sing it on key.
+
+KYLE
+Are you going to Red’s?   A bunch of us are
+going to Red’s.   For a beer.
+
+Kyle looks like it’s important to him that she goes.
+
+LINDA LUE
+That sounds like fun.
+
+MIRANDA
+     (to James)
+Are you going?
+
+JAMES
+I am.
+
+
+
+ 
+MIRANDA
+     (to Kyle)
+See you there.
+
+INT.  REDS BAR - NIGHT
+
+Miranda, James, Kyle and Linda Lue sit together at a table.   We see quite a few familiar 
+faces from Lucy’s audition at surrounding tables.   Everyone has a bottle of beer except 
+for Linda Lue, who drinks a Shirley Temple.
+
+MIRANDA
+     (to Linda Lue)
+Don’t even tell me;  you have least. . .
+three relatives who have died of
+consumption.
+
+Linda Lue seems pleased with Miranda’s accuracy.
+
+LINDA LUE
+Well,  it’s four if you count Eddie.   He
+was my mother’s second cousin on her
+mother’s side.   He was found at the bottom
+of my inflatable play pool.   I found him,
+actually.
+
+KYLE
+     (Whispering, to James)
+The bottom of the pool?
+
+Linda Lue goes on cheerfully,  oblivious of the stunned reaction.
+
+LINDA LUE
+I noticed you have your suitcase.   Do you
+have a place to stay?
+
+Miranda just looks at her.
+
+LINDA LUE (CONT’D)
+I have a real cute motel room,  with two
+beds.   There’s even a pool,  shaped like a
+guitar.  We could share it.
+
+JAMES
+     (To Miranda,  pointedly)
+She has a pool.
+
+MIRANDA
+You’ve known me fifteen minutes and you
+want me to move in?   I could be a serial 
+killer,  for all you know.
+     
+
+LINDA LUE
+Oh,  I can see that you’re not.   I’m an
+excellent judge of character.   I’ve got a
+touch of the power.
+
+Miranda doesn’t want to ask what the power is.
+
+KYLE
+My grandmother can tell when a tornado is
+coming,  a week in advance.
+
+Linda Lue nods; she knows exactly what he means.
+
+LINDA LUE
+Some things are beyond our comprehension.
+     (to Kyle)
+Let me see your palm.
+
+He gives it to her.
+
+LINDA LUE  (CONT’D)
+Now you,  you got a real strong heart line,
+see it here.
+
+KYLE
+Is that good?
+
+LINDA LUE
+Well,  sure,  but it can also be a little
+dangerous.   My cousin Lester,  he had a
+similar heart line,  and he threw himself
+in front of a speeding train in the name
+of love.
+
+Miranda smirks.
+
+MIRANDA
+My cousin Leon did the very same thing.
+
+LINDA LUE
+Isn’t that a coincidence.   You want me to
+do yours?     
+
+Linda Lue reaches for Miranda’s hand.  Miranda drops the parasol and lets her have it.
+
+MIRANDA
+If I’m going to meet with a bizarre
+premature death,  I’d just as soon not know
+about it
+
+Linda Lue looks up from Miranda’s palm and answers her gravely.
+
+LINDA LUE
+All right.
+     (looking at Miranda’s hand)
+Oh,  well I envy you this life line.
+You’re going to make your mark.  People
+will remember you when you’re gone.
+
+Miranda pulls her hand back.
+
+LINDA LUE  (CONT’D)
+I’m not saying it’ll be soon.  Don’t you
+want me to read your heart line?
+
+Miranda doesn’t offer her hand.
+
+MIRANDA
+No.       Thanks.
+
+JAMES
+Hey,  let me see your heart line.
+
+Miranda holds out her hand.   James pretends to examine it.
+
+JAMES  (CONT’D)
+You will remain unmarried until the age of
+60 . . . at which time you will wed a series
+of men with one common characteristic.
+
+MIRANDA
+Namely?
+
+He squints at her palm.
+
+JAMES
+They will all be named Bubba.   Sometimes
+it will be a nickname,  or a middle name.
+
+Miranda carefully extracts her hand from James’.   He looks at her suggestively,  as if 
+she’s fighting the impulse to jump him.   She answers with a “get real” look.
+
+The music on the jukebox has stopped.  Miranda reaches for her guitar.  She starts to 
+play a song.   James watches her,  hears the opening chords, and reaches for his guitar.
+
+James starts playing the same song as Miranda,  “I don’t know why you don’t want 
+me.”  Miranda begins to sing.
+
+MIRANDA
+     (singing)
+It’s the right time,  and though I feel
+fine tonight. . .
+
+JAMES
+     (singing)
+I don’t know why you don’t want me
+
+
+MIRANDA
+     (singing)
+It’s the right place,  I’ve got the new
+face tonight. . .
+
+JAMES
+     (singing)
+I don’t know why you don’t want me.
+
+Kyle and Linda Lue join in.   Soon the other hopefuls from the audition are singing 
+along,  commiserating abut their rejection.
+
+INT.  MOTEL ROOM - NIGHT
+
+Linda Lue has apparently had a hand in the decorating of this room; it’s hard to believe 
+the motel provided matching floral chintz drapes,  bedspreads,  and pillows,  or a framed 
+photo of Loretta Lynn.   Linda Lue’s dog,  of the tiny furry white variety, sits on his 
+own floral pillow.  Miranda throws her suitcase on one of the beds.
+
+LINDA LUE
+You can have either bed.   I’ve been using
+this one . . .
+
+She points to the one Miranda has not chosen.
+
+LINDA  LUE  (CONT’D)
+. . . but you can take whichever you want.
+
+Miranda leaves her suitcase where it is and looks around.  There are several stacks of 
+Bibles in the room.   She lifts the cover of one,  verifying what it is,  and decides not to 
+deal with this information.
+
+MIRANDA
+Is this the extra,  the Loretta Lynn suite?
+
+She flops down on the bed,  her eyes closed.   Linda Lue’s dog comes over and sniffs 
+Miranda,  then settles in next to her.   Miranda opens her eyes,  sees the dog,  and closes 
+them again.   The phone rings.  Linda Lue picks it up.
+
+LINDA LUE
+     (into phone)
+Hello?   Hi, Mama. . .  Well,  I just got in
+this second,  Mama. . .  Things are real
+good. . .
+
+Linda Lue sits up straight,  her right hand flat on her bed.   Without looking down,  she 
+crosses her fingers,  first on her right hand,  then on her left,  the one holding the phone.
+
+LINDA LUE  (CONT’D)
+Uh-huh.
+     (brightly)
+I passed my audition.
+
+Miranda’s eyes open;   she tilts her head back and looks at Linda Lue upside down.   
+She’s surprised at the lie but,  then again,  she really doesn’t give a shit.   Miranda gets 
+up and opens her suitcase.   She takes out a pair of jeans.
+
+LINDA LUE  (CONT’D)
+Well, I was waiting for you take a
+breath,  Mama,  so I could get a word in. . .
+Yeah,   just like Loretta. . .
+
+Linda Lue rolls her eyes at Miranda, who’s changing into the jeans.
+
+LINDA LUE  (CONT’D)
+Only prettier.
+
+Miranda smiles.   She pulls a black leather-bound notebook out of her suitcase and picks 
+up her guitar.   Linda Lue covers the mouthpiece with her hand.
+
+LINDA LUE  (CONT’D)
+Are you going somewhere?
+
+MIRANDA
+I’m just going to go to that coffee shop
+across the street.
+
+She takes her motel room key off the table and puts it on a chain around her neck,  next 
+to several other keys and a locket.
+
+LINDA LUE
+But it’s late.    Don’t you want to go to
+bed?
+
+MIRANDA
+I’m not tired.   I’ll be quiet when I come
+in.
+
+Linda Lue is perplexed.
+
+LINDA LUE
+Well,  all right.   I’ll be seeing you.
+
+MIRANDA
+Goodnight,  Scarlett.
+
+Miranda leaves.
+
+LINDA LUE
+     (into phone)
+I’m listening,  Mama.  Who died?   Well,
+what was it that killed him?
+
+INT.  COFFEE SHOP - NIGHT
+
+Miranda is settled into a booth,  a full cup of coffee in front of her, circling classifieds in 
+a newspaper.   She doesn’t seem to be finding too much.   Linda Lue enters the coffee 
+shop, wearing a frilly pink robe over flowered pajamas with feet and furry bedroom 
+slippers.   Her hair is pulled back with a  pink band.   She looks like an exceptionally tall 
+five-year-old.   She spots Miranda and pads over to her table.   Miranda looks at her and 
+puts down her paper.
+
+LINDA LUE
+Did I remember to give the spare room
+key?     
+
+MIRANDA
+Annette,  I’ve got a hot tip that Frankie
+and his friends are going to crash your
+slumber party.  You don’t want to miss
+that.
+
+Linda Lue sits  down across from her.
+
+LINDA LUE
+Do you hate me?
+
+MIRANDA
+How could anyone possibly hate you?
+You’re Miss Congeniality.
+
+LINDA LUE
+I was hoping we could be great friends.
+
+MIRANDA
+I don’t know if that’s such a fabulous
+idea.
+
+LINDA LUE
+Why not?
+
+Miranda glances down at Linda Lue’s foot,  which sticks out from under the table.
+
+MIRANDA
+     (noticing)
+Your pajamas have feet.
+
+Linda Lue waits for an answer.
+
+   
+MIRANDA (CONT’D)
+Look,   I came here to be alone.   Nothing
+personal.
+
+Linda Lue looks hurt.    Miranda smiles at her kindly.
+
+MIRANDA (CONT’D)
+Nothing personal.   I swear.   Cross my
+heart.
+
+Linda Lue draws herself up and speaks with conviction.
+
+LINDA LUE
+Some people aren’t exactly the people you
+they are when you first meet 
+someone.
+
+She gets up and pads out of the coffee shop.   Miranda watcher her go.
+
+INT.  COFFEE SHOP - MORNING
+
+The sun’s just coming up.   Miranda’s still in her booth,  her head resting on her arm, 
+asleep.   The waitress comes up with a pot of coffee and touches her on the arm.
+
+WAITRESS
+More coffee,  honey?
+
+Miranda looks up, then out the window,  squinting at the sun.
+
+MIRANDA
+No,  thanks.
+
+The waitress leaves.   Miranda puts a couple dollars on the table, picks up her stuff,  and 
+leaves.
+
+INT.  MOTEL ROOM - MORNING
+
+Miranda enters the darkened motel room.   The mess she left has been cleaned up;  
+apparently Linda Lue unpacked for her.  Miranda pulls off her jeans,  removes her bra 
+without taking off her t-shirt,  and crawls into bed.
+
+Meanwhile, in the other bed, Linda Lue opens her eyes, sees Miranda,  and stretches.   
+She gets out of bed,  picks up her robe and goes to the bathroom.   The dog jumps off 
+Linda Lue’s bed and goes to sleep with Miranda.
+
+INT.  MOTEL ROOM - AFTERNOON
+
+Miranda’s still in bed, asleep.   The air conditioner hums.  There’s a knock on the door.  
+Miranda reaches for the clock; it’s 3:10.   She gets out of bed and walks over to the 
+dresser.   She opens a drawer,  finds a pair of boxer shorts and puts them on.
+Another knock.
+
+MIRANDA
+Who’s here at this ungodly hour?
+
+She opens the door.   It’s Kyle,  holding his guitar.   She looks out at him sleepily, her 
+hair a mess,  pillow marks on her face.   The dog stands at her feet.
+
+KYLE
+Hi.        You look good.
+
+MIRANDA
+Thanks.
+
+KYLE
+What are you,   getting ready to go out?
+
+The dog growls at Kyle.
+
+MIRANDA
+I’m thinking there’s some reason you’re 
+here.
+
+KYLE
+I just saw Linda Lue.   She said you’d be
+asleep.
+
+He looks at the dog, who continues a low growl.
+
+MIRANDA
+Thanks.   Let me know if she says anything else.
+
+She starts to close the door.
+
+KYLE
+Wait.    I wanted to ask you something.
+
+She open the door again.   The dog steps up the growl.
+
+KYLE  (CONT’D)
+Is that your dog?
+
+She looks at him;  of course it’s not her dog.
+
+KYLE  (CONT’D)
+That’s not my question.   Will you help me
+with my singing?
+
+MIRANDA
+Is that your question?
+
+KYLE
+That’s it.
+
+MIRANDA
+O.K.
+
+KYLE
+     (smiles)
+Yeah?
+
+MIRANDA
+Yeah.
+
+KYLE
+Now?
+
+She nods,  tolerant of his excitement.
+
+KYLE  (CONT’D)
+Great.   I’ll even make you dinner.
+
+MIRANDA
+Give me a minute.
+
+She closes the door.   The dog stops growling.
+
+EXT.  APARTMENT BUILDING ROOF - DUSK
+
+Kyle and Miranda sit in beach chairs on the roof of his apartment building,  with their 
+guitars.  There’s a grill next to Kyle;  he’s barbequeing something for dinner.
+
+Kyle’s finishing up a song,  a beautiful ballad   (e.g.  “Keep me from blowing away”).   
+His voice is tentative, and he watches his fingers as he plays.
+
+MIRANDA
+All right.   Now start the song again,  but
+instead of singing,  tell me about your
+guitar.
+
+Kyle starts to strum the chords to the song.
+
+KYLE
+What do you want to know about it?
+
+MIRANDA
+I don’t know,  some kind of amusing
+anecdote about how your daddy traded a pig
+for it,  or the ghost of Hank Williams Sr.
+Left it on your front porch.
+
+Kyle has started to watch his fingers again.   He looks up,  decides not to let her get to 
+him.
+
+KYLE
+My mom gave me this guitar.  She said she
+could tell I had a lot of creative energy.
+
+MIRANDA
+What about your dad?
+
+KYLE
+I don’t know,  what about him?
+
+MIRANDA
+Anything.    Keep playing.
+
+KYLE
+The first time I came to Nashville, I was
+here four months before I ran out of money
+and had to turn around and come back home.
+I thought he’d want me to give it up,
+since I hadn’t made it.   But he just put
+me back to work on the ranch.   Said he
+could use me until I was ready to give it
+another go.
+
+MIRANDA
+Letting life teach you its own lessons,
+realizing your dreams weren’t the same as
+his dreams.
+
+Kyle laughs.
+
+KYLE
+Stop me if you’ve heard my life story
+before.
+
+MIRANDA
+I saw that episode of Gunsmoke.  Anyway,
+the important thing is you’re playing the
+guitar without looking at your fingers.
+
+He stops playing.
+
+KYLE
+Of course I don’t have to watch my
+fingers.  It’s part of my style.
+
+MIRANDA
+Well,  don’t do it anymore.   Now, look at
+me and sing some of the words.
+
+Kyle starts to play again,  looking Miranda in the eye.   He stops, and starts the song 
+over.  He opens his mouth,  then shuts it again.  Finally,  he stops playing.
+
+KYLE
+I can’t do it.
+
+MIRANDA
+Why not?
+
+KYLE
+It’s personal.   It’s part of me.   You and 
+me,  here alone,  my singing to you is
+practically like stripping down naked.
+
+Miranda raises her eyebrows,  as if he might actually disrobe.
+
+KYLE  (CONT’D)
+Isn’t it like that for you, singing one of
+your songs?
+
+MIRANDA
+It seems to me that this is a rather
+serious handicap for an aspiring
+performer.
+
+KYLE
+I don’t want to be a performer.   I’d have
+to be insane to think I could ever make a
+dime with this voice.
+
+MIRANDA
+I thought you wanted to learn to sing.
+
+KYLE
+I do.   So I can sing on writer’s night.   I
+can’t get my songs recorded if nobody
+hears them.
+
+MIRANDA
+Is that the only way to get them heard?
+
+KYLE
+I’ve done about a hundred demos,  me songs
+with other singers.   Vince Gill put a song
+of mine on hold last summer,  was thinking
+about putting it on his new album,  but he
+didn’t end up cutting it.
+
+Miranda picks up her guitar.
+
+MIRANDA
+Well,  maybe if you see yourself as an
+actor, like it’s not really you.   Play the
+part in the song.
+
+She starts to strum a few chords.   She looks Kyle in the eye as she sings,  acting as if 
+the words were meant for him.  The sun is setting behind her.
+
+MIRANDA
+     (singing)
+I loved you yesterday
+And I love you just the same
+And none of the things you do
+Could tear us apart
+I loved you yesterday
+And I love you just the same
+When I gave myself to you
+You took only my heart
+
+She puts the guitar down.   Kyle fell for the act;   he looks slightly lovestruck.
+
+KYLE
+That’s nice.   You write that?
+
+MIRANDA
+     (shakes her head no)
+Lyle Lovett.   He’s my favorite.
+
+KYLE
+You’re not proving your point until you
+play me one of your songs.
+
+He gets up to check on the barbeque.
+
+MIRANDA
+One of what?
+
+She smiles at him;  she doesn’t have any songs.
+
+KYLE
+You haven’t written any songs?
+
+MIRANDA
+You’re a songwriter.   I’m a singer.
+
+KYLE
+You just haven’t written any songs yet.
+Nobody moves from New York to Nashville to
+be a singer.
+
+MIRANDA
+Nobody but me.
+
+Kyle shakes his head no.
+
+KYLE
+Country music’s all about the words,
+having something to say.   You wouldn’t be
+here if you didn’t have those words inside
+you.   You just haven’t let them out yet.
+
+Miranda considers the potential truth of this.
+
+MIRANDA
+I’m the one who dropped my entire life and
+moved someplace I’ve never even visited
+before.   I should get to figure out why 
+the hell I did it.
+
+INT.  COFFEE SHOP - MORNING
+
+Miranda sits at the same table as the day before, a cup of coffee in front of her.  She’s 
+been sleeping;  she raises her head from where it was resting on her arm and squints at 
+the daylight.   She sticks a finger in her coffee; it’s cold.   She gets our of her both.
+
+INT.  MOTEL ROOM - MORNING
+
+Miranda comes in and gets ready for bed.  Linda Lue isn’t in her bed.   We hear water 
+running, then singing as she finishes her shower.  The dog jumps into Miranda’s bed.
+
+MIRANDA
+Hey,  Buster.
+
+Linda Lue comes out of the bathroom.   She’s cheerful,  a morning person.   She seems 
+a little hesitant about Miranda;  she’s not sure if they’re fighting.
+
+LINDA LUE
+His name ain’t Buster.
+
+MIRANDA
+What is it?
+
+LINDA LUE
+Mr. Dog.
+
+Linda Lue says this as if it’s a perfectly normal name.  Miranda pulls on boxer shorts.
+
+MIRANDA
+How do you know his first name isn’t
+Buster?
+
+Linda Lue thinks.   Miranda picks up the dog, puts him on a different part of the bed, 
+and gets in.
+
+LINDA LUE
+Well,  he would have told me.   We discuss
+practically everything.
+
+MIRANDA
+Did you unpack my stuff?
+
+
+
+
+
+
+
+LINDA LUE
+I put your t-shirts in the second drawer,
+your underthings are in the top drawer,
+and pretty much everything else is in the
+closet, light to dark.
+
+Miranda looks at her disbelievingly; Linda Lue gets nervous.
+
+LINDA LUE  (CONT’D)
+Left to right.   There was a lot of black.
+I guess you know that.  I can’t wear
+black,  it just washes me out.  You ain’t
+mad,  are you?
+
+She doesn’t seem the least bit mad.
+
+MIRANDA
+Where are my tapes?
+LINDA LUE
+     (pointing)
+There,  in the night table.   You are mad.
+
+MIRANDA
+I was thinking about what you said in the
+coffee shop.
+
+Linda Lue sits at the foot of the bed,  her tone apologetic.
+
+LINDA LUE
+I’m trying to be more forthcoming.
+
+MIRANDA
+Well,  then let me ask you something.
+
+Linda Lue nods.
+MIRANDA  (CONT’D)
+Don’t most motel rooms have one Bible?
+
+Linda Lue hops up and takes a Bible from one of the piles.
+
+LINDA LUE
+I made these myself.  I work at the Praise
+The Lord print company.
+
+MIRANDA
+You didn’t steal these. . .
+
+LINDA LUE
+Oh, lord no.   These are all misprints.
+(picks one up,  pages through it)
+This one has Chapter Four from Yogi Berra’s
+autobiography right in the middle of Revelations.
+Jesus comes back and says       (CONT’D)
+
+LINDA LUE  (CONT’D)
+
+“It ain’t over till it’s over.”   We
+couldn’t ship it that way.   People might
+think Jesus had already come back,  and
+he’s been Yogi Berra all along.
+
+MIRANDA
+You’re making this up.
+
+Linda Lue nods.
+
+LINDA LUE
+Did you think it was funny?
+
+MIRANDA
+     (laughs)
+Yes,  I thought it was funny.
+
+LINDA LUE
+These really are misprints,  they’re just
+mostly upside down,  though.  But here’s a
+booklet that’s supposed to be on how to
+accept Jesus Christ as your lord and
+savior, and see, it’s all recipes for fun
+desserts you can make with Cool Whip.  I
+didn’t make that up, swear to God.
+
+MIRANDA
+I’m going to have to remember not to swear 
+to anything in this room.
+
+INT.  MUSIC ROW OFFICE - DAY
+
+Miranda,  holding her guitar case, stands in front of the receptionist desk, talking to the 
+RECEPTIONIST, an attractive young woman with a Tennessee accent.
+
+RECEPTIONIST
+I’m sorry,  he doesn’t see anyone without
+an appointment.
+
+MIRANDA
+O.K.   Let’s make a appointment,  then.
+Wednesday is good for me.
+
+RECEPTIONIST
+You realize I go through this eleven times
+a day.  I don’t let anyone slip through.
+
+MIRANDA
+Ever?   Not even like a really cute guy?
+
+The receptionist smiles and holds out her left hand, revealing her wedding ring.
+
+
+RECEPTIONIST
+That’s how I met my husband.   I’m afraid
+I’m going to have to tell you what I tell
+everyone:   when you’re rich and famous,
+you can look back on this and thank God
+people like me no longer have any control
+over you life.
+
+Miranda realizes she’s not going to get anywhere,  and leaves the office.
+
+CUT TO:
+
+MONTAGE  of shots of Miranda trying to get past the front office at other 
+management companies on Music Row:
+
+She stands in front of another receptionist and pages through the receptionist’s desk 
+calendar,  pointing out an empty appointment time.   The girl shakes her head no firmly.
+
+A receptionist pulls out a large cardboard box and shows it to Miranda; we see that it’s 
+filled to overflowing with tapes.
+
+Miranda open the door at another company and finds a four-piece band auditioning for 
+an expressionless receptionist in the waiting area.   Miranda turns to leave,  hoping she 
+doesn’t look as ridiculous as that.
+
+INT.  LUCY’S CAFÉ - NIGHT
+
+The place is about half-full;  the show hasn’t started yet.
+Miranda, Linda Lue, Kyle,  and James share a table near the stage.
+
+MIRDANDA
+So he told me to come back after they
+closed and “try out”, in quotes and
+italics, because he’s be alone and his
+wife is like in Tulsa and I was like,
+“Yeah!  Absolutely!   I’ll be back.   Is
+there any possibility you could gain some
+more weight by tonight,  because I would
+fine that really sexy.”
+
+KYLE
+You didn’t say that.
+
+MIRANDA
+I did,  actually.
+
+She looks around for their waitress.
+
+MIRANDA  (CONT’D)
+Don’t we have a waitress?
+
+LINDA LUE
+     (to James)
+Now, don’t you be nervous.   You’re going
+to be just fine.   You get a case of the
+nerves,  you arteries can explode.   You
+could look healthy as a horse,  except
+you’d be dead.   I’ve seen it myself.
+
+JAMES
+I don’t get nervous.   Thanks for trying to
+calm me down,   though.
+
+MIRDANDA
+I’m going to the bar.   Anyone want
+anything?
+
+KYLE
+Beer.
+
+JAMES
+Nothing till after I go on.
+
+Miranda looks at Linda Lue
+
+MIRANDA
+I’m not ordering a Shirley Temple.
+
+LINDA LUE
+Nothing for me,   thanks.
+
+Miranda makes her way over to the bar.   Nick,  the auditioner who dedicated his song 
+to Lucy,  sits on a barstool.   Miranda orders from the bartender.
+
+MIRANDA
+Two beers and a Shirley Temple.
+
+The bartender raises his eyebrows.   Miranda nods to confirm her order,   then notices 
+Nick.
+
+MIRANDA
+Hey,   I know you,  from the audition.
+
+NICK
+Nick Reynolds
+
+MIRANDA
+Miranda Presley.
+
+NICK
+That’s right.   Miranda Presley.  Wrote 
+“Desperado” when you were eight years old.
+
+Miranda smiles;  she doesn’t seem embarrassed.
+
+MIRANDA
+I’m famous already,  and I can’t even find a job.
+
+NICK
+Lucy just lost a waitress.   Maybe she’ll
+give you a job.
+
+MIRANDA
+No.   I’m hot a waitress,  I’m a singer.
+
+NICK
+I’m not sure I see the difference.
+     (calls to the back room)
+Lucy,  come on out here.
+
+Lucy comes out of the back room,  a look of annoyance on her face.  She recognizes 
+Miranda.
+
+LUCY
+Well,  if it isn’t Miss Presley.   What can
+I do for you,  honey?
+
+NICK
+She’s interested in the waitress position.
+I told her you’d probably want to hire
+her.
+
+Both women look at Nick like they wish he’d butt out.  The bartender pages through a 
+booklet,  looking for a Shirley Temple recipe.
+
+MIRANDA
+Look,   I don’t want to be a waitress.
+
+LUCY
+Then why am I out here?
+
+Miranda looks at Nick accusingly.
+
+NICK
+I don’t know,  but you sure do look nice
+tonight,  Lucy.  You want to go out later?
+
+LUCY
+Nick,  I’ve got a million things to do.
+Darcy called me at four in the afternoon
+to tell me she was quitting.
+
+NICK
+     (mock surprise)
+Quitting?   Why?
+
+LUCY
+Oh,   she’s going on tour with Rodney
+Crowell or some fool thing.
+
+NICK
+What’s she going to do?   Drive the bus?
+
+Nick knows very well what Darcy’s going to do.
+
+LUCY
+     (to Miranda)
+Darcy’s a singer.   She met Rodney Crowell
+right in the very establishment,   slipped
+him a tape,  which is against the rules,
+and now she’s singing back-up on his tour.
+Nick’s a sucker for a happy ending,  but
+they’re few and far between,  if you ask
+me.
+
+Lucy heads for the back room.
+
+MIRANDA
+Lucy.
+
+She turns around.
+
+MIRANDA  (CONT’D)
+I just wanted to apologize.   For singing
+“Desperado” at the audition.   I knew I was
+supposed to sing something I wrote.
+
+LUCY
+No apology necessary.   Just don’t pull
+that again.   You’re welcome to try out
+anytime with something of your own.
+     (sighs)
+And you can have the waitress job, if you
+decide you’re interested by tomorrow
+afternoon.   But no passing tapes to the 
+customers.
+
+Lucy goes into the back room.    The bartender has finally finished the Shirley Temple,  
+and Miranda picks up her drinks.
+
+MIRDANDA
+     (to Nick)
+You think I should take this job,  don’t
+you?
+
+NICK
+If  you think opportunity keeps dropping by
+until you like what he’s wearing,  you
+might as well pass this up.
+
+MIRANDA
+Ever since I crossed the border into
+Tennessee,  It’s been an exercise in logic
+to get a yes or no answer.
+
+NICK
+Personally,  I think you should take the
+job.   You got the voice to make it
+someday.
+
+Miranda is surprised at the flattery,  but still concerned.
+
+MIRANDA
+How long did Darcy work here?
+
+NICK
+You don’t want to know.
+
+Miranda goes back to her table.   James is going onstage.   The audience applauds.  
+He’s confident,  poised.   Two or three musicians assemble behind him to back him up.
+
+JAMES
+Hi.   I’m James Wynn.   I’m from Austin,
+where we like our music with a few rough
+edges.   I hope that’s all right with
+y’all.  If you like this one,  maybe you
+can tell Lucy,  let her know Nashville’s
+ready for something new for a change.
+
+Miranda looks confused.  She turns to Kyle.
+
+KYLE
+I heard he wanted Lucky to let him play
+without an audition.    He had all these
+reviews from when he played in Austin.   I
+also heard that he shot a record executive
+in Austin,  but I don’t think that part’s 
+true.
+
+James signals the band and they kick in with an energetic rockabilly-flavored song.   
+He’s definitely showing he has the talent to back up his attitude.
+
+EXT.  LUCY’S PARKING LOT - NIGHT
+
+James leans against his truck,  drinking a beer,  talking to the guys who played behind 
+him.   Miranda,  Linda Lue  and Kyle come out of the bar.   James says goodnight to the 
+musicians and calls out to Miranda.
+
+JAMES
+Miranda.   Come here.
+
+She walks over to him,  leaving Linda Lue and Kyle waiting for her.
+
+MIRANDA
+You were good.
+
+JAMES
+Did you ever have a nickname?
+
+MIRANDA
+Is that why you called me over?
+
+JAMES
+No.    That was an icebreaker.
+
+He reaches out and takes her hand,  surprising her.
+
+MIRANDA
+No.    Did you?
+
+He shakes his head.
+
+JAMES
+You want to go out?   Right now?
+
+MIRANDA
+Only if you do.
+
+Kyle’s talking to Linda Lue.   He looks over and sees James holding Miranda’s hand 
+and stops mid-sentence.   Linda Lue turns to look and sees Miranda get into James’s 
+truck.
+
+LINDA LUE
+I guess she found a ride.
+     (calls out)
+James.    How many beers have you had?
+
+James hold up his beer bottle and tosses it in the trash.
+
+JAMES
+One half.   O.K.?  I promise not to run
+down any of your relatives.
+
+LINDA LUE
+Have a nice time.
+
+EXT.  EMPTY PARKING LOT - NIGHT
+
+A large,  empty bowling alley parking lot.   James’s truck travel in circles, tires 
+squealing.
+
+INT.  TRUCK - NIGHT
+
+Inside the truck, we see that Miranda is driving.  She grinds the gears and wrestles with 
+the steering wheel.   Speed seems to be her only objective.
+
+JAMES
+I can’t believe you’ve never driven
+before.
+
+MIRANDA
+I’m doing that well?
+
+JAMES
+No.   I put that wrong.   I believe you when
+you say you’ve never driven before.   A
+blind man could see you’ve never driven
+before.
+
+Miranda gives him a look and drives over a cement parking divider.  James gets an idea.
+
+JAMES  (CONT’D)
+I know.   Step on the middle pedal.
+
+She hits the brake.   The car stalls.
+
+JAMES  (CONT’D)
+My fault.   I forgot to remind you about
+the clutch.
+
+He opens the glove box and pulls out a bandana.  He holds it up in front of Miranda,  
+trying to put it on her like a blindfold.   She looks at him like he’s nuts.
+
+MIRANDA
+Maybe this works with other girls . . .
+
+JAMES
+Trust me.
+
+She lets him blindfold her.
+
+CUT TO:
+
+INT.   TRUCK - NIGHT
+
+Miranda drives with the blindfold on.   She’s doing much better driving in slow circles.  
+James periodically tells her when to turn,  putting his hand on the steering wheel to help 
+her.
+
+JAMES
+Not too many people know this, but
+Nashville has a giant magnet - it’s right
+under this very parking lot - that pulls
+things in.   People,  pick-up trucks,  old
+Roy Orbison eight-tracks.   It pulled you
+here.  Turn left.
+
+She turns to look at him,  but can’t because of the bandana.
+
+MIRANDA
+Why didn’t it pull anybody else I know?
+
+JAMES
+It doesn’t attract everyone.  Just hicks
+and hillbillies and a few rednecks.
+Songwriters.  People who own cowboy hats,
+                         (CONT’D
+
+JAMES  (CONT’D)
+guys with mustaches.   If you have a
+pick-up,  sometimes it’ll get pulled with
+you in it.   Some people try to ignore it;
+they get used to the pull and just never
+come.   My theory about you is that you’ve
+got this stray piece of hillbilly lodged
+in you,  probably in one of your shoulders.
+You were smart not to fight it.
+
+MIRANDA
+You know how you can have a job and an
+apartment and friends and you think,  this
+is my life.   If I leave this,  I have no
+life.
+
+JAMES
+Mmm.    Turn right.
+
+She makes the turn easily,   not thinking about the driving.
+
+MIRANDA
+Well,  I woke up a few weeks ago and it was
+really hot out and sunny and there were
+kids everywhere.   It was the first day of
+summer vacation,  and it was just like
+every other day to me.  I wanted to be
+out,  like they were.   I just wanted out.
+And I thought,  nothing’s holding me here,
+I can do whatever the hell I want.  And
+if I don’t do it now,  I’ll keep going
+forever doing what I think I have to do
+when actually the only thing that’s 
+definite about my life is that I’m in it.
+I’m the fucking lead.  I left the next
+day.
+
+JAMES
+That happened to me when I was seventeen.
+
+MIRANDA
+And I’ve always wanted to see Graceland.
+
+JAMES
+How fast are you going?
+
+MIRANDA
+About twenty?
+
+JAMES
+Fourteen.   Shift down and make a sharp
+right when I say now. . . . .  Now.
+
+Miranda follows his instructions and pulls smoothly onto the highway
+
+JAMES  (CONT’D)
+Speed up.
+
+She does,  shifting into third.
+
+JAMES  (CONT’D)
+Faster.   Get into fourth.
+
+MIRANDA
+Fourth?   I can’t go that fast in a parking
+lot.
+
+JAMES
+Promise me you won’t panic.
+
+He pulls off her blindfold and she sees that she’s driving on the highway.   She smiles, 
+proud of herself.
+
+EXT.  HILLSIDE - NIGHT
+
+Miranda and James lie on their stomachs in the back of his pick-up truck, looking off 
+into the distance.
+
+MIRANDA
+You’ve got a strange idea of a good time.
+
+JAMES
+It’s better this way.
+
+We see that they are watching a drive-in movie, except they’re not at the drive-in;  
+they’re parked overlooking the drive-in.  They have a good view of the screen, but no 
+speaker.  It’s a clear summer night,  just barely dark out.  The movie is  “Love Story.”
+
+JAMES  (CONT’D)
+You can make up your own story.
+
+James sits up and reaches for his guitar.  He starts to strum the guitar, nods in the 
+direction of the screen and sings the first line of a song, making it up as he goes along.  
+He plays,  waiting for Miranda to do the second line.  She doesn’t.  He keeps making up 
+lines, making the song about the characters in the movie.  Suddenly, Miranda comes up 
+with a line of her own; it’s just as good as one of James’.  She makes up the chorus and 
+they sing together.
+
+Miranda rolls over on her back and stares at the sky,  her head flopped out the back of 
+the truck.
+
+MIRANDA
+I didn’t know there were this many stars.
+
+JAMES
+Giant magnet.   What’s your favorite song?
+
+Miranda answers without hesitation.
+
+MIRANDA
+“Hooked on a Feeling”.
+
+JAMES
+Me too.
+
+MIRANDA
+Liar.
+
+JAMES
+I think you can feel secure in your
+position as the only person on the planet
+whose favorite song is “Hooked on a 
+Feeling”.
+
+MIRANDA
+What’s yours?
+
+JAMES
+Y.M.C.A.
+
+MIRANDA
+Yeah.    Me too.
+
+James laughs.
+
+JAMES
+What can you do that no one else can do?
+
+MIRANDA
+Nothing.
+
+JAMES
+There’s always something.
+
+MIRANDA
+I can do a country version of any Bon Jovi
+song.  Any Bon Jovi single.   Except  “Lay
+Your Hands on Me.”   What about you?
+
+JAMES
+I speak Spanish.
+
+MIRANDA
+So do a billion other people.
+
+JAMES
+Last month,   I punched a record producer in
+the face.
+
+MIRANDA
+I heard you shot him.  Only he was a label
+executive.
+
+JAMES
+See,   you should never believe rumors.
+
+MIRANDA
+So what happened?
+
+JAMES
+I met this producer in Austin,  who wanted
+to do some demos with me,  try and get me a
+record deal.  then as soon as we got into
+the studio,  he started changing my songs,
+fucking with them so they’d sound more
+like everyone else.   We had a fundamental
+difference of opinion.   And he was a dick.
+
+MIRANDA
+So you punched him.
+
+JAMES
+I believe in doing what you feel like
+doing at any moment in time.
+
+MIRANDA
+What’s it like,  when you sing something
+you wrote?
+
+JAMES
+Don’t you write songs?
+
+MIRANDA
+No.   I think I might try it,  though.  This
+singing thing isn’t really working out.
+
+JAMES
+The first time I played one of my songs
+and people connected with it,  it was like
+sex.  Well,  not exactly.  Like the first
+time you kiss someone and your heart kind
+of flips, except it doesn’t make you feel
+weak,  it makes you feel strong.  If you
+think it’s something you want to do,  you
+should try it.
+
+MIRANDA
+I think it’s something I want to do.
+
+They look straight at each other, lean towards each other and kiss.
+
+EXT.   LUCY’S CAFÉ  MALL - DAY
+
+Miranda walks down the sidewalk toward Lucy’s.  she passes a laundromat.  Inside, a 
+man sits on a washing machine playing his guitar and singing while his clothes spin in 
+the dryer.  Miranda stops and listens to him a moment;  he’s not bad.   She continues 
+down the sidewalk and goes inside Lucy’s
+
+INT.  LUCY’S CAFÉ - NIGHT
+
+Two singers perform on stage.  We see Miranda moving through the crowd, working as 
+a waitress.  She’s not having an easy time; she sets a beer in front of a customer and he 
+indicates that it’s not what he ordered and makes her take it back.  She carries the bottle 
+back to the bar, where Nick sits at his usual post.
+
+MIRANDA
+Did I thank you for bringing glamour and
+excitement into my dreary life?
+
+NICK
+Did you mess up another one?
+
+She slides the bottle over to the bartender.
+
+MIRANDA
+     (to bartender)
+Michelob.
+     (to Nick)
+Beer all tastes the same to me.   Did you
+ask her out yet today?
+
+NICK
+     (nods)
+She declined.  Thanks for inquiring.
+
+MIRANDA
+Maybe it’s time to fish or cut bait.
+
+NICK
+You know that Lyle Lovett song?   Waltzing
+Fool?
+
+MIRANDA
+Of course.
+
+NICK
+     (singing a capella)
+The waltzing fool,  he just might be crazy,
+cause the waltzing fool keeps the moon in
+his car.
+
+MIRANDA
+What about it?
+
+NICK
+Nothing.
+
+Silence.  Miranda stares at Nick, waiting.
+
+NICK  (CONT’D)
+Just might no be so crazy, that’s all.
+
+EXT.  MUSIC ROW - NIGHT
+
+It’s the middle of the night,  pitch dark.  A few of the houses have their lights on.
+
+INT.  STUDIO - NIGHT
+
+Miranda is in a recording studio,  singing the last few lines of a ballad  (e.g.  “Is there 
+life out there?”)  over a guitar track recorded earlier.  Kyle is in the booth alone, 
+operating the board.
+
+MIRANDA
+I could do it better.  Let me do it one
+more time.
+
+KYLE
+No.    I’m keeping that one.
+
+MIRANDA
+We have fifteen minutes.   I can do it
+better.
+
+KYLE
+Miranda.   That one was perfect.   Wynonna
+Judd would use that one.
+
+EXT.  MUSIC ROW - NIGHT
+
+Kyle and Miranda come out of the building where they were recording.  The walk down 
+the sidewalk,  Kyle carrying Miranda’s guitar.  Miranda looks down,  not stepping on 
+cracks.
+
+MIRANDA
+So what are you going to do with the demo?
+
+KYLE
+They’ll put it on a list of available
+songs,  and if someone comes in and wants
+something like this, they might listen to
+it.
+
+MIRANDA
+That’s it?   That’s how you’re getting it
+heard?  That’s a great song, better than
+most of the stuff on the radio.
+
+KYLE
+They all sound that way at first,  when
+you’re the only one who’s ever hear it.
+
+MIRANDA
+I’m telling you,  someone wants this song.
+Wynonna Judd want this song,  she just
+doesn’t know it yet.
+
+KYLE
+If that’s true,  she’ll find out soon
+enough.
+
+MIRANDA
+O.K.   It’s your song.  I’m going to
+say two more words.
+
+KYLE
+Two words.
+
+MIRANDA
+No wonder.
+
+She keeps walking.   Kyle stops.
+
+KYLE
+No wonder what?
+She doesn’t answer.   He thinks.
+
+KYLE  (CONT’D)
+No wonder I can’t get anything recorded?
+No wonder I’ll be just another guy who
+never did what he said he was going to?   No
+wonder I work in a record store?   Because
+I didn’t push my songs on every singer I
+met?
+     (seems to realize something)
+Well,  I did that,  for awhile,  but those
+songs weren’t that good . . .
+
+Miranda stops walking.  She turns and looks at Kyle.
+
+KYLE  (CONT’D)
+For your information, I stopped putting
+all my energy into every new song because
+I didn’t want to be so damned disappointed
+all the time.
+
+Miranda looks guilty.   She begins an apology.
+
+MIRANDA
+Kyle. . .
+
+Kyle sits down on the curb.   Miranda sits next to him.
+
+KYLE
+     (realizing)
+You’re right.   No wonder.   How can I
+expect anyone else to get excited about my
+songs if I don’t?  I shouldn’t just sit
+back and wait for someone to find my
+songs;  I should do something to get my
+songs heard
+
+He tries to think of an idea.
+
+KYLE  (CONT’D)
+What do you think I should do?
+
+Miranda takes the demo tape out of her pocket.
+
+MIRANDA
+I think you should - we should - take this
+song to Wynonna and get her to listen to
+it.
+
+She stands up.  Kyle remains sitting.  She tilts her head - a gesture for him to come on,  
+then stars walking away.
+
+KYLE
+What,  right now?
+
+He gets up and follows her.
+
+EXT.  WYNONNA JUDD’S HOUSE - NIGHT
+
+There’s a car parked in the circular driveway.  Kyle and Miranda approach the car, 
+trying to be inconspicuous.
+
+MIRANDA
+Are you sure this is the right house?  She
+parks right out front?   Anyone could break
+into her car.
+
+KYLE
+I guess we’re the only ones who thought of
+it.   It’s her house.   I came to a party
+here once.
+
+MIRANDA
+So you’re in her social circle,  but we
+have to lurk around at dawn to give her a
+tape.
+
+KYLE
+I was parking cars,  and this wasn’t my
+idea.
+
+MIRANDA
+Give me the thing.
+
+Kyle hands her a slim jim.
+
+KYLE
+The thing?    I thought you had done this
+before.
+
+MIRANDA
+What do you think I am,  a criminal?   I’ve
+see it done.   My sixth-grade boyfriend is
+doing eighteen months for this.
+
+Kyle puts his hand on her wrist to stop her.
+
+KYLE
+O.K.   Time to go.
+
+MIRANDA
+That was a joke.   He got probation.
+
+She carefully inserts the slim jim between the car window and the door.  She moves it 
+around expertly, and after a few seconds the door lock clicks.   Kyle jumps.
+
+MIRANDA  (CONT’D)
+Give me the tape.
+
+Kyle hands her the tape.  She opens the car door.   As soon as she raises the handle,  the 
+car alarm goes off.
+
+KYLE
+Shit.    Let’s go.
+
+MIRANDA
+Wait.   Let me put the tape in.
+
+She sits in the driver’s seat and pop’s the tape in the car radio.
+
+KYLE
+Take that out.   It has my name on it.
+
+Miranda rolls her eyes at him.
+
+MIRANDA
+How else is she going to know whose song
+it is?
+
+KYLE
+But she’ll know I broke into her car.
+
+MIRANDA
+Of course she will.   That’s the one
+drawback to the plan.
+
+KYLE
+I can’t believe I didn’t think of that.
+
+The alarm continues to blare.  A light comes on inside the house.  Kyle looks up and 
+sees it.  Miranda follows his gaze and sees it too.
+
+MIRANDA
+Don’t people ignore these things anymore?
+
+She gets out of the car.   Kyle gets in a pushes buttons on the tape player.
+
+KYLE
+Where’s the eject?
+
+Miranda hears something;  she looks down the driveway and sees a police car pulling 
+up.
+
+MIRANDA
+And when did the cops start responding so
+quickly?
+
+INT.  POLICE STATION - MORNING
+
+Kyle sits in one of a row of chairs against the wall.  He looks angry.  Miranda leans over 
+the receiving desk,  pleasing with an unsympathetic cop.
+
+MIRANDA
+I  told you,  we weren’t trying to steal
+anything.  We were giving her a tape.
+
+KYLE
+     (weary)
+Don’t arrest her.   It was my idea.
+
+MIRANDA
+It was my idea.
+
+The cop looks from one to the other;   he doesn’t care whose idea it was.
+
+KYLE
+At least you admit that.
+
+MIRANDA
+Why are you mad at me?  You agreed  to it.
+
+KYLE
+You didn’t mention the one drawback.
+
+MIRANDA
+Any idiot would have figured out the one the one
+drawback.
+
+WYNONNA JUDD walks into the police station,  a police officer at her side.  Everyone 
+turns to look at her.  The unsympathetic desk cop seems particularly impressed to see 
+her.
+
+POLICEMAN
+. . . and my daughter just loves your last
+album.   I like that one you did with your
+mama . . .
+     (singing)
+“Girls night out, honey there ain’t no
+doubt . . . ”
+
+He notices everyone looking at him and stops singing.   He points at Kyle and Miranda.
+
+POLICMAN  (CONT’D)
+These here are your perpetrators.
+
+Kyle extends his right hand.
+
+KYLE
+Hi.     Kyle Davidson.   It’s a pleasure to
+meet you.
+
+Wynonna shakes his hand.   Miranda looks at him like he’s nuts.
+
+KYLE  (CONT’D)
+This is Miranda Presley.
+
+MIRANDA
+Hi.
+
+WYNONNA
+Kind of polite for hardened criminals.
+Which one of you jimmied open my car door?
+
+Miranda raises her hand.  The cop behind the counter stops staring at Wynonna and 
+rushes over to a desk.   He starts rummaging through drawers.
+
+KYLE
+We weren’t trying to steal it . . .
+
+WYNONNA
+     (to Miranda)
+Thanks for not scratching it.   You’re the 
+one singing on the tape?
+
+MIRANDA
+     (nods)
+It’s his song.  You listened to the tape?
+
+WYNONNA
+     (to Kyle)
+I guess this song is available?   Or are
+you waiting to hear from everyone else
+whose car  you broke into?
+
+KYLE
+Yours was the only car we broke into
+
+
+WYNONNA
+Well,  I’m flattered.  I just wish I wasn’t
+flattered this early in the morning.   Is
+your phone number on the tape?
+
+Kyle nods,  embarrassed at his stupidity.
+
+WYNONNA  (CONT’D)
+I’ll have my manager give you a call about
+putting it on hold.
+
+Kyle’s mouth drops open.  Miranda smiles.  Wynonna turns to leave the police station.
+
+POLICEMAN
+Miss Judd?   Do you want to press charges?
+
+WYNONNA
+All I want is to get some sleep.
+
+KYLE
+     (to Miranda)
+Don’t think this means I forgive you.
+
+The copy going through his desk finds what he’s looking for.  He holds up a tape, 
+triumphantly,  looks up and sees Wynonna leaving.
+
+POLICEMAN  #2
+Excuse me,  Miss Judd?
+
+She turns to look at him.   He hurries to catch up with her.
+
+POLICEMAN  #2
+Since you’re looking for new material. . .
+
+He offers her the tape.  She takes it from him patiently, promising to listen to it.
+
+INT.  COFFEE SHOP - NIGHT
+
+Miranda sits in her usual booth, but this time she’s awake.  She has her guitar next to 
+her and her notebook open in front of her, trying to write a song.   It doesn’t seem to be 
+going too well,  most of what she’s written has been crossed out.  She reads what she 
+still ahs and crosses that out too.
+
+INT.  JAMES’ TRUCK - AFTERNOON
+
+Miranda and James are in the truck.  Miranda drives.
+
+MIRANDA
+I’m having trouble even getting started.
+Maybe I can’t do it.
+
+JAMES
+You learned how to drive two weeks ago and
+you’re already the best driver I know.
+
+MIRANDA
+Writing songs is different.
+
+JAMES
+Maybe you need to try it with your eyes
+closed.
+
+She looks at him and shakes her head, swerving expertly around a car at the same time.
+
+MIRANDA
+Tried it.   Didn’t work.
+
+JAMES
+When’s your night off?
+
+MIRANDA
+Wednesday.
+
+JAMES
+Wednesday.  I’ll show you a few tricks.
+But you have to promise not to get better 
+than me.
+
+Miranda pulls into the parking lot for Lucy’s.
+
+INT.  LUCY’S CAFÉ - AFTERNOON
+
+The café hasn’t opened yet.   Miranda opens the door, showing up for work.  James is 
+with her; they kiss goodbye passionately.  Lucy looks at them disapproving.  Miranda 
+comes in and ties an apron around her waist.  Lucy puts glasses away behind the bar.  
+Nick is onstage, doing a sound check for his performance later.
+
+NICK
+(into microphone)
+Check,  check.   Lucy . . . Lucy?   Is this
+working right?
+
+Lucy finally looks up.
+
+LUCY
+The microphone is fine, Nick.
+
+NICK
+You’re pretty fine,  yourself,  Lucy.
+
+Lucy goes back to work.  Miranda smiles.
+
+MIRANDA
+Can I ask you something?
+
+LUCY
+If you think there’s something you don’t
+already know.
+
+MIRANDA
+How long has he been after you like this?
+
+LUCY
+A little over a year.
+
+In the background,  Nick starts to strum his guitar.
+
+MIRANDA
+And you’ve never even gone out with him?
+
+NICK
+     (singing)
+She won’t even give me a chance. . .
+
+Lucy sighs; she doesn’t think this is nearly as interesting as Miranda does.
+
+LUCY
+I expect you’ll keep asking me about this
+until you hear the whole sorry story.
+
+Miranda looks at her expectantly.
+
+NICK
+     (singing)
+She calls me sorry,  and that’s just what I
+am . . .
+
+LUCY
+I met Nick about. . . eight years ago.   My
+husband and him. . .
+
+MIRANDA
+Your husband?
+
+Nick starts a new song,  with a different melody.
+
+NICK
+     (singing)
+That no good man wasn’t no good for you. . .
+
+LUCY
+My husband played guitar in Nick’s band.
+Nick started acting pretty much the way he
+acts now,  only then I was young and didn’t
+have much sense.
+
+NICK     (singing)
+I wouldn’t give you a dollar,    for all the sense
+in the world. . .
+LUCY
+I eventually left my husband and took up
+with him
+
+She jerks her head in Nick’s direction.
+
+MIRANDA
+What happened?
+
+NICK
+     (singing)
+It was the right love,  at the wrong
+time. . .
+
+LUCY
+Nick got a record deal.   He cut an album
+and went on tour.   His first night on the
+road,  he called me up and started talking
+about. . . what was it,  Nick?   Space?
+
+NICK
+     (singing)
+Now it seems all the space in the world,
+is between me and you. . . 
+
+LUCY
+Well,   his album didn’t exactly set any
+sales records,  and his record label
+dropped him.   Before I knew it he was
+hanging around here,  thinking I was fool
+enough to take him back.
+
+NICK
+     (singing)
+You don’t want to fool,  with this fool in
+love with you. . .
+
+MIRANDA
+Maybe he’s learned his lesson.
+
+NICK
+     (singing)
+But I’ve learned my lesson,  you taught me
+the hard way to fall. . .
+
+LUCY
+He hasn’t said anything so far to make me
+think he’s learned one damn thing.  I’m
+going to open up.
+
+She walks over to unlock the front door.
+
+NICK
+     (singing)
+Open up your heart to me,  darling,  this
+time I won’t let you down.
+
+LUCY
+Get off my stage, Nick.
+
+EXT.  LUCY’S CAFÉ - NIGHT
+
+Miranda’s just getting off work.  She comes outside and looks around for something.  
+She sees Kyle,  leaning against his truck.  Miranda stays where she is.  Kyle walks over 
+to her.
+
+KYLE
+I told Linda Lue I’d pick you up.   I
+thought we might celebrate.
+
+She looks at him doubtfully.
+
+KYLE  (CONT’D)
+Any idiot would have figured out the one drawback.
+Miranda smiles.
+
+EXT.  SIDEWALK - NIGHT
+
+Miranda and Kyle walk along the strip on night clubs and souvenir shops.  It’s a warm 
+night, and they pass musicians playing on the sidewalk for tips.  They pass an open 
+bottle of champagne back and forth,  drinking straight out of the bottle.
+
+KYLE
+It’s lucky for both of us that my song was
+so good,  or we’d be in jail right now.
+
+MIRANDA
+It’s lucky for you that I sang on that
+demo.
+
+KYLE
+Hey,   I can sing pretty good,  I’ll have you
+know.
+
+MIRANDA
+You’ll have to show me that sometime.
+
+Kyle walks over to one of the street musicians and borrows his guitar.  He leans against 
+a wall and begins to play; Miranda and the musician watch him.  He starts to sing;  it’s 
+the love song he did at the auditions,  the one Miranda sang to him in the parking lot.  
+Kyle does it a lot better than when he auditioned; he looks right a Miranda and sings the 
+words to her.  He finishes, showing no signs of embarrassment,  and hands the guitar 
+back to the musician.
+
+KYLE
+Thanks,  buddy.
+
+He and Miranda walk away.
+
+MIRANDA
+Not bad.
+
+She hands him the champagne bottle.
+
+KYLE
+Not bad?   Not bad!
+
+MIRANDA
+You’re Johnny Cash.   You’re Vince Gill.
+You’re George Strait.
+
+He puts his arm around her,  and she leans her head against his shoulder.
+
+KYLE
+You know what’s funny?
+
+Miranda doesn’t answer.
+
+KYLE  (CONT’D)
+The first time I saw you,  I didn’t even
+realize how beautiful you were.
+
+She seems affected by this, but only for a moment.  She pulls away from him.
+
+MIRANDA
+Just once,  I’d like a sober man to call me
+beautiful.
+
+KYLE
+It’s not just that,  it’s you.     I didn’t
+even care that I got arrested,  really,
+because I was with you.  You know how I
+got better at that song?
+
+Miranda’s look says she doesn’t want to know.
+
+KYLE  (CONT’D)
+I thought about you.   About everything I
+wanted to tell you about how I feel.   And
+I was sober at the time,  I promise.
+
+Kyle moves toward her.  She moves away,  starts walking again, trying to lighten the 
+mood.
+
+MIRANDA
+So you realize there’s a song for
+everything that happens in life?
+Sometimes there are dozens for one moment
+in time,  like now.   Yours could be that
+REO Speedwagon song about wanting to be
+more than friends,  and mine could be “Baby
+don’t get hooked on me.”
+
+KYLE
+I’ve always hated that song.
+
+MIRANDA
+I got you arrested and I’ll always remind
+you of a song that you hate.   That should
+be two strike against me.
+
+KYLE
+Don’t count on it.
+
+INT.  AIRPORT TERMINAL - NIGHT
+
+James and Miranda come up to a gate, carrying their guitars.  James walks up to the 
+window and watches a plan taxi up to the gate.  Miranda plops down in a chair.
+
+MIRANDA
+I think you’re mistaken about how easy it
+is to amuse me.    It’s harder than this.
+
+James walks over and sits next to her.   He takes out his guitar.
+
+JAMES
+We’re not here to amuse you,  we’re her to
+get you some inspiration.   Look at him.
+
+He points at an old man carrying a small bunch of daisies.  The man stands looking 
+expectantly at the gate.  Miranda looks at him, unimpressed.
+
+JAMES  (CONT’D)
+Waiting for his wife.   The woman he
+married when she was barely seventeen.
+The woman he loves just as much today as
+the day he met her.
+
+MIRANDA
+You could write a song from that?
+
+JAMES
+No.   Not me.   I don’t write about
+everlasting love.
+
+MIRANDA
+Say he’s waiting for Gregor,  his thirty-
+year-old Dutch lover.  They met in Venice
+last Valentine’s day,   and have been apart
+since then.
+
+JAMES
+How  come?
+
+MIRANDA
+Howard over there had to have his wife
+killed,  and her collection of exotic
+parrots converted into hatbands.
+
+JAMES
+Should be a touching reunion.   Not a
+country song,  though.  What about him?
+
+James points at a man,  about 35,  who looks anxiously out the window at the plane.
+
+MIRANDA
+He married his high school sweetheart,
+they have a lovely home and a wonderful
+marriage,  or so everyone think.   She’s
+returning from a Mary Kay convention.
+
+JAMES
+Or so she says.   That has possibilities.
+
+He plays a few chords and sings a line about the American Dream gone wrong.
+
+The door opens and passengers start coming into the gate area.  The old man searches 
+each face,  almost as if he’s frightened.  Suddenly his face lights up.  A short blue-eyed 
+woman comes to him,  her smile just like his.   He holds her tightly,  his fist clenching 
+the daisies behind her back.   Nearby,  a young couple kisses passionately.
+
+James looks at Miranda;  he told her so.   Miranda stars at the old couple,  who break 
+apart as if slightly embarrassed.   The man picks up the woman’s bags.  He’s forgotten 
+to give her the flowers.  The young couple continues to kiss.
+
+The man who was looking out the window is standing on the edge of the crowd of 
+passengers,  searching for someone.
+
+JAMES
+Watch him.
+
+Finally the man sees who he he’s looking for;  a five-year-old girl gets off the plane, 
+holding the stewardess’ hand.   The little girl sees him and breaks free of the stewardess.  
+She yells  “Daddy!”  and runs to her father, who kneels down and catches her, lifting her 
+in his arms.  She wraps her little legs around him and hugs his neck tightly; you couldn’t 
+find an inch of space between them.
+
+The father closes his eyes for a moment, smiling.
+
+James looks at Miranda,  who stares at the father and daughter.  She looks like she’s 
+about to cry.  She turns away,  embarrassed.
+
+MIRANDA
+Let’s go.
+
+She picks up her guitar and walks quickly away from the crowded gate,  down the 
+corridor.  James hurries to catch up with her.
+
+JAMES
+What’s the matter?
+
+MIRANDA
+Nothing.
+
+JAMES
+O.K.   You don’t have to tell me.
+
+Miranda steps at an empty waiting area and takes a seat.   James sits next to her.
+
+MIRANDA
+I hate that.   Someone goes away for two
+weeks and it’s like the end of the fucking
+world.
+
+JAMES
+What’s wrong with missing someone?
+
+MIRANDA
+If you know they’re coming back, you have
+no right to miss them.   It’s not like
+they’re dead.
+
+They sit there a little while,  James sensing that Miranda’s really upset about something.
+
+JAMES
+I remember when my grandfather died. I
+kept waiting for him to come to Sunday
+dinner.
+
+MIRANDA
+How old were you?
+
+JAMES
+Twenty.
+
+Miranda looks at him, a little surprised.   She hesitates, then opens her locket and shows 
+him inside.
+
+MIRANDA
+That’s my dad.
+
+One side has a black and white photo of her father,  a handsome man with a wide grin.   
+The other side has a black and white photo of Elvis pouting.   James tries a little joke.
+
+JAMES
+He looks just like Elvis.
+
+MIRANDA
+That is Elvis.   He gave me this when I was
+ten.  My  decitennial accolade,  he called
+it.   He raised me since I was five.   Just
+me and him.
+
+She looks at the pictures,  then snaps the locket shut drops it around her neck.
+
+MIRANDA  (CONT’D)
+Presley’s my middle name.   He had this
+kind of Elvis thing.   Nothing weird.
+
+JAMES
+When did he die?
+
+MIRANDA
+Three months ago.
+
+JAMES
+That’s not very long.   It’s only natural
+that you miss him.
+
+MIRANDA
+I don’t miss him.   He told me not to.
+
+Miranda’s quiet.   James just sits with her,  comfortable with the silence.
+
+JAMES
+You want to go?
+
+MIRANDA
+O.K.
+
+EXT.  MOTEL POOL - NIGHT
+
+James sits in a deck chair.  Miranda sits on the diving board, dangling her toes in the 
+water.   It’s a hot summer night; she wears a t-shirt and shorts.  She has her guitar, and 
+is singing “Bad Medicine”, which she’s transformed from pop/metal to country.  She 
+does the first verse,  then:
+
+MIRANDA
+When I get married,   I’m going to have them
+play  “Bad Medicine” as I walk down the
+aisle.   The Bon Jovi version.
+
+Miranda climbs off the diving board and sets her guitar in a chair.  She goes over to the 
+pool stops and starts to climb in fully dressed.
+
+James starts to play something; it’s the song he started writing earlier,  in the airport,  
+about living the American dream, but only on the surface.  He has a few really good 
+lines.  By the he’s done,  Miranda has gotten all the way into the pool,  except for her 
+head.  She’s been watching him intently the whole time he’s been singing.  James puts 
+down his guitar and sits at the edge of the pool.
+
+JAMES
+Why do you always stay up all night?
+
+MIRANDA
+Linda Lue snores.
+
+JAMES
+Are you afraid of the dark?
+
+MIRANDA
+If I was afraid on the dark,  I wouldn’t
+spend so much time in the dark,  would I?
+
+James pulls off his shirt and starts to climb into the pool.  Miranda ducks underwater 
+and comes back up.
+
+JAMES
+Nightmares?
+
+MIRANDA
+Not since I was eight.
+
+JAMES
+What’d you do then,  when you a
+nightmare?
+
+MIRANDA
+I would wake up my dad, he’d come get me,
+and he’d let me stay up all night.  We’d
+light candles and make cookies and play
+poker.   We used to crank call foreign
+countries.   I learned the twist at four in
+the morning.   Then when it got light out,
+I’d go to bed and miss half a day of 
+school.   My dad once wrote a not for me;
+“Miranda was unavoidably late to school
+today due to a slight pterodactyl crisis
+at home.  The problem has been remedied
+and it is unlikely that this will happen
+again.”
+
+They move around the shallow end of the pool,  not approaching each other.
+
+JAMES
+So you’ve been sleeping during the day
+since he died?
+
+MIRANDA
+At first,  I couldn’t sleep at all,  then
+the only time I could even remember what
+he looked like was in the middle of the
+night.   I sometimes think about what I’ll
+say when I see him again,  and if I’ll
+recognize him,  then I realize I won’t see
+him again at all.
+
+James moves over to Miranda and stands in front of her.
+
+MIRANDA  (CONT’D)
+I’ve been thinking about something. (He
+takes her hands.)
+
+MIRANDA  (CONT’D)
+I wonder if I’ll know you in a year.
+
+JAMES
+I don’t know.
+
+James moves toward her,  trying to seduce her.   It’s not clear if she’s going to respond.
+
+MIRANDA
+If we go out, and we break up,  I probably
+won’t.  I’ll be just another girl you used
+to go out with.  And someday there’ll be
+so many you won’t know which one I was.
+
+James backs away from her.
+
+JAMES
+You want me to say we’ll be together in a
+year?   Because I can’t say that.
+
+MIRANDA
+No.    That’s not what I want.
+
+A look of realization crosses his face.   He lets go of her hands.
+
+JAMES
+You don’t want to do this.
+
+MIRANDA
+I don’t think it’s a good idea.
+
+James gets out of the pool; he’s angry and he’s leaving.  He picks up his shirt and starts 
+to walk away,  then stops and turns to Miranda.
+
+JAMES
+I’m going to have to ask you to tell me
+why.
+
+MIRANDA
+I told you.
+
+JAMES
+I need the real reason.  Then we’ll be
+friends or whatever it is you want.
+
+Miranda sits on the top step on the pool.  She looks away from him an tells him the 
+truth.
+
+MIRANDA
+I’ve been trying to write a song.   Just
+one song,  to prove I can do it.  Not even
+a good song.  And you,  you see two
+strangers at an airport and you turn it
+into something so. . . incredible.   Your
+song was incredible.
+
+JAMES
+What,   you’re jealous?  I might not even
+finish that song.    I have a song I started
+three years ago that’s not done yet.
+
+MIRANDA
+I’m not jealous.   I’m overwhelmed.   I just
+can’t give you that,  see?
+
+JAMES
+I don’t care.
+
+MIRANDA
+I do.
+
+She stares at him.  He sees she’s set on this and gives up, walking away.  She sits in the 
+pool, holding her knees to her chest, watching him go.
+
+INT.  LUCY’S CAFÉ - NIGHT
+
+Later that night.  The performances are over, and only a few songwriters hang around,  
+making arrangements to get together and write.   Miranda puts the last chair up.  She 
+goes over to Lucy,  who’s counting receipts at one of the tables.
+
+LUCY
+You can leave if you want, honey.
+
+Miranda sits with her.
+
+MIRANDA
+Lucy,  do you think anyone can be a 
+songwriter
+
+
+LUCY
+I’ve seen some people who tried about as
+hard as a person can try and just never
+get it,  you know?   I don’t think you can
+learn it.   I can’t do it.
+
+Miranda looks discouraged.
+
+LUCY  (CONT’D)
+I didn’t mean to bring you down.
+
+              MIRANDA
+I always thought I wanted to be a singer,
+then I came hear and realized I like to
+sing,  but it doesn’t seem like enough.
+But songwriting’s so different; I just
+don’t know if it’s worth it to try.  It
+comes so easily to some people,  like
+James.
+
+LUCY
+You know what’s in this case?
+
+She points to the glass case on the wall behind her,  which contains tacked-up papers 
+with handwriting on them:  pages torn from notebooks,  cocktail napkins,  an air-
+sickness bag.   Miranda looks and shakes her head no.  Lucy stand up and examines the 
+writing.
+
+LUCY  (CONT’D)
+These are all songs,  by my songwriters.
+They’re not all hits, but they’re special
+songs.   “Like a miracle, some golden words
+roll off of someone’s tongue.”  Some of
+the took ten minutes, some if them took
+years.   Every one of these songwriters
+would tell you it’s worth it.   You write a
+song like one of these,  and you can’t ever
+give up again.  You know what it feels
+ like to be special,  and there’s nothing
+and no one that can give you that same
+kind of special.
+
+Lucy sits back down to get back to work.
+
+LUCY  (CONT’D)
+That’s why I worry about you,  being with
+James.
+
+MIRANDA
+James and I decided we’d just be friends.
+
+Lucy nods.
+
+LUCY
+It doesn’t matter how wonderful he is if
+he’s only going to break you heart.
+
+MIRANDA
+Yeah,  that’s what I decided.  I’ll see you
+tomorrow.
+
+LUCY
+Goodnight,  honey.
+
+Miranda leaves.   Nick’s standing nearby.   He watches her go.
+
+INT.  ROADHOUSE - NIGHT
+
+James is onstage,  singing.   There’s a band behind him.  Some people are dancing down 
+front; Linda Lue is among them.   Miranda enters and finds Kyle sitting down front.  
+She sits with him.  James sees her come in and smiles at her.
+
+MIRANDA
+How’s he doing?
+
+Kyle hesitates,  then answers sincerely,
+
+KYLE
+Great.
+
+Linda Lue returns,  flushed,  from the dance floor.
+
+LINDA LUE
+Hey,  good,  you made it.  Come and dance.
+This old stick-in-the-mud
+     (points to Kyle)
+hasn’t danced with me once.
+
+KYLE
+     (to Miranda)
+Who knew she was such a party girl?
+
+MIRANDA
+Do you know how to do that?
+
+She gestures toward the dance floor,  where they’re doing an elaborate country step.
+
+KYLE
+Sure.
+
+MIRANDA
+Come on and show me how.
+
+He hesitates only a moment before getting up and escorting Miranda and Linda Lue to 
+the dance floor.
+
+INT.  ROADHOUSE - NIGHT
+
+Miranda,  Kyle and Linda Lue are on the dance floor.   Linda Lue and Kyle are expertly 
+performing the steps.  Linda Lue smiles flirtatiously at the guy next to her; she seems to 
+be in her element.  Miranda stands in between them, trying to follow.  She smacks Linda 
+Lue on the arm to get her attention away from the cowboy.  Linda Lue does it slowly to 
+demonstrate, then smiles and nods when Miranda gets it right.
+
+We watch the dancing for awhile - a dance floor full of people performing intricate steps 
+in rapid, perfect unison, having the time of their lives.
+
+INT.  ROADHOUSE - NIGHT
+
+James finishes a song.  Miranda,  Kyle  and Linda Lue are still on the dance floor.  They 
+stand and applaud.
+
+JAMES
+O.K.  Thank you.  We’re going to do one
+more for you all tonight.   I’ve got a
+special guest singer on this number.
+
+He looks straight and Miranda and smiles.
+
+JAMES  (CONT’D)
+Her name’s Miranda Presley and I think
+you’re gonna like her.
+
+Miranda just stands there,  disbelieving.
+
+LINDA LUE
+Go on up,  Miranda.
+
+JAMES
+Miranda,  get on up here.
+
+Miranda shakes her head.  The other band members lean into their microphones and 
+chorus her name, taunting her.  She smiles and climbs onstage.  The band starts the 
+song.  James takes off his guitar; he takes her hand and speaks into her ear.
+
+JAMES
+You know this one.
+
+Miranda realized they’re playing “Hooked on a feeling”.  She laughs.  The bassist hands 
+her a microphone.  James starts to sing,  then Miranda comes in, grinning,  not nervous 
+at all once she starts to sing.  We haven’t heard the song quite like this before; the 
+sound couldn’t be more country.  They’re both having a good time.
+
+Couples start to dance.  Linda Lue watches, standing still among the dancers,  smiling 
+like a sentimental fool.
+
+Kyle stares at James and Miranda,  his expression serious, his broken heart on his 
+sleeve.
+
+The song ends and the audience applauds enthusiastically.  James hugs Miranda.
+
+EXT.  ROADHOUSE  PARKING LOT- NIGHT
+
+James, Miranda, Linda Lue, and Kyle come out into the parking lot.  James holds a 
+business card in his hands.
+
+JAMES
+     (to Kyle)
+Do you know this guy?  Doug Roberts?
+
+KYLE
+Yeah.   He’s a good manager,  been around
+for twenty years.  He has a good
+reputation.
+
+JAMES
+He wants to do some master demos with me.
+
+KYLE
+That’s great.   He can get you a record
+deal.   Congratulations.
+
+JAMES
+Thanks.
+
+MIRANDA
+Congratulations.
+
+JAMES
+Come here a minute.
+
+He takes Miranda’s hand and pulls her over to his truck.   He looks into her eyes.
+
+JAMES  (CONT’D)
+Do you have the feeling that no matter how
+conclusively we decide not to be attracted
+to each other,  forces beyond our control
+will pull us together?
+
+He moves slowly toward Miranda.
+
+MIRANDA
+You think the entire universe is
+controlled by magnets,  don’t you?
+
+JAMES
+Yes and no.
+
+He’s standing right next to her now,  and she’s not moving away.
+
+MIRANDA
+What was the question?
+
+He kisses her.    She doesn’t resist.
+
+INT.  JAMES’ BEDROOM - NIGHT
+
+A country love song plays on the stereo.  James leads Miranda by one hand into the 
+darkened bedroom.   Miranda chatters nervously.
+
+MIRANDA
+We’ve been thinking about moving out of
+the motel,  but we don’t have any
+furniture,  and the dog seems to like it,
+and they wrap the glasses in cellophane,
+even though Lou always washes them again
+before she lets me drink out of them.
+
+They’re standing at the foot of the bed.
+
+JAMES
+I need for you to shut up now.
+
+MIRANDA
+Why?
+
+JAMES
+I’m trying to picture you as Earlene
+Mandrell,  and you don’t sound a think like
+her.
+
+MIRANDA
+Well,  lucky for me,  you sound exactly like
+Jim Nabors.
+
+JAMES
+I really need for you to shut up now.
+
+He kisses her on the neck and unbuttons her shirt.  She responds, undoing his belt 
+buckle.  They fall onto the bed and continue to make love.
+
+INT.  JAMES’ BEDROOM - NIGHT
+
+Later that night.   James wakes up and looks around.  He notices Miranda is gone, then 
+hears music from another room.  He gets up.
+
+INT.  JAMES’ KITCHEN - NIGHT
+
+Miranda sits at the kitchen table,  quietly playing guitar,  wearing a loose denim shirt 
+that must be James’.  Her notebook is open in front of her and she writes something 
+down,  then looks up and sees James standing in the doorway.
+
+
+JAMES
+Maybe I’ll start staying up all night.
+The best things in my life happen after
+dark.
+He passes by her,  pulling back her shirt to kiss her shoulder,  and sits at the table.  She 
+keeps playing quietly.
+
+MIRANDA
+Lucy told me you’d break my heart.
+
+JAMES
+I guess you didn’t believe her.
+
+MIRANDA
+Maybe I just decided to risk it.
+
+JAMES
+How’s your song coming?
+
+MIRANDA
+I have one line.
+
+JAMES
+Every song starts with one line.
+
+MIRANDA
+I don’t know if it’s any good.  My dad
+always said I could do anything.  I keep
+thinking about this song he wrote for me.
+
+JAMES
+Do you remember it?
+She nods.
+
+JAMES  (CONT’D)
+Let me hear it.
+
+Miranda plays the song.  The lyrics are about a father’s unending devotion to his 
+daughter.  She stops after the first chorus.
+
+JAMES
+That’s a nice line, about falling out of
+the sky and landing in love.
+
+He’s hesitant,  like he’s searching for something nice to say.
+
+MIRANDA
+Is that the only thing you liked?
+
+JAMES
+It’s just. . . well,  devotion is a tricky
+theme.   Of course a parent’s devoted to
+his child.  You have to have a point of
+          (CONT’D
+
+JAMES  (CONT’D)
+view.   Like he wants a better life for you
+than he had for himself.   This song starts
+at the end of the story.
+
+MIRANDA
+Every song doesn’t have to be about
+something you can relate to.
+
+JAMES
+A good song has something to say,  even to
+people who haven’t been in that situation.
+
+MIRANDA
+     (hurt)
+So it’s not a good song,  because you don’t
+like it.
+
+JAMES
+I’m just telling you what I thought.   I’ve
+spent half my life writing songs,  I know
+something about it.   I thought you were
+trying to learn.
+
+She stands up.
+
+MIRANDA
+If you had thought about it,  you would
+have realized this wasn’t a good example.
+
+She picks up her notebook and walks out of the kitchen.   James looks like he’s 
+realizing his mistake.
+
+INT.  MOTEL ROOM - DAY
+
+Miranda has decorated her half of the room;  there are photos of Lyle Lovett and Jon 
+Bon Jovi over her bed.
+
+Miranda sits in her bed, the dog on her lap.  She looks terrible.  She rummages through 
+the drawer of her nightstand and pulls out a cassette.  She puts it in the player on top of 
+the nightstand and presses play.  We hear a man’s voice,  speaking.
+
+VOICE
+And I gave Fish-head four gallons of ice
+cream for dinner,  just like you said.  Of
+was that supposed to be one can of cat 
+food?  I couldn’t remember,  and Fish-head
+insists that she always has ice cream on 
+Thursday.  She also said to tell you she
+misses you, and she caught a giant spider
+that I thought looked a lot like that
+Billy Warren kid you think is so cute.  I 
+told her you’d be home soon.  Remember,  if
+you get homesick,  just keep your chin up. . .
+
+Miranda hits the fast-forward button.  When she hits play again, we hear her father 
+singing,  the same song she played for James. We hear the second verse this time.  
+Miranda is visibly upset.  She raises her chin;  apparently she takes that literally.  She 
+doesn’t cry.  She hits the stop button,  her chin still in the air.  She reaches for her 
+notebook and opens it.
+
+EXT.  RESIDENTIAL NEIGHBORHOOD - NIGHT
+
+Kyle’s pick-up pulls up outside a house.   He and Miranda get out.
+
+MIRANDA
+How many people will be here?
+
+KYLE
+Five or six.   Everyone just plays
+something they’re working on.   Don’t
+worry,  no one’s going to insult your song.
+They’ll only say what they like about it.
+
+MIRANDA
+What if they don’t say anything?
+
+KYLE
+There are so many things a person can do
+with her life.   That girl in “Flashdance”
+was a welder.
+
+MIRANDA
+Do you think they’ll notice if I play
+‘Livin’ on a Prayer”?
+
+INT.  NICK’S HOUSE - NIGHT
+
+Kyle and Miranda sit in Nick’s kitchen,  with Nick and three other
+musicians,  KEVIN,  ERICA, and JOE.  They’re sitting in a circle
+around the small kitchen table.  There’s a tape recorder on the table.  Everyone has a 
+beer and one or two of the guys smoke cigarettes.   Erica has the only guitar in the 
+room, and she sings a song,  substituting la’s for one of the lines.  Kevin sings a line she 
+might use there.  Erica sings it back,  changing a few words.
+
+CUT TO:
+
+Later that night.   Nick has the guitar now,  and he sings a song that’s 
+uncharacteristically sober for him.  It’s an apology to a woman he betrayed; he admits 
+that he had no excuse to hurt her.  The tape recorder is on, recording Nick’s 
+performance.  Miranda watches him intently.
+
+CUT TO:
+
+Everyone’s laughing.  It must be getting late,  because they’re getting a little giddy.  Joe 
+sings a song about how broke he is and they all join in the chorus
+
+CUT TO:
+
+Miranda takes the guitar from Kyle and begins to play her song.  She’s a little shy about 
+it but manages to perform pretty well.  Her song isn’t bad;  it has a nice melody,  but the  
+lyrics are not especially moving.  All she has is the first verse.
+
+MIRANDA
+I don’t like that last line.
+
+ERICA
+No.    Keep that one.   I like that line.
+
+MIRANDA
+I’m not sure what it means.
+
+NICK
+If you wrote it,  you’ll figure out what it
+means eventually.   That’s the best line in
+your song.
+
+Miranda isn’t sure if she agrees with them.
+
+INT.  LAUNDROMAT - NIGHT
+
+Linda Lue folds laundry while Miranda sits cross-legged on to of a table, playing her 
+guitar.
+
+INT.  LUCY’S CAFÉ - NIGHT
+
+After the bar has closed,  Miranda sits at the bar,  playing her song for Nick.
+
+INT.  MOTEL ROOM - MORNING
+
+Miranda sits cross-legged on her bed,  her notebook open on her lap.  Linda Lue’s bed 
+is neatly made.   Linda Lue emerges from the shower.
+
+LINDA LUE
+Oh good,  you got in.   Are you coming to 
+the audition today?
+
+MIRANDA
+I don’t know.   I don’t think my song is
+ready.
+
+LINDA LUE
+Has it changed any in the last two weeks?
+
+MIRANDA
+Yeah,  but I changed it back.
+
+Linda Lue looks at her.
+
+MIRANDA  (CONT’D)
+Fine.    I’ll go.
+
+Linda Lue smiles.  She sits in front of the mirror and proceeds to examine every inch of 
+her face, looking for wrinkles.
+
+MIRANDA  (CONT’D)
+What are you looking for?
+
+LINDA LUE
+Signs of aging.
+
+MIRANDA
+Find any?
+
+LINDA LUE
+Well,  I like Barry Manilow more than I
+used to.  You know what I don’t get?
+
+MIRANDA
+What?
+
+LINDA LUE
+You and James.   You have one little spat
+and you don’t call him and he doesn’t call
+you.
+
+MIRANDA
+I guess we both realized our mistake.
+
+LINDA LUE
+I thought you really liked him
+
+MIRANDA
+That was the mistake.
+
+Miranda gets under the covers.
+
+MIRANDA  (CONT’D)
+Wake me up for the audition.
+
+INT.  LUCY’S CAFÉ - DAY
+The weekly audition is in progress.   Miranda and Linda Lue share a table.   Nick sits at 
+the bar.  Lucy sits at her usual table in back.  Kyle is onstage,  doing a nice job with one 
+of the songs we’ve heard before.  He finishes triumphantly,  breathes a sigh of relief,  
+and walks back to the table.
+
+LUCY
+Miranda Presley.
+
+Miranda takes the stage.  She introduces herself quickly and sings the song she sang at 
+Nick’s house.  She’s left in the line that the other musicians liked.  It’s the most 
+evocative line in the song,  and it seems out of place with the rest of the lyrics.  Luc
+
+watches Miranda with a small smile on her face; she’s impressed that Miranda is taking 
+this seriously.
+
+We see now that James is standing just inside the door; he must have been there since 
+before Miranda started playing.
+
+LUCY
+Linda Lue Linden,  go on up and show us
+your stuff,  honey.
+
+Miranda passes Linda Lue on her way back.  They exchange smiles.  Linda Lue takes 
+the stage.
+
+LINDA LUE
+Hi there.   I’m Linda Lue,  from Alabama.
+This song is called  “I went looking for
+Jesus.”
+
+Linda Lue begins to sing;  her song is about misprinted Bibles, and,  true to her style,  
+it’s unrelentingly cute.    Miranda glances at Lucy to get her reaction,  but is unable to 
+read her expression.
+
+James walks over and sits next to Miranda.   She’s surprised to see him.  Kyle isn’t 
+happy to see him.  They speak in low voices.
+
+JAMES
+I like you song.
+
+MIRANDA
+     (cold)
+Thanks.
+
+JAMES
+I’ve missed you.
+
+Kyle doesn’t have any choice but to leave.   He makes a fist and presses it firmly against 
+the table as he gets up.
+
+MIRANDA
+Since my phone still ain’t ringin’, I
+assume it still ain’t you.
+
+JAMES
+I’m sorry I didn’t call.  I couldn’t call
+you,  I don’t now.   That night, after we
+made love. . .
+
+Miranda’s eyes widen;  she looks around as if someone might have heard.
+
+JAMES  (CONT’D)
+
+Well,  we did.   And then I was a jerk.   I
+should have just kept my mouth shut.   I’m
+sorry.   I should have told you then. . .
+
+MIRANDA
+Look,  it wasn’t that big a deal.   You’ve
+apologized.  Let’s forget it,  O.K.?
+
+She glanced over at Lucy,  who glares at her to be quiet while Linda Lue is singing.
+
+JAMES
+It wasn’t just my fault,  you know.
+
+Miranda looks at him questioningly.
+
+JAMES  (CONT’D)
+You said you were willing to risk it,  but
+you weren’t.
+
+Miranda shakes her head no,  agreeing with him.
+
+MIRANDA
+I’m sorry.
+
+She means she’s still not willing.
+
+JAMES  (CONT’D)
+I should have told you that night. . .
+
+Lucy appears behind them and shushes him.   They look at her guiltily.  She leaves.  
+James reaches for Miranda’s hand.  She’s reluctant to give it to him,  but he gives her a 
+pleading look and gently takes her hand, placing it palm up in his left hand.  With his 
+right,  he spells something onto her hand with his finger.  When she realized what the 
+message is,  she turns and watches him finish spelling.  He looks into her eyes.  She 
+closes her hand into a fist,  turns away, and pulls it under her other arm,  hugging 
+herself.  She watches Linda Lue finishing up her song.   James,  recognizing the impact 
+his message had, reaches across Miranda to take her hand again.  She lets him take it in 
+his.  James smiles.
+
+INT.  LUCY’S CAFÉ - DAY
+
+Lucy announces the results of the audition.  She calls out Kyle’s name; he passed this 
+time.  Linda Lue lets out a whoop and hugs him.  Miranda smiles too.
+
+Lucy get to the end of the list.  Linda Lue wasn’t on it; neither was Miranda.  Linda Lue 
+looks disappointed.  Miranda takes the news well.
+
+JAMES
+You should have passed.
+
+Miranda shakes her head.
+
+MIRANDA
+I knew it wasn’t ready.   I can do it
+better.
+
+INT.  LUCY’S CAFÉ - NIGHT
+
+Later that day,  after the auditions are over,  Miranda has shown up for work and is 
+tying on an apron around her waist.   Lucy comes in.   Miranda smiles at her,  showing 
+her she’s not angry about the audition.
+
+LUCY
+Hey,  I thought you did real good today.
+
+MIRANDA
+You’re supposed to pass the ones you like.
+
+LUCY
+You know why I bought my own place?
+
+MIRANDA
+So you could play God.
+
+LUCY
+That’s exactly right, honey.   I think you
+got a real good start,  but I wouldn’t be
+doing you any favors if I let you play
+this soon.
+
+MIRANDA
+Oh,   I brought you something.
+
+Miranda holds out a cassette .   Lucy takes it.
+
+LUCY
+What’s this?
+
+MIRANDA
+If I tell you to just trust me and listen
+to this,  will you?
+
+Lucy shakes her head.
+
+MIRANDA  (CONT’D)
+It’s Nick,  a song of his.   I think you
+should hear it.
+     (smiles)
+It’s all about you.   And it won’t get any
+laughs.
+
+Lucy sets the tape on the counter.  Miranda won’t take it back;
+she walks away.  Lucy looks at the tape.
+
+EXT.  PLAYGROUND - DAY
+
+Miranda and Linda Lue are taking the dog for a walk.   Miranda holds a flyer 
+advertising the Miss Nashville pageant.
+
+LINDA LUE
+And there’s prizes,  and scholarships,  and
+the winner goes to the Miss Tennessee
+pageant.
+
+They come up to a playground.
+
+MIRANDA
+I hope you won’t be insulted if I tell you
+I already think of you as Miss Nashville.
+What about your illustrious songwriting
+career?
+
+They come up to the slide.   Miranda picks up the dog and carries him to the top of the 
+slide.
+
+LINDA LUE
+You have no way of knowing this,  since you
+are asleep during most of my waking hours,
+but I have been having serious doubts
+about my future as a songwriter,  which has
+been my one goal since I was eleven years
+old and saw “Coal Miner’s Daughter” for
+the first time.
+
+Miranda places the dog at the top of the slide and hold him steady,  facing towards the 
+drop.  The dog starts to wiggle eagerly and she lets him go.  He slides to the bottom, 
+where Linda Lue catches him and carries him around to do it again.
+
+LINDA LUE  (CONT’D)
+But lately I’ve been thinking about
+something my late grandmother Tilly use
+to say.   She would say,  ‘Look at your
+breakfast.  You’ve got your bacon,  and
+your eggs.   Now, the hen was involved in
+your breakfast,  but that hog was 
+committed.”
+
+Linda Lue releases the dog down the slide to Miranda.   They continue to take turns 
+putting the dog down the slide.
+
+LINDA LUE  (CONT’D)
+Lately I’ve been feeling more like that
+hen.   If I thought I could really do it,
+that might be another story.
+
+MIRANDA
+The pageant’s next week?  Do you have time
+to get ready?  Don’t people train for
+months for these things?
+
+LINDA LUE
+Miranda,  I believe it is within my ability
+to learn to walk in high heel,  discuss  (CONT’D)
+
+LINDA LUE  (CONT’D)
+the role of the woman in today’s society,
+and tease my hair in one week.
+
+MIRANDA
+If you could have one wish for today’s
+children,  what would it be?
+
+LINDA LUE
+World peace.   No,  clean air.
+
+MIRANDA
+You wouldn’t want them to be sick,  or go
+hungry,  would you?
+
+LINDA LUE
+What do I care?  I hate kids.
+
+MIRANDA
+You’re beautiful and queen-like,  Lou.
+You’re a beauty queen.   You’ve got this
+locked up.
+
+INT.  RECORDING STUDIO - DAY
+
+James is in the recording studio with a band of session musicians.  DOUG ROBERTS,  
+the manager who gave James his card at the Roadhouse,  sits in the booth with the 
+engineer.  The musicians are all in their thirties and forties; most of them look like 
+somebody’s father.  They’re doing one of the songs we’ve heard James do before, but 
+this version seems to lack energy.  James is clearly dissatisfied with the way things are 
+going,  but is trying to be patient.   He stops singing in the middle of the song and cuts 
+the band.
+
+JAMES
+We need to bring up the snares.
+
+DOUG
+     (over microphone)
+They sound fine in here.
+
+JAMES
+This tempo’s all wrong.
+
+DOUG
+Don’t worry.   It sounds great.
+
+JAMES
+I’m not deaf.   I can tell how it sounds.
+
+From the way he says this,  we know he hates the way it sounds.
+
+DOUG
+We’ll just get it down once this way,  o.k.
+James?
+
+JAMES
+No.   That’s not the way I wrote it.
+
+James looks determined.  Doug leaves the booth and comes into the studio to talk some 
+sense into James.  The musicians watch, uninterested.  They’ve seen this before.
+
+DOUG
+James,  I know you feel strongly about your
+song.  You should,  it’s your baby.   But
+I’ve been doing this since you were a 
+baby.   I know what a hit sounds like.
+
+Doug’s matter is soothing,   condescending.
+
+JAMES
+I know what shit sounds like.
+
+DOUG
+It doesn’t sound like shit.   It sounds
+like what every country radio station is
+looking for.   I have to think in terms of
+radio play.
+
+JAMES
+I record this the way I wrote it,  or I
+don’t record it at all.
+
+The musicians start to take notice;  the fight is finally heating up.
+
+DOUG
+I’m already taking a big risk with you. . .
+
+JAMES
+Don’t do me any favors.
+
+He starts to gather up his stuff.
+
+DOUG
+Go  ahead.   Walk out.   No one else will
+touch you.   Everyone knows about you.
+
+James stands face to face with Doug.
+
+JAMES
+What does everyone know about me?
+
+DOUG
+You’ve got a hell of an attitude for a
+pretty boy with a couple of good songs.
+
+This is just part of Doug’s act,  the way he keeps singers in line, but James’ anger 
+flashes.   Before Doug can see it coming,  James punches him in the eye.
+
+The musicians look at each other,  entertained.   James walks out.
+
+INT.  MOTEL ROOM - DAY
+
+Miranda,  wearing her t-shirt and boxer shorts with a glittery pair of high heels, paces 
+the floor with a Bible balanced on her head.
+
+MIRANDA
+I pledge allegiance,  to the flag,  of the
+United States. . .
+
+Linda Lue calls to her from the bathroom.
+
+LINDA LUE  (O.S.)
+I think it’s highly unlikely I’ll be
+reciting the pledge of allegiance.
+
+Linda Lue sticks her head out the bathroom door,  pulling rollers out of her hair.
+
+LINDA LUE
+Much less with a Bible on my head.
+
+Miranda puts her arms straight out at her sides and the Bible falls off her head.
+
+MIRANDA
+I would think this is exactly the kind of
+thing you’d be doing.  I still think you
+should learn that tap dance to “Dixie.”
+Come on out.
+
+Linda Lue throws open the bathroom door and strikes a pose in the doorway,  one arm 
+raised,  head thrown back.  She wears a low-cut sequined gown and heavy make-up and 
+has her curled hair piled on top of her head.  Miranda gasps.
+
+MIRANDA  (CONT’D)
+Oh,   you look beautiful.
+
+Linda Lue drops the pose and looks down at herself.
+
+LINDA LUE
+You think so?    Is it enough?
+
+MIRANDA
+Yes.   It’s enough.
+
+LINDA LUE
+It’s  not  too  much?
+
+MIRANDA
+No.   You look perfect.   Except. . . let me
+try one thing.
+
+She reaches up and loosens a few strands of Linda Lue’s hair so they fall around her 
+face.   Miranda steps back and appraises her work.
+
+MIRANDA  (CONT’D)
+Better.    Wait.
+
+Miranda reaches to the dressing table and gets a Q-tip.   She runs the Q-tip under Linda 
+Lue’s eye,  removing some of the eyeliner,  then does the same for the other eye.
+
+MIRANDA  (CONT’D)
+What did you do,  follow some kind of
+eyeliner diagram in the beauty queen
+handbook?
+
+LINDA LUE
+I’ll be on stage,  I want them to see my
+eyes.
+
+MIRANDA
+They will see your eyes.   On the other
+girls,  all they’ll see is eyeliner.
+
+They turn to face the mirror and look at themselves,  standing side by side.  Linda Lue 
+gets a little emotional.
+
+LINDA LUE
+You’re my best friend,  you know.
+
+Miranda’s emotional too,  but embarrassed.   She turns away from the mirror.
+
+MIRANDA
+Yeah, well that’s cause you’re such a sap,  Lou.
+
+Linda Lue smiles.
+
+INT.  LUCY’S CAFÉ - NIGHT
+
+It’s closing time.   Lucy’s behind the bar,  Nick is there at his usual seat.  He gets up to 
+leave.
+
+NICK
+Goodnight,  Lucy.
+
+LUCY
+Goodnight.
+
+NICK
+I don’t suppose you want to go out with me
+tomorrow night.
+
+LUCY
+Tomorrow night?
+
+Nick nods.  If he’s surprised,  it doesn’t show.
+
+LUCY  (CONT’D)
+What time?
+
+NICK
+Eight o’clock.
+
+LUCY
+Eight o’clock.   That’ll be fine.
+
+NICK
+Goodnight,  then.
+
+As he turns to leave,  we see a small smile on his face.
+
+EXT.  ERNEST TUBB RECORD SHOP - NIGHT
+
+A record store with a small outdoor stage behind it, where free “jamborees” are held at 
+night.  There’s an all-night miniature golf course next door, and Miranda and Linda 
+Lue’s motel is just across the parking lot.  It’s a warm night, and people are playing 
+golf, sitting in the adjacent picnic area or on top of their cars in the parking lot, listening 
+to the music.  This is a traditional country music affair;  the band is also made up of 
+older musicians, all men,  and includes a banjo an fiddle.
+
+Miranda and Linda Lue sit on top of a picnic table.  James walks up to them
+
+JAMES
+Hey.    I got your note.
+
+He holds up a note which reads  “James,  JAMBOREE!”  with an arrow.
+
+MIRANDA
+I never miss a jamboree.
+
+LINDA LUE
+Hey,  James.   How’s your career coming?
+
+JAMES
+I punched an influential member of the
+record industry in the face.
+
+They don’t react to the news.
+
+MIRANDA
+We know.
+
+JAMES
+Again.    Today.
+
+MIRANDA
+Oh.    What happened?
+
+JAMES
+I’ll tell you on the way.
+
+MIRANDA
+On the way where?
+
+JAMES
+It’s a surprise.
+
+James takes her hands to help her down off the table.   Miranda says goodbye to Linda 
+Lue.
+
+MIRANDA
+This had better be better than the
+jamboree.
+
+JAMES
+It is.
+
+EXT.  HIGHWAY - NIGHT
+
+James and Miranda in James’ truck, driving.
+
+MIRANDA
+So when do I find out the surprise?
+
+JAMES
+There are clues everywhere.   We’re in a
+truck,  on the highway. . . 
+
+MIRANDA
+You’re talking me somewhere.
+
+James points to a road sign.
+
+JAMES
+Clue.
+
+MIRANDA
+     (reading)
+Memphis.   What’s in Memphis?
+
+James moves his lip in an Elvis sneer.   Miranda screams.
+
+MIRANDA  (CONT’D)
+Graceland?   Graceland!   Way cool.
+
+JAMES
+You do not know what it is to worship
+Elvis until you’ve seen his personal shit.
+
+MIRANDA
+They should put that on a plaque and hand
+it on the gate.
+     (singing)
+“Graceland,  Graceland,  Memphis Tennessee.
+We’re going to Graceland. . .”
+
+INT.  SUPERMARKET - NIGHT
+
+James and Miranda are at the check-out stand,  buying chee-tos and suzy-q’s and Dr. 
+Pepper.
+
+MIRANDA
+Only six hours to kill.
+
+JAMES
+We’ll drive by the gate.  I thought you
+would want to see it at night.
+
+They walk out of the supermarket.  James stops by the gumball machines.  He puts a 
+quarter in one of the machines and turns the dial.   He looks at the prize,  puts it in his 
+jacket pocket, and tries another quarter.  This time he takes the prize out of the plastic 
+bubble.  He goes to Miranda and takes the grocery store back from her.   He sets the 
+bag on the ground and kneels in front of Miranda.
+
+James takes her left hand and shows her the prize - it’s a gold colored ring with a blue 
+plastic star.
+
+Miranda looks around,  embarrassed.  The checkers,  two middle-aged women  (one 
+white,  one black),  are both watching with smiles on their faces.
+
+MIRANDA
+They think you’re proposing.
+
+James doesn’t reply.  He tries to put the ring on her ring finger, but it doesn’t fit.  He 
+puts it on her pinky.
+
+MIRANDA  (CONT’D)
+Get up.
+
+James looks over at the checkers.
+
+JAMES
+Say  yes  first.
+
+MIRANDA
+Yes  to  what?
+
+JAMES
+Say  yes,  or  I’ll  look  like a  loser.
+
+MIRANDA
+You are kind of a loser.
+
+JAMES
+     (loudly)
+Say yes.   I can’t live without you.
+
+One of the checkers says,  ‘how romantic.”  They ignore a customer trying to buy a six-
+pack.
+
+MIRANDA
+     (loudly,  angrily)
+Yes.   I said yes.   Is that what you want?
+Are you happy now?
+
+James acts overjoyed; he smiles gleefully and hugs Miranda.
+
+JAMES
+Happy?   I’m the happiest man on earth!
+
+He looks at her and smiles stupidly until she finally has to drop the act and laugh.  They 
+grab the groceries and run out of the store,  leaving the checkers bewildered.
+
+EXT.  GRACELAND - NIGHT
+
+James’ truck is parked across the street.  James and Miranda sit in the back,  eating 
+chee-tos,  looking at the gate.
+
+JAMES
+His aunt still lives there.
+
+MIRANDA
+I bet she used the TV room at night.
+
+JAMES
+I would.
+
+James looks pensively at the house.
+
+JAMES  (CONT’D)
+You know what this reminds me of?
+
+He looks at Miranda;  she has no idea.
+
+JAMES  (CONT’D)
+When I was a kid,  my dad used to take me
+out every weekend.  Told my mom we were
+having a boys’ night out,  going bowling or
+to the movies,  or the rodeo,  if there was
+one.  Then we’d go to his girlfriend’s 
+house;  for a long time he was seeing my
+fifth-grade health teacher.
+
+Miranda studies him,  looking for signs of sadness at the memory and finding none.
+
+JAMES  (CONT’D)
+And I’d sit in the car,  we had a blue
+Pontiac,  and he’d leave me the keys,  and
+I’d listen to the radio.
+     (laughs)
+One night,  I taught myself how to drive in
+that car,  waiting for my dad.  The antenna
+had this bend in it. . .
+     (motions with his hand)
+. . . and no matter what I did I couldn’t get
+one damn FM station in that car.  So I’d
+sit there and listen to the country music
+station and stare at the house.  I never
+could take my eyes off the house.
+
+He takes Miranda’s hand,  his eyes still on Graceland.
+
+JAMES  (CONT’D)
+Just like all those damn cheating songs.
+And all my life,  people would tell me,
+“James,  you’re just like your father.”
+And I never said it but I thought,  no I’m
+not.   I never lie.  I don’t pretend to be a
+great guy.  The high point of my father’s
+life was a football game in high school.
+No way was I going to be just like him.
+But now I wonder if I can help I it.
+
+Miranda looks confused.
+
+JAMES  (CONT’D)
+Sometimes I feel like I’m going to spend
+the rest of my life with everyone thinking
+I’m someone I’m not.
+
+MIRANDA
+It’s hard to think about what you’re going
+to do for the rest of your life.  You have
+to pick one thing.   What if it doesn’t
+work out?
+James nods.
+
+JAMES
+You look stupid.    You’re a failure.
+
+Miranda takes his chin in her hand and turns his face toward her.
+She kisses him.
+
+MIRANDA
+I don’t think you could ever be a failure.
+
+She climbs out of the truck bed.  She reaches inside the truck and turns on the radio,  
+tuning it to a slow song  (e.g. “Asking us to dance”).   She climbs back up into the back 
+and stands next to James,  holding her hand out to him.  He slowly gets up,  his eye
+
+locked with hers,  and takes her hand.
+
+They start to dance underneath the stars,  holding each other close.  James pulls her 
+closer,  tight against him,  until they aren’t dancing anymore.
+
+JAMES
+     (softly)
+I’m scared.
+
+MIRANDA
+So am I.
+
+The song plays on as they hold on to each other.  Finally,  James pulls away until he 
+isn’t touching Miranda anymore.  He takes his hand and moves it along her arm,  from 
+the shoulder down to her wrist,  without touching her.
+
+JAMES
+Do  you  feel  that?
+ 
+MIRANDA
+Yeah.
+
+The skies have become cloudy.  There’s lightning in the distance.  Elvis comes on the 
+radio and it begins to sprinkle.
+
+INT.  SUPERMARKET - NIGHT
+
+It’s pouring now.  James and Miranda con in, drenched.  The same two checkers are 
+there.  Their names are SELMA and MARY.   Mary is black.
+
+SELMA
+Look, Mary,  if it ain’t the newlyweds.
+
+MARY
+You two get married already?
+
+JAMES
+No.   We couldn’t find an all-night wedding chapel.
+
+Miranda plays her role low-key,  convincingly bitchy.
+
+MIRANDA
+Well,  maybe if you had any sense at all,
+you might have planned this a little
+better and we wouldn’t have gotten lost in
+the rain.
+     (to the cashiers)
+He doesn’t have the sense he was born
+with.
+
+MARY
+     (to James)
+You sure you wanna marry this one?
+
+James smiles fondly at Miranda
+
+JAMES
+I know she’s a handful,   but I’d die if I
+lost her.
+
+MIRANDA
+That’s cause you’d forget to breathe if I
+didn’t remind you.
+
+MARY
+Well,   if you’re sure,  maybe I can help
+you.   Selma,  you can cover me for five
+minutes?
+
+SELMA
+Sure can.   You gonna wake Raymond?
+
+Mary gets her purse from under the counter and pulls on a coat and rain hat.
+
+MARY
+I’m going to wake that man and tell him
+there’s two young folks here and can’t wait
+till morning to get married.
+
+Mary hurries out of the supermarket.
+
+SELMA
+She’ll be right back,  she just lives down the street.
+
+MIRANDA
+Who’s Raymond?
+
+SELMA
+Raymond’s her husband.   He’s a minister. 
+This is so romantic.
+
+Miranda and James look at each other, amused,  mildly panicked.
+
+JAMES
+Cold feet,   honey?
+
+MIRANDA
+I left. . . something blue in the truck.
+Come with me.
+
+They leave the supermarket.
+
+INT.  JAMES’  TRUCK - NIGHT
+
+They sit inside the truck,  parked outside the supermarket.
+
+MIRANDA
+Let’s go.
+
+JAMES
+We can’t just go.   We have to at least
+tell them we changed our mind.
+
+MIRANDA
+     (laughs)
+We’ll have a big blow-out of a fight.
+I’ll pretend to shoot you in the leg.
+
+JAMES
+I’ve got another idea.
+
+She looks at him.
+
+JAMES  (CONT’D)
+Let’s get married.
+
+She seems to consider this,  then come to her senses.
+
+MIRANDA
+You don’t get married as a joke.
+
+JAMES
+It’s not a joke.   We’re in love.   What the
+hell,  let’s get married.
+
+MIRANDA
+You’re serious.
+
+JAMES
+We are in love,  aren’t we?
+
+MIRANDA
+Yeah.
+
+JAMES
+Then why haven’t you ever told me?
+
+MIRANDA
+You’re the one who had to write it on my
+hand.
+
+JAMES
+I love you.
+
+MIRANDA
+I can’t say it.
+JAMES
+Why not?
+
+MIRANDA
+I’d be afraid to tell you how much.
+
+James seems happy with this answer.   He notices something behind Miranda,  
+outside the window.   Mary is back with her husband.  He’s a huge black man 
+with a lumbering gait.  He wears a black raincoat and carries a black bible.  
+Their skinny teen-age son is with them.
+
+JAMES
+Jesus.
+
+MIRANDA
+Oh my god.
+
+Raymond comes up to the truck and puts his face against the passenger 
+window.  It’s a frightening sight.  Miranda covers her mouth.  James reached 
+over and turns Miranda’s face towards his.
+
+JAMES
+Marry me,  Miranda
+
+MIRANDA
+O.K.     Yes.
+
+She looks back at Raymond.
+
+MIRANDA
+I don’t see an alternative.
+
+INT.  SUPERMARKET - NIGHT
+
+The frozen foods section has been selected as the wedding site.  Mary and 
+Selma drape pastel toilet paper over the aisles.  Raymond stacks some crates to 
+use as a podium,  placing one behind for him to stand on.  Mary’s son leans 
+against the freezer,  flipping through a Playboy.
+
+James is in the toiletries section,  putting gel in his hair.  Miranda comes up 
+next to him and takes a toothbrush and toothpaste.
+
+MIRANDA
+I have chee-tos stuck in my teeth.
+
+JAMES
+You know,  this is exactly how I pictured
+my wedding.
+
+MIRANDA
+Yeah,  mine too.   Except. . . oh,  shit.
+
+She quickly walks away,  then back to James.   She takes off her ring and puts 
+it in his hand.
+
+MIRANDA  (CONT’D)
+The ring.   See you at the altar.    Aisle
+twelve.
+
+Miranda hurries away.
+
+She goes to the frozen food section.   Raymond has discovered his son reading 
+Playboy.
+
+RAYMOND
+      (bellowing)
+Benjamin,  I have told you that pornography
+will guarantee you reservation in the
+depths of hell.
+
+He gives special enunciation to the word “pornography”.  Ben seems 
+unconcerned.   He puts down the magazine,  revealing the Metallica logo on 
+his t-shirt.  Raymond hands Miranda a piece of paper.
+
+RAYMOND  (CONT’D)
+Here’s your marriage license.   Can’t no
+one tell you for certain that’s not the
+genuine article.
+
+MIRANDA
+Thank you.
+
+She takes Ben’s arm and pulls him aside.
+
+MIRANDA
+Ben,  I need a favor.
+
+BEN
+     (wicked smile)
+You want a lesson from the master.   Before
+your honeymoon.
+
+She gives him a look.
+
+MIRANDA
+Do you have a Bon Jovi tape?
+
+BEN
+Bon Jovi’s for girls,  man.   I ain’t a
+girl.   My sister likes Bon Jovi.
+
+MIRANDA
+Does your sister have a Bon Jovi tape?
+
+BEN
+She’s got every Bon Jovi tape.
+
+Miranda smiles.
+
+INT.  SUPERMARKET - NIGHT
+
+It’s time for the ceremony.   Raymond stands behind his podium,  towering 
+over James.   Selma and Mary stand off to the side,  beaming.
+
+MARY
+Ben,  where are you?   Get out here and be a 
+witness.
+
+BEN  (O.S.)
+Coming
+
+There’s a click,  then music comes over the supermarket sound system.  It’s  
+“Bad Medicine.”  Ben escorts Miranda up the aisle until she is standing next to 
+James,  the runs back and cuts the music.
+
+Raymond being the ceremony.   He’s a fundamentalists preacher and,  
+apparently, even his wedding ceremony is delivered with the threat of fire and 
+brimstone.
+
+RAYMOND
+     (bellowing)
+Dearly beloved. . .
+
+TIME CUT TO:
+
+Later in the ceremony.  Sweat drips down Raymond’s face as he towers over 
+Miranda and James.
+
+RAYMOND
+Do you,  James,  take this woman to be your
+wife,  to love and treasure like gold,
+forsaking all others,  turning your back on
+earthly temptations,  or you will surely
+know the fires of hell in the inferno of
+eternal damnation.
+
+Raymond glares down at James,  pointing his finger.   James didn’t think it was 
+a question,  but it seems safer to answer.
+
+JAMES
+I do.
+
+James slips the ring on her finger.  Raymond draws a deep breath and pulls 
+back.
+
+RAYMOND
+And do you,  Miranda,  take James to be your
+husband. . . .
+
+Miranda seizes the opportunity to cut this short.
+
+MIRANDA
+I do.
+
+RAYMOND
+Then by the power vested in my by Almighty
+God,  his son,  our savior,  the baby Jesus,
+and the state of Tennessee,  I hereby 
+pronounce you man. . .
+
+He points at James.
+
+RAYMOND  (CONT’D)
+. . . and wife.
+
+His finger swings over to Miranda.  Raymond wipes the sweat off his forehead.
+
+RAYMOND  (CONT’D)
+You may kiss the bride.
+
+James and Miranda kiss.   Ben cranks up  “Bad Medicine”  and Mary and 
+Selma throw Minute Rice.
+
+INT.  SUPERMARKET - NIGHT
+
+James and Miranda dance.  Eric Clapton’s  “Pretty Girl”  plays over the sound 
+system.  Mary dances with Raymond,  and  Ben reluctantly dances with Selma.
+
+INT.  GRACELAND - DAY 
+
+It’s morning.   James and Miranda are inside Graceland.  The tour guide 
+describes the room in a loud,  rehearsed voice.  Miranda leans against James 
+and gazes dreamily at Elvis’ stuff.
+
+MIRANDA
+I had this dream that we got married.
+
+JAMES
+We did,  remember?
+
+MIRANDA
+No.  Me and Elvis.   I had my hair in a
+huge bee-hive.
+
+INT.  THEATER - NIGHT
+
+The theater where the beauty pageant is being held.  Linda  Lue is onstage,  
+doing a scene from “Coal Miner’s Daughter”.  Someone read the other parts 
+woodenly from off-stage.  Linda Lue is an extremely emotional actress and 
+several women in the audience wipe tears from their eyes at the end of her 
+performance.
+
+INT.  THEATER - NIGHT
+
+The pageant’s nearly over.   There are five girls on stage:  Linda Lue is one of 
+them.   Miranda and James slink into the darkened theater and take two empty 
+seats next to Kyle.
+
+KYLE
+     (whispering)
+Where were you two?
+
+MIRANDA
+We picked up a hitchhiker that turned out
+to be the ghost of Elvis.  Had to take him
+to Graceland.  She’s a finalist?
+
+KYLE
+She was the best one.   People were crying
+when she did her scene.
+
+MIRANDA
+So she’s going to win?
+
+KYLE
+I don’t know.   I think that redhead is
+married to at least one of the judges.
+
+On stage,  Linda Lue walks over to stand next to the host.
+
+HOST
+And now,  our last finalist,  Louise Linden.
+
+Miranda mouths the name “Louise”, amused.
+
+HOST  (CONT’D)
+You look lovely tonight,  Louise.
+
+LINDA LUE
+Well,  that’s the idea,  ain’t it?
+
+The host chuckles.
+
+HOST
+Yes,  it is.   Now,  Louise,  here’s your
+question:   Which do you consider more
+important,  family or career?
+
+LINDA LUE
+By family you mean the family I plan to
+have.
+
+HOST
+Yes.
+
+
+LINDA LUE
+Well in that case,  I would say neither.
+My friends are more important to me than
+my career,  whatever that may turn out to
+be,  and my career is more important to me
+than a husband and a bunch of screaming
+kids.
+
+The host clears his throat.
+
+HOST
+Thank you.    A very good answer.
+
+INT.  THEATER - NIGHT
+
+Later.    Linda Lue and the redhead are the only contestants left on stage.
+
+HOST
+And this year’s Miss Nashville is. . .   Tammy
+Sue Phelps!
+
+Tammy Sue squeals.   Linda Lue hugs her,  looking relieved.
+
+INT.  THEATER BACKSTAGE - NIGHT
+
+Linda Lue stands among a group of contestants,  holding a bouquet of roses.  
+Miranda come up to her and hugs her.
+
+MIRANDA
+Congratulations.  Personally,  I thought
+you should have won.
+
+LINDA LUE
+I can’t believe they gave me runner-up
+after I said that about screaming kids.
+
+Miranda laughs.
+
+MIRANDA
+You threw it?   Cool.    How come?
+
+LINDA LUE
+Did you see my talent?
+
+MIRANDA
+No.   James and I got married.   We got here
+late.
+
+LINDA LUE
+Married?
+
+MIRANDA
+     Sort of.   I’ll tell you all about it.
+          Tell me how your scene went.
+
+LINDA LUE
+I was really good.    I found something I
+can do,  Miranda.  I can’t spend a year
+cutting ribbons at supermarket openings.
+
+MIRDANA
+Well,   you’ll always be a beauty queen to
+me.
+
+EXT.  STREET - DAY
+
+Kyle is in his pick-up,  playing with the radio as he drives.   He switches from 
+station to station to station,   trying to keep an eye on the traffic.
+
+KYLE
+     (to himself)
+Love songs,  nothing but love songs . . .
+Whose idea was love,   anyway?
+
+He pauses on a station where the dee-jay is introducing a song,  his hand 
+poised over the dial.
+
+DEE-JAY  (V.O.)
+. . . . we’ve all been waiting for,  here’s the
+new one from Wynonna.
+
+The song starts;  it’s Wynonna Judd,  singing Kyle’s song.   Kyle realizes what 
+it is,  lets out a whoop and turns up the radio.  In his excitement,  he also puts 
+his foot on the gas and runs right into another truck.   Even after the accident,  
+he’s still grinning and listening to the radio.   He opens his door but stays in his 
+truck.  The driver he hit gets out,  more surprised by the accident than angry.  
+He approaches Kyle, looking at him curiously.   Kyle beams at him.  He points 
+at the radio.
+
+KYLE
+That’s my song.
+
+The driver doesn’t say anything.  He leans against Kyle’s truck so he can hear 
+the song, and listens appreciatively.  Then he calls out to the people who are 
+gathering around because of the accident.
+
+DRIVER
+That’s his song.  He’s got a song on the
+radio!
+
+The on-lookers move in closer sot hey can hear the radio.
+
+INT.  JAMES’ BEDROOM - DAY
+
+Kyle’s song continues over:
+
+James and Miranda in bed.  Miranda’s wide awake, staring at the ceiling.  
+James is still asleep.  He stretches,  waking up.
+
+Miranda turns and closes her eyes,  pretending to be asleep.  James looks a 
+little surprised to find Miranda in his bed;  we see the memory of the wedding 
+coming back to him.   Now it’s his turn to stare at the ceiling.   He reaches 
+over and takes Miranda’s hand; the situation is serious but at least they’re in it 
+together.   She doesn’t look at him.
+
+INT.  JAMES’ BATHROOM - DAY
+
+James is alone in the bathroom.   He opens the medicine cabinet and has to 
+search for his shaving cream.  He looks down and sees two tubes of toothpaste 
+resting on opposite sides of the sink.  He closes the medicine cabinet and starts 
+at the sight of his own reflection,  as if he’s looking at himself for the first time.
+
+INT.  JAMES’ KITCHEN - DAY
+
+Miranda looks in the refrigerator,  which is nearly empty.  She lifts the lid on a 
+pizza box,  takes out a slice and takes a bite.  She sits down at the kitchen table 
+and looks out at the quiet street.  Her eyes move down to her hands.  She 
+holds them in front of her and examines them,  like  someone else’s hands.  She 
+touches the ring James gave her, which looks cheap in the bright morning light.  
+She twists it off her finger and holds it in her fist, drawing her knees up to her 
+chest.
+
+EXT.  MUSIC ROW - DAY
+
+James pulls his truck up outside one of the houses,  the office for Doug 
+Roberts’ management company.   He stays inside the truck,  looking at the 
+building.
+
+INT  JAMES’ KITCHEN - DAY
+
+Miranda sits at the table,  her notebook open in front of her,  a blank page.  
+She slides the ring back and forth on her pen.
+
+INT.  DOUG ROBERTS’ OFFICE - DAY
+
+Doug sits behind his desk.  He has a black eye.  James stands in front of him, 
+pleading his case.
+
+INT.  LUCY’S CAFÉ - NIGHT
+
+The music ends.  Miranda shows up for work.  Lucy looks surprised to see her.
+
+LUCY
+You’re early.
+
+Miranda looks at her watch.
+
+MIRANDA
+I am?
+
+LUCY
+Forty-five minutes.  You feeling all
+right?  You look exhausted.
+Miranda sits down at the bar.
+
+MIRANDA
+     (matter-of-fact)
+We got married.
+
+LUCY
+You and James?   Congratulations!
+
+Miranda looks at Lucy like she things she might be joking.
+
+MIRANDA
+I thought you might disapprove.
+
+LUCY
+Well,  honey,  I got me a whole new attitude
+on the subject of love.
+
+She holds out her left hand.   There’s a diamond ring on her
+finger.   Miranda smiles.
+
+MIRANDA
+This can’t be from Nick.   You can’t even
+tolerate Nick.   You’re never going to
+forgive him for as long as you live.
+
+LUCY
+I changed my mind.
+
+MIRANDA
+I tried to tell you about that song.
+
+LUCY
+I don’t know why he didn’t just come out
+and tell me how he really felt.
+
+MIRANDA
+Maybe the same reason you didn’t tell him.
+
+LUCY
+We’re having an engagement party Friday.
+We’d like you to sing.
+
+MIRANDA
+O.K.
+
+LUCY
+Original material only.
+
+MIRANDA
+Oh.     I don’t have anything good enough
+
+LUCY
+Well,   you’ve got two days.   You’ll come up
+with something.
+
+MIRANDA
+When did you turn into such an optimist?
+
+LUCY
+I have to admit,  I’m starting to believe
+in happy endings.   Looks at you and James  -
+I never did figure that boy to be the type
+to commit.
+
+MIRANDA
+It kind of happened when he wasn’t
+looking.
+
+LUCY
+I don’t think he does anything without
+looking first.  If he said  “I do” , then he
+does.
+
+Miranda smiles,  reassured.
+
+INT.  LUCY’S CAFÉ - NIGHT
+
+Later that night,  Miranda brings some customers their drinks and heads back 
+to the bar.  On her way,  she runs into James.
+
+MIRANDA
+Hey.     I know you.
+
+JAMES
+Can you take a break?
+
+MIRANDA
+Not right now.
+
+JAMES
+You want to know what I did today?
+
+MIRANDA
+What did you do today?
+
+JAMES
+I went to see Doug.   I told him he’d be
+all kinds of sorry if he let me get away.
+That kind of line works like you wouldn’t
+believe.
+Miranda smiles.
+
+MIRANDA
+I might.
+
+JAMES
+I leave for Austin day after tomorrow.   I
+start recording next week.
+
+The smile leaves Miranda’s face.
+
+MIRANDA
+Austin?   You’re aware you’re already in
+the country music recording capital of the
+world.
+
+JAMES
+I get to use my musicians this time.   This
+is everything I wanted.   I thought you’d
+be happy for me.
+
+MIRANDA
+How long will you be gone?
+
+JAMES
+I don’t know.   A month or two.
+
+MIRANDA
+You’re just taking off?   Day after
+tomorrow.   And you aren’t going to ask me
+if I want to come.
+
+James is surprised that she’s upset.    He looks around to see if anyone is 
+looking at them.   No one is.
+
+JAMES
+
+What are you going to do,  quit your job so
+you can hang around and watch me record
+all day?   I thought you’d want to stay
+here.
+
+MIRANDA
+     (loudly)
+The fact that we’re married doesn’t mean
+that you get to decide what I want.
+
+Now a few people turn to look.
+
+JAMES
+What does it mean?
+
+She’s getting progressively louder,  and so is James.   Lucy notices that they’re 
+fighting.
+
+JAMES
+I’m not even sure we are married,  so if
+you want out,  just let me know.  I can
+tear up the certificate.
+
+MIRANDA
+Don’t pull this on me.   You’re the one
+who’s leaving.   Maybe you’ve gotten what
+you wanted out of this.   You proved to
+yourself that you could commit to 
+something.   Well,   a commitment lasts more
+than two days.
+
+They notice everyone staring at them and lower their voices.
+
+JAMES
+You think you’ve got me all figured out.
+
+MIRANDA
+Maybe you can only commit to one thing at
+a time.   I guess we know what your one
+thing is.
+
+JAMES
+You’re the one who can’t see past two
+months from now.   I don’t think you can
+see this marriage in a week from now.
+
+MIRANDA
+I just don’t think there’ll be anything to see.
+     (hurt)
+You asked me to marry you.
+
+She twists the ring off her finger and holds it in her fist,  looking like she might 
+throw it.   Instead she drops her fist, turns around, and walks away.   James 
+watches her for only a second before he turns and leaves.
+
+INT.  MOTEL ROOM - DAY
+
+Miranda sleeps in her old bed.   In the other half of the room, Linda Lue is 
+packing to leave.  The dog climbs in her suitcase and she pulls him out and sets 
+him on the bed.   It looks like she’s almost done.   Her side of the room now 
+looks like a typical tacky motel room;  no floral bedspread,  no picture of 
+Loretta Lynn.  Miranda opens her eyes.
+
+LINDA LUE
+Hey,  you.   I thought you were going to
+sleep through my departure.
+
+MIRANDA
+And miss the opportunity to see another
+piece of my life crumble away?
+
+Linda Lue looks concerned.
+
+LINDA LUE
+Do you want to tell me what happened with
+you and James?
+
+Mirada sits up.
+
+MIRANDA
+I think the marriage just woke him up.   We
+realized he didn’t want to be with me for
+the rest of his life.   The wedding thing
+was a big mistake.
+
+LINDA LUE
+(meaningful)
+And you didn’t have any second thoughts of
+your own.
+
+MIRANDA
+He’s the one who left me.
+
+Linda Lue sits next to her on the bed.
+
+LINDA LUE
+Can I tell you a story?
+
+MIRANDA
+How many people die in this story?
+
+LINDA LUE
+Just one.   When my Aunt Lydia  was
+eighteen,  she was engaged to marry Henry
+Esterbrook.   However,  the week before the
+wedding,  Henry eloped with Marianna Fine.
+Aunt Lydia was so devastated she thought
+she’d rather be dead than be without
+Henry,  so she decided to hang herself.
+
+MIRANDA
+Has it occurred to you that this story is
+completely inappropriate for this
+situation?
+
+LINDA LUE
+There’s more.   Lydia went to the hardware
+store to buy a length of good strong rope,
+she couldn’t have weighed less than two
+hundred pounds,  and the man that sold her
+that rope turned out to be her destiny.
+She married him that summer.   My Uncle
+Ernie.
+
+MIRANDA
+Which one of them dies?
+
+LINDA LUE
+My Uncle Ernie was bitten by a poison
+centipede later that same year.   He died
+instantly.   But that is beside the point
+and you know it.  There is someone out
+there for everyone,  and even if your head
+doesn’t know it,  your heart does.
+
+MIRANDA
+So her heart led her to the hardware
+store.
+
+LINDA LUE
+Just like yours took to Memphis.
+Remember the night I met you?   I read your
+palm?
+
+MIRANDA
+Yeah.   But you didn’t read my heart line.
+
+Linda Lue gives her a knowing look.
+
+LINDA LUE
+Sometimes people want to be surprised.
+
+Linda Lue reaches for Miranda’s hand.  Miranda lets her take it.  Linda Lue 
+examines it; we get the idea she may inventing the reading.
+
+LINDA LUE  (CONT’D)
+See,  it’s the same as before.   You are not
+one to settle for the easiest thing - I
+think that’s true.  A challenging
+relationship. . .  that can be very romantic;
+to me that seemed like you and James,  both
+of you so pig-headed.
+
+MIRANDA
+This  isn’t  helping.
+
+LINDA LUE
+The important thing to know is to follow
+your heart.   Don’t go against what it’s
+telling you,  and don’t bury anything that
+ain’t dead.
+
+Miranda pulls her hand back.
+
+MIRANDA
+Who’s going to die now?
+
+Linda Lue smiles.
+
+LINDA LUE
+No one that you don’t kill with your own
+two hands.   You know,  maybe next week
+would be a better time for me to leave.
+
+MIRANDA
+No,  honestly,   I couldn’t stand you or Mr.
+Buster Dog another day.   Go to Hollywood
+and tell them who the hell you are.
+
+Linda Lue hugs her,  then gets up and closes her suitcase.
+
+INT.  MOTEL ROOM - DAY
+
+Linda Lue and the dog are gone.   Miranda sits cross-legged on her bed,  her 
+notebook open in front of her.   We hear Pam Tillis passionately singing  
+“Maybe it was Memphis.”
+
+Miranda picks up a piece of paper that looks like her marriage certificate.  She 
+folds it in half and cuts it into a heart shape.  She unfolds it,  and cuts the heart 
+into pieces with a jagged break.   She positions them on a page of her 
+notebook.
+
+There’s a knock at the door.   Miranda opens it to find Kyle standing there.
+
+EXT.  RED’S BAR - NIGHT
+
+Kyle leads Miranda out of the bar;  she’s a little tipsy.  They pass a man in a       
+cowboy hat standing on the sidewalk,  singing for tips.   Miranda sings along 
+with him.
+
+KYLE
+I don’t know how productive this was . . .
+
+MIRANDA
+Well,  I’m having a pretty good time.
+Let’s go somewhere else.  Wanna go to
+Graceland?
+
+Kyle’s just trying to get her into the car without incident.
+
+KYLE
+Let’s get you home.
+
+MIRANDA
+I don’t get it.
+
+KYLE
+What.
+
+MIRANDA
+This whole thing.   What’s the matter with
+me?
+
+KYLE
+Nothing.     You are perfect.
+
+MIRANDA
+No.      There’s something wrong with me.
+Nobody wants me.   Nobody cares about me.
+
+She’s really getting upset.   Kyle wraps his arms around her,  holding her like a 
+child.
+
+KYLE
+     (soothing)
+I care.    I want you.
+
+She shakes her head no.   He strokes her hair back off her face.
+
+KYLE  (CONT’D)
+I care.     I care about you.
+
+Miranda still doesn’t look like she’s herself.
+
+MIRANDA
+Do you love me?
+
+Kyle loosens his hold on her;  he has to protect himself now.
+
+KYLE
+Miranda,   don’t ask me that right now.
+
+MIRANDA
+     (persistent)
+Are you in love with me?
+
+Kyle pulls away from her altogether.
+
+KYLE
+Yes.
+
+She pulls him to her slowly and kisses him,  passionately.   He kisses her back,  
+then breaks away gently and looks at her,  quietly angry.
+
+KYLE  (CONT’D)
+I don’t know what you’re doing,  but stop
+it now.    I won’t let you use me.
+
+She feels terrible;  she was using him.
+
+MIRANDA
+I’m sorry.    Really.
+
+KYLE
+Damn it,  Miranda,  what do you want me to
+do?
+
+MIRANDA
+I don’t know.   I want you to stay in love
+with me always, and I want you to get over
+me and be my friend forever.
+
+KYLE
+Do you think I have some kind of choice?
+
+Miranda gives him a questioning look;   she really doesn’t understand how he 
+feels.
+
+KYLE  (CONT’D)
+Sometimes you hear a song on the radio,
+and it’s just the song you wanted to hear
+right then.   It’s like a gift.   Then it’s 
+over,  and you’re just glad you heard it.
+You don’t want them to play it again right
+away.   You’ll hear that song again,  or
+another one that’s just the perfect song
+when you hear it.
+
+MIRANDA
+And I’m like that song,  the first one.
+
+KLYE
+No,  you are nothing like that first one.
+You’re like if there was only one song in
+the world I could hear for the rest of my
+life,  what song would that be.    You’re
+that song.
+
+MIRANDA
+Maybe the needle’s just stuck.
+
+KYLE
+You’re the song that stays in my head all
+day,  and I don’t even mind it.  You’re my
+favorite song.
+
+MIRANDA
+For awhile,  my favorite song was  “Shadow
+Dancin’”.  It’s not anymore.
+
+KYLE
+     (angry)
+You know what the problem with you is?
+You make it so hard for someone to care
+about you that once they do,  there’s no
+turning back.  It’s hot or cold,  there’s
+no lukewarm.
+
+Kyle realizes something, sadly.
+KYLE  (CONT’D)
+          That’s why James’ll come back
+
+Miranda won’t allow herself to hope for this.
+
+MIRANDA
+No he won’t.  It’s o.k.    This kind of
+thing happens to me all the time.
+
+KYLE
+Miranda.    What are you going to do when he
+comes back?
+
+Miranda sits down on the curb.   Kyle sits next to her.
+
+MIRANDA
+I’m not going to be here.    I’m going back
+home.
+
+This is the last thing Kyle wants to hear.
+
+KYLE
+This is your home.
+
+MIRANDA
+Do you know how hard it was to leave New
+York?   I had wanted to do it for years and
+then my father died,  and I just did it,
+left everything behind.   I think I thought
+I could pay him back,  for giving up his
+dream.  Now I know he would’ve given it up
+sooner or later anyway.   When you think
+you have a dream,  all it does is give you
+hope that you can have something good,
+then you find out you can never have that.
+Maybe it wasn’t even there to be had.
+
+KYLE
+Don’t think that.   You can’t live your
+life thinking that.
+
+MIRANDA
+Kyle,  all the signs are pointing in the
+same direction.   Away from Nashville.
+Away from country music.   At some point,  I
+have to pay attentions.   I have to start
+again.
+
+KYLE
+You could do that here.   You didn’t come
+here because of your father.   You came
+here to write songs.
+
+MIRANDA
+Saying you’re going to do something and 
+actually doing it are two different things.
+
+KYLE
+You have them inside you.   What if you go 
+to New York and you never get them out?
+
+MIRANDA
+Don’t make me feel any worse.   This is all
+I have left.
+
+Kyle shakes his head,  disagreeing.
+
+KYLE
+You still have everything that matters.
+
+She doesn’t answer.   They sit side by side,  watching traffic pass by.
+
+EXT.  JAMES’ HOUSE - DAY
+
+It’s early in the morning.   James comes out to his truck,  throws a bag in it,  
+and gets in.
+
+INT.  GREYHOUND STATION - DAY
+
+Miranda,  carrying her guitar and suitcase,  buys a bus ticket.
+
+EXT.  HIGHWAY - DAY
+
+We see the Greyhound  travelling down the highway.
+
+INT.  GREYHOUND BUS - DAY
+
+Miranda sits by a window,  staring out.  She reaches into her backpack,  pulls 
+out her walkman,  and puts on the headphones.
+
+EXT.  HIGHWAY - DAY
+A different highway.  We see James in his truck,  heading out of Nashville in a 
+different direction.
+
+INT.  GREYHOUND BUS - DAY
+
+Miranda fumbles through her backpack until she finds what she was looking 
+for;  a Bon Jovi cassette.   She takes the tape out of its case and pops it in her 
+walkman.  She presses play.  We hear what she hears,  but it’s not Bon Jovi.   
+It’s country music - her father singing one of his songs.  Miranda is startled.  
+She quickly hit stop,  taking out the tape to look at it.  Verifying what it is,  she 
+puts it back in her walkman and hits play.
+
+INT.  JAMES’ TRUCK - DAY
+
+James is driving,   absently singing  “Bad  Medicine” to himself.
+
+INT.  GREYHOUD BUS - DAY
+
+Miranda stares out the window,  the tape still going in her walkman.  We hear 
+what’s on the tape - now it’s a letter from her father.
+
+VOICE ON TAPE
+. . . . that one was your favorite when you
+were two,  you probably don’t remember.
+And that concludes the musical portion of
+our program.  I hope they’re teaching you
+how to skin rattlesnakes at that camp,
+I’ve been setting snake traps all over the
+yard.  I used Ding-Dongs for bait.   I
+expect to have about thirty-seven by the
+time you come home.   So don’t worry about
+me,  I’m doing fine without you.   I’ll miss
+you now,  and you can miss me when you get
+home.  That way I’ll be there.  Chin up.
+
+That’s the end of the tape.   Miranda listens to the silence.   She raises her chin,  
+then lowers it and gives into her tears.
+
+INT.  JAMES’ TRUCK - DAY
+James has picked up a hitchhiker, and old man who listens passively while 
+James rambles on.
+
+JAMES
+. . . thinks she knows everything about me.
+Probably thinks I decided to leave because
+of her,  like the world revolves around
+her . . .  she thought she had me with that
+marriage thing . . . I might have
+better things to do with the rest of my
+life . . .
+
+He trails off.
+
+HITCHHIKER
+Like what?
+
+James looks at the old man,  startled.
+
+EST.  TRUCK STOP - DAY
+
+The Greyhound is stopped at the truck stop.  Miranda gets off.  She puts on 
+her sunglasses and looks around.
+
+EXT.  HIGHWAY - DAY
+
+James pulls over and lets the hitchhiker out at a gas station.  The old man 
+waves as the truck pulls back onto the highway.  James drives in the same 
+direction as before for about ten seconds,  then pulls a U-turn and heads back 
+toward Nashville.
+
+INT.  TRUCK STOP COFFEE SHOP - DAY
+
+Miranda sits in a booth in the coffee shop,  looking out the window as her bus 
+pulls away.
+
+INT.  JAMES’ BEDROOM - DAY
+
+James goes through a dresser,  opening and closing drawers.  They’re all 
+empty.  He goes into the kitchen and finds a house key on the table. 
+
+INT. COFFEE SHOP - DAY
+
+Miranda has fallen asleep on the table.  The waitress comes by and touches her 
+arm.   Miranda raises her head and squints at her.
+
+WAITRESS
+You’ve been asleep for an hour.   I’ve been 
+watching your stuff,  but my shift’s  over
+now.
+
+MIRANDA
+Thanks.
+
+The waitress fills her coffee  cup.   Miranda looks down at the table.   Her 
+notebook is open;  the page is filled with words.   She looks at them,  as if for 
+the first time.   She doesn’t seem sure if she likes what she sees.
+
+INT.  LUCY’S CAFÉ - NIGHT
+
+James comes into the café and finds Lucy and Nick’s engagement party in 
+progress.  A singer onstage dedicates a song to the happy couple,  who sit at a 
+table near the back.   James looks around for Miranda and,  not seeing her,  
+goes over to Lucy and Nick.
+
+JAMES
+Is Miranda here?
+
+LUCY
+No, honey,  I’m sorry.
+
+Lucy doesn’t want to have to tell him
+
+LUCY
+She told me she was going back to New
+York.
+
+This is a blow,  but James still has hope.
+
+JAMES
+     (urgent)
+When?
+
+LUCY
+She left this morning.
+
+James deflates,  his hope gone.
+
+LUCY  (CONT’D)
+Honey,  why don’t  you  sit down.  I’ll get
+you some champagne.
+
+James shakes his head.
+
+JAMES
+Beer.
+
+Lucy nods and gets up.   James sits down next to Nick.
+
+JAMES  (CONT’D)
+Congratulations.
+
+NICK
+Thank you.
+
+JAMES
+You want some advice from an old married
+man?   Don’t leave her.
+
+NICK
+The important thing is you came back for
+her.   No matter what happens,  you did the
+right thing.
+
+James finds this little consolation.
+
+INT.  LUCY’S CAFÉ - NIGHT
+
+Later that night.   Kyle is onstage,  performing a love song for Lucy and Nick.  
+James has moved to the bar;  he faces away from the stage.
+
+Miranda walks in,  carrying her guitar.  She finds Lucy and goes to her.  Lucy 
+is happy to see her.  They have a brief conversation, which we don’t hear 
+because Kyle is singing.  We now that Lucy tells her James is here,  because 
+Miranda looks over to where he sits.  She looks apprehensive,  then takes a 
+deep breath and regains her resolve.
+
+Kyle finishes his song.   Lucy comes onstage and speaks into the microphone.
+
+LUCY
+Kyle Davidson.   Thank you,  Kyle.
+
+Everyone applauds as Kyle climbs off the stage.  He sees Miranda waiting to 
+go on and grins,  surprised and glad that she’s back.  He hugs her,  and we see 
+from the look on his face that he knows he’s really lost her now.
+
+The applause dies down.
+
+LUCY
+Now,  this next performer is kind of 
+special to me, and I’m real glad she could
+make it here tonight.   Here she is,
+Miranda Presley.
+
+James turns around.  Miranda sits on the stool and positions the stand so that 
+she can read the pages she tore from her notebook.  She looks nervous,  but 
+determined.  She doesn’t look at James.
+
+Miranda begins to play.  She begins to sing the lyrics, looking down and 
+reading them.  The song she’s written is beautiful, and expresses a personal 
+journey.  She’s realized that she has to accept her painful emotions before she 
+can experience joy.  The song hardly resembles the one she auditioned with 
+earlier,  but the one line she said she didn’t understand is still there,  and fits 
+perfectly in the new version of the song.
+
+The audience recognizes the beauty of this song.  Most just enjoy it,  but we 
+see pride on the faces of Nick,  Lucy,  and Kyle.  James looks like someone 
+who’d fallen in love all over again.  Miranda realizes that everyone is listening 
+to what she has to say,  and she loves it.  She looks at James, letting him know 
+the man she loves in the song is him.  She finishes the song,  and there’s a 
+pause before everyone applauds.  James’ seat is now empty.  She smiles 
+triumphantly and gets off the stage.  She’s looking for James but she doesn’t 
+see him.  People are congratulating her,  but she’s starting to worry.  Suddenly, 
+someone takes her hand.  She looks next to her and sees James.
+
+MIRANDA
+     (relieved)
+I thought you had left.
+
+JAMES
+I did,  but I came back.   I thought you had
+left.
+
+MIRANDA
+I did,  but I came back.
+
+She notices something in her hand.
+
+MIRANDA  (CONT’D)
+What’s this?
+
+She looks;  it’s a thin silver wedding ring.
+
+JAMES
+I figured out the best thing to do with
+the rest of my life.
+
+She holds the ring out to him.   Confused,  he takes it back.  She presents him 
+her left hand,  and he slips it on her finger.   They kiss.   When they break 
+apart,  James notices something behind Miranda.   He puts his hands on her 
+shoulders and turns her around to look.
+
+Lucy opens up the case where she keeps original copies of special songs,  and 
+pins Miranda’s song up next to them.   Miranda watches,  smiling.
+
+THE END
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

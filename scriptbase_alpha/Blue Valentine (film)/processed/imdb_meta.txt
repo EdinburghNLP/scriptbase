@@ -1,0 +1,356 @@
+year	2010
+imdb score	7.4
+meta score	81
+genre	Drama
+genre	Romance
+keyword	marriage
+keyword	class
+keyword	nurse
+keyword	dysfunctional family
+keyword	love
+keyword	falling in love
+keyword	receptionist
+keyword	sex standing up
+keyword	sex in taxi
+keyword	nipples visible through clothing
+keyword	hypodermic needle
+keyword	girl
+keyword	laughter
+keyword	fireworks
+keyword	flashback
+keyword	domestic violence
+keyword	promise
+keyword	suitcase
+keyword	throwing away wedding ring
+keyword	reading aloud
+keyword	hugging
+keyword	voice over narration
+keyword	undressing someone
+keyword	male nudity
+keyword	drink
+keyword	climbing through a window
+keyword	pretending to be a tiger
+keyword	tears
+keyword	suv
+keyword	bare butt
+keyword	voice over reading
+keyword	wedding
+keyword	janitor
+keyword	wedding ceremony
+keyword	nipples
+keyword	punched in the face
+keyword	experimental film
+keyword	reading
+keyword	filling station
+keyword	yelling for a dog
+keyword	dog
+keyword	premed student
+keyword	taxi
+keyword	joke telling
+keyword	children
+keyword	cigarette smoking
+keyword	college student
+keyword	death of pet
+keyword	pretending to fight
+keyword	dancing
+keyword	grandmother granddaughter relationship
+keyword	toy unicorn
+keyword	black american
+keyword	motel sex
+keyword	injection
+keyword	liquor store
+keyword	old man
+keyword	death of a dog
+keyword	female nudity
+keyword	weekend getaway
+keyword	book
+keyword	gynecological exam
+keyword	tattoo
+keyword	sex on couch
+keyword	looking for a job
+keyword	wedding day
+keyword	two word title
+keyword	food
+keyword	coitus
+keyword	u.s. president
+keyword	fence
+keyword	packing
+keyword	threatening to jump off a bridge
+keyword	fence gate
+keyword	beating
+keyword	vandalism
+keyword	restaurant
+keyword	kiss
+keyword	argument
+keyword	sitting on a toilet
+keyword	brooklyn bridge
+keyword	crying
+keyword	florida
+keyword	shared shower
+keyword	unplanned pregnancy
+keyword	pregnancy test
+keyword	panties pulled down
+keyword	moving van
+keyword	revolving bed
+keyword	air powered handheld keyboard
+keyword	hollywood california
+keyword	wanting a divorce
+keyword	running backwards
+keyword	female removes her clothes
+keyword	unpacking
+keyword	cleavage
+keyword	depression
+keyword	gift certificate
+keyword	ex boyfriend ex girlfriend relationship
+keyword	sex scene
+keyword	multiple lovers
+keyword	violence
+keyword	pennsylvania
+keyword	rainbow
+keyword	eating
+keyword	bathroom
+keyword	house painter
+keyword	tearing off someone's panties
+keyword	cunnilingus
+keyword	nudity
+keyword	grandmother
+keyword	kissing
+keyword	prayer
+keyword	driving
+keyword	car
+keyword	breast suckling
+keyword	ukulele
+keyword	raisin
+keyword	assisted living facility
+keyword	breakfast
+keyword	subway
+keyword	moving company
+keyword	flowers
+keyword	meat loaf
+keyword	applause
+keyword	abortion
+keyword	alcohol
+keyword	walker
+keyword	train
+keyword	song
+keyword	military uniform
+keyword	bickering
+keyword	our song
+keyword	nude girl
+keyword	judge
+keyword	lost dog
+keyword	mirror
+keyword	woman in a wheelchair
+keyword	man in a wheelchair
+keyword	promiscuous woman
+keyword	pregnancy
+keyword	mover
+keyword	wedding ring
+keyword	color in title
+keyword	business card
+keyword	williamsburg brooklyn new york city
+keyword	scantily clad female
+keyword	girl in panties
+keyword	shower
+keyword	job interview
+keyword	shopping cart
+keyword	reference to jon bon jovi
+keyword	man with glasses
+keyword	punched in the gut
+keyword	promiscuous past
+keyword	wrestler
+keyword	tap dancing
+keyword	employment office
+keyword	father daughter relationship
+keyword	unhappily married woman
+keyword	rear entry sex
+keyword	reflection in a glass window
+keyword	saying grace
+keyword	brushing teeth
+keyword	death
+keyword	musician
+keyword	photograph
+keyword	answering machine
+keyword	warehouse
+keyword	face wound
+keyword	yankee doodle dandy
+keyword	ultrasound
+keyword	wedding shop
+keyword	expectant mother
+keyword	dancer
+keyword	drunkenness
+keyword	bedroom
+keyword	douching
+keyword	urination
+keyword	marriage problems
+keyword	bare chested male
+keyword	bare breasts
+keyword	new york city
+keyword	hit on the chin
+keyword	breasts
+keyword	passed out
+keyword	motel
+keyword	family relationships
+keyword	wheelchair
+keyword	female in shower
+keyword	sex in shower
+keyword	missing dog
+keyword	reflection in a car window
+keyword	cd player
+keyword	taking off one's panties
+keyword	f word
+keyword	pretend flatulence
+keyword	dead dog
+keyword	first date
+keyword	reservation
+keyword	ice cream cone
+keyword	copy machine
+keyword	abortion clinic
+keyword	spoon
+keyword	riverdale bronx new york city
+keyword	store
+keyword	taxi driver
+keyword	mother daughter relationship
+keyword	panties hit the floor
+keyword	apology
+keyword	singing
+keyword	kicking
+keyword	character says i love you
+keyword	wrestling
+keyword	stealing money
+keyword	punching a fence
+keyword	brushing someone's hair
+keyword	fourth of july
+keyword	earphones
+keyword	telephone call
+keyword	husband wife relationship
+keyword	receding hairline
+keyword	singer
+keyword	listening to music
+keyword	oxygen tube inhaler
+keyword	locket
+keyword	grandfather
+keyword	co worker
+keyword	brooklyn new york city
+keyword	removing wedding ring
+keyword	leg spreading
+keyword	female removes her dress
+keyword	hopelessness
+keyword	backpack
+keyword	fight
+keyword	black panties
+keyword	school program
+keyword	doggystyle sex
+keyword	classroom
+keyword	pregnant bride
+keyword	female frontal nudity
+keyword	female rear nudity
+keyword	american flag
+keyword	women's clinic
+keyword	sleeping
+keyword	drinking
+keyword	heart shaped decoration
+keyword	gas station
+keyword	unhappy marriage
+keyword	nonlinear timeline
+keyword	blow dryer
+keyword	copulation
+keyword	little girl
+keyword	old people's home
+keyword	reference to richard grieco
+keyword	lust
+keyword	no panties
+keyword	hoodie
+keyword	death of a pet
+keyword	male rear nudity
+keyword	eating off a table top
+keyword	marital problem
+keyword	flash forward
+keyword	pretending to be a parapalegic
+keyword	divorce
+keyword	home movie
+keyword	orgasm
+keyword	punching a door frame
+keyword	topless female nudity
+keyword	love at first sight
+keyword	money
+keyword	dysfunctional marriage
+keyword	panties
+keyword	family dinner
+keyword	reference to prince charming
+keyword	nude
+keyword	note
+keyword	dog hit by a car
+keyword	nursing
+keyword	nursing home
+keyword	bridge
+keyword	sex on couch
+keyword	oatmeal
+keyword	montage
+keyword	african american
+keyword	stuffed toy dog
+keyword	looking at self in mirror
+keyword	burying a dead dog
+keyword	boyfriend girlfriend relationship
+keyword	running
+keyword	shoes
+keyword	cd
+keyword	bus
+keyword	face slap
+keyword	fondling
+keyword	grandfather granddaughter relationship
+keyword	motel room
+keyword	truck
+keyword	cafe
+keyword	punched in the stomach
+keyword	painting a wall
+keyword	two in a shower
+keyword	burial of pet
+keyword	doghouse
+keyword	oral sex
+keyword	climbing a fence
+keyword	pretending
+keyword	eyeglasses
+keyword	dressing a child
+keyword	old woman
+keyword	non high school graduate
+keyword	e mail
+keyword	controversy
+keyword	new york skyline
+keyword	anger
+keyword	doctor
+keyword	star appears nude
+keyword	sex on the floor
+cast	Ryan Gosling	Dean
+cast	Michelle Williams	Cindy
+cast	Faith Wladyka	Frankie
+cast	John Doman	Jerry
+cast	Mike Vogel	Bobby
+cast	Marshall Johnson	Marshall
+cast	Jen Jones	Gramma
+cast	Maryann Plunkett	Glenda
+cast	James Benatti	Jamie
+cast	Barbara Troy	Jo
+cast	Carey Westbrook	Charley
+cast	Ben Shenkman	Dr. Feinberg
+cast	Eileen Rosen	Mimi
+cast	Enid Graham	Professor
+cast	Ashley Gurnari	Checker
+cast	Jack Parshutich	Billy
+cast	Samii Ryan	Amanda
+cast	Mark Benginia	Concierge
+cast	Timothy Liveright	Doctor
+cast	Tamara Torres	Maria
+cast	Robert Russell	Justice of the Peace
+cast	Michelle Nagy	Music Teacher
+cast	Felicia Reid	Nurse
+cast	Melvin Jurdem	Old Man
+cast	Alan Malkin	Cab Driver
+cast	Derik Belanger	Tony
+cast	Isabella Frogoletto	Child #1
+cast	Madison Ledergerber	Child #2
+cast	Jaimie Jensen	Pregnant Woman
+cast	Joseph Basile	Warehouse Mover
+cast	Ian Bonner	Room Service Guy
+cast	Robert Eckard	Father
+cast	Michael J. Kraycik	Parent

@@ -1,0 +1,179 @@
+year	1991
+imdb score	7.0
+meta score	46
+genre	Comedy
+genre	Drama
+genre	Mystery
+genre	Sci-Fi
+genre	Thriller
+keyword	secret
+keyword	worker
+keyword	writer
+keyword	co worker
+keyword	anarchy
+keyword	execution
+keyword	beheading
+keyword	explosion
+keyword	reference to f.w. murnau
+keyword	laboratory
+keyword	archive
+keyword	family relationships
+keyword	double life
+keyword	tunnel
+keyword	mother son relationship
+keyword	police
+keyword	autopsy
+keyword	investigator
+keyword	manuscript
+keyword	surrealism
+keyword	tuberculosis
+keyword	bicycle
+keyword	typewriter
+keyword	twin
+keyword	friend
+keyword	insanity
+keyword	experiment
+keyword	dead body
+keyword	streetlight
+keyword	martyr
+keyword	kidnapping
+keyword	expressionism
+keyword	eating
+keyword	men's bathroom
+keyword	1910s
+keyword	cover up
+keyword	messenger
+keyword	food
+keyword	insurance clerk
+keyword	gun
+keyword	chase
+keyword	clerk
+keyword	accident
+keyword	chemical imbalance
+keyword	horse and wagon
+keyword	morgue
+keyword	body snatcher
+keyword	efficiency
+keyword	attic
+keyword	cemetery
+keyword	remington typewriter
+keyword	letter
+keyword	running
+keyword	policeman
+keyword	death
+keyword	disappearance
+keyword	castle
+keyword	revolution
+keyword	terrorist
+keyword	investigation
+keyword	time card
+keyword	stonecutter
+keyword	alternative reality
+keyword	file
+keyword	steampunk
+keyword	office
+keyword	blood
+keyword	photograph
+keyword	spy
+keyword	time clock
+keyword	marriage engagement
+keyword	satire
+keyword	bar
+keyword	bomb
+keyword	madman
+keyword	tomb
+keyword	medical records
+keyword	cobbled street
+keyword	corpse
+keyword	umbrella
+keyword	brother brother relationship
+keyword	resurrection
+keyword	prague czechoslovakia
+keyword	oppression
+keyword	suicide
+keyword	falling through a glass dome
+keyword	elevator
+keyword	paranoia
+keyword	revolutionary
+keyword	insect
+keyword	murder investigation
+keyword	friendship
+keyword	coughing
+keyword	horse
+keyword	graveyard
+keyword	black & white to color
+keyword	toilet
+keyword	briefcase
+keyword	champagne
+keyword	workers' accident insurance
+keyword	fired from the job
+keyword	underworld
+keyword	rolltop desk
+keyword	brain surgery
+keyword	murder
+keyword	medical experiment
+keyword	terrorism
+keyword	year 1919
+keyword	grave digger
+keyword	anarchist
+keyword	recording
+keyword	key
+keyword	bureaucracy
+keyword	absurdism
+keyword	voice over narration
+keyword	conspiracy
+keyword	author
+keyword	sculptor
+keyword	file cabinet
+keyword	rain
+keyword	father son relationship
+keyword	skin disease
+keyword	sneezing
+keyword	dark comedy
+keyword	suspense
+keyword	job promotion
+keyword	human experimentation
+keyword	independent film
+keyword	character name in title
+keyword	
+cast	Jeremy Irons	Kafka
+cast	Theresa Russell	Gabriela
+cast	Joel Grey	Burgel
+cast	Ian Holm	Doctor Murnau
+cast	Jeroen Krabbé	Bizzlebek
+cast	Armin Mueller-Stahl	Grubach
+cast	Alec Guinness	The Chief Clerk
+cast	Brian Glover	Castle Henchman
+cast	Keith Allen	Assistant Ludwig
+cast	Simon McBurney	Assistant Oscar
+cast	Robert Flemyng	The Keeper of the Files
+cast	Matyelok Gibbs	Concierge
+cast	Ion Caramitru	Solemn Anarchist
+cast	Hilde Van Mieghem	Female Anarchist
+cast	Jan Nemejovský	Mustachioed Anarchist
+cast	Toon Agterberg	Youthful Anarchist
+cast	Maria Miles	Anna
+cast	Vladimír Gut	Edward
+cast	Emil Wolk	Man Under Microscope
+cast	Josef Abrhám	Friend of Kafka
+cast	Guy Fithen	Friend of Kafka
+cast	Zuzana Halustokova	Friend of Kafka
+cast	Ondrej Havelka	Friend of Kafka
+cast	Lenka Korínková	Friend of Kafka
+cast	Petr Lepsa	Friend of Kafka
+cast	Leon Silver	Friend of Kafka
+cast	Debora Weston	Friend of Kafka
+cast	Jan Slovák	Man at Bar
+cast	David Shaw Parker	Interrogating Attendant
+cast	Jerome Flynn	Castle Attendant
+cast	Ewan Stewart	Castle Attendant
+cast	James McPhee	Castle Attendant
+cast	Lubos Rychvalsky	Kidnapped Vagrant
+cast	Pavel Myslik	Vagrant
+cast	Frantisek Stupka	Vagrant
+cast	Petr Jákl	Quarry Labourer
+cast	Karel Belohradský	Inspector's Assistant
+cast	Josef Sebek	Inspector's Assistant
+cast	Robert Krejcik	Evil Wagon Driver
+cast	Vitezslav Bouchner	Lens room cleaner
+cast	David Jensen	The Laughing Man

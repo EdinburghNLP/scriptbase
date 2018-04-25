@@ -1,0 +1,30 @@
+year	1965
+imdb score	7.5
+meta score	N/A
+genre	Drama
+keyword	brittany
+keyword	manor
+keyword	seaside
+keyword	teenager
+keyword	retired judge
+keyword	independent film
+keyword	based on novel
+keyword	
+cast	Melvyn Douglas	Frederick Larbaud
+cast	Patricia Gozzi	Agnes Larbaud
+cast	Dean Stockwell	Joseph
+cast	Gunnel Lindblom	Karen
+cast	Leslie Sands	First Gendarme
+cast	Murray Evans	Young Gendarme
+cast	Sylvia Kay	Genevieve
+cast	Peter Sallis	Armand
+cast	Christopher Sandford	Albert - Young man at wedding
+cast	Ellen Pollock	Landlady
+cast	Rene Aranda	Wedding guest
+cast	Jean-Claude Bercq	The mechanic in Karen's room
+cast	Albert Daumergue	Barman on the boat
+cast	Marius Gaidon	Wedding guest
+cast	Pierre Gualdi	Café's owner
+cast	Gaston Meunier	Wedding guest
+cast	Georgette Peyron	Wedding guest
+cast	Robert Secq	Wedding guest

@@ -1,0 +1,144 @@
+year	2011
+imdb score	7.2
+meta score	72
+genre	Drama
+genre	War
+keyword	horse
+keyword	cavalry
+keyword	british
+keyword	england
+keyword	france
+keyword	german
+keyword	thoroughbred
+keyword	no man's land
+keyword	barbed wire
+keyword	animal in title
+keyword	blind
+keyword	butcher
+keyword	14 year old
+keyword	lieutenant
+keyword	alcoholic
+keyword	windmill
+keyword	battle of the somme
+keyword	plowing
+keyword	french
+keyword	landlord
+keyword	army doctor
+keyword	bandage
+keyword	father son relationship
+keyword	exhaustion
+keyword	sergeant
+keyword	wire cutter
+keyword	cavalry charge
+keyword	whistle
+keyword	colt
+keyword	turnip
+keyword	bandage over eyes
+keyword	auction
+keyword	artillery
+keyword	army sergeant
+keyword	birthday
+keyword	trapped
+keyword	medical corps
+keyword	mother son relationship
+keyword	explosion
+keyword	human animal relationship
+keyword	grandfather
+keyword	physician
+keyword	no opening credits
+keyword	two word title
+keyword	white flag
+keyword	grandfather granddaughter relationship
+keyword	german soldier
+keyword	world war one
+keyword	black horse
+keyword	husband wife relationship
+keyword	veterinary surgeon
+keyword	firing squad
+keyword	trench
+keyword	british soldier
+keyword	training
+keyword	riding a horse
+keyword	blindness
+keyword	gas bomb
+keyword	year 1918
+keyword	devon england
+keyword	gas attack
+keyword	flag
+keyword	tossing coin
+keyword	rainstorm
+keyword	army lieutenant
+keyword	execution
+keyword	bid
+keyword	army major
+keyword	based on play
+keyword	based on novel
+keyword	title spoken by character
+keyword	
+cast	Jeremy Irvine	Albert Narracott
+cast	Peter Mullan	Ted Narracott
+cast	Emily Watson	Rose Narracott
+cast	Niels Arestrup	Grandfather
+cast	David Thewlis	Lyons
+cast	Tom Hiddleston	Capt. Nicholls
+cast	Benedict Cumberbatch	Maj. Jamie Stewart
+cast	Celine Buckens	Emilie
+cast	Toby Kebbell	Geordie Soldier
+cast	Patrick Kennedy	Lt. Charlie Waverly
+cast	Leonard Carow	Michael
+cast	David Kross	Gunther
+cast	Matt Milne	Andrew Easton
+cast	Robert Emms	David Lyons
+cast	Eddie Marsan	Sgt. Fry
+cast	Nicolas Bro	Friedrich
+cast	Rainer Bock	Brandt
+cast	Hinnerk Schönemann	German Soldier in No Man's Land
+cast	Gary Lydon	Si Easton
+cast	Geoff Bell	Sgt. Sam Perkins
+cast	Liam Cunningham	Army Doctor
+cast	Sebastian Hülk	German Officer at Farm
+cast	Gerard McSorley	Market Auctioneer
+cast	Tony Pitts	Sgt. Martin
+cast	Irfan Hussein	Sgt. Maj. Singh
+cast	Pip Torrens	Maj. Tompkins
+cast	Philippe Nahon	French Auctioneer
+cast	Jean-Claude Lecas	Butcher
+cast	Justin Brett	Motorbike Rider
+cast	Seamus O'Neill	Devon Farmer #1
+cast	Pat Laffan	Devon Farmer #2
+cast	Michael Ryan	British Trench Solder #1
+cast	Peter O'Connor	British Trench Solder #2
+cast	Trystan Pütter	German Trench Soldier #1
+cast	Gunnar Atli Cauthery	German Trench Soldier #2
+cast	Julian Wadham	Trench Captain
+cast	Anian Zollner	Senior German Officer
+cast	Michael Kranz	Junior German Officer
+cast	Hannes Wegener	German Officer
+cast	David Dencik	Base Camp Officer
+cast	Edward Bennett	Cavalry Recruiting Officer
+cast	Johnny Harris	Infantry Recruitment Officer
+cast	Philip Hill-Pearson	Wounded Soldier
+cast	Tam Dean Burn	Medic in Trench
+cast	Alain Williams	Hospital Orderly
+cast	Thomas Arnold	Shouting German Officer
+cast	Maximilian Brückner	German Artillery Officer
+cast	Markus Tomczyk	German Artillery Soldier
+cast	Peter Benedict	German Officer on Bridge
+cast	Callum Armstrong	Bagpiper
+cast	Ray Holder	Fred Goddard
+cast	Paul Alexander	Dave Hill
+cast	Maggie Ollerenshaw	Narracott's Neighbor
+cast	Beth Ogden	David Lyons' Girlfriend
+cast	Martin Dew	Lyons' Cronie
+cast	Lasco Atkins	British Soldier
+cast	Chris Bowe	Scottish Highlander at Auction
+cast	Robert Clayton	British Soldier
+cast	Jason Crook Cookie	German NCO
+cast	Sam Creed	Soldier
+cast	Graham Curry	Scottish Highlander at Auction
+cast	Jadran Malkovich	German Lieutenant
+cast	Stephen Molloy	British Trench Soldier
+cast	Jimmy Pethrus	British & German Soldier
+cast	Ilona Saic	Nurse
+cast	Jayme Swiftt	Dartmoor Soldier
+cast	Alan Williams	Hospital Orderly

@@ -1,0 +1,219 @@
+year	1996
+imdb score	7.3
+meta score	52
+genre	Action
+genre	Crime
+genre	Horror
+keyword	brother
+keyword	mexico
+keyword	vampire
+keyword	hostage
+keyword	motel
+keyword	biker
+keyword	on the run
+keyword	fugitive
+keyword	recreational vehicle
+keyword	psychopath
+keyword	rapist
+keyword	convenience store
+keyword	hell
+keyword	texas
+keyword	truck driver
+keyword	stripper
+keyword	foot sucking
+keyword	gun
+keyword	head wound
+keyword	crossbow
+keyword	female rear nudity
+keyword	mass murderer
+keyword	cult
+keyword	psychopathic killer
+keyword	human monster
+keyword	ethnic slur
+keyword	pencil stabbing
+keyword	blood splatter
+keyword	impalement
+keyword	exploding head
+keyword	stabbed in the hand
+keyword	female nudity
+keyword	pre columbian
+keyword	professional killer
+keyword	water gun
+keyword	shot in the head
+keyword	person on fire
+keyword	aztec pyramid
+keyword	head cut off
+keyword	killer
+keyword	sexual perversion
+keyword	showdown
+keyword	monster
+keyword	exploding body
+keyword	obscene finger gesture
+keyword	bitten in the throat
+keyword	stabbed in the heart
+keyword	pool cue
+keyword	boa constrictor
+keyword	decapitation
+keyword	blood
+keyword	border guard
+keyword	serial rapist
+keyword	obscene gesture
+keyword	trucker
+keyword	pervert
+keyword	gang
+keyword	shot to death
+keyword	holy water balloon
+keyword	holy water gun
+keyword	psycho killer
+keyword	hand wound
+keyword	gunshot wound
+keyword	stripper dancing with snake
+keyword	money
+keyword	man with glasses
+keyword	foot fetish
+keyword	gore
+keyword	rape
+keyword	written by star
+keyword	bouncer
+keyword	subliminal message
+keyword	nudity
+keyword	shape shifter
+keyword	throat slitting
+keyword	dance
+keyword	bloody hand
+keyword	actor playing multiple roles
+keyword	creature
+keyword	bar fight
+keyword	cigar smoking
+keyword	twisted mind
+keyword	cult film
+keyword	priest
+keyword	anti hero
+keyword	fast food
+keyword	strip club
+keyword	vampire bat
+keyword	sheriff
+keyword	exploitation
+keyword	cop killer
+keyword	seduction
+keyword	racism
+keyword	siege
+keyword	dungeon
+keyword	knife in hand
+keyword	stockholm syndrome
+keyword	infection
+keyword	u.s. mexico border
+keyword	mexican horror
+keyword	held hostage
+keyword	vampire slayer
+keyword	held at gunpoint
+keyword	sexual predator
+keyword	f word
+keyword	bartender
+keyword	gay slur
+keyword	snake
+keyword	texas ranger
+keyword	heart in hand
+keyword	tattoo
+keyword	blood on shirt
+keyword	sex offender
+keyword	supernatural power
+keyword	maniac
+keyword	media coverage
+keyword	holy water
+keyword	crucifix
+keyword	mexican band
+keyword	pool of blood
+keyword	homicidal maniac
+keyword	stab wound
+keyword	female vampire
+keyword	slasher
+keyword	head ripped off
+keyword	dead boy
+keyword	exploding building
+keyword	temple ruins
+keyword	severed arm
+keyword	preacher
+keyword	brutality
+keyword	villainess
+keyword	body horror
+keyword	vampire hunter
+keyword	murder
+keyword	hitman
+keyword	morphing
+keyword	heart ripped out
+keyword	explosion
+keyword	knickers
+keyword	violence
+keyword	shot in the hand
+keyword	torn in half
+keyword	death of brother
+keyword	bullet wound
+keyword	hole in hand
+keyword	blood stain
+keyword	serial killer
+keyword	severed head
+keyword	melting face
+keyword	toilet
+keyword	torso cut in half
+keyword	psycho
+keyword	head chopped off
+keyword	vietnam war veteran
+keyword	neck breaking
+keyword	loss of faith
+keyword	disappearance
+keyword	independent film
+keyword	title spoken by character
+keyword	surprise ending
+keyword	plot twist
+cast	George Clooney	Seth Gecko
+cast	Quentin Tarantino	Richard Gecko
+cast	Harvey Keitel	Jacob Fuller
+cast	Juliette Lewis	Kate Fuller
+cast	Ernest Liu	Scott Fuller
+cast	Salma Hayek	Santanico Pandemonium
+cast	Cheech Marin	Border Guard / Chet Pussy / Carlos
+cast	Danny Trejo	Razor Charlie
+cast	Tom Savini	Sex Machine
+cast	Fred Williamson	Frost
+cast	Michael Parks	Texas Ranger Earl McGraw
+cast	Brenda Hillhouse	Hostage Gloria Hill
+cast	John Saxon	FBI Agent Stanley Chase
+cast	Marc Lawrence	Old Timer Motel Owner
+cast	Kelly Preston	Newscaster Kelly Houge
+cast	John Hawkes	Pete Bottoms, Liquor Store Clerk
+cast	Tito Larriva	Titty Twister Guitarist & Vocalist
+cast	Peter Atanasoff	Titty Twister Saxophonist
+cast	Johnny 'Vatos' Hernandez	Titty Twister Drummer
+cast	Aimee Graham	Blonde Hostage
+cast	Heidi McNeal	Red-headed Hostage
+cast	Ernest M. Garcia	Big Emilio
+cast	Greg Nicotero	Sex Machine's Buddy
+cast	Cristos	Danny
+cast	Mike Moroff	Manny
+cast	Michelle Berube	Bar Dancer
+cast	Neena Bidasha	Bar Dancer
+cast	Veena Bidasha	Bar Dancer
+cast	Ungela Brockman	Bar Dancer
+cast	Madison Clark	Bar Dancer
+cast	María Díaz	Bar Dancer
+cast	Rosalia Hayakawa	Bar Dancer
+cast	Janine Jordae	Bar Dancer
+cast	Jacque Lawson	Bar Dancer
+cast	Houston Leigh	Bar Dancer
+cast	Janie Liszewski	Bar Dancer
+cast	Tia Texada	Bar Dancer
+cast	John Paul Fedele	Monster
+cast	Michael McKay	Monster
+cast	Jake McKinnon	Monster
+cast	Josh Patton	Monster
+cast	Walter Phelan	Monster
+cast	Wayne Toth	Monster
+cast	Henrik von Ryzin	Monster
+cast	Danny the Wonder Pony	Danny the Wonder Pony
+cast	Lawrence Bender	Man in Diner
+cast	Carlo Corazon	Vampire
+cast	Annette Harper	Bar Dancer
+cast	Victoria Lucai	Woman Outside the Titty Twister
+cast	John Ponzio	Vampire
+cast	Robert Rodriguez	Band Member

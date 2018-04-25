@@ -1,0 +1,158 @@
+year	1992
+imdb score	6.8
+meta score	N/A
+genre	Crime
+genre	Mystery
+genre	Thriller
+keyword	sioux
+keyword	fbi
+keyword	reservation
+keyword	fbi agent
+keyword	murder
+keyword	jurisdiction
+keyword	native american
+keyword	south dakota
+keyword	murder investigation
+keyword	badlands
+keyword	peace pipe
+keyword	roots
+keyword	wounded knee
+keyword	machine gun
+keyword	shootout
+keyword	dirt bike
+keyword	showdown
+keyword	reference to gary cooper
+keyword	modern western
+keyword	winchester rifle
+keyword	shot in the back
+keyword	m 16
+keyword	eagle's feather
+keyword	cowboy shirt
+keyword	militant
+keyword	cigarette smoking
+keyword	wheelchair
+keyword	gunshot wound
+keyword	gunfight
+keyword	car chase
+keyword	motel
+keyword	shotgun
+keyword	canyon
+keyword	desert
+keyword	tie
+keyword	undercover
+keyword	ambush
+keyword	flashback
+keyword	wristwatch
+keyword	sunglasses
+keyword	audio tape
+keyword	brawl
+keyword	reference to james bond
+keyword	badger
+keyword	pow wow
+keyword	six shooter
+keyword	suicide by gunshot
+keyword	g man
+keyword	shot to death
+keyword	roadblock
+keyword	shooting of child
+keyword	hero
+keyword	trailer
+keyword	pump action shotgun
+keyword	mr magoo
+keyword	chief
+keyword	reference to john wayne
+keyword	molotov cocktail
+keyword	pistol
+keyword	repeating rifle
+keyword	mining
+keyword	betrayal
+keyword	stray dog
+keyword	police brutality
+keyword	biracial
+keyword	rebellion
+keyword	pipe smoking
+keyword	barter
+keyword	shot in the chest
+keyword	buddy cop
+keyword	blood on shirt
+keyword	activist
+keyword	semiautomatic pistol
+keyword	deal
+keyword	schoolteacher
+keyword	cemetery
+keyword	suspense
+keyword	tobacco
+keyword	cowboy hat
+keyword	chase
+keyword	reference to sal mineo
+keyword	giving the finger
+keyword	vision
+keyword	fistfight
+keyword	murder mystery
+keyword	mineral rights
+keyword	uranium
+keyword	m 4 machine gun
+keyword	fish out of water
+keyword	drive by shooting
+keyword	foot chase
+keyword	deer
+keyword	beating
+keyword	tribal police
+keyword	cowboy boots
+keyword	rifle
+keyword	mother daughter relationship
+keyword	spilled milk
+keyword	drumbeat
+keyword	tribal dance
+keyword	shot in the arm
+keyword	revolver
+keyword	calumet
+keyword	tough guy
+keyword	helicopter shot
+keyword	based on true story
+keyword	independent film
+keyword	
+cast	Val Kilmer	Ray Levoi
+cast	Sam Shepard	Frank Coutelle
+cast	Graham Greene	Walter Crow Horse
+cast	Fred Ward	Jack Milton
+cast	Fred Dalton Thompson	William Dawes
+cast	Sheila Tousey	Maggie Eagle Bear
+cast	Ted Thin Elk	Grandpa Sam Reaches
+cast	John Trudell	Jimmy Looks Twice
+cast	Julius Drum	Richard Yellow Hawk
+cast	Sarah Brave	Maisy Blue Legs
+cast	Allan R.J. Joseph	Leo Fast Elk
+cast	Sylvan Pumpkin Seed	Hobart
+cast	Patrick Massett	Agent Mackey
+cast	Rex Linn	FBI Agent
+cast	Brian A. O'Meara	FBI Agent
+cast	Duane Brewer	Ranger
+cast	Lewis C. Bradshaw	Ranger
+cast	Dennis Banks	Himself
+cast	Candy Hamilton	School Teacher
+cast	Jerome Mack	Maggie's Kid
+cast	Tom M. LeBeau	Ray's Father
+cast	Bridgit P. Schock	Ray's Mother
+cast	Terry Graber	Doctor
+cast	David Crosby	Bartender
+cast	Jerry Allan	Drunken Brawler
+cast	Gordon Patterson	Helicopter Pilot
+cast	Robin J. Saderup	Helicopter Pilot
+cast	Buddy Red Bow	Man at Powwow
+cast	Sam Adams	Lakota Singer
+cast	Robin Black Bird	Lakota Singer
+cast	Floyd Charging Crow	Lakota Singer
+cast	Elroy Cross	Lakota Singer
+cast	Charles Davis	Lakota Singer
+cast	Ernest Red Elk	Lakota Singer
+cast	Kenneth J. Richards	Lakota Singer
+cast	Severt Young Bear Sr.	Lakota Singer
+cast	Carlin Orville Morrison	Powwow Singer
+cast	Verland Theodore Phelps	Powwow Singer
+cast	Calvin Timothy Red Elk Sr.	Powwow Singer
+cast	Tim Owen Taggart	Powwow Singer
+cast	Melvin David Young Bear	Powwow Singer
+cast	Mike Breyer	Army Private
+cast	Tony Head	FBI Agent
+cast	Jason R. Lone Hill	

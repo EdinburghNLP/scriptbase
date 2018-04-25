@@ -1,0 +1,229 @@
+year	1999
+imdb score	6.4
+meta score	54
+genre	Adventure
+genre	Biography
+genre	Drama
+genre	History
+genre	War
+keyword	france
+keyword	dauphin
+keyword	cathedral
+keyword	knight
+keyword	heretic
+keyword	trial
+keyword	sword
+keyword	soldier
+keyword	fighting
+keyword	battle
+keyword	martyr
+keyword	reference to jesus christ
+keyword	long sword
+keyword	impalement
+keyword	severed head
+keyword	1420s
+keyword	stabbed with a sword
+keyword	crucifix
+keyword	rain
+keyword	anachronistic dialogue
+keyword	action heroine
+keyword	church
+keyword	15th century
+keyword	combat
+keyword	miracle
+keyword	bow and arrow
+keyword	fortress
+keyword	spear
+keyword	army
+keyword	severed foot
+keyword	torch
+keyword	duke
+keyword	sword and shield
+keyword	medieval times
+keyword	mother in law
+keyword	rise and fall
+keyword	court intrigue
+keyword	war violence
+keyword	heroine dies
+keyword	battle axe
+keyword	tooth
+keyword	mace
+keyword	blood splatter
+keyword	fantasy sequence
+keyword	hundred years war
+keyword	politics
+keyword	ransom
+keyword	religious conviction
+keyword	french court
+keyword	casualty of war
+keyword	murder
+keyword	axe
+keyword	confession
+keyword	coronation
+keyword	epic
+keyword	violence
+keyword	burned at the stake
+keyword	profanity
+keyword	burning village
+keyword	joan of arc
+keyword	stabbed with a spear
+keyword	aunt
+keyword	main character shot
+keyword	rape
+keyword	blood
+keyword	defeat
+keyword	sword fight
+keyword	surrealism
+keyword	kingdom
+keyword	heroine
+keyword	funeral
+keyword	rape
+keyword	victory
+keyword	time lapse photography
+keyword	female protagonist
+keyword	box office flop
+keyword	dream sequence
+keyword	infantry
+keyword	burning city
+keyword	heresy
+keyword	hand to hand combat
+keyword	annointing
+keyword	wartime rape
+keyword	disarming someone
+keyword	moat
+keyword	uncle
+keyword	throat slitting
+keyword	severed arm
+keyword	1400s
+keyword	wolf pack
+keyword	flaming arrow
+keyword	woman on fire
+keyword	wolf
+keyword	bishop
+keyword	crown
+keyword	betrayal
+keyword	priest
+keyword	main character dies
+keyword	cult film
+keyword	conscience
+keyword	necrophilia
+keyword	death of title character
+keyword	king
+keyword	trebuchet
+keyword	siege
+keyword	drawbridge
+keyword	confessional
+keyword	haircut
+keyword	retreat
+keyword	castle
+keyword	shot with a bow and arrow
+keyword	traveling shot
+keyword	decapitation
+keyword	crossbow
+keyword	interrogation
+keyword	cavalry
+keyword	brutality
+keyword	carnage
+keyword	siege tower
+keyword	shot on location
+keyword	banner
+keyword	death of mother
+keyword	character name in title
+keyword	
+cast	Rab Affleck	Comrade
+cast	Stéphane Algoud	Look Out
+cast	Edwin Apps	Bishop
+cast	davidbailie	English Judge
+cast	David Barber	English Judge
+cast	Christian Barbier	Captain
+cast	Timothy Bateson	English Judge
+cast	David Begg	Nobleman - Rouen's Castle
+cast	Christian Bergner	Captain
+cast	Andrew Birkin	Talbot
+cast	Dominic Borrelli	English Judge
+cast	John Boswall	Old Priest
+cast	Matthew Bowyer	The Bludgeoned French Soldier
+cast	Paul Brooke	Domremy's Priest
+cast	Bruce Byron	Joan's Father
+cast	Vincent Cassel	Gilles de Rais
+cast	Charles Cork	Vaucouleurs' Priest
+cast	Patrice Cossoneau	Captain
+cast	Tony D'Amario	Compiegne's Mayor
+cast	Daniel Daujon	Church's Peer - Coronation
+cast	Tonio Descanvelle	Xaintrailles
+cast	Philippe du Janerand	Dijon
+cast	Faye Dunaway	Yolande of Aragon
+cast	Sissi Duparc	Mary of Anjou's Lady's Companion
+cast	Barbara Elbourn	The Aunt
+cast	Christian Erickson	La Tremoille
+cast	Tara Flanagan	Woman - Rouen's Castle
+cast	Bruno Flender	Poitiers' Inquisitor
+cast	Serge Fournier	Church's Peer - Coronation
+cast	David Gant	The Duke of Bedford
+cast	Sid Golder	Cell's Guard
+cast	Jessica Goldman	Duchess of Bedford's Lady's Companion
+cast	Framboise Gommendy	Joan's Mother
+cast	Robert Goodman	Blackbeard
+cast	Jean-Pierre Gos	Laxart
+cast	Joanne Greenwood	Catherine
+cast	Pascal Greggory	The Duke of Alençon
+cast	Bernard Grenet	Senlis' Bishop
+cast	Valerie Griffiths	The Hag
+cast	Timothee Grimblat	Conscience - Child
+cast	Richard Guille	English Guard - Rouen's Castle
+cast	Thierry Guilmard	Assessor
+cast	Jerome Hankins	Nobleman - Rouen's Castle
+cast	Desmond Harrington	Aulon
+cast	Jacques Herlin	Orleans' Priest
+cast	Len Hibberd	Comrade
+cast	Dustin Hoffman	The Conscience
+cast	Didier Hoarau	Assessor
+cast	Vera Jakob	Woman at the Cemetery
+cast	Michael Jenn	The Duke of Burgundy
+cast	Toby Jones	English Judge
+cast	Milla Jovovich	Joan of Arc
+cast	Tchéky Karyo	Dunois
+cast	Gérard Krawczyk	Church's Peer - Coronation
+cast	Richard Leaf	Conscience - Young Man
+cast	Franck Lebreton	Assessor
+cast	Joseph Malerba	Beaurevoir's Guard
+cast	John Malkovich	Charles VII
+cast	Dominique Marcas	Poitiers' Inquisitor
+cast	Eric Mariotto	Young Monk
+cast	René Marquant	Rouen's Priest
+cast	Carl McCrystal	Glasdale
+cast	Gina McKee	The Duchess of Bedford
+cast	Phil McKee	Redbeard
+cast	Simon Meacock	The Teeth Soldier
+cast	John Merrick	Regnault de Chartres
+cast	Joseph O'Conor	Poitiers' Chief Inquisitor
+cast	Quentin Ogier	Louis
+cast	Kevin O'Neill	Scribe at Process
+cast	Mélanie Page	Young Girl in Bath
+cast	Brian Pettifer	The Executioner / Torturer at Process
+cast	Philip Philmar	English Judge
+cast	Enee Piat	Monk at Coronation
+cast	Irving Pompepui	Louis XI - 5 Years Old
+cast	Brian Poyser	English Judge
+cast	Olivier Rabourdin	Richemont
+cast	Vincent Regan	Buck
+cast	René Remblier	Dijon's Assistant
+cast	Joseph Rezwin	Poitiers' Inquisitor
+cast	Ralph Riach	English Judge
+cast	Mark Richards	Corridor's Guard in Rouen
+cast	Richard Ridings	La Hire
+cast	Malcolm Rogers	Bishop
+cast	Tara Römer	Gamaches
+cast	Julie-Anne Roth	Young Girl in Bath
+cast	Olga Sékulic	Mary of Anjou
+cast	Joe Sheridan	Canon
+cast	Eric Tonetto	Captain
+cast	Vincent Tulli	Orleans' Physician
+cast	Jane Valentine	Joan 8 Years Old
+cast	Jemima West	Girl
+cast	Tat Whalley	Raymond
+cast	Peter Whitfield	English Judge
+cast	Timothy West	Cauchon
+cast	Frédéric Witta	Poitiers' Inquisitor
+cast	Matthew Géczy	
+cast	Romain Protat	Crown Monk

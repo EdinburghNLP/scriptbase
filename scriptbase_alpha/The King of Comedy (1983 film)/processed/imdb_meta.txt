@@ -1,0 +1,196 @@
+year	1982
+imdb score	7.8
+meta score	N/A
+genre	Comedy
+genre	Drama
+keyword	underwear
+keyword	suit and tie
+keyword	escape
+keyword	limousine
+keyword	bestseller
+keyword	man with glasses
+keyword	negotiation
+keyword	self delusion
+keyword	female stripping
+keyword	reference to sid caesar
+keyword	reference to elizabeth ashley
+keyword	demonstration tape
+keyword	kidnapper
+keyword	newsweek magazine
+keyword	date
+keyword	white shoes
+keyword	bartender
+keyword	kidnapping
+keyword	stalker
+keyword	arrest
+keyword	handcuffs
+keyword	reference to helen keller
+keyword	stand up comedian
+keyword	golf club
+keyword	mansion
+keyword	fan
+keyword	new york city
+keyword	monologue
+keyword	erotomania
+keyword	embarrassment
+keyword	reference to adolf hitler
+keyword	duct tape
+keyword	business
+keyword	freeze frame
+keyword	reference to rodney dangerfield
+keyword	celebrity
+keyword	asian servant
+keyword	applause
+keyword	fictional talk show
+keyword	fbi agent
+keyword	receptionist
+keyword	stand up comedy
+keyword	bird's eye shot
+keyword	manhattan new york city
+keyword	autograph hound
+keyword	memoir
+keyword	big break
+keyword	reference to the shirelles
+keyword	kidnapping
+keyword	humiliation
+keyword	bar
+keyword	persistence
+keyword	ambition
+keyword	tv studio
+keyword	deadpan comedy
+keyword	reference to burt reynolds
+keyword	basement
+keyword	scheme
+keyword	reference to mel brooks
+keyword	new jersey
+keyword	tied to a chair
+keyword	golf
+keyword	prison
+keyword	butler
+keyword	life magazine
+keyword	fame
+keyword	lingerie
+keyword	reference to ben gazzara
+keyword	news magazine
+keyword	adult son lives with mother
+keyword	shared delusion
+keyword	crystal
+keyword	reference to barbra streisand
+keyword	reference to richard harris
+keyword	reference to woody allen
+keyword	slow motion scene
+keyword	reference to ed sullivan show
+keyword	female bartender
+keyword	comedy routine
+keyword	loser
+keyword	producer
+keyword	autograph
+keyword	taxi
+keyword	comedian
+keyword	black humor
+keyword	joke
+keyword	visual metaphor
+keyword	mother son relationship
+keyword	bra and panties
+keyword	revolver
+keyword	manservant
+keyword	tv show host
+keyword	delusion
+keyword	reference to liza minnelli
+keyword	time magazine
+keyword	broken glass
+keyword	tv show
+keyword	reference to ray charles
+keyword	security
+keyword	star
+keyword	obsessed fan
+keyword	reference to robin williams
+keyword	fake gun
+keyword	reference to gore vidal
+keyword	price of fame
+keyword	reference to ernie kovacs
+keyword	lawyer
+keyword	reference to shelley winters
+keyword	reference to richard pryor
+keyword	cynicism
+keyword	prison sentence
+keyword	actor shares first name with character
+keyword	title spoken by character
+keyword	
+cast	Robert De Niro	Rupert Pupkin
+cast	Jerry Lewis	Jerry Langford
+cast	Diahnne Abbott	Rita
+cast	Sandra Bernhard	Masha
+cast	Ed Herlihy	Ed Herlihy
+cast	Lou Brown	Band Leader
+cast	Loretta Tupper	Stage Door Fan
+cast	Peter Potulski	Stage Door Fan
+cast	Vinnie Gonzales	Stage Door Fan
+cast	Whitey Ryan	Stage Door Guard
+cast	Doc Lawless	Chauffeur
+cast	Marta Heflin	Young Girl
+cast	Katherine Wallach	Autograph Seeker
+cast	Charles Kaleina	Autograph Seeker
+cast	Richard Baratz	Caricaturist
+cast	Catherine Scorsese	Rupert's Mom
+cast	Cathy Scorsese	Dolores
+cast	Chuck Low	Man in Chinese Restaurant
+cast	Liza Minnelli	Liza Minnelli
+cast	Leslie Levinson	Roberta Posner
+cast	Alan Potashnick	Man at Telephone
+cast	Michael Kolba	Man at Telephone
+cast	Robert Colston	Man at Telephone
+cast	Ramón Rodríguez	Man at telephone
+cast	Chuck Coop	Man at Telephone
+cast	Sel Vitella	Man at Telephone
+cast	Margo Winkler	Receptionist
+cast	Tony Boschetti	Mr. Gangemi
+cast	Shelley Hack	Cathy Long
+cast	Mick Jones	Street Scum
+cast	Joe Strummer	Street Scum
+cast	Paul Simonon	Street Scum
+cast	Kosmo Vinyl	Street Scum
+cast	Ellen Foley	Street Scum
+cast	Pearl Harbour	Street Scum
+cast	Gary Salter	Street Scum
+cast	Jerry Baxter-Worman	Street Scum
+cast	Don Letts	Street Scum
+cast	Matt Russo	Cabbie
+cast	Thelma Lee	Woman in Telephone Booth
+cast	Joyce Brothers	Dr. Joyce Brothers
+cast	George Kapp	Mystery Guest
+cast	Victor Borge	Victor Borge
+cast	Ralph Monaco	Raymond Wirtz
+cast	Rob-Jamere Wess	Security Guard
+cast	Kim Chan	Jonno
+cast	Audrey Dummett	Cook
+cast	June Prud'Homme	Audrey
+cast	Frederick De Cordova	Bert Thomas
+cast	Edgar J. Scherick	Wilson Crockett
+cast	Thomas M. Tolan	Gerrity
+cast	Ray Dittrich	Giardello
+cast	Richard Dioguardi	Captain Burke
+cast	Jay Julien	Langford's Lawyer
+cast	Harry J. Ufland	Langford's Agent
+cast	Scotty Bloch	Crockett's Secretary
+cast	Jim Lyness	Ticket Taker
+cast	Bill Minkin	Clarence McCabe
+cast	Diane Rachell	McCabe's Wife
+cast	Dennis Mulligan	Plainclothesman
+cast	Tony Devon	Plainclothesman
+cast	Peter Fain	Plainclothesman
+cast	Michael F. Stodden	Plainclothesman
+cast	Gerard Murphy	Plainclothesman
+cast	Jimmy Raitt	Stage Manager
+cast	Martin Scorsese	TV Director
+cast	Tony Randall	Tony Randall
+cast	Charles Scorsese	First Man at Bar
+cast	Mardik Martin	Second Man at Bar
+cast	Bill Jorgensen	Newsman
+cast	Marvin Scott	Newsman
+cast	Chuck Stevens	Newsman
+cast	William Litauer	Newsman
+cast	Jeff David	Announcer
+cast	Allan Baker	Audience Member
+cast	Mary Elizabeth Mastrantonio	Extra in crowd scene
+cast	Mike Tremont	Talk Show Contestant

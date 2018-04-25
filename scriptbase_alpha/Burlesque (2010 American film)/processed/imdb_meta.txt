@@ -1,0 +1,147 @@
+year	2010
+imdb score	6.3
+meta score	47
+genre	Drama
+genre	Musical
+genre	Romance
+keyword	burlesque
+keyword	small town girl
+keyword	dancer
+keyword	iowa
+keyword	stage
+keyword	bare butt
+keyword	legs
+keyword	female protagonist
+keyword	male nudity
+keyword	song
+keyword	party
+keyword	one word title
+keyword	fan dancer
+keyword	singing
+keyword	love triangle
+keyword	buyout
+keyword	backstage
+keyword	jagermeister
+keyword	transvestism
+keyword	homosexual subtext
+keyword	bartender
+keyword	stockings
+keyword	vaudeville
+keyword	roommate
+keyword	morning sickness
+keyword	performer
+keyword	want ad
+keyword	riding bus
+keyword	pantyhose
+keyword	blues
+keyword	premarital sex
+keyword	soul
+keyword	bare chested male
+keyword	carrying a woman
+keyword	dancing
+keyword	jazz
+keyword	cabaret
+keyword	los angeles california
+keyword	theatre
+keyword	night club
+keyword	rain
+keyword	nightclub
+keyword	rival
+keyword	air rights
+keyword	infinity pool
+keyword	hollywood california
+keyword	composing music
+keyword	two on a motorcycle
+keyword	entertainer
+keyword	hiding money
+keyword	pearl costume
+keyword	persistence
+keyword	real estate agent
+keyword	rhythm and blues
+keyword	sunset strip
+keyword	musician
+keyword	audition
+keyword	blowing out candle
+keyword	putting on nylons
+keyword	title spoken by character
+cast	Cher	Tess
+cast	Christina Aguilera	Ali
+cast	Eric Dane	Marcus
+cast	Cam Gigandet	Jack
+cast	Julianne Hough	Georgia
+cast	Alan Cumming	Alexis
+cast	Peter Gallagher	Vince
+cast	Kristen Bell	Nikki
+cast	Stanley Tucci	Sean
+cast	Dianna Agron	Natalie
+cast	Glynn Turman	Harold Saint
+cast	David Walton	Mark the DJ
+cast	Terrence Jenkins	Dave
+cast	Chelsea Traille	Coco
+cast	Tanee McCall-Short	Scarlett
+cast	Tyne Stecklein	Jesse
+cast	Paula Van Oppen	Anna
+cast	Isabella Hofmann	Loretta
+cast	James Brolin	Mr. Anderson
+cast	Stephen Lee	Dwight
+cast	Denise Faye	Preacher
+cast	Baldeep Singh	Ali's Hotel Manager
+cast	Michael Landes	Greg
+cast	Wendy Benson-Landes	Marla
+cast	Tisha French	Loft Assistant
+cast	Katerina Mikailenko	Brittany
+cast	Jay Luchs	Party Guest at Marcus's House
+cast	Katelynn Tilley	Ditsy Waitress
+cast	Gwen Van Dam	Curler Woman at Grundy Bus Stop
+cast	Catherine Natale	Curler Woman's Friend
+cast	Jonathon Trent	Damon / Bumper Band Member
+cast	Blair Redford	James / Bumper Band Member
+cast	Taylor Graves	Bumper Band Member
+cast	Adam Driggs	Bumper Band Member
+cast	Alvino Lewis	Bumper Band Member
+cast	Jimmy R.O. Smith	Bumper Band Member
+cast	Leah Katz	Bumper Band Member
+cast	Sarah Mitchell	Main Dancer
+cast	Tara Nicole Hughes	Main Dancer
+cast	Aisha Jamila Francis	Main Dancer
+cast	DeAnna Walters	Main Dancer
+cast	Loriel Hennington	Main Dancer
+cast	Robert Kirkland	Bartender
+cast	Black Thomas	Bartender
+cast	Sean Van der Wilt	Bartender
+cast	Corey Anderson	Bartender
+cast	Timor Steffens	Bartender
+cast	JaQuel Knight	Bartender
+cast	Samantha Abrantes	Can Can Dancer
+cast	Melanie Lewis	Main Dancers
+cast	Samantha Faye Lee	Can Can Dancer
+cast	Michelle Brooke	Can Can Dancer
+cast	Jamie Ruiz	Can Can Dancer
+cast	Viktoria Shvartsman	Contortionist
+cast	Shannon Beach	Contortionist
+cast	Zahra 'Jeskilz' Hamani	Dancer
+cast	Jenny Robinson	Dancer
+cast	Talia-Lynn Prairie	Dancer
+cast	Meredith Ostrowsky	Dancer
+cast	Katrina Norman	Dancer
+cast	Micki Duran	Dancer
+cast	Ashley Ashida Dixon	Dancer
+cast	Rachele Brooke Smith	Dancer
+cast	Michelle Maniscalco	Dancer
+cast	Allison Kyler	Dancer
+cast	Audra Griffis	Dancer
+cast	Jacquelyn Dowsett	Dancer
+cast	Elise Jackson	Audition Dancer
+cast	Melissa Rivera	Melissa
+cast	Nicole Abramson	Girl on the Street
+cast	Tiana Brown	Dancer
+cast	Jamie Ann Burke	Burlesque Dancer
+cast	Stephanie Campbell	Catering Staff
+cast	Mathew Dunlop	Bar Patron
+cast	Dana Frances	Marcus's Friend
+cast	Marie Grujicic-Delage	Model
+cast	Tim Lacatena	Beer Spitting Patron
+cast	Matt McAbee	Bartender
+cast	Joseph O'Brien	Burlesque Night Club Patron
+cast	Sonya Rome	Burlesque Dancer
+cast	Colleen Schabes	Backstage Showgirl

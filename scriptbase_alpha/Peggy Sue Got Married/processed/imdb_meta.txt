@@ -1,0 +1,105 @@
+year	1986
+imdb score	6.3
+meta score	N/A
+genre	Comedy
+genre	Drama
+genre	Fantasy
+genre	Music
+genre	Romance
+keyword	high school
+keyword	reunion
+keyword	divorce
+keyword	high school reunion
+keyword	1960s
+keyword	1950s
+keyword	self discovery
+keyword	edsel
+keyword	lodge
+keyword	fate
+keyword	time loop
+keyword	alternative history
+keyword	poetry
+keyword	time travel romance
+keyword	commercial pitchman
+keyword	life changing
+keyword	filmed in mirror
+keyword	alternative timeline
+keyword	boyfriend girlfriend relationship
+keyword	teenage girl
+keyword	automobile
+keyword	time travel
+keyword	mother daughter relationship
+keyword	repeated event
+keyword	americana
+keyword	reference to the beatles
+keyword	father daughter relationship
+keyword	teen angst
+keyword	ex husband ex wife relationship
+keyword	girl with glasses
+keyword	nostalgia
+keyword	secret ritual
+keyword	husband wife relationship
+keyword	biker
+keyword	marital problem
+keyword	appliance store
+keyword	nerd
+keyword	affection
+keyword	love
+keyword	family relationships
+keyword	dysfunctional family
+keyword	female protagonist
+keyword	class reunion
+keyword	nostalgia
+keyword	character name in title
+keyword	
+cast	Kathleen Turner	Peggy Sue
+cast	Nicolas Cage	Charlie Bodell
+cast	Barry Miller	Richard Norvik
+cast	Catherine Hicks	Carol Heath
+cast	Joan Allen	Maddy Nagle
+cast	Kevin J. O'Connor	Michael Fitzsimmons
+cast	Jim Carrey	Walter Getz
+cast	Lisa Jane Persky	Delores Dodge
+cast	Lucinda Jenney	Rosalie Testa
+cast	Wil Shriner	Arthur Nagle
+cast	Barbara Harris	Evelyn Kelcher
+cast	Don Murray	Jack Kelcher
+cast	Sofia Coppola	Nancy Kelcher
+cast	Maureen O'Sullivan	Elizabeth Alvorg
+cast	Leon Ames	Barney Alvorg
+cast	Randy Bourne	Scott Bodell
+cast	Helen Hunt	Beth Bodell
+cast	Don Stark	Doug Snell
+cast	Marshall Crenshaw	Reunion Band
+cast	Chris Donato	Reunion Band
+cast	Robert Crenshaw	Reunion Band
+cast	Tom Teeley	Reunion Band
+cast	Graham Maby	Reunion Band
+cast	Ken Grantham	Mr. Snelgrove
+cast	Ginger Taylor	Janet
+cast	Sigrid Wurschmidt	Sharon
+cast	Glenn Withrow	Terry
+cast	Harry Basil	Leon
+cast	John Carradine	Leo
+cast	Sachi Parker	Lisa
+cast	Vivien Straus	Sandy
+cast	Morgan Upton	Mr. Gilfond
+cast	Lewis Leibovich	Dr. Daly
+cast	Bill Bonham	Drunk
+cast	Joe Lerer	Drunk Creep
+cast	Martin Scott	The Four-Mations
+cast	Marcus Scott	The Four-Mations
+cast	Carl Lockett	The Four-Mations
+cast	Tony Saunders	The Four-Mations
+cast	Vincent Lars	The Four-Mations
+cast	Larry E. Vann	The Four-Mations
+cast	Lawrence Menkin	Elderly Gentleman
+cast	Daniel R. Suhart	Chinese Waiter
+cast	Leslie Hilsinger	Majorette
+cast	Al Nalbandian	Lodge Member
+cast	Dan Leegant	Lodge Member
+cast	Ron Cook	Lodge Member
+cast	Mary Leichtling	Reunion Receptionist
+cast	Harrod Blank	Dancer
+cast	Cynthia Brian	Reunion Woman #2
+cast	Michael X. Martin	

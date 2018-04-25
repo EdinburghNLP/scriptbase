@@ -1,0 +1,210 @@
+year	1998
+imdb score	7.6
+meta score	74
+genre	Biography
+genre	Drama
+keyword	frankenstein
+keyword	gardener
+keyword	friendship
+keyword	stroke
+keyword	memory
+keyword	korean war
+keyword	homosexual
+keyword	nudity
+keyword	rifle
+keyword	art
+keyword	gay
+keyword	death by drowning
+keyword	girl
+keyword	reference to boris karloff
+keyword	mercy killing
+keyword	headache
+keyword	dirty old man
+keyword	circular staircase
+keyword	tattoo
+keyword	retirement
+keyword	hollywood california
+keyword	bathroom
+keyword	british soldier
+keyword	mother daughter relationship
+keyword	reference to rembrandt
+keyword	reflection in window
+keyword	motion picture production
+keyword	reference to rin tin tin
+keyword	u.s. marine
+keyword	plea to be killed
+keyword	actor
+keyword	painter
+keyword	broken nose
+keyword	drowning
+keyword	croquet
+keyword	tea
+keyword	blind man
+keyword	bishop
+keyword	trailer home
+keyword	sex
+keyword	horror filmmaking
+keyword	scandal
+keyword	student
+keyword	bare breasts
+keyword	tv guide the magazine
+keyword	bartender
+keyword	suicide note
+keyword	male stripping
+keyword	homosexuality
+keyword	cane
+keyword	gas mask
+keyword	doctor
+keyword	filmmaking
+keyword	medical examination
+keyword	brain transplant
+keyword	male nudity
+keyword	swan
+keyword	swimsuit
+keyword	central nervous system
+keyword	wine
+keyword	violinist
+keyword	gay lead character
+keyword	swimming pool
+keyword	pickup truck
+keyword	rain
+keyword	undressing
+keyword	boy
+keyword	reference to elizabeth taylor
+keyword	nightmare
+keyword	reference to ernest thesiger
+keyword	creator creation relationship
+keyword	reference to una o'connor
+keyword	pacific ocean
+keyword	beach
+keyword	singing
+keyword	female nudity
+keyword	photographer
+keyword	watching tv
+keyword	actress
+keyword	reference to colin clive
+keyword	underwear
+keyword	recluse
+keyword	suicide
+keyword	1950s
+keyword	bayonet
+keyword	dead body
+keyword	mother son relationship
+keyword	x rayed skeleton
+keyword	electricity
+keyword	gay kiss
+keyword	suicide by drowning
+keyword	lawn mower
+keyword	shower
+keyword	dream
+keyword	singer
+keyword	trench
+keyword	male frontal nudity
+keyword	diving
+keyword	drink
+keyword	whispering
+keyword	watching a movie
+keyword	reference to david lewis
+keyword	camera
+keyword	bare chested male
+keyword	urination
+keyword	euthanasia
+keyword	princess margaret
+keyword	hospital
+keyword	monster
+keyword	harrow
+keyword	secretary
+keyword	shaving
+keyword	telephone call
+keyword	bar
+keyword	flashback
+keyword	servant
+keyword	reference to george cukor
+keyword	college student
+keyword	german
+keyword	lightning
+keyword	film student
+keyword	family relationships
+keyword	death
+keyword	los angeles california
+keyword	maid
+keyword	portrait
+keyword	gay soldier
+keyword	newspaper
+keyword	film director
+keyword	posing
+keyword	reference to cecil beaton
+keyword	burst appendix
+keyword	violin
+keyword	pill
+keyword	cigar smoking
+keyword	cucumber sandwich
+keyword	flash camera
+keyword	cigarette smoking
+keyword	strangulation
+keyword	teenage boy
+keyword	gay interest
+keyword	hallucination
+keyword	pay phone
+keyword	drinking
+keyword	suturing a wound
+keyword	friend
+keyword	love
+keyword	surgery
+keyword	film set
+keyword	swimming
+keyword	world war one
+keyword	film history
+keyword	housekeeper
+keyword	unrequited love
+keyword	painting
+keyword	father son relationship
+keyword	divorcee
+keyword	dying
+keyword	reference to leslie howard
+keyword	drawing
+keyword	mirror
+keyword	song
+keyword	male model
+keyword	reference to elsa lanchester
+keyword	brain
+keyword	older man younger man relationship
+keyword	based on novel
+keyword	independent film
+keyword	title spoken by character
+keyword	
+cast	Ian McKellen	James Whale
+cast	Brendan Fraser	Clayton Boone
+cast	Lynn Redgrave	Hanna
+cast	Lolita Davidovich	Betty
+cast	David Dukes	David Lewis
+cast	Kevin J. O'Connor	Harry
+cast	Mark Kiely	Dwight
+cast	Jack Plotnick	Edmund Kay
+cast	Rosalind Ayres	Elsa Lanchester
+cast	Jack Betts	Boris Karloff
+cast	Matt McKenzie	Colin Clive
+cast	Todd Babcock	Leonard Barnett
+cast	Cornelia Hayes O'Herlihy	Princess Margaret
+cast	Brandon Kleyla	Young Whale
+cast	Pamela Salem	Sarah Whale
+cast	Michael O'Hagan	William Whale
+cast	David Millbern	Dr. Payne
+cast	Amir Aboulela	The Monster
+cast	Marlon Braccia	Elizabeth Taylor
+cast	Jesse Long	Assistant Director
+cast	Owen Masterson	Camera Assistant
+cast	Lisa Vastine	Librarian
+cast	Kent George	Whale at 25
+cast	Martin Ferrero	George Cukor
+cast	David Fabrizio	Photographer
+cast	Jesse James	Michael Boone
+cast	Lisa Darr	Dana Boone
+cast	Paul Michael Sandberg	Sound Man
+cast	Judson Mills	Young Man at Pool
+cast	Arthur Dignam	Ernest Thesiger
+cast	John Gatins	Kid Saylor
+cast	Curtis Harrington	Cukor Party Guest
+cast	James Lecesne	Jack Pierce
+cast	Sarah Ann Morris	Daisy
+cast	Richard Pines	Bar Patron

@@ -1,0 +1,147 @@
+year	2004
+imdb score	4.6
+meta score	33
+genre	Comedy
+keyword	scholarship
+keyword	senator
+keyword	dog
+keyword	new york city
+keyword	band
+keyword	dream
+keyword	kidnapping
+keyword	truant
+keyword	twin
+keyword	truant officer
+keyword	speech
+keyword	music video
+keyword	twin sister
+keyword	planner
+keyword	bike messenger
+keyword	columbia university
+keyword	target
+keyword	threat
+keyword	single parent
+keyword	teacher student relationship
+keyword	band practice
+keyword	pet snake
+keyword	high school
+keyword	nightmare
+keyword	train
+keyword	live performance
+keyword	misadventure
+keyword	pool party
+keyword	drummer
+keyword	public bathroom
+keyword	manager
+keyword	female protagonist
+keyword	arrest
+keyword	tourist
+keyword	sister sister relationship
+keyword	taekwondo
+keyword	convenience store
+keyword	forged signature
+keyword	adopted son
+keyword	germophobe
+keyword	asian
+keyword	criminal gang
+keyword	big city
+keyword	slap
+keyword	fight
+keyword	title directed by female
+keyword	box office flop
+keyword	cameo
+keyword	splashed by a car
+keyword	landlord
+keyword	broken heel
+keyword	smart girl
+keyword	oxford university
+keyword	critically bashed
+keyword	family relationships
+keyword	microchip
+keyword	karate
+keyword	limousine
+keyword	case
+keyword	rebelliousness
+keyword	kiss
+keyword	beauty shop
+keyword	teenage girl
+keyword	shower
+keyword	teenager
+keyword	applause
+keyword	crowd surfing
+keyword	taxi
+keyword	thrown from a train
+keyword	skipping school
+keyword	reference to avril lavigne
+keyword	love interest
+keyword	coffee spilled in lap
+keyword	real life sisters playing sisters
+keyword	rock music
+keyword	chase
+keyword	argument
+keyword	piracy
+keyword	falling down
+keyword	hotel
+keyword	city name in title
+keyword	organizer
+cast	Ashley Olsen	Jane Ryan
+cast	Mary-Kate Olsen	Roxy Ryan
+cast	Eugene Levy	Max Lomax
+cast	Andy Richter	Bennie Bang
+cast	Riley Smith	Jim, The Bike Messenger
+cast	Jared Padalecki	Trey Lipton
+cast	Drew Pinsky	Dr. Ryan
+cast	Darrell Hammond	Hudson McGill
+cast	Andrea Martin	Senator Anne Lipton
+cast	Alannah Ong	Ma Bang
+cast	Mary Bond Davis	Big Shirl
+cast	Bob Saget	Himself
+cast	Jack Osbourne	Justin
+cast	Joey Klein	Truant at Pool
+cast	Neil Crone	Officer Strauss
+cast	Jonathan Wilson	Train Conductor
+cast	Boyd Banks	Ticket Window Guy
+cast	Silver Kim	Asian Guy with Chip
+cast	Conrad Bergschneider	Fed #1
+cast	Robert Williams	Fed #2
+cast	Dominic Cuzzocrea	Homeless Guy
+cast	Suresh John	Deli Clerk
+cast	Kent Staines	Doorman
+cast	H. Jon Benjamin	I Love NY Vendor
+cast	Frank Bonsangue	Con Ed Supervisor
+cast	Jo Chim	Ma Bang's Assistant
+cast	Lindsay Leese	Customer at Ma Bang's
+cast	Pierre Bouvier	Simple Plan
+cast	Chuck Comeau	Simple Plan
+cast	Sebastien Lefebvre	Simple Plan
+cast	David Desrosiers	Simple Plan
+cast	Jeff Stinco	Simple Plan
+cast	Alison Northcott	Video Shoot Groupie
+cast	Balázs Koós	Video Shoot Announcer
+cast	Trip Phoenix	Old School Record Exec
+cast	Philip Drube	Old School Record Exec
+cast	Kenny Robinson	Head Security
+cast	Todd Schroeder	Massive Security Guard
+cast	Colin Penson	Security Guard
+cast	Damon D'Oliveira	News Broadcaster
+cast	Eric Woolfe	Male Nurse
+cast	Warren Belle	Mickey the Cab Driver
+cast	Arnold Pinnock	Big Shirl's Male Beautician
+cast	Tasha Ricketts	Big Shirl's Beautician
+cast	Stephanie Samuels	Big Shirl's Beautician
+cast	Marsha Williams	Big Shirl's Beautician
+cast	Oluniké Adeliyi	Big Shirl's Beautician
+cast	Donna Marie Christie	House of Bling Customer
+cast	Jamila Fleming	House of Bling Customer
+cast	Shakira Harper	House of Bling Customer
+cast	Lurline Lucas	House of Bling Customer
+cast	Faustina Owusu-Ansah	House of Bling Customer
+cast	John Hemphill	Tim Brooger
+cast	Kathleen Laskey	Steffi Brooger
+cast	Garen Boyajian	Manjhur
+cast	Jasbir Mann	Auditorium T.A.
+cast	Maggie Butterfield	Auditorium Moderator
+cast	Gala	Reinaldo
+cast	Krissy	Reinaldo
+cast	Frank Welker	Reinaldo Vocal Effects
+cast	The Naked Cowboy	Himself

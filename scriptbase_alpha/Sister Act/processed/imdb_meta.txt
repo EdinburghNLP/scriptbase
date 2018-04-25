@@ -1,0 +1,94 @@
+year	1992
+imdb score	6.1
+meta score	N/A
+genre	Comedy
+genre	Music
+keyword	choir
+keyword	convent
+keyword	singer
+keyword	nun
+keyword	murder
+keyword	police
+keyword	mother superior
+keyword	church
+keyword	chase
+keyword	bar
+keyword	witness protection
+keyword	witness
+keyword	religion
+keyword	priest
+keyword	san francisco california
+keyword	fish out of water
+keyword	blockbuster
+keyword	detective
+keyword	singing nun
+keyword	assumed identity
+keyword	hit in the crotch
+keyword	reno nevada
+keyword	altar boy
+keyword	catholic church
+keyword	first part
+keyword	organized crime
+keyword	catholic priest
+keyword	reference to diana ross
+keyword	casino
+keyword	on the run
+keyword	gangster
+keyword	dancing nun
+keyword	female protagonist
+keyword	catholic mass
+keyword	bishop
+keyword	
+cast	Whoopi Goldberg	Deloris Van Cartier / Sister Mary Clarence
+cast	Maggie Smith	Mother Superior
+cast	Kathy Najimy	Sister Mary Patrick
+cast	Wendy Makkena	Sister Mary Robert
+cast	Mary Wickes	Sister Mary Lazarus
+cast	Harvey Keitel	Vince LaRocca
+cast	Bill Nunn	Lt. Eddie Souther
+cast	Robert Miranda	Joey
+cast	Richard Portnow	Willy
+cast	Ellen Albertini Dow	Choir Nun
+cast	Carmen Zapata	Choir Nun
+cast	Pat Crawford Brown	Choir Nun
+cast	Prudence Wright Holmes	Choir Nun
+cast	Georgia Creighton	Choir Nun
+cast	Susan Johnson-Kehn	Choir Nun
+cast	Ruth Kobart	Choir Nun
+cast	Susan Browning	Choir Nun
+cast	Darlene Koldenhoven	Choir Nun
+cast	Sheri Izzard	Choir Nun
+cast	Edith Diaz	Choir Nun
+cast	Beth Fowler	Choir Nun
+cast	Rose Parenti	Sister Alma
+cast	Joseph Maher	Bishop O'Hara
+cast	Jim Beaver	Detective Clarkson
+cast	Jenifer Lewis	Michelle
+cast	Charlotte Crossley	Tina
+cast	A.J. Johnson	Lewanda
+cast	Desreta Jackson	Teenage Girl #1
+cast	Zatella Beatty	Teenage Girl #2
+cast	Skye Bassett	Teenage Girl #3
+cast	Lois De Banzie	Immaculata
+cast	Isis Carmen Jones	Little Deloris
+cast	Max Grodénchik	Ernie
+cast	Joseph G. Medalis	Henry Parker
+cast	Michael Durrell	Larry Merrick
+cast	Robert Jimenez	Reporter
+cast	Toni Kalem	Connie LaRocca
+cast	Kevin Bourland	Pilot
+cast	David Boyce	Croupier
+cast	Tim Pedegana	Gambler
+cast	Terry Wills	Salesman
+cast	David Parker	Bartender
+cast	Nicky Katt	Waiter
+cast	Mike Jolly	Biker #1
+cast	Jeremy Roberts	Biker #2
+cast	Eugene Greytak	The Pope
+cast	Jeanne Basone	
+cast	Guy Boyd	Det. Tate
+cast	Aric Cushing	Student
+cast	Alexander Kanellakos	Bar Patron
+cast	Mário Lara	Parishioner
+cast	Terriel Lara	Nun
+cast	Gary Rodriguez	Bar Patron

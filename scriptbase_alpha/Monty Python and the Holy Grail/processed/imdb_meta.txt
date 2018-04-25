@@ -1,0 +1,187 @@
+year	1975
+imdb score	8.4
+meta score	90
+genre	Adventure
+genre	Comedy
+genre	Fantasy
+keyword	knight
+keyword	holy grail
+keyword	king arthur
+keyword	castle
+keyword	lancelot
+keyword	camelot
+keyword	killer rabbit
+keyword	rabbit
+keyword	french
+keyword	satire
+keyword	coconut
+keyword	plague
+keyword	crushed to death
+keyword	trojan horse
+keyword	severed arm
+keyword	getting the sack
+keyword	dark ages
+keyword	taunting
+keyword	breaking the fourth wall
+keyword	impalement
+keyword	actor playing multiple roles
+keyword	voice over narration
+keyword	imaginary horse
+keyword	hand grenade
+keyword	wizard
+keyword	no ending credits
+keyword	epic
+keyword	narrator
+keyword	communism
+keyword	wedding reception
+keyword	flag
+keyword	clip art
+keyword	midnight movie
+keyword	surrealism
+keyword	10th century
+keyword	archery
+keyword	british
+keyword	rescue
+keyword	riddle
+keyword	white rabbit
+keyword	heart attack
+keyword	message shot with an arrow
+keyword	anachronism
+keyword	rotisserie
+keyword	black knight
+keyword	corporeal mortification
+keyword	ensemble cast
+keyword	cult movie cast
+keyword	930s
+keyword	year 932
+keyword	political theory
+keyword	sword fight
+keyword	intermission
+keyword	riddle
+keyword	british comedy
+keyword	no ending
+keyword	singing
+keyword	shrubbery
+keyword	village
+keyword	comedy troupe
+keyword	multiple heads
+keyword	jokes in credits
+keyword	eccentric
+keyword	spiral staircase
+keyword	sword and sorcery
+keyword	gore
+keyword	father son relationship
+keyword	nut shell
+keyword	reverse footage
+keyword	anarchism
+keyword	llama
+keyword	swallow
+keyword	exploding rabbit
+keyword	siege
+keyword	arranged marriage
+keyword	eaten alive
+keyword	medieval times
+keyword	monster
+keyword	flatulence
+keyword	quest
+keyword	abyss
+keyword	legend
+keyword	based on sketch comedy
+keyword	attempted filicide
+keyword	animal attack
+keyword	hermit
+keyword	monty python
+keyword	gorilla
+keyword	absurd humor
+keyword	catapult
+keyword	dungeon
+keyword	throat slitting
+keyword	written and directed by cast member
+keyword	movie reality crossover
+keyword	hit in the crotch
+keyword	blood
+keyword	black comedy
+keyword	police
+keyword	cave
+keyword	irreverence
+keyword	minstrel
+keyword	violence
+keyword	seduction
+keyword	presumed dead
+keyword	taunt
+keyword	decapitation
+keyword	cult film
+keyword	part animation
+keyword	murder
+keyword	dismemberment
+keyword	cowardice
+keyword	absurd
+keyword	depiction of god
+keyword	monk
+keyword	arthurian legend
+keyword	rude frenchman
+keyword	suspected witch
+keyword	scripture
+keyword	anthrax
+keyword	slapstick comedy
+keyword	forest
+keyword	skeleton
+keyword	cannibalism
+keyword	french stereotype
+keyword	spoof
+keyword	storybook in opening shot
+keyword	chapter headings
+keyword	spoof on religion
+keyword	duck
+keyword	severed leg
+keyword	rope bridge
+keyword	excrement
+keyword	england
+keyword	absurdism
+keyword	flagellation
+keyword	macguffin
+keyword	independent film
+keyword	surprise ending
+cast	Graham Chapman	King Arthur / Voice of God / Middle Head / Hiccoughing Guard
+cast	John Cleese	Second Swallow-Savvy Guard / The Black Knight / Peasant 3 / Sir Lancelot the Brave / Taunting French Guard / Tim the Enchanter
+cast	Eric Idle	Dead Collector / Peasant 1 / Sir Robin the Not-Quite-So-Brave-as-Sir Launcelot / First Swamp Castle Guard / Concorde / Roger the Shrubber / Brother Maynard
+cast	Terry Gilliam	Patsy / Green Knight / Old Man from Scene 24
+cast	Terry Jones	Dennis's Mother / Sir Bedevere / Left Head / Prince Herbert / Cartoon Scribe
+cast	Michael Palin	First Swallow-Savvy Guard / Dennis / Peasant 2 / Right Head / Sir Galahad the Pure / Narrator / King of Swamp Castle / Brother Maynard's Brother / Leader of The Knights Who Say NI!
+cast	Connie Booth	The Witch
+cast	Carol Cleveland	Zoot / Dingo
+cast	Neil Innes	First Monk / Singing Minstrel / Page Crushed by the Rabbit / Peasant #4
+cast	Bee Duffell	Old Crone
+cast	John Young	Dead Body / Historian Frank
+cast	Rita Davies	Historian's Wife
+cast	Avril Stewart	Dr. Piglet
+cast	Sally Kinghorn	Dr. Winston
+cast	Mark Zycon	Prisoner
+cast	Elspeth Cameron	Girl in Castle Anthrax
+cast	Mitsuko Forstater	Girl in Castle Anthrax
+cast	Sandy Johnson	Knight of Ni / Villager at Witch Burning / Musician at Wedding / Monk / Knight in Battle
+cast	Sandy Rose	Girl in Castle Anthrax
+cast	Romilly Squire	Musician at Wedding / Villager at Witch Burning
+cast	Joni Flynn	Girl in Castle Anthrax
+cast	Alison Walker	Girl in Castle Anthrax
+cast	Loraine Ward	Girl in Castle Anthrax
+cast	Anna Lanski	Girl in Castle Anthrax
+cast	Sally Coombe	Girl in Castle Anthrax
+cast	Vivienne MacDonald	Girl in Castle Anthrax
+cast	Yvonne Dick	Girl in Castle Anthrax
+cast	Daphne Darling	Girl in Castle Anthrax
+cast	Fiona Gordon	Girl in Castle Anthrax
+cast	Gloria Graham	Girl in Castle Anthrax
+cast	Judy Lamb	Girl in Castle Anthrax
+cast	Tracy Sneddon	Girl in Castle Anthrax
+cast	Sylvia Taylor	Girl in Castle Anthrax
+cast	Joyce Pollner	Girl in Castle Anthrax
+cast	Mary Allen	Girl in Castle Anthrax
+cast	Julian Doyle	Police Sergeant
+cast	Margarita Doyle	Peasant
+cast	Charles Knode	Camp Guard / Robin's Minstrel
+cast	Zack Matalon	Guard who Falls into Barrels
+cast	William Palin	Sir Not-Appearing-in-this-Film
+cast	Tom Raeburn	Guard Eating Apple
+cast	Roy Forge Smith	Inspector End of Film
+cast	Maggie Weston	Page-turner

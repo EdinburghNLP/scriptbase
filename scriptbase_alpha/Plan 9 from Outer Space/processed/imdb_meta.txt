@@ -1,0 +1,110 @@
+year	1959
+imdb score	3.9
+meta score	N/A
+genre	Action
+genre	Adventure
+genre	Horror
+genre	Sci-Fi
+keyword	alien
+keyword	plan
+keyword	cemetery
+keyword	pilot
+keyword	flying saucer
+keyword	california
+keyword	inspector
+keyword	lieutenant
+keyword	washington d.c.
+keyword	police
+keyword	outer space
+keyword	tombstone
+keyword	skeleton
+keyword	hit by a car
+keyword	grave digger
+keyword	zombie
+keyword	ray gun
+keyword	aerial photography
+keyword	pentagon building
+keyword	camp
+keyword	spacecraft
+keyword	1950s
+keyword	san fernando valley california
+keyword	hollywood california
+keyword	eucalyptus tree
+keyword	wooden
+keyword	police car
+keyword	flashlight
+keyword	cult film
+keyword	crypt
+keyword	ghoul
+keyword	airplane
+keyword	fistfight
+keyword	cliche
+keyword	military
+keyword	sexist attitude
+keyword	five word title
+keyword	digit in title
+keyword	voice over narration
+keyword	tape recording
+keyword	unintentionally funny
+keyword	odor
+keyword	unintentional humor
+keyword	terrible dialogue
+keyword	wobbly sets
+keyword	undead
+keyword	multiple actors for one character
+keyword	bad acting
+keyword	ufo
+keyword	funeral
+keyword	ex marine
+keyword	low budget film
+keyword	tripping while fleeing
+keyword	siren
+keyword	grave
+keyword	screaming
+keyword	fog
+keyword	washington monument
+keyword	cigarette smoking
+keyword	extraterrestrial
+keyword	alien invasion
+keyword	revolver
+keyword	match
+keyword	reanimation
+keyword	cult
+keyword	los angeles california
+keyword	critically bashed
+keyword	space travel
+keyword	stock footage
+keyword	husband wife relationship
+keyword	stewardess
+keyword	back from the dead
+keyword	number in title
+keyword	
+cast	Gregory Walcott	Jeff Trent
+cast	Mona McKinnon	Paula Trent
+cast	Duke Moore	Lieutenant Harper
+cast	Tom Keene	Colonel Edwards
+cast	Carl Anthony	Patrolman Larry
+cast	Paul Marco	Patrolman Kelton
+cast	Tor Johnson	Inspector Clay
+cast	Dudley Manlove	Eros
+cast	Joanna Lee	Tanna
+cast	John Breckinridge	Ruler
+cast	Lyle Talbot	General
+cast	David De Mering	Danny
+cast	Norma McCarty	Edith
+cast	Bill Ash	Captain
+cast	Lynn Lemon	Reverend
+cast	Ben Frommer	Man
+cast	Gloria Dea	Girl
+cast	Conrad Brooks	Policeman
+cast	Vampira	Vampire Girl
+cast	Bela Lugosi	Ghoul Man
+cast	Criswell	Narrator
+cast	Donald A. Davis	Drunk
+cast	Johnny Duncan	Second Stretcher Bearer
+cast	Karl Johnson	Farmer Calder
+cast	Tom Mason	Ghoul Man with Cape Over Face
+cast	J. Edward Reynolds	Gravedigger
+cast	Clay Stone	Mourner Reading Bible in Opening Scene
+cast	Hugh Thomas Jr.	Gravedigger
+cast	Edward D. Wood Jr.	Man Holding Newspaper

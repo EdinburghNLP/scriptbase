@@ -1,0 +1,379 @@
+year	2007
+imdb score	8.2
+meta score	73
+genre	Adventure
+genre	Biography
+genre	Drama
+keyword	wilderness
+keyword	alaska
+keyword	charity
+keyword	emory university
+keyword	river rapids
+keyword	individuation
+keyword	drifter
+keyword	truck
+keyword	washing a car
+keyword	california
+keyword	sit ups
+keyword	sleeping bag
+keyword	neo luddism
+keyword	sky ride
+keyword	diving
+keyword	fast motion scene
+keyword	lens flare
+keyword	cave
+keyword	hypocrite
+keyword	co worker
+keyword	salton sea
+keyword	nasa
+keyword	reading
+keyword	guitar
+keyword	rural setting
+keyword	male nudity
+keyword	bar
+keyword	drug use
+keyword	flashback
+keyword	credit card
+keyword	border checkpoint
+keyword	identity crisis
+keyword	chapterwise storytelling
+keyword	eagle
+keyword	bare breasts
+keyword	anti conformity
+keyword	los angeles california
+keyword	man vs nature
+keyword	male frontal nudity
+keyword	barefoot
+keyword	hitchhiking
+keyword	alcoholic drink
+keyword	bear
+keyword	thrashing machine
+keyword	hot spring
+keyword	christmas tree
+keyword	salton city california
+keyword	south dakota
+keyword	running
+keyword	photograph
+keyword	windmill
+keyword	dam
+keyword	piano player
+keyword	rifle
+keyword	false name
+keyword	backpack
+keyword	death of protagonist
+keyword	book
+keyword	freedom
+keyword	desert
+keyword	washed down river
+keyword	wheat harvest
+keyword	bus
+keyword	van
+keyword	nightmare
+keyword	domestic violence
+keyword	shaving
+keyword	boat
+keyword	undressing
+keyword	barbecue
+keyword	cheating husband
+keyword	railroad guard
+keyword	crying
+keyword	slow motion
+keyword	sex scene
+keyword	schizophrenic
+keyword	shower
+keyword	overhead camera shot
+keyword	rocket
+keyword	teenage boy
+keyword	virginia usa
+keyword	dying
+keyword	illegitimate son
+keyword	shopping cart
+keyword	materialism
+keyword	wisdom
+keyword	canal
+keyword	back to nature
+keyword	drunkenness
+keyword	nudity
+keyword	plant
+keyword	farmer
+keyword	storm
+keyword	campfire
+keyword	grand canyon
+keyword	stage performance
+keyword	hobo
+keyword	kayaking
+keyword	grandfather grandson relationship
+keyword	river patrol
+keyword	canyon
+keyword	losing weight
+keyword	chase
+keyword	deer
+keyword	search
+keyword	flower
+keyword	rain
+keyword	mountain
+keyword	death
+keyword	true life adventure
+keyword	cafe
+keyword	poetry
+keyword	apartheid
+keyword	social security card
+keyword	brother sister relationship
+keyword	grizzly bear
+keyword	tears
+keyword	grain
+keyword	abandoned bus
+keyword	fast food
+keyword	car
+keyword	hunting
+keyword	graduation present
+keyword	flash flood
+keyword	machete
+keyword	pull ups
+keyword	boyfriend girlfriend relationship
+keyword	riding the rails
+keyword	mother son relationship
+keyword	man against nature
+keyword	underwater
+keyword	home movie
+keyword	unfaithfulness
+keyword	new beginning
+keyword	moose
+keyword	bigamist
+keyword	hoover dam
+keyword	root
+keyword	character lies about age
+keyword	surrogate grandson
+keyword	chapters
+keyword	violence
+keyword	teasing
+keyword	pay phone
+keyword	female frontal nudity
+keyword	graduation
+keyword	piano
+keyword	cigarette smoking
+keyword	snow
+keyword	jumping onto a train
+keyword	growing up
+keyword	dancer
+keyword	starvation
+keyword	nudist
+keyword	money
+keyword	burning money
+keyword	adultery
+keyword	knife
+keyword	train
+keyword	husband wife relationship
+keyword	lake mead
+keyword	spider
+keyword	emaciation
+keyword	forgiveness
+keyword	irrigation
+keyword	check
+keyword	flashlight
+keyword	arrest
+keyword	lake
+keyword	telephone call
+keyword	private investigator
+keyword	on the road
+keyword	new year's resolution
+keyword	father son relationship
+keyword	life savings
+keyword	singer
+keyword	skinny dipping
+keyword	mistress
+keyword	widower
+keyword	belt
+keyword	swimming
+keyword	policeman
+keyword	sea of cortez
+keyword	car chase
+keyword	fishing pole
+keyword	lightning
+keyword	family relationships
+keyword	reference to george w. bush
+keyword	poem
+keyword	search for truth
+keyword	prayer
+keyword	journey
+keyword	infidelity
+keyword	surrogate grandfather
+keyword	reference to thoreau
+keyword	beating
+keyword	1990s
+keyword	bare chested male
+keyword	urination
+keyword	danish
+keyword	restaurant
+keyword	eyeglasses
+keyword	dancing
+keyword	colorado river
+keyword	dog
+keyword	guard dog
+keyword	chapter headings
+keyword	older man younger man relationship
+keyword	disappearance
+keyword	farming
+keyword	atlanta georgia
+keyword	soft focus
+keyword	coming of age
+keyword	hippie
+keyword	adolescence
+keyword	laundromat
+keyword	following a dream
+keyword	plan
+keyword	river
+keyword	tent
+keyword	drinking
+keyword	underwear
+keyword	icicle
+keyword	hitchhiker
+keyword	voice over narration
+keyword	listening to music
+keyword	road trip
+keyword	water skiing
+keyword	camper
+keyword	poison
+keyword	nature
+keyword	license plate
+keyword	prologue
+keyword	sitting in the middle of a street
+keyword	reference to lord byron
+keyword	illegitimate daughter
+keyword	northern california
+keyword	crystal
+keyword	self discovery
+keyword	twenty something
+keyword	female nudity
+keyword	food poisoning
+keyword	college graduate
+keyword	jet stream
+keyword	subtitled scene
+keyword	writing in the sand
+keyword	stocking cap
+keyword	police
+keyword	time clock
+keyword	guitar player
+keyword	beach
+keyword	drink
+keyword	multiple narrators
+keyword	starving to death
+keyword	fbi
+keyword	fairbanks alaska
+keyword	divorcee
+keyword	owl
+keyword	mexican
+keyword	backpacking
+keyword	stage
+keyword	affair
+keyword	college graduation
+keyword	diary
+keyword	waterfall
+keyword	exercise
+keyword	brushing teeth
+keyword	harvest
+keyword	church
+keyword	split screen
+keyword	adoption
+keyword	chest hair
+keyword	freeze frame
+keyword	three word title
+keyword	singing
+keyword	canoe
+keyword	map
+keyword	river crossing
+keyword	bee
+keyword	microphone
+keyword	family history
+keyword	death of wife
+keyword	isolation
+keyword	breaking the fourth wall
+keyword	fire
+keyword	graduate school
+keyword	nonlinear timeline
+keyword	georgia usa
+keyword	cattle
+keyword	border patrol
+keyword	leaving home
+keyword	duplicity
+keyword	border crossing
+keyword	wolf
+keyword	beard
+keyword	south africa
+keyword	nude swimming
+keyword	cooking
+keyword	journal
+keyword	neo luddite
+keyword	flashback within a flashback
+keyword	horse
+keyword	leather working
+keyword	rock climbing
+keyword	fireworks
+keyword	topless female nudity
+keyword	illness
+keyword	youth
+keyword	apple
+keyword	fight
+keyword	love
+keyword	nudism
+keyword	blood
+keyword	death of son
+keyword	based on true story
+keyword	based on book
+keyword	independent film
+keyword	title spoken by character
+cast	Emile Hirsch	Chris McCandless
+cast	Marcia Gay Harden	Billie McCandless
+cast	William Hurt	Walt McCandless
+cast	Jena Malone	Carine McCandless / Additional Narrator
+cast	Brian H. Dierker	Rainey
+cast	Catherine Keener	Jan Burres
+cast	Vince Vaughn	Wayne Westerberg
+cast	Kristen Stewart	Tracy Tatro
+cast	Hal Holbrook	Ron Franz
+cast	Jim Gallien	Himself
+cast	James O'Neill	Graduation Reader
+cast	Malinda McCollum	Waitress
+cast	Paul Knauls	Building Manager
+cast	Zach Galifianakis	Kevin
+cast	Craig Mutsch	Wayne's Crew #1
+cast	Jim Beidler	Wayne's Crew #2
+cast	John Decker	Hutterite #1
+cast	John Hofer	Hutterite #2
+cast	Jerry Hofer	Hutterite #3
+cast	Terry Waldner	Hutterite #4
+cast	Robin Mathews	Gail Borah
+cast	Candice Campos	Bar Girl
+cast	Steven Wiig	Lee's Ferry Ranger
+cast	Thure Lindhardt	Mads
+cast	Signe Egholm Olsen	Sonja
+cast	Floyd Wall	Man in Phone Booth
+cast	Bryce Walters	Chris McCandless - age 4
+cast	Jim Davis	Immigration Officer
+cast	Cheryl Francis Harrington	Social Worker
+cast	R.D. Call	Bull
+cast	Haley Ramm	Carine McCandless - age 11
+cast	Merritt Wever	Lori
+cast	Everett 'Insane Wayne' Smith	Insane Cain
+cast	John Jabaley	Announcer
+cast	Leonard Knight	Himself
+cast	Matt Contreras	Book Shopper #1
+cast	Denise Sitton	Book Shopper #2
+cast	Bart the Bear	Bear
+cast	Sharon Olds	Additional Narrator
+cast	Carine McCandless	Additional Narrator
+cast	Dan Burch	Passerby
+cast	Joe Dustin	The Beast
+cast	Golbon Eghtedari	Graduate
+cast	Alvin Ellie	Homeless Patron
+cast	Caroline Gelabert	Graduating Billie McCandless
+cast	Geri Gilmore	Old Lady Tourist
+cast	Paul Haasch	Trail Guide
+cast	Aaron Wayne Hill	Big Wheel Boy
+cast	Mad Martian	Guy At Bar
+cast	Parris Mosteller	Young Boy
+cast	Rocky Self	Punk Rocker
+cast	J. Nathan Simmons	Tourist
+cast	Susan Spencer	Parent
+cast	Haley Sweet	Bank Teller
+cast	Edward Tubbs	Brown Bronco Driver

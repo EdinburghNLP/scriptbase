@@ -1,0 +1,167 @@
+year	2005
+imdb score	6.2
+meta score	50
+genre	Drama
+genre	Sport
+genre	Thriller
+keyword	football
+keyword	injury
+keyword	father son relationship
+keyword	addiction
+keyword	gambling
+keyword	quarterback
+keyword	college football
+keyword	heart condition
+keyword	golfing
+keyword	manicure
+keyword	elephant
+keyword	new job
+keyword	new york city
+keyword	tailor
+keyword	betting shop
+keyword	hospital
+keyword	statue of liberty new york city
+keyword	restaurant
+keyword	fireplace
+keyword	computer
+keyword	call girl
+keyword	airliner
+keyword	mother daughter relationship
+keyword	pep talk
+keyword	greased back hair
+keyword	dancing
+keyword	heart disease
+keyword	doctor
+keyword	audio cassette
+keyword	newspaper headline
+keyword	threesome
+keyword	stockbroker
+keyword	urination
+keyword	anger
+keyword	held at gunpoint
+keyword	sports betting
+keyword	beauty salon
+keyword	reference to jake lamotta
+keyword	mentor
+keyword	microphone
+keyword	reference to jessica simpson
+keyword	touchdown
+keyword	bar
+keyword	father daughter relationship
+keyword	broken leg
+keyword	las vegas nevada
+keyword	watching tv
+keyword	coach
+keyword	wealth
+keyword	vomit
+keyword	tears
+keyword	mother son relationship
+keyword	reference to nostradamus
+keyword	spectator
+keyword	compact disc
+keyword	betting
+keyword	hypodermic needle
+keyword	weight room
+keyword	birthday party
+keyword	airport
+keyword	hair stylist
+keyword	bicycling
+keyword	video camera
+keyword	yacht
+keyword	tv show in film
+keyword	reference to chaucer
+keyword	puerto rico
+keyword	southern accent
+keyword	fired from the job
+keyword	basketball
+keyword	football game
+keyword	husband wife relationship
+keyword	advisor
+keyword	cable tv show
+keyword	loss of job
+keyword	haircut
+keyword	prostitute
+keyword	sex
+keyword	betting advisor
+keyword	baseball
+keyword	voice over narration
+keyword	reference to donald trump
+keyword	golden shower
+keyword	stadium
+keyword	weightlifting
+keyword	job offer
+keyword	based on true story
+keyword	number in title
+cast	Al Pacino	Walter
+cast	Matthew McConaughey	Brandon
+cast	Rene Russo	Toni
+cast	Armand Assante	Novian
+cast	Jeremy Piven	Jerry
+cast	Jaime King	Alexandria
+cast	Kevin Chapman	Southie
+cast	Ralph Garman	Reggie
+cast	Gedde Watanabe	Milton
+cast	Carly Pope	Tammy
+cast	Charles Carroll	Chuck
+cast	Gerard Plunkett	Herbie
+cast	Craig Veroni	Amir
+cast	James Kirk	Denny
+cast	Chrislyn Austin	Julia
+cast	Denise Galik	Brandon's Mom
+cast	Gary Hudson	Brandon's Dad
+cast	Jeremy Guilbaut	Mitch
+cast	Steve Makaj	Coach
+cast	Stephen Dimopoulos	Steve
+cast	Michael Rogers	Stu
+cast	William S. Taylor	Leon
+cast	Veena Sood	G.A. Hostess
+cast	Adrian Holmes	G.A. Member #2
+cast	Trevor Roberts	G.A. Member #3
+cast	Michael P. Northey	G.A. Member #4
+cast	Brad Kelly	Novian's Bodyguard
+cast	Jason Schombing	Mercedes Dealer
+cast	Louis Mustillo	Doorman
+cast	Luciana Carro	Gail
+cast	Kendall Cross	Make-Up Artist
+cast	David Lovgren	TV Technician
+cast	Malcolm Scott	Man in Window
+cast	J.B. McEown	Teammate
+cast	Robin Mossley	Waiter at Restaurant
+cast	Raimund Stamm	Man #1 at Restaurant
+cast	Jonathan Bruce	Man #2 at Restaurant
+cast	Barry LeBrock	TV Announcer
+cast	Joel Myers	TV Announcer
+cast	Ron Pitts	TV Announcer
+cast	Jim Rome	Himself
+cast	Trevor Babers	Football Player
+cast	Gene Bolton	Football Player
+cast	Jarrod Bunch	Football Player
+cast	John Clark Jr.	Football Player
+cast	Dustin Dennard	Football Player
+cast	Stefan Gamlin	Football Player
+cast	Derek Graf	Football Player
+cast	Cedric Jefferson	Football Player
+cast	Mike Jones	Football Player
+cast	Tyrone Jones Jr.	Football Player
+cast	Horace Knight	Football Player
+cast	Ty Law	Football Player
+cast	Marq Massengale	Football Player
+cast	O.J. McClintock	Football Player
+cast	Dewayne Patmon	Football Player
+cast	Kevin Reid	Football Player
+cast	Justin Riemer	Football Player
+cast	Christopher Robbins	Football Player
+cast	Mazio Royster	Football Player
+cast	Jeff Sanders	Football Player
+cast	Brandon Tully	Football Player
+cast	Zach Wilson	Football Player
+cast	Ildiko Ferenczi	Friend
+cast	Josh Hayden	Young Football Player
+cast	Brandon Lang	Man Greeting Brandon
+cast	Chooch Paglaro	TV studio stage manager
+cast	David C. Robinson	Man walking by traffic light
+cast	Joel Ross	Bartender
+cast	April Telek	Young Woman
+cast	Susan Ward	Girl in sportscar
+cast	Jackson Warris	Young Brandon at 7
+cast	Tyler James Williams	Guest at Party

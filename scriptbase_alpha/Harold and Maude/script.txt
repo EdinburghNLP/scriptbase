@@ -1,0 +1,6057 @@
+Harold and Maude (1971) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Harold and Maude (1971) movie scriptby Colin Higgins.5/29/70
+More info about this movie on IMDb.com
+
+
+     FADE IN:
+
+1     INT. THE CHASEN'S DEN - DAY
+
+     The CAMERA is at floor level. A young man enters but we
+     see only his shoes and the cuffs of his pants. We TRACK
+     with him as he walks across the room and stops at a record
+     player. Pause. We HEAR a record drop and begin playing
+     a light classical melody. The SUPERIMPOSED TITLES BEGIN.
+     After a moment the feet move off and we TRACK with them,
+     past a low table, and around a couch to the window curtains.
+     The feet pause there for a moment. A piece of heavy
+     window cord drops INTO FRAME. We FOLLOW as it is dragged
+     along to the low table. Then the feet move over to a large
+     ornate desk. The cord is pulled up OUT OF FRAME. Pause.
+     The feet walk over to a chair by the wall. It is picked
+     up, carried to the center of the room, and carefully
+     placed. Pause. The feet get up onto the chair and the
+     CAMERA RISES to their level. They shuffle about for a
+     moment. At an appropriate musical break the CREDITS STOP.
+     Suddenly the feet knock over the chair and drop into
+     space. They kick about for a bit, then go slack and still.
+     The FINAL CREDITS are SUPERED OVER the suspended appendages
+     while the music comes to a lilting conclusion. As we HEAR
+     the record player turn itself off, the CAMERA BEGINS a
+     half circle tour around the hanging feet and stops at the
+     heels. Pause. Outside we HEAR a woman's footsteps
+     approaching and we change focus as the door to the den
+     opens. Through the blurred hanging feet we see a tall,
+     middle-aged, fashionably dressed woman enter and we PAN
+     with her as she walks to the desk. This is MRS. CHASEN.
+     She seems rather tired and preoccupied as she begins to
+     remove her long white gloves. Slowly the CAMERA BEGINS a
+     vertical rise up the side of the hanging corpse until we
+     are watching Mrs. Chasen over his left shoulder. The rope
+     and his stretched neck frame the right side of the SCREEN.
+     We hold. Mrs. Chasen puts down her gloves and looks up.
+     (NOTE: THE ABOVE IS ALL ONE CONTINUOUS SHOT.)
+
+                              CUT TO:
+
+
+2     INT. DEN - DAY
+
+     CLOSEUP of Mrs. Chasen as she first sees the body. She is
+     slightly startled.
+
+
+3     INT. DEN - MRS. CHASEN'S POV - DAY
+
+     A long shot of the room where HAROLD, a young man of about
+     twenty, hangs suspended from the ceiling with the curtain
+     rope tied about his grotesquely broken neck.
+
+
+4     INT. DEN - MEDIUM SHOT - MRS. CHASEN - DAY
+
+     She stares at the body for several beats and then with
+     weary exasperation sits down at the desk and dials the
+     telephone. As she waits for an answer, she looks up at the
+     hanging body.
+
+                    MRS. CHASEN
+          I suppose you think this is very
+          funny, Harold.
+
+
+5     CLOSEUP HAROLD
+
+     The rope chokes his throat; his eyes bulge; his tongue
+     hangs out.
+
+
+6     MED. SHOT - MRS. CHASEN
+
+     Her party answers and she speaks into the phone.
+
+                    MRS. CHASEN
+          Hello. Fay, darling. Be a dear
+          and cancel my appointment with
+          Rene this afternoon. Yes, I know
+          he'll be furious, but I've had
+          the most trying day, and with
+          guests coming this evening...
+          Would you? Oh, that's sweet.
+          Tell him I promise to be in
+          Tuesday... for a rinse. Thank
+          you, Fay. You're a darling. Yes.
+          Yes. Bye.
+
+     She replaces the receiver, stands up, takes her purse and
+     gloves, and leaves the room, saying:
+
+                    MRS. CHASEN
+          Dinner at eight, Harold...
+
+     At the door she stops and turns.
+
+                    MRS. CHASEN
+          ... And try to be a little more
+          vivacious.
+
+
+7     CLOSEUP HAROLD
+
+     Quick cut of his ashen face as we HEAR the door close.
+
+
+8     INT. DINING ROOM - NIGHT
+
+     Mrs. Chasen is seated at the head of the table entertaining
+     eight to ten guests.
+
+     They are all in evening clothes and are laughing as Mrs.
+     Chasen in a dress of white ostrich feathers continues a
+     witty story.
+
+                    MRS. CHASEN
+          Needless to say, the first time it
+          happened I was absolutely abashed.
+          I was so shook I needed three
+          tranquilizers to calm me down.
+          Well, you can imagine. Suicide
+          notes all over the house - "Goodbye,"
+          "Farewell," "Arrivederci." Other
+          children pretend to run away from
+          home, but Harold - he's so dramatic.
+
+     Everyone laughs. The CAMERA BEGINS PULLING BACK and
+     PANNING past the guests till we come to Harold sitting
+     morosely at the other end of the table. He listlessly toys
+     with his food as his mother continues.
+
+                    MRS. CHASEN
+          Of course, Harold's father had a
+          similar sense of the absurd. I
+          remember once in Paris he stepped
+          out for cigarettes and the next I
+          hear he's arrested for floating
+          nude down the Seine - experimenting
+          in river currents with a pair of
+          yellow rubber water wings. Well,
+          that cost quite a little bit of
+          "enfluence" and "d'argent" to
+          hush up, I can tell you. Harold,
+          dear, stop playing with your food.
+          Don't you feel well?
+
+                    HAROLD
+               (looks up and
+               pauses)
+          I have a sore throat.
+
+                    MRS. CHASEN
+          Well, I want you to go to bed
+          directly after dinner. You know
+          how susceptible you are to colds.
+          Harold has always been a delicate
+          child. Even as a baby he seemed
+          to be abnormally prone to illness
+          - Harold, dear, eat up your beets...
+
+
+9     CLOSEUP - HAROLD
+
+     He begins eating as his mother goes on.
+
+                    MRS. CHASEN (o.s.)
+          I remember when we were in Tokyo
+          I had to call my brother Victor
+          at the embassy for a doctor. He
+          was serving there as Army attaché...
+
+                              FADE OUT.
+
+
+     FADE IN:
+
+10     INT. MRS. CHASEN'S BEDROOM - NIGHT
+
+     Mrs. Chasen sitting before her vanity table, humming to
+     herself as she readies herself for bed. She wears a night-
+     gown, a cover for her hair, and she has just finished
+     putting on several different face creams. She gets up,
+     walks over to the bathroom, and opens the door. Blood is
+     everywhere -- on the walls, the floor, the mirror - and in
+     the tub is Harold, his throat slit and his wrists dripping
+     blood onto the razor on the tile floor. The effect is one
+     of instant shock. Mrs. Chasen screams and backs up in
+     horror. Sobbing hysterically, she clutches her robe about
+     her and rushes from the room crying.
+
+                    MRS. CHASEN
+          Oh! No! Oh! No! I can't stand
+          it. My God! This is too much.
+          This is too much to bear!...
+
+
+     The CAMERA WATCHES Mrs. Chasen run off and then swings back
+     to Harold in the tub.
+
+
+11     CLOSEUP - HAROLD
+
+     We hold on his wretched face as his mother's hysterical
+     cries are heard in the background. Harold moves his head
+     and listens. He breaks into a sly, satisfied grin.
+
+
+12     INT. PSYCHIATRIST'S OFFICE - DAY
+
+     Harold is lying on a couch, perfectly relaxed. The
+     PSYCHIATRIST, less so, is seated by him.
+
+                    PSYCHIATRIST
+          Tell me, Harold, how many of
+          these, eh, suicides have you
+          performed?
+
+                    HAROLD
+               (pause)
+          An accurate number would be
+          difficult to gauge.
+
+                    PSYCHIATRIST
+          And why is that?
+
+                    HAROLD
+          Well, some worked out better than
+          others - some had to be abandoned
+          in the planning stages - do you
+          include the first time? - then
+          there's the question of maiming...
+
+                    PSYCHIATRIST
+          Just give me a rough estimate.
+
+                    HAROLD
+          Well, a rough estimate... I'd say
+          fifteen.
+
+                    PSYCHIATRIST
+          Fifteen.
+
+                    HAROLD
+          A rough estimate.
+
+                    PSYCHIATRIST
+          And were they all done for your
+          mother's benefit?
+
+                    HAROLD
+               (thoughtful pause)
+          I wouldn't say "benefit."
+
+                    PSYCHIATRIST
+          No, I suppose not. How do you
+          feel about your mother?
+
+
+13     INSERT - STOCK
+
+     A giant steel ball on a demolition crane crashes into a
+     brick wall collapsing it with much noise and dust.
+
+                              DISSOLVE TO:
+
+
+14     EXT. THE CHASEN POOLSIDE - DAY
+
+     Mrs. Chasen decked out in a fashionable black bikini, crazy
+     glasses, and an enormous sun hat, walks down the garden
+     steps to the pool. Over this and the end of the above we
+     HEAR her voice.
+
+                    MRS. CHASEN (v.o.)
+          Hello, Fay, darling. Be an
+          absolute dear and cancel my
+          appointment with Rene this afternoon.
+          Oh, I know, but Wednesday morning
+          would be so much more convenient.
+          Oh, you are an angel. Yes. Yes.
+          Bye.
+
+     Mrs. Chasen has now reached the poolside. As she walks
+     around it we PAN with her and discover Harold, fully
+     clothed, floating face downward on the still surface. Mrs.
+     Chasen does not see him and walks into the pool house.
+
+
+15     INT. POOL HOUSE - DAY
+
+     Mrs. Chasen walks down the steps of the pool house and over
+     to the bar. Behind the bar is an underwater viewing
+     window into the pool. She stops and looks up through the
+     window.
+
+
+16     MRS. CHASEN'S POV
+
+     Through the window we see Harold, drowned and bug-eyed,
+     floating on the surface.
+
+
+17     MED. SHOT - MRS. CHASEN
+
+     Mrs. Chasen sighs, yanks a cord, and the venetian blinds
+     come noisily down cutting off Harold from view.
+
+
+18     INT. PSYCHIATRIST'S OFFICE - DAY
+
+     Harold is lying on the couch.
+
+                    HAROLD
+               (a reasoned
+               assessment)
+          I don't think I'm getting through
+          to Mother like I used to.
+
+                    PSYCHIATRIST
+          Does that worry you?
+
+                    HAROLD
+               (pause)
+          Yes. It does.
+
+                    PSYCHIATRIST
+          Why?
+
+                    HAROLD
+          I put a lot of effort into these
+          things.
+
+                    PSYCHIATRIST
+          Ah, yes.
+
+                    HAROLD
+          And a lot of time.
+
+                    PSYCHIATRIST
+          I'm sure. But what else do you
+          do with your time? Do you go to
+          school?
+
+                    HAROLD
+          No.
+
+                    PSYCHIATRIST
+          What about the draft?
+
+                    HAROLD
+          My mother spoke to my Uncle Victor.
+          He's in the Army and he fixed it up.
+
+                    PSYCHIATRIST
+          Oh. Well, how do you spend your
+          day?
+
+                    HAROLD
+          You mean when I'm not working on a...
+
+                    PSYCHIATRIST
+          Yes. What kind of things do you do?
+
+
+19     EXT. AUTOMOBILE JUNKYARD - DAY
+
+     Cranes, auto smashers, bulldozers, and mountains of rusting
+     cars and other junk. Very noisy and very fast cut. A
+     little essay on destructive machinery at work with Harold
+     looking on in rapture.
+
+
+20     INT. PSYCHIATRIST'S OFFICE - DAY
+
+                    PSYCHIATRIST
+          I see. Junkyards. What is the
+          fascination there?
+
+                    HAROLD
+          I don't know.
+
+                    PSYCHIATRIST
+          Is it the machines? The noise?
+          The people?
+
+                    HAROLD
+          No. It's the junk. I like to
+          look at junk.
+
+                    PSYCHIATRIST
+          What else do you like?
+
+     Harold pauses.
+
+
+21     INSERT - STOCK
+
+     A giant steel ball crashes into a building. We watch it
+     fall noisily into dust and rubble.
+
+
+22     INT. PSYCHIATRIST'S OFFICE - DAY
+
+                    PSYCHIATRIST
+          That's very interesting, Harold,
+          and I think very illuminative.
+          There seems to be a definite pattern
+          emerging.
+               (taking copious notes)
+          Your fondness for useless machines
+          and demolitions seems indicative
+          of your present emotional state,
+          your self-destructive urges and
+          your alienation from the regular
+          social interaction. What do you
+          think? And of course this pattern
+          once isolated can be coped with.
+          Recognize the problem and you are
+          half way on the road to its
+          solution. But tell me, what do
+          you do for fun? What activity
+          gives you a different sense of
+          enjoyment than the others? What
+          do you find fulfilling? What
+          gives you that certain satisfaction?
+
+                    HAROLD
+          I go to funerals.
+
+
+23     EXT. CEMETERY - LONG SHOT - DAY
+
+     showing a small group of mourners around a grave. A nearby
+     bench by a tree is empty. The coffin is slowly being
+     lowered into the ground.
+
+
+24     EXT. CEMETERY - DAY
+
+     CLOSER SHOTS of the mourners sobbing and the priest pray-
+     ing. We come to Harold who has a look of gentle fascina-
+     tion. The service is concluding. Harold looks up across
+     the grave. A hundred yards away on the cemetery bench
+     sits an old woman eating a tangerine. This is MAUDE.
+     Harold stares at her. She seems to be having some kind of
+     happy picnic. She looks over towards him. He quickly
+     returns his attention to the burial.
+
+
+25     EXT. CHASEN HOME - DAY
+
+     Mrs. Chasen opens the front door and is saying farewell to
+     two lady friends, the same kind of chic sophisticates as
+     she is. Just then a hearse pulls into the driveway,
+     passes them, and parks by the garage. The two women are
+     somewhat stunned. Harold gets out of the hearse and goes
+     into the backyard. The two women look to Mrs. Chasen for
+     some explanation. Mrs. Chasen smiles lamely.
+
+
+26     INT. CHASEN'S DEN - DAY
+
+     Mrs. Chasen is addressing a seated and mute Harold.
+
+                    MRS. CHASEN
+          Why you purchased that monstrous
+          thing is totally beyond me. You
+          can have any car you want - a Porsche,
+          a Jaguar, a nice little MG roadster
+          - but that ugly, black horror is an
+          eyesore and an embarrassment.
+          Really, Harold, you are no longer
+          a child. It's time for you to
+          settle down and stop flitting away
+          your talents on these amateur
+          theatrics - your little
+          "divertissements" - no matter how
+          psychologically purging they may
+          be. I don't know what to do.
+
+
+27     INSERT - CLOSEUP OF UNCLE VICTOR - LEFT PROFILE
+
+                    UNCLE VICTOR
+          I'd put him in the Army, Helen.
+
+
+28     INT. CHASEN'S DEN - DAY
+
+     Mrs. Chasen continues.
+
+                    MRS. CHASEN
+          Go have a talk with your Uncle
+          Victor. Perhaps he can fathom you.
+          After all, he was General Bradley's
+          right hand man.
+
+
+29     INT. VICTOR'S OFFICE - DAY
+
+     UNCLE VICTOR, a bluff, hearty, totally military man, is a
+     one star general with an amputated right arm. Harold sits
+     before him.
+
+                    UNCLE VICTOR
+          Harold, your mother has briefed me
+          on your situation and there is no
+          doubt in my mind of the requisite
+          necessary action. If it was up to
+          me I'd process your file and ship
+          you off to boot camp tomorrow.
+          Your mother, however, is adamant.
+          She does not want you in the Army
+          and insists on my holding on to
+          your draft records. But what do
+          you say, Harold?
+               (he begins a
+               selling job)
+          It's a great life. Action! Adventure!
+          Advising. See war - firsthand! Plenty
+          of slant-eyed girls. It will make a
+          man out of you, Harold. You'll travel
+          the world. Put on the uniform and
+          take on a man's job. Walk tall! -
+          with a glint in your eye, a spring
+          in your step, and the knowledge in
+          your heart that you are -
+               (he gestures to a
+               poster of bullet-
+               blazing Marines)
+          - working for peace, and - are
+          serving your country.
+
+     He stops before a poster of Nathan Hale with a noose about
+     his neck.
+
+                    UNCLE VICTOR
+               (continuing)
+          Like Nathan Hale. That's what this
+          country needs - more Nathan Hales.
+
+     He pulls his lanyard, activating some weird mechanism which
+     snaps up his empty sleeve into a natty salute. A pause.
+     The sleeve smartly refolds and he turns to Harold.
+
+                    UNCLE VICTOR
+               (softly)
+          And, Harold, I think I can see a
+          little Nathan Hale in you.
+
+
+30     INT. CHASEN'S DEN - DAY
+
+     Mrs. Chasen is going out, but she comes in to talk to Harold.
+
+                    MRS. CHASEN
+          I only have a few minutes, Harold,
+          but I do want to inform you of my
+          decision. There is no doubt that
+          it is time for you to settle down
+          and begin thinking about your
+          future. You have led a very
+          carefree, idle, happy life up to
+          the present - the life of a child.
+          But it is time now to put away
+          childish things and take on adult
+          responsibilities. We would all
+          like to sail through life with
+          no thought of tomorrow. But that
+          cannot be. We have our duty. Our
+          obligations. Our principles. In
+          short, Harold, I think it is time
+          you got married.
+
+
+31      INT. CHURCH - DAY
+
+     PAN DOWN from the stained glass window of a church. The
+     organ is playing softly. The PRIEST, a silver haired man
+     rapidly approaching dotage, is in the pulpit.
+
+                    PRIEST
+          And so dear brethren, let us pray
+          to the Lord, King of Glory, that
+          He may bless and deliver all souls
+          of the faithful departed from the
+          pains of hell and the bottomless
+          pit, deliver them from the lion's
+          mouth and the darkness therein,
+          but rather bring them to the bliss
+          of heaven, the holy light, and
+          eternal rest.
+
+     During the above we PULL BACK to reveal an open coffin and
+     a church spreckled with a few mourners in black. Con-
+     spicuous in an empty pew is Harold.
+
+     The priest goes to the altar and mumbles the dull ritual.
+     The small congregation responds. Harold sits quietly
+     enjoying it all.
+
+                    VOICE (o.s.)
+          Psst!
+
+     Harold, startled, looks over to his left.
+
+
+32     HAROLD'S POV
+
+     A pixiesque old woman, somewhat eccentrically dressed, is
+     smiling at him. It is Maude again.
+
+
+33     CLOSEUP HAROLD
+
+     Frowning slightly, Harold turns back front.
+
+                    MAUDE
+          Psst.
+
+     Harold looks back.
+
+
+34     HAROLD'S POV
+
+     Maude gives him a coquettish wink.
+
+
+35     CLOSEUP HAROLD
+
+     Harold is slightly shocked. He returns his attention to
+     the altar.
+
+
+36     MED. SHOT - PRIEST
+
+     The priest moans on.
+
+
+37     MED. SHOT - HAROLD
+
+     Harold sits attentively.
+
+                    VOICE (o.s.)
+          Psst!
+
+     Harold, startled, looks over his right shoulder and sees
+     Maude kneeling in the pew behind him. She speaks with a
+     slight British/European accent.
+
+                    MAUDE
+          Like some licorice?
+
+     She offers some.
+
+                    HAROLD
+          Eh, no. Thank you.
+
+                    MAUDE
+          You're welcome.
+               (gesturing to
+               the deceased)
+          Did you know him?
+
+                    HAROLD
+          Eh, no.
+
+                    MAUDE
+          Me neither. I heard he was eighty
+          years old. I'll be eighty next
+          week. A good time to move on,
+          don't you think?
+
+                    HAROLD
+               (trying to
+               ignore her)
+          I don't know.
+
+                    MAUDE
+          I mean, seventy-five is too early,
+          but at eighty-five, well, you're
+          just marking time and you may as
+          well look over the horizon.
+
+
+38     MED. SHOT - ALTAR
+
+     The priest finishes the prayers and exits. The casket is
+     closed and the pallbearers take it out the side door. The
+     few mourners follow.
+
+     Maude is now sitting next to Harold.
+
+                    MAUDE
+          I'll never understand this mania
+          for black. I mean no one sends
+          black flowers, do they? Black
+          flowers are dead flowers and who
+          would send black flowers to a
+          funeral? It's change!
+               (fluttery laugh)
+          How absurd.
+
+     Her eye catches a dour portrait of the Blessed Virgin and
+     Child on a pillar. With one swoop she takes a felt pen
+     from Harold's breast pocket and draws on the painting a
+     bright and cheery smile.
+
+     Harold is stunned.
+
+                    MAUDE
+          There, that's better. They never
+          give the poor thing a chance to
+          laugh. Heaven knows she has a lot
+          to be happy about. In fact...
+               (she looks thought-
+               fully around the
+               church)
+          - they all have a lot to be happy
+          about. Excuse me.
+
+
+40     INSERTS
+
+     The faces of four somber statue saints.
+
+                    MAUDE (v.o.)
+          An unhappy saint is a contradiction
+          in terms.
+
+
+41     INT. AT THE CHURCH DOOR
+
+     An anxious Harold stands while Maude puts the top back on
+     his pen. Maude smiles and gestures at a crucifix.
+
+                    MAUDE
+          And why do they keep on about
+          that? You'd think no one ever
+          read the end of the story.
+
+     She exits grandly with Harold's pen. Harold follows.
+
+
+42     INSERTS
+
+     FOUR QUICK CUTS of the saints' faces. They all have
+     delightfully ridiculous smiles drawn on their faces.
+
+
+43     CLOSEUP - PRIEST
+
+     In the same rhythm we have a FIFTH CUT - the returning
+     priest who is dropped dead by what he sees.
+
+44      EXT. CHURCH STEPS - DAY
+
+                    MAUDE
+          It's a question of emphasis, you
+          might say. Accentuate the positive,
+          so to speak.
+
+                    HAROLD
+          Eh, could I have my pen back now,
+          please?
+
+                    MAUDE
+          Oh, of course. What is your name?
+
+                    HAROLD
+          Harold Chasen.
+
+                    MAUDE
+          How do you do? I am Dame Marjorie
+          Chardin, but you may call me Maude.
+
+                    HAROLD
+          Nice to meet you.
+
+                    MAUDE
+          Oh, thank you. I think we shall
+          be great friends, don't you?
+
+     Maude takes a great ring of keys from her purse, selects
+     one of them, and opens the door of the car at the curb.
+
+                    MAUDE
+          Can I drop you anywhere, Harold?
+
+                    HAROLD
+               (quickly)
+          No, thank you. I have my car.
+
+                    MAUDE
+          Well then, I must be off.
+               (she gets in)
+          We shall have to meet again.
+
+     She revs up the motor and looks over at Harold.
+
+                    MAUDE
+          Do you dance?
+
+                    HAROLD
+          What?
+
+                    MAUDE
+          Do you sing and dance?
+
+                    HAROLD
+          Eh, no.
+
+                    MAUDE
+          No.
+               (she smiles)
+          I thought not.
+
+     With a great screech of burning rubber Maude drives down
+     the street just as the priest comes up to Harold. They
+     both watch her squeal around the corner.
+
+                    PRIEST
+               (totally mystified)
+          That woman... She took my car.
+
+
+45     INT. CHASEN DEN - DAY
+
+     Harold is sitting in a chair. His mother enters and sits
+     down at the desk.
+
+                    MRS. CHASEN
+          I have here, Harold, the forms sent
+          out by the National Computer Dating
+          Service. It seems to me that as
+          you do not get along with the
+          daughters of my friends this is the
+          best way for you to find a
+          prospective wife.
+
+     Harold starts to say something.
+
+                    MRS. CHASEN
+               (continuing)
+          Please, Harold, we have a lot to
+          do and I have to be at the
+          hairdresser's at three.
+               (she looks over
+               the papers)
+          The Computer Dating Service
+          offers you at least three dates
+          on the initial investment. They
+          screen out the fat and ugly so
+          it is obviously a firm of high
+          standards. I'm sure they can
+          find you at least one girl who
+          is compatible. Now first, here
+          is the personality interview which
+          you are to fill out and return.
+          There are fifty questions with
+          five possible responses to check...
+          "A - Absolutely Yes, B - Yes,
+          C - Not sure, D - No, E -
+          Absolutely No." Are you ready,
+          Harold?
+
+          The first question is "Are you
+          uncomfortable meeting new people?"
+          Well, I think that's a "yes."
+          Don't you agree, Harold? Even an
+          "Absolutely yes." We'll put down
+          "A" on that. Now, number two.
+          "Do you believe it is acceptable
+          for women to initiate dates with
+          men?" Well, absolutely. Mark "A"
+          on that. "Three - Should sex
+          education be taught outside the
+          home?" I would say no, wouldn't
+          you, Harold? Give a "D" there.
+
+     Mrs. Chasen continues filling out Harold's questionnaire
+     without hardly ever even looking over for his reaction.
+     He sits there, watching.
+
+                    MRS. CHASEN
+          "Four - Do you often invite friends
+          to your home?" Now, you never do,
+          Harold. Absolutely no. "Five -
+          Do you enjoy participating in clubs
+          and social organizations?" You
+          don't, do you? Absolutely no.
+          "Six - Do you enjoy spending a lot
+          of time by yourself?" Absolutely
+          yes. Mark "A." "Seven - Should
+          women run for President of the
+          United States?" I don't see why
+          not. Absolutely yes. "Eight -
+          Do you have ups and downs without
+          obvious reason?" You do, don't
+          you, Harold? Absolutely yes.
+          "Nine - Do you remember jokes and
+          take pleasure in relating them to
+          others?" You don't, do you, Harold?
+          Absolutely no. "Ten - Do you
+          often get the feeling that perhaps
+          life isn't worth living?" Hmm.
+          What do you think, Harold?
+
+     Harold looks blankly back at his mother.
+
+                    MRS. CHASEN
+               (continuing)
+          "A"? "B"? We'll put down "C" -
+          "Not sure." "Eleven - Is the
+          subject of sex being over-exploited
+          by our mass media?" That would
+          have to be "Yes," wouldn't it?
+          "Twelve - Do you think judges favor
+          some lawyers?" Yes, I suppose they
+          do. "Thirteen - ....
+
+     Harold sits passively in his chair. Slowly he draws a
+     revolver from his pocket. As his mother rattles on he very
+     deliberately loads the bullets one by one into the chamber.
+
+                    MRS. CHASEN
+          ... Is it difficult for you to
+          accept criticism?" Nooo. We'll
+          mark "D." "Fourteen - Do you
+          sometimes have headaches or back
+          aches after a difficult day?" Yes,
+          I do indeed. "Fifteen - Do you go
+          to sleep easily?" I'd say so.
+          "Sixteen - Do you believe in capital
+          punishment for murder?" Oh, yes.
+          "Seventeen - Do you believe churches
+          have a strong influence to upgrade
+          the general morality?" - yes, again.
+          "Eighteen - In your opinion are
+          social affairs usually a waste of
+          time?" Heavens, no! "Nineteen -
+          Can God influence our lives?" Yes.
+          Absolutely yes. "Twenty - Have you
+          ever crossed the street to avoid
+          meeting someone?" Well, I'm sure
+          you have, haven't you, Harold?
+          "Twenty-one - Would you prefer to
+          be with a group of people rather
+          than alone?" That's you, Harold.
+          "Twenty-two - Is it acceptable for
+          a schoolteacher to smoke or drink
+          in public?" Well, with reservation.
+          Mark "B." "Twenty-three..."
+
+     Having finished loading the gun, Harold cocks it and,
+     looking at his mother, slowly lifts it up.
+
+                    MRS. CHASEN
+          ... Does your personal religion
+          or philosophy include a life after
+          death?" Oh, yes, indeed. That's
+          "Absolutely." "Twenty-four - Did
+          you enjoy life when you were a
+          child?" Oh, yes. You were a
+          wonderful baby, Harold. "Twenty-
+          five..."
+
+     The gun is pointing at his mother. Slowly Harold turns it
+     till it is pointing directly into his face. He pulls the
+     trigger. A burst of blood and a loud EXPLOSION.
+
+     He and the chair are blown over backward OUT OF FRAME.
+     SOUNDS of crashing furniture and breaking china. Mrs.
+     Chasen remains impervious to it all.
+
+                    MRS. CHASEN
+          ... "Do you think the sexual
+          revolution has gone too far?" It
+          certainly seems to have. "Twenty-
+          six...
+
+     The last crash - a tottering lamp falls. Mrs. Chasen looks
+     up peeved.
+
+                    MRS. CHASEN
+          Harold! Please!
+               (beat)
+          "Should evolution be taught in our
+          public schools?!"
+
+
+46     EXT. GRAVEYARD DRIVE - DAY
+
+     A long line of black limousines follow a hearse in a funeral
+     procession. At the tag of the line is another hearse --
+     Harold's.
+
+
+47     EXT. AT THE GRAVESITE - DAY
+
+     PAN around the sorrowing faces. STOP at Harold. CONTINUE
+     past him 180 degrees and STOP at Maude. She is directly
+     across the open grave from Harold. She tries to get his
+     attention.
+
+                    MAUDE
+          Psst! Psst!
+
+     Harold looks up. Maude gives him a friendly wink, and a
+     kind of "How do you do?" smile. Harold is horrified. The
+     priest looks up from his praying. It is the same priest
+     as before. He looks over at Maude. Maude suddenly over-
+     come by sorrow backs away from the people.
+
+                              DISSOLVE TO:
+
+
+48     EXT. GRAVEYARD - DAY
+
+     Harold is walking by the road. The funeral in the back-
+     ground is over but we see the priest coming toward him.
+
+                    PRIEST
+          Eh, my boy. A moment, please.
+          Who was that old lady waving to
+          you earlier?
+
+     Just then Maude drives up in Harold's hearse. She stops.
+
+                    MAUDE
+          Hello, Harold. Can I give you a
+          lift?
+
+     Harold is surprised. He goes over to the hearse.
+
+                    PRIEST
+          Ah! There you are, madam. Were
+          not you the lady who drove my car
+          off yesterday?
+
+                    MAUDE
+          Was that the one with the St.
+          Christopher medal on the dashboard?
+
+                    PRIEST
+          Yes.
+
+                    MAUDE
+          Then I suppose it was me. Get in,
+          Harold.
+
+     Harold decides not to argue. He gets in.
+
+                    PRIEST
+          Were you also the one who painted
+          the statues?
+
+                    MAUDE
+               (brightly)
+          Oh, yes. How did you like that?
+
+                    PRIEST
+          Well, I didn't.
+
+                    MAUDE
+          Oh, don't be too discouraged.
+          For aesthetic appreciation -
+          always a little time.
+
+                    PRIEST
+          But wait...
+
+     Maude waves and drives off with her usual screeching start.
+
+
+49     INT. HAROLD'S HEARSE - DAY
+
+     Harold is sitting in the front seat, wanting to say some-
+     thing but also trying to hold on. Maude drives like a
+     racing car driver, fast and risky, but with complete self-
+     assurance.
+
+                    MAUDE
+          What a delight it is, Harold, to
+          bump into you again. I knew we
+          were going to be good friends the
+          moment I saw you. You go to
+          funerals often, don't you?
+
+     Harold is more intent on Maude's maneuvering of his car
+     than on conversation.
+
+                    HAROLD
+          Yes.
+
+                    MAUDE
+          Oh, so do I. They're such fun,
+          aren't they? It's all change.
+          All revolving. Burials and births.
+          The end to the beginning and the
+          beginning to the end -
+               (she makes a screeching left-
+               hand turn)
+          - the great circle of life. My,
+          this old thing handles well. Ever
+          drive a hearse, Harold?
+
+                    HAROLD
+               (petrified)
+          Yes.
+
+                    MAUDE
+          Well, it's a new experience for me.
+               (she makes a screech-
+               ing right-hand turn)
+          Good on curves. Shall I take you
+          home, Harold?
+
+                    HAROLD
+               (managing to speak)
+          But this is my car.
+
+                    MAUDE
+          Your hearse?
+
+                    HAROLD
+          Yearse!
+
+                    MAUDE
+          Oh.
+
+
+50     EXT. ROADSIDE - LONG SHOT - DAY
+
+     of the car coming to a screeching halt.
+
+
+51     INT. CAR - DAY
+
+                    MAUDE
+               (brightly)
+          Then you shall take me home.
+
+
+52     INT. CAR - DAY
+
+     SAME ANGLE as 49 but this time Harold is driving and Maude
+     sits beside him.
+
+                    MAUDE
+          And so just before he left for the
+          monastery in Tibet, Big Sweeney
+          gave me his keys.
+
+     She is showing Harold her ring of car keys.
+
+                    MAUDE
+               (continuing)
+          Of course, I've had to make some
+          additions for the new models, but
+          not as many as you might think.
+          Once you have your basic set it's
+          then only a question of variation.
+
+                    HAROLD
+          And you get into any car you want
+          and just drive off?
+
+                    MAUDE
+          Not any car. I like to keep a
+          variety. I'm always looking for
+          the new experience, like this one.
+          I liked it.
+
+                    HAROLD
+          Thank you. But when you take these
+          cars don't you think you are
+          wronging the owners?
+
+                    MAUDE
+          What owners, Harold? We don't
+          own anything. It's a transitory
+          world. We come on the earth with
+          nothing, and we go out with nothing,
+          so isn't "ownership" a little
+          absurd?
+
+                    HAROLD
+          Still, I think you'd upset
+          people and I'm not sure that's
+          right.
+
+                    MAUDE
+          Well, if some people are upset
+          because they feel they have a hold
+          on some things, then I'm merely
+          acting as a gentle reminder - I'm
+          sort of breaking it easy -- Here
+          today, gone tomorrow, so don't get
+          attached to things. Now, with that
+          in mind, I'm not against collecting
+          stuff...
+
+
+53     INT. MAUDE'S APARTMENT - DAY
+
+     Maude and Harold enter.
+
+                    MAUDE
+          ... I've collected quite a lot of
+          stuff in my time.
+
+     We see Maude's main room filled with all kinds of eccentric
+     memorabilia, from a mounted swordfish to an ivory Buddha.
+     It is dominated by a large canopied bed like something from
+     a Wagnerian opera. Other features are a large fireplace,
+     a baby grand piano, expensive paintings on the walls, a
+     tall wooden sculpture, and a Japanese type eating area with
+     satin cushions.
+
+                    MAUDE
+          It's all memorabilia, but incidental
+          and not integral, if you know what
+          I mean.
+
+                    HAROLD
+               (looks around amazed)
+          It's very interesting.
+
+                    MAUDE
+          Oh, look! The birds.
+
+     She goes to the window and works a unique pulley device that
+     delivers seed to the bird table in the back yard.
+
+                    MAUDE
+          This is my daily ritual. I love
+          them so much. The only wild life
+          I see anymore. Free as a bird!
+               (fluttery laugh)
+          You know, at one time I used to
+          break into pet shops and liberate
+          the canaries, but I gave it up
+          as an idea before its time. The
+          zoos are full and the prisons
+          overflowing.
+
+          My, my. How the world so dearly
+          loves a cage.
+               (she looks out
+               another window)
+          And there's Madame Arouet,
+          cultivating her garden.
+
+     She waves at the black dressed old woman diligently hoeing
+     vegetables in the backyard. The old woman does not
+     notice Maude.
+
+                    MAUDE
+               (sighs)
+          She's very sweet, but so old-
+          fashioned. Please sit down, Harold.
+          I'll put on the kettle and we'll
+          have a nice hot cup of tea.
+
+                    HAROLD
+          Thank you, but I really have to
+          go.
+
+                    MAUDE
+          But it's oat straw tea. You've
+          never had oat straw tea, have you?
+
+                    HAROLD
+          No.
+
+                    MAUDE
+          Well then.
+
+     The argument is over.
+
+                    HAROLD
+          Thank you, but it's an appointment.
+          I really shouldn't miss it.
+
+                    MAUDE
+          Oh, at the dentist's?
+
+                    HAROLD
+          Sort of.
+
+                    MAUDE
+          Well, then, you must come back
+          and visit.
+
+                    HAROLD
+          All right.
+
+                    MAUDE
+           My door is always open.
+
+                    HAROLD
+           All right.
+
+                    MAUDE
+           Promise?
+
+     He turns at the door and half smiles.
+
+                    HAROLD
+           Promise.
+
+
+54     INT. PSYCHIATRIST'S OFFICE - DAY
+
+     Harold is on the couch. The psychiatrist sits behind him.
+
+                     PSYCHIATRIST
+           Harold?
+
+     Harold is day dreaming.
+
+                     PSYCHIATRIST
+           Harold?
+
+                    HAROLD
+               (comes to)
+           Huh?
+
+                    PSYCHIATRIST
+          You don't seem to be listening.
+          I asked do you have any friends?
+
+                    HAROLD
+          No.
+
+                    PSYCHIATRIST
+          None at all?
+
+                    HAROLD
+          Well, maybe one.
+
+                    PSYCHIATRIST
+          Would you care to talk about
+          this friend?
+
+                    HAROLD
+          No.
+
+                    PSYCHIATRIST
+          Is this a friend you had when
+          you were away at school?
+
+                    HAROLD
+           No.
+
+                    PSYCHIATRIST
+                (things are
+               getting difficult)
+           I see.
+               (he tries a new
+               attack)
+          Were you happy at school, Harold?
+
+                    HAROLD
+           Yes.
+
+                    PSYCHIATRIST
+           You liked your teachers?
+
+                    HAROLD
+           Yes.
+
+                    PSYCHIATRIST
+           Your classmates?
+
+                    HAROLD
+           Yes.
+
+                    PSYCHIATRIST
+           Your studies?
+
+                    HAROLD
+           Yes.
+
+                    PSYCHIATRIST
+           Then why did you leave?
+
+                    HAROLD
+           I burnt down the Chemistry building.
+
+     The psychiatrist gets up and rather anxiously paces about.
+
+                    PSYCHIATRIST
+           We are not relating today, Harold.
+          I sense a definite resistance.
+          A lack of true and helpful
+          communication. I find you a very
+          interesting case, Harold, but
+          this reluctance of yours is
+          detrimental to the psycho-analytical
+          process, and can only hinder the
+          possibility of effective treatment.
+          Do you understand?
+
+                    HAROLD
+           Yes.
+
+                    PSYCHIATRIST
+           Very well.
+               (he sits)
+          Now your mother tells me she is
+          arranging several dates for you
+          with some young ladies. How do
+          you feel about that?
+
+
+55     STOCK INSERT
+
+     A giant steel ball crashes into a brick wall, demolishing
+     it.
+
+
+56     INT. PSYCHIATRIST'S OFFICE - DAY
+
+                    PSYCHIATRIST
+           I see. Tell me, Harold, do you
+          remember your father at all?
+
+                    HAROLD
+           No.
+               (pause)
+          I'd have liked to.
+
+                    PSYCHIATRIST
+           Why?
+
+                    HAROLD
+          I'd have liked to talk to him.
+
+                    PSYCHIATRIST
+           What would you say?
+
+                    HAROLD
+                (pause)
+           I'd show him my hearse. And my
+          room, and stuff.
+
+                    PSYCHIATRIST
+           What kind of stuff?
+
+
+57     OMITTED
+
+
+58     OMITTED
+
+59     INT. HAROLD'S ROOM - NIGHT
+
+     All the lights are on showing a room cluttered with books,
+     guns and swords on the walls, small bits of odd machinery,
+     a chemistry workbench, a school pennant, some trophies,
+     some models, a chess set, etc.
+
+                    HAROLD (v.o.)
+          Oh, all my things - incidental but
+          not integral, if you know what I
+          mean.
+
+     We PAN over individual items - the chemistry set, pool
+     floats, a small oxygen cylinder, the rope and body harness
+     he used to hang himself in the first scene, a large bottle
+     of Max Factor blood, a portrait of Lon Chaney as "The
+     Phantom of the Opera."
+
+     We come to a silver serving dish with a large silver cover
+     over it. A hand comes into frame and removes the cover.
+     On the dish is Harold's severed head. The hands pick up
+     the head. We TILT UP and see it is Harold. He takes the
+     dummy head over to his dresser, combs the hair and picks
+     off the latex blood, and then takes it to the center of the
+     room, where a headless dummy sits in a chair. Harold screws
+     the head onto the dummy. It doesn't fit very well. He
+     fiddles with it a moment but he is not satisfied. He goes
+     to his closet and looks into a box of tools and things.
+     He takes a meat cleaver out but he is still looking for
+     something else. There is a knock on the door and Mrs.
+     Chasen in evening clothes enters. Harold turns to come out
+     of the closet but he hears his mother addressing the dummy.
+
+                     MRS. CHASEN
+           Now listen, Harold, I have here the
+          three girls sent out by the Computer
+          Dating Service.
+
+     She shuffles through three IBM cards in her hand.
+
+                     MRS. CHASEN
+                (continuing)
+           I've phoned them up and invited
+          each of them to have lunch with
+          us before you take them out. The
+          first one is coming tomorrow at
+          one. Luncheon at two.
+
+     Harold stands with the meat cleaver in his hand behind the
+     closet door. He listens blankly.
+
+                    MRS. CHASEN
+               (still talking to
+               the dummy)
+          Now I want you to act like a
+          gentleman and make this girl
+          feel at home.
+
+          Well, I'm off to the ballet with
+          the Fergusons. I only hope they
+          can maneuver round that great black
+          thing in the driveway.
+               (she pauses)
+           You look a little pale, Harold.
+                (she opens the door)
+           You get a good night's sleep. After
+          all you want to look your best for
+          tomorrow.
+               (she exits)
+
+     Harold hears the door shut. He ponders his fate for a
+     moment. He leans around the door and looks at the dummy.
+     He thinks. He gives it up. He goes back in the closet
+     to find whatever he was looking for.
+
+
+60     INT. CHASEN'S FRONT LOBBY - DAY
+
+      Mrs. Chasen opens the front door, revealing a cute, blond,
+     typical American co-ed. This is CANDY GULF.
+
+                    CANDY
+          Hello, I'm Candy Gulf.
+
+                    MRS. CHASEN
+          How do you do. I'm Mrs. Chasen.
+          Come in.
+
+     Candy comes in and Mrs. Chasen closes the door.
+
+                     MRS. CHASEN
+               (continuing)
+           Harold is out in the garden.
+          He'll be in in a moment. Let's
+          go into the den.
+
+
+61     INT. CHASEN'S DEN - DAY
+
+     Candy and Mrs. Chasen enter.
+
+                    MRS. CHASEN
+          You are at the University, Candy?
+
+                    CANDY
+          Yes, I am.
+
+                    MRS. CHASEN
+          And what are you studying?
+
+                    CANDY
+          Poli. Sci. With a home ec minor.
+
+                    MRS. CHASEN
+          Eh, Poli Sci?
+
+                     CANDY
+           Political Science. It's all about
+          what's going on.
+
+     They walk to the window.
+
+                     MRS. CHASEN
+           Oh, there's Harold now.
+
+     Candy and Mrs. Chasen look out the French window. They
+     wave. Harold waves back and leaves. Candy and Mrs. Chasen
+     sit down. Candy faces the window; Mrs. Chasen has her
+     back to it.
+
+                     CANDY
+           He seems very nice. Is Harold
+          interested in, eh, what's going
+          on? I think it's such a super
+          thing to study. And then, of
+          course, I can always fall back
+          on home ec.
+
+                     MRS. CHASEN
+           Yes, that's good planning. Tell
+          me, are you a regular, Candy, in
+          this computer club?
+
+     We see out the window that Harold has come back. He carries
+     a large can marked Kerosene. Candy sees him but returns
+     her attention to answering Mrs. Chasen.
+
+                    CANDY
+          Heavens no. I don't have to
+          worry about dates. You see,
+          the other girls in my sorority,
+          well, we decided that somebody
+          should try it, so we drew
+          straws and I lost.
+               (little giggle)
+           But I am looking forward to
+          meeting Harold.
+
+     She looks beyond Mrs. Chasen, out the window. She is a
+     little nonplussed. Harold is pouring the kerosene all over
+     himself.
+
+                    MRS. CHASEN
+           I think I should mention, Candy,
+          that Harold does have his eccentric
+          moments.
+
+                     CANDY
+                (never let it be
+               said that she
+               isn't a good sport)
+          Oh, yes? Well, that's all right.
+          I've got a brother who's a real
+          cut-up, too. I'll never forget the
+          time we had this old TV set with
+          no parts in it. Well, Tommy stuck
+          his head behind it and started
+          giving a newscast before the whole
+          family. We were all hysterical.
+          And here's little Tommy pretending
+          to be Walter Cronkite.
+
+     She looks back at Harold out the window. He is ablaze.
+     Her mouth falls open.
+
+                     MRS. CHASEN
+           Yes. I'm sure it must have been
+          very funny.
+
+     Candy jumps up, pointing out the window behind Mrs. Chasen.
+
+                     CANDY
+           Har -- Haro -- Haroldddd!!!
+
+     Mrs. Chasen rises, slightly disturbed but used to odd
+     behavior.
+
+                    MRS. CHASEN
+          Yes, dear. Here is Harold now.
+
+     Harold enters from the side door.
+
+                    MRS. CHASEN
+               (continuing)
+           Candy, this is Harold.
+
+     Candy is momentarily stunned. Harold nods his greetings.
+
+                     MRS. CHASEN
+           Candy was just telling a funny
+          story about Walter Cronkite.
+
+     Candy begins hysterical babbling and collapses.
+
+
+62     INT. MAUDE'S APARTMENT - DAY
+
+     The front door opens slowly and Harold enters.
+
+                    HAROLD
+          Maude. Maude. Anybody home?
+
+     He gets no answer and steps into the room. He looks over
+     the fireplace, where a furled umbrella is hung up like a
+     rifle. Nearby he sees a glass cabinet full of sea shells
+     and glass work. He walks over to a large table and is
+     puzzled by the odd-shaped, machine-like boxes on top. He
+     looks over at the wood sculpture, a highly polished work
+     with very smooth curves and holes. Instinctively he puts
+     out his hand to touch it, but decides he shouldn't. He
+     walks over to the piano and examines the silver frames
+     standing on it. They have no photographs in them and this
+     interests him. He goes to the window. Over his shoulder
+     we see MADAME AROUET hoeing in her vegetable patch.
+
+
+63     EXT. THE BACK YARD - DAY
+
+     A MEDIUM SHOT of Madame Arouet. She is dressed in the
+     black peasant's dress of Southern France. She is thin and
+     wrinkled and wears a large straw sun hat. She is con-
+     tinually working. Harold comes up to her.
+
+                    HAROLD
+          Excuse me, have you seen Maude?
+
+     Madame Arouet looks up. She doesn't comprehend.
+
+                    HAROLD
+          Maude. Do you know where she is?
+
+     Still no understanding.
+
+                    HAROLD
+          Maude?
+
+                    MADAME AROUET
+          Ah! Maude.
+
+     She points to the building next door.
+
+                    HAROLD
+               (nodding)
+          Oh, thank you. Thank you very
+          much. Merci.
+
+     He goes off toward the building. Madame Arouet continues
+     hoeing.
+
+
+64     CLOSEUP - MADAME AROUET
+
+     She looks up from her work and watches Harold. There is a
+     strange sadness in her old weathered face - time lost,
+     pleasures past over, the resignation to a lifetime of work.
+     She turns back to her garden.
+
+
+65     INT. GLAUCUS'S STUDIO - DAY
+
+     Harold comes through the door, sees where he is at, and
+     becomes embarrassed.
+
+                    HAROLD
+          Oh. Excuse me.
+
+
+66     HAROLD'S POV - AN ARTIST'S STUDIO
+
+     The first thing we notice is the large block of ice in the
+     center of the room - seven to eight feet tall - and
+     through it, as if looking through the glass on a shower
+     door, we can see a naked female body posing as Venus. The
+     sculptor, GLAUCUS, a frail, little, white-haired old man,
+     dressed in winter clothing, turns from the ice with a
+     chisel and hammer in his gloved hand.
+
+                    GLAUCUS
+          What do you want?
+
+                    HAROLD
+          I'm sorry. I was looking for
+          Maude.
+
+     The nude figure behind the ice moves and we see her head
+     over the top. It is Maude.
+
+                    MAUDE
+          Harold?
+
+                    HAROLD
+          Maude???!
+
+
+67     INT. MAUDE'S APARTMENT - DAY
+
+     Harold sits in a chair, brooding. Maude is in her kitchen
+     alcove.
+
+                    MAUDE
+          How about some ginger pie?
+
+                    HAROLD
+          Eh, fine.
+
+                    MAUDE
+          I'll heat some up. My, it's nice
+          to see you again, Harold. How's
+          your hearse?
+
+                    HAROLD
+          Oh, it's fine. Fine.
+
+                    MAUDE
+          She seemed yare to me.
+
+     Maude lays out the table. Harold gets up. He has some-
+     thing on his mind.
+
+                    HAROLD
+               (nonchalantly)
+           Do you often model for Glaucus?
+
+                    MAUDE
+          Heavens no! I don't have the time.
+          But I like to keep in practice
+          and poor Glaucus occasionally needs
+          his memory refreshed as to the
+          contours of the female form.
+               (she stops)
+          Do you disapprove?
+
+                    HAROLD
+          Me! No. Of course not.
+
+                    MAUDE
+               (she wants
+               the truth)
+          Really. Do you think it's wrong?
+
+                    HAROLD
+               (thinks, decides,
+               and reports his
+               conclusion)
+          No.
+               (he smiles)
+
+                    MAUDE
+          Oh, I'm so happy you said that
+          because I wanted to show you my
+          paintings. This is the "Rape of
+          Rome" and, of course, there in
+          the corner is quite a graphic
+          depiction of Leda and the Swan.
+
+     Harold looks at the corner of the painting and then back at
+     Maude.
+
+                    MAUDE
+               (coquettishly)
+          A self-portrait.
+               (she walks on)
+          But over here is my favorite. It's
+          titled "Rainbow with Egg Underneath
+          and an Elephant." Do you like it?
+
+                    HAROLD
+          Yes. Very much.
+
+                    MAUDE
+          It was my last. I then became
+          infatuated with these -- my
+          "Odorifics."
+
+     She points to the odd-shaped boxes with the tubes and
+     handles attached to them.
+
+                    MAUDE
+          Give the nose a treat, I thought.
+          Have a kind of olfactory banquet!
+          So I began first on the easiest -
+          roast beef, old books, mown grass,
+          then I went on to these -
+               (she reads the
+               labels on the
+               boxes)
+          "An Evening at Maxim's." "Mexican
+          Farmyard." Here's one you'd like.
+          "Snowfall on 42nd Street." Put
+          it on.
+
+     She helps him put on the oxygen-type mask.
+
+                    MAUDE
+               (continuing)
+          Now I'll pump it up...
+               (she does so)
+          ... and you just turn the handles.
+               (he does)
+          Okay. What do you smell?
+
+                    HAROLD
+          Subways... Perfume... Cigarette...
+               (gradually becoming
+               more excited)
+          ... Cologne... Carpet... Chestnuts!
+          ... Snow!
+
+                    MAUDE
+          It goes on and on.
+
+                    HAROLD
+          That's really great.
+
+     He takes it off.
+
+                    MAUDE
+          Thank you. I thought of continuing
+          - graduating to the abstract and
+          free-smelling - but then I decided
+          to switch to the tactile.
+
+     She gestures at the wood sculpture.
+
+                    MAUDE
+          What do you think?
+
+                    HAROLD
+          Oh. Eh, I like it.
+
+                    MAUDE
+          No, you have to touch it.
+               (she demonstrates)
+          You have to run your hands over it,
+          get close to it, really reach
+          out and feel. You try it.
+
+     Harold tries. He gingerly moves his hand over a rather
+     sensuous curve.
+
+                    MAUDE
+          That's right. How's the sensation?
+
+     A low RISING WHISTLE is heard.
+
+                    MAUDE
+          Oh, that's the kettle.
+               (she goes to
+               kitchen)
+          Go ahead, Harold. Stroke, palm,
+          caress, explore.
+
+     Harold watches Maude leave the room. He hears her invita-
+     tion and looks at the sculpture. A battle is going on
+     inside him. ("Go ahead touch it! - Better not!") Maude
+     begins humming in the kitchen. She won't be out for a while.
+     Harold begins moving his hand over the polished wood. His
+     face is expressionless, but he moves his body closer and
+     his hand becomes more daring. He brings his other hand
+     onto the sculpture. He is enjoying the sensations. He
+     looks at the large hole before him. His hand moves around
+     it. ("Go ahead - Better not!") His eyes scan the room.
+     Suddenly he sticks his head in the hole, pulls it out,
+     steps back quickly, and looks over to the kitchen. Maude
+     is still out there humming. Harold relaxes, straightens
+     his suit, looks at the sculpture, and braves a short smile.
+
+     Maude enters with the tea.
+
+                    MAUDE
+          Here we are, Harold. Oat straw
+          tea and ginger pie.
+
+                    HAROLD
+          Certainly a new experience for me.
+
+                    MAUDE
+          Wonderful! Try something new each
+          day. After all, we're given life
+          to find it out. It doesn't last
+          forever.
+
+     They sit down at the table.
+
+                    HAROLD
+          You look as if you could.
+
+                    MAUDE
+          Me. Ha! Did I tell you I'll be
+          eighty on Saturday?
+
+                    HAROLD
+          You don't look eighty.
+
+                    MAUDE
+          That's the influence of the right
+          food, the right exercise, and the right
+          breathing.
+               (she gestures)
+          Greet the dawn with the Breath of
+          Fire!
+               (the demonstration
+               leaves her a
+               little winded)
+          Of course, there's no doubt the
+          body is giving out. I'm well into
+          autumn. I'll have to be giving
+          it all up after Saturday. Sweeten
+          the tea with honey, Harold. It's
+          delicious.
+
+                    HAROLD
+          That's a nice teapot.
+
+                    MAUDE
+          Sterling silver. It was my dear
+          mother-in-law's, part of a dinner
+          set of fifty pieces. It's one of
+          the few things that survived.
+               (pause)
+          Oh, but I do rattle on so. Tell
+          me about yourself, Harold.
+               (she settles back
+               with her tea)
+          What do you do when you aren't
+          visiting funerals?
+
+
+68     EXT. DEMOLITIONS - DAY
+
+     Shots of falling buildings. The giant demolition ball
+     swings left and right knocking mighty holes in brick walls
+     and sending them crumbling to earth with deafening noise.
+
+
+69     EXT. DEMOLITION - ANOTHER ANGLE - DAY
+
+     Harold and Maude watch, in the background, an old building
+     collapse into rubble. After the noise abates Maude turns
+     to Harold.
+
+                    MAUDE
+          Yes. There is definitely a certain
+          attraction.
+
+
+70     EXT. JUNKYARD - DAY
+
+     A giant crane comes crashing into the hood of a car.
+     The car is picked up and dropped on a conveyor belt which
+     hauls it up to the crusher. Despite the terrible din
+     Harold and Maude watch with rapt attention.
+
+
+71     EXT. JUNKYARD DISTRICT - LONG SHOT - DAY
+
+     Harold and Maude are sitting on a hill picnicking. They
+     are looking at the junkyard operation in the distance.
+     They chew for a while then Maude offers Harold a raw carrot.
+     She chews on one herself.
+
+                    MAUDE
+          Well, it's all very thrilling,
+          of course, but I ask you, Harold...
+          Is it enough?
+
+                    HAROLD
+          What do you mean?
+
+     Maude smiles.
+
+
+72     EXT. A LARGE VEGETABLE FIELD - DAY
+
+     The CAMERA is at a LOW LEVEL. We see long rows of young
+     plants that stretch into the distance. We PAN across the
+     field into two giant CLOSEUPS of Harold and Maude. They
+     are lying on the ground looking intently at one little
+     plant. Maude looks over to Harold.
+
+                    MAUDE
+          I love to watch things grow.
+
+
+73     EXT. FLOWER FARM - DAY
+
+     SHOTS of flowers growing, all different varieties, in
+     clusters, in pots, on vines, in greenhouses, in large
+     fields.
+
+     Maude and Harold are walking down a row of flowers.
+
+                    MAUDE
+          They grow and bloom, and fade, and
+          die, and some change into something
+          else. Ah, life!
+
+     They stop by some flowers.
+
+                    MAUDE
+          I should like to change into a
+          sunflower most of all. They are
+          so tall and simple. And you,
+          Harold, what flower would you
+          like to be?
+
+                    HAROLD
+          I don't know. Just one of those.
+               (he gestures)
+
+
+74     HAROLD'S POV
+
+     We see a large field of daisies stretching to the hills.
+
+
+75     EXT. BY THE DAISY FIELD - DAY
+
+     Harold and Maude look out at it.
+
+                    MAUDE
+               (a little perturbed)
+           Why do you say that?
+
+                    HAROLD
+               (softly)
+          Because they are all the same.
+
+                    MAUDE
+          Oooh, but they are not. Look.
+
+     They bend down to see some close ones.
+
+                    MAUDE
+               (continuing)
+          See - some are smaller, some are
+          fatter, some grow to the left,
+          some to the right, some even have
+          some petals missing - all kinds
+          of observable differences, and we
+          haven't even touched the bio-
+          chemical. You see, Harold, they're
+          like the Japanese. At first you
+          think they all look alike, but
+          after you get to know them you see
+          there is not a repeat in the bunch.
+          Each person is different, never
+          existed before and never to exist
+          again. Just like this daisy -
+               (she picks it)
+          - an individual.
+
+     They stand up.
+
+                    HAROLD
+          Well, we may be individuals all
+          right but -
+               (he looks out
+               at the field)
+          - we have to grow up together.
+
+     Maude looks up. She is very struck by what Harold said.
+     She speaks very softly and we see she has tears in her eyes.
+
+                    MAUDE
+          Yes, that's very true. Still I
+          believe much of the world's
+          sorrow comes from people who know
+          they are this -
+               (she holds
+               the daisy)
+          - yet let themselves be treated -
+               (she looks out
+               at the field)
+          - as that.
+
+
+76     EXT. THE FIELD - DAY
+
+     Thousands and thousands of daisies wave gently in the
+     breeze.
+
+
+77     EXT. ROAD BY THE FLOWER FARM - DAY
+
+     A large black Continental apparently out of control
+     crashes through the flower farm fence, swerves onto the
+     road, and zigzags away at top speed before finally
+     straightening out.
+
+
+78     INT. CONTINENTAL - DAY
+
+     Harold is petrified. Maude is driving. She looks over at
+     him and explains.
+
+                    MAUDE
+          Ha! Power steering.
+
+
+79     EXT. ROAD IN TOWN - DAY
+
+     The Continental speeds by.
+
+
+80     INT. CONTINENTAL - DAY
+
+     Harold has somewhat recovered.
+
+                    HAROLD
+          Boy, Maude. The way you handle
+          cars. I'd never handle a car
+          like that.
+
+                    MAUDE
+          Oh, it's only a machine, Harold.
+          It's not as if it were alive,
+          like a horse or a camel. We may
+          live in a machine age, but I
+          simply can't treat them as equals.
+               (she looks over
+               at the radio)
+          Of course, the age has its
+          advantages.
+
+     She turns it on. Music plays softly.
+
+                    MAUDE
+               (continuing)
+          The universal language of mankind.
+               (she begins
+               humming along
+               with the tune)
+          What music do you like, Harold?
+
+                    HAROLD
+          Well...
+
+     Harold is suddenly thrown against the door as Maude makes
+     a fast U-turn.
+
+
+81     EXT. BEFORE THE COURTHOUSE PARK - DAY
+
+     We see the Continental turn across the street, drive up
+     onto the sidewalk, and stop as it bumps into a telegraph
+     pole.
+
+
+82     MED. SHOT OF THE CAR
+
+     Maude gets out, walks around the car, and opens Harold's
+     door. Harold, very shaken, gets out.
+
+                    HAROLD
+          What happened?
+
+                    MAUDE
+               (she points)
+          Look.
+
+                    HAROLD
+          What?
+
+                    MAUDE
+          Over there by the courthouse.
+
+                    HAROLD
+          What is it?
+
+                    MAUDE
+          That little tree. It's in trouble.
+          Come on.
+
+     Maude walks over to the courthouse. Harold, not wanting to
+     be left with the crashed car, quickly follows.
+
+
+83     EXT. BY THE COURTHOUSE - DAY
+
+     They come to a little tree growing in the garden.
+
+                    MAUDE
+          Look at it, Harold. It's
+          suffocating. It's the smog.
+          People can live with it, but
+          it gives trees asthma. They
+          can't breathe. See the leaves
+          are all brown. Harold, we've
+          got to do something about this
+          life.
+
+                    HAROLD
+          But what?
+
+                    MAUDE
+          We'll transplant it. To the
+          forest.
+
+                    HAROLD
+          But we can't just dig it up!
+
+                    MAUDE
+          Why not?
+
+                    HAROLD
+          But this is public property.
+
+                    MAUDE
+          Exactly.
+
+     She's ready to dig.
+
+                    HAROLD
+          Don't you think we should get some
+          tools, maybe?
+
+                    MAUDE
+          Yes, you're right. We'll go see
+          Glaucus. Come on.
+
+                    HAROLD
+          Oh, wait, Maude. Look!
+
+     Harold points and we see that two COPS have stopped and are
+     checking out the Continental on the sidewalk.
+
+                    MAUDE
+               (nonchalantly)
+          Oh, the police. Come on.
+
+
+84     EXT. BY THE CONTINENTAL - DAY
+
+     The police are looking around. Maude boldly walks by.
+     Harold tags reluctantly along.
+
+                    MAUDE
+          Good afternoon, Officer. Bit
+          of trouble here?
+
+                    OFFICER
+               (tips his hat)
+          Yes, ma'am. Somebody had some
+          trouble parking.
+
+                    MAUDE
+          Well, it's a tricky turn.
+
+                    OFFICER
+               (not understanding
+               but amiable)
+          Eh, yes, ma'm.
+
+                    MAUDE
+          Tell me --
+               (points to car
+               in front)
+          -- is that car parked all right?
+
+                    OFFICER
+          Oh yes. That's fine.
+
+                    MAUDE
+          Well, thank you. Eh, officer,
+          you might turn off the radio.
+          Saves the battery.
+
+     Maude and Harold walk off to the car in front. The officer
+     turns off the radio. He looks up. Maude has opened the
+     door of the car in front with her ring of keys. She waves
+     to him.
+
+
+85     CLOSEUP - THE OFFICER
+
+     He tips his hat and waves back. He is smiling as we hear
+     the engine start. The smile drops as we hear Maude's
+     screeching start.
+
+
+86     INT. GLAUCUS'S STUDIO - NIGHT
+
+     Maude and Harold enter. The block of ice in the center of
+     the room is now five to six feet tall and melting rapidly
+     into the large trough in which it stands. Around the studio
+     on the walls and benches are every conceivable hand tool -
+     sculpting tools, gardening tools, construction tools, etc.
+     On a raised platform in one corner covered with rugs and
+     cushions and skins, lies Glaucus, bundled up in a parka
+     and snoring horribly. In his gloved hands he holds a
+     hammer and an ice pick.
+
+                    MAUDE
+          Oh, my. We're too late.
+
+                    HAROLD
+          Is he all right?
+
+                    MAUDE
+          He's fallen asleep, as usual.
+
+     She covers him with a rug.
+
+                    MAUDE
+                (continuing)
+          We'll come back in the morning.
+
+                    HAROLD
+          What is that he's working on?
+
+                    MAUDE
+          An ice sculpture. It's Venus -
+          the Goddess of Love, the completion
+          of which is his unfulfilled dream.
+
+                    HAROLD
+          It is kind of rough.
+
+                    MAUDE
+          He's never finished one yet. He
+          has around him every kind of hand
+          tool known to man, but the poor
+          dear has difficulty staying awake.
+
+                    HAROLD
+          Look, the ice is melting.
+
+                    MAUDE
+          Yes.
+
+     They both stand and stare.
+
+                    MAUDE
+          That's one of the drawbacks of
+          the medium.
+
+
+87     INT. MAUDE'S APARTMENT - NIGHT
+
+     Harold and Maude sit before the fire. They have just
+     finished dinner.
+
+                    MAUDE
+          A little after-dinner liqueur,
+          Harold?
+
+                    HAROLD
+          Well, I really don't drink...
+
+                    MAUDE
+          Oh, it's all right. It's organic.
+
+     She pours.
+
+                    HAROLD
+          Thank you.
+
+                    MAUDE
+               (offering)
+          Some nuts? Some licorice?
+          It has no nutritional value but
+          then consistency is not really a
+          human trait.
+
+                    HAROLD
+          Thank you.
+
+     He chews the licorice. He gestures above the fireplace.
+
+                    HAROLD
+                (continuing)
+          What's that?
+
+                    MAUDE
+          My umbrella?
+               (fluttery laugh)
+          Oh, that's just a relic. I found
+          it when I was packing to come to
+          America. It used to be my defense
+          on picket lines and rallies and
+          political meetings - being dragged
+          off by police or attacked by thugs
+          of the opposition.
+               (fluttery laugh
+               as she remembers)
+          A long time ago.
+
+                    HAROLD
+          What were you fighting for?
+
+                    MAUDE
+          Oh, Big Issues. Liberty. Rights.
+          Justice. Kings died and kingdoms
+          fell. I don't regret the kingdoms
+          - what sense in borders and nations
+          and patriotism - but I do miss the
+          kings. When I was a little girl
+          I was taken to the palace in
+          Vienna, to a garden party. I can
+          still see the sunshine, the
+          parasols, and the flashing
+          uniforms of the young officers.
+          I thought then I would marry a
+          soldier.
+               (fluttery laugh)
+          Later, Frederick would chide me
+          about it.
+               (with a twinkle)
+          He was so serious. A doctor at
+          the University. And in the
+          government.
+
+     Suddenly she gets quiet.
+
+                    MAUDE
+          But, that was all... before...
+
+     Maude stares into the fire. She suddenly seems very small
+     and fragile. Harold notices the change that has come over
+     her and is not sure what to say.
+
+                    HAROLD
+          So you don't use the umbrella
+          any more?
+
+     She looks at him and says softly:
+
+                    MAUDE
+          No.
+
+                    HAROLD
+          No more revolts.
+
+                    MAUDE
+               (sparks back to
+               her old self)
+          Oh, yes! Every day. But I don't
+          need a defense anymore. I embrace!
+          Still fighting for the Big Issues
+          but now in my small, individual way.
+          Shall we have a song?
+
+                    HAROLD
+          Well, I don't...
+
+                    MAUDE
+          Oh come on. I'll teach you.
+
+     She goes to the piano, sits down, and plays. It is a fast,
+     delightful song and she sings it with zest.
+
+                    MAUDE
+          Come on, Harold, join in the
+          chorus.
+
+     Beside her Harold hesitatingly sings along. The o.s.
+     orchestra has joined in, enabling Maude to leave the piano
+     and get up and dance. She capers in true old vaudeville
+     fashion. As the song continues we go into a MONTAGE and
+     see Maude dance as she sings in various locales - the beach,
+     the forest, the fields, the hills, finally returning to
+     her room to join up with Harold for a socko finish.
+
+                    MAUDE
+          Oh, that was fun. Let's play
+          something together.
+
+                    HAROLD
+          But I don't play anything.
+
+                    MAUDE
+               (a bombshell!)
+           Don't play anything! Dear me. Everyone
+          should be able to make some music.
+          Why, it's life! - Rhythm and
+          harmony - That's the cosmic dance.
+          Come with me.
+
+     She goes over to a large cupboard and opens both doors.
+     It is full of all kinds of musical instruments. She ferrets
+     about for a while and pulls out a banjo.
+
+                    MAUDE
+          Here we are. Just the thing.
+
+     She shows him a chord and how to strum. - "Your fingers
+     here... etc." He does it a few times.
+
+                    MAUDE
+          That's right. But be impulsive!
+          Be fanciful! Let the music flow
+          out of you as freely as though
+          you were talking. Okay?
+               (she sits)
+          From the top -- Let's jam!
+
+     She swings into the chorus and Harold strums along. At the
+     end she looks over at him beaming.
+
+                    HAROLD
+          Okay?
+
+                    MAUDE
+          Superb.
+
+
+88     EXT. THE CHASEN'S BACKYARD - DAY
+
+     Harold sits practicing his banjo. We barely recognize that
+     he is playing Maude's Song. He hears his mother calling
+     him and he quickly hides his banjo in a nearby flower pot.
+     His mother enters.
+
+                    MRS. CHASEN
+          Harold! Harold! Ah, there you
+          are. I have a little present
+          for you. A surprise. Come with
+          me.
+
+     They both go off toward the garage.
+
+
+89     EXT. THE GARAGE AREA - DAY
+
+     They both come around the corner and Mrs. Chasen gestures
+     dramatically in front of her.
+
+                     MRS. CHASEN
+          There!
+
+
+90     EXT. THE GARAGE AREA - THEIR POV - DAY
+
+     We see a little green MG roadster. Harold comes up to it,
+     suspecting something funny. He looks around for his
+     hearse.
+
+                    MRS. CHASEN
+          Isn't that darling? I had them tow
+          off that black monstrous thing of
+          yours and had them send this around
+          instead. It's so much more
+          appropriate for you, don't you
+          think?
+
+     Harold starts to say something.
+
+                      MRS. CHASEN
+               (continuing)
+          One more thing, Harold. I've talked
+          on the phone with your second
+          computer date and she seems a very
+          nice, quiet girl. Not at all
+          hysterical like the first one.
+          Nevertheless I want you to be on
+          your best behavior when she comes
+          tomorrow and make her feel at home.
+               (she looks at the
+               car before leaving)
+          Cute little thing, isn't it? I
+          like it very much.
+               (she exits)
+
+     Harold stands for a moment looking at the MG. He makes a
+     decision.
+
+
+91     QUICK SHOT
+
+     Harold takes off his jacket.
+
+
+92     QUICK SHOT
+
+     Harold wheels to the car a large acetylene torch.
+
+
+93     QUICK SHOT
+
+     Harold pulls down a great welding mask over his head.
+
+
+94     INT. GLAUCUS' STUDIO - DAY
+
+     A brand new block of ice - eight to nine feet tall -
+     stands in the trough in the center of the studio. Glaucus,
+     spryly dressed for autumn, is chipping merrily away.
+
+                     GLAUCUS
+          Come in. Come in.
+
+     Maude enters.
+
+                    MAUDE
+          Have you seen Harold?
+
+                    GLAUCUS
+          One moment.
+
+     He makes a chip on the ice and stands back to examine it.
+     He is satisfied. He turns to Maude, full of pep.
+
+                    GLAUCUS
+          Ah, Dame Marjorie. Greetings.
+               (he kisses her hand)
+          As Odysseus said to Penelope...
+
+     Harold enters a little out of breath.
+
+                    HAROLD
+          Sorry I'm late.
+
+                    GLAUCUS
+          A rather free translation but
+          nonetheless correct. Greetings
+          to you too, my little one.
+               (he gestures
+               at the ice)
+          Tell me, what do you see?
+
+                    HAROLD
+          A block of ice.
+
+                    GLAUCUS
+          Exactly! Now, ask me what I see.
+
+                    HAROLD
+          What do you see?
+
+                    GLAUCUS
+          I see the eternal goddess of
+          beauty and love. I see Aphrodite.
+          The consummate woman.
+
+          Full of warmth and fire. Frozen.
+               (to the ice)
+          And it is I who shall set you free.
+
+     He takes a small pneumatic drill and attacks the ice. He
+     makes a little incision, puts it down, and steps back to
+     observe. He wipes his brow.
+
+                       GLAUCUS
+          Each morning I am delivered of a
+          new block of ice. Each evening
+          my eyes grow weary, my hands hang
+          heavy, and I am swept down Lethe
+          to slumber -
+               (slowly with
+               feeling)
+          - while my goddess, half-born,
+          drips away - unseen, unsung, and
+          unknown.
+
+                    MAUDE
+          May we borrow a shovel?
+
+                    GLAUCUS
+          Wait! Let me think. Do I need
+          a shovel today? No! I need a
+          blowtorch.
+               (he gets a
+               blowtorch)
+          Take any shovel. You are welcome.
+
+     Harold picks up a shovel.
+
+                      MAUDE
+          Thank you, Glaucus. We'll see
+          you later. Come on, Harold.
+
+     Harold and Maude exit.
+
+                       GLAUCUS
+          Farewell, my friends.
+               (he fires the
+               blowtorch)
+          "Where'er he moved, the goddess
+          shone before" - Homer!
+
+     He approaches the ice.
+
+
+95     EXT. HIGHWAY - LONG SHOT - DAY
+
+     We PAN with a brown pick-up truck as it drives along. A
+     small tree stands swaying in the back.
+
+
+96     INT. PICK-UP TRUCK - ANGLE FROM SIDE - MED. SHOT - DAY
+
+     Maude is driving. Harold sits beside her. The car is
+     traveling from SCREEN LEFT to SCREEN RIGHT. Harold looks
+     at Maude. She smiles. He smiles.
+
+
+97     EXT. HIGHWAY - LONG SHOT - DAY
+
+     Cop on a motorcycle watches Maude go by. He follows her
+     and flags her down. She pulls the truck over to the side
+     of the road.
+
+
+98     EXT. ROADSIDE - DAY
+
+     The cop gets off his motorcycle and comes over to the truck
+     door.
+
+                    COP
+          Lady, you were going 70 miles
+          an hour in a 45-mile zone. Could
+          I see your license, please?
+
+                    MAUDE
+          Yes. Those little pieces of paper
+          with your picture on it?
+
+                    COP
+          Yes.
+
+                    MAUDE
+          Oh, I don't have one.
+
+                    COP
+          Come again.
+
+                    MAUDE
+          I don't have one. I don't
+          believe in them.
+
+                    COP
+          How long have you been driving?
+
+                    MAUDE
+          About forty-five minutes,
+          wouldn't you say, Harold? We
+          were hoping to start sooner but,
+          you see, it's rather hard to find
+          a truck.
+
+                    COP
+          Could I see your registration?
+
+                    MAUDE
+          I just don't think we have one,
+          unless it's in the glove compartment.
+          Could you look, Harold?
+
+                    COP
+          Isn't this your vehicle?
+
+                    MAUDE
+          No, no. I just took it.
+
+                    COP
+          Took it?
+
+                    MAUDE
+          Yes. You see I have to plant my
+          tree.
+
+                    COP
+          Your tree.
+
+                    MAUDE
+          Well, it's not really mine. I
+          dug it up in front of the courthouse.
+          We're transplanting it. Letting
+          it breathe, you know. But, of
+          course, we would like to get it
+          into soil, as soon as possible.
+
+                    COP
+          Lady, let me get this straight.
+
+                    MAUDE
+               (agreeing)
+          All right, then, and we'll be off.
+               (she revs up the motor)
+          Nice chatting with you.
+
+     Maude zooms off down the highway. The cop is left flabber-
+     gasted. He races for his motorcycle. With SIRENS blazing
+     he drives of to catch her.
+
+
+99     INT. THE TRUCK - DAY
+
+     Harold looks uneasily out the back window.
+
+                     HAROLD
+          I think he's following us.
+
+                    MAUDE
+          Is he? Ah, the police. Always
+          wanting to play games. Well,
+          here goes.
+
+          Maude accelerates and zooms off.
+
+
+100     EXT. THE HIGHWAY - DAY
+
+     Maude careens down the highway dodging cars. The cop
+     follows in hot pursuit. Suddenly Maude does a full left
+     turn making a screeching half-circle and charging off down
+     the highway in the opposite direction. Cars pull over out
+     of her way. The cop does a similar U-turn and follows her.
+     Maude immediately makes another U-turn and flies off down
+     the highway in her original direction. The cop is taken
+     unawares. Traffic around him is in total confusion. He
+     dodges zigzagging cars, runs up onto the embankment, and
+     stops.
+
+
+101     INT. THE TRUCK - DAY
+
+                      HAROLD
+               (turns around
+               badly shaken)
+          He's stopped.
+
+                    MAUDE
+               (brightly)
+          The old double U-turn. Gets
+          them every time.
+
+
+102     EXT. THE HIGHWAY - DAY
+
+     The truck continues on its merry way.
+
+
+103     EXT. A PLEASANT GLADE IN THE FOREST - DAY
+
+     Maude and Harold have just finished planting the tree;
+     Maude is putting the finishing touches around the trunk.
+     She stands up.
+
+                    MAUDE
+          There. Oh, I like the feel of
+          soil, don't you? And the smell.
+          It's the earth. "The earth is
+          my body. My head is in the stars."
+               (little laugh)
+          Who said that?
+
+                    HAROLD
+          I don't know.
+
+                    MAUDE
+          I suppose I did.
+               (laughs)
+          Well, farewell little tree. Grow
+          up tall, and change, and fall to
+          replenish the earth. Isn't it
+          wonderful, Harold? All around us.
+          Living things.
+
+
+104     EXT. THE FOREST - DAY
+
+     Harold and Maude are sitting in a tree.
+
+                       MAUDE
+          I come here as often as I can.
+          It's exhilarating. What do you
+          call it? Nature! Life! Soul!
+          God! At any rate, it's here, and...
+
+     We PULL BACK on the ZOOM and see they are sitting in the
+     top branches of a very tall tree.
+
+                    MAUDE
+          ... we are part of it.
+
+
+105     INT. PICK-UP TRUCK - DAY
+
+     SAME SIDE ANGLE AS SHOT 96, except now the truck is
+     traveling from screen right to screen left. Maude is
+     driving; Harold sits beside her. Maude looks at Harold.
+     He smiles. She smiles.
+
+
+106     EXT. THE HIGHWAY - LONG SHOT - DAY
+
+     We see the truck, now without the tree, go driving down the
+     road. We see the cop on the motorbike. It is the same
+     one as before. He sees the truck, grits his teeth, and
+     speeds on after it. With SIRENS blazing he signals Maude
+     to pull well off the road, and around so that it is facing
+     the fields. The cop gets of his bike and goes over to
+     them.
+
+                     COP
+          Okay, lady. Out.
+
+                    MAUDE
+          Hello.
+
+     She doesn't quite recognize him.
+
+                    MAUDE
+          Haven't we met before?
+
+                    COP
+          None of that, lady.
+
+                    MAUDE
+               (genuinely)
+          Oh, well. Must have been your
+          brother.
+
+                    COP
+          Out!
+
+     Maude gets out.
+
+                    MAUDE
+          But there is a family resemblance.
+
+                    COP
+               (to Harold)
+          You too, Buster. Stand over here.
+          Lady, you're in a heap of trouble.
+          I have you down here for several
+          violations; speeding, resisting
+          arrest, driving without a license,
+          driving a stolen vehicle, possession
+          of a stolen tree... Where's the tree?
+
+                    MAUDE
+          We planted it.
+
+                    COP
+          Is this your shovel?
+
+                    MAUDE
+          No.
+
+                    COP
+          Possession of a stolen shovel.
+
+                    MAUDE
+          Officer, I can explain.
+
+                    COP
+          Lady, resisting arrest is a
+          serious criminal offense. Under
+          the state criminal code, section
+          545, paragraph 10-B...
+
+                    MAUDE
+          Oh, don't get officious. You're
+          not yourself when you're officious.
+          That's the curse of a government
+          job.
+
+                    COP
+               (patiently)
+          Lady, is it true you're driving
+          without a license?
+
+                    MAUDE
+               (equally as
+               patient)
+          Check.
+
+                    COP
+          And that truck - is it registered
+          in your name?
+
+                    MAUDE
+          Oh no! Not in my name.
+
+                    COP
+          Then whose name is it registered
+          in?
+
+                    MAUDE
+          Well, I don't know. Do you know,
+          Harold?
+
+                    COP
+          Where are the papers?
+
+                    MAUDE
+          I suppose they are in the truck.
+          Are you going to take a lot of
+          time with this?
+
+                    COP
+          Wait here.
+
+                    MAUDE
+          Because if you are...
+
+                    COP
+          Lady! Be quiet.
+
+     The cop goes over to the truck. We FOLLOW him as he sits
+     in the front seat, opens the glove compartment, and begins
+     looking through some papers. Suddenly he hears the start
+     of an engine. He looks up. Maude is on the motorcycle,
+     revving it up, and motioning Harold to get on board.
+
+                     MAUDE
+          Grab the shovel, Harold.
+
+     Harold hesitates. He looks over at the cop, who begins to
+     get out of the truck. He makes up his mind, grabs the
+     shovel, jumps on the seat behind Maude, and they both go
+     careening off down the road. The cop takes out his gun.
+
+                    COP
+          Stop! Or I'll shoot!
+
+      He fires several times.
+
+
+107     CLOSEUP - MAUDE ON THE BIKE
+
+     She hears the shots.
+
+                    MAUDE
+          Oh! It's just like the Resistance.
+
+     She begins maneuvering the bike in defensive zigzag
+     patterns.
+
+
+108     LONG SHOT - THE HIGHWAY
+
+     The cop, helpless, watches them disappear over the hill.
+
+
+109     INT. GLAUCUS' STUDIO - NIGHT
+
+     The ice block is as we saw it the first night - unfinished
+     and melting. Glaucus, bundled up in his winter clothes,
+     falters towards it with a heavy hammer and chisel. He is
+     fighting off sleep as only a very old man can. He manages
+     a blow on the ice and then shuffles back to see its
+     effect. He mumbles all the time.
+
+                    GLAUCUS
+          The bitter dregs of Fortune's
+          cup to drain - The Iliad...
+          Almost finished... Gotta make
+          it... Going to make it...
+          Liberate Love... Set her free.
+
+     He staggers to the statue and back again.
+
+     Harold and Maude enter, laughing.
+
+                       MAUDE
+          Oh, those motorcycles are awfully
+          chilly.
+
+                    HAROLD
+          Yeah. And it is cold in here.
+          Hello, Glaucus.
+
+                    GLAUCUS
+          Cold... Yes... Yes... Gotta turn
+          up the heat... Excuse me...
+
+     He turns up the heat.
+
+                     HAROLD
+          Here's your shovel.
+
+                    GLAUCUS
+          What?... Oh yes... Shovel... Create
+          ... Verily these issues lie in the
+          lap of the gods... Iliad... Just
+          sit down for a minute.
+
+     Glaucus wanders over to his couch and sits, still mumbling.
+
+                       GLAUCUS
+          Not giving up... Just for a minute
+          ... Then once more up the hill...
+
+     Harold walks over to the ice sculpture.
+
+                    HAROLD
+          I think I see it.
+
+                    MAUDE
+          Yes. It's almost there.
+
+     Glaucus, his eyes barely open, gets up and shuffles in
+     place as if he is walking over to the statue. He works
+     his tools in the air and then shuffles in place as if he
+     is walking back. He examines his work. He sits.
+
+                      GLAUCUS
+          Yes... almost done... have a
+          little rest. Not long... Just
+          a little rest... then once more
+          up the hill...
+
+     He falls back slowly asleep.
+
+                     HAROLD
+          I think he's asleep.
+
+     Glaucus pops up.
+
+                     GLAUCUS
+          Aha! Morpheus. I'll...
+
+     He mumbles and makes an effort to raise his tools. His
+     eyes close, but he is still fighting.
+
+                      GLAUCUS
+          Gonna make it... Gonna make it...
+          Make it...
+
+     He drifts back against the cushions still holding the tools
+     in his hand. He is finally asleep.
+
+     Harold and Maude have been watching Glaucus's gallant battle.
+     Maude smiles and turns to go. Harold looks at the sculpture.
+
+                     HAROLD
+          The ice is melting.
+
+                    MAUDE
+          Yes.
+
+                    HAROLD
+          Don't you think we should turn
+          off the heat?
+
+                    MAUDE
+               (brightly)
+          Why? There'll be a new block of
+          ice in the morning.
+
+
+110     INT. MAUDE'S PLACE - NIGHT
+
+     Maude and Harold are dressed in bright Japanese kimonos.
+     They are relaxing on cushions in the Japanese nook after
+     having just finished supper. Maude puffs pleasantly on a
+     hookah.
+
+                     HAROLD
+          I like Glaucus.
+
+                    MAUDE
+          Yes, so do I. But I think he
+          is a little... old-fashioned.
+          Like a puff, Harold?
+
+                    HAROLD
+          Well, I really don't smoke.
+
+                    MAUDE
+          It's all right.
+               (she offers him
+               the hose)
+          It's organic.
+
+                    HAROLD
+               (smokes)
+          I'm sure picking up on vices.
+
+                    MAUDE
+          Vice? Virtue? It's best not to
+          be too moral. You cheat yourself
+          out of too much life. Aim above
+          morality. As Confucius says,
+          "Don't simply be good. Make good
+          things happen."
+
+                    HAROLD
+          Did Confucius say that?
+
+                    MAUDE
+          Well --
+               (she smiles)
+          - they say he was very wise, so
+          I'm sure he must have.
+
+                    HAROLD
+          You are the wisest person I know.
+
+                    MAUDE
+          Me!
+               (she laughs and
+               shakes her head)
+          When I look around me I know I
+          know nothing. I remember though,
+          once long ago in Persia, we met a
+           wise man in the bazaar. He was
+          a professional and used to sell
+          his wisdom to anyone willing to
+          pay. His specialty for tourists
+          was a maxim engraved on the head
+          of a pin. "The wisest," he said,
+          "the truest, the most instructive
+          words for all men at all times."
+          Frederick bought one for me and
+          back at the hotel I peered through
+          a magnifying glass to read the
+          words - "And this too shall pass
+          away."
+               (fluttery laugh)
+          Well, the wise man was right - if
+          you remember that, you can't help
+          but live life fully.
+
+                    HAROLD
+          Yes. I haven't lived.
+               (he suddenly
+               giggles)
+          I've died a few times.
+
+                    MAUDE
+          What was that?
+
+                    HAROLD
+               (he is getting
+               a little high)
+          Died! Seventeen times - not
+          counting maiming.
+               (he laughs)
+          Shot myself in the face once with
+          a popgun and a pellet of blood.
+
+                    MAUDE
+               (laughing with him)
+          How ingenious! Tell me about them.
+
+                    HAROLD
+          Well, it's a question of timing,
+          and the right equipment, and plenty
+          of patience... You really want to
+          hear about this?
+
+                    MAUDE
+          Of course.
+
+                    HAROLD
+               (he smiles)
+          Okay.
+
+     Partly because of the pot, but mostly because he has found
+     a friend, Harold opens up for the first time in his life.
+     As he gets into the story he tells it with such animation
+     and delight that we are amazed at all the fun and zest he
+     has kept locked up inside him.
+
+                    HAROLD
+          Well, the first time it wasn't
+          even planned. It was when I was
+          at boarding school and they were
+          getting ready for the school
+          Centennial Celebration and they
+          put all the fireworks and food
+          and stuff in this room in the
+          West Wing. Well, on the floor
+          above they had the Chemistry Lab
+          and I had to stay in and clean
+          it up. So I thought I'd do a
+          little experimenting. I got all
+          this stuff out and began mixing
+          it up. It was very scientific.
+          I was measuring the amounts.
+          Well, suddenly there was this big
+          fizzing sound and this white kind
+          of porridge stuff began erupting
+          out of the beaker, and moving along
+          the desk and falling onto the floor.
+          It was making an awful mess. So I
+          got the hose to try to spray it
+          into the sink. I turned on the
+          water and - POW! There was this
+          massive explosion. Knocked me down.
+          Blew out the floor. Boards and
+          brick and flames leaping up. Singed
+          my hair. Smoke everywhere. I got
+          up, then this sound like bombs
+          going off. It was the fireworks
+          in the room below. And all this
+          stuff came flying out the hole.
+          PACHAU! Skyrockets and pinwheels.
+          And fire balls all whizzing and
+          bouncing. And I was just standing
+          there stunned - I couldn't believe
+          it - just watching - being pelted
+          by all these little pellets - turns
+          out to be the goddamn popcorn spewed
+          up from below. The whole place was
+          a crazy inferno with the rockets
+          and everything, and I couldn't get
+          to the door. But behind me was
+          this old laundry chute, so I
+          hopped in that and slid down that to
+          the basement. When I got outside
+          I saw that the whole top of the
+          building was on fire and, of course,
+          it was pandemonium with people
+          running around and fire alarms
+          ringing. So I decided to go home.
+          When I get there my mother is having
+          this big party so I creep up the
+          back stairs to my room. Then there
+          is this ring on the doorbell. It's
+          the police. I creep over to the
+          banister to see what they say, and
+          they tell my mother that I had
+          been killed in a fire at school.
+          Well, everyone got very quiet.
+
+     Harold has calmed down and speaks in a matter of fact way.
+
+                    HAROLD
+               (continuing)
+          People were whispering and looking
+          at my mother.
+
+          I tried leaning forward to see her
+          face but I couldn't.
+               (slowly)
+          She began to sway. She put one
+          hand to her forehead. With the
+          other she reached out, as if groping
+          for support. Two men rushed to her
+          side and then - with a long, low
+          sigh - she collapsed in their arms.
+               (pause)
+          I decided then I enjoyed being
+          dead.
+
+     Maude doesn't say anything for a moment. Then she speaks
+     softly.
+
+                       MAUDE
+          Yes. I understand. A lot of people
+          enjoy being dead. But they are not
+          dead really. They're just backing
+          away from life.
+               (with a twinkle)
+          They're players - but they sit on
+          the bench. The game goes on before
+          them. At any moment they can join
+          in.
+               (she jumps up
+               and shouts)
+          Reach out! Take a chance! Get
+          hurt maybe. But play as well as
+          you can.
+               (she leads a
+               cheer before
+               the stands)
+          Go team, go! Give me an "L."
+          Give me an "I."  Give me a "V."
+          Give me an "E." LIVE!!!!!
+               (she sits down
+               by Harold, quietly
+               composed)
+          Otherwise you'll have nothing to
+          talk about in the locker room.
+
+                    HAROLD
+               (smiles)
+          I like you, Maude.
+
+                    MAUDE
+               (smiles)
+          I like you, Harold.
+               (pause)
+          Come, I'll teach you to waltz.
+
+     Music comes in from nowhere. Harold joins Maude and,
+     though they both realize how ridiculous they look waltzing
+     in kimonos, they begin to dance, and thoroughly enjoy it.
+
+     We go into a MONTAGE as they dance together, similar to
+     the one Maude danced alone. They dance on the beach, the
+     forest, the fields, the hills, and end up back in her
+     apartment for the courtly finale.
+
+
+111     EXT. THE CHASEN'S BACK YARD - DAY
+
+     Mrs. Chasen and EDITH FERN come out of the house and walk
+     toward the garage area. Edith, the second computer date,
+     is short, mousy, and looks like a female Don Knotts.
+
+                    MRS. CHASEN
+          This way, Edith. Harold is out
+          by the garage. He has a new car
+          and he has been tuning it up.
+          He's very mechanical.
+
+                    EDITH
+          What kind of a car is it?
+
+
+112     EXT. THE GARAGE AREA - DAY
+
+     They come around the corner.
+
+                       MRS. CHASEN
+          It's a little MG roadster...
+
+        She stops dead in her tracks at what she sees.
+
+
+113     MRS. CHASEN POV
+
+        Harold is putting the final polish on the car. The car,
+     however, has changed. It is now black, with a squared-off
+     top, a long back, black velvet curtains, and silver trim.
+     As Edith says...
+
+                    EDITH
+          Oh. It looks like a hearse.
+               (a pause)
+          Very nice. Compact.
+
+                    MRS. CHASEN
+               (continuing despite
+               the blow)
+          Edith, I'd like you to meet my
+          son, Harold. Harold, this is
+          Edith... eh?
+
+                    EDITH
+          Fern. I'm very pleased to make
+          your acquaintance.
+
+     Harold nods a greeting and they shake hands.
+
+                    MRS. CHASEN
+          Harold, I think you should go and
+          wash up and meet us in the den.
+          And remember what I said to you.
+          Let's make Edith feel at home.
+
+
+114      INT. CHASEN'S DEN - DAY
+
+        Edith and Mrs. Chasen are seated having coffee.
+
+                       MRS. CHASEN
+          And what do you do, my dear?
+
+                    EDITH
+          I'm a file clerk - Harrison Feed
+          and Grain.
+
+                    MRS. CHASEN
+          How interesting.
+
+                    EDITH
+          Not very.
+
+                    MRS. CHASEN
+          Oh. Well, what is it exactly
+          that you do?
+
+                    EDITH
+          I'm in charge of all the invoices
+          for the southwest. We supply,
+          for example, most of the egg
+          farmers in Southern California.
+          So you can imagine.
+
+      She sips her coffee.
+
+                    MRS. CHASEN
+          Yes.
+
+      She sips hers. Harold enters.
+
+                       MRS. CHASEN
+          Here's Harold now. No, don't
+          get up.
+
+      Edith sits. Harold sits. A pause.
+
+                       MRS. CHASEN
+               (continuing)
+          Edith was just telling me about
+          her job.
+
+                    EDITH
+          I'm a file clerk.
+
+                    MRS. CHASEN
+          Yes. Henderson Feed and Grain.
+
+                       EDITH
+               (corrects her)
+          Harrison. Harrison Feed and
+          Grain... At Hamilton and Fourth...
+          I'm in charge of the invoices...
+          And I type up the schedule for
+          the trucking fleet...
+
+                    MRS. CHASEN
+          She supplies the whole southwest
+          with chicken feed.
+
+                    EDITH
+               (modestly)
+          Well, not all the southwest.
+          Although we do have a large
+          business... Barley was very big
+          last week...  Fifteen hundred...
+
+        Harold pulls out a meat cleaver. His left hand rests on
+     the table. With one great swoop he cuts it of at the
+     wrist. Calmly he puts his amputated arm in his lap as
+     Edith pauses in her story. Mrs. Chasen rolls her eyes
+     and sighs. Edith loOkS at the bloody hand on the table
+     and cannot continue.
+
+                    EDITH
+          ... bushels.
+
+        She begins violent retchings and tumbles forward to the
+     floor.
+
+     Harold looks over at Mrs. Chasen.
+
+       Mrs. Chasen looks over at Harold.
+
+
+115     INSERT CLOSEUP - UNCLE VICTOR - SAME AS IN SHOT 27 EXCEPT
+     RIGHT PROFILE
+
+                       UNCLE VICTOR
+          I'd put him in the Army, Helen.
+
+
+116      EXT. LONG SHOT - THE MEADOW - DAY
+
+     Harold and Maude have just finished having a picnic.
+
+
+117     MEDIUM SHOT - THE MEADOW - DAY
+
+     Maude is putting the things away. Harold lies on his back
+     and looks at the sky.
+
+                    HAROLD
+          Look at that sky.
+               (pause)
+          It's so big.
+
+                    MAUDE
+          It's so blue.
+
+                    HAROLD
+          And beyond the blue is the blackness
+          of the cosmos.
+
+                    MAUDE
+          Spreckled with uncountable stars.
+          The stars are shining right now.
+          We just can't see them. Just
+          another instance of all that's
+          going on that is beyond human
+          perception.
+
+                    HAROLD
+               (he sits up)
+          Maude, do you pray?
+
+                    MAUDE
+          Pray? No.
+               (pause)
+          I communicate.
+               (she smiles)
+
+                    HAROLD
+               (smiling)
+          With God?
+
+                    MAUDE
+          With Life.
+
+     They look at each other and smile.
+
+                    HAROLD
+          This is really nice. Makes me
+          feel like a kid. I want to do
+          somersaults .
+
+                    MAUDE
+          Well, why don't you?
+
+                    HAROLD
+          No. I'd feel stupid.
+
+                    MAUDE
+          Harold, everyone has the right to
+          make an ass out of themselves.
+          You just can't let the world judge you
+          too much.
+
+        Harold shrugs "Okay." He does a somersault in the grass.
+     He laughs.
+
+                     HAROLD
+          Want to join me in some cartwheels?
+
+                    MAUDE
+          No. I feel more like - yodeling.
+
+                    HAROLD
+          Yodeling?
+
+        Maude YODELS. Loud and long. Harold joins in. Their
+     combined voices ECHO across the valley and FADE OUT as
+     we:
+
+                               DISSOLVE TO:
+
+
+118      EXT. THE BEACH AT SUNSET
+
+     The sun sits on the horizon. We PULL BACK to include
+     Harold and Maude sitting on a rock and looking out at
+     the reddening clouds and sea.
+
+                    MAUDE
+               (poetically)
+          It's sinking, Harold. Going
+          over the horizon - where we are
+          all going to go. It's getting
+          dark. "Let each man hold on to
+          his candle and get a light
+          where'er he can."
+
+                    HAROLD
+          Where's that?
+
+                    MAUDE
+               (breaking the mood)
+          From the guys who got the matches,
+           of course.
+               (she laughs)
+
+                    HAROLD
+               (smiling)
+          Boy! It sure has been a wonderful
+          day. And you - you are beautiful.
+
+      He takes her hand and kisses it.
+
+                       MAUDE
+          Oh, Harold. You make me feel
+          like a schoolgirl.
+
+                    HAROLD
+          Shall I drop by tomorrow?
+               (remembers)
+          Oh, I have a luncheon date. With
+          this girl.
+
+                    MAUDE
+          Oh.
+
+                    HAROLD
+          I've never met her. My mother set
+          it up.
+
+                    MAUDE
+          Well, be kind. I've lived a long
+          time, Harold, seen evil as well as
+          good, and it has been my experience
+          that kindness...
+
+     As Maude is talking and looking out to sea, Harold looks
+     down at her hand in his. She is not wearing a long-sleeved
+     dress and we see a number tattooed on her skin: P-876954.
+     Maude doesn't notice but Harold is visibly shocked.
+
+                    MAUDE
+               (continuing)
+          ... is what the world sorely lacks.
+          Oh, look!
+
+     Maude points and Harold looks out to sea.
+
+
+119     THEIR POV
+
+        A sea gull flies across the reddening sky.
+
+
+120     TWO SHOT
+
+      Harold still holds Maude's hand.
+
+                       MAUDE
+          Dreyfus once wrote that on
+          Devil's Island he would see the
+          most glorious birds. Many
+          years later in Britanny he
+          realized they had only been sea
+          gulls.
+
+     She smiles at Harold and looks back out to sea.
+
+                    MAUDE
+               (continuing)
+          To me they will always be -
+          glorious birds.
+
+     Harold keeps looking at Maude. The sun on the horizon
+     begins slowly to sink.
+
+
+121      INT. CHASEN'S DEN - DAY
+
+      Mrs. Chasen is talking to Harold.
+
+                       MRS. CHASEN
+          Harold, I cannot impress upon
+          you too strongly the importance
+          of this meeting. She is the
+          last girl. The Computer Dating
+          Company was reluctant to send
+          anyone in view of what they've
+          heard. Fortunately, I was able
+          to demand they stand by their
+          original agreement. But kindly
+          remember this is your third
+          and final chance.
+
+      The doorbell rings.
+
+                       MRS. CHASEN
+          Here she is, now. Please try
+          to take this seriously, if not
+          for your sake, at least for hers.
+
+     Mrs. Chasen leaves. Harold grits his teeth, and breathes
+     deeply. He is going to try. He goes to a mirror and
+     straightens his tie.  He hears approaching voices and he
+     turns to greet them.
+
+     Mrs. Chasen enters with SUNSHINE DORE, a stringy, long-
+     haired actress. Harold goes up to meet her.
+
+                    MRS. CHASEN.
+          Harold, I'd like you to meet
+          eh, Sunshine Dore. Sunshine's
+          an actress.
+
+                    SUNSHINE
+          I like to think so.
+
+                    HAROLD
+          How do you do?
+
+                    SUNSHINE
+          Can't complain.
+
+                    MRS. CHASEN
+          Well, I'll leave you two alone
+          for a moment. I have to call
+          my hairdresser. I'll bring back
+          some drinks. Harold, perhaps
+          Starlight would like a cigarette.
+
+                    SUNSHINE
+          Eh, Sunshine.
+
+                    MRS. CHASEN.
+          Oh, yes, of course.
+
+     She exits.
+
+                    HAROLD
+          Would you like a cigarette?
+
+                    SUNSHINE
+          No, thank you. They stain my
+          fingers.
+
+      Pause.
+
+                    HAROLD
+          Is Sunshine your real name?
+
+                    SUNSHINE
+          Well, actually, it was the name
+          of my drama teacher - Louis
+          Sunshine. Perhaps you've heard
+          of him. He was such an influence
+          on the development of my instrument.
+          That means my body - in theatre
+          talk. Well, when I came to Hollywood
+          I felt the need to express the
+          emerging me in a new form, so I
+          took on "Sunshine."
+          Dore is my real name... Well,
+          Dore, actually. My, what a
+          lovely place you have here.
+
+     She goes to the piano.
+
+                    SUNSHINE
+               (continuing)
+          Do you play?
+
+                    HAROLD
+          No. I'm learning the banjo.
+          Do you?
+
+                    SUNSHINE
+          Oh, I studied the guitar. I had
+          to give it up. Gave me calluses
+          on my fingers. As an actress I
+          can't afford to have a tarnished
+          instrument.
+
+     She picks up a photograph.
+
+                    SUNSHINE
+               (continuing)
+          Oh, is this your father?
+
+                    HAROLD
+          No. My uncle.
+
+                    SUNSHINE
+          Oh, he's in the Army. I do so
+          like the military, don't you?
+          Those uniforms make men look so
+          virile. I did "What Price Glory?"
+          in summer stock. I played
+          Charmaine - with a French accent.
+
+     She goes over to the mantelpiece.
+
+                    SUNSHINE
+               (continuing)
+          Oh, what a wonderful collection
+          of knives. May I see them?
+
+     Harold gives up trying.
+
+                    HAROLD
+          Certainly.
+
+      He takes one off the wall.
+
+                    HAROLD
+               (continuing)
+          This one is particularly
+          interesting. It's a hari-kari
+          blade.
+
+                    SUNSHINE
+          Ohhh. What's hari-kari?
+
+                    HAROLD
+          An ancient Japanese ceremony.
+
+                    SUNSHINE
+          Like a tea ceremony?
+
+                    HAROLD
+          No. Like this.
+
+     With gusto he plunges the knife into his belly. He drops
+     to his knees bleeding profusely. He continues the upper-
+     cut and sidecut gouging with appropriate Oriental screams.
+     He stops and tumbles forward - lifeless.
+
+       Sunshine stands in awe.  She slowly bends down.
+
+                    SUNSHINE
+          Oh, that was marvelous, Harold.
+          It had the ring of truth.
+          Harold... Who did you study with?
+          ... Oh, I'm sorry. I don't want
+          to break into your private moment.
+          I know how exhausting true emotion
+          can be. I played Juliet at the
+          Sunshine Playhouse. Louie thought
+          it was my best performance.
+
+     She goes into Juliet.
+
+                    SUNSHINE
+               (continuing)
+          What's here? A cup, closed in
+          my true love's hand? Poison, I
+          see, hath been his timeless end.
+          Oh churl! Drink all, and left
+          no friendly drop to help me after?
+          I will kiss thy lips.
+
+     Harold opens his eyes. He can't believe this.
+
+                    SUNSHINE
+               (continuing)
+          Happily some poison yet doth
+          hang on them - to make me die
+          with a restorative .
+
+     She kisses Harold, who immediately kneels up.
+
+                    SUNSHINE
+               (continuing)
+          Thy lips are warm!
+
+     Harold, startled, knocks over an ashtray.
+
+                    SUNSHINE
+               (continuing)
+          Yea, noise? Then I'll be brief.
+          Oh happy dagger!...
+
+     She takes stunned Harold's dagger, pressing the blade
+     back and forth in the handle to see how it operates.
+
+                    SUNSHINE
+               (continuing)
+          ... Oh happy dagger! This is
+          thy sheath.
+
+     She stabs herself between the breasts.
+
+                    SUNSHINE
+               (continuing)
+          There rest--
+
+     She staggers to the couch, clutching the dagger.
+
+                    SUNSHINE
+               (continuing)
+          - and let me die.
+
+      She collapses and expires.
+
+     Harold gets up. He has never seen anything like it.
+     He wanders around the couch as if he was looking at
+     an idiot.
+
+     Mrs. Chasen enters with a tray full of drinks, sees
+     Sunshine dead on the couch, and drops them all with
+     a loud crash. She looks over at a bewildered Harold.
+     Summing up the situation, she flings out an accusing
+     arm.
+
+                    MRS. CHASEN
+          Harold! That was your last date!
+
+
+122     CLOSEUP - HAROLD
+
+     He doesn't know what to make of it.
+
+
+123     CLOSEUP - MRS. CHASEN
+
+     She is thoroughly steamed up. She makes a decision.
+
+
+124     INSERT CLOSEUP UNCLE VICTOR - SAME FRAMING AS SHOT 27
+     BUT LOOKING STRAIGHT ON
+
+                    UNCLE VICTOR
+          I'd put him in the Army, Helen.
+
+
+125     INT. MILITARY ESTABLISHMENT - CLOSEUP - DAY
+
+        Military file cabinet opened and hand removes a file.
+
+
+126     INT. A MILITARY CORRIDOR - CLOSEUP - DAY
+
+     The file is being carried by someone and then dropped
+     into an "IN" box.
+
+
+127     INT. A MILITARY OFFICE - CLOSEUP - DAY
+
+     The file is taken out of the "IN" box, carried through
+     a door, and placed on a desk.
+
+
+127A     INT. UNCLE VICTOR'S OFFICE - CLOSEUP - DAY
+
+     The file is opened by a pair of hands. We TILT UP to see
+     whose hands they are. It is Uncle Victor who is studying
+     the file with obvious pleasure.
+
+
+127B     INT. THE CHASEN DEN - NIGHT
+
+        Mrs. Chasen stands before a seated Harold looking like a
+     queen about to proclaim banishment. (As we DOLLY into
+     her during her speech, we hear the hint of a DRUM ROLL.)
+
+                    MRS. CHASEN
+          In view of your recent actions,
+          Harold, I find you have left me
+          with no recourse but to listen to
+          the solution proposed by your
+          uncle. Consequently, I have
+          instructed him to take the necessary
+          measures for you to be forthwith
+          inducted into the service, and, for
+          your own good, to take up active
+          duty with the United States Army.
+
+     Harold is thunderstruck - and scared.
+
+                       MRS. CHASEN
+               (continuing)
+          I hope they will have more luck
+          with you than I.
+
+
+127C     EXT. BACK YARD BEHIND MAUDE'S - DAY
+
+        Maude is hoeing weeds in Madame Arouet's garden. Madame
+     Arouet is working in the back. Harold comes up to Maude.
+
+                    HAROLD
+          Maude, I must speak to you.
+
+                    MAUDE
+          What is it, Harold?
+
+                    HAROLD
+          They're going to draft me. In
+          the Army. I'm going to be sent
+          away.
+
+                    MAUDE
+          But they can't do that. You
+          haven't even got the vote.
+
+                    HAROLD
+          But they have.
+
+                    MAUDE
+          Well, don't go.
+
+     She obviously is not perturbed about Harold's plight and
+     seems more interested in gathering weeds.
+
+                    MAUDE
+               (continuing)
+          Perhaps war is part of the human
+          condition. But it shouldn't be
+          encouraged. Bring over that
+          wheelbarrow, will you please?
+
+     Harold goes to get the wheelbarrow.
+
+                    HAROLD
+          But they'll put me in jail.
+
+                    MAUDE
+          Really. Just put it there,
+          Harold.
+
+        Harold puts down the wheelbarrow and Maude starts forking
+     the weeds into it.
+
+                    MAUDE
+               (continuing)
+          They'd put you in jail, eh? Well,
+          historically you'd be in very
+          good company.
+               (she laughs)
+          That's what my husband used to
+          say when we were in the French
+          Underground dealing with the
+          Gestapo. Would you like to do a
+          little raking?
+               (she wipes
+               her brow)
+          Work, I'm told, done with no
+          selfish interest, purifies the mind.
+          You sink your separate self and
+          become one with the universal self.
+          On the other hand, senseless labor
+          is a bloody bore and should be
+          scrupulously avoided.
+
+                    HAROLD
+               (very concerned)
+          Maude, do you think you can
+          help me?
+
+                    MAUDE
+          What? With your skill and my
+          experience... I think we can come
+          up with something.
+
+
+127D      INT. UNCLE VICTOR'S CAR - DAY
+
+     Uncle Victor and Harold are seated in the back of the
+     General's military limousine. As they ride along, Uncle
+     Victor is being very expansive. Harold is being unusually
+     attentive.
+
+                    UNCLE VICTOR
+          Harold, I want you to look at me
+          like your father in this matter.
+          We'll spend the day just getting
+          to know each other. Now, I know
+          that you have no great desire to
+          join the Army. Hell, I felt the
+          same way myself when I started
+          out. But believe me, Harold, once
+          you get to know it, you'll love
+          it. It's a great life. Look at
+          me. A chauffeur. Respect. Money
+          in the bank.
+               (he looks at
+               his empty
+               sleeve)
+          It has its drawbacks. Like
+          anything else, I suppose. But
+          the Army takes care of you. You
+          join up, and you've got a buddy
+          for life.
+
+
+127E     EXT. A LARGE CITY PARK - DAY
+
+      The General and Harold have left the car and are walking
+     along the path.  There are not many people about, mostly
+     mothers with small children.
+
+                    UNCLE VICTOR
+          Good idea of yours to come out
+          here, Harold. It's a lovely spot.
+
+                    HAROLD
+          Thank you, Uncle.
+
+                    UNCLE VICTOR
+          Call me "sir," Harold. First thing
+          you learn in the Army - an officer
+          deserves your respect.
+
+                    HAROLD
+          Yes, sir.
+
+                    UNCLE VICTOR
+          Perfectly lovely. You know, this
+          is what we're defending. Everything
+          that's good and beautiful in the
+          American way of life. Oh, there's
+          some nut peace petitioner over there.
+          Let's go off this way. Those crazy
+          Commie bastards. I don't know why
+          we tolerate 'em. Parasites.
+
+     Harold looks over toward the peace petitioner.
+
+                    HAROLD
+          Yes, sir.
+
+
+127F     EXT. A TRAIL IN THE PARK - DAY
+
+                    UNCLE VICTOR
+          Let's examine the facts on it. I
+          say this country has been too harsh
+          in its outright condemnation of war.
+          I say you can point to many material
+          advantages brought about by a crisis
+          and conflict policy. Hell, World
+          War II gave us the ballpoint pen.
+          That's common knowledge.
+
+                    HAROLD
+          During wartime the national suicide
+          rate goes down.
+
+                    UNCLE VICTOR
+          Is that a fact? Well, that fits
+          in right along with everything I've
+          been saying. War is not all black.
+
+                    HAROLD
+          War is not all black.
+
+     The trail splits in a fork. Harold, it seems, subtly
+     leads the General to take the right. They walk on.
+
+
+127G     EXT. ANOTHER PART OF THE PARK - DAY
+
+     The General and Harold sit on a bench overlooking a
+     reservoir.
+
+                    UNCLE VICTOR
+          And so I ask you - why the hell did
+          we give up on the Germans? Those
+          damn politicians in Washington
+          chalked them up on our side and the
+          wars ever since have been a national
+          disgrace. Hell, look at history.
+          The two best wars this country has
+          fought were against the Jerries.
+          Now I say, get the Krauts on the
+          other side of the fence where they
+          belong, and let's get back to the
+          kind of enemy worth killing and the
+          kind of war this whole country can
+          support.
+
+                    HAROLD
+               (admiringly)
+          Jeez, sir. That's pretty strong stuff.
+
+      They get up to go.
+
+                    UNCLE VICTOR
+          Well, Harold, I've always been a man
+          who speaks his mind. It's hurt me.
+          I'm not liked in Washington. I know
+          that. But I do have friends in high
+          places.
+
+     They walk off toward the reservoir.
+
+
+127H     EXT. BY THE RESERVOIR - DAY
+
+        They are seated under a tree, close to the dam.
+
+                    UNCLE VICTOR
+          They came at me from all sides,
+          hundreds of 'em. We kept firing -
+          Zat-Tat-Tat-Tat! "Throw the
+          grenades," I shouted. "Mac, throw
+          the grenades!" "He's dead," Joe
+          said, and kept right on feeding me
+          bullets.  Zat-Tat-Tat-Tat!  They
+          kept falling, but they kept coming.
+          Bullets whizzing all around me.
+          Zot! Joe falls back with a neat
+          red hole in his head. I thought I
+          was done for. But I kept firing.
+          Zat-Tat-Tat! Only one thought
+          kept me going. Kill! Kill! For
+          Mac, and Joe, and the rest of the
+          guys. Kill! - a blinding flash.
+          I wake up on a stretcher. "Did
+          we hold?" I asked the medic. "Yes,
+          sir," he said, and I slipped into
+          unconsciousness.
+
+                    HAROLD
+          Jeez! That's a great story,
+
+                    UNCLE VICTOR
+          Well, you'll soon have stories like
+          that to tell of your own.
+
+                    HAROLD
+          You think so, sir?
+
+                    UNCLE VICTOR
+          Sure. Be able to tell your children.
+          Something for them to look up to. Be
+          proud of.
+
+                    HAROLD
+          I hope so, sir. Golly I never knew
+          it could be so exciting.
+
+                    UNCLE VICTOR
+          It's the greatest excitement in the
+          world.
+
+                    HAROLD
+               (pensively)
+          To pit your own life against another.
+
+                    UNCLE VICTOR
+          That's right.
+
+                    HAROLD
+          To kill. The taste of blood in
+          your mouth.
+
+                    UNCLE VICTOR
+          The moment of truth.
+
+                    HAROLD
+               (holding an
+               imaginary rifle)
+          Another man's life in your sights.
+
+                    UNCLE VICTOR
+          Yes.
+
+                    HAROLD
+               (he fires)
+          ZAT!
+
+      Harold begins going into a state of catatonic excitement.
+
+                    HAROLD
+          Will they really teach me to shoot?
+
+                    UNCLE VICTOR
+          Oh, sure. A variety of weapons.
+
+                    HAROLD
+          And to use the bayonet? PACHOIE!
+
+                    UNCLE VICTOR
+          Oh sure.
+
+                    HAROLD
+          How about hand-to-hand combat?
+
+                    UNCLE VICTOR
+          Yes.
+
+                    HAROLD
+          To strangle someone. Choke him.
+          Squeeze out his life between your
+          hands.
+
+                    UNCLE VICTOR
+          Eh?
+
+                    HAROLD
+          How about to slit his throat?
+
+                    UNCLE VICTOR
+          Well, I don't...
+
+                    HAROLD
+          I'd like that. You could see the
+          blood squirt out.
+
+                    UNCLE VICTOR
+          Harold, I think you're getting
+          carried away here.
+
+                    HAROLD
+          Sir, how about souvenirs?
+
+                    UNCLE VICTOR
+          Souvenirs?
+
+                    HAROLD
+          Of your kill - ears, nose, scalp,
+          privates.
+
+                    UNCLE VICTOR
+          Harold!
+
+                    HAROLD
+          What's the chance of getting one
+          of these?
+
+     He pulls out a shrunken head.
+
+                    HAROLD
+               (continuing)
+          Boy, to think I could maybe make
+          my own.
+
+                    UNCLE VICTOR
+          Harold! That's disgusting!
+
+                    MAUDE'S VOICE
+          It certainly is.
+
+     They both look up. Maude is standing by the tree with
+     her umbrella and a large peace sign. The General gets
+     up.
+
+                    UNCLE VICTOR
+          Who are you?
+
+                    MAUDE
+          I am petitioning for peace and I
+          came over here to speak...
+
+                    HAROLD
+               (jumping up)
+          Parasite!
+
+                    UNCLE VICTOR
+          Harold!
+
+                    HAROLD
+          Crazy parasite! Commie bastard!
+          Get out of here.
+
+                    MAUDE
+          Don't you talk to me like that, you
+          little foul mouth degenerate!
+               (to General)
+          Really, sir, I thought that you at
+          least...
+
+                    HAROLD
+          Traitor! Benedict Arnold! Remember
+          Nathan Hale, right, sir?
+
+                    UNCLE VICTOR
+          Harold, calm down! This is...
+
+                    HAROLD
+          She's a Commie pig. We're going
+          to nail every last one...
+
+                    MAUDE
+          Don't you advance on me.
+
+                    HAROLD
+          ... of you. You'll all end up
+          like this.
+
+     He holds out the shrunken head at her.
+
+                    MAUDE
+          Filth! Filth!
+
+                    UNCLE VICTOR
+          Lady, please. Harold...
+
+                    HAROLD
+               (shaking the head)
+          Just like this.
+
+                    MAUDE
+               (throwing away her sign)
+          Give me that.
+               (she grabs the head)
+          I'm going to throw it in the sewer
+          where it belongs.
+
+                    HAROLD
+               (stunned)
+          She took my head.
+
+                    UNCLE VICTOR
+          Stay where you are, Harold .
+
+                    HAROLD
+          She took my head.
+
+                    MAUDE
+          Keep away from me, you twisted
+          pervert!
+
+                    UNCLE VICTOR
+          Lady, please. Give back the head
+          and let's have no trouble.
+
+     Harold makes a grab for the head and Maude conks him
+     with her umbrella. She turns and runs. Harold picks
+     up the peace sign and wielding it like a club follows
+     her.
+
+                    HAROLD
+          I'll kill her. I'll kill her.
+
+     Maude runs out on the edge of the dam, right past a
+     sign saying "Danger - No Trespassing." The water is
+     churning below, making a deafening racket. Harold follows
+     her. The General runs after him. Maude beats off
+     Harold with her umbrella. The General joins the fray
+     and most of the blows fall on him. Much ad-libbing.
+     Despite only having one arm the General manages to
+     pull the sign away from Harold and throw it over the
+     dam. It is quickly churned up by the treacherous
+     water. Harold is holding Maude's umbrella. Maude is
+     gamely trying to hold on to it and at the same time keep
+     hold of the shrunken head. The General joins the tussle
+     for the umbrella. Furious ad libs as they scuffle.
+     The General finally wrenches it free. A pause. Harold
+     looks at Maude's position, standing next to the General.
+     He reaches over and pulls the General's lanyard. The
+     empty sleeve comes flying up for a salute, knocking Maude
+     over the dam and into almost certain death amid the
+     rushing water below.
+
+     A long pause. The two look down but there is no sign
+     of Maude.
+
+        The General, his empty sleeve still at salute, looks
+     around him. He can't believe it. Such a tragedy.
+     Over nothing. It all happened so fast. How did it
+     ever get so out of control? He looks over to Harold
+     for some answers. Harold looks up.
+
+                    HAROLD
+          I lost my head.
+
+
+127I     CLOSEUP - UNCLE VICTOR
+
+     On his face the shocking revelation that his nephew
+     is a mental deficient.
+
+
+127J     QUICK CUT MONTAGE
+
+     Very fast shots of - The General's limousine taking off.
+                    - Some hands rubber-stamping a file.
+                    - The file closed and thrown into an
+                      "Out" box
+                    - The file being filed in a drawer.
+                    - The drawer being slammed shut.
+
+
+127K      EXT. THE AMUSEMENT PARK - NIGHT
+
+        Three dancing skeletons cackle uproariously. They are
+     afixed to dungeon-like doors. Suddenly the doors fly
+     open and a little cart carrying Harold and Maude comes
+     bursting out. They are laughing.
+
+
+127L     EXT. LONG SHOT OF THE HAUNTED HOUSE - NIGHT
+
+        Harold and Maude get out of the little cart and walk
+     toward the camera.
+
+                    HAROLD
+          That wasn't very scary.
+
+                    MAUDE
+          No. It had nothing on this afternoon.
+
+                    HAROLD
+          Oh, you weren't scared.
+
+                    MAUDE
+          Scared? Swimming underwater with
+          that oxygen device of yours. I
+          was petrified.
+
+                    HAROLD
+          Come on, you loved it. It was a
+          new experience.
+
+     They both laugh.
+
+                    HAROLD
+               (continuing)
+          How about some candy floss?
+
+                    MAUDE
+          Right on! It wouldn't be a celebration
+          without it.
+
+
+128      EXT. AMUSEMENT PARK - NIGHT
+
+        Harold and Maude are walking down the fairway, eating
+     candy floss and obviously enjoying themselves very much.
+
+
+129     EXT. SHOT OF FERRIS WHEEL - NIGHT
+
+
+130      EXT. SHOT OF ROLLER COASTER - NIGHT
+
+
+131     EXT. SHOT OF MERRY-GO-ROUND - NIGHT
+
+
+132     INT. PENNY ARCADE ON THE PIER - NIGHT
+
+     Harold and Maude are playing the hand-operated "soccer
+     game." Maude puts her whole self into it, cheering
+     enthusiastically for every goal she makes.
+
+     People around her, particularly a STAID BANKER and his
+     SOCIETY WIFE, look on from their rather dull pursuits.
+     In fact, it seems that Harold and Maude are the only
+     ones having any fun.
+
+                              DISSOLVE TO:
+
+
+133     TIME LAPSE - TWENTY MINUTES LATER
+
+     Maude and an ITALIAN GROCER have taken on the banker and
+     his wife. The latter pair have really entered into the
+     spirit of fun and are playing the game with joyous zest.
+     A crowd around the table cheers the players on and, as
+     is expected, Maude is the center of their delight.
+
+
+134     INT. PENNY ARCADE - NIGHT
+
+        Back by the wall Harold looks at the group around Maude
+     with open admiration. He turns to the machine by him,
+     drops in a penny, and begins stamping out something in
+     metal.
+
+     Maude and the group play and laugh on in the background.
+
+
+135     EXT. THE END OF THE PIER - NIGHT
+
+        Harold and Maude walk slowly to the edge.
+
+                    HAROLD
+          You sure have a way with people.
+
+                    MAUDE
+          Well, they're my species.
+
+      They both laugh and stop at the edge. On the shore -
+     the lights of the amusement park. Out in front of them
+     - the black ocean and the stars.
+
+                    HAROLD
+          Look at the stars.
+
+                    MAUDE
+          Yes. They're old friends.
+
+                    HAROLD
+          Do you think there is any life
+          up there?
+
+                    MAUDE
+          I don't know. Perhaps.
+
+                    HAROLD
+          Science thinks there isn't.
+          That we are all alone in the
+          universe.
+
+                    MAUDE
+          We are alone - you and me and
+          everybody. But we can look at
+          those stars and maybe someone
+          down the beach or across the
+          sea in China is looking at them,
+          too. Someone we don't know
+          and most likely will never see
+          - that someone is breathing
+          along with us. And the star-
+          gazers of the past - from
+          peasant to princes - and the
+          star-gazers of the future -
+          all of us breathing and looking
+          up there. We are alone - but
+          look at the stars and never
+          feel lonely.
+
+                    HAROLD
+          You should have been a poet.
+
+                    MAUDE
+          Oh, no. But I should have
+          liked to have been an astronaut.
+          A private astronaut able to
+          just go out and explore. Like
+          the men who sailed with Magellan,
+          I want to see if we really can
+          fall off the edge of the world.
+               (fluttery laugh)
+          What a joke it will be if like
+          them I -
+
+     She makes a circle with her arm.
+
+                    MAUDE
+               (continuing)
+          - end where I began.
+
+                    HAROLD
+          Maude.
+
+                    MAUDE
+          Yes.
+
+                    HAROLD
+          Here.
+
+     He gives her the little piece of metal.
+
+                    MAUDE
+          Oh, a gift.
+
+     She reads it.
+
+                    MAUDE
+               (continuing)
+          "Harold loves Maude."
+
+      She looks up. Harold is blushing.
+
+                    MAUDE
+               (softly)
+          And Maude loves Harold.
+
+     They both smile at each other.
+
+                    MAUDE
+          Ohhhhh! This is the nicest
+          present I've received in years.
+
+     She kisses it and tosses it happily into the ocean. She
+     turns back to Harold. His face is one of disbelief. He
+     looks out to the ocean and then back to Maude. He begins
+     to form the word "Why?"
+
+                    MAUDE
+          So I'll always know where it is.
+
+     Harold accepts that. Women, after all, are strange
+     creatures. Maude smiles.
+
+                    MAUDE
+               (continuing)
+          Come. Give me your arm. Let's
+          go see the fireworks .
+
+     Harold offers his arm and they walk off down the pier.
+
+
+136     EXT. THE NIGHT SKY
+
+      The beautiful burst of a skyrocket.
+
+
+137      INT. MAUDE'S APARTMENT - NIGHT
+
+        Harold and Maude sit at the piano. They are playing in
+     duet the Love Waltz that they danced to. At the con-
+     clusion they congratulate themselves delightedly. Harold
+     gestures to the top of the piano.
+
+                    HAROLD
+          Why are there no photographs
+          in these frames?
+
+                    MAUDE
+          I took them out.
+
+                    HAROLD
+          Why?
+
+                    MAUDE
+          They mocked me. They were
+          representations of people I
+          dearly loved yet they knew
+          these people were gradually
+          fading from me, and that in
+          time all I would have left would
+          be vague feelings - but sharp
+          photographs! So I tossed them
+          out. My memory fades, I know.
+          But I prefer pictures made by
+          me with feeling, and not by
+          Kodak with silver nitrate.
+
+                    HAROLD
+          I'll never forget you, Maude.
+               (pause)
+          But I would like a photo of
+          you.
+
+      She laughs.
+
+                    MAUDE
+          Well, let me see.
+
+     She goes to the end of the bed and from beneath it, pulls
+     out an old box. She opens it and looks about.
+
+                    MAUDE
+          I have something somewhere.
+          Let me see.
+
+     She takes out some papers.
+
+                    MAUDE
+               (continuing)
+          Oh, yes. Here. Take this.
+
+     She pulls a photo from a document and hands it to Harold.
+
+                    MAUDE
+               (continuing)
+          It's off my American visa.
+
+     They both sit on the edge of the bed. The fire burns
+     in the fireplace in front of them.
+
+                    HAROLD
+          It looks like you. Thanks.
+
+                    MAUDE
+          Harold, that picture is almost
+          twenty-five years old.
+
+                    HAROLD
+          You haven't changed a bit. I'll
+          put it in my wallet.
+
+     He drops a cardboard clipping and hurriedly retrieves it.
+
+                    HAROLD
+          Oh, you're not supposed to see
+          that.
+
+     He turns away and puts them both in his wallet.
+
+                    HAROLD
+               (continuing)
+          It's part of a surprise I'm
+          planning for tomorrow night.
+          It's going to be really...
+               (he turns around)
+          Maude, you're crying.
+
+     She holds the visa in her hand.
+
+                    MAUDE
+          I was remembering how much this
+          meant to me. It was after the
+          war... I had nothing... except
+          my life. How different I was
+          then - and yet how the same.
+
+                    HAROLD
+          You've never cried before. I
+          never thought you would. I
+          thought, despite anything, you
+          could always be happy.
+
+                    MAUDE
+          Oh, Harold. You are so young.
+
+     She strokes his hair. The tears continue to fall.
+
+                    MAUDE
+               (continuing)
+          What have they taught you?
+          Yes. I cry. I cry for you.
+          I cry for this.
+               (the visa)
+          I cry at beauty - a first snow,
+          a rose, a sunset.
+
+     As she talks through her tears, Harold is very moved.
+     He takes her hand.
+
+                    MAUDE
+               (continuing)
+          I cry when a man tortures his
+          brother... when he repents and
+          begs forgiveness... when
+          forgiveness is refused... and
+          when it is granted. To cry is
+          to laugh. To laugh is to cry
+          ... a uniquely human trait.
+          And the main thing in life, my
+          dear Harold, is not to be
+          afraid to be human.
+
+     They sit facing each other on the end of the bed. We
+     see from the bed the fire glowing behind them. Harold
+     brushes the tears from her eyes. He leans forward and
+     kisses her lightly on the lips.
+
+     They part for a moment. Then both lean forward and
+     kiss again, break and fall back onto the bed and OUT
+     OF CAMERA. The CAMERA ZOOMS SLOWLY FORWARD into the
+     fire. HOLD.
+
+                              DISSOLVE TO:
+
+138     THE NIGHT MONTAGE - WITH MUSIC
+
+     A lot of the sequence is soft focus, blurred edges, and
+     supered with colored carnival lights.
+
+     The images are not meant to appear overtly sexual but
+     rather - lyrically sensual - and fun!
+
+
+139     HAROLD AND MAUDE
+
+     together in a Ferris Wheel as it begins to rise to the
+     heights.
+
+
+140     HAROLD AND MAUDE ON A MERRY-GO-ROUND
+
+     holding hands across the aisle as their horses alternately
+     go up and down.
+
+
+141     HAROLD AND MAUDE
+
+     on a roller coaster as it speeds around a curve and
+     plunges downhill. As it speeds around another curve
+     we burst into:
+
+
+142     FIREWORKS
+
+     A hundred skyrockets bursting in air, with much NOISE.
+     The noise fades.
+
+
+143     HAROLD AND MAUDE
+
+     lying on the grass, looking up at the fireworks reflected
+     in their faces. Their heads are nestled against each
+     other's shoulders. They look at each other and smile.
+     Harold lifts his outside arm and lays it around his head.
+     Maude puts her outside hand in his. They hold this
+     position and stare into each other's eyes, as the CAMERA
+     BEGINS A VERTICAL RISE.
+
+                              DISSOLVE BACK TO:
+
+
+144     THE FIRE IN MAUDE'S APARTMENT
+
+     at the same CAMERA POSITION that we went out on. The
+     fire is now out. The grate is cold. It is daylight.
+
+     We HEAR a cock crow.
+
+
+145     INT. MAUDE'S APARTMENT - DAY
+
+        TIGHT SHOT of a hand picking cigarette ash into an ash-
+     tray. We PAN over and see that it is Harold sitting up
+     in bed, bare-chested, casually smoking. He takes a deep
+     drag and blows the smoke out in a manner that is decidedly
+     sexual. He smiles and looks down to his left.
+
+     We PAN OVER to include Maude lying beside him, the covers
+     demurely pulled up to her chin. She catches Harold's
+     smile and blushes coyly.
+
+
+146     INT. CHASEN'S DEN - DAY
+
+      Mrs. Chasen is on the phone.
+
+                       MRS. CHASEN
+          Fay, darling, I know Rene will
+          be furious but if you knew what
+          I've had to put up with in the
+          last couple of days...
+
+     Harold enters.
+
+                    HAROLD
+          Mother.
+
+                    MRS. CHASEN
+          Not now, Harold...
+               (into the phone)
+          You can't put me down for Monday?
+
+                    HAROLD
+          Mother.
+
+                    MRS. CHASEN
+          Harold, please! I'm on the
+          phone.
+
+                    HAROLD
+          Mother. I'm going to get
+          married.
+
+                    MRS. CHASEN
+          Fay, I'll call you back.
+               (she hangs up)
+          What did you say?
+
+                    HAROLD
+          I'm getting married.
+
+                    MRS. CHASEN
+               (pause)
+          To whom?
+
+                    HAROLD
+          To a girl. Here.
+
+     He takes his wallet with the series of photos on it,
+     flips to one, and hands it to Mrs. Chasen. She looks
+     at it for a moment. She looks up.
+
+                    MRS. CHASEN
+          I suppose you think this is
+          very funny, Harold.
+
+                    HAROLD
+          What?
+
+                    MRS. CHASEN
+          A sunflower?
+
+     She hands Harold back the wallet. It is indeed the
+     picture of a large sunflower, clipped from a dealer's
+     catalog. Harold, a little ruffled, finds the correct
+     photo of Maude and hands it to his mother.
+
+     Mrs. Chasen examines it. She squints her eyes to clear
+     her vision and looks again.
+
+                    MRS. CHASEN
+               (in a strained voice)
+          You can't be serious?
+
+
+147      CLOSEUP - HAROLD
+
+     He smiles proudly.
+
+
+148      INT. PSYCHIATRIST'S OFFICE - DAY
+
+     Mrs. Chasen is lying on the couch. She turns to the
+     psychiatrist.
+
+                    MRS. CHASEN
+          He's serious.
+
+
+149      INT. UNCLE VICTOR'S OFFICE - DAY
+
+     Uncle Victor sits at his desk. A picture of the Presi-
+     dent of the United States is over his right shoulder.
+     He is addressing the camera as the President addresses
+     the nation.
+
+                    UNCLE VICTOR
+               (a painful confrontation)
+          Harold, your mother has spoken to me
+          about your marriage plan, and though
+          normally I have nothing against
+          marriage, I don't think this is eh...
+          quite normal. Now, I don't want to
+          remind you of the unpleasant incident
+          that occurred the other day. I think
+          it is best if we consider that
+          forgotten. But I do think that it
+          would be wisest for you not to leave
+          the house or indulge in any kind of
+          activity that would be newsworthy.
+          This marriage would attract attention,
+          and, frankly Harold, I don't think you
+          need a wife. You need a nurse.
+
+
+150     INT. PSYCHIATRIST'S OFFICE - DAY
+
+        The psychiatrist sits at his desk. A picture of Sigmund
+     Freud is over his right shoulder. He too seems to be
+     addressing the nation.
+
+                    PSYCHIATRIST
+          There's no doubt, Harold, this
+          impending marriage adds another
+          chapter to an already fascinating
+          case. But let us examine it, and
+          I think you'll realize there is a
+          simple Freudian explanation for
+          your romantic attachment to this
+          older woman. It is known as the
+          Oedipus Complex, a very common
+          neurosis, particularly in this
+          society, whereby the male child
+          subconsciously wishes to sleep
+          with his mother.
+
+          Of course, what puzzles me,
+          Harold, is that you want to
+          sleep with your grandmother.
+
+
+151      INT. PRIEST'S OFFICE - DAY
+
+        It is the same little old priest we have met earlier.
+     He sits at his desk and addresses the camera like a TV
+     audience. A picture of the Pope is over his right
+     shoulder; a picture of Jesus Christ over his left.
+
+                    PRIEST
+               (very reasoned and slow)
+          Now, Harold, the Church has
+          nothing against the union of
+          the old and the young. Each
+          age has its own beauty. But a
+          marital union is concerned with
+          the conjugal rights. And the
+          procreation of children. I
+          would be remiss in my duties if
+          I did not tell you that the
+          idea of --
+               (he swallows)
+          - intercourse - the fact of
+          your young, firm --
+               (growing
+               disturbed)
+          -- body commingling with the
+          withered flesh, sagging breasts,
+          and flabby buttocks - makes me --
+               (falls apart)
+          - want to vomit.
+
+
+152     INT. CHASEN'S DEN - CLOSEUP - HAROLD - DAY
+
+                       HAROLD.
+          But you didn't ask if I love
+          her.
+
+
+153      INSERTS - THREE FAST CLOSEUPS
+
+       of Uncle Victor, the psychiatrist, and the priest, as
+     they register a chagrined reaction to Harold.
+
+
+154      INT. CHASEN'S DEN - DAY
+
+        The CLOSEUP HAROLD in Shot 152 is PULLED BACK to include
+     Mrs. Chasen.
+
+                    MRS. CHASEN
+          Love? Love? What do you know
+          about her? Where does she come
+          from? Where did you meet her?
+
+                    HAROLD
+          At a funeral.
+
+                    MRS. CHASEN
+          Oh... That's wonderful... I
+          get an eighty-year-old pallbearer
+          for a daughter-in-law! Be
+          reasonable, Harold! You're
+          dealing with your life! What
+          will people say?!
+
+                    HAROLD
+          I don't care what people say.
+
+                    MRS. CHASEN
+          You don't care! "Miss Shroud
+          of 1890 Weds the Boy of a
+          Thousand Deaths!" Listen to me...
+
+      Harold gets up to go.
+
+                    MRS. CHASEN
+          What are you doing, Harold?
+          You can't leave me.
+
+     She follows him to the door.
+
+                    MRS. CHASEN
+               (continuing)
+          Where are you going?
+
+     He turns at the door.
+
+                    HAROLD
+          I'm going to marry the woman
+          I love.
+
+                    MRS. CHASEN
+          Harold!
+
+      A pause.
+
+                    MRS. CHASEN
+               (continuing;
+               quietly)
+          This is insane.
+
+                    HAROLD
+          Perhaps it is.
+
+     He leaves.
+
+
+155     INT. MAUDE'S APARTMENT - NIGHT
+
+       In the hallway Harold and Maude are giggling as Harold
+     finishes putting a blindfold around Maude's eyes.
+
+                    HAROLD
+          I hope that isn't too tight.
+          Okay. Here we go.
+
+     He opens the door leading her by the hand.
+
+                    MAUDE
+          Oh, I love surprises! Makes me
+          feel so - chiffon!
+
+
+156     INT. MAUDE'S APARTMENT - THE MAIN ROOM
+
+     The door opens and Harold leads in Maude. He stands
+     Maude in front of the CAMERA and with theatrical bravado
+     removes the handkerchief. She blinks and looks around.
+     A radiant joy fills her face.
+
+
+157     MAUDE'S POV
+
+        The room is filled with over a hundred sunflowers.
+     Hanging over the fireplace is a banner saying:
+
+               "HAPPY BIRTHDAY, MAUDE"
+
+
+158     MED. SHOT - HAROLD AND MAUDE
+
+                    MAUDE
+          Oh, Harold, it is dazzling.
+          They are all so... so beautiful!
+
+     Harold begins humming the Love Waltz.
+
+                    HAROLD
+          This way, m'lady.
+
+     He dances Maude over to the table.
+
+                    HAROLD
+               (continuing)
+          Supper for two.
+
+                    MAUDE
+          Oh, you've thought of everything.
+          And champagne.
+
+                    HAROLD
+               (imitating her)
+          It's all right. It's organic.
+
+                    MAUDE
+          Oh, Harold.
+               (fluttery laugh)
+
+                    HAROLD
+          For you.
+
+     He hands her a single daisy in a vase. Maude takes out
+     the daisy and smiles.
+
+                    HAROLD
+               (continuing)
+          And after dinner, one more
+          surprise....
+
+     He puts a tiny ring box on the table.
+
+                    HAROLD
+               (continuing)
+          ... which I hope will make
+          you very happy.
+
+                    MAUDE
+          Oh, I am happy, Harold.
+          Ecstatically happy. I couldn't
+          imagine a lovelier farewell.
+
+                    HAROLD
+          Farewell?
+
+                    MAUDE
+          Why yes. It's my eightieth
+          birthday.
+
+                    HAROLD
+          But you're not going anywhere, are you?
+
+                    MAUDE
+          Oh yes, dear. I took the pills
+          an hour ago. I should be gone
+          by midnight.
+
+
+159     CLOSEUP - HAROLD
+
+      He can't believe it.
+
+
+160     CLOSEUP - MAUDE
+
+     She smiles.
+
+
+161     CLOSEUP - HAROLD
+
+      He believes it.
+
+                               QUICK CUT TO:
+
+
+162      EXT. DOWNTOWN STREET - NIGHT
+
+      With SIRENS WAILING, an ambulance tears around a corner.
+     Cars pull over as it speeds down the street.
+
+
+163     INT. THE AMBULANCE - NIGHT
+
+        Maude is lying down. She holds the daisy in her hand.
+     She would be perfectly happy but for her concern over
+     Harold, who is highly overwrought and crying desperately.
+
+     He is kneeling beside her. The SIRENS WAIL loudly
+     outside.
+
+                    MAUDE
+          Oh, Harold! What a fuss this is.
+               (fluttery laugh)
+          So unnecessary.
+
+                    HAROLD
+          Maude, please. Don't die.
+          I couldn't bear it. Please,
+          don't die.
+
+                    MAUDE
+          But, Harold, we begin to die
+          as soon as we are born. What
+          is so strange about death? It's
+          no surprise. It's part of
+          life. It's change.
+
+                    HAROLD
+          But why now?
+
+                    MAUDE
+          I thought eighty was a good
+          round number.
+
+      She giggles.
+
+                    MAUDE
+               (continuing)
+          I feel giddy.
+
+                    HAROLD
+          But Maude, you don't understand.
+          I love you. Do you hear me?
+          I've never said that to anyone
+          in my life before. You're the
+          first. Maude. Please don't
+          leave me.
+
+                    MAUDE
+          Oh, Harold, don't upset
+          yourself so.
+
+                    HAROLD
+          It's true. I can't live without
+          you.
+
+                    MAUDE
+               (smiles warmly)
+          "And this too shall pass away."
+
+                    HAROLD
+          Never! Never! I'll never forget
+          you. I wanted to marry you.
+          Don't you understand! I love
+          you. I love you!
+
+                    MAUDE
+          Oh! That's wonderful, Harold.
+          Go - and love some more.
+
+
+164      EXT. THE PARKING LOT OF HOSPITAL EMERGENCY - NIGHT
+
+       The ambulance SCREAMS in and stops. The two attendants
+     open up the back. They slide Maude onto a gurney and
+     wheel her toward the door.
+
+                    HAROLD
+          Hold on, Maude! Hold on!
+          We'll be there soon. Please,
+          just hold on.
+
+     He runs ahead.
+
+                    MAUDE
+          Hold on?  Hold on?
+               (fluttery laugh)
+          Oh, Harold, how absurd.
+
+     Harold goes to push open the doors. They open auto-
+     matically. Maude is wheeled through.
+
+
+165     INT. AT THE EMERGENCY RECEIVING DESK - NIGHT
+
+        A feisty, old, redheaded NURSE is explaining operations
+     to a rather simpleminded STUDENT NURSE.
+
+     A GANGLING INTERN with horn-rimmed glasses looks on.
+
+     Maude enters on the gurney. The ambulance men move
+     off to the back counter and talk as they fill out their
+     forms.
+
+     Harold is almost hysterical.
+
+     Maude, on the other hand, is very calm. She holds the
+     daisy and hums to herself Maude's Song.
+
+     (NOTE: This scene goes very fast with much of the
+     dialogue dovetailed and ad libs overlapping in the
+     background.)
+
+                    HAROLD
+          Please. There's been an
+          accident, an overdose of pills.
+          We've got to see a doctor. It's
+          an emergency.
+
+                    HEAD NURSE
+          All right, now go ahead and
+          get the particulars.
+
+                    STUDENT NURSE
+          Eh, what's your name?
+
+                    HAROLD
+          It's not me. It's her.
+
+                    HEAD NURSE
+          It's better to begin by asking
+          last name first, then first
+          name, then middle name or
+          initial, if any. It saves
+          time.
+
+                    STUDENT NURSE
+          What is your last name?
+
+                    MAUDE
+          Chardin. Dame Marjorie. But
+          you may call me Maude.
+
+                    HAROLD
+          Please! She has got to see a
+          doctor right away.
+
+                    HEAD NURSE
+          Young man, perhaps you ought to
+          wait in the waiting room.
+
+                    STUDENT NURSE
+          How old are you?
+
+                    MAUDE
+          Eighty. It's my birthday.
+
+                    STUDENT NURSE
+          Oh, many happy returns.
+
+                    MAUDE
+          No. I don't think so.
+
+                    HAROLD
+          You don't understand. She's
+          taken an overdose of pills two
+          hours ago. She hasn't got much
+          time.
+
+     The intern creeps round from behind.
+
+                    INTERN
+          Could I have your signature on
+          this? It's just a formality.
+
+                    MAUDE
+          Delighted! I like your hair so
+          much.
+
+     She signs.
+
+                    INTERN
+          It's in case of damage claims,
+          you know, so we - the hospital
+          - won't be responsible for...
+
+                    HEAD NURSE
+               (to student nurse)
+          Always use a ballpoint pen.
+          It's more efficient.
+
+                    HAROLD
+          Please, don't you realize?
+          She is dying.
+
+                    MAUDE
+          Well, not dying, actually.
+          I'm changing. You know, like
+          from winter to spring. Of
+          course, it is a big step to
+          take.
+
+                    INTERN
+          Not that anything regrettable
+          is going to happen. It's just
+          regulations .
+
+                    HEAD NURSE
+          Well, then, perhaps you'd
+          better skip the preliminaries
+          and get to the important section.
+
+                    STUDENT NURSE
+          All right. Ah, what is your
+          Social Security number?
+
+                    INTERN
+          Purely a legal safeguard.
+          Nothing personal, you understand.
+
+                    HEAD NURSE
+          No. Ask about the insurance.
+          The hospital insurance.
+
+                    STUDENT NURSE
+          Do you have any insurance?
+          Blue Cross? Blue Shield?
+
+                    MAUDE
+          Insurance against what?
+
+                    STUDENT NURSE
+          No insurance.
+
+      She notes it down.
+
+                    HAROLD
+          This is madness.
+
+                    HEAD NURSE
+          I'm sorry but there is always
+          a two-hour wait for the
+          psychiatrist.
+
+                    INTERN
+          It's nothing personal. It's
+          my job.
+
+     A DOCTOR and TWO NURSES enter.
+
+                    DOCTOR
+          What's the trouble?
+
+                    HEAD NURSE
+          An overdose of drugs .
+
+                    STUDENT NURSE
+          Do you have a welfare plan at
+          your place of employment?
+
+                    MAUDE
+          I'm retired.
+
+                    HAROLD
+          Doctor, please. She has taken
+          these pills. You've got to
+          do something .
+
+                    DOCTOR
+          All right. Take her in there.
+
+     They start wheeling her away.
+
+                    INTERN
+          It's nothing personal.
+
+                    STUDENT NURSE
+          And who's the next of kin?
+
+                    MAUDE
+          Humanity...
+
+     She holds the daisy in her hand. She waves to Harold
+     as they push her through the doors.
+
+                    MAUDE
+          Farewell, Harold. It's been
+          all such fun.
+
+     The doors swing shut. She is gone. Harold stands alone.
+
+                              DISSOLVE TO:
+
+
+166     INT. HOSPITAL WAITING ROOM - NIGHT TO DAY
+
+     CAMERA LOCKED DOWN. Harold sits on a couch. To his
+     right is a window, to his left a chair and a lighted
+     lamp. He waits.
+
+                              SLOW DISSOLVE TO:
+
+
+167     SHOT
+
+     Harold sits in the chair. He waits.
+
+                              SLOW DISSOLVE TO:
+
+
+168      ANOTHER ANGLE
+
+     Harold stands by the window. It is dawn. The lights
+     go out. It is daylight. We HEAR the laughter of a
+     baby.
+
+
+169     CLOSEUP - HAROLD
+
+     He is looking out the window.
+
+
+170     HAROLD'S POV
+
+        Down on the lawn we see a MOTHER playing with her BABY.
+     He is squealing with delight as she lifts him high into
+     the air again and again.
+
+
+171      EXT. THE HOSPITAL LAWN - CLOSEUP - DAY
+
+     of the mother and the laughing baby.
+
+
+172      THEIR POV
+
+     We see Harold standing forlorn at the window.
+
+
+173      ANOTHER ANGLE
+
+     The doctor comes up to speak to him. The doctor shakes
+     his head.
+
+
+174      THEIR POV
+
+     Harold turns back to the window. The doctor leaves.
+     All the time the baby is laughing.
+
+
+175     CLOSEUP - HAROLD
+
+        We see Harold through the window screen. He is crying.
+
+     He can HEAR the baby's laughter. He turns and walks away.
+
+
+176     INT. HOSPITAL CORRIDOR - DAY
+
+     Harold is crying. He walks down the hospital corridor.
+
+
+177     HIS POV - THE MATERNITY WARD
+
+     He passes the maternity ward. Laughing parents pointing
+     at screaming infants. Their noise overrides the
+     laughing baby and joins the rising intensity of the
+     MUSIC.
+
+
+178     BACK TO HAROLD
+
+     Harold walks faster. His face is drawn with pain and tears.
+
+     We TRACK before him. He looks left and sees:
+
+
+179      A WOMAN
+
+     in a room, delirious with pain.
+
+
+180      A MAN
+
+     in disheveled pajamas walks from his room like a
+     bewildered child, dribbling food down his front.
+
+
+181      BACK TO HAROLD
+
+     He keeps walking fast. He looks right and sees:
+
+
+182     A FAMILY GROUP
+
+     who have just been told of a death. They cry in each
+     other's arms.
+
+     A TEN-YEAR-OLD BOY confused, looks up at them, and
+     begins to sob.
+
+                              QUICK CUT TO:
+
+
+183     EXT. A SEA CLIFF ROAD - DAY
+
+     Harold's mini hearse swerves around the corner at high
+     speed. Dust rises and tires screech.
+
+        On the TRACK the crying has stopped but the MUSIC is
+     building to a new climax.
+
+                              CUT TO:
+
+
+184     INT. HAROLD'S HEARSE - DAY
+
+     Harold, ignoring the tears rolling down his cheeks,
+     grips the wheel hard and drives like a man with an
+     unrelenting purpose.
+
+
+185     EXT. THE ROCKS AT THE BOTTOM OF THE CLIFF
+
+     We see them from the car window.
+
+
+186     ANGLE - THE CAR
+
+     dangerously close to the edge.
+
+
+187     CLOSEUP - HAROLD
+
+     He seems possessed.
+
+
+188       LOW ANGLE SHOT FROM THE FRONT BUMPER OF THE CAR
+
+     The road rushes past as we maneuver around treacherous
+     curves.
+
+
+189     EXT. THE ROCKS AT THE BOTTOM OF THE CLIFF
+
+
+190     CLOSEUP - HAROLD
+
+     He makes a sudden right-hand turn and drives out on a
+     promontory toward the sea.
+
+
+191     LOW ANGLE SHOT FROM THE FRONT BUMPER OF THE CAR
+
+     We see dirt and grass race beneath us -
+
+     We bump over rocks -
+
+
+192     ANGLE
+
+     We see the edge.
+
+
+193     ANOTHER ANGLE
+
+     We reach the edge of the cliff - we plunge off into
+     space....
+
+
+194     EXT. THE PROMONTORY - EXTREME LONG SHOT - DAY
+
+        The little hearse falls from the cliff, crashing at the
+     bottom, and bursting into flame.
+
+
+195      EXT. ON TOP OF THE CLIFF - DAY
+
+     We look down at the burning vehicle. We HOLD and watch
+     it burn.
+
+
+196     LONG SHOT
+
+     Gradually the fire dies down.
+
+     Suddenly we hear the fumbled pluckings of Maude's Song
+     on a banjo. It stops.
+
+
+197     PANNING SHOT
+
+     We PAN up left and there is Harold as large as life.
+     He takes a look over the cliff.
+
+
+198     HIS POV
+
+     His hearse is still quietly burning.
+
+
+199     BACK TO HAROLD
+
+     He wipes his nose with the back of his hand and tries
+     again on the banjo.
+
+     He barely gets the melody started before he is lost.
+     Summoning up all his concentration, he tries again, and
+     this time he manages to get the fingering right. He
+     continues playing and turns away from the edge.
+
+
+200     EXT. TRACKING SHOT IN FRONT OF HAROLD - DAY
+
+     He started slow but now he is gradually beginning to
+     play the song in its original upbeat tempo. He gets
+     better and better at it. The song is very catching
+     and Harold's tear-stained face registers what could
+     be a smile. He walks by the CAMERA and we turn with
+     him, and HOLD.
+
+     A full orchestra joins in the playing and we watch
+     Harold amble down the road, strumming along, until he
+     is only a small figure in the distance.
+
+                              FADE OUT.
+
+
+
+
+                    THE END
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

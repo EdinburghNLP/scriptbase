@@ -1,0 +1,223 @@
+year	1984
+imdb score	8.4
+meta score	93
+genre	Biography
+genre	Drama
+genre	Music
+keyword	composer
+keyword	emperor
+keyword	musician
+keyword	told in flashback
+keyword	opera
+keyword	death
+keyword	flashback
+keyword	father son relationship
+keyword	abandoned by wife
+keyword	attempted suicide
+keyword	mental institution
+keyword	theatre
+keyword	pregnancy
+keyword	blindfold
+keyword	obsession
+keyword	mask
+keyword	chestnut
+keyword	dancing
+keyword	husband wife relationship
+keyword	bible
+keyword	rehearsal
+keyword	1800s
+keyword	singing lesson
+keyword	tony award source
+keyword	mother
+keyword	1780s
+keyword	maid
+keyword	illness
+keyword	torch
+keyword	orchestra
+keyword	classical music
+keyword	theatre box
+keyword	child prodigy
+keyword	church choir
+keyword	servant
+keyword	money
+keyword	domineering father
+keyword	requiem
+keyword	lifting female in air
+keyword	prima donna
+keyword	mediocrity
+keyword	marriage
+keyword	theatre audience
+keyword	singer
+keyword	mental patient
+keyword	horse
+keyword	candelabra
+keyword	tragedy
+keyword	boys' choir
+keyword	confession
+keyword	pope
+keyword	wig
+keyword	lifting someone into the air
+keyword	church
+keyword	applause
+keyword	song
+keyword	candle
+keyword	abandoned by wife and child
+keyword	kissing hand
+keyword	reference to george frederic handel
+keyword	parlor game
+keyword	letter
+keyword	cemetery
+keyword	irony
+keyword	cross
+keyword	wedding
+keyword	jealousy
+keyword	food
+keyword	sheet music
+keyword	horse on stage
+keyword	murder
+keyword	cathedral
+keyword	chocolate
+keyword	yawning
+keyword	tri cornered hat
+keyword	boy
+keyword	talent
+keyword	snow
+keyword	classical composer
+keyword	disguise
+keyword	singing
+keyword	wheelchair
+keyword	quill
+keyword	harpsichord
+keyword	immaturity
+keyword	1820s
+keyword	19th century
+keyword	funeral
+keyword	18th century
+keyword	piano
+keyword	fireplace
+keyword	blood
+keyword	politics
+keyword	lifting an adult into the air
+keyword	laughing
+keyword	loss of husband
+keyword	gold coin
+keyword	one word title
+keyword	horse and carriage
+keyword	1790s
+keyword	midget
+keyword	drink
+keyword	death of father
+keyword	based on play
+keyword	independent film
+keyword	character name in title
+keyword	title spoken by character
+keyword	
+cast	F. Murray Abraham	Antonio Salieri
+cast	Tom Hulce	Wolfgang Amadeus Mozart
+cast	Elizabeth Berridge	Constanze Mozart
+cast	Roy Dotrice	Leopold Mozart
+cast	Simon Callow	Emanuel Schikaneder
+cast	Christine Ebersole	Katerina Cavalieri
+cast	Jeffrey Jones	Emperor Joseph II
+cast	Charles Kay	Count Orsini-Rosenberg
+cast	Kenneth McMillan	Michael Schlumberg
+cast	Kenny Baker	Parody Commendatore
+cast	Lisabeth Bartlett	Papagena
+cast	Barbara Bryne	Frau Weber
+cast	Martin Cavina	Young Salieri
+cast	Roderick Cook	Count Von Strack
+cast	Milan Demjanenko	Karl Mozart
+cast	Peter DiGesu	Francesco Salieri
+cast	Richard Frank	Father Vogler
+cast	Patrick Hines	Kappelmeister Bonno
+cast	Nicholas Kepros	Archbishop Colloredo
+cast	Philip Lenkowsky	Salieri's Servant
+cast	Herman Meckler	Priest
+cast	Jonathan Moore	Baron Van Swieten
+cast	Cynthia Nixon	Lorl
+cast	Brian Pettifer	Hospital Attendant
+cast	Vincent Schiavelli	Salieri's Valet
+cast	Douglas Seale	Count Arco
+cast	Miroslav Sekera	Young Mozart
+cast	Cassie Stuart	Gertrude Schlumberg
+cast	John Strauss	Conductor
+cast	Karl-Heinz Teuber	Wig Salesman
+cast	Rita Zohar	Frau Schlumberg
+cast	Miro Grisa	Figaro in 'The Marriage of Figaro'
+cast	Helena Cihelnikova	Countess in 'The Marriage of Figaro'
+cast	Karel Gult	Count Almaviva in 'The Marriage of Figaro'
+cast	Zuzana Kadlecova	Susanna in 'The Marriage of Figaro'
+cast	Magda Celakovska	Cherubino in 'The Marriage of Figaro'
+cast	Slavena Drasilova	Barbarina in 'The Marriage of Figaro'
+cast	Eva Senková	Marcellina in 'The Marriage of Figaro'
+cast	Leos Kratochvil	Basilio in 'The Marriage of Figaro'
+cast	Gino Zeman	Don Curzio in 'The Marriage of Figaro'
+cast	Janoslav Mikulín	Dr. Bartolo in 'The Marriage of Figaro'
+cast	Ladislav Krecmer	Antonio in 'The Marriage of Figaro'
+cast	Karel Fiala	Don Giovanni in 'Don Giovanni'
+cast	Jan Blazek	Commendatore in 'Don Giovanni'
+cast	Zdenek Jelen	Leporello in 'Don Giovanni'
+cast	Milada Cechalova	Queen of the Night in 'The Magic Flute'
+cast	John Carrafa	Dancer
+cast	Sara Clifford	Dancer
+cast	Richard Colton	Dancer
+cast	Shelley Freydont	Dancer
+cast	Anne Glasner	Dancer
+cast	Barbara Hoom	Dancer
+cast	Mary Kellogg	Dancer
+cast	Raymond Kurshals	Dancer
+cast	John Malashock	Dancer
+cast	Jennifer Rawe	Dancer
+cast	Tom Rawe	Dancer
+cast	William Whitener	Dancer
+cast	Hana Brejchová	Czechoslovakian Actor
+cast	Miriam Chytilová	Czechoslovakian Actor
+cast	Karel Effa	Czechoslovakian Actor
+cast	Radka Fiedlerová	Czechoslovakian Actor
+cast	Rene Gabzdyl	Czechoslovakian Actor
+cast	Karel Hábl	Czechoslovakian Actor
+cast	Atka Janousková	Czechoslovakian Actor
+cast	Marta Jarolimkova	Czechoslovakian Actor
+cast	Gabriela Krckova	Czechoslovakian Actor
+cast	Vladimir Krousky	Czechoslovakian Actor
+cast	Jirí Krytinár	Czechoslovakian Actor
+cast	Radka Kucharova	Czechoslovakian Actor
+cast	Jan Kuzelka	Czechoslovakian Actor
+cast	Jirí Lír	Czechoslovakian Actor
+cast	Lenka Loubalová	Czechoslovakian Actor
+cast	Dagmar Maskova	Czechoslovakian Actor
+cast	Ladislav Mikes	Czechoslovakian Actor
+cast	Jitka Molavcová	Czechoslovakian Actor
+cast	Jana Musilová	Czechoslovakian Actor
+cast	Vojtech Nalezenec	Czechoslovakian Actor
+cast	Pavel Nový	Czechoslovakian Actor
+cast	Jiri Opsatko	Czechoslovakian Actor
+cast	Jan Pohan	Czechoslovakian Actor
+cast	Therese Herz	Czechoslovakian Actor
+cast	Ivan Pokorny	Czechoslovakian Actor
+cast	Milan Riehs	Czechoslovakian Actor
+cast	Iva Sebkova	Czechoslovakian Actor
+cast	Zdenek Sklenar	Czechoslovakian Actor
+cast	Renata Vackova	Czechoslovakian Actor
+cast	Jiri Vancura	Czechoslovakian Actor
+cast	Dana Vávrová	Czechoslovakian Actor
+cast	Petra Vogelova	Czechoslovakian Actor
+cast	Josef Zeman	Czechoslovakian Actor
+cast	June Anderson	Queen of the Night in 'The Magic Flute'
+cast	Isobel Buchanan	Susanna in 'The Marriage of Figaro'
+cast	Michele Esposito	Salieri's Student
+cast	Gillian Fisher	Papagena in 'The Magic Flute'
+cast	Anne Howells	Cherubino in 'The Marriage of Figaro'
+cast	Brian Kay	Papageno in 'The Magic Flute'
+cast	Robin Leggate	Don Curzio in 'The Marriage of Figaro'
+cast	Felicity Lott	Countess in 'The Marriage of Figaro'
+cast	Zdenek Mahler	Cardinal
+cast	Suzanne Murphy	Cavalieri in 'Axur' / Constanza in 'Abduction from the Seraglio'
+cast	Alexander Oliver	Basilio in 'The Marriage of Figaro'
+cast	Patricia Payne	Marcellina in 'The Marriage of Figaro'
+cast	Samuel Ramey	Figaro in 'The Marriage of Figaro'
+cast	Deborah Rees	Barbarina in 'The Marriage of Figaro'
+cast	Richard Stilwell	Count Almaviva in 'The Marriage of Figaro' / Don Giovanni in 'Don Giovanni'
+cast	Vladimír Svitácek	Pope Clement
+cast	John Tomlinson	Dr. Bartolo in 'The Marriage of Figaro' / Commendatore in 'Don Giovanni'
+cast	Willard White	Antonio in 'The Marriage of Figaro' / Leporello in 'Don Giovanni'

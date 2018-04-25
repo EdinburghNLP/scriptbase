@@ -1,0 +1,253 @@
+year	1980
+imdb score	6.8
+meta score	87
+genre	Action
+genre	Sci-Fi
+keyword	criminal
+keyword	bomb
+keyword	prison
+keyword	phantom zone
+keyword	outer space
+keyword	hydrogen bomb
+keyword	explosion
+keyword	terrorist
+keyword	flying
+keyword	general
+keyword	escape from prison
+keyword	elevator
+keyword	fortress of solitude
+keyword	lunar module
+keyword	revenge on bully
+keyword	hyper speed
+keyword	damsel in distress
+keyword	super speed
+keyword	exploding helicopter
+keyword	tv news
+keyword	hate
+keyword	white house
+keyword	honeymoon suite
+keyword	new york city
+keyword	rescue from drowning
+keyword	uniform
+keyword	nuclear weapon
+keyword	hand to hand combat
+keyword	coca cola
+keyword	newspaper reporter
+keyword	final showdown
+keyword	villainess
+keyword	spanking
+keyword	president of the united states
+keyword	orange
+keyword	radiation
+keyword	falling from height
+keyword	fictional city
+keyword	beating
+keyword	police shootout
+keyword	fighting in the air
+keyword	hot air balloon
+keyword	fight
+keyword	snowmobile
+keyword	encounter
+keyword	camera
+keyword	boy
+keyword	tree branch
+keyword	crime fighter
+keyword	rocket launcher
+keyword	alien invasion
+keyword	super strength
+keyword	kneeling
+keyword	sex
+keyword	1980s
+keyword	nun
+keyword	orange juice
+keyword	reference to charles dickens
+keyword	honeymoon
+keyword	niagara falls
+keyword	adapted score
+keyword	evil
+keyword	snake bite
+keyword	mission
+keyword	exploding car
+keyword	crystal
+keyword	dc comics
+keyword	rattlesnake
+keyword	brooklyn bridge
+keyword	police officer
+keyword	washington d.c.
+keyword	prison laundry
+keyword	holding hands
+keyword	geofiction
+keyword	revenge
+keyword	bridge
+keyword	imaginary town
+keyword	mount rushmore
+keyword	waterfall
+keyword	based on comic
+keyword	prison escape
+keyword	river
+keyword	nasa
+keyword	bus
+keyword	ice
+keyword	sequel mentioned during end credits
+keyword	invulnerability
+keyword	laser beam
+keyword	idaho
+keyword	human alien
+keyword	man with glasses
+keyword	eiffel tower paris
+keyword	poetry quote
+keyword	special powers
+keyword	sequel
+keyword	flying man
+keyword	hotel
+keyword	cosmonaut
+keyword	hot dog
+keyword	super power
+keyword	taking picture
+keyword	falling into water
+keyword	terrorism
+keyword	hostage
+keyword	lake
+keyword	world domination
+keyword	reporter
+keyword	newspaper
+keyword	loss of virginity
+keyword	snake
+keyword	trapped in a mirror
+keyword	marlboro
+keyword	superwoman
+keyword	crystal machine
+keyword	reference to bill cosby
+keyword	super vision
+keyword	megalomaniac
+keyword	secret identity
+keyword	reference to liberace
+keyword	second part
+keyword	manhole cover
+keyword	polaroid
+keyword	product placement
+keyword	moon
+keyword	snow
+keyword	superhero
+keyword	glasses
+keyword	journalism
+keyword	super genius
+keyword	vibrating bed
+keyword	based on comic book
+keyword	coca cola billboard
+keyword	battle
+keyword	paris france
+keyword	police car
+keyword	american flag
+keyword	energy force
+keyword	glowing crystal stick
+keyword	helicopter
+keyword	hotel room
+keyword	office
+keyword	reference to joyce kilmer
+keyword	good versus evil
+keyword	luncheonette
+keyword	sheriff
+keyword	hologram
+keyword	fire
+keyword	fireplace
+keyword	violence
+keyword	small town
+keyword	little boy
+keyword	control panel
+keyword	houston texas
+keyword	manhattan new york city
+keyword	france
+keyword	vitamin c
+keyword	bully
+keyword	newspaper man
+keyword	blockbuster
+keyword	police
+keyword	super villain
+keyword	alien
+keyword	empire state building manhattan new york city
+keyword	jail break
+keyword	bully comeuppance
+keyword	astronaut
+keyword	street shootout
+keyword	balcony
+keyword	shot back to back
+keyword	brooklyn new york city
+keyword	walking on water
+keyword	diner
+keyword	north pole
+keyword	transformation
+keyword	super villainess
+keyword	arm wrestling
+keyword	epic battle
+keyword	rocket fired grenade
+keyword	evil man
+keyword	russian
+keyword	character name in title
+keyword	
+cast	Gene Hackman	Lex Luthor
+cast	Christopher Reeve	Superman / Clark Kent
+cast	Ned Beatty	Otis
+cast	Jackie Cooper	Perry White
+cast	Sarah Douglas	Ursa
+cast	Margot Kidder	Lois Lane
+cast	Jack O'Halloran	Non
+cast	Valerie Perrine	Eve Teschmacher
+cast	Susannah York	Lara
+cast	Clifton James	Sheriff
+cast	E.G. Marshall	The President
+cast	Marc McClure	Jimmy Olsen
+cast	Terence Stamp	General Zod
+cast	Leueen Willoughby	Leueen
+cast	Robin Pappas	Alice
+cast	Roger Kemp	Spokesman
+cast	Roger Brierley	Terrorist #1
+cast	Anthony Milner	Terrorist #2
+cast	Richard Griffiths	Terrorist #3
+cast	Melissa Wiltsie	Nun
+cast	Alain Dehay	Gendarme
+cast	Marc Boyle	C.R.S. Man
+cast	Alan Stuart	Cab Driver
+cast	John Ratzenberger	Controller #1
+cast	Shane Rimmer	Controller #2
+cast	John Morton	Nate
+cast	Jim Dowdall	Boris
+cast	Angus MacInnes	Prison Warden
+cast	Antony Sher	Bell Boy
+cast	Elva Mai Hoover	Mother
+cast	Hadley Kay	Jason
+cast	Todd Woodcroft	Father
+cast	John Hollis	Krypton Elder
+cast	Gordon Rollings	Fisherman
+cast	Peter Whitman	Deputy Dwayne
+cast	Bill Bailey	J.J.
+cast	Dinny Powell	Boog
+cast	Hal Galili	Man in Diner
+cast	Marcus D'Amico	Willie
+cast	Jack Cooper	Dino
+cast	Richard LeParmentier	Reporter
+cast	Don Fellows	General
+cast	Michael Shannon	President's Aide
+cast	Tony Sibbald	Presidential Imposter
+cast	Tommy Duggan	Diner Owner
+cast	Pamela Mandell	Waitress
+cast	Pepper Martin	Rocky
+cast	Eugene Lipinski	Newsvendor
+cast	Cleon Spencer	Kid #1
+cast	Carl Parris	Kid #2
+cast	Jean-Pierre Cassel	French Officer at the White House
+cast	Norman Chancer	White House Aide
+cast	Oz Clarke	Terrorist 4
+cast	Richard Donner	Man Walking by Diner
+cast	Jeff East	Teenage Clark Kent in Opening Montage
+cast	Harry Fielder	Cop
+cast	Glenn Ford	Jonathan Kent in Opening Montage
+cast	Steven Lezak	Man in Crowd
+cast	Derek Lyons	American Soldier
+cast	Ralph Morse	Soldier
+cast	Beth Porter	Football Fan
+cast	Joe Praml	Man with Dark Glasses in Alaskan Bar
+cast	Eric Stine	Secret Service Agent
+cast	Burnell Tucker	White House Aide
+cast	Joe Walsh	Sailor Baby
+cast	Terry Walsh	KFC Man / French Officer

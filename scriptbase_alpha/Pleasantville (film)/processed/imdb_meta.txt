@@ -1,0 +1,143 @@
+year	1998
+imdb score	7.5
+meta score	71
+genre	Comedy
+genre	Drama
+genre	Fantasy
+keyword	1950s
+keyword	television
+keyword	1990s
+keyword	innocence
+keyword	sitcom
+keyword	color
+keyword	television set
+keyword	remote control
+keyword	suburb
+keyword	flower
+keyword	fellatio
+keyword	slut
+keyword	simulated reality
+keyword	old love
+keyword	library
+keyword	slow motion
+keyword	rainbow
+keyword	bully
+keyword	fireman
+keyword	casual sex
+keyword	barber shop
+keyword	intolerance
+keyword	cat stuck in tree
+keyword	fictional city
+keyword	france
+keyword	self image
+keyword	black and white segues into color
+keyword	basketball
+keyword	soda shop
+keyword	malt shop
+keyword	utopia
+keyword	original sin
+keyword	suburbia
+keyword	teenage girl
+keyword	perfection
+keyword	mother son relationship
+keyword	small town life
+keyword	black & white to color
+keyword	alternative reality
+keyword	american dream
+keyword	diner
+keyword	courtroom
+keyword	alternate dimension
+keyword	broken window
+keyword	blow job
+keyword	jukebox
+keyword	censorship
+keyword	high school basketball
+keyword	apple
+keyword	painting
+keyword	high school
+keyword	bathtub
+keyword	individuality
+keyword	bowling
+keyword	book burning
+keyword	burger
+keyword	pin
+keyword	discrimination
+keyword	college
+keyword	eiffel tower paris
+keyword	no opening credits
+keyword	mural
+keyword	art
+keyword	spatial loop
+keyword	brother sister relationship
+keyword	paris france
+keyword	fire
+keyword	trivia contest
+keyword	book
+keyword	premarital sex
+keyword	oral sex
+keyword	teen comedy
+keyword	sex
+keyword	teenage boy
+keyword	female masturbation
+keyword	television repairman
+keyword	small town
+keyword	doctor
+keyword	mayor
+keyword	catcher in the rye
+keyword	teen movie
+keyword	rain
+keyword	title spoken by character
+cast	Tobey Maguire	David
+cast	Reese Witherspoon	Jennifer
+cast	William H. Macy	George Parker
+cast	Joan Allen	Betty Parker
+cast	Jeff Daniels	Bill Johnson
+cast	J.T. Walsh	Big Bob
+cast	Don Knotts	TV Repairman
+cast	Marley Shelton	Margaret Henderson
+cast	Jane Kaczmarek	David's Mom
+cast	Giuseppe Andrews	Howard
+cast	Jenny Lewis	Christin
+cast	Marissa Ribisi	Kimmy
+cast	Denise Dowse	Health Teacher
+cast	McNally Sagal	Science Teacher
+cast	Paul Morgan Stetler	College Counselor
+cast	Heather McGill	Girl in School Yard
+cast	Kevin Connors	Bud Parker
+cast	Natalie Ramsey	Mary Sue Parker
+cast	Justin Nimmo	Mark Davis
+cast	Kai Lennox	Mark's Lackey #1
+cast	Jason Behr	Mark's Lackey #2
+cast	Robin Bissell	Commercial Announcer
+cast	Harry Singleton	Mr. Simpson
+cast	John Ganun	Fireman #1
+cast	Paul Walker	Skip Martin
+cast	Dawn Cody	Betty Jean
+cast	Maggie Lawson	Lisa Anne
+cast	Andrea Baker	Peggy Jane
+cast	Lela Ivey	Miss Peters
+cast	Jim Patric	Tommy
+cast	Marc Blucas	Basketball Hero
+cast	Stanton Rutledge	Coach
+cast	Jason Maves	Paperboy
+cast	Gerald Emerick	TV Weatherman
+cast	Charles C. Stevenson Jr.	Dr. Henderson
+cast	Nancy Lenehan	Marge Jenkins
+cast	Weston Blakesley	Gus
+cast	Patrick Thomas O'Brien	Roy
+cast	Jim Antonio	Ralph
+cast	Danny Strong	Juke Box Boy
+cast	Kristin Rudrüd	Mary
+cast	Laura Carney	Bridge Club Lady
+cast	Dan Gillies	Fireman #2
+cast	Erik MacArthur	Will
+cast	Adam Carter	Boy in Soda Shop
+cast	David Tom	Whitey
+cast	Johnny Moran	Pete
+cast	Jeanine Jackson	Woman
+cast	J. Patrick Lawlor	Thug
+cast	James Keane	Police Chief Dan
+cast	John F. McCormick	Milkman
+cast	Joseph Benjamin Stewart	High School Kid
+cast	Ty Taylor	Thug
+cast	Meredith Thomas	Girl in Soda Shop

@@ -1,0 +1,280 @@
+year	1998
+imdb score	8.6
+meta score	90
+genre	Action
+genre	Drama
+genre	War
+keyword	normandy
+keyword	general
+keyword	invasion
+keyword	killed in action
+keyword	army
+keyword	soldier
+keyword	infantry
+keyword	u.s. soldier
+keyword	rescue mission
+keyword	rescue
+keyword	blood on camera lens
+keyword	collision course
+keyword	machine gun
+keyword	stabbed to death
+keyword	u.s. army
+keyword	desaturated colors
+keyword	skip motion
+keyword	friendship
+keyword	drowning
+keyword	rainstorm
+keyword	deserted town
+keyword	violence
+keyword	realization
+keyword	washington d.c.
+keyword	severed leg
+keyword	blood splatter
+keyword	fighter bomber attack
+keyword	tinnitus
+keyword	controversy
+keyword	budding friendship
+keyword	war violence
+keyword	omaha beach
+keyword	hand tremor
+keyword	silhouette
+keyword	year 1944
+keyword	one last job
+keyword	destiny
+keyword	optimism
+keyword	cowardice
+keyword	translator
+keyword	reference to betty boop
+keyword	disorientation
+keyword	dying words
+keyword	helmet
+keyword	star spangled banner
+keyword	military officer
+keyword	seaside
+keyword	second chance
+keyword	explosion
+keyword	medic
+keyword	shot in the back
+keyword	male friendship
+keyword	tank
+keyword	battle
+keyword	dark past
+keyword	speculation
+keyword	main character dies
+keyword	letter
+keyword	uniform
+keyword	anti semitism
+keyword	self sacrifice
+keyword	ambush
+keyword	shot in the face
+keyword	blindfold
+keyword	dog tag
+keyword	loss of brother
+keyword	nazi occupied france
+keyword	mass grave
+keyword	ruins
+keyword	last stand
+keyword	blown to pieces
+keyword	stabbing
+keyword	military
+keyword	serendipity
+keyword	beach
+keyword	dead soldier
+keyword	american
+keyword	hand grenade
+keyword	fate
+keyword	death notice
+keyword	world war two veteran
+keyword	death of hero
+keyword	morphine
+keyword	landmine
+keyword	gore
+keyword	epic
+keyword	combat
+keyword	world war two in france
+keyword	jewish
+keyword	divine intervention
+keyword	combat casualty
+keyword	army ranger
+keyword	disembowelment
+keyword	male crying
+keyword	murder
+keyword	flamethrower
+keyword	bridge
+keyword	stabbed in the chest
+keyword	bunker
+keyword	heroism
+keyword	black humor
+keyword	reference to betty grable
+keyword	no opening credits
+keyword	dark humor
+keyword	teacher
+keyword	severed arm
+keyword	plane wreck
+keyword	church
+keyword	bilingualism
+keyword	chance
+keyword	crushed to death
+keyword	canteen
+keyword	shot in the forehead
+keyword	trench
+keyword	character repeating someone else's dialogue
+keyword	mutilation
+keyword	prayer
+keyword	molotov cocktail
+keyword	search
+keyword	compass
+keyword	reconnaissance
+keyword	shot in the arm
+keyword	prisoner of war
+keyword	person on fire
+keyword	1940s
+keyword	critically acclaimed
+keyword	dying young
+keyword	exploding building
+keyword	three word title
+keyword	edith piaf
+keyword	secret past
+keyword	infantryman
+keyword	blockbuster
+keyword	shot in the leg
+keyword	optimist
+keyword	underwater scene
+keyword	poetic justice
+keyword	burning tank
+keyword	dismemberment
+keyword	war crime
+keyword	mistaken identity
+keyword	bell tower
+keyword	american flag
+keyword	exploding body
+keyword	bravery
+keyword	steel helmet
+keyword	gramophone
+keyword	shelling
+keyword	war memorial
+keyword	loss of son
+keyword	d day
+keyword	vomit
+keyword	sniper
+keyword	shot in the chest
+keyword	skepticism
+keyword	shot to death
+keyword	repeated line
+keyword	unsubtitled foreign language
+keyword	browning automatic rifle
+keyword	burial
+keyword	nonlinear timeline
+keyword	cemetery
+keyword	world war two
+keyword	tommy gun
+keyword	exploding tank
+keyword	dark hero
+keyword	machine gun nest
+keyword	shot in the eye
+keyword	act of god
+keyword	male camaraderie
+keyword	halftrack
+keyword	male bonding
+keyword	mercy
+keyword	iowa
+keyword	decapitation
+keyword	death of friend
+keyword	based on true story
+keyword	title spoken by character
+keyword	character name in title
+keyword	
+cast	Tom Hanks	Captain Miller
+cast	Tom Sizemore	Sergeant Horvath
+cast	Edward Burns	Private Reiben
+cast	Barry Pepper	Private Jackson
+cast	Adam Goldberg	Private Mellish
+cast	Vin Diesel	Private Caparzo
+cast	Giovanni Ribisi	T-4 Medic Wade
+cast	Jeremy Davies	Corporal Upham
+cast	Matt Damon	Private Ryan
+cast	Ted Danson	Captain Hamill
+cast	Paul Giamatti	Sergeant Hill
+cast	Dennis Farina	Lieutenant Colonel Anderson
+cast	Joerg Stadler	Steamboat Willie
+cast	Max Martini	Corporal Henderson
+cast	Dylan Bruno	Toynbe
+cast	Daniel Cerqueira	Weller
+cast	Demetri Goritsas	Parker
+cast	Ian Porter	Trask
+cast	Gary Sefton	Rice
+cast	Julian Spencer	Garrity
+cast	Steve Griffin	Wilson
+cast	William Marsh	Lyle
+cast	Marc Cass	Fallon
+cast	Markus Napier	Major Hoess
+cast	Neil Finnighan	Ramelle Paratrooper
+cast	Peter Miles	Ramelle Paratrooper
+cast	Paul Garcia	Field HQ Major
+cast	Seamus McQuade	Field HQ Aide
+cast	Ronald Longridge	Coxswain
+cast	Adam Shaw	Delancey
+cast	Rolf Saxon	Lieutenant Briggs
+cast	Corey Johnson	Radioman
+cast	Loclann Aiken	Soldier on the Beach
+cast	John Barnett	Soldier on the Beach
+cast	Maclean Burke	Soldier on the Beach
+cast	Victor Burke	Soldier on the Beach
+cast	Aiden Condron	Soldier on the Beach
+cast	Paschal Friel	Soldier on the Beach
+cast	Shane Hagan	Soldier on the Beach
+cast	Paul Hickey	Soldier on the Beach
+cast	Shane Johnson	Soldier on the Beach
+cast	Laird Macintosh	Soldier on the Beach
+cast	Brian Maynard	Soldier on the Beach
+cast	Martin McDougall	Soldier on the Beach
+cast	Mark Phillips	Soldier on the Beach
+cast	Lee Aaron Rosen	Soldier on the Beach
+cast	Andrew Scott	Soldier on the Beach
+cast	Matthew Sharp	Soldier on the Beach
+cast	Vincent Walsh	Soldier on the Beach
+cast	Grahame Wood	Soldier on the Beach
+cast	John Sharian	Corporal
+cast	Glenn Wrage	Doyle
+cast	Crofton Hardester	Senior Medical Officer
+cast	Martin Hub	Czech Wehrmacht Soldier
+cast	Raffaello Degruttola	Goldman
+cast	Nigel Whitmey	Private Boyd
+cast	Sam Ellis	Private Hastings
+cast	Erich Redman	German #1
+cast	Tilo Keiner	German #2
+cast	Stephan Grothgar	German #3 / Voice on Bullhorn
+cast	Stephane Cornicard	Jean
+cast	Michelle Evans	Jean's Wife
+cast	Martin Beaton	Jean's Son
+cast	Anna Maguire	Jean's Daughter
+cast	Nathan Fillion	Minnesota Ryan
+cast	Leland Orser	Lieutenant DeWindt
+cast	Michael Mantas	Paratrooper Lieutenant
+cast	David Vegh	Paratrooper Oliver
+cast	Ryan Hurst	Paratrooper Mandelsohn
+cast	Nick Brooks	Paratrooper Joe
+cast	Sam Scudder	Paratrooper #1
+cast	John Walters	Old French Man
+cast	Dorothy Grumbar	Old French Woman
+cast	James Innes-Smith	MP Lieutenant
+cast	Harve Presnell	General Marshall
+cast	Dale Dye	War Department Colonel
+cast	Bryan Cranston	War Department Colonel
+cast	David Wohl	War Department Captain
+cast	Eric Loren	War Department Lieutenant
+cast	Valerie Colgan	War Department Clerk
+cast	Amanda Boxer	Mrs. Margaret Ryan
+cast	Harrison Young	Ryan as Old Man
+cast	Kathleen Byron	Old Mrs. Ryan
+cast	Rob Freeman	Ryan's Son
+cast	Thomas Gizbert	Ryan's Grandson
+cast	John de Lancie	Letter-Reader
+cast	James Embree	German Paratrooper
+cast	Declan Geraghty	Soldier
+cast	Taylor Murphy	Sergeant Blaine
+cast	Abbe Muschallik	Ryan's Granddaughter
+cast	Nina Muschallik	Ryan's Granddaughter
+cast	Paul Sacks	Soldier Signalling to Relief Column
+cast	Mac Steinmeier	Waffen SS Soldier
+cast	Vincent Ventresca	Soldier on Beach

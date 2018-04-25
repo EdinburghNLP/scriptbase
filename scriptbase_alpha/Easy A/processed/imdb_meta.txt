@@ -1,0 +1,399 @@
+year	2010
+imdb score	7.2
+meta score	72
+genre	Comedy
+genre	Romance
+keyword	school
+keyword	student
+keyword	high school
+keyword	friend
+keyword	rumor
+keyword	weekend
+keyword	high school student
+keyword	lie
+keyword	best friend
+keyword	virginity
+keyword	girl
+keyword	promiscuity
+keyword	reputation
+keyword	class
+keyword	puritan
+keyword	religious fanatic
+keyword	california
+keyword	gay
+keyword	outcast
+keyword	community college
+keyword	boy
+keyword	classmate
+keyword	english class
+keyword	virgin
+keyword	happiness
+keyword	party
+keyword	gay friend
+keyword	acceptance
+keyword	unwanted kiss
+keyword	reference to nathaniel hawthorne
+keyword	guitar
+keyword	locker room
+keyword	innuendo
+keyword	volkswagen
+keyword	cafe
+keyword	piety
+keyword	mascot costume
+keyword	throwing a cell phone
+keyword	girls' bathroom
+keyword	condom
+keyword	beer
+keyword	reference to god
+keyword	teen drinking
+keyword	birthday
+keyword	english teacher
+keyword	protest
+keyword	talking too much
+keyword	volkswagen beetle
+keyword	reference to marlon brando
+keyword	nudity
+keyword	spanking
+keyword	throwing an ice cream cone at a car windshield
+keyword	chlamydia
+keyword	motor scooter
+keyword	bumping into someone
+keyword	allergy
+keyword	panties pulled down
+keyword	letter a
+keyword	petition
+keyword	reference to john hughes
+keyword	sewing
+keyword	cheerleader
+keyword	kiss
+keyword	towel snapping
+keyword	cell phone
+keyword	reference to bed bath & beyond
+keyword	gym
+keyword	friendship
+keyword	spelling
+keyword	man in swimsuit
+keyword	liar
+keyword	stripper
+keyword	hypocrisy
+keyword	reference to best buy the store
+keyword	demonstration
+keyword	contact lenses
+keyword	musical greeting card
+keyword	vespa
+keyword	reference to disneyland
+keyword	gay slur
+keyword	bigotry
+keyword	extramarital affair
+keyword	mobile title
+keyword	sneakers
+keyword	reference to office max
+keyword	teen comedy
+keyword	scantily clad female
+keyword	satire
+keyword	water slide
+keyword	reference to panda express
+keyword	confessional
+keyword	singing in the shower
+keyword	preacher
+keyword	drinking
+keyword	teenager
+keyword	bare chested male
+keyword	older woman younger man relationship
+keyword	pledge
+keyword	cleavage
+keyword	classroom
+keyword	teen movie
+keyword	telephone call
+keyword	rap music
+keyword	mirror
+keyword	reference to judy blume
+keyword	vibrator
+keyword	principal
+keyword	orange the fruit
+keyword	husband wife relationship
+keyword	drink
+keyword	reference to tom cruise
+keyword	anagram
+keyword	chocolate milk
+keyword	american flag
+keyword	reference to disney world
+keyword	love
+keyword	slapping the back of someone's head
+keyword	watching a movie on tv
+keyword	sneakers hanging in a tree
+keyword	closeted homosexual
+keyword	picture frame
+keyword	reference to john cusack
+keyword	dating
+keyword	abstinence
+keyword	sleaze
+keyword	religion
+keyword	cliff
+keyword	face slap
+keyword	sharpening a pencil
+keyword	reference to google earth
+keyword	reference to alfred kinsey
+keyword	community garden
+keyword	fake sex
+keyword	school principal
+keyword	gift card
+keyword	interracial adoption
+keyword	rumor monger
+keyword	unfaithfulness
+keyword	hugging
+keyword	kissing
+keyword	woman crying
+keyword	reference to quiznos
+keyword	priest
+keyword	moaning
+keyword	school detention
+keyword	principal's office
+keyword	prayer
+keyword	adoptive father adopted son relationship
+keyword	boyfriend girlfriend relationship
+keyword	crying
+keyword	older man younger woman relationship
+keyword	prayer group
+keyword	sunglasses
+keyword	guitar player
+keyword	kitchen
+keyword	belief in god
+keyword	school band
+keyword	jesus freak
+keyword	christian
+keyword	briard
+keyword	photograph
+keyword	reference to demi moore
+keyword	california state flag
+keyword	religious teen
+keyword	woodchuck
+keyword	shower
+keyword	looking at self in mirror
+keyword	family relationships
+keyword	graffiti
+keyword	teenage girl
+keyword	reference to the scarlet letter
+keyword	waiter
+keyword	dinner
+keyword	hit on the head
+keyword	cheerleader uniform
+keyword	reference to a chorus line the stage musical
+keyword	singer
+keyword	pot smoking
+keyword	cleaning a bathroom
+keyword	movie pass
+keyword	homophobia
+keyword	belief in hell
+keyword	cafeteria
+keyword	reference to google
+keyword	fainting
+keyword	peer pressure
+keyword	hand signal
+keyword	punched in the stomach
+keyword	detention
+keyword	father daughter relationship
+keyword	bad reputation
+keyword	coupon
+keyword	machismo
+keyword	spell check
+keyword	two word title
+keyword	singing
+keyword	christianity
+keyword	jumping on a bed
+keyword	fast motion scene
+keyword	gay teenager
+keyword	teenage boy
+keyword	webcast
+keyword	high school gymnasium
+keyword	punched in the gut
+keyword	born again christian
+keyword	reference to huckleberry finn the novel
+keyword	breaking a picture frame
+keyword	song
+keyword	guilt
+keyword	guidance counselor
+keyword	reference to ashton kutcher
+keyword	bookstore
+keyword	loss of virginity
+keyword	reference to bath and body works
+keyword	reference to cable zero
+keyword	pep rally
+keyword	dog
+keyword	22 year old
+keyword	devil
+keyword	sex scene
+keyword	reference to lobster hut
+keyword	school mascot
+keyword	clique
+keyword	mopping a floor
+keyword	reference to sylvia plath
+keyword	southern accent
+keyword	infamy
+keyword	adultery
+keyword	reference to patrick dempsey
+keyword	carpool
+keyword	kissing game
+keyword	inner title card
+keyword	false accusation
+keyword	preaching
+keyword	cynicism
+keyword	gay man straight woman relationship
+keyword	church
+keyword	reference to the gap
+keyword	satan worship
+keyword	reference to blockbuster
+keyword	texting
+keyword	marijuana
+keyword	homosexual
+keyword	spreading rumor
+keyword	reference to t. j. maxx
+keyword	crushing an ice cream cone
+keyword	basketball
+keyword	scandal
+keyword	popularity
+keyword	2010s
+keyword	one night stand
+keyword	talking to the camera
+keyword	slow motion scene
+keyword	reference to costco
+keyword	divorce
+keyword	reference to facebook
+keyword	implied nudity
+keyword	belief in the devil
+keyword	prostitute
+keyword	notoriety
+keyword	devil costume
+keyword	reference to judd nelson
+keyword	aquarium
+keyword	adoptive mother adopted son relationship
+keyword	std
+keyword	ojai california
+keyword	adopted son
+keyword	school board
+keyword	school suspension
+keyword	teacher
+keyword	porno theatre
+keyword	name calling
+keyword	marriage
+keyword	earth day
+keyword	pretend boyfriend pretend girlfriend relationship
+keyword	time lapse photography
+keyword	nuclear rain
+keyword	pastor
+keyword	gazebo
+keyword	reference to huckleberry finn
+keyword	reference to jesus christ
+keyword	closeted gay
+keyword	spin the bottle
+keyword	fascist
+keyword	reference to mark twain
+keyword	religious intolerance
+keyword	bare breasts
+keyword	shellfish allergy
+keyword	belief in the afterlife
+keyword	gay interest
+keyword	embarrassment
+keyword	restaurant
+keyword	degayification
+keyword	catholic
+keyword	swimming pool
+keyword	student council
+keyword	peas
+keyword	palatka florida
+keyword	teenager
+keyword	legs
+keyword	pretend sex
+keyword	movie theatre
+keyword	female nudity
+keyword	mascot
+keyword	garden
+keyword	reference to the learning annex
+keyword	pretending to lose one's virginity
+keyword	minister
+keyword	teacher student relationship
+keyword	tears
+keyword	confession
+keyword	bloody nose
+keyword	brother sister relationship
+keyword	birth control pill
+keyword	tolerance
+keyword	red panties
+keyword	infidelity
+keyword	freeze frame
+keyword	florida
+keyword	father son relationship
+keyword	panties
+keyword	greeting card
+keyword	mother daughter relationship
+keyword	gossip
+keyword	topless female nudity
+keyword	bible
+keyword	bedroom
+keyword	ice cream cone
+keyword	microphone
+keyword	mini skirt
+keyword	friendship between girls
+keyword	watching tv
+keyword	cross
+keyword	woodchuck costume
+keyword	reference to home depot
+keyword	gay pride
+keyword	happy birthday
+keyword	adoption
+keyword	cd
+keyword	butter knife
+cast	Emma Stone	Olive
+cast	Penn Badgley	Woodchuck Todd
+cast	Amanda Bynes	Marianne
+cast	Dan Byrd	Brandon
+cast	Thomas Haden Church	Mr. Griffith
+cast	Patricia Clarkson	Rosemary
+cast	Cam Gigandet	Micah
+cast	Lisa Kudrow	Mrs. Griffith
+cast	Malcolm McDowell	Principal Gibbons
+cast	Aly Michalka	Rhiannon
+cast	Stanley Tucci	Dill
+cast	Fred Armisen	Pastor
+cast	Juliette Goglia	Eighth Grade Olive
+cast	Jake Sandvig	Anson
+cast	Morgan Rusler	Mr. Abernathy
+cast	Nikki Tyler-Flynn	Mrs. Abernathy
+cast	Braeden Lemasters	Eighth Grade Kid
+cast	Mahaley Manning	Nina
+cast	Jameson Moss	Evan
+cast	Blake Hood	Kennedy Peters-Booth
+cast	Bryce Clyde Jenkins	Chip
+cast	Neil Soni	Zia
+cast	Stacey Travis	Marianne's Mom
+cast	Bonnie Burroughs	Micah's Mom
+cast	Eddie Applegate	Micah's Grandfather
+cast	Norma Michaels	Micah's Grandmother
+cast	Yolanda Snowball	Receptionist
+cast	Andrew Fleming	Doctor
+cast	Johanna Braddy	Melody Bostic
+cast	David Gore	Pre-Teen Kid
+cast	Lalaine	Gossipy Girl
+cast	D'Anthony Palms	Josh Wisniewski
+cast	Ryan Parker	Kurt
+cast	Rawson Marshall Thurber	Quiznos Guy
+cast	Chris De Lorenzo	Spectator In The Gym
+cast	Jillian Johnston	Server
+cast	Nancy Karr	Singing Server
+cast	Clay Black	Singing Server
+cast	Bradley Charles Etheridge	Singing Server
+cast	Veerta Motiani	Singing Server
+cast	Michael Strauss	Singing Server
+cast	Lance Kerfuffle	Clerk
+cast	Drew Koles	Boy
+cast	Max Crumm	Pontius
+cast	Jeremiah Hu	Judas
+cast	Jessica Jann	Jezebel
+cast	Danni Katz	Harlot
+cast	Jason Kropik	Mortimer
+cast	Julianne Celeste	Gossip Girl Jogger
+cast	Seth Donavan	High School Student
+cast	Zack Kennedy	Mr. Gleason
+cast	Bobby C. King	Man Watching Skateboarders
+cast	Johnny Ruddell	Drama Student
+cast	Micah Van Hove	Stoner

@@ -1,0 +1,205 @@
+year	1997
+imdb score	6.3
+meta score	63
+genre	Action
+genre	Sci-Fi
+genre	Thriller
+keyword	alien
+keyword	scientist
+keyword	blood
+keyword	clone
+keyword	breeding
+keyword	birth
+keyword	death
+keyword	military
+keyword	cloning
+keyword	exploding head
+keyword	opening narration
+keyword	burnt face
+keyword	friendship
+keyword	shootout
+keyword	drowning
+keyword	eaten alive
+keyword	underwater photography
+keyword	escape pod
+keyword	spaceship crash
+keyword	vacuum
+keyword	explosion
+keyword	swimming underwater
+keyword	punched in the face
+keyword	reference to santa claus
+keyword	disembowelment
+keyword	orbital re entry
+keyword	xenomorph
+keyword	violence
+keyword	human host
+keyword	shot in the leg
+keyword	bullet carom shot
+keyword	betrayal
+keyword	raised middle finger
+keyword	underwater
+keyword	laser cutter
+keyword	sequel to cult favorite
+keyword	shot to death
+keyword	stabbed in the head
+keyword	impalement
+keyword	grenade
+keyword	self sacrifice
+keyword	burned alive
+keyword	shot in the head
+keyword	anti hero
+keyword	female frontal nudity
+keyword	woman punching a man
+keyword	shot in the forehead
+keyword	shot in the chest
+keyword	fourth part
+keyword	chase
+keyword	cryogenics
+keyword	thong
+keyword	cult film
+keyword	hand grenade
+keyword	dreadlocks
+keyword	robot
+keyword	transgenic experimentation
+keyword	bullet dodging
+keyword	space travel
+keyword	critique of capitalism
+keyword	computer
+keyword	trapped in space
+keyword	knife in the thigh
+keyword	slime
+keyword	christ allegory
+keyword	earth viewed from space
+keyword	foot massage
+keyword	outer space
+keyword	alien dna
+keyword	characters killed one by one
+keyword	genetic engineering
+keyword	monster
+keyword	blockbuster
+keyword	future
+keyword	animal attack
+keyword	pistol
+keyword	shot through the mouth
+keyword	flooding
+keyword	rifle
+keyword	nonchalant about life and death
+keyword	knife throwing
+keyword	caged animal
+keyword	basketball
+keyword	soldier
+keyword	woman wearing a thong
+keyword	hit in the crotch
+keyword	stun gun
+keyword	arcade game
+keyword	grenade launcher
+keyword	spaceship
+keyword	psychic
+keyword	regeneration
+keyword	wheelchair bound
+keyword	gene manipulation
+keyword	24th century
+keyword	exploding body
+keyword	severed hand
+keyword	android
+keyword	falling from height
+keyword	sequel
+keyword	acid
+keyword	impregnation
+keyword	cigarette smoking
+keyword	part computer animation
+keyword	creature feature
+keyword	general
+keyword	entrails
+keyword	scarred face
+keyword	spaceship pilot
+keyword	alien love
+keyword	mechanic
+keyword	topless female nudity
+keyword	mad doctor
+keyword	spacecraft
+keyword	corpse
+keyword	character repeating someone else's dialogue
+keyword	trapped
+keyword	egg
+keyword	skull crushing
+keyword	robot as pathos
+keyword	chimera
+keyword	flamethrower
+keyword	punch into the camera
+keyword	interracial friendship
+keyword	spit in the face
+keyword	poetic justice
+keyword	shot in the shoulder
+keyword	nest
+keyword	mercenary
+keyword	explosive decompression
+keyword	blood spatter
+keyword	human alien
+keyword	falling through the floor
+keyword	punishment
+keyword	mercy killing
+keyword	selfishness
+keyword	gore
+keyword	matricide
+keyword	black humor
+keyword	good versus evil
+keyword	paraplegic
+keyword	hidden gun
+keyword	mutation
+keyword	sleeve gun
+keyword	female pilot
+keyword	jaw ripped off
+keyword	masculine character with female name
+keyword	stabbed in the hand
+keyword	long tongue
+keyword	surgery
+keyword	chapel
+keyword	suspense
+keyword	warrior
+keyword	nosebleed
+keyword	human experimentation
+keyword	actress playing multiple roles
+keyword	frozen alive
+keyword	gay kiss
+keyword	breathalyzer
+keyword	death of friend
+keyword	title spoken by character
+keyword	
+cast	Sigourney Weaver	Ellen Ripley
+cast	Winona Ryder	Annalee Call
+cast	Dominique Pinon	Vriess
+cast	Ron Perlman	Johner
+cast	Gary Dourdan	Christie
+cast	Michael Wincott	Frank Elgyn
+cast	Kim Flowers	Sabra Hillard
+cast	Dan Hedaya	Gen. Martin Perez
+cast	J.E. Freeman	Dr. Mason Wren
+cast	Brad Dourif	Dr. Jonathan Gediman
+cast	Raymond Cruz	Vincent Distephano
+cast	Leland Orser	Larry Purvis
+cast	Carolyn Campbell	Carlyn Williamson
+cast	Marlene Bush	Scientist
+cast	David St. James	Surgeon
+cast	Rodney Mitchell	Soldier with Glove
+cast	Robert Faltisco	Soldier Shot Through Helmet
+cast	David Rowe	Frozen Soldier
+cast	Garrett House	Soldier
+cast	Rod Damer	Soldier
+cast	Mark Mansfield	Soldier
+cast	Daniel Raymont	Soldier
+cast	Cris D'Annunzio	Soldier
+cast	Steven Gilborn	Voice of 'Father'
+cast	Robert Bastens	Sleeper
+cast	Rico Bueno	Sleeper
+cast	Alex Lorre	Sleeper
+cast	Ronald Ramessar	Sleeper
+cast	Nicole Fellows	Young Ripley
+cast	Tom Woodruff Jr.	Lead Alien
+cast	Joan La Barbara	Newborn Vocal #1
+cast	Archie Hahn	Newborn Vocal #2
+cast	Nito Larioza	Sleeper
+cast	Brad Martin	Soldier Shot by Johner
+cast	David Prior	Alien
+cast	Nevada Vargas	Soldier in cocoon
+cast	Eddie Yansick	Soldier Who Stuns Ripley

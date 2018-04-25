@@ -1,0 +1,181 @@
+year	1954
+imdb score	7.5
+meta score	N/A
+genre	Drama
+genre	History
+keyword	strike
+keyword	zinc mine
+keyword	mexican american
+keyword	feminism
+keyword	new mexico
+keyword	dignity
+keyword	raid
+keyword	liberation
+keyword	mine disaster
+keyword	tear gas
+keyword	father daughter relationship
+keyword	rescue
+keyword	sister sister relationship
+keyword	mining accident
+keyword	brother brother relationship
+keyword	jail sentence
+keyword	businessman
+keyword	beating
+keyword	usa
+keyword	mother son relationship
+keyword	social commentary
+keyword	catholic
+keyword	working conditions
+keyword	gun
+keyword	laborer
+keyword	rationing
+keyword	sexual equality
+keyword	union organizer
+keyword	birthday party
+keyword	running
+keyword	labor union
+keyword	rifle
+keyword	equality
+keyword	zincton new mexico
+keyword	christening
+keyword	riot
+keyword	political activism
+keyword	assault
+keyword	hope
+keyword	blasting
+keyword	singer
+keyword	cake
+keyword	injunction
+keyword	discrimination
+keyword	economics
+keyword	america
+keyword	explosion
+keyword	guitar
+keyword	letter
+keyword	based on real events
+keyword	sanitation
+keyword	family relationships
+keyword	hit by a car
+keyword	fight
+keyword	juarez
+keyword	celebration
+keyword	living conditions
+keyword	catholic church
+keyword	blacklisting
+keyword	eviction
+keyword	dancer
+keyword	freedom
+keyword	repossession
+keyword	union meeting
+keyword	bravery
+keyword	children
+keyword	exploitation
+keyword	bar
+keyword	baby formula
+keyword	safety
+keyword	village
+keyword	flash forward
+keyword	smelter
+keyword	working man
+keyword	title from bible
+keyword	women's auxillary
+keyword	employer employee relationship
+keyword	historical event
+keyword	union movement
+keyword	hitting
+keyword	delaware zinc inc.
+keyword	racial prejudice
+keyword	radio
+keyword	business
+keyword	ambulance
+keyword	foreman
+keyword	company president
+keyword	pregnancy
+keyword	crying
+keyword	politics
+keyword	church
+keyword	solidarity
+keyword	tears
+keyword	drink
+keyword	racial discrimination
+keyword	resisting arrest
+keyword	gas mask
+keyword	race relations
+keyword	fuse
+keyword	banned film
+keyword	ironing
+keyword	birthday
+keyword	role reversal
+keyword	scab
+keyword	childbirth
+keyword	drinking
+keyword	sheriff
+keyword	washing
+keyword	district attorney
+keyword	taft hartley act
+keyword	labor movement
+keyword	warrant
+keyword	plumbing
+keyword	unity
+keyword	victim
+keyword	women's rights
+keyword	chase
+keyword	fire
+keyword	wage slave
+keyword	human dignity
+keyword	running water
+keyword	flashback
+keyword	husband wife relationship
+keyword	mother daughter relationship
+keyword	international union of mine mill and smelter workers
+keyword	baby
+keyword	voting
+keyword	alarm
+keyword	brother sister relationship
+keyword	mining
+keyword	graveyard
+keyword	bathroom
+keyword	jukebox
+keyword	chopping wood
+keyword	dancing
+keyword	jail
+keyword	arrest
+keyword	shoes
+keyword	father son relationship
+keyword	candle
+keyword	mining town
+keyword	voice over narration
+keyword	boycott
+keyword	beer
+keyword	economic inequality
+keyword	controversy
+keyword	card playing
+keyword	gunshot
+keyword	march
+keyword	picket line
+keyword	singing
+keyword	title spoken by character
+cast	Will Geer	Sheriff
+cast	David Wolfe	Barton
+cast	Mervin Williams	Hartwell
+cast	David Sarvis	Alexander
+cast	Rosaura Revueltas	Esperanza Quintero
+cast	E.A. Rockwell	Vance
+cast	William Rockwell	Kimbrough
+cast	Juan Chacón	Ramon Quintero
+cast	Henrietta Williams	Teresa Vidal
+cast	Ángela Sánchez	Consuelo Ruiz
+cast	Clorinda Alderette	Luz Morales
+cast	Virginia Jencks	Ruth Barnes
+cast	Clinton Jencks	Frank Barnes
+cast	Joe T. Morales	Sal Ruiz
+cast	Ernesto Velázquez	Charley Vidal
+cast	Charles Coleman	Antonio Morales
+cast	Víctor Torres	Sebasatian Prieto
+cast	Frank Talevera	Luis Quintero
+cast	Mary Lou Castillo	Estella Quintero
+cast	Floyd Bostick	Jenkins
+cast	E.S. Conerly	Kalinsky
+cast	Adolfo Barela	Miner
+cast	Albert Munoz	Miner
+cast	Elvira Molano	Mrs. Salazar

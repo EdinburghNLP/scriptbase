@@ -1,0 +1,92 @@
+year	2011
+imdb score	7.4
+meta score	84
+genre	Comedy
+genre	Drama
+keyword	daughters
+keyword	boating accident
+keyword	affair
+keyword	coma
+keyword	lawyer
+keyword	hawaii
+keyword	hospital
+keyword	marriage
+keyword	youngest daughter
+keyword	attorney
+keyword	doctor
+keyword	beach
+keyword	father in law
+keyword	wild child
+keyword	infidelity
+keyword	cousin cousin relationship
+keyword	relationship
+keyword	grief
+keyword	bikini
+keyword	father daughter relationship
+keyword	reference to google
+keyword	loss of loved one
+keyword	unfaithfulness
+keyword	cheating wife
+keyword	death of loved one
+keyword	estate
+keyword	unfaithful wife
+keyword	dying mother
+keyword	family relationships
+keyword	teenage daughter
+keyword	love
+keyword	neglected wife
+keyword	inheritance
+keyword	trust fund
+keyword	rocky relationship
+keyword	wild girl
+keyword	living will
+keyword	trustee
+keyword	two word title
+keyword	death of spouse
+keyword	bikini girl
+keyword	real estate agent
+keyword	land development
+keyword	f word
+keyword	death of mother
+keyword	based on novel
+cast	George Clooney	Matt King
+cast	Shailene Woodley	Alexandra King
+cast	Amara Miller	Scottie King
+cast	Nick Krause	Sid
+cast	Patricia Hastie	Elizabeth King
+cast	Grace A. Cruz	Scottie's Teacher
+cast	Kim Gennaula	School Counselor
+cast	Karen Kuioka Hironaga	Barb Higgins
+cast	Carmen Kaichi	Lani Higgins
+cast	Kaui Hart Hemmings	Matt's Secretary Noe
+cast	Beau Bridges	Cousin Hugh
+cast	Matt Corboy	Cousin Ralph
+cast	Matt Esecson	Cousin Hal
+cast	Michael Ontkean	Cousin Milo
+cast	Stanton Johnston	Cousin Stan
+cast	Jon McManus	Cousin Six
+cast	Hugh Foster	Cousin Wink
+cast	Tiare R. Finney	Cousin Connie
+cast	Tom McTigue	Cousin Dave
+cast	Milt Kogan	Dr. Johnston
+cast	Mary Birdsong	Kai Mitchell
+cast	Rob Huebel	Mark Mitchell
+cast	Laird John Hamilton	Troy Cook
+cast	Aileen 'Boo' Arnold	Dorm Supervisor
+cast	Esther Kang	Alex's Roommate
+cast	Melissa Kim	Alex's Drunken Friend
+cast	Robert Forster	Scott Thorson
+cast	Barbara L. Southern	Alice 'Tutu' Thorson
+cast	Celia Kenney	Reina
+cast	Matthew Reese	Buzz
+cast	Zoel Turnbull	Hotel Clerk
+cast	Matthew Lillard	Brian Speer
+cast	Judy Greer	Julie Speer
+cast	Linda Rose Herman	Grief Counselor
+cast	Scott Michael Morgan	Barry Thorson
+cast	Darryl K. Gonzales	Tahiti Nui Singer
+cast	Koko Kanealii	Tahiti Nui Singer
+cast	Romey 'Keola' Yokotake	Tahiti Nui Singer
+cast	Dane Justman	Drunk Guy #2
+cast	Fileena Bahris	Passenger
+cast	Paul Edney	Bicyclist

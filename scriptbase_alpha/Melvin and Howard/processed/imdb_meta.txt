@@ -1,0 +1,98 @@
+year	1980
+imdb score	7.0
+meta score	N/A
+genre	Comedy
+genre	Drama
+keyword	motorcycle
+keyword	desert
+keyword	driving in the rain
+keyword	milkman
+keyword	courtroom
+keyword	female nudity
+keyword	reno nevada
+keyword	dancing
+keyword	arm in cast
+keyword	wedding
+keyword	wedding chapel
+keyword	billionaire
+keyword	divorce
+keyword	los angeles california
+keyword	strip club
+keyword	good samaritan
+keyword	child custody
+keyword	repossession
+keyword	media coverage
+keyword	las vegas nevada
+keyword	utah
+keyword	based on supposedly true story
+keyword	1970s
+keyword	last will and testament
+keyword	stripper
+keyword	driving at night
+keyword	motel
+keyword	pregnant bride
+keyword	pickup truck
+keyword	nipples visible through clothing
+keyword	hoax
+keyword	wealth
+keyword	nudity
+keyword	missing last will
+keyword	character name in title
+keyword	
+cast	Jason Robards	Howard Hughes
+cast	Paul Le Mat	Melvin Dummar
+cast	Elizabeth Cheshire	Darcy Dummar
+cast	Mary Steenburgen	Lynda Dummar
+cast	Chip Taylor	Clark Taylor
+cast	Melvin E. Dummar	Bus Depot Counterman
+cast	Michael J. Pollard	Little Red
+cast	Denise Galik	Lucy
+cast	Gene Borkan	Go-Go Club Owner #1
+cast	Lesley Margret Burton	Go-Go Dancer
+cast	Wendy Lee Couch	Go-Go Dancer
+cast	Marguerite Baierski	Go-Go Dancer
+cast	Janice King	Go-Go Dancer
+cast	Deborah Ann Klein	Go-Go Dancer
+cast	Theodora Thomas	Go-Go Dancer
+cast	Gloria Grahame	Mrs. Sisk
+cast	Elise Hudson	Rocky - Easy Street Singer
+cast	Robert Ridgely	Wally 'Mr. Love' Williams
+cast	Susan Peretz	Chapel Owner
+cast	Robert Wentz	Justice of the Peace
+cast	Hal Marshall	Hal
+cast	Naida Reynolds	Woman Witness
+cast	Herbie Faye	Man Witness
+cast	Charles Napier	Ventura
+cast	Jack Kehoe	Jim Delgado
+cast	Pamela Reed	Bonnie Dummar
+cast	Sonny Carl Davis	Milkman George
+cast	Brendan Kelly	Milkman Ralph
+cast	Danny Tucker	Milkman Pete
+cast	Shirley Washington	Patient Debbie
+cast	Cheryl Smith	Patient Ronnie
+cast	Jason Ball	The Bait Brothers
+cast	Darrell Devlin	The Bait Brothers
+cast	Danny Dark	Easy Street Announcer
+cast	Linda Cardoso	Easy Street Model
+cast	Melissa Prophet	Easy Street Model
+cast	Garrie Kelly	Easy Street Model
+cast	John Thundercloud	Chief Thundercloud
+cast	Martine Beswick	Realty Agent
+cast	Charlene Holt	Mrs. Worth
+cast	Melissa Williams	Sherry Dummar
+cast	Antony Alda	Terry
+cast	James Lyle Strong	Gas Station Customer
+cast	Rick Lenz	Lawyer
+cast	Gary Goetzman	Melvin's Cousin Fred
+cast	John Levin	Reporter
+cast	Kathleen Sullivan	Reporter
+cast	Jack Verbois	Holdup Man
+cast	Rob Reece	Lynda's Husband
+cast	Joseph Ragno	Maxwell - Attorney #1
+cast	John Glover	Freese - Attorney #2
+cast	Joseph Walker Jr.	Attorney #3
+cast	Dabney Coleman	Judge Keith Hayes
+cast	Charles Horden	Bailiff
+cast	Robert S. Holman	Bus Station Traveler
+cast	Joe Spinell	Go-Go Club Owner #2
+cast	Tom Willett	Kissing Cowboy

@@ -1,0 +1,47 @@
+year	2000
+imdb score	6.3
+meta score	N/A
+genre	Adventure
+genre	Animation
+genre	Drama
+genre	Family
+genre	Sci-Fi
+keyword	pokémon
+keyword	sequel
+keyword	based on tv series
+keyword	betrayal
+keyword	pocket monsters
+keyword	based on video game
+keyword	equal rights
+keyword	friendship
+keyword	honor
+keyword	character name in title
+cast	Veronica Taylor	Ash Ketchum
+cast	Ikue Ôtani	Pikachu
+cast	Rachael Lillis	Misty / Jessie / Wigglytuff / Goldeen
+cast	Eric Stuart	Brock / James / Squirtle
+cast	Madeleine Blaustein	Meowth
+cast	Dan Green	Mewtwo
+cast	Rodger Parsons	Narrator
+cast	Ted Lewis	Giovanni of Team Rocket
+cast	Kerry Williams	Domino
+cast	Rikako Aikawa	Butterfree
+cast	Amy Birnbaum	Luna Carson
+cast	Jessica Calvello	
+cast	Michael Haigney	Geodude / Psyduck / Venusaur / Blastoise
+cast	Megumi Hayashibara	Pikatwo
+cast	Megan Hollingshead	
+cast	Unshô Ishizuka	Onix / Gyarados
+cast	Mika Kanai	Chikorita
+cast	Satomi Koorogi	Togepi
+cast	Michelle Linden Lobozzo	
+cast	Rica Matsumoto	Persian
+cast	Shin'ichirô Miki	Staryu / Golbat / Charizard
+cast	Lisa Ortiz	
+cast	Lee Quick	
+cast	Scottie Ray	Cullen Calix
+cast	Kayzie Rogers	Wobbuffet / Vaporeon / Vileplume
+cast	Tara Sands	Bulbasaur / Vulpix / Ninetales
+cast	Mayumi Shintani	Copy Meowth
+cast	Joseph Shore	
+cast	Jimmy Zoppi	

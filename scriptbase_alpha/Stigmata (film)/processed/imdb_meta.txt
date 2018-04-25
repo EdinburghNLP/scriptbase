@@ -1,0 +1,92 @@
+year	1999
+imdb score	6.2
+meta score	28
+genre	Horror
+genre	Thriller
+keyword	priest
+keyword	stigmata
+keyword	wound
+keyword	vatican
+keyword	catholic
+keyword	catholic priest
+keyword	gospel
+keyword	church
+keyword	religion
+keyword	catholic church
+keyword	investigation
+keyword	water
+keyword	crisis of faith
+keyword	statue weeping blood
+keyword	rosary
+keyword	bandage
+keyword	usa
+keyword	translation
+keyword	rome italy
+keyword	atheist
+keyword	cardinal the priest
+keyword	levitation
+keyword	blood
+keyword	female nudity
+keyword	christian horror
+keyword	hospital
+keyword	waterdrop
+keyword	ancient manuscript
+keyword	supernatural horror
+keyword	demonic possession
+keyword	anti clericalism
+keyword	reference to jesus christ
+keyword	nudity
+keyword	subway
+keyword	hallucination
+keyword	apocrypha
+keyword	anti catholic
+keyword	doctor
+keyword	bible
+keyword	suppression
+keyword	faking stigmata
+keyword	supernatural power
+keyword	reference to the gospel of st. thomas
+keyword	possession
+keyword	beautician
+keyword	occult
+keyword	nun
+keyword	
+cast	Patricia Arquette	Frankie Paige
+cast	Gabriel Byrne	Father Andrew Kiernan
+cast	Jonathan Pryce	Cardinal Daniel Houseman
+cast	Nia Long	Donna Chadway
+cast	Thomas Kopache	Father Durning
+cast	Rade Serbedzija	Marion Petrocelli
+cast	Enrico Colantoni	Father Dario
+cast	Dick Latessa	Father Gianni Delmonico
+cast	Portia de Rossi	Jennifer Kelliho
+cast	Patrick Muldoon	Steven
+cast	Ann Cusack	Dr. Reston
+cast	Shaun Toub	Doctor
+cast	Tom Hodges	ER Nurse
+cast	Lydia Hazan	Attending Nurse
+cast	Shaun Duke	Dr. Eckworth
+cast	Valarie Trapp	Woman with a Baby
+cast	Kessia Embry	Cheryl
+cast	Frankie Thorn	Donna's Customer
+cast	Mariah Nunn	Sister Angela
+cast	Tom Fahn	MTA Man
+cast	Marilyn Pitzer	Homeless Woman
+cast	Jack Donner	Father Alameida
+cast	Richard Conti	Valet Priest
+cast	Mary Linda Phillips	Sister Agnes
+cast	Liz Cruz	Waitress
+cast	Faith Christopher	Waitress
+cast	Joe Ruffo	Guard
+cast	Federico Scutti	Guard
+cast	William Howell	Aerialist
+cast	Kristopher Davis	Aerialist
+cast	Devin Unruh	Flower Boy
+cast	Vera Yell	Jennifer's Customer
+cast	Mary Marshall	Nun
+cast	Daniel Escalzo	Italian Businessman
+cast	Michael P. Dearth	Italian Businessman
+cast	Mark Adair-Rios	Deacon
+cast	Stephanie Carwin	Italian Hooker
+cast	Mário Lara	Vatican Priest
+cast	Nicolas Martin	Waiter

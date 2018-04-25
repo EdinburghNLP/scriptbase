@@ -1,0 +1,191 @@
+year	2001
+imdb score	6.9
+meta score	50
+genre	Comedy
+genre	Drama
+keyword	high school
+keyword	college
+keyword	sex
+keyword	depression
+keyword	documentary filmmaker
+keyword	turmoil
+keyword	celebrity
+keyword	exploitation
+keyword	writing class
+keyword	professor
+keyword	high school student
+keyword	writer
+keyword	poison gas
+keyword	written by director
+keyword	blow job
+keyword	nazi
+keyword	cousin cousin relationship
+keyword	twinkie
+keyword	catholic
+keyword	fear
+keyword	optimism
+keyword	jealousy
+keyword	interracial sex
+keyword	law school
+keyword	murder
+keyword	telephone call
+keyword	racial stereotype
+keyword	suburbia
+keyword	reference to hitler
+keyword	prejudice
+keyword	homosexual teenager
+keyword	hospital
+keyword	subway
+keyword	hate
+keyword	hypnotism
+keyword	fund raising
+keyword	dry humor
+keyword	movie camera
+keyword	movie screening
+keyword	football tackle
+keyword	high school football
+keyword	cruelty
+keyword	race relations
+keyword	card playing
+keyword	psychologist
+keyword	reference to god
+keyword	school psychologist
+keyword	watching tv
+keyword	despair
+keyword	marijuana
+keyword	husband wife relationship
+keyword	photograph
+keyword	break up
+keyword	pink hair
+keyword	hallucination
+keyword	execution
+keyword	tv show
+keyword	jewish
+keyword	film editing
+keyword	food
+keyword	talking to the camera
+keyword	high school prom
+keyword	babysitting
+keyword	injury
+keyword	coma
+keyword	latina
+keyword	holocaust
+keyword	bare breasts
+keyword	princeton university
+keyword	colombia
+keyword	nudity
+keyword	pity
+keyword	tears
+keyword	gay
+keyword	taxi driver
+keyword	yearbook
+keyword	rape
+keyword	gun held to head
+keyword	new jersey
+keyword	israel
+keyword	disabled person
+keyword	jew
+keyword	american football
+keyword	college student
+keyword	talk show host
+keyword	vegetarian
+keyword	brother brother relationship
+keyword	actor
+keyword	men's bathroom
+keyword	mother son relationship
+keyword	suicidal thoughts
+keyword	cheerleader
+keyword	social satire
+keyword	marriage
+keyword	family relationships
+keyword	cerebral palsy
+keyword	holocaust survivor
+keyword	sardonic
+keyword	guidance counselor
+keyword	maid
+keyword	writer director
+keyword	dinner
+keyword	pleasure
+keyword	film within a film
+keyword	father son relationship
+keyword	black comedy
+keyword	bus
+keyword	prostitute
+keyword	female frontal nudity
+keyword	cat scan
+keyword	one word title
+keyword	urination
+keyword	satire
+keyword	slow motion scene
+keyword	middle age
+keyword	el salvador
+keyword	gun
+keyword	bar
+keyword	documentary filmmaking
+keyword	interracial relationship
+keyword	neurologist
+keyword	female nudity
+keyword	grandmother grandson relationship
+keyword	shoe store
+keyword	love
+keyword	teenage boy
+keyword	s.a.t.
+keyword	taxi
+keyword	topless female nudity
+keyword	paralysis
+keyword	new york city
+keyword	homosexual
+keyword	crying
+keyword	locker room
+keyword	death row
+keyword	shoe salesman
+keyword	stereotype
+keyword	class differences
+keyword	racism
+keyword	film producer
+keyword	fame
+keyword	teacher student relationship
+keyword	underwear
+keyword	college entrance
+keyword	hypnosis
+keyword	survivor
+keyword	kindness
+keyword	reading
+cast	Selma Blair	Vi
+cast	Leo Fitzpatrick	Marcus
+cast	Robert Wisdom	Mr. Scott
+cast	Maria Thayer	Amy
+cast	Angela Goethals	Elli
+cast	Devorah Rose	Lucy
+cast	Nancy Anne Ridder	Joyce
+cast	Steve Rosen	Ethan
+cast	Aleksa Palladino	Catherine
+cast	Mary Lynn Rajskub	Melinda
+cast	Tina Holmes	Sue
+cast	Paul Giamatti	Toby Oxman
+cast	Mike Schank	Mike
+cast	Xander Berkeley	Mr. DeMarco
+cast	Mark Webber	Scooby Livingston
+cast	John Goodman	Marty Livingston
+cast	Julie Hagerty	Fern Livingston
+cast	Jonathan Osser	Mikey Livingston
+cast	Noah Fleiss	Brady Livingston
+cast	Lupe Ontiveros	Consuelo
+cast	Jessica Dunphy	Cheryl
+cast	Nick Maltes	Esposito
+cast	Steve Railsback	Mr. Kirk
+cast	Crista Moore	Elizabeth St. Clair
+cast	Franka Potente	Toby's Editor
+cast	Andrew Marantz	Stanley
+cast	Conan O'Brien	Himself
+cast	Frederick B. Owens	Football Coach
+cast	Barry Jordan	Dr. Barry Jordan
+cast	Robin Goodman	Dr. Robin Goodman
+cast	Eric Nieves	Dave
+cast	Marisa Redanty	Onlooker #1
+cast	Ilana Levine	Onlooker #2
+cast	Jennifer Elise Cox	Musical Theatre Actress
+cast	Pat Kiernan	TV News Announcer
+cast	Gina Priano	Highschool student
+cast	Tom Schimmels	Man in Toby's Apartment
+cast	Jim Titus	Football Player

@@ -1,0 +1,260 @@
+year	2000
+imdb score	8.4
+meta score	68
+genre	Drama
+keyword	addiction
+keyword	dream
+keyword	friend
+keyword	drug
+keyword	heroin
+keyword	addict
+keyword	pills
+keyword	television
+keyword	dress
+keyword	red dress
+keyword	diet pill
+keyword	best friend
+keyword	bedroom
+keyword	syringe
+keyword	cult film
+keyword	anguish
+keyword	pot smoking
+keyword	director cameo
+keyword	television set
+keyword	nude
+keyword	nudity
+keyword	drugged
+keyword	fast motion scene
+keyword	shock
+keyword	interracial sex
+keyword	drug dealing
+keyword	dildo
+keyword	rig camera
+keyword	vomit
+keyword	car alarm
+keyword	bitterness
+keyword	sex in public
+keyword	fellatio
+keyword	female rear nudity
+keyword	consensual sex
+keyword	angst
+keyword	scream
+keyword	character's eyes fill the screen
+keyword	anti drugs
+keyword	prostitution
+keyword	overhead camera shot
+keyword	chocolate candy
+keyword	sign language
+keyword	female nudity
+keyword	bare breasts
+keyword	copulation
+keyword	infomercial
+keyword	force feeding
+keyword	eating disorder
+keyword	hospital
+keyword	turntable
+keyword	boyfriend girlfriend relationship
+keyword	double dildo
+keyword	nuevo tango
+keyword	keyhole
+keyword	lust
+keyword	broken dream
+keyword	sofa
+keyword	black man
+keyword	new york city
+keyword	brooklyn new york city
+keyword	eye
+keyword	psychiatrist
+keyword	cult film
+keyword	moral corruption
+keyword	cleavage
+keyword	drugs
+keyword	vinyl
+keyword	electric shock
+keyword	marijuana joint
+keyword	interracial friendship
+keyword	split screen
+keyword	female pubic hair
+keyword	crying
+keyword	running
+keyword	drug addict
+keyword	infection
+keyword	paper airplane
+keyword	inattentive doctor
+keyword	spooning
+keyword	leg spreading
+keyword	art
+keyword	female frontal nudity
+keyword	loss of sanity
+keyword	electroshock therapy
+keyword	needles
+keyword	fictional game show
+keyword	hip hop montage
+keyword	arm amputation
+keyword	close up of eyes
+keyword	jail cell
+keyword	pill
+keyword	corruption
+keyword	drug abuse
+keyword	living room
+keyword	claustrophobia
+keyword	drug money
+keyword	gangrene
+keyword	marijuana
+keyword	sex scene
+keyword	fondling
+keyword	degradation
+keyword	run
+keyword	snorricam
+keyword	hypodermic needle
+keyword	lockup
+keyword	sordidness
+keyword	female full frontal nudity
+keyword	watching tv
+keyword	junkie
+keyword	coney island brooklyn new york city
+keyword	kissing
+keyword	pubic hair
+keyword	industrial music
+keyword	drug trip
+keyword	deaf man
+keyword	heroin addiction
+keyword	prison
+keyword	black boy
+keyword	racial slur
+keyword	refrigerator
+keyword	coitus
+keyword	pill popping
+keyword	heroin addict
+keyword	screaming
+keyword	dieting
+keyword	locked up
+keyword	brunette
+keyword	sadness
+keyword	desperation
+keyword	murder
+keyword	topless female nudity
+keyword	prescription drug abuse
+keyword	drug use
+keyword	mother son relationship
+keyword	doggystyle sex
+keyword	dreaming
+keyword	drug addiction
+keyword	ambient music
+keyword	injection
+keyword	spooning sexual position
+keyword	cheating on one's boyfriend
+keyword	sex show
+keyword	decadence
+keyword	scantily clad female
+keyword	long hair
+keyword	schizophrenic
+keyword	hatred
+keyword	drug snorting
+keyword	time lapse photography
+keyword	tragedy
+keyword	jail
+keyword	drug pusher
+keyword	death
+keyword	psychological torture
+keyword	pawnshop
+keyword	psychological torment
+keyword	insanity
+keyword	bandage
+keyword	male nudity
+keyword	tango music
+keyword	hallucination
+keyword	suffering
+keyword	shooting heroin
+keyword	hallucinogenic drug
+keyword	friendship
+keyword	blood spatter
+keyword	nightmare
+keyword	lesbian sex
+keyword	techno music
+keyword	visual hallucination
+keyword	police officer
+keyword	needle
+keyword	subway
+keyword	oral sex
+keyword	snorting heroin
+keyword	no panties
+keyword	based on book
+keyword	based on novel
+keyword	independent film
+cast	Ellen Burstyn	Sara Goldfarb
+cast	Jared Leto	Harry Goldfarb
+cast	Jennifer Connelly	Marion Silver
+cast	Marlon Wayans	Tyrone C. Love
+cast	Christopher McDonald	Tappy Tibbons
+cast	Louise Lasser	Ada
+cast	Marcia Jean Kurtz	Rae
+cast	Janet Sarno	Mrs. Pearlman
+cast	Suzanne Shepherd	Mrs. Scarlini
+cast	Joanne Gordon	Mrs. Ovadia
+cast	Charlotte Aronofsky	Mrs. Miles
+cast	Mark Margolis	Mr. Rabinowitz
+cast	Michael Kaycheck	Donut Cop
+cast	Jack O'Connell	Corn Dog Stand Boss
+cast	Chas Mastin	Lyle Russel
+cast	Ajay Naidu	Mailman
+cast	Sean Gullette	Arnold The Shrink
+cast	Samia Shoaib	Nurse Mall
+cast	Peter Maloney	Dr. Pill
+cast	Abraham Abraham	King Neptune
+cast	Aliya Campbell	Alice
+cast	Te'ron A. O'Neal	Young Tyrone
+cast	Denise Dowse	Tyrone's Mother
+cast	Bryan Chattoo	Brody
+cast	Eddie De Harp	Brody's Henchman Victor
+cast	Scott Franklin	Voice of Jailer
+cast	Peter Cheyenne	Sal the Geep
+cast	Brian Costello	First AD
+cast	Abraham Aronofsky	Newspaper Man on Train
+cast	James Chinlund	Space Oddity
+cast	Olga Merediz	Malin & Block Secretary
+cast	Allison Furman	Malin & Block Office Woman
+cast	Robert Dylan Cohen	Paramedic Greenhill
+cast	Ben Shenkman	Dr. Spencer
+cast	Keith David	Big Tim
+cast	Dylan Baker	Southern Doctor
+cast	Shaun O'Hagan	Ward Attendant Seto
+cast	Leland Gantt	Ward Attendant Penn
+cast	Bill Buell	Court Doctor
+cast	Jimmie Ray Weeks	Prison Guard
+cast	Gregg Bello	E.R. Doctor
+cast	Henry Stram	ECT Technician
+cast	Heather Litteer	Big Tim Party Girl
+cast	Jenny Decker	Big Tim Party Girl
+cast	Ami Goodheart	Big Tim Party Girl
+cast	Nina Zavarin	Big Tim Party Girl
+cast	Stanley B. Herman	Uncle Hank
+cast	Scott Bader	Party Animal
+cast	Jim Centofanti	Party Animal
+cast	Scott Chait	Party Animal
+cast	Daniel Clarin	Party Animal
+cast	Ben Cohen	Party Animal
+cast	Eric Cohen	Party Animal
+cast	Brett Feinstein	Party Animal
+cast	Ricky Fier	Party Animal
+cast	John Getz	Party Animal
+cast	Andrew Kessler	Party Animal
+cast	Ross Lombardo	Party Animal
+cast	Carter Mansbach	Party Animal
+cast	Scott Miller	Party Animal
+cast	Todd Miller	Party Animal
+cast	Joshua Pollack	Party Animal
+cast	Craig Rallo	Party Animal
+cast	Geordan Reisner	Party Animal
+cast	Keith Scandore	Party Animal
+cast	David Seltzer	Party Animal
+cast	Chris Varvaro	Party Animal
+cast	Ricardo Viñas	Party Animal
+cast	Chad Weiner	Party Animal
+cast	Jesse Weissberger	Party Animal
+cast	Greg Weissman	Party Animal
+cast	Hubert Selby Jr.	Laughing Guard
+cast	Lianna Pai	Angelic Nurse
+cast	Darren Aronofsky	Visitor
+cast	Diana Berry	Malin & Block Executive
+cast	John Bryant	Drug Dealer

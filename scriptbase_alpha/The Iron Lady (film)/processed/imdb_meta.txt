@@ -1,0 +1,159 @@
+year	2011
+imdb score	6.4
+meta score	54
+genre	Biography
+genre	Drama
+genre	History
+keyword	margaret thatcher
+keyword	prime minister
+keyword	conservative party
+keyword	politics
+keyword	parliament
+keyword	falklands
+keyword	grocer
+keyword	british prime minister
+keyword	british
+keyword	argentina
+keyword	female prime minister
+keyword	public service
+keyword	dementia
+keyword	dinner party
+keyword	political party
+keyword	british overseas territory
+keyword	political campaign
+keyword	war propaganda
+keyword	mp
+keyword	political leader
+keyword	1960s
+keyword	year 1982
+keyword	no opening credits
+keyword	stubbornness
+keyword	widow
+keyword	2000s
+keyword	right wing
+keyword	president
+keyword	voice
+keyword	1970s
+keyword	memoirs
+keyword	confusion
+keyword	assassination
+keyword	foreign affairs
+keyword	reference to ronald reagan
+keyword	multiple time frames
+keyword	husband wife relationship
+keyword	hallucination
+keyword	befuddled
+keyword	public image
+keyword	international politics
+keyword	female protagonist
+keyword	1980s
+keyword	10 downing street
+keyword	election
+keyword	title directed by female
+keyword	military invasion
+keyword	1950s
+keyword	london england
+keyword	flashback sequence
+keyword	number 10
+keyword	politician
+keyword	flashbacks
+keyword	female politician
+keyword	dead husband
+keyword	mother daughter relationship
+keyword	british politics
+keyword	baroness
+keyword	cold war
+keyword	falklands war
+keyword	mourning
+keyword	decline
+keyword	told in flashback
+keyword	premier
+keyword	alzheimer's disease
+keyword	1990s
+keyword	capitalism
+keyword	military junta
+keyword	memory
+keyword	born in 1925
+keyword	nonlinear timeline
+keyword	pearls
+keyword	based on true story
+keyword	title spoken by character
+cast	Meryl Streep	Margaret Thatcher
+cast	Jim Broadbent	Denis Thatcher
+cast	Susan Brown	June
+cast	Alice da Cunha	Cleaner
+cast	Phoebe Waller-Bridge	Susie
+cast	Iain Glen	Alfred Roberts
+cast	Alexandra Roach	Young Margaret Thatcher
+cast	Victoria Bewick	Muriel Roberts
+cast	Emma Dewhurst	Beatrice Roberts
+cast	Olivia Colman	Carol Thatcher
+cast	Harry Lloyd	Young Denis Thatcher
+cast	Sylvestra Le Touzel	Hostess 1949
+cast	Michael Culkin	Host 1949
+cast	Stephanie Jacob	Female Guest 1949
+cast	Robert Portal	Grey Suited Guest 1949
+cast	Richard Dixon	Male Guest 1949
+cast	Amanda Root	Amanda
+cast	Clifford Rose	James R
+cast	Michael Cochrane	William
+cast	Jeremy Clyde	James T
+cast	Michael Simkins	Peter
+cast	Eloise Webb	Young Carol
+cast	Alexander Beardsley	Young Mark
+cast	Nicholas Farrell	Airey Neave
+cast	John Sessions	Edward Heath
+cast	Anthony Head	Geoffrey Howe
+cast	Richard Syms	House of Commons Speaker
+cast	David Westhead	Shadow Minister
+cast	Julian Wadham	Francis Pym
+cast	Richard E. Grant	Michael Heseltine
+cast	Angus Wright	John Nott
+cast	Roger Allam	Gordon Reece
+cast	Michael Pennington	Michael Foot
+cast	John Harding	Cabinet Minister
+cast	Simon Chandler	Cabinet Minister
+cast	Stephen Boxer	Cabinet Minister
+cast	Jasper Jacob	Cabinet Minister
+cast	Rupert Vansittart	Cabinet Minister
+cast	Robin Kermode	Cabinet Minister
+cast	Andrew Havill	Cabinet Minister
+cast	Michael Elwyn	Cabinet Minister
+cast	Peter Pacey	Cabinet Minister
+cast	Jeremy Child	Cabinet Minister
+cast	James Smith	Cabinet Minister
+cast	Hugh Ross	Cabinet Minister
+cast	Chris Campbell	Cabinet Minister
+cast	Paul Bentley	Cabinet Minister
+cast	Martin Wimbush	Cabinet Minister
+cast	Simon Slater	Cabinet Minister
+cast	David Cann	TV Interviewer
+cast	Christopher Luscombe	Voice Coach
+cast	Angela Curran	Crawfie
+cast	Michael Maloney	Doctor
+cast	Pip Torrens	Ian Gilmour
+cast	Nick Dunning	Jim Prior
+cast	David Rintoul	Admiral Fieldhouse
+cast	Nicholas Jones	Admiral Leach
+cast	Richard Goulding	Naval Attaché
+cast	Matthew Marsh	Alexander Haig
+cast	Willie Jonah	Kenneth Kaunda
+cast	Roddy Button	Member of Parliament
+cast	Ellis Crewe-Candy	Passerby / Street Protester
+cast	Richard Ellison	Hairdresser
+cast	Reginald Green	Ronald Reagan
+cast	Peter Bartfay	Protester
+cast	Greg Bennett	Member of Parliament
+cast	Christopher Blythe	Labour MP
+cast	Robert Clayton	Protester
+cast	Gioacchino Jim Cuffaro	Foreign Leader
+cast	Luc Eden	Journalist / Ice Cream Factory Worker
+cast	Andy Evason	Body Guard
+cast	Mikhail Gorbachev	Himself
+cast	Teresa Mahoney	Crying Lady
+cast	Trevor McDonald	Himself - BBC News Anchor
+cast	Bob Nunn	Head of State
+cast	Martin Poole	Labour Front Bencher
+cast	Ronald Reagan	Himself
+cast	Mary Robinson	Downing Street Staff
+cast	Nick Shaw	Head of State

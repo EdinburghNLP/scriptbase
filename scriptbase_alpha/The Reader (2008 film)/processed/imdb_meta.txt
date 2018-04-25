@@ -1,0 +1,348 @@
+year	2008
+imdb score	7.6
+meta score	58
+genre	Drama
+genre	Romance
+keyword	law
+keyword	student
+keyword	trial
+keyword	law student
+keyword	war crime
+keyword	love
+keyword	germany
+keyword	nazi
+keyword	ss
+keyword	german
+keyword	justice
+keyword	prison
+keyword	secret
+keyword	reading
+keyword	courtroom
+keyword	concentration camp
+keyword	voyeur
+keyword	reference to the lady and the little dog the novel
+keyword	school
+keyword	bicycle trip
+keyword	seminar
+keyword	university
+keyword	telephone call
+keyword	uniform
+keyword	reading a comic book
+keyword	age difference
+keyword	swimsuit
+keyword	law professor
+keyword	flashback within a flashback
+keyword	tea tin
+keyword	last will and testament
+keyword	gravestone
+keyword	integrity
+keyword	nonlinear timeline
+keyword	reference to huckleberry finn
+keyword	reading to someone
+keyword	egg
+keyword	postage stamp
+keyword	older woman younger man relationship
+keyword	train
+keyword	cemetery
+keyword	bicycle
+keyword	fire
+keyword	jail visitation
+keyword	writing a poem
+keyword	female full frontal nudity
+keyword	war atrocity
+keyword	snow
+keyword	year 1980
+keyword	two in a bath
+keyword	face slap
+keyword	pen and paper
+keyword	stamp collector
+keyword	bare breasts
+keyword	prison library
+keyword	pubic hair
+keyword	withholding evidence
+keyword	ironing
+keyword	polishing shoes
+keyword	tears
+keyword	bed
+keyword	confession
+keyword	mother son relationship
+keyword	voyeurism
+keyword	jail
+keyword	locked in
+keyword	reference to goethe
+keyword	taxi
+keyword	father daughter relationship
+keyword	bathing
+keyword	sexual awakening
+keyword	prison visitation
+keyword	eating
+keyword	guilt
+keyword	scantily clad female
+keyword	heidelberg germany
+keyword	mirror
+keyword	1980s
+keyword	crying
+keyword	female prisoner
+keyword	bath
+keyword	teenager nudity
+keyword	class
+keyword	topless female nudity
+keyword	voice over narration
+keyword	slip the undergarment
+keyword	intimacy
+keyword	woman in bathtub
+keyword	flash forward
+keyword	false accusation
+keyword	nipples visible through clothing
+keyword	vanity
+keyword	mail
+keyword	kissing someone's butt
+keyword	reference to moby dick the novel
+keyword	police van
+keyword	crematorium
+keyword	friendship
+keyword	mailbox
+keyword	copulation
+keyword	divorce
+keyword	reference to war and peace the novel
+keyword	west berlin west germany
+keyword	playing footsie
+keyword	locked door
+keyword	family relationships
+keyword	family dinner
+keyword	philately
+keyword	post world war two
+keyword	stamp collection
+keyword	jew
+keyword	nudity
+keyword	bikini
+keyword	policeman
+keyword	false confession
+keyword	book
+keyword	shared bath
+keyword	food
+keyword	asking for forgiveness
+keyword	survivor
+keyword	kiss
+keyword	judge
+keyword	dying
+keyword	surprise
+keyword	reference to lady chatterley's lover the novel
+keyword	blonde
+keyword	cafe
+keyword	literacy
+keyword	reference to homer
+keyword	female nudity
+keyword	looking at self in mirror
+keyword	1990s
+keyword	women's prison
+keyword	berlin germany
+keyword	swimming
+keyword	virginity
+keyword	lust
+keyword	conscience
+keyword	dining hall
+keyword	classroom
+keyword	stamp album
+keyword	poem
+keyword	restaurant
+keyword	photograph
+keyword	bra
+keyword	tape recording
+keyword	learning to read
+keyword	high school
+keyword	demonstration
+keyword	haunted by the past
+keyword	sexually aggressive woman
+keyword	learning to write
+keyword	shame
+keyword	sex with a minor
+keyword	1970s
+keyword	sewing
+keyword	crime against humanity
+keyword	foreign language adaptation
+keyword	suicide
+keyword	barbed wire
+keyword	gun
+keyword	year 1995
+keyword	street life
+keyword	running down stairs
+keyword	courthouse
+keyword	female frontal nudity
+keyword	rain
+keyword	teaching one's self to read
+keyword	looking through a window
+keyword	outdoor cafe
+keyword	neustadt germany
+keyword	teenage boy
+keyword	cigarette smoking
+keyword	money
+keyword	loss of virginity
+keyword	legs
+keyword	birthday
+keyword	snowing
+keyword	court
+keyword	heidelberg law school
+keyword	washing hands
+keyword	wine
+keyword	year 1966
+keyword	female pubic hair
+keyword	oven
+keyword	coitus
+keyword	new york city
+keyword	fear
+keyword	1940s
+keyword	cleavage
+keyword	walking in the rain
+keyword	breasts
+keyword	pride
+keyword	latin the language
+keyword	lie
+keyword	sex scene
+keyword	reference to anton chekhov
+keyword	father son relationship
+keyword	man undressing
+keyword	church
+keyword	suitcase
+keyword	liar
+keyword	16 year old
+keyword	adolescent
+keyword	gym class
+keyword	nylon stockings
+keyword	1960s
+keyword	teenage girl
+keyword	letter
+keyword	first love
+keyword	tram
+keyword	nude
+keyword	listening to music
+keyword	murder
+keyword	death
+keyword	studying
+keyword	classmate
+keyword	mother daughter relationship
+keyword	reference to the odyssey
+keyword	vomit
+keyword	15 year old
+keyword	auschwitz
+keyword	illiteracy
+keyword	sex in bed
+keyword	underwear
+keyword	giving someone a bath
+keyword	menu
+keyword	female lawyer
+keyword	undressing
+keyword	bare chested male
+keyword	sexual attraction
+keyword	writing
+keyword	female star appears nude
+keyword	embarrassment
+keyword	year 1988
+keyword	world war two
+keyword	teacher student relationship
+keyword	graveyard
+keyword	hamburg germany
+keyword	protest
+keyword	coming of age
+keyword	israel
+keyword	police
+keyword	brother sister relationship
+keyword	bathtub
+keyword	tape recorder
+keyword	burning to death
+keyword	illness
+keyword	male nudity
+keyword	job promotion
+keyword	flowers
+keyword	teacher
+keyword	skinny dipping
+keyword	legality
+keyword	absolution
+keyword	friend
+keyword	apology
+keyword	upskirt
+keyword	woman putting on a stocking
+keyword	obsessive love
+keyword	male frontal nudity
+keyword	packing
+keyword	female rear nudity
+keyword	murderess
+keyword	lawyer
+keyword	nude girl
+keyword	camera shot of a woman's legs
+keyword	library
+keyword	bar
+keyword	year 1958
+keyword	flashback
+keyword	microphone
+keyword	alienation
+keyword	young version of character
+keyword	morality
+keyword	teaching one's self to write
+keyword	reading aloud
+keyword	no panties
+keyword	based on novel
+keyword	
+cast	Ralph Fiennes	Michael Berg
+cast	Jeanette Hain	Brigitte
+cast	David Kross	Young Michael Berg
+cast	Kate Winslet	Hanna Schmitz
+cast	Susanne Lothar	Carla Berg
+cast	Alissa Wilms	Emily Berg
+cast	Florian Bartholomäi	Thomas Berg
+cast	Friederike Becht	Angela Berg
+cast	Matthias Habich	Peter Berg
+cast	Frieder Venus	Doctor
+cast	Marie-Anne Fliegel	Hanna's Neighbour
+cast	Hendrik Arnst	Woodyard Worker
+cast	Rainer Sellien	Teacher
+cast	Torsten Michaelis	Sports Master
+cast	Moritz Grove	Holger
+cast	Joachim Tomaschewsky	Stamp Dealer
+cast	Barbara Philipp	Waitress
+cast	Hans Hohlbein	Clerk
+cast	Jürgen Tarrach	Gerhard Bade
+cast	Kirsten Block	Female Judge
+cast	Vijessna Ferkic	Sophie
+cast	Vanessa Berthold	Sophie's Friend
+cast	Benjamin Trinks	Holger's Friend
+cast	Fritz Roth	Tram Supervisor
+cast	Hannah Herzsprung	Julia
+cast	Jacqueline Macaulay	Heidelberg Lecturer
+cast	Volker Bruch	Dieter
+cast	Bruno Ganz	Professor Rohl
+cast	Karoline Herfurth	Marthe
+cast	Max Mauff	Rudolf
+cast	Ludwig Blochberger	Seminar Group Student
+cast	Jonas Jägermeyr	Seminar Group Student
+cast	Alexander Kasprik	Seminar Group Student
+cast	Burghart Klaußner	Judge
+cast	Sylvester Groth	Prosecuting Council
+cast	Fabian Busch	Hanna's Defence Council
+cast	Margarita Broich	Co-Defendant
+cast	Marie Gruber	Co-Defendant
+cast	Lena Lessing	Co-Defendant
+cast	Merelina Kendall	Co-Defendant
+cast	Hildegard Schroedter	Co-Defendant
+cast	Lena Olin	Rose Mather / Ilana Mather
+cast	Alexandra Maria Lara	Young Ilana Mather
+cast	Martin Brambach	Remand Prison Guard #1
+cast	Michael Schenk	Remand Prison Guard #2
+cast	Ava Eusepi-Harris	Young Julia
+cast	Nadja Engel	Mail Room Guard #1
+cast	Anne-Kathrin Gummich	Mail Room Guard #2
+cast	Carmen-Maja Antoni	Prison Librarian
+cast	Petra Hartung	Head Prison Guard
+cast	Linda Bassett	Ms. Brenner
+cast	Beata Lehmann	Ms. Brenner's Secretary
+cast	Heike Hanold-Lynch	Prison Guard
+cast	Bettina Scheuritzel	Gate Guard
+cast	Robin Gooch	Ilana's Maid
+cast	Thomas Borchardt	Criminal Defense Lawyer
+cast	Hans-Joachim Fisch	Lay judge
+cast	Alexandru Herca	Reporter
+cast	Klemen Novak	Additional Voices
+cast	Rich Odell	Taxi Driver
+cast	Daniele Rizzo	Student
+cast	Sam Luca Scollin	Reporter
+cast	Stephan Ziller	Student in Court

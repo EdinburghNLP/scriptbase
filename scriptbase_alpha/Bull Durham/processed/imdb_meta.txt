@@ -1,0 +1,104 @@
+year	1988
+imdb score	7.1
+meta score	73
+genre	Comedy
+genre	Romance
+genre	Sport
+keyword	pitcher
+keyword	baseball
+keyword	minor league baseball
+keyword	1980s
+keyword	fight
+keyword	baseball team
+keyword	locker room sex
+keyword	sex
+keyword	afi
+keyword	baseball movie
+keyword	coach
+keyword	guitar
+keyword	fight over girl
+keyword	voice over narration
+keyword	durham north carolina
+keyword	male bonding
+keyword	grab ass
+keyword	reference to william blake
+keyword	bare chested male
+keyword	calling partner by wrong name during sex
+keyword	hairy chest
+keyword	locker room
+keyword	philosophy
+keyword	shower room
+keyword	small town
+keyword	north carolina
+keyword	male nudity
+keyword	barroom brawl
+keyword	bathtub
+keyword	premarital sex
+keyword	bare chested male bondage
+keyword	fight in bar
+keyword	wedding
+keyword	baseball player
+keyword	baseball catcher
+keyword	athlete
+keyword	fired from the job
+keyword	engagement
+keyword	sports team
+keyword	love triangle
+keyword	baseball has been
+keyword	male full back nudity
+keyword	bar
+keyword	tied to a bed
+keyword	billiards
+keyword	product placement
+keyword	bar fight
+keyword	getting married
+keyword	independent film
+keyword	
+cast	Kevin Costner	Crash Davis
+cast	Susan Sarandon	Annie Savoy
+cast	Tim Robbins	Ebby Calvin 'Nuke' LaLoosh
+cast	Trey Wilson	Skip
+cast	Robert Wuhl	Larry
+cast	William O'Leary	Jimmy
+cast	David Neidorf	Bobby
+cast	Danny Gans	Deke
+cast	Tom Silardi	Tony
+cast	Lloyd T. Williams	Mickey
+cast	Rick Marzan	Jose
+cast	George Buck	Nuke's Father
+cast	Jenny Robertson	Millie
+cast	Gregory Avellone	Doc
+cast	Garland Bunting	Teddy - Radio Announcer
+cast	Robert Dickman	Whitey
+cast	Timothy Kirk	Ed
+cast	Don Davis	Scared Batter
+cast	Stephen Ware	Umpire
+cast	Tobi Eshelman	Bat Boy
+cast	C.K. Bibby	Mayor
+cast	Henry G. Sanders	Sandy
+cast	Antoinette Forsyth	Ballpark Announcer
+cast	Shirley Anne Ritter	Cocktail Waitress
+cast	Pete Bock	Minister
+cast	Alan Mejia	Chu Chu
+cast	Max Patkin	Himself
+cast	Sid Akins	Core baseball player
+cast	Craig Brown	Core baseball player
+cast	Wes Currin	Core baseball player
+cast	Butch Davis	Core baseball player
+cast	Paul Devlin	Core baseball player
+cast	Jeff Greene	Core baseball player
+cast	Kelly Heath	Core baseball player
+cast	Mo Johnson	Core baseball player
+cast	Tim Kirk	Core baseball player
+cast	Todd Kopeznski	Core baseball player
+cast	John Lovingood	Core baseball player
+cast	Eddie Matthews	Core baseball player
+cast	Alan Paternoster	Core baseball player
+cast	Bill Robinson	Core baseball player
+cast	Dean Robinson	Core baseball player
+cast	Tom Schultz	Core baseball player
+cast	Sam Veraldi	Core baseball player
+cast	El Chico Williams	Core baseball player
+cast	Mark Jeffrey Miller	Grounds crewman
+cast	David M. Potter	Fan at Ball Park
+cast	Rachel Singer	Fan

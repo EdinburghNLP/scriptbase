@@ -1,0 +1,55 @@
+year	2005
+imdb score	6.5
+meta score	31
+genre	Comedy
+genre	Crime
+genre	Drama
+keyword	alaska
+keyword	life insurance
+keyword	snow
+keyword	brother brother relationship
+keyword	tied to a chair
+keyword	cult film
+keyword	kidnapping
+keyword	neighbor
+keyword	investigation
+keyword	falling from height
+keyword	headset
+keyword	insurance agent
+keyword	murder
+keyword	bound and gagged
+keyword	tourette's syndrome
+keyword	color in title
+keyword	insurance money
+keyword	
+cast	Robin Williams	Paul Barnell
+cast	Holly Hunter	Margaret Barnell
+cast	Giovanni Ribisi	Ted Waters
+cast	Tim Blake Nelson	Gary
+cast	W. Earl Brown	Jimbo
+cast	Woody Harrelson	Raymond Barnell
+cast	Alison Lohman	Tiffany
+cast	Billy Merasty	Cam
+cast	Marina Stephenson Kerr	Avis
+cast	Ralph Alderman	Mr. Branch
+cast	Frank Adamson	Detective
+cast	Andrea Shawcross	Hair Stylist
+cast	Ryan Miranda	Korean-am Teenager
+cast	Craig March	Howard
+cast	Ty Wood	Paperboy
+cast	Frank C. Turner	Dave
+cast	Brenda McDonald	Mrs. Wherry
+cast	Deena Fontaine	Female Cop
+cast	Joanne Rodriguez	TV Reporter
+cast	Eric Epstein	Minister
+cast	Harry Nelken	Warehouse Owner Spellman
+cast	Jeff Skinner	Arnith
+cast	Stephen Eric McIntyre	City Worker #2 - Bill
+cast	Monster	Jodie
+cast	Cory Cassidy	Strip Bar Patron
+cast	Claude Dorge	Computer Retrieval Man
+cast	Michal Grajewski	Pizza Delivery Guy
+cast	Robert Kostyra	Computer Repo Man
+cast	Ward Massner	The Corpse
+cast	Talia Pura	
+cast	Bob Washington	Extra

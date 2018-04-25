@@ -1,0 +1,130 @@
+year	1990
+imdb score	6.9
+meta score	N/A
+genre	Adventure
+genre	Animation
+genre	Crime
+genre	Drama
+genre	Family
+genre	Fantasy
+genre	Mystery
+keyword	eagle
+keyword	boy
+keyword	poacher
+keyword	rescue
+keyword	australia
+keyword	kangaroo
+keyword	albatross
+keyword	mouse
+keyword	trap
+keyword	new york city
+keyword	tire
+keyword	marriage proposal
+keyword	egg
+keyword	garage
+keyword	animal lover
+keyword	shotgun
+keyword	cynicism
+keyword	feather
+keyword	feeling cold
+keyword	nest
+keyword	poaching
+keyword	clothes line
+keyword	talking animal
+keyword	pajamas
+keyword	echidna
+keyword	bad luck
+keyword	cane
+keyword	box
+keyword	fly
+keyword	horse whispering
+keyword	anthropomorphism
+keyword	hope
+keyword	wild boar
+keyword	falling from height
+keyword	firefly
+keyword	shoelace
+keyword	united nations
+keyword	pit
+keyword	courage
+keyword	tree stump
+keyword	diamond ring
+keyword	kidnapping
+keyword	airplane
+keyword	power of redemption
+keyword	abandoned mine
+keyword	intelligence
+keyword	sequel
+keyword	greed
+keyword	stupidity
+keyword	truck
+keyword	hospital
+keyword	chainsaw
+keyword	checkers
+keyword	key
+keyword	restaurant
+keyword	vise
+keyword	lizard
+keyword	platypus
+keyword	australian bush
+keyword	presumed dead
+keyword	snake
+keyword	radio
+keyword	falling over a cliff
+keyword	marshall islands
+keyword	falling into water
+keyword	razorback
+keyword	rejected lover
+keyword	chase
+keyword	waterfall
+keyword	danger
+keyword	light
+keyword	australian outback
+keyword	pocket knife
+keyword	salamander
+keyword	shoe
+keyword	escape attempt
+keyword	wombat
+keyword	anthropomorphic animal
+keyword	romantic rivalry
+keyword	board
+keyword	map
+keyword	picking a lock
+keyword	backpack
+keyword	rock
+keyword	1990s
+keyword	single mother
+keyword	environmental
+keyword	dancing
+keyword	crocodile
+keyword	engagement ring
+keyword	military base
+keyword	rope
+keyword	listening to music
+keyword	koala
+keyword	comfort
+keyword	cage
+keyword	riding a bird
+keyword	severed spine
+keyword	imitation
+keyword	disney animated feature
+keyword	log
+keyword	cliff
+keyword	based on book
+keyword	
+cast	Bob Newhart	Bernard
+cast	Eva Gabor	Miss Bianca
+cast	John Candy	Wilbur
+cast	Tristan Rogers	Jake
+cast	Adam Ryen	Cody
+cast	George C. Scott	McLeach
+cast	Douglas Seale	Krebbs
+cast	Frank Welker	Joanna
+cast	Bernard Fox	Chairman / Doctor
+cast	Peter Firth	Red
+cast	Billy Barty	Baitmouse
+cast	Ed Gilbert	Francois
+cast	Carla Meyer	Faloo / Mother
+cast	Russi Taylor	Nurse Mouse
+cast	Wayne Robson	Frank
+cast	Peter Greenwood	Radio Announcer / Airplane Captain

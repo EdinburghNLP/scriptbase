@@ -1,0 +1,212 @@
+year	2008
+imdb score	7.4
+meta score	69
+genre	Drama
+genre	Romance
+keyword	connecticut
+keyword	children
+keyword	suburb
+keyword	office
+keyword	work
+keyword	new york city
+keyword	marriage
+keyword	packing
+keyword	neighbor
+keyword	chain smoking
+keyword	female nudity
+keyword	nudity
+keyword	bare chested male
+keyword	street in title
+keyword	sex in car
+keyword	chase
+keyword	mental illness
+keyword	1950s
+keyword	coffee cup
+keyword	birthday cake
+keyword	failed project
+keyword	mother daughter relationship
+keyword	bored housewife
+keyword	dysfunctional marriage
+keyword	crying
+keyword	confrontation
+keyword	father son relationship
+keyword	hearing aid
+keyword	party
+keyword	persona
+keyword	mother son relationship
+keyword	running
+keyword	real estate agent
+keyword	tragic event
+keyword	father daughter relationship
+keyword	year 1955
+keyword	societal dysfunction
+keyword	blood
+keyword	woman dies from abortion
+keyword	sex in a kitchen
+keyword	failure
+keyword	anguish
+keyword	husband wife relationship
+keyword	flop play
+keyword	self search
+keyword	breakfast
+keyword	money
+keyword	wrapped in a bedsheet
+keyword	jealousy
+keyword	fight
+keyword	neighbor neighbor relationship
+keyword	drink
+keyword	martini
+keyword	year 1948
+keyword	anhedonia
+keyword	blonde
+keyword	stage actress
+keyword	commuter
+keyword	train station
+keyword	dreamer
+keyword	shower
+keyword	emotional breakdown
+keyword	drunkenness
+keyword	unfaithfulness
+keyword	truth
+keyword	trying to escape
+keyword	cheating husband
+keyword	hospital
+keyword	lawn sprinkler
+keyword	crushed hopes
+keyword	globe
+keyword	cheating wife
+keyword	scolding
+keyword	electroshock therapy
+keyword	hopelessness
+keyword	empowerment
+keyword	bleeding to death
+keyword	1940s
+keyword	unhappy love
+keyword	confession
+keyword	bare breasts
+keyword	woods
+keyword	extramarital affair
+keyword	office building
+keyword	lighting someone's cigarette
+keyword	dancing
+keyword	argument
+keyword	unhappiness
+keyword	lighting cigarette for woman
+keyword	american dream
+keyword	blood stain
+keyword	false kindness
+keyword	topless female nudity
+keyword	free thinking
+keyword	wage slave
+keyword	love
+keyword	society pressure
+keyword	mental disorder
+keyword	flashback
+keyword	adultery
+keyword	infidelity
+keyword	death of wife
+keyword	co worker
+keyword	beach
+keyword	drinking
+keyword	abortion
+keyword	lying to one's wife
+keyword	expectation
+keyword	paris france
+keyword	cubicle
+keyword	tears
+keyword	lost love
+keyword	train
+keyword	sex scene
+keyword	false promise of the american dream
+keyword	boiling water
+keyword	learning to speak french
+keyword	death of spouse
+keyword	fedora
+keyword	cigarette smoking
+keyword	death of mother
+keyword	based on novel
+keyword	title spoken by character
+keyword	
+cast	Kate Winslet	April Wheeler
+cast	Leonardo DiCaprio	Frank Wheeler
+cast	Christopher Fitzgerald	Party Guest
+cast	Jonathan Roumie	Party Guest
+cast	Neal Bledsoe	Party Guest
+cast	Marin Ireland	Party Guest
+cast	Samantha Soule	Party Guest
+cast	Heidi Armbruster	Party Guest
+cast	Sam Rosen	Party Guest
+cast	Maria Rusolo	Party Dancer
+cast	Gena Oppenheim	Party Dancer
+cast	Kathryn Dunn	Party Dancer
+cast	Joe Komara	Party Dancer
+cast	Allison Twyford	Party Dancer
+cast	David Harbour	Shep Campbell
+cast	John Ottavino	Other Actor in the Play
+cast	Adam Mucci	Other Actor in the Play
+cast	Jo Twiss	Other Actor in the Play
+cast	Frank Girardeau	Other Actor in the Play
+cast	Catherine Curtin	Woman in Audience
+cast	Kathy Bates	Mrs. Givings
+cast	Richard Easton	Mr. Givings
+cast	Kathryn Hahn	Milly Campbell
+cast	Zoe Kazan	Maureen Grube
+cast	Dan Da Silva	Knox Elevator Operator
+cast	Dylan Baker	Jack Ordway
+cast	Keith Reddin	Ted Bandy
+cast	Ryan Simpkins	Jennifer Wheeler
+cast	Ty Simpkins	Michael Wheeler
+cast	Max Casella	Ed Small
+cast	Max Baker	Vince Lathrop
+cast	Jon Sampson	American Express Clerk
+cast	Peter Barton	Campbell Kid
+cast	Kevin Barton	Campbell Kid
+cast	Evan Covey	Campbell Kid
+cast	Dylan Clark Marshall	Campbell Kid
+cast	Jay O. Sanders	Bart Pollock
+cast	Michael Shannon	John Givings
+cast	Chandler Vinton	Knox Receptionist
+cast	Bethann Schebece	Vito's Log Cabin Dancer
+cast	Kelsey Robinson	Vito's Log Cabin Dancer
+cast	Jason Etter	Vito's Log Cabin Dancer
+cast	Adair Moran	Vito's Log Cabin Dancer
+cast	Tommaso Antico	Vito's Log Cabin Dancer
+cast	Justin Misenhelder	Vito's Log Cabin Dancer
+cast	Will Vought	Vito's Log Cabin Dancer
+cast	Emaline Green	Vito's Log Cabin Dancer
+cast	Isabella Zubor	Vito's Log Cabin Dancer
+cast	Kal Thompson	Vito's Log Cabin Dancer
+cast	Racheline Maltese	Vito's Log Cabin Dancer
+cast	Lauren Hubbell	Vito's Log Cabin Dancer
+cast	Duffy Jackson	Steve Kovac
+cast	Dan Zanes	The Steve Kovac Band
+cast	Vince Giordano	The Steve Kovac Band
+cast	Jon-Erik Kellso	The Steve Kovac Band
+cast	Andrew Burton	The Steve Kovac Band
+cast	Will Sanderson	The Steve Kovac Band
+cast	Alex Hoffman	The Steve Kovac Band
+cast	Kristen Connolly	Mrs. Brace
+cast	John Behlmann	Mr. Brace
+cast	Paul Rocco Amato	Train Commuter
+cast	David Campbell	Vito's Log Cabin Bartender
+cast	Michael Ciesla	Husband of Woman in Audience
+cast	Peter Conboy	Diner Patron
+cast	Mary DeBellis	Beachgoer
+cast	Jay Ferraro	Bar Patron
+cast	Henning Fischer	Beachgoer
+cast	David Gere	Passenger on Train
+cast	Zoe Hartman	Schoolgirl
+cast	Rob L. Hubbard	Vito's Bar Patron
+cast	Amy LaBossiere	Woman in theater audience
+cast	Mark A. Langston	Socialite
+cast	Cristina Marie	Vito's Log Cabin Dancer
+cast	Sean Marrinan	Commuter
+cast	Chris Miskiewicz	Party Guest #13
+cast	Jared Morrison	Knox Employee
+cast	Joel Ney	Beachgoer
+cast	Henny Russell	Aunt Claire
+cast	Andrew Seddon	Boy in Audience of Play
+cast	Vladimir Troitsky	Commuter / Businessman
+cast	Guy Veryzer	Maitre d' of Essex House Resturant
+cast	Ted Yudain	Townsperson
+cast	Jon Yvon	Party Hipster

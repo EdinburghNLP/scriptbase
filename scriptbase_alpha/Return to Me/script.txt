@@ -1,0 +1,5480 @@
+Return to Me (2000) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Return to Me (2000) movie scriptby Bonnie Hunt and Donald Lake.
+More info about this movie on IMDb.com
+
+
+#loc {font-family:Courier New; font-size:11pt; margin-top:0in; margin-right:1.2in; margin-bottom:0in;margin-left:0.8in;text-transform:uppercase }
+#slug {font-family:Courier New; font-size:11pt; margin-top:0in;margin-right:1.2in;margin-bottom:0in;margin-left:0.8in;text-transform:uppercase;}
+#act {font-family:Courier New; font-size:11pt; font-weight: normal;margin-top:0in; margin-right:1.8in; margin-bottom:0in;margin-left:0.8in}
+#speaker{font-family:Courier New; font-size:11pt; margin-top:0in; margin-right:1.in; margin-bottom:0in;margin-left:2.8in;text-transform:uppercase }
+#spkdir {font-family:Courier New; font-size:11pt; margin-top:0in; margin-right:2.7in; margin-bottom:0in;margin-left:2.2in }
+#dia {font-family:Courier New; font-size:11pt; margin-top:0in; margin-right:2.6in; margin-bottom:0in;margin-left:1.6in }
+#pg {font-family:Courier New; font-size:11pt; margin-top:0in; margin-right:1.75in; margin-bottom:0in;margin-left:6.5in }
+#right {font-family:Courier New; font-size:11pt; margin-top:0in; margin-right:0.75in; margin-bottom:0in;margin-left:5.0in }
+
+A WHITE SCREEN
+We sense this is someone's P.O.V.  The WHITE slowly disperses as hints
+of BLUE SKY peek through.  We are DESCENDING through the CLOUDS as the
+evening sunset weaves a blanket of orange and red hues over a LARGE CITY
+which slowly comes INTO FOCUS.
+
+Floating HIGH ABOVE the peaks and valleys of CHICAGO'S SKYLINE, as if
+being mysteriously moved to a letter on a Ouija Board, WE ARE DRAWN to
+an unfinished STEEL-FRAMED SKYSCRAPER.  The hum of the construction work
+below fills our ears.  Gradually, WE CLOSE IN on a small yellow dot that
+dances on one of the exposed beams... CLOSER STILL... Just as the
+detailed creases of a yellow hard hat become evident, it tilts OUT OF
+FRAME as the face of the MAN wearing it looks up into the sky.
+
+BOB
+It's a shame we have to put roofs on 'em.
+
+This is Bob, BOB RUELAND; late thirties, a confident, handsome man, with
+a magnetic personality.  He walks along the high beams with ease as he
+makes his way to the service elevator.
+
+BOB (cont'd)
+(yells to guy on lower beam)
+It's looking good, Mike.  I'm outta here...
+
+MIKE
+(yells back)
+Okay Bob, have fun tonight.
+
+BOB
+As always...
+
+CUT TO:
+INT. PRIMATE HOUSE
+
+A young woman wearing a lab coat exits a side door of the glass enclosed
+structure.  This is DR. KATHERINE RUELAND, early thirties, smart, regal,
+perfect-posture-pretty.  Securing the lock on the door behind her, she
+stops and looks through the glass at the large GORILLA.  Using sign
+language, Katherine encourages the Gorilla to eat the food.
+
+CUT TO:
+EXT. LINCOLN PARK ZOO
+
+We see a MAN in a lab coat jog through the door of the zoo's Primate
+House.
+
+CUT TO:
+INT. PRIMATE HOUSE - CONTINUOUS
+
+DR. CHARLIE JOHNSON, thirty-five-ish, a fun, personable good-looking
+ladies' man, enters wearing a lab coat and carrying a clip board.
+
+CHARLIE
+Katherine...  Katherine?  I knew I'd find you here...
+(to Gorilla)
+Hey, Sidney...
+(back to Katherine)
+I need your signature to change the Polar's diet...
+(hands her a clip board)
+And it's already five, I'll check in on the calf.  You go home and get
+ready.
+
+KATHERINE
+Oh, thanks Chuck.
+(thinking out loud)
+Bob's picking up my dress... I have stockings... I have to take Mel to
+the park for a quick run, my hair, make-up...
+
+CHARLIE
+See what this lady does for you, Sidney?
+
+Katherine laughs and presses her hand against the glass. Sydney returns
+the gesture, pressing his palm against hers.
+
+KATHERINE
+Look at him Charlie, we'd go nuts in a place this small...
+
+CHARLIE
+I know... But we're getting there.
+(friendly pat on the back)
+Pour on the guilt during your speech...
+
+Charlie opens the door for Katherine as they walk out of the building.
+
+KATHERINE
+I intend to.  Who're you bringing tonight?
+
+CHARLIE
+Haven't decided yet.  Still got two hours.
+
+The door closes behind them.
+
+CUT TO:
+A door opens into...
+INT. BOB AND KATHERINE'S APARTMENT
+
+An upscale old fashioned brownstone, with large rooms and hardwood
+floors.  Scattered antique rugs...classy but comfortable.
+
+Bob enters with their dog, "MEL", a yellow lab, unhooks the dog's leash
+and slips out of his wet trench coat.  He's perfectly handsome in his
+tuxedo.  Grabbing an old towel from the hat stand, he dries off Mel.
+
+BOB
+(walking to the kitchen)
+I know you're hungry...
+
+Mel follows Bob half way down the hall then turns back and sits at the
+front door.  Bob leans back into the hall, watching Mel...
+
+BOB (cont'd)
+She'll be home any minute.
+
+We hear an ELECTRIC CAN OPENER... Mel looks towards the kitchen -- but
+he waits for Katherine.  We hear a SET OF KEYS in the door.  Mel's tail
+starts a-wagging.  Katherine enters, Mel whimpers with delight.
+Katherine immediately bends down to greet him.
+
+KATHERINE
+(dog talk)
+Hi, my baby, you're such a good boy.
+(Mel kisses her face)
+Oh, I know, I love you too.
+
+BOB (O.C)
+Hey, Babe.
+
+KATHERINE
+Hey, honey.  It's pouring out.  You get my dress?
+
+Bob comes down the hall out of the kitchen.  Katherine is taking off her
+shoes.
+
+BOB
+Yep, and I took Mel out.
+
+KATHERINE
+(looks up)
+In your Tux?
+(noticing)
+Your pant legs are soaked.
+
+Bob disappears into the bathroom off the hall.
+
+BOB
+Yeah.
+(he leans back with a blow dryer aimed at his ankles)
+Tell Mel to eat.
+
+KATHERINE
+(dog's right next to her)
+Mel honey, eat.
+
+Mel immediately heads for the kitchen.  Katherine walks up to Bob,
+watching him blow drying his pant legs.  She grabs his face and kisses
+him.
+
+KATHERINE (cont'd)
+You're cute.
+
+BOB
+You spend all day with an Ape, what do you expect?
+
+Katherine smacks him on the butt.
+
+CUT TO:
+A BLACK SCREEN
+
+We hear the sound of a SLIDE PROJECTOR.  CLICK-CLICK.
+
+UP ON:
+
+A SLIDE of a large GORILLA, eating a dish of pasta with his hands, FILLS
+THE SCREEN.
+
+We hear polite laughter, from a large group of people.  KATHERINE'S
+VOICE, speaks softly into a microphone...
+
+KATHERINE (V.O.)
+As you can see in this photo of Sydney, he is sometimes "too much" like
+man.
+
+More laughter.  PULL OUT to reveal we are at...
+
+INT. AMBASSADOR HOTEL - BALLROOM - NIGHT
+
+A black tie affair in full swing.  The annual "ARTS DINNER" (Animal's
+Right to Survive) has once again attracted Chicago's "upper crust" and
+young hopefuls.
+
+CLICK-CLICK.  Another SLIDE, FILLS THE SCREEN.  This time, it is of
+SYDNEY and BOB RUELAND.
+
+KATHERINE (V.O.)
+Over the last ten years, Sydney has become part of the family.  Here,
+he's showing his flash cards to my husband.  My husband is the one on
+the left.
+
+Even more laughter.
+
+CUT TO:
+THE AUDIENCE
+
+BOB smiles at those around him.  One GENTLEMAN teasingly pats him on
+the back.  Bob looks up at the stage to his wife, with a playful "thanks
+a lot" look.
+
+REVERSE ANGLE
+
+KATHERINE, minus the lab coat, in a lovely black evening dress, smiles
+affectionately at Bob.  She CLICKS on the next SLIDE.
+
+On the large screen next to her, we now see a photograph showing the
+small area that Sydney is forced to live in.
+
+KATHERINE
+Tonight, I was hoping I'd be able to announce that we've reached our
+financial goals for the expansion we so desperately need, but
+unfortunately, we were not awarded the grant.
+
+A murmur of disgust and disappointment from the crowd.
+
+KATHERINE (cont'd)
+But with one more year of fund raising, along with the money we've
+raised here tonight, Lincoln Park Zoo will soon be able to expand the
+Primate House to triple its size.
+
+Applause.
+
+KATHERINE (cont'd)
+And I assure you, my dear friend Sydney and his family are very excited
+for construction to begin.
+
+Katherine CLICKS another SLIDE up onto the screen; SYDNEY and a group of
+GORILLAS, all wearing hard hats.
+
+Laughter from the crowd mixed with a sympathetic "ahhh".
+
+KATHERINE (cont'd)
+Thank you all for your tremendous support.  Enjoy the evening.
+
+Katherine receives a generous round of applause as she leaves the stage.
+The last slide of Sydney still shines on the swaying screen.
+
+A CONDUCTOR/M.C. steps up to the microphone.
+
+CONDUCTOR
+Thank you, Dr. Rueland.  Now ladies and gentlemen, tonight's very
+special guest, Mr. Tony Bennett!!!
+
+APPLAUSE.  TONY BENNETT steps out onto the stage...
+
+TONY BENNETT
+Thank you very much.  I'm thrilled to be here tonight.  It's an honor to
+be a part of such a noble effort on behalf of the animals.
+(indicates the band)
+The boys and I have worked up a little something special for you...
+
+With a wave of Tony's arm...the BAND kicks into a jazzed up version of
+"IN THE JUNGLE".
+
+TONY BENNETT (cont'd)
+(SINGING)
+In the jungle, the migh-ty jungle, the lion sleeps tonight...Oh, in
+the...
+
+CUT TO:
+INT. ST. MARY'S HOSPITAL ROOM - SAME EVENING
+
+A YOUNG WOMAN lies in bed.  A well cared for plant blooms on the night
+stand, behind it, a small easel holds a half finished watercolor.
+Posters of famous European cities decorate the walls.  We get the sense
+this room has been her home for a month or so.
+
+The patient is GRACE BRIGGS, late twenties.  An attractive, shy and frail
+woman.
+
+Grace barely responds as her best friend, MEGAN DAYTON, seated in the
+chair next to the bed, reads a Cosmo quiz aloud from the magazine.
+
+MEGAN
+Is it most important that a man is, A: Polite to your family and
+friends? B: Can handle finances well? Or C:  Will take care of you when
+you are ill?  Well, I guess your answer is definitely C.
+
+Megan checks a box.  Grace smiles.
+
+MEGAN (cont'd)
+What do you expect most from a relationship?  A: Companionship?  B: Sex?
+C: Respect?  I'd have to go with B, sex.  But let's mark "C" so we get a
+higher score.  This is pathetic, I'm cheating on a magazine quiz.
+
+Grace stirs a little.  Megan immediately gets up and leans over the bed
+to hear anything Grace may say.
+
+MEGAN (cont'd)
+What?  What is it?  What d'ya need?  Your back?  Move the pillow?  Your
+neck?
+
+GRACE
+(whispers)
+Rosebud.
+
+MEGAN
+Very funny.
+
+GRACE
+I just want some water.
+
+Megan holds a paper cup of water and bends the straw to Grace's mouth.
+We see the great amount of effort it takes for Grace to drink the water.
+
+GRACE (cont'd)
+Thanks.
+
+MEGAN
+Would you like me to bring the check or will you be ordering dessert?
+
+GRACE
+Megan, you can go home, y'a know.
+
+MEGAN
+To what?  I don't have cable, you do.
+
+GRACE
+What about Joe and the kids?
+
+MEGAN
+He likes me more when I'm not around.  And the kids like me a lot more
+after they've been alone with Joe.
+(smoothing Grace's blankets)
+It's good for him to be with the kids when they're coming down from the
+sugar.  He usually fuels 'em up and then they go through de-tox on my
+shift.
+
+DR. SENDERAK, enters and very business like, opens Grace's chart.
+
+DR. SENDERAK
+Ladies...
+
+GRACE
+Hey, Dr. Senderak.
+
+The Doctor goes to switch places with Megan, who moves out of the way,
+careful not to knock into any of the I.V. stands or monitors; they've
+done this dance a million times.
+
+DR. SENDERAK
+(scanning Grace's chart)
+You're about the same, hematocrit 16, SMA 20... Some things are a bit
+low but that's to be expected.  We're entering borrowed time.  The most
+important thing now Grace is rest, you need to rest.
+(putting chart under his arm)
+I'll see you tomorrow.
+
+As the doctor exits...
+
+MEGAN
+Doctor, why don't you give her your heart?  You're not using it.
+
+DR. SENDERAK
+Good evening, ladies.
+
+GRACE
+(scolding)
+Megan.
+
+MEGAN
+What?  I wish he'd do...something.
+
+GRACE
+He can't.  Even if a heart's available, they won't give it to me.  I
+just have my Grandpa pressuring them.  I have no husband, no children.
+I may never get a heart.
+
+MEGAN
+Listen, Tin Man.  You've got me.  I'm pressuring them.
+
+GRACE
+Thanks, Meg.
+
+MEGAN
+(fixing bed sheets)
+You'll get a new heart and before you know it, you'll be back in your
+garden, you'll be painting...  You'll be getting asked out by the most
+fantastic men...
+
+GRACE
+I'm getting a new heart, not a new ass.
+
+MEGAN
+My point is, you'll be out doing things you were never able to do,
+riding a bike...
+(looks at the posters)
+Traveling, painting in Europe...
+
+GRACE
+It's too late, Megan.  I'm too old.  I'm twenty-seven.  My mother's
+heart gave up by twenty-five.  I've been sick too long...
+(quietly)
+Promise me you'll take care of my grandpa...
+
+MEGAN
+Twenty-seven is not old.  I'm thirty-three...four...five -- whatever.
+Do you consider me old?
+
+GRACE
+Yes.
+
+CUT TO:
+INT. AMBASSADOR HOTEL - BALLROOM - NIGHT
+
+In the b.g., we hear Tony Bennett and the band still
+"singing-and-a-swinging".
+
+Bob leaves the bar with a drink in both hands, hoping to avoid
+conversation with the "stuffed shirts" in the crowd, especially the long
+winded MR. BENNINGTON, who he spots heading in his direction.  Bob
+casually tries to get away...
+
+BOB
+Excuse me...  Excuse me...  Pardon me...
+
+MR. BENNINGTON (O.S.)
+Bob.  Bob Rueland!
+
+Bob winces, he didn't make it.  He turns to face Bennington, a large,
+red-faced "stuffed shirt".
+
+BOB
+(fakes surprise)
+Oh, hi Mr. Bennington, I didn't see you or I would have stopped and said
+hello.
+
+MR. BENNINGTON
+Katherine's speech was wonderful.  I suppose she told you about the
+sizable donation Mrs. Bennington and I gave this year...  Anonymously of
+course.
+
+BOB
+Of course...  Very generous, as always.
+(indicates the two drinks)
+I'll let Katherine know you're here...
+
+Bob turns to leave...
+
+MR. BENNINGTON
+We also gave quite a chunk to some rain forest gimmick.
+
+BOB
+(politely)
+Really?
+
+Bob spots Katherine.  She is also entangled in a "polite conversation".
+Their eyes meet.
+
+Bob still melts when he looks at her.  He smiles.  Katherine smiles
+back, then gives a little pout.
+
+MR. BENNINGTON
+Next thing I know, we're on Safari.  Cute story...  The Mrs. and I are
+out in the boonies...
+
+Charlie and a "BIG HARED, BIG BREASTED, BIG LIPPED DATE" walk by.
+
+BOB
+Hey, Chuck!
+
+Charlie sees who Bob is stuck with, grins and keeps walking.
+
+CHARLIE
+Bob...  Mr. Bennington...
+(his date dances to "In The Jungle")
+She loves this song...
+(joining the refrain with her)
+Aweemaway-Aweemaway-Aweemaway-Aweemaway...
+(to Bob and Mr. B.)
+I'll catch you later...
+
+Charlie's date taps his shoulder.
+
+BIG HAIR
+I'm going to run up and put on a little more lipstick...
+
+BOB
+Is that possible?
+
+Big Hair giggles.
+
+CHARLIE
+I'll go with you...
+
+BIG HAIR
+To the ladies room?  Silly.
+
+She giggles again and runs off, Charlie follows, Bob stops him.
+
+BOB
+Wait, Charlie, you have some news for Mr. B. here, don't ya?
+
+CHARLIE
+I don't have any...
+
+BOB
+I'm sorry.  I shouldn't have ruined the surprise.
+(to Mr. Bennington)
+It's because of your donation and all... Charlie's putting a picture of
+you up in the monkey house.
+
+Charlie almost does a spit take with his drink.
+
+MR. BENNINGTON
+(very flattered)
+Really?  Thank you, Charlie.
+
+CHARLIE
+(miserably plays along)
+Well, it was just a thought, I'd have to run it by Katherine.  She's the
+boss.
+
+BOB
+(as he walks away)
+You two obviously have a lot to discuss...
+
+CHARLIE
+(flatly)
+Uh-huh.
+
+We FOLLOW Bob across the ballroom floor to the Band.  He stops for a
+moment, handing a note to the conductor.
+
+CUT TO:
+INT. GRACE'S HOSPITAL ROOM
+
+Megan fluffs Grace's pillow.
+
+MEGAN
+Close your eyes, rest.  I'll read you to sleep or tell you about my day,
+either one'll knock you out.
+
+GRACE
+(closes her eyes)
+I don't want to sleep.
+
+MEGAN
+You heard what Dr. Congeniality said... You need to rest.
+
+GRACE
+Fine, I'll rest but I don't want to sleep.
+
+MEGAN
+Okay.
+
+GRACE
+I want to stay awake.
+(pauses)
+I'm afraid to sleep.
+
+MEGAN
+Then we'll stay up.
+
+Megan tucks the blanket around Grace, who fades off to sleep.  Megan
+switches on the television, hits the "mute" button, reaches in her
+pocket and pulls out a rosary.  She silently prays as we...
+
+CUT TO:
+INT. AMBASSADOR HOTEL - BALLROOM
+
+Bob taps Katherine on the opposite shoulder so she looks the wrong way,
+then surprises her on the other side.  She smiles.  He kisses her on the
+cheek.
+
+KATHERINE
+(to Bob)
+Hey, stranger.
+(back to the COUPLE)
+Celia, Mike, you know my husband, Bob.
+
+They exchange hello's.
+
+MIKE
+(to Bob)
+You keep designing those high rises, we won't be able to see the lake.
+
+BOB
+Well, that's my evil "master plan".
+
+MIKE
+We were just telling Katherine about our place in Italy.
+
+BOB
+Ah, Italy, I thought your "get-away" was in St. Barts?
+
+CELIA
+It is.  This is our vacation place.
+
+BOB
+(oh brother)
+My mistake.  Well, I'd take Italy any time of the year.
+
+KATHERINE
+Don't start.
+
+BOB
+We were supposed to go there for our honeymoon.
+(teasing Katherine)
+But we didn't think Sydney could tolerate the flight.
+
+KATHERINE
+I promise we'll go to Italy.
+
+BOB
+Well that's big.  That's a promise.  I'll take that.
+
+MIKE
+Where are you vacationing this year?
+
+BOB
+We're going to one of those water theme parks for the weekend.
+
+CELIA
+...that'll be nice.
+
+KATHERINE
+He's kidding, Celia.
+
+CELIA
+(deadpan)
+That's funny.
+
+BOB
+Well, I promised Katherine we'd dance tonight, so if you'll excuse us.
+
+Bob and Katherine walk towards the dance floor.  She rests her head on
+his shoulder as they walk.
+
+KATHERINE
+I'm not dancing to "In The Jungle" so forget it.
+
+BOB
+Fine, then the next dance.  C'mon, you can stand on my feet.
+
+Charlie passes by with Mr. Bennington and "Big Hair".
+
+MR. BENNINGTON
+So I grab the spear and she grabs her hot rollers...
+
+BIG HAIR
+I have those...
+
+Charlie shoots Bob a look as they continue walking and Bennington
+continues talking.
+
+KATHERINE
+(defeated)
+We really needed that grant.
+
+BOB
+I know, honey.  I'm sorry.
+(cupping her face in his hands)
+Smile.
+
+They reach the dance floor.  Bob looks off toward Tony Bennett, swinging
+int a big finish for "In The Jungle".
+
+KATHERINE
+Aren't you upset for me?
+
+Bob immediately returns his attention to Katherine.
+
+BOB
+Of course I am.  I just hate seeing you disappointed.
+(playfully)
+So stop it.
+
+Katherine laughs, in spite of herself.
+
+KATHERINE
+Poor Sydney...  Another year in that little space...
+
+BOB
+You promise me Italy, I promise Sydney a new home.
+
+"IN THE JUNGLE" ends.  The orchestra begins a new song, "RETURN TO ME".
+Katherine's mood immediately changes.  This is their song.
+
+KATHERINE
+(sweetly)
+Bob...
+
+They dance off onto the crowded ballroom floor.
+
+FADE OUT.
+
+UP ON:
+
+INT. NORTHWESTERN MEMORIAL HOSPITAL - EMERGENCY ENTRANCE - SAME EVENING.
+
+BAM! The EMERGENCY DOORS swing open.
+
+A TRAUMA TEAM, frantically works to save a YOUNG WOMAN'S life as they
+guide the gurney down the hall at top speed.  Her husband runs along
+side, holding tightly on to her hand; his tuxedo is splattered with
+blood.  We recognize him, it's BOB RUELAND.
+
+NURSE
+Female, thirty-four.  Car accident.  No seat belt.  Hit on right side;
+head trauma.  EMS said she was unconscious at the scene.  B/P 90 over
+40.  Pulse is erratic.  Respirations, 10.
+
+BOB
+You're going to be fine, honey.  You're going to be fine...  Kay, can
+you hear me?  Honey?  You're going to be fine.
+
+DOCTOR #1
+Let's get another Ringers Lactate hung.  Increase the drip.  Call
+Whestfall to scrub.  What's her pressure now?
+
+NURSE
+80-40 and dropping.  She's taching.
+
+BOB
+You're going to be fine, Kay...
+
+DOCTOR #2
+We may have internal bleeding.
+
+DOCTOR #1
+Let's get a type and cross match.
+
+BOB
+(to doctors)
+What's happening?
+(desperately)
+I love you, Katherine.
+
+DOCTOR #2
+Pupils still not reactive.
+
+DOCTOR#1
+5 mg of Epi, stat.
+
+NURSE
+(to Bob)
+Does she have any allergies:
+
+BOB
+No.
+
+Doors swing open to the OPERATING ROOM  at the end of the hall.  The
+gurney with Katherine and the Trauma Team disappear into the O.R.  A
+NURSE stops Bob.
+
+NURSE
+I'm sorry, you're not allowed in the operating room.
+
+The operating room doors swing shut.  Bob stands in the
+hallway...completely alone.
+
+CUT TO:
+CLOSE-UP - A DARK RED BUBBLING LIQUID
+
+A LATEX GLOVED HAND comes into frame, reaches into the red abyss and
+fishes out a large unpeeled tomato.
+
+We PULL BACK, revealing...
+
+The gloved hand belongs to MARTY O'RIELLY, a cherubic, jovial man, in
+his early seventies.
+
+We are...
+
+INT. O'RIELLY'S ITALIAN RESTAURANT - KITCHEN - SAME EVENING
+
+The CAMERA FOLLOWS the spoon as Marty artistically puts the perfect
+amount of pomodoro (tomato) sauce on to the waiting dishes of capellini
+pasta.
+
+MARTY
+(with an Irish brogue)
+Adiamo!  While it's hot... ANGELO!
+
+In the far corner of the kitchen, we find ANGELO PARDIPILLO, late
+sixties, chopping tomatoes while taking phone orders.
+
+MARTY (cont'd)
+(pulling off his gloves)
+I'll do 'er me-self.
+
+Angelo cups the phone under his chin and reaches for the plates.
+
+ANGELO
+I got it.
+
+MARTY
+I already took me mittens off!
+
+Marty carries the plates towards the swinging kitchen doors that open to
+the restaurant.  We catch a glimpse of the small dining room on the
+other side.
+
+MARTY (cont'd)
+I do this and you get me three Chicken Vesuvio's.
+
+ANGELO
+I already served 'em.
+
+A PHONE rings.  It's tone is different.  Both men FREEZE.  They look at
+the one phone, none of the lines are lit.
+
+In unison, their heads immediately turn to this other PHONE.  This phone
+has no dial on it.  A piece of aluminum foil, cut out in the shape of a
+heart is taped above it.  They stare at it, half expecting it to shake
+when it rings.
+
+Marty drops the plates of capellini; the pomodoro sauce splashes up on
+to his apron.  He attempts to run to the phone, but the sauce has made
+the floor slippery.  Angelo grabs Marty's arm and they both "skate" to
+the phone.
+
+MARTY
+(into phone)
+Grace.  Oh my soul!  I'm on me way!
+
+ANGELO
+(like a kid)
+Can I say hello?
+
+Marty tosses the phone to Angelo, then "skates" over to his hat...
+
+MARTY
+Blessed be God.  Saints be praised.  Call everyone!
+
+...and he's out the door.
+
+ANGELO
+(into phone)
+Ciao, Grace...  You gotta heart, huh?  That's a-nice.  I hope it's a big
+one!
+
+CUT TO:
+INT.  ST. JOSEPH'S HOSPITAL - SAME EVENING
+
+Marty, still in his apron, his fedora hat atop his head, runs through
+the lobby towards the elevators.  Several NURSES notice him in his red
+splattered apron and run to his aid.
+
+NURSE
+Okay, sir, calm down.  We need to get you to the emergency room.
+
+He looks down at his apron.
+
+MARTY
+It's pomodoro sauce.
+
+He reaches the elevator and steps in, just as its doors are closing.  A
+beat.  The doors open.  Marty steps out, glances around.  The nurses are
+still watching him.  He smiles.
+
+MARTY (cont'd)
+I forgot to press the button.
+
+He steps back in.  The doors close.  A beat.  They open.  Marty steps
+out onto...
+
+GRACE'S FLOOR.
+
+He runs down the hall.  TWO ORDERLIES are wheeling Grace out of her room
+on a gurney.  Megan is at her side.  Dr. Senderak is filling out paper
+work that a NURSE is handing him.  Marty eagerly joins the procession,
+taking Grace's hand.
+
+GRACE
+Grandpa, if I don't make it...
+
+MARTY
+You'll make it.  I prayed for the heart, you gotta it.  Now we'll pray
+that it fits.
+
+GRACE
+I love you.  Thank you for always taking care of me.
+
+Megan is sobbing.  Grace turns to her.
+
+GRACE (cont'd)
+Don't you have a joke?
+
+MEGAN
+No...
+
+MARTY
+I'm not going to tell you I love you now, I'll tell you when you come
+out.
+
+GRACE
+Okay, Grandpa.
+
+MEGAN
+I love you.
+
+GRACE
+(teasing)
+You don't think I"m going to make it?
+
+MEGAN
+(wiping her eyes)
+No, of course not.  I just...you're my best friend...  I love you.
+There, I said it again, that'll cancel out the first one.  And I love
+you Doctor and you Nurse lady...
+(to Grace)
+There, feel better?
+
+The medical staff wheels GRACE'S gurney into the elevator.  Megan and
+Marty wait behind.
+
+GRACE
+Pray, Grandpa.
+
+As the door is closing...
+
+MARTY
+(softly)
+I love you.
+
+FADE OUT.
+
+UP ON:
+
+INT. BOB'S APARTMENT - LATER - SAME EVENING
+
+The door opens, Bob enters, his right arm in a cast and sling; several
+small bandages on his face, stitches on his forehead.
+
+Charlie walks in after Bob.  They both stand in silence.  Charlie pets
+Mel.  Bob "goes through the motions" of taking off his crumpled tuxedo
+jacket.
+
+CHARLIE
+You're sure you don't want me to stay?
+
+BOB
+I have to take Mel out.
+
+CHARLIE
+He's been out.  I left the hospital a few hours ago and came by, took
+him to the park...
+
+BOB
+(vaguely remembers)
+Oh, yeah...
+
+Bob, still on "auto-pilot" walks into the kitchen.  He fills the dog
+dish, glances around the kitchen -- everything is Katherine.  His eyes
+stop at a note on the fridge.  It reads: "BOB, HONEY, PLEASE PICK UP MY
+BLACK DRESS AT THE CLEANERS.  LOVE, LOVE, LOVE YOU,  K."
+
+Bob takes the note in his hand, runs his fingers over her writing, then
+carefully places it back on the exact same spot.  Charlie observes...
+Should he stay?  Should he go?
+
+CHARLIE
+I'm going to stay.
+
+BOB
+No, please, go home.  I really just need to be alone.
+
+A painful silence.  Two grown men, being as stoic as humanly possible.
+
+CHARLIE
+Bob, I don't know what to say.
+
+Bob just nods, appreciating Charlie's intent.
+
+CHARLIE (cont'd)
+I'll pick your parents up at the airport in the morning.
+
+BOB
+Thanks.
+
+CHARLIE
+Okay...
+
+Bob struggles to hold it together.  Charlie walks to the door, stops,
+then goes back and hugs Bob.
+
+CHARLIE (cont'd)
+Call if you need me.  I'm here in two minutes.
+
+Charlie leaves, closing the door behind him.  Bob walks over and flips
+the lock.  He wanders over to the sofa, sitting right in the middle,
+probably a spot he's never sat in before.  Mel follows, then
+stops--turns, and goes back to the front door.  He wags his tail slowly.
+
+BOB (cont'd)
+She's not coming home, Mel.
+
+Mel lies flat against the door with a whimper.  Bob walks over and hugs
+Mel, who nuzzles him... As Bob collapses on the floor in tears, we...
+
+CUT TO:
+
+INT. ST. JOSEPH'S HOSPITAL - LATER - SAME EVENING
+
+O.R. WAITING ROOM
+
+In the b.g., we hear Italian music.  The small room is crowded with
+Italians of all ages and sizes...
+
+Angelo is busy offering everyone lasagna off a tray.  KIDS play tag
+amongst the sea of legs.  TWO YOUNG GUYS lean up against the wall and
+light a smoke.  An OLDER WOMAN bee-lines over and knocks the cigarettes
+out of their hands.  Megan is gathering her kids.  Let's see, she's got
+JOEY, nine, PATRICK, seven, KEVIN, eighteen months, BRIDGETTE, three...
+Who is missing?  TOMMY, five.  She finds him.  He's drinking wine out of
+a Dixie cup.
+
+MEGAN
+Thomas-Martin-Dayton give me that!
+(she takes it, drinks it)
+Okay, get your coat, Daddy's taking you home.  JOE!
+
+We see JOE, Megan's husband; late thirties, a husky Chicago Fireman, he
+too has a Dixie cup and is talking with some folks.
+
+JOE
+What?  Geeze.
+
+MEGAN
+Get the kids home!  It's one in the morning.
+
+JOE
+I'm going, I'm going.  C'mon Tommy, get your brothers.
+
+TOMMY
+I want to stay and see the new heart.
+
+JOE
+We'll see it when she comes home.
+
+ANGELO
+Megan, where's Marty:
+
+MEGAN
+(looks up to find her Dad)
+Is he with my Dad?
+
+We see Megan's father, EMMETT McFADDEN, Marty's best friend, sitting
+alone in the corner spinning his fedora hat around and around by the
+brim.  He looks up at Megan and nods his head in the direction of the
+hospital chapel at the end of the hall.
+
+CUT TO:
+
+INT. HOSPITAL CHAPEL
+
+A small chapel, only six pews, three on each side.  In the center above
+the alter, a colorful handmade mosaic.  Light flickers from the rows of
+votive candles near the alter.  A dim light spills in from the hallway
+through the crucifix-shaped windows on the chapel's wooden doors.
+
+We find Marty, kneeling in the last pew.  Praying.
+
+CUT TO:
+
+Mario Lanza's Sorriento Roma, an operatic ballad begins, taking us
+emotionally through the following...
+
+MONTAGE:
+
+INT. OPERATING ROOM
+
+THE AUTOMATIC DOORS SLIDE OPEN.  A TRANSPORT MEDIC carries a small Igloo
+cooler, labeled "HUMAN TISSUE" and sets it down on the waist-high
+stainless steel table to the left of the SURGEON.
+
+An OVERHEAD VIEW shows a number of MEDICAL PERSONNEL working perfectly
+as a team.  GRACE is lying on the operating table, draped in surgical
+cloth.
+
+CLOSE-UP GRACE'S FACE, a peaceful expression; where is she?
+
+INT. HOSPITAL CHAPEL
+
+Marty, lighting a candle, his lips move in prayer.
+
+INT. OPERATING ROOM
+
+The TEAM OF SURGEONS position themselves around GRACE'S body, obstructing
+our view.
+
+INT. BOB'S APARTMENT
+
+Bob, in the same spot we left him, is now asleep at the door with Mel.
+
+INT. HOSPITAL HALLWAY
+
+A JANITOR polishes the floors of an empty hallway with a large electric
+buffer.
+
+INT. OPERATING ROOM
+
+CLOSE-UP OF THE RESPIRATOR, near Grace, as the white accordion bag goes
+up and down rhythmically.
+
+INT. HOSPITAL - WAITING ROOM
+
+The small room once filled with relatives and children is now just MEGAN
+and ANGELO, waiting.  Joe enters with coffees.
+
+INT. OPERATING ROOM
+
+The enormous amount of SURGICAL INSTRUMENTS, those new, those used; all
+monitored by the surgical TEAM NURSES.
+
+DOCTORS, their faces intensely focused on their incredible task.
+
+EXT. HOSPITAL - DAWN
+
+The MORNING SUN reflects off the windows of the hospital.
+
+INT. HOSPITAL - WAITING ROOM
+
+Megan sleeps on a snoring Joe's shoulder.  Angelo lies across several
+chairs, sleeping.
+
+INT. HOSPITAL CHAPEL
+
+Marty, still praying.
+
+INT. OPERATING ROOM
+
+A doctor looks to the HEART MONITOR.
+
+CLOSE-UP OF HEART MONITOR,
+
+Flat line...
+
+INT. HOSPITAL CHAPEL
+
+Marty kneels in front of the statue of the Blessed Virgin Mary, still
+praying.
+
+INT. OPERATING ROOM
+
+CLOSE-UP of the HEART MONITOR, flat line turns into the first PULSE.
+
+INT. BOB RUELAND'S APARTMENT
+
+Bob is still sound asleep on the floor near the door with Mel.  With the
+first beat of the heart "something" stirs him a bit, almost waking
+him...
+
+Bob's eyes open...
+
+We HOLD ON BOB a second...
+
+Mario Lanza's last dramatic note is held, as we...
+
+FADE OUT:
+
+BLACK SCREEN.
+
+INT. O'RIELLY'S ITALIAN RESTAURANT - (ONE YEAR LATER)
+
+Marty walks past the back window carrying a loaf of bread.  He stops and
+glances into the back courtyard and smiles.
+
+OVER MARTY'S SHOULDER
+
+Through the back window we see Grace, in the garden gathering fresh cut
+flowers.  She's wearing a summer dress, garden gloves and an apron which
+she cups upwards to carry the flowers in.  The once fragile Grace is now
+healthy, vibrant and glowing.
+
+MARTY
+He can't sing.
+
+Marty turns away and takes us to the bar in the dining room.
+
+ANGELO
+Then how come he's got such a big band?
+
+WALLY
+To drown him out.
+
+Seated at the far end of the dining room enjoying their pre-opening
+cappuccinos are Angelo; and retired pals, EMMETT, whom we met at the
+hospital and WALLY JAYCZASKI, seventy-ish, a former T.V. repair man.
+They are smoking cigarettes or puffing on cigars and involved in yet
+another heated discussion.
+
+EMMETT
+Hey, Wally, stay outta this.  How many famous Polish singers are there?
+
+WALLY
+I have two words for you; Bobby Vinton
+
+The group lets out a groan.
+
+WALLY (cont'd)
+(back to Emmett)
+Yeah, well, what have you got?  The Irish Rovers?
+
+EMMETT
+Three words; Mister-Bing-Crosby.
+
+ANGELO
+He beat his kids.
+
+EMMETT
+Doesn't mean he couldn't sing.  Sinatra beat up everybody.
+
+ANGELO
+Frank didn't.  His people did.
+
+MARTY
+Dean never hit anyone.
+
+WALLY
+Only Jerry.  But he was asking for it.
+
+They all agree.
+
+ANGELO
+Point is, we got Frank, Dean, Tony Bennett, Perry Como, Pavarotti, Mario
+Lanza - how much time you got?
+
+Grace approaches their table.  The men, in unison, extinguish their
+smokes, a familiar routine which Grace is completely unaware of.  The men
+all respectfully stand for the lady - it's second nature for their
+generation.  She places the remaining flowers in the vase on their
+table.
+
+WALLY
+Grace, you want me to take you kids to the zoo in the Caddy?
+
+GRACE
+Thanks Wally, we're riding our bikes.
+
+EMMETT
+(to Grace)
+Settle something for us, best male singer?
+
+GRACE
+Dean Martin.
+
+ANGELO
+Frank.
+
+MARTY
+Dean.
+
+ANGELO
+Pavarotti.
+
+EMMETT
+Bing.
+
+WALLY
+Bobby.
+
+The group groans, again.  Marty wraps plastic forks and knives in
+napkins and tucks them into a picnic basket.
+
+Grace walks behind the bar, slips her apron off over her head and looks
+beyond the whiskey bottles into the mirror.  Taking a make-up cover
+stick out of her pocket, she conceals the top portion of the long scar
+exposed near the v-neck of her dress.  Marty notices and shakes his
+head.
+
+MARTY
+Grace it's been over a year.  You can hardly see 'er anymore.
+
+GRACE
+Nice try, Grandpa.
+
+MARTY
+You're beautiful, lassie, no one'll notice y're chest.
+
+GRACE
+(under her breath)
+Thanks a lot.
+
+Marty walks over to the guys table, spins a chair around and straddles
+it.
+
+ANGELO
+Outta respect, we should mention Sammy.  I mean, he only had one eye.
+
+EMMETT
+He was Irish, ya know.
+
+WALLY
+You mean Jewish.
+
+EMMETT
+Whatever...something didn't fit.
+
+ANGELO
+That was his gimmick.  All the greats had 'em.
+
+As ally approaches the table the gentlemen all stand again.  Grace takes
+the salt and pepper off the table and places them in the basket and
+exits through the back door.
+
+CUT TO:
+
+EXT. COURTYARD - CONTINUOUS
+
+Grace pulls her rickety bike out from under the porch steps, securing the
+picnic basket to the front handle bars.  She hops on the bike, peddles
+out the court yard and down the city street.
+
+CUT TO:
+
+EXT. CONSTRUCTION SITE - LINCOLN PARK ZOO - SAME DAY
+
+ESTABLISHING SHOT of the new Gorilla Habitat under construction.
+
+Bob storms out from behind a plywood barricade decorated with posters
+advertising Sydney's new home.  He is followed closely by two foremen;
+JEFF, the younger, and MIKE, an older, journey-man type.  The once
+charming and laid back Bob is now...
+
+BOB
+(snaps)
+We needed that cement poured yesterday!
+
+JEFF
+I had to wait on the welders.
+
+BOB
+Why?
+
+JEFF
+I'm at their mercy, Bob.  You know that.
+
+Bob's cell phone RINGS.  He flips it open.
+
+BOB
+(into phone)
+Yeah...I'll be there by three.  Uh-huh...
+
+Without a missing a beat, he closes, the phone and is back in Jeff's
+face...
+
+BOB (cont'd)
+Bullshit.  You're not pushing your guys hard enough.
+
+JEFF
+Bob, my guys worked eighteen hours yesterday!
+
+BOB
+At time and a half, I'm crying for ya.
+
+They pass a truck where WORKMEN are unloading supplies.  Jeff stops to
+help.  Some of the men have overheard his conversation with Bob and roll
+their eyes.
+
+Bob and Mike continue walking...
+
+MIKE
+For Christsakes, you have the best guys working here.  You don't want
+them walking.
+
+BOB
+I don't give a shit, Mike.
+
+They enter a temporary office trailer.  A sign on the door, with big
+bold letters, reads: RUELAND DESIGNS.
+
+CUT TO:
+
+INT. - CONSTRUCTION TRAILER - CONTINUOUS
+
+Bob sits behind his desk, cluttered with blueprints, stacks of invoices,
+fast food wrappers and the odd coffee cup.  Mike takes a seat at the
+opposite end of the trailer and lights up a smoke.
+
+Silence, except for the 'humm' from the machines and jack hammers in the
+b.g.
+
+Bob runs his hands through his hair and shakes off a yawn.  Mike,
+watching his young friend, takes a long drag on his smoke; this time
+he's going to say something.
+
+MIKE
+Bob, you have to slow down.  You're working too hard.
+
+BOB
+(sick of hearing it)
+Yeah, well...  Whatever.  You should quit smoking.
+
+MIKE
+(taking a puff)
+I have.  Several times.
+
+Bob unrolls a set of blueprints on his desk.  His cell phone RINGS.  He
+flips it open and presses it against his ear with his shoulder, as he
+struggles to keep the blueprint from rolling closed.  Mike doesn't make
+any effort to help.
+
+BOB
+(into phone)
+Rueland...  Hey, Charlie...  It's just wasted space right now...
+(lets the blueprint roll closed)
+Tell them, it's only an extra fifty feet...towards the Lion House...
+Yeah well they told us we couldn't have the waterfall and the pipes are
+being laid for that...  Then I'll tell 'em...
+
+The trailer door opens.  Jeff sticks his head in.
+
+JEFF
+(to Bob)
+You want more mortar thrown in there tomorrow?
+
+Bob shakes his head 'yes'.
+
+BOB
+(snapping at Jeff)
+You don't know the answer to that?
+(back into phone)
+What?  I'm walking over right now.
+
+He hangs up the phone.
+
+MIKE
+(puts out his smoke)
+Don't forget, you're on Wabash at three o'clock.  New beams going in.
+
+BOB
+Yep.
+
+Bob's out the door.
+
+CUT TO:
+
+EXT. LINCOLN PARK ZOO - CONTINUOUS
+
+Around a lamp post, secured by one chain, we see Grace's bike, and five
+others, two with training wheels.
+
+Bob's legs cross through frame and then stop.  We pan up, Bob is staring
+up at the old Primate House.
+
+In the b.g. we see GRACE, MEGAN and the KIDS, walking towards the Primate
+House.  Megan is doing her best to keep the group together.  Grace is
+holding tightly on to Tommy's hand, while in her other, she holds his
+Batman wallet.  The stroller is childless, yet full of discarded
+sweatshirts, a picnic basket and a stuffed dolphin.
+
+Bob makes a definite left, avoiding the Primate House...  But then
+stops, and turns back -- after a deep breath, he decides to go in...
+
+CUT TO:
+
+INT. PRIMATE HOUSE - CONTINUOUS
+
+A dark, cavernous building, painted to look like a jungle.  The
+excitement of the SPECTATORS echoes off the tile walls.
+
+Bob lets the door close behind him, shutting the sunlight out, as he
+slowly enters this very familiar territory.  He walks over to the
+enclosed,
+
+GORILLA HABITAT.
+
+SYDNEY is sitting in the corner, facing the wall, ignoring everyone.
+
+Displayed at the front of the exhibit are small PHOTOGRAPHS and a brief
+history of each gorilla.  Bob looks over the different photos, stopping
+at the one on Sydney.
+
+Sydney's bio reads: "SYDNEY, FIFTEEN YEARS OLD.  TAUGHT SIGN LANGUAGE IN
+1990 BY DR. KATHERINE RUELAND.  YOU CAN SAY HELLO TO SYDNEY BY DOING THE
+FOLLOWING..."  A DIAGRAM OF TWO HANDS illustrates the sign language
+symbols for "H" and "I".
+
+Bob looks up, observing the CHILDREN trying to say "hello" to Sydney.
+He brushes his fingers over Katherine's name on the display, turns and
+leaves.
+
+Just as Bob reaches for the door, it is pulled open by Megan, ushering
+the kids in.  The sunlight temporarily blinds Bob, who quickly averts
+his eyes.  As he reaches for his sunglasses...
+
+Grace and Tommy enter, passing Bob as he puts on his sunglasses.  Bob and
+Grace are so close...
+
+Bob slightly brushes against Grace's arm as he passes her.  Grace sighs,
+and lightly touches her heart.  She squeezes a little tighter onto
+Tommy's hand...
+
+TOMMY
+Aunt Grace, are you okay?
+
+The door closes behind them.
+
+GRACE
+(with a confused look)
+Yes.
+(hand on heart)
+Whatever it was, it didn't hurt.
+
+Grace and Tommy catch up with Megan and kids...  Little Kevin, yelling.
+
+MEGAN
+(trying to calm him)
+It probably fell out of the stroller...
+(to Grace)
+His dolphin...
+
+GRACE
+I'll go look for it.
+
+MEGAN
+No, I'll do it.
+
+CUT TO:
+
+EXT. PRIMATE HOUSE - CONTINUOUS
+
+Bob, with the door just closing behind him, steps forward and on to a
+small stuffed dolphin, which SQUEAKS.  Bob jumps.
+
+The door opens and a WOMAN'S HAND comes out...
+
+MEGAN
+(to Bob)
+Excuse me, I'm sorry...
+(pointing to dolphin)
+If that isn't yours, I think I know who it belongs to.
+
+Megan picks up the dolphin and walks back into the Primate House.
+
+Bob says nothing and walks away.
+
+CUT TO:
+
+INT. PRIMATE HOUSE - CONTINUOUS
+
+Megan gives the dolphin to Kevin, whose tears dry instantly.
+
+Grace reads Sydney's plaque and shows the kids how to do the "sign" for
+"Hi".  They are right next to the glass...
+
+Sydney, shifting his weight to get comfortable, notices the kids doing
+the signing.  He frantically runs around the cage once, then swings from
+a DANGLING TIRE.  Everyone howls with delight.
+
+GRACE
+(re: the gorilla cage)
+They should have more space.  Hi, Sydney.
+
+Grace joins the others, doing the sign language for "Hi".  Sydney
+waddles over closer to the glass and Grace.
+
+JOEY
+Look Mom, he likes us.
+
+MEGAN
+Doesn't he remind you of Daddy?
+
+The kids all giggle and agree.  Sydney stares at Grace, then puts the
+palm of his hand against the glass.  He studies her face.  Grace reaching
+out, presses her palm against his through the glass.
+
+GRACE
+He's so sweet.
+
+CUT TO:
+
+INT. ADMINISTRATION BLDG. LINCOLN PARK ZOO - MOMENTS LATER
+
+Bob paces as THREE MEN in suits sit at the other end of a conference
+table, behind them on the wall hang several artist renditions of the new
+Gorilla Habitat.  Charlie leans against the wall behind Bob.  One of the
+"Suits" is wearing glasses and going over some papers.
+
+SUIT #1
+We approved one large artificial tree to be planted in the habitat,
+fifty more feet was not approved.
+
+BOB
+First of all, artificial trees are not "planted"...  And why build a
+tree when two real trees are already there?
+
+SUIT #1
+Slow down, we're just asking you to stick with the original plan.  We're
+giving them the tires, your whole elaborate
+jungle-gym-piping-thingamajig and a fake tree.
+
+SUIT #2
+Bob, we've given you total freedom since the zoning was approved...
+
+BOB
+So why stop now?  C'mon guys, it's just fifty feet...and we can build
+around the Oak trees, real-full-grown-sturdy Oaks coming right out of the
+top of the structure.  All that from just fifty extra feet.
+
+SUIT #1
+We'd like to use that fifty feet for a souvenir shop...
+
+BOB
+Ohmigod, Guys, you're a Zoo.  Isn't it better for the gorillas to have a
+"real" tree?  Charlie?
+
+CHARLIE
+Yes, definitely...
+
+BOB
+Because I seriously doubt the gorillas would even know how to sell the
+souvenirs, then there's the training involved...the computer registrar,
+time-cards...
+
+SUIT #2
+Okay Bob, you've made your point.  But we've given in on enough...
+
+BOB
+(taking control)
+Guys here's the deal.  My wife wanted this building up two years ago.
+So the way I look at it, we're already behind schedule.  You give me
+that fifty feet so I can build around the real trees and I'll finish the
+job within the month so you can have it open at the beginning of summer.
+
+SUIT #2
+(considering - looking at blueprints)
+One real tree enclosed would still leave us with...
+
+BOB
+And I'll personally design and build a souvenir shop that'll fit in the
+space that's left...
+
+The men all close their folders...
+
+SUIT #1
+It's a deal.
+
+The men get up and leave the room very pleased.  Bob and Charlie stand
+there a beat, stunned.
+
+CHARLIE
+Wow.
+
+Beat.
+
+BOB
+Did they know that was going to happen?
+
+CUT TO:
+
+EXT. CITY STREET - DAY -
+
+WE FOLLOW Grace, she stops at a mailbox and pulls a worn pale pink
+envelope from her basket.  She opens the mail box and peers inside, then
+at her letter...  She puts the letter back into a rip in her coat
+lining, she gives it a secure pat and peddles away...only to make a
+u-turn.  She immediately returns to the mailbox, takes the letter out of
+her coat, closes her eyes, takes a deep breath and drops the letter into
+the mailbox.  We see it is addressed to: DONOR LIAISON.
+
+CUT TO:
+
+INT. HIGH SCHOOL GYMNASIUM - NIGHT
+
+Bob has aggressively taken control of a pick-up game of basketball.  A
+few GUYS are hollering "Pass" but Bob doesn't hear them.  He's taken it
+upon himself to bring the ball up the court for the final shot.  Charlie
+stop running, why bother, Bob has forgotten he has teammates.
+
+Bob drives through the key and past a few members of the other team,
+dunking the last basket.
+
+CHARLIE
+Game.
+
+Everyone heads for the bench.  A couple of guys mention they're going to
+the ALE HOUSE.
+
+CHARLIE (cont'd)
+Come on, come out tonight...
+
+BOB
+Nope...
+
+CHARLIE
+Just have a beer with the guys once, don't worry, none of them will talk
+to you, they all think you're nuts...
+
+BOB
+You're sure you won't have some women "accidentally" joining us.
+
+CHARLIE
+I did that once...twice.  But I won't tonight, because Friday night, I
+have someone very special...
+
+BOB
+(waving his hand)
+Forget it, Chuck.
+
+CHARLIE
+She has a great body.  An attorney.  Great body, very attractive, great
+body...  I'd date her myself but I was with her sister once...
+
+BOB
+Uh-huh...
+
+CHARLIE (cont'd)
+You'll like her.  She loves animals, her cat is a patient of mine.
+
+BOB
+I'm a dog person...
+
+Bob walks away.
+
+CHARLIE
+(watches Bob ignore him)
+Oh that's nice, just walk away, go ahead, run away...
+(yells)
+I'm your only friend--you know that?  I'm trying to help you...
+
+Bob deliberately walks back to Charlie...
+
+BOB
+(controlled, but angry)
+You want to help me, Charlie--stop trying to 'help' me...  Let me at
+least enjoy my heartache...
+
+CHARLIE
+What kind of twisted argument is that?
+
+BOB
+And stop being such a jerk at the zoo.
+
+CHARLIE
+(totally confused)
+What?
+
+BOB
+Don't just stand around, speak up.  Initiate something.  Fight one of
+the battles.  You want to help me, Charlie?  Then help me get it
+done--for Katherine.
+
+CHARLIE
+Then what?
+
+As Bob turns and walks back to the lockers...
+
+CUT TO:
+
+EXT. BOB'S APARTMENT - LATER SAME EVENING
+
+A teenage boy, wearing roller blades, negotiates the steps.  He's coming
+down very slowly backwards, hanging onto the cement stoop for balance.
+This is DANNY, the dog walker.  Unbeknownst to Danny, Bob, carrying his
+gym bag and a small scale model of Sydney's new home, walks up behind
+him.
+
+BOB
+(noticing the blades)
+Danny, you got 'em.
+
+DANNY
+(turns to quickly)
+Oh, geeze...
+(turns back, clinging to the stoop)
+Yeah.  I just took Mel out.
+
+BOB
+Thanks Pal.  How's your math coming?
+
+Danny lives right next door, he climbs over the front stoop to his
+place.
+
+DANNY
+Great, got a "C" on my last test.
+
+BOB
+Alright!
+(they do a high five over the stoop)
+I'll give you a raise if you can get it to a "B".
+
+DANNY
+"C" plus?
+
+BOB
+Deal.
+
+As Danny walks on the sides of his feet into his apartment...
+
+CUT TO:
+
+INT. BOB'S APARTMENT - CONTINUOUS
+
+The apartment, now lacking the "woman's touch", is unkempt and
+disorganized.  Mel is sleeping against the front door, barely budging
+when Bob pushes the door open.  Mel just kind of slides with it.
+
+BOB
+Hey, Mel, any calls?
+
+Bob picks up his scattered mail beneath the mail slot.  He casually
+tosses the mail next to the phone, then sits at the coffee table turning
+the model from side to side viewing it from each angle...
+
+BOB
+(to Mel)
+Ya hungry?
+
+Bob walks down the hall to the kitchen.  Mel following half way then
+turns and goes back to his "waiting" spot at the front door.  Bob
+watches him, sighs...
+
+DOORBELL RINGS.
+
+Bob answers the door.  A young DELIVERY GIRL stands holding a white bag
+of Chinese food.  Mel starts barking.
+
+BOB
+(grabbing Mel's collar)
+Sorry.
+(handing her the cash)
+Here y'go...
+
+DELIVERY GIRL
+Thanks, Mr. Rueland.  See ya tomorrow night.
+(to Mel, still barking)
+Bye, bye, Mel.
+
+Bob closes the door and carries the food into the kitchen.  He removes
+several cartons, opens the one of white rice and dumps it out on a
+plate.
+
+HALLWAY
+
+Mel has gone to his usual "waiting for Katherine" spot at the door.  WE
+STAY on Mel.
+
+BOB (O.C.)
+C'mon Mel.
+
+Nothing.  Mel doesn't move.
+
+BOB (O.C.) (cont'd)
+Mel, let's go.  I gotcha some rice.
+(sighs)
+Mel!
+
+Bob leans into the hall.  Looks at Mel.
+
+BOB
+God damn it.
+
+He starts walking towards Mel.
+
+BOB
+C'mon Mel, stop it.  She's gone.
+(kneels down)
+You can't sit here night after night.  C'mon get up...  Do you think
+that's what she would have wanted?  C'mon, get up Mel...  Look at you...
+(Bob sees his own reflection in the glass on the door)
+Look at you...
+(He slowly slumps down)
+
+Time seems to stand still as WE STAY on Bob sitting next to Mel.  He
+sits, staring out, looking at nothing.  We see a million memories flash
+by in his eyes...
+
+Suddenly, he gets up and walks directly to the phone.  Dials.
+
+BOB
+(into phone)
+Charlie.  I'll go on Friday night.  Yeah, you heard me.  Where is it?
+
+He takes an envelope near the phone.  He palms it, to write on the back.
+We see the front and the return address reads: DONOR LIAISON OF SAINT
+MARY'S...
+
+BOB
+O'Rielly's "Italian" Restaurant?  Uh-huh.  Yeah, me too.
+
+He hangs up the phone.
+
+CUT TO:
+
+INT. O'RIELLY'S RESTAURANT - DINING ROOM
+
+BOBBY VINTON'S Polish rendition of "I LOVE YOU SO" plays throughout the
+Italian restaurant.  Wally is enjoying the music at the bar.
+
+We FOLLOW GRACE through the crowded dining room, past the bar and into
+the
+
+KITCHEN
+
+where Angelo is straining pasta.  Grace begins refilling her empty tray,
+stopping only to put some garnish on a few plates.
+
+ANGELO
+It's a busy, no?  I love Fridays.
+
+Marty walks by, deliberately setting a plate down in front of Grace.
+Angelo looks on...
+
+MARTY
+Here's some leftovers for y'lassy...
+
+Grace looks down at an airline envelope sitting on the plate...  She
+opens it.  We see AIR ITALIA printed on the side...  Grace gasps.
+
+GRACE
+No way...Grandpa!
+(hugs him)
+Rome!
+
+MARTY
+(not great with affection)
+Ah, save that for the Italians... I know you love me.
+
+GRACE
+Oh my, Grandpa, you do too much...
+
+MARTY
+Angelo says a true artist must pain in the Pizza Navona...
+
+ANGELO
+"Piazza" Navona...Marone.
+
+GRACE
+Grandpa, you have to come with me...
+
+MARTY
+You go for both of us.  Instead of postcards, you send me paintings.
+
+Sophie enters, picks up a small slab of Parmesan cheese... She sees the
+ticket in Grace's hand.
+
+SOPHIE
+You couldn't wait till I was in the kitchen?
+
+MARTY
+Her face still has the same expression as when she opened it... See?
+
+Grace's still beaming, looking at the ticket...
+
+SOPHIE
+I miss everything...
+
+GRACE
+Grandpa, I'm so happy to be right here.  I never imagined...  I think
+I'll go in the fall...
+
+Marty, getting a little choked up, picks up two plates and walks back
+towards the dining room.
+
+MARTY
+Okay, Sophie, back to work.
+
+Sophie ignores him and walks to Grace, Parmesan in hand...
+
+SOPHIE
+Can I see it?
+
+Grace holds the ticket up in front of Sophie's eyes.
+
+SOPHIE (cont'd)
+It's beautiful.  You deserve it, sweetie.
+
+Sophie exits.
+
+GRACE
+Angelo, thank you.
+(putting the ticket safely in her apron pocket)
+Wait till I tell Megan...
+
+ANGELO
+One more surprise, "he" is here.
+
+GRACE
+Who-He?
+
+ANGELO
+The guy I tell you about.  He's at the bar waiting to meet you.
+
+GRACE
+(oh, no...)
+Angelo...
+
+ANGELO
+It's okay, I tell him you had you chest worked on...
+
+GRACE
+Angelo, please...my "chest worked on?"  He's going to expect...
+
+ANGELO
+What?
+
+GRACE
+Whatever... You don't have to--
+
+ANGELO
+This guy is different.  He's just like you.  He have a transplant.
+
+CUT TO:
+
+CLOSE-UP, GRACE'S FACE,
+
+MAN (O.C.)
+So, I'm still in a little pain, but you know how that is...
+
+Grace politely shakes her head "yes".
+
+CUT TO:
+
+GRACE'S P.O.V.
+
+CLOSE-UP, MAN'S FOREHEAD,
+
+It's obvious he's had a transplant.  A hair transplant.
+
+PULL OUT to a TWO SHOT of Grace and the Man at the bar...
+
+MAN
+My doctors say it's a solid transplant.
+(points to head)
+Go ahead, pull it.
+
+GRACE
+No, that's okay.
+
+MAN
+C'mon, giver 'er a tug.
+
+In the b.g., we notice Charlie and TWO WOMEN enter the dining room.
+Marty politely takes their jackets and hangs them on the hooks in the
+entryway.
+
+CUT TO:
+
+EXT. O'RIELLY'S - WELLS STREET
+
+Bob's white pick-up comes up the street, he slows down directly in front
+of O'Rielly's...
+
+CUT TO:
+
+INT. BOB'S TRUCK.
+
+He checks the name of the restaurant he'd written on the envelope and
+notices the letter's return address...DONORS LIAISON OF ST. MARY'S.  Bob
+slowly opens the envelope and takes out an enclosed form letter.  He
+reads it, then reaches into the envelope and pulls out a WORN PALE PINK
+LETTER.
+
+VALET GUY
+You staying or leaving or what?
+
+BOB
+Huh?  Um, staying...
+
+Bob quickly tucks the pink envelope back into his jacket pocket and hops
+out of the truck.
+
+CUT TO:
+
+INT. O'RIELLY'S - CONTINUOUS
+
+Bob hangs his coat on a hook.  Charlie spots Bob and waves him over.
+
+Marty sees the table is full and walks over to Grace at the bar.  She's
+still talking with the man, who is now tugging on his own hair.
+
+MARTY
+(looking at this guy)
+Grace, we have a new four top.
+
+GRACE
+I'm right on it.
+(to the man)
+Nice meeting you.
+
+MAN
+Likewise, I'm sure.
+
+Grace asks the BARTENDER to prepare four waters, then leaves to pick up a
+tray in the kitchen...passing Bob and Charlie's table, we STAY with
+them...
+
+Everyone's getting settled.  Charlie and his date, SHARI, can't seem to
+talk without touching.  Bob, meanwhile, sites beside MARSHA, an
+attractive woman--great body.  As she takes off her suit jacket, we see
+her shirt is one size too small for her breasts.  She's smart, pretty,
+but ohmigod, shut-up...
+
+MARSHA
+I said it's Squeaker, my kitty.  Well, as you can imagine, everyone
+laughed...  That's when I met Charlie, he was the only Vet open...  Are
+they bringing menus?  Anyway, Squeaker won't let another Vet touch him.
+
+CHARLIE
+Yeah, well I don't want to hear about anyone else touching your
+Squeaker.
+
+Charlie winks.  The ladies laugh.  Bob's in hell.
+
+CHARLIE (cont'd)
+Everything's good here.
+
+BOB
+Nice place, Chuck.
+
+MARSHA
+It's okay...  Small.
+
+CHARLIE
+It's family run.  Great food.
+
+MARSHA
+I went to a little place in Spain once that looked just like this except
+it was a glove store.
+
+BOB
+Is that right?
+
+MARSHA
+Hm-mmm.  So Rob, Charlie tells me you're an engineer.
+
+CHARLIE
+He's a structural engineer.  You know that new building on State Street,
+that's Bob's.
+
+SHARI
+You own it?
+
+BOB
+No, I designed it.
+
+SHARI
+(disappointed)
+Oh.
+
+Grace arrives at the table and begins setting the waters down in front of
+each person.  Bob notices her, really notices her.  When Grace gets to
+Marsha...
+
+MARSHA
+(puts her hand out to stop the glass)
+No, no, no...  Do you have bottled water?
+
+GRACE
+Yes, of course.  Anyone else?
+
+Bob stares at Grace, he speaks before he knows it...
+
+BOB
+Excuse me, do I know you?
+
+They stare at each other.  Everyone at the table gets a bit
+uncomfortable.
+
+GRACE
+I think so...  You've been here before.
+
+BOB
+No.  I'd remember an Irish Italian restaurant.
+
+Grace laughs.  Marsha doesn't.
+
+MARSHA
+Whatever... Water, I just don't want Swiss.  I got sick on imported
+Swiss water once.  As long as it's not Swiss or tap water, it'll be
+fine.  Preferably, French.
+(using her fingers to emphasize)
+I'd like it cold, no ice, no glass, just the bottle and a straw.
+(leaning forward)
+You want to write it down?
+
+GRACE
+I'm pretty sure I have it.  Anyone else?
+
+BOB
+(oh God)
+No, thank you.
+
+CHARLIE
+A wine list please.
+
+GRACE
+Sure.
+
+Just as Grace's about to walk away, Bob reaches out to stop her; gently
+touching her arm... There's a feeling between them.  Neither one quite
+understands it...  It's just a hint of warmth.
+
+BOB
+Excuse me, could I have a coffee?  No straw.
+
+GRACE
+(smiles)
+Sure.
+
+Bob watches her go, his glance interrupted by his RINGING cell phone.
+Everyone at the table goes for their phone.  The only one who doesn't is
+Bob, and it's his phone.
+
+Another RING.  Marsha, Charlie and Shari stare at Bob.
+
+BOB
+What?
+(realizing)
+Oh, I usually don't bring it...
+(flips open phone)
+Excuse me.
+(into phone)
+Rueland...  Hey Mike... Uh-huh
+
+Bob stands, motioning to the table that he'll be right back.  He talks
+and walks which takes him to the
+
+BACK OF THE RESTAURANT.
+
+BOB
+(into phone)
+I'm glad...  So let's call in a favor on Hank...the brick layer.  We'll
+contract them for five days, they'll do four for me, then one day at the
+zoo.  Either way, they get paid for five like under the original
+contract...  Who else is on the clock?
+
+Bob leans against the back wall and listens to Mike rattling off names
+on the other end of the phone...  We notice Bob's eyes are interested in
+someone.
+
+BOB'S P.O.V.
+
+Grace is emptying a bottle of Evian water into a sink and refilling it
+from the tap.  As she goes to replace the cap, her eyes meet Bob's...
+
+She's embarrassed, she's been caught.  Bob winks his approval.  They
+share a smile.  This is the first time we see Bob truly smile again.
+
+BOB (cont'd)
+(into phone)
+Yeah, yeah, I'm still here... That sounds great.
+
+Grace leaves for the dining room.
+
+BOB (cont'd)
+(into phone)
+I'll talk to you in the morning then...Wait, Mike?  Do me a favor, call
+me back in about five or ten minutes and just ignore what I say...
+Thanks.
+
+Bob closes the phone and returns to the
+
+DINING ROOM
+
+as Grace arrives at the table with menus.  Bob sits as Marsha takes a big
+sip of water...
+
+BOB (cont'd)
+(to Marsh)
+I bet that's refreshing.
+
+MARSHA
+Such a difference...
+
+He glances up at Grace, she's biting her lip...
+
+GRACE
+We have some wonderful specials this evening; a lovely Chicken
+Vesuvio...
+
+CHARLIE
+Please, I'm around them all day.
+
+Shari laughs, then kisses Charlie way too much.  Bob doesn't take his
+eyes off Grace.
+
+GRACE
+A corn beef and cabbage souffle and a spinach ravioli in an arrabiatta
+sauce, it's my favorite.
+
+BOB
+I'll have that...
+
+GRACE
+Okay, and a sword fish, served with white wine sauce and tomato and
+garlic checca...
+
+MARSHA
+I'll have veal.
+
+GRACE
+We don't serve veal.
+
+MARSHA
+Oh, brother...
+
+BOB
+Just get something else...
+
+SHARI
+Charlie, you order for me.
+
+CHARLIE
+(to Grace)
+We'll need another minute.
+
+BOB
+(to Grace)
+Thank you.
+
+GRACE
+Sure, take your time...
+
+Grace walks away...  In the b.g. we see her pass Marty, whose stopping
+and checking on a few tables like a good host should.  A few PATRONS
+offer their compliments as he walks towards the kitchen...
+
+MARTY
+Grazi.  Grazi.
+(yelling to the kitchen)
+Angelo!  We need...
+
+Marty disappears behind the swinging doors...
+
+MARTY (O.C.)
+Three more Shepard pies!
+
+MARSHA
+An Italian restaurant that doesn't serve veal...
+
+Bob's cell phone RINGS.  This time he pounces on it.
+
+BOB
+(into phone)
+Rueland...  Yeah, Mike?  Uh-huh...  Well, I'll leave right now.  Be
+there in five minutes...  No, it's not a problem, if I have to be there,
+I have to be there.
+
+Bob flips his phone closed.
+
+CHARLIE
+(suspicious)
+Where?
+
+BOB
+The Wabash building.
+
+CHARLIE
+Tonight:  They're working on a Friday night?
+
+BOB
+Oh yeah...  I'm so sorry Marsha, really very sorry.  It was nice meeting
+you, and Shari...  Please, enjoy your meal and...again, I apologize.  If
+you'll excuse me.
+
+Bob stands, pushes in his chair and bee-lines for the exit...As he
+leaves he puts his cell phone down on the bar to grab his coat off the
+hook, he glances around one last time for Grace, she walks up behind
+him...
+
+GRACE
+Everything okay?
+
+BOB
+Oh, hi, yes, fine.  I just got called to work...
+
+Bob puts on his coat and taps the letter in the breast pocket, still
+there...
+
+GRACE
+What about your wife?...and her friends, will they be staying--
+
+BOB
+She's not my wife...not a friend, not an acquaintance, and yes, they'll
+be staying...
+
+GRACE
+(sweetly)
+Oh...
+
+Sophie walks up with a "to go" order all bagged and ready "to go".  Grace
+stops her...
+
+GRACE
+Soph?  What is that?
+
+SOPHIE
+Ravioli... Chicken Vesuvio and a side of cabbage...for pick up.
+
+Grace takes the bag from Sophie.
+
+GRACE
+(to Bob)
+Here it is...
+(reads receipt)
+Mr. Ahtsuki.  Sorry for the wait... Since it took so long, it's on the
+house.  Come back again...
+
+Grace smiles warmly, then confidently turns and walks straight into a
+table.  Oops.
+
+CUT TO:
+
+EXT. O'RIELLY'S
+
+Bob exhales and hands his ticket to the valet, as Charlie steps up
+behind him...
+
+CHARLIE
+Bob, what's the deal?
+
+BOB
+I came out didn't I?
+
+CHARLIE
+Yeah, congratulations... You lasted almost a half an hour... That's a
+record...
+(glances back to Marsha)
+I only met her a couple of times, I had no idea she was so..."not
+you"...
+
+BOB
+It's fine, Chuck.  It's not her, it's me... She's everything you said
+she was, an attorney with a great body.
+
+CHARLIE
+C'mon, you're already out, it's Friday night, have some wine... Okay,
+have a lot of wine and enjoy the company...
+
+The valet pulls up with Bob's truck...
+
+BOB
+(walks to his truck)
+I can't.  If I could I would... But I've gotta go to work.
+
+CHARLIE
+(yells)
+I know you're going home...
+
+The VERY SHORT VALET GUY jumps out of the driver's seat.  Bob climbs in
+and sits--the steering wheel is pressed against his chest... Bob adjust
+his seat.  As he drives off, in the b.g., we see a MAN arguing with the
+valet.
+
+MR. AHTSUKI
+I no need to park.  I just pick up order.  One minute.  Give me my keys,
+I be one minute...
+
+Charlie walks back into the restaurant.
+
+CUT TO:
+
+EXT. LINCOLN PARK ZOO - BRIDGE - MOMENTS LATER
+
+The rain has stopped.  Bob, lost in thought, leans on the stone railing
+that lines the gleaming wet path on the bridge, eating his ravioli out
+of the styrofoam container with a plastic fork.  He taps his breast
+pocket for the letter, still there.  He slowly takes it half way out,
+then puts it back.  He finishes eating... Stops, breathes in the night
+air.  Leaning on the rail, he looks out over the river and up at the
+Chicago sky line.
+
+He feels the letter in his chest pocket, reaches into the jacket and
+pulls out the worn pale pink envelope...
+
+He carefully opens it...
+
+CLOSE-UP BOB.
+
+As he reads, his face reflects the emotional content of the letter...
+
+OVER BOB'S SHOULDER,
+
+we see the feminine hand writing...
+
+DISSOLVE INTO:
+
+CLOSE-UP OF GRACE'S HAND,
+
+as she writes...
+
+"I hope this letter will bring some comfort..."
+
+PULL BACK, revealing Grace in her hospital bed, just weeks after the
+transplant.  She is sitting up, thoughtfully composing the letter on her
+bedside table as little Bridgette lies beside her coloring.  Megan is
+busy adding water to the flowers on the nightstand.
+
+The door opens and a NURSE enters the room.  Grace immediately pulls the
+blanket over to hide Bridgette who continues to color beneath the blanket
+as the nurse takes Grace's blood pressure.  The nurse finishes and exits,
+Bridgette pops out from under the blanket.  Grace continues writing...
+
+CLOSE-UP OF GRACE'S HAND,
+
+as she writes the following...
+
+"...your thoughtfulness in a moment of such deep sorrow..."
+
+BACK ON BOB,
+
+"...I awake each day feeling the gentle rhythm of the heart that beats
+inside me..."
+
+Bob flips the letter over to look on the back, no signature.  Looking up
+at the stars, he slowly folds the letter, as we...
+
+FADE OUT:
+
+UP ON:
+
+EXT. LINCOLN PARK ZOO - NEXT DAY
+
+We notice that scaffolding has been set up around TWO OAK TREES.  Bob
+stares up into the sun to the tops of the strong reaching branches.
+
+Jeff walks over studying some blueprints.  As soon as he starts to talk,
+Bob walks briskly away, towards the trailer.  Jeff does a small u-turn,
+walking and talking, trying to keep up...
+
+JEFF
+(re: the blueprints)
+Bob, I know on this most recent set...
+(afraid of setting him off)
+We're only enclosing the one Oak tree?
+
+BOB
+(picking up the pace)
+I have a different set of prints in the office.
+
+JEFF
+(under his breath)
+That's what I thought Mike said.
+
+BOB
+We'll keep working Saturdays and we'll work late...
+
+CUT TO:
+
+INT. CONSTRUCTION TRAILER - CONTINUOUS
+
+MIKE's eating a donut as he hangs up the phone.  Bob and Jeff enter.
+
+BOB
+Mike, give the newest plans to Jeff, so we can run over 'em right away.
+
+JEFF
+Is this going to be the last set?
+
+MIKE
+(shakes his head "no" to Jeff)
+Yes.
+
+Bob, looking through messages on the desk.
+
+BOB
+Anyone call about my phone?
+
+MIKE
+Yep, restaurant called back, they have it...
+
+BOB
+Who called...from the restaurant?
+
+MIKE
+I don't know...some woman.  I'll send one of the interns to pick it up.
+
+BOB
+No.
+(throws it away)
+I can swing by there later...
+
+JEFF
+(looking over the new blueprints)
+Are there going to be any trees in the souvenir shop?
+
+CUT TO:
+
+INT. MEGAN AND JOE'S HOUSE - THAT NIGHT
+
+A spacious kitchen with an old linoleum floor spills into a family room
+with hardwood floors and a big bay window.  It's cozy, lived in, and
+seldom quiet.
+
+Joey's playing a game of Nintendo, with all its annoying SOUND EFFECTS.
+Kevin's pounding on the piano.  Bridgette's CRYING in her high chair and
+in the middle of all this, Patrick sleeps soundly on the kitchen floor.
+
+Megan and Grace are at the counter, preparing veggies.  Joe sits at the
+head of the table, still in his fireman's uniform, with L'il Tommy on
+his knee...they're looking at photos.
+
+TOMMY
+And here's the baby pigs and see, the mommy had ten baby bottles coming
+out of her tummy.
+
+JOE
+(yelling into the family room)
+Stop with the piano!
+(frustrated)
+Megan...
+
+MEGAN
+(dryly)
+I'm not playing it.
+
+TOMMY
+And then we went to see the gorillas and Mommy said it was you.
+
+MEGAN
+I did not.
+
+JOE
+Oh, really?  Did you go to see the elephants?
+
+MEGAN
+Watch it, Joe.
+
+Megan picks up the crying Bridgette, out of her high chair.
+
+MEGAN (cont'd)
+(to Joe)
+She's wet.
+
+GRACE
+I'll change her.
+
+JOE
+(not moving a muscle)
+It's okay, Grace.  I got it.
+
+Grace takes Bridgette from Megan and exits down the hall.  Megan smacks
+Joe on the shoulder.
+
+JOE (cont'd)
+(looking to see if Grace is gone)
+Listen, Meg... Rudy's coming by tonight.  I though he'd come meet Grace,
+y'know...
+
+MEGAN
+Father Rudy?
+
+JOE
+Stop it, Meg.  He's not a priest anymore.
+
+MEGAN
+To me, he is.  She'll meet someone on her own, Joe.
+
+JOE
+How?  She's always here on her nights off.  He has about as much
+experience as she does.  Where you gonna find a guy like that?
+
+MEGAN
+Who would want to?
+
+JOE
+He's a nice guy.
+
+MEGAN
+It's hard to dance, when there's nobody leading.
+
+Grace walks in with baby Bridgette on her lap and places her back in the
+high chair.  The room is quiet, except for the "kid factor".  Grace
+notices...
+
+GRACE
+Is everything okay?
+
+JOE
+Fine.
+
+MEGAN
+No.  Joe went'n invited someone over here, sort of as a blind date.
+
+GRACE
+When?  Tonight?
+
+JOE
+It's not a "date".  He's just coming over for dinner.
+
+GRACE
+(looking at her chest)
+I need a scarf or some make-up.
+
+JOE
+Don't worry.  I told him you had some work done.
+
+GRACE
+What?
+
+MEGAN
+She's not a Buick, Joe.
+
+JOE
+It's okay.  He understands.  He's fine with it.  He's a priest for
+Godsake.
+
+GRACE
+A priest?!
+
+JOE
+An EX-priest.  Jesus Christ, what's the big deal?  He's never dated,
+you've never dated.
+
+MEGAN
+Joe, Grace has dated.
+
+GRACE
+It's okay Meg.
+
+MEGAN
+No it's not.
+
+TOMMY
+Do you hate priests, Aunt Grace?
+
+GRACE
+No, honey.
+
+TOMMY
+Cuz if you do you'll go straight to hell.
+
+JOE
+No one is going to hell.  God y'try and help someone...
+
+MEGAN
+Go ahead, Grace, leave.  Get out the back door.
+
+GRACE
+My bike's in the front.
+
+DING-DONG...
+
+TOMMY
+Oh, shit, Father Rudy's here.
+
+MEGAN
+Tommy don't you dare talk like that.
+
+TOMMY
+Don't worry Mom, Dad said no one's going to hell.
+
+Bridgette bursts out screaming at all the commotion.  Grace is running
+around looking for a scarf.  Joe gets up to go answer the door.
+
+JOE
+(before opening the door)
+FOR THE LOVE OF GOD, EVERYONE CALM DOWN!
+
+He opens the door and there stands Rudy, complete with clerical collar.
+Joe stares at the collar a beat too long.
+
+RUDY
+(quietly, re: collar)
+I'm not used to being without it yet.
+
+CUT TO:
+
+INT. ZEBRA LOUNGE - CONTINUOUS
+
+Charlie is on his cell phone.  Behind him at the bar sit two beautiful
+"big haired" WOMEN.
+
+CHARLIE
+(into phone)
+Bobby, my man.  Where the hell are you?  You run away last night and
+tonight you don't show.  I've been sitting at the bar for two hours...
+(waves to the girls)
+No, I'm all alone...
+
+CUT TO:
+
+INT. BOB RUELAND'S APARTMENT - BEDROOM - CONTINUOUS
+
+Bob, just out of the shower, stands in front of the mirror buttoning his
+shirt, with the phone cradled under his chin.
+
+BOB
+(into phone)
+I'm not up to it... Yeah, "again"... I'm uh...watching the game...the
+score?
+(TV's not on - panics - can't find remote)
+Uh...
+(safe lie)
+Cubs are losing.
+
+CUT TO:
+
+INT. BOB'S APARTMENT - FRONT HALL - CONTINUOUS
+
+The front door opens, it's Danny with Mel.  Danny takes Mel's leash off
+and hangs it on the coat rack.  Bob emerges from the bedroom.
+
+DANNY
+Hey, Mr. Rueland, Mel ate something.  I couldn't get to him, I think it
+was a rib bone...
+
+BOB
+Is that right Mel?
+
+DANNY
+And he rolled in something...a dead something... I can give him a
+bath...
+
+BOB
+How much?
+
+Bob picks up his keys and his wallet off the hall table.
+
+DANNY
+Ten bucks.
+
+BOB
+(takes a ten from his wallet)
+Ten?
+
+DANNY
+I use soap now.
+(Danny stuffs the ten into his pocket)
+My mom made you another lemon cake.  I put it in the trash for ya.
+
+BOB
+Thanks, pal.  I'd give you twenty to see you eat that.
+
+DANNY
+(shakes head - "no way")
+There's easier ways to make money.
+
+BOB
+(opens the door to leave, turns back)
+How do I look?
+
+Danny's surprised to be asked.
+
+DANNY
+Tall.
+
+BOB
+Tall?
+
+DANNY
+Yep.
+
+BOB
+Thanks...
+
+Bob closes the door behind him.  Danny and Mel watch him through the
+window.
+
+CUT TO:
+
+EXT. O'RIELLY'S ITALIAN RESTAURANT - SECOND FLOOR - SAME NIGHT
+
+Grace paces on a small terrace overlooking the sidewalk caf‚.  She's on
+the phone...
+
+GRACE
+(into phone)
+Megan... It was fine.  He was a nice guy.  Certainly knows his wine...
+(laughs, then serious)
+But did you notice...
+
+As Grace talks, she watches a YOUNG COUPLE leaving after a romantic
+dinner.
+
+GRACE (cont'd)
+...how afraid he was to let me lift even a plate of mashed potatoes...
+I'm not being ridiculous.  Once a guy finds out, they think I'm...broken
+or something.
+(sighs)
+But it doesn't matter... I'm so-so lucky.
+
+CUT TO:
+
+INT. MEGAN AND JOE'S HOUSE - KITCHEN - CONTINUOUS
+
+Megan's got the phone tucked under her chin, as she reaches under the
+table and lightly pulls on the small blanket little Patrick is still
+sound asleep on.  She slides him across the kitchen to the bottom of the
+steps.
+
+Joe walks down in his boxers, scoops up little Patrick in his arms and
+kisses Megan on the cheek.
+
+JOE
+(mouthing the words)
+Tell her I'm "sorry" about tonight.
+
+Megan lovingly smiles and touches Joe's lips with two fingers.  She
+picks up a toy from the bottom of the steps and crosses back into the
+kitchen.
+
+Joe carries little Patrick up to bed, but steps on a squeaky toy half
+way up the stairs.  He FREEZES.  Patrick's eyes open.  Silence.  Then...
+
+PATRICK
+(crying)
+Whaaaaa!  Mom!
+
+JOE
+(loudly)
+God damn it!
+
+Out of the bathroom at the top of the stairs, we hear...
+
+TOMMY
+(echoing his Dad)
+God damn it!
+
+Joey now leaves his bedroom and comes to the top of the stairs.
+
+JOEY
+Daddy, can I have some water?
+
+JOE
+(takes control)
+No.  Everyone's going to bed.  Forever!  Megan!
+
+BACK IN THE KITCHEN
+
+Megan's wiping the counter top, the phone still cradled on her
+shoulder...
+
+MEGAN
+(into phone)
+I have to go... And Grace, you're not lucky.  It's fate.
+
+CUT TO:
+
+EXT. O'RIELLY'S RESTAURANT - SECOND FLOOR TERRACE - CONTINUOUS
+
+Grace hangs up the phone and leans against the terrace railing,
+observing the last few customers leaving.  Marty's stacking up the
+remaining outside chairs.  He glances up and sees her...
+
+MARTY
+Sweet dreams, my dear Lass.
+
+GRACE
+(smiling)
+You want some help?
+
+MARTY
+No, I'm blessed with work.
+
+Marty carries the stacked chairs inside.  Grace looks up to the
+stars...it's just starting to drizzle.  She turns and walks into the
+apartment, as we...
+
+PAN DOWN:
+
+EXT. FRONT OF O'RIELLY'S - CONTINUOUS
+
+Bob's shiny white Ford pick-up truck pulls up.
+
+CUT TO:
+
+INT. O'RIELLY'S DINING ROOM - CONTINUOUS
+
+Empty, except for the "usual suspects" -- WALLY, ANGELO, EMMETT, and
+MARTY, who sit around "their" table playing cards, smoking, having
+Espresso's, or a pint of beer -- involved in yet another animated
+discussion.
+
+ANGELO
+Best female singer?
+
+WALLY
+Ella Fitzgerald.
+
+MARTY
+Agree.
+
+EMMETT
+Agree.
+
+ANGELO
+Of course.
+
+EMMETT
+Okay.  But Wally, I'd still take Ernie Banks over Ty Cobb.
+
+WALLY
+Doesn't work.  You can't pick your dream team from different eras.
+
+EMMETT
+(to the others)
+Is this a new rule?
+
+CUT TO:
+
+EXT. O'RIELLY'S - CONTINUOUS
+
+Bob looks through the restaurant window.  No sign of Grace.  He taps on
+the glass door but the men don't notice, perhaps "Ella's PAPER MOON" is
+playing a bit too loudly.
+
+Bob knocks again.  Marty looks up, runs over to the stereo near the bar,
+turns it down a bit, then walks over and opens the door...
+
+MARTY
+Either you're late or really early...
+
+BOB
+(smiles, his eyes search the room for Grace)
+Sorry to bother you but I left my phone here...
+
+MARTY
+No, no, no bother.  Please come in.
+(the drizzle is now a rain)
+It's starting to come down out there.  I'll check for you, a phone, huh?
+
+BOB
+That's right...
+
+MARTY
+(from behind the bar, he drags out a lost and found box)
+So many are left.  Every week, one or two phones... I think it's no
+good, too many phones in our lives.  Y'got no one really talkin'
+anymore, face to face.  I don't see one in here...
+
+BOB
+I believe a young lady called, said she found it...
+
+MARTY
+I'll getcha a beer and I'll take a look around in back...
+
+BOB
+Oh, no thanks...
+
+MARTY
+Ah, y'gotta get home to y'er wife...
+
+BOB
+No.
+
+MARTY
+She walked out on ya, did she?
+
+BOB
+No...
+(he'll say it)
+She passed away...
+
+MARTY
+(hand on chest)
+Aw, I ought to be on my knees thanking God I'm on my feet... Let me
+getcha a pint.
+
+BOB
+No, it's fine...
+
+MARTY
+(yells over to the guys)
+Boys, this is my friend...
+
+BOB
+Bob.
+
+MARTY
+(pats Bob on the back)
+Robert!  His wife is dead.
+
+The guys immediately accept him, with a chorus of "welcomes".  Angelo
+pulls out a chair for Bob.
+
+MARTY (cont'd)
+This is...
+(points to each)
+Wally, Emmett, Angelo and I'm Marty.  Deal him in.
+(walks away)
+I'll find yer phone.
+(yells to the kitchen)
+Sophie, bring us a few pints...
+
+Bob hesitantly sits.  The cards quickly float down in front of him as
+Emmett deals.
+
+EMMETT
+Settle something for us here, pal.  Who is the greatest center fielder
+of all time?
+
+BOB
+Ken Griffey Jr.
+
+They approve.  Sophie comes out of the kitchen in her coat, tying a
+small silk babushka upon her head...
+
+SOPHIE
+I'm on my way home, who's walking me?
+
+WALLY
+You're two doors down, if y'get killed we'll hear it...
+
+SOPHIE
+I hope I get killed so you have to live with the guilt.
+
+WALLY
+Yap, yap, yap...
+
+MARTY
+I'll take ya.
+(walks over to Sophie and takes her bag)
+Be back...
+
+Marty and Sophie walk out the back door, Bob watches them go... What
+about my phone?...
+
+WALLY
+(back to discussion)
+Doesn't matter, Ella Fitzgerald was the greatest singer of all time.
+
+ANGELO
+We all agree on that Wally.  Why do you keep bringing it up?
+(re: his cards)
+I'm in...
+
+WALLY
+Because I'd like to hear more of her in here.  You're always playing
+that opera stuff, we can't sing along.
+
+EMMETT
+Go and find yourself a Shakey's pizza for that.  You folding, Wal?
+
+WALLY
+(sentimental)
+Remember Shakey's Pizza?
+
+BOB
+Oh, yeah sure...
+(looks at his cards)
+I'm in...I guess...
+
+EMMETT
+(To Bob)
+Ground Round was good...
+(re: cards)
+In...
+
+BOB
+(reminiscing)
+Throw the peanuts on the floor...
+
+WALLY
+Yeah... At Shakey's they'd put the words up on the screen... My kids
+loved that.  Everyone singing.
+(looks at his cards)
+I - am - in.
+
+CUT TO:
+
+INT. GRACE'S BEDROOM - CONTINUOUS
+
+Grace is sitting in front of an antique mahogany vanity mirror, wearing a
+nightgown and shower cap.  She stops and studies her reflection.  We see
+her night gown is open at the top, exposing the full ten inch surgical
+scar on her chest.  She touches it lightly and sighs.
+
+CUT TO:
+
+DINING ROOM - CONTINUOUS
+
+The men are laughing as Bob collects the pot...Marty puts a pitcher of
+beer on the table and an espresso in front of Angelo, a milk in front of
+Emmett.
+
+BOB
+Unbelievable...
+
+MARTY
+It's your lucky night...
+
+CUT TO:
+
+BACK OF RESTAURANT
+
+Grace, in her nightgown and robe, walks down the stairs, grabs a raincoat
+off a hook and walks into the
+
+DINING ROOM,
+
+putting on the raincoat, she walks up to the table.  The guys all stand
+and then sit, except Bob, who is a bit stunned...
+
+GRACE
+Grandpa, the rain's let up a bit, so I'll be out back covering...
+
+Grace sees Bob and immediately touches her head -- yep, shower cap's
+still on.  She closes her bathrobe, wrapping the raincoat snugly around
+her neck.
+
+GRACE
+(to Bob, taken aback)
+Hello...
+
+MARTY
+Robert, this is my granddaughter.  Grace.
+
+BOB
+(now stands)
+Hi, yes... We met last evening.  I was here with...the water thing...
+
+GRACE
+(very politely)
+Nice to see you again.  Robert.
+
+BOB
+Bob.  Bob's fine.
+
+The guys all remain in their seats, looking up and enjoying the two of
+them as they talk.
+
+BOB
+I left my phone here...
+
+GRACE
+Oh, "that" Bob.  You're Bob.  I'm Grace, well, you know that... We just
+said it... Well, excuse me... I'm not dressed and my hair is...well,
+hiding... I have your pajamas...phone...behind the bar...
+
+MARTY
+(pushed by Angelo)
+I'll get it Grace, you sit.
+
+Marty walks over to the bar.
+
+GRACE (cont'd)
+No I can't sit.
+(she wants to run)
+I have to go and cover...
+
+ANGELO
+Your bike?  I'll do it.
+
+GRACE
+No Angelo, my new plants.
+
+BOB
+...If I can be of any help?
+
+GRACE
+(walking quickly away)
+No...thanks...
+
+ANGELO
+Yes.  You can help her, Roberto will help you.
+
+Grace turns and gives Angelo a wide eyed "so help me God" look as she
+exits out the back door.  Bob follows Grace out to the back courtyard.
+
+Marty comes from behind the bar with Bob's phone and waits for the door
+to close, then sets the phone down on the bar.
+
+CUT TO:
+
+EXT. O'RIELLY'S - BACK COURTYARD - GARDEN
+
+The quaint little back garden is now dark, lit only by the street lamp.
+The rain is soft, not enough to blink at...
+
+Bob is covering a medium sized plant with a piece of plastic.  Grace
+helps straighten the plastic out on one end.
+
+GRACE
+(he's sweet)
+Sorry about my grandfather.  Some people take in stray dogs and cats,
+with Grandpa, it's people... Not that you're...
+
+BOB
+Oh, yes I am...
+(stands behind a shrub)
+Should we do this one here?
+
+GRACE
+It's okay, I can do it.  There's just these two left.
+
+Grace moves around the shrub and so does Bob, causing them to be,
+physically, very close.
+
+GRACE
+Excuse me...
+
+BOB
+Sure, I'll just go around.
+(filled with her scent, quietly)
+You smell great.
+
+GRACE
+(babbles, nervous)
+They get yellow if they get too much moisture this early on... I put
+them in the ground too soon... And of course I just watered them this
+morning...
+(sweetly, embarrassed)
+You can go if you want.  I can do this.
+
+Grace is careful to keep her neckline covered.  Bob notices the rusted
+bike, the easel and the painting pushed under an awning.
+
+BOB
+No, no, I don't mind... You bought me dinner last night.
+(re: painting)
+Who's the artist.
+
+GRACE
+Oh, that... I painted that.
+
+Bob goes to the easel to take a closer look.
+
+BOB
+Wow...
+(teasing)
+Can't even see the numbers through the paint.
+
+Grace laughs.  Bob looks at her, it's nice to hear a woman's laugh.
+
+ALL
+What?
+(touching her head)
+I look ridiculous.
+
+BOB
+No.  It's a lovely...hat.
+
+GRACE
+I'd take it off now, but then I'd have "shower cap head"... Of course
+you saw my hair last night... Not that you were looking at me.  But we
+did speak, so maybe you noticed my head--hair... my hair--my head of
+hair... Okay...
+
+Bob, smiles...  God she's cute, awkward, cute, sweet, innocent...
+
+BOB
+Can I take you out sometime?
+
+Bob is surprised by his own words.
+
+GRACE
+Yes?
+
+BOB
+Is that a question?
+
+GRACE?
+No.  It's a yes-yes.
+
+BOB
+Tomorrow night?
+
+GRACE
+Yes.
+
+A heavy drizzle of rain starts, but they don't move...
+
+BOB
+I'll pick you up at eight?
+
+GRACE
+Yes.
+
+BOB
+Sure?
+
+GRACE
+Yes.
+
+BOB
+You're a very difficult woman.
+
+Grace laughs at herself.
+
+BOB
+(re: the rain)
+You go ahead in, I'll get these last two...
+
+GRACE
+I'll find your phone.
+
+Grace smiles and enters the back door of the restaurant.
+
+CUT TO:
+
+INT. O'RIELLY'S - CONTINUOUS
+
+Before Grace enters the dining room, Marty and the guys hear the sound of
+the door...
+
+ANGELO
+Hurry up, get in the kitchen!
+
+WALLY
+What?
+
+MARTY
+(excited)
+They're coming back in.
+
+WALLY
+(looking at his cards)
+But I have my best hand.
+
+EMMETT
+(takes advantage)
+New shuffle if we re-locate.
+
+ANGELO
+Fair enough.
+
+Marty ushers them quickly into the kitchen.  Wally jogs off still
+holding on to his cards.
+
+They disappear just in time for Grace to enter the dining room.  She is
+"really" happy, almost floating, drunk with romance...
+
+She sees Bob's phone on the bar, picks it up... Bob enters, wipes his
+feet.  Grace hands him his phone.
+
+BOB
+Thanks...
+
+GRACE
+Sure...
+
+They walk to the front door.
+
+BOB
+Eight then...
+
+GRACE
+Eight...
+
+Grace stands silently, watching Bob get in his shiny white truck and
+drive off into the moonlight.
+
+She turns and notices the "guys table" is now empty.  She listens and
+hears voices coming from the kitchen.
+
+GRACE
+Grandpa?  Angelo?
+
+The voices immediately quiet.
+
+MARTY (O.C.)
+We're not here.
+
+She rolls her eyes...
+
+CUT TO:
+
+INT. MEGAN'S AND JOE'S HOUSE - LATER - SAME EVENING
+
+Megan is in the kitchen, picking up toys.  There's a knock at the door.
+She looks at the clock: one A.M.  She goes to the door.
+
+MEGAN
+(peeking out)
+Who is it?
+
+GRACE (O.C.)
+Me.
+
+Megan opens the door, REVEALING a soaking wet Grace, standing in the
+rain.
+
+GRACE
+(beaming)
+I met someone.
+
+CUT TO:
+
+EXT. A CEMENT STOOP - SAME EVENING
+
+Bob sits on his jacket, as he leans against a fence eating a hotdog 'n
+fries off his lap and talking to someone.  We can't see who it is.  Bob
+offers them a fry...
+
+BOB
+I guess this is the first woman I've noticed since... Well, not the
+first woman I've "noticed", you know as a guy, but as a man.  You know
+what I mean...
+
+CUT TO:
+
+REVERSE ANGLE,
+
+We see Sydney, staring back at Bob, eating a french fry.
+
+BEAT.
+
+BOB
+I'm building you a great place.
+
+CUT TO:
+
+INT. GRACE'S BEDROOM - EVENING
+
+Grace sits on the edge of the bathtub finishing up a call with Megan...
+
+MEGAN
+(through the phone)
+I'm just saying for safety--don't shave your legs, because then you
+won't--definitely won't let it go to far.
+
+GRACE
+Megan, it's a first date.
+
+MEGAN
+I married a first date.
+
+Grace drops her robe and steps into the bubble bath.
+
+MEGAN (cont'd)
+I'm sure you plan on being levelheaded, but once you're in the moment,
+the male brain seems, well I don't know... everything they say suddenly
+sounds brilliant.  Hairy legs are your only link to reality.
+
+GRACE
+You should needlepoint that on a pillow.
+
+MEGAN
+All I know is, it kept me a virgin till I was eighteen.
+
+GRACE
+Megan, I'm going to be thirty, I have a ten inch scar down my chest, and
+I'm a virgin...
+
+MEGAN
+Shave your legs.  Call me after.
+
+Grace hangs up the phone and relaxes in the tub, leaning her head back,
+she closes her eyes...
+
+DISSOLVE INTO:
+
+EXT. O'RIELLY'S - COURTYARD
+
+Grace and Bob stroll up to the courtyard.  Bob gallantly opens the gate,
+letting Grace pass in front of him.  Her eyes never leave his.  He pulls
+a daisy from the garden and places it gently in her hair.  She smiles.
+
+He runs his hand down the side of her face...  Grace gazes into his eyes,
+paralyzed with romance.  Bob wraps his arm tightly around her waist,
+pulling her closer.  He takes her face into his hands and kisses her
+passionately and then leans her against the fence.  Grace, totally "under
+his spell", slides down the fence and onto the grass.
+
+Bob is now on top of her.  She looks up trustingly into his eyes as he
+runs his hand along her "shaven" leg, up to her waist and her
+breast...her eyes never leaving his.  Now at the height of passion, in
+one swift move, he rips open Grace's blouse, REVEALING her scar.  Bob
+looks down and gasps in horror.
+
+CUT TO:
+
+CLOSE UP - GRACE
+
+Gasping, she grabs the sides of the tub and shakes off the dream.
+Putting her head back, she sighs, as we...
+
+CUT TO:
+
+EXT. COURTYARD - NIGHT
+
+Marty, sweeping the cobblestone walkway, hears footsteps and Grace's
+laugh.  He quickly discards the boom and scurries to a small table,
+lights a candle, pulls the two metal lawn chairs together, so they're
+side by side, then runs inside.
+
+CUT TO:
+
+EXT. STREET - CONTINUOUS
+
+Grace and Bob stroll up to the courtyard.  Bob's jacket is over Grace's
+shoulders...as they walk and talk...
+
+BOB
+My Uncle Al always had a cigar going... And in his other hand he carried
+a bean bag ash tray, red plaid...he'd love to drive down alleys and pick
+up other people's junk.  I was his spotter.  My mother would get so mad.
+But without fail, come her birthday, Uncle Al would make some great lamp
+or table out of the lumber and stuff we collected.  She loved everything
+he ever made... But every time he collected stuff, they'd have the same
+argument... "Don't bring that junk in my house!" "It's not junk!"  Well,
+anyway, I've loved building things ever since...
+
+They walk a moment without words, then...
+
+GRACE
+So you and Katherine never had children?
+
+BOB
+No... Thought we had time.  Sometimes it seems like yesterday and others
+when it seems like another life...
+
+GRACE
+(sighs)
+...I know what you mean...
+
+They reach the courtyard.
+
+BOB
+I've done all the talking haven't I?
+
+Bob reaches to gallantly open the gate for Grace, identical to the way he
+did in Grace's dream.  However, the gate is stuck.  He tries again--still
+stuck.  Bob finally gives it a strong tug, but it opens too quickly and
+he loses his balance.  Bob inadvertently puts his hand around her waist
+and pulls her close to prevent him from falling over... They are close
+just like in Grace's daydream... We see the Deja vu expression on her
+face...
+
+GRACE
+You okay?
+
+BOB
+Fine...just fine.
+
+Bob's so close, he leans in to kiss her -- Grace SLAPS him.  Bob stands
+there, totally stunned...
+
+GRACE
+(holding her hand)
+Oh, my God--I'm so sorry.
+
+BOB
+(rubbing his face)
+Geeze, I was just going to kiss you.
+
+GRACE
+I know--I'm sorry.  I mean--it's not you...
+
+BOB
+(still stunned)
+I was just going to kiss you.  A small peck on the cheek.
+
+GRACE
+...it's...I had this dream about you--and...
+
+BOB
+(shakes his head)
+It must have been a nightmare.
+
+GRACE
+No, you were very sexy...
+
+BOB
+(thrilled)
+You had a sex dream about me?
+
+GRACE
+No, of course not.  Well, it might have been.  I don't know--I stopped
+it...
+
+BOB
+...uh-huh.
+
+GRACE
+I didn't want to--I mean--I just met you--I don't really even know
+you...
+
+BOB
+Sometimes those dreams are better with strangers.
+(testing his jaw)
+Ah...
+
+GRACE
+Are you okay?
+
+She raises her hand to touch his face, he flinches.
+
+BOB
+Fine, fine...
+(laughs)
+Must have been some dream...
+
+GRACE
+You ripped my blouse...
+
+BOB
+I'm sorry.
+
+GRACE
+It's okay...
+
+BOB
+Nice blouse, was it?
+
+GRACE
+Well, it was...
+(points to blouse she's wearing)
+This one.
+
+BOB
+Very nice...
+
+GRACE
+Thank you.
+
+BOB
+I didn't mean to...be so forward... Not in the dream--but here just
+now...
+
+GRACE
+No, please, it's me... I'm...
+
+Suddenly Grace takes Bob's face in her hands, kisses him on the lips and
+joyfully runs inside--her feet barely touching the ground.
+
+GRACE
+Good night.
+
+BOB
+(quietly)
+'Night...
+
+Bob stands alone in the courtyard.  Life is good.  He blows out the
+candle--leaving him in total darkness...
+
+BOB (cont'd)
+Great.
+
+FADE OUT:
+
+EXT. CONSTRUCTION SITE - EARLY MORNING
+
+We see Jeff, pacing outside the trailer, as he waits for Bob to arrive
+and yell at him.  Mike steps out of the trailer and checks his watch,
+just as Bob pulls up in his truck.
+
+Bob jumps out, carrying a tray of Starbuck's coffees.  He walks over to
+the guys, who can't help but notice the spring in his step.
+
+BOB
+(handing each guy a coffee)
+Morning, Jeff.  Morning there, Big Mike.
+
+Mike and Jeff exchange a "what's gotten into him" look.
+
+JEFF
+(disbelief)
+Mornin'...
+
+Mike and Jeff keep their eyes on Bob, who continues over to the...
+
+SERVICE ELEVATOR,
+
+set up on the outside frame of the high rise.  Bob stops, giving his
+third coffee to some WORKMAN busy hammering.  The workman smiles.  Bob
+smiles back and then takes the last coffee for himself.  He "frisbee"
+tosses the cardboard tray into a trash can and jumps on to the elevator.
+We FOLLOW Bob on his ride to the top of the building.
+
+CUT TO:
+
+MIKE AND JEFF ON THE GROUND,
+
+their heads turned upwards, watching Bob.  Mike takes a sip of his
+coffee, looks to Jeff...
+
+MIKE
+(with a shrug)
+Whatever.
+
+CUT TO:
+
+INT. TURNER BOWLING ALLEY - LANE 13 - NIGHT
+
+We FOLLOW A BRIGHT RED BOWLING BALL as it rolls at top speed into a set
+of pins, creating the LOUD CRASH of a powerful strike.  We SPIN AROUND
+to REVEAL Wally, performing his signature "strike dance" for his
+audience: Megan, Joe, Marty, Angelo, Emmett, Sophie, Grace.  They
+applaud.
+
+WALLY
+(big smile)
+It's the new hip.
+
+Joe finishes re-tying his shoes, he's next... He picks up his regular
+black ball just as Wally's BRIGHT RED BALL pops out of the shoot.  We
+know it's Wally's ball because WALLY is inscribed in LARGE FANCY LETTERS
+across it... Joe stares at the ball as it rolls up the return...
+
+JOE
+Wally, which one is yours?
+
+Wally's leaning over Sophie, checking his score.
+
+WALLY
+Shut your trap...
+
+SOPHIE
+I didn't say anything.
+
+WALLY
+I'm talking to Joe...mark my strike.
+
+SOPHIE
+I did, I'm using stars instead of x's now...
+
+WALLY
+Ah, Crimeny!
+
+ANGELO
+Doesn't matter how she marks it.  I'm still beating ya.
+
+Bob walks up and sets down a tray of draft beers, plus one espresso for
+Angelo, and a milk for Emmett, who is busy collecting cash from Marty...
+
+EMMETT
+Ten spot on the next shot says it's a strike...
+(looks up)
+After Joe...
+
+BOB
+(handing Emmett a ten)
+I'm in...
+
+MARTY
+(yells)
+C'mon Joe, send 'em running...
+
+Joe takes his shot.  It looks good.  He walks back with confidence... In
+the b.g. we see just the two outside pins are left standing...
+
+WALLY
+Grandma's teeth.  Nice.
+
+JOE
+(winces)
+It's these damn shoes...
+
+ANGELO
+Maybe you could knock 'em down with a fire hose?
+
+MARTY
+Gracie, Honey, you're up next on the right.
+
+Grace watches Megan clean up a spare in the next lane.  Megan
+victoriously smacks Grace five as they meet on either side of the ball
+return.
+
+GRACE
+How do I look?
+
+MEGAN
+(drying her hands over the blower)
+The best ever. I've never seen you so happy.
+
+GRACE
+God I'm hot...
+
+MEGAN
+It's eighty degrees out and you're wearing a turtle neck...
+
+GRACE
+It's cotton...
+
+MEGAN
+Too bad you didn't meet him in the fall, you would have been safe for
+months...  Tell him.
+
+GRACE
+I will.
+
+MEGAN
+He's a great guy, it won't make a difference to him, besides, eventually
+he's gonna want to get, you know, intimate.
+
+GRACE
+Megan please.
+
+MEGAN
+Just tell him...or he'll think you're a lesbian or something.
+
+GRACE
+What?
+
+MEGAN
+It's very trendy right now.
+
+Emmett's loud voice interrupts them...
+
+EMMETT
+You two's, do your yapping at the beauty parlor!
+
+MEGAN
+Take it easy, Dad.
+
+Bob walks over to Grace with a drink.
+
+BOB
+I got you a hot chocolate.
+
+GRACE
+Oh?
+
+BOB
+I thought maybe you were cold.
+
+GRACE
+Thank you.
+
+Their eyes lock for a beat, then Bob kisses her...
+
+MARTY
+C'mon now, let's bowl.
+
+Bob and Grace come back to reality.
+
+BOB
+(re: the hot chocolate)
+I'll just hold on to this for ya...
+
+Grace is light as a feather, she lines up her shot, good form, releases
+the ball... It rolls with confidence right down the center and STRIKE!
+Everyone claps, Grace goes wild.  She does a touchdown dance that goes
+on a bit too long.  Everyone stops clapping and just stares... She
+realizes and recovers.
+
+GRACE
+Alrighty, who's up next?
+
+Angelo smiles, looks at Marty:
+
+MARTY
+Bob, you're up!
+
+ANGELO
+You're taking turns away?  I'm next.
+
+SOPHIE
+Angelo's up.
+
+Bob quickly puts his beer down, just as Charlie cautiously walks up to
+the group.
+
+CHARLIE
+Bob?
+
+BOB
+Hey, hey, you made it...
+
+CHARLIE
+I thought I was meeting you at a bar?
+
+BOB
+There's a bar here.  Grace!
+
+CHARLIE
+(looks at the old guys)
+What is this?
+
+BOB
+We're bowling.  What?
+
+Grace comes over.
+
+GRACE
+Hey Charlie, we're already in the ninth frame, or you could join the
+game.
+
+CHARLIE
+Oh shoot.  That's OK, maybe next time.
+
+GRACE
+Everyone, this is Charlie.
+
+The whole gang looks up to greet him...
+
+CHARLIE
+Hi...everyone...
+
+EMMETT
+(holding cash)
+You want in?
+
+BOB
+Sure he does...
+(to Charlie)
+Tenspot.
+
+Charlie doesn't ask questions and gives Emmett ten dollars.
+
+EMMETT
+For or against?
+
+CHARLIE
+Huh? For... I guess...
+
+Bob runs up to take his turn.  Joe hands Charlie a beer.  Marty,
+clapping his hands like an old baseball coach...
+
+MARTY
+(yells)
+C'mon Bob...tenth frame and you're looking at beating your all time
+highest score...
+
+CHARLIE
+(To Joe)
+I didn't know he bowled...
+
+MARTY
+...of sixty-seven.
+
+JOE
+He doesn't.
+
+WALLY
+(checks score sheet)
+You're sittin' on a sixty-six...
+(very seriously)
+You wanna use my ball, go ahead...
+
+BOB
+That's okay, Wally.  I"m not really dressed...
+
+The whole gang all laughs it up...even Charlie joins in...
+
+BOB
+(continuing)
+I'd like to dedicate this next shot to Grace...
+(gestures towards Grace)
+who brought me back to the game after a twenty-five year absence.
+That's right, before I was your beer runner and...
+(to Emmett)
+milk man... I hadn't bowled since Andee Jankovsky's thirteenth birthday
+party... So baby, this one's for you.
+
+The guys all hoot and holler.  Grace and Megan laugh.  Sophie is choked
+up...
+
+EMMETT
+(patting Bob on the back)
+You get a strike here, we go fifty-fifty...
+
+A hush falls over the group... Bob lines up his shot like a pro,
+arm back, perfect form, nice approach, smooth release...
+
+Everyone's eyes follow the ball down the lane straight into the gutter.
+
+JOE
+Try your other arm!
+
+Megan smacks Joe.
+
+WALLY
+C'mon Bobby, shake 'em up...
+
+All the guys join in, cheering him on. Bob stands by the ball return.
+Picks up his ball. Confidently, he approaches the lane... lines up his
+shot, arm back, perfect form, nice approach, POWERFUL release...
+
+We FOLLOW the ball as it speeds down the center of the lane, suddenly
+veering off to left and cleanly smacking TWO PINS off the end.
+
+The gang goes nuts...
+
+CUT TO:
+
+INT. O'RIELLY'S - LATER - SAME NIGHT
+
+Restaurant is closed, except for the gang and some other bowlers, who
+are just leaving.  Music is playing, plates of food are scattered on the
+tables, along with half-filled bottles of wine.  Sophie and Marty clean
+up a bit.  In the b.g., a table cloth with the number "68" is
+thumbtacked on a wall.  Charlie stands at the bar with Emmett
+
+EMMETT
+I've always found that Sammy Davis was the most talented and I've always
+liked Bill Cosby...
+
+CHARLIE
+Oh, yeah, they're both great.
+
+Grace joins them and hands Charlie some leftovers wrapped in foil.
+
+GRACE
+This will be good for about a week.  I put some bread in there, too...
+
+CHARLIE
+Thank you... Bob, I had a great time.
+(to the gang)
+See you Guys...
+
+The gang all responds with a friendly goodbye, "Bye Doc", "See y'Chuck",
+etc.
+
+Charlie takes a look around the cozy dining room, with its warm family
+type atmosphere... Just for an instant, one might suspect he's a bit
+jealous... Charlie leaves.  Marty locks the door behind him.
+
+GRACE
+He's very sweet.
+
+BOB
+Charlie?  Oh, yeah...
+
+From across the room...
+
+EMMETT
+(shuffling cards)
+Hey, there, Bob-o, you in tonight?
+
+BOB
+No, Emmett, Grace and I are gonna enjoy a glass of wine out back...maybe
+take a walk...
+
+WALLY
+You two want my cadillac tonight?
+
+GRACE
+On, no... That's okay...
+
+WALLY
+Just had her waxed...
+
+BOB
+(winks at Grace)
+Thanks Wally... You need a sweater?
+
+GRACE
+Nope...
+
+Marty brings some poker chips over from the bar to the "regular" table.
+
+MARTY
+I've got a new candle out there, keeps the bugs away...
+
+Bob grabs a bottle of wine and two glasses as he and Grace exit to the
+courtyard.  Marty peeks through the window...
+
+ANGELO
+Marty!
+
+MARTY
+What?
+(still peeking)
+I think she'll tell him...
+
+EMMETT
+(dividing poker chips)
+I don't see what the big deal is.  I once dated a girl with a club foot.
+She had the big shoe and everything...
+
+MARTY
+You're a saint...
+
+SOPHIE
+(disappears into the kitchen with a pile of tablecloths)
+The longer she waits the harder it will be...
+
+Angelo is at the stereo looking through CD's.
+
+ANGELO
+Let's put on some music for 'em...
+
+MARTY
+(walks to the stereo)
+Let's see...
+(pulls out CD)
+Dean...
+
+ANGELO
+Pavarotti.
+
+EMMETT
+Bing...
+
+WALLY
+(walks to stereo)
+Let me handle this.
+
+MARTY
+No "Bobby"...
+
+WALLY
+We should put on something modern... Where's your new albums?
+
+EMMETT
+(joins them at stereo)
+CD's.
+
+WALLY
+Yeah, yeah...
+
+MARTY
+(holding up two CD's)
+Here's my hippest stuff...
+
+WALL
+(immediately grabs one of them)
+Oh, this is my favorite...
+
+As the committee huddles around the stereo, we
+
+CUT TO:
+
+EXT. COURTYARD - CONTINUOUS
+
+A calm breeze flows through the garden.  Grace lights the candle and Bob
+pours the wine as... the first familiar bars of Diana Ross and Smokey
+Robinson's "I'M GONNA MAKE YOU LOVE ME" pour into the courtyard.  Bob
+and Grace freeze, then give each other a look.
+
+The lyrics begin as only Smokey can sing them...
+
+SMOKEY
+I'm gonna do all the things to you, a girl wants a man to do.. Oh,
+baby..
+
+GRACE
+Oh, dear...
+
+Bob laughs.
+
+CUT TO:
+
+INT. O'RIELLY'S - CONTINUOUS
+
+The guys stand at the stereo.  Wally's peeking out the window...
+
+MARTY
+What's happening?
+
+WALLY
+Let it work its magic...
+
+CUT TO:
+
+EXT. COURTYARD - CONTINUOUS
+
+Grace, embarrassed...
+
+GRACE
+I'll tell them to turn it off...
+
+BOB
+No, no, no.
+(puts his hand out)
+C'mon...
+
+Grace hesitates, then slowly walks back towards Bob...
+
+SMOKEY
+'Cuz every minute, every hour, I"m gonna shower you with love and
+affection, look out girl, it's coming in your direction...
+
+CUT TO:
+
+INTO. O'RIELLY'S - CONTINUOUS
+
+The guys join Wally at the window...
+
+WALLY
+It's working...
+
+They all start dancing and singing the refrain...
+
+SMOKEY
+'Cuz I'm gonna make you love me, ooh yes I will, yes I will...
+
+CUT TO:
+
+EXT. COURTYARD - CONTINUOUS
+
+Bob is being funny, by playing up the lyrics and acting 70's cool...
+Grace is laughing... Bob dance/walks over to her...
+
+DIANA ROSS
+Our love is strong, you'll see I know, you'll never get tired of me...
+Oh baby...
+
+Bob pulls Grace to him.  They dance together, truly getting a kick out of
+the song...
+
+DIANA ROSS
+I'm gonna use every trick in the book, I'll try my best to get you
+hooked... oh baby... 'Cuz every night, every day, I'm gonna say, I'm
+gonna get ya, I'm gonna get, look out boy, 'cuz I'm gonna get you...
+
+Bob twirls Grace around...
+
+DIANA ROSS (cont'd)
+I'm gonna make you love me... oooh, yes I will...
+
+MONTAGE:
+
+EXT. LAKEFRONT
+
+Bob jogs along the lake, getting back in shape
+
+EXT. O'RIELLY'S - COURTYARD
+
+Grace's cutting flowers in the garden.
+
+EXT. LINCOLN PARK ZOO
+
+Bob and Mike help guide a CRANE OPERATOR as he lowers a beam across the
+outer wall of the habitat, which is slowly taking shape.
+
+INT. BOB'S APARTMENT
+
+Bob runs around picking up clothes 'n stuff, tossing some behind the
+couch and others in the hall closet.  Mel watches him from the door, of
+course.
+
+INT. O'RIELLY'S
+
+Wally's mouthing the words of the song to Sophie as she folds clean
+tablecloths.
+
+EXT. LINCOLN PARK ZOO
+
+Grace's drawing a sketch of habitat, as Bob and a small group of tourists
+look over her shoulder... Bob smiles with pride.
+
+INT. BOB'S APARTMENT
+
+Grace comes in the door with the flowers from her garden.  Bob watches in
+amazement as Mel follows her right into the kitchen.
+
+As Grace puts the flowers in a vase on the kitchen table, she looks up at
+a collection of PHOTOS of Bob, Katherine and Mel that decorate the
+walls... She smiles.
+
+INT. TURNER BOWLING ALLEY
+
+The gang are all wearing RUELAND DESIGN BOWLING SHIRTS, even Charlie...
+
+INT. MEGAN AND JOE'S HOUSE
+
+Grace and Megan are at the kitchen table, each with a coffee.  An open
+box of cookies between them...
+
+GRACE
+I'm telling him tonight.
+
+MEGAN
+I've heard that before... He's perfect, you know.
+
+GRACE
+Yeah.  For me he is.
+
+MEGAN
+Don't get me wrong.  He's no Joe.
+
+Joe enters, wearing a soiled t-shirt that's a bit snug over that belly
+of his...
+
+JOE
+Honey, Bridgette got sick on me.
+(he takes off the t-shirt and hands it to Megan)
+I gave her some Tylenol and put her in pajamas.  She's sleeping in our
+bed.
+(rubbing his tummy)
+Hey, Al.
+
+GRACE
+Hey, Joe...
+
+Megan and Grace share a laugh.
+
+JOE
+What?
+
+MEGAN
+Put a shirt on, Joe... or Grace will never be satisfied by another man.
+
+For the girls' amusement, Joe begins performing some strong man poses as
+the final notes of "I'M GONNA MAKE YOU LOVE ME" fade out.
+
+We do the same...
+
+FADE OUT:
+
+UP ON:
+
+EXT. LINCOLN PARK ZOO - DAY
+
+A FULL SHOT of the new Gorilla Habitat, under the last stages of
+construction.
+
+A SIGN, along with GRACE'S PAINTING of the new structure, reads: SYDNEY
+AND HIS FAMILY BUILD THEIR DREAM HOUSE.  COMPLIMENTS OF "THE A.R.T.S."
+(Animal's Right To Survive) AND RUELAND DESIGN.  In Loving Memory of Dr.
+Katherine Rueland.
+
+The CAMERA passes the sign and rests on Bob in his hard hat, busy
+looking over blueprints.
+
+The zoo is busy with visitors; FAMILIES, SENIOR CITIZENS, TOURISTS, and
+lots of CAMP KIDS; several run past Bob with cotton candy.
+
+BOB
+(yelling to a crew guy)
+Billy, could you put that dry wall over against the wired frame? Thanks.
+
+Charlie walks up, carrying a small LION CUB in his arms.  They walk and
+talk, as Bob continues surveying the work.
+
+BOB (cont'd)
+(to Charlie)
+Hey...
+
+CHARLIE
+(lifts the lion cub)
+My pride and joy.  King of Beasts.
+
+BOB
+He looks just like you.
+
+CHARLIE
+Bennington called, he wants to do your introduction.  Katherine would
+love that, huh?
+
+BOB
+(smiles, taking in the progress)
+She'd love this...
+
+CHARLIE
+You did it...
+
+BOB
+Took me long enough.
+
+They pass Jeff, the foreman from the high rise construction site who is
+overseeing a WELDING CREW spot welding joints.
+
+BOB (cont'd)
+Hey, Jeff, order one more sheet of the double glass panel.
+
+CHARLIE
+So, go for a beer?
+(teasing)
+Or is tonight Bingo?
+
+BOB
+Charlie, I'm sorry.  I can't, the dedication's next week...
+
+CHARLIE
+Take a break, you've been working like a dog...
+
+BOB
+Grace wants to talk, she's making dinner at my place.
+
+CHARLIE
+She wants to "talk", she's making you "dinner", she won't "spend the
+night"... You see what's going on here, don't ya?
+
+BOB
+No.
+
+CHARLIE
+It's a trap.  She's read that book, what's it called... "The Rules".
+
+BOB
+What are you talking about?
+
+CHARLIE
+It's a little game they play to reel a guy in...
+
+BOB
+(laughs)
+Well, it's working.
+
+Bob notices in the b.g. a group of YOUNG KIDS from a summer camp are
+assembling.
+
+BOB
+(yells to kids)
+Hey, look everybody!
+(points to Charlie)
+Baby lion!
+
+The kids flock to Charlie, who picks up the pace in hopes of escaping.
+Bob laughs and goes back to work.
+
+CUT TO:
+
+INT. BOB'S APARTMENT - EVENING - AFTER DINNER
+
+Mel's spot at the door is empty, except for his tennis ball, abandoned
+on the floor.
+
+CUT TO:
+
+LIVING ROOM,
+
+Grace is sitting on the sofa in the living room, sipping from a glass of
+wine, petting Mel, who is curled up next to her.  We hear way too many
+"beeps" coming from the kitchen...
+
+GRACE
+You sure you don't need any help?
+
+BOB (O.C.)
+No.  Believe it or not, I can microwave popcorn.
+(more beeps)
+There was a write up about the habitat's dedication in the Trib...
+
+GRACE
+Everyone's going next week, Grandpa wants to be there, and Emmett,
+Wally, the whole gang...
+
+BOB (O.C.)
+As long as you promise to be there...
+
+GRACE
+Promise...
+
+Bob comes from the kitchen...
+
+BOB
+(he pours the wine, then sits next to Grace)
+Sydney's thrilled.  We let him in for a bit this afternoon...he loves
+it...he can run...
+(sighs)
+Finally...
+
+GRACE
+You've worked so hard...
+
+Grace sweetly touches Bob's hair, as he rests his head back on the sofa,
+staring up at the ceiling...
+
+BOB
+It was worth it... Katherine's dream coming true... At least I was able
+to give her that... In a way I'm dreading the dedication because I can't
+imagine it without her... I've been angry for so long...
+
+Bob closes his eyes as Grace continues stroking his hair... A gentle
+moment passes...
+
+BOB
+(turning to look in her eyes)
+Thank you, Grace...
+
+He kisses her softly, then passionately, pulling her closer...
+
+BOB
+(kissing her)
+You're not going to slap me?
+
+GRACE
+(quietly)
+Only if you stop...
+
+BOB
+(lifting her hair, he kisses her neck)
+You wanted to tell me something...
+
+GRACE
+(breathy)
+Yes...
+
+Grace closes her eyes as Bob kisses the nape of her neck and slowly
+unbuttons her blouse...dangerously close to revealing her scar.
+
+GRACE
+...Now's a good time...
+
+Bob slides his left hand up her "clean shaven" leg...
+
+GRACE
+Oh dear...Bob...
+
+BEEEEP...
+
+GRACE
+(quietly)
+Popcorn's done...
+
+Bob keeps kissing her... The BEEEEP continues...it's loud...too loud.
+
+BOB
+Save my place...
+
+As Bob runs to the kitchen, Grace glances down at her partially
+unbuttoned blouse, then quickly downs her wine.
+
+BOB
+(leaning his head out the kitchen)
+You can put on some music...
+
+GRACE
+(gets up, buttons her blouse)
+Sure-yes-good...
+
+BOB
+I got you a CD.  It's in the pocket of my jacket, which is hanging on
+the door in the den.
+
+Grace goes into the
+
+DEN.
+
+She closes the door, to retrieve the CD from Bob's jacket.
+
+GRACE
+(smiling, yells back to Bob)
+Dean Martin.  Thank you.
+
+Just as Grace turns to leave, she notices the newspaper on Bob's desk,
+folded open to the article about the zoo.  She picks it up...
+
+BOB (O.C.)
+What?
+
+GRACE
+(reading article, yells back to Bob)
+I said, thanks for the...
+
+Beneath a PHOTO of SYDNEY and KATHERINE, Grace reads...
+
+"DR. KATHERINE RUELAND, DIED IN CAR ACCIDENT ON NOVEMBER 12,
+1995."...November 12th...
+
+Then something else catches her eye...
+
+She slowly moves her hand towards a PALE PINK LETTER, tucked in the
+blotter on the desk.  She picks it up, studies it a moment... a faint
+feeling rushes through her.  She covers her hand with her mouth as she
+carefully sits down, unable to comprehend the reality...
+
+HALLWAY
+
+Bob, carrying a bowl of popcorn, walks toward the den.
+
+BOB
+Grace?
+
+DEN,
+
+Bob opens the door.  Grace quickly puts the letter in her pocket.
+
+GRACE
+I'm sorry...
+
+BOB
+What?
+
+Grace speaks slowly, carefully...
+
+GRACE
+I have to go...
+
+BOB
+Now?
+
+GRACE
+Yes... I completely forgot. I... I promised Megan I'd... baby sit.
+
+Grace slowly-rushes past Bob out of the den.
+
+HALLWAY,
+
+She walks quickly, trying to maintain her composure.  Bob is right
+behind her...
+
+BOB
+(somewhat confused)
+I'll go with you...
+
+GRACE
+No, no...
+
+BOB
+Are you okay?
+
+GRACE
+(putting on her sweater)
+Yes...  You stay here.  I'll call you...
+
+She walks out to the front hall.  Her bike is just inside the door --
+she keeps moving -- kicking the kickstand up, it breaks off.
+
+GRACE
+This damn bike.
+
+She spins it around and briskly walks it out the door...
+
+CUT TO:
+
+EXT. FRONT PORCH - CONTINUOUS
+
+Bob stands right next to her, grabbing her shoulders...
+
+BOB
+Grace, slow down.  I'll call her and say you're on your way...
+
+GRACE
+No...the baby might be napping.
+(gets on the bike, desperate)
+I have to go.  I'm late...
+
+BOB
+(quietly)
+Okay, okay...
+(touching her arm)
+What did you want to tell me?
+
+Grace finally stops for a second and looks into Bob's eyes...
+
+GRACE
+(sweetly, with a hidden sadness)
+I love you.
+
+Before Bob can say anything, she peddles away--Mel follows.
+
+BOB
+Mel.  Stay.
+
+Mel stops.  Bob stands on the porch, watching Grace ride
+away...something's wrong.
+
+CUT TO:
+
+EXT. MEGAN AND JOE'S HOUSE - LATER - SAME EVENING
+
+A WIDE SHOT... Grace's bike is on its side on the front porch, the back
+wheel still spinning.  Through the screen door, we see Megan, hugging
+Grace tightly...
+
+FADE OUT.
+
+UP ON:
+
+INT. MEGAN AND JOE'S HOUSE - LATER - SAME EVENING
+
+Grace sits at the table, her face soaked and red from tears.  Megan
+places a glass of water in front of her; the phone rings...
+
+MEGAN
+I'm answering it this time.
+
+GRACE
+No, let the machine get it.
+
+MEGAN
+I'd be home by now...
+(answers phone)
+Hello... Hi Bib...
+
+Grace waves, "Please say I'm not here."
+
+MEGAN (cont'd)
+You just missed her...
+(looking at Grace's red, sad face)
+No, she seemed fine...tired?
+(remembers babysitting lie)
+Oh yes, from the kids... Yeah, she'll probably go straight to bed... I
+had the ringer off cuz of the baby... Hm-mm, I'd wait till morning...
+Sure, no problem.  Night.
+
+Megan hangs up the phone.  Grace starts crying again.
+
+MEGAN (cont'd)
+He's so in love with you...
+
+GRACE
+Ohmigod, ohmigod... What was God thinking?
+
+Megan grabs her purse and keys off the counter.
+
+MEGAN
+I'll take you back over, let's go...
+
+GRACE
+Wait...no... What do I say?
+
+MEGAN
+You just tell him...
+
+GRACE
+I know...but what do I say?
+
+MEGAN
+The truth...
+
+GRACE
+How?
+
+MEGAN
+Just tell him... Say, Bob...
+
+GRACE
+(waits for Megan to go on)
+You can't even say it.
+
+Joe, carrying a sleeping Tommy, walks into the kitchen, followed by
+Patrick in his scouts uniform.  Joe stops the minute he senses the mood
+and sees the expressions on Megan and especially Grace's face...
+
+JOE
+Who died?
+
+MEGAN
+No one...
+
+GRACE
+Bob's wife...
+
+JOE
+He's married?  That Bastard...
+
+TOMMY
+(still sleepy eyed)
+Bastard.
+
+MEGAN
+Joe, shh...
+
+JOE
+(to Grace)
+You want me to go over there and handle this?
+
+GRACE
+No...no...
+
+JOE
+(getting louder)
+I knew it...he was way too nice...
+
+MEGAN
+Joe! Out!
+(She physically leans on him)
+Take the boys upstairs...
+
+JOE
+What is going on?  Don't push... Grace, tell me what's going on...
+
+MEGAN
+(just blurts it out)
+Grace has Bob's dead wife's heart... now go...
+
+JOE
+(nonplused)
+Why didn't you just tell me that?
+(exits with the kids)
+Geeze...
+
+Megan just shakes her head at Grace... boy he's simple.
+
+CUT TO:
+
+EXT. O'RIELLY'S RESTAURANT - BACK COURTYARD - NEXT DAY
+
+Marty's sitting in the courtyard, smoking a cigar.  Grace sweeps the same
+spot of cobblestone over and over... Neither speaks a word for some
+time... Finally, Marty gets up and goes to Grace...
+
+MARTY
+Grace, it is a character of strength that God gives the most
+challenges...
+(puts his hand under her chin)
+Consider it a compliment.
+
+Bob walks up to the back gate.  Marty sees him first...
+
+BOB
+Excuse me, I was wondering if a beautiful artist lived here?
+
+Grace doesn't turn for a second.  Marty spins her around...
+
+MARTY
+Robert.
+(squeezes Grace's shoulders and turns to leave)
+I was just telling Grace you called and said you'd be stopping by.
+
+Marty exits.  Grace is a bundle of nerves... Bob opens the gate,
+REVEALING a shiny new red and white bike with a big ribbon on it.  He
+rings its BELL.
+
+GRACE
+A bike...
+(deeply touched)
+You bought me a bike...
+
+BOB
+(taking off the ribbon)
+You haven't even opened it yet.
+
+GRACE
+With a basket...
+
+She hugs him and holds on tightly...overcome with emotion.
+
+BOB
+I think she likes it.
+(he hugs her back, tightly)
+Grace...is everything okay?
+
+GRACE
+(pulls away, but stays close)
+No...I waited too long...to tell you something...
+
+BOB
+You're trembling...
+
+Grace takes Bob's hand and places it at the nape of her neck.  Softly,
+she guides his fingers down inside her blouse... She looks deeply into
+his eyes, while gently touching her scar with his fingers...
+
+GRACE
+A little over a year ago, I had a heart transplant...
+
+BOB
+Oh my God...
+(sigh of relief)
+I thought you were going to tell me you were married or something...
+(hugs her, squeezes her)
+Are you okay?
+(lets up a bit on the hug)
+Am I hurting you.. Are you alright now?
+
+Grace's eyes well with tears...
+
+GRACE
+No...yes...
+
+Now sobbing, she reaches into her pocket and takes out the pink
+envelope...
+
+GRACE
+This is me...
+(hands the letter to Bob)
+
+Bob stares at the familiar pale pink envelope... Grace watching him...
+should she touch him, should she speak, should she leave?
+
+Bob's legs weaken as he looks in Grace's eyes.  She grabs his arms and
+together they fall to their knees.  Grace comforts him without
+words...cradling him in her arms...slowly she presses his cheek to her
+chest... Bob closes his tearful eyes and listens.
+
+FADE OUT:
+
+UP ON:
+
+WHITE SCREEN
+
+The light slowly disperses as hints of blue sky peek through, we are
+DESCENDING, once again, through the CLOUDS as the morning sun breaks
+over the horizon...
+
+EXT. UNFINISHED STEEL FRAMED SKY SCRAPER
+
+We find Bob, in the same clothes from last night, sitting on a beam,
+holding the pale pink letter...
+
+EXT. O'RIELLY'S - BACK COURTYARD - MORNING - SAME DAY
+
+Grace, emotionally drained, carries her portfolio and a small suitcase.
+Two other suitcases lean against the back gate.  She walks her bike
+out...
+
+MARTY
+You're sure you can check this?
+
+Megan pulls up in her MINI-VAN, gets out, opens the back...
+
+GRACE
+Yes, I want to take it.
+
+Megan throws the suitcases in the back of the mini-van.
+
+ANGELO
+Fabrizio will pick you up at the airport in Rome.
+
+MARTY
+He should know you're leaving...
+
+MEGAN
+Grace, don't leave...
+
+GRACE
+(shakes her head)
+He wants time to think...
+
+Marty hugs Grace, wiping her tears away...
+
+MARTY
+You pray in Rome.  God'll hear you better...
+
+Grace gets into the van.  Megan pulls away.  Marty and Angelo stand at
+the curb, watching the car drive away...
+
+CUT TO:
+
+UP ON:
+
+EXT. HIGH RISE CONSTRUCTION SITE - NEXT MORNING - DAWN
+
+Bob, with Mike and Jeff following closely behind, walks at a brisk pace
+while dialing his cell phone...
+
+MIKE
+Electrical inspector, on the seventeenth floor.  He approves it, and we
+can go ahead and lay the cable...
+
+Bob tries dialing a number again.
+
+BOB
+Yeah, yeah, I'll go right up...
+
+Bob slaps the cell phone shut; the battery's dead.
+
+BOB (cont'd)
+Jeff, you're sure I didn't get any calls this morning?
+
+JEFF
+Phillip and Reagan about Wabash... That's it...
+
+They enter the trailer.
+
+CUT TO:
+
+INT. CONSTRUCTION TRAILER - CONTINUOUS
+
+Bob throws his hard hat down and immediately starts dialing the phone.
+
+Mike's lighting up a smoke.  Jeff's surrounded by blueprints.  They
+exchange a "something's up" look...
+
+BOB
+(into phone)
+Sophie?  Hi, is Grace there?... You're sure?  Marty there?
+Uh-huh...uh-huh... I don't have Meg's number on me...
+(quickly jots down Megan's number)
+Thanks...
+
+Bob hangs up and immediately dials Megan's number.  Jeff hands him an
+invoice to sign, which he does, while impatiently waiting for someone to
+pick up the phone on the other end...
+
+BOB (cont'd)
+(into phone)
+C'mon, Meg...
+
+JEFF
+Bob, I'll ride with you to the zoo... The suits are meeting us at
+noon...
+
+BOB
+(slamming the phone down)
+Damn it!  Mike, do me a favor...
+(hands him Megan's number)
+Keep trying this.
+
+MIKE
+And...
+
+BOB
+Tell them to hold and come get me.  C'mon, Jeff, let's take a look at
+seventeen.
+
+They exit.  Mike starts dialing.
+
+CUT TO:
+
+EXT. MEGAN AND JOE'S HOUSE - SAME DAY
+
+Bob is at the front door, talking to a teenage BABY-SITTER.
+
+BOB
+Was Grace with her?
+
+BABY-SITTER
+I don't know...
+(yawning)
+She left really early...before Regis and Kathie Lee...
+
+BOB
+(taking a pen from his pocket)
+Here's my cell number.
+(checks pockets for paper)
+Do you have a piece of paper?
+
+BABY-SITTER
+(grabs his pen)
+Go ahead.
+
+She's ready to write... on the palm of her hand.
+
+BOB
+O-kay...461-0192... Ask Megan to call me...
+
+The Babysitter casually blows on her hand to dry the ink...
+
+BABY-SITTER
+Yep...
+
+Bob glances at his watch, runs down the steps and hops into his truck.
+
+CUT TO:
+
+EXT. LINCOLN PARK ZOO - GORILLA HABITAT - LATER - SAME DAY
+
+Mike and Jeff exit the trailer, shaking hands with the suits...final
+touches are underway in the b.g.
+
+MIKE
+(looking around)
+Where is he?  I thought he was coming over with you...
+
+JEFF
+He left before I did...
+
+Charlie glances up and spots Bob, who's running towards them...they walk
+and talk...
+
+MIKE
+Where were you?
+
+BOB
+I'm here.
+
+MIKE (cont'd)
+They just left.  I told 'em your back went out, so if you see them, limp
+or something...
+
+BOB
+Jeff, any calls?
+
+JEFF
+Yeah...Charlie.  He's moving Sydney in...
+(looks at his watch)
+...about now...wants him comfortable by the dedication... P.R. thing...
+
+BOB
+Fine.  Talk to me about the pipes?
+
+MIKE
+They're in, waterfall will be on time...
+
+Bob looks up and sees Marty walking through the zoo...
+
+BOB
+You guys go ahead...
+(yells)
+Marty!
+
+Bob walks to join Marty... Marty sits on a bench, admiring the new
+habitat... A lush green, natural environment.  There are large trees, a
+pond, small waterfall... It's a "Garden of Eden".  A happy Sydney plays
+on one of the large Oak trees.
+
+MARTY
+I'd live here...
+
+BOB
+Yeah, it's nice, isn't it?  You alone?
+
+MARTY
+Yes...
+(gestures Bob to sit)
+Gotta minute?
+
+Bob glances back at Mike and Jeff, who are now busy with Charlie...
+
+BOB
+(he sits)
+Yeah sure...
+
+MARTY
+Now Robert, this is none of my business.  I know what has happened is
+overwhelming and you need time to sort it all out... But in your
+sorting, just know, that when I prayed and prayed for Grace to get
+another chance at life... I knew that if God blessed us, the heart would
+have to be from someone very special, if it's to be at home in
+Grace...when she met you...her heart beat truly, for the first time...
+
+Marty in a fatherly way, puts his hand on Bob's shoulder...stands to
+leave...
+
+MARTY (cont'd)
+Perhaps it was meant to be with you always...
+
+Marty slowly walks away, leaving Bob to his thoughts.
+
+As Bob looks up at the habitat, Sydney is sitting in the Oak tree
+staring at him... Bob does the "sign" for "Hi".  Sydney signs something
+back... Bob's not sure what.  Sydney repeats the sign... Bob gets up and
+goes to a DISPLAY illustrating the proper "sign" for each LETTER OF THE
+ALPHABET.
+
+He looks up at Sydney, who impatiently "signs" the same message.  Bob
+looks to the board and matches the first letter... "G".  He looks to
+Sydney, who hits his chest and "signs" again.  Bob glances down to the
+board... "O".
+
+BOB
+(spinning around)
+Marty!
+
+Bob starts to run after Marty... Charlie comes around the corner to see
+Bob running... He turns to Sydney...who repeats the "G" - "O".  Charlie
+laughs.
+
+CHARLIE
+(to Sydney)
+You can go in there...
+
+CUT TO:
+
+EXT. PIAZZA NOUVONA - ROME, ITALY - DAY
+
+The two historic fountains, on either end of the Piazza, are surrounded
+by ARTISTS painting on canvases.
+
+A group of THREE NUNS stops at Grace's easel... they "ooh" and
+"ahh"...Grace sits in front of a blank canvas.  She turns to them...
+
+NUN
+Bicicletta...
+
+GRACE
+Oh...my bike...
+
+Grace moves the easel so they can see the whole bike...
+
+NUN
+Que belisima...
+
+GRACE
+Oh thank you...grazi.
+
+The nuns gather 'round it...admiring the basket...
+
+GRACE
+Would you like to ride it?
+
+NUN
+Oh...no-no-no...
+
+Grace walks the bike out a bit and kicks up the kick-stand...
+
+GRACE
+Please...
+
+NUN
+(getting on the bike)
+No-no-no...
+(she rings the bell, turns to the other nuns)
+Una momento...
+
+And she rides off ringing the bell...pigeons scatter...
+
+AT THE FAR SIDE OF THE SQUARE,
+
+Bob searches through the sea of Artists in the square, some at easels,
+others on the ground, some sitting on the ledges of the fountains... he
+hears a bell and turns...
+
+The nun goes riding past on the bike... Bob squints his eyes...unsure of
+what he just saw... He curiously follows...is that Grace's bike?  He then
+picks up his pace...
+
+The nun negotiates the turn around a fountain.  Bob starts to run after
+her... the two disappear into the crowd...
+
+GRACE BACK AT THE EASEL,
+
+She prepares her paints while the nuns look patiently throughout the
+crowd for a sign of their friend... One of them starts to giggle and
+points... Grace turns to look...
+
+We see the nun on the handle bars, her habit flapping in the wind...
+
+Grace and the two nuns watch as the bike slows and stops in front of
+them... The nun hops off the handle bars, revealing Bob, smiling, a
+little winded.. As he gets off the bike...
+
+NUN
+(To Grace, indicating Bob)
+Tu Amour?
+
+GRACE
+(eyes fill with tears)
+Si...
+
+The three nuns stand there watching as Grace runs to Bob... As they
+embrace...
+
+GRACE
+(smiling through her tears)
+You came all the way to Italy...
+
+BOB
+Yeah... I did.  I came all the way to Italy...
+(not letting go)
+I love you, Grace.
+
+FADE OUT:
+
+UP ON:
+
+EXT. LINCOLN PARK ZOO - PRIMATE HOUSE - DAY
+
+The dedication ceremony, already in progress.  Bob and Charlie sit on
+the stage as a respectable-sized CROWD, patiently listens to Mr.
+Bennington, who nears the end of his long-winded speech...
+
+MR. BENNINGTON
+...but my money is not what we are here to talk about...
+
+Bob sees Marty, Wally, Emmett and Angelo, all with their hats in their
+hands, dressed in their Sunday best... He winks at Grace... She smiles...
+
+MR. BENNINGTON (cont'd)
+So it is with great pleasure, I introduce you to the man responsible for
+this beautifully designed Gorilla Habitat, Mr. Bob Rueland.
+
+A nice round of applause from the crowd, Bob goes to the...
+
+PODIUM,
+
+Behind him, the large PHOTO of KATHERINE AND SYDNEY.  (The same photo
+Katherine showed at "The A.R.T.S. Benefit Dinner".)
+
+All eyes are on Bob...
+
+BOB
+Thank you, Mr. Bennington, for the introduction and your contribution...
+
+Bennington stands and takes a bow.
+
+BOB (cont'd)
+I'd like to thank everyone who has contributed their time and energy, my
+incredibly dedicated crew, Lincoln Park's Board of Directors, and the
+Supervising Veterinarian, my dear friend, Dr. Charles Johnson.
+
+Courteous applause.
+
+BOB (cont'd)
+The dedication of this new home for Sydney and his family has great
+meaning for me...personally.  My wife... Katherine... Dr. Katherine
+Rueland, spent many years with Sydney... He was found wounded by
+poachers, it was Katherine who nursed him back to health.
+(looking at Grace)
+But most importantly, it was her uncompromising passion that brings us
+all here today.
+
+Grace smiles up at Bob, Marty takes her hand, squeezes it...
+
+BOB
+So it is with great honor that I dedicate this habitat in loving memory
+of Dr. Katherine Rueland...
+
+APPLAUSE.
+
+THE CAMERA, still holding on Bob, slowly RISES up and away, the CLOUDS
+FILL OUR FRAME...
+
+FADE TO WHITE.
+
+THE END
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

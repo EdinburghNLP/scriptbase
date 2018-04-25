@@ -1,0 +1,162 @@
+year	1984
+imdb score	7.5
+meta score	78
+genre	Horror
+keyword	dream
+keyword	nightmare
+keyword	freddy krueger
+keyword	psychopath
+keyword	death
+keyword	victim
+keyword	elm street
+keyword	1980s
+keyword	slasher
+keyword	burned alive
+keyword	boiler room
+keyword	terror
+keyword	serial killer
+keyword	reference to shakespeare's hamlet
+keyword	characters killed one by one
+keyword	blood
+keyword	plant in title
+keyword	springwood ohio
+keyword	jail
+keyword	father daughter relationship
+keyword	high school
+keyword	hanging
+keyword	funeral
+keyword	series
+keyword	reference to shakespeare's julius caesar
+keyword	face slap
+keyword	character's point of view camera shot
+keyword	finger cut off
+keyword	bathtub
+keyword	cigarette smoking
+keyword	pillow
+keyword	burn scar
+keyword	hit with a chair
+keyword	maggot
+keyword	mirror
+keyword	surrealism
+keyword	tree in title
+keyword	slow motion scene
+keyword	gothic
+keyword	child killer
+keyword	alarm clock
+keyword	house
+keyword	lifting someone into the air
+keyword	telephone
+keyword	cult film
+keyword	scar tissue
+keyword	serial child killer
+keyword	subjective camera
+keyword	open ended
+keyword	crucifix
+keyword	slasher flick
+keyword	bed
+keyword	hanged boy
+keyword	reference to william shakespeare
+keyword	climbing through a window
+keyword	electronic music score
+keyword	severed face
+keyword	mother son relationship
+keyword	person on fire
+keyword	falling asleep in class
+keyword	barred window
+keyword	broken back
+keyword	strangulation
+keyword	disfigurement
+keyword	husband wife relationship
+keyword	furnace
+keyword	severed finger
+keyword	bare chested male
+keyword	arrest
+keyword	corpse
+keyword	teen movie
+keyword	trail of blood
+keyword	first of series
+keyword	evil dead
+keyword	sledgehammer
+keyword	switchblade
+keyword	stabbed in the chest
+keyword	villain not really dead cliche
+keyword	nightmare becomes reality
+keyword	remade
+keyword	horror movie remade
+keyword	police chase
+keyword	cult director
+keyword	booby trap
+keyword	mother daughter relationship
+keyword	street in title
+keyword	burnt face
+keyword	15 year old
+keyword	supernatural
+keyword	falling from height
+keyword	gore
+keyword	good versus evil
+keyword	pulling something out of a dream
+keyword	blood spatter
+keyword	face ripped off
+keyword	topless female nudity
+keyword	foot chase
+keyword	loud sex
+keyword	alcoholic
+keyword	falling down stairs
+keyword	teenage girl
+keyword	murder
+keyword	boyfriend girlfriend relationship
+keyword	avant garde
+keyword	cellar
+keyword	sleep over
+keyword	claw
+keyword	dripping blood
+keyword	breaking through a door
+keyword	vigilantism
+keyword	coffee
+keyword	self mutilation
+keyword	lucid dream
+keyword	character says i love you
+keyword	police station
+keyword	body bag
+keyword	cemetery
+keyword	classroom
+keyword	headphones
+keyword	shared dream
+keyword	premarital sex
+keyword	hat
+keyword	cult male character
+keyword	sleep deprivation
+keyword	police lieutenant
+keyword	famous line
+keyword	death of son
+keyword	death of friend
+keyword	independent film
+keyword	surprise ending
+cast	John Saxon	Lt. Donald Thompson
+cast	Ronee Blakley	Marge Thompson
+cast	Heather Langenkamp	Nancy Thompson
+cast	Amanda Wyss	Christina 'Tina' Gray
+cast	Jsu Garcia	Rod Lane
+cast	Johnny Depp	Glen Lantz
+cast	Charles Fleischer	Dr. King
+cast	Joseph Whipp	Sgt. Parker
+cast	Robert Englund	Fred Krueger
+cast	Lin Shaye	Teacher
+cast	Joe Unger	Sgt. Garcia
+cast	Mimi Craven	Nurse
+cast	Jack Shea	Minister
+cast	Ed Call	Mr. Lantz
+cast	Sandy Lipton	Mrs. Lantz
+cast	David Andrews	Foreman
+cast	Jeff Levine	Coroner
+cast	Donna Woodrum	Tina's Mom
+cast	Shashawnee Hall	Cop #1
+cast	Carol Pritikin	Cop #2
+cast	Brian Reise	Cop #3
+cast	Ash Adams	Surfer #1
+cast	Don Hannah	Surfer #2
+cast	Leslie Hoffman	Hall Guard
+cast	Paul Grenier	Tina's Mom's Boyfriend
+cast	Kathi Gibbs	Girl in Nancy's English Class
+cast	John Richard Petersen	John, Kid in Classroom
+cast	Antonia Yannouli	Girl in Nancy's English Class

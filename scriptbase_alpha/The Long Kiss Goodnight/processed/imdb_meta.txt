@@ -1,0 +1,213 @@
+year	1996
+imdb score	6.7
+meta score	44
+genre	Action
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	amnesia
+keyword	prostitute
+keyword	torture
+keyword	state terrorism
+keyword	holiday inn
+keyword	no brakes
+keyword	killing an animal
+keyword	government assassin
+keyword	doll
+keyword	knife
+keyword	assassin
+keyword	charm bracelet
+keyword	coal chute
+keyword	child smoking
+keyword	angel costume
+keyword	cia
+keyword	bridge
+keyword	dead deer
+keyword	bomb
+keyword	church
+keyword	1990s
+keyword	sniper rifle
+keyword	outrunning explosion
+keyword	liquor
+keyword	mother
+keyword	car chase
+keyword	tanker
+keyword	white house
+keyword	manhattan new york city
+keyword	helicopter
+keyword	pie in the face
+keyword	hitwoman
+keyword	thrown from a car
+keyword	uzi
+keyword	alcohol
+keyword	interrogation by torture
+keyword	knife throwing
+keyword	chopping wood
+keyword	f word
+keyword	timebomb
+keyword	child hostage
+keyword	anti hero
+keyword	burning corpse
+keyword	hidden gun
+keyword	female warrior
+keyword	ice skating
+keyword	running up stairs
+keyword	kidnapping
+keyword	private detective
+keyword	exploding bridge
+keyword	strong female lead
+keyword	dental retainer
+keyword	u.s. canadian border
+keyword	one eyed man
+keyword	penis joke
+keyword	parade
+keyword	duct tape
+keyword	president of the united states
+keyword	female assassin
+keyword	presumed dead
+keyword	flare
+keyword	wet clothes
+keyword	martial arts
+keyword	christmas parade
+keyword	grenade
+keyword	talking to one's self in a mirror
+keyword	flashing
+keyword	christmas party
+keyword	shower
+keyword	con man
+keyword	train station
+keyword	secret service
+keyword	shot in the leg
+keyword	silencer
+keyword	black eye
+keyword	burned alive
+keyword	shootout
+keyword	arm in cast
+keyword	roadkill
+keyword	terrorism
+keyword	car accident
+keyword	cnn
+keyword	nail polish
+keyword	highway
+keyword	niagara falls
+keyword	thrown through a windshield
+keyword	terrorist plot
+keyword	pennsylvania
+keyword	shot in the head
+keyword	candle
+keyword	matchbook
+keyword	u.s. state department
+keyword	alcohol in brown paper bag
+keyword	betsy wetsy doll
+keyword	comic relief
+keyword	prison
+keyword	cult film
+keyword	corpse in water
+keyword	violence against a woman
+keyword	evil man
+keyword	new york city
+keyword	mirror does not reflect reality
+keyword	knife through the neck
+keyword	snow
+keyword	kneed in the groin
+keyword	rape joke
+keyword	reference to x men
+keyword	stabbed in the eye
+keyword	dyed hair
+keyword	explosion
+keyword	teenager
+keyword	gun fu
+keyword	rogue agent
+keyword	time bomb
+keyword	teddy bear
+keyword	cell phone
+keyword	brake failure
+keyword	drowning
+keyword	flashback
+keyword	treehouse
+keyword	pushed out of a car
+keyword	christmas
+keyword	mill
+keyword	hypodermic
+keyword	neo noir
+keyword	attempted drowning
+keyword	pomeranian dog
+keyword	vomit
+keyword	teacher
+keyword	the three stooges
+keyword	basement
+keyword	sniper
+keyword	police
+keyword	christmas carolling
+keyword	world trade center manhattan new york city
+keyword	falling into frozen water
+keyword	person on fire
+keyword	rifle
+keyword	exploding truck
+keyword	home invasion
+keyword	safe deposit box
+keyword	chemical bomb
+keyword	secret identity
+keyword	mother daughter relationship
+keyword	cigarette smoking
+keyword	islamophobia
+keyword	self loathing
+keyword	fbi
+keyword	smoking
+keyword	key
+keyword	different face in mirror
+keyword	action heroine
+keyword	blood
+keyword	carrot
+keyword	child in peril
+keyword	hand grenade
+keyword	identity
+keyword	tire iron
+keyword	lingerie slip
+keyword	female protagonist
+keyword	interrupted sex
+keyword	paternity revealed
+keyword	wetting pants
+keyword	hand to hand combat
+keyword	walk in freezer
+keyword	pistol
+cast	Geena Davis	Samantha Caine / Charly Baltimore
+cast	Samuel L. Jackson	Mitch Henessey
+cast	Yvonne Zima	Caitlin Caine
+cast	Craig Bierko	Timothy
+cast	Tom Amandes	Hal
+cast	Brian Cox	Dr. Nathan Waldman
+cast	Patrick Malahide	Leland Perkins
+cast	David Morse	Luke / Daedalus
+cast	Joseph McKenna	One-Eyed Jack
+cast	Melina Kanakaredes	Trin
+cast	Dan Warry-Smith	Raymond
+cast	Kristen Bone	Girl #1
+cast	Jennifer Pisana	Girl #2
+cast	Rex Linn	Man in Bed
+cast	Alan North	Earl
+cast	Edwin Hodge	Todd Henessey
+cast	Bill MacDonald	Hostage Agent
+cast	Gladys O'Connor	Alice Waldman
+cast	Frank Moore	Surveillance Man
+cast	G.D. Spradlin	President
+cast	Graham McPherson	CIA Director
+cast	Sharon Washington	Fran Henessey
+cast	Judah Katz	Harry
+cast	Robert Thomas	Alley Agent
+cast	John Stead	Deer Lick Sentry
+cast	Marc Cohen	Teenage Burnout #1
+cast	Chad Donella	Teenage Burnout #2
+cast	Deborah Kirshenbaum	Operator
+cast	Shawn Doyle	Donlevy Bum Cop
+cast	Ken Ryan	News Anchor
+cast	Susan Henley	Church Mother
+cast	Craig Eldridge	Crime Scene Reporter
+cast	Charles A. Tamburro	Helicopter Pilot
+cast	Larry King	Larry King
+cast	Gerry Bamman	CIA Man
+cast	Reginald Doresa	Bar Patron
+cast	Erin Gooderham	Church Lady
+cast	Michael K. Jones	Bum Cop #2
+cast	Lisa Wegner	Sara

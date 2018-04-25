@@ -1,0 +1,207 @@
+year	1997
+imdb score	6.0
+meta score	63
+genre	Horror
+genre	Mystery
+keyword	college
+keyword	murder
+keyword	theatre
+keyword	death
+keyword	sequel
+keyword	revenge
+keyword	play
+keyword	costume
+keyword	college student
+keyword	reference to charles manson
+keyword	shot in the throat
+keyword	blood
+keyword	bare chested male
+keyword	stabbed in the head
+keyword	vcr
+keyword	punched in the face
+keyword	falling off a stage
+keyword	sorority party
+keyword	fake knife
+keyword	death of boyfriend
+keyword	stabbed in the throat
+keyword	female protagonist
+keyword	mask
+keyword	blockbuster
+keyword	threatening telephone call
+keyword	library
+keyword	television
+keyword	self referential
+keyword	satire
+keyword	sorority
+keyword	female villain
+keyword	police detective
+keyword	duct tape over mouth
+keyword	betrayal
+keyword	reference to ted bundy
+keyword	hit by a car
+keyword	returning character killed off
+keyword	accomplice
+keyword	sequel to cult favorite
+keyword	survivor
+keyword	reference to quentin tarantino
+keyword	foot chase
+keyword	shot in the forehead
+keyword	boyfriend girlfriend relationship
+keyword	555 phone number
+keyword	villain not really dead cliche
+keyword	slow motion scene
+keyword	reporter
+keyword	character says i love you
+keyword	fraternity
+keyword	held at gunpoint
+keyword	soundproof room
+keyword	knife
+keyword	gore
+keyword	no opening credits
+keyword	masked killer
+keyword	interview
+keyword	cell phone
+keyword	singing
+keyword	falling to death
+keyword	whodunit
+keyword	ohio
+keyword	shot in the chest
+keyword	stabbed in the ear
+keyword	videotape
+keyword	tv cameraman
+keyword	film within a film
+keyword	kicked in the face
+keyword	limp
+keyword	stabbed in the stomach
+keyword	face slap
+keyword	murder of a police officer
+keyword	pistol
+keyword	second part
+keyword	villainess
+keyword	post modern
+keyword	woman punching a man
+keyword	shot in the stomach
+keyword	cigarette smoking
+keyword	talking during a movie
+keyword	police chief
+keyword	serial killer
+keyword	horror spoof
+keyword	1990s
+keyword	violence
+keyword	stabbed in the back
+keyword	video camera
+keyword	movie theater
+keyword	bare chested male bondage
+keyword	author
+keyword	stupid victim
+keyword	red herring
+keyword	good versus evil
+keyword	character repeating someone else's dialogue
+keyword	necklace
+keyword	shot to death
+keyword	reference to o.j. simpson
+keyword	slasher flick
+keyword	police station
+keyword	female psychopath
+keyword	prank call
+keyword	cut arm
+keyword	film student
+keyword	reference to jeffrey dahmer
+keyword	cult film
+keyword	hospital
+keyword	deception
+keyword	group of friends
+keyword	mystery killer
+keyword	thrown from a car
+keyword	teen movie
+keyword	car crash
+keyword	suspicion
+keyword	corpse
+keyword	sitting
+keyword	ambulance
+keyword	thrown off a balcony
+keyword	stabbed to death
+keyword	tv news
+keyword	breaking bottle over head
+keyword	slasher
+keyword	woman slaps a man
+keyword	impalement
+keyword	director cameo
+keyword	characters killed one by one
+keyword	sorority sister
+keyword	stabbed in the chest
+keyword	thrown through a glass door
+keyword	death of friend
+keyword	surprise ending
+cast	Jada Pinkett Smith	Maureen
+cast	Omar Epps	Phil
+cast	Paulette Patterson	Usher Giving Out Costumes
+cast	Rasila Schroeder	Screaming Girl Up Aisle
+cast	Heather Graham	'Stab' Casey
+cast	Roger Jackson	The Voice
+cast	Peter Deming	Popcorn Boy
+cast	Molly Gross	Theater Girl #1
+cast	Rebecca McFarland	Theater Girl #2
+cast	Neve Campbell	Sidney Prescott
+cast	Elise Neal	Hallie
+cast	Liev Schreiber	Cotton Weary
+cast	Kevin Williamson	Cotton's Interviewer
+cast	Sandy Heddings	Girl in Dorm Hallway
+cast	Dave Allen Clark	Reporter Outside Theater
+cast	Joe Washington	Reporter #1
+cast	Angie Dillard	Reporter #2
+cast	John Patrick	Reporter #3
+cast	Craig Shoemaker	Artsy Teacher
+cast	Sarah Michelle Gellar	Cici
+cast	Joshua Jackson	Film Class Guy #1
+cast	Walter Franks	Film Class Guy #2
+cast	Timothy Olyphant	Mickey
+cast	Nina Petronzio	Film Class Mopey Girl
+cast	Jamie Kennedy	Randy Meeks
+cast	Jerry O'Connell	Derek
+cast	Courteney Cox	Gale Weathers
+cast	Duane Martin	Joel
+cast	Laurie Metcalf	Debbie Salt
+cast	Stephanie Belt	Reporter #4
+cast	Richard Bruce Doughty	Reporter #5
+cast	Lewis Arquette	Chief Hartley
+cast	Rebecca Gayheart	Sorority Sister Lois
+cast	Portia de Rossi	Sorority Sister Murphy
+cast	David Arquette	Dewey Riley
+cast	Marisol Nichols	Dawnie
+cast	Cornelia Kiss	Coroner at Cici's House
+cast	Lucy Lin	ER Doctor
+cast	Philip Pavel	Officer Andrews
+cast	Tim Hillman	Captain Down
+cast	Nancy O'Dell	Tori's Interviewer
+cast	Tori Spelling	Herself
+cast	Luke Wilson	'Stab' Billy
+cast	David Warner	Drama Teacher Gus Gold
+cast	Greg Meiss	Zeus
+cast	Adam Shankman	Ghost Dancer
+cast	Kris Andersson	Dancer
+cast	Carmen M. Chavez	Dancer
+cast	Anne Fletcher	Dancer
+cast	Erik Hyler	Dancer
+cast	Sebastian La Cause	Dancer
+cast	Lance MacDonald	Dancer
+cast	Sarah Christine Smith	Dancer
+cast	Laurie Sposit	Dancer
+cast	Ryan Lee Swanson	Dancer
+cast	Jack Baun	Tackled Cell Phoner
+cast	Christopher Doyle	Officer Richards
+cast	Mark Oliver	Reporter #6
+cast	Jason Horgan	Fraternity Brother #1
+cast	Daniel K. Arredondo	Fraternity Brother #2
+cast	John Embry	Fraternity Brother #3
+cast	Jennifer Weston	Reporter #7
+cast	Shelly Benedict	Reporter #8
+cast	Selma Blair	Cici's Friend on Phone
+cast	Franco Castan	Student
+cast	Carrie Collins	College Student
+cast	Wes Craven	Doctor
+cast	Gwenne Hudson	Sorority Sister
+cast	Rodney L. James	Photographer
+cast	Matthew Lillard	Guy at Party
+cast	Corey Mendell Parker	Library Guy
+cast	Jason Trost	Audience Member

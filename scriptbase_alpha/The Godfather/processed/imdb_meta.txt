@@ -1,0 +1,292 @@
+year	1972
+imdb score	9.2
+meta score	100
+genre	Crime
+genre	Drama
+keyword	mafia
+keyword	drugs
+keyword	wedding
+keyword	drug dealer
+keyword	lawyer
+keyword	violence
+keyword	patriarch
+keyword	organized crime
+keyword	shot in the throat
+keyword	reference to jerry lewis
+keyword	gangster
+keyword	no opening credits
+keyword	family relationships
+keyword	shot through the eye
+keyword	radio city music hall manhattan new york city
+keyword	marital abuse
+keyword	christmas
+keyword	female nudity
+keyword	bathtub
+keyword	crime family
+keyword	sicily italy
+keyword	near death experience
+keyword	police corruption
+keyword	catholic church
+keyword	shot in the back
+keyword	part of trilogy
+keyword	severed horse's head
+keyword	tollbooth
+keyword	cult film
+keyword	telephone box
+keyword	elevator
+keyword	telephone call
+keyword	strangulation
+keyword	dysfunctional family
+keyword	shot repeatedly
+keyword	hospital
+keyword	shot in the chest
+keyword	racial slur
+keyword	brother sister relationship
+keyword	epic
+keyword	severed head
+keyword	loss of father
+keyword	two word title
+keyword	gang war
+keyword	cemetery
+keyword	wheelchair
+keyword	film set
+keyword	village
+keyword	italian food
+keyword	loss of son
+keyword	exploding car
+keyword	man with glasses
+keyword	shot in the eye
+keyword	beaten with a belt
+keyword	motion picture executive
+keyword	1950s
+keyword	husband hits wife
+keyword	garrote
+keyword	reference to gloria dehaven
+keyword	gore
+keyword	tommy gun
+keyword	catholic
+keyword	bar
+keyword	double murder
+keyword	adopted son
+keyword	1940s
+keyword	revenge
+keyword	drug dealing
+keyword	dartmouth college
+keyword	character depth
+keyword	nurse
+keyword	smashing a camera
+keyword	bathroom
+keyword	cosa nostra
+keyword	honor
+keyword	courtship
+keyword	police officer shot in the head
+keyword	massage
+keyword	ambush
+keyword	death of title character
+keyword	blood spatter
+keyword	beating
+keyword	casino
+keyword	melancholy
+keyword	stabbed in the hand
+keyword	loss of husband
+keyword	corrupt cop
+keyword	reference to clark gable
+keyword	mob boss
+keyword	horse
+keyword	ex soldier
+keyword	italy
+keyword	brother brother relationship
+keyword	new york city
+keyword	symbolism
+keyword	manhattan new york city
+keyword	las vegas nevada
+keyword	murder
+keyword	fbi
+keyword	baptism
+keyword	mob summit
+keyword	reference to joe e. lewis
+keyword	crooked cop
+keyword	protection racket
+keyword	police officer killed
+keyword	garrotting
+keyword	thompson gun
+keyword	singer
+keyword	famous line
+keyword	falling down stairs
+keyword	betrayal
+keyword	professional hit
+keyword	subtitled scene
+keyword	breasts
+keyword	urination
+keyword	fish
+keyword	machine gun
+keyword	assassination
+keyword	protective male
+keyword	cat
+keyword	stable
+keyword	shooting
+keyword	pregnant woman beaten
+keyword	hitman
+keyword	shot in the forehead
+keyword	marriage
+keyword	first of series
+keyword	heart attack
+keyword	police officer shot
+keyword	shot in the arm
+keyword	murder of son
+keyword	mansion
+keyword	reference to dean martin
+keyword	famous score
+keyword	hotel
+keyword	mercilessness
+keyword	tough guy
+keyword	ex convict
+keyword	gambling syndicate
+keyword	cop killer
+keyword	car bomb
+keyword	blood
+keyword	knife in hand
+keyword	italian american cop
+keyword	death
+keyword	movie theater
+keyword	ethnic slur
+keyword	vengeance
+keyword	bare breasts
+keyword	extramarital affair
+keyword	domestic violence
+keyword	police officer shot in the neck
+keyword	invalid
+keyword	character appears in newspaper
+keyword	knife
+keyword	nudity
+keyword	vegetable garden
+keyword	police brutality
+keyword	church
+keyword	crime boss
+keyword	orange peel
+keyword	traitor
+keyword	power
+keyword	love at first sight
+keyword	assassin
+keyword	widower
+keyword	cornfield
+keyword	paparazzi
+keyword	loss of wife
+keyword	broken rule
+keyword	shot to death
+keyword	film producer
+keyword	italian american
+keyword	teacher
+keyword	pistol
+keyword	mob violence
+keyword	elderly man
+keyword	bronx new york city
+keyword	convicted felon
+keyword	magnus opus
+keyword	female underage nudity
+keyword	gang warfare
+keyword	criminal
+keyword	corleone italy
+keyword	el train
+keyword	character repeating someone else's dialogue
+keyword	statue of liberty new york city
+keyword	funeral
+keyword	world war two veteran
+keyword	revolving door
+keyword	paraplegic
+keyword	father son relationship
+keyword	fugitive
+keyword	broken jaw
+keyword	undertaker
+keyword	police
+keyword	attorney
+keyword	restaurant
+keyword	death of wife
+keyword	open hydrant
+keyword	rise to power
+keyword	horse killed
+keyword	los angeles california
+keyword	father daughter relationship
+keyword	revolver
+keyword	wedding reception
+keyword	war veteran
+keyword	assassination attempt
+keyword	movie studio
+keyword	sibling rivalry
+keyword	corrupt lawyer
+keyword	mob hit
+keyword	picture in newspaper
+keyword	based on novel
+keyword	title spoken by character
+keyword	
+cast	Marlon Brando	Don Vito Corleone
+cast	Al Pacino	Michael Corleone
+cast	James Caan	Sonny Corleone
+cast	Richard S. Castellano	Clemenza
+cast	Robert Duvall	Tom Hagen
+cast	Sterling Hayden	Capt. McCluskey
+cast	John Marley	Jack Woltz
+cast	Richard Conte	Barzini
+cast	Al Lettieri	Sollozzo
+cast	Diane Keaton	Kay Adams
+cast	Abe Vigoda	Tessio
+cast	Talia Shire	Connie
+cast	Gianni Russo	Carlo
+cast	John Cazale	Fredo
+cast	Rudy Bond	Cuneo
+cast	Al Martino	Johnny Fontane
+cast	Morgana King	Mama Corleone
+cast	Lenny Montana	Luca Brasi
+cast	John Martino	Paulie Gatto
+cast	Salvatore Corsitto	Bonasera
+cast	Richard Bright	Neri
+cast	Alex Rocco	Moe Greene
+cast	Tony Giorgio	Bruno Tattaglia
+cast	Vito Scotti	Nazorine
+cast	Tere Livrano	Theresa Hagen
+cast	Victor Rendina	Philip Tattaglia
+cast	Jeannie Linero	Lucy Mancini
+cast	Julie Gregg	Sandra Corleone
+cast	Ardell Sheridan	Mrs. Clemenza
+cast	Simonetta Stefanelli	Apollonia - Sicilian Sequence
+cast	Angelo Infanti	Fabrizio - Sicilian Sequence
+cast	Corrado Gaipa	Don Tommasino - Sicilian Sequence
+cast	Franco Citti	Calo - Sicilian Sequence
+cast	Saro Urzì	Vitelli - Sicilian Sequence
+cast	Norm Bacchiocchi	Luca Brasi's Assassin
+cast	Max Brandt	Extra in Furniture-Moving Scene
+cast	Tybee Brascia	Dancer in Wedding Scene
+cast	Carmine Coppola	Piano Player in Montage
+cast	Gian-Carlo Coppola	Baptism Observer
+cast	Italia Coppola	Extra
+cast	Roman Coppola	Boy on Street Who Attended Funeral
+cast	Sofia Coppola	Michael Francis Rizzi
+cast	Don Costello	Don Victor Stracci
+cast	Robert Dahdah	Crowd
+cast	Gray Frederickson	Cowboy on the Set at Woltz's Studio
+cast	Ron Gilbert	Usher in Bridal Party
+cast	Anthony Gounaris	Anthony Vito Corleone
+cast	Joe Lo Grippo	Sonny's Bodyguard
+cast	Sonny Grosso	Cop Outside Hospital
+cast	Louis Guss	Don Zaluchi
+cast	Merril E. Joels	Toll Both Collector
+cast	Randy Jurgensen	Sonny's Killer #1
+cast	Peter Lemongello	Singer
+cast	Tony Lip	Wedding Guest
+cast	Frank Macetta	
+cast	Lou Martini Jr.	Boy at Wedding
+cast	Raymond Martino	Corleone Family Member
+cast	Joseph Medeglia	Priest at Baptism
+cast	Carol Morley	Night Nurse
+cast	Rick Petrucelli	Man in Passenger Seat
+cast	Burt Richards	Floral Designer
+cast	Sal Richards	Drunk
+cast	Tom Rosqui	Rocco Lampone
+cast	Nino Ruggeri	Mobster at Funeral with Barzini
+cast	Frank Sivero	Street Extra
+cast	Filomena Spagnuolo	Extra in Wedding Scene
+cast	Joe Spinell	Willi Cicci
+cast	Gabriele Torrei	Enzo the Baker
+cast	Nick Vallelonga	Wedding Party Guest
+cast	Ed Vantura	Wedding Guest
+cast	Matthew Vlahakis	Clemenza's Son

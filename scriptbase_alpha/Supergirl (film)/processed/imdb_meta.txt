@@ -1,0 +1,220 @@
+year	1984
+imdb score	4.3
+meta score	N/A
+genre	Action
+genre	Adventure
+genre	Fantasy
+genre	Sci-Fi
+keyword	power
+keyword	witch
+keyword	city
+keyword	monster
+keyword	phantom zone
+keyword	black magic
+keyword	encounter
+keyword	invulnerability
+keyword	witchcraft
+keyword	super strength
+keyword	super ballet
+keyword	roller coaster
+keyword	hit with a coconut
+keyword	college student
+keyword	carnival
+keyword	good versus evil
+keyword	plan to rule the world
+keyword	love
+keyword	lacrosse game
+keyword	reference to superman
+keyword	flying
+keyword	dual identity
+keyword	secret identity
+keyword	evil witch
+keyword	leisure suit
+keyword	love spell
+keyword	crushed car
+keyword	one against many
+keyword	teenage superheroine
+keyword	mugger
+keyword	escape from prison
+keyword	crime fighter
+keyword	reference to clark kent
+keyword	supernatural power
+keyword	blonde
+keyword	red rose
+keyword	bulldozer
+keyword	gargoyle
+keyword	female protagonist
+keyword	bouquet of flowers
+keyword	sorcery
+keyword	disappearance
+keyword	teaching
+keyword	reference to venus the planet
+keyword	bully
+keyword	floating island
+keyword	volcanic eruption
+keyword	broken mirror
+keyword	mountain
+keyword	energy force
+keyword	trapped in a mirror
+keyword	one word title
+keyword	hyper speed
+keyword	water tower
+keyword	school teacher
+keyword	reference to johnny appleseed
+keyword	inner space
+keyword	mathematics teacher
+keyword	superwoman
+keyword	love potion
+keyword	character says i love you
+keyword	appearing from the water
+keyword	face sore
+keyword	shower
+keyword	beast
+keyword	aspirations of world domination
+keyword	heart shaped box of candy
+keyword	quicksand
+keyword	magic spell
+keyword	shower room
+keyword	protest
+keyword	softball game
+keyword	unearthed skeleton
+keyword	tornado
+keyword	picnic
+keyword	first kiss
+keyword	action heroine
+keyword	abandoned amusement park
+keyword	walking in the middle of the street
+keyword	magic mirror
+keyword	creation
+keyword	bumper car
+keyword	fictional city
+keyword	violence
+keyword	art science
+keyword	girl heroine
+keyword	magic formula
+keyword	lightning
+keyword	mansion
+keyword	mosquito
+keyword	blonde heroine
+keyword	spider
+keyword	based on comic book
+keyword	gardener
+keyword	1980s
+keyword	redheaded woman
+keyword	spin off
+keyword	vortex
+keyword	amusement park ride
+keyword	kicked in the shin
+keyword	costume
+keyword	super villainess
+keyword	speed
+keyword	walk on the beach
+keyword	beach
+keyword	field hockey
+keyword	urban setting
+keyword	superheroine
+keyword	tough girl
+keyword	kiss
+keyword	secret passageway
+keyword	hit on the head by a falling coconut
+keyword	valentine's day
+keyword	reference to saturn the planet
+keyword	showdown
+keyword	harassment
+keyword	invisibility
+keyword	kiss on the lips
+keyword	fast motion scene
+keyword	blonde girl
+keyword	magic wand
+keyword	super villain
+keyword	villainess
+keyword	girl power
+keyword	teenage girl
+keyword	human alien
+keyword	superhero
+keyword	knocked unconscious
+keyword	urban decay
+keyword	prison
+keyword	heroine
+keyword	female lead
+keyword	cape
+keyword	box of chocolates
+keyword	sequel
+keyword	dc comics
+keyword	orchestral music score
+keyword	underworld
+keyword	castle
+keyword	laser beam
+keyword	sorceress
+keyword	schoolgirl
+keyword	woman in uniform
+keyword	newspaper photographer
+keyword	bubble ship
+keyword	hostage
+keyword	alter ego
+keyword	girls' school
+keyword	one woman army
+keyword	bracelet
+keyword	title spoken by character
+keyword	character name in title
+cast	Faye Dunaway	Selena
+cast	Helen Slater	Kara Zor-El / Supergirl / Linda Lee
+cast	Peter O'Toole	Zaltar
+cast	Hart Bochner	Ethan
+cast	Mia Farrow	Alura
+cast	Brenda Vaccaro	Bianca
+cast	Peter Cook	Nigel
+cast	Simon Ward	Zor-El
+cast	Marc McClure	Jimmy Olsen
+cast	Maureen Teefy	Lucy Lane
+cast	David Healy	Mr. Danvers
+cast	Sandra Dickinson	Pretty Young Lady
+cast	Robyn Mandell	Myra
+cast	Jenifer Landor	Muffy
+cast	Diana Ricardo	Mrs. Murray
+cast	Nancy Lippold	Billy-Jo
+cast	Sonya Leite	Betsy
+cast	Lynsey Beauchamp	Ali
+cast	Michelle Taylor	Amy
+cast	Nancy Wood	Nancy
+cast	Virginia Greig	Jodie
+cast	Julia Lewis	Gloria
+cast	Matt Frewer	Eddie, Truck Driver
+cast	Bill McAllister	Billy, Truck Driver
+cast	Sally Cranfield	Argonian Teacher
+cast	Martha Parsey	Argonian Citizen
+cast	Saskia van Basten-Batenburg	Argonian Citizen
+cast	Kelly Hunter	Argonian Citizen
+cast	Richard Bidwell	Argonian Citizen
+cast	Desiree	Argonian Citizen
+cast	Mike Pearce	Argonian Citizen
+cast	Christian J. Fletcher	Argonian Citizen
+cast	Kevin Scott	Argonian Citizen
+cast	Karen Hale	Argonian Citizen
+cast	James Snell	Argonian Citizen
+cast	Beulah Hughes	Argonian Citizen
+cast	Jane Sumner	Argonian Citizen
+cast	Lia	Argonian Citizen
+cast	Bailie Walsh	Argonian Citizen
+cast	Elaine Ives-Cameron	Party Guest
+cast	Fred Lee Own	Party Guest
+cast	Gay Baynes	Party Guest
+cast	Edwin Van Wyk	Party Guest
+cast	Orla Pederson	Party Guest
+cast	Ron Travis	Party Guest
+cast	Joe Cremona	Party Guest
+cast	Danique	Party Guest
+cast	April Olrich	Party Guest
+cast	Russell Sommers	Party Guest
+cast	Erick Ray Evans	Party Guest
+cast	Dulcie Huston	Party Guest
+cast	Zoot Money	Party Guest
+cast	David Graham	Party Guest
+cast	Martin Serene	Eddie
+cast	Keith Edwards	Lucy's Friend
+cast	Bradley Lavelle	Lucy's Friend
+cast	Carole Charnow	Popeyes Cashier
+cast	Shezwae Powell	Popeyes Waitress
+cast	Glory Annen	Midvale Protestor
+cast	Sandra Martin	Selena's Astral Image
+cast	Derek Lyons	Argonian Citizen

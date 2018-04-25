@@ -1,0 +1,149 @@
+year	1990
+imdb score	6.2
+meta score	24
+genre	Action
+genre	Adventure
+genre	Comedy
+genre	Music
+keyword	detective
+keyword	koala
+keyword	rock 'n' roll
+keyword	reference to michael jackson
+keyword	insult
+keyword	hearse
+keyword	gunfight
+keyword	exploding house
+keyword	sexual reference
+keyword	reference to madonna
+keyword	street shootout
+keyword	breaking the fourth wall
+keyword	reference to armani
+keyword	reference to guns n roses
+keyword	f word
+keyword	hired killer
+keyword	groupie
+keyword	young boy
+keyword	reference to neil diamond
+keyword	private detective
+keyword	microphone picks up conversation
+keyword	reference to axl rose
+keyword	los angeles california
+keyword	critically bashed
+keyword	bubble gum
+keyword	reference to debbie gibson
+keyword	capitol records building
+keyword	spoof
+keyword	reference to jethro tull
+keyword	crude humor
+keyword	cult film
+keyword	voodoo doll
+keyword	box office flop
+keyword	fall from height
+keyword	tough guy
+keyword	guitar
+keyword	reference to rob lowe
+keyword	funeral
+keyword	reference to mtv
+keyword	shot to death
+keyword	disco
+keyword	reference to jimi hendrix
+keyword	held at gunpoint
+keyword	reference to clint eastwood
+keyword	shock jock
+keyword	555 phone number
+keyword	hit in the crotch
+keyword	evil plan exposed
+keyword	rock music
+keyword	photograph
+keyword	reference to bruce springsteen
+keyword	burned to death
+keyword	reference to liberace
+keyword	stunt
+keyword	reference to milli vannilli
+keyword	black comedy
+keyword	cult film
+keyword	glass coffin
+keyword	independent film
+keyword	character name in title
+cast	Andrew Dice Clay	Ford Fairlane
+cast	Wayne Newton	Julian Grendel
+cast	Priscilla Presley	Colleen Sutton
+cast	Morris Day	Don Cleveland
+cast	Lauren Holly	Jazz
+cast	Maddie Corman	Zuzu Petals
+cast	Gilbert Gottfried	Johnny Crunch
+cast	David Patrick Kelly	Sam
+cast	Brandon Call	The Kid
+cast	Robert Englund	Smiley
+cast	Ed O'Neill	Lt. Amos
+cast	Vince Neil	Bobby Black
+cast	Sheila E.	Club Singer
+cast	David Arnott	Club Guy
+cast	Mark Goldstein	Club Guy
+cast	Cody Jarrett	Kyle Troy
+cast	William Shockley	Punk Gunslinger
+cast	Mark Zuelke	Punk Gunslinger
+cast	Steve White	Detective
+cast	Kari Wuhrer	Melodi
+cast	Delia Sheppard	Pussycat
+cast	Kimber Sissons	Pussycat
+cast	Monique Mannen	Pussycat
+cast	Pamela Adlon	Pussycat
+cast	Hili Park	Twin Club Girl
+cast	Gry Park	Twin Club Girl
+cast	Kurt Loder	MTV VJ
+cast	Cindy Lehre	Lydia
+cast	Phil Soussan	Black Plague Band
+cast	Carlos Cavazo	Black Plague Band
+cast	Randy Castillo	Black Plague Band
+cast	Peter Michael Escovedo	Club Band
+cast	Zina Escovedo	Club Band
+cast	Juan Jose Escovedo	Club Band
+cast	Paul Christopher	Club Band
+cast	J.D. Reilly	Club Band
+cast	Boni Boyer	Club Band
+cast	Consuela Nance	Backup Singer
+cast	Diane Almeida	Backup Singer
+cast	Aurorah Allain	Backup Singer
+cast	Kurt James Stefka	Bouncer
+cast	Jaz Kaner	Mixer
+cast	David Bowe	College Boy
+cast	Michael Alan Kahn	College Boy
+cast	Willie Garson	Frat Boy
+cast	Ladd Vance	Frat Boy
+cast	Robert Mangiardi	Sleazy Guy
+cast	Kristin Pearcey	Sorority Girl
+cast	Lori Pfeiffer	Sorority Girl
+cast	Diana Barrows	Sorority Girl
+cast	Lala Sloatman	Sorority Girl
+cast	Lee Lawrence	Bartender
+cast	Connie Johnson	Tour Guide
+cast	Jordan Lund	Amiable Tourist
+cast	Allan Wasserman	Mortician
+cast	Charlie Hawke	Mortician
+cast	Rita Bland	Receptionist
+cast	Kathleen Monica	Receptionist
+cast	Randy Crenshaw	Bel Air Party Singer
+cast	John Hammond	Piano Player
+cast	Tone Loc	Slam the Rapper
+cast	Hot Tub Johnny West	Damion Flemm
+cast	Edward D'Lorenzo	Chef
+cast	Sandra Sheeler	Girl on Ladder
+cast	Edmund E. Villa	Piano Mover
+cast	Jimmy Zavala	Studio Musician
+cast	David McLaurin	Studio Musician
+cast	Lee Thornberg	Studio Musician
+cast	William 'Smitty' Smith	Studio Musician
+cast	James Dale	Studio Musician
+cast	John Menzano	Studio Musician
+cast	Rick Marotta	Studio Musician
+cast	Rene Zendejas	Koala Bear Puppeteer
+cast	Thom Fountain	Additional Puppeteer
+cast	Dana Kelly	Additional Puppeteer
+cast	Kirk Knowlden	Additional Puppeteer
+cast	Douglas Seymour	Additional Puppeteer
+cast	Christopher D. Childers	Club Dancer #1
+cast	Lisa Matthews	Sorority Girl
+cast	Pamela Pond	
+cast	Cindyana Santangelo	Lydia
+cast	Katariina Souri	Girl at Funeral

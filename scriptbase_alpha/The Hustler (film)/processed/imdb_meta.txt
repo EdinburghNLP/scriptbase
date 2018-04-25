@@ -1,0 +1,80 @@
+year	1961
+imdb score	8.1
+meta score	N/A
+genre	Drama
+genre	Sport
+keyword	manager
+keyword	partner
+keyword	pool hustler
+keyword	pool hall
+keyword	hustler
+keyword	money
+keyword	broken thumb
+keyword	writing in lipstick
+keyword	afi
+keyword	face slap
+keyword	scene during end credits
+keyword	bar
+keyword	billiards
+keyword	party
+keyword	drunken woman
+keyword	writing on mirror
+keyword	betting
+keyword	suicide
+keyword	gambling
+keyword	alcohol
+keyword	typewriter
+keyword	throwing drink in face
+keyword	cigarette butt
+keyword	locker
+keyword	passed out drunk
+keyword	thumb breaking
+keyword	kentucky derby
+keyword	playing poker
+keyword	drinking whisky
+keyword	long take
+keyword	arm cast
+keyword	trick shot
+keyword	audience
+keyword	bus station
+keyword	drinking from the bottle
+keyword	hotel
+keyword	jazz band
+keyword	drunken man
+keyword	train
+keyword	based on novel
+cast	Paul Newman	Eddie Felson
+cast	Jackie Gleason	Minnesota Fats
+cast	Piper Laurie	Sarah Packard
+cast	George C. Scott	Bert Gordon
+cast	Myron McCormick	Charlie Burns
+cast	Murray Hamilton	Findley
+cast	Michael Constantine	Big John
+cast	Stefan Gierasch	Preacher
+cast	Clifford A. Pellow	Turk
+cast	Jake LaMotta	Bartender
+cast	Gordon B. Clarke	Cashier
+cast	Alexander Rose	Score Keeper
+cast	Carolyn Coates	Waitress
+cast	Carl York	Young Hustler
+cast	Vincent Gardenia	Bartender
+cast	William Adams	Old Doctor
+cast	Tom Ahearne	Bartender
+cast	Charles Andre	Waiter at Parisien Restaurant
+cast	Don Crabtree	Small Role
+cast	Gloria Curtis	Girl with Fur Coat
+cast	Robert Daget	
+cast	Don De Leo	Another Player
+cast	Charles Dierkop	Pool Room Hood
+cast	William Duell	Louisville Hustler
+cast	James Dukas	Kibitzer
+cast	Brendan Fay	Player
+cast	Jack Healy	Hotel Proprietor
+cast	Hoke Howell	Bit Part
+cast	Don Koll	Racetrack Ticket Clerk
+cast	Charles McDaniel	Reservation Clerk at Louisville Hotel
+cast	Charles Mosconi	Second Man
+cast	Willie Mosconi	Willie
+cast	Sid Raymond	First Man
+cast	Art Smith	Old Man Attendant
+cast	Blue Washington	Limping Attendant at Ames Billiards

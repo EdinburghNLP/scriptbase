@@ -1,0 +1,130 @@
+year	2011
+imdb score	7.2
+meta score	75
+genre	Comedy
+genre	Drama
+genre	Sport
+keyword	wrestling
+keyword	coach
+keyword	lawyer
+keyword	high school
+keyword	rehab
+keyword	high school wrestling
+keyword	wrestling coach
+keyword	attorney
+keyword	repetition in title
+keyword	juvenile delinquent
+keyword	high school sports
+keyword	anxiety attack
+keyword	bleach blond
+keyword	mother son relationship
+keyword	secretary
+keyword	woods
+keyword	face slap
+keyword	motel
+keyword	athletic competition
+keyword	courtroom
+keyword	disqualification
+keyword	f word
+keyword	grandfather grandson relationship
+keyword	ambulance
+keyword	troubled teen
+keyword	embezzlement
+keyword	cigarette smoking
+keyword	basement
+keyword	drug addict
+keyword	teen bedroom
+keyword	blond
+keyword	croquet
+keyword	tattoo
+keyword	bargain
+keyword	clogged toilet
+keyword	doublecross
+keyword	female judge
+keyword	suburbia
+keyword	hangover
+keyword	court appointed lawyer
+keyword	runaway
+keyword	noisy boiler
+keyword	bus ride
+keyword	plastic
+keyword	bare chested boy
+keyword	panic attack
+keyword	nursing home
+keyword	woman lawyer
+keyword	girl
+keyword	dementia
+keyword	tournament
+keyword	teenage boy
+keyword	old age home
+keyword	practice
+keyword	husband wife relationship
+keyword	referee
+keyword	basement bedroom
+keyword	male rear nudity
+keyword	stream
+keyword	judge
+keyword	contest
+keyword	jogging
+keyword	family man
+keyword	reference to darth vader
+keyword	single mother
+keyword	new jersey
+keyword	gymnasium
+keyword	
+cast	Paul Giamatti	Mike Flaherty
+cast	Amy Ryan	Jackie Flaherty
+cast	Bobby Cannavale	Terry Delfino
+cast	Jeffrey Tambor	Stephen Vigman
+cast	Burt Young	Leo Poplar
+cast	Melanie Lynskey	Cindy
+cast	Alex Shaffer	Kyle Timmons
+cast	Margo Martindale	Eleanor
+cast	David W. Thompson	Stemler
+cast	Mike Diliello	Jimmy Reed
+cast	Nina Arianda	Shelly
+cast	Marcia Haufrecht	Gina Flaherty
+cast	Sharon Wilkins	Judge Lee
+cast	Clare Foley	Abby Flaherty
+cast	Penelope Kindred	Stella Flaherty
+cast	Sophia Kindred	Stella Flaherty
+cast	Tim Ransom	Stuart Thatcher
+cast	Nicholas Somers	BHS Coach
+cast	Jacqueline Brogan	Woman Jogging
+cast	Marceline Hugot	Woman #2 Jogging
+cast	Michael Goodwin	Regional Ref
+cast	Earl Baker Jr.	Staff Member
+cast	Edmund Ikeda	Frank
+cast	Lilly	Frank's Cat
+cast	Joseph Tiboni	Steve Deluca / Principal
+cast	Edwin Thompson	Ref
+cast	Pam Levine	Church Soloist
+cast	Michael D. Davey	Referee
+cast	Ann M. Hayes	Betty
+cast	Rudy Lanzillotta III	Kenny Randall
+cast	Christopher Lantz	Kyle's Regional Opponent
+cast	Ryan Arnel	Carol's Match #1 Opponent
+cast	Kevin Antero	Kyle's Match #1 Opponent
+cast	Chris Sarro	Zack Lowenstein's Match #4
+cast	Dante Porrazzo	Stemler's Match #4 Masked Opponent
+cast	Dariusz M. Uczkowski	Zachary Lowenstein
+cast	Chris Federlin	Thomlinson
+cast	Nick Labarbera	Korsic
+cast	Nicholas Lopez	Anthony Pizzno
+cast	Quinn Krauer	Kurt Vetner
+cast	Austin Ward	Peter Molter
+cast	Jon Anderson	Feeney
+cast	Delon Richards	Dean Stol
+cast	Chris Loew	Paul Bell aka Pill
+cast	Dean Shmuely	Rew
+cast	John Goncalves	Carlos
+cast	Natasha Tax	Score Keeper
+cast	Alexander Baliev	Security Guard
+cast	Jill DeMonstoy	Wrestling Mom
+cast	Maria Di Angelis	Martini
+cast	Tom McArdle	Wrestling Match Announcer
+cast	Michael Morana	Wrestling Coach
+cast	Cliff Moylan	Contractor
+cast	Bejay Rose	Dad
+cast	Matthew Schuebel	Wrestler
+cast	Joanna Theobalds	Gina

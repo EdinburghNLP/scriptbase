@@ -1,0 +1,300 @@
+year	1991
+imdb score	8.5
+meta score	68
+genre	Action
+genre	Sci-Fi
+genre	Thriller
+keyword	future
+keyword	cyborg
+keyword	the terminator
+keyword	mission
+keyword	liquid metal
+keyword	young boy
+keyword	sequel
+keyword	warrior
+keyword	battle
+keyword	voice over narration
+keyword	human android relationship
+keyword	second part
+keyword	robot as menace
+keyword	cult film
+keyword	dysfunctional family
+keyword	rear projection
+keyword	shotgun
+keyword	stabbed through back
+keyword	pole through torso
+keyword	famous opening theme
+keyword	exploding truck
+keyword	t1000
+keyword	slow motion scene
+keyword	idealism
+keyword	love
+keyword	skewering
+keyword	suspense
+keyword	main character dies
+keyword	part of series
+keyword	mushroom cloud
+keyword	nuclear weapons
+keyword	gunfight
+keyword	goth
+keyword	sanitarium
+keyword	artificial intelligence
+keyword	child drives car
+keyword	blockbuster
+keyword	boy hero
+keyword	promise
+keyword	opening action scene
+keyword	swat team
+keyword	android
+keyword	slide locked back
+keyword	explosive
+keyword	1990s
+keyword	13 year old
+keyword	car motorcycle chase
+keyword	cyberpunk
+keyword	subjective camera
+keyword	killing a dog
+keyword	explosion
+keyword	flashback
+keyword	exploding body
+keyword	trapped in an elevator
+keyword	police
+keyword	war with machines
+keyword	violence
+keyword	psychopath
+keyword	helicopter
+keyword	good versus evil
+keyword	hand to hand combat
+keyword	kindness
+keyword	showdown
+keyword	future war
+keyword	car chase
+keyword	bravery
+keyword	combat
+keyword	mixed martial arts
+keyword	numbered sequel
+keyword	credit card fraud
+keyword	escape
+keyword	female warrior
+keyword	woman with a gun
+keyword	lifting someone into the air
+keyword	motorcycle
+keyword	bar brawl
+keyword	kissing
+keyword	biker
+keyword	shopping mall
+keyword	sole black character dies cliche
+keyword	impersonation
+keyword	end of the world
+keyword	shot in the shoulder
+keyword	los angeles california
+keyword	bulletproof vest
+keyword	chemistry
+keyword	skewered through one's chest
+keyword	hand through head
+keyword	friendship
+keyword	remote controlled toy car
+keyword	courage
+keyword	lasersight
+keyword	number in character's name
+keyword	leather jacket
+keyword	security guard
+keyword	weapons research
+keyword	nuclear holocaust
+keyword	blood
+keyword	teenage boy
+keyword	warrior woman
+keyword	mother son relationship
+keyword	sunglasses
+keyword	hope
+keyword	sequel to cult favorite
+keyword	post apocalypse
+keyword	fictional war
+keyword	gore
+keyword	child in peril
+keyword	villain turns good
+keyword	mental patient
+keyword	morphing
+keyword	t800
+keyword	gatling gun
+keyword	robot vs. robot
+keyword	playground
+keyword	truck
+keyword	los angeles storm drain
+keyword	mental institution
+keyword	dream
+keyword	video arcade
+keyword	fate of the universe
+keyword	famous entrance
+keyword	character's point of view camera shot
+keyword	dog
+keyword	suicide
+keyword	machine gun
+keyword	steelworks
+keyword	jeep
+keyword	nuclear war
+keyword	alternate history
+keyword	hopscotch
+keyword	steel mill
+keyword	savior
+keyword	brawl
+keyword	urban setting
+keyword	robot as pathos
+keyword	conflagration
+keyword	automobile
+keyword	dual wield
+keyword	motorcycle stunt
+keyword	sacrifice
+keyword	exploding building
+keyword	impersonating a police officer
+keyword	tough guy
+keyword	minigun
+keyword	dream sequence
+keyword	killer robot
+keyword	weapon
+keyword	alternative timeline
+keyword	elevator
+keyword	mexican
+keyword	chemical
+keyword	juvenile delinquent
+keyword	fish out of water
+keyword	ambush
+keyword	fistfight
+keyword	famous line
+keyword	sword
+keyword	pump action shotgun
+keyword	biker bar
+keyword	bar fight
+keyword	father figure
+keyword	digit in title
+keyword	self sacrifice
+keyword	voice sampling
+keyword	two way mirror
+keyword	blood splatter
+keyword	redemption
+keyword	impalement
+keyword	survivalist
+keyword	time travel
+keyword	security system
+keyword	one against many
+keyword	alternative history
+keyword	helicopter explosion
+keyword	product placement
+keyword	shot in the knee
+keyword	laser gun
+keyword	shapeshifting
+keyword	parenthood
+keyword	desert
+keyword	chase
+keyword	head blown off
+keyword	foster parent
+keyword	nuclear explosion
+keyword	dystopia
+keyword	action hero
+keyword	respect
+keyword	husband wife relationship
+keyword	bodyguard
+keyword	nightmare
+keyword	technology gone amok
+keyword	invulnerability
+keyword	exploding car
+keyword	on the run
+keyword	apocalypse
+keyword	scientist
+keyword	mercy
+keyword	altering history
+keyword	chain link fence
+keyword	exploding helicopter
+keyword	tragic event
+keyword	rebel leader
+keyword	blonde
+keyword	weapon of mass destruction
+keyword	gun
+keyword	liquid nitrogen
+keyword	hero
+keyword	2020s
+keyword	honor
+keyword	steel
+keyword	social commentary
+keyword	shape shifter
+keyword	martial arts
+keyword	stabbed in the mouth
+keyword	compassion
+keyword	stabbed in the eye
+keyword	violence
+keyword	person on fire
+keyword	one man army
+keyword	arcade
+keyword	alternative reality
+keyword	fence
+keyword	father son relationship
+keyword	shot in the face
+keyword	gun fu
+keyword	shootout
+keyword	catch phrase
+keyword	moral ambiguity
+keyword	number in title
+keyword	character name in title
+keyword	
+cast	Arnold Schwarzenegger	The Terminator
+cast	Linda Hamilton	Sarah Connor
+cast	Edward Furlong	John Connor
+cast	Robert Patrick	T-1000
+cast	Earl Boen	Dr. Silberman
+cast	Joe Morton	Miles Dyson
+cast	S. Epatha Merkerson	Tarissa Dyson
+cast	Castulo Guerra	Enrique Salceda
+cast	Danny Cooksey	Tim
+cast	Jenette Goldstein	Janelle Voight
+cast	Xander Berkeley	Todd Voight
+cast	Leslie Hamilton Gearren	Twin Sarah
+cast	Ken Gibbel	Douglas
+cast	Robert Winley	Cigar Biker
+cast	Peter Schrum	Lloyd
+cast	Shane Wilder	Trucker
+cast	Michael Edwards	Old John Connor
+cast	Jared Lounsbery	Kid
+cast	Casey Chavez	Kid
+cast	Ennalls Berl	Bryant
+cast	Don Lake	Mossberg
+cast	Richard Vidan	Weatherby
+cast	Tom McDonald	Cop
+cast	Jim Palmer	Jock
+cast	Gerard G. Williams	Jock
+cast	Gwenda Deacon	Night Nurse
+cast	Don Stanton	Lewis the Guard
+cast	Dan Stanton	Lewis as T-1000
+cast	Colin Patrick Lynch	Attendant
+cast	Noel Evangelisti	Hospital Guard
+cast	Nikki Cox	Girl
+cast	Lisa Brinegar	Girl
+cast	DeVaughn Nixon	Danny Dyson
+cast	Tony Simotes	Vault Guard
+cast	Diane Rodriguez	Jolanda Salceda
+cast	Dalton Abbott	Infant John Connor
+cast	Ron Young	Pool Cue Biker
+cast	Charles Robert Brown	Tattoo Biker
+cast	Abdul Salaam El Razzac	Gibbons
+cast	Mike Muscat	Moshier
+cast	Dean Norris	SWAT Team Leader
+cast	Charles A. Tamburro	Police Chopper Pilot
+cast	J. Rob Jordan	Pickup Truck Driver
+cast	Terrence Evans	Tanker Truck Driver
+cast	Denney Pierce	Burly Attendant
+cast	Mark Christopher Lawrence	Burly Attendant
+cast	Pat Kouri	SWAT Leader
+cast	Van Ling	Cyberdyne Tech
+cast	Michael Albanese	SWAT Officer
+cast	Ed Arneson	SWAT Officer
+cast	Bret A. Arnold	Future Coda Man
+cast	Debra Casey	Mohawk Girl at Biker Bar
+cast	Jim Dahl	SWAT Officer
+cast	Martin DeLuca	Cyberdyne Tech
+cast	Takao Komine	Tourist Shot by T-1000
+cast	Joel Kramer	Male Nurse
+cast	Anne Merrem	Psychiatric
+cast	Scott Shaw	Cyberdyne Tech
+cast	Steven Stear	SWAT Officer
+cast	Misty Jo Walker	Sarah's Granddaughter
+cast	Randy Walker	SWAT Officer
+cast	William Wisher Jr.	Galleria Photographer / Cop

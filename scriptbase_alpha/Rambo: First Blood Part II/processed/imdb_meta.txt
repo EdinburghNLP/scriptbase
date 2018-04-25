@@ -1,0 +1,136 @@
+year	1985
+imdb score	6.3
+meta score	N/A
+genre	Action
+genre	War
+keyword	rambo
+keyword	vietnam
+keyword	prison
+keyword	rescue
+keyword	soldier
+keyword	jungle
+keyword	green beret
+keyword	murder
+keyword	rpg
+keyword	ambush
+keyword	bare chested male
+keyword	warrior
+keyword	rocket launcher
+keyword	escape
+keyword	death
+keyword	shot with a bow and arrow
+keyword	pistol
+keyword	exploding car
+keyword	betrayal
+keyword	sequel to cult favorite
+keyword	action hero
+keyword	sweat
+keyword	knife
+keyword	rescue mission
+keyword	shootout
+keyword	vietnam veteran
+keyword	prison camp
+keyword	helicopter chase
+keyword	worst picture razzie winner
+keyword	one against many
+keyword	compound bow
+keyword	cult film
+keyword	tough guy
+keyword	disarming someone
+keyword	waterfall
+keyword	m 60 machine gun
+keyword	bow and arrow
+keyword	silencer
+keyword	chase
+keyword	cia
+keyword	fistfight
+keyword	electric shock
+keyword	kiss
+keyword	battle
+keyword	guerilla warfare
+keyword	male rear nudity
+keyword	bombardment
+keyword	man hunt
+keyword	wisecrack humor
+keyword	exploding helicopter
+keyword	psychotronic
+keyword	male protagonist
+keyword	machine gun
+keyword	endurance
+keyword	jungle warfare
+keyword	uzi
+keyword	showdown
+keyword	male nudity
+keyword	ak 47
+keyword	1980s
+keyword	combat
+keyword	sequel
+keyword	standoff
+keyword	person on fire
+keyword	muscleman
+keyword	second part
+keyword	war hero
+keyword	blood
+keyword	shot in the head
+keyword	strongman
+keyword	violence
+keyword	shotgun
+keyword	neck breaking
+keyword	gun violence
+keyword	pump action shotgun
+keyword	special forces
+keyword	gun
+keyword	gatling gun
+keyword	foot chase
+keyword	captured by the enemy
+keyword	hero
+keyword	one man army
+keyword	loincloth
+keyword	exploding body
+keyword	hunting knife
+keyword	torture
+keyword	martial arts
+keyword	exploding boat
+keyword	blockbuster
+keyword	brawl
+keyword	helicopter
+keyword	knife throwing
+keyword	archery
+keyword	gunship
+keyword	gunfight
+keyword	prisoner of war
+keyword	hand to hand combat
+keyword	bare chested male bondage
+keyword	mixed martial arts
+keyword	covert operation
+keyword	massacre
+keyword	python
+keyword	chosen one
+keyword	shot in the back
+keyword	dogfight
+keyword	blood spatter
+keyword	death of girlfriend
+keyword	character name in title
+cast	Sylvester Stallone	Rambo
+cast	Richard Crenna	Col. Samuel Trautman
+cast	Charles Napier	Marshall Murdock
+cast	Steven Berkoff	Lt. Col. Podovsky
+cast	Julia Nickson	Co
+cast	Martin Kove	Ericson
+cast	George Cheung	Tay
+cast	Andy Wood	Banks
+cast	William Ghent	Captain Vinh
+cast	Voyo Goric	Sergeant Yushin
+cast	Dana Lee	Captain Kinh
+cast	Baoan Coleman	Gunboat Captain
+cast	Steve Williams	Lifer
+cast	Don Collins	P.O.W. #1
+cast	Christopher Grant	P.O.W. #2
+cast	John Sterlini	P.O.W. #3
+cast	Alain Hocquenghem	P.O.W. #4
+cast	William Rothlein	P.O.W. #5
+cast	Tony Munafo	Prison Guard
+cast	Tom Gehrke	Russian Pilot
+cast	Roger Cudney	Chief Radio Operator
+cast	John Pankow	POW #6
+cast	John Sabol	Radio Operator

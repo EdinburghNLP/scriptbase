@@ -1,0 +1,95 @@
+year	1999
+imdb score	5.6
+meta score	33
+genre	Action
+genre	Comedy
+genre	Horror
+genre	Sci-Fi
+genre	Thriller
+keyword	crocodile
+keyword	lake
+keyword	creature
+keyword	eccentric
+keyword	paleontologist
+keyword	sheriff
+keyword	remote
+keyword	widow
+keyword	nature
+keyword	based on cult classic
+keyword	camping
+keyword	boston massachusetts
+keyword	boat
+keyword	binoculars
+keyword	bait
+keyword	severed head
+keyword	wilderness
+keyword	new york city
+keyword	hunt
+keyword	tooth
+keyword	boyfriend girlfriend relationship
+keyword	horse
+keyword	cult film
+keyword	handgun
+keyword	creature feature
+keyword	bear attack
+keyword	monster
+keyword	torn in half
+keyword	swimming
+keyword	severed toe
+keyword	giant animal
+keyword	helicopter
+keyword	animal attack
+keyword	morgue
+keyword	cow
+keyword	scientist
+keyword	decapitation
+keyword	rural setting
+keyword	ambulance
+keyword	water
+keyword	tranquilizer dart
+keyword	deputy
+keyword	police
+keyword	sea monster
+keyword	exploding head
+keyword	underwater scene
+keyword	laptop
+keyword	diver
+keyword	millionaire
+keyword	maine
+keyword	diving
+keyword	new england
+keyword	policewoman
+keyword	giant crocodile
+keyword	amphibian
+keyword	blood
+keyword	death
+keyword	rifle
+keyword	shot in the head
+keyword	museum
+keyword	urination
+keyword	gore
+keyword	hospital
+keyword	bear
+keyword	torso bit in half
+keyword	tent
+keyword	plane
+keyword	canoe
+keyword	campfire
+keyword	surprise ending
+cast	Bill Pullman	Jack Wells
+cast	Bridget Fonda	Kelly Scott
+cast	Oliver Platt	Hector Cyr
+cast	Brendan Gleeson	Sheriff Hank Keough
+cast	Betty White	Mrs. Delores Bickerman
+cast	David Lewis	Walt Lawson
+cast	Tim Dixon	Stephen Daniels
+cast	Natassia Malthe	Janine
+cast	Mariska Hargitay	Myra Okubo
+cast	Meredith Salenger	Deputy Sharon Gare
+cast	Jed Rees	Deputy Burke
+cast	Richard Leacock	Deputy Stevens
+cast	Jake T. Roberts	Officer Coulson
+cast	Warren Takeuchi	Paramedic
+cast	Ty Olsson	State Trooper
+cast	Adam Arkin	Kevin
+cast	Steve Miner	Airplane Pilot

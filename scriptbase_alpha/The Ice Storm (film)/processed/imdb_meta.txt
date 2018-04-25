@@ -1,0 +1,280 @@
+year	1997
+imdb score	7.5
+meta score	72
+genre	Drama
+keyword	storm
+keyword	drink
+keyword	ice
+keyword	ice storm
+keyword	thanksgiving
+keyword	sexual experimentation
+keyword	reading
+keyword	drug use
+keyword	watergate scandal
+keyword	class
+keyword	adultery
+keyword	friend
+keyword	girl
+keyword	book
+keyword	sex
+keyword	teacher
+keyword	precocious sex
+keyword	first amendment
+keyword	passing out
+keyword	bed
+keyword	sex talk
+keyword	marital crisis
+keyword	open marriage
+keyword	social commentary
+keyword	attraction
+keyword	brother brother relationship
+keyword	infidelity
+keyword	mistress
+keyword	toe socks
+keyword	whip
+keyword	samoa
+keyword	electrocuted child
+keyword	crying
+keyword	classroom
+keyword	sexual promiscuity
+keyword	weather
+keyword	teenage boy
+keyword	magazine
+keyword	hedonism
+keyword	rocket
+keyword	neighbor
+keyword	boy
+keyword	drunkenness
+keyword	existentialism
+keyword	parental neglect
+keyword	surrogate brother
+keyword	symbionese liberation army
+keyword	sadness
+keyword	wet dream
+keyword	football
+keyword	drugstore
+keyword	band
+keyword	virginity
+keyword	commuter
+keyword	american football
+keyword	sleeping pill
+keyword	couples group
+keyword	reel to reel tape recorder
+keyword	dinner
+keyword	minister
+keyword	frozen turkey
+keyword	sexuality
+keyword	politics
+keyword	bedroom
+keyword	thai stick
+keyword	bicycle
+keyword	marital problem
+keyword	suburb
+keyword	geometry
+keyword	night
+keyword	reference to notes from underground
+keyword	turkey the bird
+keyword	nixon mask
+keyword	model airplane
+keyword	snow
+keyword	desire
+keyword	tape recorder
+keyword	sexual attraction
+keyword	neglect
+keyword	wine
+keyword	telephone call
+keyword	jeans
+keyword	whitehead
+keyword	living room
+keyword	reference to dostoyevsky
+keyword	underwear
+keyword	bong
+keyword	brother sister relationship
+keyword	religion
+keyword	year 1973
+keyword	reference to john dean
+keyword	towel stuffed under a door
+keyword	grand central station manhattan new york city
+keyword	upper class
+keyword	church
+keyword	reverend
+keyword	marijuana
+keyword	skin into jeans
+keyword	kiss
+keyword	reference to jesus christ superstar
+keyword	cigarette smoking
+keyword	shoplifting
+keyword	house
+keyword	explosion
+keyword	party
+keyword	book sale
+keyword	burglary
+keyword	school band
+keyword	reference to philip roth
+keyword	stripping
+keyword	sexual awakening
+keyword	marvel comic
+keyword	aftershave lotion
+keyword	ice cube
+keyword	pharmacy
+keyword	valium
+keyword	recording
+keyword	marriage
+keyword	nocturnal emission
+keyword	frustration
+keyword	unfaithfulness
+keyword	coming of age
+keyword	adolescence
+keyword	anarchy
+keyword	teenage girl
+keyword	sleet
+keyword	mother daughter relationship
+keyword	key party
+keyword	grace
+keyword	masturbation
+keyword	skylight
+keyword	assassination
+keyword	silicon
+keyword	extramarital affair
+keyword	reference to spiro agnew
+keyword	love
+keyword	divorce
+keyword	railway station
+keyword	car
+keyword	record player
+keyword	new york city
+keyword	friendship
+keyword	reference to richard nixon
+keyword	reference to the fantastic four
+keyword	bicycling
+keyword	roommate
+keyword	private school
+keyword	husband wife relationship
+keyword	cranberry sauce
+keyword	waterbed
+keyword	innocence lost
+keyword	shower
+keyword	embarrassment
+keyword	young republican
+keyword	couple
+keyword	student
+keyword	1970s
+keyword	key
+keyword	tears
+keyword	father son relationship
+keyword	comic book
+keyword	diving board
+keyword	self abuse
+keyword	guilt
+keyword	narcissism
+keyword	father daughter relationship
+keyword	swinging
+keyword	hangman's noose
+keyword	reference to the idiot
+keyword	golf
+keyword	yard sale
+keyword	family relationships
+keyword	cable
+keyword	explosive
+keyword	sexual desire
+keyword	drinking
+keyword	checkers speech
+keyword	mother son relationship
+keyword	swimming pool
+keyword	rain
+keyword	aura
+keyword	electrocution
+keyword	fascist
+keyword	dysfunctional family
+keyword	tragic event
+keyword	watching tv
+keyword	radio controlled toy
+keyword	facts of life
+keyword	psychiatric hospital
+keyword	kitchen
+keyword	trombone
+keyword	seminar
+keyword	promiscuity
+keyword	first amendment defense fund
+keyword	group therapy
+keyword	prayer
+keyword	birth control
+keyword	power line
+keyword	manhattan new york city
+keyword	pajamas
+keyword	suburbia
+keyword	new canaan connecticut
+keyword	accidental death
+keyword	penis
+keyword	dead boy
+keyword	electric cable
+keyword	downed power line
+keyword	drug abuse
+keyword	death of brother
+keyword	high school
+keyword	wife swapping
+keyword	aclu
+keyword	bathroom
+keyword	saying grace
+keyword	sexual revolution
+keyword	rainy night
+keyword	dysfunctional marriage
+keyword	ice cube tray
+keyword	spilled drink
+keyword	sleeping
+keyword	voice over narration
+keyword	train
+keyword	band uniform
+keyword	virgin
+keyword	reference to deep throat
+keyword	generation gap
+keyword	reference to harry reems
+keyword	death of son
+keyword	independent film
+keyword	based on novel
+cast	Kevin Kline	Ben Hood
+cast	Joan Allen	Elena Hood
+cast	Sigourney Weaver	Janey Carver
+cast	Henry Czerny	George Clair
+cast	Tobey Maguire	Paul Hood
+cast	Christina Ricci	Wendy Hood
+cast	Elijah Wood	Mikey Carver
+cast	Adam Hann-Byrd	Sandy Carver
+cast	David Krumholtz	Francis Davenport
+cast	Jamey Sheridan	Jim Carver
+cast	Kate Burton	Dorothy Franklin
+cast	William Cain	Ted Shackley
+cast	Michael Cumpsty	Philip Edwards
+cast	Maia Danziger	Mrs. Gadd
+cast	Katie Holmes	Libbets Casey
+cast	Michael Egerman	Pharmacist
+cast	Christine Farrell	Marie Earle
+cast	Glenn Fitzgerald	Neil Conrad
+cast	Allison Janney	Dot Halford
+cast	Jonathan Freeman	Ted Franklin
+cast	Barbara Garrick	Weather Reporter
+cast	Dennis Gagomiros	Stephen Earle
+cast	John Benjamin Hickey	Mark Boland
+cast	Tom Flagg	Train Conductor
+cast	Byron Jennings	Pierce Sawyer
+cast	Miles Marek	Mr. Gadd
+cast	Colette Kilroy	Sari Steele
+cast	Ivan Kronenfeld	Jack Moellering
+cast	Daniel McDonald	Weatherman
+cast	Donna Mitchell	Maria Conrad
+cast	Barbara Neal	Helen Wentworth
+cast	Nancy Opel	Claudia White
+cast	Larry Pine	Dave Gorman
+cast	Wendy Scott	Pharmacy Attendant
+cast	Marcell Rosenblatt	Mikey's Teacher
+cast	Evelyn Solann	Woman in Pharmacy
+cast	Jessica Stone	Marge
+cast	Sarah Thompson	Beth
+cast	Scott Wentworth	Paul's Teacher
+cast	Robert Westenberg	Rob Halford
+cast	Colleen Camp	Dr. Pasmier
+cast	Bill McIntyre	Libbet's Doorman
+cast	Richard Nixon	Himself
+cast	Joe O'Connor	Marty
+cast	Courtney Peldon	Billie
+cast	Bettina Skye	Drug Store Clerk

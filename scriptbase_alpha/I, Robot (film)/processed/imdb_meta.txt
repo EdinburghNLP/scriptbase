@@ -1,0 +1,184 @@
+year	2004
+imdb score	7.1
+meta score	59
+genre	Action
+genre	Mystery
+genre	Sci-Fi
+genre	Thriller
+keyword	robot
+keyword	law
+keyword	suicide
+keyword	death
+keyword	investigation
+keyword	murder
+keyword	police
+keyword	future
+keyword	dream
+keyword	robot as menace
+keyword	neck breaking
+keyword	grandmother
+keyword	exit wound
+keyword	riot
+keyword	road accident
+keyword	gun duel
+keyword	cat
+keyword	christ allegory
+keyword	demolition
+keyword	flashback
+keyword	broken arm
+keyword	interracial relationship
+keyword	murder investigation
+keyword	lens flare
+keyword	futuristic train
+keyword	mistaken identity
+keyword	humanoid robot
+keyword	evil robot
+keyword	corpse
+keyword	artificial intelligence
+keyword	murder suspect
+keyword	android
+keyword	paranoia
+keyword	shower
+keyword	punching
+keyword	drowning
+keyword	gun battle
+keyword	humanoid
+keyword	cybernetics
+keyword	standoff
+keyword	motorcycle
+keyword	hero
+keyword	prosthetic limb
+keyword	tough cop
+keyword	bullet time
+keyword	killer robot
+keyword	scene of the crime
+keyword	shot in the forehead
+keyword	exploding car
+keyword	police investigation
+keyword	technology
+keyword	gun fu
+keyword	shot in the chest
+keyword	shootout
+keyword	tv news
+keyword	tunnel
+keyword	prejudice
+keyword	shot to death
+keyword	machine gun
+keyword	trust
+keyword	motorcycle jump
+keyword	interrogation
+keyword	gun sau
+keyword	blockbuster
+keyword	secret
+keyword	slow motion scene
+keyword	sentience
+keyword	crushed head
+keyword	shot in the back
+keyword	chase
+keyword	robot as pathos
+keyword	fistfight
+keyword	fight
+keyword	part animation
+keyword	gunfight
+keyword	brutality
+keyword	scar
+keyword	hansel and gretel
+keyword	blood splatter
+keyword	laboratory
+keyword	blood
+keyword	one man army
+keyword	police detective
+keyword	hand to hand combat
+keyword	no opening credits
+keyword	fighting
+keyword	fighting
+keyword	nightmare
+keyword	man versus machine
+keyword	diving
+keyword	falling from height
+keyword	exploding body
+keyword	carnage
+keyword	brawl
+keyword	tough guy
+keyword	robot vs. robot
+keyword	pistol
+keyword	shootout
+keyword	car chase
+keyword	babe scientist
+keyword	caught in a net
+keyword	carnage
+keyword	technophobia
+keyword	gun
+keyword	hit by a car
+keyword	reference to harold lloyd
+keyword	shot in the head
+keyword	human versus computer
+keyword	chicago illinois
+keyword	hologram
+keyword	corporate crime
+keyword	2030s
+keyword	dystopia
+keyword	train
+keyword	homelessness
+keyword	computer tries to take over the world
+keyword	computer
+keyword	rebellion
+keyword	violence
+keyword	bullet ballet
+keyword	diner
+keyword	car accident
+keyword	science runs amok
+keyword	asthma
+keyword	futuristic car
+keyword	combat
+keyword	revolution
+keyword	action hero
+keyword	gun kata
+keyword	product placement
+keyword	attempted murder
+keyword	martial arts
+keyword	one against many
+keyword	violence
+keyword	death of child
+keyword	based on novel
+keyword	surprise ending
+cast	Will Smith	Del Spooner
+cast	Bridget Moynahan	Susan Calvin
+cast	Alan Tudyk	Sonny
+cast	James Cromwell	Dr. Alfred Lanning
+cast	Bruce Greenwood	Lawrence Robertson
+cast	Adrian Ricard	Granny
+cast	Chi McBride	Lt. John Bergin
+cast	Jerry Wasserman	Baldez
+cast	Fiona Hogan	V.I.K.I.
+cast	Peter Shinkoda	Chin
+cast	Terry Chen	Chin
+cast	David Haysom	NS4 Robot / NS5 Robot
+cast	Scott Heindl	NS4 Robot / NS5 Robot
+cast	Sharon Wilkins	Asthmatic Woman
+cast	Craig March	Detective
+cast	Kyanna Cox	Girl
+cast	Darren Moore	Homeless Man
+cast	Aaron Douglas	USR Attorney #1
+cast	Shayla Dyson	Laughing Girl
+cast	Bobby L. Stewart	Girl's Dad
+cast	Nicola Crosbie	TV Anchor Person
+cast	Emily Tennant	Young Girl
+cast	Shia LaBeouf	Farber
+cast	Michael St. John Smith	USR Attorney #2
+cast	Travis Webster	Guy with a Pie
+cast	Roger Haskett	Mob Man
+cast	Tiffany Lyndall-Knight	Mob Woman
+cast	Angela Moore	Wife
+cast	Ryan Zwick	Farber Posse
+cast	Essra Vischon	Farber Posse
+cast	Kenyan Lewis	Farber Posse
+cast	Aaron Joseph	Farber Posse
+cast	Simon Baker	Farber Posse
+cast	Marrett Green	News Reporter
+cast	Victor Formosa	Businessman
+cast	Justin Rodgers Hall	Cop
+cast	Phillip Mitchell	NS5 Robot
+cast	Ian A. Wallace	NS4 Robot / NS5 Robot
+cast	Launey Walter	Cop
+cast	Lynnanne Zager	Newscaster / Computers

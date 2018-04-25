@@ -1,0 +1,180 @@
+year	1951
+imdb score	7.9
+meta score	N/A
+genre	Drama
+genre	Sci-Fi
+genre	Thriller
+keyword	alien
+keyword	robot
+keyword	escape
+keyword	washington d.c.
+keyword	spacecraft
+keyword	flying saucer
+keyword	hospital
+keyword	tank
+keyword	war widow
+keyword	first contact
+keyword	resurrection
+keyword	corpse
+keyword	shot in the back
+keyword	interstellar communication
+keyword	mathematical equation
+keyword	android
+keyword	red scare
+keyword	radio news
+keyword	ambassador
+keyword	ufo
+keyword	boarding house
+keyword	friendship
+keyword	political protest
+keyword	rapid healing
+keyword	quarantine
+keyword	cold war
+keyword	giant robot
+keyword	cigarette smoking
+keyword	power outage
+keyword	flashlight
+keyword	idealism
+keyword	disintegration
+keyword	elevator
+keyword	ultimatum
+keyword	television broadcast
+keyword	blackout
+keyword	disaster
+keyword	chase
+keyword	blood
+keyword	washington monument
+keyword	boy
+keyword	single mother
+keyword	chalkboard
+keyword	messenger
+keyword	broken engagement
+keyword	back from the dead
+keyword	anti nuclear
+keyword	emissary
+keyword	shot in the arm
+keyword	human alien
+keyword	theremin
+keyword	famous score
+keyword	mother son relationship
+keyword	christ allegory
+keyword	gift
+keyword	anti war
+keyword	social commentary
+keyword	breaking and entering
+keyword	humanity in peril
+keyword	alien contact
+keyword	alien language
+keyword	lincoln memorial
+keyword	fugitive
+keyword	close encounter of the third kind
+keyword	hope
+keyword	healing
+keyword	scientist
+keyword	television
+keyword	diamond
+keyword	death ray
+keyword	inspiring story
+keyword	afi
+keyword	general
+keyword	arlington cemetery
+keyword	screaming in fear
+keyword	peace through strength
+keyword	time freeze
+keyword	outer space
+keyword	physicist
+keyword	military
+keyword	science vs military
+keyword	trapped in an elevator
+keyword	professor
+keyword	panic
+keyword	death of father
+keyword	
+cast	Michael Rennie	Klaatu
+cast	Patricia Neal	Helen Benson
+cast	Hugh Marlowe	Tom Stevens
+cast	Sam Jaffe	Professor Jacob Barnhardt
+cast	Billy Gray	Bobby Benson
+cast	Frances Bavier	Mrs. Barley
+cast	Lock Martin	Gort
+cast	Patrick Aherne	General at Pentagon
+cast	Oscar Blanke	Peddler
+cast	Marshall Bradford	Chief of Staff
+cast	John Brown	George Barley
+cast	John Burton	British Radio Announcer
+cast	Michael Capanna	Sentry
+cast	Wheaton Chambers	Mr. Bleeker
+cast	Jean Charney	Mother
+cast	Beulah Christian	Secretary
+cast	John Close	Captain
+cast	Louise Colombet	French Woman
+cast	James Conaty	General at Pentagon
+cast	Frank Conroy	Mr. Harley
+cast	Eric Corrie	British Soldier
+cast	John Costello	Cockney
+cast	James Craven	Businessman
+cast	Marjorie Crossland	Hilda
+cast	Jack Daly	Minor Role
+cast	Elmer Davis	Himself - Commentator
+cast	Lawrence Dobkin	Army Physician
+cast	Jim Doyle	Medical Corps Major
+cast	Roy Engel	Government Man
+cast	Charles Evans	Major General
+cast	Edith Evanson	Mrs. Crockett
+cast	Franklyn Farnum	Extra in Office Building Corridor
+cast	Michael Ferris	British Soldier
+cast	Elizabeth Flournoy	Emma - Jewelry Clerk
+cast	Grady Galloway	American Radar Operator
+cast	Bill Gentry	Sentry
+cast	Paul Gerrits	Minor Role
+cast	Glenn Hardy	Interviewer
+cast	Sam Harris	Scientific Delegate
+cast	Harry Harvey	Taxi Driver
+cast	Gabriel Heatter	Himself - Commentator
+cast	Gil Herman	Government Agent
+cast	John Hiestand	TV Announcer on Truck
+cast	H.V. Kaltenborn	Himself - Commentator
+cast	Hassan Khayyam	Indian Radio Announcer
+cast	Harry Lauter	Platoon Leader
+cast	Freeman Lusk	General Cutler
+cast	George Lynn	Colonel Ryder
+cast	Herbert Lytton	Brigadier General
+cast	Mike Mahoney	Sentry
+cast	Sandee Marriott	Minor Role
+cast	David McMahon	Air Force Sergeant
+cast	Tyler McVey	Brady
+cast	Harold Miller	Military Officer at Pentagon Meeting
+cast	Millard Mitchell	Voice of General
+cast	Ralph Montgomery	Government Man
+cast	Bruce Morgan	Government Man
+cast	Bill Neff	Police Officer Behind Desk
+cast	Howard Negley	Colonel
+cast	Dorothy Neumann	Margaret - Secretary
+cast	Sammy Ogg	Sam
+cast	Robert Osterloh	Major White
+cast	Gayle Pace	Captain
+cast	Drew Pearson	Himself - Commentator
+cast	Ted Pearson	Colonel
+cast	House Peters Jr.	Military Police Captain
+cast	'Snub' Pollard	Cab Driver
+cast	Mike Ragan	Army Captain
+cast	John M. Reed	Tank Driver
+cast	Barry Regan	Minor Role
+cast	Fay Roope	Major General
+cast	Pola Russ	Russian Woman
+cast	James Seay	Government Man
+cast	Charles Sherlock	Government Man
+cast	Peter Similuk	Russian Pilot
+cast	Bob Simpson	Colonel
+cast	Marc Snow	Government Man
+cast	Olan Soule	Mr. Krull
+cast	Kim Spalding	Army Orderly
+cast	Murray Steckler	Soldier
+cast	Harmon Stevens	Minor Role
+cast	Charles Tannen	Voice of Radio Announcer
+cast	Harlan Warde	Carlson
+cast	Gil Warren	Government Man
+cast	Stuart Whitman	Sentry
+cast	Rush Williams	Military Police Sergeant
+cast	Wilson Wood	Government Man
+cast	Carleton Young	Colonel in Jeep

@@ -1,0 +1,149 @@
+year	2000
+imdb score	6.8
+meta score	36
+genre	Horror
+keyword	death
+keyword	premonition
+keyword	explosion
+keyword	cheating death
+keyword	danger
+keyword	fear
+keyword	best friend
+keyword	teenager
+keyword	high school student
+keyword	field trip
+keyword	crushed to death
+keyword	near death experience
+keyword	boyfriend girlfriend relationship
+keyword	title appears in writing
+keyword	reckless driving
+keyword	shot in the neck
+keyword	reference to jeffrey dahmer
+keyword	electrocution
+keyword	fire
+keyword	impalement
+keyword	newspaper clipping
+keyword	rain
+keyword	airport
+keyword	toilet
+keyword	model airplane
+keyword	characters killed one by one
+keyword	airplane accident
+keyword	corpse
+keyword	fbi agent
+keyword	death of brother
+keyword	supernatural power
+keyword	knife
+keyword	severed head
+keyword	dead woman with eyes open
+keyword	burned alive
+keyword	psychic power
+keyword	interrogation
+keyword	lightning
+keyword	group of friends
+keyword	paris france
+keyword	gas explosion
+keyword	investigation
+keyword	beach
+keyword	box office hit
+keyword	hanged boy
+keyword	2000s
+keyword	first of series
+keyword	wetting pants
+keyword	sculpture
+keyword	survivor guilt
+keyword	title appears in song
+keyword	car on train tracks
+keyword	decapitation
+keyword	reference to michael jackson
+keyword	exploding airplane
+keyword	fear of death
+keyword	accidental death
+keyword	head cut in half
+keyword	jfk international airport queens new york city
+keyword	stabbed in the chest
+keyword	disaster
+keyword	character repeating someone else's dialogue
+keyword	gore
+keyword	fighting
+keyword	muscle car
+keyword	wind
+keyword	dead woman on floor
+keyword	dead woman
+keyword	bathroom
+keyword	car hit by a train
+keyword	mass death
+keyword	butcher knife
+keyword	broken glass
+keyword	jerk
+keyword	murder
+keyword	foot chase
+keyword	mortician
+keyword	funeral home
+keyword	climbing through window
+keyword	death of girlfriend
+keyword	tragic event
+keyword	traumatic experience
+keyword	hare krishna
+keyword	hit by a bus
+keyword	freak accident
+keyword	blood spatter
+keyword	self sacrifice
+keyword	exploding car
+keyword	american abroad
+keyword	suspicion
+keyword	bloody footprint
+keyword	exploding house
+keyword	omen
+keyword	high school teacher
+keyword	bathtub
+keyword	blood
+keyword	vinyl
+keyword	extrasensory perception
+keyword	dead boy
+keyword	female student
+keyword	computer
+keyword	bicycle accident
+keyword	altered version of studio logo
+keyword	memorial service
+keyword	falling tree
+keyword	teacher student relationship
+keyword	dripping blood
+keyword	long island new york
+keyword	strangulation
+keyword	cabin in the woods
+keyword	death of son
+keyword	death of friend
+keyword	surprise ending
+keyword	
+cast	Devon Sawa	Alex Browning
+cast	Ali Larter	Clear Rivers
+cast	Kerr Smith	Carter Horton
+cast	Kristen Cloke	Valerie Lewton
+cast	Daniel Roebuck	Agent Weine
+cast	Roger Guenveur Smith	Agent Schreck
+cast	Chad Donella	Tod Waggner
+cast	Seann William Scott	Billy Hitchcock
+cast	Tony Todd	Bludworth
+cast	Amanda Detmer	Terry Chaney
+cast	Brendan Fehr	George Waggner
+cast	Forbes Angus	Larry Murnau
+cast	Lisa Marie Caruk	Christa Marsh
+cast	Christine Chatelain	Blake Dreyer
+cast	Barbara Tyson	Barbara Browning
+cast	Robert Wisden	Ken Browning
+cast	P. Lynn Johnson	Mrs. Waggner
+cast	Larry Gilman	Mr. Waggner
+cast	Guy Fauchon	Hare Krishna
+cast	Randy Stone	Flight Attendant
+cast	Mark Holden	Co-Pilot
+cast	Marrett Green	TV News Anchor
+cast	Fred Keating	Howard Seigel
+cast	John Hainsworth	Minister
+cast	Pete Atherton	Student Singer
+cast	Nicole Robert	Ticket Clerk
+cast	Kristina Matisic	Reporter
+cast	Martin Christopher	Principal
+cast	Mark Marriott	Scared Airline Passenger
+cast	Natasha Morley	Girl with Red Sweater at Airport
+cast	Troy Yorke	Lou Gehrig's Man

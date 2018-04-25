@@ -1,0 +1,127 @@
+year	1951
+imdb score	8.0
+meta score	N/A
+genre	Adventure
+genre	Romance
+genre	War
+keyword	german
+keyword	steamboat
+keyword	african
+keyword	torpedo
+keyword	mission
+keyword	east africa
+keyword	boat
+keyword	village
+keyword	lake
+keyword	missionary
+keyword	fort
+keyword	swamp
+keyword	river
+keyword	journey
+keyword	reverend
+keyword	machete
+keyword	telescopic rifle
+keyword	reed
+keyword	welding
+keyword	title in title
+keyword	secluded
+keyword	native
+keyword	german army
+keyword	lion
+keyword	church
+keyword	reference to cleopatra
+keyword	baboon
+keyword	elephant
+keyword	world war one
+keyword	saved from hanging
+keyword	rain
+keyword	thunderstorm
+keyword	german military
+keyword	inter cultural
+keyword	american expatriate
+keyword	waterfall
+keyword	citadel
+keyword	knocked out
+keyword	loss of brother
+keyword	delirium
+keyword	prayer
+keyword	singing
+keyword	love
+keyword	shaving
+keyword	swahili
+keyword	scream
+keyword	repairing
+keyword	spinster
+keyword	ship sinking
+keyword	methodist
+keyword	execution
+keyword	urban legend vector
+keyword	map
+keyword	grave
+keyword	anchor
+keyword	hippopotamus
+keyword	african tribe
+keyword	machinist
+keyword	organist
+keyword	bathing
+keyword	leech
+keyword	death
+keyword	explosion
+keyword	tanzania
+keyword	year 1914
+keyword	roadboatmovie
+keyword	village set on fire
+keyword	trial
+keyword	escape
+keyword	papyrus
+keyword	raid
+keyword	mail delivery
+keyword	underwear
+keyword	river rapids
+keyword	swimming
+keyword	hunger
+keyword	boat pilot
+keyword	prisoner
+keyword	mosquito
+keyword	lifesaver
+keyword	wedding
+keyword	captain
+keyword	noose
+keyword	mental breakdown
+keyword	crocodile
+keyword	brother sister relationship
+keyword	binoculars
+keyword	arson
+keyword	cylinder
+keyword	reference to marc antony
+keyword	steamship
+keyword	island
+keyword	jungle
+keyword	sinking ship
+keyword	1910s
+keyword	giraffe
+keyword	rainstorm
+keyword	wilderness
+keyword	oar
+keyword	hangover
+keyword	hut
+keyword	undressing
+keyword	burial
+keyword	tea
+keyword	boat accident
+keyword	underwater
+keyword	canadian
+keyword	drunkenness
+keyword	straight razor
+keyword	based on novel
+cast	Humphrey Bogart	Charlie Allnut
+cast	Katharine Hepburn	Rose Sayer
+cast	Robert Morley	The Brother / Rev. Samuel Sayer
+cast	Peter Bull	Captain of Louisa
+cast	Theodore Bikel	First Officer
+cast	Walter Gotell	Second Officer
+cast	Peter Swanwick	First Officer of Shona
+cast	Richard Marner	Second Officer of Shona
+cast	Errol John	
+cast	Gerald Onn	Petty Officer
+cast	John von Kotze	German Officer

@@ -1,0 +1,175 @@
+year	2009
+imdb score	6.5
+meta score	66
+genre	Comedy
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	company
+keyword	price fixing
+keyword	informant
+keyword	spy
+keyword	lysine
+keyword	fbi
+keyword	double life
+keyword	secret informant
+keyword	investigation
+keyword	corn
+keyword	husband wife relationship
+keyword	lie
+keyword	voice over inner thoughts
+keyword	corporate scandal
+keyword	compulsive liar
+keyword	psychiatrist
+keyword	duplicity
+keyword	following a dream
+keyword	ambitious man
+keyword	monologue
+keyword	lie detection
+keyword	undercover
+keyword	golf
+keyword	dual lives
+keyword	forged signature
+keyword	meeting
+keyword	mentally impaired
+keyword	year 1994
+keyword	kickback
+keyword	wearing a sound wire
+keyword	exclamation point in title
+keyword	closing blinds
+keyword	what happened to epilogue
+keyword	mole
+keyword	1990s
+keyword	criminally insane
+keyword	porsche
+keyword	ravenna ohio
+keyword	springfield illinois
+keyword	ambition
+keyword	spying
+keyword	phone tap
+keyword	police surveillance
+keyword	mental illness
+keyword	internal monologue
+keyword	2000s
+keyword	money laundering
+keyword	american flag
+keyword	punctuation in title
+keyword	forgery
+keyword	voice over narration
+keyword	liar
+keyword	hawaii
+keyword	suicide thoughts
+keyword	travel
+keyword	character repeating someone else's dialogue
+keyword	scam
+keyword	golf cart
+keyword	repeated line
+keyword	tokyo japan
+keyword	scandal
+keyword	fraud
+keyword	dextrose
+keyword	subtly humorous
+keyword	police informant
+keyword	bipolar disorder
+keyword	man with glasses
+keyword	pay phone
+keyword	trial
+keyword	narration
+keyword	fbi agent
+keyword	daydreaming
+keyword	insane
+keyword	whistleblower
+keyword	tie
+keyword	black comedy
+keyword	based on novel
+keyword	based on true story
+keyword	plot twist
+cast	Matt Damon	Mark Whitacre
+cast	Lucas McHugh Carroll	Alexander Whitacre
+cast	Eddie Jemison	Kirk Schmidt
+cast	Rusty Schwimmer	Liz Taylor
+cast	Craig Ricci Shaynak	Discouraged Foreman
+cast	Tom Papa	Mick Andreas
+cast	Rick Overton	Terry Wilson
+cast	Melanie Lynskey	Ginger Whitacre
+cast	Thomas F. Wilson	Mark Cheviron
+cast	Scott Bakula	FBI Special Agent Brian Shepard
+cast	Scott Adsit	Sid Hulse
+cast	Ann Dowd	FBI Special Agent Kate Medford
+cast	Allan Havey	FBI Special Agent Dean Paisley
+cast	Howie Johnson	Rusty Williams
+cast	Joel McHale	FBI Special Agent Bob Herndon
+cast	Nick Craig	Kid at Pool #1
+cast	Cody Puckett	Kid at Pool #2
+cast	Andrew Daly	Marty Allison
+cast	David Campbell	Budweiser Client Representative
+cast	Carolyn R. Feltner	Budweiser Receptionist
+cast	J.P. Gillain	Zurich Bank Security Officer
+cast	Elena Eustache	Zurich Bank Receptionist
+cast	John Hans Tester	Peter Dreyer
+cast	Ludger Pistor	Reinhard Richter
+cast	Rome Kanda	Hirokazu Ikeda
+cast	Yoshio Be	Kazutoshi Yamada
+cast	Raymond Ma	Kanji Mimoto
+cast	Hervé Deschamps	Philippe Rollier
+cast	Pascal Ifri	Alain Crouy
+cast	Ann Cusack	Robin Mann
+cast	Dann Seki	Joon Mo Suh
+cast	Jayden Lund	James Mutchnik
+cast	Chic Daniel	FBI Agent at Raid
+cast	Joe Chrest	Visiting Client
+cast	J.D. Mathein	Phone Agent
+cast	William Marsh	FBI Special Agent Ken Temples
+cast	Tom Smothers	Dwayne Andreas
+cast	Clancy Brown	Aubrey Daniel
+cast	Bob Zany	John Dowd
+cast	Tony Hale	James Epstein
+cast	Richard Steven Horvitz	Bob Zaideman
+cast	Tara Barrett	Reporter #1
+cast	Tim Cain	Reporter #2
+cast	Ken Frye	Reporter #3
+cast	Huey Freeman	Reporter #4
+cast	Brian Gallivan	Ron Henkoff
+cast	Daniel Hagen	Scott Roberts
+cast	Patton Oswalt	Ed Herbst
+cast	Samantha Albert	Mary Spearing
+cast	Jimmy Brogan	Dr. Derek Miller
+cast	Paul F. Tompkins	FBI Special Agent Anthony D'Angelo
+cast	Adam Paul	FBI Special Agent Michael Bassett
+cast	Wayne Pére	Sheldon Zenner
+cast	Scott England	Local News Anchor
+cast	Joshua Funk	FBI Special Agent Robert Grant
+cast	Candy Clark	Mark Whitacre's Mother
+cast	Frank Welker	Mark Whitacre's Father
+cast	Larry Clarke	Whitacre's Second Attorney
+cast	Dick Smothers	Judge Harold Baker
+cast	Steve Seagren	Correctional Officer
+cast	Sage Adams	Jason Ripley
+cast	Roy Allen III	Office Manager
+cast	Rj Buckler	Extra holding boom pole in crowd of reporters
+cast	Emma Chandler	Mick Andreas' Assistant
+cast	Dona Ellis	Bartender
+cast	Nichole Fischer	Patron in airport
+cast	Gene Fojtik	Lawyer
+cast	James Gianoulakis	Airport Traveler
+cast	Joe Hammerstone	Airport Restaurant Patron
+cast	Tabby Hanson	Sunt / Actress '2009'
+cast	Troy Hayes	New Home Owner
+cast	Richard Hoffman Jr.	Payroll
+cast	Bill Ibrahim	Attorney on EL
+cast	Jordan Kirkwood	European Executive
+cast	Don Kress	Lawyer
+cast	BJ Lange	Airline Passenger
+cast	Dan Latham	CTA Passenger
+cast	Ted LeBlang	Country Club Dinner Guest
+cast	Allen Marsh	Airport Restaurant Patron
+cast	Joseph Mazurk	Federal Plaza Lawyer
+cast	Elizabeth Zephyrine McDonough	Sweater Girl
+cast	Cameron Potter	Businessman
+cast	Mallory Scott	Business Traveler
+cast	Gary Sedlock	Movie Goer
+cast	Malik Simmons	Restaurant Patron
+cast	E.J. Snyder	Golfer
+cast	Jaxon Stanford	Businessman Walking Thru Airport
+cast	Jani Vorwerk	Waitress
+cast	Erik A. Williams	Airport Traveler

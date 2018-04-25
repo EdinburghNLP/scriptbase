@@ -1,0 +1,192 @@
+year	1985
+imdb score	7.8
+meta score	60
+genre	Adventure
+genre	Comedy
+genre	Family
+keyword	treasure
+keyword	map
+keyword	pirate
+keyword	trap
+keyword	treasure map
+keyword	cavern
+keyword	group of friends
+keyword	hidden
+keyword	skeleton
+keyword	organ
+keyword	dynamite
+keyword	bullet hole
+keyword	switchblade
+keyword	water slide
+keyword	michelangelo's david
+keyword	blockbuster
+keyword	child in peril
+keyword	country club
+keyword	pacific northwest
+keyword	pirate ship
+keyword	overweight child
+keyword	pistol
+keyword	children
+keyword	first kiss
+keyword	underwater
+keyword	convertible
+keyword	violence
+keyword	chase
+keyword	booby trap
+keyword	rube goldberg machine
+keyword	boyfriend girlfriend relationship
+keyword	child fighting adult
+keyword	cult film
+keyword	small town
+keyword	swimming
+keyword	inventor
+keyword	cave
+keyword	fake suicide
+keyword	television reporter
+keyword	slapstick comedy
+keyword	physical comedy
+keyword	mistaken identity
+keyword	tunnel
+keyword	subterranean
+keyword	human monster
+keyword	sword
+keyword	unsubtitled foreign language
+keyword	bicycle
+keyword	swashbuckler
+keyword	affection
+keyword	opening action scene
+keyword	lifting male in air
+keyword	cove
+keyword	real estate
+keyword	foot chase
+keyword	family relationships
+keyword	police chase
+keyword	love interest
+keyword	cheerleader
+keyword	thunderstorm
+keyword	jewish
+keyword	development
+keyword	intentional mistranslation
+keyword	reference to liberace
+keyword	urination
+keyword	blender
+keyword	propped up corpse falls down
+keyword	wishing well
+keyword	running gunfight
+keyword	rescue
+keyword	friendship
+keyword	lost treasure
+keyword	corpse
+keyword	truffle
+keyword	reference to george washington
+keyword	asthma
+keyword	watching tv
+keyword	octopus
+keyword	hit in the crotch
+keyword	mother son relationship
+keyword	toilet
+keyword	1980s
+keyword	restroom
+keyword	brother brother relationship
+keyword	toupee
+keyword	chained to a wall
+keyword	teenager fighting adult
+keyword	group vomit
+keyword	deformity
+keyword	kiss
+keyword	hidden treasure
+keyword	sitting
+keyword	fugitive
+keyword	baby ruth
+keyword	frozen corpse
+keyword	police
+keyword	beach
+keyword	adventurer
+keyword	dental braces
+keyword	treasure hunt
+keyword	teenager
+keyword	suburb
+keyword	slapstick
+keyword	walking the plank
+keyword	cutlass
+keyword	police officer
+keyword	child's point of view
+keyword	newspaper
+keyword	murder
+keyword	bad mother
+keyword	class differences
+keyword	coin
+keyword	gunfight
+keyword	outlaw
+keyword	child abuse
+keyword	against the odds
+keyword	girl with glasses
+keyword	rescue from drowning
+keyword	showdown
+keyword	shootout
+keyword	lifting someone into the air
+keyword	cellar
+keyword	exercise machine
+keyword	gadget
+keyword	confession
+keyword	explosion
+keyword	statue
+keyword	revolver
+keyword	car chase
+keyword	foreclosure
+keyword	child hero
+keyword	attic
+keyword	shower room
+keyword	cult film
+keyword	housing
+keyword	freezer
+keyword	jail escape
+keyword	home alone
+keyword	suburbia
+keyword	young love
+keyword	teenage hero
+keyword	vomit
+keyword	arrest
+keyword	one night
+keyword	jail break
+keyword	stepping on a rake
+keyword	wish
+keyword	language barrier
+keyword	dungeon
+keyword	counterfeit
+keyword	title spoken by character
+keyword	surprise ending
+cast	Sean Astin	Mikey
+cast	Josh Brolin	Brand
+cast	Jeff Cohen	Chunk
+cast	Corey Feldman	Mouth
+cast	Kerri Green	Andy
+cast	Martha Plimpton	Stef
+cast	Jonathan Ke Quan	Data
+cast	John Matuszak	Sloth
+cast	Robert Davi	Jake
+cast	Joe Pantoliano	Francis
+cast	Anne Ramsey	Mama Fratelli
+cast	Lupe Ontiveros	Rosalita
+cast	Mary Ellen Trainor	Mrs. Walsh
+cast	Keith Walker	Mr. Walsh
+cast	Curtis Hanson	Mr. Perkins
+cast	Steve Antin	Troy
+cast	Paul Tuerpe	Sheriff
+cast	George Robotham	Prison Guard
+cast	Charles McDaniel	Chunk's Father
+cast	Elaine Cohen McMahon	Chunk's Mother
+cast	Michael Paul Chan	Data's Father
+cast	Nick McLean	Mouth's Father
+cast	Bill Bradley	Bill
+cast	Jeb Stuart Adams	Troy's Friend #1
+cast	Eric Briant Wells	Troy's Friend #2
+cast	Gene Ross	Man in Shower #1
+cast	Max Segar	Man in Shower #2
+cast	Newt Arnold	Man in Shower #3
+cast	Jack O'Leary	Reporter #1
+cast	Patrick Cameron	Reporter #2
+cast	Orwin C. Harvey	Tennis Player
+cast	Ted Grossman	FBI Man
+cast	Richard Donner	Policeman
+cast	Jennie Lew Tugend	Mrs. Wang

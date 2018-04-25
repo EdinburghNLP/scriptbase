@@ -1,0 +1,220 @@
+year	1990
+imdb score	7.4
+meta score	55
+genre	Adventure
+genre	Comedy
+genre	Sci-Fi
+genre	Western
+keyword	letter
+keyword	tombstone
+keyword	dog
+keyword	gunfight
+keyword	cemetery
+keyword	outlaw
+keyword	blacksmith
+keyword	library
+keyword	time machine
+keyword	band
+keyword	teacher
+keyword	baby
+keyword	peg on one's nose
+keyword	falling down a hill
+keyword	falling on bed sobbing
+keyword	town dance
+keyword	time travel romance
+keyword	drunkenness
+keyword	dancing
+keyword	hanging
+keyword	sequel
+keyword	gun
+keyword	third part
+keyword	child
+keyword	reference to robert deniro
+keyword	six word title
+keyword	rube goldberg machine
+keyword	blockbuster
+keyword	spittoon
+keyword	1950s
+keyword	product placement
+keyword	train bridge
+keyword	farm
+keyword	alternate history
+keyword	derringer
+keyword	drive in theatre
+keyword	punched in the face
+keyword	small town
+keyword	destiny
+keyword	intergenerational friendship
+keyword	top hat
+keyword	year 1955
+keyword	car accident
+keyword	running out of gas
+keyword	skateboard
+keyword	train wreck
+keyword	moonwalk dancing
+keyword	delorean dmc 12
+keyword	runaway buckboard
+keyword	numbered sequel
+keyword	kicking gun out hand
+keyword	colt 45
+keyword	lifting someone into the air
+keyword	time travel
+keyword	bullet dancing
+keyword	risking one's life for love
+keyword	steam train
+keyword	train robbery
+keyword	walkie talkie
+keyword	actress playing multiple roles
+keyword	face slap
+keyword	train whistle
+keyword	truth taken as a lie
+keyword	headstone
+keyword	festival
+keyword	mistaken identity
+keyword	female slaps a male
+keyword	waking up in strange surroundings
+keyword	flying train
+keyword	undertaker
+keyword	disgruntled customer
+keyword	passed out drunk
+keyword	family relationships
+keyword	california
+keyword	teenage boy
+keyword	chases on horseback
+keyword	20th century
+keyword	the end
+keyword	porch swing
+keyword	inventor
+keyword	emergency stop
+keyword	letter read aloud
+keyword	roman numbered sequel
+keyword	dragged by a horse
+keyword	manure
+keyword	purple dress
+keyword	monument valley
+keyword	love at first sight
+keyword	car on train tracks
+keyword	actor playing multiple roles
+keyword	long johns
+keyword	19th century
+keyword	climbing onto a moving train
+keyword	stealing a train
+keyword	reference to clint eastwood
+keyword	teenager
+keyword	roman numeral in title
+keyword	suburbia
+keyword	girl next door
+keyword	ravine
+keyword	modern western
+keyword	horseback riding
+keyword	altering history
+keyword	mad scientist
+keyword	character says i love you
+keyword	1980s
+keyword	fireplace
+keyword	train
+keyword	street shootout
+keyword	shooting gallery
+keyword	kiss
+keyword	sliding glass down bar
+keyword	reference to jules verne
+keyword	bear
+keyword	automobile
+keyword	breakfast machine
+keyword	windmill
+keyword	horseback train chase
+keyword	flying car
+keyword	buckboard
+keyword	firing a gun into the air
+keyword	computer cracker
+keyword	teenage hero
+keyword	photograph
+keyword	clock
+keyword	revolver
+keyword	animal in cast credits
+keyword	saloon
+keyword	sitting
+keyword	chess
+keyword	handwritten letter
+keyword	year 1985
+keyword	cavalry
+keyword	woman slaps a man
+keyword	white hair
+keyword	train hijack
+keyword	car trouble
+keyword	irish american
+keyword	part of trilogy
+keyword	street racing
+keyword	adult actor playing teenage boy
+keyword	shot back to back
+keyword	native american attack
+keyword	bulletproof vest
+keyword	abandoned mine
+keyword	saving someone's life
+keyword	model train
+keyword	17 year old
+keyword	bullets fired at feet
+keyword	saved from hanging
+keyword	dual role
+keyword	train explosion
+keyword	steam locomotive
+keyword	frisbee
+keyword	futuristic train
+keyword	1880s
+keyword	colt peacemaker revolver
+keyword	marksman
+keyword	lynching
+keyword	irish
+cast	Michael J. Fox	Marty McFly / Seamus McFly
+cast	Christopher Lloyd	Dr. Emmett Brown
+cast	Mary Steenburgen	Clara Clayton
+cast	Thomas F. Wilson	Buford 'Mad Dog' Tannen / Biff Tannen
+cast	Lea Thompson	Maggie McFly / Lorraine McFly
+cast	Elisabeth Shue	Jennifer Parker
+cast	Matt Clark	Chester the Bartender
+cast	Richard Dysart	Barbwire Salesman
+cast	Pat Buttram	Saloon Old-Timer
+cast	Harry Carey Jr.	Saloon Old=Timer
+cast	Dub Taylor	Saloon Old-Timer
+cast	James Tolkan	Marshal James Strickland
+cast	Marc McClure	Dave McFly
+cast	Wendie Jo Sperber	Linda McFly
+cast	Jeffrey Weissman	George McFly
+cast	Christopher Wynne	Buford Tannen's Gang / Needles' Gang
+cast	Sean Sullivan	Buford Tannen's Gang
+cast	Mike Watson	Buford Tannen's Gang
+cast	Hugh Gillin	Mayor Hubert
+cast	Burton Gilliam	Colt Gun Salesman
+cast	Bill McKinney	Engineer
+cast	Donovan Scott	Deputy
+cast	Flea	Douglas J. Needles
+cast	J.J. Cohen	Needles' Gang
+cast	Ricky Dean Logan	Needles' Gang
+cast	Marvin J. McIntyre	Mortician
+cast	Kaleb Henley	Strickland's Son
+cast	Todd Cameron Brown	Jules Brown
+cast	Dannel Evans	Verne Brown
+cast	Leslie A. Prickett	Celebration Man
+cast	Dean Cundey	Photographer
+cast	Jo B. Cummings	Pie Lady
+cast	Steve McArthur	Festival Man #1
+cast	John Ickes	Festival Man #2
+cast	James A. Rammel	Festival Dance Caller
+cast	Michael Klastorin	Townsman #1
+cast	Michael Mills	Townsman #2
+cast	Kenny Myers	Townsman #3
+cast	Brad McPeters	Eyepatch
+cast	Phinnaes D.	Toothless
+cast	Rod Kuehne	Ticket Agent
+cast	Leno Fletcher	Conductor
+cast	Joey Newington	Joey
+cast	Larry Ingold	Train Fireman
+cast	Tim Konrad	Barbwire Salesman's Companion
+cast	Glenn Fox	Boy with Gun
+cast	Foster	Copernicus
+cast	Freddie	Einstein
+cast	Frank Beard	Party Band Member #1
+cast	Billy Gibbons	Party Band Member #2
+cast	Dorothy Hack	Townswoman
+cast	Dusty Hill	Party Band Member #3
+cast	Marion Tumen	Prostitute at Palace Saloon

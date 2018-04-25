@@ -1,0 +1,139 @@
+year	2005
+imdb score	6.4
+meta score	43
+genre	Action
+genre	Comedy
+genre	Horror
+genre	Thriller
+keyword	bar
+keyword	monster
+keyword	covered in blood
+keyword	shot to death
+keyword	raised middle finger
+keyword	harbinger of death
+keyword	blood
+keyword	introduction
+keyword	cult film
+keyword	jackass
+keyword	mechanic
+keyword	vomit
+keyword	life expectancy
+keyword	scene during end credits
+keyword	throat slitting
+keyword	slime
+keyword	severed head
+keyword	corpse
+keyword	dark comedy
+keyword	loss of loved one
+keyword	hole in wall
+keyword	genital mutilation
+keyword	gore
+keyword	prostitute
+keyword	death of husband
+keyword	hand through chest
+keyword	monster sex
+keyword	heroine
+keyword	exploding head
+keyword	explosion
+keyword	shot in the chest
+keyword	loss of child
+keyword	accidental shooting
+keyword	breaking through a door
+keyword	lighter
+keyword	playing pool
+keyword	face ripped off
+keyword	blood spurting
+keyword	child killed by animal
+keyword	eye ripped out
+keyword	molotov cocktail
+keyword	violence
+keyword	first of series
+keyword	oral rape
+keyword	squealing
+keyword	man eating monster
+keyword	splatter
+keyword	dead woman
+keyword	single mother
+keyword	one word title
+keyword	heart attack
+keyword	child eaten
+keyword	hiding in a bathroom
+keyword	hole through torso
+keyword	crushed to death
+keyword	old man
+keyword	woman hitting a man
+keyword	cigarette smoking
+keyword	punched in the face
+keyword	wilhelm scream
+keyword	whimper
+keyword	bartender
+keyword	wheelchair
+keyword	head bitten off
+keyword	maggot
+keyword	boy in a wheelchair
+keyword	obscene finger gesture
+keyword	basement
+keyword	hand through head
+keyword	eye gouging
+keyword	cable
+keyword	death spasm
+keyword	self mutilation
+keyword	roadkill
+keyword	old woman
+keyword	piercing ripped out
+keyword	exploding body
+keyword	alcohol
+keyword	castration
+keyword	raped by a monster
+keyword	bare chested male
+keyword	pistol
+keyword	girl in bra and panties
+keyword	shot in the foot
+keyword	knocked out with a gun butt
+keyword	tooth
+keyword	shotgun
+keyword	decapitation
+keyword	pot smoking
+keyword	hit by a door
+keyword	severed foot
+keyword	child murder
+keyword	beaten to death
+keyword	held at gunpoint
+keyword	blood on camera lens
+keyword	black comedy
+keyword	monster rape
+keyword	anal sex
+keyword	severed leg
+keyword	weed
+keyword	crying
+keyword	b movie
+keyword	raped by monster
+keyword	boy
+keyword	arson
+keyword	wedding ring
+keyword	foot blown off
+keyword	betrayal
+keyword	eaten alive
+keyword	death of child
+keyword	death of son
+keyword	
+cast	Balthazar Getty	Bozo
+cast	Henry Rollins	Coach
+cast	Navi Rawat	Heroine
+cast	Judah Friedlander	Beer Guy
+cast	Josh Zuckerman	Hot Wheels
+cast	Jason Mewes	Edgy Cat
+cast	Jenny Wade	Honey Pie
+cast	Krista Allen	Tuffy
+cast	Clu Gulager	Bartender
+cast	Anthony 'Treach' Criss	Vet
+cast	Eric Dane	Hero
+cast	Chauntae Davies	Drunk Girl
+cast	Diane Ayala Goldner	Harley Mom
+cast	Somah Haaland	Charlie
+cast	Tyler Patrick Jones	Cody
+cast	Mike J. Regan	Papa Beast
+cast	Eileen Ryan	Grandma
+cast	Hannah Schick	Finger Girl
+cast	Gary J. Tunnicliffe	Mama Beast
+cast	Duane Whitaker	Boss Man

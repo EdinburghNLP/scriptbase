@@ -1,0 +1,67 @@
+year	1995
+imdb score	4.9
+meta score	N/A
+genre	Comedy
+genre	Horror
+genre	Thriller
+keyword	artist
+keyword	cat
+keyword	busboy
+keyword	psychopath
+keyword	police officer
+keyword	murder
+keyword	art exhibition
+keyword	undercover cop
+keyword	nudity
+keyword	hanging
+keyword	satire
+keyword	coffeehouse
+keyword	dead cat
+keyword	performance art
+keyword	b movie
+keyword	poet
+keyword	pseudo horror
+keyword	black comedy
+keyword	undercover work
+keyword	sculptor
+keyword	cult film
+keyword	police
+keyword	nude woman murdered
+keyword	remake of cult film
+keyword	suicide
+keyword	decapitation
+keyword	reference to goethe
+keyword	remake
+keyword	sculpture
+keyword	policeman
+keyword	corpse
+keyword	psychotronic
+keyword	neck breaking
+keyword	
+cast	Anthony Michael Hall	Walter
+cast	Justine Bateman	Carla
+cast	Shadoe Stevens	Maxwell
+cast	Sam Lloyd	Leonard
+cast	Jesse D. Goins	Art
+cast	Kin Shriner	Lou
+cast	Sheila Travis	Mayolia
+cast	David Cross	Charlie
+cast	Victor Wilson	Cuff
+cast	Patrick Bristow	Link
+cast	Paul Bartel	Older Man
+cast	Mink Stole	Older Woman
+cast	Julianna McCarthy	Mrs. Swicker
+cast	Will Ferrell	Young Man
+cast	Alan Sues	Art Buyer
+cast	Darcy DeMoss	Alice
+cast	Jennifer Coolidge	Stupid Girl
+cast	Stephen Burrows	Carpenter
+cast	Jim Jackson	Art Critic
+cast	Jennifer Joyce	Woman at Show
+cast	Michael McDonald	Dancer
+cast	Jim Wise	Guitar Player / Singer
+cast	Tracy Grundland	Art Dealer
+cast	Scott P. Levy	Slezy Agent #1
+cast	Brendan Broderick	Slezy Agent #2
+cast	Deena Casiano	Violinist
+cast	Markus Reinhardt	Cellist

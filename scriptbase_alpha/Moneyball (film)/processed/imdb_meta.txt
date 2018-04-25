@@ -1,0 +1,181 @@
+year	2011
+imdb score	7.6
+meta score	87
+genre	Biography
+genre	Drama
+genre	Sport
+keyword	baseball
+keyword	manager
+keyword	one word title
+keyword	slow motion
+keyword	business
+keyword	strategy
+keyword	baseball team
+keyword	telephone call
+keyword	statistics
+keyword	job offer
+keyword	what happened to epilogue
+keyword	anger
+keyword	father daughter relationship
+keyword	partner
+keyword	sports trade
+keyword	baseball game
+keyword	driving
+keyword	flashback
+keyword	metaphor
+keyword	1970s
+keyword	period piece
+keyword	voice over
+keyword	fired from the job
+keyword	oakland athletics
+keyword	statistician
+keyword	professional athlete
+keyword	major league baseball
+keyword	2000s
+keyword	mathematics
+keyword	meeting
+keyword	oakland california
+keyword	1980s
+keyword	baseball player
+keyword	winning streak
+keyword	watching tv
+keyword	baseball manager
+keyword	based on book
+keyword	title spoken by character
+cast	Brad Pitt	Billy Beane
+cast	Jonah Hill	Peter Brand
+cast	Philip Seymour Hoffman	Art Howe
+cast	Robin Wright	Sharon
+cast	Chris Pratt	Scott Hatteberg
+cast	Stephen Bishop	David Justice
+cast	Reed Diamond	Mark Shapiro
+cast	Brent Jennings	Ron Washington
+cast	Ken Medlock	Grady Fuson
+cast	Tammy Blanchard	Elizabeth Hatteberg
+cast	Jack McGee	John Poloni
+cast	Vyto Ruginis	Pittaro
+cast	Nick Searcy	Matt Keough
+cast	Glenn Morshower	Ron Hopkins
+cast	Casey Bond	Chad Bradford
+cast	Nick Porrazzo	Jeremy Giambi
+cast	Kerris Dorsey	Casey Beane
+cast	Arliss Howard	John Henry
+cast	Reed Thompson	Young Billy
+cast	James Shanklin	Billy's Dad
+cast	Diane Behrens	Billy's Mom
+cast	Takayo Fischer	Suzanne
+cast	Derrin Ebert	Mike Magnante
+cast	Miguel Mendoza	Ricardo Rincon
+cast	Adrian Bellani	Carlos Peña
+cast	Tom Gamboa	Martinez
+cast	Barry Moss	Himself
+cast	Artie Harris	Himself
+cast	Bob Bishop	Himself
+cast	George Vranau	Himself
+cast	Phil Pote	Himself
+cast	Art Ortiz	Eric Chavez
+cast	Royce Clayton	Miguel Tejada
+cast	Marvin Horn	Terrence Long
+cast	Brent Dohling	Mark Ellis
+cast	Ken Rudulph	Himself
+cast	Lisa Guerrero	Herself
+cast	Christopher Dehau Lee	Eric Kubota
+cast	Joe Satriani	Himself
+cast	Simon James	Voos
+cast	Greg Papa	Himself
+cast	Bob Costas	Himself
+cast	Tim McCarver	Himself
+cast	Eddie Frierson	Himself
+cast	Glen Kupier	Himself
+cast	Joe Provost	Oakland A's Security Guard
+cast	John Brantley Cole	Young Jongewaard
+cast	Jake Wilson	Sabatini
+cast	Robert P. Macaluso	Himself
+cast	Keith Middlebrook	Coach Parker
+cast	Damon Farmar	Shapiro's Advisor
+cast	Michael Gillespie	Ken Macha
+cast	Chad Kreuter	Rick Peterson
+cast	Blake Pike	John
+cast	Robert Ninfo	Eric Byrnes
+cast	Gary 'G. Thang' Johnson	Jermaine Dye
+cast	Corey Vanderhook	Ramon Hernandez
+cast	Melvin Perdue	Ray Durham
+cast	Ari Zagaris	Jim Mecir
+cast	Jon Stein	Seymour
+cast	Madeleine G. Hall	Hatteberg's Daughter
+cast	Holly Pitrago	Shapiro's Assistant
+cast	Ken Korach	Himself
+cast	Julie Wagner	Clubhouse Reporter
+cast	Ken Colquitt	Clubhouse Reporter
+cast	Eric Winzenried	PR Guy
+cast	Richard Padilla	Himself
+cast	Ed Montague	Himself
+cast	Jack Knight	Himself
+cast	Patrick Riley	Himself
+cast	Phil Benson	Himself
+cast	Joyce Guy	Flight Attendant
+cast	George Thomas	Security Guard #2
+cast	Alicia Hope Alexander	A's Fan
+cast	Lucy Angelo	A's Fan
+cast	Johnny Damon	Himself
+cast	Joe DiMaggio	Himself
+cast	Fernando R. Felix	Minnesota Twins Baseball Player
+cast	Lou Gehrig	Himself
+cast	Jason Giambi	Himself
+cast	Rudolph W. Giuliani	Himself
+cast	Brent Hendrick	Reporter
+cast	Savannah Lathem	A's Fan
+cast	Connie Mack	Himself
+cast	Babe Ruth	Himself
+cast	Matt Stairs	Himself
+cast	Mark Alkofer	Indians' Scout
+cast	Stephen Anderson	A's Fan
+cast	Dave Bean	Coach Dave
+cast	Derrick Bennett	Himself
+cast	L.J. Burns	Little League Player
+cast	Phillip Caires	Pre-Game VIP
+cast	Cabran E. Chamberlain	Stadium Cameraman
+cast	Anthony Chiang	Extra
+cast	Alan Chu	Press Photographer
+cast	John Clerkin	Diamond Level Fan
+cast	Zachary Culbertson	A's Fan
+cast	Steve Dakota	VIP Executive
+cast	JC Dickinson	80's Fan
+cast	Aldrin Enriquez	Reporter
+cast	Bill Ensley	Security Guard
+cast	Michelle Faraone	Cleveland Indians Employee
+cast	Sergio Garcia	Jorge Posada
+cast	Reasha Honaker	Flight attendant
+cast	Erich Hover	Larry Sutton
+cast	Spike Jonze	Alán
+cast	Alexander Kanellakos	Stadium Cameraman
+cast	Janine King	Baseball Spectator
+cast	Isabel Landof	News Videographer
+cast	Mark Lavell	VIP Baseball Fan
+cast	John Lobato	A's Fan
+cast	Veronica Loud	Sports Fan
+cast	Gregor Manns	TSA Employee
+cast	Michael Markovina	Homebase Fan
+cast	Chris McGarry	Ed Wade
+cast	Zane McIntosh	Diamond Level Fan
+cast	Jesse Muick	Stadium Cameraman
+cast	Jim J. Mundy	Baseball Scout
+cast	Erika Pearson	A's Fan
+cast	Erin Pickett	Lady at Bar Mitzvah
+cast	Drew Plummer	Randy Velarde
+cast	David Alan Poe	Diamond Level Fan
+cast	Chris F. Powell	A's Fan
+cast	Jeff Rankin	Field Coach
+cast	Salim Razawi	A's Fan
+cast	Adam Reeser	A's fan
+cast	Jordan Riker	A's Fan
+cast	Jaclyn Rose	Baseball Fan
+cast	Christina Russo	Home Plate Fan
+cast	Jonathan Sanders	A's Assistant
+cast	Anthony Santana	Little League Player
+cast	Shane Schoeppner	Baseball Fan
+cast	Gretta Sosine	Player's Wife
+cast	Big Spence	A's Trainer
+cast	Thomas W. Stewart	A's Fan
+cast	Jane Stillwater	Fan
+cast	Rachael Van Veldhuizen	A's Fan

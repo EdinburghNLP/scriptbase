@@ -1,0 +1,299 @@
+year	2005
+imdb score	7.5
+meta score	82
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	kenya
+keyword	death
+keyword	diplomat
+keyword	murder
+keyword	doctor
+keyword	widower
+keyword	conspiracy
+keyword	british diplomat
+keyword	corruption
+keyword	flashback
+keyword	african
+keyword	police
+keyword	investigation
+keyword	clinic
+keyword	pharmaceuticals
+keyword	gardening
+keyword	love
+keyword	corporate corruption
+keyword	gardener
+keyword	diplomacy
+keyword	closeted homosexual
+keyword	white horse
+keyword	memorial service
+keyword	food aid
+keyword	sex
+keyword	dead girl
+keyword	report
+keyword	government
+keyword	suv
+keyword	breasts
+keyword	no panties
+keyword	betrayal by friend
+keyword	marriage
+keyword	sudan
+keyword	singer
+keyword	bathtub
+keyword	aids
+keyword	computer
+keyword	female frontal nudity
+keyword	cleavage
+keyword	nipples visible through clothing
+keyword	flash forward
+keyword	foreign policy
+keyword	chopping off a tongue
+keyword	boy
+keyword	interracial relationship
+keyword	reference to che guevara
+keyword	theatre production
+keyword	courage
+keyword	nonlinear timeline
+keyword	husband wife relationship
+keyword	bare breasts
+keyword	africa
+keyword	morgue
+keyword	tokana tribe
+keyword	trial
+keyword	vaccine
+keyword	london england
+keyword	lunch
+keyword	gay
+keyword	childbirth
+keyword	german
+keyword	tuberculosis
+keyword	earphones
+keyword	street theatre
+keyword	nairobi kenya
+keyword	last wish
+keyword	pregnancy
+keyword	golf course
+keyword	death of baby
+keyword	pharmaceutical company
+keyword	assassin
+keyword	diary
+keyword	watching tv
+keyword	church
+keyword	homosexual
+keyword	chopping off testicles
+keyword	tears
+keyword	kibera nairobi kenya
+keyword	mortuary
+keyword	idealism
+keyword	answering machine
+keyword	airplane
+keyword	pesticide
+keyword	soccer
+keyword	contract killer
+keyword	mother son relationship
+keyword	aids test
+keyword	nude girl
+keyword	children
+keyword	car chase
+keyword	funeral
+keyword	drug use
+keyword	human immunodeficiency virus positive
+keyword	letter
+keyword	bicycle
+keyword	woman in bathtub
+keyword	swahili
+keyword	kitchen
+keyword	grieving widower
+keyword	social activism
+keyword	hiv positive
+keyword	hospital
+keyword	gun
+keyword	drug company
+keyword	spy
+keyword	refugee camp
+keyword	topless female nudity
+keyword	bible
+keyword	nude
+keyword	reference to queen elizabeth ii
+keyword	scandal
+keyword	suicide
+keyword	e mail
+keyword	nudity
+keyword	loss of child
+keyword	quicklime
+keyword	kiss
+keyword	singing
+keyword	railroad
+keyword	warning
+keyword	germany
+keyword	hippie
+keyword	character's point of view camera shot
+keyword	death of boy
+keyword	cricket the game
+keyword	jealousy
+keyword	female nudity
+keyword	dead body
+keyword	lecture
+keyword	arms deal
+keyword	airport
+keyword	money
+keyword	twenty something
+keyword	video camera
+keyword	third world
+keyword	pregnant woman in bathtub
+keyword	cafe
+keyword	cricket bat
+keyword	iraq
+keyword	epidemic
+keyword	chopping off a penis
+keyword	breast feeding
+keyword	gay doctor
+keyword	passport
+keyword	reference to william shakespeare
+keyword	hiv test
+keyword	garden
+keyword	girl
+keyword	crucifixion
+keyword	no opening credits
+keyword	cover up
+keyword	bath
+keyword	coffin
+keyword	policeman
+keyword	corporation
+keyword	torture
+keyword	crying
+keyword	teenage girl
+keyword	corpse
+keyword	security checkpoint
+keyword	running
+keyword	violence
+keyword	produce market
+keyword	posthumous request fulfilled
+keyword	tv commercial
+keyword	death in childbirth
+keyword	human immunodeficiency virus
+keyword	massacre
+keyword	conscience
+keyword	paranoia
+keyword	scantily clad female
+keyword	rain
+keyword	great britain
+keyword	loss of wife
+keyword	government corruption
+keyword	no title at beginning
+keyword	murder disguised as suicide
+keyword	crooked official
+keyword	dog
+keyword	beating
+keyword	dead child
+keyword	drug testing
+keyword	map
+keyword	jeep
+keyword	politics
+keyword	identifying dead body
+keyword	political corruption
+keyword	iraq war
+keyword	hilton hotel nairobi
+keyword	pregnant woman nude
+keyword	father son relationship
+keyword	kindergarten
+keyword	hippopotamus
+keyword	burial
+keyword	motorcycle
+keyword	shakespearean quotation
+keyword	death of wife
+keyword	lake
+keyword	pickup truck
+keyword	female rear nudity
+keyword	dying
+keyword	horse
+keyword	chase
+keyword	grave
+keyword	refugee
+keyword	cliff
+keyword	cousin cousin relationship
+keyword	vomit
+keyword	song
+keyword	fire
+keyword	slum
+keyword	restaurant
+keyword	reference to adam and eve
+keyword	horse riding
+keyword	truck
+keyword	united nations
+keyword	train
+keyword	cancer
+keyword	baby
+keyword	british government
+keyword	subjective camera
+keyword	based on novel
+keyword	
+cast	Ralph Fiennes	Justin Quayle
+cast	Rachel Weisz	Tessa Quayle
+cast	Hubert Koundé	Dr. Arnold Bluhm
+cast	Danny Huston	Sandy Woodrow
+cast	Daniele Harford	Miriam
+cast	Packson Ngugi	Officer in Morgue
+cast	Damaris Itenyo Agweyu	Jomo's Wife
+cast	Bernard Otieno Oduor	Jomo
+cast	Bill Nighy	Sir Bernard Pellegrin
+cast	Keith Pearson	Porter Coleridge
+cast	John Sibi-Okumu	Dr. Joshua Ngaba
+cast	Donald Sumpter	Tim Donohue
+cast	Archie Panjabi	Ghita Pearson
+cast	Nick Reding	Crick
+cast	Gerard McSorley	Sir Kenneth Curtiss
+cast	Juliet Aubrey	Gloria Woodrow
+cast	Jacqueline Maribe	Wanza Kiluhu
+cast	Donald Apiyo	Kioko
+cast	Pete Postlethwaite	Lorbeer
+cast	Samuel Otage	Mustafa
+cast	Anneke Kim Sarnau	Birgit
+cast	Mumbi Kaigwa	Grace Makanga
+cast	John Moller	Athletic Unshaven Man
+cast	Andre Leenheer	Shaven Headed Man
+cast	Lydia M. Manyasi	Kenyan Newsreader
+cast	Steenie Njoroge	1st Journalist
+cast	Stuart Wheeler	2nd Journalist
+cast	Chris Payne	Mike Mildren
+cast	Nyajima Jial	Esmerelda
+cast	Brigid M. Kakenyi	Hospital Administrator
+cast	Katherine Damaris	Nurse
+cast	Christopher Okinda	Doctor
+cast	Ainea Ojiambo	Police Driver
+cast	Peter King Nzioki	Policeman 1
+cast	Ng'ang'a Kirumburu	Policeman 2
+cast	Ben Parker	Det. Inspector Deasey
+cast	John Keogh	Immigration Official
+cast	Jeffrey Caine	Club Servant
+cast	Richard McCabe	Arthur Hammond
+cast	Rupert Simonian	Guido Hammond
+cast	Teresa Harder	Birgit's Secretary
+cast	Thomas Chemnitz	Uniformed Policeman
+cast	Joe Christopher Rhode	Karl
+cast	Edgar Nicholas Rhode	Karl
+cast	Eva Plackner	Crossing Guard
+cast	Claire Simpson	Maude Donohue
+cast	Sidede Onyulo	Jonah Andika
+cast	Chris Lightburn-Jones	Aid Worker
+cast	Ann Achan	Aduk
+cast	Dang Wuor Diew	Sudanese Man
+cast	Ben Gardiner	Harry Woodrow
+cast	The Kizingo Arts Troupe	Performer: 'Huruma' - Aids Play
+cast	Lucy Achieng	Member of The Kizingo Arts Troupe
+cast	Elizabeth Karanja	Member of The Kizingo Arts Troupe
+cast	Elzabeth Karanja	Member of The Kizingo Arts Troupe
+cast	Sele Mzamil	Member of The Kizingo Arts Troupe
+cast	Suleiman Bakari	Member of The Kizingo Arts Troupe
+cast	Juma Musa	Member of The Kizingo Arts Troupe
+cast	Jane Obada	Member of The Kizingo Arts Troupe
+cast	Florence Chamba	Member of The Kizingo Arts Troupe
+cast	Triza Musimbi	Member of The Kizingo Arts Troupe
+cast	Benson Obiva	Member of The Kizingo Arts Troupe
+cast	Ibrahim Chitaya	Member of The Kizingo Arts Troupe
+cast	Eric Mutua	Member of The Kizingo Arts Troupe
+cast	Leonard Ongaya	Member of The Kizingo Arts Troupe
+cast	Abdallah Juma	Member of The Kizingo Arts Troupe
+cast	Anne Mwikali	Member of The Kizingo Arts Troupe
+cast	James Osoo	Member of The Kizingo Arts Troupe
+cast	Denis Schnegg	Doctor

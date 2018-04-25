@@ -1,0 +1,182 @@
+year	1985
+imdb score	8.5
+meta score	86
+genre	Adventure
+genre	Comedy
+genre	Sci-Fi
+keyword	time machine
+keyword	delorean
+keyword	future
+keyword	lightning
+keyword	mad scientist
+keyword	year 1985
+keyword	high school
+keyword	plutonium
+keyword	small town
+keyword	clock
+keyword	clock tower
+keyword	tearing a page out of a phone book
+keyword	husband wife relationship
+keyword	urban setting
+keyword	fire
+keyword	manure
+keyword	geek
+keyword	teenage boy
+keyword	digital watch
+keyword	girl next door
+keyword	product placement
+keyword	coonskin cap
+keyword	inventor
+keyword	reference to darth vader
+keyword	computer cracker
+keyword	dysfunctional family
+keyword	race against time
+keyword	555 phone number
+keyword	television news
+keyword	car trouble
+keyword	four word title
+keyword	first of series
+keyword	first date
+keyword	political campaign
+keyword	audio feedback
+keyword	guitar
+keyword	bulletproof vest
+keyword	lifting a male into the air
+keyword	kiss reveals absence of love
+keyword	terrorist
+keyword	suburb
+keyword	shotgun
+keyword	time travel
+keyword	jeep
+keyword	shopping mall
+keyword	crush
+keyword	underwear
+keyword	malt shop
+keyword	reagan on television
+keyword	video camera
+keyword	mistaken identity
+keyword	scale model of city
+keyword	father son relationship
+keyword	spit take
+keyword	slow motion scene
+keyword	television
+keyword	hit by a car
+keyword	sequel mentioned during end credits
+keyword	pay phone
+keyword	self fulfillment
+keyword	dog
+keyword	picture
+keyword	cafeteria
+keyword	cult film
+keyword	nuclear power
+keyword	lifting someone into the air
+keyword	reversal of fortune
+keyword	chase
+keyword	self worth
+keyword	remote control car
+keyword	bicycle
+keyword	mother son relationship
+keyword	paradox
+keyword	barn
+keyword	1980s
+keyword	family relationships
+keyword	bully
+keyword	photograph
+keyword	suburbia
+keyword	underage drinking
+keyword	reference to pepsi
+keyword	thunderstorm
+keyword	diner
+keyword	fight over a girl
+keyword	flying car
+keyword	interrupted kiss
+keyword	toyota
+keyword	falling from a tree
+keyword	reference to ronald reagan
+keyword	unwanted kiss
+keyword	love at first sight
+keyword	telescope
+keyword	destiny
+keyword	parking lot
+keyword	butt grab
+keyword	first kiss
+keyword	blockbuster
+keyword	altering history
+keyword	1950s
+keyword	helicopter
+keyword	fire extinguisher
+keyword	irish american
+keyword	person in car trunk
+keyword	breakfast machine
+keyword	bully comeuppance
+keyword	battle of the bands
+keyword	racial slur
+keyword	skateboard
+keyword	pepsi
+keyword	reference to chuck berry
+keyword	hanging from clock
+keyword	castle thunder
+keyword	rube goldberg machine
+keyword	peeping tom
+keyword	reference to jerry lewis
+keyword	school dance
+keyword	band
+keyword	automobile
+keyword	year 1955
+keyword	alternate history
+keyword	sliding glass down bar
+keyword	part of trilogy
+keyword	waking up in strange surroundings
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Michael J. Fox	Marty McFly
+cast	Christopher Lloyd	Dr. Emmett Brown
+cast	Lea Thompson	Lorraine Baines
+cast	Crispin Glover	George McFly
+cast	Thomas F. Wilson	Biff Tannen
+cast	Claudia Wells	Jennifer Parker
+cast	Marc McClure	Dave McFly
+cast	Wendie Jo Sperber	Linda McFly
+cast	George DiCenzo	Sam Baines
+cast	Frances Lee McCain	Stella Baines
+cast	James Tolkan	Mr. Strickland
+cast	J.J. Cohen	Skinhead
+cast	Casey Siemaszko	3-D
+cast	Billy Zane	Match
+cast	Harry Waters Jr.	Marvin Berry
+cast	Donald Fullilove	Goldie Wilson
+cast	Lisa Freeman	Babs
+cast	Cristen Kauffman	Betty
+cast	Elsa Raven	Clocktower Lady
+cast	Will Hare	Pa Peabody
+cast	Ivy Bethune	Ma Peabody
+cast	Jason Marin	Sherman Peabody
+cast	Katherine Britton	Daughter Peabody
+cast	Jason Hervey	Milton Baines
+cast	Maia Brewton	Sally Baines
+cast	Courtney Gains	Dixon
+cast	Richard L. Duran	Terrorist
+cast	Jeff O'Haco	Terrorist Van Driver
+cast	Johnny Green	Scooter Kid #1
+cast	Jamie Abbott	Scooter Kid #2
+cast	Norman Alden	Lou
+cast	Read Morgan	Cop
+cast	Sachi Parker	Bystander #1
+cast	Robert Krantz	Bystander #2
+cast	Gary Riley	Guy #1
+cast	Karen Petrasek	Girl #1
+cast	George 'Buck' Flower	Red Thomas - the Bum
+cast	Tommy Thomas	Starlighter
+cast	Granville 'Danny' Young	Starlighter
+cast	David Harold Brown	Starlighter
+cast	Lloyd L. Tolbert	Starlighter
+cast	Paul Hanson	Pinhead
+cast	Lee Brownfield	Pinhead
+cast	Robert DeLapp	Pinhead
+cast	Walter Scott	Man driving jeep - 1985
+cast	Charles L. Campbell	1955 Radio Announcer
+cast	Deborah Harmon	TV Newscaster
+cast	Janine King	High School Girl
+cast	Huey Lewis	High School Band Audition Judge
+cast	Tom Tangen	Student

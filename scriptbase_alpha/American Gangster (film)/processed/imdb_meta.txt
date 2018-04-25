@@ -1,0 +1,430 @@
+year	2007
+imdb score	7.8
+meta score	76
+genre	Biography
+genre	Crime
+genre	Drama
+keyword	heroin
+keyword	death
+keyword	mafia
+keyword	1970s
+keyword	vietnam
+keyword	smuggling
+keyword	policeman
+keyword	chase
+keyword	italian american
+keyword	drug paraphanalia
+keyword	vietnam war
+keyword	mobster
+keyword	interracial love
+keyword	puerto rican
+keyword	complaining
+keyword	african american protagonist
+keyword	loss of friend
+keyword	mafia boss
+keyword	mercilessness
+keyword	bitten hand
+keyword	popcorn
+keyword	lawyer
+keyword	no opening credits
+keyword	drive by shooting
+keyword	corpse
+keyword	microwave oven
+keyword	thailand
+keyword	lighting a cigar
+keyword	interracial marriage
+keyword	addiction
+keyword	sex standing up
+keyword	pile of money
+keyword	drug trafficking
+keyword	sadism
+keyword	urban decay
+keyword	blood spatter
+keyword	stealing from a dead body
+keyword	shot at the camera
+keyword	gangster boss
+keyword	fall of saigon
+keyword	process server
+keyword	chinese food
+keyword	taxi driver
+keyword	mob hit
+keyword	reference to martin luther king jr.
+keyword	firearm pointed at the camera
+keyword	raft
+keyword	year 1968
+keyword	criminal
+keyword	night school
+keyword	surveillance camera
+keyword	new jersey
+keyword	ali frazier fight
+keyword	rage
+keyword	gangsterism
+keyword	country name in title
+keyword	german shepherd
+keyword	shootout
+keyword	raid
+keyword	gasoline
+keyword	black american
+keyword	bribery
+keyword	exploding car
+keyword	stolen money
+keyword	social decay
+keyword	brooklyn new york city
+keyword	police coverup
+keyword	trash
+keyword	poppy farm
+keyword	flashback
+keyword	plea bargain
+keyword	drug addict
+keyword	nipples
+keyword	killing an animal
+keyword	beauty queen
+keyword	weightlifting
+keyword	billiards
+keyword	urban setting
+keyword	wedding
+keyword	violence
+keyword	topless female nudity
+keyword	news footage
+keyword	manhattan new york city
+keyword	race relations
+keyword	shot to death
+keyword	brother brother relationship
+keyword	suicide
+keyword	rags to riches
+keyword	killing a dog
+keyword	reference to sammy davis jr.
+keyword	criminal syndicate
+keyword	police property room
+keyword	rap music
+keyword	wrath
+keyword	blacks versus italians
+keyword	sugar
+keyword	immolation
+keyword	biting someone
+keyword	tenement
+keyword	police surveillance
+keyword	shot in the head
+keyword	single mother
+keyword	drug overdose
+keyword	subpoena
+keyword	unlikely friendship
+keyword	star of david pendant
+keyword	coney island brooklyn new york city
+keyword	mob boss
+keyword	christmas
+keyword	divorce
+keyword	custody case
+keyword	brother
+keyword	drug smuggling
+keyword	ambulance
+keyword	shot in the chest
+keyword	assault
+keyword	boxing match
+keyword	fur coat
+keyword	dysfunctional family
+keyword	drug deal
+keyword	cocaine
+keyword	anti semitic slur
+keyword	organized crime
+keyword	skeet shooting
+keyword	drug lord
+keyword	courtroom
+keyword	1960s
+keyword	church
+keyword	latte
+keyword	darkroom
+keyword	crooked cop
+keyword	pumping iron
+keyword	thanksgiving
+keyword	band
+keyword	drug snorting
+keyword	c 130 hercules
+keyword	diner
+keyword	murder
+keyword	reference to richard nixon
+keyword	taxi
+keyword	extortion
+keyword	police investigation
+keyword	shooting
+keyword	sikh
+keyword	bare breasts
+keyword	criminal investigation
+keyword	shot in the forehead
+keyword	domestic violence
+keyword	police brutality
+keyword	bludgeoning
+keyword	battle of wits
+keyword	person on fire
+keyword	crime boss
+keyword	washington heights manhattan new york city
+keyword	shotgun
+keyword	carjacking
+keyword	gangster
+keyword	body bag
+keyword	jungle
+keyword	custody battle
+keyword	surprise after end credits
+keyword	sledgehammer
+keyword	shooting up
+keyword	the projects
+keyword	turkey the bird
+keyword	nightclub
+keyword	junkie
+keyword	children
+keyword	pay phone
+keyword	harlem manhattan new york city
+keyword	sex scene
+keyword	police
+keyword	coffin
+keyword	gore
+keyword	nudity
+keyword	postmodern
+keyword	north carolina
+keyword	george washington bridge
+keyword	church service
+keyword	slum
+keyword	darkness
+keyword	racial slur
+keyword	anger
+keyword	african american
+keyword	tuxedo
+keyword	mother son relationship
+keyword	massage parlor
+keyword	suicide by gunshot
+keyword	police suicide
+keyword	playing piano
+keyword	car bomb
+keyword	spiral staircase
+keyword	temper
+keyword	based on article
+keyword	brutality
+keyword	car wash
+keyword	crime epic
+keyword	set on fire
+keyword	1990s
+keyword	ghetto
+keyword	pool of blood
+keyword	police corruption
+keyword	heart attack
+keyword	attempted murder
+keyword	undercover cop
+keyword	female nudity
+keyword	shadow
+keyword	new york city
+keyword	disguised as santa claus
+keyword	year 1970
+keyword	mafia don
+keyword	crooked soldier
+keyword	madison square garden manhattan new york city
+keyword	search warrant
+keyword	shot in the knee
+keyword	what happened to epilogue
+keyword	chinchilla
+keyword	triangular folded american flag
+keyword	law school
+keyword	grand piano
+keyword	corruption
+keyword	drug bust
+keyword	strobe light
+keyword	shot in the neck
+keyword	cruelty
+keyword	bronx new york city
+keyword	bangkok thailand
+keyword	looking at the camera
+keyword	morgue
+keyword	photograph
+keyword	jewish
+keyword	hypodermic
+keyword	sex in a kitchen
+keyword	based on true story
+cast	Denzel Washington	Frank Lucas
+cast	Russell Crowe	Richie Roberts
+cast	Chiwetel Ejiofor	Huey Lucas
+cast	Josh Brolin	Detective Trupo
+cast	Lymari Nadal	Eva
+cast	Ted Levine	Lou Toback
+cast	Roger Guenveur Smith	Nate
+cast	John Hawkes	Freddie Spearman
+cast	RZA	Moses Jones
+cast	Yul Vazquez	Alfonso Abruzzo
+cast	Malcolm Goodwin	Jimmy Zee
+cast	Ruby Dee	Mama Lucas
+cast	Ruben Santiago-Hudson	Doc
+cast	Carla Gugino	Laurie Roberts
+cast	Skyler Fortgang	Michael Roberts
+cast	John Ortiz	Javier J. Rivera
+cast	Cuba Gooding Jr.	Nicky Barnes
+cast	Armand Assante	Dominic Cattano
+cast	Kathleen Garrett	Mrs. Dominic Cattano
+cast	Joe Morton	Charlie Williams
+cast	Ritchie Coster	Joey Sadano
+cast	Bari K. Willerford	Joe Louis
+cast	Idris Elba	Tango
+cast	Common	Turner Lucas
+cast	Warner Miller	Melvin Lucas
+cast	Albert Jones	Terrence Lucas
+cast	J. Kyle Manzay	Dexter Lucas
+cast	T.I.	Stevie Lucas
+cast	Melissia Hill	Redtop
+cast	Quisha Saunders	Darlynn
+cast	Kevin Corrigan	Campizi
+cast	Robert Funaro	McCann
+cast	Jon Polito	Rossi
+cast	Tom O'Rourke	Banker
+cast	Robert C. Kirk	Police Captain
+cast	Tom Stearns	2-Star General
+cast	KaDee Strickland	Richie's Attorney
+cast	Jon DeVries	Judge James Racine
+cast	Jim R. Coleman	Bailiff
+cast	Lee Shepard	Laurie's Attorney
+cast	Gavin Grazer	Mike Sobota
+cast	Linda Powell	Social Worker
+cast	Roxanne Amandez	Paramedic
+cast	Norman Reedus	Detective in Morgue
+cast	Pierra Francesca	Stewardess
+cast	Eddie Rouse	Detective at Party
+cast	Maryann Urbano	Real Estate Broker
+cast	Cedric Sanders	Serviceman in Cafe
+cast	Jason Veasey	Serviceman in Cafe
+cast	Roosevelt Davis	Army Captain
+cast	Roger Bart	US Attorney
+cast	Eric Silver	White Kid
+cast	Mitchell Green	Tango Bodyguard
+cast	Saycon Sengbloh	Tango's Woman
+cast	Conor Romero	Tough Teenager
+cast	Daniel Hilt	Tough Teenager
+cast	Daniel Farcher	Tough Teenager
+cast	David Spearman	Civilian Cleaning Staff
+cast	Maurice Ballard	Civilian Cleaning Staff
+cast	Paul Doherty	TV Newscaster
+cast	William C. Tate	Baptist Minister
+cast	George Lee Miles	Frank's Lawyer
+cast	Jason Furlani	Bailiff
+cast	Chris McKinney	Reporter on TV
+cast	Ric Young	Chinese General
+cast	David Wayne Britton	Army Colonel
+cast	Tommy Guiffre	Medical Examiner
+cast	Laurence Lowry	Paramedic
+cast	Dan Moran	Army Captain
+cast	Marjorie Johnson	Charlene
+cast	Larry Mitchell	FBI Agent
+cast	Chuck Cooper	Private Doctor
+cast	Kevin Geer	Law School Professor
+cast	Chance Kelly	MP
+cast	Hamilton Clancy	Seller
+cast	Sam Freed	Judge
+cast	Joey Klein	Chemist
+cast	Scott Dillin	4th Amigo
+cast	Anthony Hamilton	Funk Band Singer
+cast	Sarah Hudnut	Assistant Prosecutor
+cast	Jeff Greene	Metal Door Worker
+cast	Tyson Hall	Drug Dealer
+cast	Kirt Harding	Drug Dealer
+cast	Bryant Pearson	Drug Dealer
+cast	Al Santos	Mechanic
+cast	Lil Chuuch	Dealer
+cast	Christopher A. Sawyer	Dealer
+cast	Dylan Gallagher	Casket Loader
+cast	Jehan-Pierre 'The Preacher' Vassau	Narc Officer
+cast	Dawn Douglas	Narc Officer
+cast	Robbie Neigeborn	Cop in Narc Headquarters
+cast	Clinton Lowe	Man Arrested in Elevator
+cast	Wilhelm Lewis	Head Wedding Photographer
+cast	James Hunter	Deacon
+cast	Neville White	Deacon
+cast	Lonnie Gaetano	Prison Guard
+cast	Jeff Mantel	Officer Walsh
+cast	Serena Joan Springle	The Proctor
+cast	Ron Piretti	Judge
+cast	Nino Del Buono	Announcer
+cast	Arthur Mercante	Referee
+cast	Panama Redd	Policeman
+cast	Robert Wiggins	Piano Player
+cast	Fab 5 Freddy	Smalls Patron
+cast	Jonah Denizard	Store Manager
+cast	Steve McAuliff	Mounted Policeman
+cast	Fatima Robinson	Dancer
+cast	Karen Adisson	Dancer
+cast	Autavia Bailey	Dancer
+cast	Candyce Barnes	Dancer
+cast	Janelle Cambridge	Dancer
+cast	Cicily Daniels	Dancer
+cast	Andrea Edmead	Dancer
+cast	Ortos J. Gutierrez	Dancer
+cast	Celestine Rae	Dancer
+cast	Luam Keflezgy	Dancer
+cast	Monique Lea-Gall	Dancer
+cast	Flavia Tamara Livolsi	Dancer
+cast	Tamara Marrow	Dancer
+cast	Shannon MacMillan	Dancer
+cast	Jonathan Medero	Dancer
+cast	Marielys Molina	Dancer
+cast	Kesha Nichols	Dancer
+cast	Nefertiti Robinson	Dancer
+cast	Krista Saab	Dancer
+cast	Luis Salgado	Dancer
+cast	Carlos Sierra Lopez	Dancer
+cast	Latonya Tolbert	Dancer
+cast	Sandra Park	Singer
+cast	Yuri Kamino-Fennell	Singer
+cast	Brian Albanese	Spectator
+cast	Jonathan Aldridge	Spectator
+cast	Mauricio Alexander	Cop in Squad Room
+cast	Ephraim Benton	Thug #4
+cast	Myo Campbell	Red Carpet Walker
+cast	Ismael Peter Casillas III	Baseball Player
+cast	Kal Cauthen	Restaurant Ambassador
+cast	John Cenatiempo	Cop #1
+cast	Daniel R Cooper	Checker Player
+cast	J.W. Cortes	Narc Officer in Hallway
+cast	Cris D'Annunzio	Frank McNamara
+cast	Ernest Dancy	Hustler
+cast	Michael Den Dekker	Undercover Cop
+cast	Mark DiConzo	Soldier
+cast	Kevin Van Doorslaer	Student
+cast	Monique Dupree	Club Dancer
+cast	Sharlene Falls	Club Dancer
+cast	Joseph Ferrante	Gangster at Funeral
+cast	Wanda Ferreiras	Bridesmaid
+cast	Eddie Goines	Hallway Guy
+cast	Anthony L. Gurino	Soldier
+cast	Kelvin Hale	Drug room door security
+cast	Johnathan Hallgrey	1971 Penthouse Party Guest
+cast	Jermel Howard	Kid gangster #1
+cast	Hristo Hristov	Bookie / Soldier
+cast	Brevard Hudson	Lucas - Drug Enforcer
+cast	Joe James	Nicky Barnes Right Hand Man
+cast	Mark A. Keeton	Rock Star - Ali-Frazier Match
+cast	Atif Lanier	Frank Lucas Bodyguard
+cast	Tina Lorraine	Harlem Junkie
+cast	Shawn Luckey	Nicky Barnes' Guy
+cast	Racheline Maltese	Dying Junkie
+cast	Nick Mastromarco	Bystander
+cast	Frances Mignano	Marie Saldano
+cast	Robert Nicotra	Gangster
+cast	Richard Nixon	Himself
+cast	Daniel Nugent	Newark Detective
+cast	Jerrod Paige	Muhammad Ali
+cast	Michelle Joan Papillion	Smalls Patron
+cast	Artie Pasquale	Mobster
+cast	Tasha Perri	Factory Worker
+cast	Kevin Pinassi	Building Maintenance Guy
+cast	Nick Poltoranin	Mobster
+cast	Bartolo Raffaele	Gangster
+cast	Paula Rittie	Maid of Honor
+cast	Enrique Sebastian Rivas	Narc Detective
+cast	Germir Robinson	Elevator Kid with Mom and Sister
+cast	Louis Rosario	Teenage Vandal
+cast	Vincent James Russo	Corrupt Undercover Detective
+cast	Aija Terauda	Nicky's Girl
+cast	Karl Thwaites	Street Kid
+cast	Brigid Turner	Wilt Chamberlain's Girl / Waitress
+cast	Evelyn Vaccaro	Nicky's Girl
+cast	Tacuma Vanterpool	Junkie
+cast	Philippe Vonlanthen	Skeet Shoot Handler
+cast	Julian Walker	Smalls Doorman
+cast	Adrian Washington	Detective Reynolds
+cast	Craig Weintraub	MSG Spectator
+cast	Clarence Williams III	Bumpy Johnson
+cast	Ray Wineteer	Photographer

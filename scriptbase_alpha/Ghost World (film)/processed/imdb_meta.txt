@@ -1,0 +1,189 @@
+year	2001
+imdb score	7.5
+meta score	88
+genre	Comedy
+genre	Drama
+keyword	high school
+keyword	friend
+keyword	record collector
+keyword	diner
+keyword	art class
+keyword	graduation
+keyword	love
+keyword	misfit
+keyword	gun
+keyword	summer school
+keyword	record player
+keyword	boss
+keyword	culture clash
+keyword	single parent
+keyword	coffee shop
+keyword	drawing
+keyword	underage drinking
+keyword	identity crisis
+keyword	obsession
+keyword	cult film
+keyword	bare chested male
+keyword	bechdel test passed
+keyword	sketchbook
+keyword	los angeles california
+keyword	wheelchair
+keyword	reference to laurel and hardy
+keyword	teacher
+keyword	reflection
+keyword	uncertainty
+keyword	practical joke
+keyword	cake
+keyword	dyed hair
+keyword	high school graduation
+keyword	prank telephone call
+keyword	infatuation
+keyword	video store
+keyword	high school student
+keyword	based on comic
+keyword	mini mart
+keyword	personal ad
+keyword	dysfunctional family
+keyword	surprise after end credits
+keyword	dancing
+keyword	crossroads
+keyword	real estate agent
+keyword	garage sale
+keyword	cult director
+keyword	high school friend
+keyword	age difference
+keyword	principal
+keyword	art exhibition
+keyword	teenage girl
+keyword	surrealism
+keyword	psychiatrist
+keyword	jazz
+keyword	elitism
+keyword	blues music
+keyword	based on cult comic book
+keyword	alienation
+keyword	friendship
+keyword	art teacher
+keyword	party
+keyword	sex shop
+keyword	adolescent
+keyword	sarcasm
+keyword	jewish
+keyword	older man younger woman relationship
+keyword	crying
+keyword	singer
+keyword	punk rock
+keyword	record collecting
+keyword	teenage boy
+keyword	pistol
+keyword	dysfunctional relationship
+keyword	concession stand
+keyword	jealousy
+keyword	milkshake
+keyword	irony
+keyword	teen angst
+keyword	forty something
+keyword	socially awkward
+keyword	first job
+keyword	fried chicken
+keyword	drama queen
+keyword	bus stop
+keyword	bus
+keyword	boredom
+keyword	based on comic book
+keyword	loss of job
+keyword	based on graphic novel
+keyword	teacher student relationship
+keyword	graduation party
+keyword	plaster
+keyword	teen movie
+keyword	cynicism
+keyword	intimacy
+keyword	racial stereotype
+keyword	girl with glasses
+keyword	two word title
+keyword	may december romance
+keyword	censorship
+keyword	coming of age
+keyword	rude customer
+keyword	clinic
+keyword	nunchaku
+keyword	father daughter relationship
+keyword	old man
+keyword	suburb
+keyword	sex
+keyword	voice over narration
+keyword	movie theater
+keyword	independent film
+cast	Thora Birch	Enid
+cast	Scarlett Johansson	Rebecca
+cast	Steve Buscemi	Seymour
+cast	Brad Renfro	Josh
+cast	Illeana Douglas	Roberta Allsworth
+cast	Bob Balaban	Enid's Dad
+cast	Stacey Travis	Dana
+cast	Charles C. Stevenson Jr.	Norman
+cast	Dave Sheridan	Doug
+cast	Tom McGowan	Joe
+cast	Debra Azar	Melora
+cast	Brian George	Sidewinder Boss
+cast	Pat Healy	John Ellis
+cast	Honorine Bell	Graduation Speaker
+cast	T.J. Thyne	Todd
+cast	Ezra Buzzington	Weird Al
+cast	Lindsey Girardot	Vanilla - Graduation Rapper
+cast	Joy Bisco	Jade - Graduation Rapper
+cast	Venus DeMilo	Ebony - Graduation Rapper
+cast	Ashley Peldon	Margaret - Art Class
+cast	Chachi Pittman	Phillip - Art Class
+cast	Janece Jordan	Black Girl - Art Class
+cast	Kaileigh Brielle Martin	Snotty Girl - Art Class
+cast	Alexander Fors	Hippy Boy - Art Class
+cast	Marc Vann	Jerome, the Angry Guy - Record Collector
+cast	James Sie	Steven, the Asian Guy - Record Collector
+cast	Paul Keith	Paul, the Fussy Guy - Record Collector
+cast	David Cross	Gerrold, the Pushy Guy - Record Collector
+cast	J.J. Bad Boy Jones	Fred Chatman - Blues Club
+cast	Dylan Jones	Red-Haired Girl - Blues Club
+cast	Martin Grey	M.C. - Blues Club
+cast	Steve Pierson	Blueshammer Member - Blues Club
+cast	Jake La Botz	Blueshammer Member - Blues Club
+cast	Johnny Irion	Blueshammer Member - Blues Club
+cast	Nate Wood	Blueshammer Member - Blues Club
+cast	Charles Schneider	Joey McCobb, the Stand Up Comic
+cast	Sid Hillman	Zine-O-Phobia Creep
+cast	Joshua Wheeler	Zine-O-Phobia Creep
+cast	Patrick Fischler	Masterpiece Video Clerk
+cast	Daniel Graves	Masterpiece Video Customer
+cast	Matt Doherty	Masterpiece Video Employee
+cast	Joel Michaely	Porno Cashier
+cast	Debi Derryberry	Rude Coffee Customer
+cast	Joseph Sikora	Reggae Fan
+cast	Brett Gilbert	Alien Autopsy Guy
+cast	Alex Solowitz	Cineplex Manager
+cast	Tony Ketcham	Alcoholic Customer
+cast	Mary Bogue	Popcorn Customer
+cast	Brian Jacobs	Soda Customer
+cast	Patrick Yonally	Garage Sale Hipster
+cast	Lauren Bowles	Angry Garage Sale Woman
+cast	Lorna Scott	Phyllis, the Art Show Curator
+cast	Jeff Murray	Roberta's Colleague
+cast	Jerry Rector	Dana's Co-Worker
+cast	John Bunnell	Seymour's Boss
+cast	Diane Salinger	Psychiatrist
+cast	Anna Berger	Seymour's Mother
+cast	Bruce Glover	Feldman, the Wheel Chair Guy
+cast	Randall Barnwell	Walking Dead Man
+cast	Tracy Bennett	Defaced Magazine Photo
+cast	Joan Blair	Lady Crossing Street Slowly
+cast	Michael Chanslor	Orange Colored Sky Keyboarder, Graduation Band
+cast	Kacee DeMasi	Suicidal Mother
+cast	Teri Garr	Maxine
+cast	Alan Heitz	Driver
+cast	James Matusky	Reggae Fan #2
+cast	Edward T. McAvoy	Mr. Satanist
+cast	Michelle McGinty	Mom in Convenience Store
+cast	Margaret Kontra Palmer	Lady at Garage Sale
+cast	Larry Parker	Orange Colored Sky Bassist, Graduation Band
+cast	Greg Wendell Reid	Yuppie #1
+cast	Peter Yarrow	Himself

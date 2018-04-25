@@ -1,0 +1,218 @@
+year	2007
+imdb score	8.2
+meta score	91
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	money
+keyword	killer
+keyword	drug deal
+keyword	murder
+keyword	sheriff
+keyword	discovery
+keyword	tragedy
+keyword	vietnam veteran
+keyword	police
+keyword	texas
+keyword	rio grande
+keyword	violence
+keyword	blood
+keyword	weapon
+keyword	welder
+keyword	desert
+keyword	psychopathic killer
+keyword	gunshot wound
+keyword	sawed off shotgun
+keyword	shot in the back
+keyword	drug dealer
+keyword	death
+keyword	coin toss
+keyword	silenced shotgun
+keyword	contract killer
+keyword	blood splatter
+keyword	captive bolt gun
+keyword	handcuffs
+keyword	mother
+keyword	psycho
+keyword	innocent bystander
+keyword	burning car
+keyword	mounted police
+keyword	river
+keyword	brutality
+keyword	deal gone wrong
+keyword	shot to death
+keyword	villain
+keyword	rifle
+keyword	ruthlessness
+keyword	human monster
+keyword	mass murder
+keyword	el paso texas
+keyword	evil man
+keyword	escape
+keyword	uzi
+keyword	greed
+keyword	explosion
+keyword	1980s
+keyword	good versus evil
+keyword	husband wife relationship
+keyword	air vent
+keyword	west texas
+keyword	assassin
+keyword	main character dies
+keyword	gas station
+keyword	killer dog
+keyword	finger gun
+keyword	deputy sheriff
+keyword	homicidal maniac
+keyword	post modern
+keyword	mastiff
+keyword	mariachi band
+keyword	auto theft
+keyword	taxi driver
+keyword	professional killer
+keyword	stolen money
+keyword	shot in the leg
+keyword	leg wound
+keyword	strangulation
+keyword	compressed air tank
+keyword	limp
+keyword	psychopath
+keyword	vomit
+keyword	cowboy boot
+keyword	black comedy
+keyword	shotgun
+keyword	shot in the chest
+keyword	taxi
+keyword	revenge
+keyword	telephone call
+keyword	air duct
+keyword	machine gun
+keyword	breaking and entering
+keyword	motel
+keyword	hitman
+keyword	compound fracture
+keyword	pistol
+keyword	gangster
+keyword	famous line
+keyword	psycho killer
+keyword	neo noir
+keyword	shootout
+keyword	exploding car
+keyword	coin tossing
+keyword	dog
+keyword	diversion
+keyword	silencer
+keyword	world war two veteran
+keyword	shot in the throat
+keyword	cat
+keyword	shoplifting
+keyword	hospital
+keyword	milk
+keyword	no music
+keyword	hit by a car
+keyword	transmitter
+keyword	hidden money
+keyword	claim in title
+keyword	coin flipping in the air
+keyword	maniac
+keyword	police officer strangulated
+keyword	white tailed deer
+keyword	car accident
+keyword	bounty hunter
+keyword	antelope
+keyword	conscience
+keyword	police officer killed
+keyword	mexican american border
+keyword	retirement
+keyword	strangled to death
+keyword	no opening credits
+keyword	honor
+keyword	killing a dog
+keyword	neo western
+keyword	heroin
+keyword	mexican
+keyword	killing spree
+keyword	corpse
+keyword	year 1980
+keyword	police investigation
+keyword	title based on poem
+keyword	deputy
+keyword	gore
+keyword	broken arm
+keyword	voice over narration
+keyword	pickup truck
+keyword	trailer home
+keyword	chase
+keyword	war veteran
+keyword	wheelchair
+keyword	critically acclaimed
+keyword	scene of the crime
+keyword	hidden transmitter
+keyword	jailbreak
+keyword	car crash
+keyword	satchel
+keyword	shot in the forehead
+keyword	u.s. mexico border
+keyword	chased by a dog
+keyword	dream
+keyword	mexico
+keyword	rottweiler
+keyword	funeral
+keyword	pharmacy
+keyword	hunting
+keyword	serial killer
+keyword	drugstore
+keyword	mass murderer
+keyword	based on novel
+keyword	surprise ending
+keyword	
+cast	Tommy Lee Jones	Ed Tom Bell
+cast	Javier Bardem	Anton Chigurh
+cast	Josh Brolin	Llewelyn Moss
+cast	Woody Harrelson	Carson Wells
+cast	Kelly Macdonald	Carla Jean Moss
+cast	Garret Dillahunt	Wendell
+cast	Tess Harper	Loretta Bell
+cast	Barry Corbin	Ellis
+cast	Stephen Root	Man who hires Wells
+cast	Rodger Boyce	El Paso Sheriff
+cast	Beth Grant	Carla Jean's Mother
+cast	Ana Reeder	Poolside Woman
+cast	Kit Gwin	Sheriff Bell's Secretary
+cast	Zach Hopkins	Strangled Deputy
+cast	Chip Love	Man in Ford
+cast	Eduardo Antonio Garcia	'Agua' Man
+cast	Gene Jones	Gas Station Proprietor
+cast	Myk Watford	'Managerial' Victim
+cast	Boots Southerland	'Managerial' Victim
+cast	Kathy Lamkin	Desert Aire Manager
+cast	Johnnie Hector	Cabbie at Bus Station
+cast	Margaret Bowman	Del Rio Motel Clerk
+cast	Thomas Kopache	Boot Salesman
+cast	Jason Douglas	Cabbie at Motel
+cast	Doris Hargrave	Waitress
+cast	Rutherford Cravens	Gun Store Clerk
+cast	Matthew Posey	Sporting Goods Clerk
+cast	George Adelo	Mexican in Bathtub
+cast	Mathew Greer	Hitchhiking Driver
+cast	Trent Moore	Nervous Accountant
+cast	Marc Miles	Hotel Eagle Clerk
+cast	Luce Rains	Pickup Driver
+cast	Philip Bentham	Border Bridge Youth
+cast	Eric Reeves	Border Bridge Youth
+cast	Josh Meyer	Border Bridge Youth
+cast	Chris Warner	Flatbed Driver
+cast	Brandon Smith	INS Official
+cast	Roland Uribe	Well Dressed Mexican
+cast	Richard Jackson	Chicken Farmer
+cast	Josh Blaylock	Boy on Bike
+cast	Caleb Landry Jones	Boy on Bike
+cast	Dorsey Ray	Odessa Cabbie
+cast	Angel H. Alvarado Jr.	Norteño Band
+cast	David A. Gomez	Norteño Band
+cast	Milton Hernandez	Norteño Band
+cast	John Mancha	Norteño Band
+cast	Scott Flick	Cab Driver
+cast	Albert Fry Jr.	El Paso Deputy
+cast	Angelo Martinez	Bus Passenger
+cast	Elizabeth Slagsvol	Nurse

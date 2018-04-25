@@ -1,0 +1,408 @@
+year	2001
+imdb score	5.9
+meta score	44
+genre	Action
+genre	Drama
+genre	Romance
+genre	War
+keyword	pearl harbor
+keyword	friend
+keyword	pilot
+keyword	nurse
+keyword	best friend
+keyword	love
+keyword	japanese
+keyword	volunteer
+keyword	japan
+keyword	morning
+keyword	colonel
+keyword	presumed dead
+keyword	love triangle
+keyword	childhood friend
+keyword	air raid
+keyword	fight
+keyword	battle of britain
+keyword	doolittle raid
+keyword	december 7 1941
+keyword	battle
+keyword	sunday
+keyword	train
+keyword	exploding truck
+keyword	air attack
+keyword	year 1942
+keyword	royal air force
+keyword	whistle
+keyword	bar
+keyword	dog
+keyword	u.s. sailor
+keyword	gambling
+keyword	fleet
+keyword	drink
+keyword	gunner
+keyword	coffin
+keyword	world war two
+keyword	mother son relationship
+keyword	shot to death
+keyword	thief
+keyword	letter
+keyword	marriage proposal
+keyword	controversy
+keyword	dog tags
+keyword	exploding car
+keyword	reference to tokyo rose
+keyword	santa claus costume
+keyword	bare chested male
+keyword	sex scene
+keyword	victory
+keyword	long island new york
+keyword	1920s
+keyword	military base
+keyword	military officer
+keyword	dishwasher
+keyword	dancing
+keyword	ale
+keyword	battleship
+keyword	fishing boat
+keyword	airplane
+keyword	baseball
+keyword	lieutenant
+keyword	ship
+keyword	boy
+keyword	reading
+keyword	bail out
+keyword	tokyo japan
+keyword	train station
+keyword	drinking
+keyword	trapped underwater
+keyword	infamy
+keyword	explosion
+keyword	dyslexia
+keyword	kissing
+keyword	surfing
+keyword	passing out
+keyword	friendship
+keyword	courage
+keyword	fire
+keyword	theatre audience
+keyword	mechanic
+keyword	returning from the dead
+keyword	exploding airplane
+keyword	injection
+keyword	sunburn
+keyword	wolf whistle
+keyword	reference to hitler
+keyword	murder
+keyword	hospital
+keyword	convertible
+keyword	drunkenness
+keyword	blood
+keyword	german
+keyword	pistol
+keyword	doolittle raiders
+keyword	u.s. navy
+keyword	golf
+keyword	captain
+keyword	biplane
+keyword	map
+keyword	secret mission
+keyword	newsreel footage
+keyword	world war one
+keyword	syringe
+keyword	oil leak
+keyword	tragic event
+keyword	dogfight
+keyword	underwear
+keyword	epic
+keyword	airport
+keyword	japanese pilot
+keyword	shooting
+keyword	airplane crash
+keyword	exploding building
+keyword	blockbuster
+keyword	crying
+keyword	hand on butt
+keyword	military police
+keyword	dancer
+keyword	sabotage
+keyword	origami
+keyword	kiss
+keyword	faeces drowning
+keyword	gun
+keyword	machine gun
+keyword	parachute
+keyword	drowning
+keyword	hangar
+keyword	kite
+keyword	american flag
+keyword	nudity
+keyword	friendship between women
+keyword	spanking
+keyword	underwater welding
+keyword	tennessee
+keyword	u.s. pacific fleet
+keyword	mayday the call for help
+keyword	coca cola
+keyword	broken leg
+keyword	historical event
+keyword	party hat
+keyword	boxer shorts
+keyword	u.s.s hornet
+keyword	aviation
+keyword	radio operator
+keyword	theft
+keyword	child abuse
+keyword	u.s. military
+keyword	military
+keyword	fainting
+keyword	aircraft carrier
+keyword	surfboard
+keyword	u.s.s arizona
+keyword	photograph
+keyword	naval intelligence
+keyword	prayer
+keyword	band
+keyword	wheelchair
+keyword	camera
+keyword	medal
+keyword	rain
+keyword	admiral
+keyword	submarine
+keyword	revolving door
+keyword	torpedo
+keyword	clothesline
+keyword	england
+keyword	broken nose
+keyword	watching a movie
+keyword	exploding ship
+keyword	year 1941
+keyword	top secret
+keyword	aerial combat
+keyword	pacific ocean
+keyword	aspiring pilot
+keyword	luftwaffe
+keyword	kamikaze
+keyword	fiancé fiancée relationship
+keyword	friendship between men
+keyword	flashback
+keyword	slapping
+keyword	navy cross
+keyword	tent
+keyword	boat
+keyword	tears
+keyword	dentist
+keyword	weather
+keyword	boxing
+keyword	racial slur
+keyword	loneliness
+keyword	cook
+keyword	prologue
+keyword	champagne
+keyword	uber soldat
+keyword	bomb
+keyword	1940s
+keyword	pregnancy
+keyword	underwater scene
+keyword	year 1925
+keyword	defeat
+keyword	spy camera
+keyword	beach
+keyword	radar
+keyword	french
+keyword	bicycle
+keyword	undressing
+keyword	u.s. army
+keyword	jitterbug the dance
+keyword	lens flare
+keyword	stuttering
+keyword	reference to franklin d roosevelt
+keyword	bar fight
+keyword	air raid siren
+keyword	soldier
+keyword	beer
+keyword	mp
+keyword	jealousy
+keyword	fairy godmother
+keyword	robbery
+keyword	eye test
+keyword	place name in title
+keyword	reference to queen mary
+keyword	hawaii
+keyword	u.s. president
+keyword	father son relationship
+keyword	sea
+keyword	bombing
+keyword	death
+keyword	based on true story
+keyword	title spoken by character
+keyword	
+cast	Ben Affleck	Capt. Rafe McCawley
+cast	Josh Hartnett	Capt. Danny Walker
+cast	Kate Beckinsale	Nurse Lt. Evelyn Johnson
+cast	William Lee Scott	Lt. Billy Thompson
+cast	Greg Zola	Lt. Anthony Fusco
+cast	Ewen Bremner	Lt. Red Winkle
+cast	Alec Baldwin	Lt. Col. James Doolittle
+cast	Jaime King	Nurse Betty Bayer
+cast	Catherine Kellner	Nurse Barbara
+cast	Jennifer Garner	Nurse Sandra
+cast	Jon Voight	President Franklin Delano Roosevelt
+cast	Cuba Gooding Jr.	Petty Officer Doris Miller
+cast	Michael Shannon	Lt. Gooz Wood
+cast	Matthew Davis	Joe
+cast	Mako	Adm. Isoroku Yamamoto
+cast	John Fujioka	Nishikura
+cast	Cary-Hiroyuki Tagawa	Cmdr. Minoru Genda
+cast	Colm Feore	Adm. Husband E. Kimmel
+cast	Dan Aykroyd	Capt. Thurman
+cast	Reiley McClendon	Young Danny
+cast	Jesse James	Young Rafe
+cast	William Fichtner	Danny's Father
+cast	Steve Rankin	Rafe's Father
+cast	Brian Haley	Training Captain
+cast	David Hornsby	Flyer with Murmur
+cast	Scott Wilson	Gen. George C. Marshall
+cast	Graham Beckel	Adm. Chester W. Nimitz
+cast	Howard Mungo	George
+cast	Randy Oglesby	Strategic Analyst
+cast	Ping Wu	Japanese Officer
+cast	Stan Cahill	Pentagon Lieutenant
+cast	Kevin Wensing	Executive Officer - USS West Virginia
+cast	Tom Everett	Secretary of the Navy Frank Knox
+cast	Tomas Arana	Vice-Adm. Frank J. 'Jack' Fletcher
+cast	Beth Grant	Motherly Secretary
+cast	Sara Rue	Nurse Martha
+cast	Sung Kang	Listener
+cast	Raphael Sbarge	Kimmel's Aide
+cast	Marty Belafsky	Louie, Sailor
+cast	Yuji Okumoto	Japanese Shy Bomber
+cast	Josh Green	Pvt. Ellis, Radar Operator
+cast	Ian Bohen	Radar Operator #2
+cast	Michael Milhoan	Army Commander
+cast	Peter Firth	Capt. Mervyn Bennion - USS West Virginia
+cast	Tom Sizemore	Sgt. Earl Sistern
+cast	Marco Gould	Pop-Up Sailor
+cast	Andrew Bryniarski	Joe, Boxer
+cast	Nicholas Downs	Terrified Sailor
+cast	Tim Choate	Navy Doctor
+cast	John Diehl	Senior Doctor
+cast	Joseph Patrick Kelly	Medic
+cast	Ron Harper	Minister
+cast	Ted McGinley	Army Major
+cast	Madison Mason	Adm. Raymond A. Spruance
+cast	Kim Coates	Jack Richards
+cast	Andrew Baley	Hornet Radio Operator
+cast	Glenn Morshower	RAdm. William F. 'Bull' Halsey Jr.
+cast	Paul Francis	Doolittle Co-Pilot
+cast	Scott Wiper	Ripley
+cast	Eric Christian Olsen	Gunner
+cast	Rod Biermann	Navigator
+cast	Noriaki Kamata	Japanese Soldier
+cast	Garret Sato	Japanese Soldier
+cast	Eiji Inoue	Japanese Soldier
+cast	Precious Chong	Nursing Supervisor
+cast	Jeff Wadlow	Next Guy in Line #1
+cast	Will Gill Jr.	Train Conductor
+cast	Seth Sakai	Japanese Tourist
+cast	Curtis Andersen	18-Year-Old Typist
+cast	Blaine Pate	Orderly in Aftermath
+cast	John Pyper-Ferguson	Naval Officer in Hospital
+cast	Michael Shamus Wiles	Captain Marc Andrew Mitscher
+cast	Brett Pedigo	Next Guy in Line #2
+cast	Toru Tanaka Jr.	Samoan Bouncer
+cast	Sean Gunn	Traction Sailor
+cast	Josh Ackerman	Wounded Sailor #1
+cast	Matt Casper	Wounded Sailor #2
+cast	David Kaufman	Young Nervous Doctor
+cast	Lindsey Ginter	Captain Low
+cast	Joshua Aaron Gulledge	Buster
+cast	Guy Torry	Teeny Mayfield
+cast	Leland Orser	Major Jackson
+cast	Peter James Smith	Mission listener
+cast	Mark Noon	Medic
+cast	Pat Healy	Newsreel Guy
+cast	Thomas Wilson Brown	Young Flier
+cast	Chad Morgan	Pearl Harbor Nurse
+cast	James Saito	Japanese Aide #1
+cast	Angel Sing	Japanese Aide #2
+cast	Tak Kubota	Japanese Aide #3
+cast	Robert Jayne	Sunburnt Sailor
+cast	Vic Chao	Japanese Doctor
+cast	Michael Gradilone	Screaming Sailor
+cast	Fred Koehler	Wounded Sailor #3
+cast	John Padget	Hospital Chaplain
+cast	Ben Easter	Baja Sailor #1
+cast	Cory Tucker	Baja Sailor #2
+cast	Abe Sylvia	Baja Sailor #4
+cast	Jason Liggett	Baja Sailor #5
+cast	Mark Panasuk	Baja Sailor #6
+cast	Bret Roberts	Baja Sailor #7
+cast	John Howry	Lieutenant in Boat
+cast	Rufus Dorsey	Dorie's Friend
+cast	Patrice Martinez	French Fisherman
+cast	Rodney Bursiel	Sailor with Dog
+cast	Rob McCabe	Rescue Sailor
+cast	Brandon Lozano	Baby Danny
+cast	Seiki Moriguchi	Akagi Communication Officer
+cast	Brian D. Falk	Helmsman #1
+cast	Estevan Gonzalo	Bombing Sailor
+cast	Christopher Stroop	Helmsman #2
+cast	Sean Faris	Danny's Gunner
+cast	Vincent J. Inghilterra	Preacher
+cast	Nicholas Farrell	RAF Squadron Leader
+cast	Tony Curran	Ian
+cast	Will Bowden	British Pilot
+cast	Benjamin Farry	Pilot #2
+cast	Daniel Mays	Pilot #3
+cast	Toshi Toda	Dentist
+cast	Jaymee Ong	Dental Assistant
+cast	Ken Goth	Army 2nd Lieutenant
+cast	Hank Harris	Young Harbor Patrolman
+cast	Christopher Allison	USS Arizona Sailor
+cast	Ford Austin	Doolittle Pilot
+cast	Greg Baine	Young Sailor
+cast	Douglas Blakeslee	Doolittle Pilot
+cast	J Michael Briggs	Injured Marine
+cast	Wally Burr	Newsreel Voice
+cast	Matt Cable	Doolittle Pilot
+cast	Camille Carida	Nurse
+cast	Andrew Chen	Japanese Pilot
+cast	Winston Churchill	Himself
+cast	David de Vos	Medical Orderly
+cast	Tanya Dempsey	Nurse
+cast	Jeremy Denzlinger	Sailor
+cast	Jeremy Gilbreath	Toothbrush Sailor
+cast	Geoffrey Gould	Dental Patient
+cast	William Joseph Hill	Doolittle Raider
+cast	Adolf Hitler	Himself
+cast	Patrick A. Horton	White House Cabinet Member
+cast	Manu Intiraymi	Officer in Water Shouting "P-40's"
+cast	Frieda Jane	Nurse
+cast	Saburo Kurusu	Himself - in Washington with Nomura
+cast	Cherisse Lamoureux	Nurse
+cast	Sherwin Lau	Japanese Sailor
+cast	Elizabeth Leaff	Nurse
+cast	Scott Levy	Sergeant
+cast	Beau Lotterman	Naval Inteligence Officer
+cast	Francis Maikai	Hawaiian Bartender
+cast	Kinsey McLean	Soldier in Theater
+cast	Jill Meyers	Nurse
+cast	Matt Moore	Gooz Dude
+cast	Kathleen Mullan	Stearn Nurse
+cast	Robert C. Nelson	Army Officer
+cast	Naoko Niya	Hawaiian Bar Girl
+cast	Kichisaburo Nomura	Himself - in Washington with Kurusu
+cast	Lin Oeding	Japanese Sailor
+cast	Pete Romano	Soldier in the Water
+cast	Lisa Ross	Nurse
+cast	David Rountree	Navy Pilot
+cast	Bryan Ryan	Sailor
+cast	Matthew Saxe	Doolittle Gunner
+cast	Barbara Scolaro	Josephine Doolittle
+cast	Ross Stasik	Extra
+cast	Max Thayer	Bit Part
+cast	Jack Truman	Train Conductor
+cast	Clyde Tull	Army Officer
+cast	Larry Wegger	Taxi Driver
+cast	Mark Weiler	Naval Messenger
+cast	Jeff Yaworski	Sailor
+cast	Melissa Anne Young	Nurse

@@ -1,0 +1,2 @@
+logline	The Monty Python troupe perform a combination of classic sketches and new material at the Hollywood Bowl.
+tagline	Never before in the history of human civilization has there been a movie called "Monty Python Live at the Hollywood Bowl"

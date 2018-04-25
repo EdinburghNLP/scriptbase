@@ -1,0 +1,738 @@
+year	2012
+imdb score	8.6
+meta score	78
+genre	Action
+genre	Crime
+genre	Thriller
+keyword	police
+keyword	commissioner
+keyword	thief
+keyword	murder
+keyword	fight
+keyword	manor
+keyword	redemption
+keyword	beaten to death
+keyword	pickpocket
+keyword	inheritance
+keyword	funeral
+keyword	reluctant hero
+keyword	torture
+keyword	epic
+keyword	car crash
+keyword	chaos
+keyword	crashing through a window
+keyword	special forces
+keyword	collapsed bridge
+keyword	hostage situation
+keyword	fugitive
+keyword	mixed martial arts
+keyword	father figure
+keyword	haunted by the past
+keyword	police department
+keyword	tragic hero
+keyword	tough girl
+keyword	heist
+keyword	letter of resignation
+keyword	costume
+keyword	lens flare
+keyword	class differences
+keyword	tunnel
+keyword	tank
+keyword	night cityscape
+keyword	bomb
+keyword	walking cane
+keyword	rifle
+keyword	stabbed in the back
+keyword	double cross
+keyword	employee dismissal
+keyword	airplane
+keyword	necklace
+keyword	burglary
+keyword	destruction
+keyword	fighter jet
+keyword	deception
+keyword	waterfall
+keyword	escalation
+keyword	barefoot
+keyword	cell phone
+keyword	sawed off shotgun
+keyword	explosive decompression
+keyword	socialite
+keyword	strong man
+keyword	sniper rifle
+keyword	pearl necklace
+keyword	italy
+keyword	tribute
+keyword	computer
+keyword	gunfight
+keyword	faked death
+keyword	football field
+keyword	warlord
+keyword	city in peril
+keyword	high tech suit
+keyword	butler
+keyword	looting
+keyword	power outage
+keyword	disguise
+keyword	fireplace
+keyword	hand grenade
+keyword	young version of character
+keyword	boardroom
+keyword	national guard
+keyword	offscreen killing
+keyword	armory
+keyword	commando
+keyword	scientist
+keyword	snow
+keyword	femme fatale
+keyword	prison guard
+keyword	nuclear explosion
+keyword	escape
+keyword	crime fighter
+keyword	sequel
+keyword	tough guy
+keyword	returning character killed off
+keyword	motorcycle
+keyword	maid
+keyword	combat
+keyword	isolation
+keyword	prison riot
+keyword	bag over head
+keyword	stealing a car
+keyword	third part
+keyword	news report
+keyword	nuclear threat
+keyword	knocked out
+keyword	brawl
+keyword	walkie talkie
+keyword	2010s
+keyword	prison
+keyword	jumping through a window
+keyword	machine gun
+keyword	timebomb
+keyword	masked hero
+keyword	orphan
+keyword	gas mask
+keyword	police officer shot
+keyword	orphanage
+keyword	gatling gun
+keyword	ball
+keyword	pentagon
+keyword	death
+keyword	armorer
+keyword	neck breaking
+keyword	shot in the chest
+keyword	kicked in the stomach
+keyword	trap
+keyword	statue
+keyword	m109 paladin self propelled howitzer
+keyword	hostage killed
+keyword	tyranny
+keyword	bow and arrow
+keyword	hostile takeover
+keyword	burglar
+keyword	dead boy
+keyword	helicopter
+keyword	footballer
+keyword	good versus evil
+keyword	photograph
+keyword	psychopath
+keyword	tracking device
+keyword	court trial
+keyword	hospital bed
+keyword	theft
+keyword	shot in the leg
+keyword	mercenary
+keyword	bare chested male
+keyword	judge
+keyword	terrorism
+keyword	exploding car
+keyword	cave in
+keyword	police vigilantism
+keyword	release from prison
+keyword	thug
+keyword	hidden room
+keyword	interrogation
+keyword	dc comics
+keyword	henchman
+keyword	limousine
+keyword	commando unit
+keyword	armored car
+keyword	catwoman
+keyword	chef
+keyword	uzi
+keyword	cave
+keyword	jumping from height
+keyword	corpse
+keyword	bar
+keyword	congressman
+keyword	security guard
+keyword	exploding bridge
+keyword	female villain
+keyword	carjacking
+keyword	dungeon
+keyword	evacuation
+keyword	cat burglar
+keyword	newspaper clipping
+keyword	revelation
+keyword	leg brace
+keyword	analgesic
+keyword	hostage drama
+keyword	hanged man
+keyword	robbery
+keyword	satellite
+keyword	muscleman
+keyword	watching tv
+keyword	legend
+keyword	car accident
+keyword	battle
+keyword	broken back
+keyword	star spangled banner
+keyword	terrorist attack
+keyword	shotgun
+keyword	gasoline
+keyword	mushroom cloud
+keyword	captain
+keyword	fictional city
+keyword	surveillance
+keyword	detonator
+keyword	claim in title
+keyword	police officer killed
+keyword	brutality
+keyword	vigilantism
+keyword	physicist
+keyword	terrorist plot
+keyword	stock exchange
+keyword	bat
+keyword	flashback
+keyword	airplane accident
+keyword	desert
+keyword	flash drive
+keyword	football stadium
+keyword	face mask
+keyword	home safe
+keyword	commando mission
+keyword	mayor
+keyword	hostage taker
+keyword	betrayal
+keyword	costumed hero
+keyword	city hall
+keyword	rope
+keyword	beating
+keyword	masked vigilante
+keyword	dance
+keyword	lawlessness
+keyword	heroism
+keyword	parking garage
+keyword	sniper
+keyword	fire
+keyword	showdown
+keyword	school bus
+keyword	cia agent
+keyword	chase
+keyword	manhole
+keyword	pistol
+keyword	soldier
+keyword	rooftop
+keyword	cover up
+keyword	missile
+keyword	gadgetry
+keyword	corporate corruption
+keyword	terrorist group
+keyword	motorcycle chase
+keyword	based on comic
+keyword	gas explosion
+keyword	city state
+keyword	compound bow
+keyword	four word title
+keyword	car motorcycle chase
+keyword	jumping from a rooftop
+keyword	secret room
+keyword	exploding body
+keyword	safe
+keyword	shot to death
+keyword	no opening credits
+keyword	road blockade
+keyword	ambulance
+keyword	villainess
+keyword	nuclear physicist
+keyword	u.s. president
+keyword	kidnapping
+keyword	wet jeans
+keyword	lambourgini gallardo
+keyword	priest
+keyword	altered version of studio logo
+keyword	conspiracy
+keyword	one against many
+keyword	race against time
+keyword	reference to robin hood
+keyword	destruction of a bridge
+keyword	rescue
+keyword	suicide
+keyword	press conference
+keyword	vigilante
+keyword	national anthem
+keyword	bus
+keyword	siege
+keyword	detective
+keyword	rocket
+keyword	assassin
+keyword	mansion
+keyword	hand to hand combat
+keyword	character's point of view camera shot
+keyword	time bomb
+keyword	knocked out with gun butt
+keyword	police commissioner
+keyword	exile
+keyword	kiss
+keyword	security camera
+keyword	swat team
+keyword	blockbuster
+keyword	duel
+keyword	riot
+keyword	punched in the chest
+keyword	exploding airplane
+keyword	media coverage
+keyword	c 130 hercules
+keyword	prison escape
+keyword	chanting
+keyword	product placement
+keyword	on the run
+keyword	gadget
+keyword	rumble
+keyword	exploding building
+keyword	subway
+keyword	knife
+keyword	gas
+keyword	show trial
+keyword	letter read aloud
+keyword	killer
+keyword	revenge
+keyword	super strength
+keyword	football
+keyword	shot in the back
+keyword	imprisonment
+keyword	police chase
+keyword	russian
+keyword	laptop
+keyword	swat
+keyword	homelessness
+keyword	masked woman
+keyword	falling from height
+keyword	loyalty
+keyword	one woman army
+keyword	anti heroine
+keyword	mid air transfer
+keyword	rescue attempt
+keyword	kicked in the face
+keyword	police station
+keyword	secret door
+keyword	presumed dead
+keyword	martial arts
+keyword	child in peril
+keyword	die hard scenario
+keyword	terrorist
+keyword	strangulation
+keyword	police officer shot in the back
+keyword	dark hero
+keyword	female warrior
+keyword	flood
+keyword	female vigilante
+keyword	hallucination
+keyword	corrupt businessman
+keyword	airplane hijacking
+keyword	woman fights man
+keyword	hospital
+keyword	nuclear bomb
+keyword	action hero
+keyword	criminal underworld
+keyword	trapped
+keyword	stylized violence
+keyword	hostage
+keyword	sewer
+keyword	police detective
+keyword	construction site
+keyword	underground
+keyword	pistol whip
+keyword	street shootout
+keyword	aircraft
+keyword	flare
+keyword	cafe
+keyword	apartment
+keyword	bloody body of child
+keyword	mask
+keyword	tragic villain
+keyword	hope
+keyword	apple
+keyword	masked man
+keyword	woman kills man
+keyword	massacre
+keyword	shaving
+keyword	little black dress
+keyword	explosion
+keyword	coup
+keyword	crash
+keyword	district attorney
+keyword	end of trilogy
+keyword	foot chase
+keyword	punched in the face
+keyword	blockade
+keyword	grand piano
+keyword	character repeating someone else's dialogue
+keyword	graveyard
+keyword	appeared on tv news
+keyword	jail cell
+keyword	piano
+keyword	shootout
+keyword	neo noir
+keyword	self sacrifice
+keyword	assassination attempt
+keyword	sociopath
+keyword	falling through ice
+keyword	no title at beginning
+keyword	newspaper headline
+keyword	master thief
+keyword	action heroine
+keyword	superhero
+keyword	impalement
+keyword	title at the end
+keyword	one man army
+keyword	army
+keyword	police officer
+keyword	female thief
+keyword	based on comic book
+keyword	police officer shot in the chest
+keyword	rookie cop
+keyword	fresh start
+keyword	filmed killing
+keyword	super villain
+keyword	warrior
+keyword	investigation
+keyword	stabbed in the chest
+keyword	coming out of retirement
+keyword	explosive
+keyword	airport
+keyword	ak 47
+keyword	kitchen
+keyword	confidant
+keyword	escape attempt
+keyword	execution
+keyword	billionaire
+keyword	bound and gagged
+keyword	subterranean
+keyword	final battle
+keyword	fistfight
+keyword	truck
+keyword	prison officer
+keyword	home invasion
+keyword	held at gunpoint
+keyword	prisoner
+keyword	anti hero
+keyword	court
+keyword	ambush
+keyword	u.s. army
+keyword	memorial
+keyword	taxi
+keyword	hummer
+keyword	military
+keyword	character appears on front page of a newspaper
+keyword	bridge
+keyword	fingerprint
+keyword	surprise ending
+keyword	
+cast	Christian Bale	Bruce Wayne
+cast	Gary Oldman	Commissioner Gordon
+cast	Tom Hardy	Bane
+cast	Joseph Gordon-Levitt	Blake
+cast	Anne Hathaway	Selina
+cast	Marion Cotillard	Miranda
+cast	Morgan Freeman	Fox
+cast	Michael Caine	Alfred
+cast	Matthew Modine	Foley
+cast	Alon Aboutboul	Dr. Pavel
+cast	Ben Mendelsohn	Daggett
+cast	Burn Gorman	Stryver
+cast	Daniel Sunjata	Captain Jones
+cast	Aidan Gillen	CIA Op
+cast	Sam Kennard	Special Ops Sergeant
+cast	Aliash Tepina	Hooded Man #2
+cast	Nestor Carbonell	Mayor
+cast	Brett Cullen	Congressman
+cast	Nick Julian	Caterer
+cast	Miranda Nolan	Maid #2
+cast	Claire Julien	Maid #3
+cast	Reggie Lee	Ross
+cast	Joseph Lyle Taylor	DWP Man
+cast	Chris Ellis	Fr. Reilly
+cast	Tyler Dean Flores	Mark
+cast	Juno Temple	Jen
+cast	Duane Henry	SWAT in Dive Bar
+cast	James Harvey Ward	SWAT in Alley
+cast	Gonzalo Menendez	Cop in Manhole
+cast	Cameron Jack	Sewer Thug #1
+cast	Lex Daniel	Sewer Thug #2
+cast	Thomas Lennon	Doctor
+cast	Trevor White	Yuppie
+cast	Rob Brown	Allen
+cast	Fredric Lehne	Exchange Security Chief
+cast	Courtney Munch	Female Security Guard
+cast	Chris Hill	Paparazzi #1
+cast	Travis Guba	Paparazzi #2
+cast	Jay Benedict	Rich Twit
+cast	Will Estes	Officer Simon Jansen
+cast	David Dayan Fisher	Shoe Shine Man at GSE
+cast	Phillip James Griffith	Sniper at Exchange
+cast	Glen Powell	Trader #1
+cast	Ben Cornish	Trader #2
+cast	Russ Fega	Trader #3
+cast	Andres Perez-Molina	Valet at Museum
+cast	Brent Briscoe	Veteran Cop
+cast	John Nolan	Fredericks
+cast	Oliver Cotton	2 Star Air Force General
+cast	Mark Killeen	Airport Cop
+cast	Sarah Goldberg	Analyst #1
+cast	John Macmillan	Analyst #2
+cast	Robert Wisdom	Army Captain at Bridge
+cast	Ronnie Gene Blevins	Cement Truck Driver
+cast	John Hollingworth	CIA Analyst
+cast	Ian Bohen	Cop with Gordon
+cast	Uri Gavriel	Blind Prisoner
+cast	Noel Gugliemi	Ex-Prisoner at River
+cast	Max Schuler	Foley's Kid
+cast	Daina Griffith	Foley's Wife
+cast	Hector Atreyu Ruiz	Gangbanger
+cast	Patrick Cox	Huge Inmate
+cast	Aramis Knight	Kid with Apple
+cast	Josh Stewart	Barsad
+cast	William Devane	President
+cast	Harry Coles	Younger Prison Child
+cast	Joey King	Older Prison Child
+cast	Liam Neeson	Ra's Al Ghul
+cast	Julie Mun	Reporter at Stadium
+cast	Cillian Murphy	Dr. Jonathan Crane / Scarecrow
+cast	David Gyasi	Skinny Prisoner
+cast	Patrick Jordan	Special Forces #2
+cast	Tom Conti	Prisoner
+cast	Joshua Elijah Reese	Mercenary at City Hall
+cast	Desmond Harrington	Uniform
+cast	Mychael Bates	Bomb Truck Driver
+cast	Rory Nolan	Little Boy at Bridge
+cast	Tomas Arana	Wayne's Lawyer
+cast	Peter Holden	Applied Sciences Tech #1
+cast	David Monahan	Applied Sciences Tech #2
+cast	Jillian Armenante	Lawyer's Clerk
+cast	Aja Evans	Greeter at Museum
+cast	Aldous Davidson	Valet at Wayne Enterprises
+cast	Michael James Faradie	Guard at Blackgate
+cast	Wade Williams	Warden at Blackgate
+cast	Antwan Lewis	Reporter at Wayne Enterprises
+cast	Jake Canuso	Waiter in Florence Café
+cast	Josh Pence	Young Ra's Al Ghul
+cast	India Wadsworth	Warlord's Daughter
+cast	Kevin Kiely Jnr	Thug #1 in Basement
+cast	Daniel Newman	Thug #2 in Basement
+cast	Massi Furlan	Janitor at GSE
+cast	Warren Brown	Mercenary Security #1
+cast	Luke Rutherford	Mercenary Security #2
+cast	Phillip Browne	Mercenary Security #3
+cast	Christopher Judge	Mercenary Security #4
+cast	Aldo Bigante	2nd Cop with Gordon
+cast	Charles Jackson Coyne	Anthem Singer
+cast	Patrick Leahy	Board Member #2
+cast	Todd Gearhart	Uniform #2
+cast	Marc Abbink	Gotham City Police Officer
+cast	Joseph M. Abbott	Irish Street Thug
+cast	Isiah Adams	Young Stock Broker
+cast	Lucia M. Aguirre	Gotham Rogues Fan
+cast	Tony Alameda	Mercenary
+cast	Chris Albright	Gotham Rogues Fan
+cast	Charlie Alejandro	Gotham City Police Officer
+cast	Brandon Allentoff	Gothamite
+cast	Tony Amen	Prisoner
+cast	Sam Andé	Thug
+cast	Robert Arensen	Former Upscaler
+cast	Diedra Arthur-O'Ree	Football Fan
+cast	James Avise	Gotham Rogues Fan
+cast	Grant Babbitt	Angry Mobster / Prisoner
+cast	Fileena Bahris	Gotham Rogues Fan
+cast	Russell Balogh	Museum Ball Guest
+cast	David Nathie Barnes	Prisoner
+cast	Joseph Basile	Mercenary Soldier Protector
+cast	Tommy Bayiokos	Gotham City Police Officer
+cast	Tiffany Bell	Gotham Rogues Fan
+cast	Brandon Blackwell	S.W.A.T. Guy
+cast	James Blankenfeld	Gotham City Police Officer
+cast	Todd Bobenrieth	Prisoner
+cast	Ryan C. Bogdewic	Football Fan
+cast	Rick Bolander	Mercenary
+cast	Brendan Boyce	Thug
+cast	Kyle Patrick Brennan	Police Officer
+cast	Corey Brown	Police Officer
+cast	Graham Brown	Thug
+cast	Star Bunner	Police Officer
+cast	Steven Butros	Stock Broker
+cast	Timothy Butts	Gang Member
+cast	John Cashin	Thug
+cast	Scott Churchson	Gotham City Police Officer
+cast	Matt Cipro	NYSE Day Trader
+cast	Ryan Clark	Gotham Rogues Player
+cast	Carl Clemons	Banes's Henchmen
+cast	Willie Colon	Gotham Rogues Player
+cast	Daniel R Cooper	NYSE Sercurity Guard
+cast	Bill Cowher	Gotham Rogues Coach
+cast	Scot Cregan	Gotham National Guard Soldier
+cast	Ruben Dario Cruz II	Gothamite
+cast	Gioacchino Jim Cuffaro	Prisoner
+cast	Chris J. Cullen	Thug
+cast	Michael Didriksson	Mercenary
+cast	Marvin Duerkholz	Logan
+cast	Aaron Eckhart	Harvey Dent
+cast	Gray Ellis	SWAT
+cast	Jonn Faircrest	Board Member
+cast	Anthony Farraj	Prisoner / Mob
+cast	Shawn Farrell	Thug
+cast	John Farrer	Older Upscale Person
+cast	James Farrior	Gotham Rogues Player
+cast	Frank Fata	Prisoner / Thug
+cast	Susan Feldbusch	Spectator / Fan
+cast	Joe Fishel	Police Officer
+cast	Luke Oscar Ford	Party Attendant
+cast	Justin Fortmeier	Gotham Rogues Supporter
+cast	Lisa Garrett	Police Officer
+cast	Mark Gazica	Gotham Rogues Fan
+cast	Gary Gibbs	Prisoner
+cast	Sophia Gilberto	Young Woman
+cast	Gregory Gillaspie	Gothamite
+cast	Christopher Bryan Gomez	Stock Broker
+cast	Matthew Gooley	Football Fan
+cast	Michael Grand	Police Officer
+cast	Vito Grassi	Thug
+cast	Ryan Green	Gotham City Rogues Fan
+cast	Michael Wren Gucciardo	Stockbroker in Snipers Scoop - Stock Exchange
+cast	Kevin Gurnari	Mercenary Soldier
+cast	Casey Hampton	Gotham Rogues Player
+cast	Frank Hansen	S.W.A.T. Bridge Sniper
+cast	Sam Harris	Prisoner
+cast	Greg Hart	Gotham Rogues Fan
+cast	Ed Heavey	Police Officer
+cast	Wayne Heckler	Gotham Rogues Fan
+cast	Quillian Hightower	Day Trader
+cast	John W. Iwanonkiw	Gotham Police Officer / Fan
+cast	Cindy Jackson	Gordon's Cop #4
+cast	Curtis Jermaine	Mercenary
+cast	Edgar Jimz	Gotham State SWAT Team
+cast	Stephen T. Johnson	Reporter
+cast	Jacob Kalafut	Businessman
+cast	Joe Kane	Gotham Rogues Fan
+cast	William Kania	Gothamite
+cast	Tiffany Kemp	Gotham Rogues Fan
+cast	David Dustin Kenyon	Prisoner
+cast	Sun Jae Kim	Stock Broker
+cast	Sharyn Kmieciak	Gothamite
+cast	Zackary Kresser	Mercenary
+cast	Ilan Krigsfeld	Gotham Bridge Thug
+cast	Alex Kruz	Wall Street Broker
+cast	Shannon Lanier	Gotham Rogue Fan
+cast	Joshua Lassman	GSE Pit Boss
+cast	Robert Leckington	Mob / Thug
+cast	Bryan Lee	Stock Broker
+cast	LeJon	Thug
+cast	Paul Jude Letersky	Gotham City Police Officer
+cast	Gus Lewis	Bruce Wayne - Age 8
+cast	Joe Lipari	Prisoner
+cast	Silvia Lombardo	Tourist
+cast	Jeremy Long	Sports Fan
+cast	Jack Mahrt	Mercenary
+cast	John Mancini	Soldier / Military Technical Advisor
+cast	Max Mangel	Gotham Rogues Fan
+cast	Dan Marcus	Gotham Rogues Fan
+cast	Jorge Mardel	Gotham Rogues Fan
+cast	Catya Maré	Female Cop
+cast	London May	Court Room Thug
+cast	Mike J. McAllister	Gotham Rogues Fan
+cast	Orion McCabe	Mercenary
+cast	Sean P. McCarthy	Football Fan
+cast	Cale McConnell	Gotham Rogues Fan
+cast	David Dale McCue	Gotham City Police Officer
+cast	Kyle McGrath	Man in Crowd
+cast	Tiffany Sander McKenzie	Gotham Rogues Fan
+cast	Randall McNeal	Wayne Security Guard
+cast	Allen Merritt	Angry Mobster
+cast	Heath Miller	Gotham Rogues Player
+cast	Olan Montgomery	Wayne Enterprises Security
+cast	Jeremy Moon	Pedestrian
+cast	Alex Moore	Mercenary
+cast	Paul Nandzik	Mercenary
+cast	Phil Nardozzi	Gothamite
+cast	Nial Nelson-Hopkins	Gotham Rogues Fan
+cast	Alessandro Nicolaci	Mercenary
+cast	Shane Nolan	Gotham City Police Officer
+cast	Jackson Nunn	Prisoner / Thug
+cast	Joseph O'Brien	Gotham City News Cameraman
+cast	Shaun O'Donnell	Gothamite
+cast	Michael O'Neill	Thug
+cast	Michael Papajohn	Prison Guard
+cast	Salomon Passariello	Prisoner / Mob
+cast	Mark Perrone	Doorman
+cast	Steve Perry	Game Patron
+cast	Adam Piacente	Gotham City Police Officer
+cast	Ernest Pierce	Gotham City Police Officer
+cast	Kyle David Pierce	Gotham Stock Trader
+cast	David Michael Plowman	Gotham City Policeman
+cast	Troy Polamalu	Gotham Rogues Player
+cast	Maurkice Pouncey	Gotham Rogues Player
+cast	Michael Power	Gotham Police Officer
+cast	Ryan Preimesberger	Stock Broker
+cast	Diezel Ramos	Prison Guard
+cast	Jake Ramos	Gotham City Cop
+cast	Luke R. Ravenstahl	Gotham Rogues Player
+cast	James Rawlings	Thug
+cast	Joseph Rittenhouse	Police Officer
+cast	Linus Roache	Thomas Wayne
+cast	Shindo Ki Rodriguez	Thug
+cast	Kirsten Roeters	Doris in Black
+cast	Ben Roethlisberger	Gotham Rogues Player
+cast	Earl Rorer	Thug
+cast	Aaron Rudd	Gotham Stock Trader
+cast	Tyler Rumsey	Construction Worker
+cast	Alan Saginian	Thug
+cast	Eric Salazar	Angry Thug
+cast	Greg Sammis	Thug
+cast	Zachary Scheer	Gothamite
+cast	Emily Schooley	Hot Football Fan
+cast	Chris Sciacco	Gotham City Police Officer
+cast	Aubrey Lynea Shore	Extra
+cast	Barak Shpiez	Gotham Rogues Fan
+cast	Gary Sievers	Prisoner
+cast	Aaron Smith	Gotham Rogues Player
+cast	Eric Smith	Thug
+cast	Colin Snyder	Fan at football game
+cast	Ken Spassione	Thug Combatant
+cast	Blake Steigerwald	Mercenary
+cast	Franz Strassmann	Gotham City Police Officer
+cast	Tom Struthers	Sandwich Man
+cast	Kevin Tanski	Police Officer
+cast	Matthew Thane	Thug
+cast	Gualberto Del Toro	Mercenary
+cast	Thomas Tull	Gotham Rogues Owner
+cast	Craig Usiak	Mercenary
+cast	Chris Vaina	Thug
+cast	Vincent van Ommen	Prisoner
+cast	Danny Vardanian	Waiter
+cast	Michelle Vezzani	Gotham City Press
+cast	Barbara Vincent	Gotham Rogues Fan
+cast	Mike Wallace	Gotham Rogues Player
+cast	Hines Ward	Gotham Rogues Player
+cast	Michael O. Watkins	GPD Police Sergeant
+cast	Christopher Watts	Gotham Rogues Fan
+cast	James Werley	Pedestrian
+cast	Jase Whitaker	Stockbroker - Gotham Stock Exchange
+cast	Lawrence Whitener	Gothamite - Queensboro Bridge
+cast	Nickolas Wiegand	TV Cameraman
+cast	Jason Yee	Mercenary Soldier
+cast	Mitchell Yee	Gotham Prisoner / Male Mob Member / Thug
+cast	Nikolay Yeriomin	Prisoner
+cast	Maria Zambrana	Gothamite
+cast	John Zion	Gotham City Police Officer
+cast	Alex Ziwak	Thug
+cast	Rafael Zubizarreta	Bane Mercenary

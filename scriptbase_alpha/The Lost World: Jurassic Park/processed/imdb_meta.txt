@@ -1,0 +1,165 @@
+year	1997
+imdb score	6.4
+meta score	59
+genre	Action
+genre	Adventure
+genre	Sci-Fi
+keyword	island
+keyword	dinosaur
+keyword	jurassic
+keyword	girlfriend
+keyword	capture
+keyword	rescue
+keyword	expedition
+keyword	mercenary
+keyword	cliffhanger
+keyword	exploding truck
+keyword	monster
+keyword	pterodactyl
+keyword	rampage
+keyword	babe scientist
+keyword	blood
+keyword	interracial family
+keyword	punctuation in title
+keyword	cliffhanging
+keyword	exploitation
+keyword	jungle
+keyword	eccentric
+keyword	science runs amok
+keyword	famous score
+keyword	stowaway
+keyword	genetic engineering
+keyword	rifle
+keyword	torn in half
+keyword	child in peril
+keyword	velociraptor
+keyword	tyrannosaurus rex
+keyword	martial arts
+keyword	car accident
+keyword	t rex
+keyword	stegosaurus
+keyword	creature feature
+keyword	science goes awry
+keyword	helicopter
+keyword	1990s
+keyword	city
+keyword	hunter
+keyword	boat crash
+keyword	five word title
+keyword	photographer
+keyword	parasaurolophus
+keyword	scientist
+keyword	san diego california
+keyword	boyfriend girlfriend relationship
+keyword	naval officer
+keyword	part computer animation
+keyword	ecology
+keyword	tongue
+keyword	blockbuster
+keyword	paleontologist
+keyword	memenchisaurus
+keyword	mar del plata
+keyword	beach
+keyword	greed
+keyword	crushed to death
+keyword	gallimimus
+keyword	subway
+keyword	eaten alive
+keyword	hunting
+keyword	car crash
+keyword	morphine
+keyword	baby tyrannosaurus
+keyword	california
+keyword	sequel
+keyword	amusement park
+keyword	poetic justice
+keyword	hunting party
+keyword	triceratops
+keyword	tyrannosaurus
+keyword	martial arts gymnastics
+keyword	paleontology
+keyword	injured animal
+keyword	gymnastic
+keyword	raptor
+keyword	experiment gone wrong
+keyword	no opening credits
+keyword	father daughter relationship
+keyword	colon in title
+keyword	monster terrorizes city
+keyword	comic relief
+keyword	impalement
+keyword	megacorporation
+keyword	second part
+keyword	based on novel
+keyword	
+cast	Jeff Goldblum	Ian Malcolm
+cast	Julianne Moore	Sarah Harding
+cast	Pete Postlethwaite	Roland Tembo
+cast	Arliss Howard	Peter Ludlow
+cast	Richard Attenborough	John Hammond
+cast	Vince Vaughn	Nick Van Owen
+cast	Vanessa Lee Chester	Kelly Curtis
+cast	Peter Stormare	Dieter Stark
+cast	Harvey Jason	Ajay Sidhu
+cast	Richard Schiff	Eddie Carr
+cast	Thomas F. Duffy	Dr. Robert Burke
+cast	Joseph Mazzello	Tim
+cast	Ariana Richards	Lex
+cast	Thomas Rosales Jr.	Carter
+cast	Camilla Belle	Cathy Bowman
+cast	Cyd Strittmatter	Mrs. Bowman
+cast	Robin Sachs	Mr. Bowman
+cast	Ross Partridge	Curious Man
+cast	Ian Abercrombie	Butler
+cast	David Sawyer	Workman
+cast	Geno Silva	Barge Captain
+cast	Alex Miranda	Barge Captain's Son
+cast	Robert 'Bobby Z' Zajonc	InGen Helicopter Pilot
+cast	Bob Boehm	Cargo Helicopter Pilot
+cast	Bradley Jensen	Cargo Helicopter Pilot
+cast	Alan D. Purwin	Cargo Helicopter Pilot
+cast	Ben Skorstad	Cargo Helicopter Pilot
+cast	Rick Wheeler	Cargo Helicopter Pilot
+cast	Kenyon Williams	Cargo Helicopter Pilot
+cast	Christopher Caso	InGen Guard
+cast	Gordon Michaels	InGen Worker
+cast	J. Scott Shonka	InGen Worker
+cast	Harry Hutchinson	InGen Worker
+cast	Billy Brown	InGen Worker
+cast	Brian Turk	InGen Worker
+cast	Jim Harley	Harbor Master
+cast	Colton James	Benjamin
+cast	Carey Eidel	Benjamin's Dad
+cast	Katy Boyer	Benjamin's Mom
+cast	David Koepp	Unlucky Bastard
+cast	Eugene Bass Jr.	Attorney
+cast	Bari Buckner	Screaming Woman
+cast	Patricia Bethune	Screamer
+cast	David St. James	Screamer
+cast	Marjean Holden	Screamer
+cast	Jacqueline Schultz	Screamer
+cast	Domini Hofmann	Screamer
+cast	Thomas Stuart	Screamer
+cast	C. Ransom Walrod	Ship Driver
+cast	David Gene Gibbs	Police Helicopter Pilot
+cast	Michael N. Fujimoto	Asian Tourist
+cast	Paul Fujimoto	Asian Tourist
+cast	Darryl A. Imai	Asian Tourist
+cast	Darryl Oumi	Asian Tourist
+cast	Vincent Dee Miles	Screaming Hunter
+cast	Bernard Shaw	CNN Reporter / Himself
+cast	Sean Michael Allen	Tourist #2
+cast	Mark Brady	Screamer
+cast	Michael Chinyamurindi	Waiter
+cast	Tory Christopher	InGen Worker
+cast	Elliot Goldwag	Senior Board Member
+cast	Larry Guardino	Senior Board Member
+cast	Brett Harman	Tourist #5
+cast	Brian Lally	Tourist #3
+cast	J. Patrick McCormack	Board Member
+cast	Michael Milhoan	Obnoxious Tourist
+cast	Kenneth Moskow	Tourist #4
+cast	Mark Pellegrino	Tourist #6
+cast	Bob Quinn	Dock Construction Worker
+cast	Eli Roth	Subway Man
+cast	Steven Spielberg	Popcorn-Eating Man

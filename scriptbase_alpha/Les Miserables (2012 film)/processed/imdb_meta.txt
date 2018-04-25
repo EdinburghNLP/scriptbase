@@ -1,0 +1,349 @@
+year	2012
+imdb score	7.7
+meta score	63
+genre	Drama
+genre	Musical
+genre	Romance
+keyword	rebellion
+keyword	france
+keyword	parole
+keyword	barricade
+keyword	student
+keyword	prostitution
+keyword	innkeeper
+keyword	19th century
+keyword	insurrection
+keyword	brothel
+keyword	two word title
+keyword	abused child
+keyword	dead woman
+keyword	police brutality
+keyword	dying man
+keyword	paris france
+keyword	corpse
+keyword	suspense
+keyword	priest
+keyword	dead woman with eyes open
+keyword	tuberculosis
+keyword	deathbed
+keyword	child murder
+keyword	sewer
+keyword	suicide
+keyword	police inspector
+keyword	dead boy
+keyword	forgiveness
+keyword	fate
+keyword	hunger
+keyword	stars
+keyword	cutting hair
+keyword	historical event
+keyword	feat of strength
+keyword	closing eyes of dead person
+keyword	feminine virtue
+keyword	child killed
+keyword	assumed identity
+keyword	wedding
+keyword	mourning
+keyword	based on stage musical
+keyword	tragic hero
+keyword	battle
+keyword	fallen woman
+keyword	heroic bloodshed
+keyword	woman shot
+keyword	betrayal
+keyword	illegitimate child
+keyword	robbery
+keyword	crowd
+keyword	ghost
+keyword	no title at beginning
+keyword	murder
+keyword	tearjerker
+keyword	arrest
+keyword	shot in the chest
+keyword	funeral cortege
+keyword	beggar
+keyword	dead woman on bed
+keyword	dead woman carried
+keyword	convict
+keyword	girl disguised as boy
+keyword	funeral procession
+keyword	mayor
+keyword	main character dies
+keyword	teasing
+keyword	no opening credits
+keyword	orphan
+keyword	rain
+keyword	corrupt guardian
+keyword	falling in love
+keyword	dying in someone's arms
+keyword	starvation
+keyword	death of main character
+keyword	army
+keyword	blood
+keyword	humiliation
+keyword	redemption
+keyword	melodrama
+keyword	based on play
+keyword	based on novel
+keyword	
+cast	Hugh Jackman	Jean Valjean
+cast	Russell Crowe	Javert
+cast	Anne Hathaway	Fantine
+cast	Amanda Seyfried	Cosette
+cast	Sacha Baron Cohen	Thénardier
+cast	Helena Bonham Carter	Madame Thénardier
+cast	Eddie Redmayne	Marius
+cast	Aaron Tveit	Enjolras
+cast	Samantha Barks	Éponine
+cast	Daniel Huttlestone	Gavroche
+cast	Cavin Cornwall	Convict 1
+cast	Josef Altin	Convict 2
+cast	Dave Hawley	Convict 3
+cast	Adam Jones	Convict 4
+cast	John Barr	Convict 5
+cast	Tony Rohr	Overseer
+cast	Richard Dixon	Mairie Officer
+cast	Andy Beckwith	Innkeeper
+cast	Stephen Bent	Jailer
+cast	Colm Wilkinson	Bishop
+cast	Georgie Glen	Madame Baptistine
+cast	Heather Chasen	Madame Magloire
+cast	Paul Thornley	Constable 1
+cast	Paul Howell	Constable 2
+cast	Stephen Tate	Fauchelevent
+cast	Michael Jibson	Foreman
+cast	Kate Fleetwood	Factory Woman 1
+cast	Hannah Waddingham	Factory Woman 2
+cast	Clare Foster	Factory Woman 3
+cast	Kirsty Hoiles	Factory Woman 4
+cast	Jenna Boyd	Factory Woman 5
+cast	Alice Fearn	Factory Woman 6
+cast	Alison Tennant	Factory Woman 7
+cast	Marilyn Cutts	Factory Woman 8
+cast	Catherine Breeze	Factory Woman 9
+cast	John Albasiny	Factory Onlooker
+cast	Bertie Carvel	Bamatabois
+cast	Tim Downie	Brevet
+cast	Andrew Havill	Cochepaille
+cast	Dick Ward	Bamtabois' Valet
+cast	Nicola Sloane	Hair Crone
+cast	Daniel Evans	Pimp
+cast	David Stoller	Sailor 1
+cast	Ross McCormack	Sailor 2
+cast	Jaygann Ayeh	Sailor 3
+cast	Adrian Scarborough	Toothman
+cast	Frances Ruffelle	Whore 1
+cast	Lynne Wilmot	Whore 2
+cast	Charlotte Spencer	Whore 3
+cast	Julia Worsley	Head Whore
+cast	Keith Dunphy	Client
+cast	Ashley Artus	Pawn Broker
+cast	John Surman	Organ Grinder
+cast	David Cann	Magistrate
+cast	James Simmons	Champmathieu
+cast	Polly Kemp	Nursing Sister
+cast	Ian Pirie	Babet
+cast	Adam Pearce	Brujon
+cast	Julian Bleach	Claquesous
+cast	Marc Pickering	Montparnasse
+cast	Isabelle Allen	Young Cosette
+cast	Natalya Angel Wallace	Young Éponine
+cast	Phil Snowden	Customer 1
+cast	Hadrian Delacey	Customer 2
+cast	Lottie Steer	Baby
+cast	Sam Parks	Tall Customer
+cast	Mark Donovan	Portly Customer
+cast	Lewis Kirk	Handsome Soldier 1
+cast	Leighton Rafferty	Handsome Soldier 2
+cast	Peter Mair	Father Christmas 1
+cast	Jack Chissick	Father Christmas 2
+cast	Dianne Pilkington	Inn Whore 1
+cast	Robyn North	Inn Whore 2
+cast	Norma Atallah	Mother Whore
+cast	Patrick Godfrey	Gillenormand
+cast	Mark Roper	Citizen
+cast	Paul Leonard	Citizen
+cast	Miles Roughley	Gavroche's Urchin
+cast	Cameron Strefford	Gavroche's Urchin
+cast	Alfie Davis	Gavroche's Urchin
+cast	Joseph West	Gavroche's Urchin
+cast	Joel Phillimore	Beggar 1
+cast	Jacqui Dankworth	Beggar 2
+cast	Amelia Jefford	Beggar 3
+cast	Chris Barnes	Beggar 4
+cast	Richard Cordery	Duc De Raguse
+cast	Killian Donnelly	Combeferre
+cast	Fra Fee	Courfeyrac
+cast	Gabriel Vick	Feuilly
+cast	George Blagden	Grantaire
+cast	Hugh Skinner	Joly
+cast	Stuart Neal	Lesgles
+cast	Alistair Brammer	Prouvaire
+cast	Iwan Lewis	Bahorel
+cast	Katy Secombe	Madame Huchloup
+cast	Hadley Fraser	Army Officer
+cast	Linzi Hateley	Turning Woman 1
+cast	Gemma Wardle	Turning Woman 2
+cast	Gina Beck	Turning Woman 3
+cast	Katie Hall	Turning Woman 4
+cast	Lisa Hull	Turning Woman 5
+cast	Andrea Deck	Turning Woman 6
+cast	Jessica Duncan	Turning Woman 7
+cast	Kerry Ingram	Turning Woman 8
+cast	John Warnaby	Majordomo
+cast	Michael Sarne	Father Mabeuf
+cast	Freya Parks	Café Barmaid
+cast	Richard Bremmer	Ensemble 'At the End of the Day'
+cast	Alexander Brooks	Ensemble 'At the End of the Day'
+cast	Eleanor Bruce	Ensemble 'At the End of the Day'
+cast	Emma Dukes	Ensemble 'At the End of the Day'
+cast	Stephen Matthews	Ensemble 'At the End of the Day'
+cast	Peter Saracen	Ensemble 'At the End of the Day'
+cast	Sebastian Sykes	Ensemble 'At the End of the Day'
+cast	Phil Zimmerman	Ensemble 'At the End of the Day'
+cast	Bessie Carter	Ensemble Factory Woman
+cast	Helen Cotterill	Ensemble Factory Woman
+cast	Tricia Deighton	Ensemble Factory Woman
+cast	Mandy Holliday	Ensemble Factory Woman
+cast	Charlotte Hope	Ensemble Factory Woman
+cast	Jackie Marks	Ensemble Factory Woman
+cast	Sara Pelosi	Ensemble Factory Woman
+cast	Mary Roscoe	Ensemble Factory Woman
+cast	Amelia Scaramucci	Ensemble Factory Woman
+cast	Caroline Sheen	Ensemble Factory Woman
+cast	Rachael Archer	Ensemble 'Lovely Ladies'
+cast	Lorna Brown	Ensemble 'Lovely Ladies'
+cast	Antonia Clarke	Ensemble 'Lovely Ladies'
+cast	Mary Cormack	Ensemble 'Lovely Ladies'
+cast	Sonya Cullingford	Ensemble 'Lovely Ladies'
+cast	Holly Dale Spencer	Ensemble 'Lovely Ladies'
+cast	Amy Griffiths	Ensemble 'Lovely Ladies'
+cast	Fania Grigoriou	Ensemble 'Lovely Ladies'
+cast	Amanda Henderson	Ensemble 'Lovely Ladies'
+cast	Alexia Khadime	Ensemble 'Lovely Ladies'
+cast	Luisa Lazzaro	Ensemble 'Lovely Ladies'
+cast	Gemma O'Duffy	Ensemble 'Lovely Ladies'
+cast	Amy Ellen Richardson	Ensemble 'Lovely Ladies'
+cast	Olivia Rose-Aaron	Ensemble 'Lovely Ladies'
+cast	Robyn Miranda Simpson	Ensemble 'Lovely Ladies'
+cast	Rachel Stanley	Ensemble 'Lovely Ladies' / Ensemble Wedding Dancer
+cast	Nancy Sullivan	Ensemble 'Lovely Ladies'
+cast	Rebecca Sutherland	Ensemble 'Lovely Ladies'
+cast	Tabitha Webb	Ensemble 'Lovely Ladies'
+cast	Gerard Bentall	Ensemble 'Master of the House'
+cast	Tony Bignell	Ensemble 'Master of the House'
+cast	Michael Cahill	Ensemble 'Master of the House'
+cast	Richard Colson	Ensemble 'Master of the House'
+cast	Kerry Ellis	Ensemble 'Master of the House'
+cast	Simon Fisher-Becker	Ensemble 'Master of the House'
+cast	Sarah Flind	Ensemble 'Master of the House'
+cast	Kelly-Anne Gower	Ensemble 'Master of the House'
+cast	James Greene	Ensemble 'Master of the House'
+cast	Nick Holder	Ensemble 'Master of the House'
+cast	Chris Howell	Ensemble 'Master of the House'
+cast	Alison Jiear	Ensemble 'Master of the House'
+cast	Terry Keely	Ensemble 'Master of the House'
+cast	Martin Marquez	Ensemble 'Master of the House'
+cast	Sally Mates	Ensemble 'Master of the House'
+cast	Jeff Nicholson	Ensemble 'Master of the House'
+cast	Adam Searles	Ensemble 'Master of the House'
+cast	Simon Shorten	Ensemble 'Master of the House'
+cast	Juliet Alderice	Ensemble Paris Beggar
+cast	Sean Buckley	Ensemble Paris Beggar
+cast	Valerie Cutko	Ensemble Paris Beggar
+cast	Spike Grimsey	Ensemble Paris Beggar
+cast	Matt Harrop	Ensemble Paris Beggar
+cast	Georgina Jackson	Ensemble Paris Beggar
+cast	Perry Millward	Ensemble Paris Beggar
+cast	Philip Philmar	Ensemble Paris Beggar
+cast	Joyce Springer	Ensemble Paris Beggar
+cast	Julie Stark	Ensemble Paris Beggar
+cast	Dominic Applewhite	Ensemble Student
+cast	Matthew Corner	Ensemble Student
+cast	Andy Coxon	Ensemble Student
+cast	Jonathan Dudley	Ensemble Student
+cast	Rhidian Marc	Ensemble Student
+cast	Chris Milford	Ensemble Student
+cast	Jamie Muscato	Ensemble Student
+cast	Joseph Peters	Ensemble Student
+cast	David Roberts	Ensemble Student
+cast	Stevee Davies	Ensemble Student
+cast	Jonny Purchase	Ensemble Student
+cast	Matt Seadon Young	Ensemble Student
+cast	Jos Slovick	Ensemble Student
+cast	Samuel J. Weir	Ensemble Student
+cast	Sophie Hutchinson	Ensemble Turning Woman
+cast	Ella Hunt	Ensemble Turning Woman
+cast	Claire Machin	Ensemble Turning Woman
+cast	Brenda Moore	Ensemble Turning Woman
+cast	Mischa Purnell	Ensemble Turning Woman
+cast	Annette Yeo	Ensemble Turning Woman
+cast	Josephine Darvill-Mills	Ensemble Wedding Dancer
+cast	Jennifer Essex	Ensemble Wedding Dancer
+cast	Vicky Evans	Ensemble Wedding Dancer
+cast	Edward Lewis French	Ensemble Wedding Dancer
+cast	Nigel Garton	Ensemble Wedding Dancer
+cast	Lynn Jezzard	Ensemble Wedding Dancer
+cast	Nicholas Keegan	Ensemble Wedding Dancer
+cast	Steve Kirkham	Ensemble Wedding Dancer
+cast	Vanessa Lee Hicks	Ensemble Wedding Dancer
+cast	Ian Parsons	Ensemble Wedding Dancer
+cast	Gemma Payne	Ensemble Wedding Dancer
+cast	Clinten Pearce	Ensemble Wedding Dancer
+cast	Claire Piquemal	Ensemble Wedding Dancer
+cast	Aaron Sillis	Ensemble Wedding Dancer
+cast	Ian Waller	Ensemble Wedding Dancer
+cast	Ryan Edwards	French Soldier
+cast	Dee Bradley Baker	Person at Inn
+cast	Ellie Beaven	Mother
+cast	Adebayo Bolaji	Sailor
+cast	Pablo Bubar	Coffee Merchant
+cast	Nathanjohn Carter	French Grenadier
+cast	James Charlton	
+cast	Jean-Marc Chautems	Beggar
+cast	Robert Clayton	Sailor
+cast	Gioacchino Jim Cuffaro	Beggar
+cast	Richard Dalton	Cart Driver in Tavern
+cast	Sophie Ellis	Barricade Protester
+cast	Ian Floodgate	Sailor
+cast	Harry Goff	Student
+cast	Shonn Gregory	Soldier
+cast	Ignacio Guirado	Sailor
+cast	Kenton Hall	Inn Customer / Groom
+cast	John W.G. Harley	Upper Class Protester
+cast	Matthew David Hearn	Policeman
+cast	Richard Herdman	Sailor
+cast	Matt Hookings	French Grenadier
+cast	Aisling Hughes	Citizen
+cast	Oliver Jackson	Camp Customer
+cast	Romeo Julio	Revolutionary / Soldier
+cast	Les Kenny-Green	Drum Major
+cast	Konstantine Kurelias	Soldier
+cast	Lily Laight	Turning Girl
+cast	Aurel Lazar	Soldier
+cast	Daniel Leatherdale	Parisian
+cast	Victoria Ley	Chorus Beggar
+cast	Ben Mansbridge	Constable No 3
+cast	Martyn Mayger	Convict in Courtroom
+cast	Martyn Moore	Wealthy Gentleman Court Room
+cast	Finn Morrell	Soldier
+cast	David Morris	Soldier Drummer
+cast	Adam Nowell	Revolutionary Student
+cast	Meaghan O'Neill	Factory Worker
+cast	Vanessa Page	Creamery Shop Owner
+cast	Gino Picciano	Upper Class Gentleman
+cast	Martin Poole	Policeman
+cast	Andy Sanderson	Marius' Doctor
+cast	Julian Seager	Factory Foreman
+cast	Nick Shaw	Soldier Drummer
+cast	Ben Steele	Prisoner
+cast	Karol Steele	Disapproving Factory Woman
+cast	Rachael Stevens	Wedding Guest
+cast	Scott Stevenson	Ensemble 'Look Down'
+cast	Bob Stott	Chorus Beggar
+cast	Kate Sweeney	Singer
+cast	Julie Vollono	Parisian
+cast	Anthony Webster	Beggar
+cast	Josh Wichard	French Grenadier / Undercover Policeman
+cast	Evie Wray	Lovely Lady
+cast	Ondra Zelary	Student

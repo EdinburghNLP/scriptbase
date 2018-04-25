@@ -1,0 +1,476 @@
+year	1992
+imdb score	7.7
+meta score	72
+genre	Biography
+genre	Drama
+genre	History
+keyword	jail
+keyword	african american
+keyword	ku klux klan
+keyword	nation of islam
+keyword	gangster
+keyword	islam
+keyword	religion
+keyword	crying
+keyword	kennedy assassination
+keyword	bedford stuyvesant brooklyn new york city
+keyword	murder
+keyword	flashback
+keyword	1960s
+keyword	racial prejudice
+keyword	tough guy
+keyword	black director
+keyword	brooklyn new york city
+keyword	hustler
+keyword	conspiracy
+keyword	surveillance
+keyword	1940s
+keyword	human rights
+keyword	shot multiple times
+keyword	urban decay
+keyword	glasses
+keyword	assassin
+keyword	racial segregation
+keyword	death threat
+keyword	assassination
+keyword	resentment
+keyword	new york city
+keyword	self discovery
+keyword	blood
+keyword	convertible
+keyword	rise to power
+keyword	black independent film
+keyword	epic
+keyword	hate
+keyword	crusade
+keyword	black boy
+keyword	streetcar
+keyword	prison
+keyword	black filmmaker
+keyword	fight the system
+keyword	affection
+keyword	cult film
+keyword	racist
+keyword	controversy
+keyword	1930s
+keyword	love
+keyword	political activist
+keyword	1920s
+keyword	shot in the leg
+keyword	criminal
+keyword	written and directed by cast member
+keyword	racial identity
+keyword	ex con
+keyword	beating
+keyword	two word title
+keyword	religious conversion
+keyword	harlem manhattan new york city
+keyword	black power
+keyword	tragic hero
+keyword	racial intolerance
+keyword	hatred
+keyword	sadness
+keyword	shotgun
+keyword	politics
+keyword	death
+keyword	confrontation
+keyword	racial discrimination
+keyword	black white relations
+keyword	violence
+keyword	police
+keyword	racial injustice
+keyword	main character dies
+keyword	anger
+keyword	racism
+keyword	based on autobiography
+keyword	john f kennedy
+keyword	multiple time frames
+keyword	civil rights movement
+keyword	compassion
+keyword	mecca south africa
+keyword	shot in the chest
+keyword	black history
+keyword	death of protagonist
+keyword	shot in the arm
+keyword	tears
+keyword	racial tension
+keyword	interracial relationship
+keyword	black american
+keyword	train
+keyword	husband wife relationship
+keyword	manhattan new york city
+keyword	redemption
+keyword	penitentiary
+keyword	loss of husband
+keyword	civil rights
+keyword	anti racism
+keyword	police brutality
+keyword	beach
+keyword	intolerance
+keyword	race relations
+keyword	rage
+keyword	michael jordan
+keyword	racial slur
+keyword	pistol
+keyword	flag burning
+keyword	inner city
+keyword	usa flag
+keyword	black activist
+keyword	african american protagonist
+keyword	main character shot
+keyword	rodney king incident
+keyword	directed by co star
+keyword	black militant
+keyword	shot to death
+keyword	death of title character
+keyword	nelson mandela
+keyword	black radicalism
+keyword	racial violence
+keyword	solitary confinement
+keyword	1950s
+keyword	man with glasses
+keyword	based on novel
+keyword	independent film
+keyword	character name in title
+keyword	title spoken by character
+keyword	
+cast	Denzel Washington	Malcolm X
+cast	Angela Bassett	Dr. Betty Shabazz
+cast	Albert Hall	Baines
+cast	Al Freeman Jr.	Elijah Muhammad
+cast	Delroy Lindo	West Indian Archie
+cast	Spike Lee	Shorty
+cast	Theresa Randle	Laura
+cast	Kate Vernon	Sophia
+cast	Lonette McKee	Louise Little
+cast	Tommy Hollis	Earl Little
+cast	James McDaniel	Brother Earl
+cast	Ernest Thomas	Sidney
+cast	Jean-Claude La Marre	Benjamin 2X
+cast	O.L. Duke	Pete
+cast	Larry McCoy	Sammy
+cast	Maurice Sneed	Cadillac
+cast	Debi Mazar	Peg
+cast	Phyllis Yvonne Stickney	Honey
+cast	Scot Anthony Robinson	Daniel
+cast	Sonny Jim Gaines	Cholly
+cast	Joe Seneca	Toomer
+cast	LaTanya Richardson	Lorraine
+cast	Wendell Pierce	Ben Thomas
+cast	Michael Guess	William X
+cast	Leland Gantt	Wilbur Kinley
+cast	Giancarlo Esposito	Thomas Hayer
+cast	Leonard L. Thomas	Leon Davis
+cast	Roger Guenveur Smith	Rudy
+cast	Craig Wasson	TV Host
+cast	Graham Brown	Dr. Payson
+cast	Gerica Cox	Eva Marie
+cast	Kristan Rai Segure	Saudi
+cast	Lauren Padick	Lisha
+cast	Danielle Fletcher	Attalah
+cast	Robinson Frank Adu	Chuck
+cast	Aleta Mitchell	Sister Robin
+cast	Curt Williams	Mr. Cooper
+cast	John Ottavino	Blades
+cast	John Reidy	Simmons
+cast	Frances Foster	Woman Outside Audubon Ballroom
+cast	Reggie Montgomery	Dick Jones
+cast	David Patrick Kelly	Mr. Ostrowski
+cast	Gary L. Catus	Doctor
+cast	Sharon Washington	Augusta
+cast	Shirley Stoler	Mrs. Swerlin
+cast	Oran 'Juice' Jones	Hustler
+cast	Ricky Gordon	Lionel Hampton
+cast	George Lee Miles	Preacher
+cast	Raye Dowell	Sister Evelyn Williams
+cast	Veronica Webb	Sister Lucille Rosary
+cast	Abdul Salaam El Razzac	Fox
+cast	Keith Randolph Smith	Brother Gene
+cast	George Guidall	Mr. Holway
+cast	James L. Swain	Conductor
+cast	Peewee Love	Speedy
+cast	Lawrence James	Tully
+cast	Steve White	Brother Johnson
+cast	K. Smith	Roderick
+cast	Christopher Rubin	Sophia's Husband
+cast	Matthew Harris	Malcolm - 5 Years
+cast	Zakee Howze	Young Malcolm
+cast	Cytia Fontenette	Hilda - 3 Years
+cast	Marlaine Bass	Hilda - 8 Years
+cast	Benjamin Atwell	Philbert - 1 Year
+cast	Peter Dunn	Philbert - 6 Years
+cast	Dion Smack Jr.	Reginald - 2 Years
+cast	Darnell Smith	Elijah Muhammad's Grandson
+cast	TaiNesha Scott	Elijah Muhammad's Granddaughter
+cast	Chelsea Counts	Yvonne - 6 Months
+cast	Chela Counts	Yvonne - 6 Months
+cast	Natalie Clanton	Yvonne - 1 Year
+cast	Jessica Givens	Attalah
+cast	LaToyah Bigelow	Qubillah - 3 Years
+cast	Martaleah Jackson	Ilyasah - 2 and 3 Years
+cast	Tamaraleah Jackson	Ilyasah - 2 and 3 Years
+cast	Jasmine Smith	Ilyasah - 2 and 3 Years
+cast	Valentino Smith	Wilfred - 4 Years
+cast	David Thomas Jr.	Wilfred - 8 Years
+cast	Simon Do-Ley	Son of Elijah Muhammad and Secretary Evelyn Williams
+cast	Bill Goldberg	The 'John'
+cast	Jonathan Peck	Man at Phone
+cast	Leonard Parker	Jason
+cast	Lennis Washington	Mrs. Johnson
+cast	Dyan Humes	Maid at Open Air Market
+cast	Lizbeth MacKay	White Woman at Market
+cast	Terry Layman	CIA Agent
+cast	Terry Sumter	CIA Agent
+cast	Jasper McGruder	Hotel Clerk
+cast	Mary Alice	School Teacher
+cast	Wyatt Tee Walker	Hospital Spokesperson
+cast	Hazel Medina	Cashier Person
+cast	Wendy E. Taylor	Numbers Woman
+cast	Ed Herlihy	Joe Louis Announcer
+cast	Ralph Cooper Sr.	Radio Announcer
+cast	Christian J. Dacosta	Passerby
+cast	Karen Duffy	Sophia's Friend
+cast	Walter Jones	Barber's Customer
+cast	Marc Phillips	Photographer
+cast	Showman Uneke	Hustler at Grand Central Station
+cast	Theara Ward	Moviegoer
+cast	Larry M. Cherry	Prison Barber
+cast	Clebert Ford	Barber
+cast	Grafton Trew	Barber
+cast	Rogers Simon	Barber
+cast	George T. Odom	Barber
+cast	Vincent Moscaritola	Prison Guard
+cast	Larry Attile	Guard Baines
+cast	Brendan Kelly	Guard Cone
+cast	John Griesemer	Guard Wilkins
+cast	Fia Porter	Coed
+cast	Billy J. Mitchell	Man #1
+cast	Kent Jackman	Man #2
+cast	Beatrice Winde	Elderly Woman
+cast	Fracaswell Hyman	Bartender
+cast	Rion Johnson	Shoeshine Boy
+cast	Charles Weldon	Follower at Temple #7
+cast	Mike Hodge	Follower at Temple #7
+cast	Iris Little Thomas	Follower at Temple #7
+cast	Ilyasah Shabazz	Follower at Temple #7
+cast	Bahni Turpin	Follower at Temple #7
+cast	Aaron Blackshear	Student in Harlem Classroom
+cast	Nilyne Fields	Student in Harlem Classroom
+cast	John David Washington	Student in Harlem Classroom
+cast	Rudi Bascomb	Student in Harlem Classroom
+cast	Muhammad Parks	Student in Harlem Classroom
+cast	Chinere Parry	Student in Harlem Classroom
+cast	Ian Quiles	Student in Harlem Classroom
+cast	Sharmeek Martinez	Student in Harlem Classroom
+cast	Chuck Cooper	Customer
+cast	Damon Chandler	Customer
+cast	Shellye Broughton	Customer
+cast	Nicholas Barnwell	Customer
+cast	Sam Dixon	Customer
+cast	Barbara Smith	Customer
+cast	Rome Neal	Prisoner
+cast	Earl Whitted	Prisoner
+cast	Michael C. Mahon	Prisoner
+cast	Addison Cook	Prisoner
+cast	Byron Utley	Prisoner
+cast	George Rafferty	Harrington
+cast	Maxwell Sinovoi	Prisoner
+cast	Eric Sharp	Prisoner
+cast	Stewart J. Zully	TV Reporter
+cast	Colleen Cowan	TV Reporter
+cast	Armand Schultz	TV Reporter
+cast	Reade Kelly	TV Reporter
+cast	Janet Zarish	TV Reporter
+cast	Annie Corley	TV Reporter
+cast	Stephen James	TV Reporter
+cast	Steven Randazzo	TV Reporter
+cast	Chris Skutch	TV Reporter
+cast	William Swinton	TV Reporter
+cast	Marcus Naylor	TV Reporter
+cast	Anthony Nocerino	TV Reporter
+cast	Gareth Williams	JFK Reporter
+cast	Stephen Hanan	JFK Reporter
+cast	Richard Schiff	JFK Reporter
+cast	David Berman	JFK Reporter
+cast	Michael Imperioli	Reporter at Fire Bombing
+cast	Steve Stapenhorst	Reporter at Fire Bombing
+cast	Arthur French	Pullman Porter
+cast	Lex Monson	Pullman Porter
+cast	Judd Jones	Pullman Porter
+cast	C.E. Smith	Fountain Waiter
+cast	Erika Smith-Brown	Waitress
+cast	Raymond Anthony Thomas	Crowd Member
+cast	Delilah Picart	Crowd Member
+cast	Michael Ralph	Crowd Member
+cast	Monique Cintron	Hooker
+cast	Jake-Ann Jones	Hooker
+cast	Sharon Ferguson	Hooker / Roseland Dancer
+cast	Amelia Mimi Walker	Hooker
+cast	Neisha Folkes-LeMelle	Hooker
+cast	Karen Michaels	Hooker
+cast	Lenore Pemberton	Hooker
+cast	Elise Neal	Hooker
+cast	Felicia Wilson	Hooker
+cast	Yvette Brooks	Hooker
+cast	Teresa Yvon Farley	Young Hooker
+cast	Kiki Della Vecchia	Teenage Whore
+cast	John Sayles	FBI Agent
+cast	Martin Donovan	FBI Agent
+cast	Jay Charbonneau	Cop at Audubon
+cast	Joe Pentangelo	Mounted Police
+cast	Mike Farley	Mounted Police
+cast	Nick Muglia	Mounted Police
+cast	David Reilly	Mounted Police
+cast	Nicholas Turturro	Boston Cop
+cast	James Murtaugh	Cop at Harlem Station
+cast	William Fichtner	Cop at Harlem Station
+cast	Tim Kelleher	Cop at Harlem Station
+cast	Michael Cullen	Desk Sergeant
+cast	James MacDonald	Lieutenant
+cast	Steve Aronson	Black Legion Leader
+cast	Bill Anagnos	Black Legion Member
+cast	Don Hewitt	Black Legion Member
+cast	Jery Hewitt	Black Legion Member
+cast	Joe Fitos	KKK Member
+cast	Manny Siverio	KKK Member
+cast	Jack P. Mclaughlin	KKK Member
+cast	Shaun O'Neil	KKK Member
+cast	Andy Duppin	KKK Member
+cast	Elmer Licciardello	KKK Member
+cast	Matthew Underwood	DJ at the Harlem 'Y' Dance
+cast	Renton Kirk	DJ at the Harlem 'Y' Dance
+cast	Tim Hutchinson	Fruit of Islam
+cast	Andre Blair	Fruit of Islam
+cast	Abdul Hakeem Hijrah	Fruit of Islam
+cast	Rony Clanton	Fruit of Islam
+cast	Scott Whitehurst	Malcolm's FOI
+cast	Eric Payne	Malcolm's FOI
+cast	Ali A. Wahhab	Malcolm's FOI
+cast	Terry Hodges	Malcolm's FOI
+cast	Kevan Gibbs	Malcolm's FOI
+cast	Dana Hubbard	Malcolm's FOI
+cast	David Reivers	Elijah Muhammad's FOI
+cast	Robert Jason	Elijah Muhammad's FOI
+cast	Kevin Rock	Elijah Muhammad's FOI
+cast	Mansoor Najeeullah	Elijah Muhammad's FOI
+cast	Dion Graham	Elijah Muhammad's FOI
+cast	Zaahir Muhammad	Elijah Muhammad's FOI
+cast	Gregory Bargeman	Elijah Muhammad's FOI
+cast	Lee Summers	Elijah Muhammad's FOI
+cast	Rich Gordon	Elijah Muhammad's FOI
+cast	Larry Rushing	Elijah Muhammad's FOI
+cast	Monty Ross	MC - Roseland
+cast	Eddie Davis	Lionel Hampton Band - Trumpet
+cast	Reggie Pittman	Lionel Hampton Band - Trumpet
+cast	Patrick Rickman	Lionel Hampton Band - Trumpet
+cast	Gerald Brazel	Lionel Hampton Band - Trumpet
+cast	Clack Gaton	Lionel Hampton Band - Trombone
+cast	Richard Owens	Lionel Hampton Band - Trombone
+cast	Douglas Purviance	Lionel Hampton Band - Trombone
+cast	Mark Gross	Lionel Hampton Band - Alto Saxophone
+cast	Cleave Guyton Jr.	Lionel Hampton Band - Alto Saxophone
+cast	Javon Jackson	Lionel Hampton Band - Tenor Saxophone
+cast	Lance Bryant	Lionel Hampton Band - Tenor Saxophone
+cast	Daniel Lemelle	Lionel Hampton Band - Baritone Saxophone
+cast	David Fludd	Lionel Hampton Band- Piano
+cast	Marcus Lauper	Lionel Hampton Band - Bass
+cast	Dwayne Cook Broadnax	Lionel Hampton Band - Drums
+cast	Preston Vismale	Lionel Hampton Band - Music Assistant
+cast	Miki Howard	Billie Holiday Quartet - Billie Holiday
+cast	Terence Blanchard	Billie Holiday Quartet - Trumpet
+cast	Bruce David Barth	Billie Holiday Quartet - Piano
+cast	Rodney Whitaker	Billie Holiday Quartet - Bass
+cast	William E. Kilson	Billie Holiday Quartet - Drums
+cast	Sonny Allen	Roseland Dancer
+cast	Vanessa Benton	Roseland Dancer
+cast	Cheryl Burr	Roseland Dancer
+cast	Leslie Dockery	Roseland Dancer
+cast	Cisco Drayton	Roseland Dancer
+cast	Byron Easley	Roseland Dancer
+cast	John Elejaide	Roseland Dancer
+cast	Debra Elkins	Roseland Dancer
+cast	Gina Ellis	Roseland Dancer
+cast	John Festa	Roseland Dancer
+cast	Robert H. Fowler III	Roseland Dancer
+cast	Ryan Francois	Roseland Dancer
+cast	Phillip Gilmore	Roseland Dancer
+cast	Jauquette Green	Roseland Dancer
+cast	Wendy King	Roseland Dancer
+cast	Jerome Jamal Hardeman	Roseland Dancer
+cast	Dawn Hampton	Roseland Dancer
+cast	Monique Harcum	Roseland Dancer
+cast	Raymond Harris	Roseland Dancer
+cast	Delphine T. Mantz	Roseland Dancer
+cast	Bernard Marsh	Roseland Dancer
+cast	Greta Martin	Roseland Dancer
+cast	Norma Miller	Roseland Dancer
+cast	Frances Morgan	Roseland Dancer
+cast	John Parks	Roseland Dancer
+cast	Greg Poland	Roseland Dancer
+cast	Judine Hawkins Richard	Roseland Dancer
+cast	Eartha Robinson	Roseland Dancer
+cast	Michelle Robinson	Roseland Dancer
+cast	Traci Robinson	Roseland Dancer
+cast	Ken Leigh Rogers	Roseland Dancer
+cast	Eddie Sanabria	Roseland Dancer
+cast	Eddie Shellman	Roseland Dancer
+cast	Lynn Sterling	Roseland Dancer
+cast	Keith Thomas	Roseland Dancer
+cast	Debbie Williams	Roseland Dancer
+cast	Charles Young	Roseland Dancer
+cast	Anthony Dewitt	Roseland Dancer
+cast	Cynthia Thomas	Shorty's Dance Partner
+cast	Sharon Brooks	Skeleton Crew Dancer
+cast	Laurieann Gibson	Skeleton Crew Dancer
+cast	El Tahara Ibrahim	Skeleton Crew Dancer
+cast	Keith Lewis	Skeleton Crew Dancer
+cast	Dereque Whithurs	Skeleton Crew Dancer
+cast	Steve Reed	John F. Kennedy
+cast	Jodie Farber	Jackie Kennedy
+cast	Randy Means	Governor Connally
+cast	Columbia Dubose	Nellie Connally
+cast	Vincent D'Onofrio	Bill Newman
+cast	Cliff Cudney	Limo Driver
+cast	George Marshall Ruge	Secret Service Man
+cast	Bobby Seale	Speaker #1
+cast	Al Sharpton	Speaker #2
+cast	Christopher Plummer	Chaplain Gill
+cast	Karen Allen	Miss Dunne
+cast	Peter Boyle	Captain Green
+cast	William Kunstler	The Judge
+cast	Nelson Mandela	Soweto Teacher
+cast	Ossie Davis	Eulogy Performer
+cast	Ralph Abernathy	Himself - Behind King and Malcolm
+cast	Michael Albanese	Harvard Law Student
+cast	Muhammad Ali	Himself - Handshake with Malcolm
+cast	Ashanti	Student in Harlem Classroom
+cast	John D. Bair	Bartender
+cast	John Carlos	Himself - Giving Black Power Salute at Olympics
+cast	Tracy Chapman	Herself - at End of Credits
+cast	Eugene 'Bull' Connor	Himself - with Dark Hat
+cast	Bill Cosby	Himself - at End of Credits
+cast	Angela Davis	Himself - Giving Black Power Salute at Olympics
+cast	James Farmer	Himself - Behind King and Young
+cast	Mark Gorham	Police Chief's Driver
+cast	Janet Jackson	Herself - at End of Credits
+cast	Jesse Jackson	Himself
+cast	Joe James	Shooter
+cast	Magic Johnson	Himself - at End of Credits
+cast	Michael Jordan	Himself - at End of Credits
+cast	John F. Kennedy	Himself - Funeral Procession
+cast	Martin Luther King	Himself
+cast	Rodney King	Himself - Impaired Driver Beaten by LAPD Officers
+cast	Joe Louis	Himself - After Fight with Billy Conn
+cast	Willie Mays	Himself
+cast	Charles Mitchell	Prison Inmate
+cast	Peter Norman	Himself - Silver Medallist with Smith and Carlos
+cast	Jackie Robinson	Himself
+cast	Betty Shabazz	Herself - at Graveside
+cast	Tommie Smith	Himself - Giving Black Power Salute at Olympics
+cast	Irapaul Turner	Malcolm's FOI
+cast	George Wallace	Himself - Opposing Integration of University of Alabama
+cast	Sonya Wallace	Crowd Member
+cast	Roy Wilkins	Himself - 'Isn't It a Great Day' Speech
+cast	Timothy Wind	Himself - LAPD Officer Bashing Rodney King
+cast	Malcolm X	Himself
+cast	Andrew Young	Himself - with King

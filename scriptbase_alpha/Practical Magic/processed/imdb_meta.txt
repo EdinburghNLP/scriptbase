@@ -1,0 +1,83 @@
+year	1998
+imdb score	6.0
+meta score	46
+genre	Comedy
+genre	Fantasy
+genre	Romance
+keyword	love
+keyword	curse
+keyword	magic
+keyword	family curse
+keyword	aunt niece relationship
+keyword	bullying
+keyword	female protagonist
+keyword	beetle
+keyword	mother daughter relationship
+keyword	witch
+keyword	sister sister relationship
+keyword	loyalty
+keyword	potion
+keyword	reanimated corpse
+keyword	redhead
+keyword	girl
+keyword	omen
+keyword	ghost
+keyword	young version of character
+keyword	loss of father
+keyword	hereditary gift of witchcraft
+keyword	family relationships
+keyword	drunkenness
+keyword	witchcraft
+keyword	magic potion
+keyword	female bonding
+keyword	depression
+keyword	pancake
+keyword	barefoot
+keyword	spell
+keyword	cult film
+keyword	accidental killing
+keyword	lisp
+keyword	singing in a car
+keyword	small town
+keyword	loss of mother
+keyword	eyes different color
+keyword	possession
+keyword	abusive boyfriend
+keyword	hit by a bus
+keyword	sheriff
+keyword	loss of husband
+keyword	chick flick
+keyword	based on novel
+cast	Sandra Bullock	Sally Owens
+cast	Nicole Kidman	Gillian Owens
+cast	Stockard Channing	Aunt Frances
+cast	Dianne Wiest	Aunt Jet
+cast	Goran Visnjic	Jimmy Angelov
+cast	Aidan Quinn	Gary Hallet
+cast	Evan Rachel Wood	Kylie
+cast	Alexandra Artrip	Antonia
+cast	Mark Feuerstein	Michael
+cast	Caprice Benedetti	Maria Owens
+cast	Annabella Price	Lovelorn Lady
+cast	Camilla Belle	Sally @ Age 11
+cast	Lora Anne Criswell	Gillian @ Age 10
+cast	Margo Martindale	Linda Bennett
+cast	Chloe Webb	Carla
+cast	Martha Gehman	Patty
+cast	Lucinda Jenney	Sara
+cast	Cordelia Richards	Nan
+cast	Mary Gross	Debbie
+cast	Jack Kirschke	Old Man Wilkes
+cast	Herta Ware	Old Lady Wilkes
+cast	Ellen Geer	Pharmacist
+cast	Courtney Dettrich	Young Sara
+cast	John McLeod	Puritan Minister
+cast	Trevor Duncan	Sara's Boy
+cast	Colby Cochran	Ice Cream Boy
+cast	Caitlyn Holley	Ice Cream Girl
+cast	Ken Serratt Jr.	Lovelorn's Lover
+cast	Rich Sickler	Dwight
+cast	Jeanne Robinson	PTC Mom #1
+cast	Deborah Kancher	PTC Mom #2
+cast	Peter Shaw	Jack
+cast	Caralyn Kozlowski	Regina

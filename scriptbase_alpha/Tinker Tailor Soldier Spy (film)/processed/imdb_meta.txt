@@ -1,0 +1,111 @@
+year	2011
+imdb score	7.1
+meta score	85
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	hungary
+keyword	intelligence
+keyword	mole
+keyword	spy
+keyword	cold war
+keyword	1970s
+keyword	budapest hungary
+keyword	bullet
+keyword	torture
+keyword	very little dialogue
+keyword	wound
+keyword	briefcase
+keyword	spying
+keyword	school
+keyword	bird loose in classroom
+keyword	breastfeeding mother killed by stray bullet
+keyword	chess piece
+keyword	forced retirement
+keyword	f word
+keyword	shower
+keyword	woman battered
+keyword	cultural attaché
+keyword	game of squash
+keyword	istanbul turkey
+keyword	assassination by sniper
+keyword	swimming
+keyword	domestic violence
+keyword	alvis car
+keyword	betrayal by friend
+keyword	shot dead
+keyword	double agent
+keyword	woman on top
+keyword	trust
+keyword	may day parade
+keyword	man with glasses
+keyword	male nudity
+keyword	adultery
+keyword	divorce
+keyword	interrogation
+keyword	caravan
+keyword	british secret intelligence service
+keyword	british spy
+keyword	eye test
+keyword	male frontal nudity
+keyword	surveillance
+keyword	school teacher
+keyword	murder
+keyword	bathtub
+keyword	shot in the head
+keyword	white noise torture
+keyword	photographing secret documents
+keyword	radio equipment
+keyword	party
+keyword	based on novels
+keyword	husband wife relationship
+keyword	based on novel
+cast	Mark Strong	Jim Prideaux
+cast	John Hurt	Control
+cast	Zoltán Mucsi	Magyar
+cast	Péter Kálloy Molnár	Hungarian Waiter
+cast	Ilona Kassai	Woman in Window
+cast	Imre Csuja	KGB Agent
+cast	Gary Oldman	George Smiley
+cast	Toby Jones	Percy Alleline
+cast	David Dencik	Toby Esterhase
+cast	Ciarán Hinds	Roy Bland
+cast	Colin Firth	Bill Haydon
+cast	Kathy Burke	Connie Sachs
+cast	Benedict Cumberbatch	Peter Guillam
+cast	Stephen Graham	Jerry Westerby
+cast	Arthur Nightingale	Bryant
+cast	Simon McBurney	Oliver Lacon
+cast	Tom Hardy	Ricki Tarr
+cast	Amanda Fairbank-Hynes	Belinda
+cast	Peter O'Connor	Fawn
+cast	Roger Lloyd Pack	Mendel
+cast	Matyelok Gibbs	Mrs. Pope Graham
+cast	Phillip Hill-Pearson	Norman
+cast	Jamie Thomas King	Kaspar
+cast	Stuart Graham	Minister
+cast	Konstantin Khabenskiy	Polyakov
+cast	Sarah Jane Wright	Mary Alleline
+cast	Katrina Vasilieva	Ann Smiley
+cast	Linda Marlowe	Mrs. McCraig
+cast	William Haddock	Bill Roach
+cast	Erksine Wylie	Spikeley
+cast	Philip Martin Brown	Tufty Thesinger
+cast	Tomasz Kowalski	Boris
+cast	Svetlana Khodchenkova	Irina
+cast	Alexandra Salafranca	Turkish Mistress
+cast	Denis Khoroshko	Ivan
+cast	Oleg Dzhabrailov	Sergei
+cast	Gillian Steventon	Listening Woman
+cast	Nick Hopper	Janitor Alwyn
+cast	Laura Carmichael	Sal
+cast	Rupert Procter	Guillam's Boyfriend
+cast	John le Carré	Christmas Party Guest
+cast	Michael Sarne	Voice of Karla
+cast	Christian McKay	Mackelvore
+cast	Jean-Claude Jay	French Man at Residency
+cast	Tom Stuart	Ben
+cast	Peter Bartfay	Hungarian Secret Agent
+cast	Sarah Linda	Miss Robinson
+cast	Nick Shaw	Civil Servant
+cast	Eva Von Mitzka	MI5 Spy

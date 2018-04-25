@@ -1,0 +1,98 @@
+year	2009
+imdb score	6.2
+meta score	61
+genre	Comedy
+genre	Crime
+genre	Romance
+keyword	manufacturing
+keyword	cheating wife
+keyword	husband wife relationship
+keyword	soft drink
+keyword	pot smoking
+keyword	adjustable wrench
+keyword	femme fatale
+keyword	pawnshop
+keyword	funeral
+keyword	555 phone number
+keyword	duped
+keyword	scene during end credits
+keyword	shoplifting
+keyword	pill
+keyword	adultery
+keyword	con woman
+keyword	black eye
+keyword	surprise during end credits
+keyword	infidelity
+keyword	entrepreneur
+keyword	groin injury
+keyword	older woman younger man relationship
+keyword	supermarket
+keyword	slow motion scene
+keyword	lawsuit
+keyword	one word title
+keyword	takeover
+keyword	industrial accident
+keyword	drug dealer
+keyword	bong
+keyword	grave side ceremony
+keyword	hit in the crotch
+keyword	xanax
+keyword	business
+keyword	gigolo
+keyword	drugs
+keyword	pill popping
+keyword	electric guitar
+keyword	bar
+keyword	freak accident
+keyword	lawyer
+keyword	guitar
+keyword	best friend
+keyword	forklift
+keyword	hotel bar
+keyword	music store
+keyword	helicopter
+keyword	bartender
+keyword	motel
+keyword	drug trip
+keyword	small business
+keyword	robbery
+keyword	male prostitute
+keyword	nosy neighbor
+keyword	coffin
+keyword	bell 206 jet ranger helicopter
+keyword	next door neighbor
+keyword	factory worker
+keyword	promotion
+keyword	factory
+keyword	childless couple
+keyword	on the job injury
+keyword	swimming pool
+keyword	con artist
+keyword	title spoken by character
+keyword	
+cast	Jason Bateman	Joel
+cast	Mila Kunis	Cindy
+cast	Kristen Wiig	Suzie
+cast	Ben Affleck	Dean
+cast	J.K. Simmons	Brian
+cast	Clifton Collins Jr.	Step
+cast	Dustin Milligan	Brad
+cast	David Koechner	Nathan
+cast	Beth Grant	Mary
+cast	T.J. Miller	Rory
+cast	Javier Gutierrez	Hector
+cast	Lidia Porto	Gabriella
+cast	Gene Simmons	Joe Adler
+cast	Matt Schulze	Willie
+cast	Lamberto Gutierrez	Victor
+cast	Brent Briscoe	Phil
+cast	Hal Sparks	Guitar Salesman #1
+cast	Nick Thune	Guitar Salesman #2
+cast	Tom Virtue	Guitar Customer
+cast	Christopher Rocha	Pawn Shop Guy
+cast	Jenny O'Hara	Joel's Secretary
+cast	Matthew Williams	Band Member
+cast	Gary Cole	Bar Patron
+cast	Mike Judge	Jim
+cast	Briston Meeney	Bar Patron
+cast	Marilyn Monrovia	Lawyer

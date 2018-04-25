@@ -1,0 +1,196 @@
+year	1987
+imdb score	7.9
+meta score	69
+genre	Comedy
+genre	Horror
+keyword	cabin
+keyword	woods
+keyword	demon
+keyword	book of the dead
+keyword	evil dead
+keyword	book
+keyword	cabin in the woods
+keyword	spirit
+keyword	sequel
+keyword	chainsaw
+keyword	tape recorder
+keyword	shotgun
+keyword	necronomicon
+keyword	eyeball
+keyword	1300s
+keyword	ghost
+keyword	low budget film
+keyword	bridge collapse
+keyword	murder
+keyword	second part
+keyword	chase
+keyword	numbered sequel
+keyword	reverse footage
+keyword	obscene finger gesture
+keyword	blood spatter
+keyword	demonic possession
+keyword	kiss
+keyword	beheading
+keyword	loss of son
+keyword	piano
+keyword	nightmare
+keyword	blood
+keyword	undead
+keyword	h.p. lovecraft
+keyword	portal
+keyword	1990s
+keyword	memory
+keyword	black blood
+keyword	basement
+keyword	hand cut off
+keyword	head blown off
+keyword	shot through a wall
+keyword	exploding head
+keyword	pixelation
+keyword	stabbed in the back
+keyword	dancer
+keyword	hillbilly
+keyword	sex
+keyword	stabbed in the chest
+keyword	sawed off shotgun
+keyword	gore
+keyword	dismemberment
+keyword	spoof
+keyword	epic
+keyword	absurd violence
+keyword	storm
+keyword	thunderstorm
+keyword	book of evil
+keyword	part stop motion
+keyword	20th century
+keyword	trophy animal
+keyword	eye gouging
+keyword	falling from height
+keyword	horror spoof
+keyword	good versus evil
+keyword	haunting
+keyword	warrior
+keyword	over the top
+keyword	fog
+keyword	psychotronic
+keyword	cellar
+keyword	stabbed in the eye
+keyword	cult director
+keyword	acclaimed a hero
+keyword	levitation
+keyword	decapitation
+keyword	animate tree
+keyword	tree
+keyword	head in a vise
+keyword	critically acclaimed
+keyword	tourist
+keyword	deer
+keyword	black comedy
+keyword	cult film
+keyword	tarmac
+keyword	violence
+keyword	car falling from the sky
+keyword	vortex
+keyword	voice over narration
+keyword	hallucination
+keyword	evil spirit
+keyword	tornado
+keyword	self strangulation
+keyword	three word title
+keyword	falling down stairs
+keyword	roman numeral in title
+keyword	fireplace
+keyword	gross out comedy
+keyword	severed hand
+keyword	store
+keyword	rocking chair
+keyword	bathroom
+keyword	attacked by a plant
+keyword	shot in the arm
+keyword	loss of parents
+keyword	14th century
+keyword	tragic love
+keyword	splatter
+keyword	song
+keyword	one liner
+keyword	tongue in cheek
+keyword	castle
+keyword	disembodied hand
+keyword	husband wife relationship
+keyword	cult figure
+keyword	axe
+keyword	dagger
+keyword	skeleton
+keyword	oldsmobile
+keyword	demonic undead
+keyword	kitchen
+keyword	self mutilation
+keyword	dance
+keyword	shovel
+keyword	head cut in half
+keyword	green blood
+keyword	reanimated corpse
+keyword	supernatural horror
+keyword	shallow grave
+keyword	anti hero
+keyword	cult film
+keyword	boyfriend girlfriend relationship
+keyword	bloodbath
+keyword	possession
+keyword	severed head
+keyword	surrealism
+keyword	forest
+keyword	1980s
+keyword	monster
+keyword	knocked unconscious
+keyword	brother sister relationship
+keyword	stop motion scene
+keyword	avant garde
+keyword	curse
+keyword	backwoods
+keyword	mirror
+keyword	cutting off own hand
+keyword	romantic song
+keyword	dead lady dancing
+keyword	hair pulling
+keyword	time travel
+keyword	bloodshed
+keyword	harpy
+keyword	airplane
+keyword	reanimation
+keyword	knight
+keyword	dark fantasy
+keyword	american horror
+keyword	archeology
+keyword	rat
+keyword	pendant
+keyword	fighting with self
+keyword	severed arm
+keyword	mousetrap
+keyword	sadism
+keyword	meat cleaver
+keyword	loss of motor control
+keyword	sprayed with blood
+keyword	stabbing
+keyword	independent film
+keyword	number in title
+keyword	surprise ending
+cast	Bruce Campbell	Ashley 'Ash' J. Williams
+cast	Sarah Berry	Annie Knowby
+cast	Dan Hicks	Jake
+cast	Kassie Wesley DePaiva	Bobby Joe
+cast	Ted Raimi	Possessed Henrietta
+cast	Denise Bixler	Linda
+cast	Richard Domeier	Ed Getley
+cast	John Peakes	Professor Raymond Knowby
+cast	Lou Hancock	Henrietta Knowby
+cast	Snowy Winters	Dancer
+cast	Sid Abrams	Fake Shemp
+cast	Josh Becker	Fake Shemp
+cast	Scott Spiegel	Fake Shemp
+cast	Thomas Kidd	Fake Shemp
+cast	Mitch Cantor	Fake Shemp
+cast	Jenny Griffith	Fake Shemp
+cast	William Preston Robertson	The Hand / The Dark Spirit / The Deer Head / The Enchanted Objects
+cast	Tony Elwood	Luggage Monkey
+cast	Sam Raimi	Medieval Soldier

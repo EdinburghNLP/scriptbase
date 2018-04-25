@@ -1,0 +1,205 @@
+year	1995
+imdb score	5.5
+meta score	39
+genre	Action
+genre	Crime
+genre	Sci-Fi
+genre	Thriller
+keyword	virtual reality
+keyword	serial killer
+keyword	ex cop
+keyword	android
+keyword	shiv
+keyword	shot in the chest
+keyword	death of daughter
+keyword	subway
+keyword	bach's toccata and fugue
+keyword	regeneration
+keyword	thrown through a window
+keyword	poison
+keyword	corpse
+keyword	woman in bra and panties
+keyword	electrocution
+keyword	cigarette smoking
+keyword	fragments of glass
+keyword	nanotechnology
+keyword	explosion
+keyword	poetic justice
+keyword	hairy chest
+keyword	prison
+keyword	chase
+keyword	hologram
+keyword	motel
+keyword	filmed killing
+keyword	held at gunpoint
+keyword	camera
+keyword	lapd
+keyword	insanity
+keyword	death of wife
+keyword	male rear nudity
+keyword	japanese restaurant
+keyword	cyberpunk
+keyword	flashback
+keyword	cemetery
+keyword	punched in the face
+keyword	homophobic overtones
+keyword	snake
+keyword	body scanner
+keyword	machine gun
+keyword	hostage
+keyword	kicked in the face
+keyword	los angeles california
+keyword	car chase
+keyword	evil computer
+keyword	stolen police car
+keyword	shootout
+keyword	video screen
+keyword	masochism
+keyword	terrorist
+keyword	sadist
+keyword	slow motion scene
+keyword	falling to death
+keyword	prison fight
+keyword	shot in the forehead
+keyword	shotgun
+keyword	simulation
+keyword	violence
+keyword	stomping on someone's hand
+keyword	kidnapping
+keyword	reference to charles manson
+keyword	tv studio
+keyword	kicking in a door
+keyword	metamorphosis
+keyword	implant
+keyword	murder of family
+keyword	dismemberment
+keyword	booby trap
+keyword	writing in blood
+keyword	raised middle finger
+keyword	punched in the stomach
+keyword	neck breaking
+keyword	nightclub
+keyword	shot in the hand
+keyword	severed leg
+keyword	chess
+keyword	nanomachine
+keyword	falling from height
+keyword	lifted by the throat
+keyword	shot to death
+keyword	gay actor
+keyword	sadism
+keyword	severed arm
+keyword	child murder
+keyword	mother daughter relationship
+keyword	finger cut off
+keyword	reference to the three stooges
+keyword	handcuffs
+keyword	bare chested male
+keyword	obscene finger gesture
+keyword	bleeding from one's ear
+keyword	jumping off a bridge
+keyword	lasersight
+keyword	bound and gagged
+keyword	arm blown off
+keyword	one word title
+keyword	punched in the crotch
+keyword	severed finger
+keyword	murder
+keyword	virtual character come to life
+keyword	shot in the arm
+keyword	convict
+keyword	good versus evil
+keyword	metro
+keyword	hand through head
+keyword	child in peril
+keyword	artificial arm
+keyword	shot in the back
+keyword	pistol
+keyword	shot in the leg
+keyword	chalk
+keyword	impalement
+keyword	beaten to death
+keyword	tv station
+keyword	badge
+keyword	gun in mouth
+keyword	thrown from a rooftop
+keyword	blood
+keyword	shot in the shoulder
+keyword	future
+keyword	disco
+keyword	helicopter
+keyword	news report
+keyword	bomb
+keyword	police officer killed
+keyword	self mutilation
+keyword	death of child
+cast	Denzel Washington	Lt. Parker Barnes
+cast	Kelly Lynch	Madison Carter
+cast	Russell Crowe	SID 6.7
+cast	Stephen Spinella	Lindenmeyer
+cast	William Forsythe	William Cochran
+cast	Louise Fletcher	Elizabeth Deane
+cast	William Fichtner	Wallace
+cast	Costas Mandylor	John Donovan
+cast	Kevin J. O'Connor	Clyde Reilly
+cast	Kaley Cuoco	Karin Carter
+cast	Christopher Murray	Matthew Grimes
+cast	Heidi Schanz	Sheila 3.2
+cast	Traci Lords	Media Zone Singer
+cast	Gordon Jennison Noice	Big Red
+cast	Mari Morrow	Linda Barnes
+cast	Miracle Vincent	Christine Barnes
+cast	Mara Duronslet	Beautiful Woman at Olympic Stadium
+cast	Michael Buffer	Emcee
+cast	Karen Annarino	'IS' TV Reporter
+cast	Miguel Nájera	Rafael Debaca
+cast	Danny Goldring	John Symes
+cast	Randall Fontana	Ed
+cast	Allen Scotti	Surgeon
+cast	Dwayne Chattman	Stripped Man in Media Zone
+cast	Ed Marques	Blonde Punk in Media Zone
+cast	Cheryl Lawson	Pretty Woman in Media Zone
+cast	Kevin Loreque	Animatronic Bartender
+cast	Eiko Nijo	Geisha Hostess
+cast	Gaura Vani Buchwald	Burly Man in Video Store
+cast	Rolando Molina	Salesman in Videostore
+cast	Gary Anthony Sturgis	Officer at Video Store
+cast	Monica Allison	Woman on Train
+cast	Susan Mohun	Bystander
+cast	David Asman	Metrolink Cop
+cast	Anthony C. Hall	Locator Technician
+cast	Amy Smallman	Aide in Cochran's Office
+cast	Ahmed Ahmed	Cameraman
+cast	Marva Hicks	Onscreen Talent
+cast	Juan A. Riojas	Metromedia Cop
+cast	Steven R. Barnett	Metromedia Cop
+cast	John Walcutt	SWAT Captain
+cast	Michael B. Silver	Undercover Cop
+cast	Jordan Marder	Prison Transport Guard
+cast	Brogan Young	Monitor Prison Guard
+cast	Laura Leigh Hughes	Suburban Reporter
+cast	Dustin Nguyen	Suburban Reporter
+cast	Anthony Winters	Male Newscaster
+cast	Virginia Watson	Anchorwoman
+cast	Beverly Cohen	Female Tabloid TV Host
+cast	Margot Hope	Paula
+cast	Una Damon	Woman with Video Camera
+cast	Mary-Rachel Foot	Woman with Video Camera
+cast	Jennifer Greenhut	Screaming Woman
+cast	Lesa Noelle	Screaming Woman
+cast	Michelle Smith	Screaming Woman
+cast	Brit Thompson	Screaming Woman
+cast	Alanna Ubach	Eila
+cast	Kevin La Presle	Paramedic
+cast	Daniel Anderson	Police Detective
+cast	Eric Bernt	Building Supervisor
+cast	Rob Gomes	S.W.A.T. Guy
+cast	Michael Tamburro	Helicopter Pilot
+cast	Frank Welker	Special Vocal Effects
+cast	Richard Atchley	Rowdy Guy at UFC Match
+cast	Anthony Backman	Metrolink Patron
+cast	Tracee Cocco	Club Goer
+cast	Johnny Kim	Lab Tech
+cast	Sarah Krasner	Screaming Hostage
+cast	Ken Shamrock	Ultimate Fighter
+cast	Rogan Wilde	TV News Producer

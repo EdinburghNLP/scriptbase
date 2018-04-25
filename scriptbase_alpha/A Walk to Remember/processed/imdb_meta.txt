@@ -1,0 +1,138 @@
+year	2002
+imdb score	7.4
+meta score	35
+genre	Drama
+genre	Romance
+keyword	love
+keyword	school
+keyword	community service
+keyword	reverend
+keyword	minister
+keyword	hospital
+keyword	north carolina
+keyword	high school
+keyword	small town
+keyword	ambition
+keyword	teenage rebellion
+keyword	teen rebel
+keyword	father son relationship
+keyword	jealousy
+keyword	mobbing
+keyword	reference to aristotle
+keyword	telescope
+keyword	cancer
+keyword	bible
+keyword	sweetheart
+keyword	faith
+keyword	best friend
+keyword	first love
+keyword	accident victim
+keyword	high school sweethearts
+keyword	crutch
+keyword	father son estrangement
+keyword	paralysis
+keyword	father son reunion
+keyword	mother son relationship
+keyword	marriage proposal
+keyword	tutor
+keyword	teenage daughter
+keyword	drama club
+keyword	dating
+keyword	intimate
+keyword	boyfriend girlfriend relationship
+keyword	miracle
+keyword	stage play
+keyword	single mother
+keyword	bully
+keyword	driving
+keyword	dancing
+keyword	coming of age
+keyword	rebel
+keyword	single father
+keyword	terminal illness
+keyword	star gazing
+keyword	father daughter relationship
+keyword	outcast
+keyword	redemption
+keyword	self confidence
+keyword	christianity
+keyword	cafeteria
+keyword	basketball
+keyword	teenage love
+keyword	dance lesson
+keyword	evangelical christianity
+keyword	male bonding
+keyword	teen movie
+keyword	teen romance
+keyword	star crossed lovers
+keyword	church service
+keyword	wedding ceremony
+keyword	high school drama
+keyword	christian
+keyword	ex girlfriend
+keyword	kiss
+keyword	sweater
+keyword	teaching someone to dance
+keyword	teenage girl
+keyword	comet
+keyword	marriage
+keyword	single parent
+keyword	butterfly
+keyword	teen angst
+keyword	jumping from height
+keyword	teenager
+keyword	swing
+keyword	life changing
+keyword	leukemia
+keyword	voice over narration
+keyword	dead mother
+keyword	sports car
+keyword	opposites attract
+keyword	melodrama
+keyword	first kiss
+keyword	ambulance
+keyword	based on novel
+keyword	
+cast	Shane West	Landon Carter
+cast	Mandy Moore	Jamie Sullivan
+cast	Peter Coyote	Reverend Sullivan
+cast	Daryl Hannah	Cynthia Carter
+cast	Lauren German	Belinda
+cast	Clayne Crawford	Dean
+cast	Al Thompson	Eric
+cast	Paz de la Huerta	Tracie
+cast	Jonathan Parks Jordan	Walker
+cast	Matt Lutz	Clay Gephardt
+cast	David Andrews	Mr. Kelly
+cast	David Lee Smith	Dr. Carter
+cast	Xavier Hernandez	Luis
+cast	Marisa Miller	Ms. Garber
+cast	Paula Jones	Sally
+cast	Erik Smith	Eddie Zimmerhoff
+cast	Al Butler	Security Guard
+cast	Seth Howard	Maitre'd
+cast	Julia Ann West	Church Lady
+cast	Frances E. Davis	Housekeeper
+cast	Dean Mumford	Policeman
+cast	Anne Fletcher	School Play Dancer
+cast	Mervyn Warren	Pianist
+cast	Robin Clark	Choir Singer
+cast	Vivian Cherry	Choir Singer
+cast	Arlene Martel	Choir Singer
+cast	Arlene Martin	Choir Singer
+cast	Nikki Gregoreff	Choir Singer
+cast	Elaine Caswell	Choir Singer
+cast	Diva Gray	Choir Singer
+cast	Cassidy Ladden	Choir Singer
+cast	Janie Barnett	Choir Singer
+cast	Gordon Grody	Choir Singer
+cast	Kevin Osborne	Choir Singer
+cast	Jason Paige	Choir Singer
+cast	Charles E. Bailey	Dean's Dad
+cast	Sheila Brothers	Restaurant Patron
+cast	Kelly Cole Childers	Do-Gooder
+cast	Jenny Gulley	High School Student
+cast	Adam Shankman	Medical Assistant
+cast	Ryan Sweeney	High School Student
+cast	Chip Thomas	Gangly Boy
+cast	Robert C. Treveiler	Mr. Worth Carter

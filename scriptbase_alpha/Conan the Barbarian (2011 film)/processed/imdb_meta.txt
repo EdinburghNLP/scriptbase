@@ -1,0 +1,321 @@
+year	2011
+imdb score	5.2
+meta score	36
+genre	Action
+genre	Adventure
+genre	Fantasy
+keyword	warrior
+keyword	mask
+keyword	barbarian
+keyword	revenge
+keyword	soldier
+keyword	warlord
+keyword	monastery
+keyword	battle
+keyword	attack
+keyword	monk
+keyword	witch
+keyword	boy
+keyword	sorcerer
+keyword	tavern
+keyword	slave
+keyword	pirate
+keyword	capture
+keyword	thief
+keyword	arm wrestling
+keyword	fighting
+keyword	sword duel
+keyword	good versus evil
+keyword	threatened with a knife
+keyword	topknot
+keyword	bow and arrow
+keyword	impalement
+keyword	pipe smoking
+keyword	interracial friendship
+keyword	drowning
+keyword	caesarean birth
+keyword	slow motion scene
+keyword	fireball
+keyword	name in title
+keyword	supernatural power
+keyword	walled city
+keyword	catfight
+keyword	sword and sandal
+keyword	death
+keyword	magic
+keyword	adventure hero
+keyword	underwater scene
+keyword	loss of nose
+keyword	stabbed with a spear
+keyword	princess
+keyword	severed nose
+keyword	assassination attempt
+keyword	box office flop
+keyword	paleolithic age
+keyword	mercenary
+keyword	murder of father
+keyword	hand to hand combat
+keyword	animal attack
+keyword	person on fire
+keyword	husband wife relationship
+keyword	burned to death
+keyword	neck breaking
+keyword	sword fight
+keyword	stabbed with a sword
+keyword	sword
+keyword	based on comic book
+keyword	fight
+keyword	stabbed in the back
+keyword	pregnancy
+keyword	severed arm
+keyword	freeze frame
+keyword	righteous rage
+keyword	based on pulp magazine
+keyword	resurrection
+keyword	child warrior
+keyword	muscleman
+keyword	archer
+keyword	man hits a woman
+keyword	master apprentice relationship
+keyword	drifter
+keyword	brutality
+keyword	seeing father murdered
+keyword	kidnapping
+keyword	torture
+keyword	3 dimensional
+keyword	catapult
+keyword	combat
+keyword	eye patch
+keyword	chase
+keyword	stone age
+keyword	forging a sword
+keyword	100th century b.c.
+keyword	based on comic
+keyword	goat
+keyword	stabbed to death
+keyword	death in childbirth
+keyword	cult film
+keyword	slavery
+keyword	slingshot
+keyword	incestuous desire
+keyword	fistfight
+keyword	ambush
+keyword	tied up
+keyword	shot in the chest
+keyword	severed head
+keyword	creature
+keyword	rescue
+keyword	jumping from height
+keyword	volley of arrows
+keyword	father daughter relationship
+keyword	one against many
+keyword	demonic possession
+keyword	suicide
+keyword	crushed to death
+keyword	sword and sorcery
+keyword	ancient
+keyword	house fire
+keyword	massacre
+keyword	human sacrifice
+keyword	beaten to death
+keyword	one man army
+keyword	starts with narration
+keyword	bound and gagged
+keyword	stabbed in the chest
+keyword	blind archer
+keyword	death of wife
+keyword	mutilation
+keyword	evil man
+keyword	shot with a bow and arrow
+keyword	serpent
+keyword	hero
+keyword	spear
+keyword	adventurer
+keyword	disarming someone
+keyword	no opening credits
+keyword	three word title
+keyword	strongman
+keyword	murder
+keyword	martial arts
+keyword	dual wield
+keyword	shot in the head
+keyword	kicked in the face
+keyword	alternate history
+keyword	axe fight
+keyword	slave camp
+keyword	fire
+keyword	assassin
+keyword	single parent
+keyword	stabbed in the head
+keyword	henchman
+keyword	disguise
+keyword	shot in the back
+keyword	waterfall
+keyword	falling from height
+keyword	horse chase
+keyword	mixed martial arts
+keyword	stick fight
+keyword	bare chested male
+keyword	king
+keyword	nun
+keyword	hyborian age
+keyword	wagon
+keyword	bare breasts
+keyword	back from the dead
+keyword	snow
+keyword	battle axe
+keyword	shot in the leg
+keyword	hammock
+keyword	child in peril
+keyword	explosion
+keyword	woods
+keyword	castle
+keyword	flashback
+keyword	stabbed in the foot
+keyword	action hero
+keyword	interrogation
+keyword	prehistoric times
+keyword	anti hero
+keyword	prophecy
+keyword	ritual
+keyword	stabbed in the leg
+keyword	disfigurement
+keyword	swordsman
+keyword	horse
+keyword	rite of passage
+keyword	crushed head
+keyword	gore
+keyword	fictional war
+keyword	damsel in distress
+keyword	tentacle
+keyword	palace
+keyword	oracle
+keyword	gash in the face
+keyword	falling through ice
+keyword	evil sorcerer
+keyword	tasting blood
+keyword	sandman
+keyword	topless female nudity
+keyword	exploding body
+keyword	subterranean
+keyword	sorceress
+keyword	rope bridge
+keyword	throat slitting
+keyword	premarital sex
+keyword	giant octopus
+keyword	tough girl
+keyword	campfire
+keyword	punched in the chest
+keyword	shot to death
+keyword	mountain
+keyword	escape
+keyword	knife
+keyword	remake
+keyword	student teacher relationship
+keyword	foot chase
+keyword	robert e. howard
+keyword	male nudity
+keyword	sword and fantasy
+keyword	megalomaniac
+keyword	kicked in the stomach
+keyword	blood
+keyword	boat
+keyword	single father
+keyword	dagger
+keyword	blood splatter
+keyword	blacksmith
+keyword	black magic
+keyword	jealousy
+keyword	one eyed man
+keyword	fall through floor
+keyword	sword fighting
+keyword	killing an animal
+keyword	father son relationship
+keyword	female nudity
+keyword	jumping off cliff
+keyword	female warrior
+keyword	battlefield
+keyword	violence
+keyword	dungeon
+keyword	world domination
+keyword	tough guy
+keyword	decapitation
+keyword	warrior woman
+keyword	demon
+keyword	showdown
+keyword	murder of a pregnant woman
+keyword	head butt
+keyword	cavalry
+keyword	axe
+keyword	10,000 b.c.
+keyword	dark hero
+keyword	death of mother
+keyword	death of father
+keyword	character name in title
+cast	Jason Momoa	Conan
+cast	Stephen Lang	Khalar Zym
+cast	Rachel Nichols	Tamara
+cast	Ron Perlman	Corin
+cast	Rose McGowan	Marique
+cast	Bob Sapp	Ukafa
+cast	Leo Howard	Young Conan
+cast	Steven O'Donnell	Lucius
+cast	Nonso Anozie	Artus
+cast	Raad Rawi	Fassir
+cast	Laila Rouass	Fialla
+cast	Saïd Taghmaoui	Ela-Shan
+cast	Milton Welsh	Remo
+cast	Borislav Iliev	Wild Man
+cast	Nathan Jones	Akhun
+cast	Diana Lyubenova	Cheren
+cast	Ioan Karamfilov	Donal
+cast	Raicho Vasilev	City Guard #1
+cast	Stanimir Stamatov	City Guard #2
+cast	Nikolay Stanoev	Lieutenant
+cast	Ivana Staneva	Young Marique
+cast	Alina Puscau	Lara
+cast	Zlatka Raikova	Slavegirl #2
+cast	Anton Trendafilov	Xaltotun
+cast	Aysun Aptulova	Sacrificial Victim
+cast	Daniel Rashev	Acolyte Priest
+cast	Jackson Spidell	Pict #2
+cast	Guillermo Grispo	Pict #3
+cast	Radoslav Parvanov	Pict #4
+cast	Teodora Duhovnikova	Nun
+cast	Shelly Varod	Nun
+cast	Tezdjan Ahmedova	Nun
+cast	Ulyana Chan	Nun
+cast	Yoanna Temelkova	Nun
+cast	Nadia Konakchieva	Nun
+cast	Petya Mlluseva	Nun
+cast	Ruslana Kaneva	Nun
+cast	Gloria Petkova	Nun
+cast	Zdravka Krastenyakova	Nun
+cast	Stanislav Pishtalov	Cimmerian Elder - Uran
+cast	Velimer Velev	Prison Clerk
+cast	Zhaidarbek Kunguzhinov	Monk
+cast	Eric Laciste	Monk
+cast	Brian Andrew Mendoza	Monk
+cast	Kim Do	Monk
+cast	Bashar Rahal	Quarter Master
+cast	Gisella Marengo	Maliva
+cast	Yoana Petrova	Young Marique
+cast	Vladimir Vladimirov	Den Barman
+cast	Sam Hargrave	Horse Warrior
+cast	Katarzyna Wolejnio	Valeria
+cast	David Mason Chlopecki	Pirate
+cast	Alexandrina Vladova	Belly Dancer
+cast	Guerguina Ilieva	Belly Dancer
+cast	Stefka Berova	Mama
+cast	Vangelitsa Karadjova	Topless Wench
+cast	Blagovesta Cakova	Topless Wench
+cast	Svetlana Vasileva	Topless Wench
+cast	Zornitsa Stoicheva	Topless Wench
+cast	Zhenia Zheleva	Topless Wench
+cast	Nikol Vasileva	Topless Wench
+cast	Adriana Kalcheva	Topless Wench
+cast	Morgan Freeman	Narrator
+cast	Zlateto Keremedchieva	Topless Wench
+cast	Raw Leiba	Rexor
+cast	Radka Petkova	Archer
+cast	Paul Stefanov	Cimmerian boy

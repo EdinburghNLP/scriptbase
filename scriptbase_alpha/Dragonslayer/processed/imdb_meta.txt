@@ -1,0 +1,61 @@
+year	1981
+imdb score	6.7
+meta score	N/A
+genre	Action
+genre	Adventure
+genre	Fantasy
+keyword	dragon
+keyword	kingdom
+keyword	apprentice
+keyword	king
+keyword	wizard
+keyword	dancing
+keyword	celebrating prematurely
+keyword	cult film
+keyword	attack
+keyword	telekinesis
+keyword	undressing someone
+keyword	monster
+keyword	one word title
+keyword	human sacrifice
+keyword	anvil
+keyword	stealing credit
+keyword	dark fantasy
+keyword	sorcerer
+keyword	wish fulfillment
+keyword	knight
+keyword	sword and sorcery
+keyword	virgin sacrifice
+keyword	girl disguised as boy
+keyword	animal
+keyword	dragonslayer
+keyword	dragon infant
+keyword	severed foot
+keyword	resurrection
+keyword	fire breathing dragon
+keyword	mission
+keyword	rescue
+keyword	unlikely hero
+keyword	stabbed in the chest
+keyword	magic
+keyword	female nudity
+keyword	safety
+cast	Peter MacNicol	Galen
+cast	Caitlin Clarke	Valerian
+cast	Ralph Richardson	Ulrich
+cast	John Hallam	Tyrian
+cast	Peter Eyre	Casiodorus Rex
+cast	Albert Salmi	Greil
+cast	Sydney Bromley	Hodge
+cast	Chloe Salaman	Princess Elspeth
+cast	Emrys James	Valerian's Father
+cast	Roger Kemp	Horsrik
+cast	Ian McDiarmid	Brother Jacopus
+cast	Ken Shorter	Henchman
+cast	Jason White	Henchman
+cast	Yolande Palfrey	Victim
+cast	Douglas Cooper	Urlander
+cast	Alf Mangan	Urlander
+cast	David Mount	Urlander
+cast	James Payne	Urlander
+cast	Chris Twinn	Urlander

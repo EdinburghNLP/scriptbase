@@ -1,0 +1,237 @@
+year	2009
+imdb score	7.1
+meta score	76
+genre	Biography
+genre	Drama
+genre	Romance
+keyword	russian
+keyword	countess
+keyword	leo tolstoy
+keyword	writing
+keyword	wealth
+keyword	love
+keyword	death
+keyword	writer
+keyword	author
+keyword	secretary
+keyword	1910s
+keyword	seduction
+keyword	rescue from drowning
+keyword	astapovo russia
+keyword	cook
+keyword	mother daughter relationship
+keyword	woman on top
+keyword	memory
+keyword	reference to anton chekhov
+keyword	generosity
+keyword	yawning
+keyword	gardening
+keyword	peasant
+keyword	servant
+keyword	mosquito
+keyword	inheritance
+keyword	lantern
+keyword	marriage
+keyword	rural setting
+keyword	listening to music
+keyword	imitating a chicken
+keyword	topless female nudity
+keyword	prophet
+keyword	assistant
+keyword	changing one's mind
+keyword	camera
+keyword	premature ejaculation
+keyword	last will and testament
+keyword	reading a newspaper
+keyword	victrola
+keyword	train
+keyword	moustache wax
+keyword	renouncement
+keyword	bare chested male
+keyword	freedom
+keyword	aristocrat
+keyword	job interview
+keyword	admiration
+keyword	sunflower
+keyword	private secretary
+keyword	inner title card
+keyword	falling into a lake
+keyword	diary
+keyword	moscow russia
+keyword	social justice
+keyword	injustice
+keyword	coffin
+keyword	sneezing
+keyword	creek
+keyword	sleeping
+keyword	looking through a window
+keyword	chicken
+keyword	betrayal
+keyword	photograph
+keyword	orgasm
+keyword	year 1910
+keyword	husband wife relationship
+keyword	voice over letter
+keyword	czarist
+keyword	virgin
+keyword	axe
+keyword	sex
+keyword	dressing
+keyword	goat
+keyword	lover
+keyword	drama queen
+keyword	dying
+keyword	loss of virginity
+keyword	friendship
+keyword	no title at beginning
+keyword	sofa
+keyword	father daughter relationship
+keyword	male virgin
+keyword	reference to anna karenina the novel
+keyword	girls' school
+keyword	climbing out a window
+keyword	horse and carriage
+keyword	saying cock a doodle doo
+keyword	gift
+keyword	lake
+keyword	bonfire
+keyword	female nudity
+keyword	singer
+keyword	cigarette smoking
+keyword	reference to jesus christ
+keyword	government
+keyword	water bucket
+keyword	tai chi
+keyword	bee
+keyword	scythe
+keyword	head scarf
+keyword	belief in god
+keyword	singing
+keyword	fleeing in the middle of the night
+keyword	infidelity
+keyword	crying
+keyword	slipping and falling
+keyword	laughter
+keyword	manifesto
+keyword	happiness
+keyword	train station
+keyword	record player
+keyword	candelabra
+keyword	reference to god
+keyword	philosophy
+keyword	religion
+keyword	suicide attempt
+keyword	icon
+keyword	homosexual subtext
+keyword	boy
+keyword	politics
+keyword	birch tree
+keyword	field
+keyword	tears
+keyword	woods
+keyword	typewriter
+keyword	beard
+keyword	friend
+keyword	bed
+keyword	russia
+keyword	listening to opera
+keyword	delusion
+keyword	forest
+keyword	genius
+keyword	newspaper
+keyword	reference to the marriage of figaro the opera
+keyword	old man
+keyword	book
+keyword	publisher
+keyword	fork
+keyword	balcony
+keyword	hugging
+keyword	prayer
+keyword	sycophant
+keyword	touching one's forehead to the ground
+keyword	falling into water
+keyword	bare breasts
+keyword	waking
+keyword	virginity
+keyword	kissing
+keyword	running
+keyword	conspiracy
+keyword	spirituality
+keyword	russian revolution
+keyword	pen
+keyword	nightshirt
+keyword	russian czar
+keyword	kiss
+keyword	abandoned by husband
+keyword	doctor
+keyword	school
+keyword	unhappiness
+keyword	letter
+keyword	vegetarian
+keyword	nudity
+keyword	children
+keyword	underwater scene
+keyword	subjective camera
+keyword	ex teacher
+keyword	nervousness
+keyword	eavesdropping
+keyword	country estate
+keyword	respect
+keyword	library
+keyword	russsian government
+keyword	candle
+keyword	flower
+keyword	teletype
+keyword	undressing
+keyword	movie camera
+keyword	recording
+keyword	reference to war and peace the novel
+keyword	essay
+keyword	fleeing
+keyword	unfaithfulness
+keyword	pistol
+keyword	fainting
+keyword	illness
+keyword	horse riding
+keyword	telegram
+keyword	idealism
+keyword	extramarital affair
+keyword	private property
+keyword	dock
+keyword	count
+keyword	snoring
+keyword	horse
+keyword	song
+keyword	tea
+keyword	chopping wood
+keyword	photographer
+keyword	dormitory
+keyword	garden
+keyword	plucking a chicken
+keyword	gun
+keyword	revolution
+keyword	taking a photograph
+keyword	adultery
+keyword	balalaika
+keyword	poverty
+keyword	celibacy
+keyword	nightgown
+keyword	breaking dishes
+keyword	revolutionary
+keyword	based on novel
+keyword	
+cast	Helen Mirren	Sofya
+cast	Christopher Plummer	Tolstoy
+cast	Paul Giamatti	Chertkov
+cast	James McAvoy	Valentin
+cast	John Sessions	Dushan
+cast	Patrick Kennedy	Sergeyenko
+cast	Kerry Condon	Masha
+cast	Anne-Marie Duff	Sasha
+cast	Tomas Spencer	Andrey
+cast	Christian Gaul	Ivan
+cast	Wolfgang Häntsch	Priest
+cast	David Masterson	Reporter
+cast	Anastasia Tolstoy	Mourning Girl
+cast	Maximilian Gärtner	Kind
+cast	Nenad Lucic	Vanja

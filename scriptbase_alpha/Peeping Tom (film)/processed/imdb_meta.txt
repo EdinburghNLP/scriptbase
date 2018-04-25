@@ -1,0 +1,202 @@
+year	1960
+imdb score	7.8
+meta score	N/A
+genre	Thriller
+keyword	terror
+keyword	fear
+keyword	experiment
+keyword	camera
+keyword	movie camera
+keyword	murder
+keyword	death
+keyword	scientist
+keyword	focus puller
+keyword	murderer
+keyword	moment of death
+keyword	film studio
+keyword	guinea pig
+keyword	birthday
+keyword	nervous system
+keyword	obsession
+keyword	detective
+keyword	prostitute
+keyword	photographer
+keyword	neighbor
+keyword	scream
+keyword	filmmaking
+keyword	red
+keyword	lingerie
+keyword	flashlight
+keyword	cruelty
+keyword	restaurant
+keyword	film editing
+keyword	piano
+keyword	reference to cecil beaton
+keyword	knife
+keyword	movie projector
+keyword	erotic photography
+keyword	insanity
+keyword	knitting
+keyword	key
+keyword	disfigured leg
+keyword	cinephilia
+keyword	sound stage
+keyword	sense of sight
+keyword	nudity
+keyword	expressionism
+keyword	broken window
+keyword	voyeur
+keyword	birthday party
+keyword	model
+keyword	long take
+keyword	bare breasts
+keyword	stabbing
+keyword	subjective camera
+keyword	pin
+keyword	meta film
+keyword	maniac
+keyword	kiss
+keyword	redhead
+keyword	book
+keyword	landlord
+keyword	whistling
+keyword	dead body
+keyword	motorbike
+keyword	mental abuse
+keyword	body in trunk
+keyword	dancer
+keyword	black comedy
+keyword	fetish
+keyword	newspaper
+keyword	deformity
+keyword	investigation
+keyword	intuition
+keyword	film director
+keyword	repressed sexuality
+keyword	librarian
+keyword	movie theater
+keyword	sergeant
+keyword	actress
+keyword	film projector
+keyword	psychopath
+keyword	lizard
+keyword	screening room
+keyword	deformed leg
+keyword	violence
+keyword	sympathetic villain
+keyword	mother daughter relationship
+keyword	london observer
+keyword	suicide
+keyword	pornography
+keyword	alcohol
+keyword	serial killer
+keyword	murder by stabbing
+keyword	writer
+keyword	snuff film
+keyword	dead woman carried
+keyword	policeman
+keyword	photography
+keyword	metaphor
+keyword	abuse
+keyword	scoptophilia
+keyword	peeping tom
+keyword	instinct
+keyword	london england
+keyword	psychiatrist
+keyword	flash camera
+keyword	biologist
+keyword	heartbeat
+keyword	british noir
+keyword	mirror
+keyword	disfigurement
+keyword	character's point of view camera shot
+keyword	birthday cake
+keyword	police
+keyword	photograph
+keyword	sexuality
+keyword	madman
+keyword	psycho thriller
+keyword	suicide attempt
+keyword	blindness
+keyword	publisher
+keyword	dancing
+keyword	psychiatry
+keyword	controversy
+keyword	cinematographer
+keyword	birthday present
+keyword	stockings
+keyword	makeup room
+keyword	fight
+keyword	two word title
+keyword	family relationships
+keyword	sex
+keyword	cafe
+keyword	psychoanalysis
+keyword	movie studio
+keyword	rubber gloves
+keyword	sadism
+keyword	cameraman
+keyword	film developing
+keyword	sneeze
+keyword	trunk
+keyword	stepmother stepson relationship
+keyword	drinking
+keyword	love
+keyword	drink
+keyword	eye
+keyword	voyeurism
+keyword	close up of eyes
+keyword	chemical
+keyword	stand in
+keyword	tape recorder
+keyword	home movie
+keyword	cult film
+keyword	science
+keyword	father son relationship
+keyword	man kills woman
+keyword	child abuse
+keyword	fainting
+keyword	timer
+keyword	psychologist
+keyword	death of mother
+keyword	independent film
+keyword	title spoken by character
+keyword	surprise ending
+cast	Karlheinz Böhm	Mark Lewis
+cast	Moira Shearer	Vivian
+cast	Anna Massey	Helen Stephens
+cast	Maxine Audley	Mrs. Stephens
+cast	Brenda Bruce	Dora
+cast	Miles Malleson	Elderly Gentleman Customer
+cast	Esmond Knight	Arthur Baden
+cast	Michael Goodliffe	Don Jarvis
+cast	Martin Miller	Dr. Rosen
+cast	Jack Watson	Chief Insp. Gregg
+cast	Shirley Anne Field	Pauline Shields
+cast	Pamela Green	Milly
+cast	John Barrard	Small Man
+cast	Keith Baxter	Det. Baxter
+cast	John Chappell	Clapper Boy
+cast	Robert Crewdson	Shop Assistant on Film Set
+cast	Roland Curram	Young Man in Sports Car
+cast	Nigel Davenport	Det. Sgt. Miller
+cast	John Dunbar	Police Doctor
+cast	Maurice Durant	Publicity Chief
+cast	Paddy Edwards	Girl Electrician
+cast	Cornelia Frances	Girl in Sports Car Leaving Studio
+cast	Veronica Hurst	Miss Simpson - Jarvis' Secretary
+cast	M. Le Compte	Lover in Garden
+cast	Mme. Le Compte	Lover in Garden
+cast	Bartlett Mullins	Mr. Peters - News Agent Shop Owner
+cast	Pete Murray	Young Man Embracing Girl
+cast	Margaret Neale	Mark's Stepmother
+cast	Columba Powell	Mark as a Child
+cast	Michael Powell	Mark's Father - A.N. Lewis
+cast	Guy Kingsley Poynter	P. Tate - Studio Cameraman
+cast	Frankie Reidy	Mark's Mother on Deathbed
+cast	Alan Rolfe	Store Detective
+cast	Frank Singuineau	Electrician #1
+cast	Peggy Thorpe-Bates	Mrs. Partridge
+cast	Susan Travers	Lorraine the Model
+cast	Brian Wallace	Tony - Downstairs Lodger in Lewis' House
+cast	Brian Worth	Assistant Director

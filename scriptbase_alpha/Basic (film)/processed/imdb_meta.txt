@@ -1,0 +1,69 @@
+year	2003
+imdb score	6.5
+meta score	34
+genre	Action
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	army
+keyword	panama
+keyword	contradictory accounts
+keyword	multiple perspectives
+keyword	racial slur
+keyword	flashback
+keyword	chewing tobacco
+keyword	poison
+keyword	blood vomiting
+keyword	cocaine
+keyword	murder
+keyword	hostage
+keyword	shot in the back
+keyword	panama canal
+keyword	cell phone
+keyword	shot in the forehead
+keyword	shot in the leg
+keyword	faked death
+keyword	2000s
+keyword	government agent
+keyword	army life
+keyword	shot to death
+keyword	helicopter
+keyword	corruption
+keyword	covert operation
+keyword	belize
+keyword	military crime
+keyword	heavy rain
+keyword	stabbed in the chest
+keyword	necklace yanked off
+keyword	revelation
+keyword	drug enforcement
+keyword	gun
+keyword	shot in the chest
+keyword	homosexual
+keyword	death
+keyword	title spoken by character
+keyword	surprise ending
+cast	John Travolta	Hardy
+cast	Connie Nielsen	Osborne
+cast	Samuel L. Jackson	West
+cast	Tim Daly	Styles
+cast	Giovanni Ribisi	Kendall
+cast	Brian Van Holt	Dunbar
+cast	Taye Diggs	Pike
+cast	Dash Mihok	Mueller
+cast	Cristián de la Fuente	Castro
+cast	Roselyn Sanchez	Nunez
+cast	Harry Connick Jr.	Vilmer
+cast	Georgia Hausserman	Pilot
+cast	Margaret Travolta	Nurse #1
+cast	Dena Johnston	Nurse #2
+cast	Nick Loren	Helicopter Pilot
+cast	Cliff Fleming	Helicopter Pilot
+cast	Steven Maye	CID Officer
+cast	Jonathan Rau	G.I. on the Tarmac
+cast	Tait Ruppert	Jeep Driver
+cast	Timothy S. Wester	Doctor
+cast	Chris Byrne	MP
+cast	Curtis Ricks	MP
+cast	Charles L. Fails	MP

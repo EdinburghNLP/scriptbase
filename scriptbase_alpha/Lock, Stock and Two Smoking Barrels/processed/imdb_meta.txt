@@ -1,0 +1,213 @@
+year	1998
+imdb score	8.2
+meta score	66
+genre	Comedy
+genre	Crime
+keyword	shotgun
+keyword	antique
+keyword	hatchet
+keyword	drugs
+keyword	gang
+keyword	debt
+keyword	drug dealer
+keyword	violence
+keyword	gangster
+keyword	cardsharp
+keyword	wad of cash
+keyword	dildo
+keyword	air rifle
+keyword	fainting
+keyword	gambling
+keyword	knife throwing
+keyword	foot chase
+keyword	stabbed in the arm
+keyword	counting money
+keyword	head butt
+keyword	van
+keyword	cigarette smoking
+keyword	eavesdropping
+keyword	drink thrown into someone's face
+keyword	pistol
+keyword	pub
+keyword	robbery
+keyword	antique gun
+keyword	bound and gagged
+keyword	drug lord
+keyword	cell phone
+keyword	cheating at cards
+keyword	marijuana joint
+keyword	shot in the chest
+keyword	passed out drunk
+keyword	trenchcoat
+keyword	murder
+keyword	crooked game
+keyword	piano
+keyword	threatened with a knife
+keyword	golf
+keyword	death
+keyword	chef
+keyword	sex shop
+keyword	shot in the foot
+keyword	rhyme in title
+keyword	phone booth
+keyword	rhyming slang
+keyword	comma in title
+keyword	freeze frame
+keyword	man punching a woman
+keyword	reference to snow white
+keyword	marijuana
+keyword	nickname
+keyword	shot in the stomach
+keyword	stabbed in the back
+keyword	liverpudlian
+keyword	severed toe
+keyword	shot in the neck
+keyword	ambush
+keyword	double barreled shotgun
+keyword	child swearing
+keyword	thief
+keyword	machine gun
+keyword	axe in the back
+keyword	person on fire
+keyword	creaking floor boards
+keyword	british
+keyword	slow motion scene
+keyword	held at gunpoint
+keyword	drunkenness
+keyword	knocked out
+keyword	cult film
+keyword	hidden camera
+keyword	character repeating someone else's dialogue
+keyword	snorricam
+keyword	female rear nudity
+keyword	dildo used as weapon
+keyword	child in peril
+keyword	cockney accent
+keyword	thong
+keyword	female nudity
+keyword	blood
+keyword	sawed off shotgun
+keyword	car crash
+keyword	stoner
+keyword	cigar smoking
+keyword	reference to james bond
+keyword	blood splatter
+keyword	character's point of view camera shot
+keyword	flashback
+keyword	kicked in the head
+keyword	london england
+keyword	storytelling
+keyword	thrown through a wall
+keyword	face slap
+keyword	crime boss
+keyword	cage
+keyword	bar
+keyword	boxing ring
+keyword	black market
+keyword	switchblade
+keyword	poker player
+keyword	subjective camera
+keyword	gangster comedy
+keyword	hanging upside down
+keyword	shot to death
+keyword	friendship
+keyword	punch into the camera
+keyword	six word title
+keyword	hit with a golf club
+keyword	card playing
+keyword	subtitled scene
+keyword	home invasion
+keyword	grow op
+keyword	gay slur
+keyword	topless female nudity
+keyword	skull crushing
+keyword	poker
+keyword	organized crime
+keyword	vomit
+keyword	voice over narration
+keyword	stealing a car
+keyword	bartender
+keyword	telling a joke
+keyword	reference to winston churchill
+keyword	bridge
+keyword	punched in the face
+keyword	black comedy
+keyword	hit with a car door
+keyword	burglary
+keyword	fast motion scene
+keyword	beating
+keyword	bag of money
+keyword	neighbor
+keyword	masked man
+keyword	father son relationship
+keyword	bare chested male
+keyword	directorial debut
+keyword	hit by a car
+keyword	corpse
+keyword	torture
+keyword	police station
+keyword	hit with a rifle butt
+keyword	kicking in a door
+keyword	shootout
+keyword	drowning
+keyword	split screen
+keyword	hiding under a bed
+keyword	duffel bag
+keyword	dumb criminal
+keyword	beaten to death
+keyword	duct tape over mouth
+keyword	machete
+keyword	ensemble cast
+keyword	ambiguous ending
+keyword	stripper
+keyword	mob enforcer
+keyword	tanning bed
+keyword	spit in the face
+keyword	strip club
+keyword	independent film
+keyword	number in title
+keyword	surprise ending
+cast	Jason Flemyng	Tom
+cast	Dexter Fletcher	Soap
+cast	Nick Moran	Eddy
+cast	Jason Statham	Bacon
+cast	Steven Mackintosh	Winston
+cast	Nicholas Rowe	J
+cast	Nick Marcq	Charles
+cast	Charles Forbes	Willie
+cast	Vinnie Jones	Big Chris
+cast	Lenny McLean	Barry The Baptist
+cast	Peter McNicholl	Little Chris
+cast	P.H. Moriarty	Hatchet Harry
+cast	Frank Harper	Dog
+cast	Steve Sweeney	Plank
+cast	Huggy Leaver	Paul
+cast	Ronnie Fox	Mickey
+cast	Tony McMahon	John
+cast	Stephen Marcus	Nick The Greek
+cast	Vas Blackwood	Rory Breaker
+cast	Sting	JD
+cast	Jake Abraham	Dean
+cast	Rob Brydon	Traffic Warden
+cast	Stephen Callender-Ferrier	Lenny
+cast	Steve Collins	Boxing Gym Bouncer
+cast	Elwin 'Chopper' David	Nathan
+cast	Vera Day	Tanya
+cast	Jimmy Flint	Don
+cast	Alan Ford	Alan / Narrator
+cast	Sid Golder	Phil
+cast	Alex Hall	Slick
+cast	John Houchin	Doorman
+cast	Derek Howard	Policeman
+cast	Danny John-Jules	Barfly Jack
+cast	Bal Jusar	Gordon
+cast	Tim Maurice-Jones	Drowning Man
+cast	Victor McGuire	Gary
+cast	Mark Mooney	Serg
+cast	Suzy Ratner	Gloria
+cast	David Reid	Samoan Jo
+cast	Graham Stevens	Policeman
+cast	James Tarbuck	John O'Driscoll
+cast	Andrew Tiernan	Man In Pub
+cast	Richard Vanstone	Frazer
+cast	Matthew Vaughn	Yuppy In Car

@@ -1,0 +1,40 @@
+year	2009
+imdb score	3.7
+meta score	N/A
+genre	Crime
+genre	Mystery
+genre	Sci-Fi
+genre	Thriller
+keyword	time travel
+keyword	sequel
+keyword	second part
+keyword	period in title
+keyword	direct to video sequel to theatrical movie
+keyword	existentialism
+keyword	small town
+keyword	character name in title
+cast	Daveigh Chase	Samantha
+cast	Briana Evigan	Corey
+cast	James Lafferty	Iraq Jack
+cast	Ed Westwick	Randy
+cast	Walter Platz	Frank
+cast	John Hawkes	Phil
+cast	Bret Roberts	Officer O'Dell
+cast	Jackson Rathbone	Jeremy
+cast	Elizabeth Berkley	Trudy
+cast	Barbara Tarbuck	Agatha
+cast	Matthew Davis	Pastor John
+cast	Nathan Stevens	Jeff
+cast	Ryan Templeman	Mike
+cast	Zulay Henao	Baelyn
+cast	JJ Neward	Co-Worker
+cast	Bridger El-Bakhi	Billy
+cast	Gregory T. Collett	Ted Moncton
+cast	Kristen Hillier	Local Girl
+cast	Bob Lanoue	F.B.I. Agent
+cast	Kristina Malota	Susie Bates
+cast	Marina Malota	Emily Bates
+cast	Thomas McMinn	Partier
+cast	Ryan Moat	Elder Moat / BBQ-Party Missionary
+cast	Savannah Ostler	Barfing Girl / Waitress
+cast	Josh Piper	Barbecue Guy

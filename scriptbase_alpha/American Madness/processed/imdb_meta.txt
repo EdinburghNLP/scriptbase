@@ -1,0 +1,70 @@
+year	1932
+imdb score	7.5
+meta score	N/A
+genre	Drama
+keyword	cashier
+keyword	depression
+keyword	debt
+keyword	alibi
+keyword	neglected wife
+keyword	false accusation
+keyword	engagement
+keyword	infidelity
+keyword	bank teller
+keyword	bank failure
+keyword	affair
+keyword	bank robbery
+keyword	gun
+keyword	bank vault
+keyword	fight
+keyword	explosion
+keyword	murder
+keyword	gangster
+keyword	guard
+keyword	board member
+keyword	kiss
+keyword	gossip
+keyword	deposit money
+keyword	run on bank
+keyword	detective
+keyword	second honeymoon
+keyword	panic
+keyword	wedding anniversary
+keyword	injustice
+keyword	bank president
+keyword	secretary
+keyword	
+cast	Walter Huston	Dickson
+cast	Pat O'Brien	Matt
+cast	Kay Johnson	Mrs. Dickson
+cast	Constance Cummings	Helen
+cast	Gavin Gordon	Cluett
+cast	Arthur Hoyt	Ives
+cast	Robert Emmett O'Connor	Inspector
+cast	Harry C. Bradley	Sampson
+cast	Eddy Chandler	Kelly
+cast	Berton Churchill	O'Brien
+cast	Tom Dugan	Depositor
+cast	Sarah Edwards	Gossip on Phone
+cast	Robert Ellis	Dude Finlay
+cast	Eddie Foster	Depositor
+cast	Charley Grapewin	Mr. Jones
+cast	Julia Griffith	Gossip on Phone
+cast	Sherry Hall	Carter
+cast	Sterling Holloway	Oscar
+cast	Harry Holman	Loan-Seeker
+cast	Anderson Lawler	Charlie
+cast	Ralph Lewis	Judge
+cast	Edward Martindel	Ames
+cast	Edwin Maxwell	Clark
+cast	Pat O'Malley	Dr. Strong
+cast	Lee Phelps	Tim
+cast	Tempe Pigott	Mrs. Halligan
+cast	Harry Semels	Depositor
+cast	Jeanne Sorel	Cluett's Secretary
+cast	Joan Standing	Panicked Depositor
+cast	Emma Tansey	Elderly Depositor
+cast	Harry Todd	Tom Gardner
+cast	Fred 'Snowflake' Toones	Sam
+cast	Walter Walker	Schultz
+cast	Polly Walters	Blonde Phone Operator

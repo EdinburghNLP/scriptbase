@@ -1,0 +1,359 @@
+year	2011
+imdb score	6.9
+meta score	50
+genre	Drama
+genre	History
+genre	Thriller
+keyword	shakespeare
+keyword	earl of oxford
+keyword	play
+keyword	queen elizabeth i
+keyword	flashback
+keyword	queen
+keyword	rebellion
+keyword	shakespeare play
+keyword	author
+keyword	badminton
+keyword	reference to philip henslowe
+keyword	sonnet
+keyword	shooting
+keyword	rain
+keyword	pursuit
+keyword	reference to shakespeare's henry v
+keyword	reference to agincourt
+keyword	stabbed through a curtain
+keyword	strangulation
+keyword	booing
+keyword	writer
+keyword	spain
+keyword	abandonment
+keyword	kiss
+keyword	16th century
+keyword	jail cell
+keyword	hiding
+keyword	father son relationship
+keyword	imitating a horse
+keyword	stratford upon avon
+keyword	catholic
+keyword	royalty
+keyword	goblet
+keyword	dancer
+keyword	illiteracy
+keyword	dagger
+keyword	fireworks
+keyword	song
+keyword	musician
+keyword	king
+keyword	reference to shakespeare's macbeth
+keyword	singing
+keyword	reference to everyman the play
+keyword	writing
+keyword	manhattan new york city
+keyword	bridge
+keyword	plague
+keyword	reference to bosworth field
+keyword	london england
+keyword	actress
+keyword	italy
+keyword	rhyme
+keyword	money
+keyword	theatre fire
+keyword	ireland
+keyword	flower
+keyword	quill pen
+keyword	king philip ii of spain
+keyword	rowboat
+keyword	mother murders son
+keyword	marriage
+keyword	punta reversa
+keyword	love
+keyword	chase
+keyword	reference to shakespeare's hamlet
+keyword	servant
+keyword	whispering
+keyword	prison
+keyword	castle
+keyword	lifting someone into the air
+keyword	inheritance
+keyword	hissing
+keyword	french
+keyword	rose
+keyword	heresy
+keyword	pregnancy
+keyword	pain
+keyword	boat
+keyword	privy council
+keyword	picnic
+keyword	betting
+keyword	stabbed in the leg
+keyword	wedding ring
+keyword	filicide
+keyword	nudity
+keyword	exposé
+keyword	snow
+keyword	prayer
+keyword	setting a theatre on fire
+keyword	blackmail
+keyword	one word title
+keyword	voice over narration
+keyword	crying
+keyword	powder puff
+keyword	mirror
+keyword	torch
+keyword	tudor rose
+keyword	sedition
+keyword	reference to shakespeare's julius caesar
+keyword	prostitute
+keyword	reference to mary queen of scots
+keyword	italian
+keyword	arson
+keyword	stabbing
+keyword	implied incest
+keyword	oarsman
+keyword	spilled ink
+keyword	flashback within a flashback
+keyword	midget
+keyword	year 1601
+keyword	sword
+keyword	reference to shakespeare's romeo and juliet
+keyword	metaphor
+keyword	giving a toast
+keyword	hiding behind a curtain
+keyword	kissing while having sex
+keyword	sex scene
+keyword	freedom
+keyword	epilogue
+keyword	backstage
+keyword	bare chested male
+keyword	cannon
+keyword	dancing
+keyword	reference to edinburgh
+keyword	horse and carriage
+keyword	reference to eastward ho! the play
+keyword	dwarf
+keyword	thrown into the street
+keyword	spotlight
+keyword	singer
+keyword	elizabethan era
+keyword	fraud
+keyword	bag of money
+keyword	bribery
+keyword	reference to the muses
+keyword	anonymity
+keyword	wales
+keyword	british soldier
+keyword	drink
+keyword	applause
+keyword	bare butt
+keyword	protestant
+keyword	horse
+keyword	chess
+keyword	caricature
+keyword	younger version of character
+keyword	horse riding
+keyword	dog
+keyword	massacre
+keyword	sir william cecil
+keyword	father daughter relationship
+keyword	boy
+keyword	theatre
+keyword	political intrigue
+keyword	musket
+keyword	line of succession
+keyword	husband wife relationship
+keyword	banishment
+keyword	death
+keyword	england
+keyword	book
+keyword	tent
+keyword	poetry
+keyword	nobleman
+keyword	death of queen
+keyword	theatre box
+keyword	drunkenness
+keyword	tower of london
+keyword	ghost
+keyword	messenger
+keyword	new york city
+keyword	dead body
+keyword	cane
+keyword	puritan
+keyword	earl of southhampton
+keyword	arrest
+keyword	ink
+keyword	broadway manhattan new york city
+keyword	shot in the back
+keyword	fencing
+keyword	throwing garbage at an actor
+keyword	reference to venus the roman goddess
+keyword	succession to the throne
+keyword	coat of arms
+keyword	reference to edward de vere
+keyword	murder
+keyword	controversy
+keyword	male nudity
+keyword	mother son relationship
+keyword	jail
+keyword	traitor
+keyword	treason
+keyword	poet
+keyword	girl
+keyword	actor
+keyword	reference to shakespeare's twelfth night
+keyword	mourning
+keyword	punta supramano
+keyword	hunchback
+keyword	reference to william shakespeare
+keyword	executioner
+keyword	reference to shoemaker's holiday the play
+keyword	politics
+keyword	amnesty
+keyword	bookend scenes
+keyword	fire
+keyword	torture
+keyword	dropping a tray
+keyword	cross
+keyword	betrayal
+keyword	chandelier
+keyword	candle chandelier
+keyword	crown
+keyword	flash forward
+keyword	london skyline
+keyword	coronation
+keyword	fake thunder
+keyword	prologue
+keyword	playwright
+keyword	reference to shakespeare's richard iii
+keyword	illegitimate son
+keyword	audience
+keyword	leg wound
+keyword	assassination threat
+keyword	reference to richard burbage
+keyword	reference to shakespeare's a midsummer night's dream
+keyword	drinking
+keyword	face slap
+keyword	british royalty
+keyword	thunder
+keyword	breaking down a door
+keyword	greek
+keyword	looking at one's self in a mirror
+keyword	ambush
+keyword	wedding
+keyword	ale
+keyword	tolling bell
+keyword	hand mirror
+keyword	ben jonson
+keyword	printing press
+keyword	literature
+keyword	tudor
+keyword	publishing
+keyword	globe playhouse london
+keyword	reference to homer
+keyword	scotsman
+keyword	reference to christopher marlowe
+keyword	beheading
+keyword	umbrella
+keyword	reference to god
+keyword	dispensing a crowd
+keyword	execution
+keyword	candle
+keyword	intrigue
+keyword	political unrest
+keyword	reference to plato
+keyword	flashback within a flashback within a flashback
+keyword	death of father
+cast	Rhys Ifans	Earl of Oxford
+cast	Vanessa Redgrave	Queen Elizabeth I
+cast	Sebastian Armesto	Ben Jonson
+cast	Rafe Spall	William Shakespeare
+cast	David Thewlis	William Cecil
+cast	Edward Hogg	Robert Cecil
+cast	Xavier Samuel	Earl of Southampton
+cast	Sam Reid	Earl of Essex
+cast	Jamie Campbell Bower	Young Earl of Oxford
+cast	Joely Richardson	Young Queen Elizabeth I
+cast	Paolo De Vita	Francesco
+cast	Trystan Gravelle	Christopher Marlowe
+cast	Robert Emms	Thomas Dekker
+cast	Tony Way	Thomas Nashe
+cast	Julian Bleach	Captain Richard Pole
+cast	Derek Jacobi	Prologue
+cast	Alex Hassell	Spencer
+cast	James Garnon	Heminge
+cast	Mark Rylance	Condell
+cast	Jasper Britton	Pope
+cast	Michael Brown	Sly
+cast	Ned Dennehy	Interrogator
+cast	John Keogh	Philip Henslowe
+cast	Lloyd Hutchinson	Richard Burbage
+cast	Vicky Krieps	Bessie Vavasour
+cast	Helen Baxendale	Anne De Vere
+cast	Paula Schramm	Bridget De Vere
+cast	Amy Kwolek	Young Anne De Vere
+cast	Luke Thomas Taylor	Boy Earl of Oxford
+cast	Isaiah Michalski	Boy Robert Cecil
+cast	Timo Huber	Boy Earl of Southampton
+cast	Richard Durden	Archbishop
+cast	Shaun Lawton	Footman
+cast	Detlef Bothe	John De Vere
+cast	James Clyde	King James I
+cast	Christian Sengewald	Cecil's Spy Servant
+cast	Jean-Loup Fourure	Monsieur Beaulieu
+cast	Victoria Gabrysch	Buxom Lady
+cast	Axel Sichrovsky	Essex General
+cast	Katrin Pollitt	Lady-in-Waiting
+cast	Patricia Grove	Lady-in-Waiting
+cast	Laura Lo Zito	Selling Maid
+cast	Gode Benedix	Groundling
+cast	Nic Romm	Usher
+cast	Henry Lloyd-Hughes	Bear Baiter
+cast	Patrick Diemling	Oxford's Servant
+cast	Patrick Heyn	Oxford's Doctor
+cast	Nino Sandow	Stage Manager
+cast	Craig Salisbury	Dwarf / Puck
+cast	Rainer Guldener	Quince
+cast	Trystan Pütter	Bottom
+cast	André Kaczmarczyk	Titania
+cast	Jonas Hämmerle	Child Oberon
+cast	Leonard Kinzinger	Child Titania
+cast	Mike Maas	Pole's Commander
+cast	Christian Leonard	Stage Player: Shakespeare Company
+cast	Christian Banzhaf	Stage Player: Shakespeare Company
+cast	Victor Calero	Stage Player: Shakespeare Company
+cast	Martin Engler	Stage Player: Shakespeare Company
+cast	Alfred Hartung	Stage Player: Shakespeare Company
+cast	Oliver Kube	Stage Player: Shakespeare Company
+cast	Christian Ludwig	Stage Player: Shakespeare Company
+cast	Oliver Rickenbacher	Stage Player: Shakespeare Company
+cast	Claudius von Stolzmann	Stage Player: Shakespeare Company
+cast	Tjafke Biallowons	Dancer
+cast	Dafne-Maria Fielder	Dancer
+cast	Alexander Flache	Dancer
+cast	Antonia Gerke	Dancer
+cast	Sophie Hichert	Dancer
+cast	Lukas Hötzel	Dancer
+cast	Johannes Keusch	Dancer
+cast	Vera Kreyer	Dancer
+cast	Stefanie Lanius	Dancer
+cast	Urban Luig	Dancer
+cast	Jasmin Mehling	Dancer
+cast	Elisabeth Milarch	Dancer
+cast	Robert Munzinger	Dancer
+cast	Benjamin Plath	Dancer
+cast	Erik Studte	Dancer
+cast	Johann Hakob Wurster	Dancer
+cast	Joachim Paul Assböck	Prison Guard
+cast	Carsten Berger	Lord of Court
+cast	Oliver Bigalke	Essex Assassin
+cast	Ulrike Brandt	Robert Cecil's Wife
+cast	Andreas Frakowiak	Nobleman with Feathered Hat
+cast	Claudia Funke	Young Lady in Waiting
+cast	Dennis Oestreich	Angry Young Man in Theatre
+cast	Gesche Picolin	Lady in Waiting
+cast	Michael S. Ruscheinsky	Elizabeth's Personal Guard
+cast	Steffi Sattler	First Lady to King James I
+cast	Alexandra Surer	Lady in Waiting
+cast	Ralf Tempel	Privy Council
+cast	Tom Wlaschiha	Captain of the Guard
+cast	Alexander Yassin	Javanese Nobleman
+cast	Martina Ysker	Young Lady in Waiting

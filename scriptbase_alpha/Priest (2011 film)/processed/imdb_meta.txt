@@ -1,0 +1,319 @@
+year	2011
+imdb score	5.7
+meta score	41
+genre	Action
+genre	Fantasy
+genre	Horror
+genre	Sci-Fi
+genre	Thriller
+keyword	priest
+keyword	vampire
+keyword	church
+keyword	warrior
+keyword	sheriff
+keyword	disobey
+keyword	outpost
+keyword	rescue
+keyword	hive
+keyword	villain
+keyword	knife throwing
+keyword	chase
+keyword	bar
+keyword	man with no name
+keyword	some scenes animated
+keyword	disembowelment
+keyword	jail cell
+keyword	blood splatter
+keyword	train
+keyword	riding motorcycle
+keyword	train derailment
+keyword	carving in bullet
+keyword	vampire slayer
+keyword	dark past
+keyword	gun
+keyword	murder
+keyword	interrogation
+keyword	hand to hand combat
+keyword	monolith
+keyword	crushed to death
+keyword	vigilantism
+keyword	subterranean
+keyword	death of brother
+keyword	cyberpunk
+keyword	blade
+keyword	desert
+keyword	superhero
+keyword	hostage
+keyword	shootout
+keyword	neck breaking
+keyword	redemption
+keyword	flare
+keyword	creature
+keyword	tattoo
+keyword	anti hero
+keyword	confession
+keyword	explosion
+keyword	nightmare
+keyword	killing an animal
+keyword	poetic justice
+keyword	superhuman speed
+keyword	hero
+keyword	solar panel
+keyword	meat cleaver
+keyword	dark hero
+keyword	cellar
+keyword	british actor playing american character
+keyword	female soldier
+keyword	presumed dead
+keyword	one man army
+keyword	shot with an arrow
+keyword	farmer
+keyword	mutant
+keyword	ambush
+keyword	justice
+keyword	machine gun
+keyword	asian woman
+keyword	3 dimensional
+keyword	no opening credits
+keyword	revelation
+keyword	quitting a job
+keyword	social commentary
+keyword	survival
+keyword	betrayal
+keyword	kicked in the stomach
+keyword	stabbed in the shoulder
+keyword	gore
+keyword	council
+keyword	tough girl
+keyword	guard
+keyword	transformation
+keyword	violence
+keyword	race against time
+keyword	home invasion
+keyword	passenger train
+keyword	bible
+keyword	kung fu
+keyword	geiger counter
+keyword	torture
+keyword	mission
+keyword	future
+keyword	blood on shirt
+keyword	brother brother relationship
+keyword	blood
+keyword	goggles
+keyword	shotgun
+keyword	person on fire
+keyword	beaten to death
+keyword	heavy rain
+keyword	coming out of retirement
+keyword	dagger
+keyword	mass grave
+keyword	skull
+keyword	cowboy hat
+keyword	flashback
+keyword	target practice
+keyword	christ allegory
+keyword	combat
+keyword	train explosion
+keyword	stylized violence
+keyword	stabbed in the leg
+keyword	based on graphic novel
+keyword	corpse
+keyword	world domination
+keyword	clergy
+keyword	fight on train roof
+keyword	kidnapping
+keyword	severed head
+keyword	future
+keyword	damsel in distress
+keyword	lightning
+keyword	repeated line
+keyword	covered in blood
+keyword	bare chested male
+keyword	cave
+keyword	flask
+keyword	cross
+keyword	darkness
+keyword	boyfriend girlfriend relationship
+keyword	trapdoor
+keyword	small town
+keyword	prologue
+keyword	cigarette smoking
+keyword	voice over narration
+keyword	funeral
+keyword	falling from height
+keyword	fictional war
+keyword	decapitation
+keyword	husband wife relationship
+keyword	ex soldier
+keyword	gash in the face
+keyword	dynamite
+keyword	sand
+keyword	tracking device
+keyword	animal attack
+keyword	crossbow
+keyword	vigilante
+keyword	gramophone
+keyword	jumping through a window
+keyword	honor
+keyword	tracking
+keyword	punched in the chest
+keyword	insubordination
+keyword	uncle niece relationship
+keyword	totalitarian
+keyword	shot in the chest
+keyword	liquor salesman
+keyword	fall through floor
+keyword	superhuman strength
+keyword	spirituality
+keyword	action heroine
+keyword	train conductor
+keyword	parkour
+keyword	on the run
+keyword	crucifix
+keyword	based on comic
+keyword	hit by a motorcycle
+keyword	showdown
+keyword	fight
+keyword	tragic past
+keyword	based on comic book
+keyword	cemetery
+keyword	exploding body
+keyword	brawl
+keyword	exploding motorcycle
+keyword	bullet
+keyword	starts with narration
+keyword	monster
+keyword	self sacrifice
+keyword	female warrior
+keyword	full moon
+keyword	character repeating someone else's dialogue
+keyword	praying
+keyword	stabbed in the chest
+keyword	knife in chest
+keyword	stabbed in the back
+keyword	anti heroine
+keyword	mother daughter relationship
+keyword	mountain
+keyword	held at gunpoint
+keyword	religion
+keyword	facial tattoo
+keyword	acrobatics
+keyword	team
+keyword	flashlight
+keyword	weapon
+keyword	ghost town
+keyword	father daughter relationship
+keyword	based on manga
+keyword	motorcycle chase
+keyword	fistfight
+keyword	scar
+keyword	cabin
+keyword	eaten alive
+keyword	coffin
+keyword	battle
+keyword	acrobat
+keyword	fascism
+keyword	martial arts
+keyword	severed arm
+keyword	kicked in the face
+keyword	bar brawl
+keyword	one against many
+keyword	impalement
+keyword	massacre
+keyword	punched in the face
+keyword	mercenary
+keyword	nosebleed
+keyword	action hero
+keyword	superhero team
+keyword	fight the system
+keyword	good versus evil
+keyword	beating
+keyword	one word title
+keyword	machete
+keyword	throat slitting
+keyword	deception
+keyword	megalomaniac
+keyword	electrocution
+keyword	severed leg
+keyword	head butt
+keyword	wire fu
+keyword	torso cut in half
+keyword	bar fight
+keyword	elevator
+keyword	stabbed to death
+keyword	ruins
+keyword	christian
+keyword	tough guy
+keyword	mutation
+keyword	attack
+keyword	train wreck
+keyword	motorcycle stunt
+keyword	cut into pieces
+keyword	motorcycle
+keyword	walled city
+keyword	dystopia
+keyword	fire
+keyword	hit by a train
+keyword	animated sequence
+keyword	jumping from height
+keyword	3d
+keyword	photograph
+keyword	post apocalypse
+keyword	knife
+keyword	exploding train
+keyword	bitten in the neck
+keyword	revenge
+keyword	one woman army
+keyword	crucifixion
+keyword	threatened with a knife
+keyword	gadget
+keyword	confessional
+keyword	death
+keyword	vigilante justice
+keyword	death of mother
+keyword	death of father
+keyword	based on novel
+keyword	character name in title
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Paul Bettany	Priest
+cast	Karl Urban	Black Hat
+cast	Cam Gigandet	Hicks
+cast	Maggie Q	Priestess
+cast	Lily Collins	Lucy Pace
+cast	Brad Dourif	Salesman
+cast	Stephen Moyer	Owen Pace
+cast	Christopher Plummer	Monsignor Orelas
+cast	Alan Dale	Monsignor Chamberlain
+cast	Mädchen Amick	Shannon Pace
+cast	Jacob Hopkins	Boy
+cast	Dave Florek	Crocker
+cast	Joel Polinsky	Dr. Tomlin
+cast	Josh Wingate	Familiar
+cast	Jon Braver	Familiar
+cast	Casey Pieretti	Familiar
+cast	Theo Kypri	Familiar
+cast	John Griffin	Familiar
+cast	David Backus	Familiar
+cast	Roger Stoneburner	Familiar
+cast	David Bianchi	Familiar
+cast	Tanoai Reed	Brave Priest
+cast	Arnold Chon	Strong Priest
+cast	Henry Kingi Jr.	Bold Priest
+cast	Austin Priester	Flashback Priest
+cast	Marilyn Brett	Woman
+cast	Kanin Howell	Husband
+cast	Julie Mond	Wife
+cast	Michael D. Nye	Station Master
+cast	Reiner Schöne	Minister
+cast	Kevin T. McCarthy	English Speaking Preacher
+cast	Boyuen	Chinese Speaking Vendor
+cast	Anthony Azizi	Farsi Speaking Vendor
+cast	Pramod Kumar	Hindi Speaking Vendor
+cast	Lafayette R. Dorsey Sr.	Clergy Trooper
+cast	Cameron Cash	Gun Merchant
+cast	Andrew Constantini	Civilian
+cast	Orion McCabe	Factory Worker #1
+cast	Prida Moreza	Factory Worker #2

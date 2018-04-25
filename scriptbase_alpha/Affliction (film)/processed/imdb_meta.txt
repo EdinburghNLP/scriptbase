@@ -1,0 +1,138 @@
+year	1997
+imdb score	7.0
+meta score	79
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	hunting
+keyword	small town
+keyword	sheriff
+keyword	mirror
+keyword	barn
+keyword	self discipline
+keyword	kitchen
+keyword	break up
+keyword	alcoholism
+keyword	tirade
+keyword	shot in the back
+keyword	prayer
+keyword	arson
+keyword	father daughter relationship
+keyword	cemetery
+keyword	one word title
+keyword	flashback
+keyword	diner
+keyword	toothache
+keyword	best friend
+keyword	violence
+keyword	dead mother
+keyword	joint
+keyword	funeral
+keyword	speeding ticket
+keyword	ends with narration
+keyword	attorney
+keyword	domestic abuse
+keyword	narrated by character
+keyword	opening narration
+keyword	new hampshire
+keyword	halloween
+keyword	closure
+keyword	dysfunctional family
+keyword	grave side ceremony
+keyword	gunfire
+keyword	cremation
+keyword	telescopic rifle
+keyword	self esteem
+keyword	spit in the face
+keyword	shot to death
+keyword	temper
+keyword	accidental killing
+keyword	burning man
+keyword	halloween costume
+keyword	costume party
+keyword	manslaughter
+keyword	burning building
+keyword	drug abuse
+keyword	snowplow
+keyword	mental abuse
+keyword	drunkenness
+keyword	abusive father
+keyword	mental breakdown
+keyword	fired from the job
+keyword	guide
+keyword	hunter
+keyword	bar
+keyword	stoned sheriff
+keyword	brother brother relationship
+keyword	pick up
+keyword	pulling own tooth
+keyword	marijuana joint
+keyword	real estate
+keyword	self dentistry
+keyword	snow
+keyword	waitress
+keyword	fratricide
+keyword	marriage
+keyword	child custody
+keyword	fire
+keyword	jesus freak
+keyword	child abuse
+keyword	shovelling snow
+keyword	heavy drinking
+keyword	domestic violence
+keyword	death threat
+keyword	rage
+keyword	voice over narration
+keyword	villain
+keyword	deer
+keyword	deer hunting
+keyword	death of wife
+keyword	cigarette smoking
+keyword	accidental shooting
+keyword	father son relationship
+keyword	machismo
+keyword	police
+keyword	contest
+keyword	murder
+keyword	school bus
+keyword	hunting rifle
+keyword	memory
+keyword	marriage proposal
+keyword	conspiracy
+keyword	shooting tires
+keyword	wheelchair
+keyword	flat tire
+keyword	death of mother
+keyword	independent film
+keyword	based on novel
+keyword	
+cast	Nick Nolte	Wade Whitehouse
+cast	Brigid Tierney	Jill Whitehouse
+cast	Holmes Osborne	Gordon LaRiviere
+cast	Jim True-Frost	Jack Hewitt
+cast	Tim Post	Chick Ward
+cast	Christopher Heyerdahl	Frankie Lacoy
+cast	Marian Seldes	Alma Pittman
+cast	Janine Theriault	Hettie Rogers
+cast	Mary Beth Hurt	Lillian Whitehouse Horner
+cast	Paul Stewart	Mr. Horner
+cast	Sissy Spacek	Margie Fogg
+cast	Wayne Robson	Nick Wickham
+cast	Sean McCann	Evan Twombley
+cast	Sheena Larkin	Lugene Brooks
+cast	Penny Mancuso	Woman Driver
+cast	Danielle Désormeaux	Elaine
+cast	Charles Edwin Powell	Jimmy Dane
+cast	Donovan Reiter	Short-Haired Local
+cast	James Coburn	Glen Whitehouse
+cast	Brawley Nolte	Young Wade Whitehouse
+cast	Michael Caloz	Young Rolfe Whitehouse
+cast	Joanna Noyes	Sally Whitehouse
+cast	Marcel Jeannin	State Trooper
+cast	Susan Almgren	Mrs. Gordon
+cast	Steve Adams	Mel Gordon
+cast	Willem Dafoe	Rolfe Whitehouse
+cast	Martha-Marie Kleinhans	Lena Whitehouse
+cast	Mark Camacho	Clyde - Lena's Husband
+cast	Ralph Allison	Reverend Doughty
+cast	Eugene Lipinski	Atty. J. Battle Hand

@@ -1,0 +1,212 @@
+year	2007
+imdb score	6.2
+meta score	42
+genre	Action
+genre	Sci-Fi
+genre	Thriller
+keyword	magician
+keyword	fbi agent
+keyword	fbi
+keyword	sniper
+keyword	police chase
+keyword	car hit by a train
+keyword	checking watch
+keyword	waterfall
+keyword	boxing
+keyword	red rose
+keyword	eye clamp
+keyword	wheelchair
+keyword	box office flop
+keyword	time travel
+keyword	stage name
+keyword	lizard
+keyword	tv news
+keyword	one word title
+keyword	potassium iodide
+keyword	telescopic rifle
+keyword	seeing the future
+keyword	torture
+keyword	van rollover
+keyword	driving in the rain
+keyword	parking garage
+keyword	straw hat
+keyword	geneva watch
+keyword	las vegas nevada
+keyword	kidnapping
+keyword	arizona
+keyword	binoculars
+keyword	crushed car
+keyword	preventing a murder
+keyword	whispering
+keyword	flirting
+keyword	rose
+keyword	cargo container
+keyword	backstage
+keyword	steam tractor
+keyword	product placement
+keyword	grand canyon
+keyword	black jack
+keyword	stealing a car
+keyword	eye drops
+keyword	hanging upside down
+keyword	ruffled shirt
+keyword	psychic power
+keyword	channel surfing
+keyword	auto theft
+keyword	nuclear explosion
+keyword	flashing light
+keyword	exploding body
+keyword	based on short story
+keyword	tv remote
+keyword	slot machine
+keyword	hostage
+keyword	cargo ship
+keyword	shot in the head
+keyword	dodging bullets
+keyword	terrorism
+keyword	gasp
+keyword	fight
+keyword	mirror
+keyword	brenners orange juice
+keyword	alarm
+keyword	chewing on a toothpick
+keyword	car accident
+keyword	nightstick
+keyword	car chase
+keyword	starbucks
+keyword	video surveillance
+keyword	psychic
+keyword	shot to death
+keyword	explosive vest
+keyword	chase
+keyword	bomb squad
+keyword	camping
+keyword	helicopter
+keyword	magic trick
+keyword	car falling off a cliff
+keyword	voice over narration
+keyword	clairvoyant
+keyword	two olives
+keyword	silencer
+keyword	murder of a police officer
+keyword	premarital sex
+keyword	robbery
+keyword	shootout
+keyword	jumping from a car
+keyword	cigarette smoking
+keyword	campfire
+keyword	shaving
+keyword	green olive
+keyword	heavy breathing
+keyword	cooking breakfast
+keyword	rainstorm
+keyword	psionics
+keyword	dove
+keyword	forklift
+keyword	synchronizing watches
+keyword	hitting on girl
+keyword	shot in the forehead
+keyword	nuclear attack
+keyword	casino
+keyword	bound and gagged
+keyword	magic
+keyword	russian villain
+keyword	billiards
+keyword	camoflage uniform
+keyword	spilled drink
+keyword	water tower collapse
+keyword	indian reservation
+keyword	driving in front of a train
+keyword	drugged drink
+keyword	security guard
+keyword	murder
+keyword	destiny
+keyword	credits rolling down
+keyword	shipyard
+keyword	hit in the face
+keyword	rewinding action
+keyword	corpse
+keyword	premonition
+keyword	tied to a wheelchair
+keyword	throat slitting
+keyword	shooting range
+keyword	paranormal phenomena
+keyword	breakup
+keyword	martini
+keyword	restroom
+keyword	teacher
+keyword	precognition
+keyword	horse
+keyword	showgirl
+keyword	shot in the leg
+keyword	forecasting
+keyword	motel
+keyword	patience
+keyword	counter terrorism
+keyword	evade capture
+keyword	changing the future
+keyword	log pile
+keyword	nuclear bomb
+keyword	los angeles california
+keyword	nuclear angst
+keyword	bullet proof vest
+keyword	kicked in the head
+keyword	diner
+keyword	7 eleven
+keyword	hit by a train
+keyword	shot in the chest
+keyword	train
+keyword	based on novel
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Nicolas Cage	Cris Johnson
+cast	Julianne Moore	Callie Ferris
+cast	Jessica Biel	Liz Cooper
+cast	Thomas Kretschmann	Mr. Smith
+cast	Tory Kittles	Cavanaugh
+cast	José Zúñiga	Security Chief Roybal
+cast	Jim Beaver	NSA Director Wisdom
+cast	Jason Butler Harner	Jeff Baines
+cast	Michael Trucco	Kendall
+cast	Enzo Cilenti	Mr. Jones
+cast	Laetitia Danielle	Miss Brown
+cast	Nicolas Pajon	Mr. Green
+cast	Sergej Trifunovic	Mr. White
+cast	Charles Rahi Chun	Davis
+cast	Patricia Prata	Showgirl
+cast	Jon Hughes	Emcee
+cast	Jack Ong	Man from Korea
+cast	Alice Kim Cage	Girl with Necklace
+cast	Edith Fields	Old Lady in Casino
+cast	Lorilynn Failor	Blackjack Dealer
+cast	Jessica Barth	Pretty Blonde
+cast	Logan Christopher	Blonde's Boyfriend
+cast	Richard Kay	Drunk Man
+cast	Bonita Friedericy	Cashier Girl
+cast	Danny Downey	Gunman
+cast	Michael Runyard	Security Guard
+cast	Peter Falk	Irv
+cast	Adam Lieberman	Diner Manager
+cast	Miranda Frigon	Diner Waitress
+cast	Max Lee	Shadow Tech
+cast	Sam Kim	Shadow Tech
+cast	Thomas Siyuja Sr.	Shaman
+cast	Mavis Jones	Havasupai Child
+cast	Nuce Marshall	Havasupai Child
+cast	Dimitri Watahomigie	Havasupai Child
+cast	Kaynece Watahomigie	Havasupai Child
+cast	Paul Rae	Road Crew Foreman
+cast	Hinetoa	Dead Girl
+cast	Jeff Michael	Himself
+cast	Lisa Joyner	Herself
+cast	Dean Cudworth	JTTF Sniper Agent
+cast	Chris Palermo	SWAT Commander
+cast	John T. Scanlon	Helicopter Pilot
+cast	Rio Ahn	Shadow Tech
+cast	Patrick Bautista	Shadow Tech
+cast	Greg Brown	Coffee Shop Patron
+cast	Madeline McCuskey	Claire
+cast	Mary Millensifer	Casino player
+cast	Jamie Santos	Casino Goer
+cast	Shane Wood	Bomb Squad

@@ -1,0 +1,246 @@
+year	2006
+imdb score	7.0
+meta score	57
+genre	Action
+genre	Crime
+genre	Thriller
+keyword	poison
+keyword	heart
+keyword	doctor
+keyword	revenge
+keyword	google earth
+keyword	nudity
+keyword	oral sex
+keyword	cigar smoking
+keyword	modern art
+keyword	blood spatter
+keyword	rolling pin
+keyword	lawn jockey
+keyword	hypodermic
+keyword	car accident
+keyword	falling from a helicopter
+keyword	syringe
+keyword	goatee
+keyword	shot in the chest
+keyword	lust
+keyword	restaurant
+keyword	skyline
+keyword	burn
+keyword	shopping mall
+keyword	rear entry sex
+keyword	los angeles california
+keyword	beard
+keyword	gore
+keyword	shooting
+keyword	shot in the hand
+keyword	security camera
+keyword	blow job
+keyword	cult film
+keyword	victim searches for killer
+keyword	damsel in distress
+keyword	motorcycle stunt
+keyword	shot to death
+keyword	shaved head
+keyword	drug dealer
+keyword	number
+keyword	sculpture
+keyword	lesbian kiss
+keyword	cell phone
+keyword	nipples visible through clothing
+keyword	shot in the head
+keyword	chinese restaurant
+keyword	scaffold
+keyword	fondling
+keyword	panties
+keyword	death
+keyword	policeman
+keyword	bull
+keyword	sex in public
+keyword	gangsta grip
+keyword	clothes ripping
+keyword	shot in the forehead
+keyword	change of heart
+keyword	hitman
+keyword	jet
+keyword	pharmacist
+keyword	pigeon
+keyword	breasts
+keyword	body landing on a car
+keyword	motorcycle accident
+keyword	outdoor sex
+keyword	head butt
+keyword	motorcycle cop
+keyword	fire escape
+keyword	coitus
+keyword	female female kiss
+keyword	brawl
+keyword	snorting cocaine
+keyword	drug abuse
+keyword	fistfight
+keyword	kitchen
+keyword	pharmacy
+keyword	gay slur
+keyword	doggystyle sex
+keyword	newscaster
+keyword	suffocation
+keyword	machine gun
+keyword	sweatshop
+keyword	female nudity
+keyword	sexual attraction
+keyword	suicide
+keyword	energy drink
+keyword	bathroom
+keyword	last job
+keyword	copulation
+keyword	street gang
+keyword	pistol
+keyword	one man army
+keyword	character can see subtitle
+keyword	racial slur
+keyword	gurney
+keyword	transvestite
+keyword	cleavage
+keyword	swimming pool
+keyword	sewing machine
+keyword	exploding body
+keyword	hand to hand combat
+keyword	body part
+keyword	methamphetamine
+keyword	bamboo
+keyword	pill
+keyword	neck breaking
+keyword	intravenous
+keyword	grenade
+keyword	black comedy
+keyword	motorcycle crash
+keyword	severed hand
+keyword	picket fence
+keyword	white panties
+keyword	swat
+keyword	answering machine
+keyword	product placement
+keyword	dvd
+keyword	gang war
+keyword	killing an animal
+keyword	male nudity
+keyword	epinephrine
+keyword	upskirt
+keyword	penthouse apartment
+keyword	severed finger
+keyword	elevator
+keyword	silencer
+keyword	fellatio
+keyword	emergency room
+keyword	leg spreading
+keyword	parakeet
+keyword	hallucination
+keyword	orchid
+keyword	cocaine
+keyword	one word title
+keyword	nude girl
+keyword	motorcycle
+keyword	scantily clad female
+keyword	one day
+keyword	part computer animated
+keyword	helicopter landing pad
+keyword	necklace
+keyword	hospital
+keyword	duct tape
+keyword	microwave oven
+keyword	anti hero
+keyword	daylight saving time
+keyword	hanging
+keyword	hospital gown
+keyword	organized crime
+keyword	car chase
+keyword	retirement
+keyword	defibrillation
+keyword	sunglasses
+keyword	taxi
+keyword	handgun
+keyword	sexual desire
+keyword	hotel
+keyword	trashcan
+keyword	spanking
+keyword	public sex
+keyword	helicopter
+keyword	falling from height
+keyword	finger gun
+keyword	gay character
+keyword	mixed martial arts
+keyword	cult film
+keyword	reference to houdini
+keyword	bare breasts
+keyword	tattoo
+keyword	tea
+keyword	topless female nudity
+keyword	blood
+keyword	underwater scene
+keyword	surprise after end credits
+keyword	female frontal nudity
+keyword	girl in panties
+keyword	triad
+keyword	chinatown los angeles
+keyword	meat cleaver
+keyword	shootout
+keyword	tour bus
+keyword	first person perspective
+keyword	tough guy
+keyword	nude
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Jason Statham	Chev Chelios
+cast	Amy Smart	Eve
+cast	Jose Pablo Cantillo	Verona
+cast	Efren Ramirez	Kaylo
+cast	Dwight Yoakam	Doc Miles
+cast	Carlos Sanz	Carlito
+cast	Reno Wilson	Orlando
+cast	Edi Gathegi	Haitian Cabbie
+cast	Glenn Howerton	Doctor
+cast	Jay Xcala	Alex
+cast	Keone Young	Don Kim
+cast	Valarie Rae Miller	Chocolate
+cast	Yousuf Azami	Arab Cabbie
+cast	Laurent Schwaar	Man in Garage
+cast	David Brown	Sin City Brother
+cast	Dorian Kingi	Convenience Store Clerk
+cast	Med Abrous	Verona Crew #1
+cast	Daniel Stevens	Verona Crew #2
+cast	Wally Lozano	Verona Crew #3
+cast	David T. Green	Hightower
+cast	Eve Loseth	Restaurant Waitress
+cast	Allen Bloomfield	Pharmacy Man
+cast	Stephanie Mace	Pharmacist
+cast	Chester Bennington	Pharmacy Stoner
+cast	Michael McLafferty	Hospital Cop
+cast	Earl Carroll	Stretcher Patient
+cast	Brian Swibel	Hospital Tech #1
+cast	Donnie Smith	Hospital Tech #2
+cast	Sean Graham	Motorcycle Cop
+cast	Dan Callahan	TV Store Guy
+cast	Noel Gugliemi	Warehouse Rooftop Hood
+cast	Daniel Venegas	Warehouse Window Hood
+cast	Francis Capra	Warehouse Hood Leader
+cast	Frank Blake	Warehouse Hood #1
+cast	Mike G.	Warehouse Hood #2
+cast	Ken Moreno	Hood #3
+cast	Troy Robinson	Hood #4
+cast	Eddie Perez	Hood #5
+cast	Justin Riemer	Hood #6
+cast	Peter Choi	Shirt Factory Supervisor
+cast	Elizabeth Jayne Hong	Bus Girl
+cast	Toshi Toda	Japanese Businessman
+cast	Sam Witwer	Shootout Henchman #1
+cast	Jai Stefan	Shootout Henchman #2
+cast	Jacki R. Chan	Cocoon Girl
+cast	Rick Shuster	Helicopter Pilot
+cast	Ted Garcia	TV Reporter
+cast	Candice A. Buenrostro	Bikini Girl
+cast	Guillaume DeLouche	Hooded Terrorist
+cast	Klaudia Gajek	Cocoon Girl
+cast	Richard T. Henry	SWAT Officer
+cast	Nina Kaze	Freaky Club Member
+cast	India King	Nurse
+cast	Jerome Villaluz	Gangster

@@ -1,0 +1,185 @@
+year	1999
+imdb score	7.2
+meta score	70
+genre	Adventure
+genre	Comedy
+genre	Sci-Fi
+keyword	alien
+keyword	convention
+keyword	fan
+keyword	actor
+keyword	general
+keyword	alien race
+keyword	commander
+keyword	costume
+keyword	television
+keyword	star
+keyword	spaceship
+keyword	monster
+keyword	artificial intelligence
+keyword	parallel universe
+keyword	hero
+keyword	blockbuster
+keyword	egotist
+keyword	internet
+keyword	blood splatter
+keyword	sci fi spoof
+keyword	cult film
+keyword	space battle
+keyword	super computer
+keyword	star trek parody
+keyword	crutch
+keyword	exploding body
+keyword	space war
+keyword	teleportation
+keyword	desert
+keyword	oxygen
+keyword	revelation
+keyword	idol
+keyword	brawl
+keyword	shot to death
+keyword	star trek spoof
+keyword	kiss
+keyword	shootout
+keyword	creature
+keyword	1990s
+keyword	planet
+keyword	limousine
+keyword	fictional war
+keyword	satire
+keyword	actress
+keyword	starship
+keyword	explosion
+keyword	hostage
+keyword	escape pod
+keyword	battle
+keyword	scientist
+keyword	kidnapping
+keyword	spacecraft
+keyword	flying car
+keyword	shape shifting alien
+keyword	autograph
+keyword	murder
+keyword	slapstick comedy
+keyword	spoof
+keyword	child actor
+keyword	hangover
+keyword	hologram
+keyword	minefield
+keyword	has been
+keyword	showdown
+keyword	crash landing
+keyword	drunkenness
+keyword	transformation
+keyword	ribbon cutting
+keyword	chase
+keyword	innocence
+keyword	shot in the back
+keyword	good versus evil
+keyword	makeup
+keyword	restroom
+keyword	fanboy
+keyword	gunfight
+keyword	urination
+keyword	exploding ship
+keyword	unlikely hero
+keyword	explosive decompression
+keyword	celebrity has been
+keyword	extraterrestrial
+keyword	swimming pool
+keyword	race against time
+keyword	space travel
+keyword	fandom
+keyword	shot in the chest
+keyword	shapeshifting
+keyword	egotism
+keyword	outer space
+keyword	rescue
+keyword	news report
+keyword	spaceport
+keyword	green blood
+keyword	title appears in writing
+keyword	warp speed
+keyword	alien love
+keyword	escape
+keyword	prologue
+keyword	fight
+keyword	giant
+keyword	computer cracker
+keyword	elevator
+keyword	wormhole
+keyword	bare chested male
+keyword	time travel
+keyword	parody
+keyword	cult film
+keyword	interrogation
+keyword	englishman
+keyword	laser gun
+keyword	torture
+keyword	fistfight
+keyword	macguffin
+keyword	fireworks
+keyword	naivety
+keyword	sphere
+keyword	deception
+keyword	villain not really dead cliche
+keyword	mistaken identity
+keyword	timebomb
+keyword	giant scissors
+keyword	title spoken by character
+keyword	surprise ending
+cast	Tim Allen	Jason Nesmith
+cast	Sigourney Weaver	Gwen DeMarco
+cast	Alan Rickman	Alexander Dane
+cast	Tony Shalhoub	Fred Kwan
+cast	Sam Rockwell	Guy Fleegman
+cast	Daryl Mitchell	Tommy Webber
+cast	Enrico Colantoni	Mathesar
+cast	Robin Sachs	Sarris
+cast	Patrick Breen	Quellek
+cast	Missi Pyle	Laliari
+cast	Jed Rees	Teb
+cast	Justin Long	Brandon
+cast	Jeremy Howard	Kyle
+cast	Kaitlin Cullum	Katelyn
+cast	Jonathan Feyer	Hollister
+cast	Corbin Bleu	Young Tommy
+cast	Wayne Pére	Lathe
+cast	Sam Lloyd	Neru
+cast	Bill Chott	Fan #1
+cast	Morgan Rusler	Fan #2
+cast	Gregg Binkley	Fan #3
+cast	Brandon de Paul	Fan #4
+cast	Paul G. Kubiak	Fan #5
+cast	Gregory Colbrook	Fan #6
+cast	Jennifer Manley	Shy Girl
+cast	John Patrick White	Teen in the Bathroom #1
+cast	Todd Giebenhain	Teen in the Bathroom #2
+cast	J.P. Manoux	Excited Alien
+cast	Dan Gunther	Navigator
+cast	Matt Winston	Technician #1
+cast	Brandon Keener	Technician #2
+cast	Dian Bachar	Nervous Tech
+cast	Rainn Wilson	Lahnk
+cast	Susan Egan	Teek
+cast	Heidi Swedberg	Brandon's Mom
+cast	Isaac C. Singleton Jr.	Sarris' Guard
+cast	Jerry Penacoli	Reporter
+cast	Joel McKinnon Miller	Warrior Alien
+cast	Kevin McDonald	Announcer
+cast	Daniel Parker	Alien Fan
+cast	Dawn Hutchins	Inventory Clerk
+cast	Joe Frank	Voice of the Computer
+cast	Larry Richards	Thermian Greeter #1
+cast	Mic Tomasi	Thermian Greeter #2
+cast	Heath Castor	Convention Goer
+cast	Joseph J. Dawson	Mank'nar #1 in Prosthetics
+cast	Paulie DiCocco III	Convention Goer
+cast	David Dorfman	Boy
+cast	Michael Haboush	Thermian Soldier
+cast	Erik Johnson	Convention Goth
+cast	Janis Jones	Sci-Fi Convention Fan
+cast	Danilo Mancinelli	Control Deck Thermian
+cast	Molly O'Brien	Prostitute with Alien
+cast	Brian Penikas	Convention Goer
+cast	Rocco Salata	Sarris Soldier

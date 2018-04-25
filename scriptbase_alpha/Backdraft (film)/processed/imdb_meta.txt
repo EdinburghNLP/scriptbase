@@ -1,0 +1,142 @@
+year	1991
+imdb score	6.7
+meta score	38
+genre	Action
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	firefighter
+keyword	fire
+keyword	fireman
+keyword	arson
+keyword	office
+keyword	kissing while having sex
+keyword	rescue
+keyword	female stockinged legs
+keyword	death
+keyword	danger
+keyword	main character dies
+keyword	post it note
+keyword	chicago illinois
+keyword	fire hose
+keyword	cult film
+keyword	explosion
+keyword	bare chested male
+keyword	pubic hair
+keyword	pyromaniac
+keyword	lifting person in air
+keyword	one word title
+keyword	brother brother relationship
+keyword	white pantyhose
+keyword	helmet
+keyword	male nudity
+keyword	psychopath
+keyword	hairy chest
+keyword	telephone
+keyword	pyromania
+keyword	shower
+keyword	death of brother
+keyword	sex scene
+keyword	axe
+keyword	funeral
+keyword	camera shot of feet
+keyword	d box motion code
+keyword	blockbuster
+keyword	psycho
+keyword	reference to john wayne
+keyword	burn injury
+keyword	pantyhose
+keyword	female stockinged feet
+keyword	irish american
+keyword	firefighting
+keyword	independent film
+keyword	title spoken by character
+keyword	actor shares first name with character
+keyword	
+cast	Kurt Russell	Stephen 'Bull' McCaffrey / Dennis McCaffrey
+cast	William Baldwin	Brian McCaffrey
+cast	Robert De Niro	Donald 'Shadow' Rimgale
+cast	Donald Sutherland	Ronald Bartel
+cast	Jennifer Jason Leigh	Jennifer Vaitkus
+cast	Scott Glenn	John 'Axe' Adcox
+cast	Rebecca De Mornay	Helen McCaffrey
+cast	Jason Gedrick	Tim Krizminski
+cast	J.T. Walsh	Alderman Marty Swayzak
+cast	Anthony Mockus Sr.	Chief John Fitzgerald
+cast	Cedric Young	Grindle
+cast	Juan Ramírez	Ray Santos
+cast	Kevin Casey	Nightingale
+cast	Jack McGee	Schmidt
+cast	Mark Wheeler	Pengelly
+cast	Richard Lexsee	Washington
+cast	Beep Iams	Sean McCaffrey
+cast	Ryan Goldstein	Brian, Age 7
+cast	Robert Swan	Willy, Bartender
+cast	Clint Howard	Ricco, Pathologist
+cast	Ron West	Alan Seagrave, Backdraft Victim
+cast	Kevin Crowley	Candidate
+cast	Carlos Sanz	Candidate
+cast	Harry Hutchinson	Candidate
+cast	David A.C. Saunders	Candidate
+cast	Jane Jenkins	Woman Psychiatrist
+cast	Tim Grimm	Man at Parole Board
+cast	David Crosby	'70s Hippie
+cast	Mike Mangano	Firetruck Driver
+cast	Rick Reardon	Paramedic
+cast	Leslie A. Ford	Paramedic
+cast	W. Earl Brown	Paramedic
+cast	Robert F. Byrnes	Paramedic
+cast	Kathryn Jaeck	Mannequin Fire Reporter
+cast	David Westgor	Mannequin Fire Reporter
+cast	James Ritz	Mannequin Fire Reporter
+cast	Joe Guastaferro	Donald Cosgrove, Backdraft Victim
+cast	Don Herion	Repairman
+cast	Tony Mockus Jr.	Jackson
+cast	Gregory Widen	Engine Lieutenant
+cast	Andrew Lipschultz	Man on Party Boat
+cast	Walter Williams	Security Guard
+cast	Bob Krzeminski	Captain
+cast	F. Pat Burns	Battalion Chief at Tenement Fire
+cast	Wanda Christine	Mother at Tenement Fire
+cast	Anthony C. Ellis Jr.	Gasping Child at Tenement Fire
+cast	Peter C. Hobert Jr.	Probie
+cast	Zita Visockis	Grandma Vaitkus
+cast	Razz Jenkins	Photographer at Boat Party
+cast	Irma P. Hall	Nurse
+cast	Nydia Rodriguez Terracina	Nurse
+cast	Hollis Resnik	Sally
+cast	Don Rimgale	Party Crony
+cast	Dennis Liddiard	Party Brawler
+cast	David Luckenbach	Security Officer
+cast	Neil J. Francis Jr.	Cop #1
+cast	Andre Melchor	Cop #2
+cast	Karel King	Swayzak Aide #1
+cast	Scott Baity	Swayzak Aide #2
+cast	Gretchen Erickson	Bar Patron
+cast	Joan Esposito	Television Reporter
+cast	Bob Rice	Detective
+cast	Marcella DeTineo	Nurse
+cast	Jane MacIver	Retirement Party Schmoozer
+cast	Burton Stencel	Retirement Party Schmoozer
+cast	Robert Martell	Retirement Party Roaster
+cast	Tony G. Chrisos	Politico
+cast	Cay DeVos	Politico
+cast	Gregory Lundsgaard	High Rise Fireman
+cast	Charles Burns Jr.	Battalion Chief at Mannequin Fire
+cast	Louise Woolf	Falling Chair Lady
+cast	Ian A. Nevers	Nervous Probie
+cast	Kelsey E. McMahon	Child Rescued at '70s Fire
+cast	Fidel Moreno	'70s Onlooker
+cast	Zan Heber	Reporter
+cast	Ilene Kwitny	Reporter
+cast	Jane Alderman	Reporter
+cast	Kevin Petersen	Doctor
+cast	Thomas A. Senderak	Fireman
+cast	Michael Allen Mark	Fireman
+cast	John Duda	Stephen, Age 12
+cast	Jackie Moran	Musician
+cast	Larry Nazimek	Police Officer
+cast	David Saunders	Candidate
+cast	Dan Tullis Jr.	Engine 17 Firefighter
+cast	Linda Wylie	Photographer

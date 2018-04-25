@@ -1,0 +1,175 @@
+year	2009
+imdb score	4.8
+meta score	17
+genre	Comedy
+keyword	crossword puzzle
+keyword	eccentric
+keyword	blind date
+keyword	fall
+keyword	mine shaft
+keyword	tornado
+keyword	woman on top
+keyword	groping
+keyword	boots
+keyword	friendship
+keyword	protestor
+keyword	craziness
+keyword	woman initiating sex
+keyword	human deformity
+keyword	premarital sex
+keyword	hostage situation
+keyword	elementary school
+keyword	twinkies
+keyword	being followed
+keyword	truck driver
+keyword	obscene finger gesture
+keyword	tv news
+keyword	breast fondling
+keyword	tucson arizona
+keyword	friendless
+keyword	van
+keyword	camera man
+keyword	wordsmith
+keyword	sign language
+keyword	deaf children
+keyword	pretending to be dead
+keyword	journalism
+keyword	smart girl
+keyword	attraction
+keyword	rivalry
+keyword	rainstorm
+keyword	jewish
+keyword	sacramento california
+keyword	news footage
+keyword	school teacher
+keyword	girl stripped down to bra
+keyword	interview
+keyword	parents
+keyword	scene after end credits
+keyword	casual sex
+keyword	intelligence
+keyword	voice over narration
+keyword	rescue
+keyword	crane
+keyword	asperger's syndrome
+keyword	newspaper
+keyword	doll
+keyword	lie
+keyword	road trip
+keyword	heavy petting
+keyword	news reporter
+keyword	normalcy
+keyword	woman pursuing man
+keyword	elation
+keyword	news anchor
+keyword	hamster
+keyword	bad advice
+keyword	adult lives at home
+keyword	office
+keyword	abandoned mine
+keyword	children in peril
+keyword	fired from the job
+keyword	fully clothed sex
+keyword	school career day
+keyword	note
+keyword	vibrating cell phone
+keyword	critically bashed
+keyword	bad date
+keyword	lust
+keyword	local newspaper
+keyword	gremlin
+keyword	coworker relationship
+keyword	disguise
+keyword	woman in danger
+keyword	umbrella
+keyword	red bra
+keyword	galveston texas
+keyword	television crew
+keyword	sex in car
+keyword	guilt
+keyword	bubble bath
+keyword	cross country
+keyword	woman in bra
+keyword	vigil
+keyword	riding bus
+keyword	friend
+keyword	cleavage
+keyword	abnormal behavior
+keyword	character name in title
+cast	Sandra Bullock	Mary Horowitz
+cast	Thomas Haden Church	Hartman
+cast	Bradley Cooper	Steve
+cast	Ken Jeong	Angus
+cast	DJ Qualls	Howard
+cast	Howard Hesseman	Mr. Horowitz
+cast	Keith David	Corbitt
+cast	Beth Grant	Mrs. Horowitz
+cast	Katy Mixon	Elizabeth
+cast	M.C. Gainey	Norm the Truck Driver
+cast	Holmes Osborne	Soloman
+cast	Delaney Hamilton	Little Deaf Girl
+cast	Jason Jones	Vasquez
+cast	Carlos Gómez	Rescue Supervisor
+cast	George Sharperson	Rescuer
+cast	Luenell	Protestor Lydia
+cast	Christina Carlisi	Teacher
+cast	Joe D'Angerio	ABC News Producer
+cast	Shanda Laurent	Bus Driver
+cast	Kerri Kenney	Miss Hancock
+cast	Stephanie Venditto	KNYT Reporter
+cast	P.J. Marino	KNYT Sound Tech
+cast	Wayne Grace	Retired Mine Supervisor
+cast	Mickey Giacomazzi	Skinny Fireman
+cast	Noah Munck	Large Kid
+cast	Bridget Shergalis	Mini-Mary
+cast	James Martin Kelly	Mine Safety Expert
+cast	Andrew Caldwell	Young Rescuer
+cast	Bryan Moore	Assistant
+cast	Rachel Sterling	Booby Botanist
+cast	Jackie Johnson	CCN Meteorologist
+cast	Regino Montes	Maintenance Guy
+cast	Elliott Cho	Daniel
+cast	Justin Grafman	Deaf Boy
+cast	Joy Darash	Hipster Girl
+cast	Jordan Green	Kid
+cast	Geraldo Rivera	Geraldo Rivera
+cast	Beverly Polcyn	Old Lady
+cast	Misha Dibono	Paula
+cast	Dori Kancher	Payroll Clerk
+cast	Vernard 'Bone' Hampton	Security Guard
+cast	Hari Kondabolu	Crossword Businessman
+cast	Jordan Morris	Protestor Winston
+cast	Dorie Barton	Horowitz House Reporter #1
+cast	Patrick Brown	Horowitz House Reporter #2
+cast	Alvera DeLeon	Horowitz House Reporter #3
+cast	Gillian Vigman	Misc.
+cast	Michael Joseph Carr	BBC Reporter
+cast	Larry Dorf	MSNBC Reporter
+cast	Darcy Fowers	Guest Expert
+cast	Charlyne Yi	Young Protester
+cast	Tyrone Giordano	Dad
+cast	Hollie Stenson	Another Reporter
+cast	Paul Beller	Firefighter
+cast	Kurt Ela	Reporter #1
+cast	Kelli Kirkland	Receptionist
+cast	Lucy Davis	Patient
+cast	Andre Alexsen	Colorado State Trooper
+cast	Hira Ambrosino	Mrs. Yamamoto
+cast	Sandra Berry	Cast Worker
+cast	DeeDee Bigelow	Saloon Gal
+cast	Carolyn Christian	Reporter #4
+cast	Kevin Copelan	Rescue Worker
+cast	Martin Dew	Reporter
+cast	Judy Dinella	Park Bench Girl
+cast	Ken Edling	Reporter
+cast	Nick Hodaly	CCN Arabic News Anchor
+cast	Eddie Jemison	Psychiatrist with Crossword Puzzle
+cast	Gregg Lee	Hippie Protester
+cast	Rae Sunshine Lee	Hippie Protester
+cast	Patterson Lundquist	BSBC Cameraman
+cast	Ben Macdonald	Australian News Anchor
+cast	John Robert	Rescuer
+cast	Sara Sanderson	Houston Anchor
+cast	Carol Shook	Reporter
+cast	Antonio T. Tillman	Crowd Instigator
+cast	JonJon Wood	Park Bench Guy

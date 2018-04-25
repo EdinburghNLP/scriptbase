@@ -1,0 +1,136 @@
+year	1984
+imdb score	6.9
+meta score	75
+genre	Comedy
+genre	Crime
+genre	Sci-Fi
+keyword	repossession
+keyword	punk
+keyword	ufo
+keyword	urban
+keyword	police
+keyword	punk rocker
+keyword	televangelist
+keyword	los angeles storm drain
+keyword	flying car
+keyword	killer car
+keyword	talking backwards
+keyword	macguffin
+keyword	x rayed skeleton
+keyword	punk music
+keyword	telephone booth
+keyword	credits rolling down
+keyword	punk rock music
+keyword	extraterrestrial
+keyword	auto repossession
+keyword	torture
+keyword	helicopter
+keyword	surrealism
+keyword	experiment gone wrong
+keyword	violence
+keyword	conspiracy theory
+keyword	gay slur
+keyword	sushi
+keyword	absurd
+keyword	los angeles california
+keyword	reference to john wayne
+keyword	cult
+keyword	cult film
+keyword	california
+keyword	robbery
+keyword	punk girl
+keyword	mirror
+keyword	cocaine snorting
+keyword	radioactive
+keyword	cocaine
+keyword	black comedy
+keyword	chase
+keyword	cia
+keyword	futuristic
+keyword	cocaine use
+keyword	mad scientist
+keyword	air freshener
+keyword	independent film
+keyword	
+cast	Harry Dean Stanton	Bud
+cast	Emilio Estevez	Otto
+cast	Tracey Walter	Miller
+cast	Olivia Barash	Leila
+cast	Sy Richardson	Lite
+cast	Susan Barnes	Agent Rogersz
+cast	Fox Harris	J. Frank Parnell
+cast	Tom Finnegan	Oly
+cast	Del Zamora	Lagarto
+cast	Eddie Velez	Napo
+cast	Zander Schloss	Kevin
+cast	Jennifer Balgobin	Debbi
+cast	Dick Rude	Duke
+cast	Miguel Sandoval	Archie
+cast	Vonetta McGee	Marlene
+cast	Richard Foronjy	Plettschner
+cast	Bruce White	Reverend Larry
+cast	Biff Yeager	Agent B
+cast	Ed Pansullo	Agent E
+cast	Steve Mattson	Agent S
+cast	Thomas R. Boyd	Agent T
+cast	Charles Hopkins	Mr. Humphries
+cast	Helen Martin	Mrs. Parks
+cast	Jon St. Elwood	Miner
+cast	Kelitta Kelly	Delilah
+cast	Varnum Honey	Motorcycle Cop
+cast	Sue Kiel	Ms. Magruder
+cast	David Chung	Sheriff
+cast	Cynthia Szigeti	U.F.O. Lady
+cast	Dorothy Bartlett	English Dustbin Lady
+cast	Jonathon Hugger	Otto Dad
+cast	Sharon Gregg	Otto Mom
+cast	Dale Reynolds	Peason
+cast	Jac McAnelly	Pakman
+cast	Shep Wickham	Additional Blond Agent
+cast	Gregg Taylor	Additional Blond Agent
+cast	Jon Fondy	Additional Blond Agent
+cast	Keith Miley	Additional Blond Agent
+cast	Michael Bennett	Additional Blond Agent
+cast	Brad Jamieson	Additional Blond Agent
+cast	Jimmy Buffett	Additional Blond Agent
+cast	Janet Chan	Repo Wife #1
+cast	Angelique Pettyjohn	Repo Wife #2
+cast	Logan Carter	Repo Wife #3
+cast	Laura Sorrenson	Repo Wife #4
+cast	George Sawaya	First Repo Victim
+cast	Connie Ponce	Repo Victim's Wife
+cast	Bob Ellis	Soda Jerk
+cast	Quentin Gutierrez	Tow Truck Driver
+cast	Richard Surukawa	Liquor Store Clerk #1
+cast	'Earthquake' Hesson	Liquor Store Clerk #2
+cast	Keith Morris	Nightclub Band Member
+cast	Greg Hetson	Nightclub Band Member
+cast	Chuck Biscuits	Nightclub Band Member
+cast	Earl Liberty	Nightclub Band Member
+cast	Clyde Grimes	Scooter Guys Member
+cast	Chuck Askerneese	Scooter Guys Member
+cast	Kevin Long	Scooter Guys Member
+cast	Jerry Miller	Scooter Guys Member
+cast	Rob Lampron	Scooter Guys Member
+cast	Josh Harris	Scooter Guys Member
+cast	Herman Askerneese	Scooter Guys Member
+cast	Kim Williams	Laundry Person
+cast	Michele Person	Laundry Person
+cast	Wally Cronin	Doctor
+cast	Monona Wali	Nurse
+cast	Delores Delux	Nurse
+cast	Cosmo Mata	Bouncer
+cast	Rodney Bingenheimer	Club Owner
+cast	Jorge Martínez	Tennis Player
+cast	Melanie Schloss	Tennis Player
+cast	Nancy Richardson	Tennis Player
+cast	Con Covert	Harry Pace
+cast	Luis Contreras	Mr. Humphries' Security Guard
+cast	Alex Cox	Carwash Attendant
+cast	Todd Darling	
+cast	Linda Jensen	
+cast	Tom Musca	
+cast	Fox Purtill	Radiation suit
+cast	Terry Schwartz	
+cast	Peter Wacks	
+cast	Abbe Wool	

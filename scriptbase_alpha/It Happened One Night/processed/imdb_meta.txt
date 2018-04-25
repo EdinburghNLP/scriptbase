@@ -1,0 +1,273 @@
+year	1934
+imdb score	8.3
+meta score	N/A
+genre	Comedy
+genre	Romance
+keyword	reporter
+keyword	bus
+keyword	yacht
+keyword	love
+keyword	aviator
+keyword	reward
+keyword	marriage
+keyword	walls of jericho
+keyword	heiress
+keyword	diving
+keyword	police
+keyword	thief
+keyword	travel
+keyword	newspaper
+keyword	motel
+keyword	detective
+keyword	money
+keyword	running away
+keyword	motorcycle
+keyword	tuxedo
+keyword	search
+keyword	train
+keyword	lifting skirt
+keyword	cabin
+keyword	boy
+keyword	fake kidnapping
+keyword	writer
+keyword	singing quartet
+keyword	undressing
+keyword	toothbrush
+keyword	remarriage
+keyword	reference to edmond hoyle
+keyword	tonsils
+keyword	rope
+keyword	jacksonville florida
+keyword	wedding veil
+keyword	kiss
+keyword	character appears in newspaper
+keyword	piggy back ride
+keyword	runaway bride
+keyword	theft
+keyword	singer
+keyword	carrot
+keyword	reference to santa claus
+keyword	maid
+keyword	new york city
+keyword	veil
+keyword	wedding dress
+keyword	fence
+keyword	guitar
+keyword	swimming
+keyword	film camera
+keyword	coffee
+keyword	fainting
+keyword	honking a car horn
+keyword	apology
+keyword	sleeping outside
+keyword	flat tire
+keyword	suitcase
+keyword	sitting on a fence
+keyword	car brakes
+keyword	hobo
+keyword	airplane
+keyword	honeymoon
+keyword	face slap
+keyword	missing person
+keyword	campground
+keyword	bridge washout
+keyword	photographer
+keyword	breakfast
+keyword	river
+keyword	trenchcoat
+keyword	canceled wedding
+keyword	police escort
+keyword	telephone call
+keyword	claim in title
+keyword	male slaps female
+keyword	cigar smoking
+keyword	eating
+keyword	pen knife
+keyword	montage
+keyword	crying
+keyword	miami florida
+keyword	motorcycle cop
+keyword	bus driver
+keyword	pipe smoking
+keyword	class differences
+keyword	journalism
+keyword	typewriter
+keyword	newspaper office
+keyword	song
+keyword	car theft
+keyword	limping
+keyword	wrong side of the tracks
+keyword	auto camp
+keyword	hamburger stand
+keyword	telegraph operator
+keyword	box of chocolates
+keyword	overheated car
+keyword	editor
+keyword	blowing a kiss
+keyword	letter
+keyword	camera
+keyword	pajamas
+keyword	bare chested male
+keyword	egg
+keyword	runaway heiress
+keyword	slip the undergarment
+keyword	newspaper article
+keyword	pretending to have a gun in one's pocket
+keyword	newspaper headline
+keyword	pacific island
+keyword	tears
+keyword	fiddle
+keyword	bathrobe
+keyword	bank check
+keyword	rich snob
+keyword	rainstorm
+keyword	drunkenness
+keyword	wading across a river
+keyword	thumb
+keyword	bus accident
+keyword	sticking out one's tongue
+keyword	snoring
+keyword	cigarette smoking
+keyword	gas station attendant
+keyword	flashlight
+keyword	telegram
+keyword	blockbuster
+keyword	motel manager
+keyword	eye wound
+keyword	reference to gandhi
+keyword	runaway
+keyword	on the road
+keyword	gas station
+keyword	stealing a car
+keyword	reference to the big bad wolf
+keyword	drink
+keyword	1930s
+keyword	girl
+keyword	road movie
+keyword	carried over someone's shoulder
+keyword	doughnut
+keyword	pretending to cry
+keyword	trumpet
+keyword	hitchhiking
+keyword	cafe
+keyword	bus trip
+keyword	phone booth
+keyword	food
+keyword	thumbing nose
+keyword	bridal veil
+keyword	marriage annulment
+keyword	drinking
+keyword	mother son relationship
+keyword	curtain
+keyword	crossing guard
+keyword	shower
+keyword	sing along
+keyword	hunger
+keyword	pay phone
+keyword	sleeping
+keyword	teaching to hitchhike
+keyword	singing
+keyword	autogyro
+keyword	bus station
+keyword	husband wife relationship
+keyword	u.s. sailor
+keyword	whistling
+keyword	railroad crossing
+keyword	waiting in line
+keyword	haystack
+keyword	businessman
+keyword	gasoline
+keyword	filling station
+keyword	bed
+keyword	wedding
+keyword	crying on a bed
+keyword	bus ride
+keyword	fear
+keyword	intercom
+keyword	rain
+keyword	budget
+keyword	blanket
+keyword	policeman
+keyword	leg
+keyword	spoiled brat
+keyword	number in title
+cast	Clark Gable	Peter
+cast	Claudette Colbert	Ellie
+cast	Walter Connolly	Andrews
+cast	Roscoe Karns	Shapeley
+cast	Jameson Thomas	Westley
+cast	Alan Hale	Danker
+cast	Arthur Hoyt	Zeke
+cast	Blanche Friderici	Zeke's Wife
+cast	Charles C. Wilson	Gordon
+cast	Ernie Adams	The Bag Thief
+cast	Jessie Arnold	Woman at Auto Camp
+cast	Irving Bacon	Gas Station Attendant
+cast	William Bailey	Clark
+cast	Ward Bond	Bus Driver #1
+cast	Harry C. Bradley	Henderson
+cast	George P. Breakston	Boy Bus Passenger
+cast	Charles A. Browne	Reporter
+cast	James Burke	Detective
+cast	Edmund Burns	Best Man at Wedding
+cast	Ken Carson	Guitar Player on Bus
+cast	Eddy Chandler	Bus Driver #2
+cast	Wallis Clark	Lovington
+cast	Ray Cooke	Drunk Reporter
+cast	Joseph Crehan	Detective
+cast	Ray Creighton	Bus Passenger
+cast	Jack Curtis	Policeman
+cast	Mickey Daniels	Vendor on Bus
+cast	Eva Dennison	Society Woman
+cast	Neal Dodd	Minister at Wedding
+cast	Oliver Eckhardt	Mr. Dykes - Auto Camp Owner
+cast	Billy Engle	Bus Passenger
+cast	Jack Evans	Man Saying 'Your Bus Leaves in 5 Minutes'
+cast	Bess Flowers	Agnes - Gordon's Secretary
+cast	Allen Fox	Bus Passenger
+cast	Dolores Fuller	Minor Role
+cast	Joaquin Garay	Mexican Bus Passenger
+cast	Carlton Griffin	Wedding Guest
+cast	Kit Guard	Bus Passenger
+cast	Sherry Hall	Drunk Reporter
+cast	A.R. Haysel	Bus Dispatcher
+cast	Frank Holliday	Detective
+cast	Harry Holman	Last Auto Camp Manager
+cast	Harry Hume	Policeman
+cast	William Irving	Passenger on Second Bus
+cast	Sam Josephson	Bus Passenger
+cast	Milton Kibbee	Drunk Reporter
+cast	Mimi Lindell	Bus Passenger
+cast	Marvin Loback	Bus Passenger
+cast	Rose May	Bus Passenger
+cast	William McCall	Bus Passenger
+cast	Claire McDowell	Mother on Bus
+cast	Kate Morgan	Bus Passenger
+cast	Patsy O'Byrne	Bus Passenger
+cast	Earl Pingree	Policeman
+cast	Hal Price	Reporter
+cast	Margaret Reid	Bus Passenger
+cast	Ky Robinson	Detective
+cast	Blanche Rose	Bus Passenger
+cast	Rita Ross	Bus Passenger
+cast	Matty Roubert	Newsboy
+cast	Marvin Schecter	Bus Passenger
+cast	Harry Schultz	Bus Passenger
+cast	Bert Scott	Bus Passenger
+cast	Harry Semels	Bus Passenger
+cast	S.S. Simon	Bus Passenger
+cast	Linda Lee Solomon	Minor Role
+cast	Bert Starkey	Bus Passenger
+cast	Ethel Sykes	Maid of Honor
+cast	Jane Talent	Bus Passenger
+cast	Emma Tansey	Ticket Buyer
+cast	Harry Todd	Flagman at Railroad Crossing
+cast	Maidel Turner	Last Motel Manager's Wife
+cast	William Wagner	Waiter at Wedding
+cast	John Wallace	Bus Passenger
+cast	Fred Walton	Butler
+cast	Dave Wengren	Bus Passenger
+cast	Billy West	Reporter
+cast	Charles Wilroy	Bus Passenger
+cast	Buck Woods	Cook Serving Food to Passengers
+cast	Frank Yaconelli	Tony

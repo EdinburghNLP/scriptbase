@@ -1,0 +1,218 @@
+year	1988
+imdb score	5.6
+meta score	N/A
+genre	Horror
+genre	Thriller
+keyword	dream
+keyword	freddy krueger
+keyword	elm street
+keyword	nightmare
+keyword	demon
+keyword	fedora
+keyword	blood spatter
+keyword	falling asleep in class
+keyword	home video
+keyword	brother sister relationship
+keyword	lifting female in air
+keyword	bitten on the arm
+keyword	person on fire
+keyword	supernatural
+keyword	african american woman
+keyword	thrown through a wall
+keyword	pin up girl
+keyword	slasher
+keyword	underwater
+keyword	electronic music score
+keyword	gore
+keyword	martial arts
+keyword	murder
+keyword	supernatural power
+keyword	pin up
+keyword	pizza
+keyword	revenge
+keyword	digit in title
+keyword	rampage
+keyword	sequel
+keyword	plant in title
+keyword	horror pizza
+keyword	dart board
+keyword	death of boyfriend
+keyword	skeleton
+keyword	junkyard
+keyword	body in a trunk
+keyword	broken arm
+keyword	woman with glasses
+keyword	kicked in the face
+keyword	serial child killer
+keyword	dog
+keyword	boiler room
+keyword	car crash
+keyword	cemetery
+keyword	reference to aristotle
+keyword	falling asleep
+keyword	bug
+keyword	little girl
+keyword	waterbed
+keyword	widower
+keyword	stabbed in the chest
+keyword	sleeping
+keyword	head ripped off
+keyword	terror
+keyword	fire
+keyword	rock music
+keyword	teenager
+keyword	burnt face
+keyword	finnish director
+keyword	bare chested male
+keyword	high school
+keyword	reanimation
+keyword	weightlifting
+keyword	cigarette smoking
+keyword	climbing through a window
+keyword	reflection in water
+keyword	mother daughter relationship
+keyword	asleep at the wheel
+keyword	locker room
+keyword	severed head
+keyword	hospital
+keyword	burn scar
+keyword	daydreaming
+keyword	falling through the floor
+keyword	daydream
+keyword	time loop
+keyword	crushed to death
+keyword	overprotective father
+keyword	character repeating someone else's dialogue
+keyword	cult film
+keyword	water fountain
+keyword	series
+keyword	neighbor
+keyword	old dark house
+keyword	topless female nudity
+keyword	child killer
+keyword	back from the dead
+keyword	ambulance
+keyword	bandana
+keyword	blood in water
+keyword	maniac
+keyword	nunchuck
+keyword	elevator
+keyword	dog urination
+keyword	homicidal maniac
+keyword	sand castle
+keyword	abusive father
+keyword	troubled teen
+keyword	urination
+keyword	slow motion
+keyword	psychopath
+keyword	stabbed to death
+keyword	dripping blood
+keyword	burn victim
+keyword	1980s
+keyword	bitten by a dog
+keyword	producer cameo
+keyword	lifting someone into the air
+keyword	villain played by lead actor
+keyword	cheerleader
+keyword	african american man
+keyword	street in title
+keyword	diner
+keyword	numbered sequel
+keyword	glasses
+keyword	african american
+keyword	hand through chest
+keyword	resurrection
+keyword	dead body in water
+keyword	tough guy
+keyword	school nurse
+keyword	crushed by a car
+keyword	fourth part
+keyword	father daughter relationship
+keyword	surgery
+keyword	springwood ohio
+keyword	beach
+keyword	teenager
+keyword	teen angst
+keyword	theatre marquee
+keyword	place name in title
+keyword	sleeping pills
+keyword	kicked in the stomach
+keyword	hole through torso
+keyword	fish tank
+keyword	corpse
+keyword	afraid to sleep
+keyword	needle
+keyword	looking at self in mirror
+keyword	scar tissue
+keyword	rain
+keyword	photograph
+keyword	punching bag
+keyword	face slap
+keyword	serial killer
+keyword	soul
+keyword	severed arm
+keyword	lucid dream
+keyword	returning character with different actor
+keyword	black and white scene
+keyword	asthma
+keyword	stabbed in the head
+keyword	undead
+keyword	funeral
+keyword	deja vu
+keyword	father son relationship
+keyword	hand through head
+keyword	volkswagen car
+keyword	broken mirror
+keyword	waitress
+keyword	repeated event
+keyword	loss of best friend
+keyword	blood
+keyword	ohio
+keyword	returning character killed off
+keyword	tumbleweed
+keyword	punched in the face
+keyword	cockroach
+keyword	disfigurement
+keyword	defecation
+keyword	movie theater
+keyword	stabbed in the stomach
+keyword	coffin
+keyword	film starts with a quote
+keyword	jock
+keyword	man dressed as woman
+keyword	death of brother
+keyword	reflection in car mirror
+keyword	death of son
+keyword	death of friend
+keyword	independent film
+keyword	number in title
+keyword	surprise ending
+cast	Lisa Wilcox	Alice Johnson
+cast	Andras Jones	Rick Johnson
+cast	Danny Hassel	Dan Jordan
+cast	Rodney Eastman	Joey Crusel
+cast	Tuesday Knight	Kristen Parker
+cast	Ken Sagoes	Roland Kincaid
+cast	Brooke Bundy	Elaine Parker
+cast	Nicholas Mele	Mr. Dennis Johnson
+cast	Toy Newkirk	Sheila Kopecky
+cast	Brooke Theiss	Debbie Stevens
+cast	Robert Englund	Freddy Krueger
+cast	Jacquelyn Masche	Mrs. Crusel
+cast	Hope Marie Carlton	Pin Up Girl
+cast	Richard Garrison	Doctor
+cast	John Beckman	Coach
+cast	Mickey Yablans	Buddy in Locker Room
+cast	Kristen Clayton	Alice
+cast	Jody Montana	Buddy in Diner
+cast	Cheryl Richardson	Girl
+cast	Linnea Quigley	Soul from Freddy's Chest
+cast	Joie Magidow	Physics Teacher
+cast	Joanna Lipari	Nurse
+cast	Wanda Bursey	Friend in Mourning
+cast	Kisha Brackel	Friend
+cast	Pat O'Neal	Student
+cast	Duane Davis	Jock
+cast	Jeff Levine	Paramedic
+cast	Robert Shaye	Lecturer
+cast	Renny Harlin	Student in Classroom

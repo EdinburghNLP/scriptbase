@@ -1,0 +1,209 @@
+year	1998
+imdb score	8.6
+meta score	62
+genre	Crime
+genre	Drama
+keyword	prison
+keyword	skinhead
+keyword	neo nazi
+keyword	gang
+keyword	racism
+keyword	murder
+keyword	hatred
+keyword	white supremacist
+keyword	prejudice
+keyword	gang violence
+keyword	boyfriend girlfriend relationship
+keyword	prison rape
+keyword	obscene finger gesture
+keyword	crying
+keyword	male underwear
+keyword	ethnic slur
+keyword	tragic event
+keyword	anti semitism
+keyword	xenophobia
+keyword	brother sister relationship
+keyword	police
+keyword	humiliation
+keyword	gang warfare
+keyword	eldest child
+keyword	aryan brotherhood
+keyword	kicked in the face
+keyword	manslaughter
+keyword	bare breasts
+keyword	raid
+keyword	curb stomping
+keyword	thong
+keyword	skull crushing
+keyword	poverty
+keyword	neo nazism
+keyword	psychopath
+keyword	remuneration
+keyword	bleeding anus
+keyword	anti fascism
+keyword	family tragedy
+keyword	little brother
+keyword	title appears in writing
+keyword	death threat
+keyword	jew
+keyword	dysfunctional family
+keyword	villain turns good
+keyword	director also cinematographer
+keyword	violence
+keyword	african american
+keyword	racist comment
+keyword	interrupted sex
+keyword	gang rape
+keyword	sex scene
+keyword	jerk
+keyword	crushed head
+keyword	hate crime
+keyword	racial tension
+keyword	punched in the face
+keyword	hate
+keyword	gay rape
+keyword	beating
+keyword	basketball
+keyword	boxer shorts
+keyword	madness
+keyword	bathroom
+keyword	prison shower
+keyword	racial slur
+keyword	bare butt
+keyword	blowing smoke in someone's face
+keyword	loss of brother
+keyword	nudity
+keyword	kiss on the cheek
+keyword	juvenile delinquent
+keyword	prison gang
+keyword	disarming a person with a gun
+keyword	black and white and color
+keyword	mother daughter relationship
+keyword	country name in title
+keyword	brutality
+keyword	vaginal sex
+keyword	widow
+keyword	female nudity
+keyword	group shower
+keyword	sodomy
+keyword	brother brother relationship
+keyword	film starts with sex
+keyword	swastika
+keyword	hypocrite
+keyword	death of brother
+keyword	single parent
+keyword	los angeles california
+keyword	principal
+keyword	swastika tattoo
+keyword	racial prejudice
+keyword	chelsea smile
+keyword	shower
+keyword	f word
+keyword	black & white to color
+keyword	affirmative action
+keyword	smothering with hands
+keyword	male on male rape
+keyword	white power
+keyword	bare chested male
+keyword	family relationships
+keyword	racial discrimination
+keyword	male frontal nudity
+keyword	male rape
+keyword	shot to death
+keyword	flashback
+keyword	tough guy
+keyword	blood splatter
+keyword	voice over narration
+keyword	male nudity
+keyword	stepfather stepson relationship
+keyword	anti semitic slur
+keyword	cult film
+keyword	crying man
+keyword	male full frontal nudity
+keyword	tattoo
+keyword	threat to kill
+keyword	teacher
+keyword	gunfire
+keyword	hypocrisy
+keyword	friendship between men
+keyword	mother son relationship
+keyword	harassment
+keyword	male rear nudity
+keyword	controversial film
+keyword	white supremacy
+keyword	anal rape
+keyword	blood
+keyword	loud sex
+keyword	father son relationship
+keyword	intolerance
+keyword	moral ambiguity
+keyword	korean grocer
+keyword	held at gunpoint
+keyword	woman on top
+keyword	literature
+keyword	viciousness
+keyword	tattooed swastika
+keyword	right wing
+keyword	threats and intimidation
+keyword	1990s
+keyword	student principal relationship
+keyword	incarceration
+keyword	narration from the grave
+keyword	death of son
+keyword	independent film
+keyword	title spoken by character
+keyword	surprise ending
+cast	Edward Norton	Derek Vinyard
+cast	Edward Furlong	Danny Vinyard
+cast	Beverly D'Angelo	Doris Vinyard
+cast	Jennifer Lien	Davina Vinyard
+cast	Ethan Suplee	Seth Ryan
+cast	Fairuza Balk	Stacey
+cast	Avery Brooks	Dr. Bob Sweeney
+cast	Elliott Gould	Murray
+cast	Stacy Keach	Cameron Alexander
+cast	William Russ	Dennis Vinyard
+cast	Guy Torry	Lamont
+cast	Joe Cortese	Rasmussen
+cast	Jason Bose Smith	Little Henry
+cast	Antonio David Lyons	Lawrence
+cast	Alex Sol	Mitch McCormick
+cast	Keram Malicki-Sánchez	Chris
+cast	Giuseppe Andrews	Jason
+cast	Zoë Adell	Lizzy
+cast	Jonathan Fowler Jr.	Jerome
+cast	Christopher Masterson	Daryl Dawson
+cast	Nicholas R. Oleson	Huge Aryan
+cast	Jordan Marder	Curtis
+cast	Paul Le Mat	McMahon
+cast	Thomas L. Bellissimo	Cop #2
+cast	Cherish Lee	Kammi
+cast	Sam Vlahos	Dr. Aguilar
+cast	Tara Blanchard	Ally Vinyard
+cast	Anne Lambton	Cassandra
+cast	Steve Wolford	Reporter
+cast	Richard Noyce	Desk Sergeant
+cast	Danso Gordon	Buddy #1
+cast	Jim Norton	Randy
+cast	David Basulto	Guard
+cast	Alexis Rose Coen	Young Ally Vinyard
+cast	Kiante Elam	Lawrence's Partner
+cast	Paul Hopkins	Student
+cast	Keith Odett	Random Skinhead
+cast	Paul E. Short	Stocky Buddy
+cast	Nigel Miguel	Basketball Player
+cast	Darrell Britt	White Supremicist
+cast	Robert 'Duckie' Carpenter	Skinhead
+cast	Sydney 'Big Dawg' Colston	Prison Gang Leader
+cast	Hans Cozzens	Police officer #2
+cast	John Embry	Parking Lot Skinhead
+cast	Maximillian Kesmodel	Young Danny Vinyard
+cast	Barbie Marie	Student
+cast	Allie Moss	Skinhead Girlfriend
+cast	Denney Pierce	Arresting Officer
+cast	Glendon Rich	Deputy Sheriff
+cast	Louis E. Rosas	Jail Inmate
+cast	Sam Sarpong	Jail Inmate
+cast	Mark Swanson	Skinhead in Store
+cast	Jeremy Sweet	Skinhead
+cast	Selwyn Ward	High School Student Leaving Bathroom

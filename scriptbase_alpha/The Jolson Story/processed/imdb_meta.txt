@@ -1,0 +1,72 @@
+year	1946
+imdb score	7.6
+meta score	N/A
+genre	Biography
+genre	Drama
+genre	Music
+keyword	face paint
+keyword	painted face
+keyword	blackface
+keyword	florenz ziegfeld
+keyword	blockbuster
+keyword	character name in title
+cast	Larry Parks	Al Jolson
+cast	Evelyn Keyes	Julie Benson
+cast	William Demarest	Steve Martin
+cast	Bill Goodwin	Tom Baron
+cast	Ludwig Donath	Cantor Yoelson
+cast	Scotty Beckett	Asa Yoelson / Al Jolson, as a boy
+cast	Tamara Shayne	Mrs. Yoelson
+cast	Jo-Carroll Dennison	Ann Murray
+cast	John Alexander	Lew Dockstader
+cast	Ernest Cossart	Father McGee
+cast	The Robert Mitchell Boy Choir	Church Choir
+cast	Jessie Arnold	Wardrobe Woman
+cast	Nita Bieber	Dancer in nightclub revue
+cast	Lilian Bond	Woman
+cast	Symona Boniface	Woman in Audience
+cast	Eugene Borden	Headwaiter
+cast	Bill Brandt	Nightclub Orchestra Leader
+cast	Clay Campbell	Makeup Artist for 'The Jazz Singer'
+cast	James Conaty	Man in Audience / Nightclub Patron
+cast	Donna Dax	Girl Publicist
+cast	Franklyn Farnum	Man in Audience
+cast	Eddie Fetherston	Asst. Stage Manager
+cast	Bess Flowers	Woman in Audience / Nightclub Patron
+cast	William Forrest	Dick Glenn
+cast	Buddy Gorman	Jimmy, the Call Boy
+cast	Sam Harris	Nightclub Patron
+cast	Fred Howard	Man in Audience
+cast	Coulter Irwin	John, Young Priest
+cast	Al Jolson	Himself - in long shot of 'Swanee'
+cast	Charles Jordan	Dockstader's Stage Manager
+cast	Eddie Kane	Florenz Ziegfeld
+cast	Edward Keane	Winter Garden Director
+cast	Robert Kellard	Henry, Orchestra Leader
+cast	P.J. Kelly	Doorman
+cast	Mike Lally	Lab Manager
+cast	Pat Lane	Cameraman
+cast	Jimmy Lloyd	Roy Anderson
+cast	Arthur Loft	Winter Garden Stage Manager
+cast	George Magrill	Gaffer
+cast	Charles Marsh	Man in Audience
+cast	Thomas Martin	Party Guest
+cast	Edwin Maxwell	Oscar Hammerstein
+cast	Frank McClure	Party Guest
+cast	Harold Miller	Night Club Patron
+cast	Robert Mitchell	Choir Conductor
+cast	Helen O'Hara	Dancer
+cast	Joe Palma	Worker in Railroad Yard
+cast	Eddie Rio	Nightclub Master of Ceremonies
+cast	Adele Roberts	Dancer
+cast	Alex Romero	Dancer
+cast	Fred F. Sears	Oscar - Cutter
+cast	Harry Shannon	Policeman Reilly
+cast	Ted Stanhope	Electrician
+cast	Brick Sullivan	Man in Audience
+cast	Ann E. Todd	Ann Murray as a Child
+cast	John Tyrrell	Railroad Watchman
+cast	Emmett Vogan	Jonsey
+cast	Eric Wilton	Henry the Butler
+cast	Rudy Wissler	Asa Yoelson
+cast	Will Wright	Sourpuss Movie Patron

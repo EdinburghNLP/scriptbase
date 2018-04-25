@@ -1,0 +1,91 @@
+year	1992
+imdb score	7.1
+meta score	N/A
+genre	Drama
+keyword	africa
+keyword	tobacco
+keyword	concentration camp
+keyword	swastika
+keyword	concert
+keyword	discrimination
+keyword	bullying
+keyword	dead chicken
+keyword	racial
+keyword	world war two
+keyword	defecation
+keyword	chicken
+keyword	medicine man
+keyword	boxing
+keyword	shower
+keyword	urination
+keyword	apartheid
+keyword	based on novel
+keyword	independent film
+keyword	number in title
+cast	Nomadlozi Kubheka	Nanny
+cast	Agatha Hurle	Midwife
+cast	Nigel Ivy	P.K. Newborn
+cast	Tracy Brooks Swope	Mother
+cast	Brendan Deary	P.K. Infant
+cast	Winston Mangwarara	Tonderai Infant
+cast	Guy Witcher	P.K. Age 7
+cast	Tonderai Masenda	Tonderai
+cast	Cecil Zilla Mamanzi	Ranch Foreman
+cast	John Turner	Afrikaner Minister
+cast	Robbie Bulloch	Jaapie Botha
+cast	Gordon Arnell	Minister at Mother's Funeral
+cast	Jeremiah Mnisi	Dabula Manzi
+cast	Armin Mueller-Stahl	Doc
+cast	Paul Tingay	Grandfather
+cast	Hywell Williams	Captain
+cast	Michael Brunner	Cmdt. Van Zy
+cast	Clive Russell	Sgt. Bormann
+cast	Gert Van Niekirk	Lt. Smit
+cast	Morgan Freeman	Geel Piet
+cast	Simon Fenton	P.K. Age 12
+cast	Winston Ntshona	Mlungisi
+cast	Ed Beeten	Prison Commissioner
+cast	John Gielgud	St. John
+cast	Stephen Dorff	P.K. Age 18
+cast	Dominic Walker	Morrie Gilbert
+cast	Robert Thomas Reed	School Fight Opponent
+cast	Fay Masterson	Maria
+cast	Roy Francis	Referee
+cast	Clare Cobbold	Maria's Friend #1
+cast	Natalie Morse	Maria's Friend #2
+cast	Alois Moyo	Gideon Duma
+cast	John Osborne	Guard, School Gate
+cast	Simon Shumba	Man Without Pass
+cast	Stan Leih	Van Cop #1
+cast	Rod Campbell	Van Cop #2
+cast	Adam Fogerty	Andress Malan
+cast	Ian Roberts	Hoppie Gruenewald
+cast	Tony Denham	Boxing Partner
+cast	Marius Weyers	Prof. Daniel Marais
+cast	Eric Nobbs	City Cop #1
+cast	Edward Jordan	City Cop #2
+cast	Brian O'Shaughnessy	Col. Bretyn
+cast	Daniel Craig	Sgt. Botha
+cast	Faith Edwards	Miriam Sisulu
+cast	Raymond Barreto	Indian Referee
+cast	Liz Ngwenya	Nganga Ancient Woman
+cast	Andrew Whaley	Ticket Taker
+cast	Dominic Makuwachuma	Joshua
+cast	Lungani Sibanda	Student
+cast	Akim Mwale	Student
+cast	Pesedena Dinah	Student
+cast	Rosemary Chikobwe Sibanda	Student
+cast	Martha Gibson Mtika	Student
+cast	Joel Phiri	Student
+cast	Peggy Moyo	Student
+cast	David Khabo	Student
+cast	David Guzawa	Student
+cast	Robin Annison	Anita
+cast	Christien Anholt	Date at Dinner
+cast	Nigel Pegram	Man Guest #1
+cast	Jon Cartwright	Jacob
+cast	Pieter Janse van Vuuren	Minister at Maria's Funeral
+cast	Marcia Coleman	Woman Guest
+cast	Banele Dala Moyo	Boy Who Reads
+cast	Garth Inns	Headmaster
+cast	Tyrone Jeffers	Student

@@ -1,0 +1,196 @@
+year	2001
+imdb score	5.7
+meta score	50
+genre	Action
+genre	Adventure
+genre	Sci-Fi
+genre	Thriller
+keyword	planet
+keyword	astronaut
+keyword	gorilla
+keyword	general
+keyword	cage
+keyword	space station
+keyword	wormhole
+keyword	primitive
+keyword	chimpanzee
+keyword	socialism
+keyword	use of phrase bad hair day
+keyword	crash landing
+keyword	hatred
+keyword	statue of liberty new york city
+keyword	lincoln memorial washington d.c.
+keyword	desert
+keyword	altering history
+keyword	love triangle
+keyword	senator
+keyword	soul
+keyword	slave trader
+keyword	slave dealer
+keyword	cult director
+keyword	christ figure
+keyword	science
+keyword	fate
+keyword	false prophet
+keyword	hypocrisy
+keyword	metaphor
+keyword	dinner party
+keyword	friend
+keyword	time warp
+keyword	breeding
+keyword	distant future
+keyword	destiny
+keyword	fear
+keyword	reversal of fortune
+keyword	simian fiction
+keyword	servant
+keyword	horse
+keyword	remake of cult film
+keyword	good versus evil
+keyword	sterility
+keyword	ape man
+keyword	scarecrow
+keyword	politics
+keyword	storm
+keyword	spacecraft accident
+keyword	military
+keyword	electromagnetic wave
+keyword	nude swimming
+keyword	death
+keyword	progenitor
+keyword	savior
+keyword	swimming
+keyword	power
+keyword	slave trade
+keyword	literary adaptation
+keyword	mutiny
+keyword	symbolism
+keyword	re boot
+keyword	upside down civilization
+keyword	explosion
+keyword	remake
+keyword	planet of the apes
+keyword	slave driver
+keyword	orangutan
+keyword	underdog
+keyword	time travel
+keyword	cult film
+keyword	2020s
+keyword	tribe
+keyword	monument
+keyword	mounted police
+keyword	religion
+keyword	evolution
+keyword	deus ex machina
+keyword	mythology
+keyword	sorcery
+keyword	washington d.c.
+keyword	captive
+keyword	u.s. air force
+keyword	teardrop
+keyword	gun
+keyword	year 2001
+keyword	colonel
+keyword	escape pod
+keyword	skinny dipping
+keyword	slave
+keyword	supernova
+keyword	neck breaking
+keyword	video diary
+keyword	sci fi movie remake
+keyword	sadness
+keyword	card cheat
+keyword	battle
+keyword	dominance
+keyword	friendship
+keyword	basketball
+keyword	prison camp
+keyword	space opera
+keyword	wilhelm scream
+keyword	racism
+keyword	spacecraft
+keyword	ostracism
+keyword	alternate history
+keyword	fear of water
+keyword	outer space
+keyword	rebellion
+keyword	genetic engineering
+keyword	studio logo segues into film
+keyword	branding iron
+keyword	slavery
+keyword	based on novel
+keyword	surprise ending
+keyword	
+cast	Mark Wahlberg	Captain Leo Davidson
+cast	Tim Roth	Thade
+cast	Helena Bonham Carter	Ari
+cast	Michael Clarke Duncan	Attar
+cast	Paul Giamatti	Limbo
+cast	Estella Warren	Daena
+cast	Cary-Hiroyuki Tagawa	Krull
+cast	David Warner	Sandar
+cast	Kris Kristofferson	Karubi
+cast	Erick Avari	Tival
+cast	Lucas Elliot Eberl	Birn
+cast	Evan Parke	Gunnar
+cast	Glenn Shadix	Senator Nado
+cast	Freda Foh Shen	Bon
+cast	Chris Ellis	Commander Karl Vasich
+cast	Anne Ramsay	Lt. Col. Grace Alexander
+cast	Andrea Grano	Major Maria Cooper
+cast	Michael Jace	Major Frank Santos
+cast	Michael Wiseman	Specialist Hansen
+cast	Lisa Marie	Nova
+cast	Eileen Weisinger	Leeta
+cast	Deep Roy	Gorilla Kid / Thade's Niece
+cast	Chad Bannon	Red Ape Soldier / Man Hunt Ape
+cast	Kevin Grevioux	Limbo's 1st Handler / Ape Commander / 2nd Ape Soldier
+cast	Isaac C. Singleton Jr.	Limbo's 2nd Handler / 1st Ape Soldier
+cast	Quincy Taylor	Ape Soldier
+cast	John Alexander	Ape Dinner Guest / Old Man Servant / Old Ape #1
+cast	Jay Caputo	1st Ape Teenager / 2nd Ape Soldier
+cast	Philip Tan	2nd Ape Teenager / Gossiping Male Ape
+cast	Callie Croughwell	Little Human Girl
+cast	Allie Habberstad	Girl Pet
+cast	Brett Smrz	Human Kid #1
+cast	Howard Berger	Gorilla
+cast	Rick Baker	Old Ape #2
+cast	Cameron Croughwell	Ape Soccer Kid
+cast	Joshua Croughwell	Ape Soccer Kid
+cast	Hannah Peitzman	Ape Soccer Kid
+cast	Molly Peitzman	Ape Soccer Kid
+cast	Jesse Tipton	Ape Soccer Kid
+cast	Shane Habberstad	Ape Soccer Kid
+cast	Chet Zar	Fruit Vendor
+cast	Linda Harrison	Woman In Cart
+cast	Eddie Adams	Friend At Leo's Party
+cast	Todd Babcock	Friend At Leo's Party
+cast	Lorenzo Callender	Friend At Leo's Party
+cast	Shonda Farr	Friend At Leo's Party
+cast	Kam Heskin	Friend At Leo's Party
+cast	Jim Holmes	Friend At Leo's Party
+cast	Todd Kimsey	Friend At Leo's Party
+cast	Candace Kroslak	Friend At Leo's Party
+cast	Joanna Krupa	Friend At Leo's Party
+cast	Elizabeth Lackey	Friend At Leo's Party
+cast	Mark Christopher Lawrence	Friend At Leo's Party
+cast	Melody Perkins	Friend At Leo's Party
+cast	Tate Taylor	Friend At Leo's Party
+cast	Jonna Giovanna	Friend At Leo's Party
+cast	Craig Appel	Ape Warrior
+cast	Spitfire Brown	Ape Warrior #7
+cast	Paul Bunnell	Red Army Chimp
+cast	Adam Carrera	Human Slave
+cast	Jeffrey Clark	
+cast	Toby Cockerell	Ape Warrior
+cast	Johnny Drocco	Orangutan
+cast	Dragon Dronet	Red Army Gorilla #2
+cast	Patrick Coleman Duncan	Orangutan with Briefcase
+cast	Orlando Estrada	Red Army Chimp #2
+cast	Charlton Heston	Zaius
+cast	Marc Joseph	Red Army Chimp
+cast	Martin Klebba	Monkey Grinders Pet
+cast	Jesse Kristofferson	Starving Human
+cast	Eric Lichtenberg	Red Army Chimp
+cast	Daren Palacio	Ape Warrior
+cast	Nils Allen Stewart	Scar

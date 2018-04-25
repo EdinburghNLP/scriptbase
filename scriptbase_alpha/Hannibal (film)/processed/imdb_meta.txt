@@ -1,0 +1,190 @@
+year	2001
+imdb score	6.7
+meta score	57
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	italy
+keyword	fbi
+keyword	hannibal lecter
+keyword	police
+keyword	florence italy
+keyword	reward
+keyword	cannibal
+keyword	serial killer
+keyword	fbi agent
+keyword	revenge
+keyword	cigar smoking
+keyword	torture
+keyword	uzi
+keyword	hanged man
+keyword	glock
+keyword	throat slitting
+keyword	fairy tale
+keyword	swat team
+keyword	pay phone
+keyword	death
+keyword	letter
+keyword	stun gun
+keyword	woman in jeopardy
+keyword	blood
+keyword	handcuffs
+keyword	human monster
+keyword	exposed brain
+keyword	female agent
+keyword	telephone
+keyword	wanted poster
+keyword	psychopath
+keyword	disfigurement
+keyword	stabbed in the chest
+keyword	murder
+keyword	self mutilation
+keyword	library
+keyword	man eating a pig
+keyword	flashback
+keyword	cell phone
+keyword	machine gun
+keyword	shot to death
+keyword	on the run
+keyword	opera
+keyword	police inspector
+keyword	child molester
+keyword	train station
+keyword	villain played by lead actor
+keyword	one word title
+keyword	wheelchair
+keyword	shot in the chest
+keyword	surveillance camera
+keyword	pistol
+keyword	boar
+keyword	drug dealer
+keyword	anthropophagus
+keyword	dea
+keyword	news report
+keyword	literary adaptation
+keyword	violence
+keyword	black comedy
+keyword	bitten in the neck
+keyword	fugitive
+keyword	sequel
+keyword	product placement
+keyword	shot in the arm
+keyword	severed hand
+keyword	kidnapping
+keyword	rescue
+keyword	fourth of july
+keyword	millionaire
+keyword	hanging
+keyword	disembowelment
+keyword	kissing
+keyword	surveillance
+keyword	cannibalism
+keyword	shoot
+keyword	brain eating
+keyword	sequel to cult favorite
+keyword	slasher
+keyword	mansion
+keyword	victim invited to dinner
+keyword	cigarette smoking
+keyword	shootout
+keyword	haunted by the past
+keyword	villain
+keyword	eaten alive
+keyword	criminal mastermind
+keyword	white house
+keyword	returning character with different actor
+keyword	washington d.c.
+keyword	gore
+keyword	neo noir
+keyword	self cannibalism
+keyword	2000s
+keyword	blockbuster
+keyword	bulletproof vest
+keyword	blood splatter
+keyword	eating brains
+keyword	forensic
+keyword	bitten in the throat
+keyword	pickpocket
+keyword	hit by a car
+keyword	psychiatrist
+keyword	person on fire
+keyword	street shootout
+keyword	gothic
+keyword	wealth
+keyword	homicidal maniac
+keyword	brain
+keyword	good versus evil
+keyword	carousel
+keyword	sequel to best picture winner
+keyword	shot in the shoulder
+keyword	based on novel
+keyword	character name in title
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Anthony Hopkins	Hannibal Lecter
+cast	Julianne Moore	Clarice Starling
+cast	Gary Oldman	Mason Verger
+cast	Ray Liotta	Paul Krendler
+cast	Frankie Faison	Nurse Barney
+cast	Giancarlo Giannini	Insp. Rinaldo Pazzi
+cast	Francesca Neri	Allegra Pazzi
+cast	Zeljko Ivanek	Dr. Cordell Doemling
+cast	Hazelle Goodman	Evelda Drumgo
+cast	David Andrews	FBI Agent Pearsall
+cast	Francis Guinan	FBI Asst. Director Noonan
+cast	James Opher	DEA Agent John Eldridge
+cast	Enrico Lo Verso	Gnocco
+cast	Ivano Marescotti	Carlo
+cast	Fabrizio Gifuni	Matteo
+cast	Alex Corrado	Piero
+cast	Marco Greco	Tommaso
+cast	Robert Rietty	Sogliato
+cast	Terry Serpico	Officer Bolton
+cast	Boyd Kestner	Special Agent Burke
+cast	Peter Shaw	Special Agent John Brigham
+cast	Kent Linville	Geoffrey, FBI Mail Boy
+cast	Don McManus	Asst. Mayor Benny Holcombe
+cast	Harold Ginn	Larkin Wayne, I.A.B.
+cast	Ted Koch	BATF Agent Bob Sneed
+cast	William Powell-Blair	FBI Agent
+cast	Aaron Craig	'Il Mostro' Detective
+cast	Andrea Piedimonte	Agent Franco Benetti
+cast	Ennio Coltorti	Ricci
+cast	Ian Iwataki	Young Boy in Plane
+cast	Mark Margolis	Perfume Expert
+cast	Ajay Naidu	Perfume Expert
+cast	Kelly Piper	Perfume Expert
+cast	Bruce MacVittie	FBI Tech with Lecter's Letter
+cast	Giannina Facio	Verger's Fingerprint Technician
+cast	Andrew C. Boothby	Police Officer
+cast	Kenneth W. Smith	Police Sergeant
+cast	Judie Aronson	News Reporter
+cast	Tom Trigo	News Reporter
+cast	Sam Wells	News Reporter
+cast	Ricardo Miguel Young	News Reporter
+cast	Joseph M. West Jr.	News Reporter
+cast	Roberta Armani	Theatergoer
+cast	Johannes Kiebranz	Mr. Konie
+cast	Bruno Lazzaretti	Dante
+cast	Danielle de Niese	Beatrice
+cast	Ray Bullock	Extra
+cast	Heidi Burger	Shopper
+cast	Robert Randolph Caton	Upscale Business Man
+cast	Douglas Crosby	Undercover DEA Agent
+cast	Renne Gjoni	FBI Agent Michaels
+cast	Gano Grills	Red Scarf Gang Banger
+cast	Jamie Harrold	Baltimore State Forensic Hospital Caretaker
+cast	Chuck Jeffreys	Gang Banger with Machine Gun
+cast	Cal Johnson	Swat Team Leader
+cast	Raymond H. Johnson	FBI Agent
+cast	Rick Kain	FBI Agent
+cast	Jalil Jay Lynch	Gang Banger in Basket Ball T-Shirt
+cast	Phil Neilson	Undercover DEA Agent
+cast	Frank Principe	Shopper
+cast	Franco Maria Salamon	Italian Detective
+cast	Derrick Simmons	Evelda Drumgo's Bodyguard
+cast	Brian Smyj	FBI Agent
+cast	Sebastiano Somma	Newspaper Vendor in Florence
+cast	Anthony Wanzer	Jogger
+cast	Gus Williams	Gang Banger with Shotgun

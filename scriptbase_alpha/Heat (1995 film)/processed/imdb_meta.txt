@@ -1,0 +1,243 @@
+year	1995
+imdb score	8.3
+meta score	76
+genre	Action
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	armored car
+keyword	bank
+keyword	criminal
+keyword	thief
+keyword	detective
+keyword	police
+keyword	gang
+keyword	heist
+keyword	gun battle
+keyword	robbery
+keyword	armored car robbery
+keyword	weapon
+keyword	prostitute killer
+keyword	glock
+keyword	murder
+keyword	shot in the forehead
+keyword	duel
+keyword	sex in bed
+keyword	loner
+keyword	blood spatter
+keyword	solitude
+keyword	parolee
+keyword	truck crash
+keyword	automatic rifle
+keyword	coffeehouse
+keyword	shotgun
+keyword	f word
+keyword	police officer killed
+keyword	money laundering
+keyword	husband wife relationship
+keyword	infidelity
+keyword	apartment
+keyword	coffee shop boss
+keyword	master thief
+keyword	drive in
+keyword	child in peril
+keyword	remake by original director
+keyword	shot in the shoulder
+keyword	last stand
+keyword	surveillance
+keyword	security guard
+keyword	los angeles california
+keyword	reference to donald duck
+keyword	shoot
+keyword	bearer bonds
+keyword	brutality
+keyword	sadness
+keyword	airport
+keyword	sniper
+keyword	shower
+keyword	hospital
+keyword	bookstore clerk
+keyword	betrayal
+keyword	criminal gang
+keyword	based on tv movie
+keyword	pursuit
+keyword	father daughter relationship
+keyword	career criminal
+keyword	marriage
+keyword	remake
+keyword	shot in the neck
+keyword	gangster
+keyword	explosion
+keyword	hostage
+keyword	marksman
+keyword	shaped charge
+keyword	boyfriend girlfriend relationship
+keyword	theft
+keyword	california
+keyword	honor
+keyword	strong language
+keyword	neo noir
+keyword	prostitute
+keyword	heist gone wrong
+keyword	serial killer
+keyword	policeman
+keyword	kissing while having sex
+keyword	ski mask
+keyword	shot in the chest
+keyword	death of protagonist
+keyword	mercy killing
+keyword	car accident
+keyword	bank heist
+keyword	revenge
+keyword	sniper rifle
+keyword	teen suicide
+keyword	escalation
+keyword	los angeles international airport
+keyword	criminal mastermind
+keyword	obsession
+keyword	confrontation
+keyword	violence
+keyword	tow truck
+keyword	kiss
+keyword	chase
+keyword	ex convict
+keyword	hockey mask
+keyword	muzzle flash
+keyword	firebomb
+keyword	teenage girl
+keyword	tragic event
+keyword	tough guy
+keyword	ambulance
+keyword	gunfight
+keyword	gambler
+keyword	m 16
+keyword	suicide attempt by slitting wrists
+keyword	new zealand
+keyword	one word title
+keyword	profanity
+keyword	attempted child suicide
+keyword	suspense
+keyword	spike strip
+keyword	ex con
+keyword	coffee
+keyword	suicide attempt
+keyword	witness protection
+keyword	actor plays character with same name
+keyword	dysfunctional family
+keyword	airplane
+keyword	mozambique drill
+keyword	masked robber
+keyword	extramarital affair
+keyword	attempted suicide
+keyword	crime saga
+keyword	suicide
+keyword	swat team
+keyword	epic
+keyword	psychopath
+keyword	marital strife
+keyword	police shootout
+keyword	showdown
+keyword	police detective
+keyword	crime epic
+keyword	armored truck
+keyword	retaliation
+keyword	death
+keyword	unfaithfulness
+keyword	bank robbery
+keyword	street shootout
+keyword	sensuality
+keyword	sunglasses
+keyword	machine gun
+keyword	hotel
+keyword	based on tv series
+keyword	pistol
+keyword	pistol whip
+keyword	cult film
+keyword	human shield
+keyword	gambling
+keyword	shot to death
+keyword	car fire
+keyword	shootout
+keyword	stepfather stepdaughter relationship
+keyword	blood
+keyword	one last job
+keyword	adultery
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Al Pacino	Lt. Vincent Hanna
+cast	Robert De Niro	Neil McCauley
+cast	Val Kilmer	Chris Shiherlis
+cast	Jon Voight	Nate
+cast	Tom Sizemore	Michael Cheritto
+cast	Diane Venora	Justine Hanna
+cast	Amy Brenneman	Eady
+cast	Ashley Judd	Charlene Shiherlis
+cast	Mykelti Williamson	Sergeant Drucker
+cast	Wes Studi	Detective Casals
+cast	Ted Levine	Bosko
+cast	Dennis Haysbert	Donald Breedan
+cast	William Fichtner	Roger Van Zant
+cast	Natalie Portman	Lauren Gustafson
+cast	Tom Noonan	Kelso
+cast	Kevin Gage	Waingro
+cast	Hank Azaria	Alan Marciano
+cast	Susan Traylor	Elaine Cheritto
+cast	Kim Staunton	Lillian
+cast	Danny Trejo	Trejo
+cast	Henry Rollins	Hugh Benny
+cast	Jerry Trimble	Schwartz
+cast	Martin Ferrero	Construction Clerk
+cast	Ricky Harris	Albert Torena
+cast	Tone Loc	Richard Torena
+cast	Begonya Plaza	Anna Trejo
+cast	Hazelle Goodman	Hooker's Mother
+cast	Ray Buktenica	Timmons
+cast	Jeremy Piven	Dr. Bob
+cast	Xander Berkeley	Ralph
+cast	Rick Avery	Armoured Guard
+cast	Brad Baldridge	Children's Hospital Doctor
+cast	Andrew Camuccio	Dominick
+cast	Brian Camuccio	Dominick
+cast	Max Daniels	Shooter at Drive-in
+cast	Vince Deadrick Jr.	Driver at Drive-in
+cast	Charles Duke	Cop
+cast	Thomas Elfmont	Desk Clerk Cop
+cast	Kenny Endoso	Bartender
+cast	Kimberly Flynn	Casals' Date
+cast	Steven Ford	Officer Bruce
+cast	Farrah Forke	Claudia
+cast	Hannes Fritsch	Miracle Mile Bartender
+cast	Amanda Graves	Linda Cheritto
+cast	Emily Graves	Anita Cheritto
+cast	Niki Harris	Marcia Drucker
+cast	Ted Harvey	Detective
+cast	Patricia Healy	Bosko's Date
+cast	Paul Herman	Sergeant Heinz
+cast	Cindy Katz	Rachel
+cast	Brian Libby	Captain Jackson
+cast	Bill McIntosh	Armoured Guard
+cast	Dan Martin	Harry Dieter
+cast	Rick Marzan	Basketball Player
+cast	Terry Miller	Children's Hospital Nurse
+cast	Paul Moyer	News Anchorman
+cast	Daniel O'Haco	Detective
+cast	Mario Roberts	Bank Guard
+cast	Phillip Robinson	Alphonse
+cast	Thomas Rosales Jr.	Armoured Truck Driver
+cast	Rainell Saunders	Dead Hooker
+cast	Kai Soremekun	Prostitute
+cast	Rey Verdugo	Vegas Cop
+cast	Wendy L. Walsh	News Anchorwoman
+cast	Yvonne Zima	Hostage Girl
+cast	Peter Blackwell	Bar Couple
+cast	Trevor Coppola	Restaurant Patron
+cast	Bud Cort	Solenko, Restaurant Manager
+cast	Mick Gould	1st SIS Detective in the hallway
+cast	Mary Kircher	Police Woman
+cast	Darin Mangan	Grocery Store Employee
+cast	Melissa S. Markess	Police Woman
+cast	Robert Miranda	Cusamano
+cast	Manny Perry	Grocery Store Cop
+cast	Iva Franks Singer	Waitress
+cast	Viviane Vives	Castilian Woman

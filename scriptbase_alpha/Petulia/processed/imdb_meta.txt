@@ -1,0 +1,57 @@
+year	1968
+imdb score	7.1
+meta score	N/A
+genre	Drama
+genre	Romance
+keyword	socialite
+keyword	marriage
+keyword	doctor
+keyword	abusive husband
+keyword	flashback
+keyword	unhappy marriage
+keyword	told in flashback
+keyword	husband wife relationship
+keyword	battered wife
+keyword	domestic violence
+keyword	san francisco california
+keyword	flash forward
+keyword	love
+keyword	kook
+keyword	divorce
+keyword	based on novel
+cast	Julie Christie	Petulia Danner
+cast	George C. Scott	Dr. Archie Bollen
+cast	Richard Chamberlain	David Danner
+cast	Arthur Hill	Barney
+cast	Shirley Knight	Polo
+cast	Pippa Scott	May
+cast	Kathleen Widdoes	Wilma
+cast	Roger Bowen	Warren
+cast	Richard Dysart	Motel Receptionist
+cast	Ruth Kobart	Nun
+cast	Ellen Geer	Nun
+cast	Lou Gilbert	Mr. Howard
+cast	Nate Esformes	Mr. Mendoza
+cast	Maria Val	Mrs. Mendoza
+cast	Vincent Arias	Oliver
+cast	Eric Weiss	Michael
+cast	Kevin Cooper	Stevie
+cast	Joseph Cotten	Mr. Danner
+cast	The Grateful Dead	Themselves
+cast	Big Brother and the Holding Company	Themselves
+cast	The Committee	Themselves
+cast	Ace Trucking Company	Themselves
+cast	Rene Auberjonois	Fred Six
+cast	Bruce Chesse	Tourist
+cast	Barbara Colby	Patient
+cast	Michael Earl	Boy in Park
+cast	Mickey Hart	Hippie 2
+cast	Howard Hesseman	Hippie
+cast	Phil Lesh	Hippie 4
+cast	Ron McKernan	Hippie 5
+cast	DeAnn Mears	Nurse
+cast	Josephine Nichols	Neighbor
+cast	Austin Pendleton	Intern
+cast	Danny Rifkin	Hippie 6
+cast	Mel Stewart	Supermarket Clerk
+cast	Bob Weir	Hippie 7

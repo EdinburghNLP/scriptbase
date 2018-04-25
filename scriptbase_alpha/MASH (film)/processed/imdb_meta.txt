@@ -1,0 +1,190 @@
+year	1970
+imdb score	7.7
+meta score	79
+genre	Comedy
+genre	Drama
+genre	War
+keyword	surgeon
+keyword	mobile army surgical hospital
+keyword	korean war
+keyword	golf
+keyword	nurse
+keyword	dentist
+keyword	military spoof
+keyword	strait jacket
+keyword	korea
+keyword	war victim
+keyword	draft evasion
+keyword	uniform
+keyword	blockbuster
+keyword	blood
+keyword	alcoholic
+keyword	military officer
+keyword	medical
+keyword	anti war
+keyword	blackmail
+keyword	satire
+keyword	m a s h
+keyword	fight
+keyword	reference to man o' war
+keyword	racism
+keyword	american
+keyword	cheating
+keyword	wager
+keyword	practical joke
+keyword	entire title is capitalized acronym
+keyword	1950s
+keyword	public nudity
+keyword	one word title
+keyword	loudspeaker
+keyword	alcoholism
+keyword	reference to victor mature
+keyword	american football
+keyword	loudspeaker announcement
+keyword	shower
+keyword	acronym in title
+keyword	immaturity
+keyword	black comedy
+keyword	surgery
+keyword	scene based on painting
+keyword	coffin
+keyword	army life
+keyword	jeep
+keyword	female nudity
+keyword	american soldier
+keyword	amputation
+keyword	suicidal
+keyword	blood transfusion
+keyword	military
+keyword	war injury
+keyword	eavesdropping
+keyword	syringe
+keyword	adultery
+keyword	clairvoyant
+keyword	ignorance
+keyword	army nurse
+keyword	cult film
+keyword	fantasy sequence
+keyword	based on novel
+keyword	title spoken by character
+cast	Donald Sutherland	Hawkeye Pierce
+cast	Elliott Gould	Trapper John McIntyre
+cast	Tom Skerritt	Duke Forrest
+cast	Sally Kellerman	'Hot Lips' O'Houlihan
+cast	Robert Duvall	Maj. Frank Burns
+cast	Roger Bowen	Col. Henry Blake
+cast	Rene Auberjonois	Father John Mulcahy
+cast	David Arkin	Sgt. Major Vollmer
+cast	Jo Ann Pflug	Lt. 'Dish'
+cast	Gary Burghoff	Corporal 'Radar' O'Reilly
+cast	Fred Williamson	Dr. Oliver 'Spearchucker' Jones
+cast	Michael Murphy	'Me Lai' Marston
+cast	Indus Arthur	Lt. Leslie
+cast	Ken Prymus	PFC. Seidman
+cast	Bobby Troup	Sgt. Gorman
+cast	Kim Atwood	Ho-Jon
+cast	Timothy Brown	Cpl. Judson
+cast	John Schuck	Capt. 'Painless' Waldowski
+cast	Dawne Damon	Capt. Storch
+cast	Carl Gottlieb	'Ugly John'
+cast	Tamara Wilcox-Smith	Capt. 'Knocko'
+cast	G. Wood	Gen. Hammond
+cast	Bud Cort	Pvt. Boone
+cast	Danny Goldman	Capt. Murrhardt
+cast	Corey Fischer	Capt. Bandini
+cast	Stephen Altman	Duke's 5-Year-Old Son
+cast	Joe Amsler	Undetermined Role
+cast	Carrell Balderston	Football Player
+cast	William Ballard	Football Player
+cast	Terry Belmore	Football Player
+cast	Steven Bewley	Football Player
+cast	Stanford Blum	Football Player
+cast	Tommy Brown	Football Player - 325th Evac.
+cast	Michael Bruce	Football Player
+cast	Buck Buchanan	Football Player - 325th Evac.
+cast	Jim Burger	Football Player
+cast	Norma Burkus	Cheerleader
+cast	Sal Centeno	Football Player
+cast	David Chambliss	Minor Role
+cast	Craig Chudy	Football Player
+cast	Jack Concannon	Football Player - 325th Evac.
+cast	Jim Connors	Undetermined Role
+cast	Michael Consoldane	Football Player - 325th Evac.
+cast	Cathleen Cordell	Capt. Peterson - Nurse Corps
+cast	Bill Cosper	Football Player
+cast	Robert V. Cox	Football Player
+cast	Ronn Cragg	Undetermined Role
+cast	Ben Davidson	Football Player #88 - 325th Evac.
+cast	Ray Didsbury	Ad Lib Doctor
+cast	James B. Douglas	Col. Wallace C. Merril
+cast	Tom Falk	Corporal
+cast	Jerry Freeman	Football Player
+cast	John Fujioka	Japanese Golf Pro
+cast	Joe Gantos	Football Player
+cast	Edward Garcia	Football Player
+cast	Lynn Grate	Undetermined Role
+cast	Ken Griffin	Football Player
+cast	Joanne Hahn	Ward Nurse
+cast	Roy Hall	Football Player
+cast	Sumi Haru	Japanese Nurse
+cast	Buck Holland	Helicopter Pilot
+cast	Van L. Honeycutt	Helicopter Pilot #1
+cast	Susan Ikeda	Japanese Caddie
+cast	Dale Ishimoto	Korean Doctor
+cast	Alfred Jones	Undetermined Role
+cast	Jerry Jones	Motor Pool Sergeant
+cast	Mark Jones	Undetermined Role
+cast	Joe Kapp	Football Player - 325th Evac.
+cast	Mike Kemp	Football Player
+cast	Tom Kinzer	Football Player
+cast	Ted Knight	Offstage Dialog
+cast	Mary Jean Kuga	Minor Role
+cast	Douglas Laurence	Undetermined Role
+cast	Harvey Levine	2nd Lieutenant
+cast	Weaver Levy	Korean Doctor
+cast	John Linton	Undetermined Role
+cast	Robert Manser	Football Player
+cast	John Marsden	Football Player
+cast	Whitey Matheson	Football Player
+cast	Homer G. McCready	Helicopter Pilot #2
+cast	Sam A. Mides	Football Player
+cast	Marvin Miller	Offstage Dialog
+cast	Don Moshier	Football Player
+cast	Mickey Moshier	Football Player
+cast	Eugene Mullen	Football Player
+cast	John Myers	Football Player - 325th Evac.
+cast	Rick Neilan	Hammond's Aide
+cast	Lloyd Nelson	Offstage Voice
+cast	Gerry Okuneff	Football Player
+cast	Art Oliver	Football Player
+cast	Monica Peterson	Pretty W.A.C. Receptionist
+cast	Roy Pettie	Undetermined Role
+cast	Jerry Pierson	Football Player
+cast	Eulan R. Poss Jr.	Helicopter Pilot #3
+cast	Ron Quay	Undetermined Role
+cast	Thomas Randa	Minor Role
+cast	William Roemling	Football Player
+cast	David Sachs	Surgeon #1
+cast	Masami Saito	Japanese Caddie
+cast	Rosemary Sangster	Minor Role
+cast	Tony Santoro	Undetermined Role
+cast	Howard Schnellenberger	Football Referee
+cast	Bonnie Sue Schwartz	Cheerleader
+cast	Samantha Scott	Nurse / Pin-up Model
+cast	Linnea Sievers	Cheerleader
+cast	L. Ortega Smith	Football Player
+cast	Noland Smith	Football Player - 325th Evac. 'Superbug'
+cast	Owen Song	Undetermined Role
+cast	Ron Stein	Football Player
+cast	Fran Tarkenton	Football Player - 325th Evac.
+cast	Vicki Townsend	Cheerleader
+cast	Dianne Travis	Correspondent
+cast	Johnny Unitas	Football Player - 325th Evac.
+cast	Ron Van Hagen	Football Player
+cast	Greg Walker	Undetermined Role
+cast	Hiroko Watanabe	Japanese Prostitute
+cast	Don Watters	Football Player
+cast	Ron Way	Football Player
+cast	Howard Williams	Football Player - 325th Evac.
+cast	Tom Woodeschick	Football Player - 325th Evac.
+cast	Yoko Young	Japanese Servant

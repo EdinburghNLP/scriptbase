@@ -1,0 +1,114 @@
+year	1984
+imdb score	6.8
+meta score	N/A
+genre	Fantasy
+genre	Horror
+keyword	sexuality
+keyword	folklore
+keyword	grandmother
+keyword	woods
+keyword	demon
+keyword	ambiguity
+keyword	alternative reality
+keyword	mythology
+keyword	bed
+keyword	severed head
+keyword	werewolf
+keyword	cult film
+keyword	lycanthropy
+keyword	rural setting
+keyword	milk
+keyword	skin
+keyword	battle of the sexes
+keyword	woman in jeopardy
+keyword	sympathy
+keyword	dead sister
+keyword	psycho sexual
+keyword	marriage
+keyword	death
+keyword	teddy bear
+keyword	wolf
+keyword	sexual awakening
+keyword	rat
+keyword	old woman
+keyword	animal in title
+keyword	seduction
+keyword	fireplace
+keyword	cabin
+keyword	lipstick
+keyword	gore
+keyword	screaming
+keyword	fatal attraction
+keyword	storytelling
+keyword	devil
+keyword	funeral
+keyword	dark fantasy
+keyword	teenage girl
+keyword	animal
+keyword	hog
+keyword	cruelty
+keyword	children
+keyword	fire
+keyword	hedgehog
+keyword	storyteller
+keyword	blind man's bluff game
+keyword	eyebrow
+keyword	turns into animal
+keyword	metaphor
+keyword	monster
+keyword	nature
+keyword	severed hand
+keyword	1700s
+keyword	rite of passage
+keyword	mother daughter relationship
+keyword	snake
+keyword	dream
+keyword	gothic horror
+keyword	gothic
+keyword	unibrow
+keyword	decapitation
+keyword	pig
+keyword	blood
+keyword	little red riding hood
+keyword	transformation
+keyword	chicken
+keyword	beast
+keyword	supernatural power
+keyword	metamorphosis
+keyword	coming of age
+keyword	toad
+keyword	forest
+keyword	surrealism
+keyword	nightmare
+keyword	killing an animal
+keyword	girl
+keyword	dark comedy
+keyword	kiss
+keyword	fairy tale
+keyword	magical creature
+keyword	shape shifter
+keyword	independent film
+keyword	title spoken by character
+cast	Angela Lansbury	Granny
+cast	David Warner	Father
+cast	Graham Crowden	Old Priest
+cast	Brian Glover	Amorous Boy's Father
+cast	Kathryn Pogson	Young Bride
+cast	Stephen Rea	Young Groom
+cast	Tusse Silberg	Mother
+cast	Micha Bergese	Huntsman
+cast	Sarah Patterson	Rosaleen
+cast	Georgia Slowe	Alice
+cast	Susan Porrett	Amorous Boy's Mother
+cast	Shane Johnstone	Amorous Boy
+cast	Dawn Archibald	Witch Woman
+cast	Richard Morant	Wealthy Groom
+cast	Danielle Dax	Wolfgirl
+cast	Vincent McClaren	Devil Boy
+cast	Ruby Buchanan	Dowager
+cast	Jimmy Gardner	Ancient
+cast	Roy Evans	Eyepatch
+cast	Edward Marksen	Lame Fiddler
+cast	Jim Brown	Blind Fiddler
+cast	Jim Carter	Second Husband
+cast	Terence Stamp	The Devil

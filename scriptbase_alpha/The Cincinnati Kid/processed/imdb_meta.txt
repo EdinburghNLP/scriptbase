@@ -1,0 +1,151 @@
+year	1965
+imdb score	7.3
+meta score	N/A
+genre	Drama
+keyword	poker
+keyword	stud poker
+keyword	1930s
+keyword	high stakes
+keyword	blackmail
+keyword	poker player
+keyword	gambling
+keyword	gambler
+keyword	betting
+keyword	telephone
+keyword	apple
+keyword	opera glasses
+keyword	jazz combo
+keyword	lack of nerve
+keyword	card playing
+keyword	marching band
+keyword	extramarital affair
+keyword	train
+keyword	bathtub
+keyword	city name in title
+keyword	shooting gallery
+keyword	farm
+keyword	slapped on butt
+keyword	massage
+keyword	bluffing
+keyword	vest
+keyword	seduction
+keyword	card trick
+keyword	pitching pennies
+keyword	eyeglasses
+keyword	steak
+keyword	show handkerchief
+keyword	cockpit
+keyword	decolletage
+keyword	pocket watch
+keyword	mind game
+keyword	chandelier
+keyword	strategy
+keyword	tiffany lamp
+keyword	cemetery
+keyword	lane
+keyword	dancing
+keyword	cane
+keyword	cockfight
+keyword	place name in title
+keyword	adultery
+keyword	wooden match
+keyword	jazz
+keyword	prostitute
+keyword	mannequin
+keyword	pool hall
+keyword	handgun
+keyword	drapes
+keyword	kissing
+keyword	slip
+keyword	cigar smoking
+keyword	money
+keyword	chest
+keyword	razor blade
+keyword	cigarette smoking
+keyword	billiards
+keyword	playing cards
+keyword	funeral
+keyword	gate
+keyword	mississippi river
+keyword	puzzle
+keyword	monkey
+keyword	shoeshine
+keyword	chicken as live animal
+keyword	husband wife relationship
+keyword	overhead shot
+keyword	windmill
+keyword	cigarette holder
+keyword	briefcase
+keyword	purse
+keyword	redhead
+keyword	beer
+keyword	jigsaw puzzle
+keyword	luxury hotel
+keyword	turkish bath
+keyword	sharecropper
+keyword	hotel
+keyword	new orleans louisiana
+keyword	infidelity
+keyword	shoeshine boy
+keyword	rain
+keyword	taxi
+keyword	bourbon
+keyword	railyard
+keyword	switchblade
+keyword	blues club
+keyword	bus
+keyword	cheating
+keyword	based on novel
+cast	Steve McQueen	The Cincinnati Kid
+cast	Ann-Margret	Melba
+cast	Karl Malden	Shooter
+cast	Tuesday Weld	Christian
+cast	Edward G. Robinson	Lancey Howard
+cast	Joan Blondell	Lady Fingers
+cast	Rip Torn	Slade
+cast	Jack Weston	Pig
+cast	Cab Calloway	Yeller
+cast	Jeff Corey	Hoban
+cast	Theodore Marcuse	Felix
+cast	Milton Selzer	Sokal
+cast	Karl Swenson	Mr. Rudd
+cast	Émile Genest	Cajun
+cast	Ron Soble	Danny
+cast	Irene Tedrow	Mrs. Rudd
+cast	Midge Ware	Mrs. Slade
+cast	Dub Taylor	Dealer
+cast	Andy Albin	Referee
+cast	William Challee	Old Man
+cast	Gene Coogan	Poker Game Spectator
+cast	Mimi Dillard	Slade's Girlfriend
+cast	Robert DoQui	Philly
+cast	Larry Duran	Gambler - First Game
+cast	Donald Elson	Bit Part
+cast	Sweet Emma	Blues Singer
+cast	Kenneth Grant Sr.	Shoeshine Boy
+cast	Claude Hall	Gambler
+cast	Virginia Harrison	Employee
+cast	John Hart	Poker Player
+cast	Harry Hines	Old Man in Pool Hall
+cast	Brenda Howard	Cajun's Woman
+cast	John Indrisano	Gambler - First Game
+cast	Colin Kenny	Spectator at Cockfight
+cast	Gregg Martell	Danny's Henchman
+cast	Pat McCaffrie	Poker Player
+cast	Sandy McPeak	Poker Player
+cast	Burt Mustin	Old Man in Pool Hall
+cast	Barry O'Hara	Eddie
+cast	Brett Pearson	Gambler - First Game
+cast	Joyce Perry	Mrs. Hoban
+cast	Christopher Riordan	Railroad Worker
+cast	Olan Soule	Desk Clerk
+cast	Robert Stevenson	Gambler - First Game
+cast	Joseph B. Stewart	White Man at Funeral Parade
+cast	Hal Taggart	Bettor
+cast	Paul Verdier	Second Bettor
+cast	Charles Wagenheim	Old Man
+cast	Jesse Wayne	
+cast	Howard Wendell	Charlie
+cast	Harry Wilson	Spectator at Cockfight
+cast	Dick Winslow	Second Player
+cast	Bill Zuckert	Poker Player

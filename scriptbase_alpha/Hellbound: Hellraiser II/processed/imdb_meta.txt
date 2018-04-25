@@ -1,0 +1,129 @@
+year	1988
+imdb score	6.5
+meta score	N/A
+genre	Horror
+genre	Thriller
+keyword	hell
+keyword	puzzle
+keyword	demon
+keyword	psychiatric hospital
+keyword	skin
+keyword	pain
+keyword	mattress
+keyword	doctor
+keyword	killing spree
+keyword	prologue
+keyword	scratching face
+keyword	hit with a hammer
+keyword	mental patient
+keyword	self mutilation
+keyword	labyrinth
+keyword	clown
+keyword	puzzle box
+keyword	cult film
+keyword	face ripped off
+keyword	throat slitting
+keyword	severed hand
+keyword	murder
+keyword	bare chested male
+keyword	adultery
+keyword	maggot
+keyword	female rear nudity
+keyword	stabbed in the forehead
+keyword	mouth sewn shut
+keyword	drill in the head
+keyword	groping
+keyword	transformation
+keyword	newspaper clipping
+keyword	corpse
+keyword	gash in the face
+keyword	head ripped off
+keyword	seduction
+keyword	strait jacket
+keyword	good versus evil
+keyword	pistol
+keyword	hand through head
+keyword	british soldier
+keyword	femme fatale
+keyword	mute child
+keyword	cheating wife
+keyword	traumatic shock
+keyword	reanimation
+keyword	knocked out
+keyword	topless female nudity
+keyword	threatened with a knife
+keyword	insanity
+keyword	sequel
+keyword	chain
+keyword	maze
+keyword	heart ripped out
+keyword	blood
+keyword	mental institution
+keyword	impalement
+keyword	nail in the head
+keyword	razor blade
+keyword	gothic
+keyword	loss of mother
+keyword	arm ripped off
+keyword	desire
+keyword	switchblade
+keyword	skeleton
+keyword	loss of father
+keyword	cigarette smoking
+keyword	heart in hand
+keyword	breaking a mirror
+keyword	ring of fire
+keyword	severed head
+keyword	evil doctor
+keyword	wearing human skin
+keyword	stabbed in the face
+keyword	goth
+keyword	torso cut in half
+keyword	person on fire
+keyword	shower
+keyword	gore
+keyword	severed face
+keyword	burnt body
+keyword	pinhead
+keyword	stabbed in the chest
+keyword	dripping blood
+keyword	covered in blood
+keyword	betrayal
+keyword	sexual imagery
+keyword	eye gouging
+keyword	splatterpunk
+keyword	blood on camera lens
+keyword	exposed brain
+keyword	sex
+keyword	baby
+keyword	blood splatter
+keyword	returning character killed off
+keyword	brain surgery
+keyword	body torn apart
+keyword	based on novel
+keyword	independent film
+keyword	surprise ending
+cast	Clare Higgins	Julia Cotton
+cast	Ashley Laurence	Kirsty Cotton
+cast	Kenneth Cranham	Dr. Philip Channard / Channard Cenobite
+cast	Imogen Boorman	Tiffany
+cast	Sean Chapman	Uncle Frank Cotton
+cast	William Hope	Kyle MacRae
+cast	Doug Bradley	Pinhead / Captain Elliot Spencer
+cast	Barbie Wilde	Female Cenobite
+cast	Simon Bamford	Butterball Cenobite
+cast	Nicholas Vince	Chatterer Cenobite / Chatter II Cenobite
+cast	Oliver Smith	Mr. Browning / Skinless Frank
+cast	Angus MacInnes	Homicide Detective Ronson
+cast	Deborah Joel	Skinless Julia
+cast	James Tillitt	Officer Cortez
+cast	Bradley Lavelle	Officer Kucich
+cast	Edwin Craig	Wheelchair Patient
+cast	Ron Travis	Workman 1
+cast	Oliver Parker	Workman 2
+cast	Catherine Chevalier	Tiffany's Mother
+cast	Andrew Robinson	Larry Cotton
+cast	Robert Hines	Steve
+cast	Michael Cassidy	3rd Victim
+cast	Anthony Allen	1st Victim
+cast	Grace Kirby	Female Cenobite

@@ -1,0 +1,45 @@
+year	1990
+imdb score	7.0
+meta score	N/A
+genre	Drama
+keyword	middle class
+keyword	uninvited guest
+keyword	fantasy sequence
+keyword	garden
+keyword	devil
+keyword	los angeles california
+keyword	african american
+keyword	family relationships
+keyword	friend
+keyword	independent film
+cast	Paul Butler	Gideon
+cast	DeVaughn Nixon	Sunny
+cast	Mary Alice	Suzie
+cast	Reina King	Rhonda
+cast	Cory Curtis	Skip
+cast	Richard Brooks	Babe Brother
+cast	Sheryl Lee Ralph	Linda
+cast	Carl Lumbly	Junior
+cast	Vonetta McGee	Pat
+cast	Paula Bellamy	Mrs. Baker
+cast	Danny Glover	Harry
+cast	Wonderful Smith	Preacher
+cast	Ethel Ayler	Hattie
+cast	DeForest Covan	Fred Jenkins
+cast	Sy Richardson	Slash
+cast	Davis Roberts	Okra Tate
+cast	John Hawker	MC
+cast	Julius Harris	Herman
+cast	Irvin Mosley Jr.	William Norwood
+cast	Margueritte Ray	Loviray Norwood
+cast	Rai Tasco	Phil
+cast	Lorrie Marlow	Cherry Bell
+cast	Jimmy Witherspoon	Percy
+cast	Carnetta Jones	Woman in Labor
+cast	Christina Harley	Nurse
+cast	James Grayer	Man at Hospital
+cast	Robin Scholer	E.R. Nurse
+cast	Mark Phelan	Paramedic #1
+cast	Robert Terry Lee	Paramedic #2
+cast	Greta Brown	Virginia
+cast	Sip Culler	Neighbor

@@ -1,0 +1,169 @@
+year	2001
+imdb score	6.1
+meta score	53
+genre	Drama
+genre	Music
+genre	Romance
+keyword	dance
+keyword	dancing
+keyword	ghetto
+keyword	hip hop
+keyword	dead mother
+keyword	jealousy
+keyword	audition
+keyword	interracial romance
+keyword	grandmother granddaughter relationship
+keyword	triumph
+keyword	machismo
+keyword	locker
+keyword	prayer
+keyword	racial tension
+keyword	new york city
+keyword	single mother
+keyword	cross cultural relations
+keyword	ballet shoes
+keyword	low self esteem
+keyword	old dark house
+keyword	ballet dancing
+keyword	arrest
+keyword	chick flick
+keyword	praying
+keyword	passionate kiss
+keyword	car crash
+keyword	teen angst
+keyword	racial slur
+keyword	gang related
+keyword	mourning
+keyword	former best friend
+keyword	el train
+keyword	head wound
+keyword	rivalry
+keyword	violence
+keyword	gay slur
+keyword	racism
+keyword	high school
+keyword	african american
+keyword	security guard
+keyword	slang
+keyword	ghetto blaster
+keyword	train ride
+keyword	basketball
+keyword	fedora
+keyword	ballet
+keyword	diner
+keyword	cultural diversity
+keyword	teen movie
+keyword	mentor
+keyword	classroom
+keyword	road accident
+keyword	father daughter relationship
+keyword	gym class
+keyword	catfight
+keyword	imperative in title
+keyword	school life
+keyword	club
+keyword	fire escape
+keyword	flashback
+keyword	grandmother grandson relationship
+keyword	interracial relationship
+keyword	forced relocation
+keyword	young love
+keyword	brother sister relationship
+keyword	death of parent
+keyword	kitchen
+keyword	prejudice
+keyword	dance instructor
+keyword	modern dance
+keyword	nightclub
+keyword	dance lesson
+keyword	drive by shooting
+keyword	jazz musician
+keyword	teenager
+keyword	bruise
+keyword	overalls
+keyword	ex boyfriend ex girlfriend relationship
+keyword	fight in bar
+keyword	interracial
+keyword	chicago illinois
+keyword	outsider
+keyword	police car
+keyword	teenage mother
+keyword	intimidation
+keyword	photograph
+keyword	death of mother
+keyword	
+cast	Julia Stiles	Sara
+cast	Sean Patrick Thomas	Derek
+cast	Kerry Washington	Chenille
+cast	Fredro Starr	Malakai
+cast	Terry Kinney	Roy
+cast	Bianca Lawson	Nikki
+cast	Vince Green	Snookie
+cast	Garland Whitt	Kenny
+cast	Elisabeth Oas	Diggy
+cast	Artel Great	Arvel
+cast	Cory Stewart	Lip
+cast	Jennifer Anglin	Glynn
+cast	Dorothy Martin	Momma Dean
+cast	Kim Tlusty	Lindsay
+cast	Felicia Fields	Woman on Train
+cast	Ora Jones	Mrs. Gwynn
+cast	Tab Baker	Mr. Campbell
+cast	Kevin Reid	Wonk
+cast	Andrew Rothenberg	Stern Judge
+cast	Mekdes Bruk	Lakisha
+cast	Ronnie Ray	Stepps Slacker
+cast	Tai'isha Davis	Tiffnee
+cast	Karimah Westbrook	Alyssa
+cast	Erica Hubbard	Jasmine
+cast	Richmond Talauega	Stepps Dancer
+cast	Whitney Wellner	Toni
+cast	Brenda Pickleman	Older Disgusted Woman
+cast	Julie Greenberg	Gymnastics Teacher
+cast	Anna Paskevska	Ballet Instructor
+cast	Malaika Paul	Basketball Player
+cast	Jennifer Echols	Lavatory Girl
+cast	Ellie Weingardt	Ballet Judge's Assistant
+cast	Earl Manning	Hip Hop Dancer
+cast	Latisha Oliver	Hip Hop Dancer
+cast	Nefertiti Robinson	Hip Hop Dancer
+cast	Roland Tabor	Hip Hop Dancer
+cast	Anthony Talauega	Hip Hop Dancer
+cast	Richard Whitebear	Hip Hop Dancer
+cast	Earl Wright	Hip Hop Dancer
+cast	Ariane Dolan	Ballet Dancer
+cast	Chryssie Whitehead	Ballet Dancer
+cast	Sarita Smith Childs	Ballet Dancer
+cast	Trinity Hamilton	Ballet Dancer
+cast	Randy Herrera	Ballet Dancer
+cast	Audrey Leung	Ballet Dancer
+cast	Katrina Oeffling	Ballet Dancer
+cast	Joanna Wozniak	Ballet Dancer
+cast	Maia Wilkins	Sea Shadow Dancer
+cast	Davis C. Robertson	Sea Shadow Dancer
+cast	Michael Anderson	Les Presages Dancer
+cast	Deanne Brown	Les Presages Dancer
+cast	Deborah Dawn	Les Presages Dancer
+cast	Nicole Marie Duffy	Les Presages Dancer
+cast	Sam Franke	Les Presages Dancer
+cast	Jennifer Goodman	Les Presages Dancer
+cast	Taryn Kaschock	Les Presages Dancer
+cast	Stacy Joy Keller	Les Presages Dancer
+cast	Calvin Kitten	Les Presages Dancer
+cast	Michael Levine	Les Presages Dancer
+cast	Pierre Lockett	Les Presages Dancer
+cast	Suzanne Lopez	Les Presages Dancer
+cast	Brian McSween	Les Presages Dancer
+cast	Jeremiah O'Connor	Les Presages Dancer
+cast	Emily Patterson	Les Presages Dancer
+cast	Domingo Rubio	Les Presages Dancer
+cast	Tracy Shields	Les Presages Dancer
+cast	Patrick Simonello	Les Presages Dancer
+cast	Guoping Wang	Les Presages Dancer
+cast	Teanna Zarro	Les Presages Dancer
+cast	Jerod Howard	Club Patron
+cast	Milauna Jackson	Hip Hop Dancer
+cast	Safia Jalila	Portia
+cast	Marcello Robinson	Student
+cast	Lora Starkman	Hip Hop Dancer
+cast	Alice L. Walker	Dancer

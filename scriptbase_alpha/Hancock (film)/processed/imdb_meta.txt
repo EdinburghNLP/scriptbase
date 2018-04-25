@@ -1,0 +1,315 @@
+year	2008
+imdb score	6.5
+meta score	49
+genre	Action
+genre	Fantasy
+keyword	superhero
+keyword	public relations
+keyword	chase across the sky
+keyword	neck brace
+keyword	store robbery
+keyword	bully
+keyword	american eagle
+keyword	violence
+keyword	upside down car
+keyword	gas cylinder
+keyword	ice cream
+keyword	wounded policeman
+keyword	child in peril
+keyword	m 16
+keyword	hit by a train
+keyword	prison
+keyword	action hero
+keyword	axe
+keyword	shot in the face
+keyword	popcorn
+keyword	gunshot wound
+keyword	publicist
+keyword	train wreck
+keyword	mercedes
+keyword	television
+keyword	martial arts
+keyword	car on train tracks
+keyword	dead man switch
+keyword	logo
+keyword	exploding car
+keyword	shot in the eye
+keyword	escaped convict
+keyword	shot in the chest
+keyword	criminal
+keyword	soul mate
+keyword	car chase
+keyword	moon
+keyword	ice cream truck
+keyword	secret past
+keyword	shootout
+keyword	scene during end credits
+keyword	mixed martial arts
+keyword	brawl
+keyword	overturning car
+keyword	hook for hand
+keyword	product placement
+keyword	vicodin
+keyword	police car
+keyword	new york city
+keyword	thrown through a wall
+keyword	grey whale
+keyword	strapped to a bomb
+keyword	body landing on a car
+keyword	superhero costume
+keyword	robbery
+keyword	soccer
+keyword	stabbed in the back
+keyword	applause
+keyword	anti gay language
+keyword	jumping over a car
+keyword	depression
+keyword	female police officer
+keyword	car accident
+keyword	alcoholic
+keyword	editorial
+keyword	shaving
+keyword	showdown
+keyword	youtube
+keyword	secret identity
+keyword	restaurant
+keyword	shot in the stomach
+keyword	hero
+keyword	alarm
+keyword	spaghetti
+keyword	bourbon
+keyword	football
+keyword	superheroine
+keyword	sunglasses
+keyword	group therapy
+keyword	telephone call
+keyword	super strength
+keyword	wilhelm scream
+keyword	love triangle
+keyword	c4 explosives
+keyword	family relationships
+keyword	blockbuster
+keyword	train accident
+keyword	bus
+keyword	d box motion code
+keyword	rocket launcher
+keyword	fear
+keyword	weather control
+keyword	disarming someone
+keyword	tornado
+keyword	pokies
+keyword	tough guy
+keyword	tough girl
+keyword	reformation
+keyword	flying
+keyword	news reporter
+keyword	jumping into the sky
+keyword	fire
+keyword	meatball
+keyword	hostage
+keyword	super speed
+keyword	grenade launcher
+keyword	zagnut candy bar
+keyword	interracial romance
+keyword	shot in the head
+keyword	immortality
+keyword	bank robbery
+keyword	revenge
+keyword	shot multiple times
+keyword	villain
+keyword	hand to hand combat
+keyword	bully comeuppance
+keyword	uzi
+keyword	fingerprint
+keyword	brooklyn new york city
+keyword	hook
+keyword	falling from height
+keyword	gurney
+keyword	catching someone who falls
+keyword	defibrillation
+keyword	repeated line
+keyword	cityscape
+keyword	liquor bottle
+keyword	dog
+keyword	rescue
+keyword	hospital
+keyword	action heroine
+keyword	freight train
+keyword	liquor store
+keyword	bomb
+keyword	gunfight
+keyword	syringe
+keyword	homophobic slur
+keyword	los angeles california
+keyword	alcohol
+keyword	convict
+keyword	defibrillator
+keyword	mugshot
+keyword	invulnerability
+keyword	cement mixer
+keyword	explosion
+keyword	convenience store
+keyword	title appears in writing
+keyword	supernatural power
+keyword	child swearing
+keyword	trailer home
+keyword	fistfight
+keyword	reference to youtube
+keyword	machine gun
+keyword	super powers
+keyword	thrown into the air
+keyword	parasaurolophus
+keyword	amnesia
+keyword	severed hand
+keyword	male nudity
+keyword	storm
+keyword	opening action scene
+keyword	dunkin' donuts
+keyword	destruction
+keyword	beached whale
+keyword	basketball
+keyword	shot through a window
+keyword	turban
+keyword	one word title
+keyword	cutting glass
+keyword	infidelity
+keyword	revolver
+keyword	sailboat
+keyword	frankenstein
+keyword	fbi agent
+keyword	tattoo
+keyword	train derailment
+keyword	banana
+keyword	sprinkler system
+keyword	prisoner
+keyword	police
+keyword	man with no name
+keyword	falcon
+keyword	ferris wheel
+keyword	corvette
+keyword	looking at one's self in a mirror
+keyword	lightning
+keyword	title spoken by character
+keyword	character name in title
+keyword	surprise ending
+keyword	
+cast	Will Smith	John Hancock
+cast	Charlize Theron	Mary
+cast	Jason Bateman	Ray
+cast	Jae Head	Aaron
+cast	Eddie Marsan	Red
+cast	David Mattey	Man Mountain
+cast	Maetrix Fitten	Matrix
+cast	Thomas Lennon	Mike
+cast	Johnny Galecki	Jeremy
+cast	Hayley Marie Norman	Hottie
+cast	Dorothy Cecchi	Woman in Dive Bar
+cast	Michelle Lemon	Girl at Bus Bench
+cast	Akiva Goldsman	Executive
+cast	Michael Mann	Executive
+cast	Brad Leland	Executive
+cast	Trieu Tran	Executive
+cast	Darrell Foster	Police Sergeant
+cast	Liz Wicker	Female Cop
+cast	Taylor Gilbert	Female Hostage
+cast	Caroll Tohme	Clapping Guy
+cast	Barbara Ali	Woman Under Ray's Car
+cast	Ryan Radis	Rail Crossing Crowd
+cast	Elizabeth Dennehy	Rail Crossing Crowd #2
+cast	Darren Dowler	Rail Crossing Crowd
+cast	John Frazier	Train Engineer
+cast	Daeg Faerch	Michel
+cast	Matthew King	Neighborhood Kid
+cast	Martin Magdaleno	Neighborhood Kid
+cast	Ronald W. Howard	Man on Street
+cast	Gregg Daniel	Police Chief
+cast	Nancy Grace	Herself
+cast	Atticus Shaffer	Boy at Bus Bench
+cast	Aaron Henderson	Ice Cream Truck Patron
+cast	Huy Nguyen	Ice Cream Truck Patron
+cast	Mary-Jessica Pitts	Ice Cream Truck Patron
+cast	Kalee St. Clair	Ice Cream Truck Patron
+cast	Donald Gibb	Convict
+cast	Ralph Richeson	Convict
+cast	Allan Havey	Convict
+cast	Timothy Brennen	Convict
+cast	Anthony Ledesma	Convict
+cast	Steven Pierce	Convict
+cast	Dominic Prampin	Convict
+cast	Daniel Quinn	Convict
+cast	Mars Crain	Convict
+cast	Jack Axelrod	Convict
+cast	Eddie J. Fernandez	Convict
+cast	Martin Klebba	Convict
+cast	Richard W. Gallegos	Angry Man
+cast	Marc C. Geschwind	Angry Man
+cast	Rob Maron	Angry Man
+cast	Aisha Jau	Sunglass Woman
+cast	Pritam Singh Biring	Sikh
+cast	Cher Calvin	Reporter
+cast	Bill McMullen	Valet
+cast	Leslie Berger	Wife of Angry Man #3
+cast	Don Abernathy	Reporter
+cast	Rio Ahn	LAPD Officer
+cast	Sampson Alexander	Prison Inmate
+cast	Peter Berg	Doctor
+cast	Matt Bettinelli-Olpin	Reporter
+cast	Stephen Bishop	ER Doctor
+cast	Pete Brown	Beachgoer
+cast	Samantha Cannon	Hospital Doctor #2
+cast	Bonnie Carter	Model
+cast	Dave Clark	Television Reporter
+cast	Kate Clarke	ER Nurse
+cast	Mike Cochrane	Inmate
+cast	Shea Curry	Reporter #2
+cast	Kyla Dang	Kid in Street
+cast	Rico Devereaux	Inmate
+cast	Tammy Dugen	E R Nurse
+cast	Derek Easley	Convict
+cast	Natasha Ellis	News Reporter
+cast	Mike Epps	Criminal
+cast	Sean Field	Mohawk Man
+cast	Jeane Fournier	Girl Being Mugged
+cast	Les Gardonyi	Theater Goer
+cast	Giovanni V. Giusti	Street Patron
+cast	Wray Gould	Bunkhouse Guard
+cast	Brandon Ford Green	Radio Caller
+cast	Adam Greeves	Fireman
+cast	Krystal Grenseman	Hollywood Starlet
+cast	Johnathan Hallgrey	Theatergoer #2
+cast	Mustafa Harris	Young Guard
+cast	Alexa Havins	Hot Fan
+cast	Joe Hernandez-Kolski	Man #2
+cast	David Hill	Man on Street
+cast	Alex Huynh	Gun Nut
+cast	Terrence Julien	Inmate Basketball Player
+cast	Edward M. Kelahan	Theatre Guest
+cast	Kristen Marie Kelly	Reporter
+cast	Joel Lambert	SWAT Cop
+cast	Gregg Lee	Crowd Onlooker Outside Bank
+cast	Rae Sunshine Lee	Crowd Onlooker Outside Bank
+cast	Michelle Lenhardt	ER Front Desk Nurse
+cast	Ronnie Lewis Jr.	ER Doctor #2
+cast	Loki	Prison Inmate
+cast	Rick Mali	Correction Officer
+cast	Mike McIntosh	Male Hostage
+cast	Chris Mitchell	Chain Gang Guard
+cast	Sumalee Montano	Newsanchor
+cast	Scott Michael Morgan	Interviewer
+cast	Alan Mueting	Blind Man
+cast	Tang Nguyen	Asian Gang Member
+cast	Montana Ovikian	Reporter
+cast	Julie Pepin	Tourist #3
+cast	Bryan Keith Ponton	Hospital Doctor #1
+cast	Alan D. Purwin	Helicopter Pilot
+cast	Dawn Ressy	Theater Goer
+cast	Nicholas Rich	Los Angeles City Fire Paramedic
+cast	DJ Rivers	Basketball Prisoner
+cast	Mark Simich	Matt
+cast	Brennan Taylor	ER Technician
+cast	Drew Taylor	Man on Street
+cast	Michael Thornberry	LA Cop
+cast	Ryan Van de Kamp Buchanan	On Camera Reporter
+cast	Jobeth Wagner	Hollywood Punk
+cast	Rob Watt	News Camera Man
+cast	Algerita Wynn	Mug Shot Officer

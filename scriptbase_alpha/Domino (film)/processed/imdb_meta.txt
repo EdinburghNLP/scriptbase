@@ -1,0 +1,244 @@
+year	2005
+imdb score	6.0
+meta score	36
+genre	Action
+genre	Biography
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	bounty hunter
+keyword	model
+keyword	reality show
+keyword	mafia
+keyword	mixed race
+keyword	funeral
+keyword	repeated line
+keyword	wiretapping
+keyword	tattoo
+keyword	tragic event
+keyword	dead man switch
+keyword	arm blown off
+keyword	double cross
+keyword	exploding helicopter
+keyword	exploding truck
+keyword	ex convict
+keyword	laundromat
+keyword	topless female nudity
+keyword	falling from height
+keyword	dismemberment
+keyword	character says i love you
+keyword	shot in the head
+keyword	lavender panties
+keyword	masked man
+keyword	panties
+keyword	title appears in writing
+keyword	exploding car
+keyword	murder
+keyword	drugged drink
+keyword	casino
+keyword	soft focus
+keyword	nunchaku
+keyword	car crash
+keyword	knife throwing
+keyword	black panties
+keyword	raid
+keyword	strip club
+keyword	interrogation
+keyword	character repeating someone else's dialogue
+keyword	helicopter crash
+keyword	cleavage
+keyword	satire
+keyword	outdoor sex
+keyword	fast motion scene
+keyword	swat team
+keyword	hostage
+keyword	autograph
+keyword	traffic accident
+keyword	killed in an elevator
+keyword	freeze frame
+keyword	revenge
+keyword	explosion
+keyword	scantily clad female
+keyword	dog
+keyword	reverse footage
+keyword	motel
+keyword	arrest
+keyword	kidnapping
+keyword	gag
+keyword	coin roll
+keyword	black and white scene
+keyword	severed arm
+keyword	fbi agent
+keyword	climbing through a window
+keyword	woman in bra and panties
+keyword	female bounty hunter
+keyword	las vegas nevada
+keyword	bag of money
+keyword	thong panties
+keyword	underwater scene
+keyword	lap dance
+keyword	box office flop
+keyword	latino
+keyword	arm ripped off
+keyword	surveillance camera
+keyword	title spoken by narrator
+keyword	punched in the face
+keyword	black humor
+keyword	cigarette smoking
+keyword	blood disease
+keyword	bare chested male
+keyword	mescaline
+keyword	goldfish
+keyword	desert
+keyword	flashback
+keyword	toilet
+keyword	split screen
+keyword	black comedy
+keyword	shot to death
+keyword	young version of character
+keyword	voice over narration
+keyword	masked woman
+keyword	drug abuse
+keyword	money falling through the air
+keyword	tragedy
+keyword	shootout
+keyword	exotic dancer
+keyword	subtitled scene
+keyword	porno video
+keyword	shot in the chest
+keyword	nonlinear timeline
+keyword	mother daughter relationship
+keyword	sorority
+keyword	woman punching a man
+keyword	swimming pool
+keyword	bomb
+keyword	machine gun
+keyword	afghanistan
+keyword	handcuffs
+keyword	shotgun
+keyword	grandmother
+keyword	religion
+keyword	blood spatter
+keyword	time lapse photography
+keyword	pistol
+keyword	held at gunpoint
+keyword	helicopter
+keyword	actor playing himself
+keyword	sexual tension
+keyword	federal bureau of investigation
+keyword	road trip
+keyword	death of father
+keyword	independent film
+keyword	character name in title
+keyword	title spoken by character
+keyword	
+cast	Keira Knightley	Domino Harvey
+cast	Mickey Rourke	Ed Moseby
+cast	Édgar Ramírez	Choco
+cast	Delroy Lindo	Claremont Williams
+cast	Mo'Nique	Lateesha Rodriguez
+cast	Mena Suvari	Kimmie
+cast	Macy Gray	Lashandra Davis
+cast	Jacqueline Bisset	Sophie Wynn
+cast	Dabney Coleman	Drake Bishop
+cast	Brian Austin Green	Brian Austin Green
+cast	Ian Ziering	Ian Ziering
+cast	Stanley Kamel	Anthony Cigliutti
+cast	Peter Jacobson	Burke Beckett
+cast	T.K. Carter	Lester Kincaid
+cast	Kel O'Neill	Frances
+cast	Shondrella Avery	Lashindra Davis
+cast	Lew Temple	Locus Fender
+cast	Lucy Liu	Taryn Mills
+cast	Christopher Walken	Mark Heiss
+cast	Riz Abbasi	Alf
+cast	Joe Nunez	Raul Chavez
+cast	Dale Dickey	Edna Fender
+cast	Charles Paraventi	Howie Stein
+cast	Jerry Springer	Jerry Springer
+cast	Fred Koehler	Chuckie
+cast	Tom Waits	Wanderer
+cast	Tabitha Brownstone	Young Domino - age 8
+cast	Dusty Gilvaher	Fish Vendor
+cast	Chad Parker	Underwater Mobster
+cast	Cheryl Francis Harrington	Outraged Woman
+cast	Ashley Monique Clark	Kee Kee Rodriguez
+cast	Anthony Delan	Gas Attendant
+cast	Patrick Kerr	DMV Manager
+cast	Adam Clark	Agent Eric Cosgrove
+cast	Donna W. Scott	Agent Dina Wilson
+cast	Julie Valine	Sorority Leader
+cast	Vic Manni	Bishop Goon #1
+cast	Michael Andolini	Mobster
+cast	Janet Gonzalez	Louise Maldonado
+cast	Mike G.	Hector Maldonado
+cast	Eddie Hernandez	Larenz 'Creep' Dexter
+cast	Liza Lapira	Chinegro Woman
+cast	George Thabet	Alf - age 14
+cast	Mark Newsom	Dr. Waldman
+cast	Jack McGee	Detective Chris Cudlitz
+cast	Rolando Molina	Security Manager
+cast	Morgan Nagler	Stacee Stevens
+cast	Ginger Kinison	Ariana Bower
+cast	Andy Milder	FBI Agent #1
+cast	Neal Matarazzo	FBI Agent #2
+cast	Robbie Kaller	Zoo Brother
+cast	Melissa Lee	College Girl
+cast	Ash Christian	Zoo President
+cast	Michelle Fabiano	Mrs. Cigliutti
+cast	Phillip Darlington	Zendejas
+cast	Leonidos Iraheta	Creep's Friend
+cast	Paul Nguyen	Asian Gang Banger
+cast	Julian Berlin	Sorority Girl
+cast	Richard Burch	BH Seminar Loser #1
+cast	Mike Rademaekers	BH Seminar Loser #2
+cast	Celesta Hodge	Runway Model
+cast	Abraham Ashley	Underwater Cop
+cast	Lili Mirojnick	Sorority Girl #2
+cast	Mark Kinsey Stephenson	Catholic Teacher
+cast	Leonardo Digirolamo	Priest
+cast	Richard Rand	FBI Agent #1
+cast	Bruce Sparkes	FBI Agent #2
+cast	Keith Dimmy	FBI Agent #3
+cast	Frank Cilberg	FBI Agent #4
+cast	Anne Chamberlain	FBI Agent #5
+cast	Jeff Klein	FBI Agent #6
+cast	Jesse Rosales	Alf's Friend #1
+cast	David Riley	Alf's Friend #2
+cast	Adham Shalabi	Alf's Friend #3
+cast	Jackson Bolt	Bounty Hunter
+cast	Michael Bravo	Goon
+cast	Gabrielle Carteris	Herself
+cast	Mary Castro	Exotic Dancer
+cast	Matt Clifford	Wardrobe P.A.
+cast	Tony Collucci	Bounty Hunter
+cast	Shannen Doherty	Herself
+cast	Rebecca Engel	College Girl
+cast	Tony Flores	Gigliutti's Pool Goon
+cast	Jennie Garth	Herself
+cast	Vicki Goldsmith	Sorority Pledge
+cast	Domino Harvey	Girl Walking from Exploding Car
+cast	Heidi Hawking	Entertainer
+cast	Jawara	Bounty Hunter
+cast	Ashleigh Kizer	Pledge with Marker
+cast	Brianna Konefall	Mean Sorority Girl
+cast	Randolph LeRoi	Bishop Goon #6
+cast	James McElroy	FBI Photographer
+cast	Tiger Mendez	Bounty Hunter
+cast	Greg Mitchell	TV Camera Man
+cast	Andrzej Mrotek	TV Tech
+cast	Michael Papajohn	Cigliutti Goon
+cast	Jesse Pate	Laurence Harvey
+cast	Bob Pepper	Casino Patron
+cast	Lilly Petruzzi	Schoolgirl
+cast	Chuck Picerni Jr.	Cigliutti's Gunman
+cast	Jason Priestley	Himself
+cast	Allie Raye	Woman at Seminar
+cast	Abe Ruthless	Sophie's Fling
+cast	Sabree	Blacktino #2
+cast	Lindsay Seim	Sorority Girl
+cast	Paul Sklar	Bishop Goon #2
+cast	Brian Spaeth	Frat Guy
+cast	Zeke Unger	Bounty Hunter with Black Hood
+cast	Lora Witty	Nanny
+cast	Sarem Yadegari	Middle Eastern DMV Patron

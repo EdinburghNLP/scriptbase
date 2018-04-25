@@ -1,0 +1,20 @@
+year	1994
+imdb score	6.7
+meta score	N/A
+genre	Thriller
+keyword	bowling
+keyword	independent film
+cast	Mark Alfred	Buzz Fazeli
+cast	Deana Barone	
+cast	Evan Brenner	Winner
+cast	Ralfael D. Castro	
+cast	Bill Christ	Junior Kastle
+cast	Christopher Cooke	Sid
+cast	Christopher Grimm	
+cast	Sean Hagerty	Breeze
+cast	Michael Kaniecki	
+cast	Christie MacFadyen	Sheila
+cast	Lawton Paseka	Theo Skinner
+cast	Richard W. Sears	Miles Kastle
+cast	Morty Storm	
+cast	Sunny Weil	

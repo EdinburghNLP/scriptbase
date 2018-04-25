@@ -1,0 +1,188 @@
+year	2005
+imdb score	7.2
+meta score	73
+genre	Comedy
+genre	Romance
+keyword	40 year old
+keyword	poker
+keyword	collection
+keyword	virgin
+keyword	electronic store
+keyword	love
+keyword	ebay
+keyword	single mother
+keyword	comic book
+keyword	male virgin
+keyword	wedding night
+keyword	shyness
+keyword	finger gun
+keyword	blow job
+keyword	dating
+keyword	friendship
+keyword	bicycle
+keyword	masturbation
+keyword	urination
+keyword	no panties
+keyword	nipple slip
+keyword	misunderstanding
+keyword	erection
+keyword	cheating on girlfriend
+keyword	job promotion
+keyword	barefoot
+keyword	undressing
+keyword	neighbor
+keyword	tuba
+keyword	dance
+keyword	digit in title
+keyword	birth control
+keyword	wedding
+keyword	bathtub
+keyword	bookstore
+keyword	foot fetish
+keyword	vomit
+keyword	reference to gandhi
+keyword	hotel
+keyword	panties
+keyword	drunk driving
+keyword	female masturbation
+keyword	drug abuse
+keyword	porno movie
+keyword	loss of virginity
+keyword	confession
+keyword	bicycle accident
+keyword	oral sex
+keyword	breasts
+keyword	restaurant
+keyword	racial slur
+keyword	multiple cameos
+keyword	female nudity
+keyword	pornographic video
+keyword	guy flick
+keyword	topless female nudity
+keyword	bare breasts
+keyword	farce
+keyword	flashback
+keyword	dental braces
+keyword	collector
+keyword	small business
+keyword	peer pressure
+keyword	kicked in the face
+keyword	hobby
+keyword	los angeles california
+keyword	bar
+keyword	condom
+keyword	old flame
+keyword	bathroom
+keyword	flirting
+keyword	video camera
+keyword	store manager
+keyword	car accident
+keyword	friendship between men
+keyword	scene during end credits
+keyword	speed dating
+keyword	nipples visible through clothing
+keyword	improvisation
+keyword	leg spreading
+keyword	nerd
+keyword	auction
+keyword	sonogram
+keyword	single guy
+keyword	masturbation reference
+keyword	frat pack
+keyword	salesman
+keyword	toy
+keyword	self confidence
+keyword	celibacy
+keyword	cannabis
+keyword	male nudity
+keyword	porn star
+keyword	body waxing
+keyword	sex scene
+keyword	mini skirt
+keyword	catch phrase
+keyword	place of work
+keyword	reference to slurpee
+keyword	drug reference
+keyword	mother daughter relationship
+keyword	cleavage
+keyword	marijuana
+keyword	scantily clad female
+keyword	fellatio
+keyword	scatological humor
+keyword	body hair
+keyword	number in title
+cast	Steve Carell	Andy
+cast	Catherine Keener	Trish
+cast	Paul Rudd	David
+cast	Romany Malco	Jay
+cast	Seth Rogen	Cal
+cast	Elizabeth Banks	Beth
+cast	Leslie Mann	Nicky
+cast	Jane Lynch	Paula
+cast	Gerry Bednob	Mooj
+cast	Shelley Malil	Haziz
+cast	Kat Dennings	Marla
+cast	Jordan Masterson	Mark
+cast	Chelsea Smith	Julia
+cast	Jonah Hill	eBay Customer
+cast	Erica Vittina Phillips	Jill
+cast	Marika Dominczyk	Bernadette
+cast	Mindy Kaling	Amy
+cast	Mo Collins	Gina
+cast	Gillian Vigman	Woman at Speed Dating
+cast	Kimberly Page	Woman at Speed Dating
+cast	Siena Goines	Woman at Speed Dating
+cast	Charlie Hartsock	Speed Dating MC
+cast	Nancy Carell	Health Clinic Counselor
+cast	Cedric Yarbrough	Dad at Health Clinic
+cast	David Koechner	Dad at Health Clinic
+cast	Jeff Kahn	Dad at Health Clinic
+cast	Nick Lashaway	Boy at Health Clinic
+cast	Loren Berman	Boy at Health Clinic
+cast	Julian Foster	Boy at Health Clinic
+cast	Loudon Wainwright III	Priest
+cast	Lee Weaver	Joe
+cast	Gloria Helena Jones	Sara
+cast	Jazzmun	Prostitute
+cast	Miki Mia	Waxing Lady
+cast	Denise Meyerson	Robin
+cast	Shannon Bradley	Bar Girl
+cast	Brianna Brown	Bar Girl
+cast	Liz Carey	Bar Girl
+cast	Elizabeth DeCicco	Bar Girl
+cast	Hilary Shepard	Bar Girl
+cast	Barret Swatek	Bar Girl
+cast	Carla Gallo	Toe-Sucking Girl
+cast	Michael Bierman	16 Year-Old Andy
+cast	Marisa Guterman	Girl with Braces
+cast	Stormy Daniels	Porn Star
+cast	Kevin Hart	Smart Tech Customer
+cast	Wayne Federman	Smart Tech Customer
+cast	Ron Marasco	Smart Tech Customer
+cast	Joseph T. Mastrolia	Smart Tech Customer
+cast	Kate Luyben	Woman Buying Videotapes
+cast	Joe Nunez	Man Buffing Floor
+cast	Matt McKane	Motorist
+cast	Rose Abdoo	Mother at Restaurant
+cast	Steve Bannos	Father at Restaurant
+cast	Brooke Hamlin	Daughter at Restaurant
+cast	Miyoko Shimosawa	Waitress at Restaurant
+cast	Marilyn Dodds Frank	Woman Who Bought Television
+cast	Laura Bottrell	College Girl
+cast	Ann Christine	Kim
+cast	Penny Drake	Redhead
+cast	Jenna Fischer	Woman #1
+cast	Mandy Freund	Speed Dater
+cast	Nicole Randall Johnson	Speed Dater
+cast	Brandon Killham	Young Andy
+cast	Stephanie Lemelin	Woman #2
+cast	Jamie Elle Mann	Newswoman
+cast	Sarah McCann	Cafe Girl
+cast	Acacia Morgan	Bar Patron
+cast	Suzy Nakamura	Speed Dater
+cast	Brittney Skye	Porn Actress
+cast	Phyllis Smith	Andy's Mother
+cast	Wyatt Smith	Boy at Wedding
+cast	Kira Turnage	Customer
+cast	Christa Nicole Wells	Shopping Girl
+cast	Christopher T. Wood	Cop

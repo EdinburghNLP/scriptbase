@@ -1,0 +1,159 @@
+year	1998
+imdb score	5.4
+meta score	35
+genre	Horror
+genre	Mystery
+genre	Thriller
+keyword	urban legend
+keyword	friend
+keyword	professor
+keyword	campus
+keyword	death
+keyword	college
+keyword	axe
+keyword	roommate
+keyword	security guard
+keyword	gas station
+keyword	crying for help
+keyword	car trouble
+keyword	rainstorm
+keyword	heavy rain
+keyword	mystery killer
+keyword	college roommate
+keyword	female psychopath
+keyword	thunderstorm
+keyword	gothic
+keyword	sex
+keyword	impalement
+keyword	roommate issues
+keyword	parking garage
+keyword	lifting a male into the air
+keyword	thrown through windshield
+keyword	bound and gagged
+keyword	radio
+keyword	female kills a male
+keyword	annoying roommate
+keyword	orchestral music score
+keyword	female killer
+keyword	swimming pool
+keyword	scalpel
+keyword	vomit
+keyword	flashback
+keyword	talk radio
+keyword	teen movie
+keyword	radio call in show
+keyword	product placement
+keyword	characters killed one by one
+keyword	poodle
+keyword	tire spikes
+keyword	revenge
+keyword	journalist
+keyword	computer
+keyword	radio caller
+keyword	call for help
+keyword	faceless killer
+keyword	telephone
+keyword	dark and stormy night
+keyword	party
+keyword	car chase
+keyword	psychopath
+keyword	hanged boy
+keyword	fraternity
+keyword	body in a car trunk
+keyword	yelling for help
+keyword	strangulation
+keyword	goth girl
+keyword	stuck during sex
+keyword	doggystyle sex
+keyword	hanging
+keyword	pepsi
+keyword	rain
+keyword	slasher
+keyword	chat room
+keyword	chase
+keyword	red herring
+keyword	scene before opening credits
+keyword	source music
+keyword	blood
+keyword	singing along with radio
+keyword	bridge
+keyword	cry for help
+keyword	killed in a car
+keyword	journalism
+keyword	radio station
+keyword	loss of best friend
+keyword	convicted felon
+keyword	female protagonist
+keyword	dead body in a car trunk
+keyword	college campus
+keyword	lifting someone into the air
+keyword	female serial killer
+keyword	gun
+keyword	delapidated building
+keyword	blood splatter
+keyword	violence
+keyword	villainess
+keyword	janitor
+keyword	slasher flick
+keyword	gore
+keyword	decapitation
+keyword	villain not really dead cliche
+keyword	teenager
+keyword	body in a trunk
+keyword	axe murder
+keyword	ford expedition
+keyword	microwave oven
+keyword	suspicion
+keyword	radio talk show
+keyword	singing in a car
+keyword	spreadeagle
+keyword	serial killer
+keyword	murder
+keyword	pistol
+keyword	disc jockey
+keyword	stabbed in the stomach
+keyword	radio host
+keyword	false scare
+keyword	singing
+keyword	falling from height
+keyword	fall to death
+keyword	corpse
+keyword	tied to a bed
+keyword	microwave
+keyword	dorm room
+keyword	shot with a gun
+keyword	off screen murder
+keyword	lightning
+keyword	candle
+keyword	death of friend
+keyword	surprise ending
+keyword	
+cast	Jared Leto	Paul Gardener
+cast	Alicia Witt	Natalie Simon
+cast	Rebecca Gayheart	Brenda Bates
+cast	Michael Rosenbaum	Parker Riley
+cast	Loretta Devine	Reese Wilson
+cast	Joshua Jackson	Damon Brooks
+cast	Tara Reid	Sasha Thomas
+cast	John Neville	Dean Adams
+cast	Julian Richings	Weird Janitor
+cast	Robert Englund	Professor William Wexler
+cast	Danielle Harris	Tosh Guaneri
+cast	Natasha Gregson Wagner	Michelle Mancini
+cast	Gord Martineau	David McAree
+cast	Kay Hawtrey	Library Attendant
+cast	Angela Vint	Bitchy Girl
+cast	J.C. Kenny	Weather Woman
+cast	Vince Corazza	David Evans
+cast	Balázs Koós	Nerdy Guy
+cast	Stephanie Mills	Felicia
+cast	Danny Comden	Blake
+cast	Nancy McAlear	Jenny
+cast	Shawn Mathieson	Hippie Guy
+cast	Clé Bennett	Dorky Guy
+cast	Danielle Brett	Trendy Girl
+cast	Roberta Angelica	Swimming Woman
+cast	Matt Birman	Killer
+cast	Brad Dourif	Michael McDonnell, gas station attendant
+cast	Silvio Horta	College Student
+cast	Shalen Hutchings	Extra

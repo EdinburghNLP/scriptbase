@@ -1,0 +1,190 @@
+year	2006
+imdb score	6.5
+meta score	69
+genre	Comedy
+genre	Horror
+genre	Sci-Fi
+keyword	alien
+keyword	small town
+keyword	slug
+keyword	b movie
+keyword	monster
+keyword	sex
+keyword	parasite
+keyword	deer
+keyword	transformation
+keyword	hunger
+keyword	meat
+keyword	zombie
+keyword	mutant
+keyword	meteor
+keyword	bar
+keyword	reference to charles darwin
+keyword	stabbed to death
+keyword	pistol
+keyword	written by director
+keyword	ranch
+keyword	shot in the chest
+keyword	child in peril
+keyword	stabbed in the chest
+keyword	nail polish
+keyword	foot chase
+keyword	animal abuse
+keyword	mass death
+keyword	creature feature
+keyword	deputy
+keyword	shot in the forehead
+keyword	car crash
+keyword	one word title
+keyword	square dancing
+keyword	murder of a police officer
+keyword	dismemberment
+keyword	nude drawing
+keyword	shotgun
+keyword	corpse
+keyword	basement
+keyword	group mind
+keyword	animal attack
+keyword	countdown
+keyword	party
+keyword	year 2005
+keyword	body torn apart
+keyword	forest
+keyword	blood vomiting
+keyword	director cameo
+keyword	male rear nudity
+keyword	high school
+keyword	surprise after end credits
+keyword	infestation
+keyword	acid
+keyword	drunkenness
+keyword	flashback
+keyword	murder of a police officer
+keyword	jumping off a roof
+keyword	earth viewed from space
+keyword	wife murders husband
+keyword	stabbed in the head
+keyword	gore
+keyword	band
+keyword	woman in a bathtub
+keyword	explosion
+keyword	infection
+keyword	critically acclaimed
+keyword	old flame
+keyword	555 phone number
+keyword	teenager
+keyword	murder
+keyword	high school teacher
+keyword	barn
+keyword	head blown off
+keyword	shot in the head
+keyword	country singer
+keyword	mutation
+keyword	posse
+keyword	camera focus on female butt
+keyword	sliced in two
+keyword	bitten on the arm
+keyword	vomit
+keyword	zombie child
+keyword	cow
+keyword	severed head
+keyword	tentacle rape
+keyword	obesity
+keyword	female in shower
+keyword	overweight woman
+keyword	swimming pool
+keyword	stakeout
+keyword	eaten alive
+keyword	killing an animal
+keyword	photograph
+keyword	character says i love you
+keyword	impalement
+keyword	map
+keyword	grenade
+keyword	black comedy
+keyword	nosebleed
+keyword	homeless person
+keyword	police station
+keyword	husband wife relationship
+keyword	karaoke
+keyword	box office flop
+keyword	lesbian slur
+keyword	mayor
+keyword	character repeating someone else's dialogue
+keyword	tentacle
+keyword	bare chested male
+keyword	dead animal
+keyword	exploding body
+keyword	hit by a car
+keyword	decapitation
+keyword	hit with a shovel
+keyword	hit on the head with a fire extinguisher
+keyword	rifle
+keyword	topless female nudity
+keyword	twin
+keyword	crossing guard
+keyword	steak
+keyword	radar gun
+keyword	blood
+keyword	thrown through a window
+keyword	shot to death
+keyword	cannibalism
+keyword	violence
+keyword	deformity
+keyword	stabbed in the throat
+keyword	alien invasion
+keyword	dead dog
+keyword	cult film
+keyword	shot in the foot
+keyword	blood splatter
+keyword	mind control
+keyword	police chief
+keyword	south carolina
+keyword	domestic violence
+keyword	blood on camera lens
+keyword	policewoman
+keyword	classroom
+keyword	slime
+keyword	southern accent
+keyword	disfigurement
+keyword	disembowelment
+keyword	night gown
+cast	Don Thompson	Wally
+cast	Nathan Fillion	Bill Pardy
+cast	Gregg Henry	Jack MacReady
+cast	Xantha Radley	Uptight Mom
+cast	Elizabeth Banks	Starla Grant
+cast	Tania Saulnier	Kylie Strutemyer
+cast	Dustin Milligan	Drawing Boy
+cast	Michael Rooker	Grant Grant
+cast	Haig Sutherland	Trevor
+cast	Jennifer Copping	Margaret
+cast	Zak Ludwig	Gina Kid
+cast	Kathryn Kirkpatrick	Karaoke Woman
+cast	Brenda James	Brenda Gutierrez
+cast	Lorena Gale	Janene
+cast	Bart Anderson	Butcher
+cast	Corby Lund	Lead Singer
+cast	Rob Zombie	Dr. Karl
+cast	Lloyd Kaufman	Sad Drunk
+cast	Tom Heaton	Tourneur
+cast	Jenna Fischer	Shelby
+cast	Ben Cotton	Charlie
+cast	Dee Jay Jackson	Dwight
+cast	Matreya Fedor	Emily Strutemyer
+cast	Amber Lee Bartlett	Jenna Strutemyer
+cast	William MacDonald	Mr. Strutemyer
+cast	Iris Quinn	Mrs. Strutemyer
+cast	Michael Cromien	Fitzgibbon
+cast	Robert Musnicki	Diseased Leader
+cast	Stephen Park	Gleeked on Guy
+cast	Mary Black	Woman in Basement
+cast	Malcolm Scott	Dude Joining Grant
+cast	Nicholas Podbrey	Diseased Grant Part 1
+cast	Jeny Cassady	Diseased Grant Part 2
+cast	Alette Falle	Diseased Grant Part 3
+cast	Darren Shahlavi	Brenda's Husband
+cast	Matt McInnis	Head-Shot Norman
+cast	Magda Apanowicz	Friend
+cast	James Gunn	Hank
+cast	Rick Morwick	Truckdriver

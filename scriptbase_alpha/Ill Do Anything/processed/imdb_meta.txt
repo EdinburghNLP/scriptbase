@@ -1,0 +1,97 @@
+year	1994
+imdb score	5.6
+meta score	N/A
+genre	Comedy
+genre	Drama
+keyword	daughter
+keyword	actor
+keyword	father
+keyword	ex wife
+keyword	contraction in title
+keyword	father daughter relationship
+keyword	satire
+keyword	apostrophe in title
+keyword	punctuation in title
+keyword	
+cast	Nick Nolte	Matt Hobbs
+cast	Whittni Wright	Jeannie Hobbs
+cast	Albert Brooks	Burke Adler
+cast	Julie Kavner	Nan Mulhanney
+cast	Joely Richardson	Cathy Breslow
+cast	Tracey Ullman	Beth Hobbs
+cast	Jeb Brown	Male D Person
+cast	Joely Fisher	Female D Person
+cast	Vicki Lewis	Millie
+cast	Anne Heche	Claire
+cast	Ian McKellen	John Earl McAlpine
+cast	Joel Thurm	Martin
+cast	Angela Alvarado	Lucy
+cast	Dominik Lukas-Espeleta	Ricky
+cast	Justina Hardesty	Essa
+cast	Robert Joy	U.S. Marshal
+cast	Maria Pitillo	Flight Attendant
+cast	Suzzanne Douglas	Rainbow House Star
+cast	Joseph Malone	Assistant Director
+cast	Jake Busey	Burke's Fired Driver
+cast	Harry Shearer	Audience Research Captain
+cast	Rosie O'Donnell	Make-Up Person
+cast	Ken Page	Hair Person
+cast	Chelsea Field	Screen-Test Actress
+cast	Justine Shapiro	Studio Executive
+cast	Amy Brooks	Shannon
+cast	Ian Deitchman	Popcorn Pictures P.A.
+cast	Maria Kavanaugh	Secretary on Telephone
+cast	Peter Kwong	Popcorn Pictures Intern
+cast	Roz Baker	Taxi Driver
+cast	Courtney Perry	Audition Child
+cast	Perry Anzilotti	Rainbow House Supporting Actor
+cast	Wren T. Brown	Floor Manager
+cast	John D. Schofield	Screen-Test Director
+cast	Jennifer Cabrera	Rainbow House Child
+cast	D.J. Dellos	Rainbow House Child
+cast	Arvie Lowe Jr.	Rainbow House Child
+cast	Dale Anthony Phillips Jr.	Rainbow House Child
+cast	Alex Dent	Rainbow House Child
+cast	Amish Desai	Rainbow House Child
+cast	Alissa Dowdy	Rainbow House Child
+cast	Danielle Dowdy	Rainbow House Child
+cast	Heather DeLoach	Rainbow House Child
+cast	Mayah McCoy	Rainbow House Child
+cast	Brittany Johnson	Rainbow House Child
+cast	Tricia Joe	Rainbow House Child
+cast	Steve Vinovich	Rainbow House Director
+cast	Chloe Brooks	Child Actress in the Street
+cast	Andrew David DeAngelo	Rainbow House Parent
+cast	Doris Dowdy	Rainbow House Parent
+cast	Susan DeLoach	Rainbow House Parent
+cast	Annalouise Paul	Rainbow House Parent
+cast	Trixie Flynn	Rainbow House Parent
+cast	Andy Milder	Warm-Up Man
+cast	Ron Perkins	Victor
+cast	Aaron Lustig	Jack
+cast	Elisabeth Boyd	Elisabeth
+cast	Kate McNeil	Stacy
+cast	Patrick Cassidy	Ground Zero Villain
+cast	Woody Harrelson	Ground Zero Hero
+cast	Norris J. Bishton III	Restaurant Patron
+cast	Allison J. Brown	Restaurant Patron
+cast	Stacey Renee Caddell	Restaurant Patron
+cast	Alan James Luzietti	Restaurant Patron
+cast	Jodi Ellen Melnick	Restaurant Patron
+cast	Shawn Marie Stevens	Restaurant Patron
+cast	Michael George Whaites	Restaurant Patron
+cast	Keith Harden Young	Restaurant Patron
+cast	Joan Giammarco	Airplane Passenger
+cast	Tricia Leigh Fisher	Airplane Passenger
+cast	Jerry Hauck	Airplane Passenger
+cast	Jose Payo	Airplane Passenger
+cast	Hannah Nielsen	Baby Jeannie
+cast	Ingrid Nielsen	Baby Jeannie
+cast	Chris Finch	Auditioning Actor / Dancer
+cast	Sandy Helberg	Theater Critic
+cast	Gregory Hinton	Bouncer
+cast	Scott Krinsky	Focus Group Member
+cast	Alex Magno	Dancer
+cast	Nichole McAuley	
+cast	Jonathan Romley	Rainbow House Child
+cast	Viviane Vives	Auditioning Actress

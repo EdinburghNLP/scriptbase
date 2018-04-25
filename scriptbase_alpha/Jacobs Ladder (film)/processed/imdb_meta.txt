@@ -1,0 +1,175 @@
+year	1990
+imdb score	7.6
+meta score	62
+genre	Drama
+genre	Horror
+genre	Mystery
+keyword	vietnam
+keyword	new york
+keyword	delusion
+keyword	demon
+keyword	soldier
+keyword	vision
+keyword	conspiracy
+keyword	army
+keyword	death
+keyword	flashback
+keyword	subway
+keyword	drug abuse
+keyword	snorricam
+keyword	title based on song
+keyword	monster
+keyword	fever
+keyword	postman
+keyword	gore
+keyword	new york city
+keyword	chiropractor
+keyword	funeral
+keyword	cult film
+keyword	angel
+keyword	human experimentation
+keyword	train
+keyword	bare butt
+keyword	demon rape
+keyword	vietnam war
+keyword	lifting someone into the air
+keyword	dying
+keyword	strait jacket
+keyword	shower
+keyword	tragedy
+keyword	mind game
+keyword	blood
+keyword	anxiety
+keyword	self mutilation
+keyword	explosion
+keyword	guardian angel
+keyword	paranoia
+keyword	enigma
+keyword	hospital
+keyword	stabbed in the stomach
+keyword	haunting
+keyword	1970s
+keyword	punctuation in title
+keyword	vietnam war veteran
+keyword	female nudity
+keyword	male rear nudity
+keyword	severed arm
+keyword	shot in the head
+keyword	loss
+keyword	oneiric
+keyword	palm reading
+keyword	memory
+keyword	friendly fire
+keyword	exploding car
+keyword	dog
+keyword	buddhist
+keyword	trenchcoat
+keyword	female rear nudity
+keyword	hallucination
+keyword	severed foot
+keyword	vietnam veteran
+keyword	lifting a male into the air
+keyword	gothic
+keyword	man with glasses
+keyword	hit by a car
+keyword	party
+keyword	goth
+keyword	apostrophe in title
+keyword	figment of imagination
+keyword	postal worker
+keyword	auditory hallucination
+keyword	stabbed in the forehead
+keyword	purgatory
+keyword	helicopter
+keyword	kicked in the face
+keyword	torture
+keyword	neck breaking
+keyword	gurney
+keyword	male nudity
+keyword	barefoot
+keyword	corpse
+keyword	cover up
+keyword	phantasmagoria
+keyword	nightmare
+keyword	bathtub
+keyword	chase
+keyword	ice bath
+keyword	hell
+keyword	vomit
+keyword	death of son
+keyword	death of friend
+keyword	death of child
+keyword	independent film
+keyword	character name in title
+keyword	surprise ending
+cast	Tim Robbins	Jacob
+cast	Elizabeth Peña	Jezzie
+cast	Danny Aiello	Louis
+cast	Matt Craven	Michael
+cast	Pruitt Taylor Vince	Paul
+cast	Jason Alexander	Geary
+cast	Patricia Kalember	Sarah
+cast	Eriq La Salle	Frank
+cast	Ving Rhames	George
+cast	Brian Tarantina	Doug
+cast	Anthony Alessandro	Rod
+cast	Brent Hinkley	Jerry
+cast	S. Epatha Merkerson	Elsa
+cast	Suzanne Shepherd	Hospital Receptionist
+cast	Doug Barron	Group Leader
+cast	Jan Saint	Santa
+cast	Kisha Skinner	Street Singer
+cast	Dion Simmons	Street Singer
+cast	Sam Coppola	Taxi Driver
+cast	Patty Rosborough	Drunk
+cast	Evan O'Meara	Sam
+cast	Kyle Gass	Tony
+cast	Gloria Irizarry	Mrs. Carmichael
+cast	Lewis Black	Jacob's Doctor
+cast	Raymond Anthony Thomas	Policeman
+cast	Christopher John Fields	Field Medic
+cast	Jaime Perry	Field Medic
+cast	Michael Tomlinson	Field Doctor
+cast	A.M. Marxuach	Field Doctor
+cast	Antonia Rey	Woman on Subway
+cast	John Capodice	Army Officer
+cast	John Patrick McLaughlin	Army Officer
+cast	Bellina Logan	Emergency Ward Nurse
+cast	Scott Cohen	Resident Doctor
+cast	Davidson Thomson	Evil Doctor
+cast	Bryan Larkin	Jed
+cast	B.J. Donaldson	Eli
+cast	Thomas A. Carlin	Doorman
+cast	Carol Schneider	Nurse
+cast	Becky Ann Baker	Nurse
+cast	Diane Kagan	Nurse
+cast	Billie Neal	Della
+cast	Mike Stokie	Field Sergeant
+cast	James Ellis Reynolds	EMT Bearer
+cast	Dennis Rubin Green	Attendant
+cast	Brad Hamler	Orderly
+cast	Byron Minns	Orderly
+cast	Reggie McFadden	Partygoer
+cast	Stephanie Berry	Partygoer
+cast	Chris Murphy	Partygoer
+cast	John-Martin Green	Partygoer
+cast	Arleigh Richards	Paul's Wife
+cast	Ann Pearl Gary	Mourner
+cast	Barbara Gruen	Mourner
+cast	Joe Quintero	Street Kid
+cast	John Louis Fischer	Machine Gunner
+cast	Alva Williams	Masked Man
+cast	Elizabeth Abassi	Hospital Patient
+cast	Nora Burns	Hospital Patient
+cast	Alison Gordy	Hospital Patient
+cast	Jessica Roberts	Hospital Patient
+cast	Holly Kennedy	Hospital Patient
+cast	Blanche Irwin Stuart	Hospital Patient
+cast	Perry Lang	Jacob's Assailant
+cast	José Alvarez	Factory Worker
+cast	Robert Baglia	Tommy, Patient
+cast	John D. Bair	Commuter
+cast	Steve Baker	Pool Player
+cast	Orson Bean	Himself - Game Show Panelist
+cast	Macaulay Culkin	Gabe
+cast	Ed Jupp Jr.	Eyeless Doctor

@@ -1,0 +1,167 @@
+year	1987
+imdb score	6.5
+meta score	N/A
+genre	Horror
+genre	Thriller
+keyword	nightmare
+keyword	dream
+keyword	freddy krueger
+keyword	undead
+keyword	demon
+keyword	doctor
+keyword	serial killer
+keyword	elm street
+keyword	killer
+keyword	tied to a bed
+keyword	boy with glasses
+keyword	claw
+keyword	stabbed in the chest
+keyword	digging a grave
+keyword	lifted by the throat
+keyword	cut arm
+keyword	back from the dead
+keyword	stabbed in the eye
+keyword	slow motion scene
+keyword	orderly
+keyword	wrist slitting
+keyword	troubled teen
+keyword	doll
+keyword	hypnosis
+keyword	hit with a shovel
+keyword	burn scar
+keyword	breaking through wall
+keyword	fedora
+keyword	church
+keyword	1980s
+keyword	burned with a cigarette
+keyword	puppet
+keyword	experimental drug
+keyword	crucifix
+keyword	mohawk
+keyword	ghost
+keyword	punk girl
+keyword	nurse
+keyword	third part
+keyword	stabbed in the back
+keyword	cigarette smoking
+keyword	jumping through a window
+keyword	terror
+keyword	thong
+keyword	death
+keyword	electronic music score
+keyword	mother daughter relationship
+keyword	psychiatric hospital
+keyword	drug overdose
+keyword	marionette
+keyword	corpse
+keyword	falling from height
+keyword	burnt face
+keyword	cemetery
+keyword	hanged girl
+keyword	serial child killer
+keyword	dead child
+keyword	stabbed in the arm
+keyword	child murderer
+keyword	suicide attempt
+keyword	reference to edgar allan poe
+keyword	shared dream
+keyword	wheelchair bound
+keyword	cult film
+keyword	sleepwalking
+keyword	blood spatter
+keyword	stop motion animation
+keyword	springwood ohio
+keyword	physical harm
+keyword	supernatural power
+keyword	digit in title
+keyword	murder
+keyword	stabbed with glass
+keyword	miniature model
+keyword	stabbed to death
+keyword	ohio
+keyword	television set
+keyword	villain not really dead cliche
+keyword	breaking a mirror
+keyword	slasher
+keyword	homicidal maniac
+keyword	dream deprivation
+keyword	disfigurement
+keyword	violence
+keyword	rampage
+keyword	impalement
+keyword	stabbed with a needle
+keyword	child killer
+keyword	holy water
+keyword	falling down stairs
+keyword	disembodied head
+keyword	one liner
+keyword	character says i love you
+keyword	dream within a dream
+keyword	teen angst
+keyword	super power
+keyword	topless female nudity
+keyword	skeleton
+keyword	body in a trunk
+keyword	returning character killed off
+keyword	third in series
+keyword	numbered sequel
+keyword	funeral
+keyword	teen smoking
+keyword	group therapy
+keyword	hanged boy
+keyword	switchblade
+keyword	bare chested male
+keyword	falling to death
+keyword	decapitation
+keyword	street in title
+keyword	insanity
+keyword	mute
+keyword	character repeating someone else's dialogue
+keyword	sequel
+keyword	father daughter relationship
+keyword	selective mutism
+keyword	lifting a female into the air
+keyword	reanimation
+keyword	pendulum
+keyword	nun
+keyword	gore
+keyword	lifting someone into the air
+keyword	auto salvage yard
+keyword	begins with a quote
+keyword	sleep disorder
+keyword	scar tissue
+keyword	long tongue
+keyword	coma
+keyword	stabbed in the leg
+keyword	death of friend
+keyword	independent film
+keyword	number in title
+keyword	surprise ending
+cast	Heather Langenkamp	Nancy Thompson
+cast	Craig Wasson	Neil Gordon
+cast	Patricia Arquette	Kristen Parker
+cast	Robert Englund	Freddy Krueger
+cast	Ken Sagoes	Kincaid
+cast	Rodney Eastman	Joey
+cast	Jennifer Rubin	Taryn
+cast	Bradley Gregg	Phillip
+cast	Ira Heiden	Will
+cast	Laurence Fishburne	Max
+cast	Penelope Sudrow	Jennifer
+cast	John Saxon	Thompson
+cast	Priscilla Pointer	Dr. Elizabeth Simms
+cast	Clayton Landey	Lorenzo
+cast	Brooke Bundy	Elaine Parker
+cast	Kristen Clayton	Little Girl
+cast	Sally Piper	Nurse #1
+cast	Rozlyn Sorrell	Nurse #2
+cast	Nan Martin	Nun
+cast	Stacey Alden	Marcie
+cast	Dick Cavett	Dick Cavett
+cast	Zsa Zsa Gabor	Zsa Zsa Gabor
+cast	Michael Rougas	Priest in Church
+cast	Jack Shea	Priest in Cemetery
+cast	Paul Kent	Dr. Carver
+cast	Mary Brown	Neurosurgeon
+cast	Melanie Doctors	Girl in Cemetery
+cast	Donna Durham	Girl in Crowd

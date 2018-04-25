@@ -1,0 +1,132 @@
+year	1990
+imdb score	7.8
+meta score	N/A
+genre	Drama
+genre	Thriller
+keyword	fan
+keyword	nurse
+keyword	car crash
+keyword	blizzard
+keyword	obsessed fan
+keyword	novel
+keyword	mysterious stranger
+keyword	medication
+keyword	homecare nurse
+keyword	marshal
+keyword	madness
+keyword	car accident
+keyword	villainess played by lead actress
+keyword	melting
+keyword	sadist
+keyword	writer
+keyword	escape
+keyword	grande dame guignol
+keyword	broken leg
+keyword	psychological torture
+keyword	loneliness
+keyword	scrapbook
+keyword	obsession
+keyword	search
+keyword	escape attempt
+keyword	sociopath
+keyword	match
+keyword	anti villain
+keyword	insanity
+keyword	based on the works of stephen king
+keyword	female emasculating a male
+keyword	taunting
+keyword	torture
+keyword	abduction
+keyword	psychopath
+keyword	subjective camera
+keyword	tension
+keyword	animal
+keyword	neo noir
+keyword	bipolar disorder
+keyword	psycho killer
+keyword	author
+keyword	beating
+keyword	serial killer
+keyword	gun
+keyword	revenge
+keyword	dislocated shoulder
+keyword	isolation
+keyword	drugging
+keyword	fight
+keyword	highway
+keyword	police officer killed
+keyword	intimidation
+keyword	hostage
+keyword	deeply disturbed person
+keyword	character's point of view camera shot
+keyword	shotgun
+keyword	female psychopath
+keyword	captive
+keyword	idol
+keyword	fight to the death
+keyword	investigation
+keyword	kidnapping
+keyword	desperation
+keyword	claustrophobia
+keyword	recluse
+keyword	struggling author
+keyword	one word title
+keyword	bad girl
+keyword	helicopter
+keyword	typewriter
+keyword	villainess
+keyword	old dark house
+keyword	knife
+keyword	shot in the chest
+keyword	suspense
+keyword	attempted escape
+keyword	slow motion scene
+keyword	maniac
+keyword	writing
+keyword	borderline personality disorder
+keyword	reference to liberace
+keyword	tied up
+keyword	violence
+keyword	duel
+keyword	snow
+keyword	villain not really dead cliche
+keyword	wheelchair
+keyword	male victim
+keyword	sledge hammer
+keyword	small town
+keyword	deranged
+keyword	ceramic
+keyword	basement
+keyword	female killer
+keyword	romance novelist
+keyword	picking lock
+keyword	psycho
+keyword	sitting
+keyword	physical abuse
+keyword	murder
+keyword	obscene finger gesture
+keyword	bludgeoned to death
+keyword	psycho thriller
+keyword	psychotic
+keyword	pig
+keyword	rescue
+keyword	based on novel
+keyword	title spoken by character
+keyword	surprise ending
+cast	James Caan	Paul Sheldon
+cast	Kathy Bates	Annie Wilkes
+cast	Richard Farnsworth	Buster
+cast	Frances Sternhagen	Virginia
+cast	Lauren Bacall	Marcia Sindell
+cast	Graham Jarvis	Libby
+cast	Jerry Potter	Pete
+cast	Thomas Brunelle	Anchorman
+cast	June Christopher	Anchorwoman
+cast	Julie Payne	Reporter #1
+cast	Archie Hahn	Reporter #2
+cast	Gregory Snegoff	Reporter #3
+cast	Wendy Bowers	Waitress
+cast	Misery the Pig	Herself
+cast	John Michael Quinn	Restaurant Patron
+cast	Rob Reiner	Helicopter Pilot
+cast	J.T. Walsh	State Trooper Sherman Douglas

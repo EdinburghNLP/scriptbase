@@ -1,0 +1,157 @@
+year	2013
+imdb score	5.8
+meta score	37
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	prostitute
+keyword	vengeance
+keyword	thai boxing
+keyword	murder
+keyword	shooting a police officer
+keyword	black dress
+keyword	shot to death
+keyword	stabbed in the arm
+keyword	forced to strip
+keyword	bangkok thailand
+keyword	stabbed in the ear
+keyword	singing
+keyword	murder of a police officer
+keyword	circle of violence
+keyword	police officer shot in the head
+keyword	red light
+keyword	oedipus complex
+keyword	patricide
+keyword	eye gouging
+keyword	murder of an innocent person
+keyword	neo noir
+keyword	punched in the face
+keyword	three word title
+keyword	gore
+keyword	breaking a bottle over someone's head
+keyword	police officer shot in the chest
+keyword	bare chested male
+keyword	beaten to death
+keyword	violence
+keyword	claim in title
+keyword	assassination attempt
+keyword	restaurant
+keyword	head bashed in
+keyword	police lieutenant
+keyword	hit with a frying pan
+keyword	child in peril
+keyword	blood
+keyword	severed hand
+keyword	fist
+keyword	pistol
+keyword	burnt face
+keyword	katana sword
+keyword	fantasy sequence
+keyword	drug dealer
+keyword	beating
+keyword	arthouse action
+keyword	severed arm
+keyword	no opening credits
+keyword	karaoke bar
+keyword	motorcycle
+keyword	stabbed in the back
+keyword	covered in blood
+keyword	domineering mother
+keyword	female masturbation
+keyword	off screen rape
+keyword	police officer shot
+keyword	mother son relationship
+keyword	death of brother
+keyword	throat slitting
+keyword	arm cut off
+keyword	stabbed in the throat
+keyword	boxing club
+keyword	hotel
+keyword	teen prostitute
+keyword	blade
+keyword	boiling oil
+keyword	torture
+keyword	nightclub
+keyword	corpse
+keyword	muay thai
+keyword	brutal cop
+keyword	thai police
+keyword	swollen face
+keyword	dismemberment
+keyword	blood splatter
+keyword	impalement
+keyword	looking at one's self in a mirror
+keyword	murder of a prostitute
+keyword	bloodbath
+keyword	written by director
+keyword	slow motion scene
+keyword	police officer killed
+keyword	uzi
+keyword	death of daughter
+keyword	shot in the head
+keyword	face slap
+keyword	shot in the back
+keyword	cigarette smoking
+keyword	tough cop
+keyword	hand through chest
+keyword	police officer shot in the back
+keyword	revenge
+keyword	character repeating someone else's dialogue
+keyword	subtitled scene
+keyword	american abroad
+keyword	tied to a chair
+keyword	pretending to be a couple
+keyword	lighting a cigarette for a woman
+keyword	statue of david
+keyword	brothel
+keyword	punishment
+keyword	knocked out
+keyword	stabbed in the leg
+keyword	surrealism
+keyword	shot in the forehead
+keyword	masked man
+keyword	foot chase
+keyword	pool of blood
+keyword	stylized violence
+keyword	reference to alejandro jodorowsky
+keyword	police protection
+keyword	slashed to death
+keyword	gay slur
+keyword	kicked in the chest
+keyword	stabbed to death
+keyword	police officer
+keyword	drug trafficking
+keyword	racial slur
+keyword	fist fight
+keyword	bilingualism
+keyword	shot in the chest
+keyword	death of son
+keyword	death of mother
+keyword	
+cast	Ryan Gosling	Julian
+cast	Kristin Scott Thomas	Crystal
+cast	Vithaya Pansringarm	Chang
+cast	Gordon Brown	Gordon
+cast	Yayaying Rhatha Phongam	Mai
+cast	Tom Burke	Billy
+cast	Sahajak Boonthanakit	Kim
+cast	Pitchawat Petchayahon	Phaiban
+cast	Charlie Ruedpokanon	Daeng
+cast	Kowit Wattanakul	Choi Yan Lee
+cast	Wannisa Peungpa	Kanita
+cast	Narucha Chaimareung	Papa San
+cast	Danai Thiengdham	Waiter / Li Po
+cast	Wittchuta Watjanarat	Ma Fong
+cast	Nophand Boonyai	Charlie Ling
+cast	Teerawat Mulvilai	Ko Sam
+cast	Aratchaporn Sataed	Po Yan Lee
+cast	Dujdao Vadhanapakorn	Concierge
+cast	Matthew Ryder	Manager
+cast	Oak Keerati	Porter
+cast	Sasapin Siriwanji	Liang's Sister
+cast	Nuntiya Thongnoo	Liang's Mother
+cast	Byron Gibson	Byron
+cast	Saicheer Wongwirot	Gunman #3
+cast	Alisa Wongvisut	Singer
+cast	Byron Bishop	Burin
+cast	Joe Cummings	Bar Customer

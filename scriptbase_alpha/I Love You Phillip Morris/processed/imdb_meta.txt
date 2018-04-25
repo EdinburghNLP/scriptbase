@@ -1,0 +1,407 @@
+year	2009
+imdb score	6.7
+meta score	65
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	fraud
+keyword	prison
+keyword	gay
+keyword	jail
+keyword	con man
+keyword	homosexuality
+keyword	car accident
+keyword	con artist
+keyword	police
+keyword	homosexual
+keyword	devotion
+keyword	lie
+keyword	girl
+keyword	sex
+keyword	capture
+keyword	prison shower
+keyword	man dancing with man
+keyword	reading
+keyword	group shower
+keyword	flash forward
+keyword	n word
+keyword	hugging
+keyword	stealing
+keyword	crying man
+keyword	on the lam
+keyword	biological mother
+keyword	shaving
+keyword	pills
+keyword	suitcase
+keyword	tears
+keyword	family relationships
+keyword	gay kiss
+keyword	urinal
+keyword	claim in title
+keyword	adoption
+keyword	church
+keyword	black american
+keyword	beating
+keyword	chocolate
+keyword	suicide attempt
+keyword	grocery store
+keyword	cloud gazing
+keyword	church choir
+keyword	nudity
+keyword	kissing
+keyword	homosexual self discovery
+keyword	insulin overdose
+keyword	vomit
+keyword	theft of service
+keyword	voice over narration
+keyword	mopping a floor
+keyword	adopted child
+keyword	insurance fraud
+keyword	barbecue
+keyword	liar
+keyword	year 2006
+keyword	singing
+keyword	gay couple
+keyword	letter
+keyword	homosexual love
+keyword	underwear
+keyword	promise
+keyword	taxi
+keyword	flashback
+keyword	reference to coca cola
+keyword	car crash
+keyword	lockdown
+keyword	taxi driver
+keyword	job interview
+keyword	abandoned son
+keyword	life sentence
+keyword	virginia beach
+keyword	manacles
+keyword	friend
+keyword	gay cop
+keyword	looking at self in mirror
+keyword	flowers
+keyword	mother daughter relationship
+keyword	gay lead character
+keyword	subjective camera
+keyword	bible quote
+keyword	dying
+keyword	cell mate
+keyword	rejected son
+keyword	spitting semen out of mouth
+keyword	gay relationship
+keyword	social engineering
+keyword	scam
+keyword	christmas present
+keyword	thief
+keyword	directorial debut
+keyword	sex on boat
+keyword	birthday party
+keyword	shower room
+keyword	racist humor
+keyword	impersonating a lawyer
+keyword	homosexual sex
+keyword	diabetes
+keyword	neck brace
+keyword	incarceration
+keyword	miami florida
+keyword	fake id
+keyword	reference to ernest hemingway
+keyword	year 1998
+keyword	reference to people magazine
+keyword	money
+keyword	prison guard
+keyword	man in swimsuit
+keyword	law library
+keyword	chief financial officer
+keyword	rolex watch
+keyword	face slap
+keyword	bunk bed
+keyword	surprise
+keyword	rear entry sex
+keyword	police officer
+keyword	breach of contract
+keyword	vomiting
+keyword	father daughter relationship
+keyword	juror
+keyword	christmas
+keyword	change in lifestyle
+keyword	backyard barbecue
+keyword	gay man has sex with a woman
+keyword	businessman
+keyword	eyeglasses
+keyword	boyfriend boyfriend relationship
+keyword	gurney
+keyword	back injury
+keyword	brother in law sister in law relationship
+keyword	pathological liar
+keyword	homosexual father
+keyword	aids
+keyword	telephone call
+keyword	homosexual policeman
+keyword	prisoner
+keyword	trust
+keyword	friendship
+keyword	ambulance
+keyword	prayer
+keyword	escape from prison
+keyword	childhood memory
+keyword	sneaking out of a hospital
+keyword	gay parenthood
+keyword	birthday
+keyword	character says i love you
+keyword	prison sentence
+keyword	repressed homosexual
+keyword	credit card fraud
+keyword	breaking a screen door
+keyword	falsified document
+keyword	briefcase
+keyword	blood
+keyword	supermarket
+keyword	jumping from height
+keyword	bare chested male
+keyword	husband wife relationship
+keyword	fellatio
+keyword	gold watch
+keyword	restaurant
+keyword	deceit
+keyword	closeted gay man
+keyword	male underwear
+keyword	hymn
+keyword	death of lover
+keyword	ex policeman
+keyword	foaming at the mouth
+keyword	theft
+keyword	confession of love
+keyword	men's bathroom
+keyword	gay bar
+keyword	first person title
+keyword	male nudity
+keyword	wheelchair
+keyword	recidivism
+keyword	car rental
+keyword	jumping off a roof
+keyword	briefs
+keyword	karma
+keyword	resume
+keyword	food
+keyword	coming out of a coma
+keyword	religion
+keyword	dog
+keyword	diabetic
+keyword	policeman
+keyword	gay club
+keyword	starting over
+keyword	deception
+keyword	death
+keyword	sports car
+keyword	racist joke
+keyword	urination
+keyword	closeted homosexual
+keyword	slow dancing
+keyword	coming out
+keyword	male in shower
+keyword	gay joke
+keyword	crying
+keyword	blowing bubbles
+keyword	prison escape
+keyword	miniature pinscher
+keyword	boat
+keyword	library
+keyword	tuxedo
+keyword	telling a joke
+keyword	courtroom
+keyword	cookie
+keyword	punched in the face
+keyword	debt
+keyword	faking illness
+keyword	book
+keyword	drug overdose
+keyword	search for birth mother
+keyword	masturbation
+keyword	handcuffs
+keyword	key west florida
+keyword	identity
+keyword	accomplice
+keyword	eating
+keyword	watching a movie
+keyword	epiphany
+keyword	reference to ricky martin
+keyword	gay husband
+keyword	racial slur
+keyword	african american
+keyword	arrest
+keyword	elevator
+keyword	running
+keyword	gay stereotype
+keyword	secret
+keyword	lawyer
+keyword	orgasm
+keyword	gay romance
+keyword	gay sex
+keyword	shower
+keyword	florida
+keyword	memory
+keyword	prison sex
+keyword	dancing
+keyword	birth mother
+keyword	insulin
+keyword	gay love
+keyword	role playing
+keyword	reference to god
+keyword	kiss
+keyword	boy
+keyword	buying a child
+keyword	voice over letter
+keyword	male rear nudity
+keyword	wristwatch
+keyword	gay father
+keyword	judge
+keyword	gay parent
+keyword	homosexual kiss
+keyword	on the run
+keyword	bare butt
+keyword	homosexual seduction
+keyword	gay slur
+keyword	texas
+keyword	chewing gum
+keyword	happy birthday to you
+keyword	christian
+keyword	computer
+keyword	prison break
+keyword	reference to george w. bush
+keyword	destiny
+keyword	mirror
+keyword	hospital
+keyword	penis
+keyword	golf
+keyword	children
+keyword	milk
+keyword	embezzlement
+keyword	prison library
+keyword	reference to jesus christ
+keyword	phallic image
+keyword	dancer
+keyword	faked death
+keyword	welcome mat
+keyword	cafe
+keyword	oral sex
+keyword	cloud
+keyword	ex husband ex wife relationship
+keyword	title spoken by character
+keyword	character name in title
+cast	Jim Carrey	Steven Russell
+cast	Ewan McGregor	Phillip Morris
+cast	Leslie Mann	Debbie
+cast	Rodrigo Santoro	Jimmy
+cast	Antoni Corone	Lindholm
+cast	Brennan Brown	Birkheim
+cast	Michael Mandell	Cleavon
+cast	Annie Golden	Eudora
+cast	Marylouise Burke	Barbara Bascombe
+cast	David Jensen	Judge
+cast	Dameon Clarke	Houston Lawyer
+cast	Nicholas Alexander	Steven's 11-Year-Old Brother
+cast	Clay Chamberlin	Cellmate - Arnie
+cast	Louis Herthum	Doctor
+cast	Morgana Shaw	Steven's Mom
+cast	Joe Chrest	Steven's Dad
+cast	Griff Furst	Mark
+cast	Aunjanue Ellis	Reba
+cast	DeVere Jehl	Samuel
+cast	Michael Showers	Gary
+cast	Beth Burvant	Sara
+cast	Ladson Deyne	Neil
+cast	Kennon Kepper	9-Year-Old Steven
+cast	Alyssa Tate	Child Stephanie
+cast	Andrew Sensenig	Screecher
+cast	David Stanford	Paramedic
+cast	Bill Dykes	Latino Man
+cast	Tony Bentley	Racist Client
+cast	Kathrin Middleton	Saleswoman
+cast	Donovan Guidry	The Moustached Man
+cast	Michael Beasley	Release Officer
+cast	Sean Boyd	Policeman
+cast	Maureen Brennan	Vera
+cast	Marcus Lyle Brown	Young Doctor
+cast	Trey Burvant	Blake
+cast	Ken Clement	County Corrections Officer
+cast	Miriam Cruz	Helen
+cast	David Dahlgren	Physician
+cast	Tommy Davis	Todd
+cast	Michael Ducote	SWAT Commander
+cast	Ashley Duggan Smith	Secretary #3
+cast	Lela Edgar	Blond Wife
+cast	J.D. Evermore	Bossy Guard
+cast	Jon Eyez	Second Prisoner
+cast	Evan Fitzpatrick	Red-Haired Boy
+cast	Shane Fitzpatrick	Little Girl
+cast	Shane Fuller	Male Nurse
+cast	Jeff Galpin	Lead Officer
+cast	Larry Gamell Jr.	Driving Cop
+cast	Jim Garrity	Night Guard
+cast	Leon Gisclair	Little Boy
+cast	Geraldine Glenn	Mandi
+cast	Douglas M. Griffin	Steven's Attorney
+cast	Jessica Heap	Secretary
+cast	Tim Hickey	Blond Inmate
+cast	Keith Hudson	Produce Manager
+cast	Jeremy Aaron Johnson	Policeman #1
+cast	Jacqueline King	Lawyer
+cast	Alexa Kuve	Cherubic Secretary
+cast	Frederick Lewis	Yoakum
+cast	Sharon K. London	Clerk
+cast	Audrey Lynn	Married Woman
+cast	Marc Macaulay	Houston Cop
+cast	Reginald Mack	Jail Guard
+cast	Danny Marin	Infirmary Orderly
+cast	Sammi-Jack Martincak	12-Year-Old Stephanie
+cast	Ann McKenzie	Facelift Wife
+cast	Thelma Medina	Huge Nurse
+cast	Wendy Michaels	Housewife
+cast	John J. Mourain	Taxi Driver
+cast	Randall Newsome	Cop
+cast	Lance E. Nichols	Houston Judge
+cast	Antonino Paone	Cab Driver
+cast	Liann Pattison	Mrs. Lindholm
+cast	Sherrie Peterson	Female D.A.
+cast	Clyde Raymond	Houston Doctor
+cast	Dane Rhodes	Bald Prisoner
+cast	Johnny Rock	New Cellmate
+cast	Archie Sampier	Yard Guard
+cast	Andy Sims	Corrections Officer
+cast	Aron Ten Eyck	Policeman #2
+cast	Thomas Thomason	Lawrence
+cast	Deneen Tyler	Caretaker
+cast	Chris Wecklein	Baylor
+cast	Scotty Whitehurst	Orderly
+cast	Bill Martin Williams	Duty Officer
+cast	Jaymon Yates	First Prisoner
+cast	Don Yesso	Guard
+cast	Gabby Barnes	Girl at BBQ
+cast	Brett Beoubay	Gala Attendee / Jr. Exec.
+cast	Dane Brown	Texas Deputy
+cast	Rhonda Castagna	Shopper
+cast	Samuel Davenport	Court Bailiff
+cast	Joshua Davis	Boy at BBQ
+cast	Larry Jack Dotson	Golfer
+cast	Cy Fahrenholtz	Library Prisoner
+cast	John Gorman	Sheriff Deputy
+cast	Bobby Guntner	Miami Cop
+cast	Russell M. Haeuser	Houston Gala Patron
+cast	Melissa S. Harris	Exec. Wife-Gala Attendee
+cast	Randy Herman	Steven's Dance Partner
+cast	Cynthia LeBlanc	Juror #5
+cast	Elton LeBlanc	Fireman / Insurance Excecutive
+cast	Don Mac	Swat Team Member
+cast	Jake Moran	Aryan
+cast	Robert Nuzzie	Bartender
+cast	Gianni Palermo	Inmate
+cast	Chris Shaw	Bar Patron
+cast	Gary Michael Smith	Millionaire
+cast	Lisa Mackel Smith	Care Center Rep
+cast	Terry Lee Smith	Church Member
+cast	Carlos Thomas	Hospital Guard
+cast	Ana Villafañe	Bikini Girl
+cast	Jake Austin Walker	Chruch Boy
+cast	Jaycie Walker	Church Girl

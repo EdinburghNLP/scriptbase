@@ -1,0 +1,144 @@
+year	2009
+imdb score	7.8
+meta score	83
+genre	Adventure
+genre	Animation
+genre	Comedy
+genre	Crime
+genre	Family
+keyword	fox
+keyword	farmer
+keyword	cider
+keyword	farm
+keyword	tale
+keyword	badger
+keyword	singer
+keyword	sewer
+keyword	tape recording
+keyword	electric fence
+keyword	critically acclaimed
+keyword	uncle nephew relationship
+keyword	turkey the bird
+keyword	prisoner
+keyword	box office flop
+keyword	map
+keyword	foaming at the mouth
+keyword	cousin cousin relationship
+keyword	talking animal
+keyword	school
+keyword	musician
+keyword	stop motion animation
+keyword	chicken coop
+keyword	watching tv
+keyword	theft
+keyword	manhole
+keyword	lawyer
+keyword	kidnapping
+keyword	trophy
+keyword	security guard
+keyword	rat
+keyword	gunshot
+keyword	whistle
+keyword	trap
+keyword	banjo
+keyword	vixen
+keyword	father son relationship
+keyword	coach
+keyword	martial arts
+keyword	tape recorder
+keyword	credit card
+keyword	storybook in opening shot
+keyword	train set
+keyword	stop motion
+keyword	acorn
+keyword	supermarket
+keyword	thief
+keyword	reporter
+keyword	writer
+keyword	x rayed skeleton
+keyword	kung fu
+keyword	bound and gagged
+keyword	binoculars
+keyword	based on children's book
+keyword	underground
+keyword	steam shovel
+keyword	title at the end
+keyword	battle
+keyword	helicopter
+keyword	meditation
+keyword	pianist
+keyword	aunt nephew relationship
+keyword	ambush
+keyword	artist
+keyword	dancing
+keyword	airplane
+keyword	fireman
+keyword	bomb
+keyword	mask
+keyword	breaking and entering
+keyword	trapped
+keyword	redemption
+keyword	farm life
+keyword	rescue
+keyword	rural
+keyword	athlete
+keyword	trailer home
+keyword	newspaper article
+keyword	knife
+keyword	vegetarian
+keyword	microphone
+keyword	wolf
+keyword	rabid dog
+keyword	beagle dog
+keyword	husband wife relationship
+keyword	explosion
+keyword	fire
+keyword	painting
+keyword	anthropomorphic animal
+keyword	painter
+keyword	student
+keyword	pregnancy
+keyword	singing
+keyword	anthropomorphism
+keyword	chemistry class
+keyword	tree
+keyword	captive
+keyword	train
+keyword	stealing a chicken
+keyword	mother son relationship
+keyword	alarm
+keyword	whimsical
+keyword	headphones
+keyword	based on novel
+keyword	character name in title
+keyword	title spoken by character
+cast	George Clooney	Mr. Fox
+cast	Meryl Streep	Mrs. Fox
+cast	Jason Schwartzman	Ash
+cast	Bill Murray	Badger
+cast	Wallace Wolodarsky	Kylie
+cast	Eric Chase Anderson	Kristofferson
+cast	Michael Gambon	Franklin Bean
+cast	Willem Dafoe	Rat
+cast	Owen Wilson	Coach Skip
+cast	Jarvis Cocker	Petey
+cast	Wes Anderson	Weasel
+cast	Karen Duffy	Linda Otter
+cast	Robin Hurlstone	Walter Boggis
+cast	Hugo Guinness	Nathan Bunce
+cast	Helen McCrory	Mrs. Bean
+cast	Roman Coppola	Squirrel Contractor
+cast	Juman Malouf	Agnes
+cast	Jeremy Dawson	Beaver's Son
+cast	Garth Jennings	Bean's Son
+cast	Brian Cox	Action 12 Reporter
+cast	Tristan Oliver	Explosives Man
+cast	James Hamilton	Mole
+cast	Steven M. Rales	Beaver
+cast	Rob Hersov	Pilot
+cast	Jennifer Furches	Dr. Badger
+cast	Allison Abbate	Rabbit's Ex-Girlfriend
+cast	Molly Cooper	Rabbit Girl
+cast	Adrien Brody	Field Mouse
+cast	Mario Batali	Rabbit
+cast	Martin Ballard	Fire Chief

@@ -1,0 +1,153 @@
+year	1990
+imdb score	7.9
+meta score	66
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	power
+keyword	prohibition
+keyword	pastiche
+keyword	irish mob
+keyword	loyalty
+keyword	gangster
+keyword	violence
+keyword	police
+keyword	fixed fight
+keyword	triangulated desire
+keyword	honor
+keyword	death
+keyword	lifting male in air
+keyword	fistfight
+keyword	loss of brother
+keyword	forest
+keyword	wig
+keyword	murder
+keyword	urban setting
+keyword	cheating on one's boyfriend
+keyword	black comedy
+keyword	father son relationship
+keyword	betrayal
+keyword	singing
+keyword	shootout
+keyword	neo noir
+keyword	hat
+keyword	slavic
+keyword	car accident
+keyword	character's point of view camera shot
+keyword	mercy
+keyword	broken mirror
+keyword	transvestite
+keyword	dog
+keyword	mafia
+keyword	italian american
+keyword	cemetery
+keyword	trust
+keyword	male tears
+keyword	double cross
+keyword	lush gangster decor
+keyword	incest
+keyword	blackmail
+keyword	machine gun
+keyword	political corruption
+keyword	mob violence
+keyword	fear
+keyword	mob hit
+keyword	irish american
+keyword	presumed dead
+keyword	mayor
+keyword	funeral
+keyword	whiskey
+keyword	police chief
+keyword	dream
+keyword	beating
+keyword	incest subtext
+keyword	animal
+keyword	brother sister relationship
+keyword	falling down stairs
+keyword	1920s
+keyword	extortion
+keyword	street shootout
+keyword	jewish
+keyword	lifting person in air
+keyword	father hits son
+keyword	police corruption
+keyword	private club
+keyword	firebomb
+keyword	fire
+keyword	irish american politics
+keyword	lie
+keyword	mirror
+keyword	cult film
+keyword	corpse
+keyword	fedora
+keyword	warring gangs
+keyword	unsubtitled foreign language
+keyword	police raid
+keyword	jealousy
+keyword	organized crime
+keyword	bed
+keyword	family relationships
+keyword	crime epic
+keyword	duality
+keyword	prologue
+keyword	homosexual
+keyword	subjective camera
+keyword	gambling debt
+keyword	toupee
+keyword	gay gangster
+keyword	rug
+keyword	face slap
+keyword	overweight child
+keyword	love triangle
+keyword	ethnic slur
+keyword	boxing gym
+keyword	blurred boundaries
+keyword	vomit
+keyword	bartender
+keyword	based on novel
+keyword	title spoken by character
+cast	Gabriel Byrne	Tom Reagan
+cast	Marcia Gay Harden	Verna
+cast	John Turturro	Bernie Bernbaum
+cast	Jon Polito	Johnny Caspar
+cast	J.E. Freeman	Eddie Dane
+cast	Albert Finney	Leo
+cast	Mike Starr	Frankie
+cast	Al Mancini	Tic-Tac
+cast	Richard Woods	Mayor Dale Levander
+cast	Thomas Toner	O'Doole
+cast	Steve Buscemi	Mink
+cast	Mario Todisco	Clarence "Drop" Johnson
+cast	Olek Krupa	Tad
+cast	Michael Jeter	Adolph
+cast	Lanny Flaherty	Terry
+cast	Jeanette Kontomitras	Mrs. Caspar
+cast	Louis Charles Mounicou III	Johnny Caspar, Jr.
+cast	John McConnell	Cop - Brian
+cast	Danny Aiello III	Cop - Delahanty
+cast	Helen Jolly	Screaming Lady
+cast	Hilda McLean	Landlady
+cast	Monte Starr	Gunman in Leo's House
+cast	Don Picard	Gunman in Leo's House
+cast	Salvatore H. Tornabene	Rug Daniels
+cast	Kevin Dearie	Street Urchin
+cast	Michael Badalucco	Caspar's Driver
+cast	Charles Ferrara	Caspar's Butler
+cast	Esteban Fernández	Caspar's Cousin
+cast	George Fernandez	Caspar's Cousin
+cast	Charles Gunning	Hitman at Verna's
+cast	Dave Drinkx	Hitman #2
+cast	David Darlow	Lazarre's Messenger
+cast	Robert LaBrosse	Lazarre's Tough
+cast	Carl Rooney	Lazarre's Tough
+cast	Jack Harris	Man with Pipe Bomb
+cast	Jery Hewitt	Son of Erin
+cast	Sam Raimi	Snickering Gunman
+cast	John Schnauder Jr.	Cop with Bullhorn
+cast	Zolly Levin	Rabbi
+cast	Joey Ancona	Boxer
+cast	Bill Raye	Boxer
+cast	William Preston Robertson	Voice
+cast	Michael P. Cahill	Casino Patron
+cast	Sean Collins	Hitman 3
+cast	Frances McDormand	Mayor's Secretary

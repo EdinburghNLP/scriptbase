@@ -1,0 +1,152 @@
+year	1988
+imdb score	7.6
+meta score	78
+genre	Action
+genre	Adventure
+genre	Comedy
+genre	Crime
+genre	Thriller
+keyword	bounty hunter
+keyword	fbi
+keyword	accountant
+keyword	mafia
+keyword	mafia accountant
+keyword	on the road
+keyword	bail jumper
+keyword	arrest
+keyword	cross country
+keyword	train
+keyword	texas
+keyword	wiretap
+keyword	police surveillance
+keyword	handcuffed
+keyword	manhattan new york city
+keyword	helicopter
+keyword	shootout
+keyword	embezzlement
+keyword	buddy
+keyword	money belt
+keyword	sunglasses
+keyword	bathtub
+keyword	casino
+keyword	organized crime
+keyword	aerophobia
+keyword	car chase
+keyword	exploding helicopter
+keyword	diner
+keyword	las vegas nevada
+keyword	native american
+keyword	polaroid
+keyword	counterfeit money
+keyword	river
+keyword	car crash
+keyword	bail bondsman
+keyword	private plane
+keyword	airplane
+keyword	second hand smoke
+keyword	impersonating a police officer
+keyword	stretch limousine
+keyword	amtrak
+keyword	kidnapping
+keyword	police corruption
+keyword	road trip
+keyword	mob
+keyword	credit card
+keyword	ex husband ex wife relationship
+keyword	telephone booth
+keyword	pick lock
+keyword	smoking
+keyword	navajo tribe
+keyword	brownstone
+keyword	corrupt lawyer
+keyword	grand central station manhattan new york city
+keyword	southwestern u.s.
+keyword	1980s
+keyword	hitman
+keyword	rapids
+keyword	wearing sound wire
+keyword	divorce
+keyword	dirty cop
+keyword	two word title
+keyword	los angeles california
+keyword	breaking and entering
+keyword	desert
+keyword	motel
+keyword	bus station
+keyword	hotel
+keyword	ex cop
+keyword	fear of flying
+keyword	freight train
+keyword	handcuffs
+keyword	stockholm syndrome
+keyword	honesty
+keyword	bar
+keyword	las vegas strip
+keyword	chase
+keyword	bus
+keyword	breakfast
+keyword	arizona
+keyword	new york city
+keyword	trading post
+keyword	car accident
+keyword	guard dog
+keyword	airport
+keyword	title spoken by character
+cast	Robert De Niro	Jack Walsh
+cast	Charles Grodin	Jonathan Mardukas
+cast	Yaphet Kotto	Alonzo Mosely
+cast	John Ashton	Marvin Dorfler
+cast	Dennis Farina	Jimmy Serrano
+cast	Joe Pantoliano	Eddie Moscone
+cast	Richard Foronjy	Tony Darvo
+cast	Robert Miranda	Joey
+cast	Jack Kehoe	Jerry Geisler
+cast	Wendy Phillips	Gail
+cast	Philip Baker Hall	Sidney
+cast	Tom McCleister	Red Wood
+cast	Mary Gillis	Bus Ticket Clerk
+cast	John Toles-Bey	Monroe Bouchet
+cast	Thomas J. Hageboeck	Sergeant Gooch
+cast	Stanley White	Stanley
+cast	Scott McAfee	Boy on Plane
+cast	Linda Margules	Car Rental Clerk
+cast	Lois Smith	Mrs. Nelson
+cast	Fran Brill	Dana Mardukas
+cast	Michael Hawkins	FBI Surveillance Agent #1
+cast	John Hammil	FBI Surveillance Agent #2
+cast	Lou Felder	Airline Pilot
+cast	Cameron Milzer	Stewardess #1
+cast	Sonia M. Roberts	Stewardess #2
+cast	Sam Sanders	Train Porter
+cast	Frank Pesce	Carmine
+cast	Paul Joseph McKenna	Ohio Policeman
+cast	Matt Jennings	Jason
+cast	Rosemarie Murphy	Coffee Shop Waitress
+cast	Jack N. Young	Amarillo Desk Sergeant
+cast	Robert Coleman	Native American
+cast	William Robbins	Native American
+cast	Wilfred Netsosie	Native American
+cast	Sherman L. Robbins	Native American
+cast	Dale Beard Jr.	Native American
+cast	Thomas Nez	Native American
+cast	Richard Gonzalez	Bar Cashier
+cast	Bill Fritz	Bar Customer
+cast	Pete Jensen	Flagstaff Police Captain
+cast	Andy Charnoki	Flagstaff Sheriff
+cast	Tracey Walter	Diner Counter Man
+cast	Robert Vento	Serrano Bodyguard
+cast	Joe 'Tippy' Zeoli	Serrano Bodyguard
+cast	James Portolese	Serrano Bodyguard
+cast	Armando Muniz	Serrano Bodyguard
+cast	Dan York	Las Vegas FBI Agent #1
+cast	Rowdy Burdick	Las Vegas FBI Agent #2
+cast	Varnoy Lee	Airport Porter
+cast	Bob Maroff	L.A. Taxi Driver
+cast	Tom Irwin	FBI Agent Perry
+cast	Jimmie Ray Weeks	FBI Agent Tuttle
+cast	Danielle DuClos	Denise
+cast	Martin Brest	Airline Ticket Clerk
+cast	Lisa Burnett	Undercover Cop
+cast	George Miklos	Airport Manager
+cast	Robert Minkoff	No Character Name
+cast	Jock L. Schloss	No Character Name

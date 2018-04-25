@@ -1,0 +1,78 @@
+year	1998
+imdb score	6.2
+meta score	26
+genre	Comedy
+keyword	car accident
+keyword	nightclub
+keyword	bachelor
+keyword	business idea
+keyword	brother brother relationship
+keyword	policewoman
+keyword	actor playing himself
+keyword	businessman
+keyword	cult film
+keyword	dancing
+keyword	marriage
+keyword	prostitute
+keyword	based on sketch comedy
+keyword	disagreement
+keyword	1990s
+keyword	swimming pool
+keyword	disco
+keyword	based on tv series
+keyword	wedding
+keyword	father son relationship
+keyword	personal trainer
+keyword	cult film
+keyword	whipped cream
+keyword	arranged marriage
+keyword	bar
+keyword	
+cast	Will Ferrell	Steve Butabi
+cast	Chris Kattan	Doug Butabi
+cast	Raquel Gardner	Hat Girl
+cast	Viveca Paulin	Porsche Girl
+cast	Paulette Braxton	Porsche Girl
+cast	Michael M. Horton	Security Guard
+cast	Richard Francese	Security Guard
+cast	Jennifer Coolidge	Hottie Cop
+cast	Michael Clarke Duncan	Roxbury Bouncer
+cast	Richard Grieco	Richard Grieco
+cast	Trish Ramish	Roxbury Club Girl
+cast	Loni Anderson	Barbara Butabi
+cast	Dan Hedaya	Kamehl Butabi
+cast	Gina Mari	Saturday Night Fever Girl
+cast	Roy Jenkins	Flower Customer #1
+cast	Meredith Scott Lynn	Credit Vixen
+cast	Kip King	Flower Customer #2
+cast	Molly Shannon	Emily Sanderson
+cast	Dwayne Hickman	Fred Sanderson
+cast	Lochlyn Munro	Craig
+cast	Mary Ann Kellogg	Aerobics Instructor
+cast	Maree Cheatham	Mabel Sanderson
+cast	Kristen Dalton	Grieco's Lady
+cast	Colin Quinn	Dooey
+cast	Gigi Rice	Vivica
+cast	Elisa Donovan	Cambi
+cast	Deborah Kellner	Topless Woman
+cast	Robin Krieger	Mrs. Manicotti
+cast	Betty A. Bridges	Zadir Receptionist
+cast	Yoshio Be	Japanese Man #1
+cast	Victor Kobayashi	Japanese Man #2.
+cast	Twink Caplan	Crying Flower Customer
+cast	Eva Mendes	Bridesmaid
+cast	Mark McKinney	Father Williams
+cast	Chad Bannon	New Club Bouncer
+cast	Jim Wise	New Club Waiter
+cast	Patrick Ferrell	New Club Waiter
+cast	Dorian Spencer	New Club Waiter
+cast	Tina Weisinger	New Club Waitress
+cast	Christina Eliason	Roxbury Club Hottie
+cast	Rachel Galvin	Girl on Beach
+cast	Agata Gotova	Waitress
+cast	Andrew Marks	Clubgoer Who Slips Bouncer a $50 Bill
+cast	L. Christian Mixon	Guy in Corvette
+cast	Chazz Palminteri	Benny Zadir
+cast	Louis E. Rosas	Goth
+cast	Mary Ann Schmidt	Club Hottie
+cast	Valentin Siroon	Roxbury Club Hottie

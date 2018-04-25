@@ -1,0 +1,128 @@
+year	1997
+imdb score	7.4
+meta score	71
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	comic book
+keyword	lesbian
+keyword	gay
+keyword	friendship
+keyword	homosexual
+keyword	jealousy
+keyword	secret
+keyword	african american
+keyword	emotionally vulnerable
+keyword	secret past
+keyword	cult film
+keyword	bisexual interest
+keyword	bisexual
+keyword	sequel
+keyword	written and directed by cast member
+keyword	threeway sex
+keyword	promiscuity
+keyword	ex girlfriend
+keyword	reference to yanni
+keyword	hatred
+keyword	catcher in the rye
+keyword	group sex
+keyword	yearbook
+keyword	man in love with a lesbian
+keyword	black american
+keyword	skee ball
+keyword	threesome
+keyword	gay slur
+keyword	break up
+keyword	homophobia
+keyword	schoolgirl uniform
+keyword	past catching up
+keyword	homosexual love
+keyword	1990s
+keyword	sexual pleasure
+keyword	homosexuality
+keyword	past and present
+keyword	cunnilingus
+keyword	exploring sexuality
+keyword	jay and silent bob
+keyword	lesbian kiss
+keyword	sapphism
+keyword	sexuality
+keyword	lasciviousness
+keyword	two word title
+keyword	bisexuality
+keyword	magic eight ball
+keyword	gomorrahy
+keyword	finger cuffs
+keyword	bisexual girl
+keyword	view askew
+keyword	lesbianism
+keyword	honesty
+keyword	racial slur
+keyword	ménage à trois
+keyword	sexual exploration
+keyword	slut
+keyword	lesbian lover
+keyword	television
+keyword	two men one woman
+keyword	handball
+keyword	homosexual kiss
+keyword	homosocial friendship
+keyword	controversy
+keyword	filling hole
+keyword	fisting
+keyword	racism
+keyword	generation x
+keyword	bisexual woman
+keyword	city
+keyword	sex
+keyword	doomed romance
+keyword	sexual promiscuity
+keyword	sex history
+keyword	oral sex
+keyword	critically acclaimed
+keyword	hockey
+keyword	character is subject of comic
+keyword	three way sex
+keyword	sex with multiple partners
+keyword	loose woman
+keyword	twenty something
+keyword	wanton woman
+keyword	dyke
+keyword	fist
+keyword	independent film
+keyword	title spoken by character
+keyword	surprise ending
+cast	Ethan Suplee	Fan
+cast	Ben Affleck	Holden McNeil
+cast	Scott Mosier	Collector
+cast	Jason Lee	Banky Edwards
+cast	Casey Affleck	Little Kid
+cast	Dwight Ewell	Hooper X
+cast	Joey Lauren Adams	Alyssa Jones
+cast	Guinevere Turner	Singer
+cast	Carmen Llywelyn	Kim
+cast	Brian O'Halloran	Jim Hicks - Executive #1
+cast	Matt Damon	Shawn Oran - Executive #2
+cast	Alexander Goebbel	Train Kid
+cast	Tony Torn	Cashier
+cast	Rebecca Waxman	Dalia
+cast	Paris Petrick	Tory
+cast	Welker White	Jane
+cast	Kelli Simpkins	Nica
+cast	John Willyung	Cohee Lundin
+cast	Tse-Mach Washington	Young Black Kid at Record Store
+cast	Ernest O'Donnell	Bystander
+cast	Jason Mewes	Jay
+cast	Kevin Smith	Silent Bob
+cast	Kristin Mosier	Waitress
+cast	Virginia Smith	Con Woman
+cast	Mike Allred	Himself
+cast	Illeana Douglas	Alyssa's Roommate
+cast	'Krazy Joe' Fiore	Guy at Hockey Game
+cast	Walter Flanagan	Fanboy
+cast	Robert Hawk	Hooper's Lover
+cast	Brian Jude	Train Station Passenger
+cast	Brian Lynch	Bryan White
+cast	Jeff Millstein	Record Store Patron
+cast	Vincent Pereira	Startled Pinball Player
+cast	Joe Quesada	Himself

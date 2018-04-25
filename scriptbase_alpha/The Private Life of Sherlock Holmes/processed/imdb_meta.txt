@@ -1,0 +1,139 @@
+year	1970
+imdb score	7.3
+meta score	N/A
+genre	Adventure
+genre	Comedy
+genre	Crime
+genre	Mystery
+genre	Romance
+genre	Thriller
+keyword	loch ness
+keyword	midget
+keyword	loch ness monster
+keyword	sherlock holmes
+keyword	train
+keyword	england
+keyword	castle
+keyword	monk
+keyword	violin
+keyword	stethoscope
+keyword	boredom
+keyword	queen victoria
+keyword	parasol
+keyword	u boat
+keyword	submersible
+keyword	british intelligence
+keyword	wheelchair
+keyword	female spy
+keyword	dancing
+keyword	cemetery
+keyword	germany
+keyword	undercover agent
+keyword	reference to kaiser wilhelm
+keyword	chlorine gas
+keyword	train ride
+keyword	cigarette smoking
+keyword	coffin
+keyword	german spy
+keyword	incognito
+keyword	vodka
+keyword	chiropractor
+keyword	damsel in distress
+keyword	asphyxiation
+keyword	scotland
+keyword	letter
+keyword	german agent
+keyword	cocaine
+keyword	submarine
+keyword	1880s
+keyword	pretending to be gay
+keyword	memory loss
+keyword	swan lake
+keyword	victorian era
+keyword	one armed man
+keyword	voice over narration
+keyword	men's club
+keyword	bank vault
+keyword	scottish accent
+keyword	morse code
+keyword	breakfast
+keyword	year 1887
+keyword	loss of loved one
+keyword	stradivarius
+keyword	engineer
+keyword	canary
+keyword	lake monster
+keyword	private detective
+keyword	rowboat
+keyword	dressing room
+keyword	bicycle built for two
+keyword	grave digger
+keyword	sulphuric acid
+keyword	bagpipes
+keyword	brother brother relationship
+keyword	top hat
+keyword	bird cage
+keyword	hemophilia
+keyword	19th century
+keyword	ballerina
+keyword	bathtub
+keyword	ballet
+keyword	backstage
+keyword	grave digging
+keyword	trappist monk
+keyword	cocaine addict
+keyword	self deprecation
+keyword	kilt
+keyword	narration from the grave
+keyword	valet
+keyword	pipe
+keyword	dead bird
+keyword	champagne
+keyword	tandem bicycle
+keyword	character name in title
+cast	Robert Stephens	Sherlock Holmes
+cast	Colin Blakely	Dr. Watson
+cast	Geneviève Page	Gabrielle Valladon
+cast	Christopher Lee	Mycroft Holmes
+cast	Tamara Toumanova	Madame Petrova
+cast	Clive Revill	Rogozhin
+cast	Irene Handl	Mrs. Hudson
+cast	Mollie Maureen	Queen Victoria
+cast	Stanley Holloway	Gravedigger
+cast	Catherine Lacey	Woman in Wheelchair
+cast	Peter Madden	Von Tirpitz
+cast	Michael Balfour	Cabby
+cast	James Copeland	Guide
+cast	John Garrie	First Carter
+cast	Godfrey James	Second Carter
+cast	Robert Cawdron	Hotel Manager
+cast	Alex McCrindle	Baggageman
+cast	Frank Thornton	Porter
+cast	Paul Hansard	Monk
+cast	Philip Anthony	Lieutenant Commander
+cast	Graham Armitage	Wiggins
+cast	Charlie Young Atom	Submarine Crewman
+cast	Kenneth Benda	Minister
+cast	George Benson	Inspector Lestrade
+cast	Anne Blake	Madame
+cast	Penny Brahms	Girl
+cast	Martin Carroll	Scientist
+cast	Ina De La Haye	Petrova's Maid
+cast	Michael Elwyn	Cassidy
+cast	Eric Francis	Gravedigger #2
+cast	John Gatrell	Equerry
+cast	Ismed Hassan	Submarine Crewman
+cast	Marilyn Head	Girl
+cast	Sheena Hunter	Girl
+cast	Annette Kerr	Secretary
+cast	Teddy Kiss Atom	Submarine Crewman
+cast	Wendy Lingham	Girl
+cast	Anna Matisse	Girl
+cast	Kynaston Reeves	Old Man
+cast	Daphne Riggs	Lady-in-Waiting
+cast	Philip Ross	McKellar
+cast	Miklós Rózsa	Orchestra Conductor
+cast	John Scott	Scientist
+cast	Willie Shearer	Submarine Crewman
+cast	Judy Spooner	Twin
+cast	Tina Spooner	Twin

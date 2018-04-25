@@ -1,0 +1,110 @@
+year	2000
+imdb score	6.7
+meta score	42
+genre	Comedy
+genre	Drama
+genre	Fantasy
+genre	Romance
+keyword	christmas
+keyword	bowling
+keyword	parallel universe
+keyword	salesman
+keyword	love
+keyword	cocktail party
+keyword	ex boyfriend ex girlfriend relationship
+keyword	suburbia
+keyword	family relationships
+keyword	speech impediment
+keyword	scrooge
+keyword	revolving door
+keyword	angel
+keyword	time travel
+keyword	shopping mall
+keyword	magical negro stereotype
+keyword	suit
+keyword	crisis of conscience
+keyword	manhattan new york city
+keyword	father daughter relationship
+keyword	lost love
+keyword	angel on earth
+keyword	responsibility
+keyword	reflection
+keyword	friend
+keyword	greed
+keyword	world trade center manhattan new york city
+keyword	wedding anniversary
+keyword	baby
+keyword	crying baby
+keyword	reunion
+keyword	new york city
+keyword	diaper change
+keyword	husband wife relationship
+keyword	rich poor
+keyword	decision
+keyword	fish out of water
+keyword	rich snob
+keyword	reference to led zeppelin
+keyword	do over
+keyword	blue collar
+keyword	wall street manhattan new york city
+keyword	gangsta grip
+keyword	factory
+keyword	urination
+keyword	extramarital affair
+keyword	choice
+keyword	
+cast	Nicolas Cage	Jack Campbell
+cast	Téa Leoni	Kate Reynolds
+cast	Don Cheadle	Cash
+cast	Jeremy Piven	Arnie
+cast	Saul Rubinek	Alan Mintz
+cast	Josef Sommer	Peter Lassiter
+cast	Makenzie Vega	Annie Campbell
+cast	Jake Milkovich	Josh Campbell
+cast	Ryan Milkovich	Josh Campbell
+cast	Lisa Thornhill	Evelyn Thompson
+cast	Harve Presnell	Big Ed
+cast	Mary Beth Hurt	Adelle
+cast	Amber Valletta	Paula
+cast	Francine York	Lorraine
+cast	Ruth Williamson	Betty Peterson
+cast	John F. O'Donohue	Tony the Doorman
+cast	Daniel Whitner	Frank the Security Man
+cast	Lucy Lin	Executive #1
+cast	Lisa LoCicero	Executive #2
+cast	Wass Stevens	Trader
+cast	Thomas James Foster	Joe the Valet
+cast	Irene Roseen	Mintz's Assistant
+cast	Ken Leung	Sam Wong
+cast	Mak Fai	Grandfather Wong
+cast	Maggi-Meg Reed	Lady at Deli
+cast	Kate Walsh	Jeannie
+cast	Ray Valentine	Mr. Thompson
+cast	Gianni Russo	Nick
+cast	Tom McGowan	Bill
+cast	Joel McKinnon Miller	Tommy
+cast	Tanya Newbould	Nick's Wife
+cast	Hilary Adahms	Party Guest
+cast	Troy Hall	Kenny
+cast	Kathleen Doyle	Big Ed's PA
+cast	Mary Civiello	CNBC Reporter
+cast	Paul Keith	Suit Salesman
+cast	Elizabeth Sjoli	Hostess
+cast	Philippe Bergeron	Waiter
+cast	Christopher Breslin	Restaurant Patron
+cast	Si Picker	Tire Customer
+cast	Lisa Guzman	Girl at Market
+cast	Robert Downey Sr.	Man in House
+cast	P.J. Barry	Limo Driver
+cast	Nina Barry	Kate's Assistant
+cast	Ellis	Lucy the Dog
+cast	Paul Sorvino	Sydney Potter
+cast	Danielle Camastra	Model in Restaurant
+cast	Johnny Drocco	Longhair at Airport
+cast	Elena Fabri	Neighbor Betty
+cast	Tarri Markel	Neighbor / Party Guest
+cast	Adam Mucci	Customer
+cast	Jessica Prince	Shopping Girl
+cast	Louis E. Rosas	LAX Punker
+cast	Jill Scott	New Jersey Neighbor
+cast	Nick Taylor	Salesman

@@ -1,0 +1,437 @@
+year	2005
+imdb score	7.1
+meta score	53
+genre	Drama
+genre	Musical
+genre	Romance
+keyword	hiv positive
+keyword	roommate
+keyword	new york city
+keyword	love
+keyword	aids
+keyword	landlord
+keyword	musician
+keyword	drag queen
+keyword	lawyer
+keyword	friend
+keyword	junkie
+keyword	rent
+keyword	filmmaker
+keyword	drugs
+keyword	lesbian
+keyword	coffin
+keyword	dancer
+keyword	scarsdale new york
+keyword	marijuana
+keyword	title sung by character
+keyword	garbage can
+keyword	loss of loved one
+keyword	new york university
+keyword	drug abuse
+keyword	rebellion
+keyword	homosexual kiss
+keyword	home movie
+keyword	commitment
+keyword	gay marriage
+keyword	dancing
+keyword	gay couple
+keyword	hospital
+keyword	drug deal
+keyword	fire escape
+keyword	funeral
+keyword	erotic dancer
+keyword	christmas decorations
+keyword	waiter
+keyword	eviction notice
+keyword	balcony
+keyword	white light
+keyword	food
+keyword	reference to akira kurosawa
+keyword	automated teller machine
+keyword	songwriter
+keyword	breaking and entering
+keyword	sodomy
+keyword	female female kiss
+keyword	sound equipment
+keyword	performance space
+keyword	video camera
+keyword	poverty
+keyword	male male kiss
+keyword	reference to bethlehem
+keyword	mooning
+keyword	crying
+keyword	mugging
+keyword	eviction
+keyword	guitar
+keyword	anarchy
+keyword	rooftop
+keyword	tea
+keyword	condominium
+keyword	school expulsion
+keyword	starvation
+keyword	santa fe new mexico
+keyword	wine
+keyword	documentary filmmaking
+keyword	year 1989
+keyword	restaurant
+keyword	gay love
+keyword	steel barrel
+keyword	subway
+keyword	world trade center manhattan new york city
+keyword	power
+keyword	reference to evita the stage musical
+keyword	promise
+keyword	saying goodbye
+keyword	jew
+keyword	fever
+keyword	lesbian kiss
+keyword	bare butt
+keyword	memorial service
+keyword	boyfriend girlfriend relationship
+keyword	celebration
+keyword	riot
+keyword	hot plate
+keyword	interracial relationship
+keyword	cat and the fiddle
+keyword	drink
+keyword	candle
+keyword	art
+keyword	bar
+keyword	key
+keyword	philosophy
+keyword	injection
+keyword	new year's resolution
+keyword	cat costume
+keyword	smack the drug
+keyword	graveyard
+keyword	theft
+keyword	reference to james bond
+keyword	regret
+keyword	glory
+keyword	avenue a manhattan new york city
+keyword	teacher
+keyword	drug addiction
+keyword	radio city music hall manhattan new york city
+keyword	demonstration
+keyword	missing person flyer
+keyword	drug dealer
+keyword	milk
+keyword	spanish
+keyword	community center
+keyword	first gay sexual experience
+keyword	bulldog
+keyword	bar mitzvah
+keyword	documentary filmmaker
+keyword	lesbian relationship
+keyword	girlfriend girlfriend relationship
+keyword	performance artist
+keyword	cigarette smoking
+keyword	lower east side manhattan new york city
+keyword	hypodermic needle
+keyword	montage
+keyword	dog
+keyword	film camera
+keyword	rabbi
+keyword	gay relationship
+keyword	drumsticks
+keyword	range rover
+keyword	la bohème
+keyword	tv news
+keyword	drug rehab
+keyword	telephone call
+keyword	t cells
+keyword	female nudity
+keyword	man with glasses
+keyword	bisexual
+keyword	nightmare
+keyword	denial
+keyword	pulitzer prize source
+keyword	m.i.t.
+keyword	interracial lesbians
+keyword	graffiti
+keyword	cow jumped over the moon
+keyword	answering machine
+keyword	emotional healing
+keyword	new mexico
+keyword	gay romance
+keyword	drug use
+keyword	kiss
+keyword	champagne
+keyword	fear
+keyword	one word title
+keyword	beggar
+keyword	husband wife relationship
+keyword	drinking
+keyword	policeman
+keyword	eating
+keyword	pussy whipped
+keyword	fight
+keyword	reference to the village voice the newspaper
+keyword	death
+keyword	thief
+keyword	eyeglasses
+keyword	nudity
+keyword	homelessness
+keyword	wallet
+keyword	human immunodeficiency virus
+keyword	gay lead character
+keyword	bongo drum
+keyword	broke
+keyword	father in law son in law relationship
+keyword	handcuffs
+keyword	dignity
+keyword	dying
+keyword	exploitation
+keyword	reference to jesus christ
+keyword	neighborhood
+keyword	pay phone
+keyword	break up
+keyword	1980s
+keyword	motorcycle
+keyword	benefactor
+keyword	pawnshop
+keyword	reference to the gap
+keyword	masturbation
+keyword	photograph
+keyword	christmas eve
+keyword	human immunodeficiency virus positive
+keyword	reference to pussy galore
+keyword	skylight
+keyword	snow
+keyword	life partner
+keyword	moon
+keyword	cow
+keyword	protest
+keyword	broken engagement
+keyword	slum landlord
+keyword	apartment eviction
+keyword	paranoia
+keyword	reference to ted koppel
+keyword	flowers
+keyword	drunkenness
+keyword	father daughter relationship
+keyword	reference to gertrude stein
+keyword	mutual masturbation
+keyword	tenement
+keyword	pierced nipple
+keyword	street riot
+keyword	heroin
+keyword	reference to lenny bruce
+keyword	singer
+keyword	female rear nudity
+keyword	nursery rhyme
+keyword	sparkler
+keyword	marriage engagement
+keyword	tent city
+keyword	youth
+keyword	life support meeting
+keyword	support group
+keyword	promiscuity
+keyword	music club
+keyword	group therapy
+keyword	cocaine
+keyword	neighbor
+keyword	reference to elsie the cow
+keyword	homosexual
+keyword	plastic bucket
+keyword	artist's studio
+keyword	begging
+keyword	year 1990
+keyword	christmas
+keyword	mourning
+keyword	based on stage musical
+keyword	mother daughter relationship
+keyword	snowing
+keyword	transvestism
+keyword	gay
+keyword	manhattan new york city
+keyword	mother son relationship
+keyword	drug addict
+keyword	singing
+keyword	drug withdrawal
+keyword	tango
+keyword	country club
+keyword	cross dressing
+keyword	tears
+keyword	homosexuality
+keyword	camera focus on female butt
+keyword	man wearing woman's clothing
+keyword	rain
+keyword	cross dresser
+keyword	robbery
+keyword	vodka
+keyword	black comedy
+keyword	1990s
+keyword	stairway
+keyword	microphone
+keyword	pole dancer
+keyword	bicycle
+keyword	azt
+keyword	boyfriend boyfriend relationship
+keyword	spotlight
+keyword	transvestite
+keyword	pool table
+keyword	cemetery
+keyword	beating
+keyword	job interview
+keyword	new year's eve
+keyword	halloween
+keyword	alley
+keyword	police
+keyword	reference to spike lee
+keyword	friendship
+keyword	living on the street
+keyword	fire
+keyword	diet coke
+keyword	freezing
+keyword	missing person
+keyword	coughing
+keyword	blood
+keyword	cafe
+keyword	song
+keyword	squatter
+keyword	shooting up
+keyword	hunger
+keyword	title spoken by character
+keyword	
+cast	Anthony Rapp	Mark Cohen
+cast	Adam Pascal	Roger Davis
+cast	Rosario Dawson	Mimi Marquez
+cast	Jesse L. Martin	Tom Collins
+cast	Wilson Jermaine Heredia	Angel Dumott Schunard
+cast	Idina Menzel	Maureen Johnson
+cast	Tracie Thoms	Joanne Jefferson
+cast	Taye Diggs	Benjamin Coffin III
+cast	Julia Roth	Rent Tenant
+cast	Porscha Radcliffe	Rent Tenant
+cast	Stephen Payne	Homeless Squeegee Man
+cast	Darryl Chan	Thug
+cast	Ken Clark	Thug
+cast	R.C. Ormond	Thug
+cast	David Fine	Homeless Man on Range Rover
+cast	Mackenzie Firgens	April
+cast	Jason Foster	The Man
+cast	Daniel London	Paul
+cast	Aaron Lohr	Steve
+cast	Wayne Wilcox	Gordon
+cast	Bianca Sams	Ali
+cast	Heather Barberie	Pam
+cast	Liisa Cohen	Sue
+cast	Sharon Ferrol-Young	Floor Dancer
+cast	Liz Ramos	Floor Dancer
+cast	Kristin Medwick	Floor Dancer
+cast	Katie Weber	Floor Dancer
+cast	Angela McConnell	Floor Dancer
+cast	Feleciana Stevenson	Floor Dancer
+cast	Kim Williams	Floor Dancer
+cast	Damia Foti	Cat Scratch Waitress
+cast	Laura Padierne	Cat Scratch Waitress
+cast	Kevin Hagan	Cop
+cast	Brian Delate	Cop
+cast	Aisha De Haas	Blanket Woman
+cast	Michael Rosales	Subway Punk
+cast	Niyuk Hairell	Subway Punk
+cast	Larissa Kiernan	Subway Punk
+cast	Marco De La Cruz	Subway Passenger
+cast	Ericka Harden	Subway Passenger
+cast	Truc Luong	Subway Passenger
+cast	Megan Biolchini	Subway Grad Student
+cast	Nick Scoggin	Subway Man
+cast	John Champion	Subway Stockbroker
+cast	Titus West	Subway Stockbroker
+cast	Renda Pettis	Slightly Older Subway Woman
+cast	Alison De Olivera	Subway Businesswoman
+cast	Debbie De Coudreaux	Subway Mom
+cast	Chris Chalk	Street Vendor Who Sells Coats
+cast	Cory DuVal	Riot Cop
+cast	Clarke Devereux	Riot Cop
+cast	Corey Rosen	Life Cafe Manager
+cast	Shaun Earl	Life Cafe Waiter
+cast	Matthew Dickens	Bohemian
+cast	Tara Nicole Hughes	Bohemian
+cast	Troy Christian	Bohemian
+cast	Gigi Hunter	Bohemian
+cast	Kevin Alexander Stea	Bohemian
+cast	Robert Prescott Lee	Bohemian
+cast	Sebastien Poffet	Bohemian
+cast	Linda Cevallos	Bohemian
+cast	Roosevelt Flenoury	Bohemian
+cast	Mike Garibaldi	Mr. Grey
+cast	Rod Arrants	Mr. Hansen
+cast	Jennifer Siebel Newsom	Receptionist
+cast	Sarah Silverman	Alexi Darling
+cast	Daryl Edwards	Mr. Jefferson
+cast	Anna Deavere Smith	Mrs. Jefferson
+cast	Kevin Blackton	Mr. Johnson
+cast	Bettina Devin	Mrs. Johnson
+cast	Corinne Blum	Female Bartender at Engagement Party
+cast	David Stewart	Mourner
+cast	Marcos Estebez	Mourner
+cast	Emily Rahe	Mourner
+cast	Vivis Colombetti	Angel's Grandmother
+cast	Nicole Cherie Flores	Angel's Sister
+cast	James Anthony Cotton	Used Car Salesman
+cast	Jim Cranna	Pawn Shop Dealer
+cast	Randy Graff	Mrs. Cohen
+cast	Joel Swetow	Mr. Cohen
+cast	Indiana Adams	Bohemian
+cast	Ryan Ashley	Tango Dancer
+cast	Ian Baptiste	Hearse Driver
+cast	Shannon Beach	Tango dancer
+cast	James Blackburn	Santa Fe Resident
+cast	Chandler Bolt	Bohemien
+cast	Mike Borg	New Year's Reveler
+cast	Michael E. Burgess	New Year's Celebrant
+cast	Jordi Caballero	Dancer
+cast	Doug Campbell	Subway Rider
+cast	James Carraway	Priest
+cast	Cabran E. Chamberlain	Homeless
+cast	Jacki R. Chan	Bohemian
+cast	Justin Charles	Tenant
+cast	Gigi Chavoshi	Dancer
+cast	Rachel Montez Collins	Principal in Tango
+cast	Chris Columbus	Angry Man in Car
+cast	Eleanor Columbus	April's Friend
+cast	Kimberly Contreras	Bohemian
+cast	Walter Delmar	Bohemian
+cast	Yeena Fisher	Dancer
+cast	Naomi Frigo	Bohemian
+cast	Ray Garcia	Extra
+cast	Michael F. Grant	Businessman
+cast	Gordon Hart	Tenant Dancer
+cast	Nina Hauser	Dancer
+cast	Katrina-Jovan Howard	Cafe Patron
+cast	Kenneth Hughes	Singer-Dancer
+cast	Melissa Hurley	Dancer
+cast	Penny Johnson	Bohemian
+cast	Diane Kelber	Dancer
+cast	Adam Kent	Tango Dancer
+cast	Patricia Kent	Tango Dancer
+cast	Branden Weslee Kong	NYU Student
+cast	Shaun Landry	Homeless
+cast	Steven Lindo	Police Officer
+cast	Yoli Mapp	Bohemian Protester
+cast	Rana McAnear	Prostitute
+cast	Blake McGrath	Dancer
+cast	Mary McNeill	Prostitute
+cast	'Big' LeRoy Mobley	Moo-er
+cast	Anthony Molinari	Tenant #22
+cast	Cory Montgomery	Homeless Man
+cast	David Pearl	Businessman
+cast	David Alan Poe	New Year's Celebrant
+cast	Kristin Post	Bohemian
+cast	Zefania Preza	Cat Scratch Waitress
+cast	Rachel Puchkoff	Cat Scratch Dancer
+cast	Caroline A. Rice	Bohemian
+cast	Alice Rietveld	Tango Dancer
+cast	Jeff Seaberg	Guy in Bar
+cast	Jeffrey Sherrard	Drug Dealer
+cast	John Patrick Shulak	Businessman
+cast	Donn Andrew Simmons	Businessman
+cast	Ray Tom	College Student
+cast	Delila Vallot	Ensemble
+cast	Christian Vincent	Dancer
+cast	Bill Walters	Homeless Background
+cast	Cindy Warner	Driver / New Year's Eve Reveler
+cast	Gail Washington	New Years Eve Celebrant
+cast	James D. Weston II	Homeless / Pimp

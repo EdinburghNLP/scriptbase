@@ -1,0 +1,24 @@
+year	1988
+imdb score	4.9
+meta score	N/A
+genre	Horror
+keyword	electrocution
+keyword	child murder
+keyword	electrocuted child
+keyword	independent film
+cast	Kylie Clare	Heather Thompson, aged 8
+cast	Tony Blackett	Robert Thompson
+cast	Allen Leong	Brian Chung
+cast	Matthew Nicholls	Tom Poulsen's Son
+cast	Nik Forster	Tom Poulsen
+cast	Vic Rooney	Brenner
+cast	Georgie Parker	Maid
+cast	Lisa Hensley	Heather Thompson, aged 20
+cast	Miranda Otto	Rebecca
+cast	Jeff Truman	Bert
+cast	Paul Hunt	Nick
+cast	Tim McKenzie	John Burke
+cast	Adam Cook	Alistair
+cast	Cathren Michalak	Tea Lady
+cast	Michael Caton	Dr. Fletcher
+cast	Andrew Ferguson	Young Boy

@@ -1,0 +1,268 @@
+year	2001
+imdb score	6.5
+meta score	48
+genre	Action
+genre	Comedy
+genre	Crime
+genre	Thriller
+keyword	hong kong
+keyword	vacation
+keyword	triad
+keyword	gang
+keyword	counterfeiting
+keyword	partner
+keyword	boat
+keyword	bomb
+keyword	counterfeiter
+keyword	sewer
+keyword	explosion
+keyword	police
+keyword	detective
+keyword	counterfeit money
+keyword	casino
+keyword	china
+keyword	secret service
+keyword	money
+keyword	watching tv
+keyword	latina
+keyword	action hero
+keyword	maverick cop
+keyword	chicken
+keyword	black comedy
+keyword	interracial relationship
+keyword	bare butt
+keyword	undressing
+keyword	chase
+keyword	nudity
+keyword	organized crime
+keyword	tough cop
+keyword	villainess
+keyword	pistol
+keyword	bomb in mouth
+keyword	semiautomatic pistol
+keyword	pantsuit
+keyword	machine gun
+keyword	underground
+keyword	suicide
+keyword	racial slur
+keyword	police officer
+keyword	greed
+keyword	music band
+keyword	revolving door
+keyword	disguise
+keyword	undercover cop
+keyword	held at gunpoint
+keyword	hero
+keyword	singer
+keyword	massage
+keyword	loyalty
+keyword	hitwoman
+keyword	stylized violence
+keyword	video camera
+keyword	nightclub
+keyword	bamboo
+keyword	desert eagle
+keyword	chinese mafia
+keyword	crushed by a car
+keyword	trust
+keyword	chinese junk
+keyword	elevator
+keyword	kicked in the stomach
+keyword	panties
+keyword	faked death
+keyword	undercover agent
+keyword	bloopers during credits
+keyword	massage parlor
+keyword	wu shu
+keyword	tight dress
+keyword	fistfight
+keyword	female killer
+keyword	spear
+keyword	deception
+keyword	lying
+keyword	video surveillance
+keyword	wall safe
+keyword	policewoman
+keyword	dance
+keyword	crashing through glass
+keyword	las vegas nevada
+keyword	stretch limousine
+keyword	dancing
+keyword	exploding building
+keyword	product placement
+keyword	tied up
+keyword	police officer killed
+keyword	kicked in the head
+keyword	fire
+keyword	female villain
+keyword	jumping from height
+keyword	high heels
+keyword	second part
+keyword	black market
+keyword	girl in bra and panties
+keyword	falling from height
+keyword	buttocks
+keyword	roulette wheel
+keyword	blockbuster
+keyword	speech
+keyword	metrosexual
+keyword	california
+keyword	spiral staircase
+keyword	surveillance
+keyword	chinese
+keyword	bribery
+keyword	timebomb
+keyword	face slap
+keyword	tattooed lady
+keyword	gambling
+keyword	airport
+keyword	u.s. embassy
+keyword	kicked in the face
+keyword	breaking a window
+keyword	threatened with a knife
+keyword	male rear nudity
+keyword	stewardess
+keyword	black bra and panties
+keyword	yacht
+keyword	blood splatter
+keyword	showdown
+keyword	inter cultural
+keyword	knife throwing
+keyword	knocked out with a gun butt
+keyword	revenge
+keyword	los angeles california
+keyword	smuggling
+keyword	shot to death
+keyword	hit in the face
+keyword	male nudity
+keyword	bra
+keyword	english subtitles in original
+keyword	kung fu
+keyword	undercover
+keyword	hand to hand combat
+keyword	ambush
+keyword	legs
+keyword	karate
+keyword	talking while driving
+keyword	car
+keyword	buddy cop
+keyword	impersonating a police officer
+keyword	buddy
+keyword	stereotype
+keyword	statue
+keyword	gunfight
+keyword	bamboo cane
+keyword	2000s
+keyword	laptop computer
+keyword	knife
+keyword	tough girl
+keyword	stabbed in the chest
+keyword	suicide bomber
+keyword	female in bra and panties
+keyword	sword
+keyword	dragon dance
+keyword	tattoo
+keyword	martial artist
+keyword	body in a dumpster
+keyword	bare chested male
+keyword	gangster
+keyword	shot in the chest
+keyword	opening action scene
+keyword	asian
+keyword	uzi
+keyword	tape over mouth
+keyword	harbor
+keyword	martial arts master
+keyword	traffic jam
+keyword	karaoke
+keyword	two man army
+keyword	translation
+keyword	tough guy
+keyword	punched in the face
+keyword	foot chase
+keyword	sequel
+keyword	jumping through a window
+keyword	brawl
+keyword	assassin
+keyword	public nudity
+keyword	shootout
+keyword	part of trilogy
+keyword	stabbed to death
+keyword	martial arts
+keyword	reference to michael jackson
+keyword	character repeating someone else's dialogue
+keyword	money laundering
+keyword	odd couple
+keyword	blood on mouth
+keyword	murder of father
+keyword	violence
+keyword	blood
+keyword	gay
+keyword	airplane
+keyword	costume
+keyword	singing
+keyword	subtitled scene
+keyword	body landing on a car
+keyword	disarming someone
+keyword	gun
+keyword	police station
+keyword	immigrant
+keyword	gangsta grip
+keyword	counterfeiting operation
+keyword	number in title
+keyword	
+cast	Jackie Chan	Chief Inspector Lee
+cast	Chris Tucker	Detective James Carter
+cast	John Lone	Ricky Tan
+cast	Ziyi Zhang	Hu Li
+cast	Roselyn Sanchez	Isabella Molina
+cast	Alan King	Steven Reign
+cast	Harris Yulin	Agent Sterling
+cast	Kenneth Tsang	Captain Chin
+cast	Lisa LoCicero	Receptionist
+cast	Mei Melançon	Girl in Car
+cast	Maggie Q	Girl in Car
+cast	Patricia Chan	Club Hostess
+cast	Gelbert Coloma	Karaoke Singer
+cast	Lucy Lin	Heaven on Earth Hostess
+cast	Cindy Lu	Heaven on Earth Hostess #2
+cast	Wing Sang Pang	Suit Salesman
+cast	Ling Wong Mei	Chicken Lady
+cast	William Tuen	Carter's Cab Driver
+cast	Shawn Peretz	United Flight Attendant
+cast	Audrey Quock	Kenny's Wife
+cast	Ernie Reyes Jr.	Zing
+cast	Jeremy Piven	Versace Salesman
+cast	Verena Mei	Red Dragon Waitress
+cast	Joel McKinnon Miller	Tex
+cast	Angela Little	Tex's Girlfriend
+cast	Julia Schultz	Tex's Girlfriend
+cast	Saul Rubinek	Red Dragon Box Man
+cast	Gianni Russo	Red Dragon Pit Boss
+cast	James J. Ghang	Red Dragon Stickman
+cast	Michael Chow	Gambler
+cast	Teresa Lin	Gambler
+cast	Tanya Newbould	Gambler
+cast	Matthew Barry	Gambler
+cast	James C. Duke	Gambler
+cast	Elizabeth Anweis	Masseuse
+cast	Tai Li Bond	Heaven on Earth Hostess
+cast	Don Cheadle	Kenny
+cast	Andy Cheng	Hu Li's assistant
+cast	Tom Sean Foley	Casino Stunt
+cast	Constance Hsu	Prostitute
+cast	James Lew	Triad Gangster
+cast	Roger Lim	Triad Gangster
+cast	Mars	Extra
+cast	Kathryn Melton	Office Assistant
+cast	Cynthia Pinot	High Roller Girl
+cast	Nicholas Rich	Truck Driver
+cast	Melissa Scott Clark	Model #1
+cast	Ivan Shaw	Triad Gangster
+cast	Lina So	Cashier
+cast	Reggi Danielle Sweat	High Roller Girl
+cast	Felicia Tang	High Roller Girl
+cast	Michael A. Tessiero	Gambler
+cast	Jodi Lynn Thomas	High Roller Girl
+cast	Juting Tsang	Heaven on Earth Host
+cast	Natasha Yi	Heaven on Earth Host

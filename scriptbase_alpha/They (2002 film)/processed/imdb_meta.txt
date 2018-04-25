@@ -1,0 +1,91 @@
+year	2002
+imdb score	4.8
+meta score	31
+genre	Horror
+genre	Mystery
+genre	Thriller
+keyword	friend
+keyword	nightmare
+keyword	darkness
+keyword	suicide
+keyword	swimming
+keyword	mark
+keyword	scare
+keyword	college age
+keyword	mental hospital
+keyword	night terror
+keyword	creature
+keyword	subway
+keyword	sleeping
+keyword	supernatural power
+keyword	country road
+keyword	dream
+keyword	open ended
+keyword	childhood friend
+keyword	psychiatrist
+keyword	billiards
+keyword	house
+keyword	dream sequence
+keyword	restaurant
+keyword	chase
+keyword	car breakdown
+keyword	flashlight
+keyword	dark and stormy night
+keyword	hiding in a closet
+keyword	alternate dimension
+keyword	paramedic
+keyword	head wound
+keyword	swimming pool
+keyword	death of protagonist
+keyword	elevator shaft
+keyword	locker room
+keyword	terror
+keyword	shot in the head
+keyword	subway train
+keyword	fear
+keyword	mirror
+keyword	stalker
+keyword	hospital room
+keyword	child in peril
+keyword	apartment
+keyword	hit by a car
+keyword	lighter
+keyword	broken mirror
+keyword	female nudity
+keyword	bathroom
+keyword	fear of the dark
+keyword	disbelief
+keyword	car trouble
+keyword	kissing
+keyword	pistol
+keyword	vomit
+keyword	medicine cabinet
+keyword	death of friend
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Laura Regan	Julia Lund
+cast	Marc Blucas	Paul Loomis
+cast	Ethan Embry	Sam Burnside
+cast	Dagmara Dominczyk	Terry Alba
+cast	Jon Abrahams	Billy Parks
+cast	Alexander Gould	Young Billy
+cast	Desiree Zurowski	Mary Parks
+cast	Mark Hildreth	Troy
+cast	Jonathan Cherry	Darren
+cast	Peter LaCroix	David Parks
+cast	Jessica Amlee	Young Julia
+cast	Jay Brazeau	Dr. Booth
+cast	L. Harvey Gold	Professor Crowley
+cast	David Abbott	Professor Adkins
+cast	Jodelle Ferland	Sarah
+cast	Mark Brandon	Newscaster #1
+cast	Colin Foo	Chinese Chef
+cast	Claire Riley	Newscaster #2
+cast	Tamara Taggart	Newscaster #3
+cast	Wendy Morrow Donaldson	Waitress
+cast	Bob Wilde	Ghoulish Man
+cast	Bill Waters	Priest
+cast	Ken Roberts	Male Tenant
+cast	John Hainsworth	Old Man
+cast	Henry O. Watson	Subway Engineer

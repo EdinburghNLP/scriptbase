@@ -1,0 +1,191 @@
+year	1992
+imdb score	7.5
+meta score	57
+genre	Drama
+genre	Fantasy
+genre	Horror
+genre	Romance
+keyword	dracula
+keyword	vampire
+keyword	mist
+keyword	seduction
+keyword	supernatural power
+keyword	religious conflict
+keyword	sex
+keyword	maze
+keyword	decapitation
+keyword	sexual awakening
+keyword	loss of loved one
+keyword	telepathy
+keyword	virgin
+keyword	stabbed in the back
+keyword	broken mirror
+keyword	tragic villain
+keyword	actress playing multiple roles
+keyword	convent
+keyword	no opening credits
+keyword	statue weeping blood
+keyword	church
+keyword	abbey
+keyword	death
+keyword	destiny
+keyword	1890s
+keyword	vampire bite
+keyword	monster sex
+keyword	journey
+keyword	vampire sex
+keyword	villain played by lead actor
+keyword	revenge
+keyword	best friend
+keyword	fatal attraction
+keyword	falling from height
+keyword	hedge maze
+keyword	spider
+keyword	love
+keyword	typewriter
+keyword	beast
+keyword	reincarnation
+keyword	blasphemy
+keyword	nun
+keyword	curse
+keyword	rat
+keyword	sword
+keyword	victrola
+keyword	wake
+keyword	impalement
+keyword	female vampire
+keyword	warrior
+keyword	blood transfusion
+keyword	autonomous shadow
+keyword	sabre
+keyword	werewolf
+keyword	blockbuster
+keyword	candle
+keyword	friendship
+keyword	bestiality
+keyword	youth restored
+keyword	dual role
+keyword	victim invited to dinner
+keyword	ring
+keyword	monster
+keyword	menacing shadow
+keyword	asylum
+keyword	absinthe
+keyword	lesbian kiss
+keyword	one word title
+keyword	19th century
+keyword	evil man
+keyword	coffin
+keyword	death of title character
+keyword	throat slitting
+keyword	beheading
+keyword	straight razor
+keyword	shape shifter
+keyword	transylvania
+keyword	vampire slayer
+keyword	suitor
+keyword	rape
+keyword	sensuality
+keyword	bitten in the neck
+keyword	good versus evil
+keyword	marriage
+keyword	shotgun
+keyword	horror movie remake
+keyword	padded cell
+keyword	death of loved one
+keyword	master vampire
+keyword	vampire human love
+keyword	rough sex
+keyword	monster as victim
+keyword	party
+keyword	turk
+keyword	knife
+keyword	female nudity
+keyword	avant garde
+keyword	shot in the chest
+keyword	gothic
+keyword	aristocrat
+keyword	tomb
+keyword	storm
+keyword	gore
+keyword	sleepwalking
+keyword	reverse footage
+keyword	falling into water
+keyword	proposal
+keyword	stabbed in the chest
+keyword	suicide
+keyword	star crossed lovers
+keyword	crucifix
+keyword	nudity
+keyword	shadow
+keyword	adultery
+keyword	ottoman empire
+keyword	correspondence
+keyword	dead baby
+keyword	actor playing multiple roles
+keyword	bat
+keyword	insanity
+keyword	victorian era
+keyword	blood spatter
+keyword	rain
+keyword	train
+keyword	desire
+keyword	wolf
+keyword	labyrinth
+keyword	gothic horror
+keyword	rejuvenation
+keyword	insect
+keyword	voice over narration
+keyword	blood
+keyword	diary
+keyword	severed head
+keyword	castle
+keyword	cult film
+keyword	garden
+keyword	tuberculosis
+keyword	insane asylum
+keyword	based on novel
+keyword	character name in title
+keyword	title spoken by character
+cast	Gary Oldman	Dracula
+cast	Winona Ryder	Mina Murray / Elisabeta
+cast	Anthony Hopkins	Professor Abraham Van Helsing
+cast	Keanu Reeves	Jonathan Harker
+cast	Richard E. Grant	Dr. Jack Seward
+cast	Cary Elwes	Lord Arthur Holmwood
+cast	Billy Campbell	Quincey P. Morris
+cast	Sadie Frost	Lucy Westenra
+cast	Tom Waits	R.M. Renfield
+cast	Monica Bellucci	Dracula's Bride
+cast	Michaela Bercu	Dracula's Bride
+cast	Florina Kendrick	Dracula's Bride
+cast	Jay Robinson	Mr. Hawkins
+cast	I.M. Hobson	Hobbs
+cast	Laurie Franks	Lucy's Maid
+cast	Maud Winchester	Downstairs Maid
+cast	Octavian Cadia	Deacon
+cast	Robert Getz	Priest
+cast	Dagmar Stanec	Sister Agatha
+cast	Eniko Öss	Sister Sylva
+cast	Nancy Linehan Charles	Older Woman
+cast	Tatiana von Furstenberg	Younger Woman
+cast	Jules Sylvester	Zookeeper
+cast	Hubert Wells	Zookeeper
+cast	Daniel Newman	News Hawker
+cast	Honey Lauren	Peep Show Girl
+cast	Judi Diamond	Peep Show Girl
+cast	Robert Buckingham	Husband
+cast	Cully Fredricksen	Van Helsing's Assistant
+cast	Ele Bardha	Grave Digger
+cast	Alain Blazevic	Van Helsing's Student
+cast	Mark Borkowski	Van Helsing's Student
+cast	Christina Fulton	Vampire Girl
+cast	Jeffery Thomas Johnson	Van Helsing's Student
+cast	Paul Klar	Soldier
+cast	Michael Laren	Priest
+cast	Moreen Littrell	Impaled Dancer
+cast	Joe Murkijanian	Monk
+cast	Adamo Palladino	Dock Loader
+cast	Philip Pucci	Lorryman
+cast	John Michael Quinn	Apothacary
+cast	Heidi Schooler	Young Courtesan

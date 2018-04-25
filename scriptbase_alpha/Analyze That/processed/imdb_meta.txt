@@ -1,0 +1,196 @@
+year	2002
+imdb score	5.8
+meta score	37
+genre	Comedy
+genre	Crime
+keyword	prison
+keyword	mafia
+keyword	psychiatric medication
+keyword	movie set
+keyword	restaurant
+keyword	silencer
+keyword	face slap
+keyword	barbarque
+keyword	italian american
+keyword	jewish
+keyword	loss of father
+keyword	smoke bomb
+keyword	breaking a window
+keyword	brooklyn bridge
+keyword	gold bullion
+keyword	reference to al pacino
+keyword	police surveillance
+keyword	filmmaking
+keyword	psychiatrist
+keyword	mental breakdown
+keyword	sushi
+keyword	mob violence
+keyword	car chase
+keyword	armored car robbery
+keyword	shoot out
+keyword	head butt
+keyword	director
+keyword	crying man
+keyword	product placement
+keyword	nosebleed
+keyword	bloopers during credits
+keyword	new york
+keyword	tv show in film
+keyword	box office flop
+keyword	therapy
+keyword	home movie
+keyword	hysterics
+keyword	sociopath
+keyword	shootout
+keyword	reference to yo yo ma
+keyword	jewelry store
+keyword	italian restaurant
+keyword	bus
+keyword	fbi
+keyword	eating with chopsticks
+keyword	flashback
+keyword	depression
+keyword	prison cafeteria
+keyword	tv news show
+keyword	moviemaking
+keyword	crotch grab
+keyword	ex convict
+keyword	mob hit
+keyword	fantasy sequence
+keyword	prison murder
+keyword	desert eagle
+keyword	anti social
+keyword	hypodermic needle
+keyword	indecent exposure
+keyword	psychotherapy
+keyword	eavesdropping
+keyword	female crime boss
+keyword	cell phome
+keyword	funeral repast
+keyword	heist
+keyword	anxiety
+keyword	gold bar
+keyword	sequel
+keyword	catatonic state
+keyword	car accident
+keyword	reference to stevie wonder
+keyword	car dealer
+keyword	eulogy
+keyword	armored car
+keyword	brief psychotic disorder
+keyword	anti depressant
+keyword	falling from height
+keyword	bulletproof vest
+keyword	japanese restaurant
+keyword	reference to carol burnett
+keyword	car salesman
+keyword	disturbed childhood
+keyword	dream sequence
+keyword	funeral
+keyword	car in water
+keyword	gold
+keyword	police chase
+keyword	organized crime
+keyword	mafia boss
+keyword	new york city
+keyword	australian
+keyword	plumbing fixtures
+keyword	strip club
+cast	Robert De Niro	Paul Vitti
+cast	Billy Crystal	Ben Sobel
+cast	Lisa Kudrow	Laura Sobel
+cast	Joe Viterelli	Jelly
+cast	Cathy Moriarty	Patti LoPresti
+cast	Joey Diaz	Ducks
+cast	Jerome Le Page	Convict
+cast	Joseph Bono	Wiseguy
+cast	Brian Rogalski	Earl
+cast	Thomas Rosales Jr.	Coyote
+cast	Patrick Marcune	Prison Guard
+cast	John F. Gooding	Prison Guard
+cast	Henry Morales-Ballet	Prison Guard
+cast	Scott Dillin	Prison Guard
+cast	Ted Neustadt	Rabbi
+cast	Kyle Sabihy	Michael Sobel
+cast	Rebecca Schull	Ben's Mother
+cast	Joyce Brothers	Herself
+cast	James Biberi	Agent Miller
+cast	Callie Thorne	Agent Cerrone
+cast	Firdous Bamji	Dr. Kassam
+cast	John Finn	Richard Chapin
+cast	David Fonteno	Davis
+cast	Donnamarie Recco	Sheila
+cast	Sylvia Kauders	Aunt Esther
+cast	Kendall Pettygrove	Brunch Guest #1
+cast	Bea Super	Brunch Guest #2
+cast	Pat Cooper	Masiello
+cast	Raymond Franza	Eddie DeVol
+cast	Steven Kampmann	Mr. Macinerny
+cast	Susie Gilder Hayes	Mrs. Macinerny
+cast	Tom Papa	Boyfriend
+cast	Sunny Chae	Fiancé
+cast	Sal Cecere	20 Minute Man
+cast	Richard Brennan	Steakhouse Patron
+cast	Joe Torre	Himself
+cast	Michael Torre	Himself
+cast	Paul Herman	Joey Boots
+cast	Charles A. Gargano	Maitre D'
+cast	Dino van Simco	Dino
+cast	Seth Isler	Businessman
+cast	Reg Rogers	Raoul Berman
+cast	Anita Durst	Raoul's Girlfriend
+cast	Joe D'Onofrio	Rigazzi Gunman
+cast	Dave Salerno	Rigazzi Soldier
+cast	Frank Gio	Lou Rigazzi
+cast	Vinny Vella	Mello
+cast	Alfred Sauchelli Jr.	Mo-Mo
+cast	Frank Pietrangolare	Tuna
+cast	Frank Aquilino	Eddie 'Cokes'
+cast	Chris Tardio	Enormous Bobby
+cast	William DeMeo	Al Pacino
+cast	Joe Columbo	LoPresti Soldier
+cast	Angelo Natoli	LoPresti Soldier
+cast	Anthony Krosinski	LoPresti Soldier
+cast	Nick Massi Jr.	LoPresti Soldier
+cast	Frank Bonsangue	LoPresti Soldier
+cast	Ralph Cefarello	LoPresti Soldier
+cast	Joey Marzella	Vitti Crew
+cast	Phil Campanella	Vitti Crew
+cast	Louis Fattell	Vitti Crew
+cast	Michael Zotto	Vitti Crew
+cast	Tony Vitucci	Vitti Crew
+cast	Paul Cicero	Vitti Crew
+cast	Gene Di Silvio	Vitti Crew
+cast	Gaetano LoGiudice	Vitti Crew
+cast	Rino Vitucci	Vitti Crew
+cast	Joseph P. Reidy	First Assistant Director
+cast	Richard Maldone	Rigazzi Driver
+cast	Leif Riddell	Little Caesar Soundman
+cast	Suzanne Herrington	Drive-thru Bank Teller
+cast	Demetri Martin	Personal Assistant
+cast	Michael Jannetta	Lieutenant
+cast	Bob Cea	Captain
+cast	Annika Pergament	Newscaster
+cast	Bart Tangredi	Vitti's Father
+cast	Shashi Balooja	Prison Inmate
+cast	Diana Berry	Little Caesar Hairdresser
+cast	Skippy D	Inmate
+cast	Mary Fortune	Little Caesar Assistant Director
+cast	Christopher Gallego	Singing Inmate
+cast	Graig Guggenheim	Vitti Crew
+cast	Corey Hibbert	Singing Inmate
+cast	Joe James	Club Owner
+cast	Chris Kiszka	Inmate
+cast	Anthony LaPaglia	Anthony Bella / Nicky Caesar
+cast	Gina Lynn	Stripper
+cast	Evan Mathew Weinstein	Vitti's Prop Boy
+cast	Moet Meira	Trish
+cast	Erik-Anders Nilsson	Restaurant Patron
+cast	Frederick Piña	Extra
+cast	Ron Reynaldi	Film Electrician
+cast	Lawrence J. Russo	Wiseguy
+cast	Laura San Luis	Stripper
+cast	Andy Schofield	Bar Patron
+cast	Michael Stever	SWAT Team Gunman
+cast	Nick Taylor	Priest
+cast	Bill Walters	Sing Sing Inmate

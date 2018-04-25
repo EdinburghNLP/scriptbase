@@ -1,0 +1,330 @@
+year	1990
+imdb score	8.8
+meta score	89
+genre	Biography
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	gangster
+keyword	mafia
+keyword	robbery
+keyword	irish italian
+keyword	cocaine
+keyword	1960s
+keyword	rise and fall
+keyword	murder
+keyword	organized crime
+keyword	witness protection
+keyword	hospital
+keyword	mother daughter relationship
+keyword	dolly zoom
+keyword	arrest
+keyword	person in car trunk
+keyword	gun in panties
+keyword	panties
+keyword	cosa nostra
+keyword	1970s
+keyword	double date
+keyword	pistol whip
+keyword	stabbed in the head
+keyword	growing up
+keyword	fondling
+keyword	betrayal
+keyword	mob violence
+keyword	multiple narrators
+keyword	gangster boss
+keyword	fellatio
+keyword	one word title
+keyword	ethnic slur
+keyword	red dress
+keyword	vertigo shot
+keyword	wedding reception
+keyword	unfaithfulness
+keyword	police surveillance
+keyword	shot in the foot
+keyword	contraband
+keyword	shot at the camera
+keyword	dark humor
+keyword	italian food
+keyword	toupee
+keyword	italian american
+keyword	1980s
+keyword	prison
+keyword	wheelchair
+keyword	witness protection program
+keyword	breaking the fourth wall
+keyword	trial
+keyword	phone booth
+keyword	cold open
+keyword	extortion
+keyword	what happened to epilogue
+keyword	babysitter
+keyword	stuttering
+keyword	domestic violence
+keyword	heist
+keyword	machismo
+keyword	stabbing
+keyword	crying
+keyword	helicopter
+keyword	wedding
+keyword	dumpster
+keyword	father son relationship
+keyword	freeze frame
+keyword	whipping
+keyword	kicked in the face
+keyword	zoo
+keyword	cameo
+keyword	business
+keyword	revenge
+keyword	bar fight
+keyword	shot in the back
+keyword	frozen body
+keyword	jewish
+keyword	smuggling
+keyword	dark comedy
+keyword	bar
+keyword	face slap
+keyword	shot in the face
+keyword	infidelity
+keyword	assassin
+keyword	fake commercial
+keyword	mob hit
+keyword	anger
+keyword	real life mother and daughter playing mother and daughter
+keyword	beating
+keyword	deception
+keyword	gore
+keyword	shot in the head
+keyword	brooklyn new york city
+keyword	hitman
+keyword	stood up
+keyword	jewish wedding
+keyword	bad guy
+keyword	scantily clad female
+keyword	1950s
+keyword	voice over narration
+keyword	blood spatter
+keyword	violence
+keyword	informer
+keyword	confrontation
+keyword	juvenile delinquent
+keyword	psychopath
+keyword	drug enforcement
+keyword	brother brother relationship
+keyword	insult
+keyword	diner
+keyword	lingerie
+keyword	shopping
+keyword	frozen corpse
+keyword	epic
+keyword	mailman
+keyword	cleavage
+keyword	black comedy
+keyword	new york city
+keyword	crime epic
+keyword	mother son relationship
+keyword	reference to sammy davis jr.
+keyword	friendship
+keyword	racial comment
+keyword	head blown off
+keyword	exhumation
+keyword	christmas
+keyword	arson
+keyword	whacking
+keyword	tampa florida
+keyword	white panties
+keyword	mass murder
+keyword	interfaith marriage
+keyword	corpse
+keyword	restaurant
+keyword	half jewish
+keyword	firearm pointed at the camera
+keyword	paranoia
+keyword	shallow grave
+keyword	lion
+keyword	toilet
+keyword	irish american
+keyword	extramarital affair
+keyword	shot in the chest
+keyword	neo noir
+keyword	vomit
+keyword	pasta
+keyword	sexual harassment
+keyword	nipples visible through clothing
+keyword	nonlinear timeline
+keyword	drugs
+keyword	racial slur
+keyword	long take
+keyword	police corruption
+keyword	adultery
+keyword	copacabana
+keyword	drug dealing
+keyword	poker
+keyword	looking at the camera
+keyword	foot blown off
+keyword	courtroom
+keyword	maniac
+keyword	nightclub
+keyword	tough guy
+keyword	tragic event
+keyword	cigarette smoking
+keyword	girl in panties
+keyword	cult film
+keyword	death of friend
+keyword	based on novel
+keyword	based on true story
+keyword	actor shares first name with character
+keyword	title spoken by character
+cast	Robert De Niro	James Conway
+cast	Ray Liotta	Henry Hill
+cast	Joe Pesci	Tommy DeVito
+cast	Lorraine Bracco	Karen Hill
+cast	Paul Sorvino	Paul Cicero
+cast	Frank Sivero	Frankie Carbone
+cast	Tony Darrow	Sonny Bunz
+cast	Mike Starr	Frenchy
+cast	Frank Vincent	Billy Batts
+cast	Chuck Low	Morris Kessler
+cast	Frank DiLeo	Tuddy Cicero
+cast	Henny Youngman	Himself
+cast	Gina Mastrogiacomo	Janice Rossi
+cast	Catherine Scorsese	Tommy's Mother
+cast	Charles Scorsese	Vinnie
+cast	Suzanne Shepherd	Karen's Mother
+cast	Debi Mazar	Sandy
+cast	Margo Winkler	Belle Kessler
+cast	Welker White	Lois Byrd
+cast	Jerry Vale	Himself
+cast	Julie Garfield	Mickey Conway
+cast	Christopher Serrone	Young Henry
+cast	Elaine Kagan	Henry's Mother
+cast	Beau Starr	Henry's Father
+cast	Kevin Corrigan	Michael Hill
+cast	Michael Imperioli	Spider
+cast	Robbie Vinton	Bobby Vinton
+cast	Johnny Williams	Johnny Roastbeef
+cast	Daniel P. Conte	Dr. Dan
+cast	Tony Conforti	Tony
+cast	Frank Pellegrino	Johnny Dio
+cast	Ronald Maccone	Ronnie
+cast	Tony Sirico	Tony Stacks
+cast	Joe D'Onofrio	Young Tommy
+cast	Steve Forleo	City Detective #1
+cast	Richard Dioguardi	City Detective #2
+cast	Frank Adonis	Anthony Stabile
+cast	John Manca	Nickey Eyes
+cast	Joseph Bono	Mikey Franzese
+cast	Katherine Wallach	Diane
+cast	Mark Evan Jacobs	Bruce
+cast	Angela Pietropinto	Cicero's Wife
+cast	Marianne Leone	Tuddy's Wife
+cast	Marie Michaels	Mrs. Carbone
+cast	LoNardo	Frenchy's Wife
+cast	Melissa Prophet	Angie
+cast	Illeana Douglas	Rosie
+cast	Susan Varon	Susan
+cast	Elizabeth Whitcraft	Tommy's Girlfriend @ Copa
+cast	Clem Caserta	Joe Buddha
+cast	Samuel L. Jackson	Stacks Edwards
+cast	Fran McGee	Johnny Roastbeef's Wife
+cast	Paul Herman	Dealer
+cast	Edward McDonald	Himself
+cast	Edward Hayes	Defense Attorney
+cast	Daniela Barbosa	Young Henry's Sister #1
+cast	Gina Mattia	Young Henry's Sister #2
+cast	Joel Calendrillo	Young Henry's Older Brother
+cast	Anthony Valentin	Young Michael
+cast	Edward D. Murphy	Liquor Cop #1
+cast	Michael Citriniti	Liquor Cop #2
+cast	Peter Hock	Mailman
+cast	Erasmus C. Alfano	Barbeque Wiseguy
+cast	John Di Benedetto	Bleeding Man
+cast	Manny Alfaro	Gambling Doorman
+cast	Thomas Lowry	Hijacked Driver
+cast	Margaret Smith	School Guard
+cast	Richard Mullally	Cop #1
+cast	Frank Albanese	Mob Lawyer
+cast	Paul McIsaac	Judge - 1956
+cast	Bob Golub	Truck Driver at Diner
+cast	Louis Eppolito	Fat Andy
+cast	Tony Lip	Frankie The Wop
+cast	Mikey Black	Freddy No Nose
+cast	Peter Cicale	Pete The Killer
+cast	Anthony Powers	Jimmy Two Times
+cast	Vincent Pastore	Man with Coatrack
+cast	Anthony Alessandro	Henry's 60's crew
+cast	Victor Colicchio	Henry's 60's crew
+cast	Mike Contessa	Cicero's 60's crew
+cast	Philip Suriano	Cicero's 60's crew
+cast	Paul Mougey	Terrorized Waiter
+cast	Norman Barbera	Bouncer
+cast	Anthony Polemeni	Copa Captain
+cast	James Quattrochi	Henry Greeter #1
+cast	Lawrence Sacco	Henry Greeter #2
+cast	Dino Laudicina	Henry Greeter #3
+cast	Thomas E. Camuti	Mr. Tony Hood #1
+cast	Andrew Scudiero	Mr. Tony Hood #2
+cast	Irving Welzer	Copa Announcer
+cast	Jesse Kirtzman	Beach Club Waiter
+cast	Russell Halley	Bruce's Brother #1
+cast	Spencer Bradley	Bruce's Brother #2
+cast	Bob Altman	Karen's Dad
+cast	Joanna Bennett	Marie #1
+cast	Gayle Lewis	Marie #2
+cast	Gaetano Lisi	Paul #3
+cast	Luke Walter	Truck Driver
+cast	Ed Deacy	Detective Deacy
+cast	Larry Silvestri	Detective Silvestri
+cast	John 'Cha Cha' Ciarcia	Batts' Crew #1
+cast	Vito Picone	Vito
+cast	Janis Corsair	Vito's Girlfriend
+cast	Frank Aquilino	Batts' Crew #2
+cast	Lisa Dapolito	Lisa
+cast	Michael Calandrino	Godfather at Table
+cast	Vito Antuofermo	Prizefighter
+cast	Vito Balsamo	Henry's 70's Crew
+cast	Peter Fain	Henry's 70's Crew
+cast	Vincent Gallo	Henry's 70's Crew
+cast	Gaetano LoGiudice	Henry's 70's Crew
+cast	Garry Pastore	Henry's 70's Crew
+cast	Nicole Burdette	Carbone's Girlfriend
+cast	Stella Keitel	Henry's Older Child - Judy
+cast	Dominique DeVito	Henry's Baby - Ruth
+cast	Michaelangelo Graziano	Bar Patron
+cast	Paula Kcira	Janice's Girlfriend #1
+cast	Nadine Kay	Janice's Girlfriend #2
+cast	Tony Ellis	Bridal Shop Owner
+cast	Peter Onorati	Florida Bookie
+cast	Jamie De Roy	Bookie's Sister
+cast	Joel Blake	Judge - 1971
+cast	H. Clay Dear	Security Guard with Lobsters
+cast	Thomas Hewson	Drug Buyer
+cast	Gene Canfield	Prison Guard in Booth
+cast	Margaux Guerard	Judy Hill @ 10 Years
+cast	Violet Gaynor	Ruth Hill @ 8 Years
+cast	Tobin Bell	Parole Officer
+cast	Berlinda Tolbert	Stacks' Girlfriend
+cast	Nancy Cassaro	Joe Buddha's Wife
+cast	Adam Wandt	Kid
+cast	Joe Gioco	Garbage Man
+cast	Isiah Whitlock Jr.	Doctor
+cast	Alyson Jones	Judy Hill @ 13 Years
+cast	Ruby Gaynor	Ruth Hill @ 11 Years
+cast	Bo Dietl	Arresting Narc
+cast	Steve Baker	Waiter
+cast	Linda Carola	Gangster's Girlfriend
+cast	Anthony Caso	Truck Hijacker
+cast	Frank Cassini	Young Wiseguy
+cast	George G. Colucci	Contruction Worker
+cast	Matthew T. Gitkin	Warehouse Worker
+cast	Richard Goteri	Cicero's '60s Crew
+cast	Debbee Hinchcliffe	Jimmy's Date
+cast	Al Jolson	Himself
+cast	Anibal O. Lleras	Fellas Chauffer
+cast	Charles Pendelton	Resturante Mob Onlooker
+cast	Jeffrey Rollins	Courtroom Defendant
+cast	Barry Squitieri	Wiseguy
+cast	Drew Stanley	Wedding Photographer
+cast	Frank Stellato	1956 Court Stenographer
+cast	Billy L. Sullivan	Jimmy's Son
+cast	Nick Vallelonga	Prison Inmate Sitting Behind Henry

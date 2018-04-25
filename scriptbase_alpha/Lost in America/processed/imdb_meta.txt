@@ -1,0 +1,79 @@
+year	1985
+imdb score	7.0
+meta score	N/A
+genre	Comedy
+keyword	winnebago
+keyword	1980s
+keyword	mobile home
+keyword	yuppie
+keyword	dam
+keyword	gambling
+keyword	on the road
+keyword	nest egg
+keyword	road sign
+keyword	bloody nose
+keyword	tourist
+keyword	bathrobe
+keyword	cartoon on tv
+keyword	satire
+keyword	advertising
+keyword	robe
+keyword	raised middle finger
+keyword	motor home
+keyword	quitting a job
+keyword	trailer park
+keyword	speeding ticket
+keyword	crossing guard
+keyword	directed by star
+keyword	recreational vehicle
+keyword	casino
+keyword	advertising agency
+keyword	road movie
+keyword	husband wife relationship
+keyword	new york city
+keyword	insult
+keyword	fired from the job
+keyword	married couple
+keyword	bicycle
+keyword	las vegas nevada
+keyword	hoover dam
+keyword	unemployment
+keyword	punched in nose
+keyword	travel
+keyword	independent film
+keyword	
+cast	Albert Brooks	David Howard
+cast	Julie Hagerty	Linda Howard
+cast	Sylvia Farrel	Receptionist
+cast	Tina Kincaid	Model
+cast	Candy Ann Brown	David's Secretary
+cast	Maggie Roswell	Patty
+cast	Hans Wagner	Hans
+cast	Brandy Rubin	Paul Dunn's Secretary
+cast	Michael Greene	Paul Dunn
+cast	Tom Tarpey	Brad Tooley
+cast	Robert Hughes	Security Guard
+cast	Raynold Gideon	Ray
+cast	John Di Fusco	Motorcyclist
+cast	Michael Cornelison	Front Desk Clerk
+cast	Radu Gavor	Bellman
+cast	John Reade	Casino Security Guard
+cast	Pat Garrison	Roulette Croupier
+cast	Garry Marshall	Casino Manager
+cast	Byron Tong	Roulette Player
+cast	Gayle Lanza	Hostess
+cast	Donald Gibb	Ex-Convict
+cast	Charles Boswell	Highway Patrolman
+cast	Zeke Manners	Couple in Trailer Park
+cast	Bea Manners	Couple in Trailer Park
+cast	Ernie Brown	Pharmacist
+cast	Art Frankel	Employment Agent
+cast	Mark Sydney	Boy on Bicycle
+cast	David Michael Katz	Boy on Bicycle
+cast	Raul Flores	Boy on Bicycle
+cast	Herb Nanas	Mercedes Driver
+cast	Joey Coleman	Skippy
+cast	Rex Reed	Himself
+cast	Priscilla Cory	Model
+cast	Bob Hughes	Security Guard
+cast	Larry King	Himself

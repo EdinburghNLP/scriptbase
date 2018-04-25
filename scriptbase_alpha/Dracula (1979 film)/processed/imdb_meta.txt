@@ -1,0 +1,80 @@
+year	1979
+imdb score	6.4
+meta score	N/A
+genre	Horror
+genre	Romance
+keyword	dracula
+keyword	asylum
+keyword	vampire
+keyword	cockroach
+keyword	tragic villain
+keyword	train
+keyword	railway station
+keyword	bloodsucker
+keyword	remake
+keyword	insane asylum
+keyword	countryside
+keyword	vampire human love
+keyword	village
+keyword	vampire bat
+keyword	immortality
+keyword	gothic
+keyword	burnt with cross
+keyword	goth
+keyword	eating insect
+keyword	crucifix
+keyword	spider
+keyword	dead baby
+keyword	death of title character
+keyword	villain played by lead actor
+keyword	ship wreck
+keyword	color remake of black and white film
+keyword	based on stage play based on novel
+keyword	master vampire
+keyword	insect
+keyword	storm
+keyword	bloodshed
+keyword	victorian era
+keyword	white horse
+keyword	neck breaking
+keyword	wolf
+keyword	horse
+keyword	horror movie remake
+keyword	abbey
+keyword	coffin
+keyword	gothic horror
+keyword	dinner party
+keyword	orchestral music score
+keyword	underground ruins
+keyword	red eyes
+keyword	homosexual subtext
+keyword	stabbed in the chest
+keyword	literary adaptation
+keyword	courtship
+keyword	automobile
+keyword	one word title
+keyword	cobwebs
+keyword	vampire slayer
+keyword	shape shifter
+keyword	biscuits
+keyword	castle
+keyword	based on play
+keyword	based on novel
+keyword	character name in title
+cast	Frank Langella	Count Dracula
+cast	Laurence Olivier	Prof. Abraham Van Helsing
+cast	Donald Pleasence	Dr. Jack Seward
+cast	Kate Nelligan	Lucy Seward
+cast	Trevor Eve	Jonathan Harker
+cast	Jan Francis	Mina Van Helsing
+cast	Janine Duvitski	Annie
+cast	Tony Haygarth	Milo Renfield
+cast	Teddy Turner	Swales
+cast	Sylvester McCoy	Walter
+cast	Kristine Howarth	Mrs. Galloway
+cast	Joe Belcher	Tom Hindley
+cast	Ted Carroll	Scarborough Sailor
+cast	Frank Birch	Harbormaster
+cast	Gabor Vernon	Captain of Demeter
+cast	Frank Henson	Demeter Sailor
+cast	Peter Wallis	Priest

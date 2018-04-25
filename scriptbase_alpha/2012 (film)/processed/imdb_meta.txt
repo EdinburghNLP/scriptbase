@@ -1,0 +1,461 @@
+year	2009
+imdb score	5.8
+meta score	49
+genre	Action
+genre	Adventure
+genre	Sci-Fi
+keyword	ark
+keyword	writer
+keyword	president
+keyword	geologist
+keyword	catastrophe
+keyword	china
+keyword	u.s. president
+keyword	disaster
+keyword	end of the world
+keyword	cataclysm
+keyword	copper mine
+keyword	india
+keyword	volcanic eruption
+keyword	camping
+keyword	earthquake
+keyword	sun
+keyword	vatican
+keyword	los angeles california
+keyword	pope
+keyword	eiffel tower paris
+keyword	falling from height
+keyword	plane
+keyword	boat
+keyword	ship
+keyword	loss of loved one
+keyword	tsunami
+keyword	destroyed city
+keyword	army major
+keyword	pyroclastic flow
+keyword	rice crispies
+keyword	japanese chin dog
+keyword	kitchen
+keyword	pink dress
+keyword	collapsing building
+keyword	tidal wave
+keyword	deer
+keyword	bed wetting
+keyword	himalayan mountains
+keyword	flood
+keyword	sistine chapel
+keyword	butt crack
+keyword	mountain man
+keyword	alcoholic relapse
+keyword	london england
+keyword	billionaire
+keyword	disaster film
+keyword	no opening credits
+keyword	dust cloud
+keyword	soldier
+keyword	little boy
+keyword	driver's license
+keyword	boxing match
+keyword	luxury car
+keyword	juvenile bedwetting
+keyword	demonstration
+keyword	hummer
+keyword	american flag
+keyword	dead child
+keyword	milf
+keyword	explosion
+keyword	chief of staff
+keyword	gong
+keyword	tibetian spaniel
+keyword	rio de janeiro brazil
+keyword	exploding truck
+keyword	author
+keyword	washington monument
+keyword	near future
+keyword	airplane crash
+keyword	evacuation
+keyword	treasure map
+keyword	car explosion
+keyword	year 2010
+keyword	queen elizabeth ii
+keyword	product placement
+keyword	village
+keyword	mecca
+keyword	vatican city
+keyword	airplane trip
+keyword	saturn the planet
+keyword	volcano
+keyword	dead zone
+keyword	tent
+keyword	louvre
+keyword	paris france
+keyword	map
+keyword	russian
+keyword	mass suicide
+keyword	twin brother
+keyword	anchor
+keyword	iceberg
+keyword	motor home
+keyword	rich snob
+keyword	limousine
+keyword	las vegas nevada
+keyword	walk in the woods
+keyword	riot
+keyword	year 2009
+keyword	exploding car
+keyword	elevator
+keyword	tuxedo
+keyword	conspiracy theorist
+keyword	fissure
+keyword	train explosion
+keyword	british columbia canada
+keyword	car rollover
+keyword	rhinoceros
+keyword	punched in the face
+keyword	protest
+keyword	twin
+keyword	christ the redeemer rio de janeiro
+keyword	ex husband ex wife relationship
+keyword	wisconsin
+keyword	volcanic ash
+keyword	male nudity
+keyword	year 2012
+keyword	text messaging
+keyword	yellowstone national park
+keyword	snow
+keyword	art museum
+keyword	exploding house
+keyword	airport
+keyword	caesar's palace las vegas
+keyword	buddhist monk
+keyword	brother sister relationship
+keyword	pyroplastic flow
+keyword	machine gun
+keyword	mosquito bite
+keyword	louvre museum
+keyword	newscast
+keyword	scientist
+keyword	obscene finger gesture
+keyword	exploding airplane
+keyword	ch 47 chinook helicopter
+keyword	pilot
+keyword	economic summit
+keyword	jumbo jet
+keyword	spoiled son
+keyword	reference to noah
+keyword	g8 summit
+keyword	death of family
+keyword	fund raiser
+keyword	woman with glasses
+keyword	russian accent
+keyword	flashlight
+keyword	uh 1 huey helicopter
+keyword	spoiled brat
+keyword	candle
+keyword	supermarket
+keyword	kept woman
+keyword	little girl
+keyword	flying bat
+keyword	fire truck
+keyword	aircraft carrier
+keyword	picket fence
+keyword	pasadena california
+keyword	chauffeur
+keyword	mother son relationship
+keyword	u.s. army
+keyword	book writer
+keyword	giraffe
+keyword	crushed to death
+keyword	mass death
+keyword	indian
+keyword	babe scientist
+keyword	number as title
+keyword	singing
+keyword	fence
+keyword	singing in a car
+keyword	white house
+keyword	year in title
+keyword	sheikh
+keyword	struggling writer
+keyword	arabian prince
+keyword	arch
+keyword	self sacrifice
+keyword	elephant
+keyword	shock jock
+keyword	people's republic of china
+keyword	prime minister
+keyword	geology
+keyword	survival
+keyword	brat
+keyword	boyfriend girlfriend relationship
+keyword	blockbuster
+keyword	race against time
+keyword	family relationships
+keyword	apocalypse
+keyword	airforce one
+keyword	mountain
+keyword	museum
+keyword	new age
+keyword	ash
+keyword	black president
+keyword	rear cleavage
+keyword	stretch limousine
+keyword	antonov an 225
+keyword	beer
+keyword	trespassing
+keyword	national park
+keyword	uh 60 blackhawk helicopter
+keyword	double bass
+keyword	washington d.c.
+keyword	crutches
+keyword	arab sheik
+keyword	prominent product placement
+keyword	helicopter
+keyword	road trip
+keyword	lake
+keyword	assassination
+keyword	rome italy
+keyword	super volcano
+keyword	black helicopter
+keyword	tv reporter
+keyword	plastic surgeon
+keyword	2010s
+keyword	chain link fence
+keyword	dog
+keyword	mass destruction
+keyword	iconic image of rio de janeiro
+keyword	cityscape
+keyword	arab
+keyword	blog
+keyword	reference to princess diana
+keyword	water
+keyword	mona lisa
+keyword	relocation
+keyword	father son relationship
+keyword	conspiracy theory
+keyword	digit in title
+keyword	lava
+keyword	grocery shopping
+keyword	st. peter's basilica
+keyword	queen of england
+keyword	skyscraper
+keyword	mountaintop monastery
+keyword	capsize
+keyword	car crash
+keyword	character says i love you
+keyword	toothpick
+keyword	piano
+keyword	building collapse
+keyword	blogger
+keyword	reversal of magnetic poles
+keyword	ship captain
+keyword	loss of father
+keyword	dry lake
+keyword	bare midriff
+keyword	prayer
+keyword	airplane
+keyword	ambulance
+keyword	bear
+keyword	cargo plane
+keyword	limousine driver
+keyword	car
+keyword	golden gate bridge
+keyword	cheating on boyfriend
+keyword	mistress
+keyword	shipping container
+keyword	oval office
+keyword	twin engine airplane
+keyword	heavy rain
+keyword	cleavage
+keyword	firefighter
+keyword	future
+keyword	u.s. military
+keyword	laptop
+keyword	humanity in peril
+keyword	chaos
+keyword	corgi
+keyword	desk bell
+keyword	big ben london
+keyword	cruise ship
+keyword	grocery store
+keyword	father daughter relationship
+keyword	tibet
+keyword	city
+keyword	hatchet
+keyword	destruction of city
+keyword	chicken
+keyword	solar flare
+keyword	tunnel
+keyword	burning building
+keyword	california
+keyword	san andreas fault
+keyword	neutrino
+keyword	chapel
+keyword	military
+keyword	trophy wife
+keyword	mount everest
+keyword	jack daniels
+keyword	falling off the wagon
+keyword	himalayas
+keyword	chinese military
+keyword	times square manhattan new york city
+keyword	lord's prayer
+keyword	diaper
+keyword	plane crash
+keyword	avalanche
+keyword	gorilla
+keyword	chinese
+keyword	russian man
+keyword	year 2011
+keyword	title spoken by character
+cast	John Cusack	Jackson Curtis
+cast	Amanda Peet	Kate Curtis
+cast	Chiwetel Ejiofor	Adrian Helmsley
+cast	Thandie Newton	Laura Wilson
+cast	Oliver Platt	Carl Anheuser
+cast	Thomas McCarthy	Gordon Silberman
+cast	Woody Harrelson	Charlie Frost
+cast	Danny Glover	President Thomas Wilson
+cast	Liam James	Noah Curtis
+cast	Morgan Lily	Lilly Curtis
+cast	Zlatko Buric	Yuri Karpov
+cast	Beatrice Rosen	Tamara
+cast	Alexandre Haussmann	Alec
+cast	Philippe Haussmann	Oleg
+cast	Johann Urb	Sasha
+cast	John Billingsley	Professor West
+cast	Chin Han	Tenzin
+cast	Osric Chau	Nima
+cast	Tseng Chang	Grandfather Sonam
+cast	Lisa Lu	Grandmother Sonam
+cast	Blu Mankuma	Harry Helmsley
+cast	George Segal	Tony Delgatto
+cast	Stephen McHattie	Captain Michaels
+cast	Patrick Bauchau	Roland Picard
+cast	Jimi Mistry	Dr. Satnam Tsurutani
+cast	Ryan McDonald	Scotty
+cast	Merrilyn Gann	German Chancellor
+cast	Henry O	Lama Rinpoche
+cast	Patrick Gilmore	Ark Communications Officer
+cast	Dean Marshall	Ark Communications Officer
+cast	Ron Selmour	Ark Boarding Officer
+cast	Viv Leacock	Ark Boarding Officer
+cast	Chris Boyd	Ark Boarding Officer
+cast	Donna Yamamoto	AF1 Science Officer
+cast	Doron Bell	AF1 Science Officer
+cast	David Orth	AF1 Lieutenant
+cast	Lyndall Grant	Governor
+cast	Jason Diablo	Ark Tech Officer
+cast	Ty Olsson	AF1 Officer
+cast	Zinaid Memisevic	President Sergey Makarenko
+cast	Vincent Cheng	Chinese Colonel
+cast	Igor Morozov	Russian Interpreter
+cast	BJ Harrison	Woman Comforting Child
+cast	Dominic Zamprogna	Paramedic
+cast	Karin Konoval	Sally - President's Secretary
+cast	Mary Gillis	Jackson's Neighbor
+cast	Rick Tae	Megaphone Officer
+cast	Parm Soor	Saudi Prince
+cast	Gerard Plunkett	Isaacs - MI6 Officer
+cast	Paul Tryl	Zultan
+cast	Andrei Kovski	Zultan's Trainer
+cast	Val Cole	News Reporter - Tikal
+cast	Eve Harlow	Cashier
+cast	Sean Tyson	Interrogating Officer
+cast	Leonard Tenisci	Italian Prime Minister
+cast	Michael Buffer	Boxing Announcer
+cast	Daren A. Herbert	Ship Waiter
+cast	Craig Stanghetta	Vegas Rescue Worker
+cast	Mateen Devji	Ajit - age 5
+cast	Qayam Devji	Ajit - age 9
+cast	Jody Thompson	CNN Anchor
+cast	Tanya Champoux	Mrs. Birnbaum
+cast	Frank C. Turner	Preacher
+cast	Kinua McWatt	Yoko Delgatto
+cast	Laara Sadiq	British Newscaster
+cast	Gillian Barber	Cruise Ship Lady
+cast	Candus Churchill	Cruise Ship Lady
+cast	Beverley Elliott	Cruise Ship Lady
+cast	Agam Darshi	Aparna
+cast	Raj Lal	Gurdeep
+cast	Pesi Daruwalla	Dr. Lokesh
+cast	Jacob Blair	AF1 Steward
+cast	Jay Williams	AF1 Steward
+cast	Scott E. Miller	Arc Naval Officer
+cast	Anna Mae Wills	Arc Naval Officer
+cast	John Stewart	Pilot
+cast	Ryan Cook	Surfer
+cast	Brandon Haas	Surfer
+cast	Eddie Hassell	Surfer
+cast	Betty Phillips	Elderly Driver
+cast	Georgina Hegedos	Elderly Driver
+cast	Luis Javier	Vegas Tow Truck Driver
+cast	Dean Redman	Vegas Fireman
+cast	Gordon Lai	Security Commander
+cast	Mark Docherty	Field Reporter - Tikal
+cast	Mark Oliver	Fundraiser Security
+cast	Andrew Moxham	Policeman
+cast	Alexandra Castillo	Paris Reporter
+cast	Farouk A. Afify	Saudi Senior Security
+cast	Shaun Wilson	US Army Worker
+cast	Leo Li Chiang	Chinese Soldier
+cast	Elizabeth Richard	Queen Elizabeth
+cast	Kyle Riefsnyder	Cho Ming Platform Officer
+cast	John Mee	Angry Billionaire
+cast	George Trochta	American Ark Steward
+cast	Geoff Gustafson	Ark Bridge Crew
+cast	Alex Zahara	Ark Bridge Crew
+cast	Jason Griffith	Ark Bridge Crew
+cast	Jill Morrison	Ark Bridge Crew
+cast	Thomas Parkinson	Ark Bridge Crew
+cast	Leona Naidoo	Ark Bridge Crew
+cast	Quentin Guyon	Ark Bridge Crew
+cast	Nicole Rudell	Ark Bridge Crew
+cast	Chad Riley	Ark Bridge Crew
+cast	Simon Leung	Ark Bridge Crew
+cast	Kevin Haaland	Ark Bridge Crew
+cast	Leigh Burrows	US Army Worker
+cast	Carolyn Adair	Woman Comforting Child
+cast	Peter Arpesella	Italian Prime Minister
+cast	Chris Arreguin	Doomsday Protester
+cast	Tj Austin	Preacher
+cast	Sahar Biniaz	Showgirl
+cast	Anthony Bonaventura	Riot Motorist
+cast	Chuck Daar	Doomsdayer
+cast	Terence Dament	Bridge Crew #3
+cast	Lea Deesing	Doomsdayer
+cast	Norman Deesing	Doomsdayer
+cast	Abigail Delves	Little Girl
+cast	Paula Elle	Woman
+cast	Eddie L. Fauria	Sgt. Lourke
+cast	Gladis Giada	New Age Hippie
+cast	Jacob Goodall	Doomsday Man
+cast	Ashley Hand	Deck 44 Passenger
+cast	Ayana Haviv	Singer
+cast	Robert Hayley	Officer
+cast	Waléra Kanischtscheff	Zultan's Trainer
+cast	Rena Kawabata	Japanese Wife
+cast	Marco Khan	Preacher
+cast	Erik Kowalski	Protestor
+cast	Julie Krol	Elsa
+cast	Jonathan Lane	Guy in Street
+cast	Tom MacNeill	Deck 44 Passenger
+cast	Robert Malina	CNN Reporter
+cast	William Myers	Doomsdayer
+cast	Jessica Provencher	Doomsdayer
+cast	Larry Purtell	Protestor
+cast	Michael Karl Richards	Wil Delgado
+cast	David Richmond-Peck	Political Aide
+cast	Charlie Robson	Air Force One Tech
+cast	Joshua Salvati	
+cast	Dan Savoie	Zultan's Entourage
+cast	Richard Schimmelpfenneg	Protester
+cast	Eric Shackelford	Crazy Protester
+cast	Patricia Shih	Violinist
+cast	Robyn Jean Springer	Doomsdayer
+cast	Michael Stevens	Ark Boarding Officer
+cast	Dale Tarrant	Motorcycle Cop
+cast	Ian Thompson	Motorcycle Cop
+cast	Derek Versteeg	Scientist
+cast	Yuel Yawney	Violinist
+cast	Akbar Zaman	Security Crew Guy

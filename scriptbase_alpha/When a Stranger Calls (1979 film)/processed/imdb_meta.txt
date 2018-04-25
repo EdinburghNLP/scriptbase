@@ -1,0 +1,70 @@
+year	1979
+imdb score	6.6
+meta score	N/A
+genre	Horror
+genre	Thriller
+keyword	babysitting
+keyword	telephone
+keyword	babysitter
+keyword	male rear nudity
+keyword	flashlight
+keyword	bare chested male
+keyword	low budget film
+keyword	telephone terror
+keyword	gun
+keyword	private detective
+keyword	bar
+keyword	male nudity
+keyword	blood
+keyword	ex cop
+keyword	mysterious telephone call
+keyword	urban legend
+keyword	female protagonist
+keyword	phone terror
+keyword	homeless shelter
+keyword	past
+keyword	terror
+keyword	murder
+keyword	maniac
+keyword	slasher
+keyword	psychopath
+keyword	child murder
+keyword	stalker
+keyword	horror movie remade
+keyword	spit in the face
+keyword	stalking
+keyword	remade
+keyword	independent film
+keyword	surprise ending
+keyword	
+cast	Carol Kane	Jill Johnson
+cast	Rutanya Alda	Mrs. Mandrakis
+cast	Carmen Argenziano	Dr. Mandrakis
+cast	Kirsten Larkin	Nancy
+cast	William Boyett	Sgt. Sacker
+cast	Charles Durning	John Clifford
+cast	Ron O'Neal	Lt. Charlie Garber
+cast	Heetu	Houseboy
+cast	Rachel Roberts	Dr. Monk
+cast	Tony Beckley	Curt Duncan
+cast	Colleen Dewhurst	Tracy
+cast	Michael Champion	Bill
+cast	Joseph Reale	Bartender
+cast	Ed Wright	Retired Man
+cast	Louise Wright	Retired Woman
+cast	Carol Tillery Banks	Mrs. Garber
+cast	Dennis McMullen	Maintenance Man
+cast	Wally Taylor	Cheater
+cast	John Tobyansen	Bar Customer
+cast	Sara Damman	Bianca Lockart
+cast	Richard Bail	Stevie Lockart
+cast	Steven Anderson	Stephen Lockart
+cast	Lenora May	Sharon
+cast	Randy Holland	Maitre d'
+cast	Trent Dolan	Policeman #1
+cast	Frank DiElsi	Policeman #2
+cast	Arell Blanton	Policeman #3
+cast	DeForest Covan	Officer #1
+cast	Charles Boswell	Officer #2
+cast	Dick Warlock	Bartender
+cast	Cheryl Wilson	Mrs. Shifrin

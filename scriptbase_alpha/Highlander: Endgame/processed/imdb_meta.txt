@@ -1,0 +1,144 @@
+year	2000
+imdb score	4.5
+meta score	21
+genre	Action
+genre	Fantasy
+genre	Sci-Fi
+keyword	immortal
+keyword	revenge
+keyword	explosion
+keyword	battle
+keyword	ravenna italy
+keyword	brother brother relationship
+keyword	big ben london
+keyword	katana sword
+keyword	ninja
+keyword	wedding
+keyword	kendo
+keyword	telekinesis
+keyword	swordsman
+keyword	motorcycle
+keyword	beheading
+keyword	london england
+keyword	sword
+keyword	immortality
+keyword	shot in the back
+keyword	1990s
+keyword	chrysler building manhattan new york city
+keyword	showdown
+keyword	mixed martial arts
+keyword	nonlinear timeline
+keyword	disarming someone
+keyword	exploding motorcycle
+keyword	good versus evil
+keyword	returning character killed off
+keyword	rooftop
+keyword	1630s
+keyword	rooftop fight
+keyword	battlefield
+keyword	lightning
+keyword	action hero
+keyword	shot in the chest
+keyword	pistol
+keyword	christ allegory
+keyword	hotel
+keyword	ireland
+keyword	sword fight
+keyword	17th century
+keyword	two man army
+keyword	kiss
+keyword	death of hero
+keyword	1550s
+keyword	brooklyn bridge
+keyword	main character dies
+keyword	shot in the shoulder
+keyword	violence
+keyword	kissing while having sex
+keyword	decapitation
+keyword	supernatural power
+keyword	mentor
+keyword	fictional war
+keyword	tommy gun
+keyword	cemetery
+keyword	tough guy
+keyword	long sword
+keyword	martial arts
+keyword	part of series
+keyword	18th century
+keyword	highlander
+keyword	levitation
+keyword	massacre
+keyword	sequel
+keyword	katana
+keyword	combat
+keyword	shotgun
+keyword	anti hero
+keyword	church
+keyword	sex
+keyword	fourth part
+keyword	mentor protégé relationship
+keyword	scotland
+keyword	fencing
+keyword	16th century
+keyword	2000s
+keyword	hero
+keyword	statue of liberty
+keyword	murder
+keyword	building
+keyword	sword duel
+keyword	sword and fantasy
+keyword	1710s
+keyword	immortal elder
+keyword	machine gun
+keyword	samurai sword
+keyword	1620s
+keyword	new york city
+keyword	death of brother
+keyword	boyfriend girlfriend relationship
+keyword	cult film
+keyword	sequel to cult favorite
+keyword	dark hero
+keyword	warrior
+keyword	exploding building
+keyword	duel
+keyword	city
+keyword	suicide
+keyword	dark fantasy
+keyword	gore
+keyword	death of friend
+cast	Adrian Paul	Duncan MacLeod
+cast	Christopher Lambert	Connor MacLeod
+cast	Bruce Payne	Jacob Kell
+cast	Lisa Barbuscia	Kate MacLeod / Faith
+cast	Donnie Yen	Jin Ke
+cast	Jim Byrnes	Joe Dawson
+cast	Peter Wingfield	Methos
+cast	Damon Dash	Carlos
+cast	Beatie Edney	Heather MacLeod
+cast	Sheila Gish	Rachel Ellenstein
+cast	Oris Erhuero	Winston
+cast	Ian Paul Cassidy	Cracker Bob
+cast	Adam Copeland	Lachlan
+cast	Mihnea Trusca	Villager
+cast	June Watson	Caiolin MacLeod
+cast	Donald Douglas	Father Rainey
+cast	Liviu Timus	Executioner
+cast	Christopher Leps	Hooded Monk
+cast	Vernon Rieta	Manny
+cast	John Medlen	Monk #1
+cast	Douglas Aarniokoski	Kirk
+cast	Thomas Lockyer	Matthew Hale
+cast	Charmian May	Lady
+cast	Paul Bigley	Knave
+cast	Daniel Parker	Puffer
+cast	Jessica Mann	Rachel #1
+cast	Robert Hewett	Photographer
+cast	Kananu Kimiri	Faith's Assistant
+cast	David Nicholls	Drunk Friend
+cast	Abigail Kingsbury	Rachel #2
+cast	Candace Hallinan	Rachel #3
+cast	Wendy Partridge	Colleague
+cast	Vasile Albinet	Head Guard
+cast	Gabi Burlacu	Monk
+cast	F. Braun McAsh	Highwayman
+cast	Tony Swift	Malaki

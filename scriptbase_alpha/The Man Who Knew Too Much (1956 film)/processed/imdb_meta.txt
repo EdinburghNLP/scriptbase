@@ -1,0 +1,167 @@
+year	1956
+imdb score	7.5
+meta score	N/A
+genre	Thriller
+keyword	assassination
+keyword	morocco
+keyword	american
+keyword	bus
+keyword	singer
+keyword	scotland yard
+keyword	restaurant
+keyword	frenchman
+keyword	murder
+keyword	doctor
+keyword	physician
+keyword	assassin
+keyword	marketplace
+keyword	british
+keyword	remake by original director
+keyword	minaret
+keyword	singing
+keyword	director cameo
+keyword	paranoia
+keyword	kidnapping
+keyword	mosque
+keyword	blockbuster
+keyword	political intrigue
+keyword	music concert
+keyword	remake
+keyword	witness
+keyword	cymbal
+keyword	marriage
+keyword	casablanca morocco
+keyword	husband wife relationship
+keyword	vacation
+keyword	london england
+keyword	hotel
+keyword	misunderstanding
+keyword	rescue
+keyword	concert
+keyword	muslim
+keyword	disguise
+keyword	bell tower
+keyword	secret agent
+keyword	police chase
+keyword	church
+keyword	symphony orchestra
+keyword	orchestra
+keyword	kitchen
+keyword	inter cultural
+keyword	contemporary setting
+keyword	sedative
+keyword	white male pretending to be black
+keyword	choir
+keyword	mother son relationship
+keyword	knifing
+keyword	veil
+keyword	child in peril
+keyword	color remake of black and white film
+keyword	blackmail
+keyword	embassy
+keyword	conspiracy
+keyword	chapel
+keyword	falling down stairs
+keyword	whistling
+keyword	chase
+keyword	dying words
+keyword	rehearsal of crime
+keyword	stabbed in the back
+keyword	tourist
+keyword	scream
+keyword	taxidermist
+keyword	north africa
+keyword	royal albert hall
+keyword	airport
+keyword	government agent
+keyword	marrakech morocco
+keyword	prime minister
+keyword	tour bus
+keyword	shooting
+keyword	ambassador
+keyword	folk dance
+keyword	police station
+keyword	camel
+keyword	knowing too much
+keyword	suspense
+keyword	spy
+keyword	veiled woman
+keyword	father son relationship
+keyword	phone booth
+keyword	macguffin
+keyword	family relationships
+keyword	six word title
+keyword	interrogation
+keyword	paris france
+keyword	sniper
+keyword	falling from height
+keyword	
+cast	James Stewart	Dr. Benjamin McKenna
+cast	Doris Day	Josephine Conway McKenna
+cast	Brenda de Banzie	Lucy Drayton
+cast	Bernard Miles	Edward Drayton
+cast	Ralph Truman	Inspector Buchanan
+cast	Daniel Gélin	Louis Bernard
+cast	Mogens Wieth	Ambassador
+cast	Alan Mowbray	Val Parnell
+cast	Hillary Brooke	Jan Peterson
+cast	Christopher Olsen	Hank McKenna
+cast	Reggie Nalder	Rien
+cast	Richard Wattis	Assistant Manager
+cast	Noel Willman	Woburn
+cast	Alix Talton	Helen Parnell
+cast	Yves Brainville	Police Inspector
+cast	Carolyn Jones	Cindy Fontaine
+cast	Patrick Aherne	Handyman
+cast	Frank Albertson	Worker at the Taxidermist's
+cast	Frank Atkinson	Taxidermist
+cast	John Barrard	Taxidermist
+cast	Betty Bascomb	Edna
+cast	Alexis Bobrinskoy	Foreign Prime Minister
+cast	Janet Bruce	Box Office Woman
+cast	Naida Buckingham	Lady in Audience
+cast	Clifford Buckton	Sir Kenneth Clarke
+cast	Barbara Burke	Assassin's Companion
+cast	Peter Camlin	Headwaiter
+cast	Albert Carrier	French Policeman
+cast	Abdelhaq Chraibi	Arab
+cast	Pauline Farr	Ambassador's Wife
+cast	Harry Fine	Edington
+cast	Bess Flowers	Royal Albert Hall Attendee
+cast	Alex Frazer	Man
+cast	Wolf Frees	Aide to Prime Minister
+cast	Milton Frome	Guard
+cast	Leo Gordon	Chauffeur
+cast	Walter Gotell	Guard
+cast	Bernard Herrmann	Conductor / Himself
+cast	Alfred Hitchcock	Man in Morocco Marketplace
+cast	Gladys Holland	Bernard's Date at Restaurant
+cast	George Howe	Ambrose Chappell Sr
+cast	Harold Kasket	Butler
+cast	Barry Keegan	Patterson
+cast	Lou Krugman	Arab
+cast	Lloyd Lamble	General Manager of Albert Hall
+cast	Donald Lawton	Desk Clerk
+cast	Enid Lindsey	Lady Clarke
+cast	Mayne Lynton	Taxidermist
+cast	Janet Macfarlane	Lady in Audience
+cast	Edward Manouk	French Waiter
+cast	Richard Marner	Aide to Prime Minister
+cast	John Marshall	Butler
+cast	Lewis Martin	Detective
+cast	Louis Mercier	French Policeman
+cast	Ralph Neff	Henchman
+cast	Leslie Newport	Inspector at Albert Hall
+cast	John O'Malley	Uniformed Attendant
+cast	Elsa Palmer	Cook
+cast	Liddell Peddieson	Taxidermist
+cast	Arthur Ridley	Ticket Collector
+cast	Mahin S. Shahrivar	Arab Woman
+cast	Eric Snowden	Special Branch Officer
+cast	Alma Taylor	Box Office Woman
+cast	Guy Verney	Footman
+cast	Anthony Warde	French Policeman
+cast	Patrick Whyte	Special Branch Officer
+cast	Peter Williams	Police Sergeant
+cast	Richard Wordsworth	Ambrose Chappell Jr
+cast	Allen Zeidman	Assistant Manager

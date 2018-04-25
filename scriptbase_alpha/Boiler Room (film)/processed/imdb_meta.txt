@@ -1,0 +1,150 @@
+year	2000
+imdb score	7.0
+meta score	63
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	judge
+keyword	casino
+keyword	stock
+keyword	career
+keyword	wealth
+keyword	stock broker
+keyword	office
+keyword	ferrari
+keyword	investment
+keyword	gay slur
+keyword	audio surveillance
+keyword	greased back hair
+keyword	criminal investigation
+keyword	racism
+keyword	father son relationship
+keyword	bankster
+keyword	hotel
+keyword	motivational speaker
+keyword	employer employee relationship
+keyword	telephone sales
+keyword	train
+keyword	white collar crime
+keyword	business suit
+keyword	redhead
+keyword	fbi
+keyword	manhattan new york city
+keyword	shaved head
+keyword	profit
+keyword	business ethics
+keyword	new york skyline
+keyword	arrest
+keyword	savings
+keyword	kitchen
+keyword	newspaper
+keyword	financial problem
+keyword	job interview
+keyword	wall street manhattan new york city
+keyword	rivalry
+keyword	necktie
+keyword	racial slur
+keyword	broken leg
+keyword	fbi agent
+keyword	blackjack game
+keyword	marriage
+keyword	liar
+keyword	scam
+keyword	long island new york
+keyword	mentor
+keyword	bridge financing
+keyword	subway
+keyword	mother son relationship
+keyword	redemption
+keyword	financial ruin
+keyword	millionaire
+keyword	voice over narration
+keyword	salesmanship
+keyword	interrogation
+keyword	pillow talk
+keyword	illegal gambling
+keyword	tragic event
+keyword	misogynist
+keyword	new york city
+keyword	photograph
+keyword	croupier
+keyword	secretary
+keyword	billiards
+keyword	watching tv
+keyword	stock salesmen
+keyword	desperation
+keyword	stock market
+keyword	childhood memory
+keyword	recital
+keyword	drug abuse
+keyword	co worker
+keyword	bar fight
+keyword	fistfight
+keyword	lie
+keyword	male bonding
+keyword	nonlinear timeline
+keyword	card playing
+keyword	bar
+keyword	diner
+keyword	break up
+keyword	violence
+keyword	moral transformation
+keyword	
+cast	Giovanni Ribisi	Seth Davis
+cast	Vin Diesel	Chris Varick
+cast	Nia Long	Abbie Halpert
+cast	Nicky Katt	Greg Weinstein
+cast	Scott Caan	Richie O'Flaherty
+cast	Ron Rifkin	Judge Marty Davis
+cast	Jamie Kennedy	Adam
+cast	Taylor Nichols	Harry Reynard
+cast	Bill Sage	FBI Agent David Drew
+cast	Tom Everett Scott	Michael Brantley
+cast	Ben Affleck	Jim Young
+cast	John Griesemer	Concierge
+cast	David Younger	Marc
+cast	Herbert Russell	Kid
+cast	Mark Webber	Kid
+cast	Christopher Fitzgerald	Kid
+cast	Donna Mitchell	Mrs. Davis
+cast	André Vippolis	Neil Davis
+cast	Jon Abrahams	Jeff
+cast	Will McCormack	Mike the Casino Patron
+cast	Jared Ryan	Casino Steve
+cast	Anson Mount	Broker
+cast	Kirk Acevedo	Broker
+cast	Seth Ullian	Broker
+cast	Eddie Malavarca	Broker
+cast	Carlo Vogel	Rude Kid
+cast	Matthew Saldivar	Series Seven Kid
+cast	Serge Skliarenko	Croatian Broker
+cast	Lisa Gerstein	Sheryl
+cast	Ross Ryman	Isaac
+cast	Marjorie Johnson	Abbie's Mother
+cast	Peter Rini	JP Morgan Broker
+cast	Raymond Pirkle	JP Morgan Broker
+cast	Joe Pretlow	JP Morgan Broker
+cast	Peter Maloney	Dr. Jacobs
+cast	Lori Yoffe	Secretary
+cast	Alex Webb	FBI Director
+cast	Gillian Sacco	Waitress at Mickey's
+cast	Donald John Hewitt	Local
+cast	Mark Moshe Bellows	John Feiner
+cast	Daniel Sauli	Broker Steve
+cast	Lucinda Clare	Trendy Hostess
+cast	Neal Lerner	Gay Restaurant Patron
+cast	Taylor Patterson	Sara Reynard
+cast	Michael McCarthy	Max Reynard
+cast	Marsha Dietlein	Susan Reynard
+cast	Joseph Tudisco	Janitor
+cast	Judy Del Giudice	Office Woman
+cast	Siobhan Fallon	Michelle, Harry's Supervisor
+cast	Delancey Birzin	Broker
+cast	Angelo Bonsignore	JP Marlin Trainee
+cast	Robert Boris	JP Marlin Trainee
+cast	Jonny Fido	JP Marlin Trainee
+cast	Robert Frannicola	Abrams
+cast	Desmond Harrington	JP Marlin Trainee
+cast	Daniel Reton	Broker
+cast	Spero Stamboulis	Todd
+cast	Ben Van Bergen	Agent Etkins

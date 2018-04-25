@@ -1,0 +1,44 @@
+year	1997
+imdb score	7.6
+meta score	N/A
+genre	Comedy
+genre	Sci-Fi
+genre	Short
+keyword	spoof
+keyword	one word title
+keyword	hand over camera lens
+keyword	police
+keyword	violence
+keyword	domestic violence
+keyword	lying to the police
+keyword	drunkenness
+keyword	stolen property
+keyword	fleeing suspect
+keyword	reality show
+keyword	voice over narration
+keyword	explosion
+keyword	shot in the back
+keyword	low budget film
+keyword	fan film
+keyword	death
+keyword	husband wife relationship
+keyword	gun
+keyword	part computer animation
+keyword	independent film
+keyword	
+cast	Dave Myers	Jawa
+cast	Steven Melching	Jawa
+cast	Matthew Myers	Jawa
+cast	Paul Pistore	Jawa / Capt. Reh Teah / Radio Dispatcher
+cast	Neil Elliot	Owen Lars
+cast	Susan Hinshaw	Beru Lars
+cast	Eric Hilleary	Capt. Jyanix Bach / Capt. Reh Teah / Boba Fett
+cast	Cam Clarke	Captain Jyanix Bach
+cast	David Max	Officer Demon Mott
+cast	Jess Harnell	Officer Demon Mott
+cast	Kenar Yegyayan	Officer Ayches Ram / Trooper HK-883
+cast	Drew Massey	Officer Ayches Ram
+cast	Caleb Skinner	Trooper HK-888
+cast	Kevin Rubio	Trooper HK-888 / Radio Dispatcher
+cast	Dave Fouquette	Trooper HK-883
+cast	Bill Farmer	Announcer

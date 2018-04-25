@@ -1,0 +1,225 @@
+year	2008
+imdb score	6.1
+meta score	35
+genre	Horror
+genre	Mystery
+genre	Thriller
+keyword	mirror
+keyword	evil
+keyword	fire
+keyword	medication
+keyword	estranged wife
+keyword	reality
+keyword	hallucination
+keyword	demon
+keyword	nypd
+keyword	alcoholism
+keyword	marriage
+keyword	night watchman
+keyword	bathtub
+keyword	ex cop
+keyword	camera
+keyword	breaking through a door
+keyword	mirror as portal
+keyword	flashlight
+keyword	mental institution
+keyword	gore
+keyword	remake
+keyword	plead for help
+keyword	abandoned building
+keyword	interracial couple
+keyword	cut hand
+keyword	birthday
+keyword	security guard
+keyword	glass
+keyword	trapped
+keyword	knife
+keyword	monastery
+keyword	title appears in writing
+keyword	ghost in mirror
+keyword	physician
+keyword	spurting blood
+keyword	death of sister
+keyword	death
+keyword	rat
+keyword	bar
+keyword	one word title
+keyword	ghost
+keyword	guilt
+keyword	husband wife relationship
+keyword	screaming in pain
+keyword	broken mirror
+keyword	police officer
+keyword	morgue
+keyword	alarm clock
+keyword	blood
+keyword	siren
+keyword	female rear nudity
+keyword	breaking a mirror
+keyword	fire engine
+keyword	running for your life
+keyword	talking to a mirror
+keyword	graffiti
+keyword	flashback
+keyword	pennsylvania
+keyword	interracial marriage
+keyword	nun
+keyword	crying man
+keyword	impalement
+keyword	father son relationship
+keyword	boy
+keyword	steam on glass
+keyword	drowning
+keyword	new york city
+keyword	thrown through a wall
+keyword	psychiatrist
+keyword	photograph
+keyword	handprint
+keyword	mother child relationship
+keyword	basement
+keyword	chase
+keyword	shard of glass
+keyword	sliced body
+keyword	woman in bath
+keyword	statue of liberty
+keyword	nude woman murdered
+keyword	child drowning
+keyword	pistol
+keyword	insanity
+keyword	convent
+keyword	remorse
+keyword	pool hall
+keyword	reflection in water
+keyword	demonic possession
+keyword	mother daughter relationship
+keyword	corpse
+keyword	pills
+keyword	car accident
+keyword	hiding in a closet
+keyword	fear
+keyword	cityscape
+keyword	looking at one's self in a mirror
+keyword	immolation
+keyword	eerie image
+keyword	cpr
+keyword	father child relationship
+keyword	psychiatric treatment
+keyword	trapped underwater
+keyword	massacre
+keyword	police car
+keyword	remake of korean film
+keyword	remote controlled toy car
+keyword	newspaper clippings
+keyword	dummy
+keyword	watching tv
+keyword	bath
+keyword	brother sister relationship
+keyword	throat slitting
+keyword	horror movie remake
+keyword	mental hospital
+keyword	exposed breast
+keyword	girl
+keyword	crushed to death
+keyword	mother son relationship
+keyword	suicide
+keyword	burned alive
+keyword	paint on glass
+keyword	psychiatric hospital
+keyword	female nudity
+keyword	jaw ripped open
+keyword	schizophrenia
+keyword	anger
+keyword	explosion
+keyword	person on fire
+keyword	subway station
+keyword	alternate reality
+keyword	interracial love
+keyword	blood spatter
+keyword	doppelganger
+keyword	marital separation
+keyword	father daughter relationship
+keyword	grief
+keyword	ambulance
+keyword	apology
+keyword	death of protagonist
+keyword	locker room
+keyword	prayer
+keyword	rural setting
+keyword	tied to a bed
+keyword	death of family
+keyword	bandage
+keyword	antiseptic
+keyword	little girl
+keyword	sprinkler system
+keyword	supernatural power
+keyword	video footage
+keyword	housemaid
+keyword	bare breasts
+keyword	artistic imagery
+keyword	video recording
+keyword	malevolent entity
+keyword	hospital
+keyword	vomit
+keyword	burned out building
+keyword	subway
+keyword	bathing
+keyword	buttocks
+keyword	tied to a chair
+keyword	estranged couple
+keyword	scissors
+keyword	child in peril
+keyword	faucet
+keyword	autopsy
+keyword	burnt face
+keyword	bartender
+keyword	gash in the face
+keyword	man crying
+keyword	closet
+keyword	crime scene
+keyword	throat cut
+keyword	jaw ripped off
+keyword	police officer killed
+keyword	possession
+keyword	mutilation
+keyword	whiskey
+keyword	nudity
+keyword	newspaper headline
+keyword	remake of asian film
+keyword	held at gunpoint
+keyword	reflection
+keyword	mirror does not reflect reality
+keyword	estranged husband
+keyword	glass shard
+keyword	nanny
+keyword	startled
+keyword	title spoken by character
+keyword	surprise ending
+cast	Kiefer Sutherland	Ben Carson
+cast	Paula Patton	Amy Carson
+cast	Cameron Boyce	Michael Carson
+cast	Erica Gluck	Daisy Carson
+cast	Amy Smart	Angela Carson
+cast	Mary Beth Peil	Anna Esseker
+cast	John Shrapnel	Lorenzo Sapelli
+cast	Jason Flemyng	Larry Byrne
+cast	Tim Ahern	Dr. Morris
+cast	Julian Glover	Robert Esseker
+cast	Josh Cole	Gary Lewis
+cast	Ezra Buzzington	Terrence Berry
+cast	Aida Doina	Rosa
+cast	Ioana Abur	Front Desk Sister
+cast	Darren Kent	Jimmy Esseker
+cast	Roz McCutcheon	Jimmy's Mother
+cast	Adina Rapiteanu	Young Anna
+cast	William Meredith	Young Doctor
+cast	Bart Sidles	Police Inspector
+cast	Cai Man	Neighbor
+cast	Jingdong Qin	Neighbor
+cast	Anca Damacus	Burning Woman
+cast	Tudor Stroescu	Delivery Man
+cast	Liliana Donici	Mirror Person
+cast	Aurelia Radulescu	Mirror Person
+cast	George Dumitrescu	Mirror Person
+cast	Irina Saulescu	Mirror Person
+cast	Valeriu Pavel	Mirror Person
+cast	Peter Sebastian Wrobel	Student

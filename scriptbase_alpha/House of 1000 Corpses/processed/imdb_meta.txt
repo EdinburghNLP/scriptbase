@@ -1,0 +1,272 @@
+year	2003
+imdb score	6.0
+meta score	31
+genre	Horror
+keyword	house
+keyword	corpse
+keyword	murder
+keyword	roadside attraction
+keyword	satanic ritual
+keyword	hitchhiker
+keyword	ritual
+keyword	cannibalism
+keyword	serial killer
+keyword	psychotic
+keyword	urban legend
+keyword	person on fire
+keyword	jack o'lantern
+keyword	actor playing multiple roles
+keyword	reference to mickey mouse
+keyword	billboard
+keyword	theatre
+keyword	murder of a police officer
+keyword	lifting someone into the air
+keyword	insanity
+keyword	phone booth
+keyword	tattoo
+keyword	face paint
+keyword	tunnel
+keyword	female serial killer
+keyword	coffin
+keyword	cave
+keyword	thief
+keyword	mental retardation
+keyword	killer clown
+keyword	missing person
+keyword	nightmare
+keyword	cult director
+keyword	pit
+keyword	home movie
+keyword	police car
+keyword	tied to a bed
+keyword	lantern
+keyword	rape
+keyword	pig
+keyword	mask
+keyword	breaking through a door
+keyword	poem
+keyword	road trip
+keyword	burn victim
+keyword	old dark house
+keyword	shot in the back
+keyword	funhouse
+keyword	slasher
+keyword	breaking a car window
+keyword	reference to ed gein
+keyword	trick or treat
+keyword	character says i love you
+keyword	body in a trunk
+keyword	dream
+keyword	deputy
+keyword	halloween
+keyword	mental hospital
+keyword	digit in title
+keyword	tied up
+keyword	freak
+keyword	liquor store
+keyword	death of boyfriend
+keyword	reference to john wayne
+keyword	brother sister relationship
+keyword	torso cut in half
+keyword	hiding in a car
+keyword	torture
+keyword	rifle
+keyword	mounted animal head
+keyword	lightning
+keyword	madness
+keyword	straight edge razor
+keyword	clown face
+keyword	halloween costume
+keyword	severed head
+keyword	underground
+keyword	watching tv
+keyword	shot in the face
+keyword	music score composed by director
+keyword	map
+keyword	cave in
+keyword	hanging
+keyword	pistol
+keyword	long take
+keyword	rain
+keyword	cult figure
+keyword	chase
+keyword	theft
+keyword	gas mask
+keyword	dunce cap
+keyword	police lieutenant
+keyword	cult film
+keyword	shot in the head
+keyword	giant
+keyword	thong
+keyword	museum
+keyword	split screen
+keyword	drinking and driving
+keyword	family relationships
+keyword	reference to jayne mansfield
+keyword	stabbed in the chest
+keyword	buried alive
+keyword	candlelight
+keyword	shooting out tire
+keyword	neck brace
+keyword	fried chicken
+keyword	sleeping in a car
+keyword	creature feature
+keyword	burnt body
+keyword	photograph
+keyword	tied to a chair
+keyword	kidnapping
+keyword	knife in the chest
+keyword	sex
+keyword	cheerleader
+keyword	rapist
+keyword	mass murder
+keyword	stabbed to death
+keyword	severed hand
+keyword	commercial
+keyword	needle
+keyword	reverse negative
+keyword	dark comedy
+keyword	psycho
+keyword	attempted robbery
+keyword	subjective camera
+keyword	dead woman with eyes open
+keyword	duct tape over mouth
+keyword	walkie talkie
+keyword	gore
+keyword	shotgun
+keyword	ghoul
+keyword	shot to death
+keyword	revolver
+keyword	reference to nancy drew
+keyword	depravity
+keyword	character repeating someone else's dialogue
+keyword	flashback
+keyword	evil man
+keyword	critically bashed
+keyword	tv news
+keyword	boyfriend girlfriend relationship
+keyword	gas station
+keyword	cemetery
+keyword	fear
+keyword	grave
+keyword	bare chested male
+keyword	dancing
+keyword	hidden gun
+keyword	raised middle finger
+keyword	masked man
+keyword	clown makeup
+keyword	father daughter relationship
+keyword	surrealism
+keyword	reference to charles manson
+keyword	held at gunpoint
+keyword	fire
+keyword	1970s
+keyword	dumb criminal
+keyword	topless female nudity
+keyword	fetus in a jar
+keyword	sheriff
+keyword	serial rapist
+keyword	mental illness
+keyword	evil clown
+keyword	shot in the forehead
+keyword	evil doctor
+keyword	axe
+keyword	spotlight
+keyword	father son relationship
+keyword	character's point of view camera shot
+keyword	flatulence
+keyword	scalping
+keyword	year 1977
+keyword	crushed to death
+keyword	shed
+keyword	skull
+keyword	cross
+keyword	night vision
+keyword	broken windshield
+keyword	shot in the neck
+keyword	reference to donald duck
+keyword	blood
+keyword	skeleton
+keyword	tape recorder
+keyword	jealousy
+keyword	death
+keyword	psychedelic
+keyword	knife throwing
+keyword	man with glasses
+keyword	severed face
+keyword	body landing on a car
+keyword	auto mechanic
+keyword	tv host
+keyword	maniac
+keyword	sadism
+keyword	captive
+keyword	gash in the face
+keyword	stocking cap
+keyword	tow truck
+keyword	bound and gagged
+keyword	car accident
+keyword	no survivors
+keyword	female rear nudity
+keyword	monster
+keyword	newsreel footage
+keyword	intestines
+keyword	madman
+keyword	beating
+keyword	hit with a baseball bat
+keyword	knife
+keyword	mannequin
+keyword	cult film
+keyword	tourist attraction
+keyword	mother daughter relationship
+keyword	violence
+keyword	nickname
+keyword	disappearance
+keyword	radio dj
+keyword	hallucination
+keyword	head brace
+keyword	rabbit costume
+keyword	seduction
+keyword	graveyard
+keyword	hand cut off
+keyword	missing person poster
+keyword	blood splatter
+keyword	victim invited to dinner
+keyword	human monster
+keyword	threatened with a knife
+keyword	funeral
+keyword	slow motion scene
+keyword	death of father
+keyword	independent film
+keyword	number in title
+keyword	surprise ending
+keyword	
+cast	Chad Bannon	Killer Karl
+cast	William Bassett	Sheriff Frank Huston
+cast	Karen Black	Mother Firefly
+cast	Erin Daniels	Denise Willis
+cast	Joe Dobbs III	Gerry Ober
+cast	Judith Drake	Skunk Ape Wife
+cast	Dennis Fimple	Grampa Hugo
+cast	Gregg Gibbs	Dr. Wolfenstein
+cast	Walton Goggins	Steve Naish
+cast	Sid Haig	Captain Spaulding
+cast	Chris Hardwick	Jerry Goldsmith
+cast	Ken Johnson	Skunk Ape Husband
+cast	Jennifer Jostyn	Mary Knowles
+cast	Irwin Keyes	Ravelli
+cast	Matthew McGrory	Tiny
+cast	Jake McKinnon	The Professor
+cast	Sheri Moon Zombie	Baby
+cast	Bill Moseley	Otis
+cast	Irvin Mosley Jr.	Lewis Dover
+cast	Robert Allen Mukes	Rufus
+cast	Walter Phelan	Dr. Satan
+cast	Michael J. Pollard	Stucky
+cast	David Reynolds	Richard Wick
+cast	Tom Towles	George Wydell
+cast	Rainn Wilson	Bill Hudley
+cast	Harrison Young	Don Willis
+cast	Samantha Larsen	Sex slave
+cast	Bob Pepper	Tow Truck Driver
+cast	Freddy Waff	Mental Patient
+cast	Rob Zombie	Dr. Wolfenstein's assistant

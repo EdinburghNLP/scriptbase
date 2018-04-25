@@ -1,0 +1,87 @@
+year	1997
+imdb score	7.4
+meta score	61
+genre	Mystery
+genre	Sci-Fi
+genre	Thriller
+keyword	trap
+keyword	maze
+keyword	room
+keyword	stranger
+keyword	escape
+keyword	danger
+keyword	wrongful imprisonment
+keyword	claustrophobia
+keyword	unsolved mystery
+keyword	first of series
+keyword	canadian science fiction
+keyword	black cop
+keyword	stabbed in the back
+keyword	red light
+keyword	bleeding to death
+keyword	cut into pieces
+keyword	mathematics
+keyword	murder
+keyword	slamming a door
+keyword	severed leg
+keyword	urination
+keyword	tragedy
+keyword	severed arm
+keyword	reference to george orwell's 1984
+keyword	lifting someone into the air
+keyword	survival
+keyword	lone survivor
+keyword	boots
+keyword	allegory
+keyword	knifing
+keyword	reference to big brother
+keyword	locked in a room
+keyword	blood on shirt
+keyword	trapped in a room
+keyword	labyrinth
+keyword	paranoia
+keyword	severed head
+keyword	factors
+keyword	survival horror
+keyword	crushed to death
+keyword	stabbed in the chest
+keyword	existentialism
+keyword	leg ripped off
+keyword	cult film
+keyword	police officer killed
+keyword	acid
+keyword	kidnapping
+keyword	irony
+keyword	killed by a policeman
+keyword	gore
+keyword	low budget film
+keyword	escape artist
+keyword	one word title
+keyword	alternative reality
+keyword	nihilism
+keyword	puzzle
+keyword	single set production
+keyword	surrealism
+keyword	death
+keyword	prime numbers
+keyword	falling from height
+keyword	huis clos
+keyword	imprisonment
+keyword	sole survivor
+keyword	booby trap
+keyword	lifting female in air
+keyword	autistic savant
+keyword	beating
+keyword	melting face
+keyword	police
+keyword	autism
+keyword	independent film
+keyword	title spoken by character
+keyword	surprise ending
+cast	Maurice Dean Wint	Quentin
+cast	David Hewlett	Worth
+cast	Nicole de Boer	Leaven
+cast	Nicky Guadagni	Holloway
+cast	Andrew Miller	Kazan
+cast	Julian Richings	Alderson
+cast	Wayne Robson	Rennes

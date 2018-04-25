@@ -1,0 +1,134 @@
+year	1971
+imdb score	8.1
+meta score	N/A
+genre	Comedy
+genre	Drama
+keyword	funeral
+keyword	suicide
+keyword	death
+keyword	junkyard
+keyword	fake suicide
+keyword	swimming pool
+keyword	ruins
+keyword	existentialism
+keyword	anti conformity
+keyword	tollbooth
+keyword	dinner party
+keyword	may december romance
+keyword	actress
+keyword	free spirit
+keyword	misfit
+keyword	san francisco bay area california
+keyword	hospital
+keyword	hearse
+keyword	anti war protest
+keyword	old woman
+keyword	black comedy
+keyword	love
+keyword	would be suicide
+keyword	art model
+keyword	tadpoling
+keyword	premarital sex
+keyword	mansion
+keyword	fireworks
+keyword	nihilism
+keyword	severed hand
+keyword	blowing bubbles
+keyword	model train
+keyword	jaguar car
+keyword	cult film
+keyword	car falling off a cliff
+keyword	hanging
+keyword	marriage proposal
+keyword	stopped by police
+keyword	austrian american
+keyword	hookah
+keyword	tree
+keyword	fake hanging
+keyword	police chase
+keyword	pinball machine
+keyword	birthday party
+keyword	cemetery
+keyword	dysfunctional family
+keyword	depression
+keyword	california
+keyword	amputee
+keyword	sculpture
+keyword	singing
+keyword	player piano
+keyword	afi
+keyword	alienation
+keyword	car as a gift
+keyword	elderly
+keyword	obsession
+keyword	lost love
+keyword	nude modeling
+keyword	holocaust survivor
+keyword	military cemetery
+keyword	computer dating
+keyword	widow
+keyword	volkswagen beetle
+keyword	railroad car
+keyword	old age
+keyword	intergenerational friendship
+keyword	throat slitting
+keyword	older woman younger man relationship
+keyword	general
+keyword	catholic church
+keyword	banjo
+keyword	ambulance
+keyword	wrecking ball
+keyword	1970s
+keyword	mother son relationship
+keyword	forest
+keyword	bathtub
+keyword	amusement park
+keyword	death obsession
+keyword	uncle nephew relationship
+keyword	auto theft
+keyword	flower
+keyword	motorcycle cop
+keyword	driving off a cliff
+keyword	hanged boy
+keyword	unlikely lovers
+keyword	seppuku
+keyword	youth
+keyword	priest
+keyword	reference to shakespeare's romeo and juliet
+keyword	eccentric
+keyword	joie de vivre
+keyword	coming of age
+keyword	el camino
+keyword	self immolation
+keyword	opposites attract
+keyword	midnight movie
+keyword	psychoanalysis
+keyword	breaking the fourth wall
+keyword	hara kiri
+keyword	character name in title
+cast	Ruth Gordon	Maude
+cast	Bud Cort	Harold
+cast	Vivian Pickles	Mrs. Chasen
+cast	Cyril Cusack	Glaucus
+cast	Charles Tyner	Uncle Victor
+cast	Ellen Geer	Sunshine Doré
+cast	Eric Christmas	Priest
+cast	G. Wood	Psychiatrist
+cast	Judy Engles	Candy Gulf
+cast	Shari Summers	Edith Phern
+cast	Tom Skerritt	Motorcycle Officer
+cast	Susan Madigan	Girlfriend
+cast	Ray K. Goman	Police Officer
+cast	Gordon Devol	Police Officer
+cast	Harvey Brumfield	Police Officer
+cast	Henry Dieckoff	Butler
+cast	Philip Schultz	Doctor
+cast	Sonia Sorel	Head Nurse
+cast	Margot Jones	Student Nurse
+cast	Barry Higgins	Intern
+cast	Hal Ashby	Bearded Man Watching Model Train
+cast	Michael L. Davis	Policeman
+cast	Marjorie Eaton	Madame Arouet
+cast	William Lucking	Policeman
+cast	Jerry Randall	
+cast	Cat Stevens	Man in Front of Maude at Funeral

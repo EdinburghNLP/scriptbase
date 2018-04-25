@@ -1,0 +1,244 @@
+year	1992
+imdb score	7.2
+meta score	28
+genre	Mystery
+genre	Thriller
+keyword	murder
+keyword	fbi
+keyword	fbi agent
+keyword	sex
+keyword	violence
+keyword	prequel
+keyword	investigation
+keyword	teenage girl
+keyword	prostitute
+keyword	friendship
+keyword	brutality
+keyword	writer director
+keyword	experimental film
+keyword	prostitution
+keyword	female friendship
+keyword	blood
+keyword	personality change
+keyword	pantyhose
+keyword	female bare legs
+keyword	tragic female character
+keyword	high school student
+keyword	cigarette smoking
+keyword	female bare feet
+keyword	taking control of someone's body
+keyword	nonlinear timeline
+keyword	jealous boyfriend
+keyword	blue light
+keyword	year 1988
+keyword	surrealism
+keyword	enigma
+keyword	dream
+keyword	washington state
+keyword	hallucination
+keyword	missing person
+keyword	crying
+keyword	small town
+keyword	police
+keyword	looking at self in mirror
+keyword	murder investigation
+keyword	fire
+keyword	avant garde
+keyword	produced by director
+keyword	agoraphobia
+keyword	unintelligible dialogue with subtitles
+keyword	nudity
+keyword	deception
+keyword	based on cult tv series
+keyword	redemption
+keyword	singer acting
+keyword	club
+keyword	based on tv series
+keyword	road rage
+keyword	double life
+keyword	erratic behavior
+keyword	cult movie cast
+keyword	deliberate cruelty
+keyword	bed
+keyword	cult male character
+keyword	dysfunctional family
+keyword	death
+keyword	television smashing
+keyword	despair
+keyword	serial killer
+keyword	high school friend
+keyword	lesbian subtext
+keyword	sadness
+keyword	salvation
+keyword	bare breasts
+keyword	woman putting on makeup
+keyword	red room
+keyword	psychopath
+keyword	violent death
+keyword	strong sexual content
+keyword	cult film
+keyword	camera shot of feet
+keyword	schizophrenia
+keyword	woman in jeopardy
+keyword	cult female character
+keyword	red curtain
+keyword	filicide
+keyword	waitress uniform
+keyword	sexual abuse
+keyword	mental illness
+keyword	craze
+keyword	monkey
+keyword	secret
+keyword	prequel to cult favorite
+keyword	female in lingerie
+keyword	possession
+keyword	telephone
+keyword	mental instability
+keyword	white horse
+keyword	friendship between girls
+keyword	father daughter relationship
+keyword	obscene finger gesture
+keyword	foot closeup
+keyword	screaming
+keyword	supernatural power
+keyword	dark
+keyword	corpse
+keyword	year 1989
+keyword	multiple personality
+keyword	cocaine
+keyword	fingernail
+keyword	high school
+keyword	returning character with different actor
+keyword	darkness
+keyword	traffic light
+keyword	rough sex
+keyword	gore
+keyword	blonde
+keyword	evil spirit
+keyword	1980s
+keyword	mynah bird
+keyword	mother daughter relationship
+keyword	rape
+keyword	drug dealer
+keyword	seduction
+keyword	dual personality
+keyword	female lead
+keyword	female stockinged soles
+keyword	boyfriend girlfriend relationship
+keyword	philadelphia pennsylvania
+keyword	dead girl
+keyword	mysterious forest
+keyword	deja vu
+keyword	corruption
+keyword	mysterious death
+keyword	strong female character
+keyword	pacific northwest
+keyword	crime scene
+keyword	implied cunnilingus
+keyword	investigator
+keyword	topless female nudity
+keyword	dwarf
+keyword	diary
+keyword	split personality
+keyword	abandoned train
+keyword	suffering
+keyword	mysterious events
+keyword	vision
+keyword	night
+keyword	inner demon
+keyword	talking backwards
+keyword	angel
+keyword	female nudity
+keyword	double
+keyword	doppelganger
+keyword	incest
+keyword	log lady
+keyword	reference to j. edgar hoover
+keyword	moon
+keyword	female stockinged legs
+keyword	canada
+keyword	one armed man
+keyword	independent film
+keyword	actor shares first name with character
+keyword	
+cast	Sheryl Lee	Laura Palmer
+cast	Ray Wise	Leland Palmer
+cast	Mädchen Amick	Shelly Johnson
+cast	Dana Ashbrook	Bobby Briggs
+cast	Phoebe Augustine	Ronette Pulaski
+cast	David Bowie	Phillip Jeffries
+cast	Eric DaRe	Leo Johnson
+cast	Miguel Ferrer	Albert Rosenfeld
+cast	Pamela Gidley	Teresa Banks
+cast	Heather Graham	Annie Blackburn
+cast	Chris Isaak	Special Agent Chester Desmond
+cast	Moira Kelly	Donna Hayward
+cast	Peggy Lipton	Norma Jennings
+cast	David Lynch	Gordon Cole
+cast	James Marshall	James Hurley
+cast	Jürgen Prochnow	Woodsman
+cast	Harry Dean Stanton	Carl Rodd
+cast	Kiefer Sutherland	Sam Stanley
+cast	Lenny von Dohlen	Harold Smith
+cast	Grace Zabriskie	Sarah Palmer
+cast	Kyle MacLachlan	Special Agent Dale Cooper
+cast	Frances Bay	Mrs. Tremond
+cast	Catherine E. Coulson	The Log Lady
+cast	Michael J. Anderson	Man From Another Place
+cast	Frank Silva	Bob
+cast	Walter Olkewicz	Jacques Renault
+cast	Al Strobel	Philip Gerard
+cast	Gary Hershberger	Mike Nelson
+cast	Sandra Kinder	Irene at Hap's
+cast	Chris Pedersen	Tommy
+cast	Victor Rivers	Buck
+cast	Rick Aiello	Cliff Howard
+cast	Gary Bullock	Sheriff Cable
+cast	Jon Huck	FBI Agent
+cast	Mike Malone	FBI Agent
+cast	Joe Berman	Bus Driver
+cast	Yvonne Roberts	First Prostitute
+cast	Audra L. Cooper	Second Prostitute
+cast	John Hoobler	Pilot
+cast	Kimberly Ann Cole	Lil the Dancer
+cast	Elizabeth McCarthy	Giggling Secretary
+cast	C.H. Evans	Jack at Hap's
+cast	Paige Bennett	French Girl at Hap's
+cast	G. Kenneth Davidson	Old Guy at Hap's
+cast	Ingrid Brucato	Curious Woman
+cast	Chuck McQuary	Medic
+cast	Margaret Adams	Fat Trout Neighbor
+cast	Carlton Lee Russell	Jumping Man
+cast	Calvin Lockhart	The Electrician
+cast	Jonathan J. Leppell	Mrs. Tremond's Grandson
+cast	David Brisbin	Second Woodsman
+cast	Andrea Hays	Heidi
+cast	Julee Cruise	Roadhouse Singer
+cast	Steven Hodges	Band at Roadhouse
+cast	William Ungerman	Band at Roadhouse
+cast	Joseph 'Simon' Szeibert	Band at Roadhouse
+cast	Smokey Hormel	Band at Roadhouse
+cast	Joseph L. Altruda	Band at Roadhouse
+cast	James Parks	Service Station Mechanic
+cast	Jane Jones	School Teacher
+cast	Karin Robison	Angel in Train Car
+cast	Lorna MacMillan	Angel in Red Room
+cast	Robert Bauer	Johnny Horne
+cast	Joan Chen	Jocelyn Packard
+cast	Jan D'Arcy	Sylvia Horne
+cast	Don S. Davis	Maj. Garland Briggs
+cast	Mary Jo Deschanel	Eileen Hayward
+cast	Warren Frost	Dr. Will Hayward
+cast	Harry Goaz	Deputy Andy Brennan
+cast	Michael Horse	Deputy Hawk
+cast	David Patrick Kelly	Jerry Horne
+cast	Everett McGill	Big Ed Hurley
+cast	Jack Nance	Pete Martell
+cast	Michael Ontkean	Sheriff Harry S. Truman
+cast	Kimmy Robertson	Lucy Moran
+cast	Wendy Robie	Nadine Hurley
+cast	Charlotte Stewart	Betty Briggs
+cast	Russ Tamblyn	Dr. Lawrence Jacoby
+cast	Philip Anagnos	Student
+cast	Anne Gaybis	Dancer on Stage in 'Pink Room'
+cast	John Nelson	Double R Diner Customer

@@ -1,0 +1,273 @@
+year	1991
+imdb score	6.9
+meta score	N/A
+genre	Action
+genre	Comedy
+genre	Crime
+genre	Mystery
+genre	Thriller
+keyword	detective
+keyword	football
+keyword	stallion
+keyword	murder
+keyword	stripper
+keyword	martial arts
+keyword	organized crime
+keyword	beating
+keyword	face slap
+keyword	showdown
+keyword	blood
+keyword	gun
+keyword	shot to death
+keyword	dysfunctional marriage
+keyword	ambush
+keyword	wisecrack humor
+keyword	gangster
+keyword	framed for murder
+keyword	fistfight
+keyword	bomb
+keyword	exotic dancer
+keyword	self sacrifice
+keyword	black comedy
+keyword	cuckold
+keyword	cigarette smoking
+keyword	police shootout
+keyword	blood splatter
+keyword	daughter
+keyword	shoulder holster
+keyword	comeuppance
+keyword	body landing on a car
+keyword	knife
+keyword	gun duel
+keyword	child uses a gun
+keyword	falling from height
+keyword	action hero
+keyword	title appears in writing
+keyword	los angeles california
+keyword	bullet ballet
+keyword	shot in the chest
+keyword	pump action shotgun
+keyword	revolver
+keyword	mother daughter relationship
+keyword	adultery
+keyword	switchblade
+keyword	tough guy
+keyword	shotgun
+keyword	money
+keyword	psychopath
+keyword	profanity
+keyword	sniper
+keyword	shot in the head
+keyword	shot in the leg
+keyword	kidnapping
+keyword	helicopter
+keyword	gambling
+keyword	1990s
+keyword	los angeles memorial coliseum
+keyword	bare chested male
+keyword	shot in the forehead
+keyword	gun battle
+keyword	pistol whip
+keyword	black quarterback
+keyword	strong language
+keyword	cynicism
+keyword	pistol
+keyword	street shootout
+keyword	puppet
+keyword	stabbed in the leg
+keyword	neo noir
+keyword	blackmail
+keyword	threatened with a knife
+keyword	brutality
+keyword	death of girlfriend
+keyword	betrayal by friend
+keyword	two man army
+keyword	cocaine
+keyword	self loathing
+keyword	hit by a car
+keyword	cut into pieces
+keyword	braces
+keyword	harassment
+keyword	dog
+keyword	violence
+keyword	brawl
+keyword	death
+keyword	assassination attempt
+keyword	quick draw
+keyword	assault
+keyword	bloody nose
+keyword	graphic violence
+keyword	shootout
+keyword	punched in the nose
+keyword	fireplace
+keyword	tough cop
+keyword	child with gun
+keyword	police officer
+keyword	explosion
+keyword	cult film
+keyword	melrose avenue los angeles
+keyword	american football
+keyword	gunfight
+keyword	senator
+keyword	shootout
+keyword	held at gunpoint
+keyword	gun fu
+keyword	stabbed in the throat
+keyword	gun kata
+keyword	karate chop
+keyword	car in a swimming pool
+keyword	dysfunctional family
+keyword	hidden weapon
+keyword	combat
+keyword	killed by a propeller
+keyword	former athlete
+keyword	husband wife relationship
+keyword	gore
+keyword	semiautomatic pistol
+keyword	secret service
+keyword	cop
+keyword	m 16
+keyword	duel
+keyword	gay slur
+keyword	shot in the hand
+keyword	leather pants
+keyword	sniper rifle
+keyword	anti hero
+keyword	buddy
+keyword	mean boss
+keyword	misogyny
+keyword	exploding car
+keyword	bully
+keyword	exit wound
+keyword	dancing a jig
+keyword	kicked in the crotch
+keyword	african american
+keyword	captive
+keyword	limousine
+keyword	exploding house
+keyword	child in peril
+keyword	self referential
+keyword	chase
+keyword	killing an animal
+keyword	political corruption
+keyword	machismo
+keyword	suicide
+keyword	broken nose
+keyword	shot in the back
+keyword	bar
+keyword	punched in the face
+keyword	alcoholic
+keyword	hero
+keyword	football player
+keyword	desert eagle .50
+keyword	car accident
+keyword	colt .45
+keyword	topless female nudity
+keyword	car bomb
+keyword	murder of a police officer
+keyword	disarming someone
+keyword	drug addiction
+keyword	c4 explosives
+keyword	nose pushed into brain
+keyword	mob hit
+keyword	f word
+keyword	taser
+keyword	action violence
+keyword	karate
+keyword	carnage
+keyword	gun sau
+keyword	interracial friendship
+keyword	conspiracy
+keyword	father daughter relationship
+keyword	shot in the shoulder
+keyword	slow motion scene
+keyword	death of family
+keyword	maverick cop
+keyword	car chase
+keyword	repeated line
+keyword	alley fight
+keyword	police detective hero
+keyword	bully comeuppance
+keyword	buddy cop
+keyword	framed
+keyword	private detective
+keyword	machine gun
+keyword	hitman
+keyword	opening action scene
+keyword	bloodbath
+keyword	six shooter
+keyword	actor shares first name with character
+keyword	
+cast	Bruce Willis	Joe Hallenbeck
+cast	Damon Wayans	Jimmy Dix
+cast	Chelsea Field	Sarah Hallenbeck
+cast	Noble Willingham	Sheldon Marcone
+cast	Taylor Negron	Milo
+cast	Danielle Harris	Darian Hallenbeck
+cast	Halle Berry	Cory
+cast	Bruce McGill	Mike Matthews
+cast	Badja Djola	Alley Thug
+cast	Kim Coates	Chet
+cast	Chelcie Ross	Senator Baynard
+cast	Joe Santos	Bessalo
+cast	Clarence Felder	McCaskey
+cast	Tony Longo	Big Ray Walton
+cast	Frank Collison	Pablo
+cast	Bill Medley	Himself
+cast	Verne Lundquist	Himself
+cast	Dick Butkus	Himself
+cast	Lynn Swann	Himself
+cast	Billy Blanks	Billy Cole
+cast	Ken Kells	Head Coach
+cast	Morris Chestnut	Locker Room Kid
+cast	Michael J. Fisher	Wounded Player
+cast	Doug Simpson	Wounded Player
+cast	Joe El Rady	Kid
+cast	David L. McMillan	Kid
+cast	Benjamin Agee	Kid
+cast	Donna W. Scott	Sleeping Party Girl
+cast	Denise Ames	Jacuzzi Party Girl
+cast	Frank Kopyc	Neighbor
+cast	Teal Roberts	Dancer
+cast	Sara Suzanne Brown	Dancer
+cast	Ryan Cutrona	Harp
+cast	Eddie Griffin	M.C.
+cast	John Cenatiempo	Main Hitman
+cast	Michael Papajohn	Hitman
+cast	Matt Johnston	Ponytail Hitman
+cast	Edmund Villa	Property Cop
+cast	James Keane	Garage Patrolman
+cast	Jack Kehler	Scrabble Man
+cast	Duke Valenti	Jake
+cast	Dennis Garber	Detective
+cast	Manny Perry	Cigar Thug
+cast	Vic Manni	Granddad Thug
+cast	Frank Ferrara	Milo's Goon
+cast	Erik Onate	T.V. Crew Member
+cast	Robert Apisa	Baynard's Bodyguard
+cast	Shane Dixon	Baynard's Bodyguard
+cast	Rick Ducommun	Pool Owner
+cast	E. Brian Dean	Stadium Guard
+cast	Dick Ziker	Marcone's Goon
+cast	Fred Lerner	Marcone's Goon
+cast	John Meier	Marcone's Goon
+cast	Don Pulford	Marcone's Goon
+cast	Dennis Packer	Field Announcer
+cast	Gene Borkan	Stadium Cop
+cast	Kevin Bourland	Stadium Cop
+cast	Jeff Hochendoner	Henry
+cast	Steve Picerni	Helicopter Cop
+cast	Craig A. Pinckes	Presidential Assassin
+cast	Carmine Zozzora	Secret Service Man
+cast	Theresa St. Clair	Shower Girl
+cast	Ed Beheler	The President
+cast	Colby Kline	Young Darian
+cast	Robert M. Bouffard	Police Officer
+cast	Kristin Coppola	T.V. Camera Woman
+cast	A.J. DiSpirito	Football Player
+cast	James Gandolfini	Marcones Henchman
+cast	Anne Lockhart	Football Mom
+cast	Ray K. Morris	Football Player
+cast	Patrick Russo	Police Officer
+cast	Julie K. Smith	Dancer
+cast	USC Trojan Marching Band	Themselves

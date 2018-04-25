@@ -1,0 +1,10 @@
+logline	A film about the life and career of the eccentric avant-garde comedian, Andy Kaufman.
+tagline	"Hello, my name is Andy and this is my poster."
+tagline	Hello, my name is Andy and this is my DVD." [DVD release]
+tagline	Hello, my name is Andy and this is my video." [video release]
+tagline	"Hello, my name is Andy and this is my Bus" [Bus Poster]
+tagline	"Hello, my name is Andy and this is my Banner" [Web Banner Ads]
+tagline	"Hello, my name is Andy and this is my movie."
+tagline	"Hello, my name is Andy and people are talking about me!"
+tagline	"Hello, my name is Andy and this is my soundtrack." (sound track)
+tagline	"Hello, my name is Andy and this is my website."  (official site)

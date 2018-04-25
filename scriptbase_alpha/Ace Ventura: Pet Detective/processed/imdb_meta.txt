@@ -1,0 +1,153 @@
+year	1994
+imdb score	6.9
+meta score	37
+genre	Comedy
+keyword	dolphin
+keyword	mascot
+keyword	animal
+keyword	detective
+keyword	shark
+keyword	undercover
+keyword	fire
+keyword	jackass
+keyword	swat team
+keyword	raspy voice
+keyword	fundraiser
+keyword	fish
+keyword	landlord
+keyword	farce
+keyword	held at gunpoint
+keyword	revolver
+keyword	colon in title
+keyword	stupidity
+keyword	owner dog relationship
+keyword	immature adult
+keyword	slapstick comedy
+keyword	murder
+keyword	private detective
+keyword	film set
+keyword	bra
+keyword	four word title
+keyword	nudity
+keyword	hostage
+keyword	death metal
+keyword	male nudity
+keyword	crime scene
+keyword	kidnapping
+keyword	chloroform
+keyword	disguise
+keyword	male full back nudity
+keyword	lifting someone into the air
+keyword	monkey
+keyword	1990s
+keyword	mangina
+keyword	bodyguard
+keyword	police
+keyword	car trouble
+keyword	man dressed as a woman
+keyword	shower
+keyword	gross out comedy
+keyword	underwear
+keyword	impostor
+keyword	ass
+keyword	squirrel
+keyword	mental institution
+keyword	police station
+keyword	crude humor
+keyword	nightclub
+keyword	police detective
+keyword	gasoline
+keyword	ring
+keyword	car chase
+keyword	insult
+keyword	cat
+keyword	white panties
+keyword	aquarium
+keyword	cross dresser
+keyword	american football
+keyword	wheelchair
+keyword	bullet catching
+keyword	bare butt
+keyword	cult film
+keyword	female cop
+keyword	bird
+keyword	sex scene
+keyword	revenge
+keyword	love hate relationship
+keyword	shootout
+keyword	newspaper headline
+keyword	gay
+keyword	obscene finger gesture
+keyword	talking through one's buttocks
+keyword	male rear nudity
+keyword	dog
+keyword	master dog relationship
+keyword	panties
+keyword	knocked out
+keyword	boy dog relationship
+keyword	miami florida
+keyword	professional sports
+keyword	white bra
+keyword	penis
+keyword	gay kiss
+keyword	transvestism
+keyword	super bowl
+keyword	human animal relationship
+keyword	mansion
+keyword	cult film
+keyword	character name in title
+keyword	title spoken by character
+keyword	
+cast	Jim Carrey	Ace Ventura
+cast	Courteney Cox	Melissa Robinson
+cast	Sean Young	Lt. Lois Einhorn
+cast	Tone Loc	Emilio
+cast	Dan Marino	Himself
+cast	Noble Willingham	Riddle
+cast	Troy Evans	Roger Podacter
+cast	Raynor Scheine	Woodstock
+cast	Udo Kier	Ron Camp
+cast	Frank Adonis	Vinnie
+cast	Tiny Ron	Roc
+cast	David Margulies	Doctor
+cast	John Capodice	Sgt. Aguado
+cast	Judy Clayton	Martha Mertz
+cast	Bill Zuckert	Mr. Finkle
+cast	Alice Drummond	Mrs. Finkle
+cast	Rebecca Ferratti	Sexy Woman
+cast	Mark Margolis	Mr. Shickadance
+cast	Antoni Corone	Reporter #1
+cast	Margo Peace	Reporter #2
+cast	Randall 'Tex' Cobb	Gruff Man
+cast	Henry Landivar	Burnout
+cast	Florence Mistrot	Neighbor
+cast	Robert Ferrell	Carlson
+cast	Will Knickerbocker	Manager
+cast	Gary Munch	Director
+cast	Terry Miller	Assistant Director
+cast	John Archie	Reporter #3
+cast	Cristina Karman	Reporter #4
+cast	Tom Wahl	Reporter #5
+cast	Herbert Goldstein	Crazy Guy
+cast	Chaz Mena	Another Cop
+cast	Manuel L. García	Dolphin Trainer
+cast	Don Shula	Miami Dolphin
+cast	Scott Mitchell	Miami Dolphin
+cast	Peter Stoyanovich	Miami Dolphin
+cast	Dwight Stephenson	Miami Dolphin
+cast	Jeff Uhlenhake	Miami Dolphin
+cast	Jeff Dellenbach	Miami Dolphin
+cast	Marco Coleman	Miami Dolphin
+cast	Kim Bokamper	Miami Dolphin
+cast	Jeff Cross	Miami Dolphin
+cast	Chris Barnes	Thrasher Band 'Cannibal Corpses'
+cast	Alex Webster	Thrasher Band 'Cannibal Corpses'
+cast	Paul Mazurkiewicz Jr.	Thrasher Band 'Cannibal Corpses'
+cast	Jack Owen	Thrasher Band 'Cannibal Corpses'
+cast	Robert Barrett	Thrasher Band 'Cannibal Corpses'
+cast	Bubba Baker	Toothless Giant
+cast	Vince Cecere	Stadium Vendor
+cast	Robert Deacon	Redneck #1
+cast	Dominic Jack Pizzo Sr.	Football Player
+cast	Michelle Russo	Fan Catching Football
+cast	Laird Stuart	Superbowl Referee

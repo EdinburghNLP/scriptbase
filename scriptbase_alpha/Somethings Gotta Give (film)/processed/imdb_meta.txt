@@ -1,0 +1,297 @@
+year	2003
+imdb score	6.8
+meta score	66
+genre	Comedy
+genre	Romance
+keyword	doctor
+keyword	heart attack
+keyword	love
+keyword	beach
+keyword	age difference
+keyword	beach house
+keyword	dating
+keyword	hospital
+keyword	weekend
+keyword	love triangle
+keyword	senior citizen
+keyword	nurse
+keyword	bachelor
+keyword	los angeles california
+keyword	title directed by female
+keyword	cigar smoking
+keyword	erection
+keyword	pregnancy
+keyword	gurney
+keyword	flashback
+keyword	manischewitz
+keyword	falling out of bed
+keyword	teacher
+keyword	afghanistan
+keyword	auctioneer
+keyword	jealousy
+keyword	blood pressure
+keyword	artery
+keyword	candle
+keyword	spinster
+keyword	topless female nudity
+keyword	ice cream cone
+keyword	boat
+keyword	told in flashback
+keyword	cigarette smoking
+keyword	theatre production
+keyword	viagra
+keyword	chateau margot the wine
+keyword	bra
+keyword	bare breasts
+keyword	flirting
+keyword	neurotic
+keyword	flowers
+keyword	christie's auction house
+keyword	doctor patient relationship
+keyword	lawyer
+keyword	aging
+keyword	bridge
+keyword	sense of smell
+keyword	baby
+keyword	staircase
+keyword	cherries
+keyword	knife
+keyword	male nudity
+keyword	french
+keyword	party
+keyword	dinner
+keyword	aspirin
+keyword	intentionally misspelled title
+keyword	new york city
+keyword	eyeglasses
+keyword	drinking
+keyword	writer
+keyword	accidentally looking at naked person
+keyword	butt slap
+keyword	lightning
+keyword	bryn mawr college
+keyword	ecg
+keyword	restaurant
+keyword	caribbean
+keyword	product placement
+keyword	actress
+keyword	laptop computer
+keyword	snow
+keyword	hip hop
+keyword	father daughter relationship
+keyword	drink
+keyword	sex
+keyword	opposites attract
+keyword	libido
+keyword	belching
+keyword	pajamas
+keyword	magazine
+keyword	auction
+keyword	reference to diane sawyer
+keyword	birthday cake
+keyword	rap music
+keyword	nipples
+keyword	ekg
+keyword	chauvinism
+keyword	electrocardiogram
+keyword	columbia university
+keyword	voice over narration
+keyword	undressing
+keyword	boyfriend girlfriend relationship
+keyword	spaghetti
+keyword	crying
+keyword	wheelchair
+keyword	kiss
+keyword	professor
+keyword	marriage
+keyword	photo album
+keyword	playboy
+keyword	old maid
+keyword	manhattan new york city
+keyword	instant messaging
+keyword	female nudity
+keyword	cell phone
+keyword	written by director
+keyword	playwright
+keyword	computer
+keyword	911
+keyword	limousine
+keyword	fiend
+keyword	commitment
+keyword	wine auction
+keyword	bedroom
+keyword	reference to joan collins
+keyword	reference to carly simon
+keyword	city
+keyword	chauvinist
+keyword	montage
+keyword	grocery store
+keyword	picnic
+keyword	website
+keyword	soul mate
+keyword	pancake
+keyword	sixty something
+keyword	record label
+keyword	birthday
+keyword	stairs
+keyword	champagne
+keyword	aunt niece relationship
+keyword	produced by director
+keyword	happy birthday
+keyword	monogamy
+keyword	female frontal nudity
+keyword	reference to martha stewart
+keyword	women's studies
+keyword	rain
+keyword	reference to joan rivers
+keyword	theatre director
+keyword	paris france
+keyword	telephone call
+keyword	husband wife relationship
+keyword	mother daughter relationship
+keyword	wine
+keyword	true love
+keyword	feminism
+keyword	pajama party
+keyword	i.v.
+keyword	reference to lillian hellman
+keyword	taxi
+keyword	cafe
+keyword	old woman
+keyword	lipitor
+keyword	internet
+keyword	seine river
+keyword	midnight snack
+keyword	personal assistant
+keyword	art auction
+keyword	hospital gown
+keyword	nudity
+keyword	thirty something
+keyword	menopause
+keyword	reference to freud
+keyword	reference to new york magazine
+keyword	wealth
+keyword	reference to marvin gaye
+keyword	scissors
+keyword	three word title
+keyword	sparkler
+keyword	anxiety attack
+keyword	tylenol
+keyword	le grand colbert paris
+keyword	hamptons long island new york
+keyword	balloon
+keyword	fifty something
+keyword	date
+keyword	tea
+keyword	play rehearsal
+keyword	tears
+keyword	university of pennsylvania
+keyword	reference to mr. midnight
+keyword	older woman younger man relationship
+keyword	hyperventilation
+keyword	sister sister relationship
+keyword	mouth to mouth resuscitation
+keyword	chat room
+keyword	emergency room
+keyword	photograph
+keyword	broadway manhattan new york city
+keyword	reference to kaufman and hart
+keyword	broken heart
+keyword	reference to the man who came to dinner the play
+keyword	ambulance
+keyword	drunkenness
+keyword	bed
+keyword	nitroglycerin
+keyword	rivalry
+keyword	may december romance
+keyword	divorce
+keyword	older man younger woman relationship
+keyword	death
+keyword	record company
+keyword	cook
+keyword	fired from the job
+keyword	machismo
+keyword	bare butt
+keyword	sleeping
+keyword	e mail
+keyword	friendship
+keyword	chest pains
+keyword	
+cast	Jack Nicholson	Harry Sanborn
+cast	Diane Keaton	Erica Barry
+cast	Keanu Reeves	Julian Mercer
+cast	Frances McDormand	Zoe
+cast	Amanda Peet	Marin
+cast	Jon Favreau	Leo
+cast	Paul Michael Glaser	Dave
+cast	Rachel Ticotin	Dr. Martinez
+cast	Paige Butcher	Beauty
+cast	Tanya Sweet	Beauty
+cast	Kristine Szabo	Beauty
+cast	Daniella Van Graas	Beauty
+cast	Tamara Spoelder	Beauty
+cast	Sonja Francis	Beauty
+cast	Vanessa Trump	Beauty
+cast	Kathy Tong	Beauty
+cast	Marjie Gum	French Girl in Market
+cast	Jennifer Siebel Newsom	Younger Woman in Market
+cast	Robert Frank Telfer	Older Man in Market
+cast	Beatrice Quinn	Lady in Market
+cast	Connie Sawyer	Lady in Market
+cast	Lorraine Nicholson	Young Girl in Market
+cast	Ara Anton	Paramedic
+cast	Melette Le Blanc-Cabot	Hamptons Nurse
+cast	Suzanne Dizon	Hamptons Nurse
+cast	Audrey Wasilewski	Hamptons Nurse
+cast	Roxanne Beckford	Hamptons Nurse
+cast	Robin Pearson Rose	Hamptons Nurse
+cast	Tania Deighton	Harry's Assistant
+cast	Nicki Norris	Harry's Assistant
+cast	Lorna Scott	Mrs. Gimble
+cast	T.J. Thyne	Waiter
+cast	KaDee Strickland	Kristen
+cast	Tayrene Mugridge	Harry's Dinner Date
+cast	Elayn J. Taylor	NYC Nurse
+cast	Conroe Brooks	NYC Nurse
+cast	Taylor Block	Young Patient
+cast	Melissa Keller	Party Guest
+cast	Genelle Frenoy	Party Guest
+cast	Nichole Hiltz	Harry's Lunch Date
+cast	Leslie Upson	Broadway Actress
+cast	Patrick Fischler	Stage Manager
+cast	Lewis Dauber	Actor in Cast Photo
+cast	Julia Sanford	Actor in Cast Photos
+cast	Jamie Bullock	Actor in Cast Photos
+cast	Peter Spears	Danny Benjamin
+cast	Michelle Fabiano	Harry's Old Flame
+cast	Catherine McGoohan	Harry's Old Flame
+cast	Blaine Allen	Harry's Old Flame
+cast	Julia Rose	Harry's Old Flame
+cast	Joan Adelle Nelson	Harry's Old Flame
+cast	Cindy Joseph	Harry's Old Flame
+cast	Alexandra Neil	Harry's Old Flame
+cast	Susan Misner	Harry's Old Flame
+cast	Sean Smith	Maitre'd
+cast	María Esquivel	Hostess
+cast	Madelyn Kennedy	Marin's Baby
+cast	Raney Kennedy	Marin's Baby
+cast	Cass Asher	ER Patient
+cast	Shashi Balooja	Bartender
+cast	Vanna Bonta	ER Nurse
+cast	Alan Charof	Beaten Man
+cast	Troy Christian	Dancer
+cast	André Crudo	Man in Hotel Lobby
+cast	John Dalton	Waiter
+cast	Deborah Daulton-Morton	Christie's Auction Goer
+cast	Ayse Eldek	Restaurant Patron
+cast	Elisabeth Granli	Young, Slinky Girl
+cast	Adèle Jacques	Ritz Concierge
+cast	Larry Lane	Karaoke Twin
+cast	Lynne Langdon	Market Shopper
+cast	Daniel A. Lopez	Cafe Patron
+cast	Matthew McCullough	Christie's Auction Goer
+cast	Jennifer Montague	Party Guest
+cast	Scott Alan Taylor	Emergency Room Nurse
+cast	John H. Tobin	Limo Driver
+cast	Scott R. Tomasso	Restaurant Socialite
+cast	Kevin Watson	Himself

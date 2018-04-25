@@ -1,0 +1,88 @@
+year	1993
+imdb score	6.4
+meta score	N/A
+genre	Action
+genre	Drama
+genre	Sport
+keyword	angst
+keyword	attempted rape
+keyword	american football
+keyword	football coach
+keyword	quarterback
+keyword	sports team
+keyword	steroids
+keyword	college quarterbacks
+keyword	football movie
+keyword	teenager
+keyword	young love
+keyword	lying down in the middle of a road
+keyword	motorcycle
+keyword	college football
+keyword	durham north carolina
+keyword	football team
+keyword	college life
+keyword	father son relationship
+keyword	teacher student relationship
+keyword	coach
+keyword	college sports
+keyword	independent film
+keyword	title spoken by character
+keyword	
+cast	James Caan	Sam Winters
+cast	Halle Berry	Autumn Haley
+cast	Omar Epps	Darnell Jefferson
+cast	Craig Sheffer	Joe Kane
+cast	Kristy Swanson	Camille Shafer
+cast	Abraham Benrubi	Bud-Lite Kaminski
+cast	Duane Davis	Alvin Mack
+cast	Jon Pennell	Bobby Collins
+cast	Joey Lauren Adams	Louanne
+cast	J.C. Quinn	Joe's Father
+cast	Andrew Bryniarski	Steve Lattimer
+cast	Leon Pridgen	Ray Griffen
+cast	Michael Flippo	Coach Humes
+cast	Jeff Portell	Reporter #1
+cast	Ernest Dixon	Coach Clayton
+cast	George Rogers	Coach Myers
+cast	Bernard Mixon	Reverend Wallace
+cast	Mary Holloway	Alvin's Mother
+cast	Steven Griffith	Joe's Brother
+cast	George Nannarello	Advisor Smith
+cast	Jason Byce	Athletic Director Howard
+cast	Mindy Bell	Sharon Braver
+cast	Jim Fyfe	Nichols
+cast	Jason Jenks	Alvin's Tutor
+cast	Bob Neal	Brad Harvey
+cast	Albert Haynes	Mississippi Tailback
+cast	Andre Farr	Mississippi Tackle
+cast	Jed Oldenburg	History T.A.
+cast	Lynn Swann	Himself
+cast	Bo Schembechler	Himself
+cast	Robert Fuller	Tim Waymen
+cast	Al Wiggins	Mr. Haley
+cast	Lynelle Lawrence	Leslie
+cast	Julia Miller	Debbi
+cast	Patrick Robert Smith	Debbi's Boyfriend
+cast	Dan Hannafin	Regent Chairman
+cast	Charles Portney	Richard Fowler
+cast	John Bennes	Edward Learnihan
+cast	Charles Lawlor	Charles Shane
+cast	Deanna Perry	Rehab Nurse
+cast	Tim Parati	Steroids Dealer
+cast	Robert D. Raiford	Chancellor Wilson
+cast	George Lee	Fat Cat Alumnus
+cast	Chris Berman	Himself
+cast	Leslie Broucker	Trainer
+cast	Roger Bright	E.S.U. Doctor
+cast	J. Don Ferguson	Referee
+cast	Rhoda Griffis	Reporter #3
+cast	Steve Zabriskie	Himself
+cast	John R. Murphy	History Professor
+cast	Robert Hook	Trainer
+cast	Tracy Fowler	Orderly
+cast	James Furey	ECU Sideline Equipment Boy
+cast	T.J. Healy II	Coach
+cast	Scott Holroyd	
+cast	Jody Millard	Mississippi Linebacker
+cast	Elizabeth Slagsvol	Photographer
+cast	Al Whiting	ESU Wide Receiver #88

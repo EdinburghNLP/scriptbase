@@ -1,0 +1,218 @@
+year	1994
+imdb score	7.2
+meta score	63
+genre	Action
+genre	Thriller
+keyword	terrorist
+keyword	agent
+keyword	secret
+keyword	used car salesman
+keyword	secret agent
+keyword	mission
+keyword	spy
+keyword	affair
+keyword	nuclear weapons
+keyword	weapon
+keyword	tango
+keyword	top secret
+keyword	washington d.c.
+keyword	government agent
+keyword	fight in car
+keyword	anti terrorism
+keyword	woman with glasses
+keyword	femme fatale
+keyword	hit with a telephone
+keyword	artifact
+keyword	secret mission
+keyword	kneed in the groin
+keyword	catfight
+keyword	gadget
+keyword	heavy rain
+keyword	trailer home
+keyword	machine gun
+keyword	infidelity
+keyword	secret service
+keyword	extremism
+keyword	shot in the forehead
+keyword	remake
+keyword	liar
+keyword	blood spatter
+keyword	gadgetry
+keyword	girl in bra and panties
+keyword	mounted police
+keyword	1990s
+keyword	buddy
+keyword	undercover
+keyword	hero
+keyword	dysfunctional family
+keyword	terrorist plot
+keyword	rose
+keyword	counter terrorism
+keyword	chinatown
+keyword	double agent
+keyword	truck falling into water
+keyword	picking lock
+keyword	panties
+keyword	gun hidden in a camera
+keyword	spy hero
+keyword	intelligence agent
+keyword	intelligence
+keyword	ski mask
+keyword	x rayed skeleton
+keyword	humiliation
+keyword	mass murder
+keyword	wetting pants
+keyword	spying
+keyword	exploding car
+keyword	surveillance
+keyword	action hero
+keyword	running out of ammo
+keyword	reference to rambo
+keyword	villainess
+keyword	thong
+keyword	bra
+keyword	honesty
+keyword	uzi
+keyword	kickboxing
+keyword	champagne
+keyword	violence
+keyword	shot to death
+keyword	terrorist base
+keyword	intelligence agency
+keyword	spy film
+keyword	sitting on a toilet
+keyword	automobile
+keyword	tapped phone
+keyword	grenade launcher
+keyword	shot in the arm
+keyword	krav maga
+keyword	truth serum
+keyword	unsubtitled foreign language
+keyword	hand to hand combat
+keyword	remake of french film
+keyword	james bond spoof
+keyword	snow
+keyword	interrogation
+keyword	hit in the crotch
+keyword	undercover men
+keyword	neo noir
+keyword	kidnapped daughter
+keyword	karate
+keyword	terrorist bombing
+keyword	jackhammer
+keyword	urination
+keyword	undercover agent
+keyword	black bra
+keyword	breaking a mirror
+keyword	spy spoof
+keyword	wet cement
+keyword	french accent
+keyword	blockbuster
+keyword	hidden truth
+keyword	martial arts
+keyword	child in peril
+keyword	espionage
+keyword	character repeating someone else's dialogue
+keyword	cheating wife
+keyword	father daughter relationship
+keyword	camcorder
+keyword	kidnapping
+keyword	murderous fantasy
+keyword	black bra and panties
+keyword	subjective camera
+keyword	stabbed in the eye
+keyword	dance
+keyword	hostage
+keyword	high tech
+keyword	flamethrower
+keyword	seduction
+keyword	terrorism
+keyword	blue danube waltz
+keyword	blowtorch
+keyword	explosion
+keyword	striptease
+keyword	knife throwing
+keyword	woman punching a man
+keyword	trenchcoat
+keyword	computer cracker
+keyword	lie
+keyword	florida keys
+keyword	motorcycle
+keyword	gunfight
+keyword	criminal syndicate
+keyword	shot in the chest
+keyword	exploding helicopter
+keyword	neck breaking
+keyword	shootout
+keyword	female removes her dress
+keyword	black comedy
+keyword	unfaithfulness
+keyword	falling into water
+keyword	snowglobe
+keyword	blackmail
+keyword	marriage
+keyword	shot in the leg
+keyword	two way mirror
+keyword	anti arab
+keyword	divorcee
+keyword	power abuse
+keyword	slut
+keyword	extramarital affair
+keyword	helicopter
+keyword	gadget car
+keyword	mushroom cloud
+keyword	terrorist group
+keyword	gun
+keyword	gash in the face
+keyword	car dealer
+keyword	hidden camera
+keyword	seven mile bridge
+keyword	man punching a woman
+keyword	
+cast	Arnold Schwarzenegger	Harry Tasker
+cast	Jamie Lee Curtis	Helen Tasker
+cast	Tom Arnold	Albert Gibson
+cast	Bill Paxton	Simon
+cast	Tia Carrere	Juno Skinner
+cast	Art Malik	Salim Abu Aziz
+cast	Eliza Dushku	Dana Tasker
+cast	Grant Heslov	Faisil
+cast	Charlton Heston	Spencer Trilby
+cast	Marshall Manesh	Jamal Khaled
+cast	James Allen	Colonel
+cast	Dieter Rauter	Boathouse Guard
+cast	Jane Morris	Janice
+cast	Katsy Chappell	Allison
+cast	Crystina Wyler	Charlene
+cast	Ofer Samra	Yusif
+cast	Paul Barselou	Old Guy in Bathroom
+cast	Charles A. Tamburro	Helicopter Pilot
+cast	Jean-Claude Parachini	Jean-Claude
+cast	Uzi Gal	Lead Terrorist
+cast	Majed Ibrahim	High Rise Terrorist
+cast	Armen Ksajikian	Juno's Chauffeur
+cast	Mike Akrawi	Jihad Cameraman
+cast	Mike Cameron	Citation Pilot
+cast	Charles Cragin	Samir
+cast	Louai Mardini	Bread Van Terrorist #1
+cast	Gino Salvano	Bread Van Terrorist #2
+cast	Scott Dotson	Harrier Pilot
+cast	Tom Isbell	Reporter at High Rise
+cast	John Bruno	Custodian
+cast	Joe Abby	Man on Escalator
+cast	Tony De Leon	Terrorist
+cast	Mary A. DeBriae	Swiss Aristocrat
+cast	Kim Giancaterino	Restaurant Patron
+cast	Brian N. Hoff	Snowboarder
+cast	Al Kamarr	Terriorist Henchman to Salim Abu Aziz
+cast	Sergio Kato	Bread Van Terrorist #3
+cast	Dave Knight	Downtown Miami Pedestrian
+cast	Takao Komine	Party Goer
+cast	Jody Millard	Hotel Clerk
+cast	Andre Nirmel	Subway Customer
+cast	Erik Parillo	French Chef
+cast	Manny Perry	Bass Player
+cast	Charlie Picerni	Man in Hotel Lobby
+cast	William Shipman	Office Worker
+cast	Matt Sigloch	SWAT Team Leader
+cast	Mark Winn	Arab Terrorist

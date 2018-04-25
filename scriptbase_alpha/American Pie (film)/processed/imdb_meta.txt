@@ -1,0 +1,224 @@
+year	1999
+imdb score	7.0
+meta score	58
+genre	Comedy
+genre	Romance
+keyword	prom
+keyword	prom night
+keyword	virginity
+keyword	friend
+keyword	pie
+keyword	high school
+keyword	internet
+keyword	party
+keyword	graduation
+keyword	misfit
+keyword	underage sex
+keyword	girl in panties
+keyword	keg party
+keyword	male nudity
+keyword	panties pulled down
+keyword	sexual attraction
+keyword	panties hit the floor
+keyword	beer
+keyword	male masturbation
+keyword	sex with food
+keyword	reference to casanova
+keyword	two word title
+keyword	sexual desire
+keyword	premature ejaculation
+keyword	teenage girl
+keyword	semen
+keyword	vomit
+keyword	defloration
+keyword	older woman younger man relationship
+keyword	scantily clad female
+keyword	teenage boy
+keyword	white panties
+keyword	destiny
+keyword	cunnilingus
+keyword	stripping
+keyword	girl stripped down to panties
+keyword	hedonism
+keyword	milf
+keyword	bare breasts
+keyword	bully
+keyword	fellatio
+keyword	scatological humor
+keyword	sex with an apple pie
+keyword	first time sex
+keyword	female frontal nudity
+keyword	webcam
+keyword	wetting pants
+keyword	pool table
+keyword	nudity
+keyword	idealism
+keyword	female nudity
+keyword	fairy tale
+keyword	underage drinking
+keyword	food in title
+keyword	sex on pool table
+keyword	cult film
+keyword	exchange student
+keyword	stupidity
+keyword	title based on song
+keyword	outcast
+keyword	orgasm
+keyword	country name in title
+keyword	self discovery
+keyword	voyeur
+keyword	teenager nudity
+keyword	choir
+keyword	topless female nudity
+keyword	superglue
+keyword	oral sex
+keyword	spy camera
+keyword	public nudity
+keyword	panties
+keyword	striptease
+keyword	foolish
+keyword	copulation
+keyword	sex comedy
+keyword	watching pornography
+keyword	leg spreading
+keyword	first of series
+keyword	mini dress
+keyword	cult film
+keyword	nipples visible through clothing
+keyword	female removes her clothes
+keyword	lacrosse
+keyword	four best friends
+keyword	masturbation
+keyword	coming of age
+keyword	angst
+keyword	fable
+keyword	push up bra
+keyword	no panties
+keyword	caught masturbating
+keyword	video camera
+keyword	defecation
+keyword	male bonding
+keyword	poetic justice
+keyword	band camp
+keyword	diarrhea
+keyword	females talking about sex
+keyword	voyeurism
+keyword	loss of virginity
+keyword	innocence
+keyword	father son relationship
+keyword	female masturbation
+keyword	hidden camera
+keyword	sexual promiscuity
+keyword	peeping tom
+keyword	nipples
+keyword	idiot
+keyword	lust
+keyword	student
+keyword	1990s
+keyword	redemption
+keyword	coitus
+keyword	teen angst
+keyword	cleavage
+keyword	gross out humor
+keyword	teen movie
+keyword	crude humor
+keyword	mini skirt
+cast	Jason Biggs	Jim Levenstein
+cast	Chris Klein	Chris 'Oz' Ostreicher
+cast	Thomas Ian Nicholas	Kevin Myers
+cast	Alyson Hannigan	Michelle Flaherty
+cast	Shannon Elizabeth	Nadia
+cast	Tara Reid	Victoria 'Vicky' Lathum
+cast	Eddie Kaye Thomas	Paul Finch
+cast	Seann William Scott	Steve Stifler
+cast	Eugene Levy	Jim's Dad
+cast	Natasha Lyonne	Jessica
+cast	Mena Suvari	Heather
+cast	Jennifer Coolidge	Stifler's Mom
+cast	Chris Owen	Chuck Sherman
+cast	Eric Lively	Albert
+cast	Molly Cheek	Jim's Mom
+cast	Lawrence Pressman	Coach Marshall
+cast	Clyde Kusatsu	English Teacher
+cast	Christina Milian	Band Member
+cast	Woody Schultz	Party Guy
+cast	Casey Erklin	Drinking Buddy
+cast	Annika Hays	Party Girl
+cast	Eden Riegel	Sarah, the Sophomore Chick
+cast	Justin Isfeld	Justin, 'MILF' Guy #1
+cast	John Cho	John, 'MILF' Guy #2
+cast	Veronica Lauren	Vocal Jazz Girl
+cast	Monica McSwain	Vocal Jazz Girl
+cast	Fletcher Sheridan	Vocal Jazz Group
+cast	Robyn Roth	Vocal Jazz Group
+cast	Jamar Cargo	Vocal Jazz Group
+cast	Akuyoe Graham	Vocal Jazz Teacher
+cast	Katie Lansdale	Enthralled Girl
+cast	Jay Rossi	Sushi Customer
+cast	Linda Gehringer	Vicky's Mom
+cast	Ashton Dane	Vicky's Dad
+cast	Sasha Barrese	Courtney, the Random Cute Girl
+cast	Eli Marienthal	Matt Stifler
+cast	Travis Cody Aimer	Computer Nerd
+cast	Mark Hoppus	Garage Band Member
+cast	Thomas DeLonge	Garage Band Member
+cast	Daniel Spink	Guy with Monkey
+cast	James DeBello	Enthusiastic Guy
+cast	Amber Phillips	Computer Girl
+cast	Clementine Ford	Computer Girl
+cast	Hilary Angelo	Girl Holding Out
+cast	Jasmine Stocken	Bathroom Girl
+cast	Jillian Bach	Bathroom Girl
+cast	David Kuhn	Prom Band Singer
+cast	Dan Coronel	Lacrosse Referee
+cast	Pete Pallad	Lacrosse Referee
+cast	J.D. Doyle	Lacrosee Referee
+cast	Lito Coronel	Lacrosse Referee
+cast	Markus Botnick	Assistant Lacrosse Coach
+cast	Robby Murakami	Lacrosse Player
+cast	Addison Krantz	Lacrosse Player
+cast	Alex Nies	Lacrosse Player
+cast	Roger Sewell	Lacrosse Player
+cast	Donald J. Collins	Lacrosse Player
+cast	Ryan Bates	Lacrosse Player
+cast	Joe Park	Lacrosse Player
+cast	Walter Toole	Lacrosse Player
+cast	Travis Petraglia	Lacrosse Player
+cast	Richard Schoenberg	Lacrosse Player
+cast	Amon Button	Lacrosse Player
+cast	Steven Hopkins	Lacrosse Player
+cast	Peter McPartlin	Lacrosse Player
+cast	Sean Elder	Lacrosse Player
+cast	Sean Whitacre	Lacrosse Player
+cast	Jon Mark Fabiano	Lacrosse Player
+cast	Ian Televik	Lacrosse Player
+cast	Joshua Mele	Lacrosse Player
+cast	Gian Caputo	Lacrosse Player
+cast	Garret Kellenberger	Lacrosse Player
+cast	Timothy Sovay	Lacrosse Player
+cast	Steven McAfoose	Lacrosse Player
+cast	Kevin Tidgewell	Lacrosse Player
+cast	Jesse Patterson	Lacrosse Player
+cast	Jeff Schwartz	Lacrosse Player
+cast	Chris Loudos	Lacrosse Player
+cast	Lyle Tomlinson	Lacrosse Player
+cast	Sami Atayan	Lacrosse Player
+cast	Kurt Zimmerman	Lacrosse Player
+cast	Tom Christian	Lacrosse Player
+cast	Dustan Beitey	Lacrosse Player
+cast	Chris McGnie	Lacrosse Player
+cast	Tri C. Nuguyen	Lacrosse Player
+cast	Kirk Lamitie	Lacrosse Player
+cast	Todd Samuel Parker	Lacrosse Player
+cast	Alexandra Adi	Central Michigan University Girl
+cast	Casey Affleck	Tom Myers
+cast	Jennifer Austin	Friend
+cast	Travis Barker	Garage Band Member
+cast	Ingrid K. Behrens	Female Voice in Porn Film
+cast	Mark Eugene Garcia	Friend
+cast	Jim Henry	Lacrosse Player
+cast	Melissa Noble	Prom Band Geek
+cast	Jami Philbrick	Guy with Headphones on in Lunch Line
+cast	Marilyn Staley	T.V. Hostess
+cast	Tara Subkoff	College Girl
+cast	Chris Weitz	Male Voice in Porn Film

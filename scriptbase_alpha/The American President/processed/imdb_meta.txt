@@ -1,0 +1,137 @@
+year	1995
+imdb score	6.8
+meta score	67
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	senator
+keyword	lobbyist
+keyword	state dinner
+keyword	love
+keyword	politics
+keyword	u.s. president
+keyword	widower
+keyword	chief of staff
+keyword	picture of ulysses s grant
+keyword	christmas
+keyword	reference to julius caesar
+keyword	political humor
+keyword	state of the union address
+keyword	news conference
+keyword	reference to woodrow wilson
+keyword	camp david
+keyword	reference to martin van bueren
+keyword	cult film
+keyword	washington d.c.
+keyword	reference to cassius
+keyword	political campaign
+keyword	diplomatic reception
+keyword	reference to franklin d roosevelt
+keyword	portrait of william howard taft
+keyword	single parent
+keyword	speech writer
+keyword	dating
+keyword	u.s. house of representatives
+keyword	reference to brutus
+keyword	sister sister relationship
+keyword	virginia ham
+keyword	environmentalist
+keyword	portrait of andrew jackson
+keyword	reference to marie antoinette
+keyword	florist
+keyword	reference to frank capra
+keyword	politician
+keyword	playing pool
+keyword	gun control
+keyword	bouquet of roses
+keyword	presidential election
+keyword	reference to king louis xvi
+keyword	u.s. senator
+keyword	liberal
+keyword	reference to thomas jefferson
+keyword	portrait of a president
+keyword	reference to james buchanen
+keyword	florist shop
+keyword	flag burning
+keyword	press secretary
+keyword	reference to arthur murray
+keyword	reference to dwight d eisenhower
+keyword	portrait of john f. kennedy
+keyword	oval office
+keyword	political consultant
+keyword	idealism
+keyword	trombone
+keyword	environmental issues
+keyword	white house
+cast	Michael Douglas	President Andrew Shepherd
+cast	Annette Bening	Sydney Ellen Wade
+cast	Martin Sheen	A.J. MacInerney
+cast	Michael J. Fox	Lewis Rothschild
+cast	Anna Deavere Smith	Robin McCall
+cast	Samantha Mathis	Janie Basdin
+cast	Shawna Waldron	Lucy Shepherd
+cast	David Paymer	Leon Kodak
+cast	Anne Haney	Mrs. Chapil
+cast	Richard Dreyfuss	Senator Bob Rumson
+cast	Nina Siemaszko	Beth Wade
+cast	Wendie Malick	Susan Sloan
+cast	Beau Billingslea	Agent Cooper
+cast	Gail Strickland	Esther MacInerney
+cast	Joshua Malina	David
+cast	Clement von Franckenstein	President René Jean D'Astier
+cast	Efrat Lavie	Madame Monique Danielle D'Astier
+cast	John Mahoney	Leo Solomon
+cast	Taylor Nichols	Stu
+cast	John Mahon	Chairman of the Joint Chiefs
+cast	Tom Dahlgren	Defense Secretary
+cast	Ralph Meyering Jr.	General
+cast	Kurt Boesen	Security Advisor
+cast	Joseph Latimore	Secret Service Agent
+cast	Darryl Alan Reed	Secret Service Agent
+cast	Andrew Steel	Secret Service Agent
+cast	Jordan Lund	Carl
+cast	Richard McGonagle	Rumson Staffer
+cast	Frank Cavestani	Rumson Staffer
+cast	Richard Stahl	Rumson Staffer
+cast	Alice Kushida	Carol
+cast	Renee Faia	Lisa
+cast	Beans Morocco	Doorkeeper
+cast	Kathryn Ish	Education Secretary
+cast	Kamilah Martin	Flower Girl
+cast	Augie Blunt	Groundskeeper
+cast	Thom Barry	Guard
+cast	Steve Gonzales	Housing & Urban Development Secretary
+cast	Gabriel Jarret	Jeff
+cast	Karen Maruyama	Leo's Secretary
+cast	Nancy Kandal	Leslie
+cast	George Murdock	Congressman
+cast	Bernie McInerney	Congressman Millman
+cast	Jack Gilroy	Congressman Pennybaker
+cast	Matthew Saks	Congressional Staffer
+cast	Googy Gress	Gil
+cast	Ron Canada	Lloyd, Reporter
+cast	Brian Pietro	Reporter
+cast	Rick Garcia	Reporter
+cast	Aaron Sorkin	Aide in Bar
+cast	Kymberly Newberry	Sally
+cast	Greg Poland	Mark
+cast	Jennifer Crystal Foley	Maria, White House Staffer
+cast	Arthur Senzy	Deputy
+cast	Nick Toth	White House Aide
+cast	Jorge Noa	White House Aide
+cast	Maud Winchester	White House Aide
+cast	Jeffrey Anderson	TV News Anchor
+cast	Suzanne Michaels	TV News Anchor
+cast	Mark Thompson	Kenneth Michaels
+cast	David Drew Gallagher	New Guy
+cast	Todd Odom	Secret Service Agent
+cast	Michael G. Alexander	Color Guard Officer
+cast	Leslie Bega	Laura Staf
+cast	Anthony Backman	Senator from Arizona
+cast	Arthur Eckdahl	TV Anchor
+cast	Jill Gable	Lobbyist
+cast	Matthew James Gulbranson	White House Military Aide
+cast	Mark Norris	Reporter
+cast	Roger Steffens	Radio Announcer
+cast	Helen Thomas	Herself
+cast	Ray Uhler	Senator

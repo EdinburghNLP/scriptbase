@@ -1,0 +1,232 @@
+year	2010
+imdb score	8.1
+meta score	79
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	ballerina
+keyword	dancer
+keyword	swan lake
+keyword	ballet
+keyword	dance
+keyword	new york city
+keyword	overbearing mother
+keyword	competition
+keyword	madness
+keyword	bulimia
+keyword	choreographer
+keyword	applying makeup
+keyword	red eyes
+keyword	bloody scratch
+keyword	rage
+keyword	woman in a bath
+keyword	surrealism
+keyword	mental illness
+keyword	knocked out
+keyword	lincoln center for the performing arts manhattan new york city
+keyword	ecstasy
+keyword	color in title
+keyword	garbage chute
+keyword	toilet
+keyword	masturbation
+keyword	dream sequence
+keyword	lesbian cunnilingus
+keyword	dance show
+keyword	murder
+keyword	grand guignol
+keyword	vomit
+keyword	animal metamorphosis
+keyword	lesbian sex
+keyword	toenail
+keyword	character repeating someone else's dialogue
+keyword	walking on tiptoes
+keyword	death on stage
+keyword	mirror does not reflect reality
+keyword	tiptoe
+keyword	stabbed in the stomach
+keyword	music box
+keyword	champagne glass
+keyword	incinerator
+keyword	falling from height
+keyword	artist
+keyword	jealousy
+keyword	lipstick on mirror
+keyword	man groping a woman
+keyword	playing violin
+keyword	biting lip
+keyword	bouquet
+keyword	toe shoes
+keyword	manhattan new york city
+keyword	split toenail
+keyword	audition
+keyword	perfectionist
+keyword	bar
+keyword	ambiguous ending
+keyword	breaking a mirror
+keyword	fear
+keyword	female masturbation
+keyword	lesbian kiss
+keyword	rehearsal
+keyword	weight loss
+keyword	domineering mother
+keyword	hospital
+keyword	drinking
+keyword	clipping fingernails
+keyword	reflection in window
+keyword	cigarette case
+keyword	lipstick
+keyword	no opening credits
+keyword	slow motion scene
+keyword	slow motion
+keyword	mirror
+keyword	taxi
+keyword	self destructiveness
+keyword	skin ripping
+keyword	cake
+keyword	mental rehearsal
+keyword	applause
+keyword	thinness
+keyword	nightclub
+keyword	paranoia
+keyword	sexual repression
+keyword	modifying equipment
+keyword	mentor protégé relationship
+keyword	door slammed on hand
+keyword	woman wearing towel
+keyword	obscene gesture
+keyword	animal in title
+keyword	bite
+keyword	no panties
+keyword	f word
+keyword	disturbed individual
+keyword	self destruction
+keyword	two word title
+keyword	stage
+keyword	forced kiss
+keyword	lesbian fantasy
+keyword	cigarette smoking
+keyword	heavy petting
+keyword	pink grapefruit
+keyword	blood
+keyword	fingering
+keyword	woman in bathtub
+keyword	groping
+keyword	nail file
+keyword	kissing
+keyword	bleeding
+keyword	behind the scenes
+keyword	camera shot of feet
+keyword	eating disorder
+keyword	partial female nudity
+keyword	drunkenness
+keyword	dance audition
+keyword	obsession
+keyword	cutting fingernails
+keyword	premiere
+keyword	painting
+keyword	theatre audience
+keyword	actress breaking typecast
+keyword	dressing room
+keyword	panties
+keyword	drug use
+keyword	rash
+keyword	bird in title
+keyword	cunnilingus
+keyword	camera focus on female butt
+keyword	dancing shoe
+keyword	caught masturbating
+keyword	tranformation
+keyword	pokies
+keyword	tattoo
+keyword	corpse
+keyword	stretching
+keyword	hallucination
+keyword	subway
+keyword	stabbed to death
+keyword	stabbed with glass
+keyword	girl stripped down to panties
+keyword	stockings
+keyword	looking at reflection
+keyword	sex scene
+keyword	metamorphosis
+keyword	female protagonist
+keyword	bechdel test passed
+keyword	woman smoker
+keyword	night club
+keyword	self mutilation
+keyword	cracking joint
+keyword	topless female nudity
+keyword	stabbed in the face
+keyword	theatre
+keyword	doorknob
+keyword	mother daughter relationship
+keyword	backstage
+keyword	drugs
+keyword	doppelganger
+keyword	looking at self in mirror
+keyword	cheeseburger
+keyword	lesbianism
+keyword	anorexia
+keyword	insanity
+keyword	hit by a car
+keyword	dancing
+keyword	title spoken by character
+keyword	surprise ending
+cast	Natalie Portman	Nina Sayers / The Swan Queen
+cast	Mila Kunis	Lily / The Black Swan
+cast	Vincent Cassel	Thomas Leroy / The Gentleman
+cast	Barbara Hershey	Erica Sayers / The Queen
+cast	Winona Ryder	Beth Macintyre / The Dying Swan
+cast	Benjamin Millepied	David / The Prince
+cast	Ksenia Solo	Veronica / Little Swan
+cast	Kristina Anapau	Galina / Little Swan
+cast	Janet Montgomery	Madeline / Little Swan
+cast	Sebastian Stan	Andrew / Suitor
+cast	Toby Hemingway	Tom / Suitor
+cast	Sergio Torrado	Sergio / Rothbart
+cast	Mark Margolis	Mr. Fithian / Patron
+cast	Tina Sloan	Mrs. Fithian / Patron
+cast	Abraham Aronofsky	Mr. Stein / Patron
+cast	Charlotte Aronofsky	Mrs. Stein / Patron
+cast	Marcia Jean Kurtz	Costumer Georgina
+cast	Shaun O'Hagan	Stage Manager Sebastian
+cast	Christopher Gartin	Sexy Waiter Scott
+cast	Deborah Offner	Administrator Susie
+cast	Stanley B. Herman	Uncle Hank
+cast	Michelle Rodriguez Nouel	Physical Therapist
+cast	Kurt Froman	Understudy for Siegfried
+cast	Marty Krzywonos	Conductor
+cast	Leslie Lyles	Nurse
+cast	John Epperson	Jaded Piano Player
+cast	Arkadiy Figlin	Piano Player
+cast	Tim Fain	Violin Player
+cast	Sarah Lane	Lady in the Lane
+cast	Liam Flaherty	Man in Stall
+cast	Patrick Heusinger	Rich Gent
+cast	Marina Stavitskaya	Ballet Mistress
+cast	Olga Kostritzky	Ballet Mistress
+cast	Christine Redpath	Ballet Mistress
+cast	Alexandra Damiani	Ballet Mistress
+cast	Rebecca Azenberg	Corps De Ballet
+cast	Laura Bowman	Corps De Ballet
+cast	Holly L. Fusco	Corps De Ballet
+cast	Abigail Mentzer	Corps De Ballet
+cast	Barette Vance	Corps De Ballet
+cast	Lillian di Piazza	Corps De Ballet
+cast	Megan Dickinson	Corps De Ballet
+cast	Jessy Hendrickson	Corps De Ballet
+cast	Geneviève Lebean	Corps De Ballet
+cast	Rachel Jambois	Corps De Ballet
+cast	Ryoko Sadoshima	Corps De Ballet
+cast	Kaia A. Tack	Corps De Ballet
+cast	Lauren Fadeley	Corps De Ballet
+cast	Sarah Hay	Corps De Ballet
+cast	Adrianna de Svastich	Corps De Ballet
+cast	Jamie Wolf	Corps De Ballet
+cast	Carrie Lee Riggins	Corps De Ballet
+cast	Gina Artese	Corps De Ballet
+cast	Rhona Fox	Socialite
+cast	Dj Jess	DJ
+cast	Daralina Komar	Ballet Dancer
+cast	Tim Lacatena	Ballet Dancer
+cast	Carmella Stolyar	Assistant Stage Manager

@@ -1,0 +1,305 @@
+year	1978
+imdb score	7.7
+meta score	N/A
+genre	Biography
+genre	Crime
+genre	Drama
+keyword	prison
+keyword	prisoner
+keyword	drugs
+keyword	prison guard
+keyword	student
+keyword	torture
+keyword	smuggling
+keyword	1970s
+keyword	escape
+keyword	court
+keyword	hashish
+keyword	airport
+keyword	lawyer
+keyword	turkey the country
+keyword	terrorism
+keyword	based on distorted reality
+keyword	tongue ripping
+keyword	baklava
+keyword	brother sister relationship
+keyword	policeman
+keyword	tunnel
+keyword	rapist
+keyword	street life
+keyword	prison escape
+keyword	kissing through a glass window
+keyword	nembutal
+keyword	train
+keyword	dying
+keyword	tinfoil
+keyword	chopping off a chicken's head
+keyword	spike through back of head
+keyword	cruelty
+keyword	digging through a prison wall
+keyword	rifle
+keyword	tarmac
+keyword	corporal punishment
+keyword	luck
+keyword	bank
+keyword	strip search
+keyword	friendship
+keyword	maltese
+keyword	fingertips
+keyword	destroying property
+keyword	chicken
+keyword	photograph
+keyword	caning
+keyword	military weapon
+keyword	severed tongue
+keyword	prosecutor
+keyword	singing
+keyword	men's bathroom
+keyword	crying
+keyword	singer
+keyword	flashlight
+keyword	grenade
+keyword	defense attorney
+keyword	escape attempt
+keyword	escape plan
+keyword	hilton hotel
+keyword	loneliness
+keyword	male rear nudity
+keyword	montage
+keyword	translator
+keyword	time in title
+keyword	courtroom
+keyword	frenchman
+keyword	masturbation
+keyword	bitten out tongue
+keyword	brother brother relationship
+keyword	song
+keyword	bail
+keyword	visual impairment
+keyword	voice over letter
+keyword	medical tape
+keyword	cafe
+keyword	accidental killing
+keyword	american consulate
+keyword	istanbul turkey
+keyword	ankara turkey
+keyword	goat
+keyword	family relationships
+keyword	bare chested male bondage
+keyword	harmonica
+keyword	sanitarium
+keyword	turkish soldier
+keyword	food
+keyword	chewing gum
+keyword	restaurant
+keyword	secret tunnel
+keyword	homoeroticism
+keyword	fear
+keyword	diarrhea
+keyword	walking in circles
+keyword	college student
+keyword	scapegoat
+keyword	rage
+keyword	parole
+keyword	u.s. senate
+keyword	suitcase
+keyword	peacock
+keyword	turkish flag
+keyword	fight
+keyword	search
+keyword	nipples
+keyword	muslim
+keyword	drug smuggling
+keyword	kiss
+keyword	exercise
+keyword	gay kiss
+keyword	jfk international airport queens new york city
+keyword	tears
+keyword	revenge
+keyword	cigarette smoking
+keyword	mercy
+keyword	blindfold
+keyword	degradation
+keyword	soap bar
+keyword	murderer
+keyword	eyeglasses
+keyword	barbed wire
+keyword	animal cruelty
+keyword	chase
+keyword	law
+keyword	camera
+keyword	pig
+keyword	shooting up
+keyword	handcuffs
+keyword	drug trafficking
+keyword	life imprisonment
+keyword	pet cat
+keyword	rape
+keyword	hanging cat
+keyword	prayer
+keyword	injustice
+keyword	gay
+keyword	escape
+keyword	airport security
+keyword	forgiveness
+keyword	gay interest
+keyword	racism
+keyword	scissors
+keyword	radio
+keyword	tongue
+keyword	letter
+keyword	sunglasses
+keyword	heartbeat
+keyword	coca cola
+keyword	unsubtitled foreign language
+keyword	love
+keyword	criminally insane
+keyword	cave
+keyword	face slap
+keyword	dog
+keyword	guitar
+keyword	long island new york
+keyword	homosexual
+keyword	electric fan
+keyword	blood
+keyword	mother son relationship
+keyword	pickpocket
+keyword	boyfriend girlfriend relationship
+keyword	uniform
+keyword	prison fight
+keyword	key
+keyword	scenario which perverts facts
+keyword	catacomb
+keyword	attempted rape
+keyword	topless female nudity
+keyword	gun
+keyword	prison visit
+keyword	nudity
+keyword	communist
+keyword	shower
+keyword	slaughterhouse
+keyword	murder
+keyword	stepping on hand
+keyword	contraband
+keyword	father son relationship
+keyword	photo album
+keyword	washing hair
+keyword	cloister
+keyword	underwear
+keyword	reference to jesus christ
+keyword	passport
+keyword	bastinado
+keyword	drug use
+keyword	tea
+keyword	hairy chest
+keyword	airplane
+keyword	interrogation
+keyword	sadist
+keyword	digging
+keyword	bare breasts
+keyword	speech
+keyword	brooklyn new york city
+keyword	rampage
+keyword	thief
+keyword	haircut
+keyword	urination
+keyword	freeze frame
+keyword	male nudity
+keyword	death
+keyword	sweating
+keyword	reference to richard nixon
+keyword	corrupt lawyer
+keyword	turk
+keyword	blues
+keyword	anger
+keyword	money
+keyword	theft
+keyword	female nudity
+keyword	jeep
+keyword	jail
+keyword	kicking
+keyword	photographer
+keyword	racial slur
+keyword	wrath
+keyword	wrestling
+keyword	jumping
+keyword	u.s. state department
+keyword	customs
+keyword	cult film
+keyword	escape tunnel
+keyword	prison life
+keyword	pain
+keyword	monastery
+keyword	testicles
+keyword	screwdriver
+keyword	minaret
+keyword	homosexuality
+keyword	beating
+keyword	controversy
+keyword	judge
+keyword	philosophy
+keyword	rapture
+keyword	machine
+keyword	burning money
+keyword	bazaar
+keyword	factory
+keyword	walking the wheel
+keyword	anti turkism
+keyword	hernia
+keyword	steam bath
+keyword	frisbee
+keyword	killing a cat
+keyword	violence
+keyword	shaving head
+keyword	manipulating
+keyword	actual animal killed
+keyword	nose picking
+keyword	taxi driver
+keyword	sadism
+keyword	prison haircut
+keyword	french
+keyword	toilet
+keyword	u.s. senator
+keyword	street market
+keyword	dead cat
+keyword	brutality
+keyword	vengeance
+keyword	trial
+keyword	hate
+keyword	cat
+keyword	police
+keyword	justice
+keyword	beating feet
+keyword	bathing
+keyword	freedom
+keyword	bare chested male
+keyword	running
+keyword	truck
+keyword	greece
+keyword	what happened to epilogue
+keyword	christian
+keyword	independent film
+keyword	based on book
+cast	Brad Davis	Billy Hayes
+cast	Irene Miracle	Susan
+cast	Bo Hopkins	Tex
+cast	Paolo Bonacelli	Rifki
+cast	Paul L. Smith	Hamidou
+cast	Randy Quaid	Jimmy Booth
+cast	Norbert Weisser	Erich
+cast	John Hurt	Max
+cast	Mike Kellin	Mr. Hayes
+cast	Franco Diogene	Yesil
+cast	Michael Ensign	Stanley Daniels
+cast	Gigi Ballista	Chief Judge
+cast	Kevork Malikyan	Prosecutor
+cast	Peter Jeffrey	Ahmet
+cast	Joe Zammit Cordina	Airport Customs Officer
+cast	Yashaw Adem	Airport Police Chief
+cast	Raad Rawi	Airport Security Chief
+cast	Tony Boyd	Aslan
+cast	Zannino	Police Detective
+cast	Mihalis Giannatos	Court Translator
+cast	Vic Tablian	Star
+cast	Ahmed El Shenawi	Negdir
+cast	Alan Parker	Long-Haired Man at Airport

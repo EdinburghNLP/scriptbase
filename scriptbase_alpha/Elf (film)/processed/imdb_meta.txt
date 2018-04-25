@@ -1,0 +1,238 @@
+year	2003
+imdb score	6.9
+meta score	64
+genre	Comedy
+genre	Family
+genre	Fantasy
+genre	Romance
+keyword	elf
+keyword	new york city
+keyword	north pole
+keyword	baby
+keyword	shoes
+keyword	jack in the box
+keyword	red underwear
+keyword	crawling
+keyword	cotton headed ninny muggins
+keyword	fireplace
+keyword	song
+keyword	product testing
+keyword	vomit
+keyword	asparagus
+keyword	eating
+keyword	frat pack
+keyword	cookie
+keyword	book
+keyword	husband wife relationship
+keyword	snow
+keyword	boss
+keyword	pursuit
+keyword	department store
+keyword	troll
+keyword	chopping down a tree
+keyword	belch
+keyword	midget
+keyword	manhattan new york city
+keyword	mushroom
+keyword	mother son relationship
+keyword	blood test
+keyword	christmas tree
+keyword	naughty list
+keyword	ray's pizza manhattan new york city
+keyword	animated sequence
+keyword	snowball
+keyword	ice skating
+keyword	etch a sketch
+keyword	office
+keyword	cobbler
+keyword	orphan
+keyword	candy cane
+keyword	sarcasm taken literally
+keyword	school
+keyword	reindeer
+keyword	boy
+keyword	coffee
+keyword	rockefeller center manhattan new york city
+keyword	handing out flyers
+keyword	animated credits
+keyword	taxi
+keyword	snowman
+keyword	narwhal
+keyword	baby nursery
+keyword	love
+keyword	christmas carol
+keyword	tv news
+keyword	central park rangers
+keyword	holding hands
+keyword	police
+keyword	empire state building manhattan new york city
+keyword	food
+keyword	polar bear
+keyword	dancing
+keyword	brother brother relationship
+keyword	chase
+keyword	father son relationship
+keyword	christmas card
+keyword	store window
+keyword	shoe shining
+keyword	corporation
+keyword	director cameo
+keyword	lie
+keyword	central park manhattan new york city
+keyword	snowball fight
+keyword	photograph
+keyword	watching tv
+keyword	reference to the mona lisa
+keyword	corporate world
+keyword	peep show
+keyword	sleigh
+keyword	nun
+keyword	book publisher
+keyword	whispering
+keyword	present
+keyword	voice over narration
+keyword	teddy bear
+keyword	montage
+keyword	elevator
+keyword	happy birthday
+keyword	christmas spirit
+keyword	father son reunion
+keyword	liar
+keyword	mailroom
+keyword	breaking the fourth wall
+keyword	drinking
+keyword	classroom
+keyword	drunkenness
+keyword	candy corn
+keyword	raccoon
+keyword	skipping
+keyword	park
+keyword	fainting
+keyword	candy
+keyword	syrup
+keyword	window display
+keyword	blockbuster
+keyword	class
+keyword	milk
+keyword	gum
+keyword	burping
+keyword	santa's workshop
+keyword	children's book
+keyword	bed
+keyword	storybook in opening shot
+keyword	book publishing
+keyword	radiator
+keyword	south pole
+keyword	toilet
+keyword	hallucination
+keyword	kiss
+keyword	toilet training
+keyword	beard
+keyword	gnome
+keyword	toy
+keyword	fish out of water
+keyword	baritone
+keyword	toy maker
+keyword	singing
+keyword	waving
+keyword	baking cookies
+keyword	jail
+keyword	reference to dr. seuss
+keyword	man child
+keyword	ice floe
+keyword	gimbel's department store manhattan new york city
+keyword	reporter
+keyword	passion fruit spray
+keyword	naivety
+keyword	police hunt
+keyword	shower
+keyword	auld lang syne
+keyword	tights
+keyword	fight
+keyword	santa claus
+keyword	cotton ball
+keyword	fingerprint
+keyword	underwear
+keyword	drink
+keyword	revolving door
+keyword	girl
+keyword	tickling
+keyword	employer employee relationship
+keyword	escalator
+keyword	policeman
+keyword	singer
+keyword	money
+keyword	tomato
+keyword	storytelling
+keyword	rocking horse
+keyword	family relationships
+keyword	paparazzi
+keyword	christmas gram
+keyword	shopping mall
+keyword	christmas eve
+keyword	spaghetti
+keyword	christmas
+keyword	altered version of studio logo
+keyword	doctor
+keyword	yellow snow
+keyword	death of mother
+keyword	character name in title
+cast	Will Ferrell	Buddy
+cast	James Caan	Walter
+cast	Bob Newhart	Papa Elf
+cast	Edward Asner	Santa
+cast	Mary Steenburgen	Emily
+cast	Zooey Deschanel	Jovie
+cast	Daniel Tay	Michael
+cast	Faizon Love	Gimbel's Manager
+cast	Peter Dinklage	Miles Finch
+cast	Amy Sedaris	Deb
+cast	Michael Lerner	Fulton
+cast	Andy Richter	Morris
+cast	Kyle Gass	Eugene
+cast	Artie Lange	Gimbel's Santa
+cast	Leon Redbone	Leon the Snowman
+cast	Ray Harryhausen	Polar Bear Cub
+cast	Claire Lautier	NY 1 Reporter
+cast	Ted Friend	NY 1 Anchor
+cast	Patrick Ferrell	Security Guard
+cast	Patrick McCartney	Security Guard
+cast	Jon Favreau	Doctor
+cast	Annie Brebner	Elf Student
+cast	Lydia Lawson-Baird	Carolyn
+cast	Brenda McDonald	Nun
+cast	Meghan Black	Elf
+cast	Luke Pohl	Elf Student
+cast	Patrick Baynham	Elf
+cast	Michael Roberds	Disgruntled Cobbler Elf
+cast	Peter A. Hulne	Elf Twin
+cast	Patrick Hulne	Elf Twin
+cast	Richard Side	Elf Teacher
+cast	David-Paul Grove	Pom Pom
+cast	Kristian Ayre	Foom Foom
+cast	Lorin Heath	Perfume Clerk
+cast	Dillard Brinson	Printer
+cast	Brad Turner	Office Co-Worker
+cast	David Berenbaum	Office Co-Worker
+cast	Mary Black	Nurse
+cast	Brenda Crichlow	Office Co-Worker
+cast	Oscar Goncalves	Francisco
+cast	Murray Jack	Man in Elevator
+cast	Mark Acheson	Mailroom Guy
+cast	Robin Mossley	Chuck
+cast	Paul Schofield	Kid with Santa
+cast	Matt Walsh	Himself
+cast	Will McCormack	Witness
+cast	Gus Michael	Witness
+cast	Alexandra Michael	Child
+cast	Terry J. Scarlatos	Police Officer
+cast	Jonathan Bruce	Biker
+cast	Jane Bradbury	Susan Welles
+cast	Akeen A. Smith	School Kid
+cast	Michael Christopher Fischetti	School Kid
+cast	Peter Billingsley	Elf
+cast	Craig Castaldo	Radioman
+cast	Maurice LaMarche	Buddy's Belch
+cast	Rachel Lana Li	Child
+cast	Nance Nickels	Extra in crowd
+cast	Albert Precourt	Passerby

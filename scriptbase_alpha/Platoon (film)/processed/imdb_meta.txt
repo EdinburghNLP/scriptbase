@@ -1,0 +1,157 @@
+year	1986
+imdb score	8.2
+meta score	N/A
+genre	Action
+genre	Drama
+genre	War
+keyword	vietnam
+keyword	combat
+keyword	soldier
+keyword	village
+keyword	battle
+keyword	jungle
+keyword	tough guy
+keyword	booby trap
+keyword	impalement
+keyword	suicide bomber
+keyword	napalm
+keyword	war crime
+keyword	shot in the chest
+keyword	one word title
+keyword	stabbed with a bayonet
+keyword	rape
+keyword	warrior
+keyword	stabbed to death
+keyword	murder
+keyword	racial slur
+keyword	helmet
+keyword	left behind
+keyword	drug use
+keyword	marijuana
+keyword	blood splatter
+keyword	violence
+keyword	translator
+keyword	revenge
+keyword	villain played by lead actor
+keyword	foot blown off
+keyword	helicopter
+keyword	critically acclaimed
+keyword	correspondence
+keyword	blockbuster
+keyword	1960s
+keyword	poker
+keyword	explosion
+keyword	person on fire
+keyword	race relations
+keyword	machine gun
+keyword	held at gunpoint
+keyword	hero
+keyword	jungle warfare
+keyword	ak 47
+keyword	f word
+keyword	betrayal
+keyword	fistfight
+keyword	pump action shotgun
+keyword	rescue
+keyword	exploding body
+keyword	ambush
+keyword	shot repeatedly
+keyword	sniper
+keyword	man kills a woman
+keyword	infantry
+keyword	classical music
+keyword	snake
+keyword	war violence
+keyword	stabbed in the chest
+keyword	death threat
+keyword	gay slur
+keyword	mass grave
+keyword	suicide attack
+keyword	rainstorm
+keyword	main character shot
+keyword	woman shot
+keyword	cult film
+keyword	hand grenade
+keyword	underground bunker
+keyword	mine
+keyword	u.s. army
+keyword	stabbed in the crotch
+keyword	m 16
+keyword	villain
+keyword	village set on fire
+keyword	gore
+keyword	bayonet
+keyword	main character dies
+keyword	anti war
+keyword	brutality
+keyword	impersonating a soldier
+keyword	vietnam war
+keyword	child rape
+keyword	morley cigarettes
+keyword	amputee
+keyword	shot in the forehead
+keyword	shotgun
+keyword	beaten to death
+keyword	male nudity
+keyword	bludgeoning
+keyword	burnt body
+keyword	bombardment
+keyword	self inflicted injury
+keyword	death
+keyword	psychopath
+keyword	latrine
+keyword	tarmac
+keyword	innocence lost
+keyword	shot in the back
+keyword	shot in the head
+keyword	stabbed in the back
+keyword	military
+keyword	cobra
+keyword	independent film
+keyword	title spoken by character
+keyword	
+cast	Keith David	King
+cast	Forest Whitaker	Big Harold
+cast	Francesco Quinn	Rhah
+cast	Kevin Dillon	Bunny
+cast	John C. McGinley	Sgt. O'Neill
+cast	Reggie Johnson	Junior
+cast	Mark Moses	Lt. Wolfe
+cast	Corey Glover	Francis
+cast	Johnny Depp	Lerner
+cast	Chris Pedersen	Crawford
+cast	Bob Orwig	Gardner
+cast	Corkey Ford	Manny
+cast	David Neidorf	Tex
+cast	Tom Berenger	Sgt. Barnes
+cast	Willem Dafoe	Sgt. Elias
+cast	Charlie Sheen	Chris
+cast	Richard Edson	Sal
+cast	Tony Todd	Warren
+cast	Kevin Eshelman	Morehouse
+cast	James Terry McIlvain	Ace
+cast	J. Adam Glover	Sanderson
+cast	Ivan Kane	Tony
+cast	Paul Sanchez	Doc
+cast	Dale Dye	Captain Harris
+cast	Peter Hicks	Parker
+cast	Basile Achara	Flash
+cast	Steve Barredo	Fu Sheng
+cast	Chris Castillejo	Rodriguez
+cast	Andrew B. Clark	Tubbs
+cast	Bernardo Manalili	Village Chief
+cast	Than Rogers	Village Chief's Wife
+cast	Li Thi Van	Village Chief's Daughter
+cast	Clarisa Ortacio	Old Woman
+cast	Romy Sevilla	One-Legged Man
+cast	Mathew Westfall	Terrified Soldier
+cast	Nick Nicholson	Mechanized Soldier #1
+cast	Warren McLean	Mechanized Soldier #2
+cast	Li Mai Thao	Rape Victim
+cast	Ron Barracks	Medic
+cast	H. Gordon Boos	Soldier with Mohawk Haircut
+cast	Mark Ebenhoch	Ebenhoch
+cast	Robert 'Rock' Galotti	Huffmeister
+cast	Eric Hahn	Soldier
+cast	Oliver Stone	Alpha Company Major in Bunker
+cast	Henry Strzalkowski	Bit Part

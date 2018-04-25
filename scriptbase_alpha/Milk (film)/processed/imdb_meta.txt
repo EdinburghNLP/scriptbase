@@ -1,0 +1,463 @@
+year	2008
+imdb score	7.7
+meta score	84
+genre	Biography
+genre	Drama
+genre	History
+keyword	gay
+keyword	gay rights
+keyword	activist
+keyword	bar
+keyword	politician
+keyword	campaign manager
+keyword	california
+keyword	singer
+keyword	flashback
+keyword	new york city
+keyword	election
+keyword	birthday
+keyword	40th birthday
+keyword	camera
+keyword	gay activist
+keyword	oath of office
+keyword	pacific heights san francisco
+keyword	jew
+keyword	tape recorder
+keyword	reference to ronald reagan
+keyword	pie in face
+keyword	singing
+keyword	multiple tv screens
+keyword	civil rights
+keyword	crying
+keyword	lawyer
+keyword	character says i love you
+keyword	nudity
+keyword	insurance
+keyword	oklahoma
+keyword	bigot
+keyword	frosting
+keyword	hate crime
+keyword	coors beer
+keyword	minnesota
+keyword	restaurant
+keyword	reference to barcelona spain
+keyword	gay interest
+keyword	fear
+keyword	gay bar
+keyword	mayor
+keyword	revolution
+keyword	political candidate
+keyword	business association
+keyword	market street san francisco
+keyword	men's bathroom
+keyword	policeman
+keyword	camera store
+keyword	morality
+keyword	police harassment
+keyword	suicide threat
+keyword	baby
+keyword	nun
+keyword	kitchen
+keyword	san francisco california
+keyword	newspaper article
+keyword	city hall
+keyword	reference to puccini
+keyword	ghetto
+keyword	jewish
+keyword	sacramento california
+keyword	teamster
+keyword	whistle
+keyword	balloon
+keyword	year 1975
+keyword	39 year old
+keyword	lesbian
+keyword	newspaper headline
+keyword	dancing
+keyword	megaphone
+keyword	demonstration
+keyword	hopelessness
+keyword	blood
+keyword	eyeglasses
+keyword	gay slur
+keyword	nude swimming
+keyword	irish catholic
+keyword	fast motion scene
+keyword	year 1977
+keyword	anger
+keyword	hippie
+keyword	businessman
+keyword	typewriter
+keyword	18 year old
+keyword	reference to mayor richard daley
+keyword	narration from the grave
+keyword	mental health clinic
+keyword	telephone call
+keyword	golden gate bridge san francisco
+keyword	1970s
+keyword	bigotry
+keyword	irish american
+keyword	polk street san francisco
+keyword	suicide by hanging
+keyword	male male kiss
+keyword	discrimination
+keyword	urinating in a pool
+keyword	speech
+keyword	gay parade
+keyword	recording
+keyword	st. paul minnesota
+keyword	mentor protégé relationship
+keyword	gay pickup
+keyword	jealousy
+keyword	black american
+keyword	head wound
+keyword	violence
+keyword	neighborhood
+keyword	hate crime
+keyword	looking out a window
+keyword	homosexuality
+keyword	great american insurance company
+keyword	police
+keyword	happy birthday to you
+keyword	lesbian interest
+keyword	wichita kansas
+keyword	dinner
+keyword	democracy
+keyword	boyfriend boyfriend relationship
+keyword	cooking
+keyword	year 1978
+keyword	older man younger man relationship
+keyword	reference to francisco franco
+keyword	what happened to epilogue
+keyword	paddy wagon
+keyword	drawing
+keyword	candle
+keyword	watching tv
+keyword	gay relationship
+keyword	gay sex
+keyword	christian fundamentalism
+keyword	year 1970
+keyword	gay activism
+keyword	police raid
+keyword	city government
+keyword	friendship
+keyword	social activism
+keyword	slow motion
+keyword	mediation
+keyword	politics
+keyword	right to privacy
+keyword	split screen
+keyword	kissing
+keyword	inauguration
+keyword	the advocate the newspaper
+keyword	may december romance
+keyword	metal detector
+keyword	hypocrite
+keyword	beer
+keyword	taking a picture
+keyword	wisconsin
+keyword	voice over narration
+keyword	sit ups
+keyword	baptism
+keyword	listening to opera
+keyword	listening to music
+keyword	male prostitute
+keyword	protest
+keyword	fired from the job
+keyword	hope
+keyword	gay kiss
+keyword	record player
+keyword	shooting
+keyword	dog feces
+keyword	san francisco chronicle the newspaper
+keyword	christening
+keyword	umbrella
+keyword	republican party
+keyword	moral majority
+keyword	shot in the head
+keyword	mirror
+keyword	political debate
+keyword	death of title character
+keyword	bare chested male
+keyword	voter registration
+keyword	suicide
+keyword	teacher
+keyword	reference to cesar chavez
+keyword	san francisco city hall
+keyword	political campaign
+keyword	altoona pennsylvania
+keyword	gay couple
+keyword	murder
+keyword	drink
+keyword	urban setting
+keyword	drinking
+keyword	dog
+keyword	san francisco bay guardian the newspaper
+keyword	prejudice
+keyword	law
+keyword	fellatio
+keyword	soap box
+keyword	newspaper emdorsement
+keyword	civil war
+keyword	gay bashing
+keyword	theatre audience
+keyword	declaration of independence
+keyword	debate
+keyword	theatre box
+keyword	church
+keyword	40 year old
+keyword	dade county florida
+keyword	gay lead character
+keyword	love
+keyword	tv show
+keyword	assassination
+keyword	dictaphone
+keyword	pie in the face
+keyword	tears
+keyword	bare butt
+keyword	statue of liberty new york city
+keyword	interview
+keyword	blow job
+keyword	shot to death
+keyword	riot
+keyword	african american
+keyword	camera store
+keyword	swimming pool
+keyword	haight street san francisco
+keyword	homosexual history
+keyword	government
+keyword	apartment
+keyword	newspaper
+keyword	police abuse
+keyword	ice cream
+keyword	midlife crisis
+keyword	referendum
+keyword	tv news
+keyword	richmond san francisco
+keyword	reference to tosca the opera
+keyword	trolley
+keyword	coming out
+keyword	bay area reporter the newspaper
+keyword	hypocrisy
+keyword	human rights
+keyword	homosexual
+keyword	parade
+keyword	swimming
+keyword	marching band
+keyword	reference to boss tweed
+keyword	catholic priest
+keyword	proposition 6
+keyword	political activist
+keyword	paranoia
+keyword	counter culture
+keyword	year 1973
+keyword	drunkenness
+keyword	candlelight vigil
+keyword	locking oneself inside a closet
+keyword	hate mail
+keyword	castro street san francisco
+keyword	board of supervisors
+keyword	year 1972
+keyword	opera
+keyword	police brutality
+keyword	song
+keyword	printing press
+keyword	revolutionary
+keyword	topless female nudity
+keyword	running
+keyword	imitating an opera singer
+keyword	art student
+keyword	female nudity
+keyword	reference to franco
+keyword	photographer
+keyword	birthday party
+keyword	reference to god
+keyword	briefs
+keyword	long take
+keyword	political resignation
+keyword	ex policeman
+keyword	closeted homosexual
+keyword	american dream
+keyword	male nudity
+keyword	limousine
+keyword	mobile phone
+keyword	liquor store
+keyword	climbing through a window
+keyword	subway
+keyword	homophobia
+keyword	phoenix arizona
+keyword	nonlinear timeline
+keyword	pay phone
+keyword	little boy
+keyword	the stud the bar san francisco
+keyword	cable car
+keyword	chinese food
+keyword	watching an opera
+keyword	bare breasts
+keyword	city supervisor
+keyword	rain
+keyword	gunshot
+keyword	orange county california
+keyword	reference to mayor dakey
+keyword	christian
+keyword	catholic church
+keyword	kiss
+keyword	cafe
+keyword	wheelchair
+keyword	dancer
+keyword	motorcycle
+keyword	underwear
+keyword	bullhorn
+keyword	friend
+keyword	death of protagonist
+keyword	death threat
+keyword	year 1976
+keyword	california state assembly
+keyword	marijuana
+keyword	archive footage
+keyword	eugene oregon
+keyword	san francisco sentinel the newspaper
+keyword	long distance telephone call
+keyword	urination
+keyword	hanging
+keyword	gay love
+keyword	pie
+keyword	undressing
+keyword	skinny dipping
+keyword	democratic party
+keyword	boycott
+keyword	one word title
+keyword	character name in title
+keyword	
+cast	Sean Penn	Harvey Milk
+cast	Emile Hirsch	Cleve Jones
+cast	Josh Brolin	Dan White
+cast	Diego Luna	Jack Lira
+cast	James Franco	Scott Smith
+cast	Alison Pill	Anne Kronenberg
+cast	Victor Garber	Mayor Moscone
+cast	Denis O'Hare	John Briggs
+cast	Joseph Cross	Dick Pabich
+cast	Stephen Spinella	Rick Stokes
+cast	Lucas Grabeel	Danny Nicoletta
+cast	Brandon Boyce	Jim Rivaldo
+cast	Howard Rosenman	David Goodstein
+cast	Kelvin Yu	Michael Wong
+cast	Jeff Koons	Art Agnos
+cast	Ted Jan Roberts	Dennis Peron
+cast	Boyd Holbrook	Denton Smith
+cast	Frank M. Robinson	Himself
+cast	Allan Baird	Himself
+cast	Tom Ammiano	Himself
+cast	Carol Ruth Silver	Thelma
+cast	Hope Tuck	Mary Ann White
+cast	Steven Wiig	McConnelly
+cast	Ashlee Temple	Dianne Feinstein
+cast	Wendy Tremont King	Carol Ruth Silver
+cast	Kelvin Han Yee	Gordon Lau
+cast	Robert Chimento	Phil Burton
+cast	Ginabel Machado	Lily
+cast	Daniel Landroche	Young Teen
+cast	Trace Webb	Boy with Flier
+cast	Velina Brown	Morning Show Host
+cast	Scott Patrick Green	House Boy
+cast	Mary Dilts	Channel 5 Reporter
+cast	Roman Alcides	City Hall Engineer
+cast	Robert George Nelson	San Francisco Cop No.1
+cast	Brian Danker	San Francisco Cop No.2
+cast	Richard Gross	Riot Cop
+cast	Borzin Mottaghian	Briggs' Driver
+cast	Brian Yates Sharber	Gay Man
+cast	Camron Palmer	Medora Paine
+cast	Cully Fredricksen	Assistant Sheriff
+cast	Mark Martinez	Sylvester
+cast	Danny Glicker	Customer
+cast	Catherine Cook	Opera Performer - Tosca
+cast	Joe Meyers	Opera Performer - Spoletta
+cast	Dominic Sahagun	Another Protester
+cast	William McElroy	Barber
+cast	Joey Hoeber	Union Man
+cast	Mark E. Stanger	Priest
+cast	Christopher Greene	Reporter
+cast	Jesse Caldwell	Chamber Clerk
+cast	Paul Arnold	Supervisor
+cast	Jack Dunston	Supervisor
+cast	Ron Gruetter	Supervisor
+cast	Awele Makeba	Supervisor
+cast	Tony R. Vella	Supervisor
+cast	William M. Verducci	Supervisor
+cast	Gilbert Baker	Telephone Tree
+cast	Shavi Blake	Telephone Tree
+cast	Sean Paul Lockhart	Telephone Tree
+cast	Draco Dewar	Telephone Tree
+cast	Dave Franco	Telephone Tree
+cast	Alex Gonzalez	Telephone tree
+cast	Olen Holm	Telephone Tree
+cast	Elias McConnell	Telephone Tree
+cast	Tom Randol	Telephone Tree
+cast	Lynn McRee	Moscone's Secretary
+cast	Cleve Jones	Don Amador
+cast	John Parson	Castro Man
+cast	Jay Kerzner	Speaker
+cast	Kristen Marie Holly	Anne's Friend
+cast	Sandi Ippolito	Relative
+cast	Roger Groh	Reporter
+cast	Maggie Weiland	Girl on Motorcycle
+cast	Dustin Lance Black	Castro Clone
+cast	Drew Kuhse	Pizza Delivery Man
+cast	Eric Cook	Robert Hillsborough
+cast	Roger Mudd	Himself
+cast	Martin Andris	Castro Voter
+cast	Matt Austin	Campaign Messenger
+cast	John Douglas Ayers	Castro Local
+cast	Harmony Blossom	Law Student
+cast	Matthew Bridges	Birthday Party Goer
+cast	Tom Brokaw	Himself
+cast	Jerry Brown	Himself
+cast	Anita Bryant	Herself
+cast	Greg Cala	Senator Briggs' Aide
+cast	Jimmy Carter	Himself
+cast	Cabran E. Chamberlain	Riot Cop
+cast	Peaches Christ	Peaches Christ
+cast	John Clerkin	Castro Guy
+cast	Brad Comfort	Castro Clone
+cast	Walter Cronkite	Himself
+cast	Zachary Culbertson	Bill Kraus
+cast	Steve Dakota	Conservative Orange County Republican
+cast	Leesha Davis	Hippie Girl
+cast	Maddie Eisler	Birthday Party Relative
+cast	Patrick Engler	Law Student
+cast	Dianne Feinstein	Herself
+cast	Yeena Fisher	Teacher
+cast	William H. Frey III	Castro Man
+cast	Michael Gillespie	Harry Britt
+cast	Sean Grady	Castro Clone
+cast	Blake Cooper Griffin	Castro Man
+cast	Tim Halpin	SFPD Motor Cop
+cast	Daryl Anthony Harper	Campaign Volunteer
+cast	Ryan Hellquist	Law Student
+cast	Stacie Hovland	Hippy
+cast	Peter Jason	Alan Baird
+cast	Shaun Landry	Gwenn Craig
+cast	Mark Lavell	Irish Local
+cast	Allan Lazo	Castro Man
+cast	Derek Lux	Goodstein Aide
+cast	Yoli Mapp	Law Student
+cast	Jill Maragos	Tory Hartmann
+cast	Harvey Milk	Himself
+cast	Kenny New	SFPD Riot Cop
+cast	Logan Petrin	Birthday Party Relative
+cast	David Alan Poe	Castro Guy
+cast	John Prudhont	Sergeant at Arms
+cast	Ronald Reagan	Himself
+cast	Corbett Redford	Teamster
+cast	Jeff Redlick	Teamster
+cast	Timothy Roberts	Godfather
+cast	Lindy Shukla	Passenger
+cast	Toni Staniewicz	Law Student #2
+cast	Christopher Sugarman	Don's Friend
+cast	Jeremiah Turner	Law Student
+cast	April Vancelette	Hippy
+cast	Brian Vowell	Castro Clone
+cast	Cindy Warner	Irish Local / PTA Member / Candlelight Marcher
+cast	Steve Wharton	Law Student
+cast	Amron Paul Yuwono	Castro Man

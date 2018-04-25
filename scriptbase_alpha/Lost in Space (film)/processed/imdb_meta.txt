@@ -1,0 +1,75 @@
+year	1998
+imdb score	5.0
+meta score	42
+genre	Action
+genre	Adventure
+genre	Sci-Fi
+genre	Thriller
+keyword	planet
+keyword	sabotage
+keyword	sun
+keyword	scientist
+keyword	fighter pilot
+keyword	spaceship
+keyword	major
+keyword	future
+keyword	spider
+keyword	year 2058
+keyword	robot
+keyword	space exploration
+keyword	21st century
+keyword	sequel
+keyword	hologram
+keyword	zero gravity
+keyword	futuristic
+keyword	father son relationship
+keyword	time machine
+keyword	based on tv series
+keyword	2050s
+keyword	time travel
+keyword	exploding ship
+keyword	based on tv show
+keyword	exploding planet
+keyword	explosion
+keyword	time portal
+keyword	space western
+keyword	x rayed skeleton
+keyword	remake
+keyword	reverse footage
+keyword	trapped in space
+keyword	laser gun
+keyword	dysfunctional family
+keyword	alien creature as pet
+keyword	family relationships
+keyword	spacecraft
+keyword	cryogenics
+keyword	mutation
+keyword	space battle
+keyword	space travel
+keyword	stasis
+keyword	babe scientist
+keyword	held at gunpoint
+keyword	insect
+keyword	outer space
+cast	William Hurt	Prof. John Robinson
+cast	Mimi Rogers	Dr. Maureen Robinson
+cast	Heather Graham	Dr. Judy Robinson
+cast	Lacey Chabert	Penny Robinson
+cast	Jack Johnson	Will Robinson
+cast	Gary Oldman	Dr. Zachary Smith / Spider Smith
+cast	Matt LeBlanc	Maj. Don West
+cast	Jared Harris	Older Will Robinson
+cast	Mark Goddard	General
+cast	Lennie James	Jeb Walker
+cast	Marta Kristen	Reporter #1
+cast	June Lockhart	Principal Cartwright
+cast	Edward Fox	Businessman
+cast	Adam Sims	Lab Technician
+cast	Angela Cartwright	Reporter #2
+cast	John Sharian	Noah Freeman
+cast	Abigail Canton	Annie Tech
+cast	Richard Saperstein	Global Sedition attack pilot
+cast	Dick Tufeld	Rambler-Crane series Robot
+cast	Gary A. Hecker	Blarp
+cast	William Todd-Jones	Spider Smith
+cast	Kamay Lau	Space Cadet Reporter

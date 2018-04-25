@@ -1,0 +1,126 @@
+year	1989
+imdb score	7.6
+meta score	N/A
+genre	Animation
+genre	Family
+genre	Fantasy
+genre	Musical
+genre	Romance
+keyword	mermaid
+keyword	sea
+keyword	king
+keyword	prince
+keyword	sea witch
+keyword	hans christian andersen
+keyword	little mermaid
+keyword	witch
+keyword	cartoon fish
+keyword	foreign language adaptation
+keyword	cartoon dog
+keyword	lifting someone into the air
+keyword	kingdom
+keyword	loss of voice
+keyword	1830s
+keyword	cartoon crab
+keyword	pirate
+keyword	heroine
+keyword	legs
+keyword	super villainess
+keyword	underwater
+keyword	fish out of water
+keyword	castle thunder
+keyword	teenager
+keyword	seagull
+keyword	based on short story
+keyword	cartoon seagull
+keyword	lifting a female into the air
+keyword	female protagonist
+keyword	fiery redhead
+keyword	ocean
+keyword	loves me loves me not
+keyword	mistaken identity
+keyword	clothesline
+keyword	wedding
+keyword	cinderella story
+keyword	19th century
+keyword	star crossed lovers
+keyword	blockbuster
+keyword	appearing from the water
+keyword	wolf whistle
+keyword	family relationships
+keyword	father daughter relationship
+keyword	disney animated feature
+keyword	self sacrifice
+keyword	teen angst
+keyword	dog
+keyword	villainess
+keyword	surrealism
+keyword	chef
+keyword	fish
+keyword	young love
+keyword	love
+keyword	crab
+cast	Rene Auberjonois	Louis
+cast	Christopher Daniel Barnes	Eric
+cast	Jodi Benson	Ariel
+cast	Pat Carroll	Ursula
+cast	Paddi Edwards	Flotsam & Jetsam
+cast	Buddy Hackett	Scuttle
+cast	Jason Marin	Flounder
+cast	Kenneth Mars	Triton
+cast	Edie McClurg	Carlotta
+cast	Will Ryan	Seahorse
+cast	Ben Wright	Grimsby
+cast	Samuel E. Wright	Sebastian
+cast	Hamilton Camp	
+cast	Debbie Shapiro Gravitte	Additional Voices
+cast	Robert Weil	Additional Voices
+cast	Ed Gilbert	Additional Voices
+cast	Charles Adler	Additional Voices
+cast	Jack Angel	Additional Voices
+cast	Susan Boyd	Additional Voices
+cast	Steve Bulen	Additional Voices
+cast	Nancy Cartwright	Additional Voices
+cast	Philip L. Clarke	Additional Voices
+cast	Jennifer Darling	Additional Voices
+cast	Allan Davies	Additional Voices
+cast	Gail Farrell	Additional Voices
+cast	Donny Gerrard	Additional Voices
+cast	Mitch Gordon	Additional Voices
+cast	Willie J. Greene Jr.	Additional Voices
+cast	Linda Harmon	Additional Voices
+cast	Walter S. Harrah	Additional Voices
+cast	Phillip Ingram	Additional Voices
+cast	Luana Jackman	Additional Voices
+cast	William A. Kanady	Additional Voices
+cast	Edie Lehmann	Additional Voices
+cast	Anne Lockhart	Additional Voices
+cast	Sherry Lynn	Additional Voices
+cast	Melissa MacKay	Additional Voices
+cast	Guy Maeda	Additional Voices
+cast	Lynn Dolin Mann	Additional Voices
+cast	Arnold Markussen	Additional Voices
+cast	Mickie McGowan	Additional Voices
+cast	Gene Merlino	Additional Voices
+cast	Gene Morford	Additional Voices
+cast	Kathleen O'Connor	Additional Voices
+cast	Patrick Pinney	Additional Voices
+cast	Marilyn Powell	Additional Voices
+cast	Gloria Grace Prosper	Additional Voices
+cast	Michael Redman	Additional Voices
+cast	Sally Stevens	Additional Voices
+cast	Robert Tebow	Additional Voices
+cast	Rob Trow	Additional Voices
+cast	Joe Turano	Additional Voices
+cast	Jackie Ward	Additional Voices
+cast	Bobbi Page	Additional Voices
+cast	Robert S. Zwirn	Additional Voices
+cast	Jim Cummings	
+cast	Tim Curry	
+cast	J.D. Daniels	
+cast	Gerrit Graham	
+cast	Mark Hamill	
+cast	Rod McKuen	
+cast	Malachi Pearson	
+cast	Kimmy Robertson	
+cast	Frank Welker	

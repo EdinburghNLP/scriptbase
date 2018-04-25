@@ -1,0 +1,98 @@
+year	1989
+imdb score	6.2
+meta score	N/A
+genre	Adventure
+genre	Comedy
+genre	Fantasy
+keyword	viking
+keyword	gods
+keyword	ragnarok
+keyword	written and directed by cast member
+keyword	sinking ship
+keyword	written by star
+keyword	thor
+keyword	norway
+keyword	bloodshed
+keyword	middle ages
+keyword	berserk
+keyword	11th century
+keyword	8th century
+keyword	brought back to life
+keyword	denial
+keyword	cult film
+keyword	blacksmith
+keyword	sunken city
+keyword	cacophony
+keyword	sleeping woman
+keyword	cult director
+keyword	betrayal
+keyword	expedition
+keyword	10th century
+keyword	vomit
+keyword	singing
+keyword	father son relationship
+keyword	directed by star
+keyword	invisibility cloak
+keyword	accidental killing
+keyword	climbing up wall
+keyword	dragon
+keyword	love
+keyword	sea monster
+keyword	rainbow
+keyword	actor director
+keyword	missionary
+keyword	attempted rape
+keyword	9th century
+keyword	death of father
+keyword	death of friend
+keyword	independent film
+keyword	character name in title
+keyword	
+cast	Tim Robbins	Erik
+cast	Mickey Rooney	Erik's Grandfather
+cast	Eartha Kitt	Freya
+cast	Terry Jones	King Arnulf
+cast	Imogen Stubbs	Princess Aud
+cast	John Cleese	Halfdan the Black
+cast	Tsutomu Sekine	Slavemaster
+cast	Antony Sher	Loki
+cast	Gary Cady	Keitel Blacksmith
+cast	Charles McKeown	Sven's Dad
+cast	Tim McInnerny	Sven the Berserk
+cast	John Gordon Sinclair	Ivar the Boneless
+cast	Richard Ridings	Thorfinn Skullsplitter
+cast	Freddie Jones	Harald the Missionary
+cast	Samantha Bond	Helga
+cast	Danny Schiller	Snorri the Miserable
+cast	Jim Broadbent	Ernest the Viking
+cast	Jim Carter	Jennifer the Viking
+cast	Matyelok Gibbs	Erik's Mum
+cast	Tilly Vosburgh	Unn-the-Thrown-At
+cast	Jay Simpson	Leif the Lucky
+cast	John Scott Martin	Ingemund the Old
+cast	Sian Thomas	Thorhild the Sarcastic
+cast	Sarah Crowden	Grimhild Housewife
+cast	Bernard Padden	Mordfiddle the Cook
+cast	Bernard Latham	Ulf the Unmemorable
+cast	Julia McCarthy	Thorfinn's Mum
+cast	Allan Surtees	Thorfinn's Dad
+cast	Sandra Voe	Ivar's Mum
+cast	Angela Connolly	Thorkatla the Indiscreet
+cast	Sally Jones	Leif's Pregnant Girlfriend
+cast	Andrew MacLachlan	Ornulf / Chamberlain / Dog Soldier
+cast	Tim Killick	Bjarni / Halfdan's Guard / Musician
+cast	Graham McTavish	Thangbrand / Citizen / Dog Soldier
+cast	Cyril Shaps	Gisli the Chiseller
+cast	Peter Geeves	Eilif the Mongol Horde / Musician
+cast	Paddy Joyce	Prisoner
+cast	Colin Harper	Prisoner
+cast	Harry Jones	Prisoner
+cast	Barry McCarthy	Prisoner
+cast	Neil Innes	Hy-Brasilian
+cast	Garry Roost	Prisoner
+cast	Simon Evans	Odin
+cast	Matthew Baker	Thor
+cast	Dave Duffy	Horribly Slain Warrior
+cast	Frank Bednash	Even More Horribly Slain Warrior
+cast	Charles Simon	Svens Grandfather
+cast	Max Votolato	Child God

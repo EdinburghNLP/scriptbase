@@ -1,0 +1,208 @@
+year	1992
+imdb score	7.6
+meta score	57
+genre	Comedy
+genre	Fantasy
+genre	Horror
+keyword	battle
+keyword	necronomicon
+keyword	1300s
+keyword	book
+keyword	kingdom
+keyword	discount store
+keyword	sequel
+keyword	tongue in cheek
+keyword	skeleton
+keyword	quest
+keyword	car
+keyword	evil dead
+keyword	castle
+keyword	chainsaw
+keyword	army of the dead
+keyword	pit
+keyword	shotgun
+keyword	fight
+keyword	20th century
+keyword	chase
+keyword	cemetery
+keyword	prophecy
+keyword	skeleton soldier
+keyword	metal hand
+keyword	zombie
+keyword	repeating rifle
+keyword	car accident
+keyword	gun fu
+keyword	miniature people
+keyword	human duplication
+keyword	sword and sorcery
+keyword	doppelganger
+keyword	hand to hand combat
+keyword	fighting
+keyword	one against many
+keyword	1990s
+keyword	tough guy
+keyword	lance
+keyword	blacksmith
+keyword	hit in the crotch
+keyword	boomstick
+keyword	spear
+keyword	severed hand
+keyword	animate object
+keyword	blood
+keyword	reverse footage
+keyword	absurd violence
+keyword	reluctant hero
+keyword	part stop motion
+keyword	epic
+keyword	blood spatter
+keyword	over the top
+keyword	mixed martial arts
+keyword	evil twin
+keyword	voice over narration
+keyword	12 gauge shotgun
+keyword	dismemberment
+keyword	book of evil
+keyword	book of the dead
+keyword	cult figure
+keyword	sex
+keyword	animate skeleton
+keyword	good versus evil
+keyword	shot in the face
+keyword	battering ram
+keyword	shield
+keyword	chemistry
+keyword	dark fantasy
+keyword	double barreled shotgun
+keyword	voice over flashback
+keyword	evil skeleton monster
+keyword	bow and arrow
+keyword	explosive
+keyword	h.p. lovecraft
+keyword	armor
+keyword	tragic hero
+keyword	psychotronic
+keyword	actor playing multiple roles
+keyword	disarming someone
+keyword	trampoline
+keyword	chosen one
+keyword	slapstick comedy
+keyword	warrior
+keyword	winchester rifle
+keyword	windmill
+keyword	prosthetic limb
+keyword	two headed person
+keyword	impalement
+keyword	cult film
+keyword	fictional war
+keyword	skeleton warrior
+keyword	lightning
+keyword	ambush
+keyword	third part
+keyword	black comedy
+keyword	archery
+keyword	shot with a bow and arrow
+keyword	duel
+keyword	possession
+keyword	battlefield
+keyword	cult film reference
+keyword	14th century
+keyword	sword and fantasy
+keyword	sequel to cult horror
+keyword	martial arts
+keyword	catapult
+keyword	artificial hand
+keyword	hero
+keyword	one liner
+keyword	wise man
+keyword	fish out of water
+keyword	gun violence
+keyword	damsel in distress
+keyword	bagpipes
+keyword	siege
+keyword	stylized violence
+keyword	horse
+keyword	surrealism
+keyword	alternate ending
+keyword	medieval times
+keyword	england
+keyword	three word title
+keyword	cult director
+keyword	slave
+keyword	axe
+keyword	kiss
+keyword	avant garde
+keyword	levitation
+keyword	sword duel
+keyword	decapitation
+keyword	crossbow
+keyword	head spin
+keyword	time travel
+keyword	mirror
+keyword	witch
+keyword	sword fight
+keyword	war cry
+keyword	anti hero
+keyword	oldsmobile
+keyword	flaming arrow
+keyword	anvil
+keyword	steampunk
+keyword	curse
+keyword	demonic undead
+keyword	action hero
+keyword	prologue
+keyword	spoof
+keyword	knight
+keyword	sequel to cult favorite
+keyword	one man army
+keyword	opening action scene
+keyword	undead
+keyword	alternate version
+keyword	cult film
+keyword	combat
+keyword	surprise ending
+cast	Bruce Campbell	Ash
+cast	Embeth Davidtz	Sheila
+cast	Marcus Gilbert	Lord Arthur
+cast	Ian Abercrombie	Wiseman
+cast	Richard Grove	Duke Henry the Red
+cast	Timothy Patrick Quill	Blacksmith
+cast	Michael Earl Reid	Gold Tooth
+cast	Bridget Fonda	Linda
+cast	Patricia Tallman	Possessed Witch
+cast	Ted Raimi	Cowardly Warrior / Second Supportive Villager / S-Mart Clerk
+cast	Deke Anderson	Mini-Ash #2
+cast	Bruce Thomas	Mini-Ash #3
+cast	Sara Shearer	Old Woman
+cast	Shiva Gordon	Pit Deadite #1
+cast	Billy Bryan	Pit Bitch
+cast	Nadine Grycan	Winged Deadite
+cast	Bill Moseley	Deadite Captain
+cast	Micheal Kenney	Henry's Man
+cast	Andy Bale	Lieutenant #1
+cast	Robert Brent Lappin	Lieutenant #2
+cast	Rad Milo	Tower Guard
+cast	Brad Bradbury	Chief Archer
+cast	Sol Abrams	Fake Shemp
+cast	Lorraine Axeman	Fake Shemp
+cast	Josh Becker	Fake Shemp
+cast	Sheri Burke	Fake Shemp
+cast	Don Campbell	Fake Shemp
+cast	Charlie Campbell	Fake Shemp
+cast	Harley Cokeliss	Fake Shemp
+cast	Ken Jepson	Fake Shemp
+cast	William Lustig	Fake Shemp
+cast	David O'Malley	Fake Shemp
+cast	David Pollison	Fake Shemp
+cast	Ivan Raimi	Fake Shemp
+cast	Bernard Rose	Fake Shemp
+cast	Bill Vincent	Fake Shemp
+cast	Chris Webster	Fake Shemp
+cast	Ron Zwang	Fake Shemp
+cast	J Michael Briggs	Horseback Warrior
+cast	Eric Clarke	Deadite
+cast	Angela Featherstone	Girl in S-Mart
+cast	Patricia Anne Isgate	Peasant Woman
+cast	Kevin O'Hara	Deadite
+cast	Courtney Pakiz	Deadite
+cast	Sam Raimi	Knight in Sweatshirt and Sneakers
+cast	Monique Yates Jr.	Graveyard Wench

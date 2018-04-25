@@ -1,0 +1,265 @@
+year	1972
+imdb score	7.5
+meta score	N/A
+genre	Action
+genre	Crime
+genre	Thriller
+keyword	heist
+keyword	parole
+keyword	bank
+keyword	on the run
+keyword	elevator
+keyword	bank vault
+keyword	blood
+keyword	kiss
+keyword	deception
+keyword	headphones
+keyword	car damage
+keyword	car chase
+keyword	surveillance
+keyword	bra
+keyword	convict
+keyword	firepower
+keyword	infidelity
+keyword	visiting hours
+keyword	murder
+keyword	satchel
+keyword	map
+keyword	lovers on the lam
+keyword	humiliation
+keyword	stylized violence
+keyword	bank heist
+keyword	betrayal
+keyword	supermarket
+keyword	prison cell
+keyword	watching tv
+keyword	cuckold
+keyword	male nudity
+keyword	u.s. mexico border
+keyword	freedom
+keyword	husband wife relationship
+keyword	suicide by hanging
+keyword	robbery
+keyword	beretta
+keyword	gunfight
+keyword	power cut
+keyword	woman with a gun
+keyword	dump truck
+keyword	timebomb
+keyword	gangster
+keyword	explosive
+keyword	wound
+keyword	bag of money
+keyword	suicide
+keyword	evil politician
+keyword	adultery
+keyword	con man
+keyword	inmate
+keyword	ex convict
+keyword	set up
+keyword	locker
+keyword	anti hero
+keyword	train
+keyword	synchronizing watches
+keyword	money
+keyword	politician
+keyword	death
+keyword	bank robber
+keyword	rear end collision
+keyword	sewer
+keyword	political corruption
+keyword	mexico
+keyword	slow motion action scene
+keyword	sexuality
+keyword	police car
+keyword	planning
+keyword	loot
+keyword	photograph
+keyword	barn
+keyword	police chase
+keyword	prison guard
+keyword	reindeer
+keyword	redemption
+keyword	sadist
+keyword	veterinarian
+keyword	man slaps a woman
+keyword	hotel
+keyword	jumping into water
+keyword	slow motion scene
+keyword	roadblock
+keyword	explosion
+keyword	train station
+keyword	wire cutter
+keyword	swimming
+keyword	border guard
+keyword	gunshot wound
+keyword	knocked out
+keyword	action hero
+keyword	violence
+keyword	desert
+keyword	cat
+keyword	bus stop
+keyword	railroad station
+keyword	gang
+keyword	assassin
+keyword	border crossing
+keyword	sexual favor
+keyword	shootout
+keyword	slow motion violence
+keyword	kidnapping
+keyword	criminal
+keyword	female nudity
+keyword	wounded man
+keyword	cruelty
+keyword	blood splatter
+keyword	prison
+keyword	chess
+keyword	exploding truck
+keyword	heist gone wrong
+keyword	shot to death
+keyword	texas
+keyword	water gun
+keyword	theft
+keyword	pump action shotgun
+keyword	tommy gun
+keyword	imprisonment
+keyword	police
+keyword	garbage dump
+keyword	mask
+keyword	destruction of property
+keyword	speeding car
+keyword	radio
+keyword	fugitive
+keyword	probation
+keyword	ski mask
+keyword	bullet time
+keyword	prisoner
+keyword	sadism
+keyword	parade
+keyword	fire engine
+keyword	pick up
+keyword	blockbuster
+keyword	flash forward
+keyword	tough guy
+keyword	panties
+keyword	chase
+keyword	bus
+keyword	plan
+keyword	flashlight
+keyword	cowboy hat
+keyword	modern western
+keyword	thief
+keyword	showdown
+keyword	male slaps female
+keyword	old man
+keyword	exploding car
+keyword	female gangster
+keyword	staircase
+keyword	cowboy
+keyword	revolver
+keyword	shower
+keyword	double cross
+keyword	sex
+keyword	reference to john dillinger
+keyword	hotel fight
+keyword	spare ribs
+keyword	caper
+keyword	firearm
+keyword	bulletproof vest
+keyword	gun store
+keyword	extramarital affair
+keyword	shot in the stomach
+keyword	toy gun
+keyword	stealing
+keyword	shotgun
+keyword	revenge
+keyword	train ride
+keyword	hanging
+keyword	pet cat
+keyword	dumpster
+keyword	freeze frame
+keyword	drive thru
+keyword	upskirt
+keyword	bomb
+keyword	bullet ballet
+keyword	flashback
+keyword	paranoia
+keyword	bus station
+keyword	convicted felon
+keyword	prison escape
+keyword	work detail
+keyword	bank safe
+keyword	railway station
+keyword	food fight
+keyword	news report
+keyword	car accident
+keyword	guard
+keyword	neo noir
+keyword	neo western
+keyword	organized crime
+keyword	corrupt politician
+keyword	fire ladder
+keyword	parole hearing
+keyword	nail polish
+keyword	machine gun
+keyword	release from prison
+keyword	hitman
+keyword	hostage
+keyword	siren
+keyword	manhole
+keyword	con artist
+keyword	unfaithfulness
+keyword	submachine gun
+keyword	newspaper headline
+keyword	sexual torture
+keyword	lawyer
+keyword	parole board
+keyword	fireman
+keyword	state penitentiary
+keyword	el paso texas
+keyword	pistol
+keyword	bloodshed
+keyword	armed robbery
+keyword	garbage truck
+keyword	car crash
+keyword	security guard
+keyword	bank robbery
+keyword	power outage
+keyword	adulterous wife
+keyword	based on novel
+keyword	surprise ending
+cast	Steve McQueen	Doc McCoy
+cast	Ali MacGraw	Carol McCoy
+cast	Ben Johnson	Jack Beynon
+cast	Sally Struthers	Fran Clinton
+cast	Al Lettieri	Rudy Butler
+cast	Slim Pickens	Cowboy
+cast	Richard Bright	The Thief
+cast	Jack Dodson	Harold Clinton
+cast	Dub Taylor	Laughlin
+cast	Bo Hopkins	Frank Jackson
+cast	Roy Jenson	Cully
+cast	John Bryson	The Accountant
+cast	Bill Hart	Swain
+cast	Tom Runyon	Hayhoe
+cast	Whitney Jones	The Soldier
+cast	Raymond King	Boy on the Train
+cast	Ivan Thomas	Boy on the Train
+cast	C.W. White	Boy's Mother
+cast	Brenda W. King	Boy's Mother
+cast	W. Dee Kutach	Parole Board Chairman
+cast	Brick Lowry	Parole Board Commissioner
+cast	Martin Colley	McCoy's Lawyer
+cast	O.S. Savage	Field Captain
+cast	Dick Crockett	Bank Guard
+cast	A.L. Camp	Hardware Store Owner
+cast	Bob Veal	TV Shop Proprietor
+cast	Bruce Bissonette	Sporting Goods Salesman
+cast	Maggie Gonzalez	Carhop
+cast	Jim Kannon	Cannon
+cast	Doug Dudley	Max
+cast	Stacy Newton	Stacy
+cast	Tommy Bush	Cowboy's Helper
+cast	Margaret Mazzola	Car Hop #1
+cast	Hal Smith	Various Radio Announcers
+cast	Tommy Splittgerber	Train Station Ticket Agent

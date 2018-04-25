@@ -1,0 +1,187 @@
+year	2000
+imdb score	6.4
+meta score	35
+genre	Action
+genre	Crime
+genre	Thriller
+keyword	car
+keyword	brother
+keyword	auto theft
+keyword	theft
+keyword	thief
+keyword	police
+keyword	criminal
+keyword	car theft
+keyword	chase
+keyword	brawl
+keyword	beating
+keyword	handcuffs
+keyword	death
+keyword	sex standing up
+keyword	auto mechanic
+keyword	machine gun
+keyword	ferrari
+keyword	heist
+keyword	fighting
+keyword	martial arts
+keyword	brass knuckles
+keyword	exploding car
+keyword	motor car crusher
+keyword	porsche
+keyword	hero
+keyword	hit in the crotch
+keyword	surveillance
+keyword	volvo
+keyword	machismo
+keyword	car chase
+keyword	blood spatter
+keyword	mercedes benz
+keyword	professional hit
+keyword	shot in the shoulder
+keyword	dreadlocks
+keyword	dog
+keyword	car crash
+keyword	gun
+keyword	california
+keyword	gunfight
+keyword	lock pick
+keyword	auto theft ring
+keyword	ford mustang
+keyword	fight
+keyword	black cop
+keyword	convicted felon
+keyword	waitress
+keyword	ferrari testarossa
+keyword	bra and panties
+keyword	showdown
+keyword	fistfight
+keyword	foot chase
+keyword	action hero
+keyword	bare breasts
+keyword	organized crime
+keyword	rolls royce
+keyword	mother son relationship
+keyword	arrest
+keyword	reference to bill bixby
+keyword	police chase
+keyword	automobile
+keyword	computer cracker
+keyword	tough guy
+keyword	coffin
+keyword	los angeles storm drain
+keyword	kiss
+keyword	burglary
+keyword	stolen car racket
+keyword	m 16
+keyword	chevrolet camaro
+keyword	drugs
+keyword	car jump
+keyword	semiautomatic pistol
+keyword	detective
+keyword	falling from height
+keyword	forklift
+keyword	suspense
+keyword	vehicle
+keyword	junkyard
+keyword	crushed car
+keyword	crime boss
+keyword	former criminal
+keyword	ak 47
+keyword	undercover cop
+keyword	opening action scene
+keyword	kissing while having sex
+keyword	chevrolet corvette
+keyword	blonde
+keyword	sports car
+keyword	shootout
+keyword	los angeles california
+keyword	car movie
+keyword	grand theft auto
+keyword	hand to hand combat
+keyword	jaguar car
+keyword	drag racing
+keyword	pistol
+keyword	explosion
+keyword	pontiac gto
+keyword	remake
+keyword	blood
+keyword	ambush
+keyword	betrayal
+keyword	mixed martial arts
+keyword	violence
+keyword	disarming someone
+keyword	number in title
+keyword	surprise ending
+cast	Nicolas Cage	Memphis Raines
+cast	Giovanni Ribisi	Kip Raines
+cast	Angelina Jolie	Sara 'Sway' Wayland
+cast	T.J. Cross	Mirror Man
+cast	William Lee Scott	Toby
+cast	Scott Caan	Tumbler
+cast	James Duval	Freb
+cast	Will Patton	Atley Jackson
+cast	Delroy Lindo	Det. Roland Castlebeck
+cast	Timothy Olyphant	Detective Drycoff
+cast	Chi McBride	Donny Astricky
+cast	Robert Duvall	Otto Halliwell
+cast	Christopher Eccleston	Raymond Calitri
+cast	Vinnie Jones	The Sphinx
+cast	Grace Zabriskie	Helen Raines
+cast	Michael Owen	Kid in Rice Burner
+cast	Jaime Bergman	Blonde in Drag Race
+cast	Holiday Hopke	Waitress
+cast	Harry Van Gorkum	Forge
+cast	Frances Fisher	Junie
+cast	Grace Una	Jenny
+cast	Jesse Corti	Cop - At Quality Café
+cast	Stephen Shellen	Exotic Car Salesman
+cast	Alexandra Balahoutis	DMV Clerk
+cast	Rainbow Borden	Car Jacker #1
+cast	Vic Manni	Worker
+cast	Sanjay	Glass House Guy
+cast	Doria Anselmo	Glass House Girl
+cast	Lois Hall	Old Woman
+cast	Dean Rader-Duval	Hype
+cast	C.J. Picerni	Go Cart Kid
+cast	Kevin Weisman	Intern 2
+cast	Anthony Boswell	Buddy
+cast	Billy Devlin	Detective Jurgens
+cast	Bodhi Elfman	Fuzzy Frizzel
+cast	Arye Gross	James Lakewood
+cast	Greg Collins	San Pedro Cop
+cast	Cosimo Fusco	Adjacent Mechanic
+cast	Eddie Mui	Billy Moony
+cast	Joseph Patrick Kelly	Snake G.R.A.B.
+cast	Scott Burkholder	Rent a Cop
+cast	Margaret Kontra Palmer	Televangelist Wife
+cast	Charlene Bloom	Swimming Girl
+cast	Kevin West	Intern 1
+cast	Billy 'Sly' Williams	Cop
+cast	Alex Walters	Fireman
+cast	Lombardo Boyar	Paramedic
+cast	Angela Tassoni	Accident Victim
+cast	Scott Rosenberg	Private Doctor
+cast	Steve Danton	G.R.A.B. Officer #2
+cast	Tyler Patton	Security Guard
+cast	Carmen Argenziano	Detective Mayhew
+cast	Dan Hildebrand	Saul
+cast	King Alexander	Bar Dude
+cast	Nick Meaney	Thug
+cast	Michael Peña	Ignacio
+cast	Juan Pina	Gang Banger #2
+cast	Tim De Zarn	Shotgun Guy
+cast	John Carroll Lynch	Impound Manager
+cast	Douglas Bennett	Wrecker Driver 'Mel'
+cast	Bob Sattler	C.H.P.
+cast	David 'Shark' Fralick	Car Thief
+cast	Cecily Gambrell	Accident Victim
+cast	Michael Gerald	Officer
+cast	Trevor Goddard	Don
+cast	Veronica Grey	Blue Haired Driver
+cast	Brad William Henke	
+cast	Ken Jenkins	Televangelist
+cast	Brian McNamara	Parking Garage Attendant
+cast	George Meyers	Fireman On Bridge
+cast	Master P	Johnnie B.
+cast	Bob Pepper	Mechanic
+cast	Drew Renkewitz	Toolie the Bartender

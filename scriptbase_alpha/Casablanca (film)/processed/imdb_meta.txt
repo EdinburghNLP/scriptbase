@@ -1,0 +1,249 @@
+year	1942
+imdb score	8.7
+meta score	N/A
+genre	Drama
+genre	Romance
+genre	War
+keyword	casablanca
+keyword	german
+keyword	american expatriate
+keyword	police
+keyword	visa
+keyword	cafe
+keyword	freedom
+keyword	document
+keyword	old flame
+keyword	nightclub
+keyword	nazi
+keyword	underground
+keyword	gestapo
+keyword	freedom fighter
+keyword	love
+keyword	one word title
+keyword	french resistance
+keyword	voice over narration
+keyword	casino
+keyword	immigration
+keyword	curfew
+keyword	bazaar
+keyword	piano player
+keyword	bitterness
+keyword	map
+keyword	1940s
+keyword	politics
+keyword	musician
+keyword	morocco
+keyword	airplane
+keyword	newlywed
+keyword	alcoholic drink
+keyword	roulette
+keyword	hero
+keyword	cult film
+keyword	forced perspective
+keyword	betrayal
+keyword	seemingly widowed
+keyword	nightclub owner
+keyword	pianist
+keyword	arc de triomphe paris
+keyword	dancing
+keyword	anti hero
+keyword	casablanca morocco
+keyword	railway station
+keyword	pickpocket
+keyword	eiffel tower paris
+keyword	neon sign
+keyword	lisbon portugal
+keyword	place name in title
+keyword	train
+keyword	husband wife relationship
+keyword	military officer
+keyword	arab
+keyword	patron
+keyword	globe
+keyword	bar
+keyword	russian
+keyword	bartender
+keyword	resistance movement
+keyword	extortion
+keyword	guitarist
+keyword	bulgarian
+keyword	la marseillaise
+keyword	immigration documents
+keyword	singing
+keyword	police chief
+keyword	escape
+keyword	suspense
+keyword	piano
+keyword	macguffin
+keyword	concentration camp survivor
+keyword	double cross
+keyword	rainstorm
+keyword	north africa
+keyword	performer
+keyword	hotel
+keyword	black market
+keyword	lost love
+keyword	cult movie cast
+keyword	loyalty
+keyword	repeated line
+keyword	secret marriage
+keyword	resentment
+keyword	arrest
+keyword	sitting
+keyword	prologue
+keyword	police arrest
+keyword	airport
+keyword	fog
+keyword	character says i love you
+keyword	chess
+keyword	nazi officer
+keyword	shot to death
+keyword	friendship
+keyword	vichy
+keyword	world war two in africa
+keyword	famous line
+keyword	evil man
+keyword	german occupation of france
+keyword	wipe
+keyword	music band
+keyword	propaganda
+keyword	german army
+keyword	german soldier
+keyword	murder
+keyword	cynicism
+keyword	escaped prisoner
+keyword	wager
+keyword	fugitive from nazi
+keyword	refugee
+keyword	champagne
+keyword	sacrifice
+keyword	world war two
+keyword	reference to charles degaulle
+keyword	idealist
+keyword	paris france
+keyword	source music
+keyword	contemporary setting
+keyword	lovers reunited
+keyword	french colony
+keyword	police corruption
+keyword	pragmatist
+keyword	flashback
+keyword	resistance fighter
+keyword	saloon keeper
+keyword	love triangle
+keyword	famous score
+keyword	rigged casino
+keyword	police officer
+keyword	gambling
+keyword	searchlight
+keyword	singer
+keyword	tuxedo
+keyword	nazi occupation
+keyword	conversation with character playing piano
+keyword	famous song
+keyword	pistol
+keyword	war refugee
+keyword	drunkenness
+keyword	broken heart
+keyword	based on play
+keyword	title spoken by character
+keyword	
+cast	Humphrey Bogart	Rick Blaine
+cast	Ingrid Bergman	Ilsa Lund
+cast	Paul Henreid	Victor Laszlo
+cast	Claude Rains	Captain Louis Renault
+cast	Conrad Veidt	Major Heinrich Strasser
+cast	Sydney Greenstreet	Signor Ferrari
+cast	Peter Lorre	Ugarte
+cast	S.Z. Sakall	Carl
+cast	Madeleine Lebeau	Yvonne
+cast	Dooley Wilson	Sam
+cast	Joy Page	Annina Brandel
+cast	John Qualen	Berger
+cast	Leonid Kinskey	Sascha
+cast	Curt Bois	Pickpocket
+cast	Enrique Acosta	Guest at Rick's
+cast	Ed Agresti	Bar Patron
+cast	Louis V. Arco	Refugee at Rick's
+cast	Frank Arnold	Overseer
+cast	Leon Belasco	Dealer at Rick's
+cast	Nino Bellini	Gendarme
+cast	Trude Berliner	Baccarat Player at Rick's
+cast	Oliver Blake	Waiter at the Blue Parrot
+cast	Monte Blue	American
+cast	Eugene Borden	Policeman
+cast	Dick Botiller	Native Officer
+cast	Maurice Brierre	Baccarat Dealer at Rick's
+cast	Anita Camargo	Woman Companion
+cast	George M. Carleton	American
+cast	Spencer Chan	Guest at Rick's
+cast	Melie Chang	Oriental at Rick's
+cast	Gino Corrado	Waiter at Rick's
+cast	Franco Corsaro	French Police Officer
+cast	Adrienne D'Ambricourt	Concierge
+cast	Marcel Dalio	Emil - Croupier at Rick's
+cast	Helmut Dantine	Jan Brandel
+cast	Jean De Briac	Orderly
+cast	George Dee	Lt. Casselle
+cast	Jean Del Val	Police Officer
+cast	Carl Deloro	Arab Guest with Fez
+cast	Joseph DeVillard	Moroccan
+cast	Arthur Dulac	News Vendor
+cast	William Edmunds	Second Contact Man at Rick's
+cast	Herbert Evans	Englishman Questioning Casino's Honesty
+cast	Fred Farrell	Singing Frenchman
+cast	Adolph Faylauer	Gambler at Rick's
+cast	O.K. Ford	Conspirator
+cast	Martin Garralaga	Headwaiter at Rick's
+cast	Gregory Gaye	German Banker Refused by Rick
+cast	Gregory Golubeff	Cashier at Rick's
+cast	Ilka Grüning	Mrs. Leuchtag - Carl's Immigrating Friend
+cast	Creighton Hale	Customer
+cast	Winifred Harris	Englishwoman
+cast	Jamiel Hasson	Muezzini
+cast	Arthur Stuart Hull	Elderly Admirer
+cast	Olaf Hytten	Pickpocketed Prosperous Man
+cast	Paul Irving	Prosperous Tourist
+cast	Charles La Torre	Italian Officer Tonnelli
+cast	George J. Lewis	Haggling Arab Monkey Seller
+cast	Max Linder	Elegant Gambler
+cast	Manuel Lopez	Policeman
+cast	Jacques Lory	Moor Buying Diamonds
+cast	Lou Marcelle	Narrator
+cast	Michael Mark	Vendor
+cast	Tony Martelli	Bartender
+cast	George Meeker	Rick's Friend
+cast	Lal Chand Mehra	Policeman
+cast	Hercules Mendez	Arab Guest with Fez
+cast	Louis Mercier	Conspirator
+cast	Torben Meyer	Dutch Banker at Cafe Table
+cast	Alberto Morin	French Officer Insulting Yvonne
+cast	Leo Mostovoy	Fydor
+cast	Corinna Mura	Singer with Guitar
+cast	Barry Norton	Gambler at Rick's
+cast	Lotte Palfi Andor	Woman Selling Her Diamonds
+cast	Paul Panzer	Paul - Waiter at Rick's
+cast	Manuel París	Guest at Rick's
+cast	Alexander Pollard	Croupier
+cast	Paul Porcasi	Native Introducing Ferrari
+cast	Frank Puglia	Arab Vendor
+cast	Georges Renavent	Conspirator
+cast	Dewey Robinson	Bouncer at Rick's
+cast	Henry Rowland	German Officer
+cast	Richard Ryen	Col. Heinz - Strasser's Aide
+cast	Dan Seymour	Abdul
+cast	Lester Sharpe	Refugee
+cast	Dina Smirnova	Woman Customer
+cast	Gerald Oliver Smith	Pickpocketed Englishman
+cast	George Sorel	Native Officer
+cast	Geoffrey Steele	Customer
+cast	Ludwig Stössel	Mr. Leuchtag
+cast	Mike Tellegen	Gambler
+cast	Rafael Trujillo	Man turning propeller at airport
+cast	Jacques Vanaire	Frenchman
+cast	Ellinor Vanderveer	Woman Gambler at Rick's Next to Croupier
+cast	Norma Varden	Wife of Pickpocketed Englishman
+cast	Hans Heinrich von Twardowski	German Officer with Yvonne
+cast	Leo White	Emile - Waiter
+cast	Jack Wise	Waiter
+cast	Wolfgang Zilzer	Man with Expired Papers

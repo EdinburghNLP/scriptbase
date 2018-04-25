@@ -1,0 +1,161 @@
+year	1995
+imdb score	6.9
+meta score	82
+genre	Comedy
+genre	Crime
+genre	Thriller
+keyword	debt
+keyword	mobster
+keyword	movie business
+keyword	producer
+keyword	loan shark
+keyword	gambling
+keyword	thug
+keyword	short man
+keyword	hairdresser
+keyword	pushed down stairs
+keyword	gay slur
+keyword	frame up
+keyword	filmmaking
+keyword	drug enforcement agency
+keyword	surprise party
+keyword	violence
+keyword	reference to david o selznick
+keyword	beating
+keyword	coat
+keyword	money
+keyword	stuntman
+keyword	smoking
+keyword	los angeles california
+keyword	faked death
+keyword	florida
+keyword	drug lord
+keyword	reference to bette davis
+keyword	hostage
+keyword	sole black character dies cliche
+keyword	limousine
+keyword	satire
+keyword	airplane
+keyword	female rocker
+keyword	8 track
+keyword	motel
+keyword	insurance settlement
+keyword	missing person
+keyword	neo noir
+keyword	reference to al pacino
+keyword	reference to dean martin
+keyword	movie producer
+keyword	falling from height
+keyword	literary adaptation
+keyword	murder
+keyword	confidence trick
+keyword	neck brace
+keyword	crotch grab
+keyword	reference to orson welles
+keyword	mob enforcer
+keyword	restaurant
+keyword	california
+keyword	actress
+keyword	organized crime
+keyword	billboard
+keyword	stolen money
+keyword	police surveillance
+keyword	actor
+keyword	revenge
+keyword	con artist
+keyword	black comedy
+keyword	dolly zoom
+keyword	debt collector
+keyword	airport
+keyword	scam
+keyword	ponytail
+keyword	gangster
+keyword	movie set
+keyword	heart attack
+keyword	broken nose
+keyword	parking garage
+keyword	hollywood california
+keyword	birthday party
+keyword	breaking and entering
+keyword	locker
+keyword	extortion
+keyword	one last job
+keyword	film within a film
+keyword	suv
+keyword	f word
+keyword	mafia
+keyword	reference to john wayne
+keyword	father daughter relationship
+keyword	dumb criminal
+keyword	drug cartel
+keyword	held at gunpoint
+keyword	insurance fraud
+keyword	film set
+keyword	las vegas nevada
+keyword	pushed off a balcony
+keyword	dea
+keyword	miami florida
+keyword	mansion
+keyword	two word title
+keyword	sitting on a toilet
+keyword	hit with a telephone
+keyword	man punching a woman
+keyword	cult film
+keyword	b movie
+keyword	based on novel
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	John Travolta	Chili Palmer
+cast	Gene Hackman	Harry Zimm
+cast	Rene Russo	Karen Flores
+cast	Danny DeVito	Martin Weir
+cast	Dennis Farina	Ray 'Bones' Barboni
+cast	Delroy Lindo	Bo Catlett
+cast	James Gandolfini	Bear
+cast	Jon Gries	Ronnie Wingate
+cast	Renee Props	Nicki
+cast	David Paymer	Leo Devoe
+cast	Martin Ferrero	Tommy Carlo
+cast	Miguel Sandoval	Mr. Escobar
+cast	Jacob Vargas	Yayo Portillo
+cast	Linda Hart	Fay Devoe
+cast	Bobby Slayton	Dick Allen
+cast	Ron Karabatsos	Momo
+cast	Alison Waddell	Bear's Daughter
+cast	Amber Waddell	Bear's Daughter
+cast	John Cothran	Agent Curtis
+cast	Jack Conley	Agent Dunbar
+cast	Bernard Hocke	Agent Morgan
+cast	Big Daddy Wayne	Ray Barboni's Bodyguard
+cast	Jay Montalvo	Big Guy with Escobar
+cast	Carlease Burke	Rental Car Attendant
+cast	Vito Scotti	Manager at Vesuvio's
+cast	Rino Piccolo	Waiter at Vesuvio's
+cast	Alfred Dennis	Ed the Barber
+cast	Ralph Manza	Fred the Barber
+cast	Zed Frizzelle	Kid at Lockers
+cast	Harry Victor	Limo Driver with Sign
+cast	Patrick Breen	Resident Doctor
+cast	Barry Sonnenfeld	Doorman
+cast	Donna W. Scott	Screaming Woman
+cast	Zack Phifer	Ivy Restaurant Maitre d'
+cast	Greg Goossen	Duke, Man at the Ivy
+cast	Stephanie Kemp	Ivy Restaurant Waitress
+cast	Rebeca Arthur	Las Vegas Waitress
+cast	Jeffrey J. Stephen	Bones' Buddy
+cast	Ernest 'Chili' Palmer	Bones' Buddy #2
+cast	Leslie Bega	Vikki Vespa
+cast	Marlene Dietrich	Tanya
+cast	Brian Reed Garvin	Plane Guy
+cast	David Groh	Buddy Lupton
+cast	Charlton Heston	Mike Vargas
+cast	Harvey Keitel	Himself
+cast	David Letterman	Himself
+cast	Penny Marshall	Herself
+cast	Dean Martin	Dude
+cast	Bette Midler	Doris Saphron
+cast	Alex Rocco	Jimmy Capp
+cast	John Wayne	Sheriff John T. Chance
+cast	Orson Welles	Police Captain Hank Quinlan
+cast	Lenny Wilson	Pilot in Airport

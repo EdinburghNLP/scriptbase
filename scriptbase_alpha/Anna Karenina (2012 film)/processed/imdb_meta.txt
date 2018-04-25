@@ -1,0 +1,202 @@
+year	2012
+imdb score	6.6
+meta score	63
+genre	Drama
+keyword	marriage
+keyword	russia
+keyword	love
+keyword	saint petersburg
+keyword	train station
+keyword	imperial russia
+keyword	high society
+keyword	dance
+keyword	infidelity
+keyword	son
+keyword	train
+keyword	fiance
+keyword	kiss
+keyword	marriage of convenience
+keyword	sensuous kiss
+keyword	male rear nudity
+keyword	russian
+keyword	flirting
+keyword	mistress
+keyword	horse
+keyword	ice
+keyword	rejection
+keyword	crying woman
+keyword	dancing
+keyword	mustache
+keyword	title same as book
+keyword	year 1874
+keyword	man in bed
+keyword	theater
+keyword	leo tolstoy
+keyword	moscow russia
+keyword	18 year old
+keyword	horse race
+keyword	19th century
+keyword	two word title
+keyword	picnic
+keyword	sex scene
+keyword	public humiliation
+keyword	snow
+keyword	woman crying
+keyword	married woman
+keyword	clerk
+keyword	depression
+keyword	unfaithful husband
+keyword	male nudity
+keyword	illegitimate child
+keyword	childbirth
+keyword	mother son relationship
+keyword	marriage proposal
+keyword	unfaithful wife
+keyword	husband wife relationship
+keyword	1870s
+keyword	dead man
+keyword	fiancee
+keyword	baby daughter
+keyword	suicide
+keyword	daughter
+keyword	carriage
+keyword	russian literature
+keyword	bare chested male
+keyword	tragic death
+keyword	cuckold
+keyword	based on novel
+keyword	character name in title
+cast	Matthew Macfadyen	Oblonsky
+cast	Eric MacLennan	Matvey
+cast	Kelly Macdonald	Dolly
+cast	Theo Morrissey	Grisha Oblonsky
+cast	Cecily Morrissey	Lili Oblonsky
+cast	Freya Galpin	Masha Oblonsky
+cast	Octavia Morrissey	Tanya Oblonsky
+cast	Beatrice Morrissey	Vasya Oblonsky
+cast	Marine Battier	Mlle. Roland
+cast	Keira Knightley	Anna Karenina
+cast	Guro Nagelhus Schia	Annushka
+cast	Aruhan Galieva	Aruhan
+cast	Jude Law	Karenin
+cast	Carl Grose	Korney
+cast	Bryan Hands	Mikhail Slyudin
+cast	Oskar McNamara	Serhoza
+cast	Luke Newberry	Vasily Lukich
+cast	Olivia Williams	Countess Vronsky
+cast	Michael Shaeffer	Doorkeeper
+cast	Domhnall Gleeson	Levin
+cast	Steven Beard	Elderly Waiter
+cast	Alicia Vikander	Kitty
+cast	Pip Torrens	Prince Shcherbatsky
+cast	Susanne Lothar	Princess Shcherbatsky
+cast	Alexandra Roach	Countess Nordston
+cast	Henry Lloyd-Hughes	Burisov
+cast	Aaron Taylor-Johnson	Vronsky
+cast	David Wilmot	Nikolai
+cast	Tannishtha Chatterjee	Masha
+cast	Joseph Macnab	Guards Officer
+cast	Nick Holder	Stationmaster
+cast	Claire Greenway	Austrian Princess
+cast	Mike Shepherd	Wheel Tapper
+cast	Arthur Nightingale	Oblonsky's Servant
+cast	Buffy Davis	Agafia
+cast	Gala Wesson	Kitchen Maid
+cast	Eros Vlahos	Boris
+cast	Kyle Soller	Korsunsky
+cast	Sam Cox	Kapitonich
+cast	Max Bennett	Petritsky
+cast	Holliday Grainger	Baroness
+cast	Ruth Wilson	Princess Betsy Tverskoy
+cast	Jude Monk McGowan	Tuskevitch
+cast	Antony Byrne	Colonel Demin
+cast	Emily Watson	Countess Lydia Ivanova
+cast	Michelle Dockery	Princess Myagkaya
+cast	Emerald Fennell	Princess Merkalova
+cast	Sarine Sofair	Anna's Friend
+cast	Thomas Howes	Yashvin
+cast	Raphaël Personnaz	Alexander Vronsky
+cast	Bill Skarsgård	Makhotin
+cast	Cara Delevingne	Princess Sorokina
+cast	Bodil Blain	Princess Sorokina Senior
+cast	Hera Hilmar	Varya
+cast	Kenneth Collard	Prince Tverskoy
+cast	Steve Evets	Theodore
+cast	Conor McCarry	Young Peasant
+cast	Giles King	Stremov
+cast	Martin Wimbush	Anna's Doctor
+cast	James Northcote	Princess Betsy's Footman
+cast	Duncan Wisbey	Shopkeeper
+cast	Jamie Beamish	Opera House Husband
+cast	Shirley Henderson	Opera House Wife
+cast	Simon Muller	Opera House Manager
+cast	Nikolai Lester	Piano Prodigy
+cast	Tillie-Bett Grant	Baby Anya
+cast	Navala 'Nico' Chaudhari	Ball Dancer & French Theatre Dancer
+cast	Amber Doyle	Ball Dancer & French Theatre Dancer
+cast	Damien Forurnier	Ball Dancer & French Theatre Dancer
+cast	Laura Neyskens	Ball Dancer & French Theatre Dancer
+cast	Daniel Proietto	Ball Dancer & French Theatre Dancer
+cast	Verjorn Sundby	Ball Dancer & French Theatre Dancer
+cast	Jennifer White	Ball Dancer & French Theatre Dancer
+cast	Paul Zivkovich	Ball Dancer & French Theatre Dancer
+cast	Michael Barnes	Ball Damcer
+cast	Anna Bjerre Larsen	Ball Dancer
+cast	James Cousins	Ball dancer
+cast	Eva Dewaele	Ball Dancer
+cast	Pia Driver	Ball Dancer
+cast	Stephanie Elstob	Ball Dancer
+cast	Thomas Herron	Ball Dancer
+cast	Jennifer Essex	Ball Dancer
+cast	Edward Lewis French	Ball Dancer
+cast	Courtney Garratt	Ball Dancer
+cast	Omar Gordon	Ball Dancer
+cast	Fania Grigoriou	Ball Dancer
+cast	Thomasin Gulgec	Ball Dancer
+cast	Louise-Michel Jackson	Ball Dancer
+cast	Bless Klepcharek	Ball Dancer
+cast	Jesse Kovarsky	Ball Dancer
+cast	Marie Marinez	Ball Dancer
+cast	Cameron McWilliam	Ball Dancer
+cast	Michela Meazza	Ball Dancer
+cast	Oliver Metzler	Ball Dancer
+cast	Andrew Monaghan	Ball Dancer
+cast	Ashley James Orwin	Ball Dancer
+cast	Shintaro Oue	Ball Dancer
+cast	Sonja Perreten	Ball Dancer
+cast	Claire Piquemal	Ball Dancer
+cast	Natascha Pire	Ball Dancer
+cast	Linda Remahl	Ball Dancer
+cast	Daria Reznikova	Ball Dancer
+cast	Vala Runarsdottir	Ball Dancer
+cast	Helder Seabra	Ball Dancer
+cast	Aaron Sillis	Ball Dancer
+cast	Rebecca Sutherland	Ball Dancer
+cast	Ulrika Kinn Svensson	Ball Dancer
+cast	Teerachai Thobumrung	Ball Dancer
+cast	Aubert Vanderlinden	Ball Dancer
+cast	Benjamin Warbis	Ball Dancer
+cast	Lisa Welman	Ball Dancer
+cast	Joanna Ruth Wenger	Ball Dancer
+cast	Tegen Whyte	Ball Dancer
+cast	Jorys Zwgarac	Ball Dancer
+cast	Telman Guzhevsky	Opera Singer
+cast	Allegra Giagu	Opera Singer
+cast	Philip Firsov	Singing Russian Soldier
+cast	Chris Foster	Singing Russian Soldier
+cast	Jaroslav Gavrilov	Singing Russian Soldier
+cast	Lukasz Hajduczenia	Singing Russian Soldier
+cast	Greg Bennett	Theatre Goer
+cast	Nicholas Blatt	Major Domo
+cast	John Bradley	Austrian Prince
+cast	Gergo Brummel	Office Clerk
+cast	James Fiddy	Countess Lydia's Guest
+cast	Jensen Freeman	Regimental Soldier
+cast	Paul Ham	Michael
+cast	Kostas Katsikis	Opera Fan
+cast	Denis Khoroshko	Ballroom Guest
+cast	Inga Leps	Gallery Guest
+cast	Victoria Ley	Opera Fan
+cast	Vicky McClure	Girl Harvesting
+cast	Brian Niblett	Politician
+cast	Martin Poole	Opera Guest

@@ -1,0 +1,335 @@
+year	2010
+imdb score	7.9
+meta score	79
+genre	Biography
+genre	Drama
+genre	Sport
+keyword	boxing
+keyword	boxer
+keyword	lowell massachusetts
+keyword	domineering mother
+keyword	anger
+keyword	bartender
+keyword	boxing match
+keyword	drug addiction
+keyword	apartment
+keyword	what happened to epilogue
+keyword	movie date
+keyword	cake
+keyword	blood
+keyword	watching self on tv
+keyword	documentary crew
+keyword	manipulation
+keyword	reference to hbo
+keyword	half brother half brother relationship
+keyword	assault on police officer
+keyword	release from prison
+keyword	panties
+keyword	irish american
+keyword	sister sister relationship
+keyword	nipples visible through clothing
+keyword	father son relationship
+keyword	robbery
+keyword	singing in a car
+keyword	catfight
+keyword	fellatio
+keyword	python
+keyword	prison visit
+keyword	court
+keyword	impersonating a police officer
+keyword	shame
+keyword	beating
+keyword	two word title
+keyword	adidas clothing
+keyword	giving the finger
+keyword	large family
+keyword	limousine
+keyword	boyfriend girlfriend relationship
+keyword	interracial kiss
+keyword	interview
+keyword	calling parent by first name
+keyword	strategy
+keyword	bare chested male
+keyword	jumping from a window
+keyword	singing
+keyword	police brutality
+keyword	criminal
+keyword	falling asleep in a movie theatre
+keyword	embarrassment
+keyword	boxing trainer
+keyword	brother brother hug
+keyword	thinness
+keyword	blue collar worker
+keyword	boxer shorts
+keyword	prisoner
+keyword	slow motion scene
+keyword	reference to mtv
+keyword	1990s
+keyword	boxing ring
+keyword	black bra and panties
+keyword	drug use
+keyword	black bra
+keyword	watching tv
+keyword	press conference
+keyword	brother sister relationship
+keyword	documentary filmmaking
+keyword	convict
+keyword	unreliability
+keyword	oral sex in a car
+keyword	arrest
+keyword	character says trust me
+keyword	telephone
+keyword	husband wife relationship
+keyword	new hampshire
+keyword	prison
+keyword	woman in bra and panties
+keyword	jumping rope
+keyword	garbage dumpster
+keyword	drug addict
+keyword	london england
+keyword	black eye
+keyword	redemption
+keyword	technical knockout
+keyword	freeze frame
+keyword	loyalty
+keyword	bar
+keyword	title fight
+keyword	mother daughter relationship
+keyword	college dropout
+keyword	shadow boxing
+keyword	police arrest
+keyword	cigarette smoking
+keyword	foot chase
+keyword	title bout
+keyword	applause
+keyword	family relationships
+keyword	police sergeant
+keyword	running from the police
+keyword	female bartender
+keyword	home movie
+keyword	boxing gloves
+keyword	knocked out
+keyword	father daughter relationship
+keyword	boxing manager
+keyword	cambodian
+keyword	mother son relationship
+keyword	broken hand
+keyword	character repeating someone else's dialogue
+keyword	crack cocaine
+keyword	character appears on tv
+keyword	ex boxer
+keyword	see through bra
+keyword	actor playing himself
+keyword	gym
+keyword	welterweight boxer
+keyword	scene during end credits
+keyword	watching boxing on tv
+keyword	bandaged hand
+keyword	reference to the new york times
+keyword	prostitute
+keyword	boxing knockout
+keyword	resisting arrest
+keyword	american abroad
+keyword	gash in the face
+keyword	crack house
+keyword	bruise
+keyword	male underwear
+keyword	church bells
+keyword	ex husband ex wife relationship
+keyword	falling from height
+keyword	scene before opening credits
+keyword	chase
+keyword	training
+keyword	parent grown child relationship
+keyword	movie theater
+keyword	ends with real life footage
+keyword	punched in the stomach
+keyword	hairy chest
+keyword	underdog
+keyword	drug withdrawal
+keyword	reference to sugar ray leonard
+keyword	character is the subject of a documentary
+keyword	boxing movie
+keyword	black panties
+keyword	atlantic city new jersey
+keyword	intercom
+keyword	boxing ko
+keyword	punched in the face
+keyword	scene during opening credits
+keyword	based on true story
+keyword	
+cast	Mark Wahlberg	Micky Ward
+cast	Christian Bale	Dicky Eklund
+cast	Amy Adams	Charlene Fleming
+cast	Melissa Leo	Alice Ward
+cast	Mickey O'Keefe	Mickey O'Keefe
+cast	Jack McGee	George Ward
+cast	Melissa McMeekin	'Little Alice' Eklund
+cast	Bianca Hunter	Cathy 'Pork' Eklund
+cast	Erica McDermott	Cindy 'Tar' Eklund
+cast	Jill Quigg	Donna Eklund Jaynes
+cast	Dendrie Taylor	Gail 'Red Dog' Eklund
+cast	Kate B. O'Brien	Phyllis 'Beaver' Eklund
+cast	Jenna Lamia	Sherri Ward
+cast	Frank Renzulli	Sal Lanano
+cast	Paul Campbell	Gary 'Boo Boo' Giuffrida
+cast	Caitlin Dwyer	Kasie Ward
+cast	Chanty Sok	Karen
+cast	Ted Arcidi	Lou Gold
+cast	Ross Bickell	Mike Toma
+cast	Sean Malone	Wolfie
+cast	José Antonio Rivera	Gilberto Brown aka Jose
+cast	Richard Farrell	HBO Cameraman #1
+cast	Matthew Muzio	HBO Cameraman #2
+cast	Steven Barkhimer	HBO Producer
+cast	Art Ramalho	Art Ramalho
+cast	Sugar Ray Leonard	Sugar Ray Leonard
+cast	Jackson Nicoll	Little Dicky
+cast	Alison Folland	Laurie Carroll
+cast	Sean Patrick Doherty	Jimmy
+cast	Sue Costello	Becky
+cast	Thomas Benton	Businessman
+cast	Ray Greenhalge	Ray Ramalho
+cast	Tino Kimly	Pran
+cast	Epifanio Melendez	Carlos Garcia
+cast	Jeremiah Kissel	Bald Businessman
+cast	Sean Eklund	Man in Diner
+cast	Roeun Chea	Chan
+cast	Brian A. Nguyen	Brian
+cast	Rikki Kleiman	Court Clerk
+cast	Michael Dell'Orto	WBU Commissioner
+cast	Paul Locke	Reporter #1
+cast	Kim Carrell	Reporter #2
+cast	Colin Hamell	John Hyland
+cast	Dale Place	Referee Micky Vann
+cast	Eddie Lee Anderson	Referee Joe Cortez
+cast	Joe Lupino	Referee Mitch Halpern
+cast	Bonnie Aarons	Crackhead Bonnie
+cast	Walter Driscoll	Court Officer
+cast	Matt Russell	Photo Guy On Street
+cast	A. Joseph Denucci	Man on Street #1
+cast	Dicky Eklund	Man on Street #2
+cast	George Michael Ward	Man on Street #3
+cast	Richard Eklund Jr.	Man on Street #4
+cast	Jack Greenhalge	Man on Street #5
+cast	Kevin Paige	Man on Street #6
+cast	David A. Ramalho Sr.	Trainer
+cast	Ziad Akl	Inmate
+cast	Simon Hamlin	Movie Patron
+cast	Gerald Greenhalge	Uncle Jerry
+cast	Matthew Russell	Running Kid #1
+cast	Tommy Eklund	Running Kid #2
+cast	Rita Mercier	Woman on Street #1
+cast	Deborah Bolanger	Woman on Street #2
+cast	Kerry Moore	Woman on Street #3
+cast	Philip D. Herbert	Micky's Cutman
+cast	Raul Vera	Sanchez Trainer
+cast	Jack Lally	Neary Trainer
+cast	Carlos L. Smith	Sugar Ray Leonard Bodyguard
+cast	Jerrell Lee	Fight Spectator #1
+cast	Hugh Long	Fight Spectator #2
+cast	Catherine Lynn Stone	Fan
+cast	Eric Weinstein	Micky's Friend
+cast	Bo Cleary	Cop
+cast	Anthony Molinari	Neary
+cast	Peter Cunningham	Mike 'Machine Gun' Mungin
+cast	Miguel Espino	Alfonso Sanchez
+cast	Anthony 'Ace' Thomas	Castillo
+cast	Brian Christensen	Drunk Guy
+cast	Jen Weissenberg	Drunk Girl
+cast	Michael Buffer	Fight Announcer
+cast	Larry Merchant	Fight Announcer
+cast	Jim Lampley	Fight Announcer
+cast	Emanuel Steward	Fight Announcer
+cast	Roy Jones Jr.	Fight Announcer
+cast	George Foreman	Fight Announcer
+cast	Don Dunphy	Fight Announcer
+cast	Barry Ace	Fight Spectator
+cast	Diana Afonso	Ringside Extra
+cast	Charlie Alejandro	Movie Patron
+cast	Mel Alejandro	Visitor at House of Corrections
+cast	Cindi Alex	Cocktail Waitress
+cast	Christian Alvarado	Puerto Rican Gang Member
+cast	Clyde Anthony	Collins
+cast	Luke Ashlocke	Boxer
+cast	Kt Baldassaro	Mother with Children
+cast	Joseph Basile	Inmate Prisoner
+cast	Joseph Bianchi-Coppola	Reporter
+cast	Brina	Ringside Fan
+cast	Jodie Brunelle	VIP Spectator
+cast	Ryan Burton	Audience Member
+cast	Katelyn Cahill	Shamrock Girl / Reporter at Press Conference
+cast	Al Conti	Larry Merchant
+cast	Jeffrey Corazzini	Inmate
+cast	D.W. Cormier	Inmate
+cast	Max Cross	Fight Spectator
+cast	Ryan Cultrera	Boxing Spectator
+cast	Lee Cunningham	
+cast	Shawn Patrick Curley	Boxing Spectator
+cast	Tommy Dallace	Johnny Thunders
+cast	Christopher J. Davis	Visitor at House of Corrections
+cast	Richard DeAgazio	District Attorney
+cast	Kevin DeCoste	Autograph Boy
+cast	Luisa Diaz	Ring card girl
+cast	Anthony DiBartolomeo	Fight Spectator #3
+cast	Ronald Diberto	Man with Guitar
+cast	Shawn Doherty	Road Crew Co Worker #2
+cast	Uke Doiron	Spectator
+cast	James Donnelly	Donut Shop Patron
+cast	Danielle Druz	Lowell Mass Girl
+cast	Ger Duany	Extra
+cast	Alexandra East	Fight Spectator
+cast	Susan Farese	British Press Reporter
+cast	Shawn Fogarty	Ringside Reporter / Gym Fight Spectator / Courtroom Attendee / Pedestrian / Precision Driver
+cast	Evan Fonseca	Sports Photographer
+cast	Rich Foster	Bodyguard
+cast	John Franchi	VIP
+cast	Ryan Gleason	Road Crew Co Worker
+cast	Albert Gornie	Prison Inmate
+cast	Lindsay Hanzl	Audience Member
+cast	Frankie Imbergamo	Prison Guard
+cast	J Parker Kent	London Fight Security
+cast	Kimko	Referee
+cast	Jeffery Kincannon	Security for Micky Ward
+cast	David A. Kirsch	TV News Cameraman
+cast	Ren Knopf	Spectator / Tuxedoed Brit
+cast	Deme Lane	Brenda
+cast	Justin James Lang	Prisoner Background
+cast	Dennis Lauricella	Boxing Referee
+cast	Michael Marchand	Ring Official
+cast	C.R. Marchi	Inmate
+cast	Rob Marin	Inmate
+cast	Dan Marshall	Fight Spectator
+cast	Jeff Martineau	Fight Spectator
+cast	Adam Masnyk	White T Worker / Fight Spectator
+cast	Vanessa McCaffrey	Lowell Girl
+cast	Tricia Clift McCrone	Fight Spectator
+cast	Kenn Medeiros	Dad of Young Family
+cast	Anastasia Sanidopoulos Mousis	Fight Spectator
+cast	Thomas Olson	Fight Photographer
+cast	Bernie Ongewe	Boxer
+cast	Richard Pacheco	Ringside Patron
+cast	Jim Patton	Ringside VIP
+cast	Henry Penzi	Road Crew Co Worker
+cast	Stuart Pollock	Guy in Bar
+cast	Americo Presciutti	Inmate
+cast	David Pulson	Inmate
+cast	Carrie Ann Quinn	Vegas VIP
+cast	Eric Ryan	Lowell Police Officer
+cast	Megan Sacco	Ringside Spectator
+cast	Salvatore Santone	Young Micky Ward
+cast	Victoria Saunders	Fight Spectator
+cast	James Shalkoski Jr.	Dep. R Sztuka - Prison Guard
+cast	Ron Shimshilashvili	Fight Fan
+cast	Joe Sirani	Bodyguard
+cast	Briggon Snow	Fight Spectator
+cast	Kevin Stanton	Fight Spectator
+cast	David Struffolino	Boxing Ring Photographer
+cast	Seamus Towle	Boxing Spectator
+cast	J.T. Turner	Fight Fan
+cast	Vinnie Varon	Fight Spectator
+cast	Billy 'V' Vigeant	Kevin Slattery
+cast	Micky Ward	Himself
+cast	Lindsey Warm	Lowell Mass Girl
+cast	Hunter Wilichoski	Casino Kid
+cast	Josh Woolstenhulme	Extra

@@ -1,0 +1,191 @@
+year	2011
+imdb score	7.4
+meta score	76
+genre	Drama
+genre	Romance
+keyword	governess
+keyword	secret
+keyword	friendship
+keyword	love
+keyword	blood
+keyword	insanity
+keyword	childhood memory
+keyword	singing
+keyword	friend
+keyword	snowing
+keyword	one room schoolhouse
+keyword	horse and carriage
+keyword	field
+keyword	wedding veil
+keyword	reading
+keyword	child abuse
+keyword	belief in hell
+keyword	mental illness
+keyword	star crossed lovers
+keyword	hit with a book
+keyword	two word title
+keyword	classroom
+keyword	corporal punishment
+keyword	french
+keyword	stroke
+keyword	english countryside
+keyword	marriage proposal
+keyword	orphan girl
+keyword	letter
+keyword	piano
+keyword	drawing
+keyword	broken heart
+keyword	hugging
+keyword	thunder
+keyword	19 year old
+keyword	falling off horse
+keyword	little girl
+keyword	sexual awakening
+keyword	cap
+keyword	storm
+keyword	abuse
+keyword	bedroom
+keyword	illness
+keyword	rain
+keyword	children
+keyword	crying
+keyword	boarding school
+keyword	inheritance
+keyword	dollhouse
+keyword	1840s
+keyword	locked in a room
+keyword	flash forward
+keyword	yearning
+keyword	girl
+keyword	teacher
+keyword	estate
+keyword	punishment
+keyword	memory
+keyword	employer employee relationship
+keyword	dancing
+keyword	aunt
+keyword	hat
+keyword	dog
+keyword	madness
+keyword	abandonment
+keyword	book
+keyword	female protagonist
+keyword	wound
+keyword	bridge
+keyword	blindness
+keyword	kissing
+keyword	dying in someone's arms
+keyword	countryside
+keyword	saying grace
+keyword	dress
+keyword	religion
+keyword	globe
+keyword	forbidden love
+keyword	servant
+keyword	keeping a secret
+keyword	england
+keyword	fire
+keyword	coming of age
+keyword	nightgown
+keyword	girls' school
+keyword	hit on the head with a book
+keyword	painting
+keyword	gothic
+keyword	candle
+keyword	gunshot
+keyword	caretaker
+keyword	kiss
+keyword	suicide
+keyword	school uniform
+keyword	deception
+keyword	wedding ceremony
+keyword	aunt niece relationship
+keyword	fireplace
+keyword	prayer
+keyword	heavy rain
+keyword	orphan
+keyword	bonnet
+keyword	horse
+keyword	dormitory
+keyword	cruelty
+keyword	canceled wedding
+keyword	older man younger woman relationship
+keyword	hit on the head
+keyword	country estate
+keyword	horse riding
+keyword	veil
+keyword	brother sister relationship
+keyword	rite of passage
+keyword	house fire
+keyword	girls' boarding school
+keyword	country house
+keyword	ribbon
+keyword	free will
+keyword	nursing someone back to health
+keyword	minister
+keyword	first kiss
+keyword	period drama
+keyword	cigar smoking
+keyword	locked door
+keyword	housekeeper
+keyword	gun
+keyword	snow
+keyword	hair ribbon
+keyword	belief in god
+keyword	school
+keyword	teenage girl
+keyword	ward
+keyword	desire
+keyword	typhus
+keyword	paranoia
+keyword	badminton
+keyword	church
+keyword	haunted by the past
+keyword	belief in heaven
+keyword	guardian
+keyword	19th century
+keyword	servitude
+keyword	moor
+keyword	flashback
+keyword	bridal veil
+keyword	wedding dress
+keyword	death of friend
+keyword	based on novel
+keyword	character name in title
+keyword	title spoken by character
+cast	Mia Wasikowska	Jane Eyre
+cast	Jamie Bell	St John Rivers
+cast	Su Elliot	Hannah
+cast	Holliday Grainger	Diana Rivers
+cast	Tamzin Merchant	Mary Rivers
+cast	Amelia Clarkson	Young Jane
+cast	Craig Roberts	John Reed
+cast	Sally Hawkins	Mrs. Reed
+cast	Lizzie Hopley	Miss Abbot
+cast	Jayne Wisener	Bessie
+cast	Freya Wilson	Eliza Reed
+cast	Emily Haigh	Georgiana Reed
+cast	Simon McBurney	Mr. Brocklehurst
+cast	Sandy McDade	Miss Scatcherd
+cast	Freya Parks	Helen Burns
+cast	Edwina Elek	Miss Temple
+cast	Ewart James Walters	John
+cast	Judi Dench	Mrs. Fairfax
+cast	Georgia Bourke	Leah
+cast	Sally Reeve	Martha
+cast	Romy Settbon Moore	Adèle Varens
+cast	Eglantine Rembauville-Nicolle	Sophie
+cast	Michael Fassbender	Rochester
+cast	Rosie Cavaliero	Grace Poole
+cast	Angela Curran	Undercook
+cast	Imogen Poots	Blanche Ingram
+cast	Sophie Ward	Lady Ingram
+cast	Joe Van Moyland	Lord Ingram
+cast	Hayden Phillips	Colonel Dent
+cast	Laura Phillips	Mrs. Dent
+cast	Harry Lloyd	Richard Mason
+cast	Ned Dennehy	Dr. Carter
+cast	Joseph Kloska	Clergyman Wood
+cast	Ben Roberts	Briggs
+cast	Valentina Cervi	Bertha Mason
+cast	Sarah Hough	Georgiana Reed - Adult

@@ -1,0 +1,193 @@
+year	1999
+imdb score	4.7
+meta score	38
+genre	Action
+genre	Comedy
+genre	Sci-Fi
+genre	Western
+keyword	u.s. marshal
+keyword	general
+keyword	inventor
+keyword	19th century
+keyword	utah
+keyword	master of disguise
+keyword	confederate
+keyword	agent
+keyword	villain
+keyword	disguise
+keyword	train
+keyword	hero
+keyword	washington d.c.
+keyword	cult film
+keyword	critically bashed
+keyword	shot in the chest
+keyword	tough guy
+keyword	civil war veteran
+keyword	cross dressing
+keyword	megalomaniac
+keyword	historical fiction
+keyword	love interest
+keyword	tarantula
+keyword	captain
+keyword	action hero
+keyword	western hero
+keyword	bar fight
+keyword	government agent
+keyword	mad scientist
+keyword	buddy movie
+keyword	black hero
+keyword	bulletproof vest
+keyword	world domination
+keyword	exploding building
+keyword	terrorism
+keyword	mexican standoff
+keyword	spider
+keyword	love triangle
+keyword	bar
+keyword	hit with a shovel
+keyword	rap music
+keyword	showdown
+keyword	stick fight
+keyword	kung fu
+keyword	sword fight
+keyword	giant robot
+keyword	desert
+keyword	nudity
+keyword	martial arts
+keyword	attempted seduction
+keyword	fake breasts
+keyword	steampunk
+keyword	futuristic train
+keyword	shot in the head
+keyword	hispanic
+keyword	explosion
+keyword	shot in the face
+keyword	assassination attempt
+keyword	buddy comedy
+keyword	bar brawl
+keyword	evil man
+keyword	brothel
+keyword	invention
+keyword	acting musician
+keyword	gunfight
+keyword	stabbed in the chest
+keyword	femme fatale
+keyword	assassin
+keyword	secret agent
+keyword	train ride
+keyword	female nudity
+keyword	punched in the face
+keyword	held at gunpoint
+keyword	buddy cop
+keyword	gadget
+keyword	good versus evil
+keyword	wheelchair
+keyword	racism
+keyword	giant spider
+keyword	actor playing multiple roles
+keyword	cowboy
+keyword	bare chested male
+keyword	prostitution
+keyword	hand to hand combat
+keyword	winchester rifle
+keyword	hypnotism
+keyword	prostitute
+keyword	u.s. president
+keyword	gatling gun
+keyword	kidnapping
+keyword	chase
+keyword	box office flop
+keyword	ex soldier
+keyword	based on cult tv series
+keyword	shot to death
+keyword	robot spider
+keyword	terrorist
+keyword	pistol
+keyword	cowboy boots
+keyword	evil scientist
+keyword	gunslinger
+keyword	two man army
+keyword	gun fu
+keyword	revenge
+keyword	shootout
+keyword	cannon
+keyword	race relations
+keyword	drag
+keyword	severed head
+keyword	brawl
+keyword	blockbuster
+keyword	male nudity
+keyword	repeating rifle
+keyword	sword
+keyword	massacre
+keyword	spy spoof
+keyword	cowboy hat
+keyword	opening action scene
+keyword	violence
+keyword	spy
+keyword	african american
+keyword	revolver
+keyword	gadgetry
+keyword	hanging
+keyword	battle hymn of the republic
+keyword	magnet
+keyword	six shooter
+keyword	based on tv series
+keyword	spur
+keyword	racial stereotype
+keyword	cardinal direction in title
+keyword	remake
+keyword	fistfight
+keyword	black cowboy
+keyword	based on tv show
+keyword	worst picture razzie winner
+keyword	u.s. army
+keyword	quick draw
+keyword	character name in title
+keyword	
+cast	Will Smith	Capt. James West
+cast	Kevin Kline	U.S. Marshal Artemus Gordon / Ulysses S. Grant
+cast	Kenneth Branagh	Dr. Arliss Loveless
+cast	Salma Hayek	Rita Escobar
+cast	M. Emmet Walsh	Coleman
+cast	Ted Levine	General 'Bloodbath' McGrath
+cast	Frederique Van Der Wal	Amazonia
+cast	Musetta Vander	Munitia
+cast	Sofia Eng	Miss Lippenrieder
+cast	Bai Ling	Miss East
+cast	Garcelle Beauvais	Belle
+cast	Mike H. McGaughy	Big Reb
+cast	Jerry Wills	Other Reb
+cast	Rodney A. Grant	Hudson
+cast	Buck Taylor	Cross-Eyed Reb
+cast	E.J. Callahan	Mr. Pinkerton
+cast	Debra Christofferson	Dora Look-Alike
+cast	James Lashly	Reb #1
+cast	Dean Rader-Duval	Reb #2
+cast	Christian Aubert	French Dignitary
+cast	Orestes Matacena	Spanish Dignitary
+cast	Ian Abercrombie	British Dignitary
+cast	Ismael 'East' Carlo	Mexican Dignitary
+cast	Bob Rumnock	White House Aide
+cast	Gary Carlos Cervantes	Dr. Guillermo Escobar
+cast	Jerry Potter	George Washington
+cast	Mik Scriba	Guard
+cast	Michael Sims	Prof. Thaddeus Morton
+cast	Kris Andersson	Dancer
+cast	Joseph J. Dawson	Saloon Roughneck
+cast	Natalie Fabry	Little Girl
+cast	Angelito Felix	Billy
+cast	Phil Hawn	Formal Guest at Masquerade Ball
+cast	Scott Hislop	Guest at at Masquerade Ball
+cast	Erik Hyler	Dancer
+cast	David Lea	Thug with Knife
+cast	Benee Leavy	String quartet opening shot of the New Orleans Bowl scene
+cast	Tiger Mendez	Mexican Military Attache
+cast	Ty O'Neal	Living Portrait
+cast	Scott Sandler	Young Joe Finnegan
+cast	Bret Schweinfurth	Confederate Soldier
+cast	Tom Seiler	Southern Colonel
+cast	J. Nathan Simmons	Railroad Worker
+cast	William Victor Skrabanek	Congressman
+cast	Tracy Weisert	Brothel Girl
+cast	Jennifer Wellings	Saloon Girl

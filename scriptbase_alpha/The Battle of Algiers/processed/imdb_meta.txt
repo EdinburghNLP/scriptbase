@@ -1,0 +1,373 @@
+year	1966
+imdb score	8.2
+meta score	94
+genre	Crime
+genre	Drama
+genre	History
+genre	War
+keyword	algerian
+keyword	french
+keyword	independence
+keyword	bomb
+keyword	government
+keyword	revolution
+keyword	torture
+keyword	liberation
+keyword	defeat
+keyword	air france
+keyword	military
+keyword	colonel
+keyword	arab
+keyword	police
+keyword	film projector
+keyword	handcuffs
+keyword	terrorism
+keyword	reporter
+keyword	family relationships
+keyword	colonial war
+keyword	children
+keyword	promise
+keyword	unity
+keyword	trial
+keyword	binoculars
+keyword	murder
+keyword	guillotine
+keyword	insurrection
+keyword	insurgent
+keyword	water well
+keyword	donkey
+keyword	gang
+keyword	drug use
+keyword	fighting
+keyword	jail
+keyword	reading
+keyword	basket
+keyword	prison
+keyword	struggle for independence
+keyword	guerrilla
+keyword	impoverishment
+keyword	courage
+keyword	rooftop
+keyword	death
+keyword	french army
+keyword	militant
+keyword	freedom
+keyword	smoke
+keyword	police raid
+keyword	prefecture
+keyword	coffee
+keyword	bombing
+keyword	algerian war
+keyword	flashlight
+keyword	violence
+keyword	friend
+keyword	pride
+keyword	dancing
+keyword	law and order
+keyword	machine gun
+keyword	microphone
+keyword	airplane
+keyword	police bat
+keyword	morale
+keyword	pseudo documentary
+keyword	newspaper boy
+keyword	confusion
+keyword	surrender
+keyword	liberator
+keyword	fascism
+keyword	megaphone
+keyword	hiding place
+keyword	terror bombing
+keyword	beheading
+keyword	set up
+keyword	head in water
+keyword	hired killer
+keyword	prologue
+keyword	fire
+keyword	milk bar
+keyword	interrogation
+keyword	blowtorch
+keyword	patient
+keyword	debris
+keyword	martini
+keyword	explosion
+keyword	messenger
+keyword	poster
+keyword	paratrooper
+keyword	bomb in basket
+keyword	blood
+keyword	guerilla
+keyword	flashback
+keyword	drink
+keyword	police captain
+keyword	party
+keyword	religion
+keyword	fear
+keyword	criminal
+keyword	destruction of property
+keyword	suicide
+keyword	guard
+keyword	clandestine activity
+keyword	dead woman on ground
+keyword	general strike
+keyword	assassin
+keyword	motorcycle
+keyword	tears
+keyword	dying hair
+keyword	automatic weapon
+keyword	chase
+keyword	assassination
+keyword	gasworks
+keyword	mother daughter relationship
+keyword	death sentence
+keyword	chaos
+keyword	resistance
+keyword	running down person with vehicle
+keyword	trapped
+keyword	brothel madam
+keyword	stadium
+keyword	beret
+keyword	school
+keyword	terrace
+keyword	stoolie
+keyword	commitment
+keyword	prayer
+keyword	prisoner
+keyword	reference to jean paul sartre
+keyword	dead woman carried
+keyword	restaurant
+keyword	french algerian war
+keyword	carrying a dead body
+keyword	uniform
+keyword	ambush
+keyword	disorderly conduct
+keyword	retreat
+keyword	man in woman's clothes
+keyword	husband wife relationship
+keyword	beating
+keyword	cover up
+keyword	rain
+keyword	gambling
+keyword	tapeworm
+keyword	reformatory
+keyword	loudspeaker
+keyword	marketplace
+keyword	guerrilla warfare
+keyword	news conference
+keyword	photograph
+keyword	poverty
+keyword	street market
+keyword	planting bomb
+keyword	underground fighting
+keyword	police station
+keyword	screaming
+keyword	suicide by hanging
+keyword	gun smuggling
+keyword	muslim
+keyword	military parade
+keyword	diagram
+keyword	mobilization
+keyword	junkie
+keyword	barricade
+keyword	street warfare
+keyword	terrorist
+keyword	search warrant
+keyword	reference to god
+keyword	trust
+keyword	firearm
+keyword	avenger
+keyword	combat
+keyword	tank
+keyword	airport
+keyword	murder of a police officer
+keyword	protest
+keyword	horse race
+keyword	traitor
+keyword	boxer
+keyword	prostitute
+keyword	informer
+keyword	dance hall
+keyword	dancer
+keyword	revenge
+keyword	agitator
+keyword	vandalism
+keyword	army
+keyword	baby
+keyword	execution
+keyword	dressing
+keyword	defenselessness
+keyword	marching band
+keyword	corruption
+keyword	duty
+keyword	tunis tunisia
+keyword	politics
+keyword	territorial guard
+keyword	hideout
+keyword	running
+keyword	wound
+keyword	reference to allah
+keyword	refugee
+keyword	reenactment
+keyword	police siren
+keyword	place name in title
+keyword	french occupation
+keyword	warfare
+keyword	gunshot wound
+keyword	explosive
+keyword	veiled woman
+keyword	algerian flag
+keyword	injury
+keyword	battlefield
+keyword	communist
+keyword	combatant
+keyword	revolutionary
+keyword	beggar
+keyword	french history
+keyword	battle
+keyword	fight
+keyword	city name in title
+keyword	doctor
+keyword	beach
+keyword	year 1957
+keyword	jukebox
+keyword	stabbing
+keyword	arrest
+keyword	escape
+keyword	infiltration
+keyword	mountain
+keyword	general
+keyword	underwear
+keyword	algiers algeria
+keyword	policeman
+keyword	barber
+keyword	bombmaker
+keyword	capture
+keyword	street fight
+keyword	oppression
+keyword	united nations debate
+keyword	van crash
+keyword	vicious cycle
+keyword	umbrella
+keyword	liberty
+keyword	colonialism
+keyword	lieutenant colonel
+keyword	telephone call
+keyword	demonstration
+keyword	rebel
+keyword	checkpoint
+keyword	north africa
+keyword	french military
+keyword	trap
+keyword	dog
+keyword	death of boy
+keyword	street fighter
+keyword	drinking
+keyword	le monde
+keyword	gun
+keyword	slaughter
+keyword	curfew
+keyword	mediation
+keyword	rebellion
+keyword	teacher
+keyword	cafe
+keyword	documentary style
+keyword	dock
+keyword	barbed wire
+keyword	suffering
+keyword	degradation
+keyword	brothel
+keyword	streetfighting
+keyword	haircut
+keyword	chalk
+keyword	draft dodger
+keyword	man with glasses
+keyword	breaking down a door
+keyword	weapon
+keyword	soldier
+keyword	breaking and entering
+keyword	1950s
+keyword	friendship
+keyword	four word title
+keyword	medal
+keyword	peace
+keyword	sunglasses
+keyword	shock troops
+keyword	casbah
+keyword	hypocrite
+keyword	bread
+keyword	kicked in the butt
+keyword	revolver
+keyword	fight for freedom
+keyword	street life
+keyword	shot point blank
+keyword	attack
+keyword	search
+keyword	coca cola
+keyword	electric shock
+keyword	mosque
+keyword	homelessness
+keyword	parade
+keyword	algeria
+keyword	coward
+keyword	playing cards
+keyword	blockade
+keyword	hidden camera
+keyword	wedding
+keyword	jeep
+keyword	mother son relationship
+keyword	united nations general assembly
+keyword	dead body
+keyword	alley
+keyword	crying
+keyword	shooting
+keyword	whistle
+keyword	dignity
+keyword	sadist
+keyword	algerian history
+keyword	scaffold
+keyword	army vs civilians
+keyword	ladder
+keyword	raid
+keyword	truck
+keyword	destruction
+keyword	newsreel footage
+keyword	high heels
+keyword	bomber
+keyword	cigarette smoking
+keyword	shot in the back
+keyword	napalm
+keyword	ambulance
+keyword	french soldier
+keyword	united nations
+keyword	strike
+keyword	classroom
+keyword	helicopter
+keyword	military intervention
+keyword	self determination
+keyword	bloodshed
+keyword	jail cell
+keyword	cult film
+keyword	blackboard
+keyword	bricklayer
+keyword	loyalty
+keyword	identification
+keyword	flash forward
+keyword	punched in the face
+keyword	patrol
+keyword	propane tank
+keyword	standoff
+keyword	burning papers
+keyword	rifle
+keyword	
+cast	Brahim Hadjadj	Ali La Pointe
+cast	Jean Martin	Col. Mathieu
+cast	Yacef Saadi	Djafar
+cast	Samia Kerbash	One of the girls
+cast	Ugo Paletti	Captain
+cast	Fusia El Kader	Halima
+cast	Omar	
+cast	Mohamed Ben Kassen	Petit Omar
+cast	Michele Kerbash	Fathia
+cast	Franco Morici	
+cast	Tommaso Neri	Captain
+cast	Gene Wesson	

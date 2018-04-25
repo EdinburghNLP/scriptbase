@@ -1,0 +1,183 @@
+year	2009
+imdb score	6.3
+meta score	54
+genre	Comedy
+genre	War
+keyword	reporter
+keyword	reference to bart simpson
+keyword	kidnapping
+keyword	improvised explosive device
+keyword	doodling
+keyword	begins with text
+keyword	drug trip
+keyword	buddy movie
+keyword	staring contest
+keyword	court martial
+keyword	reference to jesus christ
+keyword	desert
+keyword	helicopter
+keyword	reference to timothy leary
+keyword	psychic power
+keyword	new age
+keyword	hidden truth
+keyword	reference to manuel noriega
+keyword	voice over narration
+keyword	saddam hussein
+keyword	fate
+keyword	secret past
+keyword	government scandal
+keyword	black comedy
+keyword	walking over hot coals
+keyword	flashback
+keyword	historical fiction
+keyword	uh 1 huey helicopter
+keyword	bad trip
+keyword	kuwait
+keyword	george w. bush
+keyword	acid trip
+keyword	captive
+keyword	crohn's disease
+keyword	satire
+keyword	hummer
+keyword	shootout
+keyword	dark past
+keyword	told in flashback
+keyword	reference to loch ness monster
+keyword	chance meeting
+keyword	bandage
+keyword	destiny
+keyword	reference to mao tse tung
+keyword	hampster
+keyword	fire fight
+keyword	run over
+keyword	liberation
+keyword	remote viewing
+keyword	black humor
+keyword	drug humor
+keyword	f word
+keyword	dancing
+keyword	roadside bomb
+keyword	hippie lifestyle
+keyword	reference to oprah winfrey
+keyword	shot in the chest
+keyword	pickup truck
+keyword	iraq war
+keyword	delusion
+keyword	animal in title
+keyword	box office hit
+keyword	lsd
+keyword	army training
+keyword	dark comedy
+keyword	hippie
+keyword	explosion
+keyword	staring
+keyword	absurdism
+keyword	general
+keyword	goat
+keyword	daisy
+keyword	psychological torture
+keyword	army base
+keyword	suicide by pistol
+keyword	fall of bagdad
+keyword	reference to angela lansbury
+keyword	jedi knight in training
+keyword	secret military operation
+keyword	packing a suitcase
+keyword	escape
+keyword	break up
+keyword	hospital
+keyword	multiple narrators
+keyword	cloud
+keyword	vietnam war
+keyword	new age movement
+keyword	oh 58 kiowa hilicopter
+keyword	lieutenant colonel
+keyword	jogging
+keyword	reference to walt disney
+keyword	archive footage
+keyword	airbag
+keyword	ann arbor michigan
+keyword	paranoid fantasy
+keyword	adventurer
+keyword	walking through wall
+keyword	hot tub
+keyword	reference to ronald reagan
+keyword	first person narration
+keyword	explosive device
+keyword	jeep
+keyword	cold war
+keyword	american flag
+keyword	reference to star wars
+keyword	vietnam war veteran
+keyword	cigar smoking
+keyword	
+cast	George Clooney	Lyn Cassady
+cast	Ewan McGregor	Bob Wilton
+cast	Jeff Bridges	Bill Django
+cast	Kevin Spacey	Larry Hooper
+cast	Stephen Lang	Brigadier General Dean Hopgood
+cast	Robert Patrick	Todd Nixon
+cast	Waleed Zuaiter	Mahmud Daash
+cast	Stephen Root	Gus Lacey
+cast	Glenn Morshower	Major General Holtz
+cast	Nick Offerman	Scotty Mercer
+cast	Tim Griffin	Tim Kootz
+cast	Rebecca Mader	Debora Wilton
+cast	Jacob Browne	Lieutenant Boone
+cast	Todd Lawson LaTourrette	Dave
+cast	Brad Grunberg	Ron
+cast	Elsa Villafane	Gus' Mother
+cast	Fawad Siddiqui	Kuwait Waiter
+cast	Samuel Ray Gates	Journalist #1
+cast	McCaleb Burnett	Journalist #2
+cast	Sean Phillips	Vietnam Soldier
+cast	Matt Newton	Vietnam Private Chris
+cast	MinhTu Van	VC Woman
+cast	Robert Curtis Brown	General Brown
+cast	Hrach Titizian	Kidnapper #1
+cast	Shafik N. Bahou	Kidnapper #2
+cast	Christopher Maher	Iraqi Driver
+cast	Drew Seltzer	Technician
+cast	Donn Lamkin	Lyn's Father
+cast	Sean Curley	Lyn
+cast	Michael-David Aragon	Insurgent
+cast	Morse Bicknell	Ben Echmeyer
+cast	Terry Serpico	Krom - Phil Driver
+cast	Wiley M. Pickett	Krom - Texan
+cast	Diego Serrano	Krom - Chilean
+cast	Reginald Huc	Krom - 3rd Security Man
+cast	Kevin Geer	CIA Agent
+cast	Kevin Wiggins	Major General Jack Gillian
+cast	JJ Raschel	Clifford Hickox
+cast	Arron Shiver	Norm Pendlleton
+cast	Jaime Margarida	Major General Pendleton
+cast	Steve Witting	PSIC Worker #1
+cast	Hunter Bell	PSIC Worker #2
+cast	Edward Holley	Army Soldier
+cast	Christopher Robinson	Stryker Soldier
+cast	William Sterchi	Bob's Editor
+cast	Alan D'Antoni	Gas Station Driver
+cast	Jay Spadaro	Gas Station Driver
+cast	Chick Bernhardt	Krom - SUV
+cast	A.J. Tannen	Army Broadcaster
+cast	Barry R. White	Krom agent
+cast	Alexandra Andrews	Scotty's Bride
+cast	Sarah Belger	Soldier
+cast	Robert Anthony Brass	Sgt. Bishop
+cast	George W. Bush	Himself
+cast	Steven Ray Byrd	Military Driver / Soldier
+cast	Rafael Christian	US Soldier
+cast	Michael Clark	Army Broadcaster
+cast	Robert Farrior	Sergeant Skinner
+cast	Christopher Fodge	US Soldier
+cast	John Galindez	Russian Scientist
+cast	Saddam Hussein	Himself
+cast	Brent Lambert	Ann Arbor Newspaper Staff
+cast	John Macho	Jedi #2
+cast	John McTasney	Master Sgt Kauzlarik
+cast	Michael J. Morris	Army Officer
+cast	Susan Pages	Officer's Wife
+cast	Paul J. Porter	Captain Wogolman
+cast	Frank Powers	SSG Stevens
+cast	Brian Tester	U.S. Army Officer
+cast	Casey Wayne	MP

@@ -1,0 +1,106 @@
+year	1995
+imdb score	7.5
+meta score	70
+genre	Comedy
+genre	Drama
+keyword	smoke
+keyword	writer
+keyword	abortion
+keyword	conversation
+keyword	human relationship
+keyword	cigarette smoking
+keyword	fat insult
+keyword	father daughter relationship
+keyword	cuban cigar
+keyword	multiple storyline
+keyword	new york mets
+keyword	punched in the face
+keyword	wallet
+keyword	cigar smoking
+keyword	kindness
+keyword	impersonation
+keyword	father son relationship
+keyword	auto mechanic
+keyword	homelessness
+keyword	prosthetic body part
+keyword	crack addict
+keyword	dancing
+keyword	character study
+keyword	writing
+keyword	westchester ny
+keyword	gangster
+keyword	father daughter estrangement
+keyword	cult film
+keyword	family relationships
+keyword	teenage runaway
+keyword	photography
+keyword	hope of reconciliation
+keyword	starting over
+keyword	bar
+keyword	liar
+keyword	loitering
+keyword	stolen money
+keyword	new york city
+keyword	cigar shop
+keyword	philosophy
+keyword	bookstore
+keyword	photo album
+keyword	death of loved one
+keyword	subway
+keyword	mop
+keyword	brooklyn new york city
+keyword	baseball
+keyword	friendship
+keyword	shoplifting
+keyword	forgiveness
+keyword	christmas
+keyword	coca cola
+keyword	episodic structure
+keyword	beer
+keyword	painting
+keyword	storytelling
+keyword	smoking
+keyword	kicked in the leg
+keyword	eye patch
+keyword	car accident
+keyword	lie
+keyword	african american
+keyword	loss of wife
+keyword	housing project
+keyword	vietnam war veteran
+keyword	melodrama
+keyword	compassion
+keyword	1990s
+keyword	one word title
+keyword	camera
+keyword	chance encounter
+keyword	gas station
+keyword	independent film
+keyword	title spoken by character
+cast	Giancarlo Esposito	OTB Man #1, Tommy
+cast	José Zúñiga	OTB Man #2, Jerry
+cast	Stephen Gevedon	OTB Man #3, Dennis
+cast	Harvey Keitel	Augustus 'Auggie' Wren
+cast	Jared Harris	Jimmy Rose
+cast	William Hurt	Paul Benjamin
+cast	Daniel Auster	Book Thief
+cast	Harold Perrineau	Thomas 'Rashid' Cole
+cast	Deirdre O'Connell	Sue the Waitress
+cast	Victor Argo	Vinnie
+cast	Michelle Hurst	Aunt Em
+cast	Forest Whitaker	Cyrus Cole
+cast	Stockard Channing	Ruby McNutt
+cast	Vincenzo Amelia	Irate Customer
+cast	Erica Gimpel	Doreen Cole
+cast	Gilson Reglas	Cyrus, Jr.
+cast	Howie Rose	Baseball Announcer
+cast	Ashley Judd	Felicity
+cast	Mary B. Ward	April Lee the Bookstore Clerk
+cast	Mel Gorham	Violet
+cast	Baxter Harris	Lawyer #1
+cast	Paul Geier	Lawyer #2
+cast	Malik Yoba	The Creeper
+cast	Walter T. Meade	Roger Goodwin
+cast	Murray Moston	Waiter
+cast	Clarice Taylor	Grandma Ethel
+cast	Andrew McCarthy	Prospective Father

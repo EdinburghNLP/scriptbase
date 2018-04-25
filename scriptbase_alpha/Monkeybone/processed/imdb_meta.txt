@@ -1,0 +1,207 @@
+year	2001
+imdb score	4.7
+meta score	40
+genre	Animation
+genre	Comedy
+genre	Fantasy
+keyword	death
+keyword	coma
+keyword	nightmare
+keyword	carnival
+keyword	monkey
+keyword	doctor
+keyword	press
+keyword	box office flop
+keyword	based on comic
+keyword	theatre audience
+keyword	microphone
+keyword	paper doll
+keyword	drawing
+keyword	flatulence
+keyword	body swap
+keyword	waitress
+keyword	grim reaper
+keyword	hospital
+keyword	upskirt
+keyword	fantasy sequence
+keyword	reference to steven seagal
+keyword	organist
+keyword	autopsy
+keyword	erection
+keyword	fear
+keyword	applause
+keyword	foot chase
+keyword	fainting
+keyword	buttocks
+keyword	bar
+keyword	artist
+keyword	panties
+keyword	car accident
+keyword	video camera
+keyword	nurse
+keyword	dream
+keyword	agent
+keyword	fairground
+keyword	surrealism
+keyword	reference to barbara walters
+keyword	merchandising
+keyword	sex
+keyword	tears
+keyword	reference to james cagney
+keyword	pet dog
+keyword	exploding head
+keyword	cult film
+keyword	paintbrush
+keyword	blood
+keyword	corpse
+keyword	singer
+keyword	part live action
+keyword	based on graphic novel
+keyword	x rayed skeleton
+keyword	watching a movie
+keyword	gymnast
+keyword	organ donation
+keyword	remote control
+keyword	bone saw
+keyword	spit take
+keyword	taking control of someone's body
+keyword	dream within a dream
+keyword	nightclub
+keyword	balloon
+keyword	cyclops
+keyword	part animation
+keyword	cartoon reality crossover
+keyword	marquee
+keyword	hypodermic needle
+keyword	roller coaster
+keyword	priest
+keyword	underwear
+keyword	singing
+keyword	horniness
+keyword	critically bashed
+keyword	movie theatre
+keyword	museum
+keyword	castration
+keyword	reverse footage
+keyword	dancing
+keyword	mirror
+keyword	parallel world
+keyword	black comedy
+keyword	reporter
+keyword	classroom
+keyword	nudity
+keyword	newspaper headline
+keyword	stop motion
+keyword	painting
+keyword	dream world
+keyword	watching tv
+keyword	bedridden
+keyword	based on novel
+keyword	character name in title
+cast	Brendan Fraser	Stu Miley
+cast	Bridget Fonda	Dr. Julie McElroy
+cast	John Turturro	Monkeybone
+cast	Chris Kattan	Organ Donor Stu
+cast	Giancarlo Esposito	Hypnos
+cast	Rose McGowan	Miss Kitty
+cast	Dave Foley	Herb
+cast	Megan Mullally	Kimmy Miley
+cast	Bob Odenkirk	Head Surgeon
+cast	Pat Kilbane	Burger God Representative
+cast	Lisa Zane	Medusa
+cast	Whoopi Goldberg	Death
+cast	Sandra Thigpen	Alice
+cast	Wayne Wilderson	Hutch
+cast	Amy Higgins	Clarissa
+cast	Alan Gelfant	Dr. Edelstein
+cast	Kristin Norton	Nurse
+cast	Chris Hogan	Bill, Bazoom Toy Representative
+cast	Lucy Butler	Guest
+cast	John Sylvain	Ambulance Driver
+cast	Lou Romano	Cop / Psycharist
+cast	Leon Laderach	Surgeon in Nightmare
+cast	Scott Rogers	Surgeon
+cast	Cris Thomas-Palomino	Surgeon
+cast	Tony Panterra	Surgeon
+cast	Ted Rooney	Grim Reaper
+cast	Christopher Franciosa	Reaper Who Takes Lulu
+cast	Mary Stein	Lulu
+cast	Fred Pierce	Reaper in Death's Office
+cast	Harper Roisman	Earl Biegler
+cast	Kristopher Logan	Patron
+cast	Scott Workman	Arnold the Super Reaper
+cast	Shawnee Free Jones	Lizzie Borden
+cast	Ilia Volok	Rasputin
+cast	Edgar Allan Poe IV	Edgar Allan Poe
+cast	Claudette Mink	Typhoid Mary
+cast	Jon Bruno	Man in the Dungeon
+cast	Owen Masterson	Jack the Ripper
+cast	Jen Sung	Attila the Hun
+cast	Tracy Zahoryin	Model
+cast	Sunshine Deia Tutt	Model
+cast	Jo Haugen Gash	Model
+cast	Lindsay Bryan	Model
+cast	Brooke Boisse	Model
+cast	Meron Abebe	Model
+cast	Mie Kringelbach	Model
+cast	Rex Reddick	Museum Guard / Tuxedo Guard
+cast	Sybil Azur	Museum Dancer
+cast	Anne Fletcher	Museum Dancer
+cast	Diane Mizota	Museum Dancer
+cast	Etty Lau	All-Girl Band Sax Player
+cast	LaTonya Holmes	All-Girl Band Percussionist
+cast	Lesli Jean Matta	All-Girl Band Drummer
+cast	Dawn Soler	All-Girl Band
+cast	Miko Watanbe	All-Girl Band
+cast	Frankie Pine	All-Girl Band
+cast	Anne King	All-Girl Band
+cast	Rachen Assapiomonwait	Korean Father
+cast	Veena Bidasha	Statue Woman
+cast	Michael Anthony Jackson	Bug Man
+cast	Doug Jones	Yeti
+cast	Arturo Gil	Rat Guard
+cast	Jody St. Michael	Centaur
+cast	Frit Fuller	3 Headed Devil
+cast	Frat Fuller	3 Headed Devil
+cast	Brian Steele	Jumbo the Elephant God
+cast	Leif Tilden	Cyclops
+cast	Tom Fisher	Community Service Cigarette Sweeper
+cast	Joseph S. Griffo	BBQ Pig
+cast	Kim Timbers-Patteri	Wasp Woman
+cast	Lisa Ebeyer	Betty the Bovine
+cast	Wayne Doba	Scorpion
+cast	Mark Viniello	Assbackward
+cast	Nathan Stein	Sea Monster
+cast	Ed Holmes	Buffalo Kachina
+cast	Erica Gudis	#1 Party Babe Hybrid
+cast	Melinda Milton	#2 Party Babe Hybrid
+cast	Caroline A. Rice	#3 Party Babe Hybrid
+cast	Michael L. Hammond	Reaper Performer
+cast	Joe Ranft	Streetsquash Rabbit
+cast	Bruce Lanoil	Streetsquash Raccoon
+cast	Debi Durst	Streetsquash Snake
+cast	Phil Brotherton	Subramansa
+cast	Roger Jackson	Arnold the Super Reaper
+cast	Jym Dingler	Community Service Cigarette Sweeper
+cast	Leslie Hedger	Assbackward
+cast	Toby Gleason	Buffalo Kachina
+cast	Allan Trautman	BBQ Pig
+cast	Mike Mitchell	Miss Hudiapp
+cast	Lee Armstrong	Puppeteer on Grim Reaper
+cast	Randall Bosley	Fred
+cast	Brendan Burns	Detective #1
+cast	Robert 'Duckie' Carpenter	Record Store Owner / Coma Victim
+cast	Thomas Haden Church	Death's Assistant
+cast	Jamie Donovan	Reporter #1
+cast	Wendy Fowler	Beautiful Fan
+cast	Peter Gardner	Grim Reaper in Death's Office
+cast	Paul Guiles	Reporter #2
+cast	Harry Jay Knowles	Lucky
+cast	Jason Kravits	Guest
+cast	Jim Kundig	Puppeteer
+cast	Pons Maar	Lead Puppeteer
+cast	Skyler Marshall	Janitor
+cast	George Meyers	Bazoom Toy Rep
+cast	Michelle Shaffer	Woman with Bat
+cast	Tom Tangen	Burger God Representative
+cast	Dina Torok	Background Singer

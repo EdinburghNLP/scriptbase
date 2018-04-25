@@ -1,0 +1,135 @@
+year	1954
+imdb score	7.6
+meta score	N/A
+genre	Comedy
+genre	Musical
+genre	Romance
+keyword	general
+keyword	song and dance
+keyword	vermont
+keyword	song
+keyword	army
+keyword	christmas
+keyword	sister act
+keyword	nightclub
+keyword	misunderstanding
+keyword	snow
+keyword	escaping out a window
+keyword	new england
+keyword	ski resort
+keyword	singer
+keyword	taxi
+keyword	lifting someone into the air
+keyword	female in bed
+keyword	ex soldier
+keyword	forgotten man
+keyword	review
+keyword	love
+keyword	pipe smoking
+keyword	saving someone's life
+keyword	hip talk
+keyword	dancing
+keyword	grandfather granddaughter relationship
+keyword	battle of the bulge
+keyword	train conductor
+keyword	change of command
+keyword	tambourine
+keyword	television show
+keyword	record
+keyword	color in title
+keyword	business partner
+keyword	jeep
+keyword	top hat and tails
+keyword	choreographer
+keyword	running from police
+keyword	reunion
+keyword	tour
+keyword	concert
+keyword	bachelor
+keyword	world war two
+keyword	10th anniversary
+keyword	singing
+keyword	sister sister relationship
+keyword	busybody
+keyword	florida
+keyword	ballerina
+keyword	gender roles
+keyword	variety show
+keyword	guinea pig
+keyword	christmas musical
+keyword	sheriff
+keyword	broadway manhattan new york city
+keyword	eavesdropping
+keyword	choreography
+keyword	christmas eve
+keyword	two man team
+keyword	collapsing building
+keyword	dancer
+keyword	music box
+keyword	letter
+keyword	misunderstood motives
+keyword	show producer
+keyword	rehearsal
+keyword	manhattan new york city
+keyword	diet
+keyword	celebration
+keyword	train
+keyword	parody
+keyword	cold shoulder
+keyword	slamming door
+keyword	lip synching
+keyword	new york city
+keyword	cake
+keyword	hotel
+keyword	engagement
+keyword	club car
+keyword	christmas tree
+keyword	war buddy
+keyword	christmas gift
+keyword	dressing room
+keyword	tryout
+keyword	white christmas
+keyword	retirement
+keyword	horseshoes
+keyword	television
+cast	Bing Crosby	Bob Wallace
+cast	Danny Kaye	Phil Davis
+cast	Rosemary Clooney	Betty Haynes
+cast	Vera-Ellen	Judy Haynes
+cast	Dean Jagger	Major General Thomas F. Waverly
+cast	Mary Wickes	Emma Allen
+cast	John Brascia	John
+cast	Anne Whitfield	Susan Waverly
+cast	Bea Allen	Dancer
+cast	Joan Bayley	Dancer
+cast	Mae Bruce	Lady in Depot
+cast	Tony Butala	Child Dancer
+cast	Glen Cargyle	Jeep Driver
+cast	George Chakiris	Dancer
+cast	Barrie Chase	Doris Lenz
+cast	Les Clark	Dancer
+cast	Lorraine Crawford	Rita
+cast	Robert Crosson	Albert
+cast	Marcel De la Brosse	Carousel Club's Maitre d'
+cast	Sayre Dearing	Ex-Staff Officer
+cast	Mike Donovan	2nd Conductor
+cast	Franklyn Farnum	Carousel Club Extra
+cast	Ernie Flatt	Dancer
+cast	Bess Flowers	Carousel Club Extra
+cast	Gavin Gordon	General Harold G. Carlton
+cast	Johnny Grant	Ed Harrison
+cast	Percy Helton	Train Conductor
+cast	I. Stanford Jolley	Station Master
+cast	Richard Keene	Carousel Club's Stage Manager
+cast	Kenner G. Kemp	Ex-Soldier
+cast	Vivian Mason	Rehearsal Blonde
+cast	Peggy McKim	Child Dancer
+cast	Leighton Noble	Bandleader
+cast	James Parnell	Sheriff
+cast	Joe Ploski	Ex-Soldier
+cast	Sig Ruman	Landlord
+cast	Richard Shannon	Joe, Adjutant Captain
+cast	Dick Stabile	Band Leader at the Carousel Club
+cast	Grady Sutton	Mr. Herring, General's Party Guest
+cast	Hal Taggart	Carousel Club Extra
+cast	Herb Vigran	Novello, Nightclub Manager

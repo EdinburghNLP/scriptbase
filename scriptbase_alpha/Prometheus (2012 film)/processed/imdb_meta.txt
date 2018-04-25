@@ -1,0 +1,315 @@
+year	2012
+imdb score	7.1
+meta score	65
+genre	Adventure
+genre	Mystery
+genre	Sci-Fi
+keyword	explorer
+keyword	mission
+keyword	planet
+keyword	survival
+keyword	future
+keyword	archaeologist
+keyword	alien
+keyword	scientist
+keyword	cave drawing
+keyword	spaceship pilot
+keyword	exploding ship
+keyword	spacesuit
+keyword	cigarette smoking
+keyword	laser gun
+keyword	planetarium
+keyword	bare chested male
+keyword	2090s
+keyword	isle of skye
+keyword	explosion
+keyword	futuristic
+keyword	self mutilation
+keyword	escape pod
+keyword	padded shoulders
+keyword	betrayal
+keyword	showdown
+keyword	self surgery
+keyword	geologist
+keyword	lens flare
+keyword	death of boyfriend
+keyword	alien contact
+keyword	title appears in text
+keyword	green blood
+keyword	ship captain
+keyword	woman doing push ups
+keyword	drunkenness
+keyword	year 2091
+keyword	pile of corpses
+keyword	open ended
+keyword	alien planet
+keyword	prequel
+keyword	shot to death
+keyword	wheelchair
+keyword	decontamination
+keyword	emergency surgery
+keyword	countdown
+keyword	talking head
+keyword	parasite
+keyword	internal view of body
+keyword	tattoo
+keyword	alien race
+keyword	burned to death
+keyword	man with glasses
+keyword	dream sequence
+keyword	old man
+keyword	giant
+keyword	sole black character dies cliche
+keyword	looking at one's self in a mirror
+keyword	cave painting
+keyword	pistol
+keyword	deoxyribonucleic acid
+keyword	alien space craft
+keyword	commandeered vehicle
+keyword	alien technology
+keyword	lightning
+keyword	waterfall
+keyword	meaning of life
+keyword	billionaire
+keyword	giant monster
+keyword	alien possession
+keyword	corpse
+keyword	suspense
+keyword	walking with a cane
+keyword	anesthetic
+keyword	knocked out
+keyword	suspended animation
+keyword	sequel
+keyword	expedition
+keyword	monster
+keyword	gore
+keyword	mercy killing
+keyword	chase
+keyword	tracking device
+keyword	faith
+keyword	2090s
+keyword	human alien
+keyword	father daughter relationship
+keyword	premarital sex
+keyword	child playing violin
+keyword	young version of character
+keyword	severed head
+keyword	tentacle
+keyword	mutation
+keyword	running for your life
+keyword	stomach ripped open
+keyword	winch
+keyword	flashlight
+keyword	murder
+keyword	pilot
+keyword	immolation
+keyword	interracial relationship
+keyword	drugged drink
+keyword	flashback
+keyword	skull
+keyword	escape
+keyword	robot
+keyword	creature
+keyword	botanist
+keyword	pool table
+keyword	space expedition
+keyword	infected
+keyword	trailer trash
+keyword	boyfriend girlfriend relationship
+keyword	impregnation
+keyword	altered version of studio logo
+keyword	sole survivor
+keyword	lifted by the throat
+keyword	maintenance man
+keyword	back from the dead
+keyword	blockbuster
+keyword	medic
+keyword	acid
+keyword	2080s
+keyword	space voyage
+keyword	caesarean section
+keyword	axe
+keyword	impalement
+keyword	eccentric
+keyword	biologist
+keyword	probe
+keyword	character's point of view camera shot
+keyword	stranded
+keyword	blood splatter
+keyword	gash in the face
+keyword	terraforming
+keyword	christmas
+keyword	genetic engineering
+keyword	vomit
+keyword	flame thrower
+keyword	moon
+keyword	surgical staple
+keyword	shotgun
+keyword	dune buggy
+keyword	self sacrifice
+keyword	panspermia
+keyword	sterile
+keyword	biological weapon
+keyword	storm
+keyword	finger ring
+keyword	shot in the chest
+keyword	scottish accent
+keyword	skeleton
+keyword	presumed dead
+keyword	hologram
+keyword	shot in the head
+keyword	shaving
+keyword	attack
+keyword	liquid
+keyword	trapped in space
+keyword	character repeating someone else's dialogue
+keyword	year 2094
+keyword	spaceship crash
+keyword	dust storm
+keyword	creature feature
+keyword	outer space
+keyword	star map
+keyword	shared dream
+keyword	video screen
+keyword	dismemberment
+keyword	archeological dig
+keyword	stasis
+keyword	disembodied head
+keyword	spaceship
+keyword	science
+keyword	megacorporation
+keyword	pregnant with an alien fetus
+keyword	pregnancy
+keyword	genetics
+keyword	tomb
+keyword	basketball
+keyword	cross
+keyword	technology
+keyword	character says i love you
+keyword	neck breaking
+keyword	death
+keyword	female vomiting
+keyword	alien parasite
+keyword	heroine
+keyword	cryogenics
+keyword	captain
+keyword	fire axe
+keyword	slime
+keyword	giant creature
+keyword	necklace
+keyword	breaking arm
+keyword	human versus alien
+keyword	spacecraft
+keyword	lifeboat
+keyword	space travel
+keyword	red rose
+keyword	animal attack
+keyword	race against time
+keyword	medical
+keyword	statue
+keyword	cave
+keyword	epic
+keyword	head ripped off
+keyword	shot in the shoulder
+keyword	god complex
+keyword	sandstorm
+keyword	dog
+keyword	barefoot
+keyword	year 2089
+keyword	snow
+keyword	flamethrower
+keyword	3 dimensional
+keyword	death of loved one
+keyword	survival horror
+keyword	crash landing
+keyword	medical scanner
+keyword	religion versus science
+keyword	mountain
+keyword	microscope
+keyword	crucifix pendant
+keyword	megalomaniac
+keyword	poetic justice
+keyword	super strength
+keyword	blood
+keyword	suicide
+keyword	spaceship name in title
+keyword	alien intrusion
+keyword	mercenary
+keyword	christmas tree
+keyword	human body as an alien host
+keyword	ancient astronaut
+keyword	injection
+keyword	biological warfare laboratoty
+keyword	violence
+keyword	hypodermic needle
+keyword	decapitation
+keyword	broken arm
+keyword	head bashed in
+keyword	space helmet
+keyword	piano
+keyword	exploding head
+keyword	surgery
+keyword	infection
+keyword	one word title
+keyword	fainting
+keyword	mutilation
+keyword	laboratory
+keyword	person on fire
+keyword	camera
+keyword	religion
+keyword	strangulation
+keyword	horror movie prequel
+keyword	android
+keyword	mayhem
+keyword	crushed to death
+keyword	revelation
+keyword	laser pistol
+keyword	burned alive
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Noomi Rapace	Elizabeth Shaw
+cast	Michael Fassbender	David
+cast	Charlize Theron	Meredith Vickers
+cast	Idris Elba	Janek
+cast	Guy Pearce	Peter Weyland
+cast	Logan Marshall-Green	Charlie Holloway
+cast	Sean Harris	Fifield
+cast	Rafe Spall	Millburn
+cast	Emun Elliott	Chance
+cast	Benedict Wong	Ravel
+cast	Kate Dickie	Ford
+cast	Branwell Donaghey	Mercenary 1
+cast	Vladimir 'Furdo' Furdik	Mercenary 2
+cast	C.C. Smiff	Mercenary 3
+cast	Shane Steyn	Mercenary 4
+cast	Ian Whyte	Last Engineer
+cast	John Lebar	Ghost Engineer
+cast	Daniel James	Sacrifice Engineer
+cast	Patrick Wilson	Shaw's Father
+cast	Lucy Hutchinson	Young Shaw
+cast	Giannina Facio	Shaw's Mother
+cast	Anil Biltoo	Linguist Teacher
+cast	Louisa Staples	Greeting Message Violinist
+cast	James Embree	Mechanic 1
+cast	Florian Robin	Mechanic 2
+cast	Matthew Burgess	Mechanic 3
+cast	Eugene O'Hare	Mechanic 4
+cast	Richard Thomson	Archaeological Assistant
+cast	Philip McGinley	Archaeological Assistant
+cast	Jenny Rainsford	Archaeological Assistant
+cast	Rhona Croker	Archaeological Assistant
+cast	Wambui Wa-Ngatho	Automated Voice
+cast	Wannaporn Rienjang	Automated Voice
+cast	Zed Sevcikova	Automated Voice
+cast	Sonam Dugdak	Automated Voice
+cast	Reynir Thor Eggertsson	Automated Voice
+cast	Shin-Ichiro Okajima	Automated Voice
+cast	Charalambos Dendrinos	Automated Voice
+cast	Berhane Woldegabriel	Automated Voice
+cast	Annie Penn	Ship Computer Voice
+cast	Robin Atkin Downes	Ship Computer Voice
+cast	Harry Fowler	William Potter
+cast	Ian MacNaughton	Hartley
+cast	Peter O'Toole	T.E. Lawrence
+cast	Stuart Saunders	R.S.M.

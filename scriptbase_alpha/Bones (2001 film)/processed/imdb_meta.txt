@@ -1,0 +1,93 @@
+year	2001
+imdb score	4.0
+meta score	42
+genre	Crime
+genre	Horror
+keyword	revenge
+keyword	nightclub
+keyword	corrupt cop
+keyword	drugs
+keyword	slasher
+keyword	drug deal
+keyword	mauling
+keyword	rapper
+keyword	mirror
+keyword	blaxploitation
+keyword	reverse footage
+keyword	dream sequence
+keyword	betrayal
+keyword	elevator
+keyword	dying man
+keyword	one word title
+keyword	severed head
+keyword	maggot
+keyword	fat suit
+keyword	crooked cop
+keyword	impalement
+keyword	skeleton
+keyword	mirror ball
+keyword	conspiracy theorist
+keyword	flashback
+keyword	disco ball
+keyword	throat slitting
+keyword	self sacrifice
+keyword	interracial relationship
+keyword	urban decay
+keyword	back from the dead
+keyword	fortune teller
+keyword	resurrection
+keyword	dog
+keyword	disembodied head
+keyword	balisong
+keyword	2000s
+keyword	pimp
+keyword	1970s
+keyword	acting musician
+keyword	severed hand
+keyword	drug dealer
+keyword	old dark house
+keyword	tarot card
+keyword	surprise ending
+keyword	
+cast	Snoop Dogg	Jimmy Bones
+cast	Pam Grier	Pearl
+cast	Michael T. Weiss	Lupovich
+cast	Clifton Powell	Jeremiah Peet
+cast	Ricky Harris	Eddie Mack
+cast	Bianca Lawson	Cynthia
+cast	Khalil Kain	Patrick
+cast	Merwin Mondesir	Bill
+cast	Sean Amsing	Maurice
+cast	Katharine Isabelle	Tia
+cast	Ron Selmour	Shotgun
+cast	Deezer D	Stank
+cast	Garikayi Mutambirwa	Weaze
+cast	Erin Wright	Snowflake
+cast	Josh Byer	Jason
+cast	Kirby Morrow	Palmer
+cast	Ellen Stephenovna Ewusie	The Death Lady
+cast	Lynda Boyd	Nancy
+cast	Boyan Vukelic	Young Cop
+cast	Marcus Moldowan	Young Patrick
+cast	Mavis D'Andrade	Old Woman - Street
+cast	Colin Foo	Elderly Séance Man
+cast	Emy Aneke	Clubber
+cast	Randy Schooley	Investigator
+cast	Tracey Classen	Bones Shadow
+cast	Donny James Lucas	Crackhead
+cast	Shanel Nelson-Murray	Skipping Girl
+cast	Chaynade Knowles	Skipping Girl
+cast	Brittany Moldowan	Skipping Girl
+cast	Helena Yea	Séance Woman
+cast	Gladys Phillip	Séance Woman
+cast	D. Harlan Cutshall	Séance Man
+cast	Carlos Joe Costa	Séance Man
+cast	Jeni Le Gon	Window Granny
+cast	Chaka White	Foxy Lady
+cast	Keith Provost	Cop
+cast	Brantley Bush	Cop
+cast	Linda Chow	Jeremiah's First Wife
+cast	Charles Jones Jr.	Elderly Man
+cast	Victor Formosa	Thug
+cast	Alina Kaufman	Jenny
+cast	Danny Waugh	Wino

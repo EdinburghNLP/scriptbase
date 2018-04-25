@@ -1,0 +1,282 @@
+year	1946
+imdb score	8.7
+meta score	N/A
+genre	Drama
+genre	Family
+genre	Fantasy
+keyword	angel
+keyword	christmas
+keyword	christmas eve
+keyword	business
+keyword	small town
+keyword	guardian angel
+keyword	friend
+keyword	bank
+keyword	love
+keyword	flashback
+keyword	heaven
+keyword	prayer
+keyword	building and loan
+keyword	cash register
+keyword	developer
+keyword	auld lang syne
+keyword	contraction in title
+keyword	prank
+keyword	hark the herald angels sing
+keyword	alternative history
+keyword	christmas decorations
+keyword	cemetery
+keyword	brother brother relationship
+keyword	mother daughter relationship
+keyword	frustration
+keyword	throwing a stone at a window
+keyword	snowing
+keyword	revenge
+keyword	father daughter relationship
+keyword	property seizure
+keyword	remorse
+keyword	christmas carol
+keyword	handshake
+keyword	taxi driver
+keyword	reference to tom sawyer
+keyword	punch into the camera
+keyword	librarian
+keyword	snow
+keyword	falling through ice
+keyword	concealed nudity
+keyword	family relationships
+keyword	populism
+keyword	1920s
+keyword	rich snob
+keyword	graduation party
+keyword	attempted suicide
+keyword	stroke
+keyword	flower
+keyword	husband wife relationship
+keyword	small town life
+keyword	board meeting
+keyword	financial problem
+keyword	rescue from drowning
+keyword	great depression
+keyword	lifting person in air
+keyword	jumping off a bridge
+keyword	partial deafness
+keyword	railway station
+keyword	war hero
+keyword	financial panic
+keyword	butterfly collection
+keyword	job interview
+keyword	suitcase
+keyword	old dark house
+keyword	drugstore
+keyword	river
+keyword	angel on earth
+keyword	suitor
+keyword	framed butterfly
+keyword	wheelchair
+keyword	change history
+keyword	run on bank
+keyword	ethnic slur
+keyword	african american woman
+keyword	financier
+keyword	claim in title
+keyword	boarding house
+keyword	marriage proposal
+keyword	property rights
+keyword	bell
+keyword	bridge
+keyword	what if
+keyword	common cold
+keyword	wish fulfillment
+keyword	despair
+keyword	pregnancy
+keyword	mislaid trust
+keyword	sledding
+keyword	reference to mark twain
+keyword	jumping into a pool with clothes on
+keyword	sacrifice
+keyword	1910s
+keyword	do over
+keyword	newlywed
+keyword	grabbed by the lapels
+keyword	dancing
+keyword	alienation
+keyword	bar
+keyword	face slap
+keyword	rescue
+keyword	rainstorm
+keyword	1930s
+keyword	ambition
+keyword	african american
+keyword	renovation
+keyword	house warming
+keyword	marriage
+keyword	poison
+keyword	jitterbug
+keyword	bridge at remagen
+keyword	drunkenness
+keyword	absent mindedness
+keyword	bartender
+keyword	man in a wheelchair
+keyword	lost money
+keyword	double take
+keyword	car accident
+keyword	generosity
+keyword	loss of father
+keyword	deaf in one ear
+keyword	fund raising
+keyword	father son relationship
+keyword	new york
+keyword	lifting someone into the air
+keyword	maid
+keyword	falling into water
+keyword	dedication
+keyword	inexperienced praying
+keyword	taxi
+keyword	african american servant
+keyword	cult film
+keyword	telegram
+keyword	loss of son
+keyword	christmas tree
+keyword	forcibly removed
+keyword	dance contest
+keyword	sick child
+keyword	freeze frame
+keyword	manhood
+keyword	man on the verge of tears
+keyword	wedding night
+keyword	wipe
+keyword	belief in destiny
+keyword	friendship
+keyword	weather
+keyword	bell ringing
+keyword	world war two
+keyword	swimming pool
+keyword	bathrobe
+keyword	sitting
+keyword	ex convict
+keyword	property owner
+keyword	greed
+keyword	mother son relationship
+keyword	audio flashback
+keyword	window smashing
+keyword	property auction
+keyword	punctuation in title
+keyword	police officer
+keyword	cult film
+keyword	based on novel
+keyword	
+cast	James Stewart	George Bailey
+cast	Donna Reed	Mary Hatch
+cast	Lionel Barrymore	Mr. Potter
+cast	Thomas Mitchell	Uncle Billy
+cast	Henry Travers	Clarence
+cast	Beulah Bondi	Mrs. Bailey
+cast	Frank Faylen	Ernie
+cast	Ward Bond	Bert
+cast	Gloria Grahame	Violet
+cast	H.B. Warner	Mr. Gower
+cast	Todd Karns	Harry Bailey
+cast	Samuel S. Hinds	Pa Bailey
+cast	Mary Treen	Cousin Tilly
+cast	Frank Albertson	Sam Wainwright
+cast	Virginia Patton	Ruth Dakin
+cast	Charles Williams	Cousin Eustace
+cast	Sarah Edwards	Mrs. Hatch
+cast	William Edmunds	Mr. Martini
+cast	Lillian Randolph	Annie
+cast	Argentina Brunetti	Mrs. Martini
+cast	Robert J. Anderson	Little George
+cast	Ronnie Ralph	Little Sam
+cast	Jean Gale	Little Mary
+cast	Jeanine Ann Roose	Little Violet
+cast	Danny Mummert	Little Marty Hatch
+cast	Georgie Nokes	Little Harry Bailey
+cast	Sheldon Leonard	Nick
+cast	Frank Hagney	Potter's Bodyguard
+cast	Ray Walker	Joe - Luggage Shop
+cast	Charles Lane	Real Estate Salesman
+cast	Edward Keane	Tom - Bldg. & Loan
+cast	Carol Coombs	Bailey Child - Janie
+cast	Karolyn Grimes	Bailey Child - Zuzu
+cast	Larry Simms	Bailey Child - Pete
+cast	Jimmy Hawkins	Bailey Child - Tommy
+cast	Jean Acker	Townswoman
+cast	Ernie Adams	Ed
+cast	Monya Andre	
+cast	Stanley Andrews	Mr. Welch
+cast	Sam Ash	Nervous Banker
+cast	Jack Bailey	One of Vi's Suitors
+cast	Mary Bayless	Townswoman
+cast	Beth Belden	
+cast	Brooks Benedict	Military Officer in Montage
+cast	Joseph E. Bernard	Townsman
+cast	Al Bridge	Sheriff
+cast	Buz Buckley	
+cast	Marian Carr	Jane Wainwright
+cast	Adriana Caselotti	Singer at Martini's
+cast	Lane Chandler	
+cast	Michael Chapin	Young George's Friend
+cast	Tom Chatterton	Townsman
+cast	Jack Cheatham	Cop Arresting Violet
+cast	Harry Cheshire	Dr. Campbell
+cast	Edward Clark	Building & Loan Board Member
+cast	Tom Coleman	Building & Loan Customer
+cast	Ellen Corby	Ms. Davis
+cast	Jimmy the Crow	Crow in Bank
+cast	Bryn Davis	
+cast	Lew Davis	High School Teacher at Poolside
+cast	Harry Denny	
+cast	Helen Dickson	Woman at Graduation Dance
+cast	Dick Elliott	Man on Porch
+cast	Tom Fadden	Tollhouse Keeper
+cast	Frank Fenton	Violet's Boyfriend
+cast	Eddie Fetherston	Horace
+cast	Sam Flint	Relieved Banker in Potter's Office
+cast	Lee Frederick	
+cast	Dick Gordon	Photographer with Sheriff
+cast	Jack Gordon	Bar Patron
+cast	Herschel Graham	
+cast	Joseph Granby	
+cast	Charles Halton	Carter
+cast	Carl Eric Hansen	
+cast	Herbert Heywood	Building & Loan Depositor
+cast	Harry Holman	Mr. Partridge
+cast	Art Howard	Building & Loan Board Member
+cast	Bert Howard	Building & Loan Board Member
+cast	Arthur Stuart Hull	Mr. Randall
+cast	John Indrisano	Man in Fantasy
+cast	Eddie Kane	Building & Loan Depositor
+cast	Carl Kent	
+cast	Milton Kibbee	Building & Loan Board Member
+cast	Effie Laird	Townswoman
+cast	Mike Lally	Building & Loan Customer
+cast	Harold Landon	Marty Hatch
+cast	Meade 'Lux' Lewis	Pianist in Nick's Place
+cast	Jack Lomas	Bar Patron
+cast	J. Farrell MacDonald	Man Whose Grandfather Planted Tree
+cast	Irene Mack	
+cast	Wilbur Mack	Building and Loan Customer
+cast	Charles Meakin	
+cast	Priscilla Montgomery	Student in Gym
+cast	Bert Moorhouse	Man with Sheriff
+cast	Philip Morris	Building & Loan Customer
+cast	George Noisom	School Dancer
+cast	Bob O'Connor	Bar Patron
+cast	Frank O'Connor	Military Officer in Montage
+cast	Moroni Olsen	Senior Angel
+cast	Garry Owen	Bill-Poster
+cast	Netta Packer	
+cast	Franklin Parker	Photographer / Reporter
+cast	Suzanne Ridgeway	Nick's Waitress
+cast	Mark Roberts	Mickey
+cast	Constantine Romanoff	Bar Patron
+cast	Cy Schindell	Nick's Bouncer
+cast	Almira Sessions	Potter's Secretary
+cast	Cedric Stevens	
+cast	Brick Sullivan	Man in Fantasy
+cast	Charles Sullivan	Nick's Bartender
+cast	Carl 'Alfalfa' Switzer	Freddie Othello
+cast	Max Wagner	Cashier / Nick's Assistant Bouncer
+cast	Larry Wheat	Building & Loan Board Member
+cast	Charles C. Wilson	Charlie

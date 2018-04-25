@@ -1,0 +1,246 @@
+year	1999
+imdb score	6.6
+meta score	59
+genre	Action
+genre	Adventure
+genre	Comedy
+genre	Crime
+genre	Sci-Fi
+keyword	moon
+keyword	time machine
+keyword	clone
+keyword	laser
+keyword	gun
+keyword	fat
+keyword	year 1969
+keyword	spy
+keyword	sexual innuendo
+keyword	character says i love you
+keyword	1960s
+keyword	eye patch
+keyword	spacecraft
+keyword	security breach
+keyword	cat
+keyword	obesity
+keyword	spy spoof
+keyword	cryonics
+keyword	countdown
+keyword	sniper
+keyword	car chase
+keyword	ransom
+keyword	sexual overtones
+keyword	summer of love
+keyword	midget
+keyword	volcano eruption
+keyword	island
+keyword	sibling rivalry
+keyword	rejection
+keyword	filthy toilet
+keyword	james bond spoof
+keyword	volcano
+keyword	spoof title
+keyword	blockbuster
+keyword	baby carriage
+keyword	submarine
+keyword	indestructibility
+keyword	stasis
+keyword	reference to oprah winfrey
+keyword	cryogenics
+keyword	1990s
+keyword	flasher
+keyword	knockout gas
+keyword	shadow play
+keyword	dwarf
+keyword	breaking down a door
+keyword	android
+keyword	hypodermic needle
+keyword	sexual joke
+keyword	kicked in the groin
+keyword	phallic image
+keyword	gadget car
+keyword	falling from height
+keyword	innuendo
+keyword	gerbil
+keyword	actor playing himself
+keyword	billions
+keyword	sphynx cat
+keyword	cult film
+keyword	penis joke
+keyword	hit in the crotch
+keyword	sexy agent
+keyword	supermodel
+keyword	aphrodisiac
+keyword	meeting future self
+keyword	toilet
+keyword	single parent
+keyword	extortion
+keyword	year 1967
+keyword	pizza delivery boy
+keyword	bachelor pad
+keyword	second part
+keyword	cloning
+keyword	secret headquarters
+keyword	surprise after end credits
+keyword	volcano hideout
+keyword	convertible
+keyword	bedroom
+keyword	president
+keyword	unplanned pregnancy
+keyword	sexual promiscuity
+keyword	falling to death
+keyword	fart joke
+keyword	man with glasses
+keyword	fez
+keyword	spoof
+keyword	kukri dagger
+keyword	stool specimen
+keyword	one night stand
+keyword	breaking the fourth wall
+keyword	father son relationship
+keyword	u.s. president
+keyword	reference to the clapper
+keyword	time travel
+keyword	bagpipes
+keyword	nasa
+keyword	retro style secret agent
+keyword	product placement
+keyword	reverse footage
+keyword	tracking device
+keyword	big boy statue
+keyword	space shuttle
+keyword	confrontational tv
+keyword	starbucks coffee
+keyword	sequel
+keyword	moon base
+keyword	scene during end credits
+keyword	reference to star wars
+keyword	rocket ship
+keyword	actor playing multiple roles
+keyword	spit in the face
+keyword	gluttony
+keyword	saturn v rocket
+keyword	scottish stereotype
+keyword	spying
+keyword	see you in hell
+keyword	femme fatale
+keyword	u boat
+keyword	flatulence
+keyword	party
+keyword	moon shot
+keyword	returning character killed off
+keyword	fat suit
+keyword	feces
+keyword	cyclops
+keyword	kicking in a door
+keyword	london england
+keyword	character name in title
+cast	Mike Myers	Austin Powers / Dr. Evil / Fat Bastard
+cast	Heather Graham	Felicity Shagwell
+cast	Michael York	Basil Exposition
+cast	Robert Wagner	Number Two
+cast	Rob Lowe	Young Number Two
+cast	Seth Green	Scott Evil
+cast	Mindy Sterling	Frau Farbissina
+cast	Verne Troyer	Mini-Me
+cast	Elizabeth Hurley	Vanessa Kensington
+cast	Gia Carides	Robin Swallows
+cast	Oliver Muirhead	British Colonel
+cast	George Cheung	Chinese Teacher
+cast	Jeffrey Meng	Chinese Student
+cast	Muse Watson	Klansman
+cast	Scott Cooper	Klansman's Son - Bobby
+cast	Douglas Fisher	Man - Pecker
+cast	Kevin Cooney	NORAD Colonel
+cast	Clint Howard	Johnson
+cast	Brian Hooks	Pilot
+cast	David Koechner	Co-Pilot
+cast	Frank Clem	Guitarist with Willie Nelson
+cast	Herb Mitchell	Sergeant
+cast	Steve Eastin	Umpire
+cast	Jane Carr	Woman - Pecker
+cast	Kevin Durand	Assassin
+cast	Melissa Justin	Chick #1 at Party
+cast	Nicholas Walker	Captain of the Guard
+cast	Stephen Hibbert	Guard at Jail Cell
+cast	David Coy	Carnaby Street Band
+cast	David Crigger	Carnaby Street Band
+cast	Tom Ehlen	Carnaby Street Band
+cast	Dennis Wilson	Carnaby Street Band
+cast	Eric Winzenried	Private Army Soldier
+cast	Tim Bagley	Friendly Dad
+cast	Colton James	Friendly Son
+cast	Mike Hagerty	Peanut Vendor
+cast	Jack Kehler	Circus Barker
+cast	Kirk Ward	Soldier
+cast	Jeff Garlin	Cyclops
+cast	Rachel Wilson	Fan
+cast	Jennifer Coolidge	Woman at Football Game
+cast	John Mahon	NATO Colonel
+cast	Michael McDonald	NATO Soldier
+cast	Jeanette Miller	Teacher
+cast	Mary Jo Smith	Unibrau
+cast	Carrie Ann Inaba	Felicity's Dancer #1
+cast	Jennifer Hamilton	Felicity's Dancer #2
+cast	Ayesha Orange	Felicity's Dancer #3
+cast	Natalie Willes	Felicity's Dancer #4
+cast	John R. Corella	Party Dancer #1
+cast	Alison Faulk	Party Dancer #2
+cast	Michelle Elkin	Party Dancer #3
+cast	Shealan Spencer	Party Dancer #4
+cast	Tovaris Wilson	Party Dancer #5
+cast	Bree Turner	Dancer #1
+cast	Marisa Gilliam	Dancer #2
+cast	Mark Meismer	Dancer #3
+cast	Salvatore Vassallo	Dancer #4
+cast	Jason Yribar	Dancer #5
+cast	Chekesha Van Putten	Go-Go Dancer #1
+cast	Tara Mouri	Go-Go Dancer #2
+cast	Giggi Yazicioglu	Go-Go Dancer #3
+cast	Sarah Christine Smith	Scene Break Dancer
+cast	Faune A. Chambers	Scene Break Dancer
+cast	Gabriel Paige	Scene Break Dancer
+cast	Jim Boensch	Queen's Guard
+cast	Ron Ulstad	Chief of Staff
+cast	Timothy Watters	Bill Clinton Look-Alike
+cast	Todd M. Schultz	Jerry Springer's Bodyguard #1
+cast	Steve Wilkos	Jerry Springer's Bodyguard #2
+cast	Michelle Sritenko Africano	Synchronized Swimmer
+cast	Nathalie S. Bartleson	Synchronized Swimmer
+cast	Janine M. Bekker	Synchronized Swimmer
+cast	Khadija Cutcher	Synchronized Swimmer
+cast	Mary Dettmer	Synchronized Swimmer
+cast	Annie Henry	Synchronized Swimmer
+cast	Tracy Gayeski	Synchronized Swimmer
+cast	Tracy Long	Synchronized Swimmer
+cast	Laurie Martin	Synchronized Swimmer
+cast	Jill Savery	Synchronized Swimmer
+cast	Margot Thien	Synchronized Swimmer
+cast	Kimi Cochrun	Synchronized Swimmer
+cast	Burt Bacharach	Burt Bacharach
+cast	Elvis Costello	Elvis Costello
+cast	Will Ferrell	Mustafa
+cast	Woody Harrelson	Woody Harrelson
+cast	Kristen Johnston	Ivana Humpalot
+cast	Charles Napier	Gen. Hawk
+cast	Willie Nelson	Willie Nelson
+cast	Tim Robbins	The President
+cast	Rebecca Romijn	Rebecca Romijn
+cast	Jerry Springer	Jerry Springer
+cast	Fred Willard	Mission Commander
+cast	Jessica Anne Bogart	Party Girl in Pink
+cast	Robert Cohen	Rabbi Shlotsky
+cast	Colette Divine	Go-Go Dancer In Cage
+cast	Dan Gilman	NORAD Officer
+cast	Phil Hawn	M.O.D. Crime Scene Investigator
+cast	Max Herholz	Hotel Guest
+cast	Tom Ivanjack	Man in Jerry Springer Audience
+cast	Tony Jay	Narrator
+cast	Lana Kinnear	Nurse
+cast	Harish Mandyam	Scientist
+cast	Stephen A. Marinaccio II	Party Dancer
+cast	Allie Moss	Dancer
+cast	Bill O'Donnell	Dancer
+cast	Jeanine Orci	Dancer on Carnaby Street
+cast	Mitch Rouse	Mitch Rouse
+cast	Lisa Varga	Sexy Nurse
+cast	Andreanna Veith	Dancer on Carnaby Street

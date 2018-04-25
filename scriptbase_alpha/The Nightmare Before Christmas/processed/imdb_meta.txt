@@ -1,0 +1,103 @@
+year	1993
+imdb score	8.1
+meta score	N/A
+genre	Animation
+genre	Family
+genre	Fantasy
+genre	Musical
+keyword	christmas
+keyword	halloween
+keyword	pumpkin
+keyword	woods
+keyword	christmas tree
+keyword	monster
+keyword	dog
+keyword	supernatural power
+keyword	holiday horror
+keyword	witch
+keyword	cult film
+keyword	unrequited love
+keyword	holiday in title
+keyword	title based on poem
+keyword	presumed dead
+keyword	vision
+keyword	mayor
+keyword	mistrust
+keyword	pumpkin head
+keyword	elf
+keyword	ghost
+keyword	black comedy
+keyword	graveyard
+keyword	vampire
+keyword	jack o'lantern
+keyword	rib
+keyword	horror for children
+keyword	hunchback
+keyword	gothic
+keyword	two headed person
+keyword	easter bunny
+keyword	snake
+keyword	skeleton
+keyword	fire
+keyword	saving christmas
+keyword	cartoon dog
+keyword	doll
+keyword	reindeer
+keyword	disney animated feature
+keyword	split personality
+keyword	garland
+keyword	sleigh
+keyword	snowglobe
+keyword	corpse
+keyword	holly
+keyword	christmas in danger
+keyword	mummy
+keyword	werewolf
+keyword	cult film
+keyword	microscope
+keyword	two holiday story
+keyword	ghost dog
+keyword	no opening credits
+keyword	pet as gift
+keyword	guillotine
+keyword	stop motion animation
+keyword	falling from height
+keyword	1990s
+keyword	ornament
+keyword	mad scientist
+keyword	evil toy
+keyword	glowing eye
+cast	Danny Elfman	Jack Skellington - Singing Voice / Barrel / Clown with the Tear Away Face
+cast	Chris Sarandon	Jack Skellington
+cast	Catherine O'Hara	Sally / Shock
+cast	William Hickey	Evil Scientist
+cast	Glenn Shadix	Mayor
+cast	Paul Reubens	Lock
+cast	Ken Page	Oogie Boogie
+cast	Edward Ivory	Santa
+cast	Susan McBride	Big Witch / WWD.
+cast	Debi Durst	Corpse Kid / Corpse Mom / Small Witch
+cast	Greg Proops	Harlequin Demon / Devil / Sax Player
+cast	Kerry Katz	Man Under Stairs / Vampire / Corpse Dad
+cast	Randy Crenshaw	Mr. Hyde / Behemoth / Vampire Corpse Dad
+cast	Sherwood Ball	Mummy / Vampire
+cast	Carmen Twillie	Undersea Gal / Man Under the Stairs
+cast	Glenn Walters	Wolfman
+cast	Mia Brown	Additional Voices
+cast	L. Peter Callender	Additional Voices
+cast	Ann Fraser	Additional Voices
+cast	Jennifer Levey	Additional Voices
+cast	Jesse McClurg	Additional Voices
+cast	John Morris	Additional Voices
+cast	Robert Olague	Additional Voices
+cast	Bobbi Page	Additional Voices
+cast	Elena Praskin	Additional Voices
+cast	Trampas Warman	Additional Voices
+cast	Judi M. Durand	Additional Voices
+cast	Doris Hess	Additional Voices
+cast	Daamen J. Krall	Additional Voices
+cast	Christina MacGregor	Additional Voices
+cast	David McCharen	Additional Voices
+cast	Gary Raff	Additional Voices
+cast	David Randolph	Additional Voice
+cast	Gary Schwartz	Additional Voices

@@ -1,0 +1,209 @@
+year	1985
+imdb score	7.2
+meta score	N/A
+genre	Horror
+keyword	military
+keyword	scientist
+keyword	bunker
+keyword	experiment
+keyword	florida
+keyword	living dead
+keyword	death
+keyword	cave
+keyword	sequel
+keyword	research
+keyword	zombie
+keyword	crocodile
+keyword	severed arm
+keyword	zombie attack
+keyword	cult film
+keyword	reference to god
+keyword	private
+keyword	shot through the mouth
+keyword	missile silo
+keyword	horror movie remade
+keyword	nightmare
+keyword	siege
+keyword	nervousness
+keyword	severed head
+keyword	apocalypse
+keyword	eye gouging
+keyword	m 16
+keyword	shovel through head
+keyword	flask
+keyword	shot in the back
+keyword	eaten alive
+keyword	radio operator
+keyword	split head
+keyword	disembodied head
+keyword	anthropophagus
+keyword	ethnic slur
+keyword	shot in the forehead
+keyword	blood
+keyword	desolate city
+keyword	post apocalypse
+keyword	machine gun
+keyword	underground silo
+keyword	blood splatter
+keyword	fight to the death
+keyword	sequel to cult favorite
+keyword	satire
+keyword	helicopter pilot
+keyword	shot to death
+keyword	uzi
+keyword	trailer
+keyword	racial slur
+keyword	shovel through throat
+keyword	pilot
+keyword	eating human flesh
+keyword	murder
+keyword	salute
+keyword	shot in the head
+keyword	famous line
+keyword	brain
+keyword	throat ripping
+keyword	x rayed skeleton
+keyword	island
+keyword	captain
+keyword	dead children
+keyword	child shot in the head
+keyword	zombie with gun
+keyword	shot in the chest
+keyword	psychotronic
+keyword	suicide
+keyword	balladeer
+keyword	soldier
+keyword	cannibalism
+keyword	bullhorn
+keyword	creature feature
+keyword	end of the world
+keyword	black comedy
+keyword	zombie violence
+keyword	survival horror
+keyword	violence
+keyword	dismemberment
+keyword	corpse
+keyword	bitten on the arm
+keyword	shot in the shoulder
+keyword	brandy
+keyword	disembowelment
+keyword	mexican standoff
+keyword	zombie apocalypse
+keyword	decapitation
+keyword	torso cut in half
+keyword	zombie child
+keyword	african american
+keyword	tape recorder
+keyword	bodily dismemberment
+keyword	bitten in the throat
+keyword	insanity
+keyword	sequel to cult horror
+keyword	dream sequence
+keyword	reference to frankenstein
+keyword	flesh eating zombie
+keyword	calendar
+keyword	severed leg
+keyword	intestines
+keyword	jamaican
+keyword	shot in the arm
+keyword	cult film
+keyword	third part
+keyword	gore
+keyword	cult director
+keyword	trailer home
+keyword	fight
+keyword	shot in the leg
+keyword	helicopter
+keyword	cautery
+keyword	amputation
+keyword	mad scientist
+keyword	independent film
+cast	Lori Cardille	Sarah
+cast	Terry Alexander	John
+cast	Joseph Pilato	Rhodes
+cast	Jarlath Conroy	McDermott
+cast	Anthony Dileo Jr.	Miguel
+cast	Richard Liberty	Logan
+cast	Sherman Howard	Bub
+cast	Gary Howard Klar	Steel
+cast	Ralph Marrero	Rickles
+cast	John Amplas	Fisher
+cast	Phillip G. Kellams	Miller
+cast	Taso N. Stavrakis	Torrez
+cast	Greg Nicotero	Johnson
+cast	Don Brockett	Featured Zombie
+cast	William Cameron	Featured Zombie
+cast	Deborah Carter	Featured Zombie
+cast	Winnie Flynn	Featured Zombie
+cast	Debra Gordon	Featured Zombie
+cast	Jeff Hogan	Featured Zombie
+cast	Barbara Holmes	Featured Zombie
+cast	David Kindlon	Featured Zombie
+cast	Bruce Kirkpatrick	Featured Zombie
+cast	'Wild Bill' Laczko	Featured Zombie
+cast	Susan Martinelli	Featured Zombie
+cast	Kim Maxwell	Featured Zombie
+cast	Barbara Russell	Featured Zombie
+cast	Gene A. Saraceni	Featured Zombie
+cast	John D. Schwartz	Featured Zombie
+cast	Mark Tierno	Featured Zombie
+cast	Mike Trcic	Featured Zombie
+cast	John Vulich	Featured Zombie
+cast	Terry Adams	Mine Zombie Chasing Steel
+cast	Al Anderson	Mine Zombie Chasing Steel
+cast	Tom Ardolino	Mine Zombie Chasing Steel
+cast	Vini Bancalari	Zombie Feasting on Fisher's Dead Body
+cast	David Barckhoff	Zombie
+cast	Gabriel Bartalos	Camouflage Hat Zombie
+cast	Matt Bartlett	Zombie in Steel's Death Scene
+cast	Wayne Bartley	2nd Soldier Zombie
+cast	Howard Berger	Spinaround Cave Zombie Shot by John
+cast	Jim Blazer	Chorus
+cast	J.R. Bookwalter	Zombie
+cast	Tom Brown	Chef Zombie
+cast	Geoff Burkman	Dirty Pink Collared Shirted Zombie / Umpire Masked Zombie Eating Flesh
+cast	Everett Burrell	Surgeon Zombie in Cave
+cast	Mary Caputo	Flower Hat Zombie
+cast	Bill 'Chilly Billy' Cardille	Elevator Zombie
+cast	Glenn Charbonneau	Elevator Zombie
+cast	Delilah	The 2nd Balladeer
+cast	George Demick	Zombie who rips Rhodes' legs apart
+cast	Mark Dodson	Zombies
+cast	Enid Earle	Church Hat Lady Zombie who attacks Miguel
+cast	Billy Elmer	Zombie
+cast	Donald Farmer	Underground Zombie
+cast	Paul Gagne	Rickles' Bearded Zombie Attacker
+cast	David Granati	Rhodes' Zombie Attacker
+cast	Hermie Granati	Rhodes' Zombie Attacker
+cast	Joey Granati	Rhodes' Zombie Attacker
+cast	Rick Granati	Rhodes' Zombie Attacker
+cast	Bryan Gregory	Cameo
+cast	Barry Gress	Major Cooper's Corpse
+cast	Peter Iasillo Jr.	Elevator zombie
+cast	Gary Jones	Zombie with Yellow Apron
+cast	Daniel Krell	Zombie
+cast	Ed Lammi	Zombie with Cast Arm
+cast	Ralph Langer	Zombie
+cast	Annie Loeffler	Female Cave Zombie Shot by John
+cast	Pat Logan	Bald Mustachioed Zombie Shot by Steel in Mines
+cast	Bill Love	Portly Bearded Denim Shirted Zombie Walking Out of First National Bank with Alligator
+cast	Kathy Love	White Shirted Female Zombie in deserted city
+cast	Al Magliochetti	Bathrobe Zombie / Sunglasses Zombie
+cast	Modern Man	Chorus
+cast	Robert Martin	Zombie
+cast	Akram Midani	Fisherman Zombie in Mines
+cast	Watfa Midani	Mine Zombie Next to Fisherman Zombie
+cast	Jeff Monahan	Featured Zombie
+cast	NRBQ	Mine Zombies Chasing Steel
+cast	Jim O'Rear	Attacking Zombie
+cast	Talmadge Pearsall	Chorus
+cast	Michael 'D.O.C.' Porter	Pompadour Hairstyled Zombie in Steel's Death Scene
+cast	James Rogal	Sarah's Zombie Attacker in Dream: Hand Only
+cast	George A. Romero	Zombie with Scarf
+cast	Joey Spampinato	Mine Zombie Chasing Steel
+cast	Sputzy Sparacino	The Balladeer
+cast	Mark Steensland	Rickles' Zombie Attacker
+cast	Eileen Sieff Stroup	Short Haired Female Plaid Shirted Zombie eating flesh in lab
+cast	Vincent D. Survinski	Elevator Zombie
+cast	Michael J. Tomaso	Zombie-Football Player - Florida
+cast	Roy Wetzel	Rhodes' Zombie Attacker

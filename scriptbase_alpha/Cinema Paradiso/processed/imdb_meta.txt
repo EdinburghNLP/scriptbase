@@ -1,0 +1,144 @@
+year	1988
+imdb score	8.5
+meta score	80
+genre	Drama
+keyword	boy
+keyword	village
+keyword	love
+keyword	cinema
+keyword	friendship
+keyword	flashback
+keyword	first love
+keyword	kissing
+keyword	fire
+keyword	mother son relationship
+keyword	sicily
+keyword	masturbation
+keyword	nostalgia
+keyword	world war two
+keyword	generation gap
+keyword	1940s
+keyword	child's point of view
+keyword	haunted by the past
+keyword	italian cinema
+keyword	melodrama
+keyword	train
+keyword	theatre
+keyword	film history
+keyword	accidental fire
+keyword	kissing in the rain
+keyword	sex outside
+keyword	sex
+keyword	scooter
+keyword	twentieth century
+keyword	abandoned theatre
+keyword	filmmaking
+keyword	animal cruelty
+keyword	train station
+keyword	rain
+keyword	church
+keyword	italy
+keyword	film within a film
+keyword	town square
+keyword	child abuse
+keyword	historical event
+keyword	real movie shown in fictional situation
+keyword	school
+keyword	cinematography
+keyword	person on fire
+keyword	film projector
+keyword	filmmaking
+keyword	coming of age
+keyword	movie theatre
+keyword	breast feeding
+keyword	fictional biography
+keyword	movie theatre on fire
+keyword	bicycle
+keyword	censorship
+keyword	blind man
+keyword	film projectionist
+keyword	sheep
+keyword	intergenerational friendship
+keyword	teacher
+keyword	cefalù italy
+keyword	reference to gary cooper
+cast	Antonella Attili	Maria Di Vita - Younger
+cast	Enzo Cannavale	Spaccafico
+cast	Isa Danieli	Anna
+cast	Leo Gullotta	Usher
+cast	Marco Leonardi	Salvatore 'Totò' Di Vita - Teenager
+cast	Pupella Maggio	Maria Di Vita - Older
+cast	Agnese Nano	Elena Mendola
+cast	Leopoldo Trieste	Father Adelfio
+cast	Salvatore Cascio	Salvatore 'Totò' Di Vita - Child
+cast	Tano Cimarosa	Blacksmith
+cast	Nicola Di Pinto	Village Idiot
+cast	Roberta Lena	Lia
+cast	Nino Terzo	Peppino's Father
+cast	Jacques Perrin	Salvatore 'Totò' Di Vita - Adult
+cast	Brigitte Fossey	Elena Mendola - Adult
+cast	Philippe Noiret	Alfredo
+cast	Nellina Laganà	
+cast	Turi Giuffrida	
+cast	Mariella Lo Giudice	
+cast	Giorgio Libassi	
+cast	Beatrice Palme	
+cast	Ignazio Pappalardo	
+cast	Angela Leontini	
+cast	Mimmo Mignemi	
+cast	Margherita Mignemi	
+cast	Giuseppe Pellegrino	
+cast	Turi Killer	
+cast	Angelo Tosto	
+cast	Concetta Borpagano	
+cast	Franco Catalano	
+cast	Roscoe 'Fatty' Arbuckle	Boxer
+cast	Antonio Arcidiacono	Ntoni
+cast	Junie Astor	Natacha
+cast	Ignazio Balsamo	Francesco Messana
+cast	Brigitte Bardot	Juliete Hardy
+cast	John Barrymore	The Baron
+cast	Isa Barzizza	Toto's Conquest
+cast	Ingrid Bergman	Ivy Peterson
+cast	Vilma Bánky	Yasmin
+cast	Clara Calamai	Ginevra
+cast	Mario Castellani	Jealous Husband
+cast	Nicola Castorino	Nicola
+cast	Charles Chaplin	Referee / The Lone Prospector
+cast	Gary Cooper	Lt. Frederic Henry
+cast	Olivia de Havilland	Maid Marian
+cast	Vittorio De Sica	Count Prospero B.
+cast	Kirk Douglas	Ulysses
+cast	Errol Flynn	Robin Hood
+cast	Jean Gabin	Wasska Pepel
+cast	Clark Gable	Ace Wilfong
+cast	Greta Garbo	Grusinskaya - the Dancer
+cast	Vittorio Gassman	Walter
+cast	Massimo Girotti	Il pretore Guido Schiavi
+cast	Farley Granger	Il tenente Franz Mahler
+cast	Cary Grant	Walter Burns
+cast	Georgia Hale	Georgia
+cast	Laurence Harvey	Joe Lampton
+cast	Helen Hayes	Catherine Barkley
+cast	Louis Jouvet	Le Baron
+cast	Anna Magnani	Maddalena Cecconi
+cast	Silvana Mangano	Anna / Silvana
+cast	Marcello Mastroianni	Mario
+cast	Amedeo Nazzari	Neri Chiaramontesi
+cast	Suzy Prim	Vassilissa Kostyleva
+cast	Donna Reed	Mary Hatch
+cast	Jane Russell	Rio McDonald
+cast	Rosalind Russell	Hildy Johnson
+cast	Yvonne Sanson	Rosa Carrisi
+cast	Maria Schell	Natalia
+cast	Norma Shearer	Jan Ashe
+cast	Simone Signoret	Alice Aisgill
+cast	Alberto Sordi	Alberto
+cast	James Stewart	George Bailey
+cast	Giuseppe Tornatore	Projectionist
+cast	Totò	The Suitor - Disguises Himself as Dummy / Band Leader
+cast	Spencer Tracy	Dr. Henry Jekyll / Mr. Hyde
+cast	Claire Trevor	Dallas
+cast	Rudolph Valentino	The Sheik
+cast	Alida Valli	La contessa Livia Serpieri
+cast	John Wayne	Ringo Kid

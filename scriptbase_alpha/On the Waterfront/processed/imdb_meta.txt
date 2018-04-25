@@ -1,0 +1,150 @@
+year	1954
+imdb score	8.3
+meta score	88
+genre	Crime
+genre	Drama
+keyword	union
+keyword	murder
+keyword	longshoreman
+keyword	dock
+keyword	pigeon
+keyword	conscience
+keyword	waterfront
+keyword	death
+keyword	thug
+keyword	hearing
+keyword	stool pigeon
+keyword	redemption
+keyword	glove
+keyword	whistleblower
+keyword	solidarity
+keyword	cult film
+keyword	organized crime
+keyword	hit with a baseball bat
+keyword	love
+keyword	confession
+keyword	social issues
+keyword	irish catholic
+keyword	alley
+keyword	pulitzer prize source
+keyword	mob
+keyword	ship
+keyword	family relationships
+keyword	bar
+keyword	irish american
+keyword	misfit
+keyword	steamship
+keyword	oath
+keyword	corruption
+keyword	man on the verge of tears
+keyword	priest
+keyword	mafia
+keyword	subpoena
+keyword	racing pigeon
+keyword	bride
+keyword	revolver
+keyword	homelessness
+keyword	last rites
+keyword	courtroom
+keyword	gangster
+keyword	animal abuse
+keyword	investigation
+keyword	father daughter relationship
+keyword	wedding reception
+keyword	death of brother
+keyword	beating
+keyword	loss of brother
+keyword	boxer
+keyword	melodrama
+keyword	dockworker
+keyword	pelted with food
+keyword	panhandling
+keyword	hook
+keyword	assault
+keyword	tragic event
+keyword	reference to marilyn monroe
+keyword	three word title
+keyword	face slap
+keyword	harbor
+keyword	police officer
+keyword	based on article
+keyword	loss of son
+keyword	rooftop
+keyword	fight the system
+keyword	regret
+keyword	famous score
+keyword	pet killed
+keyword	labor union
+keyword	new york city
+keyword	brother brother relationship
+keyword	fired from the job
+keyword	catholic church
+keyword	prizefighter
+keyword	siren
+keyword	inspiring story
+keyword	witness
+keyword	falling into water
+keyword	social criticism
+keyword	pet cat
+keyword	dancing
+keyword	fixed fight
+keyword	jacket
+keyword	street gang
+keyword	gambling
+keyword	taxi
+keyword	brooklyn new york city
+keyword	church
+keyword	deliberate cruelty
+keyword	intimidation
+keyword	shipyard
+keyword	former athlete
+keyword	watching tv
+keyword	gun
+keyword	labor union corruption
+keyword	corpse
+keyword	money
+keyword	fistfight
+keyword	famous line
+keyword	catholic
+keyword	new jersey
+keyword	urban setting
+keyword	fear
+keyword	blockbuster
+keyword	brother sister relationship
+keyword	confrontation
+keyword	loyalty
+keyword	title spoken by character
+keyword	
+cast	Marlon Brando	Terry Malloy
+cast	Karl Malden	Father Barry
+cast	Lee J. Cobb	Johnny Friendly
+cast	Rod Steiger	Charley Malloy
+cast	Pat Henning	Kayo Dugan
+cast	Leif Erickson	Glover
+cast	James Westerfield	Big Mac
+cast	Tony Galento	Truck
+cast	Tami Mauriello	Tillio
+cast	John F. Hamilton	'Pop' Doyle
+cast	John Heldabrand	Mott
+cast	Rudy Bond	Moose
+cast	Don Blackman	Luke
+cast	Arthur Keegan	Jimmy
+cast	Abe Simon	Barney
+cast	Eva Marie Saint	Edie Doyle
+cast	Martin Balsam	Gillette
+cast	Dan Bergin	Sidney
+cast	Zachary Charles	Dues Collector
+cast	Jere Delaney	Bit Part
+cast	Robert Downing	Bit
+cast	Michael V. Gazzo	Bit
+cast	Fred Gwynne	Slim
+cast	Thomas Handley	Tommy Collins
+cast	Anne Hegira	Mrs. Collins
+cast	Pat Hingle	Jocko
+cast	Scottie MacGregor	Mother of a Longshoreman
+cast	Barry Macollum	Johnny's Banker
+cast	Tiger Joe Marsh	Longshoreman
+cast	Edward McNally	Bit Part
+cast	Mike O'Dowd	Specs
+cast	Nehemiah Persoff	Cab Driver
+cast	Johnny Seven	Longshoreman

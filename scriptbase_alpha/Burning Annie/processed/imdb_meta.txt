@@ -1,0 +1,85 @@
+year	2004
+imdb score	5.6
+meta score	38
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	college
+keyword	love
+keyword	student
+keyword	radio show host
+keyword	talking to the camera
+keyword	jew
+keyword	flashback
+keyword	days of the week
+keyword	sex
+keyword	watching a movie
+keyword	restaurant
+keyword	roommate
+keyword	condom
+keyword	friend
+keyword	petroleum jelly
+keyword	cafe
+keyword	drug use
+keyword	twenty something
+keyword	underwear
+keyword	high school
+keyword	radio show
+keyword	waitress
+keyword	movie theatre
+keyword	headphones
+keyword	boyfriend girlfriend relationship
+keyword	penis
+keyword	stepping out of scene
+keyword	dating
+keyword	marijuana
+keyword	answering machine
+keyword	friendship
+keyword	automated teller machine
+keyword	telephone call
+keyword	cigarette smoking
+keyword	party
+keyword	dancer
+keyword	fan
+keyword	library
+keyword	drinking
+keyword	dancing
+keyword	tattoo
+keyword	montage
+keyword	drunkenness
+keyword	bar
+keyword	actor
+keyword	bong
+keyword	watching tv
+keyword	
+cast	Gary Lundy	Max
+cast	Sara Downing	Julie
+cast	Kim Murphy	Beth
+cast	Brian Klugman	Charles
+cast	Jay Paulson	Sam
+cast	Honorine Bell	Amanda
+cast	Todd Duffey	Tommy
+cast	Kathleen Rose Perkins	Jen
+cast	Jason Risner	Scott
+cast	Carrie Freedle	Sara
+cast	Keith Page	Mark
+cast	David Hall	Andy
+cast	Alex Bolano	Young Max
+cast	Evan Price	Adolescent Max
+cast	Jaisey Bates	Amy
+cast	Randi Lehasky	Stacy - Girl on bed
+cast	Angel Zachel	Erica - Girl in theater
+cast	Regan Kerwin	Donna the Waitress
+cast	Jeanie Cheek	Judy
+cast	Clint McElroy	Max's Father
+cast	Jim Damron	Building Manager
+cast	George R. Snider III	Waiter
+cast	Randa Collins	Smokin' Co-Ed
+cast	Kent Waldeck	Bartender
+cast	Teresa Gillmor	Librarian
+cast	Damon Adkins	D.J.
+cast	Amanda Troop	Lisa, Steve's Girl
+cast	George Ingersoll	Steve
+cast	Place of Solace	Anhadonia
+cast	Merritt Shaw	Professor
+cast	Ashley Stinnett	Frat Guy

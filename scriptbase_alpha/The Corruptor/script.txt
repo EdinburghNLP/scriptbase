@@ -1,0 +1,6324 @@
+The Corruptor (1999) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+The Corruptor (1999) movie scriptby Robert Pucci
+More info about this movie on IMDb.com
+
+
+2. CHINATOWN WAR
+----------------
+
+EXT: NEW YORK CITY, DAY
+
+Credits roll over establishing shots of the city. First, 
+primary MANHATTAN, the one tourists see on post 
+cards. Then slowly, we drift into Chinatown. Side 
+streets and back alleys so different you wouldn't 
+even know your in the U.S...Eventually we stop on...
+
+EXT: WINGS BAKERY SHOP, WEST BROADWAY, CHINATOWN 
+-DAY
+
+CUSTOMERS move in and out when BOOOOM! The screen 
+EXPLODES in a ball of FIRE.
+
+The bleeding PATRONS stumble into the street as 
+flames pour from a gaping hole that was once a 
+bustling Herb shop.
+
+Across the street, a young ASIAN, poorly dressed, 
+lights a smoke. His body is undernourished and 
+covered with the tattoo insignia of the FUKIENESE 
+DRAGONS. But it's his eyes that get your attention. 
+Dark and hungry, they watch his day's work with the 
+detachment of one who's been taught the value of 
+life is zero. Meet BOBBY VU.
+
+Oblivious to the chaos, he strides into the street 
+flanked by three similarly tattooed youths who we 
+will come to know as JACK, BLACK EYES and "THE TALL 
+KID". Together they encircle a middle-aged TRIAD 
+SYMPATHIZER dressed totally in his bakery whites, 
+crawling from the rubble. The young gangsters 
+brazenly pull pistols from their jackets.
+
+                   BOBBY VU
+
+     Fukienese Dragons not funny now.
+
+The injured man futilely pulls a gun from his coat as 
+the Dragons execute their prey in a barrage of 
+gunfire. Smoke drifts from their weapons when Bobby 
+notices a frightened TOURIST lying in a puddle of her 
+own blood. He looks into her tear filled eyes and 
+raises his gun to finish her. But she dies before he 
+needs to shoot.
+
+He then climbs into a rented Ford and takes off.
+
+3. A BAD DEAL FOR THE FUKIENESE
+-------------------------------
+
+INT: PHAN HO'S LAMPS, CANAL STREET, NYC-NIGHT
+
+For a lamp store the joint is dark. The only light comes from the 
+merchandise burning 20 watt bulbs and a small black and white 
+Zenith spouting tape delayed news from the bombing site.
+
+                   REPORTER (TELEVISION)
+
+     The tragic death of BETH KADELL from Fairlawn New Jersey 
+     in this morning's Chinatown bombing has mobilized the city 
+     and drawn attention to a six month war being waged in the 
+     back alleys and underground corridors of the city's most
+     mysterious neighborhood. According to police, the Fukienese 
+     Dragons, a new entity in the Chinatown crime scene, are 
+     headed by twenty year old Bobby Vu from the Fukien 
+     province of China.
+
+The television shows a surveillance photo of Bobby Vu as the 
+sound of sporadic GRUNTS and a heavy WHACK...WHACK, emanates 
+from the back of the shop.
+
+Sitting at a table, drowning in a shower of sweat, is a fifty 
+year old blob named PHAN HO. Nerves mask his face, when 
+suddenly his arm lurches forward as if something or someone
+pulled him. WHACK!
+
+                   REPORTER (TELEVISION)
+
+     Sources say the bombing and execution of a known Triad 
+     Soldier are another chapter in the power struggle between 
+     the Fukienese Dragons Youth Gang and the Triad run Tung 
+     Fung Benevolent Association, Chinatown's ruling organized 
+     crime entity for over a century, believed to be headed by 
+     local businessman Benjamin Wong. Known in the community 
+     as Uncle Benny.
+
+A photo of sixty three year old Benny Wong fills the TV screen 
+as Phan Ho takes a five from a dwindling stack of bills and pushes 
+it across the table to NICK CHEN.
+
+Chen's thirty six, and whatever money he earns is spent on clothes 
+and fifty dollar haircuts. He's handsome and cool, with looks 
+hailing more from his Hong Kong father than his mainland mom.
+
+Phan watches as Chen takes a card from his hand and flips it onto 
+the table. Ace of Spades. Phan drops a three of Clubs. Back and 
+forth until Phan's empty and Chen's left with one card. He smiles, 
+taking his time as the fat man wipes sweat from his brow.
+
+                   PHAN
+     Throw it!
+
+Phan's poised to strike. Chen drops the card. Jack of Clubs. Both 
+men move, but Chen's quicker. He pulls the card from the table 
+letting Phan slam his hand on nothing but wood.
+
+     WHACK!
+
+Phan holds his palm as Chen picks up the cards and another five. 
+He shuffles the deck skillfully with his right hand as his left 
+fishes a smoke from his pocket.
+
+                   PHAN
+                   
+     It's late. No Fukienese Dragons come here. I close now...OK?
+
+On cue, the bell over the front door sounds trouble.
+
+INT PHAN HO'S LAMPS - NIGHT
+
+The youths entering the shop are FUKIENESE. Two, Jack and "The 
+Tall Kid", we recognize as the shooters from Wing's. One of them, 
+Fuke #1, stays outside to stand guard as the others approach Chen.
+
+                   TALL KID
+                   
+     (Fukienese)
+     Time to pay.
+
+They move purposefully toward the two men as Chen drops a 
+seven of clubs on the table and turns to Phan.
+
+                   CHEN
+                   
+     You speak Fukienese?
+
+Phan nods as the young thugs reach the table. Chen turns over 
+a four of spades from the frightened shop owner's hand.
+
+                   CHEN
+                   
+     Tell 'em they're in the wrong store.
+
+                   TALL KID
+                   
+     Fuck you.
+
+                   CHEN
+                   
+     Learned some English, good for you.
+
+Chen pulls his .45 and lays the cannon on the table.
+
+                   PHAN
+                   
+     Are you crazy?
+
+Chen drops a Jack of hearts on the pile, covers it uncontested 
+and takes a five from Phan's ever shrinking pile.
+
+                   CHEN
+
+     Lucky...are you?
+
+Chen stares at the Tall Kid, goading him with his lack of 
+concern...Three seconds pass like kidney stones... Finally, Chen 
+laughs to himself, stands and puts his finger to the Tall Kid's 
+head as if it were a play gun.
+
+The lack of respect incites the Tall Kid to go for his gun. But 
+before he can fire a shot, Chen produces a .38 from his sleeve 
+and puts a bullet through the gangster's head.
+
+Phan drops to the ground as Chen dives over the card table, 
+grabbing his .45. He hits the floor pulling the table down with 
+him as a shield for Phan, then himself as Fuke #2 shoots
+wildly before being taken out by Chen.
+
+Jack retreats to behind a wall, then slowly crosses through an 
+archway to confront Chen from behind. As he steps out, he finds 
+only Phan cowering on the floor. Chen has disappeared. Suddenly 
+the place explodes in a hail of automatic gunfire as Fuke #1 
+enters the store and sprays everything in sight, producing a 
+blizzard of glass. Jack turns to see Chen has re-appeared and 
+taken up postion behind a counter full of lamps and mirrors while
+he takes on both Jack and Fuke #1. 
+
+Chen skillfully uses one of the counters as cover as he makes 
+his way towards the front ofthe store, gets a bead on the Fuke 
+with the automatic and sends him flying back out the front 
+door in a hail of glass- pedestrians scattering for their life. 
+
+Jack, alone now, cowers behind an opposite counter, desperately 
+crawling along the floor trying to make his way out of there. He 
+peeks through an opening to his cover and find Chen nowhere in 
+sight.
+
+Slowly, painfully hunched over, he backs up towards the 
+blown-out front door, checks for Chen one more time, then 
+decides to make a run for it. Suddenly he's got a foot slamming
+into the side of his head sending him crashing back to the floor. 
+Chen has appeared out of nowhere.
+
+Chen drives another kick into his stomach, then yanks him to 
+his feet.
+
+INT PHAN HO'S LAMPS - NIGHT
+
+                   CHEN
+                   
+     English?
+
+(The boy nods)
+
+     What do they call you?
+
+                   YOUNG GANGSTER
+                   
+     Jack.
+
+                   CHEN
+                   
+     Tell Bobby Vu, his time is running out in Chinatown.
+
+He kicks the kid out the door and turns toward the shell-shocked 
+shopkeeper looking at the shambles of his livelihood.
+
+A teetering lamp topples from a shot up table but Chen catches 
+it before it hits the floor. He looks over at the owner, crying. 
+Chen places a fist full of fives from his winnings on the counter.
+
+                   CHEN
+                   
+     I'll take this one.
+
+EXT: ONE POLICE PLAZA -DAY
+
+Establishing.
+
+INT: ONE POLICE PLAZA-DAY
+
+A LACKEY for the Mayor stands at a podium addressing a room 
+filled with UNIFORMS and PRESS. Beside him, sporting a chest 
+full of commendations on his dress blues, is Nick Chen.
+
+                   LACKEY
+     
+     In the history of the Fifteenth precinct, few officers have 
+     done more to serve and protect the public of this great city  
+     than Lieutenant Nicholas Chen...
+
+In the rear of the room is DANNY WALLACE. He's 24 and has only 
+four spaces on his face that need shaving. But his eyes are smart 
+and always moving, except now. They're fixed on Nick Chen like 
+he was delivering the sermon on the mount.
+
+                   LACKEY
+
+     ...Lieutenant, for bravery in the line of fire and bringing to 
+     justice those responsible for the Chinatown Bombing and 
+     the tragic death of Beth Kadell, the mayor and people of 
+     New York thank you and present you with this commendation.
+
+The Lackey pins another hunk of brass on Chen as the room 
+erupts in cheers. And no one louder than Danny Wallace, 
+who whistles as the Lackey and Chen shake for the cameras.
+
+INT: NICK CHEN'S APARTMENT, KITCHEN, MOTT STREET-NIGHT
+
+The whistle comes from a screaming teapot. Chen, dressed in 
+a robe, pours the water into a bowl of rice which begins 
+sizzling like a steak. Unlike his wardrobe, his place is modest.
+The lamp from Phan's fits in nicely.
+
+Tired, he stares vacantly at the wallpaper until a gorgeous 
+Chinese girl, 19, walks in from the bedroom. By the way 
+she's tying her dress we know she was recently very naked. 
+He knows her as MAY. Chen slides open a drawer and pulls out 
+some cash.
+
+                   MAY
+                   
+     (Cantonese)
+     Mr. Lee said no charge.
+
+She bows and walks out the door. Chen watches the young 
+immigrant leave and can't help feeling like half a dirt-bag. 
+He throws the cash back into the drawer and shuts it.
+
+Eventually, he gets up and crosses to the window. He eats 
+his soup in the lifeless apartment, glancing down at the 
+simple, elegant shrine to his dead father. He turns his
+attention out the window looking out on the palpable 
+energy and vigor of a bustling Chinatown.
+
+EXT: CHEN'S APARTMENT, MOTT STREET-LATER (NIGHT)
+
+A rush of sound as Chen steps from the building. Activity 
+swirls around him as he moves south on the narrow street.
+
+His demeanor starts quiet. But as he moves through the 
+boisterous people, who genuflect like he's an Arab Sheik, 
+a smile curls his lips and the 200 watt bulbs behind his 
+eyes flick on. Every man gets a nod and every girl gets 
+a little bit more. It's his town...and it gives him life. 
+
+omitted
+
+INT BLUE EMPRESS CAFE - NIGHT
+
+He moves through the upscale family eatery, picking up 
+the Bacardi and Coke a BARTENDER fixed the second he 
+saw Chen step through the door. He strides into the kitCHEN...
+
+INT BLUE EMPRESS KITCHEN - NIGHT 
+
+...cuts to the back and approaches a door guarded by a 
+wannabee SUMO wrestler. The big man lets him through.
+
+INT BLUE EMPRESS OFFICE - NIGHT 
+
+Inside, behind a desk sporting two surveillence monitors, 
+working a phone is HENRY LEE. He's mid- forties and slicker 
+than an oil spill. The consummate chameleon. Whatever he
+needs to be, he is. If Satan walks earth, it's in the body of 
+Henry Lee.
+
+                   LEE
+                   
+     (Cantonese)
+     Forty thousand a piece. Fifty percent up front or else 
+     the shipment will never leave the boat...Fine.
+
+Lee hangs up as Chen fires the smoke he lifted from an ivory box on Lee's desk.
+
+                   LEE
+
+     My congratulations on your commendation. I trust you 
+     enjoyed the little gift I sent over.
+
+Lee lights a cigarette of his own, enjoying making Chen feel 
+like a mutt. Chen doesn't like it much, but knew it would happen 
+the minute he started undressing Lee's present.
+
+                   LEE
+                   
+     Uncle Benny is very proud of you.
+
+Lee reaches into his desk drawer, produces a bulging envelope 
+and hands it to Chen who quickly counts the pile of hundreds.
+
+                   CHEN
+                   
+     Thought he'd be more proud this time.
+
+                   LEE
+                   
+     He is.
+
+Lee lifts his wastepaper basket revealing strips of paper.
+
+                   LEE
+                   
+     Your markers. Two thousand eighty three of them. You 
+     really should consider other forms of recreation.
+
+Chen slides the envelope of cash into his jacket pocket.
+
+                   CHEN
+                   
+     Your soldier who got killed the other day was working 
+     with the F.B.I.
+
+Lee's smile dampens but his calm remains intact.
+
+                   LEE
+                   
+     Really?
+
+                   CHEN
+                   
+     Medical Examiner found a wire on him and the Feds 
+     came down to pick it up. Lucky for you it had about six 
+     bullets in it so it wasn't much good.
+
+                   LEE
+                   
+     Lucky for you too maybe.
+
+Chen lets it pass.
+
+                   CHEN
+                   
+     That, plus the tourist who got killed, have the
+     Feds worked up. Word is they're going after the
+     triad. Probably Uncle Benny himself.
+
+                   LEE
+                   
+     Why us? It's the Fukienese Dragons who killed her. 
+     We're just trying to do business as we've always done.
+
+                   CHEN
+                   
+     Because you're suppose to keep order in Chinatown.
+
+                   LEE
+                   
+     It's not like it once was. The youth gangs are not 
+     easily controlled. They have no respect, no honor.
+
+                   CHEN
+                   
+     That's your problem. You can't control them, the 
+     Feds are gonna revoke your free parking.
+
+                   LEE
+                   
+     Taking care of the Fukes is your problem. That's why 
+     we pay you.
+
+                   CHEN
+                   
+     Yeah, well, it doesn't really matter cause to the Feds 
+     you're all the same.
+
+                   LEE
+                   
+     You mean "we're" all the same. Remember, as I go, you go.
+
+Chen doesn't say anything because he knows Lee's right. After 
+a moment he gets up from the chair.
+
+                   CHEN
+                   
+     The Ginza massage is getting a visit from us tomorrow 
+     night, so move it or lose it.
+
+                   LEE
+                   
+     Go ahead and take Ginza. More arrests will help keep 
+     things calm.
+
+A smiling Lee, stamps out his butt and circles the table.
+
+                   LEE
+                   
+     If the Feds get near Uncle Benny, our heads go first. So 
+     you do whatever it takes to make some kind of case against 
+     Bobby Vu and the rest of the Fukes. I'm sure the FBI will be 
+     just as happy with them. As you said, we're all the same.
+
+Lee slides two tickets into Chen's front jacket pocket.
+
+                   LEE
+                   
+     Knicks, court-side.
+
+Chen puts down his glass and walks into the hallway.
+
+INT BLUE EMPRESS HALLWAY - NIGHT 
+
+He cuts across a narrow corridor and passes through a door tucked 
+behind dried, hanging ducks. Then it's down a flight of stairs...
+
+INT UNDERGROUND STAIRS & HALLS - NIGHT
+
+...through a maze of underground alley-ways, populated by well 
+dressed TEENAGE THUGS, and into the world beneath Chinatown. 
+Chen walks up toward a massive BOUNCER standing in front
+of a steel door. He slides the tickets into his shirt pocket.
+
+                   CHEN
+                   
+     Knicks, court-side.
+
+The Bouncer opens the door, exposing a room filled with Chinese 
+MEN playing all things you can wager a buck on.
+
+INT GAMBLING PARLOR - NIGHT
+
+Chen surveys the action which is loud, fast and furious. He 
+fires a smoke, pulls a fist full of hundreds from his envelope 
+and lays down his first bet of the night.
+
+EXT: EAST BROADWAY ARCADE-NIGHT
+
+Jack and his attractive girlfriend AMY SAN hang with their 
+friends in front of the arcade when Bobby Vu and three other 
+Dragons pull up in a red Lincoln. They quickly grab hold of
+Jack.
+
+                   BOBBY VU
+                   
+     (Fukienese)
+     You let your brothers die?
+
+Everything stops as Bobby punches, kicks and throws Jack 
+around the street. The other Dragons keep everybody away, 
+though they already seem to know.
+
+                   JACK
+                   
+     (Fukienese)
+     I'm sorry, I'm sorry.
+
+                   BOBBY VU
+                   
+     (Fukienese)
+     Are you Fukienese Dragon?...ARE YOU?!
+
+                   JACK
+                   
+     Yes.
+
+Bobby looks over at Amy. She's sexy as hell and he lets 
+her know he knows it. He then turns to Jack and grabs him 
+by his hair.
+
+                   BOBBY VU
+                   
+     Avenge your brothers. Kill that cop.
+
+     omitted
+     
+4. WELCOME TO THE A.G.U.
+------------------------
+
+INT: AGU OFFICES - DAY
+Wallace is tacking a photo layout of the Hip Sing Triad to the wall 
+as Chen re-enters.
+
+                   UNG
+                   
+     Junior brought a scorecard.
+
+Chen takes out a thick magic marker, starts crossing out photos.
+
+                   CHEN
+                   
+     Dead, dead in prison. The rest usually stop by for a visit. 
+     It's not healthy to let them know what we know....Why does a 
+     white cop request Asian Gangs?
+
+                   WALLACE
+                   
+     Detective Shield, an extra eight grand a year in my           
+     pocket...and a chance to work with you.
+
+                   UNG
+                   
+     Uh oh. Yellow fever. You got a hard on for all things Chinese, 
+     right? The food, customs, women. You got a Chinese girlfriend, 
+     don't ya?
+
+                   WALLACE
+                   
+     Actually, uh....no.
+
+                   CHEN
+                   
+     But ya did?
+
+                   WALLACE
+                   
+     Are we all gonna exchange sexual histories?
+
+                   UNG
+                   
+     I knew it. Yellow fuckin fever. Junior's here to walk the      
+       street and get his wick licked by a nice almond-eyed beauty.
+
+                   WALLACE
+                   
+     I'm here so Chinese immigrants don't have to live thirty to a 
+     room. Or spend twenty hours a day making clothes for slave      
+       wages.
+
+                   CHEN
+                   
+     Why do you give shit about Chinese immigrants?
+
+                   WALLACE
+                   
+     I'm a cop. I give a shit about enforcing the law.
+
+                   DENG
+                   
+     So what's your plan to save the yellow people?
+
+                   WALLACE
+                   
+     Same techniques used on every other organized crime operation 
+     in the city. Bust the street soldiers every time we see 'em, 
+     move up the food chain to the Council, cramp 'em with      
+     surveillance, sting operations, keep climbing all the way to 
+     Uncle Benny.
+
+Chen laughs at Wallace's naivete.
+
+                   UNG
+                   
+     This ain't every other organized crime operation in the city. 
+     We work cases, Junior. Keep the tourists safe. Violence spills 
+     into the street, we break heads. `Cept Detective Deng, she's 
+     above that.
+
+                   DENG
+                   
+     When the department authorizes police brutality perhaps I'll 
+     join you.
+
+                   CHEN
+                   
+     You don't change Chinatown, it changes you.
+
+                   WALLACE
+                   
+     I'm ready to give it a shot.
+
+Chen eyeballs the cocky kid.
+
+                   CHEN
+                   
+     Alright...Don't make plans tonight.
+
+                   WALLACE
+                   
+     Why?
+
+                   UNG
+                   
+     Cause we're goin on a panty raid.
+
+EXT: FIFTEENTH PRECINCT - DAY
+
+Chen, in last night's clothes, climbs the steps of the 
+yellowed brick building and steps inside.
+
+INT: FIFTEENTH PRECINCT - DAY
+
+Chen coughs hellos to the DESK PERSONNEL, cuts 
+through a door marked ASIAN GANG UNIT and steps 
+into a small colorless room.
+
+INT: ASIAN GANG UNIT - DAY
+
+He passes plums to his two Chinese-American 
+detectives; WILLY UNG, sharp of tongue and nose...and 
+LOUISE DENG, a by the book cop who puts in her eight 
+and goes home to a family.
+
+                   CHEN
+                   
+     Everybody works tonight, we're visiting Ginza 
+     Massage.
+
+                   UNG
+                   
+     My kind of raid.
+
+Ung's accent is hard-core Bronx. On the phone you'd 
+think he was an Italian from Eastchester Road.
+
+                   UNG
+                   
+     Found another young pretty in a dumpster.
+
+He tacks a crime scene photo onto a board already 
+showing another woman lying in a dumpster when he 
+notices a scratch on Chen's neck.
+
+                   UNG
+                   
+     Anybody I know?
+
+Chen removes Ung's smile with a look and pours 
+himself a coffee.
+
+                   DENG
+                   
+     Did a two hour sweep. No one would speak to me.
+
+                   UNG
+                   
+     Try breath mints.
+     Deng's accent is Connecticut, along with her 
+     wardrobe. She ignores Ung as she cuts the plum into 
+     four perfect slices.
+
+                   DENG
+                   
+     And the two who found the body didn't see, hear or 
+     smell anything.
+
+                   CHEN
+                   
+     What's new?
+
+We stay on Chen as a sudden silence descends. A beat 
+and he turns to see why. There at the entrance to the 
+AGU stands young WALLACE holding a box of personals.
+
+                   WALLACE
+                   
+     I'm Daniel Wallace. 
+
+He looks as if that's supposed to mean something. By 
+the looks on the faces of the AGU members, it doesn't.
+
+                   KLEIN (O.S.)
+                   
+     He spent six months in China on a college course 
+     or some shit.
+
+INT: FIFTEENTH PRECINCT, CAPTAIN'S OFFICE-DAY
+
+CAPTAIN STAN KLEIN, a Chinese hater going back to his 
+tour in `69, sits back with a cold washcloth over his 
+eyes as Chen, looking like he ate a bad lemon, tosses 
+Wallace's file onto the desk. 
+
+                   CHEN
+                   
+     The Chinese don't trust whites or cops and you're 
+     giving me a white cop.
+
+                   KLEIN
+                   
+     They want ethnic diversity in every squad so you get 
+     a white face in the AGU.
+
+                   CHEN
+                   
+     He's worse than white, he's green.
+
+                   KLEIN
+                   
+     Which is why you should school him.
+
+                   CHEN
+                   
+     So he can get me killed?
+
+                   KLEIN
+                   
+     Look, it's your fault he's here in the first place.
+
+                   CHEN
+                   
+     My fault?
+
+                   KLEIN
+                   
+     A freakin tourist got blown up in our backyard. Not to 
+     mention an FBI snitch. And it happened on your 
+     watch. The  Mayor's been on TV talking about it, the 
+     Police Commisioner has promised safety on the 
+     streets of Chinatown, Christ it's been on freakin 
+     Nightline. So if putting a white cop in the Asian 
+     Gang Unit makes them feel better and gets them off 
+     my ass fine and dandy. So why don't you get out of 
+     here and do something about these whores 
+     turning up in dumpsters. It's embarrassing.
+
+Klein sniffs the air, then peeks out from under his 
+wash cloth.
+
+                   KLEIN
+                   
+     You still here?
+
+INT: AGU OFFICES - day
+
+Wallace is tacking a photo layout of the Hip Sing Triad to 
+the wall as Chen re-enters.
+
+                   UNG
+                   
+     Junior brought a scorecard.
+
+Chen takes out a thick magic marker, starts crossing out 
+photos.
+
+                   CHEN
+                   
+     Dead, dead in prison. The rest usually stop by for a 
+     visit. It's not healthy to let them know what we 
+     know....Why does a white cop request Asian Gangs?
+
+                   WALLACE
+                   
+     Detective Shield, an extra eight grand a year in my 
+     pocket...and a chance to work with you.
+
+                   UNG
+                   
+     Uh oh. Yellow fever. You got a hard on for all things 
+     Chinese, right? The food, customs, women. You got 
+     a Chinese girlfriend, don't ya?
+
+                   WALLACE
+                   
+     Actually, uh....no.
+
+                   CHEN
+                   
+     But ya did?
+
+                   WALLACE
+                   
+     Are we all gonna exchange sexual histories?
+
+                   UNG
+                   
+     I knew it. Yellow fuckin fever. Junior's here to walk 
+     the street and get his wick licked by a nice 
+     almond-eyed beauty.
+
+                   WALLACE
+                   
+     I'm here so Chinese immigrants don't have to live 
+     thirty to a room. Or spend twenty hours a day making 
+     clothes for slave wages.
+
+                   CHEN
+                   
+     Why do you give shit about Chinese immigrants?
+
+                   WALLACE
+                   
+     I'm a cop. I give a shit about enforcing the law.
+
+                   DENG
+                   
+     So what's your plan to save the yellow people?
+
+                   WALLACE
+                   
+     Same techniques used on every other organized 
+     crime operation in the city. Bust the street soldiers 
+     every time we see Ôem, move up the food chain to the 
+     Council, cramp Ôem with surveillance, sting operations, 
+     keep climbing all the way to Uncle Benny.
+
+Chen laughs at Wallace's naivete.
+
+                   UNG
+                   
+     This ain't every other organized crime operation in the 
+     city. We work cases, Junior. Keep the tourists safe. 
+     Violence spills into the street, we break heads. `Cept 
+     Detective Deng, she's above that.
+
+                   DENG
+                   
+     When the department authorizes police brutality perhaps I'll join you.
+
+                   CHEN
+                   
+     You don't change Chinatown, it changes you.
+
+                   WALLACE
+                   
+     I'm ready to give it a shot.                                    
+
+Chen eyeballs the cocky kid.
+
+                   CHEN
+                   
+     Alright...Don't make plans tonight.
+
+                   WALLACE
+                   
+     Why?
+
+                   UNG
+                   
+     Cause we're goin on a panty raid.
+     
+5. THE GINZA RAID
+-----------------
+
+EXT: PANTY RAID BUILDING - DUSK
+
+Except for the ten COPS moving quickly toward an 
+unmarked door, the alley is empty. Out front is Chen. 
+He orders a thick COP toward the door which is 
+quickly opened with a crowbar.
+
+INT: PANTY RAID BUILDING, STAIRCASE - NIGHT
+Chen calmly lays his dark hankerchief over the tiny 
+survellience camera, then leads the group up the 
+stairs.
+
+                   UNG
+                   
+     (whispers to Wallace) You never know how a guy 
+     gettin his dick rubbed is gonna react when you 
+     charge into the room, so keep your eyes sharp and 
+     your Glock cocked. And don't be trying to feel any 
+     Chinese titties you little pervert.
+
+Snickers from the men.
+
+                   CHEN
+                   
+     Wallace stays out here.
+
+Wallace doesn't like it, but doesn't argue it. Chen pulls 
+his .45 and nods to the thick Cop, who thrusts his 
+crowbar into the lock jam and snaps it off. They hit 
+the hallway like a tornado. Bright lights strobe the 
+length of the place thrusting us several minutes into 
+the future.
+
+INT: GINZA MASSAGE HALLWAY - A SHORT TIME LATER
+
+The cops are dragging about ten prostitutes and 
+matching Johns into the hallway. 
+
+Chen coordinates when he sees Deng leading May and 
+three other dressed prostitues from the front 
+towards the back hallway. May looks at Chen and he 
+knows why Lee smiled when he gave him the Ginza.
+
+                   CHEN
+                   
+     Deng. See if you can find any files back there.
+     He turns to a uniform.
+
+                   CHEN 
+                   
+     (referring to the prostitutes)
+     Joe, take Ôem down, Wallace'll help ya write 
+     Ôem up.
+
+Deng heads back down the hall while the uniform 
+corrals the girls down the stairs the cops came up. 
+Chen grabs May as she passes and pulls her into one 
+of the bedrooms.  
+
+INT: 1ST GINZA BEDROOM
+
+Chen reaches into May's pocket, finding a packet of 
+white powder. She tries to kiss him. He pulls away 
+and pockets the heroin, pissing her off. He quiets her 
+with three hundreds.
+
+                   CHEN
+                   
+     (Cantonese)
+     Get outta here.
+
+He gently nudges her out to the hallway and towards 
+the backstairs where Wallace is just coming up with a 
+handfull of paperwork.
+
+                   WALLACE
+                   
+     You want me to take her?
+
+Chen shakes his head as he lets May head towards 
+the exit. He turns back to Wallace who stands talking 
+to a uniform who is handing him some paperwork.
+
+                   CHEN
+                   
+     (sotto to Wallace)
+     Always throw back the smallest of the day's 
+     catch.
+
+Suddenly a torrent of automatic gunfire explodes at 
+the opposite end of the hallway taking out the glass 
+door and the uniform who stood in front of it 
+revealing a Fukiense shooter behind the shatterered 
+door. One cop down. Chen's instinct are immediate.The 
+Fuke killer is toast. The uniform who was talking to 
+Wallace turns towards the action and is met with a 
+pile of lead exploding his heart, blowing out his back 
+and spraying Wallace with blood. Wallace freezes- a 
+deer in the headlight. Chen sees this, jumps across 
+the hall and pushes Wallace out of the line of fire and 
+into one of the bedrooms. The doorway where Wallace 
+stood explodes into a million pieces of shrapnel. He 
+would have been chopmeat. Just at that moment, Ung 
+crosses the hall in the opposite direction, shielding a 
+prostitute as he takes out the shooter who took out 
+the uniform and almost Wallace.
+
+Chen leans out of what remains of the doorway, while 
+yelling back to the still shell-shocked Wallace.
+
+                   CHEN
+                   
+     Fire your weapon!
+
+                   UNG
+                   
+     They're Fukes!
+
+The entire compliment is pinned down in either the 
+rooms or the hallway facing down three furious 
+Fukes. Chen pumps his final ammo clip into his gun, 
+pulls a second gun from an ankle holster and fires 
+away. Suddenly, another Fuke with an automatic 
+weapon comes out of nowhere and advances 
+kamakazi style to one of the bedrooms- the P.D.'s 
+gunfire no match for his Uzi. He's got Chen, Ung, Deng, 
+Wallace and the five remaining uniforms pinned down. 
+Chen thinks fast, retreats into the bedroom- 
+
+INT: 1ST GINZA BEDROOM
+
+Chen quickly feels the solidity of the walls- finds the 
+weak spot of the plasterboard and starts kicking 
+through to the next room while the firefight 
+continues in the hallway.
+
+INT: 2ND GINZA BEDROOM
+
+The uniforms fighting at the doorway turn to see Chen 
+come crashing into their room and continue on right 
+to the next wall, battling his way up the hallway 
+towards the Fukes position the only way he can.
+
+INT: HALLWAY
+
+The firefight continues but it's totally one sided as 
+the cops pistols can't compete against the Uzi. 
+Windows to the bedrooms are exploding like 
+firecrackers, whores and johns caught out in the 
+hallway shiver in terror behind whatever cover they 
+can find. A huge glass display in the hallway implodes 
+drenching the place in flying glass. 
+
+Wallace does the best he can, firing uselessly at the 
+kamikazi, only visible from the neck up as he keeps 
+the entire force at bay. Suddenly we see a glock come 
+up to the back of the shooter's head which blows his 
+brains out into the hallway, finally silencing the 
+automatic. Chen steps out, the arm behind the hit. 
+There's only three fukes left now, including Jack, 
+armed only with semi-automatics.
+
+                   CHEN
+                   
+     I'm out on three! One, two, 
+     three!
+
+Every cop steps out and bombards the end of the hall 
+with all the firepower they've got. They pin back the 
+shooters as Chen storms into the hall and races, guns 
+blazing toward the gunmen. All three of them flee, 
+one down the stairs, Jack and the other up towards 
+the roof. Chen decides to go up, negotiating each 
+corner with whatever he's got left. He gets to the 
+second flight just in time to see Jack desperately kick 
+out a window and make a run across a rooftop. Chen 
+continues the last flight up where he finds the lone 
+Fuke out of amo and desperately trying to tear open 
+the roof acess door which is bolted shut. 
+
+                   CHEN (cont'd)
+                   
+     Weapon down, hands in 
+     the air, up against the 
+     wall. 
+
+The Fuke cooperates, backing up onto the landing as 
+Chen ascends.
+
+                   CHEN (cont'd)
+                   
+     Turn around!
+
+The kid does, but as he moves he suddenly produces a 
+knife the size of a baby's arm that cuts across Chen, 
+slicing his stomach. Chen reacts with amazing speed, 
+smashing his gun across the gangster's head almost 
+decaptating him. Simultaneously, the last Fuke comes 
+charging up the stairs, Chen picks up the guy next to 
+him and hurls him over the staircase knocking the 
+charging Fuke down to the next landing. His gun goes 
+flying right towards Wallace's feet who together with 
+a backup of unifroms, comes bounding around the 
+corner, grabs the weapon and covers the two punks.
+Chen looks down from top landing
+
+                   CHEN
+                   
+     You're late.
+
+INT: KUNG PHO RESTAURANT - NIGHT
+
+Ung and Chen storm into the twelve-table restaurant 
+filled mostly with teenage Fukienese. They move 
+toward the rear of the restaurant passing Jack, 
+huddled with two of his friends.
+
+Some of the gangsters stand to run interference, but 
+the two cops push through them to a back table 
+where Bobby Vu works a cell phone. Without a word 
+Chen punches him out of his chair. He hits him again 
+and again, knocking the gangster into the kitchen.
+
+INT: KUNG PHO RESTAURANT KITCHEN - NIGHT
+
+Ung pulls his gun, holding the other gangsters at bay 
+as Chen grabs a sauce pan from the overhead rack 
+and slams it into Bobby Vu's head, knocking him to the 
+floor. He then throws it at the group of Dragons 
+closing in around them.
+
+                   CHEN
+                   
+     Want some?
+
+No one does. He stares down the gangsters with 
+disgust.
+
+                   CHEN
+                   
+     Fukienese Dragons.
+
+He spits on the floor then walks out the rear door 
+with Ung.
+
+6. A BUST FOR WALLACE
+---------------------
+
+EXT: DAVIS STREET-DAY
+
+A hazy sun slices through thick clouds as Chen, 
+carrying a take-out bag, exits a small storefront and 
+gets into a brown Chevy.
+
+INT: BROWN CHEVY - DAY
+
+Wallace drives as Chen pulls a container from the bag.
+
+                   CHEN
+                   
+     Fishball Gongee. Wanna be Chinese you've gotta eat 
+     the nasty stuff. 
+
+Wallace takes the food, looks over at Chen.
+
+                   WALLACE
+                   
+     Last night...You saved my life.
+
+                   CHEN
+                   
+     Part of the job.
+     
+                   WALLACE
+                   
+     Maybe...I still want to say thanks.
+
+Chen nods as he eats. Wallace turns up Delancey.
+
+                   WALLACE
+                   
+     That said...I heard you paid a visit to Bobby Vu last 
+     night.
+
+Wallace looks at Chen.
+
+                   WALLACE (cont'd)
+                   
+     I tightened up last night, but I didn't find this 
+     badge in the bottom of a Cracker Jack box. I 
+     earned it.
+
+                   CHEN
+                   
+     You study Chinese so you know what it means that I 
+     saved your life?
+
+                   WALLACE
+                   
+     It means my life is yours, to do with as you wish
+
+                   CHEN
+                   
+     That's right. So here's my advice. Quit. Before you 
+     end up dead.
+
+They drive past a crumbling building where a TRIAD 
+SOLDIER openly does a healthy drug trade. 
+
+                   WALLACE
+                   
+     I know the risks.
+
+                   CHEN
+                   
+     So did the cops I didn't save last night. And all it 
+     got them was dead. This isn't fun and games. 
+     Especially for a kid heading to Law School 
+     with his head up his ass if he thinks this is the way 
+     to raise tuition.
+
+Wallace's a bit surprised Chen knows this.
+
+                   WALLACE
+                   
+     Just cause I'm not putting in twenty doesn't mean I 
+     can't do the job.
+
+                   CHEN
+                   
+     Yes it does.
+
+                   WALLACE
+                   
+     You don't want to work with me, fine. Let me do 
+     my own investigations. But don't try and keep me 
+     from my work. Cause like it or not, I'm a cop.
+
+                   CHEN
+                   
+     You're playing cop and that's gonna get one of us 
+     killed.
+
+                   WALLACE
+                   
+     Playin'? Who's playin'? Playin's driving by shit and 
+     pretending you didn't see it.
+
+Chen turns to Wallace.
+
+                   CHEN
+                   
+     You got something to say, say it.
+
+                   WALLACE
+                   
+     How 'bout I show you?
+
+Wallace slams on the brakes, sending the take-out 
+flying onto the dash. He then drops it in reverse and 
+floors the gas. The Chevy roars backwards up onto 
+the sidewalk in front of a crumbling building.
+
+EXT: CRUMBLING BUILDING - DAY
+
+Wallace jumps from the car, catches one of the two 
+well dressed triad DRUG DEALERS hanging out front, 
+pushes him through the door and into the building.
+
+INT: CRUMBLING BUILDING - DAY
+
+A dark, piss stenched room called home by fourteen 
+rats and a dozen ADDICTS sharing needles and 
+mindless nods. The Dopers can't move but three more 
+DEALERS can and take off running.
+
+                   WALLACE
+                   
+          FREEZE!
+
+Wallace fires over their heads, stopping them in their 
+tracks as Chen races into the room. Wallace frisks the 
+Dealer he pushed inside as Chen looks over the 
+others.
+
+                   WALLACE
+                   
+     What do we have here?
+
+Wallace pulls a thick packet of heroin from the kid's 
+pocket. Impressed with himself, he holds it up and 
+tosses it at Chen, looking at him through steel grey 
+eyes.
+
+INT: FIFTEENTH PRECINCT, BOOKING ROOM-LATER (DAY)
+
+The four Dealers stand handcuffed to a steel beam 
+riveted to the wall as Wallace files his first arrest 
+with the DESK SERGEANT. Chen casually sips coffee 
+when a pissed off six footer in a blue suit rushes into 
+the room.
+
+                   SCHABACKER
+                   
+     Get each one of these guys 
+     in different rooms...NOW!
+
+PETE SCHABACKER holds up an FBI badge which gets 
+everybody moving. Two UNIFORMS unclasp the perps 
+and take them away. Schabacker looks at Chen and 
+gestures towards the AGU.
+
+INT: AGU OFFICE
+
+Schabacker hardly looks at Ung and Deng who pour 
+over paperwork as Chen and Wallace follow him into 
+the room.
+
+                   CHEN
+                   
+     Something bothering you, Pete?
+
+                   SCHABACKER
+                   
+     Only that you assholes just arrested a federal agent 
+     working undercover with the  Triad.
+
+Wallace pales as Ung smiles to himself.
+
+                   UNG
+                   
+     Nice work, Junior.
+
+                   WALLACE
+                   
+     I made the arrest.
+
+Wallace looks over at Chen who's offering no help
+
+                   SCHABACKER
+                   
+     Well goody for you, Einstein. So tell me, what 
+     am I supposed to do now? Put a Federal Agent in jail 
+     to maintain his cover. What? Let him go? We put 
+     him back on the street everybody in Chinatown 
+     will think he cut a deal with you and he'll be dead 
+     inside an hour. So what should I do?
+
+Wallace looks over at Chen, who's offering no help.
+
+                   WALLACE
+                   
+     You should do a better job of keeping us informed.
+
+                   UNG
+                   
+     Here here.
+
+                   SCHABACKER
+                   
+     Confidential undercover assignment. Key word 
+     being confidential. Which nothing in the fifteenth 
+     precinct is.
+
+                   CHEN
+                   
+     Relax, Pete.We lost the bag. No evidence. They can 
+     all go.
+
+Wallace looks over at Chen, but he doesn't dispute him.
+
+                   SCHABACKER
+                   
+     Keep 'em three hours, slap the shit out of 'em and let 
+     'em go. I want everything on the Ginza raid by the 
+     end of the day. And keep that dipshit on a leash.
+
+                   CHEN
+                   
+     You take care of your people, I'll take care of mine.
+
+Wallace appreciates Chen's back up. Schabacker 
+heads out the door.
+
+                   CHEN
+                   
+     Which one's the Fed?
+
+                   SCHABACKER
+                   
+     The Chinese one.
+
+                   CHEN
+                   
+     Up yours too.
+
+Ung takes the paperwork from the Desk and holds it 
+out to Wallace.
+
+                   UNG
+                   
+     You wanna eat this with soy sauce?
+
+Wallace takes it from Ung's hand and tears it in half.
+
+7. HENRY LEE
+------------
+
+INT: JIMMY LOO'S COCKTAIL LOUNGE-NIGHT
+
+No tourists, this watering hole's for the locals. 
+Getting another round of Tsiang Taos from the 
+WAITRESS is Chen, Wallace and Ung.
+
+                   UNG
+                   
+     Cough up the cash, Junior. Knuckleheads 
+     buy all rounds.
+
+Wallace pays off the waitress as he snaps at Ung.
+
+                   WALLACE
+                   
+     Eat me.
+
+                   UNG
+                   
+     That's it, show a little piss and vinegar. So 
+     your first bust was a Federal Agent and a 
+     senior Fed bit off a giant piece of your ass.
+
+Chen laughs with Ung as Wallace takes a drink.
+     
+                   UNG
+                   
+     Hey Junior, I dunno if you noticed, but 
+     there're Chinese girls here.
+
+                   WALLACE
+                   
+     Sounds like you're the one with yellow 
+     fever.
+
+                   UNG
+                   
+     Yellow fever, black plague, brown sugar, 
+     white bread, I got it all.
+
+Wallace can't help but smile.
+
+                   WALLACE
+                   
+     Why does the FBI want the info on the 
+     Ginza raid?
+
+                   CHEN
+                   
+     It was their raid. They use us so the locals 
+     don't smell feds. Mostly they use us 
+     cause they're lazy shits.
+
+                   UNG
+                   
+     Last summer we grabbed a Viet Namese gang bringing 
+     in Heroin by the boatload. Who swoops in last minute 
+     for the credit? Your friend Shabacker of the FBI.
+
+                   WALLACE
+                   
+     We had the same problem in the one six, there's 
+     nothing you can do.
+
+                   UNG
+                   
+     A guy pisses in the street that's one thing. A guy 
+     pisses in your house you deal with him or live with 
+     the stench.
+
+                   WALLACE
+                   
+     Very poetic. Unfortunately I don't know what the hell 
+     you're talking about.
+
+                   CHEN
+                   
+     The Feds lost a snitch. Now they have an agent 
+     working undercover in the triad. We find the agent, 
+     see what he's got going, and when the eleventh 
+     hour hits we swoop in, make the bust and pull the 
+     case right out from under them.
+
+Appearing quietly as if from some unseen back 
+entrance, Henry Lee appears through the crowd.
+
+                   LEE
+                   
+     (to Chen in Cantonese)
+     I don't believe I know your friend. A new soldier 
+     in the fight against crime?
+
+                   CHEN
+                   
+     (Cantonese)
+     He won't be here long enough to get to know.
+
+                   WALLACE
+                   
+     (Cantonese)
+     I hope to be here long enough to make a 
+     difference. Chen, Ung and Lee all look astonished 
+     at Wallace's heretofor unknown language skills.
+
+                   UNG
+                   
+     You speak Chinese!?
+
+                   WALLACE
+                   
+     (Cantonese)
+     I'm not a total knucklehead.
+
+                   UNG
+                   
+     Whoa, in case you haven't noticed, I'm bronx born 
+     and bred. The only Chinese I know is the Miranda 
+     rights and what's on the menu.
+
+                   CHEN
+                   
+     Danny Wallace, Henry Lee.
+
+                   LEE
+                   
+     You gentlemen are partners?
+
+                   WALLACE
+                   
+     (to Chen)
+     Are we?
+
+                   CHEN
+                   
+     Cagney and Lacey.
+
+                   LEE
+                   
+     Chinatown needs more police. I hope you find a 
+     home here. I think you'll discover the Chinese 
+     people are warm and generous.
+
+                   WALLACE
+                   
+     (Cantonese)
+     I've already discovered that.
+
+                   UNG
+                   
+     Speak English, already.
+
+                   LEE
+                   
+     Never mind them. Reach out to our community,  it 
+     will reach out to you. Isn't that right, Detective?
+
+Chen holds up his glass in a mock toast...The Waitress 
+brings over a bottle of Cristal and three glasses.
+
+                   LEE
+                   
+     I hope to see much of you over the coming weeks.
+
+Lee then disappears into the back as the Waitress 
+pours.
+
+                   WALLACE
+                   
+     (quietly)
+     He's Triad.
+
+                   UNG
+                   
+     That's why it's Cristal and not Asti fuckin' Spumanti.
+
+Chen and Ung clink glasses and down some bubbly.
+
+EXT: BENEVOLENT ASSOCIATION- DAY
+
+Establishing. Tucked between a pair of banks sits the 
+sand colored building highlighted with artifacts from 
+ancient Chinese culture.
+
+INT: BENEVOLENT ASSOCIATION- DAY
+
+A small group of Elderly Men sit at game tables 
+playing Mahjong. Sitting in the rear of such a table, 
+playing a round is Benny Wong and Henry Lee.
+
+                   BENNY WONG
+                   
+     (Cantonese)
+     It's very dangerous to approach a white cop. We 
+     can't risk exposing our other ties in the 
+     Department.
+
+                   LEE
+                   
+     (Cantonese)
+     That's why we must approach Wallace. He could 
+     compromise Chen at a time when he is our best 
+     weapon against the Fukes. We need him with us 
+     to safeguard Chen's position. Besides, to the NYPD
+     Chen is Chinese first and a cop second.
+
+                   WONG
+                   
+     (Cantonese)
+     Chen can take care of himself. And he knows 
+     what we need him to know.
+
+                   LEE
+                   
+     (Cantonese)
+     He knows what he hears in the Fifteenth. A white 
+     officer would have ears outside the precinct. We 
+     can let Chen test the waters.
+
+Benny nods his acceptance and continues to Play.
+
+INT: BLUE EMPRESS CAFE - DAY
+
+In between lunch and dinner. Lee is emptying the bar 
+of cash while waiters change the table linen. Chen 
+enters, moves directly to Lee
+
+                   CHEN
+                   
+     What do you want?
+
+                   LEE
+                   
+     I like your partner.
+
+Chen looks at Lee who turns from the bar and begins 
+walking the length of the restaurant towards the 
+kitchen straightening napkins and silverware as he 
+goes.
+
+                   LEE
+                   
+     I think he could help us.
+
+                   CHEN
+                   
+     He could hurt us more.
+
+                   LEE
+                   
+     Afraid of competition?
+
+                   CHEN
+                   
+     Afraid of piquing the kid's interest...
+
+                   LEE
+                   
+     ...in who else is a dirty cop?
+
+Chen pretends to ignore him.
+
+                   LEE
+                   
+     Uncle Benny feels he might poke his nose in places a 
+     Chinese cop wouldn't.
+
+                   CHEN
+                   
+     I can handle him.
+
+                   LEE
+                   
+     He also feels he could be an asset against the Fukes 
+     since you don't seem to be doing much.
+
+                   CHEN
+                   
+     I'll take care of the Fukes. The kid's a short timer. 
+     Leave him alone.
+
+                   LEE
+                   
+     I didn't realize you had such maternal 
+     instincts...Uncle Benny wants you to speak with 
+     him.
+
+                   CHEN
+                   
+     No.
+
+Lee and Chen reach the kitchen, where amongst the 
+chickens, ducks and steaming dumplings, Triad 
+underlings are moving boxes of tourist trinkets that 
+fell off of some truck somewhere. Lee reaches into 
+one and pulls out a fake Rolex.
+
+                   LEE
+                   
+     This cost one dollar to make. And some fool will 
+     pay hundreds for it. It's amazing how easy it is for 
+     some people to over estimate worth. Don't 
+     overestimate yours. Talk to him.
+
+INT: FIFTEENTH PRECINCT - DAY
+
+Chen, lost in thought, enters the station house when 
+Wallace comes out of the A.G.U. office.
+
+                   WALLACE
+                   
+     There's a homicide on Worth.
+     
+8. ANOTHER VICTIM
+-----------------
+
+EXT: REAR ENTRANCE OF A RESTAURANT-DAY
+
+UNIFORMS from the Fifteenth have the area around 
+the dumpster taped off as Wallace and Chen pull up 
+and cross toward Deng and Ung.
+
+                   CHEN
+                   
+     Who's in the bin?
+
+                   DENG
+                   
+     The invisible woman. No I.D., no print record, no 
+     nothing.
+
+Wallace looks into the dumpster where a young 
+female, is tangled with yesterday's shellfish. He 
+instantly begins dry heaving.
+
+                   UNG
+                   
+     I thought you liked Chinese food, Junior?
+
+                   CHEN
+                   
+     Leave him alone...Let's go, I need about fifty 
+     coffees.
+
+                   WALLACE
+                   
+     We're not gonna investigate this?
+
+                   CHEN
+                   
+     We just did.
+
+                   WALLACE
+                   
+     What're you talking about? 
+
+                   CHEN
+                   
+     Tell our partner what we learned.
+
+Ung puts on his Academy Instructor persona.
+
+                   UNG
+                   
+     Deceased is an illegal straight off the boat, 
+     probably less than a week cause there's two 
+     bills Chinese under the oysters, by her spleen.
+
+                   DENG
+                   
+     She finds her passage over was twice what she 
+     thought. She can't pay and doesn't like working 
+     as a prostitute. So she ends up here. No family, 
+     no friends, no witnesses.
+
+                   UNG
+                   
+     No sense wastin taxpayers' money.
+
+Wallace looks painfully at the young woman being 
+pulled from the bin and stuffed unceremoniously into 
+a body bag.
+
+                   WALLACE
+                   
+     So what? Case closed?
+
+                   UNG
+                   
+     He's so young.
+
+Chen looks at Wallace. Remembers when he was that 
+young.
+
+                   CHEN
+                   
+     Take a walk around with Deng. See if anybody 
+     knows anything.
+
+Chen motions for Ung to come with him and the two 
+cops move off.
+
+EXT: EAST BROADWAY ARCADE-DAY
+
+Jack and his girlfriend step from the arcade. He kisses 
+her goodbye and watches her as she heads north up 
+East Broadway.
+
+He turns and heads south. He moves slowly down the 
+empty street as someone or something moves up 
+behind him. Quickly. He feels the presence and turns 
+as Chen and Ung grab hold of him and pull him into a 
+deserted alley.
+
+EXT: ALLEYWAY-DAY
+
+Jack tries to get away but Ung slams the small boy 
+into the wall.
+
+                   UNG
+                   
+     Easy Jackarroo.
+
+Jack looks at the two men as they close in on him.
+
+                   UNG
+                   
+     Detective Chen is now able to I.D. the shooter 
+     who got away from the lamp store.
+
+                   CHEN
+                   
+     Unless he can do something for me...I want 
+     Bobby Vu.
+
+A bead of cold sweat tumbles down the back of Jack's 
+neck.
+
+                   JACK
+                   
+     He'll kill me.
+
+                   UNG
+                   
+     The alternative to helping us is ten to twenty at 
+     Sing Sing. And that's gotta hurt. Especially for 
+     somebody five foot nothin.
+
+Jack stands with a million things racing through his 
+mind.
+
+                   JACK
+                   
+     No court? No wire?
+
+                   CHEN
+                   
+     No promises. Think about it. You've got ten 
+     seconds to make up your mind.
+
+Jack thinks....
+
+                   JACK
+                   
+     Fuck you.
+
+Jack runs but Ung slams his fist into his face knocking 
+him cold.
+
+                   UNG
+                   
+     Kid's loyal.
+
+Ung kneels and cuffs the unconscious Fukienese 
+soldier.
+
+                   CHEN
+                   
+     See how loyal he is after two weeks in lock up.
+
+EXT: WORTH STREET - DAY
+
+Deng and a very frustrated Wallace, stand outside a 
+junk shop where a frightened CHINESE WOMAN, shakes 
+her head.
+
+                   WALLACE
+                   
+     (Cantonese)
+     We're trying to help you.
+
+Deng holds out a business card but the woman slams 
+the door.
+
+                   WALLACE
+                   
+     What's wrong with these people?
+
+                   DENG
+                   
+     They don't like me, don't trust you and 
+     know we can't protect them.
+
+                   WALLACE
+                   
+     Then what's the point? Why bother?
+
+The two cops walk south on Worth Street as they 
+continue to talk.
+
+                   DENG
+                   
+     Every cop starts out planning to save the 
+     universe. When you realize you can't you've got 
+     two choices. Do your best and the second the 
+     shift's over go home to a life. Or let the stink 
+     of the street get on you so you end up like ninety 
+     percent of the cops in this city. An alcoholic 
+     with more vices then half the people you arrest.
+
+                   WALLACE
+                   
+     You're talkin about Chen?
+
+                   DENG
+                   
+     I'm talking about you.
+
+                   WALLACE
+                   
+     Well how does he close so many cases?
+
+The inquiry makes her uncomfortable.
+
+                   DENG
+                   
+     He works the cases he can solve. And he's not 
+     American born, he's Hong Kong, immigrant like 
+     them.
+
+                   WALLACE
+                   
+     How does a guy from Hong Kong get in the NYPD?
+
+                   DENG
+                   
+     They wanted a Chinese to speak to the Chinese. And 
+     his father was a cop in Hong Kong. Pretty big 
+     wheel before they booted him, he knew people in 
+     Chinatown who could vouch for his son.
+
+                   WALLACE
+                   
+     Why'd they boot him, was he dirty?
+
+                   DENG
+                   
+     Because he wasn't. Shift's over, go home.
+
+Deng turns up Elizabeth street and Wallace heads off 
+toward Doyers.
+
+9. FAMILY BUSINESS
+------------------
+
+EXT: WALLACE'S APT - DAY
+
+Wallace cuts across a city baseball diamond in the 
+shadow of the Manhattan Bridge and makes his way 
+to his front door.
+
+INT: WALLACE'S APARTMENT-DAY
+
+He enters the one bedroom brick box and hits a light 
+switch. It's clear he's just moved in because most of 
+his things are still in boxes. What furnishings he has 
+are accented with Chinese artifacts and books on 
+Chinese culture. He heads into the dingy kitchen.
+
+INT: WALLACE'S APARTMENT, KITCHEN-DAY
+
+He gets a water and drops in some Alka Seltzer. He 
+sits at the window and holds the cold glass to his 
+forehead while the tablets fizz. 
+
+EXT: WALLACE'S APT - DAY
+
+What he doesn't see, is Bobby Vu's Lieutenant, BLACK 
+EYES, watching him from the empty market across the 
+street.
+
+INT: WALLACE'S APARTMENT, KITCHEN -DAY
+
+He downs the drink as a SHADOW creeps toward him. 
+He hears a creak in the floor. In a flash he bolts to his 
+feet, pulls his gun and spins to face a large MAN, 
+maybe sixty, wearing beat up threads.
+
+                   WALLACE
+                   
+     I coulda killed you.
+
+                   SEAN WALLACE
+                   
+     I coulda killed you first.
+
+                   WALLACE
+                   
+     What're you doing here?
+
+                   SEAN WALLACE
+                   
+     Father can't visit his son? 
+     Got something to drink? 
+     I'm dry as a ninety year 
+     old tit.
+
+                   WALLACE
+                   
+     How'd you get in?
+
+Sean pulls a flask from his jacket.
+
+                   SEAN WALLACE
+                   
+     I brought somethin anyway. Join me?
+
+Sean extends the offer but his son doesn't flinch.
+
+                   SEAN WALLACE
+                   
+     Twenty years robbery homicide outta the two 
+     five, greenhorn, that's how I got in. I been 
+     hrough more doors and windows...
+
+                   WALLACE
+                   
+     I don't have any money.
+
+Sean takes a pull from the flask.
+
+                   SEAN WALLACE
+                   
+     I'm in for twelve grand. Those fuckin dagos down 
+     on Mulberry. Wallace knows this is serious but 
+     doesn't show anything to his father.
+
+                   WALLACE
+                   
+     Good luck.
+
+                   SEAN WALLACE
+                   
+     I'm not asking for the twelve...God forbid you'd 
+     bail me out with your lawyer money. Wouldn't 
+     want you to miss becoming a leech asshole.
+
+                   WALLACE
+                   
+     And here I thought you'd want me to be a chip off 
+     the 'ol block.
+
+                   SEAN WALLACE
+                   
+     All I'm askin for is a little stake money to help me 
+     get even.
+
+                   WALLACE
+                   
+     ouldn't work, you're too much a loser.
+
+                   SEAN WALLACE
+                   
+     Then we'll go partners. You're a lucky son of a 
+     bitch ain't ya?
+
+Wallace doesn't say anything.
+
+                   SEAN WALLACE
+                   
+     I wouldn't be here if it wasn't serious.
+
+It takes a while but Wallace finally makes a move. He 
+opens the fridge, slides open the crisper and pulls out 
+an envelope. He hands it to his father who smiles at 
+the money.
+
+                   SEAN WALLACE
+                   
+     Cold hard cash. You slay me.
+
+                   WALLACE
+                   
+     Little over five hundred and we ain't partners. 
+     This is buying you off. Next time someone sneaks 
+     up on me...
+
+                   SEAN WALLACE
+                   
+     Yeah, yeah, yeah. You'll kill me.
+
+Sean turns and starts for the door. Then stops.
+
+                   SEAN WALLACE
+                   
+     By the way. You got a chink watchin you from 
+     across the street, Sherlock.
+
+Wallace turns to the window and sees Bobby Vu's boy, 
+Black Eyes standing in the shadows across the street 
+as his father slips out the door with a slight chuckle.
+
+                   SEAN WALLACE (cont'd)
+                   
+     Goodnight officer.
+
+10. AN EXCHANGE OF INFORMATION
+------------------------------
+
+INT: UNDERGROUND SPA-NIGHT
+
+Through the steam, we see Henry Lee sitting in a tub 
+filled with hot water. Standing near the doorway in 
+street clothes is Chen.
+
+                   CHEN
+                   
+     I've got something for you.
+
+                   LEE
+                   
+     I love gifts.
+
+A female arm runs a wet sponge down Lee's back.
+
+                   CHEN
+                   
+     This isn't free ... Forget the kid.
+
+                   LEE
+                   
+     That's an expensive request.
+
+                   CHEN
+                   
+     This is an expensive item. 
+
+Lee pulls the female arm into him. It's connected to 
+May. Chen spots her, and it bothers him more than he 
+lets on.
+
+                   LEE
+                   
+     Let's hear it.
+
+                   CHEN
+                   
+     The F.B.I. have another informant inside the Triad. 
+     This time, it's one of their own- it's an agent.
+
+Lee strokes the May's hair as she slides her nude 
+body against his. He enjoys the fact that Chen's not 
+enjoying it.
+
+                   LEE
+                   
+     Who is it?
+
+                   CHEN
+                   
+     Don't know. We picked up four of your guys and one 
+     was a Fed. Won't take long to find out which one. Then 
+     all you've got to do is blow his cover and they'll pull 
+     him. No violence, no mess.
+
+                   LEE
+                   
+     My thanks.
+
+                   CHEN
+                   
+     The kid's out.
+
+                   LEE
+                   
+     As you wish.
+
+     Lee turns May toward Chen and rubs her breasts.
+
+                   LEE
+                   
+     Would you like a turn?
+
+Chen, looks at the young girl then turns and exits the 
+room. Lee laughs as a figure moves out of a steam 
+room behind him.
+
+                   LEE
+                   
+     We've got a Federal Agent sniffing around. We'll have 
+     to postpone delivery.
+
+     Lee glances toward Fukienese leader, Bobby Vu.
+
+                   BOBBY VU
+                   
+     We can't. The boat's coming into port next week.
+
+                   LEE
+                   
+     Then it'll wait at the port.
+
+                   BOBBY VU
+                   
+     I'm not afraid of the F.B.I.
+
+Lee pushes May under the water toward his crotch.
+
+                   LEE
+                   
+     Everything we've done has been to keep the Feds 
+     focused on Uncle Benny. When he's gone, and I lead 
+     the triad, you and your Fukienese brothers will 
+     make all the money you want.
+
+                   BOBBY VU
+                   
+     Then let's kill him now.
+
+                   LEE
+                   
+     When Uncle Benny's indicted, he'll be 
+     dangerous to our partners in Hong Kong. And 
+     killing him, will come with thanks 
+     instead of retribution.
+
+                   BOBBY VU
+                   
+     And Chen too.
+
+                   LEE
+                   
+     All in time.
+
+EXT: GOLDFLOWER RESTAURANT, DOYERS STREET, MORNING
+
+Through the glass we see Wallace pay the tab on his 
+morning's breakfast. He picks up a toothpick and a 
+mint and exits the building. He starts to move east 
+when a man steps beside him.
+
+                   LEE
+                   
+     Do you remember me?
+
+Wallace looks closer...and sees Henry Lee who stays 
+in step with Wallace as he walks up Bowery.
+
+                   WALLACE
+                   
+     Yeah.
+
+                   LEE
+                   
+     I have information about the girl you found in the 
+     garbage dumpster.
+
+                   WALLACE
+                   
+     How'd you find me?
+
+                   LEE
+                   
+     You're conspicuous in Chinatown...Two brothers 
+     on Chrystie Street bring in illegals. The woman, 
+     worked in their brothel, then tried to run. They left 
+     her as a message to the others.
+
+                   WALLACE
+                   
+     How do you know?
+
+                   LEE
+                   
+     Everyone knows. But no one's going to speak of it. 
+     Especially to the police.
+
+                   WALLACE
+                   
+     Why are you?
+
+                   LEE
+                   
+     I knew her.
+
+Lee looks at Wallace, and for a moment he seems 
+almost sad.
+
+                   WALLACE
+                   
+     What are their names?
+
+                   LEE
+                   
+     You can't tell anyone how you found out. Not even 
+     Chen.
+
+                   WALLACE
+                   
+     Forget it.
+
+                   LEE
+                   
+     For every person who knows, the chances of me, 
+     or one of my children being killed in reprisal 
+     increases a hundred fold.
+
+                   WALLACE
+                   
+     I can't.
+
+                   LEE
+                   
+     That girl was fifteen...And there are more to come if 
+     you don't help us. Wallace thinks, remembering 
+     the girl as she was stuffed into the body bag....He 
+     knows he shouldn't, but he nods his head and Lee 
+     hands him a piece of paper.
+
+                   LEE
+                   
+     Check the basement of a place called TONY'S. Don't 
+     worry. This is how things get done in Chinatown. 
+
+INT: FIFTEENTH PRECINCT, AGU OFFICE-DAY
+
+Chen enters the room where Deng is filling out 
+paperwork.
+
+                   CHEN
+                   
+     Wallace come in yet?
+
+                   DENG
+                   
+     I don't think so.
+
+The concern is easily read on Chen's face.
+
+EXT: 142 CHRYSTIE STREET-DAY
+
+Wallace anxiously watches the apartment building. He 
+steadies his nerves, then crosses the street and 
+enters through the front door.
+
+INT: 142 CHRYSTIE HALLWAY - DAY
+
+It's damp and poorly lit. Wallace moves down the 
+narrow hall and stops by the door next to the 
+incinerator. He jimmies the lock.
+
+INT: 142 CHRYSTIE BASEMENT, STAIRS - DAY
+
+He descends the stairs into the darkness. His mouth 
+dries as he pulls his gun. He moves down a narrow 
+corridor, passing a wooden door, when he hears 
+something from inside. Faint breathing. He reaches 
+for the doorknob. It's locked. He takes the slim jim 
+from his jacket pocket and easily opens the door.
+
+INT: 142 CHRYSTIE BASEMENT ROOMS - DAY
+
+It's dark. Wallace takes his mag-light and scopes the 
+room. He steps back, startled, when he sees thirty 
+FEMALE FACES, gaunt, eyes glazed, huddled in the 
+room like prisoners of war. None look older than 
+fifteen. Wallace stands looking at the young women 
+when he hears noise further down the hall. Slowly, he 
+steps back
+
+INT: 142 CHRYSTIE BASEMENT, CORRIDOR-DAY
+
+and creeps toward a second door framed with the 
+bright light from within. It sounds like a small motor 
+mixed with whimpering. He looks through the 
+keyhole. It takes a moment for his eye to adjust. 
+When it does he jumps to his feet and kicks open the 
+door.
+
+INT: 142 CHRYSTIE BASEMENT ROOMS - DAY
+
+                   WALLACE
+                   
+     POLICE!
+
+The room is awash in bright light, almost blinding 
+Wallace coming from the darkness. But there, on a 
+bed, he sees the source of the cries. Three young 
+WOMEN engaged in forced sex.
+He turns toward the light which is set atop a video 
+camera recording the scene. A MAN, mid forties, 
+throws the camera at Wallace and races for the door. 
+Wallace tackles him into the dark hallway...
+
+INT: 142 CHRYSTIE BASEMENT, CORRIDOR-DAY
+
+...and pummels him with his fist. A loud BANG and a 
+flash of light from the end of the hall as someone 
+fires a bullet at Wallace.
+Instinctively, without thinking, he fires back, hitting 
+the SHOOTER, who slumps to the ground. The impact of 
+his first shooting washes over him. In that moment, 
+the man beneath him pushes to his feet and begins 
+running down the hall.
+
+                   WALLACE
+                   
+     STOP!
+
+The man grabs for the dead shooter's gun, turns and 
+takes a bullet from Wallace's Glock before he can 
+squeeze off a shot. Wallace stands frozen. The smoke 
+from his gun fills the tiny hallway. He tastes blood 
+and realizes he bit through his lip.
+
+INT: 142 CHRYSTIE BASEMENT ROOMS - LATER (DAY)
+
+The place is now brightly lit as COPS and FORENSICS 
+scour the area. Chen enters from the far end and pulls 
+Wallace aside.
+
+                   CHEN
+                   
+     What were you doing in here?
+
+                   WALLACE
+                   
+     I came out of the diner on Pell Street and saw 
+     some guy snatch a purse. I chased him into the 
+     building, but I lost him inside. Then I heard 
+     screaming from down here. I just stumbled into 
+     it.
+
+Chen stares at him as Ung and Deng approach from 
+upstairs.
+
+                   UNG
+                   
+     There's close to forty women here, all illegals. 
+     And we found a storeroom with about a hundred 
+     tapes.
+
+                   DENG
+                   
+     And the landlord remembers the four Jane 
+     Does we pulled outta the dumpsters as part of 
+     the stable.
+
+Ung extends his hand to Wallace.
+
+                   UNG
+                   
+     Good job, Detective.
+
+Chen eyes Wallace who takes Ung's hand.
+
+                   WALLACE
+                   
+     Thanks, Junior.
+
+Soon other COPS come over to give congratulations. 
+The good wishes turn into applause as we
+
+INT: POLICE HEADQUARTERS-DAY
+
+The Mayor's LACKEY pins a commendation on Wallace 
+in front of a room filled with POLICE and PRESS. 
+Somewhere in the back, feeling a little bit proud, in 
+spite of his suspicions, is Chen.
+
+INT: JIMMY LOO'S -NIGHT
+A good-sized crowd, including Ung and Wallace. Ung's 
+gassed.
+
+                   UNG
+                   
+     It's dick size.
+
+                   CHEN
+                   
+     You think everything is dick size.
+
+                   UNG
+                   
+     It is. White people believe all Asians got little 
+     dicks. So you think that when an Asian chick 
+     sees your pecker, she's going to think it's Mount 
+     Saint Helens.
+
+Chen and Wallace laugh.
+
+                   UNG
+                   
+     It's true. And then you look at the tiny hands on 
+     most Asian chicks and figure your weenie's 
+     gonna look like a sewer pipe in her fist.
+
+                   WALLACE
+                   
+     He's discovered our secret.
+
+                   UNG
+                   
+     Well the joke's on you, cause this Chinaman's 
+     hung like a...
+
+                   CHEN
+                   
+     A gnat.
+
+Chen and Wallace laugh at Ung.
+
+                   UNG
+                   
+     You wanna see?!
+
+Ung struggles to his feet.
+
+                   CHEN & WALLACE
+                   
+     No!
+
+Wallace pulls Ung back into his seat.
+
+                   WALLACE
+                   
+     On that note, it's time to head home. I'll see you 
+     tomorrow.
+
+                   CHEN
+                   
+     Eight sharp. We're going to pick up surveillance 
+     on those guys you busted, find out which one's 
+     the fed.
+
+He nods and crosses to the door. Chen gets up and 
+follows him to the door.
+
+                   CHEN 
+                       
+     Wallace.
+
+The young cop stops. Chen stands before him.
+
+                   CHEN
+                   
+     You did a lot for those women down there...You 
+     did good work.
+
+                   WALLACE
+                   
+     Thanks.
+
+                   CHEN
+                   
+     But it was an accident. You're lucky you're not 
+     dead. So don't you ever go off alone again.
+
+Chen stares a hole in Wallace's head. The young cop 
+nods and slips out the door.
+
+11. A GIFT FOR WALLACE
+----------------------
+
+EXT: JIMMY LOO'S-CONTINUOUS - NIGHT
+
+Wallace steps from the bar and begins walking north 
+on Centre. He sees the subway entrance and steps 
+from the curb when a green Mercedes pulls to a stop. 
+Inside is Henry Lee.
+
+                   LEE
+                   
+     Congratulations, Detective.
+
+Uncomfortable, Wallace glances back at the bar.
+
+                   WALLACE
+                   
+     Thanks. I've gotta...
+
+                   LEE
+                   
+     You must allow me to buy you a drink.
+
+                   WALLACE
+                   
+     I really... 
+
+                   LEE
+                   
+     You did a great thing for the people of this 
+     community...Let me thank you, as a show of 
+     respect...please.
+
+Lee unlocks the door as Wallace hears some cops 
+exiting the bar. Rather than be seen he quickly ducks 
+into the car.
+
+INT: STAIRWELL-NIGHT
+
+Chen climbs a rotted stairwell of the Ginza massage 
+and approaches an unmarked door. He hesitates, then 
+decides to knock. He sees an eye in the peephole. An 
+old WOMAN, seventy plus, opens the door and he steps 
+inside.
+
+INT: GINZA MASSAGE - NIGHT
+
+All is back to normal just days later. The welcome 
+room is filled with young girls smoking. One of the 
+girls is May.
+
+The old Woman calls her over and Chen sees her eye is 
+bruised. May leads him toward the back but halfway 
+down the hall he stops. Chen turns to the old woman 
+and says something in Cantonese. She nods and Chen 
+hands her three hundred dollar bills. He then takes 
+May gently by the arm and escorts her out of the 
+apartment.
+
+INT: UNDERGROUND SPA/MASSAGE ROOM - NIGHT
+
+Lee and Wallace, wrapped in towels, sip champagne 
+as they step from a steam room thick with humidity.
+
+                   WALLACE
+                   
+     There's more of Chinatown below sea level than 
+     above.
+
+                   LEE
+                   
+     There's always more under the surface.
+
+The two men are greeted by a pair of beautiful 
+MASSEUSES. One guides Wallace to a massage table, 
+the other takes Lee outside.
+
+                   LEE
+                   
+     Enjoy.
+
+Lee exits as Wallace's Masseuse motions for him to 
+lie face down on the table. He hesitates, but 
+eventually lies down.
+
+                   WALLACE
+                   
+     (Cantonese)
+     What's your name?
+
+She "Shhh's" him...then removes Wallace's towel. He 
+glances back, feeling awkward as she begins covering 
+his naked body with oil.
+
+Expertly, she glides her hands over his skin, 
+massaging his muscles. He wants to stop her, but he 
+doesn't. The Masseuse moves around, working his 
+arms, legs, back and buttocks.
+
+She then climbs on top of him, and using her weight, 
+digs deeper into his muscles. Slight moans begin 
+escaping from his lips. After a moment, she reaches 
+over and dims the lights.
+
+She removes her robe, covers her body with oil and 
+glides herself slowly over Wallace's skin. His eyes 
+move about, showing both his discomfort and 
+enjoyment. She rubs her lips gently across his back to 
+the base of his neck. She kisses his ear as her mouth 
+moves  across his face. She turns him onto his back. 
+He looks up into her eyes, knowing he should stop. But 
+he can't. Yellow fever.
+
+INT: CHEN'S APARTMENT-NIGHT
+
+Chen leads May into the apartment. She stands 
+awkwardly in the center of the room. He turns on the 
+lamp he picked up at Phan's. When he turns she tries 
+to kiss him...but he holds her back.
+
+                   CHEN
+                   
+     No.
+
+She looks at him, not sure why she's there. Neither is 
+he. They stand awkwardly. After a moment, he 
+crosses to the kitchen. He opens the fridge and 
+removes a cellophane bag filled with fruit.
+He takes a knife from a butcher block and expertly 
+slices a blood orange, separating the rind, removing 
+the seeds. He hands May a sculpted piece of the dark 
+red fruit.
+
+                   CHEN
+                   
+     (Cantonese)
+     From home.
+
+She takes it from him. Her eyes close as she tastes 
+the fruit. For a short moment she is across the sea, 
+sitting with her family.
+
+Chen smiles, and digs more produce from the fridge. 
+He then hands May another slice of blood orange and 
+begins chopping the vegetables in perfect, even 
+slices. He glances at May and sees a tear sliding down 
+her cheek.
+
+EXT: WALLACE'S BUILDING-SUNRISE
+The sun barely peeks over the horizon as Wallace 
+enters the apartment.
+
+INT: WALLACE'S APARTMENT - SUNRISE
+He moves slowly, wearing the all nighter across his 
+face. He cuts across the living room, steps into the 
+bathroom.
+
+INT: WALLACE'S APARTMENT - BATHROOM - DAY
+He stops in his tracks. Lying on the floor is his father, 
+beaten to a pulp. For a moment we see genuine 
+concern on Wallace's face.
+
+                   WALLACE
+                   
+     Shit.
+
+                   SEAN WALLACE
+                   
+     Tried to...Never made it.
+
+His concern fades as he realizes his father's 
+conscious. But he still kneels beside him and checks 
+his injuries.
+
+                   WALLACE
+                   
+     You gotta go to the hospital.
+
+                   SEAN WALLACE
+                   
+     No time.
+
+He starts coughing and a pile of blood seeps from his 
+mouth.
+
+                   WALLACE
+                   
+     You're bleeding inside.
+
+                   SEAN WALLACE
+                   
+     Wouldn't be surprised...I need the money.
+
+                   WALLACE
+                   
+     I don't have it. Not that kind.
+
+                   SEAN WALLACE
+                   
+     How much?
+
+                   WALLACE
+                   
+     A grand, maybe.
+
+Wallace helps the big man up to his feet...but both 
+collapse under the weight. They hit the floor heavy.
+
+                   WALLACE
+                   
+     Shit....Come on, again.
+
+Wallace starts to lift but Sean shakes him off.
+
+                   SEAN WALLACE
+                   
+     Would you give it to me if you had it?
+
+Wallace looks at his father.
+
+                   WALLACE
+                   
+     I don't think so.
+
+                   SEAN WALLACE
+                   
+     Fuckin honest, like your mother...Screw it then. 
+     Might as well call the hospital.
+
+Sean passes out. Wallace looks at his old man, then 
+dials 911.
+
+12. HEAVY TRAFFIC
+-----------------
+
+INT: APARTMENT BUILDING BAXTER, HALLWAY-DAY
+
+Deng and Ung are coming out of apartment 5C as 
+Wallace reaches the landing from the stairwell.
+
+                   WALLACE
+                   
+     The Fed tip his hand yet?
+
+                   UNG
+                   
+     If he has I haven't seen it.
+
+                   DENG
+                   
+     Better get in there, he's startin to get pissed at 
+     you.
+
+                   WALLACE
+                   
+     What's new.
+
+Deng and Ung move down the stairs as Wallace enters 
+the room.
+
+INT: APARTMENT 5C  - BAXTER STREET - DAY
+
+The room's filled with surveillance equipment. Chen's 
+at the window photographing the comings and goings 
+across the street where Wallace busted the fed days 
+before.
+
+                   CHEN
+                   
+     You're late.
+
+                   WALLACE
+                   
+     My father had a fall last night..I had to get him to 
+     the hospital.
+
+                   CHEN
+                   
+     Took all night to get him there?
+
+                   WALLACE
+                   
+     He fell last night, I found him this morning in the 
+     bathroom.
+
+Chen looks at him suspiciously, then hands him the 
+camera and touches Wallace's neck.
+
+                   CHEN
+                   
+     Looks like he scratched you.
+
+Wallace pulls away and positions himself at the 
+window.
+
+                   WALLACE
+                   
+     When I was carrying him.
+
+                   CHEN
+                   
+     He alright?
+
+                   WALLACE
+                   
+     Yeah.
+
+Chen sits at a table and deals himself a hand of 
+solitaire.
+
+                   CHEN
+                   
+     He was a cop, right?
+
+                   WALLACE
+                   
+     The two five.
+
+                   CHEN
+                   
+     Tough beat. Is that why you're here? Prove 
+     something to the old man?
+
+                   WALLACE
+                   
+     Is that why you're here?
+
+                   CHEN
+                   
+     My old man's dead. I don't have to prove anything  
+     to anybody. How 'bout you?
+
+                   WALLACE
+                   
+     Just to you I guess.
+
+                   CHEN
+                   
+     That's for sure.
+
+                   WALLACE
+                   
+     Why do you have to constantly bust my balls?
+
+                   CHEN
+                   
+     I'm educating you while there's time.
+
+Chen lights the smoke as Wallace feigns 
+embarrassment.
+
+                   WALLACE
+                   
+     You mean you care about me?...I don't know 
+     what to say.
+
+                   CHEN
+                   
+     Try nothing.
+
+                   WALLACE
+                   
+     But I'm overwhelmed. This showing of emotion. 
+     This outpouring of human kindness. The caring, 
+     the warmth. Don't look at me, I think I'm crying.
+
+Chen smiles in spite of himself as Wallace turns 
+toward the window and spots two ASIANS stepping 
+from a Lincoln, which drives away.
+
+                   WALLACE
+                   
+     These two don't look like junkies.
+
+He picks up the camera and starts snapping away. 
+Chen crosses to the window, watches through a pair 
+of binoculars.
+
+                   CHEN
+                   
+     No, they don't. 
+
+They watch the two youths enter the brownstone.
+
+EXT: CRUMBLING BUILDING -DAY
+
+...the two YOUTHS enter the brownstone.
+
+INT: VACANT APARTMENT- BAXTER STREET - DAY
+
+Chen puts down his binoculars.
+
+                   CHEN (cont'd)
+                   
+     You get pictures?
+
+                   WALLACE
+                   
+     Yeah.
+
+Then suddenly, the unmistakable sound of 
+automatic gunfire rings out from the building 
+across the street. Wallace's camera freezes 
+as the gun shots echo across the street.
+
+                   CHEN
+                   
+     Shit.
+
+Both men have guns drawn by the time they hit the 
+door.
+
+EXT: BAXTER STREET APARTMENT BUILDING-CONTINUOUS-
+DAY
+
+Chen and Wallace hit the pavement at the same 
+moment the two Asian gangsters climb into the 
+big Lincoln which immediately starts backing out 
+of the alley.
+
+                   CHEN
+                   
+     Police!
+
+Asian gangster's #2's answer is a barrage of 
+automatic gunfire. Chen responds with one neat 
+shot through the windshield and into the driver's 
+head.  Gangster#1 wastes no time pushing the 
+dead driver out from behind the wheel before 
+Chen and Wallace can reach the car and 
+continues their getaway at warp speed.  Chen 
+unloads his weapon at the fleeing car before 
+turning and heading towards the Chevy while 
+Wallace charges up a narrow passageway to cut 
+the gangsters off. 
+
+EXT: NARROW CHINATOWN  STREET (N.Y.) - DAY
+
+Wallace comes flying out of the alley and into 
+the street just in time to get off a few shots at 
+the oncoming Lincoln which barrels right at him 
+forcing him to jump onto a parked car at the 
+last minute.  Chen races from the opposite 
+direction hoping to block the Lincoln's path. 
+Without hesitating, the gang car plows onto the 
+sidewalk and escapes past the terrified 
+pedestrians. Chen pulls a 180, Wallace hops in 
+the passenger seat and the chase is on.
+
+EXT: SECRET STREET (TOR) - DAY
+
+Wallace and Chen in hot pursuit.
+
+                   WALLACE
+                   
+     (in the radio)
+     This is car seven in green sector, we're in 
+     pursuit of a blue Lincoln Continental, Jersey 
+     plates five, niner, five, alpha, alpha, zulu 
+     travelling south on Park Row, subjects armed 
+     and dangerous. Request road block units on 
+     all lanes.
+
+With Chen and Wallace closing in, Gangster #2 
+unloads another burst of gunfire. One of the 
+bullets punctures the windshield, grazes 
+Wallace's ear, exploding the headrest behind 
+him. Chen continues to catch up as the Lincoln 
+makes a sharp left slipping through the cross 
+traffic. The Chevy's not as lucky, as it gets 
+clipped in the rear causing it to spin 90 degrees 
+and slowing their pursuit.
+
+EXT: PELL STREET (N.Y.) - DAY
+
+The Lincoln moves fast down Pell  and  hangs a 
+sharp right careening onto Bowery heading 
+downtown.  Chen and Wallace struggle to keep 
+up with pedestrians scattering in all directions.  
+Just as the gangsters reach the first stoplight it 
+turns green. They pull out into the oncoming lane 
+cutting in front of the waiting traffic which is 
+just starting to move. In order to stop them and 
+pin the Chevy in, gangster#2 lets loose a 
+barrage of gunfire which mows down the 
+drivers of the first row of car, pinning the Chevy 
+behind the bloody roadblock. The Lincoln takes 
+off to the right. Chen backs  up, sees an opening 
+to an alley parallel to the street and takes off 
+down it  hoping to cut them off.
+
+EXT: SPADINA ALLEY (TOR) - DAY
+
+Chen and Wallace speed through the narrow 
+pasageway checking through the periodic 
+openings to Temperance Street trying to track 
+the Lincoln.
+
+                   WALLACE
+                   
+     There!
+
+Chen floors it- comes flying out the end of the 
+alley on to...
+
+EXT: NARROW DOWNTOWN STREET (TOR) - DAY
+
+Cars parked on both sides of the street.
+Chen comes right up beside the Lincoln and tries 
+to force it to a stop by pushing it up against the 
+parked cars but the Lincoln just keeps charging, 
+banging an opening through the cars and 
+jumping onto the sidewalk knocking down a 
+half-dozen pedestrians who can't get out of the 
+way fast enough. Chen tracks alongside- 
+gangster#2 spraying automatic fire at them, 
+smashing out the windows of the parked cars. 
+Chen and Wallace do their best to return fire. A 
+delivery truck straddles the sidewalk in front of 
+the Lincoln,  instead of slowing, they speed up 
+and at the last moment crash through parked 
+cars, forcing an opening for them to come back 
+onto the street. The parked car they punched 
+through now blocks the Chevy.  Rather than 
+stop, Chen blasts onto the opposite sidewalk, 
+pulls up next to the Lincoln while he and Wallace 
+try to blow it out. Suddenly there's an elderly 
+woman pulling her shopping basket in front of 
+them who can't possibly get out of the way.
+
+                   WALLACE
+                   
+     Yo,  Civilian!!
+
+Chen jams on the brakes, slides through an 
+opening of parked cars and follows the Lincoln 
+around the corner to the left.
+
+EXT: POST OFFICE ALLEY - DAY
+
+Gangster #2 seeing the Chevy gaining on them, 
+leans far out his passenger side window and 
+sprays the Lincoln's tires just before a truck 
+pulls out from a loading dock and sends the 
+gangster's body flying through the air like a 
+puppet. The Lincoln doesn't even slow. The Chevy 
+spins uncontrollably, the front end smashing 
+into the elevated lift of a meat truck, which cuts 
+right through the windshield pinning Chen 
+behind a collapsed steering column.
+Both men, shaken, watch as the Lincoln heads 
+for the end of the street, then suddenly pulls a 
+smoky 180 and heads right back towards them.
+
+                   WALLACE
+                   
+     What the hell is he doing?
+
+The Lincoln drives straight at them with the now 
+visible BLUE and WHITES tailing it in close pursuit.
+
+                   CHEN
+                   
+     Shit.
+
+Chen and Wallace try and climb from the Chevy. 
+Wallace can. Chen can't.  He's trapped behind the 
+wheel.
+
+Chen looks at Wallace who stands beside the 
+car.
+
+                   CHEN
+                   
+     Go!
+
+Chen begins firing at the Lincoln. Wallace looking 
+between Chen and the fast approaching car,  
+fires also. Chen's gun empties. Because of the 
+chaos of the delivery trucks, the Lincoln has 
+only one way out, and that is to crash straight 
+through the disabled Chevy.
+
+                   CHEN
+                   
+     I said go!
+
+Chen empties his gun. Wallace refuses to leave 
+him. The Lincoln is forty yards, thirty yards. It's 
+engine is deafening.
+
+                   CHEN
+                    
+     GO!!!
+
+Wallace stays, firing everything he's got. Out of 
+ammo, he quickly turns, dives back in the ca and 
+grabs the shotgun from the back seat. Twenty yards, 
+ten yards, he sees the face of the DRIVER when he 
+gets lucky and a shotgun blast hits the gangster in 
+the chest. The Lincoln spins out of control, twirling 
+like crazy before it hits one of the trucks and 
+explodes in flames. Wallace pulls Chen down as the 
+fireball rolls just over their heads. Chen looks at 
+Wallace as they sit up.
+
+
+13. ENTER THE FEDS
+------------------
+
+INT: INTERROGATION ROOM TWO - DAY
+
+                   SCHABACKER
+                   
+     Federal agent Ronald Ming is dead. Shot seven times 
+     in the back and I'm thinking some scumbag in 
+     the Fifteenth is responsible.
+
+Chen insides are twisted in knots. Half of him wants 
+to come clean, but the self preservation half knows 
+to play it cool.
+
+                   CHEN
+                   
+     Maybe some scumbag in the Bureau is responsible.
+
+                   SCHABACKER
+                   
+     And maybe I'm gonna grow a tree out of my dick.
+
+                   CHEN
+                   
+     If anybody could.
+
+                   SCHABACKER
+                   
+     And you can bet your ass it'd be an Oak.
+
+Schabacker stares at Chen looking for the slightest 
+flinch.
+
+                   SCHABACKER
+                   
+     We I.D'd the shooters...They're Fukienese.
+
+Chen breathes a touch easier. Maybe it wasn't Lee. 
+Maybe it was part of the turf war.
+
+                   CHEN
+                   
+     Fuke's have been makin a move on the triads for 
+     months.
+
+                   SCHABACKER
+                   
+     That's the only thing keepin me from ripping 
+     this fuckin precinct to the ground. That...and this.
+
+Schabacker puts a small tape on the desk. Chen looks 
+at tape, wondering if he's on it.
+
+                   SCHABACKER
+                   
+     The assholes were in such a hurry to get moving  
+     they didn't check the bodies for wires.
+
+                   CHEN
+                   
+     Who's on it?
+
+                   SCHABACKER
+                   
+     Benny Wong. Some others. Three weeks worth of 
+     undercover work.
+
+                   CHEN
+                   
+     A court'll never admit it without the agent backin 
+     it up.
+
+                   SCHABACKER
+                   
+     They will once you tell 'em you've been working with 
+     us on this investigation. That after the shooting 
+     and before the chase, you entered the building, 
+     approached our agent who, with his last breath, 
+     told you he got this tape and corroborated what's 
+     on it.
+
+                   CHEN
+                   
+     That's perjury. Why would I do that?
+
+                   SCHABACKER
+                   
+     To keep me from bringing charges against you for 
+     obstructing a federal investigation. Wallace told 
+     us how you engaged in the unauthorized surveillance 
+     of a federal agent, which possibly blew his cover, 
+     resulting in his assassination.
+
+Chen looks at Schabacker.
+
+                   CHEN
+                   
+     That speech may have shivered a rookie, but 
+     you'll need better for me.
+
+                   SCHABACKER
+                   
+     Then I'll tell you what. You better watch your back 
+     cause my gut's still tellin me somebody in the 
+     Fifteenth gave my guy up and if I can't have Uncle 
+     Benny, I'm gonna have him.
+
+Chen looks into Schabacker's face.
+
+INT: WALLACE'S APARTMENT-LATER
+
+Wallace, dressed only in pants, cracks open the front 
+door and sees Chen standing in the doorway. The visit 
+catches Wallace off guard.
+
+                   CHEN
+                   
+     You alone?
+
+                   WALLACE
+                   
+     Yeah.
+
+                   CHEN
+                   
+     Then invite me in.
+
+Wallace opens the door wider and Chen steps inside. 
+He looks around the small apartment filled with boxes 
+and Chinese artifacts with cops eyes. The kind that 
+make you nervous even if you've done nothing wrong.
+
+                   CHEN 
+                   
+     You got something to drink?
+
+                   WALLACE
+                   
+     (putting on his shirt)
+     No.
+
+                   CHEN
+                   
+     About yesterday. You saved my life out there.
+
+                   WALLACE
+                   
+     Part of the job.
+
+                   CHEN
+                   
+     Maybe. I still want to say thank you.
+
+                   WALLACE
+                   
+     You know what it means I saved your life.
+
+Chen smiles as he causually but carefully looks 
+through the papers on Wallace's coffee table.
+
+                   CHEN
+                   
+     This is America, it doesn't mean anything. 
+     That said...Feds got you nervous?
+
+                   WALLACE
+                   
+     No.
+
+                   CHEN
+                   
+     Good. Cause whether it's the Feds, Internal 
+     Affairs, whoever, the inside of a cop car is 
+     sacred. You don't tell them what we do 
+     unless you discuss it with me first.
+
+                   WALLACE
+                   
+     Why the sudden paranoia?
+
+                   CHEN
+                   
+     I'm just sayin'. Anybody asks you a question. 
+     You ask me first.
+
+Chen crosses to Wallace and stands face to face with 
+him, making his point clear.
+
+                   CHEN (cont'd)
+                   
+     No more talking with the Feds until we're 
+     working off the same page. 
+     Understood?
+
+                   WALLACE
+                   
+     Yeah...sure.
+
+                   CHEN
+                   
+     Good.
+
+Chen turns and walks out the door. Wallace lets out a 
+breath.
+
+EXT: THE TOMBS-DAY
+
+New York's city prison and holding facility. Like any 
+toilet, it's filled with shit.
+
+INT: THE TOMBS - INTERROGATION ROOM 
+Sitting behind a desk is Chen. The Guards put Jack in a 
+chair then step back into the hall. Chen eyes the kid 
+who looks even smaller in his prison rags. He waits a 
+moment, then puts a surveillance photo of Jack's 
+girlfriend Amy San on the table between them.
+
+                   CHEN
+                   
+     Nice looking girl. Did you know she's in the country 
+     illegally?
+
+Jack looks from the picture to Chen.
+
+                   CHEN
+                   
+     Gonna have to send her back...after a little 
+     jail time of course. Shame you two'll never 
+     see each other again.
+
+Jack's toughness is gone.
+
+                   JACK
+                   
+     You can't send her, she's in trouble there. 
+     She'll be...
+
+                   CHEN
+                   
+     Too bad. I can't help you. That's what you told me 
+     isn't it?
+
+Jack feels the noose closing around his neck. He 
+doesn't have much choice. He speaks quietly, already 
+afraid of what he has to do.
+
+                   JACK
+                   
+     I help you, when they move me, she come too, 
+     with papers?
+
+Chen nods, then places a small tape recorder on the 
+table. Jack looks at it like it was poison. Chen then 
+puts a business card beside it.
+
+                   CHEN
+                   
+     My pager number. Punch one one after your number 
+     so I know it's you.
+
+Jack reaches for the card and recorder. When he 
+does, Chen grabs his wrist and pulls him closer.
+
+                   CHEN (cont'd)
+                   
+     I get you out, you better not run on me.
+
+Jack looks at Chen and knows he's serious.
+
+                   CHEN (cont'd)
+                   
+     I want to know who shot that undercover Fed. 
+     And I want to know if whoever it was talks to 
+     Henry Lee
+
+Chen lets go of Jack and motions to the Guards. They 
+reenter the room, pick up Jack and take him back to 
+his cell. Chen watches him go and it's clear he doesn't 
+feel good about what he just did.
+
+EXT: CHEN'S APARTMENT, MOTT STREET - DAY
+
+A truck filled with dead pigs hanging on hooks, stands 
+on the corner. MEN carry said swine to small vans 
+parked at the curb.
+
+Chen, carrying groceries, walks past the workmen 
+and up to his door. He glances toward the vans as he 
+slides in his key.
+
+INT: CHEN'S APARTMENT, MOTT STREET - DAY
+
+Chen, still struggling with the death of the 
+undercover agent, plops the package on the table, 
+takes out a bottle of Bacardi and cracks the seal. He 
+pours a portion of it into a half empty liter of Coke 
+and hits it as he crosses to the window.
+
+EXT: CHEN'S APARTMENT - POV MEAT VANS - DAY
+
+He looks at the meat vans.
+
+INT: CHEN'S APARTMENT, MOTT STREET - DAY
+
+He picks up the phone and punches in a number.
+
+                   VOICE (PHONE)
+                   
+     New York Times.
+
+                   CHEN
+                   
+     I just called to tell you that Pete Schabacker of 
+     the F.B.I. is a hemorrhoid-licking asshole.
+
+                   VOICE (PHONE)
+                   
+     Excuse me?
+
+Chen hangs up, sips his muscled Big Gulp and finally 
+has something to laugh about.
+
+INT: MEAT VAN, MOTT STREET-DAY
+
+Tucked inside one of the meat vans, is a reel-to-reel 
+recorder, Pete Schabacker and two hysterical AGENTS.
+
+                   SCHABACKER
+                   
+     Shut the fuck up.
+
+14. HENRY'S DEAL
+----------------
+
+INT: HOSPITAL, SEAN WALLACE'S ROOM-DAY
+
+Wallace moves past the other patients to his father's 
+bed where the big Irishman lies with his eyes closed. 
+Wallace looks down at him, then starts to leave.
+
+                   SEAN WALLACE (O.S.)
+                   
+     Hey.
+
+Wallace turns back to the bed. His father smiles at 
+him.
+
+                   SEAN WALLACE
+                   
+     Thank you.
+
+Wallace isn't sure what he's talking about.
+
+                   SEAN WALLACE
+                   
+     For the money. They sent a guy, he told me you 
+     settled up. I'm not gonna forget it.
+
+INT: LEE'S OFFICE-NIGHT
+Lee sits behind his desk when Wallace storms into the 
+room.
+
+                   WALLACE
+                   
+     Did you cover my father?
+
+                   LEE
+                   
+     I'm helping you because I want you to help me.
+
+                   WALLACE
+                   
+     No way.
+
+                   LEE
+                   
+     My business is victimless. I supply services people 
+     want and are forbidden to them by politicians. 
+     However, you've seen there're those whose 
+     business is not victimless. Whose tactic is violence. 
+     I can help you rid Chinatown of those elements, and 
+     help keep your father alive. All I ask, is that you 
+     look out for my interests in return.
+
+                   WALLACE
+                   
+     You're asking for more than that.
+
+                   LEE
+                   
+     Long after you and I are gone there will be 
+     gambling in Chinatown. There will be men willing 
+     to pay a woman for her favors. And the police will 
+     always be the last to know. That's a fact...Now 
+     you can chase your tail in the dark and accomplish 
+     nothing, or you can really do some good. For the 
+     people of Chinatown, for your career and for your 
+     father.
+
+Lee circles his table and approaches Wallace.
+
+                   LEE
+                   
+     Think of how many more young girls would have 
+     ended up in dumpsters if not for your acceptance  
+     of my help.
+
+Wallace does think about it. Knowing that they did 
+save lives. He looks out the window at a bustling 
+Chinatown.
+
+                   LEE
+                   
+     This isn't America, Danny. It's Chinatown.
+
+                   LEE
+                   
+     Do we agree?...Or do you want me to call the 
+     Italians and rescind my offer? Let them deal 
+     with your father. 
+
+The moment of choice. Its consequences are not lost 
+on Wallace. The decision is not easy...but slowly, he 
+shakes his head.
+
+                   LEE
+                   
+     Good. There's something I'd like you to do for me 
+     tomorrow.
+
+Lee doesn't speak right away. He makes Wallace wait.
+
+                   LEE
+                   
+     There's a tin shop on Hogan.
+
+EXT: TIN SHOP - HOGAN STREET - MORNING(DAY)
+
+Wallace steps from the subway, crosses to a 
+newsstand, buys a paper and checks the timepiece 
+hanging over the porn mags. 5:58AM.
+
+                   LEE (V.O.)
+                   
+     A Malaysian runs it. Tomorrow at six AM, he'll 
+     be receiving two bricks of heroin from a Colombian.
+     He clocks the tin shop. He can make out the 
+     MALAYSIAN guy behind the counter and a MALE 
+     CUSTOMER, Chinese, checking the racks.
+
+                   LEE (V.O.)
+                   
+     These men are scum, they deal to children. I'd like 
+     you to stop them. He takes position at the bus stop 
+     on the corner and waits. He sees an HISPANIC MALE, 
+     40's, enter the store. The Malaysian locks the front 
+     door and leads the Hispanic to the rear of the shop.
+
+He moves quickly across Hogan. He reaches the front 
+door, slides the slim jim from his jacket, and easily 
+opens the lock.
+
+INT: TIN SHOP - CONTINUOUS - DAY
+
+Wallace pulls the Glock from his holster. He hears 
+voices from behind the rear door. Cold sweat runs 
+down his neck as he takes position. He steadies 
+himself, then kicks open the door.
+
+INT: TIN SHOP, OFFICE - DAY
+
+                   WALLACE
+                   
+     POLICE! NOBODY MOVE!
+
+He aims his gun and nearly fires when he hears 
+YELLING from one of the men and sees the barrel of a 
+.45 pointed at his face.
+
+But he doesn't shoot because the gun belongs to 
+Chen, in the middle of busting the two drug dealers.
+Eyes wild and still YELLING, Chen nearly squeezes the 
+trigger himself, but his brain registers Wallace faster 
+than his finger.
+
+The two cops, breathing hard, stare at each other 
+knowing exactly how the other got there. After a 
+moment, Chen cuffs the two prisoners to the radiator 
+and pushes Wallace back into the store.
+
+INT: TIN SHOP - DAY
+
+                   CHEN
+                   
+     You son of a bitch. When did Lee approach you?! 
+     The bust on Chrystie, right? The porn operation?
+
+                   WALLACE
+                   
+     Yeah.
+
+                   CHEN
+                   
+     I knew it. I knew your story was full of shit.
+
+                   WALLACE
+                   
+     Well here you are. When did he approach you? I bet 
+     quite a while before that. When was it, two years 
+     ago, five years? How long have you been working 
+     for him? Or can't you even remember?!
+
+Chen grabs Wallace by the neck.
+
+                   CHEN
+                   
+     You're dead. Your life is over. I thought you were 
+     smart. You're not, you're as dumb as they come.
+
+Chen lets go of Wallace. It takes a moment and then 
+it hits him.
+
+                   WALLACE
+                   
+     You gave him the Fed didn't you?
+
+Chen looks back at Wallace.
+
+                   WALLACE
+                   
+     That's why we were watching them. That's why 
+     you pressed that kid so hard to wear a wire. Yeah 
+     I heard about that. You want to see if it was the 
+     Fukes who killed the agent or if it was Lee.
+
+They hear something behind them and turn with guns 
+pointed at a seventy year old Woman stepping 
+through the door.
+
+15. PLUMS AND PEACHES
+---------------------
+
+INT: GAMBLING PARLOR-DAY
+
+Chen moves purposefully through the crowded room 
+but he doesn't stop to play. Instead he strides up to 
+Henry Lee, grabs him and forcefully pushes him down 
+the hall and out into the back alley.
+
+INT: GAMBLING PARLOR, STAIRWAY - DAY
+
+He punches Lee to the floor. Lee's Sumo and two other 
+triad SOLDIERS race into the room, guns drawn, but 
+hold back from firing because Chen's gun is pointed at 
+Lee's head.
+
+                   CHEN
+                   
+     We had a deal.
+
+                   LEE
+                   
+     You brought him in, not me. I couldn't risk it.
+
+                   CHEN
+                   
+     I had him under control.
+
+                   LEE
+                   
+     Says you.
+
+                   CHEN
+                   
+     Let him go.
+
+                   LEE
+                   
+     What's done is done. You know that better than 
+     anyone. You want to help him? Smarten him up. 
+     Make sure he doesn't trip over his toes and fuck 
+     both of you. I hear dirty cops have an extra rough 
+     time of it in prison.
+
+Chen looks right into Lee's eyes.
+
+                   CHEN
+                   
+     I find out you killed that Fed, I'll kill you.
+
+Chen strides from the room, keeping his gun pointed 
+on target.
+
+EXT: SECOND STREET- DAY
+
+Chen and Wallace move across the street. The mood is 
+solemn. 
+
+                   CHEN
+                   
+     Wires. You never know who's wearin one so 
+     assume everyone is.
+
+Chen stops at an outdoor fruit stand and samples the goods.
+
+                   CHEN (cont'd)
+                   
+     Another thing. If you hear something in the precinct 
+     you think we should pass along, always double 
+     check. It could be a bogus tip they wanted you to 
+     hear to see if it got passed along. Black or red plum?
+
+                   WALLACE
+                   
+     I don't like plums.
+
+                   CHEN
+                   
+     You don't like plums?
+
+                   WALLACE
+                   
+     I like peaches.
+
+                   CHEN
+                   
+     Peaches are shit. Didn't you ever hear that song 
+     Sinatra sang, "Out of the tree of life I just picked 
+     me a plum?"
+
+                   WALLACE
+                   
+     I don't care if he picked a raisin out of Sammy Davis' 
+     eye socket. I like peaches.
+
+                   CHEN
+                   
+     Then I'm not paying for it. Chen pays for his plum and           
+     Wallace pays for his peach. Chen stops to watch a bunch 
+     of KIDS playing soccer in the park.
+
+                   WALLACE
+                   
+     How'd they get to you?
+
+                   CHEN
+                   
+     I was the first Chinese cop in the Fifteenth. 
+     Thought I was gonna clean up Chinatown. But 
+     white cops wouldn't work with me and the 
+     people wouldn't talk to a cop, Chinese or not. Only 
+     Uncle Benny paid me any attention. He became my 
+     godfather,  took care of my debts. Henry Lee was 
+     his lieutenant. He fed me a few busts, made me 
+     look good and I liked it. Then one night my father 
+     walks into a gambling house and ends up dead. 
+     Turns out Lee knew there was a contract on him. 
+     Made it clear he could've told me, I could've 
+     stopped it...Got me thinking I was better at 
+     my job with him, than without him.
+
+The soccer ball rolls over and Chen kicks it back into 
+the game.
+
+                   CHEN (cont'd)
+                   
+     And he was right.
+
+Chen takes a bite from his plum as the sound of a 
+shutter on a 35mm camera clicking stops the action in 
+beautiful black and white. Suddenly, a hand reaches in 
+and pulls the photo off the wall.
+
+16. BENNY WONG CUTS A DEAL
+--------------------------
+
+INT: FBI HEADQUARTERS HALLWAY -DAY.
+
+Schacker walks briskly through the hallway carrying 
+the picture and talking on a cordless mouthpiece.
+
+                   SCHABACKER
+                   
+     It's Schabacker. I want everything you have on a 
+     Detective in the Fifteenth Precinct. His name is Daniel 
+     Wallace...Yeah his old man worked crooked outta the 
+     two five, check on him too.
+
+He rounds a corner and approaches his office where 
+Benny Wong his lawyer and two Fed minions sit 
+waiting for him.
+
+INT: SCHABACKER'S OFFICE
+
+He enters, closing the door behind him.
+
+                   SCHABACKER
+                   
+     Mr. Wong, we're running a one day sale. Chance of 
+     a lifetime. The opportunity to buy your freedom.
+
+Schabacker pulls an audio tape from his desk drawer.
+
+                   SCHABACKER
+                   
+     This tape was obtained by an agent working 
+     undercover inside the Triad.
+
+It's Cantonese but the look on Wong's face tells us it 
+isn't good.
+
+                   LAWYER
+                   
+     The tape is garbage. If it weren't, you would have 
+     arrested my client by now.
+
+Schabacker lays an arrest warrant on the table and 
+speaks to Wong.
+
+                   SCHABACKER
+                   
+     Lawyers are always gutsy when it's someone else 
+     looking at life. But I don't want you. I want whoever 
+     killed my agent. I want the cops in the Fifteenth on 
+     your payroll. And I'm willing to pay for it.
+
+INT: FUKIENESE CRASH PAD, BEDROOM - NIGHT
+
+The phone rings as Bobby Vu makes out with a good 
+looking girl.
+
+                   BOBBY VU
+                   
+     Hello.
+
+INT: GREEN MERCEDES-SAME NIGHT
+
+Lee rides in back, speaking into his cell-phone.
+
+                   LEE
+                   
+     Our patience has paid off. Uncle Benny paid a visit to 
+     the F.B.I. His time is over.
+
+INT: FUKIENESE CRASH PAD, LIVING ROOM-SAME NIGHT
+
+The room looks like home to seven teenagers who 
+drink, do drugs, fight and play with guns all day. Four 
+of them, including Jack, are on the couch, watching 
+porno. The bedroom door opens and Bobby Vu enters, 
+kicking everybody off the couches.
+
+                   BOBBY VU
+                   
+     (Fukienese)
+     Get dressed, we have a job.
+
+                   JACK
+                   
+     (Fukienese)
+     What is it?
+
+                   BOBBY VU
+                   
+     (Fukienese)
+     We take care of Benny Wong tonight.
+
+EXT: CHEN'S APARTMENT, MOTT STREET-NIGHT
+
+Wallace drives to the curb as Chen looks at the Phone 
+Company truck parked across the street.
+
+                   CHEN
+                   
+     My friends are waiting for me.
+
+Wallace glances at the truck.
+
+                   WALLACE
+                   
+     How long you think the Feds'll be watching us.
+
+                   CHEN
+                   
+     Month, maybe two.
+
+Chen can see that fact rattles Wallace.
+
+                   CHEN
+                   
+     I didn't want Lee involving you.
+
+                   WALLACE
+                   
+     It's not your fault.
+
+                   CHEN
+                   
+     I didn't say it was. What I'm saying is you're 
+     alone now. You can't trust anybody in the 
+     department. Not the guys in the Fifteenth, not 
+     the guys in the AGU. And you sure as hell can't 
+     trust Henry Lee. So if anything gets sticky, you 
+     come to me.
+
+                   WALLACE
+                   
+     How do I know I can trust you?
+
+                   CHEN
+                   
+     You don't.
+
+Chen opens the car door.
+
+                   WALLACE
+                   
+     I'm glad it's not just me...Nuts huh?
+
+Half of him feels the same way...But the smarter half, 
+the self preservation half, doesn't.
+
+                   CHEN
+                   
+     No.
+
+                   WALLACE
+                   
+     You wanna eat? I'll buy you a plum.
+
+Chen smiles. He wants to, but he closes the door.
+
+                   CHEN
+                   
+     I got plans.
+
+                   WALLACE
+                   
+     Some other time.
+
+Wallace drives off as Chen turns and pushes into his 
+building. 
+
+INT: CHEN'S BUILDING, HALLWAY OUTSIDE HIS 
+APARTMENT-NIGHT
+
+Lying against the door, cold and pasty white, is May. 
+Chen quickly  checks her vitals, then lifts her in his 
+arms and carries her back outside.
+
+EXT: GAS STATION, QUEENS-NIGHT
+
+The Fukienese crew sit packed into a stolen Buick 
+Regal as one of the boys pumps unleaded into the 
+tank. Jack in the middle of the back seat fidgets like 
+an inmate on death row.
+
+                   JACK
+                   
+     (Fukienese)
+     I gotta take a leak.
+
+Bobby Vu looks at him with the impatience of a killer.
+
+                   BOBBY VU
+                   
+     (Fukienese)
+     Hurry up.
+
+Jack climbs out the door. He crosses the forty yards 
+of asphalt and moves behind the filling station to the 
+side of the building.
+
+EXT: GAS STATION PAYPHONE - NIGHT
+
+He stops at a payphone nestled between the men's 
+and lady's rooms. His hands tremble as he slides in 
+the quarter and dials the number off Chen's card. He 
+checks the number of the phone, punches it in along 
+with his code. He hits the pound key, hangs up and 
+waits.
+
+INT: HUDSON ST CLINIC: HOSPITAL ROOM -NIGHT
+
+The population, STAFF and CLIENTELE, is mostly Asian, 
+Spanish, and poor. The pace is fast and the care 
+minimal by necessity.
+
+Behind a curtain, May lies sleeping, I.V. tubing 
+supplying nutrition, an oxygen mask supplying life. 
+Chen watches her when his pager goes off. He checks 
+the number, recognizing the pager code he gave Jack 
+as a young DOCTOR enters the area.
+
+                   DOCTOR
+                   
+     She's lucky you found her.
+
+                   CHEN
+                   
+     I want you to write her up as deceased.
+
+                   DOCTOR
+                   
+     Nick.
+
+                   CHEN
+                   
+     She recovers, she goes to work. Two weeks 
+     she's back here, maybe not so lucky.
+
+                   DOCTOR
+                   
+     You're asking a lot.
+
+Chen reaches into his pocket and pulls out ten 
+hundred dollar bills. The Doctor thinks, then takes the 
+money.
+
+                   CHEN
+                   
+     Let her stay a few days, till she's stronger. 
+     Then I'll come get her.
+
+Chen looks at May then slips outside.
+
+EXT: GAS STATION, PAYPHONE- NIGHT
+
+                   BOBBY VU (O.S.)
+                   
+     (Fukienese)
+     What the fuck are you doing?
+
+Jack spins and calls on every ounce of strength he 
+has to keep from turning white.
+
+                   JACK
+                   
+     (Fukienese)
+     I'm sick. I wasn't sure if I had to go back inside 
+     or not.
+
+Bobby Vu starts to smile...until the phone rings. Then 
+he just stares at Jack, who ignores the ringing phone.
+
+                   JACK
+                   
+     I'm alright. Let's go.
+
+Bobby stops him...and picks up the phone. He puts the 
+receiver to his ear, but doesn't say a word.
+
+INT: HUDSON STREET CLINIC-SAME (NIGHT)
+
+Chen stands at a payphone and almost speaks, but 
+the silence on the other end of the line stops him.
+
+EXT: GAS STATION, PAYPHONE-NIGHT
+
+Jack's legs nearly buckle as Bobby Vu keeps the 
+phone to his ear. The wait is agony, but gets 
+interrupted when Black Eyes walks up.
+
+                   GANGSTER
+                   
+     What're you doing?
+
+INT: HUDSON STREET CLINIC-NIGHT
+
+Chen hears the voices through the phone line and 
+realizes something's not right.
+
+                   CHEN
+                   
+     Is this Domino's Pizza?
+
+EXT: GAS STATION, PAYPHONE-NIGHT
+
+Jack continues to watch Bobby Vu, who hangs up 
+without saying a word. Slowly, a smile curls his lips.
+
+                   BOBBY VU
+                   
+     (Fukienese)
+     Jack thought he was gonna shit his pants.
+
+He puts an arm around his soldier and leads him to 
+the Buick.
+
+INT: HUDSON STREET CLINIC-NIGHT
+
+Chen hangs up the phone. He stands a moment, then 
+takes a pen from his pocket and writes down the 
+number on the pager.
+
+EXT: BENNY WONG'S HOUSE, FLUSHING QUEENS-NIGHT
+
+Chinatown Two and definitely the nicest. An upper 
+income, suburban neighborhood populated by 
+American-born Chinese.
+
+Out front of the gated corner house is the Bobby Vu's 
+car. The Fukeniese fan out around the walls 
+surrounding the property.
+
+INT: BENNY WONG'S BEDROOM-NIGHT
+
+Benny Wong sits in a club chair watching an episode 
+of Sinbad when he hears the KRAK KRAK KRAK of 
+gunfire coming from inside his house. 
+
+He quickly searches his desk drawer finding a .38 
+caliber pistol. He turns toward the door and freezes 
+as he looks into the eyes of Bobby Vu and the other 
+three Fukienese who point submachine guns at his 
+chest. Bobby Vu smiles....Benny Wong stares at him.
+
+                   BENNY WONG
+                   
+     You're not man enough to kill me.
+
+In a flash, Benny brings the revolver to his temple 
+and shoots himself. Bobby Vu looks at the old man 
+lying dead.
+
+                   BOBBY VU
+                   
+     We kill you anyway.
+
+The four youths open up, turning Benny Wong into 
+hamburger.
+
+INT: BENNY WONG'S BATHROOM-NIGHT
+
+The door opens and Bobby Vu enters. He lifts the lid 
+and begins to pee unaware of MRS. WONG who lies 
+paralyzed with fear in the bathtub. 
+
+She tries to lie quietly as he unzips his pants. The 
+sound of liquid hitting liquid mixes with the faint cry 
+of police sirens in the distance.
+
+He finishes, takes one step toward the exit then turns 
+and begins firing into the glass shower door. He stops. 
+Walks through the smoke filled room and stands over 
+Mrs. Wong, alive, but cut to pieces in the bottom of 
+the tub. He looks down at her and nonchalantly points 
+his gun at her chest. She begins to cry as he pulls the 
+trigger.
+
+17. A LITTLE HELP FROM NICK
+---------------------------
+
+EXT: WORTH STREET-DAY
+
+HENRY LEE stands outside his restaurant greeting 
+people who pay respects to him as though it were a 
+coronation.
+
+Ung, Wallace and Chen buy frozen ices from a street 
+cart trying to make a buck in the ninety degree heat.
+
+                   WALLACE
+                   
+     You been able to reach Jack yet?
+
+Chen shakes his head.
+
+                   CHEN
+                   
+     Paged him fifty times and nothing. He's hidin.
+
+                   WALLACE
+                   
+     Think he was calling about the hit?
+
+                   CHEN
+                   
+     He was on it.
+
+Wallace looks at all the people greeting Lee.
+
+                   WALLACE
+                   
+     Nobody seems too upset.
+
+                   CHEN
+                   
+     Except them.
+
+Across the way, they see an FBI surveillance VAN.
+
+                   UNG
+                   
+     Fuckin Feds...Dumb shit brings Benny Wong into 
+     the federal building, should've just taken an ad 
+     out in the papers.
+
+They suck on their freeze bars when Chen notices 
+three little CHINESE kids looking at the ice cream. 
+Chen looks at the kids.
+
+                   CHEN
+                   
+     You stay in school?
+
+The kids nod. Chen hands the vendor a ten.
+
+                   CHEN
+                   
+     Set 'em up.
+
+The youngsters clamor for the ices.
+
+                   WALLACE
+                   
+     Whatdaya think Lee's gonna do about the Fuke's 
+     now that he's top dog?
+
+                   CHEN
+                   
+     He's made his deal with the Fukes.
+
+                   WALLACE
+                   
+     What are we going to do?
+
+                   CHEN
+                   
+     I know what I want to do.
+
+Chen stares at Lee with complete hate.
+
+INT: FIFTEENTH PRECINCT, OUTSIDE THE AGU OFFICES-DAY
+
+Through the glass door we see Wallace and Ung catch 
+up on paperwork as Detective Deng comes through it, 
+into the hall where the coffee machine sits. She pours 
+black coffee into a thirty-ounce cup, then hits it with 
+a half dozen sugars. Chen walks up.
+
+                   CHEN
+                   
+     Planning on staying up for a month?
+     
+                   DENG 
+                   
+     Wait till you have a baby...Did you hear?
+
+                   CHEN
+                   
+     Hear what?
+
+                   DENG
+                   
+     I've heard the FEDS have a case against someone in 
+     the Fifteenth.
+
+This gets Chen's attention, but he tries to dismiss it.
+
+                   CHEN
+                   
+     I've heard that every month for ten years.
+
+Deng presses, like she's trying to tell Chen something 
+more.
+
+                   DENG
+                   
+     So have I, but this time I hear they have tapes, 
+     photos, the whole nine yards. They're pissed off 
+     about their agent and Benny Wong getting killed 
+     and they want to hang somebody for it. 
+
+Chen nods to his partner as she heads back to her 
+desk. Chen thinks for a moment, then looks through 
+the glass at Wallace working away.
+
+INT: GAMBLING PARLOR-DAY
+
+Chen enters the underground parlor. But today it's 
+empty, except for Henry Lee, the Sumo, two other 
+triad soldiers and the dealer from last nights 
+gambling. Lee is here to collect his cut. His  minions 
+immediately frisk Chen and take his guns from him.
+
+                   CHEN
+                   
+     Think I have a reason to use them?
+
+                   LEE
+                   
+     I'm not sure. Lately you've forgotten that what 
+     happens to me, happens to you.
+
+Lee makes sure Chen gets the message.
+
+                   CHEN
+                   
+     The Feds are making a case against Wallace. We need 
+     to cut him loose.
+
+                   LEE
+                   
+     You're nervous. You're getting soft in your old age.
+
+                   CHEN
+                   
+     The only thing going soft is your brain.
+
+The Sumo smashes Chen into the wall and down to the 
+ground.
+
+                   LEE
+                   
+     Personal attacks are going to get us nowhere, 
+     Detective.
+
+Chen can barely breathe, let alone get to his feet.
+
+                   LEE
+                   
+     But I'll tell you what. I'll take your advice to a 
+     point. I'll sever any traceable ties between 
+     us...and give Wallace a few arrests to knock the 
+     shoo- flies off his heels.
+
+Lee and his men start for the door, then stop.
+
+                   LEE
+                   
+     I almost forgot in all this hub-bub.
+
+He peels several bills from his takings and drops it on 
+the floor.
+
+                   LEE
+                   
+     Today's payday for dirty cops. Make sure you give 
+     Wallace his cut.
+
+He smiles and walks out the door. Chen, still on the 
+ground, watches him go...then picks up the money.
+
+EXT: FIFTEENTH PRECINCT-DAY
+
+Chen walks up Elizabeth Street toward the station 
+entrance when he sees Wallace hurrying out of the 
+building.
+
+                   CHEN
+     Wallace.
+
+The young cop either ignores the sound or didn't hear 
+it, cause he heads straight for a patrol car parked at 
+the back of the police lot. Chen yells after him.
+
+                   CHEN
+                   
+     Where're you going?
+
+Wallace stops, lets Chen catch up.
+
+                   WALLACE
+                   
+     (making sure he's not overheard)
+     Lee's not covering my old man with the 
+     Italians. I gotta move him.
+
+He starts towards his car.
+
+                   CHEN
+                   
+     I told him to.
+
+                   WALLACE
+                   
+     Why the hell'd you do that?
+
+                   CHEN
+                   
+     Because the Feds are building a case against 
+     you.
+
+The words hit Wallace like a jack hammer.
+
+                   WALLACE
+                   
+     How do you know?
+
+                   CHEN
+                   
+     I know. And if they nab you it'll take three 
+     seconds for you to give them me.
+
+                   WALLACE
+                   
+     I wouldn't...
+
+                   CHEN
+                   
+     Yes you would...And so would I.
+
+Wallace turns away. Watches some cops heading off 
+duty.
+
+                   CHEN
+                   
+     I'm not saying it's fatal. Point now is to cover 
+     tracks and keep everything clean on the 
+     surface. And when they call you in, keep your 
+     mouth shut.
+
+                   WALLACE
+                   
+     I wish I never got into this.
+
+Chen can't help feeling sorry for him.
+
+                   CHEN
+                   
+     You and me both.
+
+Chen reaches into his pocket and takes out the money 
+he got from Lee, careful that no one sees him. He 
+peels off several bills.
+
+                   CHEN
+                   
+           This is your cut from Lee. 
+           Three grand.
+
+Wallace looks at Chen. He doesn't want to touch the 
+money...but he needs it. So he slips it into his jacket.
+
+                   WALLACE
+                   
+     I gotta get to the hospital.
+
+                   CHEN
+                   
+     Where're you gonna move him?
+
+                   WALLACE
+                   
+     I don't know.
+
+Chen looks at him, then holds out the rest of the 
+money.
+
+                   CHEN
+                   
+     This'll cover your old man.
+
+                   WALLACE
+                   
+     I can't.
+
+                   CHEN
+                   
+     Just take it.
+
+Wallace hesitates, but takes the money.
+
+                   WALLACE
+                   
+     Thanks.
+
+                   CHEN
+                   
+     Remember. Don't say anything. Let me deal with 
+     the Feds. Alright? 
+
+Wallace nods and heads for his car.
+
+INT: AMY SAN'S BEDROOM, BROOKLYN-DAY
+
+Jack and Amy watch TV when Chen breaks in the 
+window beside them. Jack grabs for his gun but Chen 
+pins his arm to the wall.
+
+                   CHEN
+                   
+           Hard to find, Jack.
+
+Chen grabs Jack's gun and slides it into his own belt.
+
+                   CHEN
+                   
+     Tell her to take in a movie. 
+
+Jack utters a few words in Fukienese and the young 
+girl grabs her clothes and hurries out of the room.
+
+                   JACK
+                   
+     I wanted to call. I couldn't.
+
+                   CHEN
+                   
+     Now I'm here. So what did you want to tell me about 
+     Benny Wong?
+
+EXT: JACOBI HOSPITAL, BRONX-LATER (DAY)
+
+Wallace stops in the no parking section in front of the 
+clinic. He pops the "police tag" on the dash, gets out 
+and heads inside.
+
+EXT: JACOBI HOSPITAL STREET - DAY
+
+Across the street, two FEDS snap photos of Wallace 
+from a van.
+
+INT: JACOBI HOSPITAL, BRONX- DAY
+
+Wallace approaches the front desk when someone 
+calls his name.
+
+                   VOICE (O.S.)
+                   
+     Daniel Wallace.
+     Wallace turns and sees the two Feds moving toward 
+     him. He quickly hands the envelope to the RECEPTIONIST.
+
+                   WALLACE
+                   
+     Would you pass this letter to my father in room 409? 
+     Sean Wallace.
+
+Before she can answer, the Feds are on him flashing 
+badges as the larger Agent reaches for Wallace's gun.
+
+                   WALLACE (cont'd)
+                   
+     Back off.
+
+                   LARGE AGENT
+                   
+     Don't be an asshole.
+
+He again reaches for Wallace's gun but Wallace 
+pushes him off.
+
+                   WALLACE
+                   
+     You don't touch my gun or my badge dipshit. I work 
+     in the Fifteenth.
+
+Wallace stares at the two agents.
+
+                   SMALLER AGENT
+                   
+     Fine. Let's just get out of here quietly. There's a 
+     couple questions we'd like to ask you.
+
+Wallace continues to stare, then...
+
+                   WALLACE
+                   
+     My father.
+
+                   AGENT
+                   
+     We'll have someone on his door.
+
+After a moment, Wallace turns to the flustered 
+Receptionist holding the envelope.
+
+                   WALLACE
+                   
+     Thank you.
+
+He then walks toward the door with the two Feds 
+behind him.
+
+INT: AMY SAN'S BEDROOM, BROOKLYN-SAME (DAY)
+
+Chen leans against the wall as Jack puts on his 
+clothes.
+
+                   CHEN
+                   
+     Then everybody split up?
+
+                   JACK
+                   
+     Yeah.
+
+                   CHEN
+                   
+     Good. You're under arrest.
+
+                   JACK
+                   
+     What?!
+
+Chen slaps on the cuffs and turns the kid around.
+
+                   CHEN
+                   
+     You're gonna tell the Feds you've been working with 
+     Wallace and me. That the hit on Benny Wong was 
+     Fukienese and you're eager to testify against 
+     Bobby Vu. Do it right and I'll back you on trying to 
+     tip me before the hit. Do it wrong, I'll go out of my 
+     way to bury you.
+
+Chen hustles the kid out the door.
+
+18. WALLACE'S SECRET
+--------------------
+
+INT: SCHABACKER'S OFFICE, FEDERAL BUILDING-DAY
+
+Wallace sits alone in the office looking at the stack of 
+photos depicting his actions over the past few days. 
+He also sees photos of Chen with May. He looks at the 
+young girl and recognizes her from the raid on the 
+Ginza Massage.
+
+He looks up as a pissed off Schabacker and  NYPD 
+Internal Affairs Inspector Vince Kirpatrick enter the 
+tiny room.
+
+                   SCHABACKER
+                   
+     Why the fuck didn't you tell me you were Internal 
+     Affairs?
+
+                   WALLACE
+                   
+     Confidential undercover assignment. The key word 
+     being confidential. Which nothing in the Bureau is.
+
+                   SCHABACKER
+                   
+     Fuck you.
+
+                   KIRPATRICK
+                   
+     Nobody knows except a few of us in IA. Not even 
+     the commanding officer in the Fifteenth knows.
+
+                   SCHABACKER
+                   
+     Well now I know. 
+
+Schabacker looks at Wallace.
+
+                   SCHABACKER
+                   
+     A bagman's kid, Internal Affairs. You're old man 
+     must think you're a real scumbag.
+
+                   WALLACE
+                   
+     I know what he thinks of Feds.
+
+                   SCHABACKER
+                   
+     Yeah, yeah. So what have you got on Chen?
+
+                   WALLACE
+                   
+     This isn't a federal case. So there's no reason to 
+     tell you anything.
+
+                   SCHABACKER
+                   
+     Yes, there is. Cause from where I'm sitting it looks 
+     to me like a young, I.A. rat went under to build a case 
+     against Nick Chen and ended up working for him.
+
+                   KIRPATRICK
+                   
+     You're reaching.
+
+                   SCHABACKER
+                   
+     Enjoying for himself the Chinatown whores and a 
+     little financial assistance to help with a family 
+     gambling problem.
+
+                   KIRPATRICK
+                   
+     Don't even start with that.
+
+One of the arresting Agents enters the room.
+
+                   SCHABACKER
+                   
+     I'll start and finish with it unless somebody hands 
+     me Chen.
+
+                   AGENT
+                   
+     He's here.
+
+                   SCHABACKER
+                   
+     Who's here?
+
+                   AGENT
+                   
+     Chen.
+
+INT: CONFERENCE ROOM, FEDERAL BUILDING-CONTINUOUS (DAY)
+
+Chen and Jack sit as Schabacker enters the room.
+
+                   CHEN
+                   
+     Hello, Pete.
+
+                   SCHABACKER
+                   
+     Hello, Nick...Who's your friend?
+
+                   CHEN
+                   
+     A snitch of Wallace's and mine. He's an eye witness 
+     to the Benny Wong murder.
+
+Schabacker sits back into his chair and offers Chen 
+some nuts.
+
+                   SCHABACKER
+                   
+     Cashews?
+
+They both sit, munching their nuts.
+
+                   SCHABACKER
+                   
+     Eye witness...And you brought him here to me? 
+     Why?
+
+                   CHEN
+                   
+     You know why.
+
+The two cops sit looking at one another.
+
+INT: SCHABACKER'S OFFICE, FEDERAL BUILDING-LATER (DAY)
+
+The same crew as before sit when Schabacker re-enters.
+
+                   SCHABACKER
+                   
+     My compliments, Wallace. You must've sunk your 
+     hooks into Chen pretty good.
+
+                   WALLACE
+                   
+     What'd he want?
+
+                   SCHABACKER
+                   
+     To trade for you.
+
+                   KIRPATRICK
+                   
+     He said that?
+
+                   SCHABACKER
+                   
+     Not in so many words. He brought that Fuke snitch 
+     of yours who rode shotgun on the Benny Wong killing. 
+     He gives me the eye witness, I call off the FBI 
+     investigation on Wallace. Wallace feels more like a 
+     shit as Schabacker talks.
+
+                   KIRPATRICK
+                   
+     What'd you tell him?
+
+                   SCHABACKER
+                   
+     I told him fine. We're puttin the kid on the 
+     street to get the rest of the Fukes on tape talking 
+     about the hit on Benny Wong. And in return, I'm 
+     not going to press charges against young Wallace 
+     here.
+
+                   WALLACE
+                   
+     Is he still here?
+
+                   SCHABACKER
+                   
+     He took off.
+
+Schabacker leans back in his chair and smiles at 
+Wallace.
+
+                   SCHABACKER
+                   
+     You gotta promise me I can be there when you 
+     break the bad news to Chen. That's gonna be 
+     priceless.
+
+Wallace feels a heavy weight lay across his shoulders.
+
+EXT: SOUTHERN MANHATTAN-NIGHT
+
+Establishing. Clouds drift over the city making the 
+familiar landmarks almost unrecognizable.
+
+INT: WALLACE APARTMENT, BEDROOM-NIGHT
+
+Wallace opens a safe box he has on the bed. Inside 
+are audio tapes. Dates and names written across the 
+labels. Chen's on most. Lee on others. He grabs a 
+blank tape and pops it into a recorder.
+
+He crosses to a mirror, opens his belt hides the 
+recorder in his underpants. He buckles up and runs a 
+wire up his chest. He gently tapes it to the inside of 
+his shirt, then buttons up.
+
+He tucks in the shirt tails and repositions the 
+recorder. Finished, he stares at himself. Not liking 
+what he sees.
+
+                   SEAN WALLACE
+                   
+     Your wire's showin. 
+
+Wallace turns and sees his father leaning against the 
+doorway. Sean walks over and roughly fixes his son's 
+shirt. Wallace pulls away and fixes it himself.
+
+                   SEAN WALLACE
+                   
+     How long you been I.A.?
+
+                   WALLACE
+                   
+     First assignment.
+
+                   SEAN WALLACE
+                   
+     Quickest way to a gold shield.
+
+Wallace doesn't say a word.
+
+                   SEAN WALLACE
+                   
+     And all you've got to do is bury your partner. The guy 
+     who shoved ten grand in your fist to back your play. 
+
+Wallace looks at his father, wonders how he knows.
+
+                   SEAN WALLACE (cont'd)
+                   
+     I figure you ain't worth much to the chinks yet, 
+     so this must be Chen's money.
+
+Wallace's lack of a response tells his father he's right.
+
+                   SEAN WALLACE (cont'd)
+                   
+     And you're gonna bury him. And for what? Turning his 
+     head and makin a few dollars.
+
+                   WALLACE
+                   
+     I know that wouldn't mean much to you. Lyin and 
+     cheatin are what you're made of.
+
+                   SEAN WALLACE
+                   
+     And it's a hell of a lot better than what you're 
+     made of.
+
+                   WALLACE
+                   
+     You don't know what I'm made of. It's the one thing 
+     I should thank you for, your lack of interest.
+
+                   SEAN WALLACE
+                   
+     Yeah you've been real honest with your partner.
+
+Wallace looks away from his father.
+
+                   WALLACE
+                   
+     End justifies the means.
+
+                   SEAN WALLACE
+                   
+     The end is bullshit. The means are what you live 
+     with.
+
+Sean reaches into his jacket, holds out Chen's money 
+and tosses it on the floor.
+
+                   SEAN WALLACE
+                   
+     Keep it. I don't want anything from you.
+
+Sean Wallace turns out of the room. His son looks 
+back in the mirror and does a last adjustment on his 
+wire. 
+
+He then reaches for the cologne on the dresser, 
+splashes some into his palm and hurls the bottle 
+against the wall.
+
+INT: GAMBLING PARLOR - LATER (NIGHT)
+
+The joint is packed. At a center table Chen is teaching 
+Wallace and two beauties named KIM and TAI, the 
+finer points of Pai Gou. One of the girl's got a hot hand 
+and can't seem to make a wrong move.
+
+                   CHEN
+                   
+     Unbelievable.
+
+                   WALLACE
+                   
+     What are we doing here?
+
+                   CHEN
+                   
+     Celebrating. You just got off death row.
+
+INT: HOTEL SUITE - LATER (NIGHT)
+
+The foursome slide into the dimly lit room with 
+bottles of champagne in tow. Chen and Kim are 
+already halfway to one of the bedrooms before 
+Wallace has the door locked.
+
+He turns and Tai has herself draped over him with her 
+hands headed for his crotch. He holds her off, 
+conscious of the recorder.
+
+                   WALLACE
+                   
+     Wait, wait, wait.
+
+She looks at him confused.
+
+                   TAI
+                   
+     You don't like me?
+
+Wallace looks at the beauty and kisses her full on the 
+mouth.
+
+                   WALLACE
+                   
+     I got to go to the bathroom first.
+
+INT: HOTEL BATHROOM - CONTINUOUS (NIGHT)
+
+Wallace, drunk, locks the door behind him. He splashes 
+water on his face, then glances up at himself in the 
+mirror.
+
+                   WALLACE
+                   
+     What the fuck're you doin?
+
+He then takes off the wire and removes the recorder 
+from his shorts. He takes off his jacket, puts the 
+device in the inside pocket and rolls it up. 
+
+INT: HOTEL LIVING ROOM - NIGHT
+
+He heads back into the living room but Tai isn't there. 
+He walks toward the bedroom and peeks inside.
+
+INT: HOTEL BEDROOM - NIGHT
+
+Lying on the bed is Tai and Kim.
+
+                   WALLACE
+                   
+     Where's Nick?
+
+                   KIM
+                   
+     He left. He said he wanted you to be very happy.
+
+She dims the lights. Wallace hesitates, then drops his 
+jacket and walks toward the bed. He climbs between 
+the women and closes his eyes.
+
+19. THE SNARE IS SET
+--------------------
+
+EXT: PEARL STREET-NIGHT
+
+Henry Lee and the Sumo move across the street and 
+descend through a loading door in the sidewalk.
+
+INT: BASEMENT-CONTINUOUS (NIGHT)
+
+Lee and the Sumo reach a door and the Sumo knocks. 
+Jack answers and lets them inside.
+
+INT: FUKIENESE CRASH PAD - PEARL STREET - NIGHT
+
+A dozen Fukienese are there, from Bobby Vu to the 
+newest groupie.
+
+                   LEE
+                   
+     The police are running in circles on the unfortunate 
+     death of Uncle Benny. 
+
+Jack tries to slowly position himself near Lee and 
+Bobby Vu.
+
+                   BOBBY VU
+                   
+     We want money. We didn't kill him for nothing.
+
+                   LEE
+                   
+     It's time to bring the cargo ship to port and unload our 
+     freight. One hundred eighty-six, at forty thousand a 
+     piece. I'd say that's a nice start to our relationship, 
+     wouldn't you?
+
+INT: HOTEL, BEDROOM - MORNING (DAY)
+
+Clock reads five AM. Wallace lies unconscious on the 
+bed. Near the door, Kim takes the money from his 
+wallet as Tai pulls the crumpled bills from his pants.
+She grabs his jacket, unrolls it and checks every 
+pocket. She stops when she hits the recorder.
+They whisper intently to each other, then quickly 
+return the recorder and the money to where they 
+found them. Within seconds they're gone.
+
+INT: CHEN'S APARTMENT, BEDROOM - MORNING (DAY)
+
+Chen carries a tray with soup and tea toward the bed 
+where May rests.
+
+                   CHEN
+                   
+     (Cantonese)
+     How you feeling?
+
+                   MAY
+                   
+     (Cantonese)
+     Good.
+
+Chen pours the tea and she reaches out to touch his 
+hand.
+
+                   MAY
+                   
+     (Cantonese)
+     Thank you.
+
+Chen looks at her, then hands her the cup. He watches 
+her drink...then finally speaks.
+
+                   CHEN
+                   
+     (Cantonese)
+     You have family here, friends?
+
+                   MAY
+                   
+     (Cantonese)
+     No one. Everybody home...everybody.
+
+Chen watches the tears fall from May's eyes as she 
+drinks and thinks of home. 
+
+INT: BENEVOLENT ASSOCIATION, LARGE OFFICE - MORNING 
+(DAY)
+
+Lee sits behind a large desk when Chen sits across 
+from him.
+
+                   CHEN
+                   
+     Only time I was ever in here I was talking to 
+     Benny Wong.
+
+                   LEE
+                   
+     He was a great man.
+
+                   CHEN
+                   
+     You'd know better than anyone.
+
+                   LEE
+                   
+     But even a great man can out last his time.
+
+Chen studies Lee and lights a smoke.
+
+                   LEE
+                   
+     I've got something for you. Should quiet any 
+     doubts as to Wallace's character...The Fukes are 
+     bringing in a highly valuable cargo by ship.
+
+                   CHEN
+                   
+     That was a short partnership.
+
+                   LEE
+                   
+     Bobby Vu will be on-site supervising the unloading. 
+     Take the Fukes and half the shipment. I'll keep the 
+     other half.
+
+                   CHEN
+                   
+     You're getting greedy.
+
+                   LEE
+                   
+     I'm an American.
+
+INT: HOTEL BEDROOM - AFTERNOON
+
+Clock reads 1pm. Wallace is still sleeping in the dark 
+when sunlight explodes throughout the room with a 
+WHOOSH!
+
+                   CHEN
+                   
+     Let's go. We got to pick up Jack and deliver him to the 
+     Feds.
+
+                   WALLACE
+                   
+     What time is it?
+
+                   CHEN
+                   
+     Time for a shower. You stink.
+
+Chen lifts the mattress, spilling Wallace out of the 
+bed. He then pops a cig into his mouth and checks his 
+pants for a match...None.
+
+                   CHEN
+                   
+     You got a match?
+
+Chen picks up Wallace's jacket and reaches into one 
+of the pockets. Wallace's eyes snap to attention as he 
+quickly grabs a book of matches from the ashtray on 
+the night stand.
+
+                   WALLACE
+                   
+     Here.
+
+He tosses the pack and Chen catches it. Wallace 
+watches him drop the jacket to the floor. His heart 
+skips when he hears a tink as the recorder hits the 
+tile...Chen doesn't notice.
+
+                   CHEN
+                   
+     You know you were right.
+
+                   WALLACE
+                   
+     About what?
+
+Wallace crosses over, picks up his clothes.
+
+                   CHEN
+                   
+     I wish it was neither of us. But truth is, I'm glad it's 
+     not just me.
+
+Wallace looks at Chen, then heads for the bathroom.
+
+INT: BLUE EMPRESS CAFE - AFTERNOON
+
+Tai and Kim talk to the Sumo who's sullen expression 
+grows darker. He hands each girl a c-note and 
+disappears into the cafe.
+
+INT: FEDERAL BUILDING, CONFERENCE ROOM-LATE 
+AFTERNOON
+
+Wallace, Chen and Jack sit waiting.
+
+                   CHEN
+                   
+     You sure it was Henry Lee?
+
+                   JACK
+                   
+     It was him.
+
+Chen looks at Wallace as Schabacker and a middle-
+aged WOMAN with short red hair enter the room.
+
+                   SCHABACKER
+                   
+     Everybody knows U.S. Attorney Margaret Wheeler?
+
+                   MARGARET
+                   
+     The tape is good. Probably enough for convictions on 
+     Bobby Vu and the rest. But I think we hold off until 
+     they make their move to bring in the illegal 
+     shipment. We bust 'em on the ship. Then we go for 
+     the murder charge, the smuggling rap and with 
+     Jack here connecting the dots to an ongoing criminal 
+     enterprise, we meet our racketeering requirements 
+     and get life sentences.
+
+                   CHEN
+                   
+     What about Henry Lee?
+
+                   SCHABACKER
+                   
+     What about him, Nick?
+
+Wallace watches Schabacker play with Chen. He 
+doesn't like it.
+
+                   CHEN
+                   
+     Do we have a case, Pete?
+
+                   MARGARET
+                   
+     There's enough to drag him before a grand jury, 
+     but it's gonna be his word against their word 
+     and he'll win. We wait till after the shipment 
+     comes in, then the tape's got merit.
+
+                   SCHABACKER
+                   
+     What do you think, Danny?
+
+Wallace looks at Schabacker, who's smiling through it 
+all.
+
+                   WALLACE
+                   
+     It's Margaret's call.
+
+                   MARGARET
+                   
+     Then we wait. Everybody's on around the clock. 
+     As soon as Jack finds out when delivery is set, 
+     we'll reconvene and organize the arrest. Margaret 
+     is first out of her seat.
+
+                   SCHABACKER
+                   
+     Nick...after we bust the Fukes, you, Danny and me 
+     should get together... Bury the hatchet. What do you 
+     think?
+
+                   CHEN
+                   
+     I can't wait.
+
+                   SCHABACKER
+                   
+     Me neither. How 'bout you, Dan? You up for it?
+
+Schabacker smiles at Wallace.
+
+                   WALLACE
+                   
+     Sure.
+
+Wallace pushes past Schabacker and strides out of 
+the room.
+
+20. NICK LEARNS THE TRUTH
+-------------------------
+
+INT: CROWN VICTORIA-DAY
+
+Chen and Wallace cruise Chinatown in the big blue 
+Ford. Both men drive without saying a word.
+
+                   CHEN
+                   
+     What do you think about Lee?
+
+                   WALLACE
+                   
+     I think if Jack's tape buries him it's his fault for 
+     trying to be too smart for his own good.
+
+                   CHEN
+                   
+     And how long you think it'll take him to trade for us?
+
+                   WALLACE
+                   
+     You thirsty? I'm thirsty.
+
+Wallace pulls the car in front of a fire hydrant and 
+tosses the police tag on the dash.
+
+INT: JIMMY LOO'S - CONTINUOUS DAY
+
+Wallace and Chen pull up stools as the BARTENDER 
+crosses over.
+
+                   CHEN
+                   
+     Bacardi and Coke.
+
+                   WALLACE
+                   
+     Bud. I'm buying.
+
+Wallace puts his money on the bar. Both men seem to 
+have something on their minds.
+
+                   CHEN
+                   
+     I gave that Fed to Lee.
+
+Wallace looks at Chen.
+
+                   WALLACE
+                   
+     I know.
+
+The bartender brings the drinks. Both wait for the 
+man to move on.
+
+                   CHEN
+                   
+     I'm gonna have to answer for him some day.
+
+                   WALLACE
+                   
+     We all have something to answer for.
+
+                   CHEN
+                   
+     Yeah.
+
+They sit quietly...until Chen's pager goes off. He 
+checks the number.
+
+                   CHEN
+                   
+     Speak of the devil.
+
+                   WALLACE
+                   
+     Lee?
+
+                   CHEN
+                   
+     Yeah. Order me another.
+
+Chen picks up his drink and crosses to the phone. He 
+pumps in a quarter, dials and waits.
+
+                   CHEN
+                   
+     It's Chen, get me Lee.
+
+Chen finishes the drink as he waits.
+
+                   LEE (PHONE)
+                   
+     Where've you been. I've been paging you all 
+     morning.
+
+                   CHEN
+                   
+     What do you want?
+
+                   LEE (PHONE)
+                   
+     Wallace is Internal Affairs.
+
+Chen feels his stomach tighten, but he's not sure he 
+got it right.
+
+                   CHEN
+                   
+     What?
+
+                   LEE (PHONE)
+                   
+     You heard me.
+
+                   CHEN
+                   
+     I don't believe it.
+
+                   LEE (PHONE)
+                   
+     Your girlfriends found a wire on him last night. I 
+     checked it out and the fuck is making a case 
+     against you.
+
+The words hit Chen like a freight train. He stands 
+speechless. His insides reeling as he looks over at his 
+partner.
+
+                   LEE (PHONE)
+                   
+     You there?
+
+                   CHEN
+                   
+     Yeah.
+
+                   LEE (PHONE)
+                   
+     Who knows how long he was wired...He's got to go.
+     Chen's breath grows heavy as his eyes stare vacantly 
+     at Wallace, who's working a beer.
+
+                   LEE (PHONE)
+                   
+     You kill him tonight.
+
+Chen can't answer either way, he's not even sure if 
+it's real or a dream.
+
+                   LEE (PHONE)
+                   
+     The Fukes are taking delivery in one hour. Pier 
+     25 at Port Imperial in Jersey, a ship called the 
+     DORIAN. Take him along and make sure he doesn't 
+     leave the boat...you understand me? I don't 
+     give a shit about the cargo, the Fukes, nothing. 
+     Just make sure Wallace is dead. Are we clear?
+     Chen doesn't answer, he just keeps looking at 
+     Wallace, who's looking back at him now.
+
+                   LEE (PHONE)
+                   
+     He'll hang us both.
+
+                   CHEN
+                   
+     Yeah. I understand.
+
+                   LEE
+                   
+     Kill him.
+
+Chen hangs up. He looks at Wallace, then pushes 
+into...
+
+INT: JIMMY LOO'S BATHROOM - DAY
+He stands in the tiny room, half looking in the mirror, 
+half looking nowhere. Eyes darting, mind racing.  He 
+turns on the water and runs it across his face, but it 
+doesn't really help.
+
+He reaches for a hand towel but it's stuck in the 
+dispenser. He rips down on the towel with all the 
+rage, frustration and anger inside him, tearing the 
+metal dispenser from the wall and slamming it into 
+the sink, the wall and finally to the ground. He then 
+tries to steady himself, but he's too upset. But then 
+his pager goes off. He calms himself, checks the 
+number...then dials. A voice answers.
+
+                   CHEN
+                   
+     Jack...slow down...tonight, Pier 25, the Dorian. You did 
+     good, Jack. Where are you?...No, I'll contact the 
+     F.B.I. I want you to stay at your girlfriend's, don't talk 
+     with anyone. After we pick up the others, I'll come for 
+     you.
+
+Chen hangs up. He takes a breath and looks at himself 
+in the mirror. He runs his hands through his hair and 
+slowly exits back into the bar.
+
+INT: JIMMY LOO'S -DAY
+
+His eyes stay on Wallace as he crosses the room. Only 
+now they look like he wants to kill him right there. He 
+sits beside his partner.
+
+                   WALLACE
+                   
+     Get a hold of him?
+
+Chen takes a healthy gulp from his new drink.
+
+                   CHEN
+                   
+     Yeah.
+
+                   WALLACE
+                   
+     Did you tell him about the tape?
+
+                   CHEN
+                   
+     No.
+
+                   WALLACE
+                   
+     What'd he want?
+
+Chen looks directly into Wallace's eyes. It takes him a 
+moment to get the words out of his throat.
+
+                   CHEN
+                   
+     He wanted to tell me that the Fuke's are picking up 
+     their shipment in an hour, in Jersey.
+
+                   WALLACE
+                   
+     Shit, we gotta move. Did you call the Feds?
+
+                   CHEN
+                   
+     Yeah. They're going to meet us there.
+
+Chen finishes his drink and the two cops cross for the 
+door.
+
+21. THE SHIPYARD
+----------------
+
+EXT: PORT IMPERIAL, DOCK 25-DUSK
+
+A huge container ship sits silently at dock. We 
+focus closer on the Wheelhouse.
+
+EXT: DOCK - NIGHT
+
+Through night vision goggles we see the 
+adjacent parking lot. All seems calm at the 
+moment.
+
+INT: WHEELHOUSE - NIGHT
+
+Chen stands quietly in the darkness looking 
+through the night vision goggles.
+
+                   CHEN
+                   
+     No sign of anybody.
+
+He turns and hands the goggles to Wallace.
+
+                   CHEN (cont'd)
+                   
+     Have a look.
+
+Wallace takes up the post as Chen steps back into the 
+shadows.
+
+                   WALLACE
+                   
+     Lee said an hour, right?
+
+                   CHEN
+                   
+     Yeah...still nothin'?
+
+                   WALLACE
+                   
+     Nope.
+
+                   CHEN
+                   
+     You sure?
+
+                   WALLACE
+                   
+     Yup...all clear.
+
+There's a long pause. We watch Chen's face turn to 
+stone.
+
+                   CHEN
+                   
+     How about Internal Affairs?
+
+Wallace flinches but covers.
+
+                   WALLACE
+                   
+     What?
+
+                   CHEN
+                   
+     I forgot to mention it. Lee thinks they're making a 
+     case against someone in the fifteenth.
+
+                   WALLACE
+                   
+     (while continuing looking through the goggles)
+     Who?!
+
+                   CHEN
+                   
+     He didn't know. Maybe it's just a rumour.  You hear 
+     anything?
+     
+Wallace is about to answer when he sees a 
+tractor trailer pull into the lot.
+
+                   WALLACE
+                   
+     They're here. Take a look.
+
+He turns to give the goggles to Chen.
+
+                   CHEN
+                   
+     No- you keep watching. We've got to let 'em lead 
+     us to the cargo.
+
+EXT: CONTAINER SHIP - NIGHT
+
+Through the goggles we Bobby Vu and the others 
+be met by a shipman and led to the far end of 
+the boat. 
+
+                   WALLACE
+                   
+     They're heading away from us.
+
+INT: WHEELHOUSE - NIGHT
+
+Chen quietly cocks his gun and points it at the back of 
+Wallace's head.
+
+                   CHEN
+                   
+     What would you do if you knew I.A. had a case 
+     against you? Would you run?
+
+                   WALLACE 
+                   
+     (increasingly uncomfortable)
+     I don't know what I'd do. What would you do?
+
+Wallace is unaware of Chen standing directly 
+behind him, sweat building on his face- ready to 
+pull the trigger.
+
+                   CHEN
+                   
+     You mean after I killed whoever ratted on me?
+
+Wallace's blood turns to ice. He lowers the goggles, 
+turns slowly and comes face to face with the barrel 
+of Chen's gun. It's instantly clear Chen knows all.
+
+                   CHEN
+                   
+     You should have let me die in the car that day. At 
+     least then I die a cop.
+
+                   WALLACE
+                   
+     You are a cop- a good cop. And I'll tell anyone who 
+     asks.
+
+Chen hesitates. Not sure what to believe.
+
+                   CHEN
+                   
+     And you?
+
+                   WALLACE
+                   
+     I don't know what I am. All I know is you saved me 
+     and you saved my father. My life is really yours to 
+     do with as you wish. 
+
+His words hang heavy in the air...and then Chen fires. But 
+not at Wallace. He fires past his head, through the glass 
+of the wheel house and hits the FUKENESE gangster who 
+was about to blow them away with an assault rifle. A 
+beat, and automatic fire comes from another window, 
+spraying the wheelhouse with hot metal. 
+
+Wallace takes out the shooter as Chen flies out the door. 
+
+Momentarily dazed, Wallace recovers, scrambles 
+to his feet- looks around, but Chen has disappeared. 
+
+INT/EXT: FUNNEL CHAMBER - NIGHT
+
+Wallace enters slowly and traverses the three 
+storey high metal grate walkways. WE HEAR only 
+the clank of his feet as he descends deep into 
+the ship.
+
+INT: ELECTRICAL ROOM - NIGHT
+
+Chen moves stealthily passed the huge humming 
+generators, slowly approaching each blind 
+curve. HE HEARS what sounds like the distant cry 
+of an infant. He keeps moving
+
+VIDEO SURVEILLANCE P.O.V. - NIGHT
+
+We see Chen move through the room towards 
+the exit. An arm carrying an UZI passes in front 
+of the camera.
+
+INT: ANCHOR ROOM - NIGHT
+
+Wallace cocks his ear to the same sound as he 
+moves through the room dominated by the giant 
+chains that connect to the lowered anchors. Just 
+at that moment a Fuke moves out from behind 
+the casing and gets off a shot that cuts right 
+through Wallace's left hand. He yelps in pain as 
+he takes cover, rips the sleeve of his shirt to 
+stem the bleeding, then waits for the Fuke to 
+make his move. He does- Wallace stands right up 
+at him and takes him out in a fierce exchange.
+
+INT: ENGINE ROOM FIRST FLOOR - NIGHT
+
+The cavernous energy center of the ship. Four 
+storey's high. A cacophony of the brute force of 
+the engines and the steel walkways that 
+encircle them.
+
+Chen comes out on the bottom level. All seems 
+quiet, except for what seems like the distant 
+hum of human whispering. He moves slowly out 
+into the open. The place seems empty until 
+suddenly a shape appears on the metal catwalk 
+two storey's above. He turns with lightening 
+speed- points, ready to shoot at...Wallace.
+
+There's a tense standoff. Neither wants to lower 
+their weapon first. The sound of distant 
+murmuring grows louder until suddenly the 
+standoff is ended by a common enemy. Wallace 
+whips around and sends a fuke who was about 
+to shoot him flying back against a wall. Chen 
+suddenly finds a Fuke charging down metal 
+stairs towards him. He blasts him before he can 
+get a shot off- the Fukes lifeless body 
+toboganning down to land at Chen's feet. 
+
+One holdout, BLACK EYES, equipped with an AK47 
+on the top floor will not be taken out. Like some 
+madman on crack he sprays crazily in every 
+direction until finally Chen just goes for it 
+stepping out into the open and pummeling BLACK 
+EYES with bullets. A pipe behind the Fuke 
+explodes with steam, enveloping Black eyes who 
+falls limply onto a vertical crane. Chen and 
+Wallace relax a beat and then BANG! Black Eyes 
+is up and charging Wallace. Chen is faster, 
+spraying him with everything left in his weapon, 
+hitting and igniting a fuel pipe which spills out 
+it's fiery liquid setting BLACK EYES aflame. The 
+dying Fuke grabs onto some hanging rope and in 
+a last defiant act, swings down the three 
+storeys all the time firing and coming almost 
+face to face with Chen before being finally 
+silenced- his incinerated corpse landing at 
+Chen's feet.
+
+Wallace scans the area while he descends the 
+stairs towards Chen. There are no Fukes in sight. 
+The human murmuring grows louder. Without 
+speaking, Chen and Wallace move towards the 
+source of the sounds.
+
+INT: PASSAGEWAY ANTEROOM - NIGHT
+
+Chen and Wallace move slowly down the few 
+steps to a heavy steel door beyond which the 
+sounds seems to emanate. With silent gestures 
+they work like the partners they've become. 
+Wallace opening the door and stepping back, 
+covering Chen as he makes his move.
+
+INT: PASSAGEWAY - NIGHT
+
+Nothing could have prepared them for what they 
+find on the other side of the door. There, as far 
+as the eye can see, running the entire length of 
+the ship, is the cargo Lee awarded the Fuke's. 
+Several hundred illegal Chinese immigrants 
+huddled together in unspeakable conditions, 
+stuffed into a tiny opening that resemble's an 
+endless train compartment. Their dark vacant 
+eyes stare back at the shocked cops who move 
+cautiously through the passageway. It doesn't 
+take long for the remaining Fuke's to make their 
+presence known with a bullet destined for Chen, 
+and intercepted by the back of an innocent 
+young male immigrant.
+
+Chen, Wallace and the desperate group of 
+illegals flatten themselves against the sides of 
+the corridor. SILENCE
+
+Chen steps out quickly as if to take a shot, but 
+it's a sucker punch as he immediately tucks 
+himself back in then out again just in time to 
+duck the bullet from a Fuke and plant his own 
+squarely in the gangster's chest.
+
+Chen ducks back behind the steel separators 
+that occur about every twenty feet in the 
+passageway. Wallace is one "compartment" 
+back. A young boy, no more than six years old, 
+drifts out into harm's way. Wallace reaches out 
+quickly and pulls him to his side. While Wallace 
+keeps quard, the kid holds onto his hand and 
+begins to sympathetically rub his bandage- his 
+eyes pleading for salvation of any kind. Chen 
+looks back sees this and Wallace's empathic 
+reaction to pat the young kid on the head. Chen 
+hesitates a second, then...
+
+                   CHEN
+                   
+     (whisper)
+     Wallace...
+
+Wallace snaps to. Chen indicates for him to 
+follow as he sprints out and moves quickly down 
+the narrow tunnel past the endless collection of 
+immigrant pawns. We see their desperation not 
+only in their faces, but in their pathetic little 
+bundles that contain all their worldly 
+belongings. They mutter Cantonese pleas.
+
+                   CHEN AND WALLACE
+                   
+     (Cantonese)
+     Quiet...quiet.
+
+They come to a stop. Listen a moment to the 
+silence.
+
+                   WALLACE
+                   
+     Maybe that's all of them.
+
+                   CHEN
+                   
+     Bobby Vu's here, and he'll never leave without us.
+
+                   WALLACE
+                   
+     Without you.
+
+Wallace moves out quickly out into the 
+passageway as if taunting Vu to make his move. 
+He stops two compartments down. Chen is one 
+compartment behind. They exchange looks. Chen 
+indicates to "stay put".
+
+Wallace peaks out from behind the steel. One of 
+the oldest women in the hold, a grandmotherly 
+face of China, motions for 
+Wallace to come closer.
+
+                   GRANDMOTHERLY TYPE
+                   
+     (Cantonese)
+     Come here, boy. Come to me.
+
+                   WALLACE
+                   
+     (Cantonese)
+     What?
+
+                   GRANDMOTHERLY TYPE
+                   
+     (Cantonese)
+     I know where they are.
+     
+                   WALLACE
+                   
+     Where?
+
+                   GRANDMOTHERLY TYPE
+                   
+     Come here.
+
+Chen watches as Wallace moves out and 
+approaches the woman. Suddenly the image 
+goes into hyper slo-mo. We see the woman 
+mouthing the Cantonese words for "come here". 
+Back on Chen, there suddenly something wrong. 
+He looks closely at the old woman, and then, 
+operating purely on instinct, he races forward.
+
+                   CHEN
+                   
+     NO!!!!!
+
+Just as Wallace steps up to the woman, CHEN 
+pushes Wallace aside and takes the automatic 
+fire that Bobby Vu shoots from behind an 
+innocent skirt. Wallace immediately raises his 
+gun and fires two in the chest and one in the 
+head. Just like Chen taught him. Bobby Vu's body 
+hits the floor with a thud. Dead.
+
+Wallace looks down at Chen as the blood begins 
+spreading out around him. Quickly, he kneels 
+beside his partner, gathers him in his arm and 
+tries to control the bleeding, but the wound is 
+deep. He turns toward a commotion at the 
+entrance to the tunnel and sees a bunch of Feds 
+and uniforms heading towards him.
+
+                   WALLACE
+                   
+     Bring a stretcher!! (to Chen) Come on, hang on.
+
+                   CHEN
+                   
+     Shit.
+
+Chen tries to catch his breath, but he can't seem to.
+
+                   WALLACE
+                   
+     You're alright. You're OK.
+
+Chen's body spasms from the pain.
+
+                   WALLACE
+                   
+     I'm sorry.
+
+Chen grabs hold of Wallace's hand.
+
+                   CHEN
+                   
+     Who sends a white cop undercover in Chinatown?
+
+Wallace looks into Chen's eyes. He's fading in and out.
+
+                   WALLACE
+                   
+     (leaning close)
+     Nick...can ya hear me?
+
+                   CHEN
+                   
+     (barely conscious)
+     Mmmm...
+
+                   WALLACE
+                   
+     Nick...it's just you and me...I'm your partner.
+
+A tiny smile escapes from Chen just before he loses 
+consciousness and is surrounded by an EMS team.
+
+22. FINAL HONOR
+---------------
+
+INT: HOSPITAL CORRIDOR-DAY
+
+Kirpatrick, a manila envelope in his hand, rushes down the hallway 
+with Schabacker.
+
+They hurry to the Intensive Care ward stopping outside a room where 
+a uniformed OFFICER stands guard. Through the window in the door 
+they can see Wallace leaning close to Chen who lies motionless in the 
+bed.
+
+                   SCHABACKER
+                   
+     (to the OFFICER)
+     Get Wallace out here.
+
+The Officer doesn't move so Schabacker pulls out his FBI badge and 
+shoves it close to the cops face.
+
+                   SCHABACKER
+                   
+     Now.
+
+The Officer gets up slowly from his chair as the door swings open and 
+Wallace exits from the room. He looks at the two men then starts 
+down the hall when Kirpatrick slaps him across the chest with the 
+manila envelope.
+
+                   KIRPATRICK
+                   
+     What's this bullshit?
+
+                   WALLACE
+                   
+     Exactly what it says. That after a month 
+     long investigation, there's no evidence to 
+     support any charges against Lt. Nicholas 
+     Chen.
+
+                   SCHABACKER
+                   
+     You think you can get away with this 
+     forget it. He's responsible for the death of 
+     a Federal Agent.
+
+An ICU team races down the hall and charges into Chen's room.
+
+                   WALLACE
+                   
+     Chen's dead.
+
+Schabacker and Kirpatrick don't say a word.
+
+                   WALLACE
+                   
+     And no matter what you believe, the 
+     officer in that room died a good cop.
+
+Wallace looks them in the eye, then pushes past them and continues 
+down the hall.
+
+INT: AMY SAN'S APARTMENT, BROOKLYN-DAY
+
+Jack opens the door and sees Wallace standing in the doorway.
+
+                   WALLACE
+                   
+     Time to take care of Henry Lee.
+
+INT: BLUE EMPRESS CAFE-DAY
+
+Lee sits at a table with a white, middle aged MAN in a pin striped suit. 
+Wallace, Ung and Deng enter the restaurant.
+
+                   WALLACE
+                   
+     Henry Lee, you're under arrest.
+
+                   LEE
+                   
+     I'd like to introduce you to my attorney, Mr. Cotten.
+
+                   UNG
+                   
+     I'd like to introduce you to the inmates at Riker's 
+     Island, but that'll take a few weeks.
+
+                   LEE
+                   
+     Your optimism is refreshing.
+
+Lee gets up, along with his attorney. He turns to Wallace.
+
+                   LEE
+                   
+     I was very saddened to hear about your friend, Lt. 
+     Chen...Oh, I'm sorry, he wasn't your friend after all, 
+     was he? Lee puts on his coat and leans close to 
+     Wallace.
+
+                   LEE
+                   
+     And I'd like to thank you for killing all the witnesses 
+     against me.
+
+He smiles.
+
+                   WALLACE
+                   
+     Not all. Not the one who recorded this tape.
+
+Wallace plays a short sample of Jack's tape and the smile fades from 
+Lee's face...which makes Wallace smile as Deng and Ung lead Lee out 
+in cuffs.
+
+INT: CHEN'S APARTMENT, LIVING ROOM - DAY
+
+Wallace sits across from May. He slides an envelope in front of her.
+
+                   WALLACE
+                   
+     (Cantonese)
+     He wanted you to have this.
+
+She opens the envelope. Inside is a "green card" clearly indicating 
+"OFFICIAL U.S. RESIDENCY STATUS."
+
+                   WALLACE
+                   
+     (Cantonese)
+     And this.
+
+Wallace takes out the envelope of money his father tossed on the 
+floor and gives it to May who's eyes well with tears.
+
+                   WALLACE
+                   
+     (Cantonese)
+     You gonna be alright?
+
+                   MAY
+                   
+     Yes...thank you.
+
+She gets up and gives Wallace an appreciative kiss on the cheek.
+
+EXT: ELIZABETH STREET-DAY
+
+End credits roll as the NYPD honor and bury their own. In a funeral 
+procession that draws on traditional Chinese culture as well as 
+present day police decorum, the men and women who serve and 
+protect parade down the small Chinatown street in full dress blues.
+Banners depicting the face of Nick Chen wave out front as his coffin, 
+draped in the American flag draws cheers from the people of 
+Chinatown. And no one louder than Detective Daniel Wallace.
+
+THE END
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

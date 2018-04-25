@@ -1,0 +1,103 @@
+year	1985
+imdb score	6.9
+meta score	N/A
+genre	Comedy
+genre	Crime
+genre	Mystery
+keyword	fletch
+keyword	drugs
+keyword	beach
+keyword	cancer
+keyword	police
+keyword	disguise
+keyword	utah
+keyword	reporter
+keyword	roller skating
+keyword	divorce lawyer
+keyword	fantasy sequence
+keyword	bigamy
+keyword	one word title
+keyword	newspaper
+keyword	police chief
+keyword	electronic music score
+keyword	los angeles lakers
+keyword	reference to ed mcmahon
+keyword	wisecrack humor
+keyword	jumping from height
+keyword	breaking a glass with one's hand
+keyword	newsroom
+keyword	towel
+keyword	shotgun
+keyword	talking killer cliche
+keyword	chase
+keyword	rectal exam
+keyword	dog
+keyword	drug trafficking
+keyword	police commissioner
+keyword	obscene finger gesture
+keyword	undercover
+keyword	rio de janeiro brazil
+keyword	cabana
+keyword	mormon
+keyword	tennis court
+keyword	doctor
+keyword	hangar
+keyword	country club
+keyword	dream sequence
+keyword	police corruption
+keyword	los angeles california
+keyword	murder for hire
+keyword	attack dog
+keyword	reference to robitussin
+keyword	stolen car
+keyword	reference to ted nugent
+keyword	airplane mechanic
+keyword	based on novel
+keyword	title spoken by character
+keyword	character name in title
+keyword	
+cast	Chevy Chase	Irwin 'Fletch' Fletcher
+cast	Joe Don Baker	Chief Jerry Karlin
+cast	Dana Wheeler-Nicholson	Gail Stanwyk
+cast	Richard Libertini	Frank Walker
+cast	Tim Matheson	Alan Stanwyk
+cast	M. Emmet Walsh	Dr. Joseph Dolan
+cast	George Wendt	Fat Sam
+cast	Kenneth Mars	Stanton Boyd
+cast	Geena Davis	Larry
+cast	Bill Henderson	Speaker
+cast	William Traylor	Ted Underhill
+cast	George Wyner	Marvin Gillet
+cast	Tony Longo	Detective #1
+cast	Larry Flash Jenkins	Gummy
+cast	Ralph Seymour	Creasy
+cast	Kareem Abdul-Jabbar	Himself
+cast	James Avery	Detective #2
+cast	Reid Cruickshanks	Sergeant
+cast	Bruce French	Dr. Holmes
+cast	Burton Gilliam	Bud
+cast	David W. Harper	Teenager
+cast	Chick Hearn	Himself
+cast	Alison La Placa	Pan Am Clerk
+cast	Joe Praml	Watchman
+cast	William Sanderson	Jim Swarthout
+cast	Penny Santon	Velma Stanwyk
+cast	Robert Sorrells	Marvin Stanwyk
+cast	Beau Starr	Willy
+cast	Nico De Silva	Waiter
+cast	Peggy Doyle	Identification Nurse
+cast	Rick Garcia	Waiter
+cast	Grace Gaynor	Mrs. Underhill
+cast	Freeman King	Cop #1
+cast	Loraine Shields	Records Nurse
+cast	Bill Sorrells	Surfer Cop
+cast	Arnold F. Turner	Reporter #2
+cast	Roger Ammann	Cop #3
+cast	Mary Battilana	Madeline Turner
+cast	Henry 'Hank' Bleeker	Surfer Cop #2
+cast	Donald Chaffin	Banquet Guest
+cast	Darren Dublin	Reporter
+cast	Kristine M. Gossman	Secretary
+cast	Irene Olga López	Maid
+cast	Merv Maruyama	Chinese Busboy
+cast	Terrence Evans	Man with Shotgun

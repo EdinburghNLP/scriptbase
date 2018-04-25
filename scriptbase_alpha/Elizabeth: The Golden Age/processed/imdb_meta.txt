@@ -1,0 +1,180 @@
+year	2007
+imdb score	6.9
+meta score	45
+genre	Biography
+genre	Drama
+genre	History
+keyword	queen
+keyword	spain
+keyword	intrigue
+keyword	court
+keyword	america
+keyword	spanish armada
+keyword	empire
+keyword	virgin
+keyword	beheading
+keyword	colony
+keyword	courier
+keyword	secret
+keyword	fear
+keyword	speech
+keyword	wit
+keyword	scotland
+keyword	death
+keyword	british history
+keyword	battle
+keyword	ambassador
+keyword	kingdom
+keyword	female nudity
+keyword	protestant
+keyword	potato
+keyword	throne
+keyword	hanging
+keyword	secret marriage
+keyword	francis drake
+keyword	minister
+keyword	pardon
+keyword	sister sister relationship
+keyword	monarch
+keyword	slap
+keyword	virginia
+keyword	aristocrat
+keyword	pipe
+keyword	female protagonist
+keyword	white cliffs of dover
+keyword	assassin
+keyword	astrologer
+keyword	cathedral
+keyword	sailing ship
+keyword	16th century
+keyword	blessing
+keyword	cloak
+keyword	elizabethan era
+keyword	navy
+keyword	priest
+keyword	passion
+keyword	inquisition
+keyword	monarchy
+keyword	stars
+keyword	renaissance
+keyword	astrology
+keyword	england
+keyword	executioner
+keyword	jesuit
+keyword	release from prison
+keyword	catholic
+keyword	assassination attempt
+keyword	prison
+keyword	mud
+keyword	signal fire
+keyword	baby
+keyword	1500s
+keyword	1580s
+keyword	tobacco
+keyword	sequel
+keyword	ship
+keyword	execution
+keyword	pregnancy
+keyword	horse
+keyword	deforestation
+keyword	france
+keyword	wind
+keyword	palace
+keyword	rocky coast
+keyword	pageantry
+keyword	catholicism vs protestantism
+keyword	infant
+keyword	prophecy
+keyword	secretary of state
+keyword	espionage
+keyword	spanish inquisition
+keyword	troops
+keyword	letter
+keyword	cousin cousin relationship
+keyword	horse riding
+keyword	courtier
+keyword	fire
+keyword	naval battle
+keyword	king
+keyword	tears
+keyword	british seaman
+keyword	traveling shot
+keyword	queen elizabeth i
+keyword	native american
+keyword	royalty
+keyword	bullet
+keyword	spy
+keyword	sword and shield
+keyword	dwarf
+keyword	brother brother relationship
+keyword	coast
+keyword	sea battle
+keyword	character name in title
+cast	Jordi Mollà	King Philip ll of Spain
+cast	Aimee King	Infanta
+cast	Cate Blanchett	Queen Elizabeth I
+cast	Laurence Fox	Sir Christopher Hatton
+cast	John Shrapnel	Lord Howard
+cast	Geoffrey Rush	Sir Francis Walsingham
+cast	Susan Lynch	Annette
+cast	Elise McCave	Laundry Woman
+cast	Samantha Morton	Mary Stuart
+cast	Abbie Cornish	Bess Throckmorton
+cast	Penelope McGhie	Margaret
+cast	Rhys Ifans	Robert Reston
+cast	Eddie Redmayne	Thomas Babington
+cast	Stuart McLoughlin	Savage
+cast	Clive Owen	Sir Walter Raleigh
+cast	Adrian Scarborough	Calley
+cast	Robert Styles	Palace Doorkeeper
+cast	William Houston	Don Guerau De Spes
+cast	Coral Beed	First Court Lady
+cast	Rosalind Halstead	Second Court Lady
+cast	Steven Loton	Manteo
+cast	Martin Baron	Wanchese
+cast	David Armand	Walsingham's Agent
+cast	Steven Robertson	Francis Throckmorton
+cast	Jeremy Barker	Ramsey
+cast	George Innes	Burton
+cast	Adam Godley	William Walsingham
+cast	Kirstin Smith	Mary Walsingham
+cast	Kelly Hunter	Ursula Walsingham
+cast	Christian Brassington	Archduke Charles
+cast	Robert Cambrinus	Count Georg von Helfenstein
+cast	Tom Hollander	Sir Amyas Paulet
+cast	Sam Spruell	Torturer
+cast	Tim Preece	Old Throckmorton
+cast	Vidal Sancho	Spanish Minister
+cast	David Threlfall	Dr. John Dee
+cast	Benjamin May	Dance Master
+cast	David Sterne	Cellarman
+cast	Kate Fleetwood	Woman with Baby
+cast	Glenn Doherty	Royal Servant
+cast	Chris Brailsford	Dean of Peterborough
+cast	Dave Legeno	Executioner
+cast	Antony Carrick	Spanish Archbishop
+cast	John Atterbury	Marriage Priest
+cast	David Robb	Admiral Sir William Winter
+cast	Alex Giannini	First Spanish Officer
+cast	Joe Ferrara	Second Spanish Officer
+cast	Jonathan Bailey	Courtier
+cast	Alexander Barnes	Courtier
+cast	Charles Bruce	Courtier
+cast	Jeremy Cracknell	Courtier
+cast	Benedict Green	Courtier
+cast	Adam Smith	Courtier
+cast	Simon Stratton	Courtier
+cast	Crispin Swayne	Courtier
+cast	Kitty Fox	Mary Stuart's Lady in Waiting
+cast	Kate Lindesay	Mary Stuart's Lady in Waiting
+cast	Katherine Templar	Mary Stuart's Lady in Waiting
+cast	Hayley Burroughs	Queen Elizabeth's Lady in Waiting
+cast	Kirsty McKay	Queen Elizabeth's Lady in Waiting
+cast	Lucia Ruck Keene	Queen Elizabeth's Lady in Waiting
+cast	Lucienne Venisse-Back	Queen Elizabeth's Lady in Waiting
+cast	Morne Botes	Courtier
+cast	James Fiddy	Nobleman
+cast	Steve Lately	Walsingham's Servant
+cast	Finn Morrell	Young boy
+cast	Shane Nolan	Tyger Salior
+cast	Jack Pollock	Boy on Ship

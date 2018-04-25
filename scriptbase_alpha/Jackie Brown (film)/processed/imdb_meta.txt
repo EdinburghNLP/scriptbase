@@ -1,0 +1,165 @@
+year	1997
+imdb score	7.5
+meta score	64
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	money
+keyword	arms dealer
+keyword	atf
+keyword	bail
+keyword	flight attendant
+keyword	gun
+keyword	gun dealer
+keyword	bail bondsman
+keyword	beach bunny
+keyword	smuggling
+keyword	bag of money
+keyword	foot fetish
+keyword	independence
+keyword	strip club
+keyword	aging
+keyword	drunk driving
+keyword	diana ross impersonator
+keyword	car trunk
+keyword	los angeles california
+keyword	jail
+keyword	shopping mall
+keyword	bikini girl
+keyword	marked bills
+keyword	bar
+keyword	older man younger woman relationship
+keyword	drugs
+keyword	parking garage
+keyword	divorce
+keyword	release from prison
+keyword	murder by gunshot
+keyword	murder
+keyword	held at gunpoint
+keyword	female nudity
+keyword	woman as object
+keyword	interracial romance
+keyword	undercover
+keyword	regret
+keyword	scam
+keyword	female bare feet
+keyword	body in a trunk
+keyword	photograph
+keyword	dishonor
+keyword	violence
+keyword	white male black female relationship
+keyword	bikini
+keyword	midlife crisis
+keyword	black american
+keyword	flight attendant uniform
+keyword	betrayal
+keyword	female rear nudity
+keyword	interracial kiss
+keyword	airport
+keyword	sex
+keyword	dressing room
+keyword	ex convict
+keyword	gun trader
+keyword	split screen
+keyword	cult film
+keyword	department store
+keyword	unrequited love
+keyword	smuggler
+keyword	1990s
+keyword	nudity
+keyword	gun smuggling
+keyword	gangster
+keyword	bounty hunter
+keyword	blood
+keyword	ak 47
+keyword	stealing money
+keyword	movie theatre
+keyword	shot in the head
+keyword	cigarette smoking
+keyword	deception
+keyword	doggystyle sex
+keyword	con artist
+keyword	multiple perspectives
+keyword	film within a film
+keyword	shot in the stomach
+keyword	racial slur
+keyword	african american
+keyword	marijuana
+keyword	neo noir
+keyword	incompetence
+keyword	goatee
+keyword	television
+keyword	blaxploitation
+keyword	blood spatter
+keyword	weapon
+keyword	female protagonist
+keyword	mislaid trust
+keyword	whistle
+keyword	hot pants
+keyword	literary adaptation
+keyword	interracial relationship
+keyword	camera shot of feet
+keyword	woman in uniform
+keyword	nonlinear timeline
+keyword	journey shown on map
+keyword	black comedy
+keyword	corpse
+keyword	cult movie cast
+keyword	court
+keyword	bong
+keyword	bare chested male bondage
+keyword	crack cocaine
+keyword	bare feet
+keyword	shot in the chest
+keyword	stewardess
+keyword	black male white female relationship
+keyword	cult director
+keyword	red dress
+keyword	marijuana joint
+keyword	shot to death
+keyword	drug trade
+keyword	weapons dealer
+keyword	double cross
+keyword	independent film
+keyword	based on novel
+keyword	character name in title
+keyword	title spoken by character
+cast	Pam Grier	Jackie Brown
+cast	Samuel L. Jackson	Ordell Robbie
+cast	Robert Forster	Max Cherry
+cast	Bridget Fonda	Melanie Ralston
+cast	Michael Keaton	Ray Nicolette
+cast	Robert De Niro	Louis Gara
+cast	Michael Bowen	Mark Dargus
+cast	Chris Tucker	Beaumont Livingston
+cast	LisaGay Hamilton	Sheronda
+cast	Tommy 'Tiny' Lister	Winston
+cast	Hattie Winston	Simone
+cast	Sid Haig	Judge
+cast	Aimee Graham	Amy - Billingsley Sales Girl
+cast	Ellis Williams	Cockatoo Bartender
+cast	Tangie Ambrose	Billingsley Sales Girl #2
+cast	T'Keyah Crystal Keymáh	Raynelle - Ordell's Junkie Friend
+cast	Venessia Valentino	Cabo Flight Attendant
+cast	Diana Uribe	Anita Lopez
+cast	Renee Kelly	Cocktail Waitress
+cast	Elizabeth McInerney	Bartender at Sam's
+cast	Colleen Mayne	Girl at Security Gate
+cast	Laura Lovelace	Steakhouse Waitress
+cast	Christine Lydon	Tec-9 Sidney - Chicks Who Love Guns
+cast	Julia Ervin	Steyr AUG Cindy - Chicks Who Love Guns
+cast	Juliet Long	AK-47 Gloria - Chicks Who Love Guns
+cast	Michelle Berube	Baretta 12S Brittany - Chicks Who Love Guns
+cast	Gillian Iliana Waters	Mossberg 500 Tammy Jo - Chicks Who Love Guns
+cast	Candice Briese	The Deputy
+cast	Gary Mann	The Deputy
+cast	Jeffrey Deedrick	The Sheriff
+cast	Roy Nesvold	The Sheriff
+cast	Herbert Hans Wilmsen	The Sheriff
+cast	Helmut Berger	Nanni Vitali
+cast	Denise Crosby	Public Defender
+cast	Tony Curtis	Himself
+cast	Marisa Mell	Giuliana Caroli
+cast	Glendon Rich	Restaurant Regular
+cast	Mary Ann Schmidt	Flight Attendant
+cast	Quentin Tarantino	Answering Machine Voice

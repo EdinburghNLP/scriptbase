@@ -1,0 +1,107 @@
+year	2003
+imdb score	6.2
+meta score	61
+genre	Drama
+genre	Horror
+genre	Sci-Fi
+genre	Thriller
+keyword	rat
+keyword	revenge
+keyword	vermin
+keyword	work
+keyword	at work
+keyword	murder
+keyword	office
+keyword	bully comeuppance
+keyword	urban setting
+keyword	humiliation
+keyword	psychotic
+keyword	cruel boss
+keyword	loss of mother
+keyword	suicide attempt
+keyword	loner
+keyword	eaten alive by rats
+keyword	golf
+keyword	portrait painting
+keyword	pet killed
+keyword	hit with a golf club
+keyword	horror movie remake
+keyword	urine
+keyword	chewing
+keyword	job termination
+keyword	black comedy
+keyword	bully
+keyword	prank
+keyword	lawyer
+keyword	toilet
+keyword	volkswagen beetle
+keyword	employer employee relationship
+keyword	disgruntled worker
+keyword	wallet
+keyword	internet pornography
+keyword	blood
+keyword	employee
+keyword	vandalism
+keyword	title appears in writing
+keyword	fired from the job
+keyword	dead father
+keyword	bathroom
+keyword	eaten alive
+keyword	police
+keyword	menial job
+keyword	wake
+keyword	animal trainer
+keyword	domineering mother
+keyword	supermarket
+keyword	pest control
+keyword	rat poison
+keyword	duct tape
+keyword	elevator
+keyword	christmas
+keyword	falling from height
+keyword	animal attack
+keyword	based on adaptation
+keyword	corpse
+keyword	financial ruin
+keyword	talking to an animal
+keyword	remake
+keyword	part computer animation
+keyword	threat of termination
+keyword	revenge murder
+keyword	animated title sequence
+keyword	barricade
+keyword	secretary
+keyword	greed
+keyword	adult lives at home
+keyword	flat tire
+keyword	abusive boss
+keyword	cremated remains
+keyword	watch
+keyword	boss from hell
+keyword	psychiatric hospital
+keyword	basement
+keyword	timidity
+keyword	nervous breakdown
+keyword	funeral home
+keyword	insubordination
+keyword	dog
+keyword	mother son relationship
+keyword	mental institution
+keyword	cat
+keyword	freight elevator
+keyword	job
+keyword	mouse trap
+keyword	character name in title
+keyword	title spoken by character
+cast	Crispin Glover	Willard
+cast	R. Lee Ermey	Mr. Martin
+cast	Laura Harring	Cathryn
+cast	Jackie Burroughs	Mrs. Stiles
+cast	Ashlyn Gere	Ms. Leach
+cast	William S. Taylor	Mr. Garter
+cast	Edward Horn	Colquitt
+cast	Gus Lynch	George Foxx
+cast	Laara Sadiq	Janice Mantis
+cast	David Parker	Detective Boxer
+cast	Ty Olsson	Officer Salmon
+cast	Kristen Cloke	Psychiatrist

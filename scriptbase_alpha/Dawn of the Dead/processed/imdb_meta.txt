@@ -1,0 +1,242 @@
+year	1978
+imdb score	8.1
+meta score	N/A
+genre	Horror
+keyword	mall
+keyword	sequel
+keyword	shopping mall
+keyword	helicopter
+keyword	pennsylvania
+keyword	flesh eating
+keyword	swat team
+keyword	biker gang
+keyword	consumerism
+keyword	looter
+keyword	blood
+keyword	philadelphia pennsylvania
+keyword	apocalypse
+keyword	zombie
+keyword	zombie apocalypse
+keyword	escape
+keyword	elevator
+keyword	person on fire
+keyword	zombie child
+keyword	hare krishna
+keyword	policeman
+keyword	decapitation
+keyword	considering abortion
+keyword	controversy
+keyword	perfume
+keyword	1970s
+keyword	priest
+keyword	siege
+keyword	handgun
+keyword	survival horror
+keyword	machete
+keyword	elevator shaft
+keyword	horror movie remade
+keyword	falling into water
+keyword	evil nun
+keyword	violence
+keyword	machine gun
+keyword	thompson gun
+keyword	bitten in the throat
+keyword	candy
+keyword	bloody body of a child
+keyword	department store
+keyword	anarchy
+keyword	racial slur
+keyword	police officer
+keyword	end of the world
+keyword	anthropophagus
+keyword	creature feature
+keyword	short wave radio
+keyword	hit by a car
+keyword	police
+keyword	biker chick
+keyword	survival
+keyword	pilot
+keyword	baseball glove
+keyword	radio
+keyword	death of loved one
+keyword	cult
+keyword	electronic music score
+keyword	sword
+keyword	restaurant
+keyword	satire
+keyword	exploitation
+keyword	cult film
+keyword	firearm pointed at the camera
+keyword	corpse
+keyword	plague
+keyword	motorcycle
+keyword	shot in the arm
+keyword	gore
+keyword	watching tv
+keyword	suicide
+keyword	suburbia
+keyword	wheelbarrow
+keyword	shot in the leg
+keyword	midnight movie
+keyword	black humor
+keyword	shot at the camera
+keyword	m 16
+keyword	head blown off
+keyword	photo booth
+keyword	double child murder
+keyword	second part
+keyword	news report
+keyword	scalping
+keyword	rifle
+keyword	zombie violence
+keyword	pregnancy
+keyword	severed head
+keyword	flesh eating zombie
+keyword	african american
+keyword	entrails
+keyword	pistol
+keyword	black comedy
+keyword	tommy gun
+keyword	gun
+keyword	gun shop
+keyword	zombie nun
+keyword	shotgun
+keyword	looting
+keyword	murder of a police officer
+keyword	contemplating suicide
+keyword	television
+keyword	cult film
+keyword	shot in the face
+keyword	blood splatter
+keyword	shot in the back
+keyword	grindhouse
+keyword	shot in the head
+keyword	american horror
+keyword	famous line
+keyword	nun
+keyword	shot to death
+keyword	stabbed in the head
+keyword	revolver
+keyword	muzak
+keyword	eaten alive
+keyword	sniper
+keyword	shot in the forehead
+keyword	motorcycle gang
+keyword	italian horror
+keyword	critically acclaimed
+keyword	cannibalism
+keyword	exploding head
+keyword	death of friend
+keyword	death of child
+keyword	independent film
+keyword	
+cast	David Emge	Stephen
+cast	Ken Foree	Peter
+cast	Scott H. Reiniger	Roger
+cast	Gaylen Ross	Francine
+cast	David Crawford	Dr. Foster
+cast	David Early	Mr. Berman
+cast	Richard France	Scientist
+cast	Howard Smith	TV Commentator
+cast	Daniel Dietrich	Givens
+cast	Fred Baker	Commander
+cast	James A. Baffico	Wooley
+cast	Rod Stouffer	Young Officer on Roof
+cast	Jese Del Gre	Old Priest
+cast	Clayton McKinnon	Officer in Project Apt.
+cast	John Rice	Officer in Project Apt.
+cast	Ted Bank	Officer at Police Dock
+cast	Randy Kovitz	Officer at Police Dock
+cast	Patrick McCloskey	Officer at Police Dock
+cast	Joseph Pilato	Officer at Police Dock
+cast	Pasquale Buba	Motorcycle Raider
+cast	Tony Buba	Motorcycle Raider
+cast	Butchie	Motorcycle Raider
+cast	Dave Hawkins	Motorcycle Raider
+cast	Tom Kapusta	Motorcycle Raider
+cast	Rudy Ricci	Motorcycle Raider
+cast	Tom Savini	Motorcycle Raider
+cast	Marty Schiff	Motorcycle Raider
+cast	Joe Shelby	Motorcycle Raider
+cast	Taso N. Stavrakis	Motorcycle Raider
+cast	Nick Tallo	Motorcycle Raider
+cast	Larry Vaira	Motorcycle Raider
+cast	Sharon Ceccatti	Lead Zombie
+cast	Pam Chatfield	Lead Zombie
+cast	Mike Christopher	Lead Zombie
+cast	Clayton Hill	Lead Zombie
+cast	Jay Stover	Lead Zombie
+cast	Joe Abeln	Redneck Rifleman That Misses
+cast	John Amplas	2nd Guy on Roof
+cast	Liz Augenstein	On Air Girl at WGON-TV
+cast	Joey Baffico	Zombie Who Sticks Fingernails Into Roger's Wounded Leg
+cast	Ben Barenholtz	Cowboy Hat Zombie Hit by Sledge
+cast	Dave Bartholomew	Zombie
+cast	Adolph Caesar	Narrator of Theatrical Trailer
+cast	Zilla Clinton	Blonde Biker Chick Riding Motorcycle
+cast	The Pagans Motorcycle Club	Various Bikers
+cast	Mark 'Whitey' Cooper	Featured 19 Year Old Blonde Long-Haired Zombie shot in Bikers' Battle
+cast	John Cosgrove	Tall Bearded Zombie Clawing at Mall Door
+cast	Susan Cosgrove	Crosshairs Zombie #3
+cast	Lee Cummings	Bathing Suit Zombie
+cast	Jim Edemensen	WGON-TV Cameraman
+cast	Chet Flippo	Cowboy Zombie
+cast	J. Clifford Forrest Jr.	Featured Elderly Zombie
+cast	Christine Forrest	TV Producer / Elf Zombie / Voice of Monroeville Mall Announcer
+cast	Cliff Forrest	Tony, Man at WGON - TV
+cast	Ingeborg Forrest	Mall Zombie Wearing Blue Nightgown
+cast	Nancy Friedman	Bandana Girl Zombie
+cast	Roy Frumkes	1st Pie-In-Face Zombie
+cast	Ron Gibson	Landlord Zombie in Tenement Cellar
+cast	Michael Gornick	Voice of News Reporter on Radio
+cast	Barry Gress	Parking Lot Zombie Knocking Sign Over
+cast	John Harrison	Screwdriver Zombie
+cast	Chuck Hoffman	Bearded Zombie Outside Gun Store
+cast	Michael James	Bald Zombie in Bikers' Battle
+cast	Jeannie Jefferies	Blonde Zombie Who Attacks Roger in Truck
+cast	Susan Kilmartin	Yellow-Green Striped Shirt Zombie
+cast	Vic Kleinman	Charlie Parker - WGON-TV Typist who hands out notes to Francine
+cast	Katherine Kolbert	Brunette Biker Chick Throwing Pies and Cakes
+cast	Walt Kravo	Bearded Zombie Who Bites Moonbaby's Neck
+cast	Jim Krut	Helicopter Zombie
+cast	Tommy Lafitte	Miguel, The Zombie
+cast	Ralph Langer	Zombie
+cast	Robert Langer	Zombie Eating Bikers' Flesh
+cast	Maxine Lapiduss	Redhead Zombie Outside J.C. Penny
+cast	Ed Letteri	Long-Haired Man by Door at WGON-TV
+cast	Lenny Lies	Machete Zombie
+cast	Michael Lies	WGON-TV Sideburns Man Wearing Vest
+cast	Barbara Lifsher	Mary 'Chickie' / Blonde Biker Chick Driving Van
+cast	Frank Mamone	Biker
+cast	Nicholas Mastandrea	Mall Zombie Outside Gun Store
+cast	Molly McCloskey	Lovely Woman at WGON - TV
+cast	Doug Mertz	Preppie Zombie - 2nd Pie-In Face
+cast	Robert V. Michelucci	Bearded Scope Zombie / Zombie Who Attacks Mousey
+cast	Bob Miller	Funeral Zombie Wearing Three-Piece Suit
+cast	Ken Nagin	Pendant Headband Biker - with Axe
+cast	Jack Pappalardo	Lead Zombie - Bach's Arco Pitcairn Pitcher
+cast	Jeff Paul	Biker Who Shoots Flyboy
+cast	John Paul	Bald Zombie - Airport Chart House
+cast	Donald Pollock	Zombie in Parking Lot
+cast	Sukey Raphael	Red Poncho Zombie - 3rd Pie-In Face
+cast	E. Butler Richards	Zombie
+cast	Russell L. Richards	Zombie
+cast	Lenny Roman	White Headband Biker riding Harley Motorcycle
+cast	George A. Romero	TV Director / Nick - Biker in Santa Claus Suit
+cast	Donald Rubinstein	Roger's Zombie Attacker in Parking Lot
+cast	Donna Savini	Zombie Girl in Airport Chart House
+cast	Mike Savini	Zombie Boy in Airport Chart House
+cast	Frank A. Serrao	Fat Grey-Suited Zombie
+cast	Warner Shook	Security Guard Zombie Who Attacks Stephen in Mall Basement
+cast	Donna Siegel	Beautiful Dark Haired Light Brown Bloused Woman heading out door at WGON-TV
+cast	Stephen M. Silverman	Zombie
+cast	Ralph Tallo	Stephen's Grey Suited Airport Zombie Attacker
+cast	Milt Thompson	Checkered Shirted Zombie who attacks Stephen in Elevator
+cast	Jeanette Lansel Vaira	Biker Chick
+cast	Bobbi Van Eman	Beautiful Curly Haired Female WGON-TV Technician Behind TV Station Employee
+cast	Sara Venable	Leotard Zombie Hit by Sledge
+cast	Vincent Vok	WGON - TV Station Employee
+cast	Billie Walters	Biker Chick
+cast	Vickie Walters	Biker Chick
+cast	Robert Williams	Soldier in Apartment Project
+cast	Laura Ziemba	Ice Skating Rink Zombie

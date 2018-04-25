@@ -1,0 +1,71 @@
+year	1991
+imdb score	6.7
+meta score	N/A
+genre	Drama
+keyword	1930s
+keyword	adolescent
+keyword	told in flashback
+keyword	south
+keyword	southerner
+keyword	feminist
+keyword	friendship
+keyword	sexuality
+keyword	sexual awakening
+keyword	love
+keyword	dysfunctional family
+keyword	voice over narration
+keyword	slice of life
+keyword	title directed by female
+keyword	lust
+keyword	sexual promiscuity
+keyword	teenager
+keyword	affection
+keyword	master servant relationship
+keyword	teen angst
+keyword	screenplay adapted by author
+keyword	thinness
+keyword	female nudity
+keyword	georgia
+keyword	family relationships
+keyword	self discovery
+keyword	fingering
+keyword	great depression
+keyword	teenager
+keyword	title based on song
+keyword	female masturbation
+keyword	masturbation
+keyword	sex
+keyword	hospital
+keyword	coming of age
+keyword	nanny
+keyword	promiscuity
+keyword	housekeeper
+keyword	flashback
+keyword	naivety
+keyword	seduction
+keyword	small town
+keyword	voyeurism
+keyword	based on novel
+keyword	independent film
+keyword	based on book
+keyword	character name in title
+keyword	
+cast	Laura Dern	Rose
+cast	Robert Duvall	Daddy Hillyer
+cast	Diane Ladd	Mother
+cast	Lukas Haas	Buddy
+cast	John Heard	Willcox Hillyer
+cast	Kevin Conway	Dr. Martinson
+cast	Robert John Burke	Dave Wilkie
+cast	Lisa Jakub	Doll
+cast	Evan Lockwood	Waski
+cast	Matthew Sutherland	Billy
+cast	D. Anthony Pender	Foster
+cast	David E. Scarborough	Horton
+cast	Robin Dale Robertson	Young Salesman
+cast	General Fermon Judd Jr.	Shadrack
+cast	Richard K. Olsen	Chief of Police
+cast	Michael Mott	Man in Store
+cast	James Binns	Minister
+cast	Gelene Krug	Stand-In
+cast	Jeffrey Smith	Stand-In

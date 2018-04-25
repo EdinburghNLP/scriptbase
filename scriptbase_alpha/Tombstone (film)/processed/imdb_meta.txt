@@ -1,0 +1,187 @@
+year	1993
+imdb score	7.9
+meta score	N/A
+genre	Action
+genre	Drama
+genre	History
+genre	Romance
+genre	Western
+keyword	cowboy
+keyword	doc holliday
+keyword	arizona
+keyword	wyatt earp
+keyword	tombstone arizona
+keyword	outlaw
+keyword	ok corral
+keyword	violence
+keyword	gunfight
+keyword	showdown
+keyword	gunfight at the o.k. corral
+keyword	gunslinger
+keyword	shootout
+keyword	horse
+keyword	actress
+keyword	brutality
+keyword	chase
+keyword	street shootout
+keyword	duel
+keyword	shot in the face
+keyword	drug abuse
+keyword	cult film
+keyword	gambling
+keyword	gun
+keyword	hit with a rifle
+keyword	cowboy hat
+keyword	death
+keyword	action hero
+keyword	knife
+keyword	gun violence
+keyword	handgun
+keyword	hit in the mouth
+keyword	spurs
+keyword	outlaw gang
+keyword	illness
+keyword	disarming someone
+keyword	hero
+keyword	legendary hero
+keyword	cowboys and outlaws
+keyword	wedding
+keyword	pistol duel
+keyword	shot through the mouth
+keyword	suspense
+keyword	rifle
+keyword	quick draw
+keyword	dual wield
+keyword	cowboy shirt
+keyword	rape and murder
+keyword	bully
+keyword	ambush
+keyword	blood splatter
+keyword	voice over narration
+keyword	19th century
+keyword	repeating rifle
+keyword	revolver
+keyword	western town
+keyword	what happened to epilogue
+keyword	double barreled shotgun
+keyword	cult film
+keyword	horse chase
+keyword	murder
+keyword	horse riding
+keyword	bandanna
+keyword	colt .45
+keyword	cigar smoking
+keyword	off screen rape
+keyword	kiss
+keyword	hotel fight
+keyword	broken glass
+keyword	dying
+keyword	tough guy
+keyword	historic figure
+keyword	stylized violence
+keyword	shootout at a train station
+keyword	warrior
+keyword	tough cop
+keyword	shot in the forehead
+keyword	gunfighter
+keyword	sawed off shotgun
+keyword	u.s. marshal
+keyword	maverick cop
+keyword	bully comeuppance
+keyword	bowie knife
+keyword	six shooter
+keyword	western hero
+keyword	laudanum
+keyword	one word title
+keyword	historical event
+keyword	love
+keyword	shotgun
+keyword	conversation with character playing piano
+keyword	gun battle
+keyword	mexican standoff
+keyword	redhead
+keyword	best friend
+keyword	lighting
+keyword	gunshot
+keyword	police shootout
+keyword	dance
+keyword	rape
+keyword	cigarette smoking
+keyword	small western town
+keyword	winchester rifle
+keyword	blood
+keyword	stagecoach
+keyword	gun fu
+keyword	cowboy boots
+keyword	rain
+keyword	1880s
+keyword	tuberculosis
+keyword	sheriff
+keyword	pool table
+keyword	pistol
+keyword	based on true story
+cast	Kurt Russell	Wyatt Earp
+cast	Val Kilmer	Doc Holliday
+cast	Sam Elliott	Virgil Earp
+cast	Bill Paxton	Morgan Earp
+cast	Powers Boothe	Curly Bill Brocius
+cast	Michael Biehn	Johnny Ringo
+cast	Charlton Heston	Henry Hooker
+cast	Jason Priestley	Billy Breckinridge
+cast	Jon Tenney	Behan
+cast	Stephen Lang	Ike Clanton
+cast	Thomas Haden Church	Billy Clanton
+cast	Dana Delany	Josephine Marcus
+cast	Paula Malcomson	Allie Earp
+cast	Lisa Collins	Louisa Earp
+cast	Dana Wheeler-Nicholson	Mattie Earp
+cast	Joanna Pacula	Kate
+cast	Michael Rooker	Sherman McMasters
+cast	Harry Carey Jr.	Marshal Fred White
+cast	Billy Bob Thornton	Johnny Tyler
+cast	Tomas Arana	Frank Stillwell
+cast	Pat Brady	Milt Joyce
+cast	Paul Ben-Victor	Florentino
+cast	John Philbin	Tom McLaury
+cast	Robert John Burke	Frank McLaury
+cast	Billy Zane	Mr. Fabian
+cast	Wyatt Earp	Billy Claiborne
+cast	John Corbett	Barnes
+cast	Bo Greigh	Wes Fuller
+cast	Forrie J. Smith	Pony Deal
+cast	Peter Sherayko	Texas Jack Vermillion
+cast	Buck Taylor	Turkey Creek Jack Johnson
+cast	Terry O'Quinn	Mayor John Clum
+cast	Charles Schneider	Professor Gillman
+cast	Gary Clarke	Crawley Dake
+cast	Billy Joe Patton	Deputy
+cast	Frank Stallone	Ed Bailey
+cast	Bobby Joe McFadden	1st Gambler
+cast	Pedro Armendáriz Jr.	Priest
+cast	Michael N. Garcia	Rurale Captain / Groom
+cast	Grant Wheeler	Drunk
+cast	Jim Dunham	Miner
+cast	Stephen C. Foster	Hank Swilling
+cast	Grant James	Dr. Goodfellow
+cast	Don Collier	High Roller
+cast	Cecil Hoffman	Lucinda Hobbs
+cast	Charlie Ward	1st Cowboy
+cast	Clark A. Ray	2nd Cowboy
+cast	Christopher Mitchum	Ranch Hand
+cast	Sanford Gibbons	Father Feeney
+cast	Evan Osborne	Piano Player
+cast	Shane McCabe	Audience Member
+cast	Robert Mitchum	Narrator
+cast	Anthony Auriemma	Miner
+cast	Michelle Beauchamp	Mexican Bride
+cast	Frank P. Costanza	Red Bandana Gang Member
+cast	Sam Dolan	
+cast	Jim Flowers	Blackjack Dealer
+cast	Cindy Hundt	Woman in Protest Wagon
+cast	Cynthia Shope	Dancer
+cast	J. Nathan Simmons	Townsman
+cast	Christopher Shawn Swinney	Kid at Snowman
+cast	George Swinney	Towns Person at Fire
+cast	Thadd Turner	Townsman
+cast	Jerry Whittington	Wagon Teamster
+cast	Michael Wise	Emigrant

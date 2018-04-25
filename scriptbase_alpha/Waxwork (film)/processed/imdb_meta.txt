@@ -1,0 +1,165 @@
+year	1988
+imdb score	6.2
+meta score	N/A
+genre	Comedy
+genre	Fantasy
+genre	Horror
+keyword	evil
+keyword	wax museum
+keyword	college
+keyword	head ripped off
+keyword	virgin
+keyword	crushed head
+keyword	sword fight
+keyword	stabbed in the back
+keyword	police officer killed
+keyword	whipping
+keyword	marquis de sade
+keyword	shot in the chest
+keyword	police officer neck broken
+keyword	big man
+keyword	blood
+keyword	lifting a female into the air
+keyword	gore
+keyword	vampire bat
+keyword	blood splatter
+keyword	exploding body
+keyword	human flesh
+keyword	werewolf
+keyword	cannibalism
+keyword	silver bullet
+keyword	zombie
+keyword	orchestral music score
+keyword	voodoo
+keyword	dead body
+keyword	jack the ripper
+keyword	rotary phone
+keyword	lifting someone into the air
+keyword	axe
+keyword	slasher flick
+keyword	evil dead
+keyword	wax statue
+keyword	snake
+keyword	evil doll
+keyword	mythical creature
+keyword	murder
+keyword	possession
+keyword	impalement
+keyword	occult
+keyword	fear
+keyword	set on fire
+keyword	vampire bite
+keyword	prince
+keyword	cult film
+keyword	hand on shoulder scare
+keyword	body torn apart
+keyword	severed hand
+keyword	first part
+keyword	slasher
+keyword	disembodied hand
+keyword	shackles
+keyword	tomb
+keyword	servant
+keyword	wealth
+keyword	historic figure
+keyword	falling from height
+keyword	characters killed one by one
+keyword	cult film
+keyword	one word title
+keyword	newspaper
+keyword	french
+keyword	graveyard
+keyword	spear
+keyword	supernatural power
+keyword	violence
+keyword	damsel in distress
+keyword	male pride
+keyword	cigarette smoking
+keyword	butler
+keyword	sudden disappearance
+keyword	deal with the devil
+keyword	transformation
+keyword	decapitation
+keyword	bloodbath
+keyword	fencing
+keyword	head torn off
+keyword	female vampire
+keyword	gun
+keyword	sword
+keyword	midget
+keyword	nazi teacher
+keyword	neck breaking
+keyword	death
+keyword	dungeon
+keyword	wheelchair
+keyword	good versus evil
+keyword	person on fire
+keyword	time travel
+keyword	brought back to life
+keyword	satire
+keyword	fire
+keyword	severed leg
+keyword	lecture
+keyword	invisible barrier
+keyword	rat
+keyword	vampirism
+keyword	exploding head
+keyword	raw meat
+keyword	alcohol
+keyword	death of friend
+keyword	independent film
+keyword	title spoken by character
+keyword	surprise ending
+cast	Zach Galligan	Mark
+cast	Jennifer Bassey	Mrs. Loftmore
+cast	Joe Baker	Jenkins
+cast	Deborah Foreman	Sarah
+cast	Michelle Johnson	China
+cast	David Warner	Waxwork Man
+cast	Eric Brown	James
+cast	Clare Carey	Gemma
+cast	Buckley Norris	Lecturer
+cast	Dana Ashbrook	Tony
+cast	Micah Grant	Johnathan
+cast	Mihaly 'Michu' Meszaros	Hans
+cast	Jack David Walker	Junior
+cast	John Rhys-Davies	Werewolf
+cast	Nelson Welch	Elderly Man
+cast	Miles O'Keeffe	Count Dracula
+cast	Christopher Bradley	Stephan
+cast	Irene Olga López	Maid
+cast	Charles McCaughan	Inspector Roberts
+cast	Julian Forbes	Police Driver
+cast	Edward Ashley	Professor Sutherland
+cast	Kendall Conrad	Girl in Pyramid
+cast	Patrick Macnee	Sir Wilfred
+cast	J. Kenneth Campbell	Marquis de Sade
+cast	Anthony Hickox	English Prince
+cast	Staffan Ahrenberg	French Guard
+cast	Gabriella Dufwa	Courtesan
+cast	Gary M. Bettman	Mark's Grandfather
+cast	James D.R. Hickox	Werewolf Killer's Assistant
+cast	Candi	Dracula's Butler
+cast	James Lincoln	Dracula's Man Servant
+cast	Merle Stronck	Vampire Girl #1
+cast	Joanne Russell	Vampire Girl #2
+cast	Ann Sophie Noblet	Vampire Girl #3
+cast	Paul Badger	Mummy
+cast	Eyal Rimmon	Egyptian Boy
+cast	Kim Henderson	Marquis de Sade Girl #1
+cast	Hilary English	Marquis de Sade Girl #2
+cast	Nicole Seguin	Marquis de Sade Girl #3
+cast	Carolyn Bray	Marquis de Sade Girl #4
+cast	Henrietta Folkeson	Marquis de Sade Girl #5
+cast	Dan Ireland	Zombie #1
+cast	Karen Schaffer	Zombie #2
+cast	Leonard Pollack	Zombie #3
+cast	Bruce Barlow	Zombie #4
+cast	Cliff Wallace	Zombie #5
+cast	Dave Elsey	Zombie #6
+cast	Gerry Lively	Sir Wilfred's Butler
+cast	Steven Santamaria	Taxi Driver
+cast	Tom MacGreevey	Charles
+cast	Inger Armour	College student
+cast	Stephen Jacques	College student
+cast	Carl Thibault	Additional mummy

@@ -1,0 +1,123 @@
+year	2001
+imdb score	6.5
+meta score	66
+genre	Action
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	heist
+keyword	jewelry
+keyword	thief
+keyword	gold
+keyword	partner
+keyword	robbery
+keyword	swiss
+keyword	jewel thief
+keyword	kicked in the face
+keyword	jewel heist
+keyword	retirement
+keyword	airplane
+keyword	policeman
+keyword	gun
+keyword	gangster
+keyword	shot in the arm
+keyword	shot in the head
+keyword	husband wife relationship
+keyword	tarmac
+keyword	shot in the leg
+keyword	police
+keyword	boat
+keyword	theft
+keyword	shooting
+keyword	hit by a car
+keyword	gold bar
+keyword	double barreled shotgun
+keyword	infidelity
+keyword	surveillance
+keyword	criminal
+keyword	held at gunpoint
+keyword	one last job
+keyword	cheating wife
+keyword	explosion
+keyword	double cross
+keyword	second guessing
+keyword	masked man
+keyword	gunfire
+keyword	stun gun
+keyword	shot in the foot
+keyword	shot in the chest
+keyword	shot in the face
+keyword	boston massachusetts
+keyword	shot to death
+keyword	fbi
+keyword	knocked out
+keyword	death
+keyword	reference to heidi
+keyword	taser
+keyword	disguise
+keyword	usa customs
+keyword	jewelry heist
+keyword	one word title
+keyword	security camera
+keyword	waitress
+keyword	hit on the head
+keyword	jewelry store
+keyword	uncle nephew relationship
+keyword	shootout
+keyword	pistol
+keyword	blood splatter
+keyword	face slap
+keyword	loss of father
+keyword	criminal gang
+keyword	neo noir
+keyword	caper
+keyword	betrayal
+keyword	car accident
+keyword	blackmail
+keyword	reference to rumpelstiltskin
+keyword	gunshot wound
+keyword	airport
+keyword	male camaraderie
+keyword	wife's sexual pretence
+keyword	independent film
+keyword	surprise ending
+cast	Gene Hackman	Joe Moore
+cast	Danny DeVito	Mickey Bergman
+cast	Delroy Lindo	Bobby 'Bob' Blane
+cast	Sam Rockwell	Jimmy Silk
+cast	Rebecca Pidgeon	Fran Moore
+cast	Ricky Jay	Don 'Pinky' Pincus
+cast	Patti LuPone	Betty Croft
+cast	Alan Bilzerian	Fast Food Customer
+cast	Richard L. Friedman	Counterman
+cast	Robert Lussier	Fast Food Cook
+cast	Mark Camacho	Jewelry Store Guard
+cast	Michelle Sweeney	Waitress
+cast	Elyzabeth Walling	Jewelry Saleswoman
+cast	Mike Tsar	Coffee Cart Man
+cast	Jim Frangione	D.A. Freccia
+cast	Christopher Kaldor	Laszlo
+cast	Danny Blanco Hall	Bartender
+cast	Zodia McLean	Pool Player at Bar
+cast	Andreas Apergis	State Trooper
+cast	Tony Calabretta	Coffee Man
+cast	Ted Whittall	Customs Officer
+cast	Guy Sprung	Pilot
+cast	Richard Zeman	Co-Pilot
+cast	Don Jordan	Supervisor in Tower
+cast	Pierre LeBlanc	Controller in Tower
+cast	Richard Robitaille	Officer #2
+cast	Greg Goossen	Officer #1
+cast	Charles S. Doucet	Mechanic
+cast	Bill Rowat	Official at Cargo Hangar
+cast	Benz Antoine	Trooper at Cargo Hangar
+cast	Emile Cassini	Tess, Pincus' Niece
+cast	Jennifer Morehouse	Cashier
+cast	Marlyne Barrett	Young Woman with Blane
+cast	Emile Castonguay	Cargo Man
+cast	Karen Cliche	Alex
+cast	John Goar	
+cast	Christian Maguire	
+cast	Kent McQuaid	Trevor
+cast	Henri Pardo	
+cast	Mike Paterson	Fred Platrow, Bank Clerk

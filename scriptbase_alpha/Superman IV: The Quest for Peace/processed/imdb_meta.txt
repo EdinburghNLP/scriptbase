@@ -1,0 +1,309 @@
+year	1987
+imdb score	3.6
+meta score	22
+genre	Action
+genre	Adventure
+genre	Family
+genre	Fantasy
+genre	Sci-Fi
+keyword	superman
+keyword	sun
+keyword	museum
+keyword	disarmament
+keyword	great wall of china
+keyword	volcanic eruption
+keyword	nuclear disarmament
+keyword	explosive
+keyword	hair
+keyword	creation
+keyword	flag on the moon
+keyword	airforce one
+keyword	pickaxe
+keyword	reporter
+keyword	speech
+keyword	farm
+keyword	prison escape
+keyword	u.s. army
+keyword	letter
+keyword	furnace creature
+keyword	smallville
+keyword	general
+keyword	genetic engineering
+keyword	nuclear threat
+keyword	kissing
+keyword	uncle nephew relationship
+keyword	soldier
+keyword	air force base
+keyword	singing
+keyword	tuxedo
+keyword	cold war
+keyword	police shootout
+keyword	italy
+keyword	action violence
+keyword	exploding car
+keyword	adidas clothing
+keyword	car goes over a cliff
+keyword	genius
+keyword	u.s. air force
+keyword	adapted score
+keyword	spacewalk
+keyword	duel
+keyword	deoxyribonucleic acid
+keyword	flag
+keyword	roman numeral in title
+keyword	numbered sequel
+keyword	russian army
+keyword	space travel
+keyword	fire
+keyword	shootout
+keyword	horse
+keyword	newspaper headline
+keyword	journalism
+keyword	media manipulation
+keyword	scratch
+keyword	united nations
+keyword	nuclear explosion
+keyword	father daughter relationship
+keyword	fictional city
+keyword	kneed in the face
+keyword	moon
+keyword	sunlight
+keyword	baseball
+keyword	elevator
+keyword	arms race
+keyword	superhero
+keyword	deception
+keyword	jumping from height
+keyword	arms dealer
+keyword	school bus
+keyword	rooftop
+keyword	cape
+keyword	exploding building
+keyword	opening action scene
+keyword	u.s. marshal
+keyword	x ray vision
+keyword	city
+keyword	colon in title
+keyword	super powers
+keyword	special powers
+keyword	school
+keyword	secret identity
+keyword	subway
+keyword	classroom
+keyword	press conference
+keyword	gymnasium
+keyword	fourth part
+keyword	hot dog stand
+keyword	treadmill
+keyword	revolving door
+keyword	kicked in the face
+keyword	aerobics
+keyword	dc comics
+keyword	hostage
+keyword	hotel
+keyword	newsroom
+keyword	human alien
+keyword	statue of liberty new york city
+keyword	snow
+keyword	digging
+keyword	russian
+keyword	kiss
+keyword	watching tv
+keyword	telekinesis
+keyword	walkman
+keyword	escape from prison
+keyword	clone
+keyword	explosion
+keyword	hand to hand combat
+keyword	levitation
+keyword	spaceship
+keyword	super villain
+keyword	submarine
+keyword	world trade center manhattan new york city
+keyword	train
+keyword	police officer
+keyword	village
+keyword	teacher
+keyword	hot dog vendor
+keyword	fitness center
+keyword	solar power
+keyword	nuclear weapons
+keyword	teenager
+keyword	moon surface
+keyword	sequel
+keyword	musical whistling
+keyword	taking picture
+keyword	chain gang
+keyword	product placement
+keyword	fire truck
+keyword	reference to wolfgang amadeus mozart
+keyword	street shootout
+keyword	convertible
+keyword	nuclear missile
+keyword	baseball glove
+keyword	pile of money
+keyword	vintage car
+keyword	six word title
+keyword	catholic priest
+keyword	lava
+keyword	solar eclipse
+keyword	u.s. president
+keyword	action hero
+keyword	kryptonite
+keyword	cigar smoking
+keyword	workout
+keyword	letter read aloud
+keyword	san francisco california
+keyword	mountain
+keyword	boy
+keyword	fighting in the air
+keyword	fight
+keyword	1980s
+keyword	electricity
+keyword	remote control car
+keyword	tycoon
+keyword	journalist
+keyword	the moon
+keyword	long fingernails
+keyword	golden gate bridge
+keyword	priest
+keyword	pistol
+keyword	strand of hair
+keyword	police car
+keyword	world peace
+keyword	villain arrested
+keyword	fireplace
+keyword	based on comic
+keyword	volcano
+keyword	machine gun
+keyword	flying
+keyword	hawaiian shirt
+keyword	based on comic book
+keyword	tough guy
+keyword	superhero
+keyword	catholic school
+keyword	planet
+keyword	missile
+keyword	newspaper staff
+keyword	russia
+keyword	guest speaker
+keyword	burning money
+keyword	secret lair
+keyword	fortress of solitude
+keyword	shotgun
+keyword	barbell
+keyword	prisoner
+keyword	earth viewed from space
+keyword	frenchman
+keyword	prison guard
+keyword	villain
+keyword	crystal
+keyword	alter ego
+keyword	new york city
+keyword	gym
+keyword	chrysler building manhattan new york city
+keyword	aerobics class
+keyword	christ allegory
+keyword	phone booth
+keyword	single parent
+keyword	criminal mastermind
+keyword	box office flop
+keyword	disguise
+keyword	outer space
+keyword	little boy
+keyword	roman numbered sequel
+keyword	barn
+keyword	office
+keyword	showdown
+keyword	telling someone to shut up
+keyword	double date
+keyword	flying man
+keyword	photographer
+keyword	good versus evil
+keyword	man with glasses
+keyword	violence
+keyword	firefighter
+keyword	newspaper editor
+keyword	schoolboy
+keyword	newspaper reporter
+keyword	newspaper photographer
+keyword	laboratory
+keyword	wrestling
+keyword	american flag
+keyword	tv broadcast
+keyword	love interest
+keyword	comic relief
+keyword	character appears on front page of a newspaper
+keyword	newspaper
+keyword	drum kit
+keyword	subtitled scene
+keyword	military
+keyword	taxi
+keyword	astronaut
+keyword	nun
+keyword	car driven off a cliff
+keyword	metropolis
+keyword	juvenile delinquent
+keyword	baseball bat
+keyword	reform school
+keyword	lifting someone into the air
+keyword	character name in title
+keyword	surprise ending
+keyword	
+cast	Christopher Reeve	Superman / Clark Kent
+cast	Gene Hackman	Lex Luthor / Nuclear Man
+cast	Jackie Cooper	Perry White
+cast	Marc McClure	Jimmy Olsen
+cast	Jon Cryer	Lenny
+cast	Sam Wanamaker	David Warfield
+cast	Mark Pillow	Nuclear Man
+cast	Mariel Hemingway	Lacy Warfield
+cast	Margot Kidder	Lois Lane
+cast	Damian McLawhorn	Jeremy
+cast	William Hootkins	Harry Howler
+cast	Jim Broadbent	Jean Pierre Dubois
+cast	Stanley Lebor	General Romoff
+cast	Don Fellows	Levon Hornsby
+cast	Robert Beatty	U.S. President
+cast	Bradley Lavelle	Tall Marshall
+cast	Mac McDonald	Marshall #2
+cast	Czeslaw Grocholski	Russian General #1
+cast	Steve Plytas	Russian General #2
+cast	John Hollis	Russian General #3
+cast	Bob Sherman	Pentagon Senator
+cast	Eiji Kusuhara	Japanese U.N. Guard
+cast	Yuri Borienko	Russian General at Red Square
+cast	Boris Isarov	Cosmonaut Captain
+cast	Dorota Zieciowska	Cosmonaut
+cast	Jirí Stanislav	Cosmonaut
+cast	Jayne Brook	JFK High School Teacher
+cast	Ron Travis	Convict
+cast	Matthew Freeman	Submariner
+cast	Indira Joshi	U.N. Secretary General
+cast	Douglas W. Iles	Chief of Staff
+cast	Ted Maynard	Army Chief
+cast	Raymond Marlowe	Navy Chief
+cast	John Cagon	Technician
+cast	Malcolm Bullivant	Swedish U.N. Guard
+cast	Mark Caven	Boystown Priest
+cast	Diana Hunter	Museum Tour Guide
+cast	Nicholas Colicos	Paul at Metro Sports Club
+cast	Keith Edwards	Fort Mason Technician
+cast	David Garth	1st Elder
+cast	Esmond Knight	2nd Elder
+cast	Eugene Lipinski	Cosmonaut Space Walker
+cast	Dennis Creaghan	Bill Compton
+cast	Philip Fox	Husband at Great Wall of China
+cast	Jimmy Fung	Chinese Official at Great Wall of China
+cast	Guinevere John	Tourist at Great Wall of China
+cast	Peter Penry-Jones	Tourist at Great Wall of China
+cast	Witold Scheybal	Russian Premiere
+cast	Rex Robinson	Subway Engineer
+cast	Kerry Shale	MBC Newscaster
+cast	Susannah York	Lara
+cast	Clive Mantle	Nuclear Man #2
+cast	Max Bracey	Baby Superman
+cast	Peter Diamond	S.W.A.T. team member with melting gun
+cast	Christine Hewett	Woman Running for Bomb
+cast	Derek Lyons	Russian Guard
+cast	Kingsley Pilgrim	School kid

@@ -1,0 +1,104 @@
+year	2005
+imdb score	5.9
+meta score	56
+genre	Comedy
+genre	Drama
+genre	Sport
+keyword	play
+keyword	world series
+keyword	playwright
+keyword	opening night
+keyword	breast fondling
+keyword	taxi driver
+keyword	automated teller machine
+keyword	camouflage
+keyword	rooftop
+keyword	waitress
+keyword	theater people
+keyword	immigrant
+keyword	boston red sox
+keyword	slow motion scene
+keyword	new york mets
+keyword	cigarette smoking
+keyword	asbestos
+keyword	new york skyline
+keyword	play within film
+keyword	baseball fan
+keyword	talk radio
+keyword	taxi
+keyword	bar
+keyword	husband wife relationship
+keyword	sports fan
+keyword	baseball stadium
+keyword	1980s
+keyword	baseball
+keyword	restaurant
+keyword	broadway manhattan new york city
+keyword	eccentric
+keyword	archive footage
+keyword	sports bar
+keyword	taxi ride
+keyword	theater
+keyword	manhattan new york city
+keyword	thick accent
+keyword	revolver
+keyword	best friend
+keyword	father daughter relationship
+keyword	black panties
+keyword	television
+keyword	grandmother grandson relationship
+keyword	thong
+keyword	kitchen
+keyword	new york city
+keyword	father son relationship
+keyword	actor
+keyword	traffic jam
+keyword	little boy
+keyword	white bra
+keyword	theater critic
+keyword	baseball game
+keyword	number in title
+cast	Michael Keaton	Nicky Rogan
+cast	Robert Downey Jr.	Steven Schwimmer
+cast	Ari Graynor	Laurel Rogan
+cast	Bebe Neuwirth	Joanna Bourne
+cast	Griffin Dunne	Elliott Litvak
+cast	Shalom Harlow	Paisley Porter
+cast	Nadia Dajani	Renee Simons
+cast	Harris Yulin	Peter Redmond
+cast	Roger Rees	Jack Haskins
+cast	Tom Aldredge	Michael Rogan
+cast	Lillias White	Toyota Moseby
+cast	Amir Ali Said	Matthew
+cast	Catherine O'Hara	Lillian Rogan
+cast	Rock Kohli	Ramaswamy Choudhry
+cast	John Tormey	George, Georgie, Giorgio
+cast	Frank Ciornei	Anatoli Kaganovich
+cast	Uzi Parnes	Yehoshafat Bodenheim
+cast	Neal Jones	Yessiree Bob
+cast	Andrew Benator	Restaurant Worker
+cast	Paul Woodburn	Restaurant Worker
+cast	Arnie Burton	Actor / Waiter
+cast	Patrick Ssenjovu	Ibrahim Moshoeshoe
+cast	Harry Bugin	Dodgie
+cast	Bobby Steggert	Son in Play
+cast	Ken Barnett	Young Waiter
+cast	Wade Mylius	Bathroom Fighter #1
+cast	Eric Zuckerman	Bathroom Fighter #2
+cast	David Guion	Lone Eagle
+cast	Blackie	Cat
+cast	Roger Clemens	Himself - Red Sox Pitcher
+cast	Bern Cohen	Hasidic Rabbi
+cast	Danny Doherty	Stagehand
+cast	Elli	Hassidic Rabbi Walking
+cast	Chuck Gerena	Cab Driver
+cast	Christopher Jon Gombos	Mets Fan
+cast	Susan Lay	Waitress
+cast	Matt Lish	Bar Patron
+cast	Gary Lee Mahmoud	Intense Mets Fan
+cast	Chiko Mendez	Homeless Man / Driver
+cast	Loukas Papas	Gray Mercedes Benz Driver
+cast	Keith P. Scott	Waiter
+cast	Vin Scully	Himself - Game Announcer
+cast	Tony Torn	The Real Waiter
+cast	Joe Wissler	Bartender

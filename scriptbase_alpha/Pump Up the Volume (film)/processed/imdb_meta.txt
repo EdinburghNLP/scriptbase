@@ -1,0 +1,130 @@
+year	1990
+imdb score	7.1
+meta score	77
+genre	Drama
+genre	Music
+keyword	radio
+keyword	authority
+keyword	principal
+keyword	high school
+keyword	teenager
+keyword	suicide
+keyword	pirate radio
+keyword	short wave radio
+keyword	hero
+keyword	arizona
+keyword	secret identity
+keyword	corrupt official
+keyword	teacher student relationship
+keyword	self discovery
+keyword	homosexual
+keyword	corrupt school system
+keyword	repression
+keyword	anomie
+keyword	pirate broadcasting
+keyword	anger
+keyword	self expression
+keyword	ham radio
+keyword	submission
+keyword	teen angst
+keyword	nudity
+keyword	boredom
+keyword	social commentary
+keyword	philosophy
+keyword	abuse of power
+keyword	peer pressure
+keyword	basement
+keyword	frustration
+keyword	freedom of speech
+keyword	cult film
+keyword	telephone prank
+keyword	jeep
+keyword	suburbia
+keyword	punk
+keyword	suburb
+keyword	teen movie
+keyword	rebellion
+keyword	dual identity
+keyword	individuality
+keyword	anti authority
+keyword	despair
+keyword	shyness
+keyword	loneliness
+keyword	confession
+keyword	troubled teen
+keyword	depression
+keyword	conformity
+keyword	teenager
+keyword	masturbation
+keyword	freedom
+keyword	microwave oven
+keyword	misfit
+keyword	radio dj
+keyword	opposites attract
+keyword	defiance
+keyword	intelligence
+keyword	loner
+keyword	topless
+keyword	outcast
+keyword	anti conformity
+keyword	anti establishment
+keyword	independent film
+cast	Christian Slater	Mark Hunter
+cast	Annie Ross	Loretta Creswood
+cast	Andy Romano	Murdock
+cast	Scott Paulin	Brian Hunter
+cast	Mimi Kennedy	Marla Hunter
+cast	Anthony Lucero	Malcolm Kaiser
+cast	Billy Morrissette	Mazz Mazzilli
+cast	Robert Schenkkan	David Deaver
+cast	Cheryl Pollak	Paige Woodward
+cast	Ellen Greene	Jan Emerson
+cast	Samantha Mathis	Nora Diniro
+cast	Keith Stuart Thayer	Luis Chavez
+cast	Jeff Chamberlain	Mr. Woodward
+cast	Lala Sloatman	Janie
+cast	Holly Sampson	Cheryl Biggs
+cast	Annie Rusoff	Annie
+cast	Jonathan Mazer	Jonathan
+cast	Alexander Enberg	Alex
+cast	Ahmet Zappa	Jamie
+cast	Seth Green	Joey
+cast	Robert Gavin	Doug
+cast	Dan Eisenstein	Donald
+cast	Mark Ballou	Eric
+cast	Daryl Sebert	Cory
+cast	Gregg Daniel	Teacher Moore
+cast	Marc Siegler	Teacher Stern
+cast	Ariana Mohit	Alissa
+cast	Jill Jaress	Mrs. Kaiser
+cast	Nolan Hemmings	Chip
+cast	Justin Hessling	Holden Chu
+cast	Jay Lambert	Gordon
+cast	Allan Kolman	Postal Clerk
+cast	Clayton Landey	Shep Sheppard
+cast	David McKnight	Detective #1
+cast	Tony Auer	Police Officer
+cast	Paulette Ballock	Police Dispatcher
+cast	Robert Harvey	Detective Denny
+cast	Matt McGrath	Chris
+cast	Chris Jacobs	Matt
+cast	Virginya Keehne	Linda
+cast	Steve Archer	Harry Video
+cast	Larry Clardy	PTA Parent #1
+cast	John K. Shull	PTA Parent #2
+cast	Lin Shaye	PTA Parent #3
+cast	Michele Bernath	PTA Parent #4
+cast	Steph DuVall	Reporter #1
+cast	Sherri Shaffner	Reporter #2
+cast	Roger Scott	TV Announcer #1 / Crispin
+cast	Gary Dubin	TV Announcer #2
+cast	Nigel Gibbs	Marshall
+cast	David Glasser	Jack
+cast	James Hampton	Arthur Watts
+cast	John Pinero	Carlos Chavez
+cast	Juliet Landau	Joni
+cast	Ed Trotta	Gil
+cast	Kenny McMurphy	Mick
+cast	Alexandra Datig	Reporter #3
+cast	Cathrine Grace	Parent
+cast	Paul Vasquez	Rebellious Student

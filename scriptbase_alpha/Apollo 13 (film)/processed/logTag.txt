@@ -1,0 +1,2 @@
+logline	Three astronauts must devise a strategy to return to Earth safely after their spacecraft undergoes massive internal damage.
+tagline	Houston, we have a problem.

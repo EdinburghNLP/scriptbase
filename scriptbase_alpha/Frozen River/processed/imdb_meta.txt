@@ -1,0 +1,257 @@
+year	2008
+imdb score	7.2
+meta score	82
+genre	Crime
+genre	Drama
+keyword	mohawk
+keyword	money
+keyword	river
+keyword	new york
+keyword	car
+keyword	smuggling
+keyword	border
+keyword	new york state
+keyword	quebec
+keyword	christmas
+keyword	immigrant
+keyword	illegal immigrant
+keyword	frozen river
+keyword	present
+keyword	trailer
+keyword	gambler
+keyword	canada
+keyword	smuggler
+keyword	border crossing
+keyword	single mother
+keyword	blood
+keyword	15 year old
+keyword	black ice
+keyword	christmas eve
+keyword	arrest
+keyword	baby boy
+keyword	indian reservation
+keyword	indian
+keyword	money problems
+keyword	dog
+keyword	potato chip
+keyword	husband wife relationship
+keyword	missing husband
+keyword	merry go round
+keyword	father son relationship
+keyword	river crossing
+keyword	television
+keyword	telephone call
+keyword	apology
+keyword	tribal council
+keyword	suitcase
+keyword	toy
+keyword	fire
+keyword	widow
+keyword	microwave oven
+keyword	bathrobe
+keyword	sitting in a tree
+keyword	crying
+keyword	fire extinguisher
+keyword	carousel
+keyword	glasses
+keyword	snow
+keyword	stopped by police
+keyword	ice
+keyword	buffalo new york
+keyword	christmas lights
+keyword	confession
+keyword	k mart
+keyword	mohawk tribe
+keyword	race relations
+keyword	smoke
+keyword	chinese
+keyword	human smuggling
+keyword	christmas tree
+keyword	snowball
+keyword	watching tv
+keyword	family relationships
+keyword	belching
+keyword	store
+keyword	tribal law
+keyword	cigarette smoking
+keyword	five year old
+keyword	snowing
+keyword	automobile junkyard
+keyword	stolen car
+keyword	motel
+keyword	hot wheels
+keyword	pakistani
+keyword	scam
+keyword	teenage boy
+keyword	poor family
+keyword	baby
+keyword	tears
+keyword	junkyard
+keyword	american indian
+keyword	flashlight
+keyword	fired from the job
+keyword	listening to a radio
+keyword	dollar store
+keyword	gun
+keyword	u.s. canadian border
+keyword	malnutrition
+keyword	native american reservation
+keyword	car lot
+keyword	criminal activity
+keyword	bra
+keyword	illegal immigration
+keyword	tattoo
+keyword	saving money
+keyword	seizure of property
+keyword	absent father
+keyword	lie
+keyword	illegal alien
+keyword	running
+keyword	santa claus
+keyword	winter
+keyword	liar
+keyword	gunshot
+keyword	bingo
+keyword	bar
+keyword	christmas present
+keyword	poverty
+keyword	credit card fraud
+keyword	illegal border crossing
+keyword	poor eyesight
+keyword	pole dancer
+keyword	turning oneself in to the police
+keyword	missing father
+keyword	tang
+keyword	trailer home
+keyword	eyeglasses
+keyword	filling station
+keyword	blow torch
+keyword	credit card
+keyword	food
+keyword	watching a cartoon on tv
+keyword	popcorn
+keyword	gambling
+keyword	discount store
+keyword	friendship
+keyword	police chase
+keyword	mother in law daughter in law relationship
+keyword	truck
+keyword	desperation
+keyword	native american
+keyword	accidental shooting
+keyword	mobile home
+keyword	mother son relationship
+keyword	little boy
+keyword	hiding in a car trunk
+keyword	woods
+keyword	policeman
+keyword	single parent
+keyword	needing money
+keyword	gambling addiction
+keyword	antifreeze
+keyword	brother brother relationship
+keyword	merry christmas
+keyword	stripper
+keyword	abandoned car
+keyword	panties
+keyword	following
+keyword	swing
+keyword	person in a car trunk
+keyword	camper
+keyword	police
+keyword	title directed by female
+keyword	gas station
+keyword	cell phone
+keyword	police officer
+keyword	strip club
+keyword	border patrol
+keyword	fight
+keyword	friend
+keyword	chase
+keyword	shooting
+cast	Melissa Leo	Ray Eddy
+cast	Misty Upham	Lila Littlewolf
+cast	Charlie McDermott	T.J.
+cast	Michael O'Keefe	Trooper Finnerty
+cast	Mark Boone Junior	Jacques Bruno
+cast	James Reilly	Ricky
+cast	Jay Klaitz	Guy Versailles
+cast	John Canoe	Bernie Littlewolf
+cast	Dylan Carusona	Jimmy
+cast	Michael Skye	Billy Three Rivers
+cast	Gargi Shinde	Pakistani Mother
+cast	Rajesh Bose	Pakistani Father
+cast	Azin Jahanbakhsh	Pakistani Dealer
+cast	Jack Phillips	Pakistani Baby
+cast	James Phillips	Pakistani Baby
+cast	Madelyn Cross	Velma - Ticket Taker
+cast	Donna Jacobs	Evelyn Littlewoof
+cast	Trudy Rice	Rosalie
+cast	Craig Shilowich	Matt
+cast	Brittany Leborgne	Pat
+cast	Justin Kotyk	Mick
+cast	Betty Ouyang	Li Wei - Chinese Woman #1
+cast	Nancy Wu	Chen Li - Chinese Woman #2
+cast	Pun Bandhu	Chinese Man #1
+cast	Scott Chan	Chinese Man #2
+cast	Joey Chanlin	Chinese Man #3
+cast	Kenneth Fung	Chinese Man #4
+cast	Brian Lashway	Rent-To-Own Man
+cast	Paul Borst	Rent-To-Own Man
+cast	Trisha M. Sky	Danceuses Nues Bartender
+cast	Angelina Kent	Danceuses Nues Dancer
+cast	Angus Curotte	Wolf Mart Attendant
+cast	Adam Lukens	Mitch
+cast	Thahnhahténhtha Gilbert	Little Jake
+cast	Tom Messner	TV Weatherman
+cast	Betty Deer	Mrs. Three Rivers
+cast	Scott W. Beebie	Surete De Quebec Officer
+cast	Gary Hemingway	Mobile Home Driver
+cast	John K. Vanvalkenburg	Mobile Home Driver
+cast	Jonathan T. Vanvalkenburg	Mobile Home Driver
+cast	Pat Fisher	Mobile Home Customer
+cast	Sherry Drinkwine	Mobile Home Customer
+cast	Konwenni Jacobs	Wolf Mart Patron
+cast	Catherine Deer	Wolf Mart Patron
+cast	Melissa-Jean Deer	Wolf Mart Patron
+cast	Patrice Jersey	Yankee One Dollar Patron
+cast	David Jersey	Yankee One Dollar Patron
+cast	Cameron Jersey	Yankee One Dollar Patron
+cast	Lance Delisle	Bingo Caller / Disc Jockey
+cast	Crystal Shade	Bingo Parlor Worker
+cast	Darleen Thompson	Bingo Parlor Worker
+cast	Joe Clukey	Bingo Parlor Patron
+cast	Nicole Clukey	Bingo Parlor Patron
+cast	John Conroy	Bingo Parlor Patron
+cast	Daniel Dame	Bingo Parlor Patron
+cast	Donnell Dame	Bingo Parlor Patron
+cast	Donna Dame	Bingo Parlor Patron
+cast	Summer Lynn Dame	Bingo Parlor Patron
+cast	Natalie Dame	Bingo Parlor Patron
+cast	Donna David	Bingo Parlor Patron
+cast	Wilfred David	Bingo Parlor Patron
+cast	Brittany Dennis	Bingo Parlor Patron
+cast	Cristal Dennis	Bingo Parlor Patron
+cast	Priscilla Dennis	Bingo Parlor Patron
+cast	Raymond Devins	Bingo Parlor Patron
+cast	Esther Devins	Bingo Parlor Patron
+cast	Ruth A. Dixon	Bingo Parlor Patron
+cast	Linda M. Dombrowski	Bingo Parlor Patron
+cast	Hugette Dubuque	Bingo Parlor Patron
+cast	Mary T. Favreau	Bingo Parlor Patron
+cast	Maria Garrant	Bingo Parlor Patron
+cast	Jacob Guerin	Bingo Parlor Patron
+cast	Meaghan Hollo	Bingo Parlor Patron
+cast	Larry Joiner	Bingo Parlor Patron
+cast	Elizabeth Martineau	Bingo Parlor Patron
+cast	Joseph McLean	Bingo Parlor Patron
+cast	Walter E. Mooney	Bingo Parlor Patron
+cast	Jane Mooney	Bingo Parlor Patron
+cast	Jessica Rock	Bingo Parlor Patron
+cast	Nancy L. Russell	Bingo Parlor Patron
+cast	David See	Bingo Parlor Patron
+cast	Cecile Stone	Bingo Parlor Patron
+cast	Sylvester Watson	Bingo Parlor Patron
+cast	Carrie Watson	Bingo Parlor Patron
+cast	Josie White	Bingo Parlor Patron
+cast	Dino	Thunder

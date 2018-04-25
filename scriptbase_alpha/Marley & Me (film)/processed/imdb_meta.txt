@@ -1,0 +1,122 @@
+year	2008
+imdb score	7.1
+meta score	53
+genre	Comedy
+genre	Drama
+genre	Family
+genre	Romance
+keyword	dog
+keyword	florida
+keyword	death of dog
+keyword	swimming pool
+keyword	newspaper reporter
+keyword	trying to get pregnant
+keyword	pet name in title
+keyword	pet owner relationship
+keyword	dog running on beach
+keyword	miscarriage
+keyword	pet funeral
+keyword	beach
+keyword	death of title character
+keyword	heavily pregnant mother
+keyword	dog swimming in ocean
+keyword	obedience training
+keyword	pet sitter
+keyword	pregnancy test
+keyword	hungry dog
+keyword	ireland
+keyword	labrador retriever
+keyword	dissatisfaction
+keyword	garage
+keyword	punctuation in title
+keyword	ultrasound
+keyword	south florida
+keyword	ampersand in title
+keyword	death of pet
+keyword	loss of pet
+keyword	dog as a gift
+keyword	happy birthday to you
+keyword	positive pregnancy test
+keyword	journalist
+keyword	quitting a job
+keyword	newspaper editor
+keyword	newlywed couple
+keyword	frat pack
+keyword	newspaper columnist
+keyword	pet as a gift
+keyword	dog humping someone's leg
+keyword	pennsylvania
+keyword	based on true story
+keyword	based on book
+keyword	actor shares first name with character
+keyword	character name in title
+keyword	
+cast	Owen Wilson	John
+cast	Jennifer Aniston	Jenny
+cast	Eric Dane	Sebastian
+cast	Kathleen Turner	Ms. Kornblut
+cast	Alan Arkin	Arnie Klein
+cast	Nathan Gamble	Patrick
+cast	Haley Bennett	Lisa
+cast	Ann Dowd	Dr. Platt
+cast	Clarke Peters	Editor
+cast	Finley Jacobsen	Conor
+cast	Lucy Merriam	Colleen
+cast	Bryce Robinson	Patrick
+cast	Ben Hyland	Conor
+cast	Sarah O'Kelly	Neighbor Mom
+cast	Keith Hudson	Big Guy
+cast	Haley Hudson	Debby
+cast	Tom Irwin	Dr. Sherman
+cast	Alec Mapa	Jorge
+cast	Sandy Martin	Lori
+cast	Joyce Van Patten	Mrs. Butterly
+cast	Zabryna Guevara	OB-GYN Nurse
+cast	Megan Grace	Secretary
+cast	Haley Higgins	Shannon
+cast	Ana Ayora	Viviana
+cast	Matthew J. Walters	Billy
+cast	Nicole Herold	Sunbather
+cast	Paul Tei	Dude
+cast	Gaston Renaud	Metro Reporter
+cast	Angelina Assereto	Waitress
+cast	Emmett Robin	Boy
+cast	Lisa Varga	Still Photographer
+cast	Dylan Henry	Patrick
+cast	Stephen Lee Davis	Neighbor Steve
+cast	Michael Baskin	Party Guy Michael
+cast	Bradley Frishman	Patrick
+cast	Eric Conger	Newscaster
+cast	Corbin Kelly	Office Worker / Sports reporter
+cast	Natalie Miller	Realtor
+cast	Almudena Alcazar	Nanny
+cast	Paul Aldane'e	Newspaper Tourist
+cast	Frank Apollonio	Newspaper Employee
+cast	Dave Argenti	Baseball Fan at Marlins Game
+cast	Robert Bizik	Businessman
+cast	Gregory R. Campbell	Journalist
+cast	Clyde	Adult Marley
+cast	Eric Ditman	Reporter
+cast	Emilio Estefan Jr.	Himself
+cast	Gloria Estefan	Herself
+cast	Richard Graves	Newspaper Staff
+cast	John Grogan	Cocker Spaniel Owner
+cast	Mita Heble	Business Professional
+cast	Jonah	Marley
+cast	Erik Joseph	Sentinel News Reporter
+cast	Elissa Kapneck	Beach Girl
+cast	Jamie D. Knee	Girl in Park
+cast	Danielle Lilley	Part Tourist
+cast	Claudia Londoño	Rollerblader
+cast	Marc Macaulay	The Police Officer
+cast	John Mitchell	Newspaper Reporter
+cast	Kristin Popelka	Newsroom Reporter
+cast	Elizabeth Powers	Herself
+cast	Emily Evan Rae	Emma
+cast	Savannah Paige Rae	Baseball Fan at Marlins Game
+cast	Rudy	Marley
+cast	Robert Schlegel	Police Officer
+cast	Chris Shaw	Reporter
+cast	Keyon Smith	Newspaper Employee
+cast	Dan Van Wert	Journalist
+cast	Mike Wilson	Sports Reporter

@@ -1,0 +1,114 @@
+year	1986
+imdb score	5.8
+meta score	N/A
+genre	Horror
+genre	Thriller
+keyword	jason voorhees
+keyword	struck by lightning
+keyword	severed arm
+keyword	ambulance
+keyword	cemetery
+keyword	head ripped off
+keyword	forest
+keyword	underwater fight
+keyword	sex
+keyword	drowning
+keyword	grave robbing
+keyword	slasher
+keyword	police officer stabbed
+keyword	cut to pieces
+keyword	shovel
+keyword	stabbed in the face
+keyword	lake
+keyword	cult film
+keyword	summer camp
+keyword	decapitation
+keyword	hockey mask
+keyword	masked killer
+keyword	comic drunk
+keyword	heart ripped out
+keyword	neck breaking
+keyword	1980s
+keyword	sixth part
+keyword	actual animal killed
+keyword	flashlight
+keyword	police officer crushed
+keyword	murder
+keyword	slasher flick
+keyword	splatter
+keyword	severed leg
+keyword	underwater
+keyword	violence
+keyword	gothic
+keyword	numbered sequel
+keyword	zombie
+keyword	gore
+keyword	lifting female in air
+keyword	stabbed in the head
+keyword	masked villain
+keyword	flashback
+keyword	prison
+keyword	friday the thirteenth
+keyword	new jersey
+keyword	sequel
+keyword	severed head
+keyword	villain not really dead cliche
+keyword	sheriff
+keyword	machete
+keyword	paintball
+keyword	dismemberment
+keyword	looking at the camera
+keyword	police
+keyword	breaking the fourth wall
+keyword	returning character with different actor
+keyword	teenager
+keyword	mask
+keyword	off screen murder
+keyword	car chase
+keyword	sequel to cult favorite
+keyword	serial killer
+keyword	crystal lake new jersey
+keyword	reanimation
+keyword	boat
+keyword	recreational vehicle
+keyword	electrocution
+keyword	police officer killed
+keyword	children
+keyword	lifting someone into the air
+keyword	back from the dead
+keyword	double impalement
+keyword	camaro
+keyword	character name in title
+keyword	number in title
+keyword	surprise ending
+cast	Thom Mathews	Tommy Jarvis
+cast	Jennifer Cooke	Megan Garris
+cast	David Kagen	Sheriff Michael Garris
+cast	Renée Jones	Sissy Baker
+cast	Kerry Noonan	Paula
+cast	Darcy DeMoss	Nikki
+cast	Tom Fridley	Cort
+cast	Alan Blumenfeld	Larry
+cast	Matthew Faison	Stan
+cast	Ann Ryerson	Katie
+cast	Tony Goldwyn	Darren
+cast	Nancy McLoughlin	Lizabeth
+cast	Ron Palillo	Allen Hawes
+cast	C.J. Graham	Jason Voorhees
+cast	Vincent Guastaferro	Deputy Rick Cologne
+cast	Michael Swan	Officer Pappas
+cast	Courtney Vickery	Nancy
+cast	Whitney Rydbeck	Roy
+cast	Bob Larkin	Martin
+cast	Wallace Merck	Burt
+cast	Thomas Nowell	Tyen
+cast	Justin Nowell	Billy
+cast	Temi Epstein	Little Girl
+cast	Mike Nomad	Thornton
+cast	Roger Rose	Steven
+cast	Cynthia Kania	Annette
+cast	Sheri Levinsky	Bus Monitor
+cast	Taras O'Har	Little Boy
+cast	Kimberly Beck	Trish Jarvis
+cast	Corey Feldman	Tommy Jarvis
+cast	Valentino Curati	Blind Man

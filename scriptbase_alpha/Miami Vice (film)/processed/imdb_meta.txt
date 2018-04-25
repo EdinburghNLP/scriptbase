@@ -1,0 +1,219 @@
+year	2006
+imdb score	6.0
+meta score	65
+genre	Action
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	undercover
+keyword	detective
+keyword	fbi
+keyword	informer
+keyword	fbi agent
+keyword	murder
+keyword	drug dealer
+keyword	speeding car
+keyword	remake of tv show
+keyword	severed arm
+keyword	casino
+keyword	hand to hand combat
+keyword	machine gun
+keyword	video camera
+keyword	kidnapping
+keyword	port au prince haiti
+keyword	stabbed in the throat
+keyword	urban setting
+keyword	prostitution ring
+keyword	hospital
+keyword	drug lord
+keyword	cocaine
+keyword	shot to death
+keyword	coma
+keyword	shot in the chest
+keyword	city name in title
+keyword	neo noir
+keyword	police officer
+keyword	no opening credits
+keyword	creole
+keyword	speedboat
+keyword	security leak
+keyword	kissing while having sex
+keyword	stabbing
+keyword	interracial friendship
+keyword	pistol
+keyword	shootout
+keyword	martial arts
+keyword	blood
+keyword	physician
+keyword	double cross
+keyword	radar
+keyword	siren
+keyword	undercover work
+keyword	drug deal
+keyword	title at the end
+keyword	handcuffs
+keyword	miami florida
+keyword	deception
+keyword	armed guard
+keyword	buttocks
+keyword	shower
+keyword	money
+keyword	shot in the leg
+keyword	tension
+keyword	music band
+keyword	undercover cop
+keyword	blood splatter
+keyword	blood on camera lens
+keyword	premarital sex
+keyword	grenade
+keyword	place name in title
+keyword	death
+keyword	havana cuba
+keyword	police
+keyword	hostage
+keyword	smuggling
+keyword	shot in the neck
+keyword	stabbed in the chest
+keyword	based on tv series
+keyword	money laundering
+keyword	stabbed in the back
+keyword	exploding building
+keyword	interracial romance
+keyword	nudity
+keyword	colombia
+keyword	nightclub
+keyword	watching tv
+keyword	ocean
+keyword	interracial sex
+keyword	no title at beginning
+keyword	heroin
+keyword	underworld
+keyword	sex
+keyword	judo
+keyword	suspicion
+keyword	mole
+keyword	geneva switzerland
+keyword	remake
+keyword	exploding boat
+keyword	shot in the arm
+keyword	tattoo
+keyword	colombian
+keyword	computer
+keyword	dancing
+keyword	pimp
+keyword	ambulance
+keyword	weapon
+keyword	south america
+keyword	surveillance
+keyword	shot in the forehead
+keyword	airplane
+keyword	suspense
+keyword	illegal drugs
+keyword	shotgun
+keyword	shot in the head
+keyword	breasts
+keyword	suicide
+keyword	sex in shower
+keyword	hit by a truck
+keyword	fistfight
+keyword	pilot
+keyword	judo throw
+keyword	police car
+keyword	female nudity
+keyword	set up
+keyword	violence
+keyword	gambling
+keyword	crushed throat
+keyword	ukraine
+keyword	explosion
+keyword	exploding trailer
+keyword	helicopter
+keyword	prostitute
+keyword	bomb
+keyword	drug trafficking
+cast	Colin Farrell	Sonny Crockett
+cast	Jamie Foxx	Ricardo Tubbs
+cast	Li Gong	Isabella
+cast	Naomie Harris	Trudy Joplin
+cast	Ciarán Hinds	FBI Agent Fujima
+cast	Justin Theroux	Detective Larry Zito
+cast	Barry Shabaka Henley	Castillo
+cast	Luis Tosar	Montoya
+cast	John Ortiz	Jose Yero
+cast	Elizabeth Rodriguez	Gina Calabrese
+cast	Domenick Lombardozzi	Detective Stan Switek
+cast	Eddie Marsan	Nicholas
+cast	Isaach De Bankolé	Neptune
+cast	John Hawkes	Alonzo Stevens
+cast	Tom Towles	Coleman
+cast	Mario Ernesto Sánchez	El Tiburon
+cast	Frankie J. Allison	Deep-Chested Aryan Brother
+cast	Tony Curran	Aryan Brother
+cast	Stephan Jones	Dark-Haired Aryan Brother
+cast	Rob Larson	Long-Haired Aryan Brother
+cast	Don Frye	Long-Haired Aryan Brother
+cast	Maxim Danilov	Russian FBI Agent
+cast	Pasha D. Lychnikoff	Russian FBI Agent
+cast	Ana Cristina de Oliveira	Female Bartender
+cast	Everlayn Borges	Miss Cuba
+cast	Juanita Billue	Miss Jamaica
+cast	Patrick Michael Buckley	Air Traffic Controller
+cast	Marc Macaulay	Air Traffic Supervisor
+cast	Mike Pniewski	ER Doctor
+cast	Vivienne Sendaydiego	ER Doctor
+cast	Richard Katanga	Haitian Paramilitary Captain
+cast	Dexter Fletcher	Haitian Paramilitary
+cast	Oleg Taktarov	Russian Security
+cast	Andrew Rasputin	Isabella's Security
+cast	Ilan Krigsfeld	Isabella's Russian Bodyguard
+cast	Juliana Guedes	Isabella's Secretary
+cast	James Maurice Rowan Jr.	Guy in Double Wide Trailer
+cast	Deborah Demere	Woman in Double Wide Trailer
+cast	Abdel Tornes	The Courier
+cast	Maria Leon	Casino Office Worker
+cast	Kenny Acevedo	FBI Agent
+cast	Julia Yarbrough	Herself
+cast	Ryan M. Phillips	Newscaster
+cast	Amir Aviram	Guy Hitting on Gina
+cast	Julia Perevedentseva	Blonde Talking to Tubbs
+cast	Gilbert Quintana	Marine Shed Guard
+cast	Eboni Nichols	Dancer
+cast	Breven Angaelica Warren	Dancer
+cast	Paul Aldane'e	Mansion VIP
+cast	Alexander Alonso	Yero Security
+cast	Jay Amor	Yero Security
+cast	Ryan Anthony	Club Patron
+cast	Ashley Avis	Supermodel VIP
+cast	Brad Batchelor	Boat Race Fan
+cast	Jeannie Belgrave	VIP Party Guest
+cast	Arthur Bergman	Man Waiting in Nightclub Line
+cast	Robert Berson	Drug Cartel Operator
+cast	Tara Cardinal	Club Girl
+cast	Raniel David Castillo	Police Officer on Dock
+cast	Alexandra Cheron	Nurse
+cast	Michelle Chin	Isabella's Mother
+cast	David Danello	Bodyguard
+cast	Jessica DiTomaso	Socialite
+cast	Oscar Ezpeleta	Pedro
+cast	Maritza Fernandez	Customer at Bar / Dancer
+cast	Alexander Garcia	Mansion Nightclub Patron
+cast	Guillermo Gomez	Yero Security
+cast	Hailey Hansard	Featured / Dancer
+cast	Jett Jansen	Himself
+cast	Stephane Kay	Miami Nightclub Doorman
+cast	Jamie D. Knee	Pretty Girl
+cast	Gil Lopez Jr.	Mansion Nightclub Patron
+cast	Walter Medina	Mansion Nightclub Patron
+cast	Lorin Moore	Air Traffic Controller
+cast	Carolina Maria Mora	Salsa Dancer
+cast	Stella Oliveros	Club Dancer
+cast	Claudine Oriol	Club Patron
+cast	Pablo Patlis	Bartender
+cast	Chris Petoyan	Agent Perry
+cast	Dave Scott	Powerboat Driver
+cast	Nicholas Simmons	Pushed Clubgoer
+cast	Taso N. Stavrakis	Long-Haired Sniper
+cast	Lorenzo Toledo	Yero Security
+cast	John Tomlinson	Powerboat Throttleman
+cast	Christine Tejada Torchío	Casino Player
+cast	Wendy Wells-Gunkel	Beach Spectator

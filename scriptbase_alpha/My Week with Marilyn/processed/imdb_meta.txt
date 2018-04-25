@@ -1,0 +1,92 @@
+year	2011
+imdb score	7.0
+meta score	65
+genre	Biography
+genre	Drama
+keyword	movie
+keyword	showgirl
+keyword	movie star
+keyword	prince
+keyword	actress
+keyword	filmmaker
+keyword	assistant director
+keyword	1950s
+keyword	director versus star
+keyword	sensuality
+keyword	writer
+keyword	college
+keyword	filmmaking
+keyword	screenplay
+keyword	dressing room
+keyword	drugs
+keyword	portrait of abraham lincoln
+keyword	impossible love
+keyword	film within a film
+keyword	female nudity
+keyword	film set
+keyword	rolls royce
+keyword	river
+keyword	movie making
+keyword	sex appeal
+keyword	reference to lee strasberg
+keyword	tenderness
+keyword	film director
+keyword	based on memoir
+keyword	script reading
+keyword	innocence
+keyword	director actor relationship
+keyword	library
+keyword	myth
+keyword	skinny dipping
+keyword	london england
+keyword	reference to leonardo da vinci
+keyword	name in title
+keyword	wardrobe
+keyword	naivety
+keyword	female rear nudity
+keyword	character name in title
+cast	Michelle Williams	Marilyn Monroe
+cast	Eddie Redmayne	Colin Clark
+cast	Julia Ormond	Vivien Leigh
+cast	Kenneth Branagh	Sir Laurence Olivier
+cast	Pip Torrens	Sir Kenneth Clark
+cast	Geraldine Somerville	Lady Jane Clark
+cast	Michael Kitchen	Hugh Perceval
+cast	Miranda Raison	Vanessa
+cast	Karl Moffatt	Jack Cardiff
+cast	Simon Russell Beale	Cotes-Preedy
+cast	Toby Jones	Arthur Jacobs
+cast	Robert Portal	David Orton
+cast	Philip Jackson	Roger Smith
+cast	Jim Carter	Barry
+cast	Victor McGuire	Andy
+cast	Dougray Scott	Arthur Miller
+cast	Richard Attlee	Reporter #1
+cast	Michael Hobbs	Reporter #2
+cast	Brooks Livermore	Reporter #3
+cast	Rod O'Grady	Reporter #4
+cast	Dominic Cooper	Milton Greene
+cast	Richard Clifford	Richard Wattis
+cast	Judi Dench	Dame Sybil Thorndike
+cast	Zoë Wanamaker	Paula Strasberg
+cast	Emma Watson	Lucy
+cast	Gerard Horan	Trevor
+cast	Alex Lowe	Denys Coop
+cast	Georgie Glen	Rosamund Greenwood
+cast	Richard Shelton	Waiter
+cast	Peter Wight	Lucy's Father
+cast	Paul Herzberg	Paul Hardwick
+cast	James Clay	Jeremy Spenser
+cast	Des McAleer	Senior Policeman
+cast	Derek Jacobi	Sir Owen Morshead
+cast	Jem Wall	Spectator
+cast	Ben Sando	Schoolboy #1
+cast	Josh Morris	Schoolboy #2
+cast	David Rintoul	Dr. Connell
+cast	Penny Ryder	Sybil Thorndike Double
+cast	Sean Vanderwilt	Male Dancer #1
+cast	Adam Perry	Male Dancer #2
+cast	Peter Brown	Police Officer
+cast	Steve Conway	Focus Puller
+cast	Luc Eden	Passer-by
+cast	Martin Poole	Clapperboy

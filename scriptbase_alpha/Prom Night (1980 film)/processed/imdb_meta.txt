@@ -1,0 +1,180 @@
+year	1980
+imdb score	5.4
+meta score	N/A
+genre	Horror
+genre	Mystery
+keyword	prom
+keyword	death
+keyword	high school
+keyword	night
+keyword	killer
+keyword	masked killer
+keyword	hiding
+keyword	corpse
+keyword	high school dance
+keyword	multiple stabbing
+keyword	crown
+keyword	van
+keyword	desire
+keyword	1980s
+keyword	tragic event
+keyword	car crash
+keyword	psycho killer
+keyword	disco
+keyword	psycho thriller
+keyword	long hair
+keyword	severed head
+keyword	cigarette smoking
+keyword	fondling
+keyword	dead man
+keyword	principal
+keyword	mercilessness
+keyword	psychopathic killer
+keyword	ski mask
+keyword	stabbed to death
+keyword	murder of a child
+keyword	sex
+keyword	dead woman
+keyword	frustration
+keyword	destruction
+keyword	cruelty
+keyword	attraction
+keyword	chase
+keyword	dead boy
+keyword	psycho
+keyword	bare breasts
+keyword	blood
+keyword	throat slitting
+keyword	lust
+keyword	remade
+keyword	high school prom
+keyword	mass murder
+keyword	group of friends
+keyword	stalker
+keyword	horror movie remade
+keyword	garage
+keyword	prologue
+keyword	gym class
+keyword	high school friend
+keyword	virginity
+keyword	principal's office
+keyword	sexual desire
+keyword	disembodied head
+keyword	sexual attraction
+keyword	love
+keyword	screaming
+keyword	unmasking
+keyword	running
+keyword	murder
+keyword	car
+keyword	friendship
+keyword	past
+keyword	high school student
+keyword	dark past
+keyword	wrath
+keyword	run
+keyword	subjective camera
+keyword	exploitation
+keyword	stalking
+keyword	nipples
+keyword	dancing
+keyword	rehearsal
+keyword	head wound
+keyword	multiple murder
+keyword	brother sister relationship
+keyword	character's point of view camera shot
+keyword	stabbed in the throat
+keyword	police
+keyword	little girl
+keyword	falling from height
+keyword	sensuality
+keyword	teenager
+keyword	dead girl
+keyword	explosion
+keyword	dance
+keyword	taunting
+keyword	slasher flick
+keyword	coming of age
+keyword	first of series
+keyword	mystery killer
+keyword	prom queen
+keyword	sadism
+keyword	anger
+keyword	stabbing
+keyword	shard
+keyword	crying
+keyword	marijuana
+keyword	mysterious man
+keyword	high school sweethearts
+keyword	axe
+keyword	bloodbath
+keyword	hide and seek
+keyword	axe murder
+keyword	broken glass
+keyword	locker room
+keyword	car driving
+keyword	slasher
+keyword	jealousy
+keyword	rage
+keyword	shorts
+keyword	falling out a window
+keyword	female nudity
+keyword	friend
+keyword	sadness
+keyword	stairs
+keyword	mooning
+keyword	brunette
+keyword	decapitation
+keyword	telephone call
+keyword	teenage sex
+keyword	teen drug use
+keyword	scream
+keyword	caress
+keyword	trauma
+keyword	first part
+keyword	serial killer
+keyword	blonde
+keyword	blood splatter
+keyword	knife murder
+keyword	suburb
+keyword	child killing a child
+keyword	revenge
+keyword	violence
+keyword	teen horror
+keyword	female rear nudity
+keyword	broken mirror
+keyword	independent film
+keyword	
+cast	Leslie Nielsen	Mr. Hammond
+cast	Jamie Lee Curtis	Kim
+cast	Casey Stevens	Nick
+cast	Anne-Marie Martin	Wendy
+cast	Antoinette Bower	Mrs. Hammond
+cast	Michael Tough	Alex
+cast	Robert A. Silverman	Sykes
+cast	Pita Oliver	Vicki
+cast	David Mucci	Lou
+cast	Jeff Wincott	Drew
+cast	Mary Beth Rubens	Kelly
+cast	George Touliatos	McBride
+cast	Melanie Morse MacQuarrie	Henri-Anne
+cast	David Gardner	Dr. Fairchild
+cast	Joy Thompson	Jude
+cast	Sheldon Rybowski	Slick
+cast	Rob Garrison	Sayer
+cast	David Bolt	Weller
+cast	Beth Amos	Housekeeper
+cast	Sonia Zimmer	Melanie
+cast	Sylvia Martin	Mrs. Cunningham
+cast	Elizabeth M. Mason	Adele
+cast	Pam Henry	Car Hop
+cast	Ardon Bess	Teacher
+cast	Lee Wildgen	Gang Member
+cast	Brock Simpson	Young Nick
+cast	Leslie Scott	Young Wendy
+cast	Tammy Bourne	Young Robin
+cast	Dean Bosacki	Young Alex
+cast	Debbie Greenfield	Young Kim
+cast	Karen Forbes	Young Jude
+cast	Joyce Kite	Young Kelly
+cast	Michele Scarabelli	Dancer at Prom

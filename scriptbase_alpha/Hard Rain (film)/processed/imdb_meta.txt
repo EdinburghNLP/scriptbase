@@ -1,0 +1,135 @@
+year	1998
+imdb score	5.7
+meta score	36
+genre	Action
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	sheriff
+keyword	dam
+keyword	flood
+keyword	church
+keyword	thief
+keyword	armored truck
+keyword	small town
+keyword	saved at the last second
+keyword	evacuation
+keyword	disaster film
+keyword	molotov cocktail
+keyword	enemies become friends
+keyword	shot in the throat
+keyword	death by electrocution
+keyword	deputy
+keyword	false accusation
+keyword	box office flop
+keyword	thrown through a window
+keyword	character repeating someone else's dialogue
+keyword	speedboat
+keyword	reference to bruce springsteen
+keyword	stabbed in the neck
+keyword	explosion
+keyword	corrupt cop
+keyword	security guard
+keyword	shootout
+keyword	pistol
+keyword	neo noir
+keyword	husband wife relationship
+keyword	shot in a church
+keyword	soaked clothes
+keyword	reference to albert einstein
+keyword	attempted rape
+keyword	overflowing water
+keyword	stained glass window
+keyword	electrocution
+keyword	boat
+keyword	lens flare
+keyword	thrown from a boat
+keyword	torch
+keyword	shot to death
+keyword	improvised snorkel
+keyword	jail cell
+keyword	shot in the eye
+keyword	stolen vehicle
+keyword	death of uncle
+keyword	gunfight
+keyword	attic
+keyword	studio logo segues into film
+keyword	kicking in a window
+keyword	person on fire
+keyword	audio cassette
+keyword	nagging wife
+keyword	jet ski
+keyword	shotgun
+keyword	hiding in a car
+keyword	murder
+keyword	hidden money
+keyword	uncle nephew relationship
+keyword	police officer shot
+keyword	machine gun
+keyword	shot in the arm
+keyword	reference to eddie money
+keyword	near drowning
+keyword	state police
+keyword	heist
+keyword	handrail
+keyword	boat chase
+keyword	reference to pat benatar
+keyword	action violence
+keyword	shot in the back
+keyword	robbery gone awry
+keyword	main character shot
+keyword	altered version of studio logo
+keyword	cemetery
+keyword	reference to swamp thing
+keyword	death of partner
+keyword	breaking handcuffs
+keyword	church fire
+keyword	abandoned school
+keyword	shootout in a church
+keyword	storm
+keyword	product placement
+keyword	killed on birthday
+keyword	rescue
+keyword	teacher
+keyword	shot in the chest
+keyword	handcuffed
+keyword	bear trap
+keyword	police officer killed
+keyword	one night
+keyword	staircase
+keyword	greed
+keyword	rowboat
+keyword	villain not really dead cliche
+keyword	police station
+keyword	violence
+keyword	handcuffed woman
+keyword	rain
+keyword	rifle
+keyword	bag of money
+keyword	underwater scene
+keyword	attempt to save a life
+keyword	african american
+keyword	police officer
+keyword	independent film
+keyword	surprise ending
+keyword	
+cast	Morgan Freeman	Jim
+cast	Christian Slater	Tom
+cast	Randy Quaid	Sheriff Mike Collins
+cast	Minnie Driver	Karen
+cast	Edward Asner	Uncle Charlie
+cast	Michael A. Goorjian	Kenny
+cast	Dann Florek	Mr. Mehlor
+cast	Ricky Harris	Ray
+cast	Mark Rolston	Wayne Bryce
+cast	Peter Murnik	Phil
+cast	Wayne Duvall	Hank
+cast	Richard Dysart	Henry Sears
+cast	Betty White	Doreen Sears
+cast	Ray Baker	Mayor
+cast	Lisa Fuhrman	Mayor's Wife
+cast	Jay Patterson	Mr. Wellman
+cast	Michael Monks	Father on Local News
+cast	Mackenzie Bryce	Baby on Local News
+cast	Dono Langley	Honda Driver
+cast	Anthony Montgomery	

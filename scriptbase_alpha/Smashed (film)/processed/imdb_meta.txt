@@ -1,0 +1,63 @@
+year	2012
+imdb score	6.8
+meta score	71
+genre	Comedy
+genre	Drama
+keyword	support group
+keyword	addiction
+keyword	marital separation
+keyword	profanity
+keyword	mother daughter relationship
+keyword	bar
+keyword	drunk
+keyword	abstinence
+keyword	drunkenness
+keyword	awkwardness
+keyword	marital breakup
+keyword	alcoholics anonymous
+keyword	husband wife relationship
+keyword	alcoholic
+keyword	elementary school
+keyword	alcoholic relapse
+keyword	teacher
+keyword	alcoholism
+keyword	losing a job
+keyword	substance abuse
+keyword	self improvement
+keyword	drunken sex
+keyword	alcoholic husband
+keyword	school
+cast	Mary Elizabeth Winstead	Kate Hannah
+cast	Aaron Paul	Charlie Hannah
+cast	Nick Offerman	Dave Davies
+cast	Megan Mullally	Principal Barnes
+cast	Octavia Spencer	Jenny
+cast	Mary Kay Place	Rochelle
+cast	Kyle Gallner	Owen Hannah
+cast	Mackenzie Davis	Millie
+cast	Bree Turner	Freda
+cast	Brad Carter	Felix
+cast	Barrett Shuler	Greg
+cast	Rene Rivera	Rico
+cast	Richmond Arquette	Arlo
+cast	David Grammer	Junior
+cast	Ron Lynch	Chuck
+cast	Elise Salomon	Tina
+cast	Anjini Taneja Azhar	Winnie
+cast	Aileen Davila	Hillary
+cast	Silas Agape Garcia	Ramon
+cast	Wilson Schwartz	Toby
+cast	Haley Brooke Walker	Isabel
+cast	Lisa Yamada	Angela
+cast	Murray Gershenz	Ted
+cast	Jane Noltemeyer	Susan
+cast	Brian C. Haynes	DJ Supa Crispy
+cast	Marc Abbink	Bar Patron
+cast	Patti Allison	Rocky
+cast	Gabriel Aslan	Classroom Student
+cast	Carol Avery	Lily
+cast	Susan Burke	Cora
+cast	Danilo Di Julio	Jimmy
+cast	Natalie Dreyfuss	Amber
+cast	Kelly Ebsary	Shana
+cast	Daniel Jay Salmen	Donovan

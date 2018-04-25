@@ -1,0 +1,99 @@
+year	1991
+imdb score	5.6
+meta score	N/A
+genre	Action
+keyword	monastery
+keyword	fighting
+keyword	martial arts master
+keyword	kickboxer
+keyword	art
+keyword	martial arts
+keyword	martial arts tournament
+keyword	buddhist monk
+keyword	bare chested male
+keyword	homoeroticism
+keyword	showdown
+keyword	temple
+keyword	homoerotic fight
+keyword	beating
+keyword	blood
+keyword	male underwear
+keyword	bully
+keyword	martial artist
+keyword	sequel
+keyword	kickboxing
+keyword	combat
+keyword	brutality
+keyword	hand to hand combat
+keyword	bare chested male bondage
+keyword	buddhist
+keyword	kickboxing tournament
+keyword	kung fu
+keyword	speedo
+keyword	fight
+keyword	violence
+keyword	tough guy
+keyword	bald
+keyword	shaolin temple
+keyword	monk
+keyword	mixed martial arts
+keyword	opening action scene
+keyword	hero
+keyword	buddhism
+keyword	brawl
+keyword	shaolin monk
+keyword	fistfight
+keyword	action hero
+keyword	bully comeuppance
+keyword	shaolin kung fu
+keyword	independent film
+keyword	
+cast	Reese Madigan	Drew Carson
+cast	Trent Bushey	Trevor Gottitall
+cast	Daniel Dae Kim	Gao
+cast	Billy Chang	Li
+cast	Cliff Lenderman	D.S.
+cast	Henry O	San De
+cast	Kim Chan	Master Kwan
+cast	Alice Zhang Hung	Ashena
+cast	Jean Louisa Kelly	Maria
+cast	D.D. Delaney	Bob
+cast	Sifu Jai	Dr. Pfeelgut
+cast	Michael Depasquale Jr.	Announcer
+cast	Toki Hill	Coach #1
+cast	Alan Pottinger	Young Adult
+cast	Andrew Shue	Competitor
+cast	Donna Rogers	Computer Tech
+cast	Mark Swetland	'Bruce Lee'
+cast	Eric Kong	Yaba
+cast	Philip Lau	Yeye
+cast	Florence Ngai	Headmistress Lo
+cast	George Lo	Arhat
+cast	Albert Hui	Senior Monk
+cast	Howard Wong	Senior Monk
+cast	David Chan	Fighting Monk
+cast	Joseph Chan	Fighting Monk
+cast	Frederick Ko	Wu
+cast	Ha-lei Yip	Stu
+cast	Jeremy Yeung	Grandfather
+cast	Ida Luk	Girl Student
+cast	Edith Cheng	Girl Student
+cast	Jane Wong	Girl Student
+cast	Henry Chu	Tough
+cast	Stephen So	Tough
+cast	Raymond Cheung	Disciple
+cast	John Hung	Disciple
+cast	Lawrence Cho	Disciple
+cast	Ming-yang Li	Disciple
+cast	Aaron Ng	Disciple
+cast	Norman Ko	Disciple
+cast	Robert Hung	Disciple
+cast	Roger Kar	Disciple
+cast	Victor Kun	Disciple
+cast	Wallace Chan	Disciple
+cast	Willim Wong	Disciple
+cast	Marcos Antonio Miranda	Coach
+cast	Paul Mormando	Fighter #1
+cast	Daniel Dac Nim	Gao Yun
+cast	Gregory Marshall Smith	The Facilitator
+cast	Mike	Conroy

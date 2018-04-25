@@ -1,0 +1,96 @@
+year	1992
+imdb score	6.5
+meta score	N/A
+genre	Crime
+genre	Drama
+genre	Romance
+genre	Thriller
+keyword	photographer
+keyword	mob
+keyword	news photographer
+keyword	picture
+keyword	1940s
+keyword	new york city
+keyword	russian immigrant
+keyword	neo noir romance
+keyword	gun shooting
+keyword	police
+keyword	freelance journalist
+keyword	cigar smoking
+keyword	cigarette smoking
+keyword	picture book
+keyword	crime scene
+keyword	having picture taken
+keyword	lonely man
+keyword	lonely immigrant
+keyword	blackmail
+keyword	nightclub
+keyword	camera
+keyword	neo noir
+keyword	italian mafia
+keyword	taking picture
+keyword	black market
+keyword	middle age romance
+keyword	newspaper photographer
+keyword	murder
+keyword	shutterbug
+keyword	massacre
+keyword	gas rationing
+keyword	little italy
+keyword	photojournalist
+keyword	
+cast	Joe Pesci	Leon Bernstein
+cast	Richard Riehle	Officer O'Brien
+cast	Bryan Travis Smith	Young Cop
+cast	Max Brooks	Teen at Thompson Street
+cast	Richard Schiff	Thompson Street Photographer
+cast	Laura Cerón	Puerto Rican Woman
+cast	Chuck Gillespie	Cop at Puerto Rican Tenement
+cast	Christian Stolte	Ambulance Attendant
+cast	Jack Denbo	Photo Editor
+cast	Ellen McElduff	Lonely Woman at Drugstore
+cast	Marge Kotlisky	Rineman's Receptionist
+cast	Timothy Hendrickson	Richard Rineman
+cast	Del Close	H.R. Rineman
+cast	Henry Bolzon	Cafe Society Photographer
+cast	Jared Harris	Danny the Doorman
+cast	Kevin Dorsey	Singer
+cast	Gian-Carlo Scandiuzzi	Cafe Society Maitre D'
+cast	Barbara Hershey	Kay Levitz
+cast	David Gianopoulos	Emilio Portofino
+cast	Steve Forleo	Hood
+cast	Mick McGovern	Cop with Hood
+cast	Maurice Bravo	Photographer #1
+cast	Tom Lauricella	Photographer #2
+cast	George Lugg	Photographer #3
+cast	Vinny Argiro	Sergeant at Police Station
+cast	Gerry Becker	Inspector Conklin
+cast	Tim Gamble	Agent Chadwick
+cast	David Hull	Thatcher White
+cast	Kyle Moore	Young Agent
+cast	Bob Gunton	Older Agent
+cast	Richard Foronjy	Frank Farinelli
+cast	Louie Lanciloti	Mikey
+cast	Stanley Tucci	Sal
+cast	Jerry Adler	Arthur Nabler
+cast	Patricia Healy	Vera Hickson
+cast	Peter Maloney	Federal Watchman
+cast	Randall Stanton	Federal Guard
+cast	Jason Wells	Garage Attendant
+cast	Dominic Chianese	Spoleto
+cast	Joe Guzaldo	Spoleto's Lieutenant
+cast	Al Mancini	Camera Shop Clerk
+cast	Joe Greco	Villa Guard / Hitman
+cast	Ian Abercrombie	Mr. Brown
+cast	Nick Tate	Henry Haddock Jr.
+cast	Jean Zarzour	Sal's Wife
+cast	Toni Fleming	Sal's Mother
+cast	John M. Watson Sr.	Scullion
+cast	Guido DiMarco	Mr. D'Angelo
+cast	Teresa DiMarco	Mrs. D'Angelo
+cast	Phil Locker	Arresting Cop
+cast	Shay Duffin	Chief of Police
+cast	Jon Farris	Albert Gerard
+cast	George Fisher	Tonio
+cast	Charles D. Miller	Crime Scene Cop
+cast	David Pittinger	Man on Street

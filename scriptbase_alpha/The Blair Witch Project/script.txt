@@ -1,0 +1,2528 @@
+Blair Witch Project, The (1999) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Blair Witch Project, The (1999) movie scriptby Daniel Myrick and Eduardo Sanchez.This Transcript was taken from the early Sundance Film Fest version of the movie.
+More info about this movie on IMDb.com
+
+
+In October of 1994, three student filmmakers disappeared in the woods near Burkittsville, Maryland while shooting a documentary called "The Blair Witch Project".
+
+A year later their footage was found.
+
+
+Man off camera: You look a little blurry.  Let me zoom out okay?
+
+Heather:  Okay.  Huh.
+
+Man:  Okay got you.
+
+Heather:  This is my home.  Which I am leaving the comforts of, for the weekend.  To explore the Blair Witch.
+
+(Close up of pile of books)
+
+Heather:  Some essential reading.  How To Stay Alive in the Woods, cause you never know what's going to happen.  
+
+(Picks up book)
+
+Heather: And this is a very important book, because it has the article about what happened at Coffin Rock.
+
+Man:  That's pretty old.
+
+Heather:  Yeah it's totally old.
+
+Heather:  And this is my field notebook.
+
+(Cuts to Joshes car)
+
+Heather:  Hey it's Mister Punctuality!  How the hell are you this morning?
+
+Josh:  Tired.  So I got the CP up.
+
+Heather:  Good.  It's important, cause that's what were shooting on.
+
+Josh:  No one knows I have it, but I got it.
+
+Heather: Alright, come on.  Into the house.
+
+(Circling each other with cameras.)
+
+Heather:  (laughing) I'm not going to bump into shit from the directors' chair.  I don't want to fuck up the cameras before we leave.  Hey!  Nice camera man!  All right I know I'm hitting the steps.
+
+(Inside Heaters house, Josh looking tired with head down on table)
+
+Josh:  So where's Mikey at?
+
+Heather:  I have to go get him.
+
+Josh:  Okay.
+
+Heather:  Supposed to be there at 8:30.
+
+Josh:  Okay.
+
+Heather:  Which means we are already going to be behind schedule, but it's important to have juice.
+
+Josh:  That's cool.
+
+Cut to outside Mike's house inside car.
+
+Heather:  I guess your Mike! 
+
+Josh starts to back away leaving mike on the doorstep.
+
+Heather:  (whisper) stop, stop, stop, stop.
+
+Will we get to meet your Mamma?
+
+
+Inside car.
+
+Heather:  How are you Mike?  It's nice to meet you.
+
+Mike:  I'm doing good, and I'm very excited about this.  Thank you for the opportunity.
+
+Heather:  Well thank you for getting the equipment together.
+
+
+Cuts to grocery store.
+
+Holding box of rice over shopping cart
+
+Josh:  Yeah we've got rice.  Got mustard, fudge.
+
+Mike holds up Powerbar
+
+Mike:  Oatmeal and raisin baby.
+
+Heather:  You like raisin?  I don't like it.
+
+Mike:  I've never had a Powerbar before.
+
+Heather zooms in on bag of Marshmallows
+
+Heather:  Oh soft
+
+Josh off camera: Hey!  You weasel!
+
+Heather:  Marrrrshmelllowwwss.
+
+
+Walking into small diner
+
+Mike points out a Halloween decoration of a ghost
+
+Josh and Heather: Boooooooh
+
+Heather:  Do you believe in ghosts?
+
+Inside diner
+
+Head shot of Waitress Girl
+
+Heather:  Have you ever heard of the Blair Witch?
+
+Girl:  I guess.  That actually sounds kind of familiar.  My older sister went to Blair High School.
+
+Heather:  I wanna, I wanna get a little bit into here...
+
+Josh:  I want to go set this camera up over here.  
+
+Sets camera on nearby table shooting towards the crew
+
+Heather:  We are relatively tightly scheduled.  So try to keep us moving.  First we are going to area five.  I cannot stress enough the importance of being on time.
+
+Josh:  First is the cemetery?
+
+Heather:  First is the cemetery.
+
+Cut to cemetery Mike fiddling with gear
+
+Josh:  You guys wanna get the uh...ceremonial first slate?
+
+Heather fixes makeup in cars rear view mirror
+
+Heather:  Absolutely.
+
+Heather zooms around Josh
+
+Heather:  Here he is, filling out our first slate for our first shot.
+
+Josh:  Should we all like cut our fingers open and bleed on it?  A little bloodletting on the slate?
+
+Heather:  No we'll save that for later.  (Laughs nervously)
+
+Josh:  Kiss the slate.  It's first slate.
+Heather:  First slate, marked by my lipstick.
+
+Josh carries slate over to Mike
+
+Josh:  First slate, kiss it.
+
+Mike bites down onto clacker part of slate
+
+Heather:  Awe he licked it, god bless him.  Your not supposed to eat it, we need that for the rest of the shoot.
+
+Cut to Welcome sign outside of Burkittsville
+
+Heather:  This is Burkittsville, formerly Blair.  It is a small, quiet Maryland town.  
+
+Cuts to heather in cemetery
+
+Much like a small town anywhere.  No more then twenty families laid their roots here over two hundred years ago.  Many of whom remain, either on this hill or in the town below.
+
+There are an unusually high number of children laid to rest here. 
+
+Shots of various headstones
+
+Most of whom passed in the 1940's.  Yet no one in the town seems to recall anything unusual about this time.  To us anyway.  Yet legend tells a different story.  One whose evidence is all around us, etched in stone.
+
+In joshes car
+
+Heather:  Yeah!  Yeehaww!  Well we have shot the first scene!  The cemetery scene, the opening is shot!
+
+Josh shows a handful of ruined and crumpled 16mm film to camera.
+
+Heather:  Ahh this is our salad.
+
+Josh:  This is our souvenir.
+
+Heather:  Yes this is our souvenir from our very first shot, of our very first scene on 16 millimeter.  And we are proud of this salad.
+
+Cut to man in general store
+
+Heather:  We are making a documentary, about the Blair Witch.
+
+Man:  (smiles) Oh?
+
+Heather:  Oh, have you heard of the Blair Witch?
+
+Man:  Oh yeah, that's an old, old, old story.
+
+Outside store on B&W 16mm
+
+Man:  I remember Mister Parr was an old hermit.
+
+Heather:  Right.
+
+Man:  He lived up on the mountain, he had a place up there and had been up there for a long, long time.
+
+Cut to woman with baby.
+
+Heather:  You've heard of the Blair Witch?
+
+Woman:  Several times.
+
+Heather:  Several times, and what was the first incidence?
+
+Woman:  Well I'd heard stories about her from people and neighbors and stuff like that.  But also I saw a documentary on the Discovery Channel or something like that once, about her, about ghosts and legends in Maryland.
+
+Cut back to man
+
+Man:  Sorta in the winter I guess that followed.  In the winter of 1940.  Ahh some of the young kids started disappearing.  Nobody, nobody knew anything about why they were disappearing.
+
+Cut back to woman
+
+Woman:  But the creepy
+
+Woman is cut off by baby putting hand over woman's mouth
+
+Heather:  Uh oh that's an omen.
+
+Woman:  Haha, the creepiest story I'd heard about her, was that two men were out hunting near the uh, cabin or something that she's supposed to haunt.  And they dissapeard off the face of the earth.
+
+Baby grows more agitated
+
+Baby:  No!  No!  No!
+Woman:  It's all right Ingrid, I'm just telling a scary story, but it's not true.
+
+Woman:  (mouths) It's true.
+
+Cut back to man
+
+Man:  Finally one day, old Mister Parr comes down into the market and said "I'm finally finished."
+
+Heather:  And what did he mean by that?
+
+Man:  Well I guess nobody knew at first but the police finely went up on the mountain and they searched his house and they found the bodies of seven kids from the area, and those were the seven kids who were missing.  And then they brought them out of the woods one at a time.  And it was just a terrible thing, just tore the whole community up.
+
+Back to woman
+
+Woman:  Well their wives apparently went looking for them and they found their campsite.  The fire was still burning.  The deer that they had hunted that was being in the process of being gutted.  It looked like someone was still working there and camping there and all that.  The men were no where to be found.  Their clothes were there.  Everything was there.
+
+Heather:  But they never found them?
+
+Woman:  They never found them there.
+
+Cut to girl in Diner
+
+Girl:  All my life I've believed in witches or ghosts and stuff.
+
+Heather:  But you believe there are some in this area?
+
+Girl:  Oh defiantly.
+
+Cut to old man on street
+
+Heather:  Do you believe in witchcraft?
+
+Old Man: Nope!
+
+Heather:  No?
+
+Old Man: No sir.
+
+Heather:  Are you a religious man?
+
+Old Man: Yep.
+
+Heather:  Alrighty.
+
+Back to woman with baby -put in other parts
+
+Woman:  Pretty creepy stuff.  I believe there is something happening with her.
+
+Heather:  Do you think its possible that she is still up there now?
+
+Woman:  I don't go up there.
+
+Heather:  You don't go up there?
+
+Woman:  Yeah I believe enough to not go up there. (Laughs)
+
+Cut back to first man
+
+Man:  They say that the woods are all haunted up there and stuff like that.
+
+Heather:  What do they say?  How are they haunted?
+
+Man:  Well there really isn't many people that say it's haunted, but there was this old woman by the name of Mary Brown.
+
+Heather:  Mary Brown?  Hmm.
+
+Man:  Yeah and she was kinda crazy.
+
+Heather:  How was she seen by the community?
+
+Man:  Crazy.
+
+Cut to in car driving towards trailer home
+
+Heather:  That's it, the American flag.  Mary's house.
+
+I'm gonna grab her and bring her out.  Why don't you check around and see what the best light is.
+
+Heather confronts Mary's gate comprised of twigs bound together with string
+
+Heather:  This is Mary's gate.  I'm not even sure how I pull this open.
+
+Heather lifts one end and tries to open gate
+
+Heather:  Okay.  Oh shit.  I've made her gate fall apart.
+
+Cuts to Mary standing on her porch holding a bible
+
+Heather:  Cause something interesting happened at one point in your life.  You had an encounter with the Blair Witch?
+
+Mary:  Yes I um, that is really a kinda scary story.  To kinda make ends meet my dad and I would go fishing down by Tapings creek.  You know that uhhms it's in Burkittsville.  I was lying down on the leaves, upon the leaves, kinda watching the pool and looking up at the sky.  And all of the sudden it felt like somthin was near me.  You know kinda a eerie feeling.  It was like a woman!  Only on her arms and on her hands it was like a hair.  It was real dark almost black hair.  Almost like a horse.
+
+Heather:  Like fur?
+
+Mary:  Yeah like a fur, like a horse fur.  And her arms, she had like a shawl, a wool shawl over her.
+
+Heather:  And she scared you?  She threatened you?
+
+Mary:  And um...she didn't' say anything, but she kept staring and then she opened up her shawl.  And under it there was hair on her body like a horse.
+
+Heather:  So she was hairy from head to toe?
+
+Mary:  Yeah and her legs.  And you could see she was a female.
+
+Heather:  How about her face?
+
+Mary:  Just kinda like strange looking.
+
+Cuts back to car
+
+Josh:  Thank god she's not in the film business.  I mean can you imagine...
+
+Heather:  She thinks she is in the film business!  She also says she's a ballerina.
+
+Mike:  Get out!
+
+Heather:  She says she's a historian writing a book on American History.
+
+Mike:  I heard that.
+
+Heather:  And she says she's a scientist who does research at the department of energy.
+
+Cuts to later in car
+
+Josh:  I'm checking my depth of field charts to see how bad...
+
+Heather:  So you measure for meters?  What?  Were not in Europe!
+
+Josh:  Yeah well the fucking lens has meters on it.
+
+Heather:  It also has, it also has our system.
+
+Josh:  Nah, it has meters on it.
+
+Heather:  This is an American camera though.
+
+Josh:  All those are meters.
+
+Heather:  What about the brown ones?
+
+Josh:  The brown ones are feet.
+
+Heather:  Yeah, the brown ones are on there, eh?
+
+Josh:  Yeah, but the white ones are obvious.
+
+Heather:  I thought you used this camera before man?
+
+Josh:  I've used it like once before.
+
+Cut to motel room
+
+Heather:  How do you feel about today guys?
+
+Josh:  I learned a lot.
+
+Heather:  You learned a lot about Mary Brown?
+
+Josh:  I learned a lot about like shooting.
+
+Heather:  Sixteen?
+
+Josh:  Just, just shooting out here.
+
+Cuts ahead crew is drinking and feeling good
+
+Josh:  (coughs)
+
+Heather:  Are you all right?
+
+Mike:  Are you gonna die?
+
+Josh:  I ain't gonna die paw!
+
+Heather:  The witch'll kill yah out there.
+
+They toast each other
+
+Mike:  We kicked some ass today.
+
+Josh:  Cheers.
+
+Heather:  Very good day.
+
+Mike:  Excellent day.
+
+Heather: Very good first day.
+
+We're going to do an equipment check, and then I'm gonna call my mom.
+
+Mike:  Okay, I've got a bag of Utz and a beer.
+
+Mike and Josh laugh
+
+Heather:  So I guess you're covered then.
+
+Heather:  Can you just run it for a few feet for me so we can check that it's okay?
+
+Josh:  Sure.
+
+Josh picks up 16-mm camera and starts to shoot heather shooting him with VHS camera
+
+Heather:  We just want to hear it, so the mag is loaded properly so we can shoot some stuff.  
+
+Okay that's good.  That's good thank you!
+
+Heather:  Let's just be relaxed because we've got a really, really long day tomorrow.  Today was cake compared to tomorrow.  We're going to do a lot of hiking, were going to have a lot of weight with us.
+
+Josh:  I'm there.
+
+Mike:  That's what we're preparing for!
+
+Heather:  (laughs) All right, shut up yah smart-ass.
+
+Heather:  Poor me a shot please.
+
+Josh motions bottle of Scotch towards Heather.
+
+Mike:  Ohhh!  You can't do that.
+
+Heather:  Yes I can, at this point I fuckin have to do that all right!
+
+Mike laughs
+
+Heather:  Do we have any weed?
+
+Cuts to heather holding bottle of Scotch
+
+Heather:  Here I go. (Takes swig)
+
+Josh:  Drink!  Drink!
+
+Heather:  (makes face) I fucking hate Scotch.
+
+Josh laughs
+
+Cuts to next morning Josh packing car
+
+Heather:  There's my son Josh.
+
+Josh: Kay.
+
+Heather:  How are yah?
+
+Josh:  I'm hurtin.
+
+Cuts to Mike still getting ready in motel room
+
+Mike:  I'm not ready for that thing yet, like, you know?
+
+Heather:  I, I know you don't like it.  Okay.
+
+Heather waves at herself in bathroom mirror
+
+Heather:  Hello.  Welcome to day two.
+
+Cuts to inside car driving along country road
+
+Heather:  The trail should be somewhere along here, we shouldn't miss it.  It should be pretty obvious.
+
+Cuts to fishermen along creek
+
+Heather:  You guys say you know something about the Blair Witch?
+Fisherman 1: Oh I've heard the myth.  I don't really believe much in it.
+
+Heather:  The myth?
+
+Fisherman 1: That's all I think it is.
+
+Fisherman 2 mumbles something
+
+Heather:  What did you say sir?
+
+Fisherman 2: I said you damn fool kids will never learn.
+
+Heather:  You damn fool kids will never learn.
+
+Fisherman 1: Ehh shut up.
+
+Heather:  What makes you say that?  First of all can I have your permission to put your image on video for the purpose of the documentary entitled the Blair Witch Project?
+
+Fisherman 2: Well I don't care much about that but uh.
+
+Heather:  Well you have to say yes or no sir.
+
+Fisherman 2: Yeah sure that's all right.
+
+Fisherman 1: Uh, well some girl back in the late 1800's, Robin Weaver I believe her name was.  Supposedly, wandered off and disappeared into the woods.
+
+Fisherman 2: Ain't no supposedly about it!  She wondered off!
+
+Fisherman 1 swats at comment and rolls eyes
+
+Fisherman 1: Okay so she wandered off.
+
+Fisherman 2: And she got lost!
+
+Fisherman 1: Three days later...
+
+Fisherman 2:  (mumbles) Supposedly....
+
+Fisherman 1: (stutters, glares over at Fisherman 2 and tries to continue story)
+
+Three days later she just uh appears back on her grandmothers' porch.  And everybody's mystified by it.  She was babbling...
+
+Fisherman 2: And she had a tale to tell too.
+
+Fisherman 1: Yeah she was babbling something about an old woman who's feet never touched the ground.
+
+Fisherman 2: I tell yah, I saw right up there by that tree up the creek, about a hundred yards.  A white misty thing that I can't tell what it was.
+
+Heather:  Gray?  Like gray vapor rising out of the trees?  
+
+Fisherman 2: Wright out of the water!
+
+Heather:  Right out of the water?
+
+Fisherman 2: Up the side of them trees and it disappeared over them....
+
+Fisherman 1: Oh your full of it.
+
+Fisherman 2: Anybody worth there salt around here knows this area has been haunted by that old woman for years.
+
+Cut to inside of car, Josh sitting on windshield filming while Mike drives and Heather videotapes his ass.
+
+Heather:  (laughs) Oh our view is just ever so amazing. (Makes goat like sound swivels camera up)
+
+Mike:  How's the speed?  A little more?
+
+Josh: (muffled) Yeah you can!
+
+Heather:  Could you slide up so we get more of your ass-crack?
+
+Cuts to what Josh is shooting on 16mm
+
+Mike:  Some serious woods around here.
+
+Heather:  You excited?
+
+Mike:  You got it.
+
+Heather:  I hope he's not rolling off the whole shot on this.  How many feet are you shooting?  
+
+Josh:  Ah, about twenty so far.
+
+Heather:  Oh okay good.
+
+Slowly pass cabin along the road
+
+Cuts to Heather struggling to strap on her with equipment pack
+
+Mike:  I could help you, but I'd rather stand here and record.
+
+Heather:  Okay.
+
+Cuts to Heather having camera again
+
+Heather:  Packs are on were ready to go.
+
+Mike:  We gotta go up to the shack?  The shanty?
+
+Heather:  Yup.
+
+Josh:  Wow.
+
+Heather backs away, the car shrinking in the distance.
+
+Heather:  Oh my god, scary.
+
+Cuts to the beginning of the hike
+
+Heather:  On our way to coffin rock now, we are totally on track now.  I know exactly where we are.  We are a bit behind schedule and I'm a bit concerned about loosing light today.
+
+Mike:  Ready for another song?  (Sings) We are down by the river!
+
+Heather:  (laughs) we are down by the river.
+
+Cuts to large ditch with small stream running through it
+
+Heather:  So were crossing this?  Yeah?
+
+Josh:  Yeah
+
+Josh runs and jumps into ditch
+
+Cuts to Mike having camera
+
+Josh:  You wanna toss me the video camera man?
+
+Heather:  No I don't think we want to throw the video camera.
+
+Josh:  Hey Mikey throw me the video camera man.
+
+Heather:  No ah
+
+Heather climbs down into ditch
+
+Mike:  I want to get her going across man.
+
+Shot of Heather's rear end
+
+Mike:  I see a dirty behind!
+
+Cuts to coffin rock, where rocks jut out into the stream
+
+Heather:  There it is.  See?
+
+Cuts to Heather on top of coffin rock.
+
+Heather:  (clacks slate picks up "The Blair Witch Cult" book struggles to find her place and begins reading)
+
+Heather:  They went into the woods prepared to find death, what they found was a desecration to humanity.  At the site which trappers have often refereed to as Coffin Rock.  On top of the rock formation, the story of the torture inflicted upon these brave five men unfolded.  Each was bound to the other.  Each mans hands bound to the next mans feet, forming a solid structure out of the men.  Blood at the edge of the hedges had indicated that this act had been committed while each was alive and able bodied enough to struggle.  In the torso of each man the intestines had been torn out crudely.  On each mans sun bleached face was inscribed with indecipherable writing cut into their flesh with an eerie precision.  The men still entranced by the horror of what had happened, left the scene to tell the sheriff what had happened and did not sketch the writing and did not remove the bodies from the rock.  Upon return vultures were seen at the rock, but upon inspection the bodies had been removed by persons unknown.  The search party clamed that the stench of death was still thick.  And whom ever took the bodies had done so in a matter of hours.  
+
+That happened here, at Coffin Rock.
+
+
+Cuts to Heather looking at watch
+Heather:  I felt really rushed, cause I really want to get to camp and its 4:52.  We're going to be loosing light soon.
+
+Cuts to what Josh is shooting on 16mm
+
+Heather:  But I can always use the shots without me in it.  Because I recorded sound reading the whole thing.  I'm sure I can edit it together somehow.
+
+Heather:  It's starting to rain.
+
+Cuts to Josh and Mike setting up camp
+
+Heather:  Well I don't have a tent for three people.  I'm not usually traveling with two men if you know what I'm saying.
+
+Cuts to Mike playing with stick stuck in the ground
+
+Heather:  ...video camera, what a lie!  It's poring rain right now; we can't even get a fire going.
+
+Heather:  Show the kids at home what the stick is for!
+
+Mike shifts, leans tall and rests his arm on the stick
+
+Heather:  Look at that.
+
+Cuts to night inside tent
+
+Josh:  You get too much ass smell just...
+
+Heather:  Okay, who wouldn't let me have a cigarette in the tent but he's aloud to fart as much as he wants?
+
+Josh:  I never gave Mike any fart allowance.
+
+(Laughs)
+
+Cuts to morning
+
+Heather:  So you heard noises last night?  See the problem is I sleep like a fucking rock.
+
+Josh:  (yawns) there were two separate noises coming from two layers of spacer over here.  And one of them was like.  One of them possibly could have been an owl, but the other one was like a cackling.
+
+Heather:  No way.
+
+Josh:  It was a total cackle.
+
+Mike:  If I heard a cackling I would have shit in my pants.
+
+Cuts to crew looking at map, Josh filming
+
+Josh:  Where did we start out yesterday?
+
+Heather:  Off the map.
+
+Josh:  Off the map.
+
+Heather:  Cause I knew where we were going.  Though I know there was some confusion.
+
+Josh:  Wait, wait say that again?
+
+Heather:  I said I knew where we were going.
+
+Josh:  Wait, would that be a full of shit statement?
+
+Josh points camera at Mike
+
+Josh:  Would that be a full of shit statement?
+
+Mike nods
+
+Heather:  No I did know where we were going!
+
+Josh:  All I'm saying is that you got us lost man.
+
+Heather:  For a very brief amount of time!
+
+Josh:  Okay.
+
+Mike:  Just don't get us lost today.
+
+Josh:  Yeah seriously.
+
+Heather:  I'm not!  I know where all these points are on the map.
+
+Josh:  So what's up?  Are you happy with the way the documentary is going?
+
+Heather:  Yes I am.
+
+Josh:  Yeah?
+
+Heather:  And I'm very pleasantly surprised by our little Mikey.
+
+Mike:  Your little Mikey?
+
+Heather laughs
+
+Heather:  He's a very spirited young man.
+
+Josh:  So what's up, I mean what's your take on the Blair Witch at this point?
+
+Heather:  I don't know.
+
+Josh:  Do you think she exists?
+
+Heather:  I don't know.
+
+Cuts to crew hiking
+
+Mike:  Heather I wish you would find the trail already.
+
+Heather:  There is a trail on top of this hill!  Don't worry!  It is a trail.
+Heather:  We like short cuts don't we?
+
+Mike:  We like level shortcuts, we don't' like mountiness short cuts.
+
+Cuts to close up of Mike's naked chest
+
+Heather:  It's a little warmer today.  This is the first time we've seen Mike's chest.  All right it's really hard to pick up on video actually.  Mike has really spuratic hair patterns on his chest.  It's like blank, harry, blank harry.
+
+Mike:  You should see my ass!
+
+Josh:  (points to hair patch) Look!  Look!  It's fucking Uruguay right there!  
+
+Heather:  Wow!
+
+Josh:  There's Paraguay over here.
+
+Heather:  Look I think I see Bolivia!
+
+Cuts to dead mouse on forest floor
+
+Heather:  What killed this dead mouse?  Witchcraft?
+
+Josh:  How about god?
+
+Cuts to heather squatting in the distance behind some trees
+
+Josh:  Is that the Blair Witch?  No, I think its Heather taking piss.
+
+Heather:  I really have to go!
+
+Josh:  Well then go!
+
+Cuts to hiking again
+
+Heather:  We are hot on the cemeteries trail.  I can feel it.
+
+Mike mumbles
+
+Heather:  What?
+
+Mike:  Says you.
+
+Heather:  Says me, of course.  And we should be hitting it in about ninety minutes.  You guys cool with that?
+
+Mike:  What?
+
+Heather:  90 minutes.  Can you hang...?
+
+Josh:  As long as you know where were going.
+
+Heather:  I know exactly where were going.
+
+Cuts to Josh looking at map
+
+Heather:  I suppose its necessary to look at the map, even though I know where were going.  And were going straight ahead up there.
+
+Mike:  If you know where were going we wouldn't be hiking like...
+
+Josh:  Were in the middle of the fucking woods.
+
+Heather:  Some of it is off trail hiking!
+
+Mike:  Because people told you, oh yeah there's a cemetery back there!
+
+Mike:  Were lost.  Admit that first!
+
+Heather:  I know were not lost!
+
+Mike:  Oh and you knew that yesterday too, and you know that twice today!
+
+Heather:  Look!  No!  Bullshit!  And we have not been lost at all today!  Not once, I know where were going!
+Mike:  Let me tell you what you told us.  "Its like two hours away."  Then it's like, three hours, maybe four hours away.
+
+Heather:  Did you agree to do this project?
+
+Mike:  I did!  I agreed to a scouted out project!  I didn't think we'd be running around in the woods...
+
+Heather:  It is scouted out!
+
+Mike:  I've got fifteen hundred dollars worth of equipment on me!
+
+Josh:  Guys!  Guys!  It's cool, it's cool.  Please, your being a smart-ass and your being a smart-ass.  Were, were just looking at the map using it the best we can.  I can totally find this.  This is where we were and we are going more or less this way.  
+
+Cuts to Mike holding map
+
+Josh:  Okay, what's your call.  Where do you think we're going?
+
+Mike:  I'll tell you the truth.  This is like; this is Greek to me.  It's useless.
+
+Heather:  Right.  Exactly.
+
+Mike:  So I am putting my ah trust in you that you know where it is.
+
+Heather:  Good.
+
+Mike:  Although I, I gotta tell you I don't fully trust you.  And I....ah I'm not going to say it.
+
+Heather:  What?
+
+Mike:  Nothing, I don't understand why you have to have every conversation on video?
+
+Heather:  Because I'm making a documentary.
+
+Mike:  Not about us getting lost!  We're making a documentary about a Witch!
+
+Heather:  I have a camera.  It doesn't hurt, because I'm sure we'll look back at this and laugh heartily.  
+
+Cuts to Josh crossing stream on fallen log
+
+Mike:  Baby steps man, baby steps.
+
+Heather:  Just breathe and don't look down maybe?  No you gotta look down.
+
+Mike:  You gonna have to crawl?
+
+Josh:  I'm going to crawl.
+
+Mike:  Cool.
+
+Heather:  Think about how fucking cool the cemetery is going to be when we get there.  Think of the joy of being in a really good film!
+
+Josh:  Please be quiet!
+
+Heather:  Okay I'm quiet.  Shit how am I going to do this?
+
+Josh finishes crossing and stands up
+
+Josh:  Okay, Mikey?
+
+Mike:  Yeah.
+
+Josh:  There's no way your coming across.  You'll have to get down on your belly.
+
+Mike:  No way man.
+
+Josh:  There's no chance.  It's too fucking hard.
+
+Heather:  How are we going to get the DAT across then?
+
+Josh:  With the moss it's slippery as shit.
+
+Heather:  How will we get the DAT across?
+
+Josh:  I don't know, lemme get off here and get my pack off.
+
+Mike:  I'll just go back and forth.
+
+Heather:  You want to go back and forth?  You can do it that way?
+
+Mike:  I didn't want to do this at all.  
+
+Heather:  Okay, well do it back and forth.
+
+Loud cracking
+
+Josh:  Oh god!  
+
+Heather:  Oh shit!  What'd you drop!
+
+Josh:  I didn't drop anything, the tree broke.
+
+Mike:  The log broke.
+
+Heather:  Phew!  Oh, fuck.
+
+Cuts to hiking near cemetery
+
+Heather:  We are very, very, very close now.  You guys excited?  Okay.
+
+Heather:  What's this?  
+
+Close up of tree with branches filled with rocks and dead twigs
+
+Heather:  Say, guys?  Do you remember something that Mary Brown said the other day?  What was the story from the Bible she was telling us?  Fuck I wasn't listening to her because I thought she was a lunatic.  
+
+Shots of piles of rocks, "graves" and rocks stacked high up in tree branches
+
+Heather:  See I don't know if this counts.  Three, four, five, six seven.
+
+Cuts to night around camp fire
+
+Heather:  Witches in days gone by where roasted just like my Vienna sausage.  
+
+Flames are licking you like the devil their Josh.
+
+Josh:  (sings Gilligans Island theme)
+
+Heather:  Yeah, but this ship has a good captain, not a fat beer-guzzling captain.
+
+Mike:  He wasn't beer guzzling.
+
+Josh:  There was no beer on the island man, if they had beer they would've had like, big ass orgies.
+
+(All laugh)
+
+Heather:  You're kinda like the Captain and Mikes kinda like your Gilligan.  No offence, I mean that as a complement.  Gilligan was a funny guy.
+
+Josh:  But the Captain was fat.
+
+Heather:  Okay, Let's call it a thin Captain.
+
+Mike:  Let's not call it the Captain anymore you illiterate TV people!  It's the Skipper.
+
+(All laugh loudly)
+
+Cuts back to cemetery at night
+
+Mike:  Here we are back at the rock again, rock thing, cemetery deal.
+
+Cuts to various rock piles
+
+Sound of tumbling rocks
+
+Heather:  (gasps) You didn't just knock that over please tell me you didn't just knock that over.  That's not very nice.  All right, I'm going to put it back.
+
+Heather places rocks back on pile and blows them a kiss
+
+Heather:  Can't be too careful.
+
+Cuts ahead
+
+Heather:  What'd yah think?
+
+Josh:  It was...the same thing but darker.
+
+Heather:  Yeah pretty much.  All right, bag it up put it away.
+
+Cuts to absolute darkness
+
+Heather:  Hello!?  (whispers)  Shit the light.
+
+(Sounds of sticks breaking in the distance)
+
+(Heather breathes heavy)
+
+Heather:  We were sleeping...
+
+Josh:  Do you want this?
+
+Heather:  Just keep it by the opening of the tent!
+
+Shhh!
+
+Cuts to Heather crawling on hands and knees, then she motions Josh to come forward with camera
+
+Heather:  Hello!?  Hello!
+
+Cracking sounds in the distance
+
+Heather:  It's all around us.  I can't see shit!
+
+Cuts back to tent, Mike inside tent
+
+Heather:  Michael are you saying you're not coming down?
+
+Mike:  I ain't going down there!
+
+Heather:  Why not?
+
+Mike:  Because I don't hear shit!
+
+Heather:  Because you're fucking scared!
+
+Mike:  Because I don't hear anything anymore!
+
+Heather:  Because you're fucking scared!  You can not deny hearing it!  Get your ass out!  What's the big deal!?
+
+Cuts to next morning, Josh in rain gear.
+
+Josh:  This rain fucking blows dude.
+
+Heather:  I know and it's raining very heavily.  Well...
+
+Josh:  Thank my mom for giving me rain gear for my eighteenth birthday, yah know.
+
+Heather:  (shivers) God bless her.
+
+What do you think that was last night?
+
+Josh:  Personally.... I think it was someone fucking with your head.
+
+Heather:  But nobody knows where out here.
+
+Josh:  Yeah, but did you ever see Deliverance?
+
+Cuts to Mike
+
+Heather:  Do you understand at all where I'm coming from?  I just wanted to know that whoever it was...
+
+Mike:  You were freaking out.  I don't even know....
+
+Heather:  I was freaking out.  I wake up and all of the sudden shits going down, and all I can think is I gotta get it.  I gotta get it all on; all I wanna get it on sound get it on sixteen.  If we can see anything I want to see it on sixteen.
+
+Mike:  Well, it sounded to me like a bunch of people running around, and I'm not down with messing with locals or whatever.  I dunno who the hell would come out here, but what bugs me out is that we're so damn deep in the woods and people are going to come out here and try and mess with us, then they gotta have something wrong with them.  And I'm not gonna play with that.
+
+Heather:  But how do we know it was people?
+
+Mike:  Well even if it wasn't I'm not gonna play with that either!
+
+Cuts to crew hiking back
+
+Heather:  (sighs) Fuck man, this is a really long day.  Very wet, very long day.  Nobody is really speaking to me at the moment now.
+
+Mike:  I don't remember a...(mumbles)
+
+Heather:  What?
+
+Mike:  I don't remember a portion of this from walking in from the car.
+
+Heather:  Well, we have to go a little differently to go back because we went around in a curve a little bit.
+
+Cuts ahead
+
+Heather:  I'm telling you guys, two more hours max.
+
+Josh:  (stops walking)  (mumbles) why were going back a different way?
+
+Heather:  Because we came a bit around.  That was the most direct way to hit our two locations, now this is the most direct way back to the car.
+
+Mike:  Seriously, really?
+
+Heather:  Yeah!  Seriously.
+
+Mike:  You know exactly what's going on?
+
+Heather:  Yes!  Just keep going.
+
+Josh:  Yeah, well, will wait five minutes till map check.
+
+Heather:  All right.
+
+Cuts ahead
+
+Heather:  All right we just did a map check and it seems were pretty much still on trail.
+
+Josh:  That's not what I said.
+
+Heather:  No, I think were all right.
+
+(Both Josh then Mike look away in disgust)
+
+Heather:  We took a map reading we just fallow what the compass says.  We are going straight ahead, that way.  That way.
+
+Josh:  Were in the middle of nowhere!
+
+Heather:  We've been in the middle of nowhere for two days.  The car is parked in the middle of nowhere, almost.
+
+Josh:  So like look at this shit man, this is nothing!
+
+Heather:  Okay, lets just keep going all right?
+
+Cuts ahead
+
+Heather:  I think we should camp.
+
+Mike:  Get the fuck out of here!  Why?  Because you don't know where we're going?
+
+Heather:  No, because I think were still a ways off from the car and it's going to be getting dark real soon.  Look, I'm not saying for certain.
+
+Mike:  We're not camping here!  Get us home!  Turn the camera off and get us home!
+
+Heather:  Maybe we're near the car.  Maybe we're near the car!
+
+Josh:  Give me the fucking map!  Give me the map.  Turn the camera off and give me the map.
+
+Mike:  Turn the camera off and get us home!
+
+Heather:  No, I'm not turning the camera off.  I wanna mark this occasion.
+
+Josh:  Give me the map.
+
+Heather:  The map is in my pocket your going to have to wait a second.
+
+Mike:  GODDAMN!
+
+Heather:  If we keep our heads together we'll be just fine.
+
+Mike:  THAT'S FUCKING BULLSHIT!
+
+Josh:  Mike, chill.
+
+Heather:  Mike...
+
+Mike:  DON'T FUCKING TELL ME TO RELAX!
+
+Josh:  Let's walk up, find a tree to sit under or some shit and check the map.
+
+Heather:  Yes, can we find a place to sit to check the map please?
+
+Cuts to night, cuts to darkness.
+
+Josh:  Are you happy?
+
+Heather:  I'm not happy, no.  But the car's not far; we're just not going to be able to find it in the dark.
+
+Mike:  Are you positively sure?
+
+Heather:  Yes.  I am so sorry man.  We can probably still get the DAT back tomorrow.
+
+Josh:  I hope your fucking happy.
+
+Mike:  We have too!  We have too!
+
+Heather:  We will, we will.  We will get the DAT back before it's due back tomorrow.
+
+Josh:  I gotta fucking work.
+
+Heather:  Everything will get back.
+
+Josh:  I'm supposed to be at work tomorrow at nine!
+
+Heather:  I know.
+
+Josh:  Let's camp...let's camp.  Let's fucking camp.  Okay?
+
+Cuts ahead, darkness.
+
+Heather:  (hushes) shh...shhh...  I wanna get it; I wanna get it from inside the tent.  Whatever it was last night, it sounds like the same fucking thing.
+
+(Rustling outside tent)  (Tent flap being unzipped)
+
+Heather:  Where's my boots?  Oh, fuck it's cold.
+
+(Turns camera light on)
+
+Heather:  Hello!?  Oh shit, it's fucking freezing.  I hear it.
+
+Mike:  I don't hear shit.
+
+(Rustling noise)
+
+Heather:  Hear that?  
+
+Shit!  
+
+Hello?
+
+(Josh with 16mm swings back around to look at Heather standing at the tent)
+
+(Cuts back to Heather's Hi-8)
+
+Heather:  Awe fuck. (Shivers, shaking camera)
+
+Mike:  I think it's just deer.
+
+Heather:  It could be deer I guess.  I don't think it's deer though man.  It sounds exactly like that shit last night.  It's on all sides of us.
+
+Mike:  It sounded just like a deer.
+
+Josh:  It was a deer man.
+
+Heather:  I don't think it was a...
+
+Mike:  It wasn't like last night.
+
+Heather:  Shh!  Shh...
+
+(Bang in the distance)
+
+Mike:  Did you hear...?
+
+Heather:  (whispers) Yes!  Fucking listen!  Let's get it on DAT, let's get it on DAT.
+
+Mike:  Okay, it's on.
+
+(Rustling grows louder)
+
+Josh:  Jesus Christ!  What the fuck is that?!  FUCK!
+
+(Sound continues)
+
+Heather:  It's not scared by our yelling.
+
+Heather:  That sounds like footsteps.
+
+Mike:  (whispers) I know!  That's a fucking person!
+
+Heather:  Mike, I'm not seeing shit on video.  I'm going to leave the rest for DAT but I'm going to stay out with you here though.
+
+Mike:  You gotta fucking stay out here with me.
+
+Heather:  I am.
+
+Mike:  What time is it?  Is it anytime near morning right now?  (Whispers)  Please say it's fucking five o'clock or some shit.
+
+Heather:  It's three.
+
+Mike:  Fuck!  This is bullshit; this is absolutely fucking crazy.
+
+Heather:  I'm sorry Mike.  We should be out of here already.
+
+Mike:  I have nothing, nothing to do with this.  I swear to god this is bullshit.
+
+Cuts to next morning
+
+Heather:  We woke up this morning, just like two seconds ago, and there are piles of rocks outside of our tent.  There are three actually.
+
+Josh:  Are you seriously fucking positive that those weren't here when we set up camp last night?
+
+Heather:  I am seriously fucking positive that these weren't here.  How would we have just made a campsite between three piles of rocks, just by coincidence?
+
+You don't think this is strange?
+
+Josh:  This is way fucking weird!  But it really doesn't matter at this point!  Because all I want to do is get to the goddamned car.  Whatever it is, whatever it is man, at this point...
+
+Heather:  I know, I know.  We have to get back to the car.
+
+Josh:  We are obviously not wanted here.  So let's just get the hell out.
+
+Heather:  (sounding as if about to loose it) Okay.  We have to get the DAT back any way.
+
+Josh:  I realize that.
+
+Heather:  Okay.
+
+Josh:  Let's get the DAT back, let's get the shit packed up and walk.
+
+Heather:  Right, we're out of here, we're out of here.
+
+Josh:  Okay, cool.
+
+Cuts to crew packing up tent
+
+Heather:  (rambling) we have to leave, let's get our shit packed.
+
+Josh:  Heather put the fucking camera down!  Let's get this shit packed up and...
+
+Heather:  Okay, hang on!  (Points camera at pile of rocks)
+
+Josh:  Come on!  No, I'm not fucking scared!  I'm just tired, I'm hungry. I'm just fucking like done man.  I'm just fucking done.
+
+Heather:  Alright.
+
+Cuts to close up of Heather, Josh holding camera
+
+Heather:  Did you take it?  (Feels inside pocket)
+
+Josh:  I didn't take the fucking map man.  I'm not playing head games, if anyone's playing head games, your playing head games, but I'm not playing head games.
+
+(Heather rubs face)
+
+Heather:  I don't have it, we have to go.  I'm serious.  I don't have it.
+
+Josh:  Are you fucking serious?
+
+Heather:  I'm fucking serious, I don't have the map, okay.
+
+Josh:  Heather that is so uncool man.
+
+Heather:  I know it's not cool.
+
+Josh:  That is so uncool!
+
+Heather:  I know it's not cool.
+
+Josh:  I mean that's like the least responsible thing you could have possibly done man.
+
+Heather:  I know that.
+
+Mike:  (sounding small) You really don't have it?
+
+Heather:  One of you has got to have the map.
+
+Josh:  No, I don't have the map.  We gave it back to you after map check yesterday.  You've always had the map.
+
+Heather:  I know, and I've always had the map in the same place and if it's not there one of you had to have taken it!
+
+Josh:  I'm not going into your fucking pants to get your god damned map man!
+
+Heather:  I just checked my pocket!  It's not in my pants!
+
+Josh:  Look, would I go in and get your map?  All I wanna do is get out of here!
+
+Heather:  That's all I want too man.
+
+Josh:  No!  You wanna stay here, you wanna look around, you wanna shoot rocks, you wanna fucking get this, get that!
+
+Heather:  Let's go!
+
+Josh:  Which way are we fucking walking?
+
+Heather:  That way.
+
+Josh:  Dude we're in the middle of the fucking woods!  We are in the middle of the goddamn woods!  We can walk any way!
+
+Mike:  We're going this way!  We're going this way because we've been going this way for a fucking day!  We've got to come across something!
+
+Heather:  I gave you the map.
+
+Josh:  I gave you back the map Heather!
+
+Heather:  I gave you the map.
+
+Josh:  I gave you back the map!
+
+Cuts ahead
+
+Josh:  All I'm saying is that we can move as fast as we can but if we have no fucking clue where we're going, well then it really doesn't matter.  Does it?
+
+Heather:  We're following the creek and Mike seems satisfied with that.
+
+Mike:  (in the distance) Would you guys stop it!
+
+(Marches on)
+
+(Cuts ahead to Josh laying on his back and Heather plops down next to him holding camera)
+
+Heather:  (sighs)
+
+Josh:  We are lost, we are fucked, we are done, we are dead, we are fucked.  (Begins to roll down embankment and stops when he runs into a tree)
+
+Josh:  I'm just gonna stay here.  You guys find somebody; I'll be under this tree with the vine.  This is really fucked up.
+
+Heather:  I know.
+
+Mike:  Yeah, we really, really need to work together.
+
+Josh:  Seriously, the area is not that fucking big.
+
+Heather:  Exactly, it's very hard to get lost in America these days, and it's even harder to stay lost.  So we've got that on our side.
+
+(Josh gets up and walks toward camera)
+
+Mike:  Well were doing a pretty god damn good job at being lost!
+
+(Cuts ahead)
+
+Josh:  Cause at this point, when you're not home today, when I'm not home today people are going to start noticing.  Like my girlfriend is defiantly going to notice that I'm not back today and that I haven't fucking called.  I mean if I had called it would be one thing, but you know, if I just get back.  But if I don't get back period and I don't call she's going to notice which means that if by tonight we haven't found shit, someone's going to be looking for us.
+
+(Cuts ahead to stream, Josh finishing crossing on other side)
+
+Heather:  Oh no.
+
+Josh:  Don't come this way!  Come another way!  Go down there!  I just got my whole shit wet!
+
+Mike:  (laughs deeply)
+
+Heather:  Oh shit.  Well let's try it this way.
+
+Josh:  I don't think you want to try it this way.  I think you want to try it the other way.
+
+Heather:  (sighs) If we didn't have these fucking packs it would be so much easier.
+
+Josh:  There must be a...
+
+Mike:  (jiggles with laughter)
+Heather:  Is that Michael laughing?
+
+Mike:  (doubles up laughing)
+
+Josh:  Shut the fuck up and cross the stream.
+
+Heather:  He's laughing!?  Michael that is the first time I've heard you laugh in days!
+
+(Cuts to shot of Heather's wet boots after crossing the stream)
+
+(Josh and Mike laughing)
+
+Heather:  I'm really happy you find it very amusing that I'm going to be incredibly uncomfortable for the rest of the day.
+
+Mike:  (doubles up laughing)
+
+Josh:  Awww.  Dude, uncomforted is not even. (Breaks into laughter)
+
+Heather:  Can we keep going please?
+
+Mike:  (laughing) No were gonna chill out!
+
+Heather:  I thought you wanted to get to the car?
+
+Mike:  HOOOO!  BOY!
+
+Josh:  Come one let's get up there.
+
+(Mike begins to climb embankment)
+
+Heather:  You guys weren't lying to me about the map were you?  It just seems you guys are having just a little too much fun for my tastes.
+
+Mike:  Were just going a little stir crazy.
+
+Josh:  Heather, Heather.  If you make me yell at this point...  I'm going to have to hit you.
+
+Mike:  (laughs)
+
+Heather:  Come on, seriously, do you have the map?  I just want to know that you have it!  That would make me happy just to know that you have it.
+
+Josh:  Heather... (Turns in disgust)
+
+Heather:  If I, If I know you have it and I can at least see it I would feel much better.
+
+Josh:  (gives Heather the finger as he walks away from her)
+
+(Cuts ahead)
+
+Josh:  Like all were trying to do is be cool with you.
+
+Heather:  Well I find it very cool that I get laughed at because my shoes are wet for the wrest of the day!  It's fucking hilarious!
+
+(Josh and Mike bust out laughing)
+
+Josh:  Heather, dude, all our shoes are wet.  We were laughing at the situation.  We're fucking hungry we're fucking tired.  What the hell else are we supposed to do?
+
+Mike:  (laughing) You know what?  Hahaha!  I kicked the fu...haha...I'm sorry it's fucked up, but...I kicked that fucking map haaa! Into the creek yesterday!  Haaa!  It was useless!  I kicked that fucker into the creek!  Hahaha!  
+
+Mike:  (walks away laughing hysterically) WAAAAHHHOOOO!
+
+Heather:  I fucking hope he's kidding.
+
+Mike:  WAAAAHOOOOO!  Holy Jesus!
+
+Josh:  (small) Mike?  (Anger rising)  Are you kidding?
+
+Heather:  I really fucking hope he's kidding.
+Josh:  (angrily) Mike are you fucking kidding!?
+
+(Josh and Heather move quickly towards Mike)
+
+Mike:  I'm sorry.  It was useless.
+
+Heather:  You've gotta be fucking kidding me!  YOU HAVE GOT TO BE FUCKING KIDDING ME!
+
+Josh:  (shoves Mike hard) What the fuck!
+
+Mike:  Get the fuck off me man!
+
+Heather:  WHAT THE FUCK!  ARE YOU OUT OF YOUR FUCKING MIND!
+
+Mike:  NO I AM NOT OUT OF MY MIND THAT MAP WASN'T DOING SHIT FOR US!
+
+Heather:  DO YOU REALIZE?  NOT TO YOU, BUT I KNEW WHAT THE FUCK THAT MAP SAID!
+
+
+Heather:  YOU ARE A FUCKING ASSHOLE!
+
+Mike:  I'm sorry!
+
+Heather: YOU ARE A FUCKING ASSHOLE!
+
+Mike:  That map wasn't doing shit all day!
+
+Heather:  IF WE GET HURT OR IF WE DIE OUT HERE IT'S YOUR FUCKING FAULT!
+
+
+(Josh pushes Mike and they begin to grapple one another)
+
+Mike:  I'll fucking punch you out!  I'll fucking punch you out!
+
+Heather:  I CAN'T BELIVE YOU ARE SUCH A FUCKING ASSHOLE!  WHAT THE FUCK WERE YOU THINKING!
+
+(Mike pushes Josh away)
+
+Josh:  (points finger in Mike's face) Your messing with my shit here!
+
+Mike:  (fends off Josh's finger with forearm) That map was useless!  That map was useless!
+
+Heather:  It was useless to you!  It was useless to you!
+
+Mike:  BULLSHIT!
+
+Heather:  Your ignorance has put our safety in danger!  (Sobs)
+
+(Cuts ahead)
+
+Heather (calmer) Okay, okay.
+
+Josh:  This is not why I brought you out here man.
+
+Mike:  I'm sorry about the map, okay?
+
+Heather:  (trying to remain calm) Okay.  
+
+Mike:  What can I say?  
+
+Heather:  Sorry?  Please just don't say sorry!  That map wasn't worth shit to you but I knew exactly where we were on that map.
+
+Mike:  (points finger at Heather) I just fucking asked you where
+
+Heather:  I knew exactly WHERE WE WERE ON THAT MAP!
+
+Mike:  (jabbing finger at Heather) Yesterday I asked you what fucking river we were at!
+
+(Mike tries to hit and grab camera away from Heather)
+
+Heather:  DON'T YOU FUCKING TOUCH MY FUCKING CAMERA!  YOU!  GET OFF ME!  IT IS YOUR FAULT NOW!  IT IS YOUR FUCKING FAULT!
+
+--Think the following is cut from the final edit-
+
+Mike:  You wanna get hit!?  You wanna get hit!?  Keep fucking punching me!
+
+(Cuts ahead)
+
+Heather:  Give me the compass.  You have betrayed us all beyond.  Way fucking beyond.  Give me the compass.
+
+Mike:  You betrayed us when you couldn't get us out of the woods last night.
+
+Heather:  Yeah.  Thanks.
+
+Josh:  Can I hold the fucking compass?
+
+Heather:  No!
+
+Josh:  Can I hold the fucking compass?
+
+Heather:  No!  I bought the fucking compass.  If you wanted a compass you should have bought your own.
+
+Josh:  I don't give a shit if you bought the compass!  You fucked us up!  He fucked us up!  I don't know why you can't admit that you've been screwed since the moment we got out here!
+
+Heather:  I haven't.  
+
+Josh:  Heather give me the...
+
+Heather:  I've been planning this for two years! 
+
+Josh:  Give me the compass.  Heather, Heather.
+
+Heather:  We're walking south!  Now!
+
+Josh:  Give me the compass!  (Pushes Heather from behind)
+
+Heather:  You fucking asshole!  Don't knock me down!  Cause I will fucking knock you out!  I'm am walking south!  Fuck you both!  Fuck you both!
+
+Josh:  Okay you fucking bitch!
+
+Heather:  Okay, okay, I'm a fucking bitch!  Your friend throws the fucking map in the creek and I'm a bitch?  Okay!  Oh Fuckin Kay!
+
+
+(Cuts ahead, Josh sitting on the ground)
+
+Heather:  Why are we stopped again?  Why?  (Sighs)  Why are we stopped?
+
+Josh:  (points at the sky) Heather, just don't, just don't.
+
+Heather:  Does anybody have a reason why were stopped?  That's all I'm asking you.  What about the plan to keep going south?  We were all very happy with that plan.  Why is that not a...thing anymore.  (Under breath)  Oh Jesus Christ.
+
+(Cuts ahead, Heather hurrying thew woods)
+
+Heather:  (panting) I can't understand you!
+
+Mike:  (in the distance) there's all sorts of stuff down here!
+
+Heather:  What kind of stuff!?
+
+Mike:  Like twigs and shit!
+
+Heather:  What?
+
+Mike:  They're all over!  Look around you!
+
+Heather:  No way.
+
+(Cuts ahead to clearing)
+
+Mike:  They're all over the place.  Holy shit!
+
+(Shot of human looking figure made from sticks and twigs bound together dangling from trees)
+
+Heather:  Come up here quick I need to use the CP!
+
+Mike:  Yo, there's all sorts of shit up here man!
+
+Heather:  (reaching up and touching a stick man) This is fucking crazy shit.
+
+(Cuts ahead)
+
+Heather:  Please, I've got to get this on 16!
+
+(Shots of numerous stick men, hanging from trees on 16 mm)
+
+Josh:  I've almost got shots of everything.  Jesus Christ, that's fucking creepy.
+
+Mike:  Please, this is no redneck no redneck is this creative.
+
+Heather:  Can we get out of here now?
+
+Josh:  Yeah, please?  (Shot of gigantic stick man) Oh Jesus Christ!  Did you see this?  Okay, I want to get as far away from here by dark as humanly possible.
+
+(Cuts ahead)
+
+Josh:  Get your shit in your pack and let's go!  That's enough!
+
+Mike:  Stop taping!  Please stop taping!
+
+Josh:  That's enough!
+
+Heather:  Okay, okay, okay were leaving right now.  (Continues to tape)  Okay, were out of here, were out of here.  I'm leaving.
+
+Mike:  Come on!  Turn it off!
+
+(Cuts ahead)
+
+Mike:  HELP!  HELP!  PLEASE HELP US!  HELP US!
+
+Heather:  This is not the way to get out of here.
+
+Mike:  HELP US!  FUCK!
+
+(Cuts ahead)
+
+Heather:  I think it's safe to say at this point that were lost.  And I don't know what to do.
+
+(Cuts ahead to tent opening at night)
+ 
+Josh:  I'm getting inside the tent.
+
+Heather:  Alright.
+
+Mike:  Let's not light a fire tonight.
+
+Heather:  Yeah, I think...
+
+Mike:  Cause two nights in a row we've lit a fire.  We didn't light a fire the first night.
+
+Heather:  And nothing happened.
+
+Mike:  And nothing happened.  We light fires, they know.  I haven't heard anything follow us.  We should even turn that light off too.
+
+Heather:  Alright. (Turns off camera light)
+
+Josh:  Seriously, yeah turn that off.
+(Complete darkness)
+
+Heather:  Okay, let's just go to sleep.
+
+(Cuts ahead)
+(In the pitch darkness)
+
+(Sounds of babies laughing)
+
+Heather:  (whispered) Shit.
+
+(The sounds of people stirring terrified inside a canvas tent)
+
+Mike:  (whispered) What the fuck is that?
+
+Heather:  Okay let's get ready.
+
+(A few seconds of silence)
+
+(Sound of a baby crying out in pain)
+
+Mike:  (whispered) Oh Jesus Christ.  (Crying to himself) It sounds like little kids, out in the woods.
+
+Heather:  I'm going to put Jeans on.
+
+Mike:  Oh Jesus, oh Jesus.
+
+Heather:  Get the video camera.  No, get the DAT ready.
+
+Mike:  How are we going to record this shit?
+
+Heather:  (turns on camera light showing crew huddling in tent, looking blurry through the fogged up lens)  
+
+Heather:  (whispers) What's that sound?  (Shudders with fear)
+
+(Sounds grow louder and closer)
+
+(The tent begins to shudder and shake as if something is attacking)
+(All scream in fear)
+
+Mike:  Go!  Fucking go!
+
+(They break free of the tent and bolt away)
+
+Heather:  Oh god!
+
+Mike:  Hurry up!
+
+Heather:  I'm coming!  My boots aren't laced!  (Looking over her shoulder back at the tent)  OH MY GOD WHAT THE FUCK IS THAT!  WHAT THE FUCK IS THAT!  Oh shit!  Oh my god!  (Running and panting)  Look where are we going!?
+
+(Gathering together they crouch down in some thick weeds)
+
+Mike:  (whispers) Turn the lights off!  Turn that light off!  Turn it off!
+
+(Heather looks back towards the tent, with a look of pure terror on her face)
+
+Mike:  (whispers) All lights off, all lights off, all lights off.
+
+(Heavy panting)
+
+Mike:  (losing it & whispering) What the fuck is going on?  That was more then last night, that was more then last night.  I heard little babies screaming.
+
+Josh:  Shhhhh!  (Trembling)  There's no fucking babies out there man!  There's no fucking baby out there; there's no fucking baby out there.
+
+Heather:  Shhh!
+
+Mike:  Jesus Christ. Oh my god it's cold.
+
+Heather:  Please be quiet okay?
+
+Mike:  Okay, okay.
+(Cuts to dawn)
+
+Heather:  I don't hear anything anymore, I think we should go back.
+
+Mike:  How long have we been here?
+
+Heather:  I don't know, maybe a couple of hours.  The suns up were okay now.
+
+Josh:  Let's just get back, let's pack shit up, let's get out.
+
+Heather:  Okay.
+
+(Cuts back at tent, things scattered all around campsite)
+
+Josh:  What the fuck man?
+
+Heather:  Where's my pack?
+
+Mike:  Your packs right there.  Where's my pack?
+
+Josh:  What the fuck man?  Why are we getting fucked with like this?  They opened it up.  They spilled all my fucking water!
+
+Mike:  That looks like slime man.
+
+Josh:  That's just water, man.  (Bends over and feels "slime")  Ah that is slime.  What the fuck is that?  Dude.
+
+Mike:  Come on, let's get the shit packed up and let's get out of here.
+
+Josh:  Come on Heather turn that thing off and let's go.  I'm not; I'm not interested in anything anymore!  So turn it off!
+
+Heather:  I know.  Let's relax for just a second.  Have we gotten everything here?
+
+Josh:  Like I give a shit!
+
+Heather:  Who's shit was thrown around?  Who specifically?
+
+Josh:  It was my shit!
+
+Heather:  Why you?
+
+Mike:  Oh shit, let's go!  Let's go!  Are you not scared enough?
+
+Heather:  Yes I am scared enough and I do want to go, but it's light now.  We have a couple of minutes.
+
+Mike:  No we don't have a couple of minutes!
+
+Heather:  Let's just see what happened here okay!  Let's just see what happened here!
+
+Mike:  We need to hike!
+
+Josh:  Put that camera down.  This is not funny.
+
+Heather:  Do I look like I'm laughing at all?
+
+Josh:  No but you're going around doing your documentary thing man.
+
+Mike:  Heather.
+
+Josh:  Your doing your thing.
+
+Mike:  Heather.
+
+(Mike attacks Heather attempting to take video camera)
+
+Heather:  Don't fucking!
+
+(Camera flails wildly)
+
+Mike:  Turn this fucking thing off!  If you bite me fucking one more time I'm gonna!
+
+(Mike lets go and moves away)
+
+Heather:  If you touch my camera one more time I'll bite your fingers off!
+
+Mike:  Turn it off!
+
+(Cuts ahead, Mike looking sorry)
+
+Mike:  I'm sorry.
+
+Heather:  I didn't mean it.  Okay?
+
+Mike:  Are you all right?
+
+Heather:  I'm fine.  I want to go home but it's important that we get what we can.
+
+(Cuts ahead, crossing another log)
+
+Heather:  What the fuck?  Is this possible?  Okay, all right.  I hate crossing streams on logs.  If I never cross another stream on a log for the rest of my life, I will die a happy girl.
+
+(Cuts to Josh filming with video camera)
+
+Mike:  (gives camera the finger)
+
+Josh:  I see why you like this video camera so much.
+
+Heather:  You do?
+
+Josh:  It's not quite reality.
+
+Mike:  Reality says we've gotta moooove.
+
+Josh:  No but its totally like filtered reality man.  It's like you can pretend everything is not quite the way it is.
+
+(Cuts ahead, Josh sitting alone in the distance)
+
+Mike:  (whispers) Just leave him alone.
+
+Heather:  We need to go.  Mike.
+
+Mike:  Just give him like five minutes.  Just leave him alone.  He's lost it.
+
+Heather:  We are all on the brink of losing it.
+
+Mike:  (whisper) I know that.  We've all got to take care of each other.
+
+Heather:  (whispers) I know.
+
+Mike:  (whispers) you can't really take care of him if you throw a camera in his face while he's crying.
+
+Heather:  I know.
+
+Mike:  I know you know that, and I know we're both about to loose it but let's try to get the last wits we have.
+
+Heather:  We have to go.
+
+Mike:  Understand I know we have to go.  Believe me I know we have to go.
+
+Heather:  It is hard for all us to hold it together.  We need to get out of here in one piece and this is not helping!
+
+Mike:  I know it's not.  Just let him have his...
+
+Josh: (In the distance) anybody have a cigarette?
+
+Mike:  No man.
+
+Heather:  No, there's none left.
+
+Josh:  We don't have any cigarettes?
+
+Heather:  We're out.
+
+Josh:  (voice cracking) Why the fuck?  What the fuck was this blue jelly shit all over my shit?
+
+Heather:  Let's go.  If we keep going south we will get out.  Please.
+
+(Cuts to Josh down on his knees)
+
+Josh:  (whispers something unintelligible)
+
+Heather:  Josh, none of us do.
+
+Josh:  I know.
+
+Mike:  What ever it is, is going to come back.  We know that for a fact.
+
+Heather:  We don't know that for a fact.
+
+Mike:  Well it came three nights in a row.  It's been getting worse every night.
+
+Heather:  I would love to hear this right now, I really would, but we...
+
+Josh:  Can we please go?
+
+Mike:  I'm just trying to say you know we have to rationally say, they might go on forever compared to our footsteps.
+
+Heather:  Not, not possible.  Not possible in this country.  Not possible.
+
+Josh:  Why is it not possible?
+
+Heather:  Because this is America.  We've destroyed most of our natural resources.
+
+Mike:  (begins to sing) America, America.  GOD SAVE YOUR GRACE ON THEE!
+
+(Cuts to hiking)
+
+Josh and Mike:  (sing national anthem) The twilight's last gleaming.  
+
+Heather:  Okay, I don't want to be a humorless pain in the ass, but this I don't fucking understand.
+
+(Cuts ahead)
+
+Mike:  Yo that's the stream we crossed!
+
+Josh:  That's further down.  That's the same one!
+
+Mike:  Oh god!  You've got to be kidding me!  This is a joke!  THIS IS NOT FUNNY!
+
+Heather:  (begins to cry) No.  Mike just please stop.  Please stop.
+
+Mike:  Ohhh nooo.
+
+Heather:  It's not the same log.  It's not the same log Mike!
+
+Mike:  It's the same one!
+
+Heather:  Look it's not!
+
+Mike:  It is!  Open your eyes!
+
+Heather:  It's not the same log.  (Begins to sob)  It's not.  It's not the same log.
+
+Mike and Josh: Fuck!
+
+Heather:  (collapses crying next to log) It's the same log.  It's the same.
+
+Mike:  Fuck you God!
+
+Heather:  (sobs and rocks back and forth) It's okay.  It's okay.  It's okay.
+
+(Cuts ahead)
+
+Heather:  Where do you want to go today to camp?  I guess south didn't work today so tomorrow we'll go east.  I don't know what to say Josh.
+
+Josh:  How the fuck did we walk south and end up at the same place?
+
+Heather:  We walked south all day!  We walked south all fucking day!  I don't know how we ended up here.
+
+(Cuts ahead, Josh filming Heather with video camera)
+
+Heather:  Do you expect me to do something or say something?  What do you want to do Josh?  Josh?
+
+Josh:  I wanna make movies Heather.  Isn't that what we're here to do?  Let's make some movies.
+
+Heather:  Fuck you.  Really.  Fuck you.  Fuck you.
+
+Mike:  Please let's not fight.  Come on I can't.  I can't listen to fighting.  I can't fight.  We're screwed and that's it.  Please stop fighting.  I'll do the first watch.   I got first watch.
+
+Josh:  (To Heather) Come on you can do better then that.
+
+Mike:  Come on guys we have things to prepare for here.
+
+Josh:  Okay here's your motivation!  You're lost, you're angry in the woods!  There's no one here to help you!  There's a fucking witch and she keeps leaving shit outside your door!  There's no one here to help you!  She left little trinkets; you fucking took one of them!  She ran after us!  There's no one here to help you!
+
+Mike:  Josh!
+
+Josh:  We walked for 15 hours today, we ended up in the same place!  There's no one here to help you!  That's your motivation!
+
+Heather:  (begins to cry) Stop, please stop.
+
+Mike:  Josh!
+
+Josh:  That's your motivation!
+
+Heather:  Please stop.
+
+Mike:  Josh, just quit it.  I've had enough.
+
+Heather:  Please stop.
+
+Mike:  Come on man, you got her back.  Good one.
+
+Josh:  She's still making movies here man!  That's my point!  This is my point here!
+
+Heather:  It's all I fucking have left!  Okay?  Just please stop.  Please stop.  Just please stop yelling at me okay?  Please.
+
+Mike:  I'm fucking tired of crying all day here.  We have to think like human beings we have things to prepare for, we've gotta make shifts.  We've got lots to do.
+
+Josh:  Are you going to write us a happy ending Heather?
+
+Heather:  (breaks down and weeps then walks away)
+
+Mike:  Come on man, turn it off.  You're getting like she was.  Come on man turn it off.
+
+(Cuts ahead, inside of tent light only by flashlights, Heather mending hole in gear)
+
+Heather:  We need the smallest comforts we can get.
+
+Josh:  Doesn't it just seem absurd though, at this point.
+
+Mike:  Yes it does.
+
+Heather:  (mumbles with flashlight in mouth)
+
+Mike:  Like sleeping pretty much where we were sleeping last night.
+
+Josh:  That's just fucking me up.  Period.  That's just fucked up man.  (Looks directly into camera, looking lost)
+
+Josh:  I'm sorry I yelled at you.  I'm sorry.
+
+Heather:  It's okay.
+
+Mike:  Who wants a Cheeseburger?
+
+Heather:  (with flashlight in mouth) I do!  I do!
+
+Mike:  Well I've got a cheeseburger in my back pocket.
+
+Heather:  Do you?
+
+(All laugh slightly)
+
+Josh:  You know what I'd fucking love?
+
+Heather:  What.
+
+Josh:  Mashed potatoes.  My moms mashed potatoes.  My moms mashed potatoes and a piece of ass.
+
+(Cuts to next morning, Heather outside of tent)
+
+Heather:  Josh!  Josh!  Fuck, Mike we never go out of earshot!
+
+Mike:  Come on, calm down.
+
+Heather:  How can I calm down?  JOSH!  JOSH!
+
+Mike:  He's probably at the river or something.
+
+Heather:  If he was at the river he could hear me from here.
+
+Mike:  Josh!
+
+Heather:  Josh!
+
+Mike:  Shhh.  You gotta wait for his reply.  He'll come back.
+
+Heather:  JOSH!
+
+Mike:  Heather...
+
+Heather:  Do you remember what he said yesterday?  About, about this shit on his back.  About how...  JOSH!
+
+Mike:  We didn't even, we didn't even get waken up last night.  Nothing even came to the tent last night.  Last night was a good night.  There's no way... He, he just, he just, he's just went for a walk.
+
+Heather:  Josh if your fucking with me, I swear to God I'm gonna kill you!
+
+Mike:  Let's go, we gotta find him!  Come on!
+
+Heather:  We can't even find the car!  (Crying) How the fuck are we going to find Josh?  No, no, no, I'm fine.
+
+Mike:  Come on.  Relax, he's just.  He's around he just went out of ear shot.  I dunno.  He just went out of earshot.  That's all.  All right?  We'll relax, we'll break down the tent and when he's back we'll be ready to go.  All right?
+
+Heather:  I'm loosing my mind Mike.
+
+(Cuts ahead to Heather sitting alone talking to camera)
+
+Heather:  Josh hasn't come back yet.
+
+Mike:  (In the distance) Heather!
+
+Heather:  I'm over here Mike!
+
+Mike:  Okay.
+
+Heather:  I don't know if Josh ran off.  I don't.  All his shit's here.
+
+(Cuts back to tent)
+
+Heather:  I've got the camera.  I don't know how the fuck I'm gonna hike with that camera, but.
+
+Mike:  We should leave the camera.
+
+Heather:  We've gotta take the camera.
+
+(Cuts ahead)
+
+Heather:  How do you feel about east?
+
+Mike:  How do you feel about east?
+
+Heather:  Well south didn't work.
+
+Mike:  Which Wicked Witch was worst, the Wicked Witch of the East or the Wicked Witch of the West?
+
+Heather:  The Wicked Witch of the West was the bad one.
+
+Mike:  Let's go east then.
+
+(Cuts ahead)
+
+(Sound of sticks breaking in the distance, both turn towards it)
+
+Heather:  What was that?
+
+Mike:  Josh?  Josh!
+
+(Cuts to end of day, Mike and Heather putting up tent)
+
+Heather:  We're going to put up the tent now.
+
+(Cuts ahead)
+
+Mike:  I'm going to have a meatball.
+
+Heather:  Just one meatball?
+
+Mike:  And a long, red glass of wine.
+
+Heather:  Yeah, I would defiantly have the whole fucking bottle of Bordello.
+
+Mike:  A pack of smokes.
+
+Heather:  Smokes would be good.  A long hot bath.
+
+Mike:  Pumpkin pie.
+
+Heather:  A big pumpkin pie with ice cream, warm with melty ice cream.
+
+Mike:  Yeah that sounds good.  What's your favorite thing to do on a Sunday?
+
+Heather:  Um, it used to be, drive to the woods and go hiking.
+
+Mike:  (laughs)
+
+Heather:  But, um.
+
+Mike:  I think that's scratched off.
+
+Heather:  I think that might change now.
+
+(Cuts ahead to darkness)
+
+(Voice that sounds like Josh moans off in the distance)
+
+Heather:  Should we yell for him?  Is it a trick?
+
+Josh's voice:  (cries of pain and fear in the distance)
+
+Heather:  Josh?
+
+(Unzips tent)
+
+Mike:  Josh!  (Silence) Josh!
+
+(Silence)
+
+Mike:  Where's it coming from?
+
+Josh's voice:  (Bleating moans)
+
+Mike:  JOSH!  Josh where are you?  Tell me where you are!
+
+Josh's voice:  (closer and louder cry's of pain)
+
+Heather:  (muffled) Oh my god.  No.
+
+Mike:  Fuck.  Do you think that's them fucking with us?
+
+Heather:  Josh?  Is it over here?
+
+Mike:  No it's over here.
+
+Mike:  JOSH!  (Breath from the cold mists in the cameras view)
+
+Mike:  Well look for him!
+
+Heather:  (begins to cry uncontrollable)
+
+Mike:  (voice cracking) I don't know if it's really him, I don't know if it's really him.
+
+Heather:  Josh!  (Sobs)  I don't even know where to look.
+
+Mike:  (crying) Tell me where you are Josh!
+
+(Cuts ahead)
+
+Heather:  Mike, please don't fall asleep.
+
+Mike:  I can't fall asleep.
+
+Heather:  Whatever it is, it knows that Josh is gone.
+
+Mike:  If that was Josh he would have said where he was.
+
+Heather:  (mumbles, not sure about this line?)  Good night...(something)
+
+(Cuts to next morning)
+
+Heather:  I just want to show that Mike is here.  He's sleeping.  (Pulls sleeping bag off of Mikes face, then steps out of tent)
+
+(A bundle of sticks and twigs bound together by what looks to be strips of Josh's flannel shirt confronts Heather)
+
+Heather:  Oh shit.  What the hell is it?  Mike.  
+
+Mike:  What?
+
+Heather:  There's something out here.
+
+Mike:  What is it?
+
+(Heather gets close with camera and examines bundle)
+
+Heather:  (gasps) Okay, okay.  Okay I'm just going to move it from the front of the tent.  Okay?  I'm taking it away; I'm taking it away from the front of the tent.  I'm throwing it.  (Throws it over log)  Okay.
+
+Mike:  (sitting alone and rocking back and forth) We'll just keep walking.  Okay?
+
+Heather:  (crying) Okay.
+
+Mike:  We'll keep walking.  I found some cigarettes.  I found them all the way at the bottom of my bag.  We're still alive; we're still smoking.
+
+(Heather sets camera up and walks over to comfort Mike.  They share a cigarette)
+
+(Cuts ahead, Heather goes back to where she had tossed the bundle of sticks)
+
+(Heather examines bundle more closely and begins to untie strip of Josh's shirt)
+
+Heather:  It's all full of blood.  (Gasps, screams, then begins to cry at what is bound inside the shirt, bloody clumps of hair and what appears to be gory teeth.  She quickly begins to hyperventilate and loose control but continues to examine the gore with her camera)  (pants) Shit.  (Turns away)  Oh god.
+
+(Cuts to Heather by stream, washing her hand profusely)
+
+Heather:  Okay, okay.  See? (Shows clean hands to camera)
+
+Mike:  (In the distance) Heather!
+
+Heather:  Yeah?
+
+Mike:  What are you doing?
+
+Heather:  I'm okay, I'm just washing my hands off.
+
+Mike:  What?
+
+Heather:  Just washing my hands off.
+
+(Cuts ahead back at tent, Mike using camera)
+
+Heather:  (looking very freaked) I'm gonna put my gloves on.  I'm gonna put my gloves on.  I'm gonna put my gloves on my hands.
+
+Mike:  You all right?
+
+Heather:  I'm fine, I'm fine.
+
+(Cuts ahead, Heather trying to lift her pack on)
+
+Mike:  You need help?
+
+Heather:  Nope.  Nope.  I don't need any help.  I'm okay.
+
+Mike:  What happened?
+
+Heather:  Nothing.  Nothing happened.  I'm just very hungry and I'm very tired and I'm very scared and I just want to go home okay?
+
+Mike:  Okay.
+
+Heather:  But I'm fine and we're both okay.  Oww, my hair's caught.
+
+(Mike helps get her hair unsnaged from her pack)
+
+Heather:  Thank you.  Okay.
+
+(Cuts to Hiking)
+
+(Heather stops, looks around, looks at compass then begins to hike again)
+
+(Cuts to Mike rocking and looking exhausted)
+
+(Cuts to hiking)
+
+Mike:  2130 games.  One more season and Cal Ripkin is king!  Cal Ripkin is king!  And I won't get to see it!  Cause I'll be in the woods!
+
+(Cuts to Mike sitting by stream holding a leaf)
+
+Mike:  (puts leaf in mouth, tears a chunk off and begins to chew)
+
+Heather:  Tell me your not eating a dry leaf.  (Laughs)
+
+(Cuts to night, Heather looking into camera)
+(The confessional)
+
+Heather:  I just want to apologize to Mike's mom and Josh's mom and my mom and I'm sorry to everyone.  I was very naive.  (Looks away from camera scared)  I was very naive and very stupid and I shouldn't have put other people in danger for something that was all about me and my selfish motives.  I'm so sorry for everything that has happened because in spite of what Mike says now it is my fault.  Because it was my project and I insisted on everything.  I insisted we weren't lost.  I insisted we keep going.  I insisted we walk south.  Everything had to be my way and this is where we've ended up.  And it's all because of me were here now hungry and cold and hunted.  I love you mom and dad.  I am so sorry.  It was never my intention to hurt any one and I hope that's clear.  (Begins to hyperventilate as mucus streams from her nostrils) I am so scared.  What was that?  I'm scared to close my eyes and I'm scared to open them.  I'm going to die out here.  Every night we just wait for them to come.  (Breaks down and sobs)
+
+(Cuts ahead to Heather and gathering gear in the darkness to confront the cries of Josh out in the woods)
+
+Josh's Voice: Somebody!
+
+Mike:  Oh Jesus Christ.
+
+Mike:  Ready?
+
+Josh's Voice: Somebody!
+
+Mike:  Okay.  That can't be him.
+
+(Heather carrying 16mm and Mike with Hi-8 Video camera, begin to walk towards sound)
+
+Josh's Voice: Someone I need help please!  Please help me god!
+
+Mike:  Holy shit it's a house.  Watch your step.
+
+(An ancient abandoned house looms over them)
+
+Heather:  Mike.
+
+(Mike is eager to explore)
+
+Heather:  Josh?
+
+(Cuts to inside of house, Mikes view through Video camera; house is in extreme state of decay, crumbling plaster no windows or doors walls knocked out)
+
+Heather:  Mike?  Mike!  Mike!
+
+Mike:  Come on!
+
+Heather:  Mike where are you?
+
+Mike:  Come on, I'm in the house.
+
+Heather:  Mike do not...
+
+Josh's voice:  (muffled) please help!
+
+(Cuts to Heather's view with 16 mm)
+
+Heather:  Mike?  Mike?  Mike please.
+
+Josh's Voice:  (muffled cries)
+
+Heather:  Mike please.  Mike where are you?
+
+Mike:  I'm right here!  Where is he?
+
+Heather:  Mike don't leave me!
+
+Heather:  Is he in here?
+
+Mike:  No.  (Whispers)  Oh shit.
+
+Josh's Voice:  (muffled) No!  God!
+
+Mike:  (whispers) Oh Jesus. (Arrives at a set of disheveled set of stairs)  I hear him.  (Begins to run up stairs)  I hear him.  I hear you!  Where?  I'm going up stairs!  (Begins to climb second flight, there are child sized bloody hand prints and strange occultic symbols along the walls)
+
+(Cuts to Heather's 16mm footage on same set of stairs)
+
+Josh's Voice:  (muffled)  Overhmm!
+
+Mike:  Did you hear that?  Did you hear that?
+
+(Cuts to Mike camera looking back at Heather just as she confronts the hand prints)
+
+Mike: Where is he?
+
+Josh's Voice:  (unintelligible cries and moans)
+
+(Cuts back to Heather's footage, hyperventilating at this point)
+
+
+
+Mike:  Where are you!?  Come on!  Josh?  I'm getting down stairs!  Come on!  I HEAR HIM DOWN STAIRS!  Come on!
+
+(Begins to run down stairs)
+
+Heather:  (so scared she can hardly scream) Mmmm!  Mike!
+
+Mike:  Come on!  Josh!
+
+Heather:  MIKE!
+
+(Mike arrives at the cellar steps, more occult writings along the wall)
+
+Mike:  Josh?  Josh!?  Josh is that you down there!?
+
+Heather:  (in the distance and at the top of her lungs) MIKE!  MIKE!
+
+(Mike descends into the basement, Heather continues to scream)
+
+Mike:  oh god.  . Josh?  (Grunt)
+
+(Camera is knocked to the ground.  It autofocuses on the cellar gravel)
+
+(Cuts to Heather, just now reaching the cellar entrance)
+
+Heather:  MIKE!  MIKE!  MIKE! MIKE!  (Screams) MIKE!  IEEE! Mike.  (Reaches bottom of the cellar steps)
+
+(Rounds a protruding wall)
+(Mike is standing facing the far corner)
+
+Heather:  MIKE!  MIKE! IEEE!  IEE! HHUH!
+
+(16 MM drops on its side and film jitters)
+
+(No sound)
+
+EOF.
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

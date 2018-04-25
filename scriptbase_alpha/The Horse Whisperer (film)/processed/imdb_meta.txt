@@ -1,0 +1,94 @@
+year	1998
+imdb score	6.5
+meta score	65
+genre	Drama
+genre	Romance
+genre	Western
+keyword	horse
+keyword	grace
+keyword	montana
+keyword	ranch
+keyword	teenage girl
+keyword	horse trainer
+keyword	death
+keyword	teen angst
+keyword	man horse relationship
+keyword	extramarital affair
+keyword	stoicism
+keyword	amputation
+keyword	mother daughter relationship
+keyword	helicopter
+keyword	directed by star
+keyword	dead girl
+keyword	country music
+keyword	rider horse relationship
+keyword	landscape
+keyword	dysfunctional family
+keyword	adultery
+keyword	woman horse relationship
+keyword	therapy
+keyword	human animal relationship
+keyword	new york city
+keyword	groom
+keyword	horse whispering
+keyword	patience
+keyword	rural setting
+keyword	amputee
+keyword	branding
+keyword	horse actor
+keyword	internet
+keyword	editor
+keyword	trauma
+keyword	paddock
+keyword	girl horse relationship
+keyword	western u.s.
+keyword	boy horse relationship
+keyword	equestrian
+keyword	riding accident
+keyword	father daughter relationship
+keyword	stallion
+keyword	animal in title
+keyword	post traumatic stress
+keyword	cattle breeder
+keyword	reflection
+keyword	cattle
+keyword	rehabilitation
+keyword	based on novel
+cast	Robert Redford	Tom Booker
+cast	Kristin Scott Thomas	Annie MacLean
+cast	Sam Neill	Robert MacLean
+cast	Dianne Wiest	Diane Booker
+cast	Scarlett Johansson	Grace MacLean
+cast	Chris Cooper	Frank Booker
+cast	Cherry Jones	Liz Hammond
+cast	Ty Hillman	Joe Booker
+cast	Kate Bosworth	Judith
+cast	Austin Schwarz	Twin #1
+cast	Dustin Schwarz	Twin #2
+cast	Jeanette Nolan	Grandma Ellen Booker
+cast	Steve Frye	Hank
+cast	Don Edwards	Smokey
+cast	Jessalyn Gilsig	Lucy, Annie's Assistant
+cast	William 'Buddy' Byrd	Lester Petersen
+cast	John Hogarty	Local Tracker
+cast	Michel Lalonde	Park Ranger
+cast	C.J. Byrnes	Doctor
+cast	Kathy Baldwin Keenan	Nurse #1
+cast	Allison Moorer	Barn Dance Vocalist
+cast	George A. Sack Jr.	Truck Driver
+cast	Kellee Sweeney	Nurse #2
+cast	Stephen Pearlman	David Gottschalk
+cast	Joelle Carter	Office Worker #1
+cast	Sunny Chae	Office Worker #2
+cast	Anne Joyce	Office Worker #3
+cast	Tara Sobeck	Schoolgirl #1
+cast	Kristy Ann Servidio	Schoolgirl #2
+cast	Marie Engle	Neighbor
+cast	Curt Pate	Handsome Cowboy
+cast	Steven Brian Conard	Ranch Hand
+cast	Tammy Pate	Roper
+cast	Miss Michelle	
+cast	Donnie Saylor	Rugged Cowboy
+cast	Gloria Lynne Henry	Member of Magazine Staff
+cast	Lance R. Jones	Ranch Hand
+cast	Brian Vikander	Photographer

@@ -1,0 +1,50 @@
+year	2003
+imdb score	7.5
+meta score	N/A
+genre	Comedy
+genre	Music
+keyword	pagan comedy
+keyword	california
+keyword	mythology
+keyword	guerilla drive in
+keyword	greek mythology
+keyword	experimental film
+keyword	drive in
+keyword	hera
+keyword	digit in title
+keyword	light
+keyword	los angeles california
+keyword	independent film
+keyword	number in title
+keyword	
+cast	Alison Elliott	Marie-Noel
+cast	Tony Griffin	Filmore West
+cast	Allen Lulu	Allen
+cast	Brenda Varda	Hera
+cast	Eugene Rubenzer	Zeus
+cast	Blake Robertson	Monk
+cast	Golde Starger	Aunt Debbie
+cast	David Franko	Pan
+cast	Eddie Zona	Hermes
+cast	Julienne Greer	Julienne
+cast	Mike Upton	Ranch Hand
+cast	Lili Barsha	Aphrodite
+cast	Lisa Stark	2nd Tutor
+cast	Mark Dalton	H. Tom
+cast	Regina Leeds	1st Tutor
+cast	Anthony T. Mazzola	Surfer
+cast	Nancy Langdon	Nymph Chained to Rock
+cast	Dee Maaske	Woman in Drugstore
+cast	Allison Gregory	Woman in Bar
+cast	Jennifer Somers	Woman in car
+cast	Jeff Thiel	Twin
+cast	James Thiel	
+cast	Richard Pollack	Old Man at Ranch
+cast	John Tollsky	Popping John
+cast	Richard Goldstone	Allen's Agent
+cast	Karen Møller E.	Empusea
+cast	Toshi Toda	Government Investigator
+cast	Mel Bridges	Marie-Christine
+cast	Peter James Cooper	Pete
+cast	Richard Dutcher	Minister
+cast	Melissa Vinicor	Girl on Car Hood

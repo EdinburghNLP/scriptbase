@@ -1,0 +1,290 @@
+year	1951
+imdb score	8.2
+meta score	N/A
+genre	Crime
+genre	Film-Noir
+genre	Thriller
+keyword	tennis
+keyword	murder
+keyword	stranger
+keyword	divorce
+keyword	train
+keyword	police
+keyword	tennis player
+keyword	amusement park
+keyword	u.s. senator
+keyword	suspect
+keyword	island
+keyword	tennis match
+keyword	guilt
+keyword	perfect murder
+keyword	love
+keyword	cheating wife
+keyword	great dane
+keyword	being followed
+keyword	woman strangled to death
+keyword	homosexual villain
+keyword	cowboy costume
+keyword	death of expectant mother
+keyword	parallel montage
+keyword	cult director
+keyword	driving blindfolded
+keyword	fire escape
+keyword	pregnant woman murdered
+keyword	father daughter relationship
+keyword	criss cross
+keyword	sports announcer
+keyword	oedipus complex
+keyword	double exposure effects
+keyword	mama's boy
+keyword	following someone
+keyword	gambling
+keyword	kiss
+keyword	pregnant wife
+keyword	small town
+keyword	malice
+keyword	insanity
+keyword	electric chair
+keyword	celebrity
+keyword	double life
+keyword	director cameo
+keyword	old man
+keyword	railroad track
+keyword	fainting
+keyword	giving a toast
+keyword	call for help
+keyword	gasoline
+keyword	carbon monoxide poisoning
+keyword	remarriage
+keyword	carousel
+keyword	accidental killing
+keyword	woman with glasses
+keyword	pregnant woman
+keyword	speech
+keyword	athlete
+keyword	dog
+keyword	investigation
+keyword	1950s
+keyword	kewpie doll
+keyword	black comedy
+keyword	sports page
+keyword	homosexual subtext
+keyword	court
+keyword	radio announcer
+keyword	hate
+keyword	forest hills queens new york city
+keyword	tunnel of love
+keyword	phone booth
+keyword	adulteress
+keyword	second marriage
+keyword	teacher
+keyword	tie clip
+keyword	sense of smell
+keyword	framed for murder
+keyword	swapping murders
+keyword	sound booth
+keyword	boat ride
+keyword	mother son relationship
+keyword	death of pregnant woman
+keyword	punch into the camera
+keyword	professor
+keyword	train compartment
+keyword	atomic power
+keyword	note
+keyword	college
+keyword	stalking
+keyword	blackmail
+keyword	scandal
+keyword	listening to recording
+keyword	drunkenness
+keyword	phone book
+keyword	infidelity
+keyword	rocket to the moon
+keyword	piano
+keyword	pay phone
+keyword	flirting
+keyword	bigamy
+keyword	pregnant
+keyword	jet plane
+keyword	boss' daughter
+keyword	family quarrel
+keyword	double cross
+keyword	painter
+keyword	society page
+keyword	washington d.c.
+keyword	suspect tailing
+keyword	piano tuner
+keyword	reference to st. francis
+keyword	nightfall
+keyword	glasses
+keyword	anger
+keyword	cigarette smoking
+keyword	stalker
+keyword	u.s. president
+keyword	chance meeting
+keyword	priest
+keyword	weakness
+keyword	character's point of view camera shot
+keyword	lincoln memorial
+keyword	trance
+keyword	gun
+keyword	door key
+keyword	blind man
+keyword	wedding
+keyword	man strangles woman
+keyword	resentment toward wife
+keyword	look alike
+keyword	psychotronic
+keyword	jefferson memorial washington d.c.
+keyword	train porter
+keyword	merry go round
+keyword	meeting on a train
+keyword	lie
+keyword	false accusation
+keyword	neck breaking
+keyword	extramarital affair
+keyword	father son relationship
+keyword	music store
+keyword	singer
+keyword	shadow
+keyword	club car
+keyword	setting a fire
+keyword	murder of a stranger
+keyword	man kills a woman
+keyword	blindfold
+keyword	maniac
+keyword	telephone call
+keyword	dining car
+keyword	singing
+keyword	judge
+keyword	courtroom
+keyword	street grating
+keyword	boat
+keyword	arlington virginia
+keyword	murder suspect
+keyword	husband wife relationship
+keyword	montage
+keyword	expectant mother
+keyword	sideshow
+keyword	college professor
+keyword	pregnancy
+keyword	poison
+keyword	evil laughter
+keyword	screaming
+keyword	money
+keyword	lawyer
+keyword	penn station
+keyword	unfaithfulness
+keyword	dressing gown
+keyword	stepping on someone's hand
+keyword	passionate kiss
+keyword	psychopath
+keyword	white house
+keyword	cynicism
+keyword	policeman
+keyword	execution
+keyword	drain
+keyword	song
+keyword	threat
+keyword	u.s. capitol building
+keyword	adultery
+keyword	dangerous friend
+keyword	sentenced to death
+keyword	sister sister relationship
+keyword	friendship
+keyword	race against time
+keyword	secret from fiancée
+keyword	obsession
+keyword	party
+keyword	death
+keyword	innocent suspect
+keyword	reference to george washington
+keyword	railway station
+keyword	camera shot of feet
+keyword	crying
+keyword	french
+keyword	gossip
+keyword	mars the planet
+keyword	washington monument washington d.c.
+keyword	bombing the white house
+keyword	strangulation
+keyword	new york city
+keyword	french accent
+keyword	burning note
+keyword	evil man
+keyword	liar
+keyword	teenage boy
+keyword	suspense
+keyword	drunken man
+keyword	criminal
+keyword	bourbon
+keyword	detective
+keyword	shooting
+keyword	queens new york city
+keyword	marriage
+keyword	drinking
+keyword	child in peril
+keyword	helping a blind man cross the street
+keyword	punched in the face
+keyword	based on novel
+keyword	
+cast	Farley Granger	Guy Haines
+cast	Ruth Roman	Anne Morton
+cast	Robert Walker	Bruno Antony
+cast	Leo G. Carroll	Sen. Morton
+cast	Patricia Hitchcock	Barbara Morton
+cast	Kasey Rogers	Miriam Joyce Haines
+cast	Marion Lorne	Mrs. Antony
+cast	Jonathan Hale	Mr. Antony
+cast	Howard St. John	Police Capt. Turley
+cast	John Brown	Prof. Collins
+cast	Norma Varden	Mrs. Cunningham
+cast	Robert Gist	Det. Leslie Hennessey
+cast	Joel Allen	Policeman
+cast	Murray Alper	Boatman
+cast	Monya Andre	Dowager
+cast	Brooks Benedict	Tennis Umpire
+cast	Al Bridge	Tennis Judge
+cast	John Butler	Blind Man
+cast	Leonard Carey	Anthonys' Butler
+cast	Edward Clark	Miriam's Boss
+cast	Jack Cushingham	Fred Reynolds
+cast	John Daheim	Detective at Merry-Go-Round
+cast	John Doucette	Det. Hammond
+cast	Roy Engel	Policeman
+cast	Herbert Evans	Party Guest
+cast	Franklyn Farnum	Party Guest
+cast	Tommy Farrell	Miriam's Boyfriend
+cast	Sam Flint	Train Passenger Requesting Light
+cast	Edward Hearn	Lt. Campbell
+cast	Al Hill	Carnival Game Proprietor
+cast	Harry Hines	Man Under Merry-Go-Round
+cast	Alfred Hitchcock	Man Boarding Train Carrying a Double Bass
+cast	Mary Alan Hokanson	Secretary
+cast	Edna Holland	Mrs. Joyce
+cast	J. Louis Johnson	Mortons' Butler
+cast	Mike Lally	Detective at Carnival
+cast	Perc Launders	Police Desk Sergeant
+cast	Louis Lettieri	Boy with Balloon
+cast	George Magrill	Policeman at Merry-Go-Round
+cast	Charles Marsh	Bystander at Drain
+cast	Paul McGuire	Man on Train
+cast	David McMahon	Bystander at Drain
+cast	Charles Meredith	Judge Donahue
+cast	Ralph Moody	Seedy Man at Carnival
+cast	Roland Morris	Miriam's Boyfriend
+cast	Odette Myrtil	Madame Darville
+cast	Barry Norton	Tennis Match Spectator
+cast	Paul Panzer	Bystander at Merry-Go-Round
+cast	Minna Phillips	Dowager
+cast	Georges Renavent	Monsieur Darville
+cast	Suzanne Ridgeway	Bystander at Merry-Go-Round Wreck
+cast	Dick Ryan	Minister
+cast	Charles Sherlock	Cop
+cast	Janet Stewart	Girl
+cast	Shirley Tegge	Girl
+cast	Laura Treadwell	Mrs. Anderson
+cast	Joe Warfield	Soda Jerk
+cast	Howard Washington	Waiter on Train
+cast	Dick Wessel	Bill
+cast	Robert Williams	Bystander at Drain

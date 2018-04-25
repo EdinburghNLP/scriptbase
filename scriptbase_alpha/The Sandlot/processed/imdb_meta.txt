@@ -1,0 +1,94 @@
+year	1993
+imdb score	7.8
+meta score	N/A
+genre	Comedy
+genre	Drama
+genre	Family
+genre	Sport
+keyword	baseball
+keyword	beast
+keyword	fence
+keyword	summer
+keyword	boy
+keyword	kid
+keyword	treehouse
+keyword	team
+keyword	dog
+keyword	chased by a dog
+keyword	coming of age
+keyword	steak
+keyword	campout
+keyword	lifting someone into the air
+keyword	mouth to mouth resuscitation
+keyword	lip flubby
+keyword	utah
+keyword	vacuum cleaner
+keyword	diving
+keyword	baseball fan
+keyword	black eye
+keyword	getting sick on a carnival ride
+keyword	chase
+keyword	family relationships
+keyword	cake
+keyword	twins
+keyword	slow motion scene
+keyword	vomit
+keyword	unable to swim
+keyword	swimming pool
+keyword	childhood
+keyword	baseball breaks open
+keyword	candle
+keyword	fireworks
+keyword	child swearing
+keyword	homerun
+keyword	steak on black eye
+keyword	carnival
+keyword	1960s
+keyword	friendship
+keyword	voice over narration
+keyword	boy with glasses
+keyword	doghouse
+keyword	junkyard
+keyword	story telling
+keyword	sports team
+keyword	children
+keyword	baseball glove
+keyword	blind man
+keyword	chewing tobacco
+keyword	title spoken by character
+keyword	
+cast	Tom Guiry	Scotty Smalls
+cast	Mike Vitar	Benjamin Franklin Rodriguez
+cast	Patrick Renna	Hamilton 'Ham' Porter
+cast	Chauncey Leopardi	Michael 'Squints' Palledorous
+cast	Marty York	Alan 'Yeah-Yeah' McClennan
+cast	Brandon Quintin Adams	Kenny DeNunez
+cast	Grant Gelt	Bertram Grover Weeks
+cast	Shane Obedzinski	Tommy 'Repeat' Timmons
+cast	Victor DiMattia	Timmy Timmons
+cast	Denis Leary	Bill
+cast	Karen Allen	Mom
+cast	James Earl Jones	Mr. Mertle
+cast	Marley Shelton	Wendy
+cast	Herb Muller	Young Mr. Mertle
+cast	Daniel Zacapa	Police Chief
+cast	Eddie Matthews	Thief
+cast	Keith Campbell	Thief
+cast	Wil Horneff	Phillips
+cast	Tyson Jones	Little League Punk #2
+cast	Karl Simmons	Schoolyard Pitcher
+cast	Maury Wills	Coach
+cast	Pablo P. Vitar	Older Benny
+cast	Robert Apisa	Home Plate Umpire
+cast	Robbie T. Robinson	Third Base Umpire
+cast	Charles Fick	Giants Catcher
+cast	Tim Page	Giants Pitcher
+cast	Dennis Williams	Giants Third Baseman
+cast	Cynthia Windham	Mother at Pool
+cast	Shane LaVar Smith	Toddler
+cast	Art LaFleur	The Babe
+cast	Lon Chaney Jr.	Larry Talbot
+cast	David M. Evans	Narrator
+cast	Chris Fick	Giants Catcher
+cast	Arliss Howard	Grown-up Scotty
+cast	Chris Petoyan	Kid on Bike

@@ -1,0 +1,152 @@
+year	2009
+imdb score	4.8
+meta score	25
+genre	Drama
+genre	Thriller
+keyword	temp worker
+keyword	marriage
+keyword	stalker
+keyword	blonde
+keyword	stalking
+keyword	bare feet
+keyword	enticement
+keyword	office temp
+keyword	psychopath
+keyword	listening in on a telephone call
+keyword	workplace
+keyword	babysitter
+keyword	fatal attraction
+keyword	hair pulling
+keyword	sexy dress
+keyword	police
+keyword	woman with glasses
+keyword	swinging from chandelier
+keyword	kidnapping
+keyword	los angeles california
+keyword	obsession
+keyword	manipulation
+keyword	drugged
+keyword	lie
+keyword	self defense
+keyword	erotomania
+keyword	flirting
+keyword	faithful husband
+keyword	investigation
+keyword	women fight
+keyword	upskirt
+keyword	female psychopath
+keyword	falling to death
+keyword	man raped by woman
+keyword	insanity
+keyword	aerial shot
+keyword	dead woman
+keyword	falling through the floor
+keyword	diaper change
+keyword	drinking
+keyword	attraction
+keyword	fight to the death
+keyword	chandelier
+keyword	gossip
+keyword	attempted kidnapping
+keyword	dead woman on floor
+keyword	delusional
+keyword	one word title
+keyword	sexually frustrated female
+keyword	non statutory female on male rape
+keyword	female stalker
+keyword	office worker
+keyword	office
+keyword	coma rape
+keyword	mirror on the ceiling
+keyword	unrequited love
+keyword	champagne
+keyword	woman crying
+keyword	overhead camera shot
+keyword	putter
+keyword	thrown against a wall
+keyword	woman in mens' room
+keyword	obsessive love
+keyword	deceit
+keyword	parking lot
+keyword	threat
+keyword	husband wife relationship
+keyword	rape
+keyword	headset
+keyword	new home
+keyword	strangling
+keyword	date rape drug
+keyword	seduction
+keyword	dancing
+keyword	femme fatale
+keyword	eavesdropping
+keyword	misunderstanding
+keyword	crashing through glass
+keyword	woman dead on floor
+keyword	panties
+keyword	sexual desire
+keyword	e mail
+keyword	thrown down stairs
+keyword	christmas tree
+keyword	santa claus
+keyword	crime of passion
+keyword	black man white woman relationship
+keyword	pushed to the brink
+keyword	legs
+keyword	hospital
+keyword	fight
+keyword	red dress
+keyword	catfight
+keyword	black panties
+keyword	kicked in the face
+keyword	spurned male
+keyword	fishnet stockings
+keyword	breaking and entering
+keyword	suicide attempt
+keyword	lust
+keyword	sexual obsession
+keyword	black woman
+keyword	deranged woman
+keyword	non statutory female on male rape attempt
+keyword	happily married
+keyword	hanging from the ceiling
+keyword	online chat
+keyword	christmas party
+keyword	co worker
+keyword	meeting
+keyword	seductress
+keyword	interracial relationship
+keyword	drinking and driving
+keyword	snooping
+keyword	fall to death
+keyword	breaking a dish
+keyword	suspicion
+keyword	villainess
+keyword	gay friend
+keyword	
+cast	Idris Elba	Derek
+cast	Beyoncé Knowles	Sharon
+cast	Ali Larter	Lisa
+cast	Jerry O'Connell	Ben
+cast	Bonnie Perlman	Marge
+cast	Christine Lahti	Reese
+cast	Nathan Myers	Kyle
+cast	Nicolas Myers	Kyle
+cast	Matthew Humphreys	Patrick
+cast	Scout Taylor-Compton	Samantha
+cast	Richard Ruccolo	Hank
+cast	Bryan Ross	Security Man
+cast	Nelson Mashita	Doctor
+cast	Bruce McGill	Joe Gage
+cast	Ron Roggé	Roger
+cast	George Ketsios	Hotel Clerk
+cast	Meredith Roberts Quill	Connie
+cast	Catherine Munden	Cocktail Waitress
+cast	Dana Cuomo	Rachel
+cast	Jon Rowland	John
+cast	Janora McDuffie	Nurse
+cast	Zachary Chitwood	Waiter
+cast	Robert Esser	Paramedic
+cast	Monica Ford	Sally Sloan
+cast	Lynsey Nicole Harris	Waitress
+cast	Maria Lee	Gage Professional
+cast	Bob Mundy	Gage Professional

@@ -1,0 +1,133 @@
+year	1998
+imdb score	4.4
+meta score	21
+genre	Horror
+genre	Mystery
+genre	Thriller
+keyword	bahamas
+keyword	fisherman
+keyword	hook
+keyword	roommate
+keyword	vacation
+keyword	murder
+keyword	resort
+keyword	revenge
+keyword	storm
+keyword	punched in the stomach
+keyword	hotel manager
+keyword	second in trilogy
+keyword	post traumatic stress
+keyword	marijuana joint
+keyword	season in title
+keyword	voodoo
+keyword	stabbed in the head
+keyword	lifting someone into the air
+keyword	dark and stormy night
+keyword	man in swimsuit
+keyword	gym
+keyword	axe
+keyword	reference to bob marley
+keyword	reference to freddy krueger
+keyword	title appears in writing
+keyword	shot to death
+keyword	double impalement
+keyword	year 1988
+keyword	hiding under a bed
+keyword	bartender
+keyword	hook through hand
+keyword	fourth of july
+keyword	helicopter
+keyword	reference to jason voorhees
+keyword	church
+keyword	maid
+keyword	serial killer
+keyword	swimming pool
+keyword	arm sling
+keyword	hanged man
+keyword	stabbed to death
+keyword	characters killed one by one
+keyword	stabbed in the back
+keyword	father son relationship
+keyword	pawnshop
+keyword	hook for hand
+keyword	second part
+keyword	stranded on an island
+keyword	character repeating someone else's dialogue
+keyword	strobe light
+keyword	critically bashed
+keyword	stabbed in the throat
+keyword	nightclub
+keyword	goof in title
+keyword	vomit
+keyword	sequel
+keyword	kicked in the stomach
+keyword	falling down a hill
+keyword	pistol
+keyword	villain not really dead cliche
+keyword	sleeping in class
+keyword	engagement ring
+keyword	mannequin
+keyword	boyfriend girlfriend relationship
+keyword	stabbed in the chest
+keyword	karaoke
+keyword	writing in blood
+keyword	drug dealer
+keyword	falling through a rooftop window
+keyword	man punching a woman
+keyword	stabbed in the hand
+keyword	part of trilogy
+keyword	no ending
+keyword	seasickness
+keyword	jumping on a bed
+keyword	dream sequence
+keyword	college student
+keyword	hospital
+keyword	stupid victim
+keyword	blood on face
+keyword	knife
+keyword	lens flare
+keyword	white male pretending to be black
+keyword	sequel to cult favorite
+keyword	bare chested male
+keyword	blood spatter
+keyword	jacuzzi
+keyword	paranoia
+keyword	stabbed through the chin
+keyword	nightmare
+keyword	tanning bed
+keyword	shot in the chest
+keyword	slasher
+keyword	singing in a car
+keyword	cemetery
+keyword	marijuana
+keyword	confessional
+keyword	reference to richard nixon
+keyword	punched in the face
+keyword	corpse
+keyword	hotel
+keyword	filicide
+keyword	surprise ending
+keyword	
+cast	Jennifer Love Hewitt	Julie James
+cast	Freddie Prinze Jr.	Ray Bronson
+cast	Brandy Norwood	Karla Wilson
+cast	Mekhi Phifer	Tyrell
+cast	Muse Watson	Ben Willis
+cast	Bill Cobbs	Estes
+cast	Matthew Settle	Will Benson
+cast	Jeffrey Combs	Mr. Brooks
+cast	Jennifer Esposito	Nancy
+cast	John Hawkes	Dave
+cast	Ellerine Harding	Olga
+cast	Benjamin Brown	Darick The Dockhand
+cast	Red West	Paulsen
+cast	Michael P. Byrne	Thurston
+cast	Michael Bryan French	Doctor
+cast	Dee Anne Helsel	Nurse
+cast	Johnny Harrington	Todd
+cast	Mark Boone Junior	Pawn Shop Owner
+cast	Dan Priest	Professor
+cast	Sylvia Short	Old Woman
+cast	Jack Black	Titus Telesco
+cast	Lisa Hoover	Cocktail waitress
+cast	Summer Moore	Classmate

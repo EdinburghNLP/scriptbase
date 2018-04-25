@@ -1,0 +1,135 @@
+year	1988
+imdb score	6.7
+meta score	73
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	boss
+keyword	secretary
+keyword	love
+keyword	career
+keyword	business
+keyword	pretending
+keyword	executive
+keyword	statue of liberty new york city
+keyword	foot popping kiss
+keyword	1980s
+keyword	condom
+keyword	birthday
+keyword	nudity
+keyword	stockings
+keyword	staten island ferry
+keyword	helicopter
+keyword	drunkenness
+keyword	businesswoman
+keyword	merger
+keyword	wall street manhattan new york city
+keyword	female protagonist
+keyword	manhattan new york city
+keyword	new york city
+keyword	female executive
+keyword	rich snob
+keyword	magazine article
+keyword	employer
+keyword	confidence
+keyword	business ethics
+keyword	upward mobility
+keyword	identity theft
+keyword	screwball
+keyword	designer clothes
+keyword	accident
+keyword	female to male footsie playing
+keyword	world trade center manhattan new york city
+keyword	gorilla
+keyword	nightie
+keyword	tequila
+keyword	boss stealing idea
+keyword	new york city harbor
+keyword	footsie under the table
+keyword	leap of faith
+keyword	bare chested male
+keyword	yuppie
+keyword	double cross
+keyword	boss from hell
+keyword	lunchbox
+keyword	chick flick
+keyword	naked housekeeping
+keyword	staten island new york city
+keyword	cinderella story
+keyword	shared bed
+keyword	wedding crasher
+keyword	product placement
+keyword	two word title
+keyword	radio network
+keyword	lingerie slip
+keyword	body for sin
+keyword	rags to riches
+keyword	wedding
+keyword	women in business
+keyword	employer employee relationship
+keyword	corporate ladder
+keyword	skiing accident
+keyword	apple for the teacher
+keyword	reference to grace kelly
+keyword	business deal
+cast	Harrison Ford	Jack Trainer
+cast	Sigourney Weaver	Katharine Parker
+cast	Melanie Griffith	Tess McGill
+cast	Alec Baldwin	Mick Dugan
+cast	Joan Cusack	Cyn
+cast	Philip Bosco	Oren Trask
+cast	Nora Dunn	Ginny
+cast	Oliver Platt	Lutz
+cast	James Lally	Turkel
+cast	Kevin Spacey	Bob Speck
+cast	Robert Easton	Armbrister
+cast	Olympia Dukakis	Personnel Director
+cast	Amy Aquino	Tess' Secretary
+cast	Jeffrey Nordling	Tim Rourke
+cast	Elizabeth Whitcraft	Doreen DiMucci
+cast	Maggie Wagner	Tess's Birthday Party Friend
+cast	Lou DiMaggio	Tess's Birthday Party Friend
+cast	David Duchovny	Tess's Birthday Party Friend
+cast	Georgienne Millen	Tess's Birthday Party Friend
+cast	Caroline Aaron	Petty Marsh Secretary
+cast	Nancy Giles	Petty Marsh Secretary
+cast	Judy Milstein	Petty Marsh Secretary
+cast	Nicole Chevance	Petty Marsh Secretary
+cast	Kathleen Gray	Petty Marsh Secretary
+cast	Jane B. Harris	Petty Marsh Secretary
+cast	Sondra Hollander	Petty Marsh Secretary
+cast	Samantha Shane	Petty Marsh Secretary
+cast	Julia Silverman	Petty Marsh Secretary
+cast	Jim Babchak	Jr. Executive
+cast	Zach Grenier	Jim
+cast	Ralph Byers	Dewey Stone Reception Guest
+cast	Leslie Ayvazian	Dewey Stone Reception Guest
+cast	Steve Cody	Cab Driver
+cast	Paige Matthews	Dewey Stone Receptionist
+cast	Lee Dalton	John Romano
+cast	Barbara Garrick	Phyllis Trask
+cast	Madolin B. Archer	Barbara Trask
+cast	Etain O'Malley	Hostess at Wedding
+cast	Ricki Lake	Bridesmaid
+cast	Marceline Hugot	Bitsy
+cast	Tom Rooney	Bridegroom
+cast	Peter Duchin	Trask Wedding Orchestra
+cast	Maeve McGuire	Trask Secretary
+cast	Timothy Carhart	Tim Draper
+cast	Lloyd Lindsay Young	TV Weatherman
+cast	F.X. Vitolo	Tony
+cast	Lily Froehlich	Clerk at Dry Cleaner's
+cast	Michael Haley	Heliport Attendant
+cast	Mario T. DeFelice Jr.	Helicopter Pilot
+cast	Anthony Mancini Jr.	Helicopter Pilot
+cast	Suzanne Shepherd	Trask Receptionist
+cast	Matthew Bennett	Rhumba Guy
+cast	George G. Colucci	Staten Island Ferry Commutor
+cast	Trish Cook	Staten Island Secretary
+cast	Priscilla Cory	Pretty Brunette Office Girl
+cast	Marilyn Dobrin	Cyn's Aunt
+cast	Kevin Fennessy	Trask Executive
+cast	Anita Finlay	Receptionist
+cast	Tom Sean Foley	Office Worker
+cast	Dean Regan	Hospital Orderly
+cast	Alison Wachtler	Petty Marshall Secretary

@@ -1,0 +1,135 @@
+year	1937
+imdb score	7.9
+meta score	N/A
+genre	Adventure
+genre	Drama
+genre	Fantasy
+genre	Mystery
+keyword	shangri la
+keyword	diplomat
+keyword	mountain
+keyword	paradise
+keyword	love
+keyword	utopia
+keyword	airplane
+keyword	china
+keyword	illness
+keyword	revolution
+keyword	tibet
+keyword	hysterics
+keyword	llama
+keyword	toast
+keyword	horse
+keyword	lamasery
+keyword	bird
+keyword	plumber
+keyword	swimming
+keyword	paleontologist
+keyword	waterfall
+keyword	chess
+keyword	embezzler
+keyword	professor
+keyword	himalayan mountains
+keyword	tuberculosis
+keyword	high school
+keyword	orient
+keyword	buddhism
+keyword	snow
+keyword	lost race
+keyword	teacher
+keyword	kidnapping
+keyword	prostitute
+keyword	bandit
+keyword	paranoia
+keyword	avalanche
+keyword	fictional war
+keyword	amputated leg
+keyword	airplane hijack
+keyword	miraculous cure
+keyword	makeup
+keyword	imaginary land
+keyword	lama
+keyword	porter
+keyword	partially lost film
+keyword	gunfire
+keyword	singing
+keyword	peace
+keyword	gold
+keyword	freeze to death
+keyword	skinny dipping
+keyword	aged person
+keyword	refueling
+keyword	evacuation
+keyword	england
+keyword	aging
+keyword	airplane accident
+keyword	horse riding
+keyword	brother brother relationship
+keyword	based on novel
+keyword	
+cast	Ronald Colman	Robert Conway
+cast	Jane Wyatt	Sondra
+cast	Edward Everett Horton	Lovett
+cast	John Howard	George Conway
+cast	Thomas Mitchell	Barnard
+cast	Margo	Maria
+cast	Isabel Jewell	Gloria
+cast	H.B. Warner	Chang
+cast	Sam Jaffe	High Lama
+cast	Norman Ainsley	Embassy Club Steward
+cast	Chief John Big Tree	Porter
+cast	Wyrley Birch	Missionary
+cast	Beatrice Blinn	Passenger
+cast	Hugh Buckler	Lord Gainsford
+cast	Sonny Bupp	Boy Being Carried to Plane
+cast	John Burton	Wynant
+cast	Tom Campbell	Porter
+cast	Matthew Carlton	Pottery Maker
+cast	Eli Casey	Porter
+cast	David Cavendish	First Pilot
+cast	George Chan	Chinese Priest
+cast	Darby Clark	Radio Operator
+cast	David Clyde	Embassy Club Steward
+cast	Robert Cory	Englishman
+cast	Beatrice Curtis	Passenger
+cast	Jack Deery	Englishman
+cast	Mary Lou Dix	Passenger
+cast	Val Duran	Talu - Hijacking Pilot
+cast	Neil Fitzgerald	Radio Operator
+cast	Willie Fung	Bandit Leader at Fuel Stop-over
+cast	Moning Gonzales	Porter
+cast	Lawrence Grant	First Man
+cast	Antonion Herrera	Porter
+cast	Joe Herrera	Candle Maker
+cast	Glenn Howard	Porter
+cast	Boyd Irwin	Assistant Foreign Secretary
+cast	Noble Johnson	Leader of Porters on Return Journey
+cast	Manual Kalili	Servant
+cast	George Kaluna	Porter
+cast	Harold Lishman	Porter
+cast	Richard Loo	Shanghai Airport Official
+cast	Robert Lugo	Porter
+cast	Richard Master	Servant
+cast	Margaret McWade	Missionary
+cast	John Miltern	Carstairs - Man at Club
+cast	Ray Mitchell	Undetermined Role
+cast	Joe Molina	Porter
+cast	Henry Mowbray	Englishman
+cast	Leonard Mudie	Foreign Secretary with Prime Minister
+cast	John T. Murray	Meeker
+cast	Wedgwood Nowell	Englishman
+cast	Milton Owen	Fenner
+cast	Arthur Rankin	Passenger
+cast	Ruth Robinson	Missionary
+cast	Richard Robles	Porter
+cast	Alex Shoulder	Servant
+cast	Joe Shoulder	Porter
+cast	James Smith	Porter
+cast	Carl Stockdale	Missionary
+cast	John Tettener	Montaigne
+cast	Ed Thorpe	Porter
+cast	David Torrence	Prime Minister
+cast	Eric Wilton	Englishman
+cast	Barry Winton	Englishman
+cast	Victor Wong	Bandit Leader
+cast	Ernesto Zambrano	Servant

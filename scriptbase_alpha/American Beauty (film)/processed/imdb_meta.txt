@@ -1,0 +1,318 @@
+year	1999
+imdb score	8.5
+meta score	86
+genre	Drama
+keyword	infatuation
+keyword	fast food restaurant
+keyword	friendship
+keyword	lust
+keyword	love
+keyword	real estate agent
+keyword	rose
+keyword	cheerleading
+keyword	drugs
+keyword	loser
+keyword	hate
+keyword	depression
+keyword	cheerleader
+keyword	high school
+keyword	schoolgirl
+keyword	covered female frontal nudity
+keyword	satire
+keyword	topless female nudity
+keyword	father son relationship
+keyword	family dinner
+keyword	blonde
+keyword	beating
+keyword	lying
+keyword	lolita
+keyword	blackmail
+keyword	basketball game
+keyword	voyeurism
+keyword	teenage girl
+keyword	state of grace
+keyword	kissing
+keyword	exhibitionist
+keyword	closeted homosexual
+keyword	insecurity
+keyword	gay kiss
+keyword	homosexuality
+keyword	mini skirt
+keyword	crush
+keyword	husband wife relationship
+keyword	deadpan
+keyword	tragic event
+keyword	reefer
+keyword	threat of employment dismissal
+keyword	teenager
+keyword	spit take
+keyword	cubicle
+keyword	moving
+keyword	obscene finger gesture
+keyword	flashback
+keyword	older man younger woman relationship
+keyword	bathtub
+keyword	advertising magazine
+keyword	dirty old man
+keyword	secret life
+keyword	teenage boy
+keyword	new automobile
+keyword	computer
+keyword	country name in title
+keyword	no opening credits
+keyword	girl in panties
+keyword	balaclava
+keyword	efficiency expert
+keyword	illegal drug
+keyword	basketball
+keyword	semiautomatic pistol
+keyword	drug use
+keyword	handgun
+keyword	nudity
+keyword	scantily clad female
+keyword	blue panties
+keyword	blockbuster
+keyword	gay couple
+keyword	voice over narration
+keyword	cult film
+keyword	sports car
+keyword	firing range
+keyword	urine sample
+keyword	gardening
+keyword	face slap
+keyword	dark comedy
+keyword	writer
+keyword	whirlwind
+keyword	oldies
+keyword	drug testing
+keyword	perversion
+keyword	masturbating in a shower
+keyword	the color red
+keyword	homophobia
+keyword	rainstorm
+keyword	self hatred
+keyword	video footage
+keyword	self discovery
+keyword	sex scene
+keyword	shot in the head
+keyword	loss of husband
+keyword	coming of age
+keyword	violence against a child
+keyword	anti hero
+keyword	anger
+keyword	urine test
+keyword	shooting range
+keyword	swimming pool
+keyword	fondling
+keyword	neurosis
+keyword	model
+keyword	lingerie slip
+keyword	schoolboy
+keyword	dv camera
+keyword	paranoia
+keyword	infidelity
+keyword	marital problem
+keyword	shot to death
+keyword	only daughter
+keyword	family relationships
+keyword	deadpan comedy
+keyword	pot smoking
+keyword	weight training
+keyword	couch
+keyword	mother son relationship
+keyword	self destructiveness
+keyword	soul mate
+keyword	tension
+keyword	drug dealer
+keyword	watching tv
+keyword	videotaping
+keyword	alienation
+keyword	advertising
+keyword	bare breasts
+keyword	extramarital affair
+keyword	masturbation
+keyword	nazi paraphernalia
+keyword	cheating wife
+keyword	mother daughter relationship
+keyword	lava lamp
+keyword	emotional breakdown
+keyword	barely legal
+keyword	domineering father
+keyword	obsession
+keyword	singing in a car
+keyword	tyrant
+keyword	unhappy marriage
+keyword	irreverence
+keyword	mistrust
+keyword	adulterous wife
+keyword	unfaithfulness
+keyword	joblessness
+keyword	abusive father
+keyword	severance pay
+keyword	cannabis
+keyword	memorabilia
+keyword	gun collecting
+keyword	cheerleader uniform
+keyword	blond in bath
+keyword	dance
+keyword	male nudity
+keyword	unfaithful wife
+keyword	no panties
+keyword	black comedy
+keyword	colonel
+keyword	panties
+keyword	homophobic violence
+keyword	non communication
+keyword	bra
+keyword	magazine
+keyword	teen romance
+keyword	repressed homosexual
+keyword	drug dealing
+keyword	exotica music
+keyword	female underage nudity
+keyword	flower petal
+keyword	flipping burgers
+keyword	nymphet
+keyword	female nudity
+keyword	bench press
+keyword	randomness
+keyword	cynicism
+keyword	crime of passion
+keyword	flirting
+keyword	quitting a job
+keyword	military officer
+keyword	told in flashback
+keyword	main character dies
+keyword	dinner
+keyword	flirt
+keyword	violence
+keyword	realtor
+keyword	marijuana
+keyword	drive thru
+keyword	small town
+keyword	unwanted kiss
+keyword	cocktail party
+keyword	character study
+keyword	weightlifting
+keyword	denial
+keyword	remote controlled toy car
+keyword	dark humor
+keyword	broken dish
+keyword	boyfriend girlfriend relationship
+keyword	barefoot
+keyword	sexual fantasy
+keyword	repression
+keyword	videotape
+keyword	sexual repression
+keyword	gun
+keyword	female removes her clothes
+keyword	buttocks
+keyword	motel
+keyword	sexual desire
+keyword	exhibitionism
+keyword	blood spatter
+keyword	woman taking off pants
+keyword	male rear nudity
+keyword	u.s. marine
+keyword	plastic bag
+keyword	estranged couple
+keyword	buddhist
+keyword	dysfunctional family
+keyword	dysfunctional marriage
+keyword	1990s
+keyword	copulation
+keyword	materialism
+keyword	visual hallucination
+keyword	deadpan humor
+keyword	suburb
+keyword	teen angst
+keyword	ex marine
+keyword	video camera
+keyword	gore
+keyword	shower
+keyword	american dream
+keyword	virginity
+keyword	cleavage
+keyword	existentialism
+keyword	dissatisfaction
+keyword	parenthood
+keyword	voyeur
+keyword	suburbia
+keyword	deceit
+keyword	businessman
+keyword	homosexual
+keyword	drug humor
+keyword	neighbor
+keyword	female frontal nudity
+keyword	midlife crisis
+keyword	females talking about sex
+keyword	asparagus
+keyword	seduction
+keyword	best friend
+keyword	innuendo
+keyword	jogging
+keyword	murder by gunshot
+keyword	premarital sex
+keyword	gay interest
+keyword	coitus
+keyword	gay slur
+keyword	fantasy sequence
+keyword	pedophilia
+keyword	truth
+keyword	garage
+keyword	murder
+keyword	sarcasm
+keyword	death
+keyword	beauty
+keyword	job interview
+keyword	adultery
+keyword	domestic violence
+keyword	slow motion scene
+keyword	camera
+keyword	narration from the grave
+keyword	father daughter relationship
+keyword	leg spreading
+keyword	drug
+keyword	social satire
+keyword	independent film
+keyword	surprise ending
+cast	Kevin Spacey	Lester Burnham
+cast	Annette Bening	Carolyn Burnham
+cast	Thora Birch	Jane Burnham
+cast	Wes Bentley	Ricky Fitts
+cast	Mena Suvari	Angela Hayes
+cast	Chris Cooper	Col. Frank Fitts, USMC
+cast	Peter Gallagher	Buddy Kane
+cast	Allison Janney	Barbara Fitts
+cast	Scott Bakula	Jim Olmeyer
+cast	Sam Robards	Jim Berkley
+cast	Barry Del Sherman	Brad Dupree
+cast	Ara Celi	Sale House Woman #1
+cast	John Cho	Sale House Man #1
+cast	Fort Atkinson	Sale House Man #2
+cast	Sue Casey	Sale House Woman #2
+cast	Kent Faulcon	Sale House Man #3
+cast	Brenda Wehle	Sale House Woman #4
+cast	Lisa Cloud	Sale House Woman #5
+cast	Alison Faulk	Spartanette #1
+cast	Krista Goodsitt	Spartanette #2
+cast	Lily Houtkin	Spartanette #3
+cast	Carolina Lancaster	Spartanette #4
+cast	Mona Leah	Spartanette #5
+cast	Chekesha Van Putten	Spartanette #6
+cast	Emily Zachary	Spartanette #7
+cast	Nancy Anderson	Spartanette #8
+cast	Reshma Gajjar	Spartanette #9
+cast	Stephanie Rizzo	Spartanette #10
+cast	Heather Joy Sher	Playground Girl #1
+cast	Chelsea Hertford	Playground Girl #2
+cast	Amber Smith	Christy Kane
+cast	Joel McCrary	Catering Boss
+cast	Marissa Jaret Winokur	Mr. Smiley's Counter Girl
+cast	Dennis Anderson	Mr. Smiley's Manager
+cast	Matthew Kimbrough	Firing Range Attendant
+cast	Erin Cathryn Strubbe	Young Jane Burnham
+cast	Bruce Cohen	Bartender
+cast	Elaine Corral Kendall	Newscaster
+cast	David C. Fisher	Wedding Guest
+cast	Tom Miller	Advertising Executive

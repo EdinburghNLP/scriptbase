@@ -1,0 +1,272 @@
+year	2012
+imdb score	7.9
+meta score	81
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	problem
+keyword	bipolar disorder
+keyword	friend
+keyword	restraining order
+keyword	philadelphia eagles
+keyword	ex wife
+keyword	institutionalization
+keyword	house
+keyword	best friend
+keyword	beating
+keyword	mental institution
+keyword	friendship
+keyword	medication
+keyword	home
+keyword	sex
+keyword	letter
+keyword	bookie
+keyword	reference to stevie wonder
+keyword	father son relationship
+keyword	foul mouth
+keyword	unfaithfulness
+keyword	based on comic
+keyword	violence
+keyword	sex in a shower
+keyword	car driving
+keyword	brother brother relationship
+keyword	laughing
+keyword	staring
+keyword	reading a book
+keyword	fear
+keyword	mental breakdown
+keyword	jogging in a street
+keyword	reflection in a mirror
+keyword	lens flare
+keyword	tailgating
+keyword	song
+keyword	profanity
+keyword	positivity
+keyword	secret
+keyword	police
+keyword	sports betting
+keyword	yelling
+keyword	loss of control
+keyword	money
+keyword	necklace
+keyword	psychological drama
+keyword	forged letter
+keyword	running
+keyword	no opening credits
+keyword	audience
+keyword	dance practice
+keyword	mental patient
+keyword	husband wife relationship
+keyword	female rear nudity
+keyword	rage
+keyword	dance studio
+keyword	indiscretion
+keyword	philadelphia pennsylvania
+keyword	borderline personality disorder
+keyword	football game
+keyword	dance competition
+keyword	trouble
+keyword	character's point of view camera shot
+keyword	conversation
+keyword	stadium
+keyword	ballroom dance contest
+keyword	fury
+keyword	love interest
+keyword	color in title
+keyword	attraction
+keyword	school
+keyword	unconventional romance
+keyword	release from a mental institution
+keyword	mirror
+keyword	audio begins before video
+keyword	diner
+keyword	discussion
+keyword	memories
+keyword	black humor
+keyword	smiling
+keyword	out of control
+keyword	wedding ring
+keyword	street
+keyword	female principal
+keyword	ipod
+keyword	bet
+keyword	depression
+keyword	electronic music score
+keyword	falling in love
+keyword	bittersweet
+keyword	conflict
+keyword	desire
+keyword	insult
+keyword	mental illness
+keyword	infidelity
+keyword	dancing
+keyword	confession
+keyword	police officer
+keyword	hostility
+keyword	family life
+keyword	nervous breakdown
+keyword	character repeating someone else's dialogue
+keyword	ex teacher
+keyword	sign
+keyword	mother son relationship
+keyword	talking while driving
+keyword	two in a shower
+keyword	tailgate party
+keyword	woman with glasses
+keyword	watching tv
+keyword	dance contest
+keyword	reading a letter
+keyword	widow
+keyword	reference to benjamin franklin
+keyword	joy
+keyword	surprise
+keyword	adultery
+keyword	psychiatrist
+keyword	revelation
+keyword	reference to ernest hemingway
+keyword	flashback
+keyword	halloween
+keyword	written by director
+keyword	sidewalk
+keyword	reference to arnold schwarzenegger
+keyword	superstition
+keyword	anger
+keyword	latin dancing
+keyword	jogging
+keyword	embarrassment
+keyword	neighborhood
+keyword	reference to metallica
+keyword	christmas
+keyword	wager
+keyword	fighting
+keyword	punched in the face
+keyword	car
+keyword	difficulties
+keyword	humor
+keyword	nudity
+keyword	reference to william shakespeare
+keyword	sadness
+keyword	crowd
+keyword	caught having sex
+keyword	talking about sex
+keyword	love
+keyword	argument
+keyword	male female friendship
+keyword	plastic bag
+keyword	man with glasses
+keyword	sister sister relationship
+keyword	wrath
+keyword	therapist
+keyword	baltimore maryland
+keyword	neighbor
+keyword	female nudity
+keyword	crying
+keyword	fight
+keyword	face slap
+keyword	garbage bag
+keyword	based on novel
+keyword	based on book
+cast	Bradley Cooper	Pat
+cast	Jennifer Lawrence	Tiffany
+cast	Robert De Niro	Pat Sr.
+cast	Jacki Weaver	Dolores
+cast	Chris Tucker	Danny
+cast	Anupam Kher	Dr. Cliff Patel
+cast	John Ortiz	Ronnie
+cast	Shea Whigham	Jake
+cast	Julia Stiles	Veronica
+cast	Paul Herman	Randy
+cast	Dash Mihok	Officer Keogh
+cast	Matthew Russell	Ricky D'Angelo
+cast	Cheryl Williams	Tiffany's Mother
+cast	Patrick McDade	Tiffany's Father
+cast	Brea Bee	Nikki
+cast	Mary Regency Boies	Regina
+cast	Phillip Chorba	Jordie
+cast	Anthony Lawton	Dr. Timbers
+cast	Patsy Meck	Nancy
+cast	Maureen Torsney-Weir	Older Waitress
+cast	Jeff Reim	Jeffrey
+cast	Fritz Blanchette	Fritzy
+cast	Rick Foster	Dance Competition Announcer
+cast	Bonnie Aarons	Ricky D'Angelo's Mother
+cast	Ted Barba	Doug Culpepper
+cast	Elias Birnbaum	Ricky D'Angelo's Friend #1
+cast	Matthew Michels	Ricky D'Angelo's Friend #2
+cast	Pete Postiglione	Lawyer at Bar
+cast	Richard Eklund III	Fighting Eagle Fan
+cast	Sanjay Shende	Indian Invasion #1
+cast	Mihir Pathak	Indian Invasion #2
+cast	Ibrahim Syed	Indian Invasion #3
+cast	Madhu Narula	Dr. Patel's Wife
+cast	Samantha Gelnaw	Jake's Fiancée
+cast	Tiffany E. Green	Tanya
+cast	Tal Livshitz	Dancer Santos
+cast	Vlada Semenova	Dancer Aguilar
+cast	Zhan Paulovich	Dancer Makarov
+cast	Svetlana Roosiparg	Dancer Tretiak
+cast	Richard Adams	Ramon
+cast	Todd Anthony	Dinner Guest
+cast	Robert Bizik	Neighbor
+cast	Joe Cappelletti	Football Play By Play Announcer
+cast	Louis Centanni	Tourettes Patient
+cast	Michael Connolly	Spectator
+cast	Jessica Czop	Nikki Lookalike
+cast	Alan Davis	Dance Competition Spectator
+cast	Tom Delconte	Recital Guest
+cast	Luisa Diaz	MILF
+cast	Christian Dorsey	Bartender
+cast	Debra Efre	Nosey Neighbor #2
+cast	John G. England IV	Eagles Tailgater
+cast	Cindy Engle	Dinner Guest at Dance Contest
+cast	Liam Ferguson	Singing Eagles Fan
+cast	Jade Froeder	Dance Competition Spectator
+cast	Anthony J Giampetro	Zombie Guy
+cast	Vaughn Goland	Robert
+cast	Shawn Gonzalez	Movie Theater Usher
+cast	Cody C.J. Greene	Tailgater
+cast	Jae Greene	Tailgater
+cast	Matt Grochowski	Ben Franklin Diner Patron
+cast	Matthew James Gulbranson	Father
+cast	Andrea Havens	Family Member
+cast	Ian Jarrell	Business Man
+cast	Dennis Jeantet	Singing Eagles Fan / Ballroom Spectator
+cast	Kirk Kelly	Painted Eagles Fan #2
+cast	Benjamin Kerr	Dance Competition Spectator
+cast	JaQuinley Kerr	Spectator
+cast	Basil Kershner	Moviegoer
+cast	David Kneeream	Movie-goer
+cast	Michael J. Kraycik	Landscaper
+cast	Marty Krzywonos	Tailgater
+cast	Tom Leonard	Dance Contest Spectator
+cast	Raymond Mamrak	Tailgate Fan
+cast	Erica Lynne Marszalek	Dance Competition Spectator / Bikini Tailgater
+cast	Jeni Miller	Sexy Girl at Halloween Party
+cast	Carol Anne Mueller	Dance Competition Spectator
+cast	Jason Mullen	Dance Competition Spectator
+cast	Luis Pacheco	Giants Fan
+cast	Charles Pendelton	Recital Guest
+cast	Jerry Perna	Guy in Group Therapy
+cast	Chuck Rayner	Painted-Chest Eagles Fan #20
+cast	Vincent Riviezzo	Giants Fan
+cast	Rick Russo	Banquet Attendee
+cast	Sherri X. Russo	Eagles Fan / Tights Girl
+cast	Michelle Santiago	Eagles Fan
+cast	Lindsay Schnebly	Football Play By Play Announcer
+cast	Ryan Shank	Bartender
+cast	Kenny Shapiro	Hotel Guest
+cast	Robert Shearn III	Tailgater
+cast	Rita Soto	Spectator
+cast	Will Souders	Orderly
+cast	Samantha Steffen	Teen Fan / Pedestrian
+cast	Susanne Sulby	Bald Man's Wife
+cast	Randy Louis Swiren	Group Therapy Patient
+cast	Nikki Corinne Thomas	Dancer #3
+cast	Joseph Tornatore	Painted Eagles Fan
+cast	Barbara Tutolo	Upscale Dance Spectator
+cast	Ryan Tygh	Zombie Guy
+cast	Thomas Walton	Giants Suck - Fan
+cast	Volieda Webb	Gate Guard Carla
+cast	Jen Weissenberg	Tomboy Girl
+cast	Brian Anthony Wilson	Orderly
+cast	Mike Wilson	Eagles Tailgater

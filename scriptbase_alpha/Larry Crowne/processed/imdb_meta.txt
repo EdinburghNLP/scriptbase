@@ -1,0 +1,103 @@
+year	2011
+imdb score	6.0
+meta score	41
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	college
+keyword	scooter
+keyword	economics
+keyword	motor scooter
+keyword	speech class
+keyword	older man younger woman relationship
+keyword	directed by star
+keyword	classroom
+keyword	watching porn
+keyword	alcoholic teacher
+keyword	teacher student relationship
+keyword	fired from the job
+keyword	reference to twitter
+keyword	short order cook
+keyword	written by star
+keyword	two word title
+keyword	college professor
+keyword	singing in a car
+keyword	big box stores
+keyword	texting
+keyword	yard sale
+keyword	exam
+keyword	husband wife relationship
+keyword	reference to johnny cash
+keyword	drunk woman
+keyword	college dean
+keyword	loss of job
+keyword	written and directed by cast member
+keyword	reference to facebook
+keyword	diner
+keyword	title spoken by character
+keyword	character name in title
+cast	Tom Hanks	Larry Crowne
+cast	Sarah Mahoney	Samantha
+cast	Roxana Ortega	Alvarez
+cast	Randall Park	Trainee Wong
+cast	Brady Rubin	Dorothy Genkos
+cast	Alex Quijano	Team Leader #1
+cast	Tina Huang	Team Leader #2
+cast	E-Kan Soong	Team Leader #3
+cast	Tarina Pouncy	Team Leader #4
+cast	Sy Richardson	Avery
+cast	Julie Wagner	Vacuum Shopper
+cast	Rob Riggle	Jack Strang
+cast	Erin Underwood	Mom with Baby
+cast	Dale Dye	Cox
+cast	Barry Sobel	Cubby
+cast	Claudia Stedelin	Vicky Hurley
+cast	Bob Stephenson	Andrews
+cast	Rita Wilson	Wilma Q. Gammelgaard
+cast	Cedric the Entertainer	Lamar
+cast	Taraji P. Henson	B'Ella
+cast	Holmes Osborne	Dave Busik
+cast	Wilmer Valderrama	Dell Gordo
+cast	Tom Budge	Stan
+cast	Julia Roberts	Mercedes Tainot
+cast	Pam Grier	Frances
+cast	Gugu Mbatha-Raw	Talia Francesco
+cast	Rami Malek	Steve Dibiasi
+cast	Malcolm Barrett	Dave Mack
+cast	Grace Gummer	Natalie Calimeris
+cast	Maria Canals-Barrera	Lala Pinedo
+cast	A.B. Fofana	Chester
+cast	Sarah Levy	Eli
+cast	Julia Cho	Tori
+cast	Chad W. Smathers	Michael
+cast	David L. Murphy	Bud
+cast	George Takei	Dr. Ed Matsutani
+cast	Bryan Cranston	Dean Tainot
+cast	Carly Reeves	Sal
+cast	Ian Gomez	Frank
+cast	Nia Vardalos	Map Genie
+cast	Herbert Siguenza	Raul
+cast	Ric Salinas	Nick
+cast	Richard Montoya	Carlos
+cast	Joshua Bitton	Officer Baker
+cast	Jon Seda	Officer Diamond
+cast	Jack Milo	Neighbor with Dog
+cast	Chet Hanks	Pizza Delivery Boy
+cast	Biff Henderson	Cappy
+cast	Tia Barr	Roxy
+cast	Jaden Betts	Lamar's son
+cast	Stephanie Carpentieri	Scooter Gang
+cast	Melissa Christine	Tabitha
+cast	Phil Cirincione	Young Couple Husband
+cast	Joshua Danyel	Tai Chi Student
+cast	Celeste Den	Manicurist
+cast	Josh Heller	Scooter Gang
+cast	Josh Horton	Library Athlete
+cast	Andre Myers	U Mart Kid
+cast	Michael L. Nesbitt	Spartan
+cast	Lance Paul	College Student
+cast	Marlene Sharp	Garage Sale Haggler
+cast	Murrell D. Smith	Student
+cast	Alex Taber	Judo Expert
+cast	Joanna Theobalds	Receptionist
+cast	Trevor Trout	Scooter Gang

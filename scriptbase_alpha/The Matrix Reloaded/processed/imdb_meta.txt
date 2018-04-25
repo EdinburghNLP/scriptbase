@@ -1,0 +1,253 @@
+year	2003
+imdb score	7.2
+meta score	62
+genre	Action
+genre	Sci-Fi
+keyword	oracle
+keyword	sentinel
+keyword	rebel
+keyword	agent
+keyword	death
+keyword	battle
+keyword	dream
+keyword	prophecy
+keyword	fate
+keyword	computer virus
+keyword	mission
+keyword	faith
+keyword	opening action scene
+keyword	cadillac
+keyword	cult film
+keyword	martial arts
+keyword	brain in a vat
+keyword	surrealism
+keyword	cell phone
+keyword	hacking
+keyword	nightstick
+keyword	hallway
+keyword	ambush
+keyword	showdown
+keyword	obscene finger gesture
+keyword	resurrection
+keyword	fistfight
+keyword	restroom
+keyword	key maker
+keyword	part of trilogy
+keyword	shooting
+keyword	knife fight
+keyword	outrunning explosion
+keyword	computer engineer
+keyword	distant future
+keyword	one man army
+keyword	false reality
+keyword	blockbuster
+keyword	street shootout
+keyword	elevator
+keyword	beretta
+keyword	dystopia
+keyword	freeway
+keyword	cake
+keyword	refugee
+keyword	electro magnetic pulse
+keyword	superhero
+keyword	impalement
+keyword	drone
+keyword	restaurant
+keyword	flash forward
+keyword	ducati
+keyword	key
+keyword	hand to hand combat
+keyword	destiny
+keyword	violence
+keyword	warrior
+keyword	tommy gun
+keyword	power failure
+keyword	female nudity
+keyword	male nudity
+keyword	rave
+keyword	axe
+keyword	bullet dodging
+keyword	virtual reality
+keyword	car accident
+keyword	technology gone amok
+keyword	stylized violence
+keyword	chosen one
+keyword	axe fight
+keyword	pistol
+keyword	fight
+keyword	2000s
+keyword	no ending
+keyword	post apocalypse
+keyword	2200s
+keyword	existentialism
+keyword	christ allegory
+keyword	shot in the arm
+keyword	no opening credits
+keyword	airplane
+keyword	cyberpunk
+keyword	falling from height
+keyword	fighting the system
+keyword	shot to death
+keyword	kung fu
+keyword	truck
+keyword	wire fu
+keyword	man with dark glasses
+keyword	utopia quest
+keyword	eighteen wheeler
+keyword	apocalypse
+keyword	brawl
+keyword	heroine
+keyword	fighting
+keyword	rescue
+keyword	future
+keyword	alternative reality
+keyword	desert eagle
+keyword	temple
+keyword	choice
+keyword	subterranean city
+keyword	simulated reality
+keyword	messiah
+keyword	motorcycle chase
+keyword	philosophy
+keyword	sequel
+keyword	disarming someone
+keyword	one against many
+keyword	semiautomatic pistol
+keyword	shooting out a window
+keyword	ghost
+keyword	flying
+keyword	hero
+keyword	tight dress
+keyword	twin
+keyword	underground rave
+keyword	tough guy
+keyword	explosion
+keyword	artificial intelligence
+keyword	shot in the forehead
+keyword	chase
+keyword	sequel mentioned during end credits
+keyword	tough girl
+keyword	imax version
+keyword	precognition
+keyword	sex scene
+keyword	paranoia
+keyword	gun fu
+keyword	locksmith
+keyword	exploding motorcycle
+keyword	disciple
+keyword	telekinesis
+keyword	combat
+keyword	religion
+keyword	parallel world
+keyword	shot back to back
+keyword	premarital sex
+keyword	injection
+keyword	second part
+keyword	human versus computer
+keyword	lucky charm
+keyword	woman with dark glasses
+keyword	morphing
+keyword	man versus machine
+keyword	kissing while having sex
+keyword	war against machines
+keyword	assassin
+keyword	body landing on a car
+keyword	action heroine
+keyword	duel
+keyword	staircase
+keyword	23rd century
+keyword	altered version of studio logo
+keyword	multiple perspectives
+keyword	exploding car
+keyword	car motorcycle chase
+keyword	dreadlocks
+keyword	premonition
+keyword	science runs amok
+keyword	blood spatter
+keyword	blood
+keyword	sai
+keyword	stabbed in the head
+keyword	katana sword
+keyword	car chase
+keyword	motorcycle
+keyword	star died before release
+keyword	action hero
+keyword	surprise ending
+cast	Ray Anthony	Power Station Guard
+cast	Christine Anu	Kali
+cast	Andy Arness	Police #2
+cast	Alima Ashton-Sheibu	Link's Niece
+cast	Helmut Bakaitis	The Architect
+cast	Steve Bastoni	Soren
+cast	Don Battee	Vector
+cast	Monica Bellucci	Persephone
+cast	Daniel Bernhardt	Agent Johnson
+cast	Valerie Berry	Priestess
+cast	Ian Bliss	Bane
+cast	Liliana Bogatko	Old Woman at Zion
+cast	Michael Budd	Zion Controller
+cast	Stoney Burke	Bike Carrier Driver
+cast	Kelly Butler	Ice
+cast	Josephine Byrnes	Zion Virtual Control Operator
+cast	Noris Campos	Woman with Groceries
+cast	Collin Chou	Seraph
+cast	Paul Cotter	Corrupt
+cast	Marlene Cummins	Another Old Woman at Zion
+cast	Attila Davidhazy	Young Thomas Anderson at 12
+cast	Essie Davis	Maggie
+cast	Terrell Dixon	Wurm
+cast	Nash Edgerton	Security Guard #5
+cast	Laurence Fishburne	Morpheus
+cast	Gloria Foster	The Oracle
+cast	David Franklin	Maitre D'
+cast	Austin Galuppo	Young Thomas Anderson at 4
+cast	Nona Gaye	Zee
+cast	Daryl Heath	A.P.U. Escort
+cast	Roy Jones Jr.	Ballard
+cast	Malcolm Kennard	Abel
+cast	David Kilde	Agent Jackson
+cast	Randall Duk Kim	The Keymaker
+cast	Christopher Kirby	Mauser
+cast	Peter Lamb	Colt
+cast	Nathaniel Lees	Mifune
+cast	Harry Lennix	Commander Lock
+cast	Tony Lynch	Computer Room Technician
+cast	Robert Mammone	AK
+cast	Joshua Mbakwe	Link's Nephew
+cast	Matt McColm	Agent Thompson
+cast	Scott McLean	Security Bunker Guard #2
+cast	Chris Mitchell	Power Station Guard
+cast	Steve Morris	Computer Room Guard
+cast	Carrie-Anne Moss	Trinity
+cast	Tory Mussett	Beautiful Woman at Le Vrai
+cast	Rene Naufahu	Zion Gate Operator
+cast	Robyn Nevin	Councillor Dillard
+cast	David No	Cain
+cast	Genevieve O'Reilly	Officer Wirtz
+cast	Socratis Otto	Operator
+cast	Harold Perrineau	Link
+cast	Jada Pinkett Smith	Niobe
+cast	Montaño Rain	Young Thomas Anderson at 8
+cast	Adrian Rayment	Twin #2
+cast	Neil Rayment	Twin #1
+cast	Rupert Reid	Lock's Lieutenant
+cast	Keanu Reeves	Neo
+cast	David Roberts	Roland
+cast	Shane C. Rodrigo	Ajax
+cast	Nick Scoggin	Gidim Truck Driver
+cast	Kevin Scott	18 Wheel Trucker
+cast	Tahei Simpson	Binary
+cast	Frankie Stevens	Tirant
+cast	Nicandro Thomas	Young Thomas Anderson at 2
+cast	Gina Torres	Cas
+cast	Andrew Valli	Police #1
+cast	Steve Vella	Malachi
+cast	John Walton	Security Bunker Guard
+cast	Clayton Watson	Kid
+cast	Hugo Weaving	Agent Smith
+cast	Cornel West	Councillor West
+cast	Leigh Whannell	Axel
+cast	Bernard White	Rama-Kandra
+cast	Lambert Wilson	Merovingian
+cast	Anthony Brandon Wong	Ghost
+cast	Anthony Zerbe	Councillor Hamann

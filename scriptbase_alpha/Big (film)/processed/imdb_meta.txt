@@ -1,0 +1,164 @@
+year	1988
+imdb score	7.3
+meta score	72
+genre	Comedy
+genre	Drama
+genre	Fantasy
+genre	Romance
+keyword	wish
+keyword	job
+keyword	friend
+keyword	best friend
+keyword	toy
+keyword	job promotion
+keyword	limousine
+keyword	cheap hotel
+keyword	child's point of view
+keyword	hotel
+keyword	new toy
+keyword	f.a.o. schwartz manhattan new york city
+keyword	coming of age
+keyword	chopsticks the song
+keyword	basketball
+keyword	boss
+keyword	shaving cream
+keyword	do over
+keyword	piano duet
+keyword	yankee stadium bronx new york city
+keyword	bare chested male
+keyword	homesick
+keyword	children
+keyword	mirror
+keyword	video game store
+keyword	blockbuster
+keyword	co worker
+keyword	role reversal
+keyword	walkie talkie
+keyword	office party
+keyword	quarter
+keyword	trampoline
+keyword	bronx new york city
+keyword	carnival wishing machine
+keyword	male underwear
+keyword	tap dancing
+keyword	loft
+keyword	baseball game
+keyword	thirty something
+keyword	boyfriend girlfriend relationship
+keyword	career
+keyword	1980s
+keyword	love
+keyword	gunshot
+keyword	bunk bed
+keyword	title directed by female
+keyword	unplugged electronic works
+keyword	underwear
+keyword	fish out of water
+keyword	mother son relationship
+keyword	tap dance
+keyword	toy making
+keyword	silly string
+keyword	neighbor
+keyword	walking piano
+keyword	adolescence
+keyword	carnival
+keyword	losing virginity
+keyword	police
+keyword	piano
+keyword	bully
+keyword	funfair
+keyword	hairy chest
+keyword	employer employee relationship
+keyword	birthday song
+keyword	child as an adult
+keyword	teenage boy
+keyword	lifting someone into the air
+keyword	toy store
+keyword	birthday party
+keyword	hope
+keyword	office
+keyword	racquetball
+keyword	affection
+keyword	walking on piano keys
+keyword	pinball machine
+keyword	wish fulfillment
+keyword	childhood friend
+keyword	ring
+keyword	piano player
+keyword	toy maker
+keyword	age difference
+keyword	classmate
+keyword	friendship
+keyword	sex scene
+keyword	marketing
+keyword	home
+keyword	kiss
+keyword	game
+keyword	duet
+keyword	new york city
+keyword	manhattan new york city
+keyword	what if
+keyword	seduction
+keyword	bicycle
+keyword	title spoken by character
+cast	Tom Hanks	Josh
+cast	Elizabeth Perkins	Susan
+cast	Robert Loggia	MacMillan
+cast	John Heard	Paul
+cast	Jared Rushton	Billy
+cast	David Moscow	Young Josh
+cast	Jon Lovitz	Scotty Brennen
+cast	Mercedes Ruehl	Mrs. Baskin
+cast	Josh Clark	Mr. Baskin
+cast	Kimberlee M. Davis	Cynthia Benson
+cast	Oliver Block	Freddie Benson
+cast	Erika Katz	Cynthia's Friend
+cast	Allan Wasserman	Gym Teacher
+cast	Mark Ballou	Derek
+cast	Gary Howard Klar	Ticket Taker
+cast	Alec Von Sommer	First Brother
+cast	Chris Dowden	Second Brother
+cast	Rockets Redglare	Motel Clerk
+cast	Jaime Tirelli	Spanish Voice
+cast	Paul Herman	Schizo
+cast	Nancy Giles	Administrative Woman
+cast	Jordan Thaler	Administrative Clerk
+cast	Dana Kaminski	Personnel Receptionist
+cast	Harvey Miller	Personnel Director
+cast	Tracy Reiner	Test Market Researcher
+cast	James Eckhouse	Supervisor
+cast	Linda Gillen	Woman in Red Dress
+cast	Mildred R. Vandever	Receptionist
+cast	Bert Goldstein	First Executive
+cast	Kevin Meaney	Executive #2
+cast	Peter McRobbie	Executive #3
+cast	Paul J.Q. Lee	Executive #4
+cast	Debra Jo Rupp	Miss Patterson
+cast	Keith Reddin	Payroll Clerk
+cast	Lela Ivey	Bank Teller
+cast	Dolores Messina	Real Estate Agent
+cast	Gordon Press	Moving Man
+cast	George J. Manos	Limousine Driver
+cast	Vince Cupone	Photon Laser Gunfighter
+cast	Susan Wilder	Karen
+cast	John Rothman	Phil
+cast	Judd Trichter	Adam
+cast	Pasquale Pugliese	Tenor / Dough Man
+cast	Tom Coviello	Singing Waiter
+cast	Richard Devia	Singing Waiter
+cast	Teddy Holiavko	Singing Waiter
+cast	Augusto Mariani	Singing Waiter
+cast	Alfredo Monti	Singing Waiter
+cast	Sergio Mosetti	Singing Waiter
+cast	Armando Penso	Singing Waiter
+cast	Edward Schick	Piano Player
+cast	F. Benjamin Stimler	Boy in Leaves
+cast	Jonathan Isaac Landau	Boy in Leaves
+cast	Samantha Larkin	Girl Friend of Cynthia
+cast	Bruce Jarchow	Photographer
+cast	Vaughn Sandman	Boy on Baseball Field
+cast	Paul Basile	Child at Taxi Stand
+cast	Brian J. Cano	Basketball Player
+cast	Kevin Fennessy	Handball Spectator
+cast	Matt Mindell	Friend
+cast	Brooke Marie Procida	Student

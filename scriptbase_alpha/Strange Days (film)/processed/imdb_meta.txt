@@ -1,0 +1,295 @@
+year	1995
+imdb score	7.2
+meta score	N/A
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Sci-Fi
+genre	Thriller
+keyword	murder
+keyword	rape
+keyword	memory
+keyword	police
+keyword	prostitute
+keyword	ex cop
+keyword	conspiracy
+keyword	death
+keyword	violence
+keyword	fireworks
+keyword	cigarette smoking
+keyword	interracial romance
+keyword	new year's eve
+keyword	spiral staircase
+keyword	shot in the head
+keyword	cyberpunk
+keyword	color blindness
+keyword	blindfold
+keyword	disarming someone
+keyword	title directed by female
+keyword	videotape
+keyword	rock
+keyword	flashback
+keyword	man hits a woman
+keyword	action noir
+keyword	prostitution
+keyword	jumping from a rooftop
+keyword	paranoia
+keyword	restaurant
+keyword	surrealism
+keyword	rock singer
+keyword	rollerblading
+keyword	hotel
+keyword	opening action scene
+keyword	shootout
+keyword	riot
+keyword	limousine
+keyword	violence against women
+keyword	beating
+keyword	sexual fantasy
+keyword	suicide
+keyword	handcuffs
+keyword	black panties
+keyword	dystopia
+keyword	mass murder
+keyword	sex
+keyword	psycho cop
+keyword	hip hop
+keyword	hustler
+keyword	interracial kiss
+keyword	lock pick
+keyword	held at gunpoint
+keyword	shot in the back
+keyword	swimming pool
+keyword	video
+keyword	stabbed in the back
+keyword	lesbianism
+keyword	brawl
+keyword	pay phone
+keyword	villainess
+keyword	corrupt police
+keyword	lizard
+keyword	blood on shirt
+keyword	semiautomatic pistol
+keyword	beretta
+keyword	flashlight
+keyword	bar
+keyword	car chase
+keyword	fire
+keyword	interracial friendship
+keyword	panties
+keyword	fistfight
+keyword	military
+keyword	killer cop
+keyword	racial slur
+keyword	bagpipes
+keyword	blood
+keyword	gasoline
+keyword	corruption
+keyword	tech noir
+keyword	blood spatter
+keyword	soldier
+keyword	shotgun
+keyword	vomit
+keyword	showdown
+keyword	shot through the mouth
+keyword	car set on fire
+keyword	subway
+keyword	switchblade
+keyword	shot in the chest
+keyword	rooftop
+keyword	mirror
+keyword	choked to death
+keyword	computer
+keyword	female nudity
+keyword	rain
+keyword	flare
+keyword	betrayal
+keyword	8 track
+keyword	private detective
+keyword	underwater scene
+keyword	punched in the face
+keyword	pump action shotgun
+keyword	shot to death
+keyword	science
+keyword	millenarism
+keyword	interracial relationship
+keyword	news report
+keyword	rape slay
+keyword	bathroom
+keyword	femme fatale
+keyword	revolver
+keyword	panties slip
+keyword	tank
+keyword	body landing on a car
+keyword	no opening credits
+keyword	electrocution
+keyword	face slap
+keyword	kitchen
+keyword	machine gun
+keyword	exploding car
+keyword	crucifix
+keyword	police brutality
+keyword	future
+keyword	revolving door
+keyword	future noir
+keyword	psychopath
+keyword	television
+keyword	first person
+keyword	product placement
+keyword	strangulation
+keyword	los angeles california
+keyword	foot chase
+keyword	end of the millenium
+keyword	new year's eve show
+keyword	white male black female relationship
+keyword	kicked in the chest
+keyword	undercover
+keyword	police violence
+keyword	snuff film
+keyword	mother son relationship
+keyword	breaking a bottle over someone's head
+keyword	swat team
+keyword	lesbian sex
+keyword	shot in the shoulder
+keyword	dirty cop
+keyword	bulletproof vest
+keyword	music producer
+keyword	cell phone
+keyword	corrupt cop
+keyword	nightclub
+keyword	racial violence
+keyword	knife
+keyword	hit with a chair
+keyword	neo noir
+keyword	driver's license
+keyword	lesbian
+keyword	1990s
+keyword	church
+keyword	racism
+keyword	train
+keyword	mime
+keyword	crotch shot
+keyword	wig
+keyword	cocaine snorting
+keyword	surveillance
+keyword	dog
+keyword	gun in mouth
+keyword	bare breasts
+keyword	taser
+keyword	elevator
+keyword	rap star
+keyword	revenge
+keyword	thong
+keyword	party
+keyword	police officer killed
+keyword	martial arts
+keyword	motorcycle
+keyword	silencer
+keyword	deception
+keyword	mace
+keyword	telescope
+keyword	police commissioner
+keyword	compact disc
+keyword	woman fights a man
+keyword	hate crime
+keyword	double cross
+keyword	pistol
+keyword	fight
+keyword	hand to hand combat
+keyword	shot in the forehead
+keyword	chaos
+keyword	rapist
+keyword	virtual reality
+keyword	apartment
+keyword	falling from height
+keyword	security camera
+keyword	corpse
+keyword	chase
+keyword	beach
+keyword	brain dead
+keyword	robbery
+keyword	christmas
+keyword	helicopter
+keyword	surprise ending
+keyword	
+cast	Ralph Fiennes	Lenny Nero
+cast	Angela Bassett	Lornette 'Mace' Mason
+cast	Juliette Lewis	Faith Justin
+cast	Tom Sizemore	Max Peltier
+cast	Michael Wincott	Philo Gant
+cast	Vincent D'Onofrio	Burton Steckler
+cast	Glenn Plummer	Jeriko One
+cast	Brigitte Bako	Iris
+cast	Richard Edson	Tick
+cast	William Fichtner	Dwayne Engelman
+cast	Josef Sommer	Palmer Strickland
+cast	Joe Urla	Keith
+cast	Nicky Katt	Joey Corto
+cast	Michael Jace	Wade Beemer
+cast	Louise LeCavalier	Cindy 'Vita' Minh
+cast	David Carrera	Duncan
+cast	Jim Ishida	Mr. Fumitsu
+cast	Todd Graff	Tex Arcana
+cast	Malcolm Norrington	Replay
+cast	Anais Munoz	Diamanda
+cast	Ted Haler	Tow Truck Driver
+cast	Rio Hackford	Bobby the Bartender
+cast	Brook Susan Parker	Cecile
+cast	Brandon Hammond	Zander
+cast	Donald 'Donnie' Young	Young Zander
+cast	B.J. Crockett	Young Zander
+cast	Dex Elliott Sanders	Curtis
+cast	Ronnie Willis	Homeboy
+cast	David Packer	Lane
+cast	Paulo Tocha	Spaz Diaz
+cast	J. Michael Muro	Nervous POV
+cast	Ron Young	Nervous POV Voice
+cast	Art Chudabala	Thai Restaurant Owner
+cast	Erica Kelly	Restaurant Hostess
+cast	Marlana Young	Waitress
+cast	Ray Chang	Thai Restaurant Cook
+cast	Raul Reformina	Busboy
+cast	Chris Douridas	Talk Radio Host
+cast	Billie Worley	Dan from Silverlake
+cast	Amon Bourne	Dewayne
+cast	Lisa Picotte	Lori from Encino
+cast	Kylie Ireland	Stoned Looking Girl
+cast	Dru Berrymore	Stoned Girl's Lover
+cast	Stefan Arngrim	Skinner
+cast	Agustin Rodriguez	Eduardo
+cast	Kelly Hu	Anchor Woman
+cast	Nynno Anderson	Angry Jeriko Fan
+cast	Liat Goodson	Retinal Fetish Bouncer
+cast	Honey Labrador	Beach Beauty
+cast	Delane Vaughn	Mace's Husband
+cast	Mark Arneson	Police Officer
+cast	James Acheson	Cop in Bathroom
+cast	John Francis	Death
+cast	Zoot	Mime
+cast	Royce L. Minor	Angry Black Kid
+cast	Milan Reynolds	National Guard Medic #1
+cast	Russell W. Smith	National Guard #2
+cast	Sarah Abukutsa Marshall	African Dancer
+cast	Russell Hines	African Dancer
+cast	Michael Jaasi	African Dancer
+cast	Maurice Marshall	African Dancer
+cast	Carolyn Adunni McPherson	African Dancer
+cast	Jennifer Reeves	African Dancer
+cast	Charmain Renata Hubbard	African Dancer
+cast	Reginald T. Thornton	African Dancer
+cast	Chester A. Whitmore	African Dancer
+cast	Lori Simone Wilkerson	African Dancer
+cast	Ed Arneson	Metro Division Officer
+cast	Yan Birch	New Years Eve Party Dude
+cast	Andrew Calder	New Years Reveler
+cast	Jaime H. Campos	Riot / Traffic Cop
+cast	Robert 'Duckie' Carpenter	Punker
+cast	John Daniels	Motorcycle cop
+cast	Gregory Diamond	New Years Eve Kiss
+cast	Sebastian Feldman	Club Goer
+cast	Masaaki Fujimori	Sexy Dancer
+cast	Kim Giancaterino	Club Goer
+cast	Paul Malinowski	Band - Season to Risk
+cast	Me Phi Me	Jeriko One Guard
+cast	Duane Trower	Band - Season to Risk
+cast	Tom Tom Typhoon	Crazy Dancer

@@ -1,0 +1,249 @@
+year	1999
+imdb score	8.0
+meta score	77
+genre	Drama
+keyword	coincidence
+keyword	cancer
+keyword	whiz kid
+keyword	one day
+keyword	decision
+keyword	seminar
+keyword	forgiveness
+keyword	motivational speaker
+keyword	dog
+keyword	cocaine
+keyword	dating
+keyword	falling from height
+keyword	denial
+keyword	los angeles california
+keyword	suicide
+keyword	pharmacy
+keyword	dead body
+keyword	burglary
+keyword	reno nevada
+keyword	singing
+keyword	addiction
+keyword	chapter headings
+keyword	domestic violence
+keyword	man with glasses
+keyword	1960s
+keyword	crush
+keyword	topless female nudity
+keyword	adultery
+keyword	shot in the head
+keyword	child prodigy
+keyword	drunkenness
+keyword	apology
+keyword	fainting
+keyword	fictional quiz show
+keyword	synchronicity
+keyword	hospital
+keyword	flower in title
+keyword	key
+keyword	starts with narration
+keyword	long take
+keyword	urban legend
+keyword	drug use
+keyword	male tears
+keyword	police
+keyword	vomit
+keyword	live television
+keyword	plague of frogs
+keyword	surprise
+keyword	loading gun
+keyword	multiple storyline
+keyword	fictional game show
+keyword	deathbed
+keyword	casino
+keyword	1950s
+keyword	frog
+keyword	premarital sex
+keyword	father daughter relationship
+keyword	elevator
+keyword	loss of father
+keyword	crying
+keyword	pain
+keyword	library
+keyword	growing up
+keyword	father son relationship
+keyword	life coach
+keyword	electronic store
+keyword	ensemble
+keyword	murder
+keyword	execution
+keyword	tv game show
+keyword	doctor
+keyword	hotel
+keyword	rooftop
+keyword	suicide attempt
+keyword	divorce
+keyword	hanging
+keyword	pilot
+keyword	misogyny
+keyword	infomercial
+keyword	lawyer
+keyword	police officer
+keyword	loss of son
+keyword	terminal illness
+keyword	marriage
+keyword	gun
+keyword	dental braces
+keyword	car accident
+keyword	scuba
+keyword	prologue
+keyword	mother daughter relationship
+keyword	double barreled shotgun
+keyword	gay
+keyword	serendipity
+keyword	child abuse
+keyword	prayer
+keyword	ambulance
+keyword	floor safe
+keyword	abusive father
+keyword	love at first sight
+keyword	catholic
+keyword	tv show in film
+keyword	chance
+keyword	ambiguous title
+keyword	rainstorm
+keyword	wetting pants
+keyword	morphine
+keyword	television producer
+keyword	male nurse
+keyword	filicide
+keyword	interview
+keyword	game show host
+keyword	divine intervention
+keyword	forest fire
+keyword	restroom
+keyword	ensemble cast
+keyword	fired from the job
+keyword	attempted suicide
+keyword	1910s
+keyword	mercedes benz
+keyword	tears
+keyword	rapping
+keyword	name change
+keyword	frog rain
+keyword	seduction
+keyword	one word title
+keyword	water bomber
+keyword	consolidated pby 5 catalina
+keyword	voice over narration
+keyword	biblical passage
+keyword	urban legend vector
+keyword	fate
+keyword	independent film
+keyword	actor shares first name with character
+keyword	surprise ending
+cast	Julianne Moore	Linda Partridge
+cast	William H. Macy	Donnie Smith
+cast	John C. Reilly	Officer Jim Kurring
+cast	Tom Cruise	Frank T.J. Mackey
+cast	Philip Baker Hall	Jimmy Gator
+cast	Philip Seymour Hoffman	Phil Parma
+cast	Jason Robards	Earl Partridge
+cast	Alfred Molina	Solomon Solomon
+cast	Melora Walters	Claudia Wilson Gator
+cast	Michael Bowen	Rick Spector
+cast	Ricky Jay	Burt Ramsey / Narrator
+cast	Jeremy Blackman	Stanley Spector
+cast	Melinda Dillon	Rose Gator
+cast	April Grace	Gwenovier
+cast	Luis Guzmán	Luis
+cast	Henry Gibson	Thurston Howell
+cast	Felicity Huffman	Cynthia
+cast	Emmanuel Johnson	Dixon
+cast	Don McManus	Dr. Landon
+cast	Eileen Ryan	Mary
+cast	Danny Wells	Dick Jennings
+cast	Michael Murphy	Alan Kligman Esq.
+cast	Pat Healy	Sir Edmund William Godfrey / Young Pharmacy Kid
+cast	Genevieve Zweig	Mrs. Godfrey
+cast	Mark Flannagan	Joseph Green
+cast	Neil Flynn	Stanley Berry
+cast	Rod McLachlan	Daniel Hill
+cast	Allan Graf	Firefighter
+cast	Patton Oswalt	Delmer Darion
+cast	Raymond 'Big Guy' Gonzales	Reno Security Guard
+cast	Brad Hunt	Craig Hansen
+cast	Jim Meskimen	Forensic Scientist
+cast	Chris O'Hara	Sydney Barringer
+cast	Clement Blake	Arthur Barringer
+cast	Frank Elmore	1958 Detective
+cast	John Kraft Seitz	1958 Policeman
+cast	Cory Buck	Young Boy
+cast	Tim Soronen	Infomercial Guy
+cast	Jim Ortlieb	Middle Aged Guy
+cast	Holly Houston	Jimmy's Showgirl
+cast	Thomas Jane	Young Jimmy Gator
+cast	Benjamin Niedens	Little Donnie Smith
+cast	Veronica Hart	Dentist Nurse #1
+cast	Melissa Spell	Dentist Nurse #2
+cast	James Kiriyama-Lem	Dr. Lee
+cast	Jason 'Jake' Cross	Pedestrian #1
+cast	Charlie Scott	Pedestrian #2
+cast	Juan Medrano	Nurse Juan
+cast	John Pritchett	Police Captain
+cast	Cleo King	Marcie
+cast	Michael Shamus Wiles	Captain Muffy
+cast	Jason Andrews	Doc
+cast	John S. Davies	Cameraman
+cast	Kevin Breznahan	Geoff / Seminar Guy
+cast	Miguel Pérez	Avi Solomon
+cast	David Masuda	Coroner Man
+cast	Neil Pepe	Officer #1
+cast	Lionel Mark Smith	Detective
+cast	Annette Helde	Coroner Woman
+cast	Lynne Lerner	Librarian
+cast	Scott Burkett	WDKK Page #1
+cast	Bob Brewer	Richard's Dad
+cast	Julie Brewer	Richard's Mom
+cast	Nancy Marston	Julia's Mom
+cast	Maurey Marston	Julia's Dad
+cast	Jamala Gaither	WDKK P.A.
+cast	Amy Brown	WDKK Page #2
+cast	Meagen Fay	Dr. Diane
+cast	Patricia Forte	Mim
+cast	Patrick Warren	Todd Geronimo
+cast	Orlando Jones	Worm
+cast	Virginia Pereira	Pink Dot Girl
+cast	Craig Kvinsland	Brad the Bartender
+cast	Patricia Scanlon	Cocktail Waitress
+cast	Natalie Marston	Julia
+cast	Bobby Brewer	Richard
+cast	Clark Gregg	WDKK Floor Director
+cast	Art Frankel	Old Pharmacist
+cast	Matt Gerald	Officer #2
+cast	Guillermo Melgarejo	Pink Dot Guy
+cast	Paul F. Tompkins	Chad, Seduce & Destroy
+cast	Mary Lynn Rajskub	Janet, Frank's Assistant
+cast	Jim Beaver	Smiling Peanut Patron #1
+cast	Ezra Buzzington	Smiling Peanut Patron #2
+cast	Denise Woolfork	Smiling Peanut Patron #3
+cast	New World Harmonica Trio	Harmonica Players
+cast	Robert Downey Sr.	WDKK Show Director
+cast	William Mapother	WDKK Show Director's Assistant
+cast	Larry Ballard	WDKK Medic
+cast	Brett Higgins	Mackey Disciple Twin #1
+cast	Brian Higgins	Mackey Disciple Twin #2
+cast	Michael Phillips	Mackey Disciple in Middle
+cast	Lillian Adams	Donnie's Old Neighbor
+cast	Steven Bush	Paramedic #1
+cast	Mike Massa	Paramedic #2
+cast	Dale Gibson	Paramedic #3
+cast	Scott Alan Smith	E.R. Doctor
+cast	Robert Bella	Detective #2
+cast	Douglas Busby	Featured SAG Role
+cast	Christina Eliason	Hot Date
+cast	Thomas Griffin	Forensic Scientist
+cast	Phil Hawn	Bob, Seminar Attendee
+cast	Miriam Margolyes	Faye Barringer
+cast	Tom Ohmer	Detective
+cast	Lynne Oropeza	Bride
+cast	Colleen Pelletier	Gameshow Audience Member
+cast	Dayna Price	Brenda Barringer
+cast	Herb Santos Jr.	21 Dealer
+cast	Tom Tangen	Drunken Dart Player
+cast	Sean Wilson	Arresting Police Officer
+cast	Junichi Yanagita	Mackey's Follower

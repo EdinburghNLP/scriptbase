@@ -1,0 +1,84 @@
+year	1955
+imdb score	7.8
+meta score	N/A
+genre	Drama
+genre	Romance
+keyword	butcher
+keyword	teacher
+keyword	love
+keyword	marriage
+keyword	ed sullivan
+keyword	husband wife relationship
+keyword	small business
+keyword	bronx new york city
+keyword	based on tv movie
+keyword	jilted
+keyword	aunt
+keyword	shyness
+keyword	bus stop
+keyword	world war two veteran
+keyword	catholic
+keyword	widow
+keyword	butcher shop
+keyword	loneliness
+keyword	diner
+keyword	year 1955
+keyword	old maid
+keyword	overbearing mother
+keyword	phone booth
+keyword	disapproval
+keyword	friendship
+keyword	wallflower
+keyword	crying
+keyword	stood up
+keyword	mother son relationship
+keyword	doctor
+keyword	midlife crisis
+keyword	mother dislikes son's friend
+keyword	fire escape
+keyword	mother in law daughter in law relationship
+keyword	friend
+keyword	dancing
+keyword	dance hall
+keyword	oscar winner
+keyword	father daughter relationship
+keyword	old bachelor
+keyword	sister sister relationship
+keyword	moving
+keyword	new york city
+keyword	date
+keyword	boredom
+keyword	cousin cousin relationship
+keyword	bar
+keyword	italian american
+keyword	independent film
+keyword	character name in title
+cast	Esther Minciotti	Mrs. Piletti
+cast	Augusta Ciolli	Aunt Catherine
+cast	Joe Mantell	Angie
+cast	Karen Steele	Virginia
+cast	Jerry Paris	Tommy
+cast	Betsy Blair	Clara
+cast	Ernest Borgnine	Marty Piletti
+cast	James Bell	Mr. Snyder
+cast	Joe Bell	Bit Role
+cast	John Beradino	Man in Bar
+cast	Nick Brkich	Bachelor
+cast	Marvin Bryan	Bit Role
+cast	Charles Cane	Lou - Bartender
+cast	Paddy Chayefsky	Leo
+cast	John Dennis	Andy
+cast	Steven Hecht	Six-Year-Old Boy
+cast	Paul Hoffman	Man in Bar
+cast	Walter Kelley	The Kid
+cast	Doris Kemper	Bit Role
+cast	John Milford	
+cast	Silvio Minciotti	Butcher
+cast	Robin Morse	Joe
+cast	Kathleen Mulqueen	Irish Lady Talking in Bar
+cast	Jerry Orbach	Ballroom Extra
+cast	Glenn Strange	Bit Role
+cast	Frank Sutton	Ralph
+cast	Hal Taggart	Churchgoer Extra
+cast	Minerva Urecal	Mrs. Rosari
+cast	Alan Wells	Jerry

@@ -1,0 +1,4415 @@
+I Walked with a Zombie (1943) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+I Walked with a Zombie (1943) movie scriptby Curt Siodmak and Ardel Wray.Based on the novel "Jane Eyre" by Charlotte Bronte and Scientific Information from Articles by Inez Wallace.
+More info about this movie on IMDb.com
+
+
+The RKO trademark FADES OUT, to reveal a road lined with palm
+trees, spectrally long and straight like a vista in a Dali
+painting.  Along this road and from a far distance two tiny
+figures advance toward the camera.  Over this scene the TITLE
+and CREDITS are SUPERIMPOSED.  The two figures continue to
+advance, growing more discernible all the time.
+
+As the credits FADE, the two human figures advancing along
+the road are more clearly discernible.  Although they are not
+close enough to distinguish their faces, it can be seen that
+one of them is an enormously tall, cadaverous negro, clothed
+only by ragged, tight-fitting trousers and that the other is
+nurse, dressed in crisp white uniform and cap, with a dark
+cloak over her shoulders.
+
+
+               BETSY
+          (narrating)
+     I walked with a zombie.
+          (laughs a little, self
+          consciously)
+     It does seem an odd thing to say. 
+     Had anyone said that to me a year
+     ago, I'm not at all sure I would
+     have known what a Zombie was. I
+     might have had some notion -- that
+     they were strange and frightening,
+     and perhaps a little funny.  But I
+     have walked with a Zombie
+
+As she speaks, the two figures advancing on the road come
+closer.
+
+               BETSY'S VOICE
+          (narrating)
+     It all began in such an ordinary
+     way --
+
+As she says this the long road and the advancing figures
+
+                              DISSOLVE
+
+EXT. HOUSES OF PARLIAMENT - OTTAWA - DAY - (STOCK)
+
+The Houses of Parliament seen through falling snow.  In the
+f.g. horse-drawn sleighs are passing.
+
+               BETSY'S VOICE
+          (narrating)
+     I'd just finished working on a case
+     in Ottawa...a little boy who'd
+     broken both legs.  It was one of
+     those cases with traction frames
+     and constant care, nicely
+     complicate with a pair of
+     hysterical parents.  When he was
+     all well I had to find another job. 
+     That's a nurse's life for you. I
+     went to the Registry.
+
+EXT. CORNER OF A BUILDING - DAY - (SNOW)
+
+At about the level of the second and third floors is one of
+those half-curved, elliptical signboards which lap around the
+corners of old-fashioned office buildings.  The CAMERA PANS
+DOWN this sign, from one firm name to another, stopping at
+the last name listed:
+
+        PARRISH AND BURDEN SUGAR CO., LTD.
+
+               BETSY'S VOICE
+          (narrating)
+     They gave me an address in the
+     business district.  I went there.
+
+INT. OFFICE -- DAY
+
+An office on the first floor, with a window opening into a
+courtyard.  Through this window snow can be seen falling.
+
+CLOSE SHOT of Mr. Richard Brindsley Wilkens, V.C.  He is a
+small, sharp-featured, precise little man with pincenez
+glasses, dressed in a dark business suit.  One of the coat
+sleeves is empty.  The explanation for the missing arm can be
+found in his coat lapel: the ribbon of the Victoria Cross. 
+His age indicates that he won it in the last war.  He has a
+tablet in front of him and as he speaks, marks down the
+answers to his questions.
+
+               WILKENS
+     You're single?
+
+               BETSY
+     Yes.
+
+               WILKENS
+     Where were you trained?
+
+               BETSY
+     At the Memorial Hospital -- here in
+     Ottawa.
+
+Wilkens writes this down and then returns the pen to its desk
+holder.  He picks up a typewritten page from the blotter, and
+stares at it.
+
+               WILKENS
+          (fiddling with the paper
+          unhappily)
+     This last question's a little
+     irregular, Miss Connell.  I don't
+     quite know how to put it.  
+
+Wilkens straightens himself determinedly and puts down the
+paper.
+
+               WILKENS (cont'd)
+     Do you believe in witchcraft?
+
+Betsy bursts into laughter and we go to our first sight of
+her.  She is young, bright, alert and looks extremely
+attractive in her blue nurse's cape and round fur cape.
+
+               BETSY
+          (finally putting the leash
+          on her laughter)
+     They didn't teach it at Memorial
+     Hospital.  I had my suspicions,
+     though, about the Directress of
+     Training.
+
+               WILKENS
+          (permitting himself a dry
+          little smile)
+     Very well.  That means that you
+     have met all Mr. Holland's
+     requirements.  Now, as to salary --
+     it's quite good -- two hundred
+     dollars a month.
+
+               BETSY
+          (pleased)
+     That is good.  But I'd like to know
+     more about the case.
+
+               WILKENS
+     I'm afraid I'm not able to tell you
+     much. Only that the patient is a young
+     woman -- the wife of a Mr. Paul
+     Holland with whom we do
+     considerable business.
+
+               BETSY
+     That will mean another interview,
+     won't it?
+
+               WILKENS
+     No, this is quite final.  You see,
+     Mr. Holland is a sugar planter.  He
+     lives in St. Sebastian Island in
+     the West Indies.
+
+               BETSY
+     The West Indies?
+
+               WILKENS
+          (he's been expecting this)
+     A year's contract -- a trip with
+     all expenses paid -- that's not so
+     bad, you know.
+
+               BETSY
+     But it's so far away...
+
+               WILKENS
+     That's rather nice, isn't it?
+
+Wilkens glancing at the snow falling outside the windows.
+
+               WILKENS (cont'd)
+          (a little wistfully)
+     Sit under a palm tree -- go
+     swimming -- take sun baths.  Just
+     like a holiday...
+
+               BETSY
+     Palm trees --
+
+                              FADE OUT
+
+FADE IN
+
+MONTAGE OF SHIPS
+
+A great Canadian luxury liner, a boat like the Empress of
+Canada, proceeds across the screen from left to right. 
+Another ship, a smaller passenger steamer, going in the same
+direction, takes her place as she DISSOLVES OFF; then a
+freighter, and finally a small white-hulled trading schooner
+comes onto the screen.
+
+               BETSY'S VOICE
+          (narrating)
+     Boats grow smaller to reach out-of
+     the-way ports.  Judging by the
+     boats that took me to St. Sebastian
+     -- it's far away and hard to get
+     to. First, there was the great
+     liner to Havana -- then a smaller
+     steamer to Port au Prince -- a
+     freighter to Gonave -- and from
+     Gonave, one of the little island
+     trading schooners that carry sugar
+     and sisal, sponges and salt all
+     over the Caribbean.
+
+                              DISSOLVE
+
+A SAIL -- NIGHT
+
+A gaff-headed sail against a night sky of stars.  The boat
+carrying the sail is evidently in a rolling sea.  The sail
+moves in rhythmic undulance against the sky.  We hear the
+chug-chug of a one-cylinder Diesel.
+
+EXT. SCHOONER -- WHEEL -- NIGHT
+
+Two men stand by the wheel of the schooner, their faces lit
+by the light from the binnacle.  Behind them the wake of the
+boat creams out, white and phosphorescent.  One of the men is
+obviously the skipper of the boat, dressed in sloppy white
+ducks, unshaven and with an officer's battered cap on his
+head.  The other is a slim, tall man dressed in flannel
+slacks and a light tweed coat.
+
+               BETSY'S VOICE
+          (narrating)
+     The man for whom I'd come to work --
+     Mr. Holland -- boarded the schooner
+     at Gonave.  He was pointed out to
+     me, and he must have known who I
+     was -- yet he never spoke to me. 
+     He seemed quiet and aloof. 
+     Sometimes I wondered how we'd get
+     on -- but there wasn't really time
+     for to think about it -- there was
+     so much to see.  I loved the trip.
+
+EXT. SCHOONER -- OPEN GALLEY ON DECK -- NIGHT
+
+Near the mainmast is a large box filled with sand and on this
+sand a charcoal fire has been laid.  A negro, dressed in
+dungarees, is cooking a large piece of meat.  Other negroes
+lounge on deck, their black faces fire-lit. 
+
+They are singing, and their singing is attuned to the rhythm
+of the chugging motor.
+
+EXT. OCEAN -- NIGHT -- (STOCK)
+
+The wake of the schooner.
+
+EXT. OCEAN -- FLYING FISH -- NIGHT -- (STOCK)
+
+Flying fish, like shooting stars, dart across dark waters.
+
+EXT. STAR-FILLED SKY -- NIGHT -- (STOCK)
+
+The stars seem very close and there is always movement in the
+sky, as if it were alive -- falling stars and comets, lively
+as the flying fish.
+
+EXT. DECK OF SCHOONER -- NIGHT
+
+Betsy is seated on the cabin top just abaft of the foremast. 
+She is looking out toward the sea and her expression is
+ecstatic.  She is completely lost in the beauty that she
+feels, sees and smells.
+
+               BETSY'S VOICE
+     I smelled the spicy smells coming
+     from the islands -- I looked at those
+     great glowing stars -- and I felt the
+     warm wind on my cheeks and I breathed
+     deep and every bit of me inside
+     myself said, "How beautiful --"
+
+The CAMERA DRAWS BACK to SHOW a tall, masculine figure
+leaning against the foremast, behind Betsy.  This is Paul
+Holland.  As we see him, we hear his voice.
+
+               HOLLAND
+     It is not beautiful.
+
+               BETSY
+          (surprised but smiling)
+     You read my thoughts, Mr. Holland.
+
+               HOLLAND
+     It's easy enough to read the
+     thoughts of a newcomer. Everything
+     seems beautiful because you don't
+     understand.  Those flying fish --
+     they are not leaping for joy. 
+     They're jumping in terror.  Bigger
+     fish want to eat them.
+     That luminous water -- it takes its
+     gleam from millions of tiny dead
+     bodies. It's the glitter of
+     putrescence.  There's no beauty
+     here -- it's death and decay.
+
+               BETSY
+     You can't really believe that. 
+
+A star falls.  They both follow its flight with their eyes.
+
+               HOLLAND
+          (pointing to it)
+     Everything good dies here -- even
+     the stars.
+
+He leaves his position by the mast and walks aft.
+
+The group of negroes at the mainmast.  They have stopped
+singing and they sit about the charcoal brazier.  They are
+eating, tearing at the meat with cruel, greedy, animal
+gestures.  Holland walks past them on his way aft.
+
+Betsy is puzzled and a little alarmed by Holland's strange
+utterances and his queer behavior.  Over this shot of Betsy
+looking off at him, we hear her as narrator.
+
+               BETSY
+          (narrating)
+     It was strange to have him break in
+     on my thoughts that way.  There was
+     cruelty and hardness in his voice. 
+     Yet -- something about him I liked -- 
+     something clean and honest --  but
+     hurt -- badly hurt.
+
+                              FADE OUT
+
+FADE IN
+
+EXT. VILLAGE OF ST. SEBASTIAN -- DAY
+
+St. Sebastian is a drab little West Indian village.  The
+shacks and houses of wood, lath and plaster seem to be
+falling apart.  Over the doorway of one of the buildings --
+evidently an administrative office -- hangs an American flag,
+indicating the government of the island.  The hard-packed
+dirt in the roadway is overgrown with weeds.  Everywhere, and
+moving indolently, are the little, badly nourished negroes,
+some of them tending stalls and sidewalk vending booths,
+others walking idly.  Betsy, followed by a black sailor with
+her suitcases, comes down the gangway.  Parallel to this
+gangway is another. 
+
+Up the second gangway, in file, black stevedores with bundles
+of sugar cane and small bales of sisal hemp on their heads,
+go up to the boat. 
+
+On the dock, Betsy makes her way through a group of clamorous
+children, vendors and beggars.  As the black sailor puts her
+luggage into an umbrella-topped surrey drawn by a gaunt mule,
+she stops, delighted, before a great basket filled with
+enormous white flowers.  The man seated beside the basket
+seems to be asleep, his face hidden by the drooping brim of a
+straw hat.  Betsy picks up one of the blooms, smells it and
+then looks at the vendor.
+
+               BETSY
+     How much is this?
+
+The vendor wakens and lifts his head, revealing a face
+bloated and scarified by yaws, a hideous nightmare face. 
+Betsy, startled, steps back, letting the flower drop.  Paul
+Holland, passing her, looks at this little tableau of horror
+and disgust.
+
+               HOLLAND
+          (in passing)
+     You're beginning to learn.
+
+Betsy looks after him as he walks away into the village.
+
+                              DISSOLVE
+
+EXT. ROAD TO FORT HOLLAND -- DAY -- (PROCESS)
+
+An umbrella-topped surrey, drawn by a gaunt mule and piloted
+by an old coachman in dirty white singlet, a top hat with a
+cockade on his graying hair, is making its way along a dusty
+road between fields of sugar cane.  In the distance, the sea
+is visible and above it the great billowing white clouds of
+the Caribbean.  Betsy, seated on the back seat of the
+carriage, is bending forward to listen to the old man.
+
+               COACHMAN
+     Times gone, Fort Holland was a
+     fort...now, no longer.  The
+     Holland's are a most old family,
+     miss.  They brought the colored
+     people to the island-- the colored
+     folks and Ti-Misery.
+
+               BETSY
+     Ti-Misery?  What's that?
+
+               COACHMAN
+     A man, miss -- an old man who lives
+     in the garden at Fort Holland -
+     with arrows stuck in him and a
+     sorrowful, weeping look on his
+     black face.
+
+               BETSY
+          (incredulous)
+     Alive?
+
+               COACHMAN
+          (laughing, softly)
+     No, miss.  He's just as he was in
+     the beginning -- on the front part
+     of an enormous boat.
+
+               BETSY
+          (understanding and amused)
+     You mean a figurehead.
+
+               COACHMAN
+          (warming up to his
+          orating)
+     If you say, miss.  And the enormous
+     boat brought the long-ago Fathers
+     and the long-ago Mothers of us all 
+     - chained down to the deep side
+     floor. 
+
+               BETSY
+          (looking at the endless
+          fields and the richly
+          clouded blue sky)
+     But they came to a beautiful place,
+     didn't they?
+
+               COACHMAN
+          (smiling and nodding as
+          one who accepts a
+          personal compliment)
+     If you say, miss.  If you say.
+
+                              DISSOLVE
+
+EXT. FORT HOLLAND -- DAY
+
+The jugheaded mule slowly pulls the carriage into the scene. 
+This beast comes to a somnolent stop without the coachman so
+much as touching the reins.  As the man climbs down and
+starts to take the luggage out of the carriage, Betsy looks
+through the wrought-iron gate into the garden. 
+ 
+Fort Holland is a one-story house built around the garden,
+with low covered porches to give shade and breezeway.  At the
+open end of the U is a great gate much like the wrought-iron
+gates of New Orleans.  Through this Betsy can see the garden
+and its profusion of verdure: azalea, bougainvillea, roses --
+much like California planting; no exotic orchids or man
+eating Venus Jugs -- just ordinary, pretty, semi-tropic
+flowers and shrubs.
+
+The separate rooms are open to the garden, but have jalousies
+of thin wood to give privacy when needed.  At one corner
+stands a big, stone tower, obviously a relic of some previous
+building.  The walls of the house have been built right up to
+and around the tower so that it has become part of the
+building itself.  On the garden side of the tower is the
+fountain. The most outstanding feature of this spring or
+fountain, which flows from a crevice in the stones of the
+tower, is that instead of falling directly into the cistern
+it falls first onto the shoulders of the enormous teakwood
+figurehead of St. Sebastian. From the shoulders of the saint
+it drips down in two runnels over his breast.  The wooden
+breast of the statue is pierced with six long iron arrows.
+The face is weathered and black.  Only a few bits of white
+paint still cling to the halo above his head.  Betsy and the
+coachman come up to the grillwork of the gate.  Betsy looks
+around the garden, while the old coachman reaches up and
+pulls a bell rope suspended from the gate.  As the bell
+begins to ring, he pushes the gate open.  Betsy walks
+through.
+
+INT. BETSY'S ROOM -- NIGHT
+
+This is a small but lovely room with white plastered walls. 
+As in the rest of the house, the furniture is not the usual
+tropical porch furniture, but is neat, serviceable
+furnishings such as an well-to-do family established for a
+long time in any given place would acquire.  There is a nice
+four-poster bed with pineapple carving, a dressing table with
+a little Chippendale chair before it, and a maple rocker so
+old it has turned a hard, brown color that softly reflects
+the highlights in the room.  On the wall is a little mirror
+in a carved Spanish frame.  There are no pictures or other
+ornaments.  A woven grass rug lies on the floor.  Betsy is
+seated before the dressing table, putting the last touches to
+her hair.  She has changed her clothes and is wearing a
+simple, linen dress.  There is a discreet rap on the
+jalousied door which separates the room from the garden. 
+Betsy crosses the room and opens the door.  A colored man in
+a butler's white jacket stands there.  This is Clement.
+
+               CLEMENT
+     Miss Connell -- it's dinner.
+
+               BETSY
+     Thank you, Clement.
+
+He stands aside and lets her step through, goes ahead of her
+and precedes her down the garden path.
+
+EXT. GARDEN AT FORT HOLLAND -- NIGHT
+
+Betsy and Clement pass the fountain.  The figure of St.
+Sebastian gleams wetly in the rays of the candlelight.  On
+the covered porch in front of the living room, a dinner
+service has been set out on a long mahogany table.  As she
+comes forward, Betsy sees a handsome young man waiting for
+her.  This is Wesley Rand.  The table by which he stands is
+set for two and lit by candelabra in great glass hurricane
+lamps.  The table is laid with white linen, and the
+candlelight gleams on silver and cut-glass arranged in the
+most formal manner.  The table itself is a beautiful mahogany
+structure with elaborate carving, and the four chairs which
+surround it are massive Victorian pieces.  A fifth chair
+stands by the wall.  Rand steps down into the garden and
+extends his hand to Betsy.
+
+               RAND
+     Miss Connell -- I'm Wesley Rand. 
+     Paul asked me to introduce myself.
+
+They shake hands and he takes her elbow to guide her to the
+table. 
+
+               RAND (CONT'D)
+          (as they walk)
+     It seems we are having dinner by
+     ourselves, Miss Connell.  But I may
+     as well introduce everyone to you,
+     anyway.
+          (points to the chair at
+          the head of the table)
+     There -- in the master's chair,
+     sits the master -- my half-brother
+     Paul Holland.  But you've already
+     met him.
+
+               BETSY
+     Yes -- on the boat.
+
+               RAND
+     And that chair --
+          (indicates the chair drawn
+          back against the wall)
+     is the particular property of Mrs.
+     Rand -- mother to both of us and
+     much too good for either of us. 
+     Too wise, in fact, to live under
+     the same roof. She prefers the
+     village dispensary.
+
+               BETSY
+          (interested and a little
+          surprised)
+     Is she a doctor?
+
+               RAND
+     No -- she just runs the place. 
+     She's everything else -- amazing
+     woman, mother.  You'll like her.
+
+               BETSY
+     I like her already.
+
+               RAND
+     And that --
+          (points to another chair)
+     is my chair.  And this --
+          (draws back a chair for
+          Betsy)
+     is Miss Connell -- who is
+     beautiful.
+
+               BETSY
+     Thank you.  But who sits there?
+          (indicating a chair at her
+          left)
+
+               RAND
+     My brother's wife.
+
+There is a little pause.  Rand stands for a very brief
+moment, looking at the empty chair and then, almost as if
+pulling himself together, takes hold of his own chair and
+moves it down the table nearer to Betsy.
+
+               RAND (cont'd)
+          (as he moves the chair)
+     Here, here, this isn't at all cozy --
+     it makes me seem aloof and I'm
+     anything but that.
+
+They smile at each other.  Betsy looks around the table and
+out toward the garden.
+
+FROM BETSY'S VIEWPOINT, as we see the garden.  The CAMERA
+PANS AROUND to show one aspect of its beauty after another
+and finally COMES TO REST ON a lighted window.  On the
+shutters can be seen the shadow of a man seated at a desk,
+obviously working.
+
+               BETSY'S VOICE
+          (over pan)
+     We had a lovely dinner.  Somehow as
+     we sat there, I couldn't help
+     thinking of all the stories I had
+     read in the magazines, stories in
+     which people had dinner on a
+     terrace with moonlight flooding a
+     tropical garden.  It seemed a
+     little unreal.  -- Then we had
+     coffee.
+
+EXT. THE PORCH -- NIGHT
+
+Betsy and Rand are seated in easy chairs with a small coffee
+table before them.  On it are a coffee urn, a bottle of
+brandy, cups and glasses.  Behind them is the lighted window
+where we have seen the shadow of Paul Holland.  From this
+angle the shadow can no longer be seen.  As if part of a
+general conversation that has been going on for some time.
+
+               BETSY
+     -- But, you're an American?
+
+               RAND
+     I went to school in Buffalo.  Paul
+     went to school in England.
+
+               BETSY
+     I wondered about your different
+     accents.  I'm still wondering about
+     your names -- Rand and Holland.
+
+               RAND
+          (making mockery of his own
+          explanation)
+     We're half-brothers.  Paul is
+     mother's first child.  When his
+     father died, she married my father.
+     Dr. Rand, the missionary.  And you
+     know what they say about
+     missionaries' children.
+
+Far off somewhere a drum begins to beat, slowly and sullenly. 
+Betsy turns in the direction of the sound.  Rand watches her,
+grinning.
+
+               RAND (CONT'D)
+          (mocking her interest)
+     The jungle drums -- mysterious -
+     eerie.
+
+Betsy turns back to him and smiles.
+
+               RAND (cont'd)
+     That's a work drum at the sugar
+     mill. St. Sebastian's version of
+     the factory whistle.
+
+He finishes the little bit of liquor left in his brandy glass
+and gets up.
+
+               RAND (CONT'D)
+     As a matter of fact, it means the
+     sugar syrup is ready to be poured
+     off.  You'll have to excuse me.
+
+               BETSY
+     Of course.  It's been nice of you
+     to spend this much time with me.
+
+Rand picks up the brandy bottle.
+
+               RAND
+          (pouring himself a drink)
+     Don't worry.  I wasn't missed.  The
+     only important man here is the
+     owner.
+
+               BETSY
+     Mr. Holland?
+
+               RAND
+     Yes, the redoubtable Paul.  He has
+     the plantation, and I, as you must
+     have noticed, have all the charm.
+
+               BETSY
+     I don't know.  He spoke to me last
+     night on the boat. I liked him very
+     much.
+
+               RAND
+          (pouring another drink)
+     Ah, yes, our Paul, strong and
+     silent and very sad -- quite the
+     Byronic character. Perhaps I ought
+     to cultivate it. 
+
+The drum sounds again.
+
+               BETSY
+          (smiling and pointing off)
+     Perhaps you ought to get on to the
+     mill.
+
+               RAND
+          (leisurely sips at his
+          drink)
+     It'll wait.
+
+The work drum sounds for the third time.  Rand who has
+finished his drink, reaches for the bottle again.  At this
+moment the jalousies behind them open and Holland comes out. 
+Rand puts down the bottle and straightens up.  Holland stands
+watching him. 
+
+               RAND (CONT'D)
+          (to Holland)
+     I was just going to the mill.
+          (nods to Betsy)
+     Good night, Miss Connell.
+
+Betsy nods and smiles to him.  Rand starts toward the gate.
+
+               HOLLAND
+          (still watching Rand)
+     Have the servants made you
+     comfortable?
+
+               BETSY
+     Yes, thank you.
+
+Clement comes from the house carrying a large, silver tray
+covered with a napkin.  He comes up to Holland and holds the
+tray before him, lifting the corner of the napkin to present
+the food under it for inspection.
+
+               HOLLAND
+          (looking at the food)
+     It seems very nice, Clement.  I'll
+     take it to Mrs. Holland.
+
+He starts to take the tray.  Betsy rising, also reaches for
+it.
+
+               BETSY
+     Can't I take it for you?
+
+               HOLLAND
+          (taking tray)
+     No, thank you.  Tomorrow's time
+     enough for you to begin work.
+
+He goes off with the tray.  Betsy picks up a coffee cup.
+
+LONG SHOT of tower.  Holland enters the tower and closes the
+door behind him.
+
+                              DISSOLVE
+
+INT. BETSY'S ROOM -- NIGHT
+
+Betsy, dressed in a trim negligee and slippers, is getting
+ready for the night.  She plumps up the cushion, tests the
+softness of the mattress and then, yawning, turns out the
+Aladdin kerosene lamp which lights the room.  Level rays of
+moonlight filter through the rattan blinds into the room. 
+Betsy crosses the room and peers out through the rattan
+strips into the garden.
+
+EXT. THE GARDEN -- NIGHT
+
+AS BETSY SEES IT.  Lights are on in the living room.  This
+light, barred and diffused by the strip-blinds, softly
+illuminates the garden.  The black shadows of trees and
+shrubbery loom over the paths.  Through these shadows a
+woman, dressed in filmy white, walks stiffly, her arms
+hanging immobile, close to her slim body.  She is blonde and
+as far as the light will reveal, she seems beautiful.  She
+makes the circuit of the garden, pacing slowly along the
+paths.  Betsy watches her.  Then, from the living room, a
+man's voice calls out to her.
+
+               HOLLAND'S VOICE
+     Jessica.
+
+The woman at once turns toward the living room, mounts the
+porch and enters through a door held open for her.
+
+INT. BETSY'S ROOM -- NIGHT
+
+Betsy turns back into the room.  She has crossed over to the
+bed and is removing her negligee when the sound of hesitant
+notes on the piano attract her attention.  In her nightgown
+she goes back to the window and peers through the cracks
+between the laths.
+
+INT. A CORNER OF THE LIVING ROOM -- NIGHT
+
+From where she stands, Betsy can see the big, square,
+rosewood piano.  A lamp had been lit beside it and the light
+from this lamp falls on the blonde hair and gleaming
+shoulders of the woman who had walked in the garden.  Her
+face cannot be seen.  Her fingers move strangely over the
+keyboard, now and again striking a hesitant note, but making
+no music, only an occasional dissonance.
+
+INT. BETSY'S ROOM -- NIGHT
+
+Betsy, still watching through the slit in the jalousie,
+endeavors to get a better view of the living room.  She
+changes her position and looks out again through the blinds.
+
+INT. ANOTHER CORNER OF THE LIVING ROOM -- NIGHT
+
+As seen from Betsy's NEW ANGLE.  Paul Holland is seated in a
+low armchair.  His eyes are fixed on the woman at the piano. 
+She continues to strike odd notes on the piano.
+
+INT. BETSY'S ROOM -- NIGHT
+
+Betsy leaves the window, crosses to the bed and lies down. 
+Then, sighing, she makes herself comfortable on the pillow,
+settling herself for sleep.  Outside the nightjars whistle
+softly, the cicadas twitter and the Hammer tree frogs make
+drowsy, somnolent little croaks:  it is a tropic lullaby of
+bird, batrachian and insect sound.  The faint, groping notes
+on the piano continue.
+
+                              DISSOLVE
+
+EXT. THE FIGURE OF ST. SEBASTIAN -- NIGHT -- (MOONLIGHT)
+
+In the moonlight, the pin-cushioned figure of St. Sebastian
+broods over the dark water in the cistern.  Above the
+constant sound of the water flowing over the saint's
+shoulders can be heard the sound of a woman crying,
+mournfully and as if from deep-seated sadness.
+
+INT. BETSY'S ROOM -- NIGHT
+
+Betsy is asleep.  The sound of the woman's weeping is
+persistent in the room.  Finally, it has its effect.  The
+young nurse stirs restlessly, then wakes.  She listens, gets
+up, then listens again.
+
+EXT. THE TOWER DOOR -- NIGHT -- (MOONLIGHT)
+
+INT. BETSY'S ROOM -- NIGHT
+
+It is obvious to her this piteous keening comes from the
+direction of the tower.  It is in this direction she had seen
+Holland carry the tray of food to her patient.  She pulls on
+her slippers and negligee and leaves the room.
+
+EXT. THE FIGURE OF ST. SEBASTIAN -- NIGHT
+
+Betsy crosses in front of the fountain and goes to the small
+postern door of heavy, iron-bound oaks which leads into the
+ruin.  The sound of weeping continues.  She tries the door. 
+It opens and she goes in, leaving it open behind her.
+
+INT. THE GROUND FLOOR OF THE TOWER -- NIGHT
+
+Betsy comes hesitantly in and looks around her.  She can
+still hear the sound of a woman's crying.  It seems to come
+from above her.  A circling flight of shallow stone steps
+lead upward into the dark.  To one side of them, but almost
+hidden from her in the darkness, is another door leading back
+into the house.  She hesitates a moment and then, slowly,
+begins to climb the stairs.
+
+INT. TOWER -- SECOND FLOOR -- NIGHT
+
+Betsy comes up to the level of the second floor.  It is in
+pitch blackness.  High above her is a narrow slit through
+which a single shaft of white moonlight drives sharply into
+the well-like darkness of the room.  Very slowly, almost as
+if feeling her way on the stone floor with her slippered
+feet, she crosses the room.  Then, one hand groping along the
+rough, stone wall, she begins to circle the room, searching
+for some doorway, or an ascending flight of stairs.
+
+Above her in the massive rafters of the tower, bats stir and
+squeak.  One bat, dropping from his perch, sweeps past her
+with a rushing of air against the taut membranes of his
+wings, then flies laboriously up and out through the narrow
+slit high in the wall.  Betsy stands stock still, frightened. 
+Then she resumes her groping progress.  A rat squeals and
+slithers across the floor.  Again she stops.  Then, more as a
+request for guidance than as a cry for help, she calls out
+softly.
+
+               BETSY
+          (calling)
+     Mrs. Holland!  Mrs. Holland!
+
+There is no answer.  She gropes forward a few more steps,
+then stops again and again calls, a little louder now.
+
+               BETSY (CONT'D)
+          (calling)
+     Mrs. Holland?
+
+INT. FIRST FLOOR OF THE TOWER -- NIGHT
+
+A white-robed female figure comes out from under the stairs,
+walking slowly, her movements drift-like as if walking in
+deep sleep.  She begins slowly to climb the stairs.
+
+INT. TOWER -- SECOND FLOOR -- NIGHT
+
+Betsy is still groping her way around the circling walls of
+the tower.  The shaft of moonlight strikes down between her
+and the stairs.  Through it she sees the drifting, diaphanous
+whiteness of the other woman as she comes up from the dark
+stairwell.
+
+               BETSY
+     Mrs. Holland?
+
+There is no answer.  The other woman continues to walk toward
+her.
+
+               BETSY (cont'd)
+          (embarrassed; trying to
+          explain)
+     Mrs. Holland -- I didn't mean to
+     get you up --
+
+The white woman keeps walking toward her with the same
+entrance tread.  Betsy takes a step forward to meet her.  The
+two women come together in such a way that the white-clad
+woman stops directly in the shaft of moonlight.
+
+CLOSEUP of Jessica.  This is the face of the dead; bloodless,
+cold-lidded, eyes open and unseeing, washed white with the
+pallor of the moonlight, framed in lank, lifeless tresses of
+blonde hair.
+
+               BETSY (cont'd)
+          (a frightened questioning
+          whisper over the closeup)
+     Mrs. Holland -- ?
+
+Without expression, Jessica moves toward her.
+
+MED. CLOSE SHOT -- Jessica and Betsy.  Jessica comes toward
+Betsy, who takes a step back.  They are out of the moonlight
+now, but the pale face of the woman seems to glow in the
+darkness.  She keeps advancing toward Betsy.  Betsy screams --
+shrill and piercing.
+
+INT. THE RAFTERS OF THE TOWER -- NIGHT
+
+Betsy's cry echoes back and forth between the stone walls of
+the tower.  The bats hanging from the rafters are roused and
+begin to fly, squeaking and mewling.
+
+INT. TOWER -- SECOND FLOOR -- NIGHT
+
+The flight of bats wheels and banks around the figures of the
+two women.  Betsy screams wordlessly and the shrill, piercing
+sound of her outcry lances back at her from the echoing
+walls.
+
+CLOSEUP of Betsy.  Desperately frightened, her face agonized,
+she screams again, pressing her loosely clenched fists
+against the sides of her mouth.
+
+INT. SLIT IN WALL OF TOWER -- NIGHT
+
+Single file, the bats sweep out one by one through the
+loophole high up in the wall of the tower.  Betsy's scream
+continues to echo.
+
+INT. TOWER -- SECOND FLOOR -- NIGHT
+
+Jessica still continues to walk toward Betsy.  Betsy retreats
+from her, backs onto the stone stairs leading to the slit in
+the wall.  She orients herself quickly; starts to back up
+this narrow flight of steps.
+
+INT. TOWER STAIRWELL -- NIGHT
+
+Holland running up the steps of the tower.  He is pulling a
+light bathrobe over his pajamas and carrying a flashlight in
+his hand.  Behind him come Clement and a pretty, little negro
+maid, Alma.  Clement has dressed hurriedly.  He is
+barefooted; has on his trousers and a shirt, which is not
+tucked in at the waistband.  Alma, also barefooted, has on a
+thick, white cotton nightgown, a little bit too big for her. 
+Clement carries a lighted kerosene lamp in his hand.
+
+INT. SECOND FLOOR -- TOWER -- NIGHT
+
+Holland, Clement and Alma come up the stairs.  Clement's
+lantern, held high, illuminates the room, disclosing Jessica
+still walking and Betsy cowering away from her.
+
+               HOLLAND
+     Jessica!
+
+The woman stops and turns slowly toward him.  He speaks
+hurriedly to Alma.
+
+               HOLLAND (CONT'D)
+     Take Mrs. Holland to her room.
+
+               ALMA
+          (taking Jessica's arm)
+     Come, Miss Jessica, come with Alma.
+
+               BETSY
+          (attempting to get a grip
+          on herself.  Terribly
+          ashamed)
+     I heard someone crying -- a woman --
+
+               HOLLAND
+     A woman crying?  No one's been
+     crying here.
+
+               CLEMENT
+     Mr. Paul -- yes, there was crying
+     tonight. It was Alma.  Her sister
+     was brought a'birthing.
+
+               HOLLAND
+          (with a slight smile)
+     Thank you, Clement.
+
+He takes Betsy's elbow and starts toward the stairs.
+
+INT. FIRST FLOOR OF THE TOWER -- NIGHT
+
+Clement precedes Betsy and Holland down the stairs, holding
+the lantern high to give them light.  At the foot of the
+stairs he steps aside, standing near the door of Jessica's
+bedroom.  Betsy and Holland go outside to the garden. 
+Clement is about to follow them when the door to Jessica's
+bedroom opens a few inches.  Alma puts her head out
+cautiously.
+
+               ALMA
+          (whispering)
+     Clement...
+
+Clement goes over to her.
+
+               ALMA (cont'd)
+     I'm going to stay with Miss Jessica
+     -- in case the new Miss takes to
+     roaming again.
+
+               CLEMENT
+          (in a low voice
+          reprovingly)
+     Don't you go crying anymore --
+     that's what frightened Miss Betsy.
+
+               ALMA 
+     Well, she didn't soothe me any --
+     hollering around in the tower!
+
+               CLEMENT
+     Shhh!
+
+EXT. FOUNTAIN -- NIGHT
+
+Holland and Betsy come out of the tower.
+
+               BETSY
+     Why was the maid crying?
+
+               HOLLAND
+     I'm not sure I can make you
+     understand.
+          (gestures toward the
+          fountain statue)
+     You know what this is?
+
+               BETSY
+     A figure of St. Sebastian.
+
+               HOLLAND
+     Yes.  But it was once the
+     figurehead of a slave ship.  That's
+     where our people came from -- from
+     the misery and pain of slavery. For
+     generations they found life a
+     burden. That's why they still weep
+     when a child is born -- and make
+     merry at a burial.
+
+Clement, the lantern still in his hand, passes close behind
+them.  For a moment they turn and look at his black, still
+face, underlit by the rays of the lantern.  It reflects all
+the sadness of slave people and slave ways.  He goes by, the
+lantern light fading off in the distance, as he walks down
+the path.
+
+               HOLLAND (CONT'D)
+     I've told you, Miss Connell, this
+     is a sad place.
+
+                              FADE OUT
+
+FADE IN
+
+INT. BETSY'S BEDROOM - DAY
+
+The birds in the garden are singing loudly and cheerfully and
+the sun pours in wide streaks through the jalousies.  At the
+foot of Betsy's bed Alma stands.  She has lifted the covers
+and holds Betsy's big toe between thumb and forefinger.  She
+shakes it gently.  Betsy wakes.
+
+               ALMA
+     Good morning, miss.
+
+               BETSY
+          (starting to rouse from
+          bed)
+     Thank you for waking me.
+
+               ALMA
+     I didn't want to frighten you out
+     of your sleep, Miss.  That's why I
+     touched you farthest from your
+     heart. 
+
+Betsy starts to get up and Alma protests.
+
+               ALMA (CONT'D)
+     Don't get up, Miss.  I brought your
+     breakfast.  Just like I do for Miss
+     Jessica.
+
+She turns to reveal right and left-handed coffee pots behind
+her on a tray.  Also on the tray is an enormous, puffed-up
+brioche.
+
+               BETSY
+     But I'm Miss Jessica's nurse, Alma. 
+     You don't have to do that for me.
+
+               ALMA
+     I know, miss.  But I like to do it. 
+     I like to tend for Miss Jessica and
+     I want to tend for you.  You settle
+     right back, now, and I'll mix you
+     your coffee.
+
+               BETSY
+          (pulling the pillow up
+          behind her to make
+          herself comfortable)
+     Thank you, Alma.
+
+Alma takes a cup and places it on the little table near the
+bed.  She takes up the two coffee pots and simultaneously,
+with a deft movement, pours the hot milk and the hot coffee
+into the cup.  She sweetens it and creams it and passes it to
+Betsy, questioning Betsy with upraised sugar tongs and cream
+pitcher before each move.
+
+               ALMA
+          (while she's pouring the
+          coffee)
+     Miss Jessica used to say this is
+     the only way for a lady to break
+     her fast -- in bed, with a lacy
+     cushion to bank her head up. If
+     you'd only seen her, Miss Connell.
+     She looked so pretty.
+
+               BETSY
+     She must have been beautiful.  What
+     happened to her, Alma?
+
+               ALMA
+     She was very sick and then she went
+     mindless, Miss.
+
+               BETSY
+          (reassuringly)
+     We'll see if we can't make her
+     well, Alma, you and I.
+
+               ALMA
+     I do my best.  Every day I dress
+     her just as beautifully as if she
+     was well.  It's just like dressing
+     a great, big doll. 
+
+As she talks, Alma picks up the plate with the brioche and
+places it at the bedside.  She puts a knife and fork on the
+plate.  Betsy sets down her coffee cup and picks up the
+plate.
+
+               BETSY
+     What's this?
+
+               ALMA
+     A puff-up, I call it.  But Miss
+     Jessica always says "brioche."
+
+               BETSY
+     Looks like an awful lot of
+     breakfast -- I don't know whether
+     I'll be able to get away with it.
+
+She puts her fork into it and the whole, enormous structure
+of the pastry falls into tiny bits.  Both she and Alma burst
+into peals of laughter.
+
+                              DISSOLVE
+
+INT. FORT HOLLAND LIVING ROOM AND OFFICE -- DAY
+
+This room is fairly long with jalousied doors and windows
+like the other rooms in the house.  It is tastefully
+furnished and there is a large square rosewood piano in one
+corner of the room.  The rather formal elegant furniture
+shows up nicely against the white-washed plaster walls.  At
+one end is a raised portion with a low railing surrounding
+it.  Here Holland has his office.
+
+There is a trestle table with a straight chair behind it,
+typewriter on a stand, and a small wooden filing cabinet with
+an old-fashioned letter-press on top of it.  There is a
+surveyor's map of the plantation on one wall, and on the
+other a Geodetic Survey chart of the island of St. Sebastian. 
+(For 75c, we can purchase the U.S. Geodetic chart of Anacapa
+Island, engraved by Whistler, possibly the most beautiful map
+ever drawn.  We can use this for the map of our fictitious
+island.)  Holland is seated at the table with a ledger open
+before him.  He has obviously been working.  Betsy sits in a
+chair drawn up to one corner of the table.  She is in her
+nurse's uniform.
+
+               HOLLAND
+     I made it clear in my letter to the
+     company.  This is not a position
+     for a frightened girl.
+
+               BETSY
+          (quietly, but on the
+          defensive)
+     I am not a frightened girl.
+
+               HOLLAND
+     That's hard to believe, after what
+     happened last night.
+
+               BETSY
+          (before he can continue)
+     If I were as timid as you seem to
+     think, Mr. Holland, I wouldn't have
+     gone into the tower in the first
+     place.
+
+               HOLLAND
+     And what is so alarming about the
+     tower, Miss Connell?
+
+               BETSY
+          (not so sure of herself)
+     Nothing -- really.  But you must
+     admit it's an eerie sort of place -- 
+     so dark --
+
+               HOLLAND
+          (smiling faintly)
+     Surely nurses aren't afraid of the
+     dark?
+
+               BETSY
+          (indignantly)
+     Of course not!  
+
+Holland waits --- looking at her a little quizzically.
+
+               BETSY (cont'd)
+     But frankly, it was something of a
+     shock to see my patient that way,
+     for the first time.  No one had
+     told me Mrs. Holland was a mental
+     case.
+
+               HOLLAND
+     A mental case?
+
+               BETSY
+     I'm sorry...
+
+               HOLLAND
+          (again the impersonal
+          employer)
+     Why should you be?  My wife is a
+     mental case.  Please keep that in
+     mind, Miss Connell -- particularly
+     when some of the foolish people of
+     this island start talking to you
+     about Zombies.
+
+Paul rises and walks around the desk.  Betsy also stands.
+
+               HOLLAND (cont'd)
+     You will find slave superstition a
+     contagious thing.  Some people let
+     it get the better of them.
+          (breaks off and looks at
+          her intently)
+     I don't think you will.
+
+               BETSY
+     No.
+
+Holland gets up and crosses to the jalousied door.  He holds
+it open for Betsy to precede him into the garden.
+
+               HOLLAND
+     Come along.  I'll introduce you to
+     Dr. Maxwell and your patient. 
+
+INT. JESSICA'S BEDROOM - DAY
+
+It is a beautiful woman's bedroom, feminine but with no
+suggestion of the bagnic; elegant rather than seductive, and
+reflecting a playful yet sophisticated taste.  The furniture
+is Biedermeier.  There is a large bed, a trim chaise lounge,
+a little slipper chair and in one corner of the room, that
+hallmark of great vanity, a triple-screen, full-length
+mirror, also a Biedermeier style.  Before it is a tabouret,
+the surface of which is literally covered with expensive
+looking perfume bottles and cosmetic jars.  Mrs. Holland had
+evidently taken the tasks of beauty seriously enough to stand
+up to them.  There is one picture in the room.  It is
+Boecklin's "The Isle of the Dead," framed in a narrow frame
+of dark wood.  Near the open window stands a beautiful gilt
+parlour harp. (Size 22)  Behind it, arranged conveniently for
+playing, is a small Empire chair.  There is no other
+furniture near this arrangement, and the harp, the empty
+chair and wind-stirred glass curtains give a dual effect of
+elegance and loneliness.
+
+The CAMERA is FOCUSED on this harp as the scene opens.  The
+glass curtains blown by the wind, steal across the strings
+bringing forth tinkling notes.
+
+The CAMERA PANS RIGHT to reveal Betsy and Dr. Maxwell at Mrs.
+Holland's bedside.  Dr. Maxwell is a small, neat man with a
+charming voice and a pleasant but somewhat professional
+personality.  He is dressed in tropical whites and wears a
+cummerbund.  Alma is removing the breakfast tray and, as she
+passes Betsy on her way to the door, she makes a little
+curtsey.  Mrs. Holland is lying back against the pillows on
+her bed in a semi-reclining position. 
+
+In the daylight her emaciated, pale face and great, empty
+eyes are pitiful but no longer frightening.
+
+               DR. MAXWELL
+     I'm afraid it won't be easy for me
+     to explain Mrs. Holland's illness,
+     Miss Connell.  We have our own
+     diseases here.  But, if you'll sit
+     down --
+          (indicates a chair)
+
+Betsy seats herself.  Dr. Maxwell takes a cigarette case from
+his pocket.  He takes a cigarette, holds it up.
+
+               DR. MAXWELL (cont'd)
+     To put it simply:  Mrs. Holland had
+     one of those high fevers often found
+     with our tropical maladies.  We might
+     say that portions of the spinal cord
+     and certain lobes of the mind were
+     burned out by this fever.  The result
+     is what you see -- a woman bereft of
+     will power, unable to speak or even
+     to act by herself.  She will obey
+     simple commands.
+
+               BETSY
+     Does she suffer?
+
+               DR. MAXWELL
+     I don't know.  I prefer to think of
+     her as a sleepwalker who can never
+     be awakened -- feeling nothing,
+     knowing nothing.  
+
+Betsy looks to Jessica.
+
+               DR. MAXWELL (cont'd)
+     There's very little we can do
+     except keep her physically
+     comfortable -- light diet -- some
+     exercise --
+
+               BETSY
+     She can never be cured?
+
+               DR. MAXWELL
+     I've never heard of a cure.
+
+               BETSY
+     Is this disease common in the
+     tropics?
+
+               DR. MAXWELL
+     Fortunately, not.  This is my first
+     experience with it as a physician. 
+     But I have seen half-witted field
+     hands -- whom the other peasants
+     call Zombies.  I am sure they
+     suffer from a similar destruction
+     of spinal nerves as the result of
+     high fever.
+
+He crosses the room and clasps shut the black leather bag in
+which he carries his medicine kit.  Betsy rises and walks
+over to him.
+
+               BETSY
+     Could you give me the details of
+     treatment and diet?
+
+Dr. Maxwell picks up a couple of sheets of typewritten paper
+which have been lying beside the bed.  He hands them to
+Betsy.
+
+               DR. MAXWELL
+     I prepared these for you last
+     night, Miss Connell.
+
+               BETSY
+          (taking the papers)
+     Thank you.
+
+He picks up his bag and walks toward the door.  Betsy walks
+with him.  At the door, he half turns and says:
+
+               DR. MAXWELL
+     I'll be by in a day or so, Miss
+     Connell, and see how you are
+     getting on.
+
+Betsy nods and then turns back into the room.  She walks up
+to the bed and stands looking at Jessica, then down at the
+list of typewritten instructions.  Evidently the list calls
+for her to carry out some detail of the regime, for she puts
+it down and starts out of the room in a businesslike fashion.
+
+                              DISSOLVE 
+
+EXT. FOUNTAIN -- DAY
+
+Holland is standing by the fountain as Betsy comes out of the
+door of the tower and starts to cross the garden.  He turns
+toward her.  She stops and smiles.
+
+               HOLLAND
+     You didn't find your patient so
+     frightening in the daylight, did
+     you?
+
+               BETSY
+     Mrs. Holland must have been
+     beautiful ---
+
+               HOLLAND
+          (coldly)
+     Many people thought her beautiful. 
+
+Betsy is about to pass on when he asks abruptly:
+
+               HOLLAND (CONT'D)
+     Tell me, Miss Connell. Do you
+     consider yourself pretty?
+
+Betsy is a little taken aback by this, but she recovers
+herself.
+
+               BETSY
+     I suppose so.  Yes.
+
+               HOLLAND
+     And charming?
+
+               BETSY
+     I've never given it much thought.
+
+               HOLLAND
+     Don't.  It will save you a great
+     deal of trouble and other people a
+     great  unhappiness.
+
+Betsy is puzzled and interested.  She stands a moment and
+then starts off.
+
+                              FADE OUT
+
+FADE IN
+
+EXT. THE VILLAGE OF ST. SEBASTIAN -- DAY
+
+Betsy, out of her customary uniform and dressed in a light
+colored print dress and a straw picture hat, is walking
+slowly and a little aimlessly down one of the village
+streets.
+
+               RAND'S VOICE
+     Betsy!
+
+Betsy turns, as she hears her name, and sees Rand, mounted on
+a white saddle mule.  (The mule is one of those delicate,
+single footed saddle animals which they breed in Central
+America and the West Indies, very smart-looking and with good
+furniture.  The saddle should be particularly well-chosen. 
+Most West Indian planters use an English saddle with long
+stirrups.  Sometimes a machete in a leather scabbard hangs
+from the near side of the saddle.)  He maneuvers the mule
+between a cart and a vendor balancing two baskets on a pole
+over his shoulders, then brings the animal to a halt beside
+her.
+
+               RAND
+     Where do you think you're going?
+
+               BETSY
+     It's my day off.
+
+               RAND
+     But what in the world can you do
+     with a day off in St. Sebastian?
+
+               BETSY
+          (a little ruefully)
+     I was just beginning to wonder. 
+     Aren't there shops, restaurants and
+     things?
+
+               RAND
+     Well -- and things -- might be a
+     better description of what you'll
+     find.  I'd better come along and
+     show you the town.
+
+Rand swings down off the mule and takes the reins to lead the
+animal.
+
+               BETSY
+          (very pleased)
+     But don't you have to work?
+
+               RAND
+          (grinning)
+     By a curious coincidence, it's my
+     day off, too.
+
+                              DISSOLVE OUT
+
+DISSOLVE IN
+
+EXT. STREET CORNER - ST. SEBASTIAN -- DAY
+
+A Calypso singer with a guitar slung around his shoulder,
+lounges against the corner of a building, singing to a small
+audience of loiterers.  He has a derby hat in front of him
+with one or two coins in it.
+
+EXT. CAFE -- ST. SEBASTIAN -- DAY
+
+Around the corner from the Calypso singer is a cafe.  On the
+roadway in front of it, under a tattered awning, two or three
+tables have been set out.  At one of these sit Betsy and
+Rand.  At another, two white planters in work clothing are
+having a drink of beer.
+
+Behind them, leaning against the wall, stands the proprietor,
+a Negro in duck trousers and duck coat, with an apron tied
+around his middle.  Betsy has tea in front of her and Rand, a
+Planter's Punch.  As we see them, she is just laughing at
+something he has said.  He is finishing his drink.  Rand sets
+down his glass and gestures to the proprietor.
+
+               RAND
+          (very jovially to the
+          proprietor)
+     Bring me another, Ti-Joseph.  I
+     have to keep the lady entertained.
+
+               BETSY
+     It must be hard work entertaining
+     me if it requires six ounces of
+     rum.
+
+               RAND
+     What in the world are you talking
+     about?  Six ounces -- ?
+
+               BETSY
+     Higher mathematics.  Two ounces to
+     a drink -- three drinks, six
+     ounces.
+
+               RAND
+     How do you know there's two ounces
+     in a drink?
+
+               BETSY
+     I'm a nurse.  I always watch people
+     when they pour something.  I
+     watched Ti-Joseph and it was
+     exactly two ounces.
+
+At this moment a new Calypso song starts.
+
+               SINGER
+          (sings)
+     There was a family that lived on the isle
+     Of Saint Sebastian a long, long while  
+     The head of the family was a Holland man
+     And the younger brother, his name was Rand 
+
+Betsy's attention is caught by the song.  Rand evidently
+knows the song, because he begins talking at random, trying
+to distract her.
+
+               RAND
+     Listen, did I tell you that story
+     about the little mule at the
+     plantation -- the little mule and
+     Clement?  Let me tell you.  It's
+     one of the funniest stories --
+
+               BETSY
+          (putting a restraining
+          hand on his arm)
+     Wait. I want to listen.
+
+We hear the guitar music without singing, as the Calypso
+singer plays a few measures to bridge the first and second
+verses.  Ti-Joseph comes up to the table with Rand's drink. 
+Rand makes a motion to him indicating the corner around which
+the Calypso singer is standing.  Ti-Joseph gets the idea and
+goes off instantly.
+
+MED. CLOSE SHOT -- Calypso singer.
+
+               CALYPSO SINGER
+      The Holland man, he kept in a tower  
+     A wife as pretty as a big white flower
+     She saw the brother and she stole his heart...
+
+Ti-Joseph comes in and, while the singer goes on with his
+song, whispers in his ear.  The Calypso singer stops
+immediately.  He looks frightened and guilty.  Ti-Joseph
+turns and goes around the corner to his cafe.  The Calypso
+singer addresses one of the people in the little group before
+him.
+
+               CALYPSO SINGER (cont'd)
+     Ti-Malice trip up my tongue -- What
+     do you wish trouble on me for --
+     You saw Mister Rand go in there. 
+     Why don't you tell me?
+
+The colored man he is addressing just dumbly shakes his head.
+
+               CALYPSO SINGER (cont'd)
+     Apologize -- that's what I'll do. 
+     Creep in just like a little fox and
+     warm myself in his heart.
+          (placatingly but to
+          himself)
+     Good Mister Rand!
+
+The other negro just dumbly shakes his head again.  The
+Calypso singer puts his idea instantly into action, starting
+off around the corner.
+
+EXT. CAFE -- DAY
+
+Rand has finished the drink which Ti-Joseph had just brought
+him and is motioning to Ti-Joseph to bring him another,
+making a gesture with the glass in his hand.
+
+               BETSY
+          (evidently continuing what
+          she has been saying)
+     That's carrying free speech a
+     little too far!  I wouldn't have
+     listened, Wes, if I had realized --
+
+The Calypso singer comes in and stands humbly beside the
+table.
+
+               CALYPSO SINGER
+          (with a little bow in the
+          Haitian manner; one hand
+          in front of the stomach
+          and the other hand at the
+          small of his back)
+     Mr. Rand? 
+
+Rand looks up at him.
+
+               CALYPSO SINGER (cont'd)
+     I've come to apologize.
+
+               RAND
+          (curtly)
+     All right.
+
+               CALYPSO SINGER
+          (with another quaint bow)
+     Just an old song I picked up
+     somewhere. Don't know who did make
+     it up.
+
+               RAND
+          (growing exasperated)
+     All right. All right.
+
+               CALYPSO SINGER
+     Some of these singers on this
+     island, they'd tattle-tale on
+     anybody.  Believe me, Mister Rand,
+     I never would sing that song if I'd
+     known you were with a lady.
+
+               RAND
+          (jumping up, furious)
+     Get out of here!
+
+He starts to rise.  Betsy restrains him.  The Calypso singer
+runs off a few feet, makes his little polite bow again, and
+the vanishes.  Rand stands practically shaking with rage. 
+Betsy forces him into a chair.
+
+               BETSY
+     Don't let it bother you so, Wes.
+
+               RAND
+     Did you hear what he sang?
+
+Betsy is spared the embarrassment of replying when Ti-Joseph
+brings the drink that Rand ordered.  Rand gulps thirstily at
+it, then looks at Betsy, half-defiantly, half-mockingly.
+
+               RAND (cont'd)
+     Shocked?
+
+               BETSY
+          (sincerely)
+     I wish I hadn't heard --
+
+               RAND
+     Why?  Everybody else knows it. 
+     Paul saw to that.  Sometimes I
+     think he planned the whole thing
+     from the beginning -- just to watch
+     me squirm.
+
+               BETSY
+          (quietly)
+     That doesn't sound like him.
+
+               RAND
+     That's right -- he's playing the
+     noble husband for you, isn't he? 
+     That won't last long.
+
+               BETSY
+     I'd like to go now, Rand.  Would
+     you mind taking me home?
+
+               RAND
+          (ignoring her, speaking a
+          little drunkenly)
+     One of these days he'll start on
+     you, the way he did on her.  
+          (imitating)
+     "You think life's beautiful, don't
+     you, Jessica?  You think you're
+     beautiful, don't you, Jessica?" 
+          (bitterly)
+     What he could do to that word
+     "beautiful." That's Paul's great
+     weapon -- words.  He uses them the
+     way other men use their fists. 
+
+Rand finishes his drink.  Betsy watches him, her face deeply
+troubled.
+
+                              DISSOLVE 
+
+EXT. THE CAFE - NIGHT
+
+CAMERA IS FOCUSED ON a ragged, barefooted lamplighter.  He is
+lighting one of the crude kerosene street lamps of St.
+Sebastian with a long taper on the end of the stick.  When it
+finally lights up he lowers the glass chimney with another
+stick he carries.
+
+From the beach comes the sound of a guitar and a man singing. 
+It is very faint, at first, but as it comes closer we can
+recognize the voice of the Calypso singer and the melody he
+was singing when Rand interrupted him.
+
+The CAMERA PANS OVER to show Rand and Betsy still sitting in
+Ti-Joseph's sidewalk cafe.  Rand has slumped down in his
+chair, thoroughly drunk.  Ti-Joseph stands, arms folded,
+leaning in the darker shadows of the wall.  Betsy looks off
+in the direction of the singing, a little anxiously.
+
+               CALYPSO SINGER
+          (faint, but growing
+          stronger)
+     She saw the brother and she stole his heart
+     And that's how the badness and the trouble start    
+     Ah woe, ah me
+     Shame and sorrow for the fam-i-ly
+
+Betsy leans over and touches Rand's arm.
+
+               BETSY
+     Wes.  Wesley -- it's time we were
+     starting home.
+
+Rand makes some meaningless mumble of words.
+
+               CALYPSO SINGER
+     The wife and the brother, they want to go, 
+     But the Holland man, he tell them "no."
+
+As Betsy stares nervously into the shadows beyond the street
+lamp, she sees the figure of the Calypso singer, moving
+slowly towards her as he sings.
+
+               CALYPSO SINGER (cont'd)
+     The wife fall down and the evil came 
+     And it burned her mind in the fever flame.
+
+Betsy shakes Rand urgently.
+
+               BETSY
+     Please, Wes -- we've got to get
+     back to Fort Holland.
+
+There is no movement, no sound from Rand.  Betsy looks at
+him, then looks over at Ti-Joseph.  There does not seem to be
+much help to be had in that direction.  Really frightened
+now, she turns back quickly to the approaching Calypso
+singer.  He never takes his eyes off her, as he walks slowly
+toward the cafe.  There is a strange menace in the way he
+sings.
+
+               CALYPSO SINGER
+      Her eyes are empty and she cannot talk 
+     And a nurse has come to make her walk. 
+     The brothers are lonely and the nurse is young
+     And now you must see that my song is sung. 
+
+The Calypso singer is now coming directly to the table. 
+Instinctively, Betsy rises and moves behind the table.
+
+               CALYPSO SINGER (cont'd)
+          (walking very slowly,
+          singing very slowly)
+      Ah, woe, Ah me
+     Shame --
+
+He stops abruptly.  In the silence footsteps are heard, light
+brisk footsteps coming down the street toward the cafe.  The
+Calypso singer looks away from Betsy for the first time. 
+As Betsy also turns, in great relief, to see who is coming,
+the Calypso singer moves quickly and silently out of the
+scene.  A middle-aged white woman, handsome and neatly
+dressed in a suit with a Norfolk jacket, appears in the
+entrance of the cafe.  She glances briefly in the direction
+which the Calypso singer has taken and then at Betsy and
+Rand.  She smiles in a friendly way at Betsy.
+
+               MRS. RAND
+     I think you need some help.
+
+               BETSY
+     I'm afraid so.
+
+               MRS. RAND
+     Ti-Joseph?
+
+The older woman looks over at Ti-Joseph.
+
+               MRS. RAND (CONT'D)
+     Ti-Joseph, get Mr. Rand on to his
+     mule, please, and start him for
+     home.
+
+Ti-Joseph comes down and starts to put his hands under Rand's
+armpits preparatory to helping him to his feet.
+
+               TI-JOSEPH
+     Yes, ma'am.
+
+               BETSY
+          (protesting)
+     But he's in no condition to ride -- 
+     I don't think he can even sit in
+     the saddle.
+
+               MRS. RAND
+     Don't worry about a sugar planter. 
+     Give him a mule and he'll ride to
+     his own funeral.
+
+Ti-Joseph gets Rand to his feet and helps him stagger around
+the corner.  From around the corner we can hear Ti-Joseph
+bellowing.
+
+               TI-JOSEPH
+     Hey, boy!  Bring up that mule --
+     that white mule, boy.
+
+Mrs. Rand turns to Betsy.
+
+               MRS. RAND
+     I really intended going out to the
+     Fort and meeting you long before
+     this, Miss Connell.  I'm Mrs.  
+     Rand -- Wesley's mother.
+
+               BETSY
+          (dismayed)
+     Oh, Mrs. Rand --
+
+               MRS. RAND
+          (interrupting)
+     Come, come, don't tell me how sorry
+     you are that I should meet you this
+     way.
+          (puts out her hand)
+     I'm even a little glad that
+     Wesley's difficulty brought us
+     together.
+
+Betsy takes the older woman's hand and they shake hands.
+
+               BETSY
+     Believe me, Mrs. Rand, he doesn't
+     do this often. This is the first
+     time I've seen him --
+
+               MRS. RAND
+     Nonsense, child!  I know Wesley's
+     been drinking too much lately.  I
+     know a great deal more about what
+     goes on at Fort Holland than you'd
+     think.  I know all about you --
+     that you're a nice girl, competent
+     and kind to Jessica.  The Fort
+     needs a girl like you. 
+          (breaking her mood)
+     But now we've got to get you back
+     there.  I'll walk you back and stay
+     over night.  It'll be a nice change
+     for me.
+
+She takes Betsy's arm and they start off.
+
+The CAMERA DOLLIES WITH them as they cross the space under Ti
+Joseph's awning.
+
+               BETSY
+     Thank you, Mrs. Rand.  I think
+     you're every bit as nice as Wes
+     says you are.
+
+               MRS. RAND
+     So -- he says I'm nice.  He's a
+     nice boy, too, Miss Connell, a very
+     nice boy.  But I'm worried about
+     his drinking. 
+
+She pauses in her speech, stops for a moment at the very edge
+of Ti-Joseph's domain and takes Betsy's arm.
+
+               MRS. RAND (cont'd)
+     You could do me a great favor.
+
+               BETSY
+          (eagerly)
+     I'd love to.
+
+               MRS. RAND
+     Use your influence with Paul.  Ask
+     him to take that whiskey decanter
+     off the dinner table.
+
+               BETSY
+          (protesting)
+     I've no influence with Mr. Holland.
+
+               MRS. RAND
+     Try it -- you may have more
+     influence than you think.
+
+                              FADE OUT
+
+FADE IN
+
+EXT. GARDEN -- FORT HOLLAND -- DAY
+
+Holland is walking down the path from the office toward the
+gate.  He is carrying a piece of sugar cane in his hand and
+is followed by a negro laborer in working clothes, who has
+several other pieces of cane in his arms.  They are talking
+as they walk.
+
+               HOLLAND
+          (over his shoulder as they
+          walk)
+     No. It isn't a drought, Bayard. 
+     The rains are just a little late,
+     that's all.
+
+               BAYARD
+     I've seen the drought before, Mr.
+     Holland. The cane's too dry -- it's
+     dangerous that way -- it's the
+     drought.
+
+Betsy comes across the garden with a tray of medicine bottles
+in her hands and several linen sheets folded over her arm. 
+She meets the two men at the path intersection.
+
+               HOLLAND
+     Good morning, Miss Connell.
+
+               BETSY
+     Good morning.
+
+He waves Bayard on and stops for a moment to speak with
+Betsy.
+
+               HOLLAND
+     I heard about your little
+     misadventure yesterday, Miss
+     Connell.  
+          (with a smile)
+     On your first "day off," too.
+
+               BETSY
+     Well, I had a good time up to a
+     point.
+
+               HOLLAND
+          (sincerely)
+     Wesley can be very entertaining.
+
+               BETSY
+          (encouraged by his tone)
+     Yes, he can.  But I've been
+     wondering -- you know if you could
+     leave the whisky decanter off the
+     table --
+
+               HOLLAND
+     It's always stood there, Miss
+     Connell.  I can remember it in my
+     grandfather's time and my father's. 
+     I'm afraid it will have to remain.
+
+               BETSY
+     But for Wes -- it must be a
+     temptation to him.  
+
+               HOLLAND
+     I've no sympathy with people who
+     can't resist temptation.
+
+               BETSY
+     Still, I feel you should remove the
+     decanter.  Wes is not an alcoholic
+     yet, Mr. Holland. But as a nurse I can 
+     tell you that it won't be long before he is.
+
+               HOLLAND
+          (coldly)
+     I'm afraid the decanter will have
+     to stay where it is.  I engaged
+     you, Miss Connell, to take care of
+     my wife, not my brother.  
+
+They look at each other for a moment, then Betsy turns and
+walks off without a word.  Holland turns to rejoin Bayard at
+the gate.
+
+                              DISSOLVE
+
+EXT. TERRACE -- DINING TABLE -- NIGHT
+
+It is a hot, windy night.  The bushes in the garden move
+violently with the gusts of wind.  Even protected as they are
+by the great glass hurricane lamps, the candle flames that
+light the table are agitated and stir restlessly.  Tonight
+there are four people at dinner, Holland, Rand, Betsy, in a
+simple print dress, and Jessica, in a lovely evening gown
+that leaves her shoulders and arms bare.  They have finished
+the first portion of their meal and Clement is taking off the
+soup plates.  Somewhere off in the hills there is the
+ululating sounds of a great sea conch being blown.
+
+               BETSY
+     You don't seem very disturbed by
+     it.  I've always thought Voodoo was
+     something to be scared of: the
+     drums sounded in the hills and
+     everybody was frightened.
+
+               HOLLAND
+     I'm afraid it's not very
+     frightening.  They have their songs
+     and dances and carry on and
+     finally, as I understand it, one of
+     the gods comes down and speaks
+     through one of the people.
+
+               RAND
+     For some reason, they always seem
+     to pick a night like this.  This
+     wind even sets me on edge.
+
+He reaches out with his hand and then looks around the table. 
+It is obvious something is missing.  Both Betsy and Holland
+notice his half-gesture.  Betsy glances at Holland.  He
+smiles and nods.  
+
+               RAND (CONT'D)
+     Clement. 
+
+Clement, busy at the sideboard, looks around toward him.
+
+               RAND (cont'd)
+     You've forgotten the decanter.
+
+               HOLLAND
+     I think from now on, Wes, we'll try
+     serving dinner without it.
+
+               RAND
+     Oh, I see.  The lord of the manor
+     has decided to abolish one of the
+     tribal customs.
+
+Holland makes no answer.  The conches blow wildly in the
+hills and a flurry of wind sweeps the garden.
+
+               RAND (cont'd)
+     An economy move, I suppose.  Or,
+     perhaps, Paul, you decided on a
+     finer moral standard for our happy
+     little household, now that Miss
+     Connell is with us.
+
+Holland still keeps his silence, although the muscles in his
+jaw twitch.
+
+               RAND (cont'd)
+     What are you trying to do, impress
+     her?
+
+               HOLLAND
+     Let's drop it now, Wes.  We can
+     talk about it later if you want.
+
+Rand glowers at him and makes no immediate answer.  A great
+gust of wind blows across the garden.  The candle flames
+level out in one direction and then the other.
+
+               RAND
+     But I want to talk now.  Why have
+     you decided to take the whiskey off
+     the table?  What's behind it?  What
+     nice, sadistic little plot is
+     brewing this time, Paul?
+
+               HOLLAND
+          (with a glance at Betsy)
+     Let's not discuss it, Wes.
+
+The conches sound again in the hills, wildly and yet
+monotonously.
+
+               RAND
+          (with great sarcasm)
+     Let's not quarrel before the
+     ladies.  Let's be reserved and
+     gentlemanly.
+          (jumping to his feet)
+     You were so gentlemanly when you
+     drove Jessica insane -- so polite
+     when you made her into that!
+
+He subsides in his chair, shaken, entirely out of control. 
+He doesn't look at Holland, nor at Betsy but at Jessica. 
+They sit there for a moment in complete silence.  Then
+Holland, obviously holding in his temper, rises and says:
+
+               HOLLAND
+     Miss Connell, I think it would be
+     best if I had Clement bring the
+     rest of your dinner to your room.
+
+He turns and goes into the living room.  Betsy also starts to
+rise.  Rand still stares at Jessica.
+
+                              DISSOLVE
+
+INT. BETSY'S BEDROOM -- NIGHT
+
+The room is in darkness.  Betsy stands leaning against one of
+the jalousies, looking out through the slit between two
+panels.  Over the scene comes the sad, masculine sorrow of
+the Liebestod.  It is being played well and forcefully on the
+piano in the living room.
+
+INT. LIVING ROOM -- NIGHT
+
+From her window Betsy can see Holland playing the piano.
+
+INT. BETSY'S BEDROOM -- NIGHT
+
+Betsy stands watching him.  Then suddenly, as if compelled,
+she leaves the window, opens the jalousied door and goes
+quickly out into the garden.
+
+INT. LIVING ROOM -- NIGHT
+
+Holland is still playing.  The sound of the door opening is
+heard.  It startles him and he turns toward the sound.  He
+sees Betsy and rises to face her as she steps into the room.
+
+               BETSY
+     I heard you playing. 
+
+               HOLLAND
+          (trying to hide behind
+          brittleness)
+     I often do.
+
+               BETSY
+          (disregarding his remark)
+     I know what you went through
+     tonight.  I kept thinking of what
+     you said: that all good things died
+     here, violently. 
+
+               HOLLAND
+     Why did you come in here?
+
+               BETSY
+     I don't know.  I wanted to help
+     you. And now that I'm here, I don't
+     know how.
+
+Holland comes close to her and looks down into her eyes.
+
+               HOLLAND
+          (with unexpected
+          sincerity)
+     You have helped me.  I want you to
+     know I'm sorry I brought you here.
+     When I thought of a nurse, I
+     thought of someone hard and
+     impersonal.
+
+               BETSY
+          (looking past him into the
+          garden)
+     I love Fort Holland.
+
+               HOLLAND
+     What you saw tonight -- two
+     brothers at each other's throat and
+     a woman driven mad by her own
+     husband?  Do you love that?
+
+               BETSY
+     You didn't drive her mad.
+
+               HOLLAND
+     Didn't I?  I don't know.  That's
+     the simple truth of it.  I don't
+     know.
+
+Betsy shakes her head and moves closer to him.  Her face,
+upturned to his, is filled with pity.
+
+               HOLLAND (cont'd)
+     Before Jessica was taken ill, there
+     was a scene.  An ugly scene.  I
+     told her I wouldn't let her go,
+     that I'd hold her by force if
+     necessary.
+
+Betsy puts her hand on his arm, in an instinctive gesture of
+sympathy and comfort.  Holland looks down at her hand and
+then, searchingly, into her face.
+
+               HOLLAND (cont'd)
+     You wouldn't understand that kind
+     of love.  You never knew Jessica as
+     she was.  Beautiful, restless,
+     willful -- living in a world with
+     room for nothing but her own image
+     and her own desires.
+
+Betsy gently draws her hand away.  She watches his face, lost
+in remembering.
+
+               HOLLAND (cont'd)
+     She promised so much -- warmth and
+     sweetness...she promised --
+
+In the hills the conches blow wildly, echoing and answering
+each other from every direction.  For a brief moment, the
+noise is so loud Holland could not speak if he wanted to and
+then, when he can, and does, his voice has changed entirely. 
+It is cold.  It cuts between him and Betsy like a sword.
+
+               HOLLAND (CONT'D)
+     I think it may be best for all of
+     us not to discuss this again. 
+     Thank you -- I know you meant to be
+     kind.
+
+                              DISSOLVE 
+
+EXT. FOUNTAIN -- NIGHT
+
+Betsy stands looking into the dark cistern.  The wind still
+blows and the conches are sounding from the hills.  But the
+noise of the water flowing over the shoulders of St.
+Sebastian can be heard above these other sounds.  The iron
+arrows in his breast glisten.
+
+               BETSY
+          (narrating)
+     I don't know how their own love is
+     revealed to other women -- maybe in
+     their sweethearts' arms -- I don't
+     know.  To me it came that night
+     after Paul Holland almost thrust me
+     from the room, and certainly thrust
+     me from his life. I said to myself,
+     "I love him."  And even as I said
+     it, I knew he still loved his wife. 
+     Then because I loved him, I felt I
+     had to restore her to him -- to
+     make her what she had been before --
+     to make him happy.
+
+As the narrator's voice ceases, the CAMERA HOLDS ON that
+small, silent figure before the fountain.
+
+                              FADE OUT
+
+FADE IN
+
+INT. MRS. HOLLAND'S BEDROOM -- DAY
+
+Jessica is seated before the triptych mirror, facing it
+blankly.  At the other end of the room stand Betsy and Dr.
+Maxwell.  Paul, his back to the window, faces them.
+
+               HOLLAND
+     All that you say comes down to the
+     same thing.  You are asking me to
+     pass a sentence of life or death on
+     my own wife.
+
+               DR. MAXWELL
+     Insulin shock treatment is an
+     extreme measure, Mr. Holland.   
+     But -- as Miss Connell pointed out
+     when she suggested it -- this is an
+     extreme case.
+
+               HOLLAND
+          (to Betsy)
+     You admit that it is terribly
+     dangerous. Why do you advise it?
+
+               BETSY
+     I've worked with it.  I've seen
+     cures. It is at least a hope.
+
+               DR. MAXWELL
+     It's the very danger itself that
+     makes the cure possible, Mr.
+     Holland.  The insulin produces a
+     state of coma, a stupor.  The
+     patient is revived from the coma by
+     a violent overwhelming nerve shock.
+     That nerve shock can kill -- but it
+     can also restore the damaged mind.
+
+               HOLLAND
+     I don't know -- I don't know--
+
+               DR. MAXWELL
+          (sympathetically)
+     It is a hard decision to make --
+     but yours is only a technical
+     responsibility...
+
+               HOLLAND
+     Technical responsibility, real
+     responsibility -- what difference
+     does it make?
+          (turns back to face them)
+      Jessica lives -- or she dies. 
+     That's what we're talking about! 
+
+Betsy turns and looks across the room to where Jessica sits
+motionless before the mirror.
+
+               BETSY
+     You are wrong, Mr. Holland.
+
+She turns back to face him.
+
+               BETSY (cont'd)
+     It is not a question of life or
+     death.  Your wife is not living. 
+     She is in a world that is empty of
+     joy or meaning.  We have a chance
+     to give her life back to her. 
+
+Holland stares at her.  He turns to the window and stands for
+a moment with his back to the room.
+
+                              DISSOLVE 
+
+OMITTED
+
+INT. ARCHED DOORWAY OF MRS. HOLLAND'S BEDROOM -- NIGHT
+
+Through the doorway we see the enormous shadows of Betsy and
+Dr. Maxwell on the wall as they work over their patient. 
+We hear the murmur of their voices although we cannot hear
+what they are saying.  In the doorway itself, leaning against
+the wall looking toward the room expectantly, anxiously, is
+Holland, half hidden in the shadows of the arch.  The shadows
+on the wall straighten up.  We see Betsy in shadow drawing
+her hand wearily across her forehead.  Still in shadow, she
+turns toward the door, her shadow grows enormous as she comes
+toward the source of light.
+
+As Betsy comes under the arch, Holland moves to meet her. 
+She turns to him.
+
+               HOLLAND
+          (tensely)
+     Well?
+
+               BETSY
+     She is alive, Mr. Holland -- that's
+     all.
+
+There is a little pause.  Then Betsy looks at Holland, her
+eyes glistening with tears.  Betsy turns away slightly,
+closing her eyes for a moment to steady herself.  Holland
+puts his hands on her shoulders and turns her back to face
+him.
+
+               HOLLAND
+          (gently)
+     Don't take it to heart, Betsy.
+
+               BETSY
+     I imagined this so differently...
+
+Holland takes his hand from her shoulders.
+
+               HOLLAND
+     I've been waiting here for hours,
+     trying to imagine Jessica well
+     again -- wondering what I'd feel. 
+     I could see Jessica as she used to
+     be, I could hear her say in that
+     sweet mocking voice, "Paul,
+     darling..."  The whole thing
+     beginning all over again...
+
+               BETSY
+          (dully)
+     And instead,  I came -- bringing
+     you nothing.
+
+               HOLLAND
+          (slowly looking down at
+          her)
+     Instead -- you come, with sympathy,
+     Betsy, and a generous heart. 
+     Don't forget that.  Don't call it
+     nothing.
+
+Betsy turns wearily and returns to the sick room.  Holland is
+about to follow her when he hears a low chuckle and turns to
+see who it is.
+
+INT. THE PASSAGE TO THE TOWER DOOR AS SEEN FROM JESSICA'S
+ROOM -- DAY
+
+A few feet from Holland, leaning against the wall, is Rand. 
+He has evidently been there some time.  He is not drunk, but
+it is obvious he has been drinking.  Holland walks down the
+short corridor toward him.
+
+               RAND
+     Very sad, very sweet.  The noble
+     husband and the noble nurse
+     comforting each other -- because
+     the patient still lives.  I've been
+     imagining too, Paul.  You didn't
+     think of that, did you?  I saw
+     Jessica coming across the garden, I
+     heard her voice.  
+
+THERE ARE TWO PAGES MISSING AT THIS POINT WHERE PAUL AND
+WESLEY END THEIR CONVERSATION.  THE SCRIPT PICKS UP IN THE
+MIDDLE OF THE NEXT SCENE JUST AFTER ALMA'S SISTER HAS VISITED
+WITH HER BABY.
+
+               BETSY
+     I suppose not.
+
+               ALMA
+     Things so bad, nobody can help --
+     not even Doctor Maxwell.
+
+               BETSY
+     Doctors and nurses can only do so
+     much, Alma.  They can't cure
+     everything.
+
+               ALMA
+     Doctors that are people can't cure
+     everything.
+
+               BETSY
+          (with a puzzled look)
+     What do you mean -- "doctors that
+     are people"?
+
+               ALMA
+          (slowly, almost sing-song)
+     There are other doctors...Yes,
+     other doctors...Better doctors...
+
+               BETSY
+     Where?
+
+               ALMA
+     At the Houmfort.
+
+               BETSY
+          (shaking off the idea)
+     That's nonsense, Alma.
+
+               ALMA
+     They even cure nonsense, Miss
+     Betsy.  Mama Rose was mindless.  I
+     was at the Houmfort when the
+     Houngan brought her mind back. 
+
+               BETSY
+     You mean Mama Rose was like Mrs.
+     Holland?
+
+               ALMA
+     No.  She was mindless but not like
+     Miss Jessica.  But the Houngan
+     cured her.
+
+               BETSY
+     Are you trying to tell me that the
+     Houngan -- the voodoo priest --
+     could cure Mrs. Holland?
+
+               ALMA
+     Yes, Miss Betsy.  I mean that.  The
+     Houngan will speak to the rada
+     drums and the drums will speak to
+     Shango and Damballa. 
+
+The CAMERA MOVES IN to a CLOSE TWO SHOT of both women's
+faces,  Betsy looking thoughtfully at Alma and Alma returning
+the gaze with equal intensity.
+
+               ALMA (CONT'D)
+          (softly)
+     Better doctors --
+
+                              DISSOLVE 
+
+INT. THE DISPENSARY - DAY
+
+This is a small, plainly furnished room with a plain table, a
+few bentwood chairs and a medicine cabinet and a few
+washbasins and water pitchers on a shelf.  Mrs. Rand is
+kneeling down at the side of the little, black pickaninny,
+rubbing ointment on a sore on his chest.  Betsy, in street
+clothes, watcher her.  Mrs. Rand finishes her work on the
+little boy's chest and begins to put his little shirt back on
+him.  An obeah bag tied around his neck on a string gets in
+her way as she tries to button the shirt.  She holds it up so
+that the little boy can see it.
+
+               MRS. RAND
+     Ti-Peter, how do you ever expect to
+     get to Heaven with one foot in the
+     voodoo Houmfort and the other in
+     the Baptist church?  
+
+The little black boy looks at her with rolling eyes but does
+not answer.  She gives him a playful pat on the behind,
+starting him on his way to the door.
+
+               MRS. RAND (CONT'D)
+          (to Betsy, cheerfully)
+     Some of this native nonsense. The
+     Houngan has his prescription and
+     Dr. Maxwell and I have ours.
+
+               BETSY
+     You've never said anything about
+     voodoo before, Mrs. Rand.
+
+               MRS. RAND
+     Haven't I?  I suppose I take it for
+     granted. It's just part of everyday
+     life here.
+
+               BETSY
+     You don't believe in it?
+
+               MRS. RAND
+     A missionary's widow?  It isn't
+     very likely, is it?
+
+               BETSY
+     I don't mean believe, like
+     believing in a religion.  I mean,
+     do you believe it has power?  Do
+     you think it could heal a sick
+     person?
+
+               MRS. RAND
+          (looking hard at Betsy for
+          a moment)
+     Frankly, my dear, I didn't expect
+     anything like this from a nice
+     level-headed girl.  What are you
+     driving at?
+
+               BETSY
+     I heard the servants talking about
+     someone called Mama Rose. They said
+     she had been "mindless"...
+
+               MRS. RAND
+     Her son drowned.  She brooded until
+     her mind was affected. All the
+     Houngan did was coax her out of it
+     with a little practical psychology.
+
+PAGES ARE MISSING AT THIS POINT AS BETSY AND
+JESSICA LEAVE FORT HOLLAND AND TRAVEL ACROSS THE SUGAR CANE
+FIELDS TO THE HOUMFORT
+
+EXT. THE HOUMFORT - NIGHT
+
+LONG SHOT.  The camera is behind Betsy and Jessica as they go
+toward the Houmfort through the sugar cane.  We see this
+voodoo temple as they go toward it.  It is a rickety
+structure of poles and laths, roofed over with a thin thatch
+of sugar cane and straw.  It forms a sort of rude pergola. 
+In the center of this structure is a small, cubicle hut, made
+of rough boards but neatly whitewashed.  From the rafters of
+the main structure hang crude chandeliers of tin which give
+light to the ceremonies.
+
+(Please see pages 28 to 31, Life Magazine, December 13, 1937. 
+All the details mentioned above are graphically illustrated,
+
+Near the little hut in the center of the Houmfort, stands an
+altar covered with a lace tablecloth and littered with a
+childish jumble of plates, candles, little colored stones and
+bottles.  Before this altar stands the Houngan, the high
+priest of the voodoo ceremonies, a small, stoop-shouldered
+man in a worn, white coat and trousers with ragged cuffs. 
+Several mild-looking negroes in white trousers and shirts sit
+in kitchen chairs on one side of the altar with rada drums
+between their knees.  Grouped around this altar in a loose
+semicircle are the worshippers, a group of mild-mannered,
+poorly-but-neatly-dressed negroes.  They seem to have made an
+effort to dress in their best and their best is very poor
+indeed.    As Betsy approaches, she can see familiar faces. 
+As she comes up they turn and look at her.  They are not
+hostile nor greatly surprised; just mildly curious.  Leading
+Jessica by the hand, Betsy takes her place at one end of the
+semicircle around the altar.  Her arrival has in no way
+interrupted the ceremonies.  The Houngan continues to chant
+before the altar, the rada drums beat and the crowd sings the
+chorus of the Shango song at the proper intervals.  It is all
+very decorous and decidedly religious in tone.  No sooner has
+Betsy taken her place with the others than the Shango ritual
+approaches its climax.  The Sabreur, a colored man dressed in
+white shirt and trousers, with a neat dark tie knotted under
+his collar, comes in, bearing a sabre in his right hand,
+holding it in stately, almost processional manner.  He
+advances to the altar, strikes it three times and at this
+signal two colored women dressed in white beguine dresses
+with square cut necks, an essential part of this religious
+costume, come forward.  One holds a white leghorn chicken and
+the other carries a white rooster. They come together to the
+altar and for a moment, the figures of the Houngan, the
+Sabreur and the two Mam-Lois hide the actual blood sacrifice
+from us.  Only the fact that the drumming and the singing
+reach a climactic pitch reveal that some Important portion of
+the ceremony has taken place.  Instantly the drumming and the
+singing stops.  A young colored girl jumps up from her seat
+among the worshippers and begins shivering and quaking,
+crying out wordlessly.  There is a cry from the people.
+
+               THE PEOPLE
+     Put the god in her! Put the god in
+     her!
+
+The Houngan prances forward, followed by the Sabreur. The
+Houngan holds a little saucer in his hand with some dark
+liquid at the bottom of it.  He dips four fingers into this
+liquid while the girl quivers and writhes before him in
+religious ecstasy.  He marks her forehead with four strange
+marks, one with each finger.  The Sabreur, crying out the
+name of Shango, four times, points his sabre to the four
+directions of the compass. There is an immediate
+transformation in the girl.  Her frenzy ceases.  She seems to
+be filled with a jubilant calm and dances into the cleared
+space before the altar. Her words are no longer meaningless. 
+They have taken shape and form and, when she speaks, she
+speaks with great resonance as if her voice came from
+somewhere other than her own throat.  She is possessed by the
+god, Shango.
+
+One by one, people from among the group of devotees dance
+into the circle, go up to her and beg for favors. One woman
+leads a little boy up to her.  We hear her words as she calls
+out to the possessed girl:
+
+               WOMAN
+     Make him rich, Shango!  Make him
+     rich!
+
+The girl lays her fingers on the boy's eyes, and then takes
+his shoulders and turns him around three times, Evidently
+this is absolute guarantee of an enormous income tax to be
+paid at St. Sebastian.  The woman and her son retire happily,
+pleased and grinning.  Finally, exhausted, the girl possessed
+of the god, Shango, sinks to her knees and then falls
+fainting to the floor. Two colored men come in, carry her
+away.  A great cry rises from the voodoo worshippers.
+
+               WORSHIPPERS
+     Damballa!  Damballa!  Damballa!
+     Damballa!
+
+The drums find a new rhythm.  The Houngan retires to one
+corner of the altar; the Sabreur to the other.  Two young
+girls, their beguine dresses slashed and torn, dance in from
+either side.  This is a wild and an impassioned dance, a
+dance to Damballa.  There is no singing, only an occasional
+call from the crowd, "Come to us, Damballa!" The dancers
+reach the climax of their dance and strike a plastic pose
+before the altar, each kneeling on one knee, their arms held
+to their breasts, their foreheads butted together.  Although
+not a muscle moves, one can almost feel the tension of these
+two bodies.  One of the rada drummers comes up and crouches
+down holding a small drum almost under the chins of the two
+girls.
+
+The other drummers stop playing and he begins to beat a quick
+staccato rhythm that grows faster and faster.  In this
+playing, as in the pose of the girls, there is tremendous
+tension.  By now all cries have ceased. Everyone is silent,
+waiting.  Then suddenly, from behind the closed and curiously
+painted door of the inner Houmfort, a voice speaks.  A voice
+that is light, pleasant and authoritative.
+
+               VOICE
+          (muffled by the door)
+     Where are my people?  Let them
+     bring me the rice cakes -- let them
+     dance and be happy --
+
+There is a great ecstatic shout from the voodoo worshippers.
+
+               VOODOO WORSHIPPERS
+          (shouting)
+     Damballa!  Damballa!
+
+The Sabreur dances forward, sword in his left hand and a
+little plate with rice cakes, in his right.  He kneels down
+and places the plate near the door jamb.  A line forms at the
+door.  Betsy leading Jessica by the hand takes her place with
+the rest.  She is third in the line of suppliants.  She can
+see the whole procedure.  The suppliant places his forehead
+against the forehead of the god painted on the door, and
+speaks.  The first suppliant is a weary-looking field hand
+who shuffles to the door and speaks in such a low tone that
+his words cannot be heard.  The second suppliant is an old
+woman, thin and work-worn.  She speaks sincerely and humbly
+and Betsy, directly behind her, hears her words.
+
+               OLD WOMAN
+     Damballa -- my son don't take care
+     of me.
+
+               VOICE OF DAMBALLA
+     Tell him his own little son will
+     grow big.  He, himself, will grow
+     old.  The son learns from the
+     father. One day your son may stand
+     here to complain that his boy does
+     not take care of him.
+
+The old woman turns away, comforted -- hopeful.  Betsy looks
+at her.  She can see tears in the old woman's eyes. With
+Jessica's hand in hers, Betsy takes her place at the door. 
+She puts her forehead against the crudely painted forehead of
+the god.  She talks to the door.
+
+               BETSY
+     Damballa! This woman is sick.
+
+The door swings open slowly. The feeble light of the outer
+Houmfort does not penetrate the darkness of the inner temple.
+A hand reaches out from the darkness and takes Betsy's hand
+and draws her in. The Houngan follows Betsy into the temple.
+The door shuts behind him. Jessica remains outside, standing
+before the door.
+
+INT. INNER HOUMFORT - NIGHT
+
+A match flares and a hand brings it forward to light an oil
+lamp which flares brightly, revealing a little room of
+whitewashed boards, bare except for a table on which stands a
+small iron tripod from which an iron pot is suspended.
+Although there is no fire under the pot, the steam rises from
+this receptacle and water boils and bubbles in it.
+It is the Houngan who has lit the lamp and, on the other side
+of the table is Mrs. Rand. Her face is serious and unsmiling.
+
+               BETSY
+          (starting forward around
+          the table)
+     Mrs. Rand.
+
+               MRS. RAND
+     Wait. Don't draw any conclusions.
+     Let me explain.
+
+               BETSY
+     But, Mrs. Rand --
+
+               MRS. RAND
+     I knew you'd come. And I knew I'd
+     have to come up here and talk to
+     you. I couldn't let you go back
+     without any word. I came to tell
+     you again -- Jessica cannot be
+     cured.
+
+               BETSY
+     But how did you get here? What
+     are you doing here?
+
+               MRS. RAND
+     I asked you to let me explain. It's a
+     long story.  And not an easy one --
+
+EXT. THE HOUMFORT - NIGHT
+
+Jessica stands patiently where Betsy had left her. The
+Sabreur and two Mam-Lois stand near her looking at her and
+talking. We cannot hear what they say. The drumming and the
+song of joy for the coming of Damballa continue over the
+scene. Suddenly, as if he had arrived at some decision, the
+Sabreur, holding his sword stiffly in front of him, starts
+toward Jessica with little mincing steps.
+
+INT. INNER HOUMFORT -- NIGHT
+
+Mrs. Rand, as if continuing with something she has been
+talking about for a long time --
+
+               MRS. RAND
+     -- and when my husband died I felt
+     helpless. They disobeyed me --
+     things went from bad to worse. All
+     my husband's dreams of good health,
+     good sanitation, good morals for
+     these sweet and gentle people
+     seemed to die with him.
+          (pauses)
+     Then, almost accidentally, I
+     discovered the secret of how to
+     deal with them. There was a girl
+     with a baby -- again and again I
+     begged her to boil the drinking
+     water. She never would. Then I told
+     her the god, Shango, would be
+     pleased and kill the evil spirits
+     in the water if she boiled it. She
+     boiled the water from then on.
+
+               BETSY
+     But you didn't have to come up
+     here.
+
+               MRS. RAND
+     Perhaps not.  But I did come here
+     and I found it was so simple to let
+     the gods speak through me. Once
+     started, it seemed such an easy way
+     to do good.  I should have known
+     there was no easy way to do good,
+     Betsy.
+
+PAGE MISSING WHERE THE SABREUR CUTS JESSICA'S ARM AND SHE
+DOES NOT BLEED.  THE WORSHIPPERS REALIZE SHE IS A "ZOMBIE".
+
+               MRS. RAND (CONT'D)
+     Betsy!  Get her away -- back to the
+     Fort!  Do as I say -- they won't
+     hurt you.
+
+ANOTHER ANGLE - SHOOTING TOWARD the inner Houmfort. Betsy
+runs out from the doorway, takes hold of Jessica's arm and
+starts running with her.  There is a movement in the crowd as
+if they were about to follow her.  From the doorway of the
+inner Houmfort, the Houngan calls out:
+
+               HOUNGAN
+     Trouble.  Bad trouble.  Let her go.
+
+The crowd subsides.
+
+DISSOLVE
+
+EXT. THE BANYAN TREE -- NIGHT
+
+Betsy and Jessica pass quickly under the dead goat, on their
+way home.
+
+EXT. GARDEN AT FORT HOLLAND -- NIGHT
+
+Betsy comes out of the tower door, closing it behind her very
+quietly and cautiously.  She starts across the garden toward
+her room.  From the shadows, Holland steps out barring her
+way.
+
+               HOLLAND
+     Where have you been, Miss Connell?
+
+There is a pause.  Holland stands looking at her, taking in
+her bedraggled appearance.
+
+               BETSY
+          (wearily)
+     I wanted to help you.
+
+               HOLLAND
+     Help me? How?
+
+               BETSY
+     I took Mrs. Holland to the
+     Houmfort.  I thought they might
+     cure her.
+
+               HOLLAND
+     You have deliberately endangered
+     Mrs. Holland's life.  There's no
+     telling what you may have started
+     with this insanity.  Why did you do
+     it?
+
+               BETSY
+          (in a low tone)
+     I told you.
+
+               HOLLAND
+     Because you wanted to give my wife
+     back to me?  Why should that mean
+     anything to you?
+
+               BETSY
+          (not looking at him)
+     You know why.  You saw it the other
+     night at the piano.  You turned
+     away from me.
+
+               HOLLAND
+          (putting his hand on her
+          shoulder, looking into
+          her face very closely)
+     What I saw the other night, I
+     didn't dare believe, Betsy --
+
+Betsy tries to turn away from him.  He grips her shoulders
+tightly.
+
+               HOLLAND (cont'd)
+     I thought I was looking at a woman
+     who loved me and had compassion for
+     me.  Yet you made that trip to the
+     Houmfort to bring Jessica back to
+     me --
+
+               BETSY
+     Yes.
+
+Holland pulls her close to him, looks down into her eyes.
+
+               HOLLAND
+     You think I love Jessica and want
+     her back. It is like you to think
+     that -- clean, decent thinking. 
+
+               BETSY
+          (simply)
+     She was beautiful.
+
+               HOLLAND
+     I hated her.
+
+Betsy looks up at him, astounded by his words.
+
+               HOLLAND (cont'd)
+     Her selfishness made her empty and
+     dead.  She was a possession, a
+     beautiful possession to own and
+     hold -- but I never had a moment's
+     peace or happiness with her.
+
+They stand there, close together, looking at each other. 
+Suddenly Holland puts her arms around her.
+
+               HOLLAND (cont'd)
+     Betsy -- 
+
+She lifts her face, with a smile of complete love and trust. 
+Holland studies her face longingly, but does not kiss her.
+
+               HOLLAND (cont'd)
+     I should never have brought you
+     here.
+
+               BETSY
+     There's no happiness for me
+     anywhere else --
+
+Holland shakes his head slowly, hopelessly.
+
+               BETSY (cont'd)
+          (pleading)
+     Paul, I don't want you to be alone,
+     unhappy --
+
+Holland lets his arms drop from about her shoulders.
+
+               HOLLAND
+          (coldly)
+     I may prefer it that way.
+
+They stand looking at each other.  The garden is still with
+the dead, heavy stillness of their hopelessness.  Then, from
+the direction of the Houmfort, there is the sound of a single
+conch blowing, loudly and insistent, a thinner, higher call
+than we have heard before.
+
+INT. LIVING ROOM -- FORT HOLLAND -- DAY
+
+Mrs. Rand, in a simple afternoon dress, is seated on the
+sofa.  Before her is a coffee table with a silver tea
+service.  She is engaged in pouring tea.  Betsy is beside her
+helping her.  Rand, in working clothes, is in an armchair
+near the sofa with a highball in his hand.  Also seated, and
+facing Mrs. Rand and Betsy, is Dr. Maxwell and Commissioner
+Jeffries.  The latter is a dignified man of early middle-age. 
+He is dressed in a light business suit.  At the window, at
+the rear of the room, stands Holland, talking with a Priest. 
+As the scene opens, Mrs. Rand fills a teacup and holds it up
+toward Holland.  He comes toward her to pick up the cup, the
+Priest walking with him.  As they walk, Holland speaks:
+
+               HOLLAND
+     But I assure you, Father Walters,
+     Miss Connell had no idea of the
+     consequences when she went there.
+
+               DR. MAXWELL
+     Paul, we're not trying to blame
+     Miss Connell.  It isn't a question
+     of blame.  It's a question of what
+     we are to do with Jessica.  The
+     commissioner is very concerned.
+
+               JEFFRIES
+     It has become a serious problem. 
+     There's so much gossip, rumor and
+     agitation about the whole thing.
+
+               HOLLAND
+     I know.  We've felt it at the mill. 
+     The men could hardly keep their
+     minds on their work.
+
+               RAND
+     Well, Jeffries, why come to us
+     about it?  Why don't you go up to
+     the Houmfort and put a stop to the
+     drumming and dancing -- that's what
+     causes all the trouble.
+
+               JEFFRIES
+          (shaking his head)
+     No.  You're quite wrong.  Right
+     here's the seat of the trouble. 
+     Mrs. Holland has become an object
+     of speculation and religious
+     interest to these people.  It's
+     revived all their old superstitions
+     -- Zombies -- and that sort of
+     nonsense.
+
+               MRS. RAND
+     I wouldn't worry too much,
+     Commissioner.  It'll pass.  We've
+     had this sort of thing before.
+
+               DR. MAXWELL
+     This is something else.  They're
+     curious.  Curiosity and religious
+     fervor make a strange and explosive
+     mixture.
+
+               MRS. RAND
+     I'm quite sure nothing will happen,
+     Doctor.
+
+               JEFFRIES
+     If I were as sure as you, Mrs.
+     Rand, we wouldn't be here.  I'll
+     tell you quite bluntly: for the
+     peace of the island and possibly
+     for her own safety, we've come to
+     ask you to send Mrs. Holland away
+     to St. Thomas.
+
+               RAND
+     To the asylum?
+
+               JEFFRIES
+     I believe there's a kinder name for
+     it, Wesley. At St. Thomas, it's called the
+     Institute for Mental Therapy.
+
+               RAND
+          (getting up)
+     It doesn't matter what you call it. 
+     I can tell you right now Jessica
+     isn't going!
+
+Dr. Maxwell looks first at him, then at Holland, then back to
+Rand.
+
+               DR. MAXWELL
+     Fortunately, Wesley, this isn't a
+     matter for your decision.
+
+               RAND
+     You mean to say Paul can send her
+     away -- that he can hand her over
+     to strangers -- who'll shut her up 
+     - maybe mistreat her?  He hasn't
+     that right!
+
+               MRS. RAND
+          (trying to calm him)
+     Wesley!
+
+               DR. MAXWELL
+     I am afraid, Wesley, he has that
+     right.  And I will have to urge him
+     to use it.
+
+               RAND
+     I tell you he hasn't and he
+     wouldn't dare use it if he had.
+
+               JEFFRIES
+     Why?
+
+               RAND
+     Because he drove Jessica insane --
+     deliberately -- coldly!
+
+They all look at Holland.  There is a long and awkward pause. 
+Holland makes no move to deny by word or gesture his
+brother's accusation.  Finally, however, he breaks the pause
+by bringing the teacup to his lips.
+
+               JEFFRIES
+     That could be a serious accusation,
+     Rand, if it weren't a foolish one.
+
+               RAND
+     Foolish?  Tell them how foolish it
+     is, Paul -- tell them!
+
+               HOLLAND
+          (very calmly but with a
+          little uncertainty)
+     My guilt in this matter, if any,
+     Wesley, is not the subject of this
+     discussion.
+
+               RAND
+     But it is, Paul!  Because that's
+     why you won't dare send Jessica
+     away!
+
+Holland empties his teacup. Carrying the teacup and saucer
+very carefully, he walks across to the table in front of
+Betsy, and sets it down.  Betsy looks at him.  It is on her
+look, questioning and puzzled, that we
+
+                              DISSOLVE
+
+INT. INNER HOUMFORT -- DAY
+
+Although it is broad daylight, the Inner Houmfort is lit with
+a rush light which burns weakly.  The ceremonial pot of
+boiling water has been removed from the table and, in its
+place, squatting cross-legged like a tailor, sits the
+Sabreur. With one hand he holds upright a small, cheaply-made
+bisque doll, with flaxen hair.  It is dressed in a little
+white slip.  From under the table rim, two dark feminine
+hands come up to put a white robe on the doll.  The moment
+this garment has been draped on the little doll, a rada drum
+begins to beat softly in a corner of the room.
+
+THE CAMERA DRAWS BACK to reveal that one of the girls who
+danced in the voodoo ceremony is kneeling before the table. 
+It is her hands which have dressed the doll.  There are about
+five people in the room, including the three drummers.  The
+Sabreur makes magical passes over the doll.
+
+                              FADE OUT
+
+FADE IN 
+
+EXT. GATES OF FORT HOLLAND -- DAY
+
+Betsy and Holland are standing in the gateway.  The CAMERA is
+POINTED TOWARD the garden.  On the porch in the b.g. we can
+see Mrs. Rand.
+
+               BETSY
+     I still can't believe it Paul --
+     that you wouldn't say a word in
+     your own defense.
+
+               HOLLAND
+     I have no defense.  So far as I
+     know -- it is true.
+
+               BETSY
+     You can't believe that.  You don't
+     know what viciousness it would take
+     to drive a person mad.  You're not
+     vicious or cruel, Paul.
+
+               HOLLAND
+     How do you know I'm not?  I was
+     cruel to Jessica.  When I got to
+     know her -- when I found out how
+     empty and ungenerous she was, there
+     was something about her --
+     something smooth and false -- that
+     made we want to hurt her.
+
+               BETSY
+     I can understand that.  Everyone
+     feels that way about someone.
+
+               HOLLAND
+     No.  It's not just how I felt
+     toward Jessica.  I've been cruel to
+     even you.
+
+Besty, smiling, shakes her head.
+
+               HOLLAND (cont'd)
+     The first night I saw you -- you
+     were looking at the sea.  You were
+     enchanted -- and I had to break
+     that enchantment.  Do you
+     understand, Betsy -- I had to break
+     it!
+
+Betsy is shaken by this, but she tries to put it aside.
+
+               BETSY
+     You wanted to warn me...
+
+               HOLLAND
+          (disregarding her words)
+     The night you came to me in this
+     room -- to comfort me, to help me --
+     I turned you away.
+
+               BETSY
+     Don't, Paul -- don't doubt yourself
+     -- don't make me doubt you.
+
+               HOLLAND
+     I remember words I said to Jessica 
+     - words mixed like to poison -- to
+     hurt her, to madden her.
+
+               BETSY
+          (desperately)
+     That's past -- that's over and done
+     with...
+
+               HOLLAND
+     I want you to be safe, Betsy.  I
+     want to know you're away from this
+     place -- home again, where nothing
+     can harm you -- nothing and no one.
+
+               BETSY
+     You want that?
+
+               HOLLAND
+     Yes.
+
+They stand looking at each other in silence.
+
+                              DISSOLVE
+
+EXT. THE PORCH -- DAY
+
+Mrs. Rand is seated in an easy chair, obviously enjoying an
+interlude of leisure.  Clement comes from the house, bringing
+her a bulky newspaper, still in its mail wrapper.
+
+               CLEMENT
+     Would you like to see the paper,
+     Mrs. Rand?
+          (proudly)
+     This is our newest one.
+
+               MRS. RAND
+     Thank you , Clement!
+
+She takes it and starts slitting the wrapper eagerly.
+
+EXT. THE GARDEN AT FORT HOLLAND -- DAY
+
+Betsy and Holland start across the garden to the porch.
+
+EXT. THE PORCH -- DAY
+
+Mrs. Rand seems them and waves a section of the paper in
+welcome.
+
+               MRS. RAND
+     You're just in time.  Will you join
+     me in the Sunday paper?
+
+Betsy and Holland sink into porch chairs, looking grateful
+for the shade.  Betsy takes off her hat and tosses it onto
+the coffee table.
+
+               HOLLAND
+     Considering that the paper is three
+     months old and this isn't Sunday --
+     no thank you.
+
+               BETSY
+          (smiling)
+     I guess I'll wait until I'm home,
+     Mrs. Rand.
+
+Mrs. Rand looks at a page of rotogravure section.
+
+               MRS. RAND
+          (casually)
+     That's a long wait...
+
+               HOLLAND
+     I'm afraid not.  Betsy's leaving
+     us, Mother.
+
+Mrs. Rand puts down the paper and looks at them, startled.
+
+               HOLLAND (cont'd)
+     She's decided to go on the next
+     boat.
+
+               MRS. RAND
+     Why, Betsy -- we can't lose you. 
+     You mean too much to us here.
+
+               BETSY
+     That's sweet of you, Mrs. Rand.
+
+               HOLLAND
+     Betsy feels there is nothing she
+     can do for Jessica...
+
+PAGE MISSING
+
+EXT. GARDEN AT FORT HOLLAND -- DAY
+
+Rand and Dr. Maxwell come through the gate and walk up the
+garden path.  As they do so, Mrs. Rand comes down the porch
+steps.  Betsy and Holland follow her.
+
+               MRS. RAND
+     Dr. Maxwell -- it's nice to see
+     you.
+
+               RAND
+          (grimly)
+     Dr. Maxwell has very unpleasant
+     news for us.
+
+               HOLLAND
+          (nervously)
+     An accident at the mill?
+
+               DR. MAXWELL
+     No -- it's about Mrs. Holland.  A
+     result of our discussion the other
+     day, I'm afraid.
+
+               HOLLAND
+     What about her?
+
+               DR. MAXWELL
+     In view of all the circumstances,
+     the commissioner has decided on a
+     legal investigation.
+
+               HOLLAND
+     Investigation of what?
+
+               DR. MAXWELL
+     Of the nature of Mrs. Holland's
+     illness.  And, of course, the
+     events which led up to it.
+
+               HOLLAND
+     In other words, I'm on trial.
+
+               DR. MAXWELL
+     I did everything I could to
+     forestall this, Paul.  I don't
+     think there's any question of your
+     innocence in the matter.  But
+     there's been too much talk.  The
+     thing's out of hand.
+
+               HOLLAND
+     Maybe it's better this way, Mother. 
+     I'm glad you're going home, Betsy --
+     you'll be out of the mess.
+
+               RAND
+     But she isn't.  She's been
+     subpoenaed.
+
+Holland turns to the Doctor, his face stricken.
+
+               DR. MAXWELL
+     Miss Connell's testimony will be
+     very important.
+
+               BETSY
+          (quietly)
+     I would have stayed anyway, Dr.
+     Maxwell.
+
+               RAND
+     We're all in it.  There won't be a
+     shred of pride or decency left for
+     any of use.
+          (violently)
+     Say something, Paul!  You've always
+     been good with words.  Put some
+     together, now, and tell us that
+     you're not responsible -- that
+     every damnable bit of it doesn't
+     rest squarely on your shoulders!
+
+               MRS. RAND
+     You're wrong, Wesley.  The guilt is
+     mine -- all of it.
+
+               RAND
+          (bitterly)
+     Are you going to lie for him,
+     Mother?
+
+               MRS. RAND
+     Betsy, tell them about the
+     Houmfort.  Tell them what you saw
+     there.  
+
+               BETSY
+          (protestingly)
+     Mrs. Rand...
+
+               MRS. RAND
+     You must, Betsy. They'll have to
+     believe you.
+
+               BETSY
+          (reluctantly)
+     Mrs. Rand was at the Houmfort that
+     night.  But there's nothing wrong
+     with that.  She's gone there for
+     years -- trying to take care of
+     those people,  to help them.
+
+               RAND
+     What do you mean?
+
+               HOLLAND
+     I don't understand...
+
+               DR. MAXWELL
+     I think I do.  
+          (smiling)
+     I've often talked a little voodoo
+     to get medicine down a patient's
+     throat.
+
+               MRS. RAND
+     It's more than that, Doctor.  I've
+     entered into their ceremonies -
+     pretended to be possessed by their
+     gods...
+
+They stare at her, dumbfounded.
+
+               MRS. RAND (cont'd)
+     But what I did to Jessica was worse
+     than that.  It was when she going
+     away with Wesley.  There was that
+     horrible scene.
+
+She turns to Rand.
+
+               MRS. RAND (cont'd)
+     You thought she loved you, didn't
+     you?  She didn't.  She didn't love
+     anyone except herself  -- her
+     reflection in the mirror, the look
+     she could bring into a man's eyes.
+
+               RAND
+     That isn't true.  You never
+     understood her.
+
+               MRS. RAND
+          (disregarding his protest)
+     That night, I went to the Houmfort. 
+     I kept seeing Jessica's face --
+     smiling -- smiling because two men
+     hated each other -- because she was
+     beautiful enough to take my family
+     in her hands and break it apart. 
+     The drums seemed to be beating in
+     my head.  The chanting -- the
+     lights --  everything blurred
+     together.  And then I heard a
+     voice, speaking in a sudden
+     silence.  My voice.  I was
+     possessed.  I said that the woman
+     at Fort Holland was evil and that
+     the Houngan must maker her a
+     Zombie.
+
+Dr. Maxwell has been studying Mrs. Rand with a curious,
+intent expression.
+
+               DR. MAXWELL
+     And what happened then, Mrs. Rand?
+
+               MRS. RAND
+          (unsteadily)
+     I hated myself.  I kept saying to
+     myself over and over again that
+     these people had no power; they had
+     no strange drugs; that there is no
+     such thing as a Zombie.
+
+               DR. MAXWELL
+     Ah -- that's where reason took
+     hold.
+
+               MRS. RAND
+     Yes, I said it, and I made myself
+     believe it. But when I got here,
+     Jessica was already raging with
+     fever.
+
+               DR. MAXWELL
+     Two things had happened, Mrs. Rand. 
+     One was that your daughter-in-law
+     had been taken ill with a fever. 
+     The other thing -- completely
+     disconnected -- was that you had
+     wished her ill, because she had
+     hurt your sons.
+
+               MRS. RAND
+          (protesting)
+     But I had no thought of harming
+     her.  It wasn't I...
+
+               DR. MAXWELL
+     You were possessed.  That is true --
+     possessed by your subconscious
+     mind.  You were in the Houmfort,
+     surrounded by their symbols.  To
+     them, nothing worse can happen to a
+     person than to be made into a
+     Zombie.  Your subconscious mind
+     used their own words for evil.
+
+               HOLLAND
+     Dr. Maxwell is right, Mother.
+
+               DR. MAXWELL
+          (gently and kindly)
+     Emotion tricks all of us, Mrs.
+     Rand.  And you are a woman with a
+     very strong conscience.  That
+     conscience has been tormenting you. 
+     The rest is coincidence.  There is
+     no such thing as a Zombie.  The
+     dead do not come back to life. 
+     Death is final.
+
+From the hills comes the sound of a single conch, loud and
+thin.
+
+The CAMERA PANS from the group around Mrs. Rand to the tower
+door.  Jessica walks out of it and comes slowly past the
+fountain.
+
+EXT. HOUMFORT -- NIGHT
+
+The CAMERA IS FOCUSED ON a little five-and-ten-cent store
+doll about three inches high.  It is dressed in a crude
+imitation of Jessica's loose, belted, white gown.  A thread
+is tied around it and this thread leads off, taut.
+
+The CAMERA PANS ALONG the thread to show us that the other
+end of the thread, some twenty feet long, is held by a negro,
+crouched near the altar.  Halfway between this man and the
+doll, the Sabreur, his sword stuck in the mound before him,
+straddles the thread, his hands clasped around the thread but
+not touching it.  Carre-Four stands watching.
+
+The conch is blowing its strange, magnetic call and the
+negroes are chanting as they watch the Sabreur and the doll. 
+The Sabreur makes motions as if he were pulling on the thread
+but still does no touch it.  He makes these motions over and
+over again.  The doll moves slowly.  Then suddenly stops. 
+The Sabreur's most frantic efforts fail to move it.
+
+OMITTED
+
+EXT. THE GARDEN -- NIGHT
+
+ANOTHER ANGLE -- Jessica comes slowly past the fountain.
+
+               RAND'S VOICE
+     Jessica!
+
+She does not seem to hear but continues walking toward the
+gate.  We hear the sound of running feet.  Holland and Betsy
+run up to Jessica.  Holland takes her arm, but she continues
+to walk forward.  He tries to hold her.  It is apparent he
+cannot do so without the use of considerable force.
+
+               BETSY
+     Jessica!  Jessica!
+
+She pays no attention but continues to move forward toward
+the gate.  Betsy, realizing that is something outside of her
+previous experiences with the woman, has the presence of mind
+to run forward and slam shut the great wrought-iron gate. 
+Jessica walks up against the gate and stands there, unable to
+move any further.  They stand and look at her perplexed.
+
+EXT. HOUMFORT -- NIGHT
+
+The doll has stopped moving.  The Sabreur is exerting all his
+force.  We can see the sweat soaking his white shirt.  The
+others are chanting, louder now, swaying in rhythm with his
+pulling movements.  The conch is being blown with a more
+insistent and compelling note.  Still, the doll-figure
+refuses to move.  The Sabreur stops.  The conches are
+suddenly silenced.
+
+EXT. GARDEN GATE -- NIGHT
+
+In this sudden silence, Holland and Jessica look at each
+other across the motionless figure of Jessica.
+
+               HOLLAND
+     The Houmfort -- they're trying to
+     get her back there.
+
+Betsy and Holland look at each other.  Then Betsy takes
+Jessica's arm.
+
+               BETSY
+     Come with me, Jessica.
+
+Obedient again, Jessica allows Betsy to turn her around and
+lead her back to the open tower door.  As Betsy and Jessica
+go into the bedroom, the door closes behind them.
+
+                              FADE OUT
+
+FADE IN
+
+EXT. THE HOUMFORT -- EARLY EVENING
+
+CLOSE SHOT of an enormous black hand.  The fingers of this
+hand are spread out limply.  On this hand stands the little
+five-and-ten-cent store doll which represents Jessica.  From
+beneath this hand, another smaller black hand comes in and
+closes the great fingers around the doll.
+
+The CAMERA PULLS BACK to show the exterior of the Houmfort. 
+The light is fading.  The posts of the Houmfort and the
+figures of several voodoo worshippers are outlined in
+silhouette against the darkening sky.  A single rada drum is
+being beaten in light, quick rhythm.  Someone sets fire to a
+heaped-up bonfire of dry leaves.  The flames blazing up
+illuminate the scene more clearly, so that we can see a small
+group of voodoo adepts squatting on their heels in a ring
+around the bonfire.  Near the bonfire stand Carre-Four and
+the Sabreur, with the drummer crouched behind them.  The
+Sabreur takes the doll from Carre-Four's hand and holds it a
+foot or so away from him.  The great black hand reaches for
+it.  Again the Sabreur takes the doll away and dances off
+with mincing steps to a distance of a few yards.  Carre-Four
+lumbers after him, his hand extended.  Again, the Sabreur
+lets him take the doll.
+
+CLOSE SHOT of Carre-Four's hand with the doll upon it.  From
+underneath, the smaller hand of the Sabreur comes in and
+closes the great black fingers over the little white doll.
+
+                              DISSOLVE
+
+INT. MRS. HOLLAND'S BEDROOM -- NIGHT
+
+The room is in darkness.  In the faint light from the barred
+windows, we see Betsy sleeping on the chaise lounge.  A
+shadow moves across her face.  Through the window, we see the
+great, cadaverous figure of Carre-Four.  His hand closes
+around the bars, his face presses against them.  Then he lets
+go of the bars and slips out of sight.  His figure reappears
+at the next window.  Again, he tries the bars and peers into
+the room.  Again, he vanishes in the darkness.  We hear a
+faint sound from the tower.  Betsy wakens.  Her eyes go
+quickly to the bed, where the outline of Jessica's figure
+reassures her.  There is another muffled, dragging sound from
+the tower.  Betsy sits up, listens intently.  She gets up and
+goes toward the door leading into the tower.  At the foot of
+Jessica's bed, she stops to grab up Jessica's white negligee,
+throwing it around her she continues to the door and opens it
+slowly and cautiously.
+
+INT. THE GROUND FLOOR OF THE TOWER -- NIGHT
+
+Betsy steps into the lower tower room.  The thick blackness
+of the place is faintly lit by the open door into Jessica's
+windowed bedroom.  She stands at the foot of the circling
+stone stairs, straining to see into the darkness above. 
+Overhead, there is a sudden commotion of wings and shrilling 
+- something has disturbed the bats.  Very slowly and
+hesitantly, Betsy moves up a few steps.
+
+The CAMERA PANS UP from Betsy, around the circling walls of
+the stairs, to where the sharp blade of light from the slit
+window of the tower strikes across the wall.  A big black
+hand slides down the shaft of light.  The CAMERA PANS BACK to
+Betsy.  She can see nothing, but she hears the dry,
+whispering sound of the hand moving along the wall.  She
+backs down the few steps and across to the tower door leading
+to the garden.
+
+EXT. THE GARDEN AT FORT HOLLAND -- NIGHT
+
+Betsy slips out of the tower door.  She stands irresolutely
+by the fountain, watching and listening.  She can see nothing
+in the black patch of the open tower door.  She walks slowly
+into the garden.  There is a faint sound behind her. 
+Fearfully, Betsy looks back across her shoulder.  She sees a
+shadow slip into the deeper shadows of the fountain, merge
+with them.  Quickly she moves behind a tall shrub, looks
+again toward the tower.  She sees nothing.
+
+A CLOSE SHOT of the fountain shows the surface of the water
+in the cistern broken by a spreading ring of ripples.  Taut
+with fear, Betsy leaves the shadow of the tall shrub and
+slips over to a bush nearer the living room porch.  As if in
+answer to this move, a whispering rustle comes from the
+screen of bamboo against the tower-wing of the house.  She
+stares toward the bamboo.  She sees nothing.
+
+A CLOSE SHOT of the bamboo shows the leaves trembling
+slightly.  Betsy looks across the empty, defenseless space
+between herself and the porch steps.  Steeling herself, she
+moves into it, walking with the slowness of nightmare fear,
+looking from side to side with the slightest possible move of
+her head.  At the foot of the steps, she turns to look back
+at the bamboo.  A distorted shadow slithers out from under
+the stalks.  Her panic released, Betsy runs up the steps,
+down the shadowy porch to the door of Holland's bedroom.
+
+               BETSY
+          (in a very low, choked
+          cry)
+     Paul...Paul...
+
+She flings herself against the door, turns the handle, and
+runs into the room, closes the door behind her.  Into the
+space before the porch steps moves the great gaunt figure of
+Carre-Four.  This is our first full sight of him in the
+scene.  He is bare to the waist, wearing only a pair of dark,
+ragged trousers.  He starts up the steps.
+
+EXT. PORCH -- NIGHT
+
+Betsy comes out of the door to Holland's bedroom, followed by
+Holland who has put on a robe.  In a CLOSE SHOT, we see the
+shock that springs into their two faces as they see Carre
+Four facing them across the length of the porch, moving
+toward them, a single slow step at a time.  As Carre-Four
+sees Betsy's white-clad figure, his hands come up slowly from
+his sides.
+
+               HOLLAND
+     You!  What are you doing here?
+
+Carre-Four continues his slow, implacable move forward.  His
+lifted hands start reaching outward.
+
+               HOLLAND (cont'd)
+     Get out of here.
+
+Carre-Four comes on relentlessly, his great arms outstretched
+toward Betsy, the enormous hands curving to seize her.  Fear
+comes into Holland's face.  With a quick gesture, he presses
+Betsy back and steps in front of her.
+
+               HOLLAND (cont'd)
+          (a little uncertainly)
+     Get out of here --
+
+Carre-Four is almost upon them.  His shoulders press forward
+as he reaches out.
+
+               MRS. RAND
+          (quiet, with great
+          authority)
+     Carre-Four!
+
+The single word freezes Carre-Four into immobility. 
+Astounded, Betsy and Holland turn to see Mrs. Rand at the far
+end of the porch -- her face and hair pale above a dark, coat
+like robe.
+
+               MRS. RAND (cont'd)
+     Carre-Four.  Go back.
+
+Slowly, the giant figure obeys.  Carre-Four turns to face
+her.  His hands relax, his arms fall to his sides again. 
+In his blind fashion, Carre-Four moves back across the porch,
+turns and goes down the steps to the garden.  Holland, who
+has been watching this transfixed, starts after him.
+
+               MRS. RAND (cont'd)
+     Paul!
+
+Holland pauses at the head of the stairs and turns to her.
+
+               MRS. RAND (cont'd)
+     Let him go.  Don't touch him, don't
+     try to stop him!
+
+Betsy has come down the porch behind Holland and she and Mrs.
+Rand stand together.  All three of them look into the garden.
+
+Carre-Four slips through the gates and is immediately lost to
+sight in the darkness of the road beyond.
+
+                              FADE OUT
+
+FADE IN
+
+INT. BETSY'S BEDROOM -- DAY
+
+As Betsy steps into her room, she sees Rand standing by one
+of the windows.  In his face and his posture are complete
+dejection, utter misery.
+
+               RAND
+     Betsy, can I talk to you a minute?
+
+               BETSY
+          (with quiet sympathy)
+     Of course, Wes.
+
+She waits, inquiringly.  Rand takes a few steps into the room
+and turns to stare through the door, across the garden to
+Jessica's room.
+
+               RAND
+     Does she suffer?  Does she know
+     what she is?
+
+               BETSY
+     I don't know.
+          (trying to ease the truth)
+     I once asked Dr. Maxwell the same
+     question.  He said he thought she
+     was like a sleepwalker who would
+     never waken.
+
+               RAND
+     She hated sleep.  She used to say
+     it was a thief -- stealing away her
+     life, an hour at a time...
+
+               BETSY
+          (trying to speak lightly)
+     Not to a nurse.  Sleep is a cure.
+
+Betsy crosses to the dressing table and takes a small cotton
+stoppered bottle from a drawer.  She pulls out the cotton and
+shakes two little pills into her hand.
+
+               BETSY (cont'd)
+          (going to Rand)
+     In fact, I'm prescribing sleep for
+     you right now.
+
+She puts them into his hand.
+
+               BETSY (cont'd)
+     Be a good patient.  Take these and
+     go to bed.
+
+               RAND
+          (suddenly)
+     She's dead.  The dead ought to be
+     buried.
+
+               BETSY
+          (gently)
+     But she's not dead, Wes.
+
+               RAND
+          (violently)
+     You know what she is!  That's death
+     -- no mind, no senses -- no love,
+     no hate, no feeling -- nothing!
+
+               BETSY
+     Please, Wes, do as I ask.  You must
+     rest, you must sleep.
+
+Rand turns his hand and lets the tablets fall to the floor.
+
+               RAND
+          (dully)
+     She should have rest.
+          (looking up at Betsy)
+     She shouldn't have to walk and
+     walk, in that black emptiness.
+          (with realization)
+     You could set her free. 
+     You could give her rest.  You could
+     give her rest.
+
+Betsy, alarmed and troubled, puts her hand on his arm.
+
+               BETSY
+     Don't think of it, Wes.  I couldn't
+     do that.
+
+Rand turns and takes hold of her arm pleadingly, urgently.
+
+               RAND
+     You could do it.  You have drugs --
+     it would be so quick -- a single
+     injection.  If you won't do it for
+     her sake, do it for Paul.
+
+Betsy shakes her head.
+
+               BETSY
+     No, Wes.
+
+               RAND
+     Jessica was never any good for
+     Paul.  You will be, you are.  And
+     Mother -- seeing Jessica day after
+     day -- never able to escape, never
+     able to forget.  Please, Betsy --
+     it's only merciful.
+
+He looks into her eyes and sees the finality of her refusal
+there.  His hand drops from her arm and he turns away.
+
+               BETSY
+          (with great pity)
+     Her heart beats, Wes.  She
+     breathes.  That's life -- I once
+     took an oath to guard life.
+
+Rand straightens up and takes a deep breath.
+
+               RAND
+     I know.  I shouldn't have asked it.
+
+He starts slowly to the open door.
+
+                              DISSOLVE
+
+EXT. HOUMFORT -- NIGHT
+
+The Houngan and the Sabreur are working over the doll again. 
+It begins to move.
+
+EXT. GARDEN -- NIGHT
+
+SHOOTING TOWARD the gates from behind Rand where he still
+sits at the table.  Jessica, dressed in a white nightgown,
+comes slowly out of the tower and moves toward the gates. 
+Rand watches her.  The gate stops her progress.
+
+EXT. THE HOUMFORT -- NIGHT
+
+The doll has stopped despite the frenzied efforts of the
+Sabreur and the wild chanting of the voodoo adepts.  Nothing
+can make it move again.  There is a whispered consultation
+between the Sabreur and the Houngan.  The Houngan lifts his
+hand and the drums begin to beat a light rapid rhythm.
+
+The Sabreur dances toward the doll, making a menacing move
+with his saber.  When he reaches the little image, he puts
+the point of his saber in the ground and draws from his
+bodkin, a long needle.  With one swift movement, he stabs
+this through the doll's back.
+
+EXT. GARDEN -- NIGHT
+
+As seen from Rand's ANGLE.  He rises slowly, drains the
+liquor in his glass, walks forward to where Jessica stands at
+the gate.  He looks at her for a long moment and then, as if
+a resolve had formed in his mind, goes to the statue of St.
+Sebastian, takes hold of one of the iron arrows.  He tugs at
+it, but it refuses to come free.  He puts his foot up on the
+wooden breast of the statue and gives a hard pull.  The long,
+iron arrow comes out in his hand.  With this in his hand, he
+walks to where Jessica stands.  He pulls back the latch bar
+and throws the gates wide open.  Jessica moves out into the
+darkness.  Rand follows her.
+
+EXT. ROAD IN FRONT OF FORT HOLLAND -- NIGHT
+
+SHOOTING TOWARD the gates.  Jessica, followed by Rand, walks
+into the darkness.
+
+INT. HOUMFORT -- NIGHT
+
+The kettle of water, without a fire, is still boiling.  The
+CAMERA MOVES AROUND the room to show that it is empty.  Then
+MOVES UP ON a small shelf before which a candle is burning. 
+On this shelf, a few inches above the candle flame, stands
+the cheap little doll dressed like Jessica, with the needle
+in its back.  Suddenly, the doll falls forward on its face.
+
+EXT. SEASHORE -- DAY FOR NIGHT
+
+Rand carrying Jessica's dead body in his arm, comes down to
+the sand.
+
+The surf.  Rand reverently places the body in the lapping
+water of the surf.  The backward drag of an outgoing wave
+draws it silently away from him.  He watches it go.
+
+A returning wave, tall and forward curving, upthrusts the
+body of Jessica so that we see it in the semi-transparency of
+the wave.
+
+MED. CLOSE SHOT of Rand.  The body comes floating to his
+feet.
+
+Rand carries the body a little further into the surf so that
+the waves when they come in flow past his knees.  Again, the
+outsurge takes the body away.
+
+A returning wave brings Jessica's body back again.  (There is
+a famous painting by Boecklin, called "And the Sea Gave Up
+its Dead" which should somewhat influence the composition of
+this scene.)
+
+MED. CLOSE SHOT -- Rand.  He walks forward to secure the
+returning body.  This time, he picks it up in his arms and
+starts wading forward.
+
+Rand is walking forward with the body in his arms.  The sea
+is up to his hips.  The outgoing surge tugs at him.  He
+struggles to regain his footing, misses and is drawn out to
+sea.
+
+EXT. SEA -- NIGHT -- (PROCESS)
+
+The stars seem to have fallen to the surface of the sea.  We
+see lights here and there, only a few feet from the water,
+flaring and sparkling.
+
+EXT. SEA -- FLOUNDER FISHERMAN -- NIGHT -- (PROCESS)
+
+MED. LONG SHOT.  This is a closer shot of the scene and
+identifies the lights.  There are torches held in the hands
+of black fisherman, up to their knees in water, spearing
+flounders by torch light.
+
+EXT. SEA -- NIGHT -- (PROCESS)
+
+CLOSEUP -- flounder fisherman.  He is moving slowly through
+the shallow water his spear raised.  Suddenly, he makes a
+darting strike with his spear.  With a cry of triumph, he
+holds aloft a struggling flounder.  He disengages it from the
+spear and puts it into the sack slung from his belt.
+
+MED. CLOSE SHOT -- another fisherman.  He, too, is moving
+stealthily forward, spear poised, torch held low. 
+Something on the surface of the water near-by attracts his
+attention and he lifts up his torch, the periphery of the
+light widening as he holds it aloft.  The widening light
+reveals the dead body of Jessica afloat on the surface of the
+water, pallid and dreamlike, her wet, white garments clinging
+like cerements.  The fisherman looks for a moment at the body
+and then calls off to one of the other fishermen.
+
+LONG SHOT -- flounder fishermen, their lights all converging
+on a central light.
+
+EXT. BEACH -- NIGHT
+
+MED. CLOSE SHOT.  A group of flounder fishermen come out onto
+the land.  They are carrying the bodies of Jessica and Rand. 
+They start in the direction of Fort Holland.
+
+EXT. GATES AT FORT HOLLAND -- NIGHT
+
+The fishermen come in bearing their tragic burdens.  Rand's
+body is carried on the shoulders of four fishermen.  Behind
+walks Carre-Four and in his gigantic arms is the body of
+Jessica; her wet hair and garments dripping from the great
+arms of the still-living Zombie.  The upheld torches and
+spears of the fishermen give a weird, processional feeling to
+the group.
+
+EXT. DINING TERRACE -- NIGHT
+
+Holland, Betsy and Mrs. Rand stand watching the fishermen
+bringing in the bodies of the dead.  Across the garden from
+the fountain stands the little group of house servants also
+watching.  The procession passes the fountain of St.
+Sebastian and the CAMERA GOES IN to show the glistening sad
+face of the saint.
+
+                              FADE OUT
+
+FADE IN
+
+EXT. STREET CORNER -- OTTOWA -- DAY
+
+The CAMERA, as in the first portion of the script, PANS DOWN
+the sign, pausing for a moment at the firm name of the
+Parrish & Burden Sugar Company.  Then it CONTINUES ITS
+DOWNWARD MOVEMENT to disclose a portion of the street itself, 
+In the falling snow Betsy is standing with her back to the
+camera, looking up at the sign.
+
+               BETSY'S VOICE
+          (narration)
+     It was a sad time at Fort Holland. 
+     Mother Rand was completely broken
+     by the tragedy. But she's a woman of  
+     courage. She's begun to build up her 
+     life again at St. Sebastian -- It's a
+     good life and a full one.  As for
+     Paul and me -- it wasn't a simple
+     problem for either of us.
+
+A CLOSER SHOT of Betsy as she stands waiting.  She is dressed
+in a fur-collared coat and has a little round fur cap on her
+head.  She looks very attractive and very happy.  The door of
+the office opens and Paul Holland comes out, muffling up his
+overcoat.  Betsy takes a half step to meet him.  He takes her
+arm with a well-used and familiar gesture.
+
+               PAUL
+     Sorry to keep you waiting, darling! 
+     I thought I'd never get away. 
+     Invoices and stock lists piling up
+     all day long.  The balmy tropics
+     were never like this.
+
+               BETSY
+          (giving his arm a little
+          squeeze as they start
+          walking toward the
+          camera)
+     I wouldn't have minded waiting.  I
+     never mind waiting for you -- only
+     we're dining with the Wilkins.  I
+     don't want it said all over Ottowa
+     that the Hollands are always late.
+
+They pass the camera which HOLDS for a moment on the sign and
+the falling snow, then we
+
+                              FADE OUT
+
+THE END
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

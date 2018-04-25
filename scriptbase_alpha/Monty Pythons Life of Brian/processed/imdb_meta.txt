@@ -1,0 +1,112 @@
+year	1979
+imdb score	8.2
+meta score	75
+genre	Comedy
+keyword	judea
+keyword	satire
+keyword	revolutionary
+keyword	comedy troupe
+keyword	latin grammar
+keyword	irony
+keyword	singing
+keyword	execution
+keyword	mishearing
+keyword	1st century
+keyword	pubic hair
+keyword	black comedy
+keyword	ancient astronaut
+keyword	jerusalem
+keyword	palestine
+keyword	surrealism
+keyword	arena
+keyword	reference to jesus christ
+keyword	black market
+keyword	deus ex machina
+keyword	sermon on the mount
+keyword	dungeon
+keyword	roman judea
+keyword	controversy
+keyword	crucifixion
+keyword	religion
+keyword	balcony
+keyword	heart attack
+keyword	beggar
+keyword	roman soldier
+keyword	nose joke
+keyword	british comedy
+keyword	gladiator
+keyword	marketplace
+keyword	cult movie cast
+keyword	vow of silence
+keyword	speech impediment
+keyword	written and directed by cast member
+keyword	actor playing multiple roles
+keyword	haggling
+keyword	alien
+keyword	irreverence
+keyword	domineering mother
+keyword	mother son relationship
+keyword	chase
+keyword	farce
+keyword	day for night
+keyword	spacecraft
+keyword	f word
+keyword	implied fellatio
+keyword	tower
+keyword	mistaken identity
+keyword	fake beard
+keyword	roman empire
+keyword	shoe
+keyword	eccentric
+keyword	holy land
+keyword	based on sketch comedy
+keyword	penis
+keyword	gallows humor
+keyword	ancient rome
+keyword	falling from height
+keyword	sewer
+keyword	controversial
+keyword	nativity
+keyword	spacecraft accident
+keyword	saved from execution
+keyword	three wise men
+keyword	stoning
+keyword	male frontal nudity
+keyword	police raid
+keyword	stadium vendor
+keyword	monty python
+keyword	female frontal nudity
+keyword	food vendor
+keyword	spoof
+keyword	premarital sex
+keyword	absurdism
+keyword	nudity
+keyword	cult film
+keyword	graffiti
+keyword	space
+keyword	suicide
+keyword	disguise
+keyword	hermit
+keyword	character name in title
+cast	Graham Chapman	Wise Man #2 / Brian Cohen / Biggus Dickus
+cast	John Cleese	Wise Man #1 / Reg / Jewish Official / Centurion / Deadly Dirk / Arthur
+cast	Terry Gilliam	Man Even Further Forward / Revolutionary / Jailer / Blood & Thunder Prophet / Frank / Audience Member / Crucifee
+cast	Eric Idle	Mr. Cheeky / Stan
+cast	Terry Jones	Mandy Cohen / Colin / Simon the Holy Man / Bob Hoskins / Saintly Passer-by / Alarmed Crucifixion Assistant
+cast	Michael Palin	Wise Man #3 / Mr. Big Nose / Francis / Mrs. A / Ex-Leper / Announcer / Ben / Pontius Pilate / Boring Prophet / Eddie / Shoe Follower / Nisus Wettus
+cast	Terence Bayler	Gregory
+cast	Carol Cleveland	Mrs. Gregory
+cast	Kenneth Colley	Jesus
+cast	Neil Innes	A Weedy Samaritan
+cast	Charles McKeown	False Prophet / Blind Man / Giggling Guard / Stig
+cast	John Young	Matthias, Son of Deuteronomy of Gath
+cast	Gwen Taylor	Mrs. Big Nose
+cast	Sue Jones-Davies	Judith
+cast	Peter Brett	
+cast	John Case	Pilate's Wife
+cast	Chris Langham	Alfonso / Giggling Guard
+cast	Andrew MacLachlan	Another Official Stoners Helper / Giggling Guard
+cast	Bernard McKenna	Parvus / Official Stoners Helper / Giggling Guard
+cast	Spike Milligan	Spike
+cast	George Harrison	Mr. Papadopolous
+cast	Charles Knode	Passer-by

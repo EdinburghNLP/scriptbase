@@ -1,0 +1,436 @@
+year	2010
+imdb score	6.8
+meta score	69
+genre	Biography
+genre	Drama
+genre	Thriller
+keyword	iraq
+keyword	cia
+keyword	bush administration
+keyword	new york times
+keyword	marriage
+keyword	credibility
+keyword	weapon of mass destruction
+keyword	nuclear weapon
+keyword	iraq war
+keyword	interview
+keyword	payback
+keyword	cia agent
+keyword	uranium
+keyword	scientist
+keyword	niger
+keyword	trust
+keyword	covert operation
+keyword	analyst
+keyword	reference to sponge bob
+keyword	faked intelligence
+keyword	treachery
+keyword	conscience
+keyword	tyranny
+keyword	false passport
+keyword	explosion
+keyword	reference to uday hussein
+keyword	brother sister relationship
+keyword	congressional investigation
+keyword	reference to james bond
+keyword	political threat
+keyword	tv show
+keyword	planted story
+keyword	head scarf
+keyword	businessman
+keyword	saying goodbye
+keyword	love
+keyword	sierra leone
+keyword	secret operation
+keyword	rain
+keyword	mirror
+keyword	year 1985
+keyword	men's bathroom
+keyword	washington monument washington d.c.
+keyword	basra iraq
+keyword	u.s. capitol building washington d.c.
+keyword	reference to george tenet
+keyword	paranoia
+keyword	sleeping on a sofa
+keyword	fall guy
+keyword	reference to cnn
+keyword	political intimidation
+keyword	reference to chris matthews
+keyword	tube
+keyword	bad intelligence
+keyword	centrifuge
+keyword	jordan
+keyword	military gun salute
+keyword	murder
+keyword	year 1982
+keyword	based on memoir
+keyword	east africa
+keyword	secret meeting
+keyword	yellowcake uranium
+keyword	reference to cbs
+keyword	freetown sierra leone
+keyword	joint task force
+keyword	photograph
+keyword	prologue
+keyword	archive footage
+keyword	claiming not to be who one is
+keyword	fight for justice
+keyword	state of the union address
+keyword	lunch
+keyword	candle
+keyword	terrorism
+keyword	uncle nephew relationship
+keyword	disappearing ink
+keyword	reference to gernot zippe
+keyword	year 1972
+keyword	arabic
+keyword	stubbornness
+keyword	vanity fair magazine
+keyword	grandfather granddaughter relationship
+keyword	philadelphia pennsylvania
+keyword	treadmill
+keyword	looting
+keyword	cleveland ohio
+keyword	torture threat
+keyword	taxi
+keyword	lecture
+keyword	kiss
+keyword	employer employee relationship
+keyword	air force colonel
+keyword	m.i.t.
+keyword	indictment
+keyword	drinking
+keyword	reference to benjamin franklin
+keyword	snowing
+keyword	palisades washington d.c.
+keyword	secret life
+keyword	forgery
+keyword	parade
+keyword	umbrella
+keyword	mother daughter relationship
+keyword	human intelligence
+keyword	langley virginia
+keyword	post 9 11
+keyword	sarin
+keyword	reference to winston churchill
+keyword	oath
+keyword	osirik nuclear facility iraq
+keyword	accused of being a communist
+keyword	undercover operation
+keyword	cairo egypt
+keyword	french
+keyword	united nations
+keyword	reference to elf gas
+keyword	helicopter
+keyword	pakistan
+keyword	u.s. congress
+keyword	reporter
+keyword	video replay
+keyword	fbi
+keyword	year 1992
+keyword	canada
+keyword	vengeance
+keyword	cubicle
+keyword	reference to richard armitage
+keyword	false accusation
+keyword	physicist
+keyword	political dirty tricks
+keyword	cigar smoking
+keyword	lecture hall
+keyword	returning home
+keyword	u.s. vice president
+keyword	responsibility
+keyword	assumed identity
+keyword	suitcase
+keyword	remote control
+keyword	eyeglasses
+keyword	cafeteria
+keyword	white house washington d.c.
+keyword	year 1995
+keyword	accusation
+keyword	mother son relationship
+keyword	grandmother granddaughter relationship
+keyword	family relationships
+keyword	rumor
+keyword	justified paranoia
+keyword	2000s
+keyword	dubai
+keyword	reference to bill clinton
+keyword	perjury
+keyword	duty as a citizen
+keyword	montage
+keyword	magnifying glass
+keyword	bed
+keyword	smear campaign
+keyword	year 1993
+keyword	internet
+keyword	cambridge massachusetts
+keyword	reference to disney world
+keyword	marital crisis
+keyword	eating
+keyword	grandmother grandson relationship
+keyword	counter proliferation
+keyword	hotel
+keyword	security threat
+keyword	computer
+keyword	false history
+keyword	congressional testimony
+keyword	promise
+keyword	secret mission
+keyword	chopsticks the eating utensil
+keyword	kuala lumpur malaysia
+keyword	sleeping
+keyword	information leak
+keyword	letter of resignation
+keyword	drink
+keyword	birthday
+keyword	fertilizer
+keyword	reference to andrea mitchell
+keyword	e mail
+keyword	terrorist
+keyword	corruption
+keyword	year 2002
+keyword	angola
+keyword	character assassination
+keyword	apology
+keyword	cia covert operations
+keyword	injustice
+keyword	doctor
+keyword	traitor
+keyword	uranium enrichment
+keyword	reflection
+keyword	u.s. soldier
+keyword	op ed newspaper column
+keyword	bar
+keyword	east indian
+keyword	grand jury
+keyword	reference to chevron
+keyword	snow
+keyword	death
+keyword	u.s. department of justice
+keyword	grandfather grandson relationship
+keyword	reference to exon
+keyword	false report
+keyword	pen
+keyword	mumbai india
+keyword	female agent
+keyword	marital problem
+keyword	secret agent
+keyword	tears
+keyword	taking the fall
+keyword	georgetown washington d.c.
+keyword	business deal
+keyword	year 2001
+keyword	queen alia international airport amman
+keyword	political corruption
+keyword	intrigue
+keyword	rage
+keyword	testifying under oath
+keyword	integrity
+keyword	nigerian
+keyword	torture victim
+keyword	brother brother relationship
+keyword	father son relationship
+keyword	taxi driver
+keyword	graveyard
+keyword	post it
+keyword	wmd
+keyword	anger
+keyword	intelligence analyst
+keyword	food
+keyword	toy airplane
+keyword	government propaganda
+keyword	news reporter
+keyword	spy
+keyword	playground
+keyword	neighbor
+keyword	beirut lebanon
+keyword	crying
+keyword	reference to dan rather
+keyword	war ruins
+keyword	news leak
+keyword	evidence
+keyword	year 2003
+keyword	lasso
+keyword	reference to sandra day o'connor
+keyword	turban
+keyword	cell phone
+keyword	ambassador
+keyword	writer
+keyword	quasi racist conundra
+keyword	u.s. president
+keyword	self righteousness
+keyword	reference to brian williams
+keyword	syrian
+keyword	post september 11 2001
+keyword	splashing water on one's face
+keyword	reference to fox tv
+keyword	american flag
+keyword	fraud
+keyword	justice
+keyword	power
+keyword	politics
+keyword	abuse of power
+keyword	pillory
+keyword	trespassing
+keyword	reference to adolf hitler
+keyword	africa
+keyword	mossad
+keyword	colonel
+keyword	reckless driving
+keyword	being followed
+keyword	airport
+keyword	tv news
+keyword	reference to power rangers
+keyword	god bless america
+keyword	reference to john ashcroft
+keyword	vienna austria
+keyword	subjective camera
+keyword	women's bathroom
+keyword	reading a story to a child
+keyword	afghanistan
+keyword	death threat
+keyword	reference to msnbc
+keyword	retching
+keyword	twin
+keyword	mass media
+keyword	reference to hussein kamel
+keyword	tabloid journalism
+keyword	female doctor
+keyword	democracy
+keyword	cemetery
+keyword	baghdad iraq
+keyword	ink
+keyword	top secret
+keyword	washington d.c.
+keyword	fired from the job
+keyword	thailand
+keyword	arm bruise
+keyword	newspaper column
+keyword	newspaper article
+keyword	uranium ore
+keyword	husband wife relationship
+keyword	lie
+keyword	following someone
+keyword	commuted sentence
+keyword	speech
+keyword	reference to tucker carlson
+keyword	fox news
+keyword	u.s. air force
+keyword	espionage
+keyword	reputation
+keyword	political conspiracy
+keyword	amman jordan
+keyword	fear
+keyword	news conference
+keyword	watching tv
+keyword	coffee
+keyword	breaking point
+keyword	santa fe new mexico
+keyword	character says i love you
+keyword	chinese food
+keyword	reference to saddam hussein
+keyword	writing
+keyword	subtitled scene
+keyword	year 1991
+keyword	character says shame on you
+keyword	investigation
+keyword	scandal
+keyword	de briefing
+keyword	liar
+keyword	burkina faso
+keyword	university of virginia
+keyword	father daughter relationship
+keyword	newspaper
+keyword	covert operative
+keyword	blown cover
+keyword	political manipulation
+keyword	airplane
+keyword	world trade center manhattan new york city
+keyword	telephone call
+keyword	based on true story
+keyword	title spoken by character
+cast	Naomi Watts	Valerie Plame
+cast	Sonya Davison	Chanel Suit
+cast	Vanessa Chong	Tabir Secretary #1
+cast	Anand Tiwari	Hafiz
+cast	Stephanie Chai	Tabir Secretary #2
+cast	Sean Penn	Joe Wilson
+cast	Ty Burrell	Fred
+cast	Jessica Hecht	Sue
+cast	Norbert Leo Butz	Steve
+cast	Rebecca Rigg	Lisa
+cast	Brooke Smith	Diana
+cast	Thomas McCarthy	Jeff
+cast	Ashley Gerasimovich	Samantha Wilson
+cast	Quinn Broggy	Trevor Wilson
+cast	Nicholas Sadler	CIA Tour Leader
+cast	Michael Kelly	Jack
+cast	Noah Emmerich	Bill
+cast	Iris Bahr	CPD Agent
+cast	Ghazil	Minister of Mines - Niger
+cast	Kristoffer Ryan Winters	Joe Turner
+cast	Louis Ozawa Changchien	Nervous Analyst #1
+cast	Sean Mahon	CIA Analyst #1
+cast	Mohamed Abdel Fatah	Professor Badawi
+cast	Rashmi Rao	Kim
+cast	David Andrews	Scooter Libby
+cast	David Denman	Nervous Dave
+cast	Bruce McGill	Jim Pavitt
+cast	Liraz Charhi	Dr. Zahraa
+cast	Remy Auberjonois	Nervous Analyst #2
+cast	Tim Griffin	Paul
+cast	Sunil Malhotra	Ali
+cast	Kevin Makely	Jordan Officer #1
+cast	Mousa Al Satari	Mukhabarat Officer
+cast	Khaled Nabawy	Hammad
+cast	Rafat Basel	Hammad's Son
+cast	Maysa Abdel Sattar	Hammad's Wife
+cast	Judith Resnik	B.U. Professor
+cast	Ben Mac Brown	B.U. Student #1
+cast	Satya Bhabha	B.U. Student #2
+cast	Nabil Koni	Iraqi Scientist #1
+cast	Mohammad Al Sawalqa	Iraqi Scientist #2
+cast	Jenny Maguire	Beth
+cast	David Warshofsky	Pete
+cast	Geoffrey Cantor	Ari Fleischer
+cast	David Ilku	Journalist #1
+cast	Deidre Goodwin	Journalist #2
+cast	Donna Placido	Journalist #3
+cast	Adam LeFevre	Karl Rove
+cast	Brian McCormack	Steven Hadley
+cast	James Rutledge	Andrew Card
+cast	Tricia Munford	Cathie Martin
+cast	Michael Goodwin	David Addington
+cast	Nasser	Mr. Tabir
+cast	Chet Grissom	Dir. of CIA Operations
+cast	James Joseph O'Neil	Internal Security Officer
+cast	Danni Lang	Supporter #1
+cast	Jane Lee	Supporter #2
+cast	James Moye	Field Reporter #1
+cast	Judy Maier	Field Reporter #2
+cast	Polly Holliday	Diane Plame
+cast	Sam Shepard	Sam Plame
+cast	Kola Ogundiran	Businessman #1
+cast	Byron Utley	Businessman #2
+cast	Anastasia Barzee	Right Wing Reporter
+cast	Sanousi Sesay	DC Cab Driver
+cast	Dan Abrams	Himself
+cast	John Ashcroft	Himself
+cast	George W. Bush	Himself
+cast	Dick Cheney	Himself
+cast	Dominique de Villepin	Himself
+cast	Peter King	Himself
+cast	Michelle E. Mancini	Deceased soldier's daughter
+cast	Chris Matthews	Himself
+cast	Rebekah Paltrow Neumann	UN Diplomat
+cast	Valerie Plame Wilson	Herself
+cast	Colin Powell	Himself
+cast	Condoleezza Rice	Herself
+cast	Tom Ridge	Himself
+cast	Karl Rove	Himself
+cast	Satu Runa	Four Seasons Waitress
+cast	Joe Scarborough	Himself
+cast	Harry L. Seddon	Head Paparazzo
+cast	Ken Sladyk	Turkish Diplomat
+cast	Bill Walters	Vietnam Vet at Rally

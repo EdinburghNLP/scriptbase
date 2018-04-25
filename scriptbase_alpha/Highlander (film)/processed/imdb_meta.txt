@@ -1,0 +1,159 @@
+year	1986
+imdb score	7.2
+meta score	N/A
+genre	Action
+genre	Adventure
+genre	Drama
+genre	Fantasy
+keyword	immortal
+keyword	battle
+keyword	swordsman
+keyword	scotland
+keyword	village
+keyword	new york city
+keyword	sword
+keyword	1980s
+keyword	sword duel
+keyword	action hero
+keyword	shaved head
+keyword	alley
+keyword	horse
+keyword	chrysler building manhattan new york city
+keyword	hospital
+keyword	rape
+keyword	alley fight
+keyword	cult film
+keyword	wrestling
+keyword	world war two
+keyword	dark fantasy
+keyword	16th century
+keyword	adopted daughter
+keyword	repeated line
+keyword	police
+keyword	1940s
+keyword	torture
+keyword	teacher student relationship
+keyword	gore
+keyword	brawl
+keyword	immortality
+keyword	hotel
+keyword	evil man
+keyword	love
+keyword	manhattan new york city
+keyword	duel
+keyword	1540s
+keyword	gay slur
+keyword	highlander
+keyword	flashback
+keyword	boyfriend girlfriend relationship
+keyword	head cut off
+keyword	uzi
+keyword	beating
+keyword	loss of loved one
+keyword	fencing
+keyword	banishment
+keyword	tough guy
+keyword	mixed martial arts
+keyword	honor
+keyword	shooting
+keyword	1500s
+keyword	parking garage
+keyword	dark hero
+keyword	box office flop
+keyword	wrestling ring
+keyword	police car
+keyword	gothic
+keyword	kiss
+keyword	first part
+keyword	friendship
+keyword	castle
+keyword	sword and fantasy
+keyword	fictional war
+keyword	part of series
+keyword	good versus evil
+keyword	psychotronic
+keyword	kendo
+keyword	one word title
+keyword	rapier
+keyword	blonde
+keyword	mentor
+keyword	sex
+keyword	martial arts
+keyword	shield
+keyword	dark comedy
+keyword	kidnapping
+keyword	katana
+keyword	stabbing
+keyword	battlefield
+keyword	church
+keyword	fistfight
+keyword	long sword
+keyword	historical fiction
+keyword	helicopter
+keyword	opening action scene
+keyword	mentor protégé relationship
+keyword	prostitute
+keyword	decapitation
+keyword	disarming someone
+keyword	warrior
+keyword	wrestling match
+keyword	combat
+keyword	supernatural power
+keyword	clan
+keyword	1530s
+keyword	wrestler
+keyword	reckless driving
+keyword	magic
+keyword	rudeness
+keyword	katana sword
+keyword	showdown
+keyword	kissing while having sex
+keyword	boat
+keyword	kindness
+keyword	hero
+keyword	sword fight
+keyword	title spoken by character
+cast	Christopher Lambert	Connor 'The Highlander' MacLeod / Russell Edwin Nash
+cast	Roxanne Hart	Brenda J. Wyatt
+cast	Clancy Brown	Victor Kruger / The Kurgan
+cast	Sean Connery	Juan Sanchez Villa-Lobos Ramirez
+cast	Beatie Edney	Heather MacLeod
+cast	Alan North	Lieutenant Frank Moran
+cast	Jon Polito	Det. Walter Bedsoe
+cast	Sheila Gish	Rachel Ellenstein
+cast	Hugh Quarshie	Sunda Kastagir
+cast	Christopher Malcolm	Kirk Matunas
+cast	Peter Diamond	Aman Fasil
+cast	Billy Hartman	Dugal MacLeod
+cast	James Cosmo	Angus MacLeod
+cast	Celia Imrie	Kate MacLeod
+cast	Alistair Findlay	Chief Murdoch
+cast	Edward Wiley	Garfield
+cast	James McKenna	Father Rainey
+cast	John Cassady	Kenny
+cast	Ian Reddington	Bassett
+cast	Sion Tudor Owen	Hotchkiss
+cast	Damien Leake	Tony the Hotdog Vendor
+cast	Gordon Sterne	Dr. Willis Kenderly
+cast	Ron Berglas	Erik Powell
+cast	Louis Guss	Newsvendor
+cast	Peter Banks	Priest
+cast	Ted Maynard	Newscaster
+cast	Waldo Roeg	German soldier
+cast	Anthony Mannino	Boisterous Drunk
+cast	Helena Stevens	Old Woman in Car
+cast	Frank Dux	Old Man in Car
+cast	Prince Howell	Drunk in Hotel
+cast	Anthony Fusco	Barman
+cast	Ian Tyler	Lab Technician
+cast	Corinne Russell	Candy
+cast	Buckley Norris	Derelict
+cast	Richard Bonehill	Extras
+cast	Jim Brunzell	Himself
+cast	Sam Fatu	Professional Wrestler
+cast	Harry Fielder	Hospital Guard
+cast	Greg Gagne	Himself
+cast	Terry 'Bam Bam' Gordy	Professional Wrestler
+cast	Ed Montalvo	Street Tough
+cast	Buddy Roberts	Professional Wrestler
+cast	Michael Seitz	Wrestler

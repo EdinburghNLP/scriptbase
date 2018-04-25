@@ -1,0 +1,226 @@
+year	1997
+imdb score	7.4
+meta score	68
+genre	Comedy
+genre	Drama
+keyword	poem
+keyword	poet
+keyword	drinking
+keyword	nobel prize
+keyword	basement apartment
+keyword	suicide
+keyword	love letter
+keyword	girl
+keyword	piano
+keyword	statutory rape
+keyword	boy
+keyword	hustler magazine
+keyword	letter of rejection
+keyword	risk taking
+keyword	love
+keyword	blow job
+keyword	reading a porn magazine
+keyword	jail
+keyword	church
+keyword	defecation
+keyword	rapist
+keyword	strip club
+keyword	bare breasts
+keyword	publisher
+keyword	lower class
+keyword	black comedy
+keyword	election
+keyword	computer
+keyword	cigarette lighter
+keyword	poetry
+keyword	ring
+keyword	clinically challenged person
+keyword	bicycle
+keyword	atheism
+keyword	digital revolution
+keyword	queens county examiner the newspaper
+keyword	drug use
+keyword	new york city
+keyword	violence
+keyword	female nudity
+keyword	epilogue
+keyword	u.s. congressman
+keyword	marijuana
+keyword	drink
+keyword	politics
+keyword	caseworker
+keyword	sex
+keyword	passport
+keyword	catholic
+keyword	child abuse
+keyword	delicatessen
+keyword	politician
+keyword	pills
+keyword	allegory
+keyword	burned by boiling water
+keyword	fraud
+keyword	dancing
+keyword	writer
+keyword	probation officer
+keyword	drunkenness
+keyword	watching porn on the internet
+keyword	underage sex
+keyword	nudity
+keyword	genius
+keyword	celebration
+keyword	menstruation
+keyword	brother sister relationship
+keyword	convenience store
+keyword	fellatio
+keyword	police car
+keyword	prayer
+keyword	cigarette smoking
+keyword	alcoholics anonymous
+keyword	train
+keyword	mother daughter relationship
+keyword	male sitting on a toilet
+keyword	pantyhose
+keyword	janitor
+keyword	coffin
+keyword	wedding
+keyword	memoir
+keyword	french
+keyword	vietnamese american
+keyword	police
+keyword	verse
+keyword	death
+keyword	female stockinged legs
+keyword	confession
+keyword	suicide of mother
+keyword	money
+keyword	watching tv
+keyword	resume
+keyword	kitchen
+keyword	singing
+keyword	subway
+keyword	apartment for rent sign
+keyword	handshake
+keyword	philistine
+keyword	beating
+keyword	flagrante delicto
+keyword	pedophile
+keyword	masturbation
+keyword	garbageman
+keyword	journal
+keyword	library
+keyword	big butt magazine
+keyword	garbage truck
+keyword	queens new york city
+keyword	vomit
+keyword	pedophilia
+keyword	stepfather stepdaughter relationship
+keyword	controversy
+keyword	wrist slitting
+keyword	funeral
+keyword	internet
+keyword	wife abuse
+keyword	ethics
+keyword	rape
+keyword	tv news
+keyword	moral deterioration
+keyword	singer
+keyword	flatulence
+keyword	publishing
+keyword	stockholm sweden
+keyword	pregnancy
+keyword	airport
+keyword	punched in the gut
+keyword	bathroom
+keyword	non conformity
+keyword	job hunting
+keyword	groupie
+keyword	iambic pentameter
+keyword	fame
+keyword	black eye
+keyword	taxi
+keyword	catholic church
+keyword	radical
+keyword	murder
+keyword	boiling water
+keyword	satin blouse
+keyword	integrity
+keyword	doubt
+keyword	promiscuity
+keyword	face slap
+keyword	sour milk
+keyword	priest
+keyword	topless female nudity
+keyword	dancer
+keyword	mother son relationship
+keyword	husband wife relationship
+keyword	prison
+keyword	morality
+keyword	vomiting on someone's butt
+keyword	pope
+keyword	beer
+keyword	spelling
+keyword	policeman
+keyword	eyeglasses
+keyword	secretary
+keyword	father son relationship
+keyword	sodomy
+keyword	job application
+keyword	obscene note
+keyword	shaving
+keyword	grammar
+keyword	prophet
+keyword	mentally retarded person
+keyword	grocery store
+keyword	family relationships
+keyword	porno magazine
+keyword	piano player
+keyword	death of mother
+keyword	independent film
+keyword	character name in title
+cast	Thomas Jay Ryan	Henry Fool
+cast	James Urbaniak	Simon Grim
+cast	Parker Posey	Fay Grim
+cast	Maria Porter	Mary
+cast	James Saito	Mr. Deng
+cast	Kevin Corrigan	Warren
+cast	Liam Aiken	Ned
+cast	Miho Nikaido	Gnoc Deng
+cast	Gene Ruffini	Officer Buñuel
+cast	Nicholas Hope	Father Hawkes
+cast	Diana Ruppe	Amy
+cast	Veanne Cox	Laura
+cast	Jan Leslie Harding	Vicky
+cast	Chaylee Worrall	Pearl
+cast	Christy Carlson Romano	Pearl - Age 14
+cast	Chuck Montgomery	Angus James
+cast	Melanie Vesey	Go-Go Dancer #1
+cast	Denise Morgan	Go-Go Dancer #2
+cast	Jill Morley	Afternoon Table Dancer
+cast	Paul Boocock	Steve
+cast	David Latham	Barry
+cast	Marissa Chibas	Newspaper Reporter
+cast	Julie Anderson	Woman Outside Store
+cast	Reggie Harris	Anchorman
+cast	Don Creech	Owen Feer
+cast	Camille Paglia	Herself
+cast	Maraya Chase	TV Reporter
+cast	Shoshana Ami	Young Woman in Library
+cast	Karen DiConcetto	Girl in Library #1
+cast	Tiffany Sampson	Girl in Library #2
+cast	Rachel Miner	Girl in Library #3
+cast	Paul Lazar	Doctor
+cast	Gretchen Krich	Nurse
+cast	Valorie Hubbard	Patty The Bartender
+cast	Dave Simonds	Bill
+cast	Fay Ann Lee	Lawyer
+cast	Paul Greco	Concierge
+cast	Blake Willett	Cop #1
+cast	Raymond Cassar	Cop #2
+cast	Katreen Hardt	Airline Ticket Clerk
+cast	Rebecca Nelson	Flight Attendant Lucy
+cast	Paul Albe	Angry Customer
+cast	Vivian Bang	Teenager at World of Donuts
+cast	Brandon Boey	Teenager at World of Donuts
+cast	Claire Ritchie	Teenager at World of Donuts
+cast	Herbie Duarte	Teenager at World of Donuts
+cast	Toy Connor	Teenager at World of Donuts

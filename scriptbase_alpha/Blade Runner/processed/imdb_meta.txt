@@ -1,0 +1,231 @@
+year	1982
+imdb score	8.3
+meta score	88
+genre	Drama
+genre	Sci-Fi
+genre	Thriller
+keyword	replicant
+keyword	blade runner
+keyword	future
+keyword	cyberpunk
+keyword	retirement
+keyword	false memory
+keyword	stock trading
+keyword	chinatown
+keyword	costume
+keyword	owl
+keyword	topless female nudity
+keyword	female android
+keyword	kissing
+keyword	malfunctioning android
+keyword	convulsion
+keyword	person
+keyword	megacorporation
+keyword	mercy
+keyword	compassion
+keyword	playing chess
+keyword	genius
+keyword	defenestration
+keyword	performer
+keyword	fugitive
+keyword	artificial intelligence
+keyword	sexual desire
+keyword	shot to death
+keyword	two word title
+keyword	foot chase
+keyword	property
+keyword	origami
+keyword	rainstorm
+keyword	run through plate glass window
+keyword	backflip
+keyword	action hero
+keyword	sex slave
+keyword	tough guy
+keyword	choice
+keyword	gothic
+keyword	snake
+keyword	midget
+keyword	pistol
+keyword	video telephone
+keyword	blood splatter
+keyword	nonperson
+keyword	self consciousness
+keyword	mini skirt
+keyword	handspring
+keyword	nail through hand
+keyword	bare chested male
+keyword	nipples visible through clothing
+keyword	nudity
+keyword	robot as pathos
+keyword	female frontal nudity
+keyword	nightclub
+keyword	voice over narration
+keyword	neo noir
+keyword	hare krishna
+keyword	eye
+keyword	genetic engineer
+keyword	cuckoo clock
+keyword	overpopulation
+keyword	pursuit
+keyword	cyborg
+keyword	cult director
+keyword	police
+keyword	showdown
+keyword	pastiche
+keyword	police detective
+keyword	great horned owl
+keyword	555 phone number
+keyword	murder
+keyword	stabbed in the hand
+keyword	piano
+keyword	racial slur
+keyword	chess
+keyword	retro future
+keyword	hero kills a woman
+keyword	fight
+keyword	bicycling
+keyword	los angeles california
+keyword	year 2019
+keyword	bigot
+keyword	see through panties
+keyword	microscope
+keyword	diner
+keyword	hair dryer
+keyword	fistfight
+keyword	pianist
+keyword	gunfight
+keyword	assumed superiority
+keyword	eye scanning
+keyword	dove
+keyword	candle
+keyword	electronic music score
+keyword	mannequin
+keyword	legal rights of artificial life form
+keyword	broken finger
+keyword	airship
+keyword	text on screen before film
+keyword	dystopia
+keyword	cult film
+keyword	photograph
+keyword	melancholy
+keyword	dancer
+keyword	trenchcoat
+keyword	playing piano
+keyword	critique of capitalism
+keyword	police officer
+keyword	snake dancer
+keyword	love
+keyword	eyeball
+keyword	fez
+keyword	dead woman on ground
+keyword	not human
+keyword	shot in the head
+keyword	test
+keyword	self awareness
+keyword	exotic dancer
+keyword	walkover
+keyword	bigotry
+keyword	rooftop
+keyword	bar
+keyword	alternate version
+keyword	shootout
+keyword	killer robot
+keyword	tech noir
+keyword	beating
+keyword	sheet music
+keyword	dead woman with protruding tongue
+keyword	ostrich
+keyword	siren
+keyword	tycoon
+keyword	doctor
+keyword	unicorn
+keyword	christ allegory
+keyword	man versus machine
+keyword	android
+keyword	flying car
+keyword	tattoo
+keyword	bare breasts
+keyword	hero killing woman
+keyword	existentialism
+keyword	hotel
+keyword	villain turns good
+keyword	famous score
+keyword	nihilism
+keyword	slavery
+keyword	hand to hand combat
+keyword	controversy
+keyword	elevator
+keyword	scantily clad female
+keyword	veil
+keyword	implanted memory
+keyword	dead woman on floor
+keyword	egg
+keyword	bartender
+keyword	rooftop fight
+keyword	childhood memories
+keyword	tears
+keyword	human android relationship
+keyword	non human
+keyword	origins
+keyword	brawl
+keyword	watching tv
+keyword	gene manipulation
+keyword	memory
+keyword	ledge
+keyword	disguise
+keyword	non person
+keyword	female nudity
+keyword	midnight movie
+keyword	dream
+keyword	exclusion
+keyword	skull crushing
+keyword	woman shot
+keyword	robot
+keyword	objectification
+keyword	lens flare
+keyword	cleavage
+keyword	serial number
+keyword	slow motion scene
+keyword	2010s
+keyword	police chase
+keyword	eye gouging
+keyword	sexual attraction
+keyword	martial arts
+keyword	shower
+keyword	slave
+keyword	shot in the chest
+keyword	technology gone amok
+keyword	product placement
+keyword	based on novel
+keyword	title spoken by character
+cast	Harrison Ford	Rick Deckard
+cast	Rutger Hauer	Roy Batty
+cast	Sean Young	Rachael
+cast	Edward James Olmos	Gaff
+cast	M. Emmet Walsh	Bryant
+cast	Daryl Hannah	Pris
+cast	William Sanderson	J.F. Sebastian
+cast	Brion James	Leon Kowalski
+cast	Joe Turkel	Dr. Eldon Tyrell
+cast	Joanna Cassidy	Zhora
+cast	James Hong	Hannibal Chew
+cast	Morgan Paull	Holden
+cast	Kevin Thompson	Bear
+cast	John Edward Allen	Kaiser
+cast	Hy Pyke	Taffey Lewis
+cast	Kimiko Hiroshige	Cambodian Lady
+cast	Bob Okazaki	Howie Lee
+cast	Carolyn DeMirjian	Saleslady
+cast	Ben Astar	Abdul Ben Hassan
+cast	Judith Burnett	Ming-Fa
+cast	Leo Gorcey Jr.	Louie - Bartender
+cast	Dawna Lee Heising	Showgirl
+cast	Sharon Hesky	Bar Patron
+cast	Kelly Hine	Showgirl
+cast	Tom Hutchinson	Bartender
+cast	Charles Knapp	Bartender
+cast	Rose Mascari	Bar Patron
+cast	Jirô Okazaki	Policeman
+cast	Steve Pope	Policeman
+cast	Robert Reiter	Policeman
+cast	Alexis Rhee	Geisha #1

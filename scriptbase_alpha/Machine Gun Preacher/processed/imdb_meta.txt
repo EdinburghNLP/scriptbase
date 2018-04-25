@@ -1,0 +1,153 @@
+year	2011
+imdb score	6.9
+meta score	43
+genre	Action
+genre	Biography
+genre	Crime
+genre	Drama
+keyword	africa
+keyword	biker
+keyword	orphanage
+keyword	civil war
+keyword	pennsylvania
+keyword	christianity
+keyword	uganda
+keyword	child soldier
+keyword	hitchhiker
+keyword	east africa
+keyword	sudanese
+keyword	sudan
+keyword	machine gun
+keyword	lord's resistance army
+keyword	ak 47
+keyword	rocket launcher
+keyword	tornado
+keyword	desert
+keyword	shootout
+keyword	hero as criminal
+keyword	shotgun
+keyword	f word
+keyword	humanitarian
+keyword	savior
+keyword	ugandan civil war
+keyword	sex in car
+keyword	torture victim
+keyword	hero
+keyword	three word title
+keyword	motorcycle gang
+keyword	drug dealer
+keyword	charity
+keyword	racist
+keyword	christian subtext
+keyword	construction business
+keyword	mercenary
+keyword	ugandan
+keyword	unlikely hero
+keyword	messiah complex
+keyword	fighting fire with fire
+keyword	white savior
+keyword	orphan
+keyword	weapon in title
+keyword	vigilante
+keyword	trailer home
+keyword	exploding car
+keyword	ex con
+keyword	based on true story
+keyword	title spoken by character
+keyword	
+cast	Gerard Butler	Sam Childers
+cast	Michelle Monaghan	Lynn Childers
+cast	Kathy Baker	Daisy
+cast	Michael Shannon	Donnie
+cast	Ryann Campos	Paige #1
+cast	Madeline Carroll	Paige #2
+cast	Souleymane Sy Savane	Deng
+cast	Grant R. Krause	Billy / Contractor
+cast	Reavis Graham	Pastor Krause
+cast	Peter Carey	Bill Wallace
+cast	Barbara Coven	Shannon Wallace
+cast	Misty Mills	Biker Chick
+cast	Nicole Michele Sobchack	Bartender
+cast	Sidi Henderson	Shaved Head
+cast	Mike Litaker	Drifter
+cast	Judy Stepanian	Employment Woman
+cast	Peter Tocco	Mechanic
+cast	Inga R. Wilson	Mrs. Shields
+cast	Bruce Bennett	Pastor Relling
+cast	Steve Blackwood	Bank Manager
+cast	Brett Wagner	Ben Hobbes / Biker
+cast	Ava Schroeder	Hobbes Daughter
+cast	Sean Patrick Leonard	Crackhead
+cast	Mandalynn Carlson	Paige's Friend
+cast	David Whitesell	Customs Officer
+cast	Matthew J. Boucher	Mover
+cast	Richard Goteri	Pawn Shop Owner
+cast	Claudia Rodgers	Sue / Volunteer
+cast	Scott Westerman	Biker
+cast	Michele DeSelms	Newscaster
+cast	Rhema Marvanne	Child Singer
+cast	Janet L. Miller	Church Pianist
+cast	Paul Lang	Prison Clerk
+cast	Percy Matsemela	Nineteen
+cast	Ronnie Nyakale	AJ
+cast	Mduduzi Mabaso	Marco
+cast	Fana Mokoena	John Garang
+cast	Junior Magale	William
+cast	Jessica Joffe	Agnete Closson
+cast	Abena Ayivor	Betty
+cast	Warona Seane	Rose
+cast	Sophie 'Mer' Ayang	Betty's Helper
+cast	Ruley Madriagi	SPLA Soldier #1
+cast	Chris Agwai	SPLA Solder #2
+cast	Makhaola Ndebele	SPLA Soldier #3
+cast	Jacob Ayuel	SPLA Dinka Soldier
+cast	Khutso Thobejane	Matak
+cast	Tshepiso Chanke	Cleo
+cast	Nompumeleo Khumalo	Poppy
+cast	Tinah Mnumzana	William's Mother
+cast	Themba Ndaba	William's Father
+cast	Kgosi Modisane	Christopher
+cast	Leonard Mahore	LRA Walking Soldier #1
+cast	Warren Masemola	LRA Commander
+cast	Festo Ayume Sanya	Village Man #1
+cast	Anthony Bishop	Dan
+cast	Jerry Mofokeng	Administrator
+cast	Xolile Gama	Adult Rebel
+cast	Nande Myamya	Alice
+cast	Aristotle Bashengezi	Alice's Brother
+cast	Zithulele 'Zele' Masondo	Alice's Sister
+cast	Mulweli Muofhe	Anthony
+cast	Khulu Skenjana	Adult Rebel #1
+cast	Masasa Mbangeni	Lip-less Woman
+cast	Mandla Gaduka	SPLA Soldier #1
+cast	Jan Rust Maloney	Doctor #1
+cast	Marianee Boshof	Doctor #2
+cast	Robert Kuloba	Male Refugee 'Acholi'
+cast	Wandile Molebatsi	LRA Commander
+cast	Sphelele Mzimela	LRA Walking Soldier
+cast	Tau Maserumule	LRA Soldier
+cast	Sicelo Sithole	LRA Leader at Bridge
+cast	Wandile Mdandla	Child Rebel #1 at Bridge
+cast	Sebo Moabelo	Child Rebel #2 at Bridge
+cast	Dalton Mdaka	Agnete's Driver
+cast	Jabulani Dube	LRA Soldier at Camp
+cast	Ikagene Mogotusi	Sniper
+cast	Motshwane 'JR' Mabogoane	Riverbed Child #1
+cast	Lebogang Phoshoko	Riverbed Child #2
+cast	Kagiso Legoadi	Green Shorts Boy
+cast	Hlelo Nhlapo	Green Shorts Sister
+cast	Ned Qwela	Boy with Soccer Ball #1
+cast	William Ogbonna	Boy with Soccer Ball #2
+cast	Elias Bahri	Teenage Boy
+cast	Angela N. Brown	Woman at Jail
+cast	Patricia Lynne Cissell	Church congregation member
+cast	Suzy Hunt	Bar Patron
+cast	Corey Large	American Businessman
+cast	Ray MacDonald	Parishioner
+cast	Jon Manthei	Congregation Member
+cast	Melissa Marra	Bar Patron
+cast	Michael Matthews	Church Attendant
+cast	Nicholas Ritz	Bank Teller
+cast	Illyria Rossman	Traveler
+cast	Joseph Smith	Construction Worker
+cast	Morris Lee Sullivan	Congregation Member

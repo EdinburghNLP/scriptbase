@@ -1,0 +1,209 @@
+year	2002
+imdb score	8.5
+meta score	85
+genre	Biography
+genre	Drama
+genre	War
+keyword	warsaw ghetto
+keyword	jewish
+keyword	piano
+keyword	nazi
+keyword	pianist
+keyword	deportation
+keyword	ruins
+keyword	poland
+keyword	concert
+keyword	1930s
+keyword	1940s
+keyword	musician
+keyword	based on autobiography
+keyword	prisoner of war
+keyword	disc jockey
+keyword	person in a wheelchair falls from height
+keyword	bathtub
+keyword	ss
+keyword	loss of brother
+keyword	gestapo
+keyword	tinnitus
+keyword	budding friendship
+keyword	hospital
+keyword	loaf of bread
+keyword	loss of father
+keyword	weight loss
+keyword	corpse
+keyword	nazi occupied poland
+keyword	shot in the forehead
+keyword	starvation
+keyword	hunger
+keyword	shot in the head
+keyword	panzer
+keyword	contraband
+keyword	killing someone in a wheelchair
+keyword	fugitive from the nazis
+keyword	loss of sister
+keyword	passionate
+keyword	separation from family
+keyword	warsaw poland
+keyword	whipping
+keyword	execution
+keyword	piano concerto
+keyword	hiding place
+keyword	freight train
+keyword	tank
+keyword	atrocity
+keyword	grenade launcher
+keyword	jaundice
+keyword	surviving
+keyword	murder
+keyword	anti semitism
+keyword	resistance
+keyword	mass murder
+keyword	attacking someone in a wheelchair
+keyword	violence
+keyword	pogrom
+keyword	long suffering
+keyword	dead children
+keyword	underground resistance
+keyword	hit on the head with a rifle
+keyword	wheelchair
+keyword	thrown through a window
+keyword	survival
+keyword	losing weight
+keyword	world war two
+keyword	war crime
+keyword	luggage
+keyword	molotov cocktail
+keyword	blood
+keyword	loss of mother
+keyword	restaurant
+keyword	mistaken identity
+keyword	flamethrower
+keyword	pen knife
+keyword	grand piano
+keyword	nazi occupation
+keyword	second chance
+keyword	faked death
+keyword	bloody body of a child
+keyword	wall
+keyword	no title at beginning
+keyword	assault rifle
+keyword	no opening credits
+keyword	rooftop
+keyword	suffering
+keyword	desaturated colors
+keyword	nazi soldier
+keyword	attic
+keyword	polish resistance
+keyword	pyre
+keyword	humiliation
+keyword	death of a child
+keyword	police brutality
+keyword	massacre
+keyword	change of heart
+keyword	holocaust
+keyword	pretending to be dead
+keyword	red army
+keyword	child murder
+keyword	genocide
+keyword	bread
+keyword	nazi uniform
+keyword	existentialism
+keyword	ghettoization
+keyword	radio broadcasting
+keyword	fire
+keyword	based on true story
+cast	Adrien Brody	Wladyslaw Szpilman
+cast	Emilia Fox	Dorota
+cast	Michal Zebrowski	Jurek
+cast	Ed Stoppard	Henryk
+cast	Maureen Lipman	Mother
+cast	Frank Finlay	Father
+cast	Jessica Kate Meyer	Halina
+cast	Julia Rayner	Regina
+cast	Wanja Mues	SS Slapping Father
+cast	Richard Ridings	Mr. Lipa
+cast	Nomi Sharron	Feather Woman
+cast	Anthony Milner	Man Waiting to Cross
+cast	Lucy Skeaping	Street Musician
+cast	Roddy Skeaping	Street Musician
+cast	Ben Harlan	Street Musician
+cast	Thomas Lawincky	Schutzpolizei
+cast	Joachim Paul Assböck	Schutzpolizei
+cast	Roy Smiles	Itzak Heller
+cast	Paul Bradley	Yehuda
+cast	Daniel Caltagirone	Majorek
+cast	Andrzej Blumenfeld	Benek
+cast	Darian Wawer	Child at the Wall
+cast	Zbigniew Zamachowski	Customer with Coins
+cast	Lejb Fogelman	Customer with Coins
+cast	Detlev von Wangenheim	SS Officer
+cast	Popeck	Rubenstein
+cast	Zofia Czerwinska	Woman with Soup
+cast	Emilio Fernandez	The Soup Snatcher
+cast	Udo Kroschwald	Schultz
+cast	Uwe Rathsam	SS Shooting the Woman
+cast	Joanna Brodzik	Woman Shot in the Head
+cast	Katarzyna Bargielowska	Wailing Woman
+cast	Maja Ostaszewska	Woman with Child
+cast	John Bennett	Dr. Ehrlich
+cast	Cyril Shaps	Mr. Grün
+cast	Wojciech Smolarz	Boy with Sweets
+cast	Lech Mackiewicz	Fellow Worker
+cast	Ruth Platt	Janina
+cast	Frank-Michael Köbe	SS Shooting Benek
+cast	Torsten Flach	Zig Zag
+cast	Peter Rappenglück	SS Making a Speech
+cast	Ronan Vibert	Janina's Husband
+cast	Krzysztof Pieczynski	Gebczynski
+cast	Katarzyna Figura	Neighbour
+cast	Valentine Pelka	Dorota's Husband
+cast	Andrew Tiernan	Szalas
+cast	Tom Strauss	Dr. Luczak
+cast	Thomas Kretschmann	Captain Wilm Hosenfeld
+cast	Cezary Kosinski	Lednicki
+cast	Grzegorz Artman	
+cast	Adam Bauman	
+cast	Pawel Burczyk	Polish Workman
+cast	Zbigniew Dziduch	
+cast	Marian Dziedziel	
+cast	Nina Franoszek	Polish Woman
+cast	Jerzy Góralczyk	
+cast	John Keogh	Polish Officer
+cast	Jaroslaw Kopaczewski	
+cast	Patrick Lanagan	
+cast	Dmitri Leshchenko	Russian Soldier
+cast	Dorota Liliental	
+cast	Rafal Mohr	Schutzpolizei
+cast	Andrzej Pieczynski	Prisoner
+cast	Morgane Polanski	Girl
+cast	Norbert Rakowski	
+cast	Piotr Siejka	
+cast	Weronika Szen	
+cast	Andrzej Szenajch	
+cast	Tomasz Tyndyk	
+cast	Andrzej Walden	
+cast	Zbigniew Walerys	
+cast	Maciej Winkler	
+cast	Tadeusz Wojtych	
+cast	Andrzej Zielinski	
+cast	Maurycy Zylber	German Film Crew
+cast	Xawery Zylber	
+cast	Tomasz Ciszewski	Jew
+cast	Rafal Dajbor	Soldier
+cast	Roman Garbowski	
+cast	Anna Gryszka	Woman in Ghetto
+cast	Adrian Hood	Piano Buyer
+cast	Ryszard Kluge	Jew Working on the Bulding Site
+cast	Maciej Kowalewski	SS Officer
+cast	Ireneusz Machnicki	SS Officer
+cast	Pawel Malaszynski	Man in Ghetto
+cast	Adam Malecki	German Soldier in the Ghetto
+cast	Aleksandra Nizynska	Girl
+cast	Axel Prahl	German Soldier - Rummage Bags
+cast	Dagmara Sieminska	Women in Ghetto
+cast	Izabella Szolc	Women in Ghetto
+cast	Daniel Szpilman	Boy in Warsaw Ghetto
+cast	Dawid Szurmiej	Man in Ghetto
+cast	Borys Szyc	Young Gestapo
+cast	Jacek Wolszczak	Man in Ghetto
+cast	Pawel Zdun	

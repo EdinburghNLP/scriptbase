@@ -1,0 +1,132 @@
+year	1998
+imdb score	6.9
+meta score	60
+genre	Mystery
+genre	Sci-Fi
+genre	Thriller
+keyword	agent
+keyword	fbi
+keyword	government
+keyword	texas
+keyword	bomb
+keyword	alien
+keyword	conspiracy
+keyword	virus
+keyword	x files
+keyword	truth
+keyword	dallas texas
+keyword	antarctica
+keyword	1990s
+keyword	shot in the temple
+keyword	bee sting
+keyword	mutation
+keyword	bee
+keyword	paranoia
+keyword	helicopter
+keyword	exploding body
+keyword	exploding building
+keyword	cover up
+keyword	d box motion code
+keyword	corpse
+keyword	drunkenness
+keyword	exploding car
+keyword	cornfield
+keyword	falling through ice
+keyword	sequel
+keyword	paranormal phenomena
+keyword	reference to coca cola
+keyword	vaccine
+keyword	prehistoric times
+keyword	reference to pepsi
+keyword	global positioning system
+keyword	caveman
+keyword	government coverup
+keyword	hero
+keyword	underground
+keyword	washington d.c.
+keyword	spacecraft
+keyword	dead child
+keyword	female fbi agent
+keyword	tunisia
+keyword	suicide
+keyword	cigarette smoking
+keyword	falling from height
+keyword	urination
+keyword	morgue
+keyword	beehive
+keyword	cult film
+keyword	based on cult tv series
+keyword	part computer animation
+keyword	desert
+keyword	autopsy
+keyword	flamethrower
+keyword	based on tv series
+keyword	blood splatter
+keyword	london england
+keyword	dormant creature
+keyword	skull
+keyword	kidnapping
+keyword	reference to jiffy pop
+keyword	seti
+keyword	shot in the head
+keyword	fate of the world
+keyword	heroine
+keyword	ufo
+keyword	prehistory
+keyword	title spoken by character
+keyword	surprise ending
+cast	David Duchovny	Agent Fox Mulder
+cast	Gillian Anderson	Agent Dana Scully
+cast	John Neville	The Well-Manicured Man
+cast	William B. Davis	The Cigarette-Smoking Man
+cast	Martin Landau	Kurtzweil
+cast	Mitch Pileggi	Assistant Director Walter Skinner
+cast	Jeffrey DeMunn	Bronschweig
+cast	Blythe Danner	Cassidy
+cast	Terry O'Quinn	Michaud
+cast	Armin Mueller-Stahl	Strughold
+cast	Lucas Black	Stevie
+cast	Christopher Fennell	2nd Boy
+cast	Cody Newton	3rd Boy
+cast	Blake Stokes	4th Boy
+cast	Dean Haglund	Langly
+cast	Bruce Harwood	Byers
+cast	Tom Braidwood	Frohike
+cast	Don S. Williams	Group Elder
+cast	George Murdock	2nd Elder
+cast	Michael Shamus Wiles	Black-Haired Man
+cast	Darrell Davis	Primitive #1
+cast	Carrick O'Quinn	Primitive #2
+cast	Tom Woodruff Jr.	Creature #1
+cast	Greg Ballora	Creature #2
+cast	Ted King	FBI Agent on Roof
+cast	Luis Beckford	FBI Agent
+cast	Steve Rankin	Field Agent
+cast	Gary Grubbs	Fire Captain Cooles
+cast	Steven M. Gagnon	Last Agent Out
+cast	Larry Joshua	DC Cop
+cast	Glendon Rich	DC Cop #2
+cast	Gunther Jenson	Security Guard
+cast	Scott Alan Smith	Technician
+cast	Ian Ruskin	Well-Manicured Man's Valet
+cast	Paul Welterlen	Control Room Operator
+cast	Joel Traywick	Young Naval Guard
+cast	Milton Johns	British Valet
+cast	Paul Tuerpe	1st Paramedic
+cast	Michael Krawic	2nd Paramedic
+cast	Larry Rippenkroeger	Towncar Driver
+cast	Josh McLaglen	Buzz Mihoe
+cast	Randy Hall	Windbreakered Agent
+cast	T.C. Badalato	Fireman
+cast	Amine Zary	Tunisian
+cast	David Paris	Pilot
+cast	Vanessa Morley	Young Samantha Mulder
+cast	Jason Beghe	FBI Man at Bomb Site
+cast	Darrell Britt	Texas Businessman
+cast	Fuad C'Amanero	FBI Agent
+cast	Maxine English	Dead Wife in Trunk
+cast	Gilley Grey	Firefighter #2
+cast	Glenne Headly	Barmaid
+cast	Anthony Sandstrom	Special skills extra
+cast	Mitch Toles	Security Guard #2
+cast	Marcus Turner	Young Fox Mulder

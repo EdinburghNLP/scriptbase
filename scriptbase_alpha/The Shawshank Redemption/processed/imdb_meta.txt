@@ -1,0 +1,299 @@
+year	1994
+imdb score	9.3
+meta score	80
+genre	Crime
+genre	Drama
+keyword	prison
+keyword	murder
+keyword	friend
+keyword	life imprisonment
+keyword	banker
+keyword	imprisonment
+keyword	prisoner
+keyword	time
+keyword	redemption
+keyword	convict
+keyword	1940s
+keyword	hope
+keyword	sitting on a rooftop
+keyword	corpse
+keyword	1950s
+keyword	record player
+keyword	jury
+keyword	reference to john f. kennedy
+keyword	corruption
+keyword	reference to erle stanley gardner
+keyword	based on novella
+keyword	reference to alexandre dumas
+keyword	police arrest
+keyword	prison cell
+keyword	suicide by hanging
+keyword	shoeshine
+keyword	pen knife
+keyword	manhunt
+keyword	voice over narration
+keyword	three word title
+keyword	wrongful imprisonment
+keyword	convicted of murder
+keyword	photographer
+keyword	ambulance
+keyword	box office flop
+keyword	automobile
+keyword	accountant
+keyword	lawyer
+keyword	liquid
+keyword	listening to music on headphones
+keyword	rock hammer
+keyword	mexico
+keyword	harmonica
+keyword	black market
+keyword	worm
+keyword	trial
+keyword	old age
+keyword	homoerotic
+keyword	dog
+keyword	phonograph record
+keyword	bloodhound
+keyword	murder of wife
+keyword	shower room
+keyword	shoes
+keyword	reference to robert louis stevenson
+keyword	suicide by gunshot
+keyword	sewer
+keyword	pigeon
+keyword	wrongful conviction
+keyword	letter read aloud
+keyword	water pipe
+keyword	shot to death
+keyword	courtroom
+keyword	betting
+keyword	embezzlement
+keyword	filth
+keyword	bribe
+keyword	illiteracy
+keyword	missing prisoner
+keyword	education
+keyword	beating
+keyword	income tax
+keyword	violence
+keyword	revenge
+keyword	city park
+keyword	gay sex
+keyword	glasses
+keyword	reporter
+keyword	poetic justice
+keyword	beaten up
+keyword	rope
+keyword	search party
+keyword	tar pitch
+keyword	water hose
+keyword	search
+keyword	first person narration
+keyword	adultery
+keyword	suicide
+keyword	car
+keyword	wall safe
+keyword	book
+keyword	interracial friendship
+keyword	unfaithful wife
+keyword	singing along with a record
+keyword	disinfectant
+keyword	night
+keyword	reference to albert einstein
+keyword	talking through a book shelf
+keyword	bottle of beer
+keyword	poster
+keyword	warden
+keyword	prison bus
+keyword	pet
+keyword	newspaper headline
+keyword	escape from prison
+keyword	rat
+keyword	sitting
+keyword	bird
+keyword	revolver
+keyword	bribery
+keyword	pet bird
+keyword	narrator
+keyword	year 1957
+keyword	police car siren
+keyword	reference to louis l'amour
+keyword	based on the works of stephen king
+keyword	solitary confinement
+keyword	reference to rembrandt
+keyword	danger
+keyword	police
+keyword	dead man
+keyword	prison yard
+keyword	brutality
+keyword	reference to robert frost
+keyword	year 1963
+keyword	year 1946
+keyword	rooftop
+keyword	friendship
+keyword	hat
+keyword	siren
+keyword	letter
+keyword	police car
+keyword	reference to marilyn monroe
+keyword	zihuatanejo mexico
+keyword	weapon
+keyword	false accusation
+keyword	tree
+keyword	photograph
+keyword	friendship between men
+keyword	bible
+keyword	manipulation
+keyword	death
+keyword	happy ending
+keyword	tunnel
+keyword	postcard
+keyword	camera
+keyword	betrayal
+keyword	broken window
+keyword	vomit
+keyword	prison cell search
+keyword	voice over letter
+keyword	man with glasses
+keyword	jail
+keyword	reference to mozart
+keyword	library
+keyword	apple pie
+keyword	blood
+keyword	light
+keyword	suicide of friend
+keyword	pleading
+keyword	police brutality
+keyword	crow
+keyword	escape
+keyword	hollow book
+keyword	year 1947
+keyword	anger
+keyword	year 1949
+keyword	watching a movie
+keyword	hammer
+keyword	flashlight
+keyword	vinyl record
+keyword	beaten to death
+keyword	reference to hank williams
+keyword	threaten to drop from a height
+keyword	prison guard
+keyword	parole board
+keyword	suicide of villain
+keyword	maine
+keyword	flash camera
+keyword	parole violation
+keyword	bullet
+keyword	thunder
+keyword	checkers
+keyword	darkness
+keyword	typewriter
+keyword	prison library
+keyword	maggot
+keyword	murder trial
+keyword	1960s
+keyword	year 1966
+keyword	shiv
+keyword	parole
+keyword	bet
+keyword	hanging
+keyword	freedom
+keyword	press
+keyword	billy club
+keyword	male nudity
+keyword	escape
+keyword	reference to al capone
+keyword	compass
+keyword	reference to raquel welch
+keyword	reference to rita hayworth
+keyword	infidelity
+keyword	talking to a bird
+keyword	character's point of view camera shot
+keyword	rita hayworth poster
+keyword	rain
+keyword	flashback
+keyword	subjective camera
+keyword	lightning
+keyword	judge
+keyword	water
+keyword	cult film
+keyword	mentor
+keyword	male bonding
+keyword	kickback
+keyword	tunneling to freedom
+keyword	gunshot
+keyword	biblical quote
+keyword	beer
+keyword	year 1954
+keyword	parole hearing
+keyword	pie
+keyword	gay rape
+keyword	collector
+keyword	death of friend
+keyword	plot twist
+keyword	surprise ending
+keyword	
+cast	Tim Robbins	Andy Dufresne
+cast	Morgan Freeman	Ellis Boyd 'Red' Redding
+cast	Bob Gunton	Warden Norton
+cast	William Sadler	Heywood
+cast	Clancy Brown	Captain Hadley
+cast	Gil Bellows	Tommy
+cast	Mark Rolston	Bogs Diamond
+cast	James Whitmore	Brooks Hatlen
+cast	Jeffrey DeMunn	1946 D.A.
+cast	Larry Brandenburg	Skeet
+cast	Neil Giuntoli	Jigger
+cast	Brian Libby	Floyd
+cast	David Proval	Snooze
+cast	Joseph Ragno	Ernie
+cast	Jude Ciccolella	Guard Mert
+cast	Paul McCrane	Guard Trout
+cast	Renee Blaine	Andy Dufresne's Wife
+cast	Scott Mann	Glenn Quentin
+cast	John Horton	1946 Judge
+cast	Gordon Greene	1947 Parole Hearings Man
+cast	Alfonso Freeman	Fresh Fish Con
+cast	V.J. Foster	Hungry Fish Con
+cast	John E. Summers	New Fish Guard
+cast	Frank Medrano	Fat Ass
+cast	Mack Miles	Tyrell
+cast	Alan R. Kessler	Laundry Bob
+cast	Morgan Lund	Laundry Truck Driver
+cast	Cornell Wallace	Laundry Leonard
+cast	Gary Lee Davis	Rooster
+cast	Neil Summers	Pete
+cast	Ned Bellamy	Guard Youngblood
+cast	Joe Pecoraro	Projectionist
+cast	Harold E. Cope Jr.	Hole Guard
+cast	Brian Delate	Guard Dekins
+cast	Don McManus	Guard Wiley
+cast	Donald Zinn	Moresby Batter
+cast	Dorothy Silver	1954 Landlady
+cast	Robert Haley	1954 Food-Way Manager
+cast	Dana Snyder	1954 Food-Way Woman
+cast	John D. Craig	1957 Parole Hearings Man
+cast	Ken Magee	Ned Grimes
+cast	Eugene C. DePasquale	Mail Caller
+cast	Bill Bolender	Elmo Blatch
+cast	Ron Newell	Elderly Hole Guard
+cast	John R. Woodward	Bullhorn Tower Guard
+cast	Chuck Brauchler	Man Missing Guard
+cast	Dion Anderson	Head Bull Haig
+cast	Claire Slemmer	Bank Teller
+cast	James Kisicki	Bank Manager
+cast	Rohn Thomas	Bugle Editor
+cast	Charlie Kearns	1966 D.A.
+cast	Rob Reider	Duty Guard
+cast	Brian Brophy	1967 Parole Hearings Man
+cast	Paul Kennedy	1967 Food-Way Manager
+cast	James Babson	Con
+cast	Dennis Baker	Old Man on Bus
+cast	Fred Culbertson	Police Officer
+cast	Richard Doone	Con
+cast	Rita Hayworth	Gilda Mundson Farrell
+cast	Alonzo F. Jones	Inmate
+cast	Gary Jones	Convict
+cast	Michael Lightsey	Con
+cast	Chris Page	Traffic
+cast	Brad Spencer	1957 Parole Hearings Guard

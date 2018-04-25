@@ -1,0 +1,361 @@
+year	2010
+imdb score	7.5
+meta score	69
+genre	Action
+genre	Comedy
+genre	Fantasy
+genre	Romance
+keyword	band
+keyword	dating
+keyword	high school
+keyword	hipster
+keyword	rock band
+keyword	guitarist
+keyword	death
+keyword	obsession
+keyword	underage girlfriend
+keyword	battle
+keyword	identical twins
+keyword	actor
+keyword	montréal quebec canada
+keyword	roulette wheel
+keyword	guitar playing
+keyword	blue hair
+keyword	vegan police
+keyword	singing
+keyword	violence
+keyword	monster
+keyword	onomatopoeia
+keyword	tea
+keyword	tough guy
+keyword	thrown through a wall
+keyword	phone booth
+keyword	telephone number
+keyword	snow
+keyword	knocked out
+keyword	despair
+keyword	watching a movie on tv
+keyword	envy
+keyword	microchip
+keyword	crushed to death
+keyword	punched in the face
+keyword	sword fight
+keyword	dream girl
+keyword	desert
+keyword	roller skating
+keyword	dumped by girlfriend
+keyword	catholic
+keyword	fighting
+keyword	fistfight
+keyword	flaming sword
+keyword	coffee
+keyword	shared bed
+keyword	after party
+keyword	slacker
+keyword	jumping through a window
+keyword	cut arm
+keyword	cartoon violence
+keyword	exploding body
+keyword	cheating boyfriend
+keyword	backstage
+keyword	lens flare
+keyword	part animation
+keyword	stabbed in the chest
+keyword	autograph
+keyword	head butt
+keyword	hoodie
+keyword	haircut
+keyword	death by orgasm
+keyword	character says i love you
+keyword	dragon
+keyword	gay sex
+keyword	boy with glasses
+keyword	female drummer
+keyword	punched in the stomach
+keyword	fighting with self
+keyword	surrealism
+keyword	gay
+keyword	self referential
+keyword	coin
+keyword	impalement
+keyword	roommate
+keyword	reference to neil young
+keyword	bare chested male
+keyword	record contract
+keyword	unconsciousness
+keyword	nightclub
+keyword	repeated line
+keyword	knife
+keyword	absurd violence
+keyword	guitar
+keyword	woman in bra and panties
+keyword	finger gun
+keyword	hero murders a woman
+keyword	insecurity
+keyword	slapstick
+keyword	alleyway
+keyword	anti hero
+keyword	showdown
+keyword	based on graphic novel
+keyword	wetting pants
+keyword	character repeating someone else's dialogue
+keyword	good versus evil
+keyword	face slap
+keyword	girl fight
+keyword	text messaging
+keyword	stabbed in the back
+keyword	flash forward
+keyword	gay seduction
+keyword	skateboarder
+keyword	lesbian
+keyword	american
+keyword	drinking
+keyword	break up
+keyword	rock star
+keyword	reference to an academy award
+keyword	infatuation
+keyword	kicked in the stomach
+keyword	vegetarian
+keyword	clothing store
+keyword	egoism
+keyword	orgasm
+keyword	duel
+keyword	slow motion
+keyword	man with glasses
+keyword	singer
+keyword	filmmaking
+keyword	applause
+keyword	green hair
+keyword	chinese
+keyword	reference to stephen stills
+keyword	disappearance
+keyword	drunkenness
+keyword	based on comic
+keyword	fainting
+keyword	whipping
+keyword	montage
+keyword	gay kiss
+keyword	video arcade
+keyword	dying hair
+keyword	pink hair
+keyword	computer
+keyword	kicked in the head
+keyword	female orgasm
+keyword	fast motion scene
+keyword	words on screen
+keyword	pac man
+keyword	wings
+keyword	cell phone
+keyword	blog
+keyword	hallucination
+keyword	split screen
+keyword	brawl
+keyword	critically acclaimed
+keyword	male slaps a male
+keyword	delivery girl
+keyword	twenty something
+keyword	raised middle finger
+keyword	rock 'n' roll
+keyword	altered version of studio logo
+keyword	film director
+keyword	falling down stairs
+keyword	homosexual
+keyword	drummer
+keyword	kung fu
+keyword	fight to the death
+keyword	castle
+keyword	male male kiss
+keyword	bus
+keyword	japanese
+keyword	demoness
+keyword	interracial relationship
+keyword	video game parody
+keyword	saying goodbye
+keyword	ex boyfriend ex girlfriend relationship
+keyword	coffee shop
+keyword	catholic school
+keyword	glowing eyes
+keyword	boyfriend girlfriend relationship
+keyword	reference to liberace
+keyword	karate
+keyword	limousine
+keyword	thrown into the air
+keyword	holding hands
+keyword	versus in title
+keyword	animated flashback
+keyword	teenage girl
+keyword	bolt upright after nightmare
+keyword	x rayed skeleton
+keyword	gay friend
+keyword	martial arts
+keyword	prologue
+keyword	sharing a bed
+keyword	music store
+keyword	video game reference
+keyword	supernatural power
+keyword	watching tv
+keyword	stalking
+keyword	friendship
+keyword	self centeredness
+keyword	bleeped dialogue
+keyword	toilet humor
+keyword	laser sword
+keyword	teenager
+keyword	levitation
+keyword	portal
+keyword	ninja
+keyword	swing
+keyword	hand to hand combat
+keyword	cooking
+keyword	urination
+keyword	e mail
+keyword	animated sequence
+keyword	toronto ontario canada
+keyword	self respect
+keyword	unemployment
+keyword	explosion
+keyword	dumped by boyfriend
+keyword	spotlight
+keyword	based on comic book
+keyword	girl with glasses
+keyword	making out
+keyword	gay roommate
+keyword	disarming someone
+keyword	women's bathroom
+keyword	nightmare
+keyword	roller skater
+keyword	indie rock
+keyword	park
+keyword	fight
+keyword	teleportation
+keyword	apology
+keyword	voice over narration
+keyword	film set
+keyword	repeated event
+keyword	falling from height
+keyword	back from the dead
+keyword	drugstore
+keyword	lesbianism
+keyword	bar
+keyword	mixed martial arts
+keyword	stunt double
+keyword	subjective camera
+keyword	jealousy
+keyword	battle of the bands
+keyword	animated opening credits
+keyword	lesbian stereotype
+keyword	beating
+keyword	karate chop
+keyword	twin brother
+keyword	friend
+keyword	men sharing bed
+keyword	canadian
+keyword	kicked in the face
+keyword	action hero
+keyword	legs
+keyword	roller skates
+keyword	murder
+keyword	film within a film
+keyword	amplifier
+keyword	sword duel
+keyword	gin and tonic
+keyword	police
+keyword	character's point of view camera shot
+keyword	gash in the face
+keyword	absurd humor
+keyword	sword
+keyword	library
+keyword	drum set
+keyword	pizza parlor
+keyword	flashback
+keyword	brother sister relationship
+keyword	broken eyeglasses
+keyword	song
+keyword	prologue
+keyword	psychic
+keyword	musician
+keyword	bass guitar
+keyword	party
+keyword	ex girlfriend ex girlfriend relationship
+keyword	lifting someone into the air
+keyword	listening in on a telephone call
+keyword	music industry
+keyword	vegan
+keyword	stylized violence
+keyword	dream
+keyword	woman punching a man
+keyword	skateboard
+keyword	bisexual
+keyword	coca cola
+keyword	subtitled scene
+keyword	drums
+keyword	mallet
+keyword	ray gun
+keyword	telekinesis
+keyword	comical female death
+keyword	apartment
+keyword	music producer
+keyword	cult film
+keyword	vampire
+keyword	book
+keyword	box office flop
+keyword	man punching a woman
+keyword	egotist
+keyword	fireball
+keyword	telepathy
+keyword	character name in title
+keyword	
+cast	Michael Cera	Scott Pilgrim
+cast	Alison Pill	Kim Pine
+cast	Mark Webber	Stephen Stills
+cast	Johnny Simmons	Young Neil
+cast	Ellen Wong	Knives Chau
+cast	Kieran Culkin	Wallace Wells
+cast	Anna Kendrick	Stacey Pilgrim
+cast	Aubrey Plaza	Julie Powers
+cast	Mary Elizabeth Winstead	Ramona Flowers
+cast	Ben Lewis	Other Scott
+cast	Nelson Franklin	Comeau
+cast	Kristina Pesic	Sandra
+cast	Ingrid Haas	Monique
+cast	Marlee Otto	Party Goer
+cast	Will Bowes	Party Goer
+cast	Celine Lepage	Party Goer
+cast	Mark LeRoy	Party Goer
+cast	Kerr Hewitt	Jimmy
+cast	Chantelle Chung	Tamara Chen
+cast	Matt Watts	Promoter
+cast	Erik Knudsen	Crash
+cast	Maurie W. Kaufmann	Joel
+cast	Abigail Chu	Trasha
+cast	Satya Bhabha	Matthew Patel
+cast	Christine Watson	Demon Hipster Chick
+cast	Chris Evans	Lucas Lee
+cast	Don McKellar	Director
+cast	Emily Kassie	Winifred Hailey
+cast	Jung-Yul Kim	Goon
+cast	Brie Larson	Envy Adams
+cast	Mae Whitman	Roxy Richter
+cast	Tennessee Thomas	Lynette Guycott
+cast	Brandon Routh	Todd Ingram
+cast	Jason Schwartzman	Gideon Graves
+cast	Keita Saitou	Kyle Katayanagi
+cast	Shôta Saitô	Ken Katayanagi
+cast	Michael Lazarovitch	Some Guy
+cast	John Patrick Amedori	Lollipop Hipster
+cast	Joe Dinicol	Elevator Hipster
+cast	Craig Stickland	Elevator Hipster
+cast	Bill Hader	The Voice
+cast	Ryan Allen	Bouncer
+cast	Clifton Collins Jr.	Vegan Police
+cast	Daniel Cristofori	Lee's Palace Patron
+cast	Walter Gasparovic	First Assistant Director
+cast	Thomas Jane	Vegan Police
+cast	Hope Larson	Lee's Palace Bar Patron
+cast	Chuck Little	Roadie
+cast	Jessica Martins	Girlfriend #1
+cast	Tara Mason	Party Goer
+cast	Alexander Narizni	Clubber
+cast	Bryan Lee O'Malley	Lee's Palace Bar Patron
+cast	Joe Vercillo	Bartender
+cast	Joshua William James	Lee's Palace Bar Patron

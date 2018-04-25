@@ -1,0 +1,224 @@
+year	2002
+imdb score	6.5
+meta score	71
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	discount store
+keyword	store
+keyword	loudspeaker announcement
+keyword	hate
+keyword	kissing while having sex
+keyword	baby
+keyword	cigarette smoking
+keyword	beer
+keyword	sex in a bed
+keyword	suicide of colleague
+keyword	twisted ankle
+keyword	blackberry
+keyword	bed
+keyword	topless female nudity
+keyword	employer employee relationship
+keyword	twenty something
+keyword	reading while sitting on a toilet
+keyword	boyfriend girlfriend relationship
+keyword	suicide by gunshot
+keyword	drunkenness
+keyword	cosmetics
+keyword	bare chested male
+keyword	female nudity
+keyword	stoned
+keyword	father son relationship
+keyword	bath
+keyword	reference to holden caulfield
+keyword	life support
+keyword	parasite
+keyword	sperm sample
+keyword	paint
+keyword	vomiting
+keyword	infidelity
+keyword	masturbation
+keyword	german shepherd
+keyword	painter
+keyword	suicide of lover
+keyword	sex with a coworker
+keyword	jealousy
+keyword	applying makeup
+keyword	small town
+keyword	dysfunctional marriage
+keyword	pagan
+keyword	alsatian
+keyword	watching tv
+keyword	male masturbation
+keyword	ten commandments
+keyword	christian
+keyword	motel sex
+keyword	male rear nudity
+keyword	fertility
+keyword	dream
+keyword	aspiring writer
+keyword	beating
+keyword	motel room
+keyword	sex scene
+keyword	sex at work
+keyword	women's bathroom
+keyword	christianity
+keyword	pickup truck
+keyword	discovering one is pregnant
+keyword	reference to jesus christ
+keyword	drug use
+keyword	low sperm count
+keyword	depression
+keyword	liquid drano cleaner
+keyword	motel
+keyword	drinking
+keyword	30 year old
+keyword	motel desk clerk
+keyword	love
+keyword	second chance
+keyword	lie
+keyword	automatic door
+keyword	face slap
+keyword	heavy makeup
+keyword	death of a co worker
+keyword	mental hospital
+keyword	talking in bed after sex
+keyword	thirty something
+keyword	halloween
+keyword	guilt
+keyword	sex in a store
+keyword	sex with husband's best friend
+keyword	barking dog
+keyword	man slaps a woman
+keyword	liberation
+keyword	mother son relationship
+keyword	sex in a motel
+keyword	cashier
+keyword	loner
+keyword	voice over narration
+keyword	born again christian
+keyword	suicide of friend
+keyword	unfaithfulness
+keyword	suicide
+keyword	death
+keyword	bare butt
+keyword	marijuana
+keyword	friendship
+keyword	drugs
+keyword	older woman younger man relationship
+keyword	marriage
+keyword	trying to conceive
+keyword	drink
+keyword	crying
+keyword	house painter
+keyword	reference to chucky cheese
+keyword	retail
+keyword	note
+keyword	family relationships
+keyword	uniform
+keyword	penis
+keyword	talking in bed
+keyword	nudity
+keyword	pregnant wife
+keyword	hospital
+keyword	three word title
+keyword	mental illness
+keyword	women's rights
+keyword	security guard
+keyword	swimming
+keyword	car
+keyword	picnic table
+keyword	facial bruise
+keyword	store security
+keyword	loudspeaker
+keyword	vomit
+keyword	gunshot
+keyword	deception
+keyword	adulterous wife
+keyword	flashback
+keyword	retail store
+keyword	liar
+keyword	friend
+keyword	husband wife relationship
+keyword	reference to catcher in the rye
+keyword	burglary
+keyword	psychiatric hospital
+keyword	black comedy
+keyword	pregnancy test
+keyword	food poisoning
+keyword	makeup
+keyword	writer
+keyword	public address system
+keyword	kiss
+keyword	sex
+keyword	male frontal nudity
+keyword	church
+keyword	rain
+keyword	tears
+keyword	pregnancy
+keyword	extramarital affair
+keyword	pain
+keyword	watching news on tv
+keyword	thief
+keyword	sperm count
+keyword	nervous breakdown
+keyword	store room
+keyword	devil worshiper
+keyword	hand on a breast
+keyword	female vomiting
+keyword	salesperson
+keyword	poor tv reception
+keyword	news report
+keyword	gun
+keyword	theft
+keyword	dog
+keyword	bacteria
+keyword	cuckold
+keyword	church of nazarene
+keyword	stabbed in the hand
+keyword	bible study
+keyword	female sitting on a toilet
+keyword	blackmail
+keyword	bathtub
+keyword	male slaps a female
+keyword	sperm
+keyword	adultery
+keyword	pet dog
+keyword	reference to chuck e. cheese
+keyword	infertility
+keyword	22 year old
+keyword	texas
+keyword	limp
+keyword	co worker
+keyword	adulteress
+keyword	cartoon on tv
+keyword	male nudity
+keyword	suicide by shooting one's self in the head
+keyword	bare breasts
+keyword	illness
+keyword	police
+keyword	driving
+keyword	bible
+keyword	independent film
+cast	Jennifer Aniston	Justine Last
+cast	Deborah Rush	Gwen Jackson
+cast	Mike White	Corny
+cast	John Carroll Lynch	Jack Field, Your Store Manager
+cast	Jake Gyllenhaal	Holden Worther
+cast	Zooey Deschanel	Cheryl
+cast	John C. Reilly	Phil Last
+cast	Tim Blake Nelson	Bubba
+cast	Jacquie Barnbrook	Heavy Set Woman
+cast	Annie O'Donnell	Haggard Woman
+cast	John Doe	Mr. Worther
+cast	Roxanne Hart	Mrs. Worther
+cast	Jon Shere	Lester
+cast	Alice Amter	Big Haired Woman
+cast	Jean Rhodes	Old Woman
+cast	Aimee Garcia	Nurse
+cast	Lalo Guerrero	Blackberry Vendor
+cast	Michael Hyatt	Floberta
+cast	Ken Rudulph	Reporter
+cast	Enzo	Bits
+cast	Michael Laren	Holden's Neighbor
+cast	Gail Borges	Makeup Patron

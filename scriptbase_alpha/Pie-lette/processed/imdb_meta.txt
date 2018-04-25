@@ -1,0 +1,31 @@
+year	2008
+imdb score	8.7
+meta score	N/A
+genre	Comedy
+genre	Drama
+genre	Fantasy
+genre	Mystery
+genre	Romance
+cast	Lee Pace	Ned
+cast	Anna Friel	Charlotte 'Chuck' Charles
+cast	Chi McBride	Emerson Cod
+cast	Jim Dale	Narrator
+cast	Ellen Greene	Vivian Charles
+cast	Swoosie Kurtz	Lily Charles
+cast	Kristin Chenoweth	Olive Snook
+cast	Patrick Breen	Leo Gaswint
+cast	Terry Anzur	Newscaster #3
+cast	Ed Brigadier	Minister
+cast	Field Cate	Young Ned
+cast	Ted Garcia	Newscaster #1
+cast	Murray Gershenz	Rabbi
+cast	Tina Gloss	Ned's Mother
+cast	Brad Grunberg	Funeral Director
+cast	Sammi Hanratty	Young Chuck
+cast	Geraud Moncure	Newscaster #4
+cast	Leyna Nguyen	Newscaster #2
+cast	Sy Richardson	Coroner
+cast	Greg Suddeth	Gravedigger #1
+cast	David Trice	Martin Miltinberger
+cast	Julie Wittner	Deedee Duffield
+cast	Jeff Wolfe	Shiny Shoes Killer

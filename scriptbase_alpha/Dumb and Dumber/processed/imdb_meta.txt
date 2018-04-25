@@ -1,0 +1,218 @@
+year	1994
+imdb score	7.3
+meta score	39
+genre	Comedy
+keyword	criminal
+keyword	airport
+keyword	aspen colorado
+keyword	briefcase full of money
+keyword	bet
+keyword	connecticut
+keyword	character repeating someone else's dialogue
+keyword	555 phone number
+keyword	truck stop
+keyword	gas station
+keyword	tv commercial
+keyword	1990s
+keyword	soiling pants
+keyword	falling from height
+keyword	driving in the nude
+keyword	broken arm
+keyword	dream girl
+keyword	blind child
+keyword	utah
+keyword	benefit
+keyword	phone booth
+keyword	providence rhode island
+keyword	face slap
+keyword	newspaper
+keyword	road trip
+keyword	cigarette smoking
+keyword	friendship
+keyword	killing an animal
+keyword	drinking urine
+keyword	van
+keyword	massage
+keyword	jumping on a bed
+keyword	idiot
+keyword	endangered species
+keyword	skiing
+keyword	unlikely hero
+keyword	tuxedo
+keyword	blockbuster
+keyword	crying man
+keyword	heart ripped out
+keyword	restaurant
+keyword	on the road
+keyword	prank gone wrong
+keyword	singing in a car
+keyword	foolish
+keyword	cult film
+keyword	punched in the crotch
+keyword	urination
+keyword	slapstick comedy
+keyword	ski lift
+keyword	icelandic owl
+keyword	rescue
+keyword	telling a joke
+keyword	snow
+keyword	spitting on a hamburger
+keyword	person on fire
+keyword	fired from the job
+keyword	kicked in the crotch
+keyword	pennsylvania
+keyword	pepper
+keyword	unrequited love
+keyword	kidnapping
+keyword	cane
+keyword	motel
+keyword	clumsiness
+keyword	tongue stuck on a pole
+keyword	exploding car
+keyword	nebraska
+keyword	urinating into a bottle
+keyword	bare chested male
+keyword	bar
+keyword	waitress
+keyword	drugged drink
+keyword	held at gunpoint
+keyword	hotel suite
+keyword	hit with a door
+keyword	toilet
+keyword	date
+keyword	kicked in the face
+keyword	sexual fantasy
+keyword	cigar smoking
+keyword	parakeet
+keyword	salt
+keyword	severed head
+keyword	car crash
+keyword	dead bird
+keyword	heart in hand
+keyword	snowball fight
+keyword	stepmother stepdaughter relationship
+keyword	scooter
+keyword	dine and dash
+keyword	apartment
+keyword	limousine
+keyword	hitchhiker
+keyword	snowman
+keyword	ampersand in title
+keyword	female rear nudity
+keyword	state trooper
+keyword	punched in the face
+keyword	hot tub
+keyword	reference to cinderella
+keyword	lamborghini
+keyword	cult film
+keyword	top hat
+keyword	repetition in title
+keyword	dog
+keyword	ulcer
+keyword	limousine driver
+keyword	illiteracy
+keyword	worm farm
+keyword	bulletproof vest
+keyword	shot in the chest
+keyword	ransom
+keyword	beer
+keyword	travel
+keyword	mississippi
+keyword	knocked out
+keyword	x lax
+keyword	character says i love you
+keyword	mouth spray
+keyword	pills
+keyword	scene during opening credits
+keyword	sleeping in a car
+keyword	fantasy sequence
+keyword	ski
+keyword	flatulence
+keyword	pistol
+keyword	stupidity
+keyword	woman in a bikini
+keyword	arrest
+keyword	poison
+keyword	defecation
+keyword	fbi agent
+keyword	pedicure
+keyword	independent film
+keyword	
+cast	Jim Carrey	Lloyd Christmas
+cast	Jeff Daniels	Harry Dunne
+cast	Lauren Holly	Mary Swanson
+cast	Mike Starr	Joe Mentalino
+cast	Karen Duffy	J.P. Shay
+cast	Charles Rocket	Nicholas Andre
+cast	Victoria Rowell	Athletic Beauty
+cast	Joe Baker	Barnard
+cast	Hank Brandt	Karl Swanson
+cast	Teri Garr	Helen Swanson
+cast	Brady Bluhm	Billy
+cast	Cam Neely	Sea Bass
+cast	Felton Perry	Detective Dale
+cast	Brad Lockerman	Bobby
+cast	Rob Moran	Bartender
+cast	Kathryn Frick	Cashier
+cast	Zen Gesner	Dale's Man #1
+cast	Lawrence Kopp	Dale's Man #2
+cast	Clint Allen	Coroner
+cast	Connie Sawyer	Elderly Lady
+cast	Lin Shaye	Mrs. Neugeboren
+cast	Mike Watkis	Reporter
+cast	Harland Williams	State Trooper
+cast	Diane Kinerk	Waitress #1
+cast	Lisa Stothard	Bus Stop Beauty
+cast	Sean Gildea	Sea Bass Friend
+cast	Charles Rahi Chun	Flight Attendant
+cast	Helen Boll	Swanson Maid
+cast	Fred Stoller	Anxious Man at Phone
+cast	Hillary Matthews	Waitress #2
+cast	Karen Ingram	Nicholas's Girl
+cast	Jesse Borja	Martial Artist
+cast	Vene L. Arcoraci	Bikini Girl
+cast	Anna Anka	Bikini Girl
+cast	Samantha Carpel	Bikini Girl
+cast	Elaine Wood	Bikini Girl
+cast	Bruce Bowns	Barber
+cast	Denise Vienne	Concierge
+cast	Nancy Farrelly	Diner Gawker
+cast	Catalina Izasa	Manicurist
+cast	Samatha Pearson	Masseuse
+cast	Ken Duvall	Mutt Cutts Boss
+cast	Cecile Krevoy	Airport Bystander
+cast	George Bedard	Peeing Man
+cast	Bill Beauchene	Peeing Man Friend
+cast	Gary Sivertsen	Aspen Police Officer
+cast	John Stroehman	Preservation Partier
+cast	Terry Mullany	Preservation Partier
+cast	Brad Blank	Preservation Partier
+cast	Mark Miosky	Preservation Partier
+cast	Mike Cavallo	Preservation Partier
+cast	Tom Leasca	Preservation Partier
+cast	Kevin Sheehan	Preservation Partier
+cast	Kenny Griswold	Preservation Partier
+cast	Brian Mone	Preservation Partier
+cast	Brad Norton	Preservation Partier
+cast	John Dale	Preservation Partier
+cast	Mike Burke	Preservation Partier
+cast	Kevin Constantine	Preservation Partier
+cast	Chris Spain	Preservation Partier
+cast	Paul Pelletier	Preservation Partier
+cast	Mark Levine	Preservation Partier
+cast	Billy Smith	Preservation Partier
+cast	Mark Charpentier	Preservation Partier
+cast	James 'Sporty' Ahern	Preservation Partier
+cast	Jim Blake	Preservation Partier
+cast	Traci Adell	Sexy Woman
+cast	Anita Rice	Sweater Friend
+cast	Pam Nielson	Sweater Friend
+cast	Nancy Barker	Sweater Friend
+cast	Brad Louder	Sweater Friend
+cast	Doug Caputo	Sweater Friend
+cast	James Horrocks	Sweater Friend
+cast	Rolf Sigurd Brekke	Sweater Friend
+cast	Clem Franek	Wallbanger
+cast	Marty Fresca	Farmworker Singing "Mocking Bird"
+cast	Kirsten Maryott	Bikini Girl
+cast	Josh Shipley	Preservation Partier

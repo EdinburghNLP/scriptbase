@@ -1,0 +1,131 @@
+year	2002
+imdb score	7.1
+meta score	56
+genre	Mystery
+genre	Thriller
+keyword	phone booth
+keyword	publicist
+keyword	sniper
+keyword	sniper rifle
+keyword	hostage
+keyword	new york city
+keyword	police
+keyword	psychopath
+keyword	pimp
+keyword	extortionist
+keyword	megaphone
+keyword	wedding ring
+keyword	shotgun
+keyword	split screen
+keyword	video camera
+keyword	slow motion
+keyword	flashback
+keyword	marriage
+keyword	tourist
+keyword	unsubtitled foreign language
+keyword	traced call
+keyword	manhattan new york city
+keyword	death
+keyword	redemption
+keyword	swat team
+keyword	prank telephone call
+keyword	voice over narration
+keyword	bullet hole
+keyword	stalker
+keyword	telephone
+keyword	cosmic zoom
+keyword	toy robot
+keyword	phone tap
+keyword	shot in the back
+keyword	times square manhattan new york city
+keyword	product placement
+keyword	gun shot
+keyword	real time
+keyword	police officer
+keyword	studio logo segues into film
+keyword	telephone booth
+keyword	machine gun
+keyword	reference to oprah winfrey
+keyword	adultery
+keyword	tragic event
+keyword	humiliation
+keyword	lasersight
+keyword	single set production
+keyword	mistress
+keyword	actor
+keyword	liar
+keyword	pizza delivery
+keyword	yelling
+keyword	intern
+keyword	television news
+keyword	boyfriend girlfriend relationship
+keyword	extortion
+keyword	rubber bullet
+keyword	television
+keyword	wiretap
+keyword	ambulance
+keyword	murder
+keyword	pay phone
+keyword	telephone call
+keyword	distorted voice
+keyword	ruse
+keyword	prostitute
+keyword	cell phone
+keyword	husband wife relationship
+keyword	throat slitting
+keyword	gun
+keyword	bullet wound
+keyword	media circus
+keyword	revolving door
+keyword	shot in the ear
+keyword	independent film
+keyword	title spoken by character
+keyword	surprise ending
+cast	Colin Farrell	Stu Shepard
+cast	Kiefer Sutherland	The Caller
+cast	Forest Whitaker	Captain Ramey
+cast	Radha Mitchell	Kelly Shepard
+cast	Katie Holmes	Pamela McFadden
+cast	Paula Jai Parker	Felicia
+cast	Arian Waring Ash	Corky
+cast	Tia Texada	Asia
+cast	John Enos III	Leon
+cast	Richard T. Jones	Sergeant Cole
+cast	Keith Nobbs	Adam
+cast	Dell Yount	Pizza Guy
+cast	James MacDonald	Negotiator
+cast	Josh Pais	Mario
+cast	Yorgo Constantine	ESU Commander
+cast	Colin Patrick Lynch	ESU Technician
+cast	Troy Gilbert	ESU Sniper
+cast	Richard Paradise	ESU Guy
+cast	Seth William Meier	Officer McDuff
+cast	Svetlana Efremova	Erica
+cast	Billy Erb	Lars
+cast	Domenick Lombardozzi	Wyatt
+cast	Maile Flanagan	Lana
+cast	Tom Reynolds	Richard
+cast	Julio Oscar Mechoso	Hispanic Medic
+cast	Karara Muhoro	Nigerian Vendor
+cast	Zidu Chen	Korean Husband
+cast	Shu Lan Tuan	Korean Wife
+cast	Dean Cochran	Reporter #1
+cast	Amy Kowallis	Reporter #2
+cast	Tory Kittles	Reporter #3
+cast	Bruce Roberts	Reporter #4
+cast	Tyree Michael Simpson	Doorman
+cast	Dean Tarrolly	Newscaster
+cast	Mary Randle	Dispatcher
+cast	Paul Fontana	Dispatcher
+cast	Michael Arturo	Policeman
+cast	Phil Paul Call	Driver
+cast	Mia Cottet	Lu Ann
+cast	Ben Foster	Big Q
+cast	Enrique Hernandez	Delivery Person
+cast	Jared Huckaby	1st Officer
+cast	Chris Huvane	Wiseass
+cast	Joshua Kalef	Bomb Squad
+cast	James Madio	Police Officer
+cast	Rana Morrison	Woman in Street Crowd
+cast	Kim Posnett	News Anchor
+cast	Emmett Ivor Thomas	Extra

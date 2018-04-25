@@ -1,0 +1,148 @@
+year	1986
+imdb score	7.4
+meta score	N/A
+genre	Action
+genre	Adventure
+genre	Animation
+genre	Family
+genre	Sci-Fi
+keyword	planet
+keyword	robot
+keyword	battle
+keyword	transforming robot
+keyword	year 2005
+keyword	transformer
+keyword	destiny
+keyword	warrior
+keyword	responsibility
+keyword	death
+keyword	future
+keyword	creature
+keyword	good versus evil
+keyword	alien invasion
+keyword	moon
+keyword	psychadelic image
+keyword	lightsaber
+keyword	spacecraft
+keyword	space station
+keyword	2000s
+keyword	combat
+keyword	sequel
+keyword	chosen one
+keyword	bravery
+keyword	critically bashed
+keyword	escape pod
+keyword	hatred
+keyword	female fighter
+keyword	redemption
+keyword	father figure
+keyword	alien contact
+keyword	ship
+keyword	genocide
+keyword	heroine
+keyword	computer
+keyword	space fight
+keyword	alien space craft
+keyword	future war
+keyword	dark
+keyword	high tech
+keyword	robot vs. robot
+keyword	cult film
+keyword	21st century
+keyword	song
+keyword	weapon
+keyword	messiah
+keyword	hero
+keyword	swordplay
+keyword	father son relationship
+keyword	2d animation
+keyword	giant monster
+keyword	returning character killed off
+keyword	spaceship
+keyword	ufo
+keyword	based on tv series
+keyword	christ allegory
+keyword	heroism
+keyword	courage
+keyword	disguise
+keyword	female soldier
+keyword	technology
+keyword	cruelty
+keyword	faith
+keyword	tragedy
+keyword	shapeshifting
+keyword	villain
+keyword	sadism
+keyword	warrior race
+keyword	alien
+keyword	shot to death
+keyword	violence
+keyword	chase
+keyword	underdog
+keyword	sword fight
+keyword	rescue
+keyword	space battle
+keyword	gun
+keyword	capture
+keyword	space war
+keyword	outer space
+keyword	martial arts
+keyword	based on toy
+keyword	self sacrifice
+keyword	prophecy
+keyword	friendship
+keyword	sword fighting
+keyword	end of the world
+keyword	eaten alive
+keyword	android
+keyword	alien civilization
+keyword	exploding ship
+keyword	electronic music score
+keyword	fictional war
+keyword	hope
+keyword	shot in the chest
+keyword	kendo
+keyword	alien technology
+keyword	cult film
+keyword	space travel
+keyword	double cross
+keyword	flying
+keyword	honor
+keyword	giant robot
+keyword	evil robot
+keyword	death of friend
+keyword	independent film
+cast	Norman Alden	Kranix
+cast	Jack Angel	Astrotrain
+cast	Michael Bell	Prowl / Scrapper / Swoop / Junkion
+cast	Gregg Berger	Grimlock
+cast	Susan Blu	Arcee
+cast	Arthur Burghardt	Devastator
+cast	Corey Burton	Spike / Brawn / Shockwave
+cast	Roger C. Carmel	Cyclonus / Quintesson Leader
+cast	Victor Caroli	Narrator
+cast	Regis Cordic	Quintesson Judge
+cast	Scatman Crothers	Jazz
+cast	Peter Cullen	Optimus Prime / Ironhide
+cast	Bud Davis	Dirge
+cast	Walker Edmiston	Inferno
+cast	Paul Eiding	Perceptor
+cast	Ed Gilbert	Blitzwing
+cast	Dan Gilvezan	Bumblebee
+cast	Eric Idle	Wreck-Gar
+cast	Buster Jones	Blaster
+cast	Stan Jones	Scourge
+cast	Casey Kasem	Cliffjumper
+cast	Chris Latta	Starscream
+cast	David Mendenhall	Daniel
+cast	Don Messick	Gears
+cast	John Moschitta Jr.	Blurr
+cast	Judd Nelson	Hot Rod / Rodimus Prime
+cast	Leonard Nimoy	Galvatron
+cast	Hal Rayle	Shrapnel
+cast	Clive Revill	Kickback
+cast	Neil Ross	Bonecrusher / Hook / Springer / Slag
+cast	Robert Stack	Ultra Magnus
+cast	Lionel Stander	Kup
+cast	Frank Welker	Megatron / Soundwave / Rumble / Frenzy / Laserbeak / Ravage / Wheelie / Auto-combatant / Junkion
+cast	Orson Welles	Unicron

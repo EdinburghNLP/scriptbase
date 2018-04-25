@@ -1,0 +1,3 @@
+logline	A mysterious video kills whoever views it, unless that viewer can solve its mystery.
+tagline	"Will scare the hell out of you!"
+tagline	"One curse, one cure, one week to find it"

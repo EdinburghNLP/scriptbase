@@ -1,0 +1,341 @@
+year	1977
+imdb score	7.6
+meta score	N/A
+genre	Action
+genre	Drama
+genre	War
+keyword	russian
+keyword	sergeant
+keyword	commander
+keyword	prussian
+keyword	german soldier
+keyword	lieutenant
+keyword	soldier
+keyword	german
+keyword	iron cross
+keyword	captain
+keyword	coward
+keyword	arrogance
+keyword	homosexual
+keyword	battle
+keyword	combat
+keyword	honor
+keyword	eastern front
+keyword	colonel
+keyword	ambition
+keyword	combat casualty
+keyword	penis
+keyword	demarcation
+keyword	flashback
+keyword	mirror
+keyword	trench
+keyword	no man's land
+keyword	nightmare
+keyword	bullet
+keyword	bayonet
+keyword	killed in action
+keyword	platoon
+keyword	disciplinary hearing
+keyword	hand grenade
+keyword	rifle
+keyword	cult film
+keyword	smoke
+keyword	hand to hand combat
+keyword	dead soldier
+keyword	infantry
+keyword	virginity
+keyword	happy birthday
+keyword	anti war
+keyword	rocket launcher
+keyword	brutality
+keyword	military uniform
+keyword	private
+keyword	salute
+keyword	touching face
+keyword	bayonet up someone's ass
+keyword	dressing
+keyword	birthday
+keyword	sex
+keyword	machine gun
+keyword	reference to kant
+keyword	rat
+keyword	army outpost
+keyword	knife
+keyword	children
+keyword	shelling
+keyword	exploding tank
+keyword	general
+keyword	cynicism
+keyword	nazi
+keyword	sense of smell
+keyword	trench warfare
+keyword	crimea
+keyword	mass murder
+keyword	fatal injury
+keyword	slaughter
+keyword	gunfire
+keyword	falling into a river
+keyword	bombardment
+keyword	kuban russia
+keyword	chaos
+keyword	toast
+keyword	pond
+keyword	explosion
+keyword	battlefield
+keyword	killing one's own troops
+keyword	blood splatter
+keyword	strangulation
+keyword	mud
+keyword	telephone call
+keyword	despair
+keyword	nurse
+keyword	violence
+keyword	farm
+keyword	france
+keyword	blood splatter
+keyword	injury
+keyword	bloody body of a child
+keyword	polishing boots
+keyword	ruling class
+keyword	mowing down
+keyword	mercilessness
+keyword	urination
+keyword	oral sex
+keyword	tunnel
+keyword	destruction
+keyword	russia
+keyword	commandant
+keyword	railroad track
+keyword	corruption
+keyword	class differences
+keyword	bullet ballet
+keyword	sexual assault
+keyword	battalion
+keyword	bridge
+keyword	dead body
+keyword	wehrmacht
+keyword	submachine gun
+keyword	bathing
+keyword	drunk soldier
+keyword	shot in the back
+keyword	dead children
+keyword	hatred
+keyword	family relationships
+keyword	hospital
+keyword	orders to kill
+keyword	child with gun
+keyword	world war two
+keyword	train
+keyword	military hospital
+keyword	stabbing
+keyword	barbed wire
+keyword	gun duel
+keyword	stronghold
+keyword	wine
+keyword	drink
+keyword	gun
+keyword	tank
+keyword	war atrocity
+keyword	medal
+keyword	killer
+keyword	goldfish
+keyword	cripple
+keyword	fire
+keyword	trapped
+keyword	gestapo
+keyword	gay
+keyword	wheelchair
+keyword	gunfight
+keyword	fighter bomber attack
+keyword	counter attack
+keyword	military headquarters
+keyword	pain
+keyword	sadism
+keyword	friendly fire
+keyword	military
+keyword	nudity
+keyword	stuck in mud
+keyword	shooting
+keyword	barricade
+keyword	woods
+keyword	truck
+keyword	mutilated child
+keyword	bunker
+keyword	apple
+keyword	drunkenness
+keyword	ammunition
+keyword	year 1943
+keyword	nazi soldier
+keyword	assault party
+keyword	forest
+keyword	automatic weapon
+keyword	bombing
+keyword	wound
+keyword	reconnaissance
+keyword	airplane
+keyword	reference to adolf hitler
+keyword	diarrhea
+keyword	photograph
+keyword	arm injury
+keyword	sexual desire
+keyword	murder
+keyword	sexual sadism
+keyword	gun battle
+keyword	fighter bomber
+keyword	motorcycle with a sidecar
+keyword	siberia
+keyword	amputated hand
+keyword	explosive
+keyword	drinking
+keyword	breaking dishes
+keyword	volunteer
+keyword	mascot
+keyword	hiding
+keyword	hallucination
+keyword	military promotion
+keyword	blood
+keyword	non commissioned officer
+keyword	killing
+keyword	orchestra
+keyword	singing
+keyword	german army
+keyword	1940s
+keyword	syphilis
+keyword	cannon fodder
+keyword	face slap
+keyword	boots
+keyword	shot in the stomach
+keyword	teenage boy
+keyword	fellatio
+keyword	letter
+keyword	irony
+keyword	radio
+keyword	unshaved
+keyword	male male kiss
+keyword	shell shock
+keyword	gun
+keyword	freeze frame
+keyword	lilli marlene
+keyword	newsreel footage
+keyword	dust
+keyword	mustard gas
+keyword	group murder
+keyword	death of boy
+keyword	crawling
+keyword	swastika
+keyword	mortar
+keyword	steel helmet
+keyword	kiss
+keyword	frontline
+keyword	lie
+keyword	liar
+keyword	bathtub
+keyword	wealth
+keyword	prisoner
+keyword	beating
+keyword	shot in the chest
+keyword	investigation
+keyword	bazooka
+keyword	slow motion scene
+keyword	air raid shelter
+keyword	russian soldier
+keyword	hand crank telephone
+keyword	survivor
+keyword	first lieutenant
+keyword	birthday cake
+keyword	massacre
+keyword	unconsciousness
+keyword	bitterness
+keyword	boy
+keyword	gay subtext
+keyword	dancer
+keyword	military officer
+keyword	harmonica
+keyword	checkpoint
+keyword	evacuation
+keyword	singer
+keyword	undressing
+keyword	bunk bed
+keyword	food
+keyword	female nudity
+keyword	murder of boy
+keyword	corpse
+keyword	female soldier
+keyword	water
+keyword	broken dish
+keyword	mass destruction
+keyword	cruelty
+keyword	motorcycle
+keyword	adjutant
+keyword	bullet time
+keyword	nipples
+keyword	retreat
+keyword	army nurse
+keyword	horse
+keyword	battle fatigue
+keyword	shell splinter
+keyword	gunshot wound
+keyword	dying
+keyword	corporal
+keyword	foxhole
+keyword	death
+keyword	bare breasts
+keyword	rabbit
+keyword	shaving
+keyword	pistol
+keyword	intimidation
+keyword	anti tank mine
+keyword	cattle car
+keyword	dancing
+keyword	vodka
+keyword	heil hitler
+keyword	gore
+keyword	female prisoner
+keyword	capture
+keyword	song
+keyword	candle
+keyword	penis bitten off
+keyword	concussion
+keyword	spell
+keyword	father figure
+keyword	bomb
+keyword	aristocrat
+keyword	castration
+keyword	stalingrad
+keyword	shot in the neck
+keyword	flatulence
+keyword	cigarette smoking
+keyword	loneliness
+keyword	war violence
+keyword	sadist
+keyword	independent film
+keyword	based on novel
+cast	James Coburn	Unteroffizier Feldwebel
+cast	Maximilian Schell	Hauptmann
+cast	James Mason	Oberst
+cast	David Warner	Hauptmann
+cast	Klaus Löwitsch	Unteroffizier
+cast	Vadim Glowna	Gefreiter
+cast	Roger Fritz	Leutnant
+cast	Dieter Schidor	Anselm
+cast	Burkhard Driest	Schütze Maag
+cast	Fred Stillkrauth	Unteroffizier
+cast	Michael Nowka	Dietz
+cast	Véronique Vendell	Marga
+cast	Arthur Brauss	Pg. Zoll
+cast	Senta Berger	Sister Eva
+cast	Thomas Braut	Unteroffizier Feldwebel
+cast	Heinz Engelmann	Oberst
+cast	Igor Galo	Leutnant
+cast	Katherine Haber	Nurse Sadie Finkelstein
+cast	Wolfgang Hess	Schütze Maag
+cast	Adolf Hitler	Himself
+cast	Sweeney MacArthur	Boy Soldier
+cast	Ivica Pajer	
+cast	Thomas Piper	Hauptmann
+cast	Hermina Pipinic	Ruskinja
+cast	Nedim Prohic	
+cast	Robert Rietty	German Officer
+cast	Dragomir Stanojevic	
+cast	Slavko Stimac	Michail
+cast	Vladan Zivkovic	

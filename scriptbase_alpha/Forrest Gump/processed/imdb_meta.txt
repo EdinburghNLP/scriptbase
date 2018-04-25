@@ -1,0 +1,250 @@
+year	1994
+imdb score	8.8
+meta score	82
+genre	Drama
+genre	Romance
+keyword	love
+keyword	fishing
+keyword	running
+keyword	simple man
+keyword	cult film
+keyword	slow motion
+keyword	military officer
+keyword	innocence
+keyword	church
+keyword	war hero
+keyword	character repeats narrator's words
+keyword	uniform
+keyword	girl with glasses
+keyword	bus
+keyword	handicap
+keyword	male hits a female
+keyword	character appears on a tv talk show
+keyword	u.s. president
+keyword	attempted suicide
+keyword	prayer
+keyword	father
+keyword	loss of virginity
+keyword	balcony
+keyword	serendipity
+keyword	faith
+keyword	jumping into water
+keyword	washington d.c.
+keyword	journey
+keyword	television news
+keyword	bus stop
+keyword	swimming
+keyword	fainting
+keyword	flashback
+keyword	man with glasses
+keyword	hippie
+keyword	assassination of president
+keyword	son
+keyword	loss of mother
+keyword	man hits a woman
+keyword	vietnam war veteran
+keyword	kindness
+keyword	racial slur
+keyword	woman with glasses
+keyword	medal of honor
+keyword	new york city
+keyword	two word title
+keyword	nike
+keyword	loss of friend
+keyword	bully
+keyword	telling someone to run
+keyword	friendship
+keyword	fictional biography
+keyword	grave
+keyword	kissing
+keyword	chocolate
+keyword	fight
+keyword	diving into water
+keyword	assembling a rifle
+keyword	told in flashback
+keyword	drug addict
+keyword	mother
+keyword	splatter
+keyword	calling someone an idiot
+keyword	telling someone to shut up
+keyword	cornfield
+keyword	leg brace
+keyword	maid
+keyword	bathroom
+keyword	feather
+keyword	single mother
+keyword	famous line
+keyword	legless man
+keyword	character appears on magazine cover
+keyword	disabled veteran
+keyword	amputee
+keyword	doctor
+keyword	interracial friendship
+keyword	stock footage
+keyword	face slap
+keyword	mentally impaired
+keyword	racism
+keyword	climbing a tree
+keyword	battle
+keyword	park bench
+keyword	blockbuster
+keyword	death of friend
+keyword	based on book
+keyword	based on novel
+keyword	character name in title
+keyword	title spoken by character
+cast	Tom Hanks	Forrest Gump
+cast	Rebecca Williams	Nurse at Park Bench
+cast	Sally Field	Mrs. Gump
+cast	Michael Conner Humphreys	Young Forrest
+cast	Harold G. Herthum	Doctor
+cast	George Kelly	Barber
+cast	Bob Penny	Crony
+cast	John Randall	Crony
+cast	Sam Anderson	Principal
+cast	Margo Moorer	Louise
+cast	Ione M. Telech	Elderly Woman
+cast	Christine Seabrook	Elderly Woman's Daughter
+cast	John Worsham	Southern Gentleman / Landowner
+cast	Peter Dobson	Young Elvis Presley
+cast	Siobhan Fallon	School Bus Driver
+cast	Alexander Zemeckis	School Bus Boy
+cast	Logan Livingston Gomez	School Bus Boy
+cast	Ben Waddel	School Bus Boy
+cast	Elizabeth Hanks	School Bus Girl
+cast	Hanna Hall	Young Jenny Curran
+cast	Tyler Long	Red Headed Boy
+cast	Christopher Jones	Boy with Cross
+cast	Grady Bowman	Fat Boy
+cast	Kevin Mangan	Jenny's Father
+cast	Fay Genens	Jenny's Grandmother
+cast	Frank Geyer	Police Chief
+cast	Robin Wright	Jenny Curran
+cast	Rob Landry	Red Headed Teen
+cast	Jason McGuire	Fat Teen
+cast	Pete Auster	Teen with Cross
+cast	Sonny Shroyer	College Football Coach
+cast	Brett Rice	High School Football Coach
+cast	Ed Davis	High School Football Coach
+cast	Daniel C. Striepeke	Recruiter
+cast	Bruce Lucvia	Kick Off Return Player
+cast	David Brisbin	Newscaster
+cast	Kirk Ward	Earl
+cast	Angela Lomas	Black Student
+cast	Timothy Record	Black Student
+cast	Deborah McTeer	Woman with Child on Park Bench
+cast	Mark Matheisen	Jenny's Date
+cast	Al Harrington	Local Anchor #1
+cast	Jed Gillin	President Kennedy
+cast	Bob Harks	University Dean
+cast	Don Fischer	Army Recruiter
+cast	Kenneth Bevington	Army Bus Driver
+cast	Michael Flannery	Bus Recruit
+cast	Gary Robinson	Bus Recruit
+cast	Mykelti Williamson	Bubba Blue
+cast	Marlena Smalls	Bubba's Mother
+cast	Kitty K. Green	Bubba's Great Grandmother
+cast	Afemo Omilami	Drill Sergeant
+cast	Matt Wallace	Barracks Recruit
+cast	Danté McCarthy	Topless Girl
+cast	Paulie DiCocco	Emcee
+cast	Mike Jolly	Club Patron
+cast	Michael Kemmerling	Club Patron
+cast	John Voldstad	Club Patron
+cast	Jeffrey Winner	Club Patron
+cast	Russ Wilson	Pick-up Truck Driver
+cast	Daniel J. Gillooly	Helicopter Gunman
+cast	Gary Sinise	Lieutenant Dan Taylor
+cast	Calvin Gadsden	Sergeant Sims
+cast	Aaron Izbicki	Dallas
+cast	Michael Burgess	Cleveland
+cast	Steven Griffith	Tex
+cast	Bill Roberson	Fat Man at Bench
+cast	Michael McFall	Army Hospital Male Nurse
+cast	Eric Underwood	Mail Call Soldier
+cast	Steve DeRelian	Wounded Soldier
+cast	Byron Minns	Wounded Soldier
+cast	Stephen Bridgewater	Hospital Officer
+cast	Bonnie Ann Burgess	Army Nurse
+cast	Scott Oliver	National Correspondent #1
+cast	John William Galt	President Johnson
+cast	Hilary Chaplain	Hilary
+cast	Isabel Rose	Isabel
+cast	Jay Ross	Veteran at War Rally
+cast	Richard D'Alessandro	Abbie Hoffman
+cast	Dick Stilwell	Policeman at War Rally
+cast	Kevin Davis	Black Panther
+cast	Michael Jace	Black Panther
+cast	Geoffrey Blake	Wesley
+cast	Tim Perry	Hippie at Commune
+cast	Vanessa Roth	Hollywood Boulevard Girlfriend
+cast	Emily Carey	Hollywood Boulevard Girlfriend
+cast	Paul Raczkowski	Man in VW Bug
+cast	Dick Cavett	Himself
+cast	Joe Stefanelli	John Lennon
+cast	Tiffany Salerno	Carla
+cast	Marla Sucharetza	Lenore
+cast	Aloysius Gigl	Musician Boyfriend
+cast	Jack Bowden	National Correspondent #4
+cast	Joe Alaskey	President Nixon
+cast	Lazarus Jackson	Discharge Officer
+cast	W. Benson Terry	Stanley Loomis
+cast	Matt Rebenkoff	Drugged Out Boyfriend
+cast	Peter Bannon	Local Correspondent #2
+cast	The Hallelujah Singers of Beaufort South Carolina	Church Choir
+cast	Joe Washington	Local Anchor #2
+cast	Nora Dunfee	Elderly Southern Woman
+cast	Nathalie Hendrix	Local Anchor #3
+cast	Hallie D'Amore	Waitress in Cafe
+cast	Chiffonye Cobb	Hannibal Reporter
+cast	Juan Singleton	Hannibal Reporter
+cast	Bobby Richardson	Hannibal Reporter
+cast	Michael Mattison	Taxi Driver
+cast	Lenny Herb	Young Man Running
+cast	Charles Boswell	Aging Hippie
+cast	Timothy McNeil	Wild Eyed Man
+cast	Haley Joel Osment	Forrest Junior
+cast	Lonnie Hamilton	The Minister
+cast	Teresa Denton	Lieutenant Dan's Fiancée
+cast	John Glenn Harding	Wounded Soldier
+cast	Joe Abby	Protestor on Stage
+cast	Rob Adams	College Quarterback
+cast	Markus Alexander	Vietnam Vetern
+cast	Neil Armstrong	Himself - Stepping onto the Moon
+cast	Keri-Anne Bilotta	Hippie
+cast	Jim Boeke	University of Alabama Assistant Football Coach
+cast	Arthur Bremer	Himself - Shooting George Wallace
+cast	Greg Brown	Football Player
+cast	Troy Christian	Cheerleader
+cast	Dick Clark	Himself - New Year's Eve
+cast	John Connally	Himself - with JFK in Dallas
+cast	Jim Damron	CBS Correspondent Cooper
+cast	James Ent	Alabama College Photographer #1
+cast	Gerald Ford	Himself - Assassination Attempt
+cast	Christopher James Hall	Governor
+cast	Bryan Hanna	Football Coach
+cast	Ellsworth Hanna	The Honeymooners
+cast	Jeanne Hanna	The Honeymooners
+cast	Zach Hanner	Barracks Recruit
+cast	Bob Hope	Himself - in Vietnam
+cast	Lyndon Johnson	Himself
+cast	Shann Johnson	
+cast	Jim Keller	Hippie at Commune
+cast	John F. Kennedy	Himself
+cast	Robert F. Kennedy	Himself - after 1968 California Primary
+cast	Aaron Michael Lacey	National Guardsman
+cast	John Lennon	Himself
+cast	Jacqueline Lovell	Football Fan
+cast	Richard Nixon	Himself
+cast	Shawn Michael Perry	Extra
+cast	Elvis Presley	Himself
+cast	Ronald Reagan	Himself - Assassination Attempt
+cast	Mark A. Rich	VA in Hospital
+cast	Kurt Russell	Elvis Presley
+cast	Brendan Shanahan	Football Player
+cast	William Shipman	Black Panther
+cast	Robb Skyler	Nicholas Katzenbach
+cast	Mary Ellen Trainor	Jenny's Babysitter
+cast	USC Trojan Marching Band	Alabama Marching Band
+cast	George Wallace	Himself
+cast	Zhuang Zedong	Himself - Chinese Ping Pong Player

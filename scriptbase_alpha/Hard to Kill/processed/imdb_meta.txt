@@ -1,0 +1,218 @@
+year	1990
+imdb score	5.6
+meta score	N/A
+genre	Action
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	coma
+keyword	hospital
+keyword	nurse
+keyword	revenge
+keyword	1990s
+keyword	senator
+keyword	blonde
+keyword	hit by a car
+keyword	stabbed in the throat
+keyword	box office hit
+keyword	hand to hand combat
+keyword	aikido
+keyword	policeman
+keyword	sensuality
+keyword	stick fight
+keyword	crooked cop
+keyword	disappearance of one's son
+keyword	necktie
+keyword	loss of friend
+keyword	hot tub
+keyword	pump action shotgun
+keyword	little black dress
+keyword	chinese writing
+keyword	cemetery
+keyword	home invasion
+keyword	blood spatter
+keyword	shootout
+keyword	disappearance
+keyword	training
+keyword	fire poker
+keyword	broken arm
+keyword	fitness
+keyword	pistol
+keyword	kissing while having sex
+keyword	kiss
+keyword	year 1990
+keyword	death of wife
+keyword	police officer killed
+keyword	acupuncture
+keyword	sadism
+keyword	lasersight
+keyword	cult film
+keyword	strangulation
+keyword	pool cue
+keyword	surveillance
+keyword	vigilantism
+keyword	gun in mouth
+keyword	female rear nudity
+keyword	stabbed in the neck
+keyword	political corruption
+keyword	interrupted sex
+keyword	year 1983
+keyword	exercise
+keyword	hold up
+keyword	target practice
+keyword	store robbery
+keyword	pool table
+keyword	posing as doctor
+keyword	1980s
+keyword	poetic justice
+keyword	brutality
+keyword	meditation
+keyword	murder
+keyword	chinatown los angeles
+keyword	double barreled shotgun
+keyword	fugitive
+keyword	bone breaking
+keyword	female frontal nudity
+keyword	tough guy
+keyword	repeated line
+keyword	police officer shot in the chest
+keyword	corrupt politician
+keyword	police
+keyword	police vigilantism
+keyword	hero
+keyword	politician
+keyword	cassette tape
+keyword	maverick cop
+keyword	faked death
+keyword	character repeating someone else's dialogue
+keyword	tv commercial
+keyword	quick draw
+keyword	hospital fight
+keyword	one man army
+keyword	mansion
+keyword	hospital bed
+keyword	bare breasts
+keyword	climbing in a window
+keyword	candle
+keyword	broken finger
+keyword	husband wife relationship
+keyword	chevrolet corvette
+keyword	video camera
+keyword	convenience store
+keyword	one against many
+keyword	stabbed with a stick
+keyword	six shooter
+keyword	nudity
+keyword	mini mart
+keyword	tough cop
+keyword	car chase
+keyword	redhead girl
+keyword	martial arts
+keyword	silencer
+keyword	los angeles california
+keyword	shoulder holster
+keyword	vigilante justice
+keyword	action hero
+keyword	self acupuncture
+keyword	fistfight
+keyword	machine gun
+keyword	heroic bloodshed
+keyword	double entendre
+keyword	female nudity
+keyword	reunited with parent
+keyword	ski mask
+keyword	pronounced dead
+keyword	fireplace poker
+keyword	bare chested male
+keyword	father son relationship
+keyword	showdown
+keyword	police detective
+keyword	brawl
+keyword	bribery
+keyword	disarming someone
+keyword	male nudity
+keyword	murder of wife
+keyword	police brutality
+keyword	recording the villain
+keyword	revolver
+keyword	vengeance
+keyword	sawed off shotgun
+keyword	kung fu
+keyword	cover up
+keyword	wounded policeman
+keyword	boyfriend girlfriend relationship
+keyword	gunfight
+keyword	flash forward
+keyword	sole black character dies cliche
+keyword	foot chase
+keyword	vigilante
+keyword	jazz music
+keyword	billiards
+keyword	colt .45
+keyword	police officer shot
+keyword	fight
+keyword	jeep
+keyword	hitman
+keyword	fighting
+keyword	semiautomatic pistol
+keyword	opening action scene
+keyword	blood
+keyword	violence
+keyword	surprise ending
+cast	Steven Seagal	Mason Storm
+cast	Kelly LeBrock	Andy Stewart
+cast	William Sadler	Senator Vernon Trent
+cast	Frederick Coffin	Lt. Kevin O'Malley
+cast	Bonnie Burroughs	Felicia Storm
+cast	Andrew Bloch	Capt. Dan Hulland
+cast	Branscombe Richmond	Max Quentero
+cast	Charles Boswell	Jack Axel
+cast	Zachary Rosencrantz	Sonny Storm
+cast	Lou Beatty Jr.	Carl Becker
+cast	Nick DeMauro	Calabrese
+cast	Nick Corello	James Valero
+cast	Justin De Rosa	Mikey
+cast	Stanley Brock	Counterman
+cast	Evan James	Danny
+cast	Tomas Trujillo	Shotgun Punk
+cast	Robert LaSardo	Punk
+cast	Haruo Matsuoka	Punk
+cast	Craig Dunn	Punk
+cast	Tony Perez	Detective #1
+cast	Steve Jones	E.R. Doctor
+cast	Francesca P. Roberts	Martha Coe
+cast	James DiStefano	Nolan
+cast	Dean Norris	Det. Sgt. Goodhart
+cast	Michael Fosberg	Team Leader Doctor
+cast	Buddy Joe Hooker	Russ
+cast	Jerry Dunphy	Newscaster
+cast	Barbara Townsend	Henrietta Wade
+cast	Carlos Gómez	Neighbor
+cast	Christian Duffy	Joe Bear
+cast	Andrea Stein	Housewife
+cast	Eddie Frias	Youth
+cast	Michael Adler	Desk Clerk
+cast	Geoffrey Bara	Sonny, Age 5
+cast	Kent Turnipseed	Hans
+cast	Janet Zappala	Newscaster
+cast	Ernie Lively	Commander
+cast	Frank H. Conn	Van Driver
+cast	Philip Weyland	Dr. Weyland
+cast	Shari Hueffmeir	Sheri
+cast	Linda Klein	Nurse
+cast	Gary McLarty	Shotgun Man
+cast	James Thompson	Bad Guy #2
+cast	Tom Muzila	Muzila
+cast	Catherine Quinn	Amtrak Lady
+cast	Richard Kwong	Man #2
+cast	Osama Joseph Sabbagh	Parking Attendant
+cast	Richard Wakasa	Asian Driver
+cast	Al Goto	Chinese Clever Man
+cast	Bernie Bielawski	Taxi Driver
+cast	Julia Stormson	Girl in Hot Tub
+cast	Jack Eiseman	Cop #1
+cast	Mickey McMeel	Cop #2
+cast	Jim Kindelon	S.W.A.T. Cop
+cast	Ruben Avitia	Punk
+cast	Liam Ferguson	Deli Owner
+cast	Geraldo Rivera	Himself

@@ -1,0 +1,110 @@
+year	1984
+imdb score	7.7
+meta score	81
+genre	Crime
+genre	Thriller
+keyword	texas
+keyword	bartender
+keyword	private detective
+keyword	double
+keyword	shot through a wall
+keyword	grave digging
+keyword	misperception
+keyword	shot through a window
+keyword	cuckold
+keyword	psychopath
+keyword	motel
+keyword	voice over narration
+keyword	illusion
+keyword	duplicity
+keyword	shot in the back
+keyword	surveillance
+keyword	shot in the stomach
+keyword	money
+keyword	cowboy hat
+keyword	gun
+keyword	handbag
+keyword	bar
+keyword	shot in the chest
+keyword	bathroom
+keyword	symbolic castration
+keyword	apocalypse
+keyword	front yard
+keyword	wisecrack humor
+keyword	shovel
+keyword	bludgeoning
+keyword	pastiche
+keyword	broken finger
+keyword	nightmare
+keyword	black comedy
+keyword	car radio
+keyword	grand guignol
+keyword	ceiling fan
+keyword	vomit
+keyword	violence
+keyword	cowboy boot
+keyword	gas station
+keyword	water
+keyword	title ends with period
+keyword	buried alive
+keyword	deception
+keyword	kicked in the crotch
+keyword	cigarette lighter
+keyword	jukebox
+keyword	bullet
+keyword	extramarital affair
+keyword	mounted moose head
+keyword	dead fish
+keyword	sniper
+keyword	german shepherd
+keyword	rainstorm
+keyword	cigarette smoking
+keyword	double cross
+keyword	murder
+keyword	adultery
+keyword	jealousy
+keyword	greed
+keyword	punctuation in title
+keyword	crime gone awry
+keyword	stabbed in the hand
+keyword	incinerator
+keyword	alarm clock
+keyword	hyperrealism
+keyword	epistemology
+keyword	newspaper
+keyword	stabbing
+keyword	neon sign
+keyword	cult film
+keyword	stuffed animal
+keyword	directorial debut
+keyword	pool of blood
+keyword	neo noir
+keyword	radio evangelist
+keyword	soul music
+keyword	light bulb
+keyword	safe
+keyword	mirror
+keyword	photograph
+keyword	hired killer
+keyword	phone booth
+keyword	failure to communicate
+keyword	cow
+keyword	hiding in a bathroom
+keyword	independent film
+cast	John Getz	Ray
+cast	Frances McDormand	Abby
+cast	Dan Hedaya	Julian Marty
+cast	M. Emmet Walsh	Private Detective Loren Visser
+cast	Samm-Art Williams	Meurice
+cast	Deborah Neumann	Debra
+cast	Raquel Gavia	Landlady
+cast	Van Brooks	Man from Lubbock
+cast	Señor Marco	Mr. Garcia
+cast	William Creamer	Old Cracker
+cast	Loren Bivens	Strip Bar Exhorter
+cast	Bob McAdams	Strip Bar Senator
+cast	Shannon Sedwick	Stripper
+cast	Nancy Finger	Girl on Overlook
+cast	William Preston Robertson	Radio Evangelist
+cast	Holly Hunter	Helene Trend
+cast	Barry Sonnenfeld	Marty's Vomiting

@@ -1,0 +1,220 @@
+year	2000
+imdb score	8.4
+meta score	55
+genre	Comedy
+genre	Crime
+keyword	diamond
+keyword	boxing
+keyword	fight
+keyword	gypsy
+keyword	boxer
+keyword	dog
+keyword	england
+keyword	diamond theft
+keyword	pikey
+keyword	bet
+keyword	gangster
+keyword	heist
+keyword	knocked out
+keyword	hero
+keyword	suicide
+keyword	mobile home
+keyword	set on fire
+keyword	accidental shooting
+keyword	gay slur
+keyword	stylized violence
+keyword	loss of mother
+keyword	sarcasm
+keyword	neo noir
+keyword	warrior
+keyword	title ends with period
+keyword	illegal fistfight
+keyword	fake gun
+keyword	head butt
+keyword	action hero
+keyword	cigar smoking
+keyword	impalement
+keyword	nonlinear timeline
+keyword	gun held to head
+keyword	brawl
+keyword	unintelligible
+keyword	stop action
+keyword	jewish mafia
+keyword	combat
+keyword	fast motion scene
+keyword	twin sister
+keyword	shot in the eye
+keyword	shot in the head
+keyword	period in title
+keyword	cult film
+keyword	pig
+keyword	american in the uk
+keyword	dog chases rabbit
+keyword	rhyming slang
+keyword	obesity
+keyword	sword
+keyword	black comedy
+keyword	threatened with a knife
+keyword	moissanite
+keyword	briefcase chained to wrist
+keyword	hare
+keyword	hunting
+keyword	female nudity
+keyword	gambling
+keyword	strangulation
+keyword	british flag
+keyword	machine gun
+keyword	brutality
+keyword	cruelty to animal
+keyword	hasidic jew
+keyword	burned alive
+keyword	intimidation
+keyword	fistfight
+keyword	martial arts
+keyword	freeze frame
+keyword	streetfighting
+keyword	dismemberment
+keyword	split screen
+keyword	shot multiple times
+keyword	yardie
+keyword	hit in the crotch
+keyword	bag of coins
+keyword	semiautomatic pistol
+keyword	ski mask
+keyword	death
+keyword	running out of ammo
+keyword	violence
+keyword	shot to death
+keyword	desert eagle
+keyword	tattoo
+keyword	bare knuckle fighting
+keyword	mafia
+keyword	beaten to death
+keyword	pump action shotgun
+keyword	corpse
+keyword	kidnapping
+keyword	disguise
+keyword	blood
+keyword	shotgun
+keyword	shot in the chest
+keyword	street fighter
+keyword	pistol
+keyword	84 carat diamond
+keyword	blood splatter
+keyword	tough guy
+keyword	shot in the face
+keyword	narrated by character
+keyword	tea cozy
+keyword	murder
+keyword	nickname
+keyword	held at gunpoint
+keyword	concorde
+keyword	slow motion scene
+keyword	bare knuckle boxing
+keyword	london england
+keyword	robbery
+keyword	showdown
+keyword	bald
+keyword	gunfight
+keyword	stuffed in trunk
+keyword	fighting
+keyword	severed finger
+keyword	cut with knife
+keyword	milk
+keyword	underground fighting
+keyword	underground tournament
+keyword	cockney accent
+keyword	accidental killing
+keyword	one word title
+keyword	body in trunk
+keyword	shootout
+keyword	desert eagle .50
+keyword	gangster comedy
+keyword	cannibal pig
+keyword	torture
+keyword	severed arm
+keyword	disarming someone
+keyword	stun gun
+keyword	cult film
+keyword	russian mafia
+keyword	butcher knife
+keyword	shot through wall
+keyword	organized crime
+keyword	fixed fight
+keyword	head brace
+keyword	hit by a car
+keyword	attacked by dog
+keyword	mixed martial arts
+keyword	arson
+keyword	head stuck in window
+keyword	dog fighting
+keyword	baseball bat
+keyword	title spoken by character
+keyword	surprise ending
+cast	Benicio Del Toro	Franky Four Fingers
+cast	Dennis Farina	Cousin Avi
+cast	Vinnie Jones	Bullet-Tooth Tony
+cast	Brad Pitt	Mickey O'Neil
+cast	Rade Serbedzija	Boris the Blade
+cast	Jason Statham	Turkish
+cast	Alan Ford	Brick Top
+cast	Mike Reid	Doug the Head
+cast	Robbie Gee	Vinny
+cast	Lennie James	Sol
+cast	Ewen Bremner	Mullet
+cast	Jason Flemyng	Darren
+cast	Ade	Tyrone
+cast	William Beck	Neil
+cast	Andy Beckwith	Errol
+cast	Jason Buckham	Gary
+cast	Mickey Cantwell	Liam
+cast	Nicola Collins	Alex
+cast	Teena Collins	Susi
+cast	Charles Cork	MC
+cast	James Cunningham	Horrible Man
+cast	Sorcha Cusack	Mum O'Neil
+cast	Mickey Dee	Jack The All Seeing Eye
+cast	Sam Douglas	Rosebud
+cast	Adam Fogerty	Gorgeous George
+cast	Goldie	Bad Boy Lincoln
+cast	Stephen Graham	Tommy
+cast	Sid Hoare	Reuben
+cast	Ronald Isaac	Referee
+cast	Chuck Julian	Michael
+cast	Dave Legeno	John
+cast	Eric Meyers	Avi's Colleague
+cast	Jason Ninh Cao	Charlie
+cast	Paul O'Boyle	Patrick
+cast	Jimmy Roussounis	Paulie
+cast	Sidney Sedin	Pauline
+cast	Trevor Steedman	Bomber Harris
+cast	Yuri Stepanov	Himy
+cast	Peter Szakacs	Sausage Charlie
+cast	John Taheny	Salt Peter
+cast	Mick Theo	Mad Fist Willy
+cast	Andy Till	John The Gun
+cast	Velibor Topic	The Russian
+cast	Scott Welch	Horace 'Good Night' Anderson
+cast	Michael Hughes	Gypsy Man
+cast	Liam McMahon	Gypsy Man
+cast	Jim Warren	Gypsy Man
+cast	Austin Drage	Gypsy Kid
+cast	Liam Donaghy	Gypsy Kid
+cast	Joe Williams	Gypsy Kid
+cast	John Farnell	Brick Top's Henchman
+cast	Shaun Pearson	Brick Top's Henchman
+cast	Dean Smith	Brick Top's Henchman
+cast	Roy Snell	Brick Top's Henchman
+cast	Tim Faraday	Policeman
+cast	Andrew Shield	Policeman
+cast	Dean Batchelor	Waterboy
+cast	Sol Campbell	Bouncer
+cast	Elwin 'Chopper' David	Boxer
+cast	Tom Delmar	Thug with Head Crushed in Door
+cast	Christopher Fosh	Bricktop's Henchman
+cast	Julianne Nicholson	Bookies Agent
+cast	Guy Ritchie	Man Reading Newspaper
+cast	Peter Rnic	Irish Traveller
+cast	Andy Skinner	Mickey O'Neil Boxing Corner
+cast	Kriss Sprules	Crowd Member
+cast	Tony Tang	Patrick

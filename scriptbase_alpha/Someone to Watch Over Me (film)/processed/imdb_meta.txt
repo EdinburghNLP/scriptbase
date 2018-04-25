@@ -1,0 +1,77 @@
+year	1987
+imdb score	6.1
+meta score	N/A
+genre	Action
+genre	Crime
+genre	Drama
+genre	Romance
+genre	Thriller
+keyword	murder
+keyword	new york
+keyword	socialite
+keyword	marriage
+keyword	detective
+keyword	witness
+keyword	apartment
+keyword	party
+keyword	neo noir
+keyword	infidelity
+keyword	bodyguard
+keyword	adultery
+keyword	opposites attract
+keyword	police lineup
+keyword	elevator
+keyword	love triangle
+keyword	class differences
+keyword	police detective
+keyword	panties
+keyword	scantily clad female
+keyword	girl in panties
+keyword	new york city
+keyword	manhattan new york city
+keyword	police
+keyword	white panties
+keyword	protection
+keyword	brooklyn new york city
+keyword	extramarital affair
+keyword	witness protection
+keyword	cleavage
+keyword	melancholy
+keyword	title based on song
+keyword	box office flop
+keyword	
+cast	Tom Berenger	Det. Mike Keegan
+cast	Mimi Rogers	Claire Gregory
+cast	Lorraine Bracco	Ellie Keegan
+cast	Jerry Orbach	Lt. Garber
+cast	John Rubinstein	Neil Steinhart
+cast	Andreas Katsulas	Joey Venza
+cast	Tony DiBenedetto	T.J.
+cast	James E. Moriarty	Koontz
+cast	Mark Moses	Win Hockings
+cast	Daniel Hugh Kelly	Scotty
+cast	Harley Cross	Tommy Keegan
+cast	Joanne Baron	Helen Greening
+cast	Anthony Bishop	Waiter
+cast	David Berman	Cop #1
+cast	Sharon K. Brecke	Bimbo
+cast	Peter Carew	Doorman
+cast	Christopher Cass	Rookie Cop
+cast	Jim Paul Eilers	Sparks
+cast	Suzi Gilder	Pretty Young Thing
+cast	Mary Gillis	Mary, Claire's Maid
+cast	Billy Kane	Brooklyn
+cast	Helen Lambros	Met Benefactress
+cast	Jack McGee	Bartender
+cast	Meg Mundy	Antonia
+cast	Jeff Nielsen	Tie Salesman
+cast	Harlan Cary Poe	Killer
+cast	Marilyn Rockafellow	Marge
+cast	Helen Tran	Vietnamese Girl
+cast	Harvey Vernon	Giddings
+cast	Mark Voland	Plainclothes Cop #1
+cast	Anthony Caso	Chauffeur
+cast	John Corbett	Walker
+cast	Louis Durra	Pianist
+cast	Joey Gironda	Undercover Cop
+cast	John Sobestanovich	Line-Up Man

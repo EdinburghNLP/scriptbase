@@ -1,0 +1,187 @@
+year	1993
+imdb score	8.0
+meta score	57
+genre	Crime
+genre	Thriller
+keyword	pimp
+keyword	chase
+keyword	gangster
+keyword	cocaine
+keyword	neo noir
+keyword	convertible
+keyword	briefcase
+keyword	actor
+keyword	phone booth
+keyword	ethnic slur
+keyword	dog
+keyword	kung fu
+keyword	getting in tattoo
+keyword	car
+keyword	chesterfield cigarette
+keyword	burger
+keyword	amusement park
+keyword	police stop
+keyword	shot in the face
+keyword	blaxploitation
+keyword	racial slur
+keyword	italian american
+keyword	wire
+keyword	mafia
+keyword	undercover operation
+keyword	sicilian
+keyword	hollywood california
+keyword	drugs
+keyword	bead curtain
+keyword	sex in public
+keyword	police raid
+keyword	police bust
+keyword	cult film
+keyword	drug use
+keyword	sex in a phone booth
+keyword	purple cadillac
+keyword	tough guy
+keyword	torture
+keyword	mexican standoff
+keyword	shot in the arm
+keyword	movie actor
+keyword	beating
+keyword	gunfight
+keyword	love
+keyword	shot in the leg
+keyword	cross country
+keyword	prostitution
+keyword	cult
+keyword	obesity
+keyword	shot in the stomach
+keyword	joint
+keyword	shotgun
+keyword	shootout
+keyword	dreadlocks
+keyword	snorting cocaine
+keyword	audition
+keyword	drug dealer
+keyword	violence
+keyword	uzi
+keyword	police car
+keyword	shot in the eye
+keyword	techno music
+keyword	marriage
+keyword	rottweiler
+keyword	gun held to head
+keyword	pink cadillac
+keyword	mob enforcer
+keyword	blood splatter
+keyword	brutality
+keyword	death
+keyword	corkscrew
+keyword	shot in the back
+keyword	movie theatre
+keyword	black comedy
+keyword	shot multiple times
+keyword	prostitute
+keyword	sex
+keyword	stabbed in the foot
+keyword	techno
+keyword	reference to coca cola
+keyword	reference to jack the ripper
+keyword	bathtub
+keyword	killing in the name of love
+keyword	punched in the nose
+keyword	comic book
+keyword	bob marley impersonator
+keyword	cadillac
+keyword	motel
+keyword	shot in the forehead
+keyword	sawed off shotgun
+keyword	gun
+keyword	drug abuse
+keyword	shot to death
+keyword	pot smoking
+keyword	cola
+keyword	shot in the crotch
+keyword	man punching a woman
+keyword	drug dealing
+keyword	murder
+keyword	ghost
+keyword	roller coaster
+keyword	murder of a police officer
+keyword	informant
+keyword	psychopath
+keyword	road trip
+keyword	marijuana joint
+keyword	punched in the stomach
+keyword	lovers on the lam
+keyword	vomit
+keyword	gore
+keyword	shot in the head
+keyword	fellatio while driving
+keyword	white male pretending to be black
+keyword	fire in 55 gallon drum
+keyword	police car siren
+keyword	pump action shotgun
+keyword	burnout
+keyword	filmmaker
+keyword	hamburger
+keyword	burning rubber
+keyword	tattooing
+keyword	massacre
+keyword	movie producer
+keyword	gun fu
+keyword	reference to pepsi
+keyword	drug addiction
+keyword	violence
+keyword	left handedness
+keyword	detroit michigan
+keyword	mobster
+keyword	police chase
+keyword	police work
+keyword	crack cocaine
+keyword	on the road
+keyword	obscene finger gesture
+keyword	protégé
+keyword	red dress
+keyword	robbery
+keyword	father son relationship
+keyword	organized crime
+keyword	suspense
+keyword	gay slur
+cast	Christian Slater	Clarence Worley
+cast	Patricia Arquette	Alabama Whitman
+cast	Dennis Hopper	Clifford Worley
+cast	Val Kilmer	Mentor
+cast	Gary Oldman	Drexl Spivey
+cast	Brad Pitt	Floyd - Dick's Roommate
+cast	Christopher Walken	Vincenzo Coccotti
+cast	Bronson Pinchot	Elliot Blitzer
+cast	Samuel L. Jackson	Big Don
+cast	Michael Rapaport	Dick Ritchie
+cast	Saul Rubinek	Lee Donowitz
+cast	Conchata Ferrell	Mary Louise Ravencroft
+cast	James Gandolfini	Virgil
+cast	Anna Levine	Lucy
+cast	Victor Argo	Lenny
+cast	Paul Bates	Marty
+cast	Chris Penn	Nicky Dimes
+cast	Tom Sizemore	Cody Nicholson
+cast	Said Faraj	Clerk
+cast	Gregory Sporleder	Burger Stand Customer
+cast	Maria Pitillo	Kandi
+cast	Frank Adonis	Frankie
+cast	Kevin Corrigan	Marvin
+cast	Paul Ben-Victor	Luca
+cast	Michael Beach	Wurlitzer
+cast	Joe D'Angerio	Police Radio Operator
+cast	John Bower	Detective
+cast	John Cenatiempo	Squad Cop #1
+cast	Eric Allan Kramer	Boris
+cast	Patrick John Hurley	Monty
+cast	Dennis Garber	Lobby Cop #1
+cast	Scott Evers	Lobby Cop #2
+cast	Hilary Klym	Running Cop
+cast	Steve Gonzales	I.A. Officer
+cast	Laurence Mason	Floyd 'D'
+cast	David Dean	Cop
+cast	April Freeman	Burger Stand Customer
+cast	Ed Lauter	Police Captain Quiggle
+cast	Enzo Rossi	Elvis, Alabama's and Clarence's Son
+cast	Nancy Young	Hotel Hostage

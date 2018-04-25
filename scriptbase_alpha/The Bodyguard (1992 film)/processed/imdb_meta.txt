@@ -1,0 +1,275 @@
+year	1992
+imdb score	6.0
+meta score	N/A
+genre	Drama
+genre	Music
+genre	Romance
+genre	Thriller
+keyword	bodyguard
+keyword	singer
+keyword	pop singer
+keyword	stalker
+keyword	secret service agent
+keyword	home
+keyword	entourage
+keyword	manager
+keyword	car driving
+keyword	joy
+keyword	repression
+keyword	black singer
+keyword	brunette
+keyword	domestic violence
+keyword	darkness
+keyword	unrequited love
+keyword	song
+keyword	gloves
+keyword	masked man
+keyword	seat
+keyword	street
+keyword	fireworks
+keyword	unfaithfulness
+keyword	manipulation
+keyword	disturbed individual
+keyword	running
+keyword	dancing
+keyword	star
+keyword	music concert
+keyword	broken glass
+keyword	love song
+keyword	cult film
+keyword	kitchen
+keyword	crowd
+keyword	diva
+keyword	adultery
+keyword	black gloves
+keyword	interracial love
+keyword	kicking
+keyword	suicide attempt
+keyword	crying
+keyword	room
+keyword	swimming pool
+keyword	stripping
+keyword	mental illness
+keyword	devastation
+keyword	african american
+keyword	interracial romance
+keyword	stairs
+keyword	sadness
+keyword	audience
+keyword	exhibitionist
+keyword	guilt
+keyword	murder witness
+keyword	black man
+keyword	caress
+keyword	interracial couple
+keyword	kiss
+keyword	dark secret
+keyword	brawl
+keyword	embarrassment
+keyword	passion
+keyword	singing
+keyword	sensuality
+keyword	screaming
+keyword	fame
+keyword	oscar
+keyword	attraction
+keyword	forbidden love
+keyword	fan mail
+keyword	academy award
+keyword	white male black female relationship
+keyword	sarcasm
+keyword	hallucination
+keyword	bedroom
+keyword	sexuality
+keyword	romantic obsession
+keyword	betrayal
+keyword	disappointment
+keyword	redemption
+keyword	technician
+keyword	panic
+keyword	jacket
+keyword	blockbuster
+keyword	mysterious events
+keyword	stockings
+keyword	falling in love
+keyword	car
+keyword	award winner
+keyword	suit
+keyword	murder
+keyword	interracial affair
+keyword	psychotic
+keyword	fear
+keyword	ethnicity
+keyword	seduction
+keyword	reference to alexander graham bell
+keyword	sexual obsession
+keyword	curtain
+keyword	love
+keyword	woman in jeopardy
+keyword	sister sister relationship
+keyword	investigation
+keyword	nightclub
+keyword	sexual desire
+keyword	gun
+keyword	mysterious man
+keyword	witness
+keyword	extramarital affair
+keyword	plane
+keyword	friendship
+keyword	restaurant
+keyword	bed
+keyword	interracial relationship
+keyword	award
+keyword	silencer
+keyword	sexual repression
+keyword	house
+keyword	music show
+keyword	infidelity
+keyword	lady
+keyword	concert
+keyword	humiliation
+keyword	shot to death
+keyword	ambulance
+keyword	melodrama
+keyword	lingerie
+keyword	premiere
+keyword	african american music
+keyword	menace
+keyword	blood
+keyword	masked killer
+keyword	drink
+keyword	fondling
+keyword	lake
+keyword	jealousy
+keyword	blood spatter
+keyword	desire
+keyword	bra
+keyword	oscars ceremony
+keyword	music video
+keyword	fanatic
+keyword	explosion
+keyword	short hair
+keyword	black white relations
+keyword	long hair
+keyword	black american
+keyword	footprint in the snow
+keyword	death
+keyword	rage
+keyword	dress
+keyword	cult film
+keyword	african american woman
+keyword	battle of the sexes
+keyword	dancer
+keyword	shootout
+keyword	assassination
+keyword	falling from height
+keyword	performer
+keyword	exhibitionism
+keyword	karate
+keyword	tuxedo
+keyword	limousine
+keyword	1990s
+keyword	katana sword
+keyword	head scarf
+keyword	desperation
+keyword	lost love
+keyword	bar
+keyword	night
+keyword	orange juice
+keyword	los angeles california
+keyword	blouse
+keyword	victim
+keyword	pillow
+keyword	drinking
+keyword	repressed love
+keyword	death threat
+keyword	violence
+keyword	danger
+keyword	obsession
+keyword	price of fame
+keyword	hotel
+keyword	musician
+keyword	sunglasses
+keyword	martial arts
+keyword	beating
+keyword	fistfight
+keyword	hiring
+keyword	water
+keyword	discrimination
+keyword	mask
+keyword	dead man
+keyword	love at first sight
+keyword	winner
+keyword	anger
+keyword	sexual attraction
+keyword	black woman
+keyword	sacrifice
+keyword	injury
+keyword	stalking
+keyword	scream
+keyword	title spoken by character
+keyword	actor shares first name with character
+cast	Kevin Costner	Frank Farmer
+cast	Whitney Houston	Rachel Marron
+cast	Gary Kemp	Sy Spector
+cast	Bill Cobbs	Devaney
+cast	Ralph Waite	Herb Farmer
+cast	Tomas Arana	Portman
+cast	Michele Lamar Richards	Nicki
+cast	Mike Starr	Tony
+cast	Christopher Birt	Henry
+cast	DeVaughn Nixon	Fletcher
+cast	Gerry Bamman	Ray Court
+cast	Joe Urla	Minella
+cast	Tony Pierce	Dan
+cast	Charles Keating	Klingman
+cast	Robert Wuhl	Oscar Host
+cast	Debbie Reynolds	Debbie Reynolds
+cast	Danny Kamin	Thuringer
+cast	Ethel Ayler	Emma
+cast	Sean Cheesman	Rory
+cast	Richard Schiff	Skip Thomas
+cast	Chris Connelly	Oscar Arrivals M.C.
+cast	Nathaniel Parker	Clive Healy
+cast	Bert Remsen	Rotary Club President
+cast	Donald Hotton	Reverend Hardy
+cast	Nita Whitaker	Oscar Singer
+cast	Patricia Healy	Sound Winner #1
+cast	Blumen Young	Sound Winner #2
+cast	Rob Sullivan	Best Sound Presenter
+cast	Jennifer Lyon-Buchanan	Best Song Winner
+cast	Stephen Shellen	Tom Winston
+cast	Victoria Bass	Woman in Green
+cast	Abbey Vine	Ben Shiller
+cast	Phil Redrow	Video Director
+cast	Joe Hess	Cuban Husband
+cast	Marta Velasco	Cleaning Woman
+cast	Joe Unger	Journalist
+cast	Gwen Seliger	Rachel's Valet
+cast	Susan Traylor	Dress Designer
+cast	Pat Van Patten	Woman in Restaurant
+cast	Shelley A. Hill	Mother at Restaurant
+cast	Amy Lou Dempsey	Little Girl at Restaurant
+cast	Rosie Lee Hooks	Thrift Shop Owner
+cast	Ken Myles	Sound Technician #1
+cast	Robert L. Feist	Sound Technician #2
+cast	Charles Bazaldua	TV Director
+cast	Tracye Logan	Girl on Stairway
+cast	Art Spaan	Billy Thomas
+cast	Douglas Price	Pantages Assistant
+cast	Ellin La Var	Rachel's Hairstylist
+cast	Joseph Zabrosky	Skip's Assistant
+cast	Rollin Jarrett	Miami Reporter
+cast	David M. Morano	Fontainebleau Barkeeper
+cast	Carla Lizzette Mejia	Fontainebleau Maid
+cast	Linda Thompson	Female Academy Member
+cast	David Foster	Oscar Conductor
+cast	Towanna King	Rachel's Assistant
+cast	Shaun Earl	Dancer
+cast	John Hartman	Stage Manager
+cast	Al Kamarr	Guest at Dinner
+cast	Dan Koko	Cameraman in Helicopter
+cast	David Joseph Martinez	Raul Moreno-Janitor
+cast	L.A. Rothman	Autograph Seeker
+cast	John Tesh	Entertainment Tonight Host
+cast	Mark Thomason	Killer with Mask

@@ -1,0 +1,153 @@
+year	2004
+imdb score	7.6
+meta score	94
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	wine
+keyword	actor
+keyword	california
+keyword	writer
+keyword	teacher
+keyword	road trip
+keyword	waitress
+keyword	restaurant
+keyword	fling
+keyword	golf
+keyword	vineyard
+keyword	windmill
+keyword	wedding
+keyword	love
+keyword	marriage
+keyword	failure
+keyword	junior high school
+keyword	deceit
+keyword	drunkenness
+keyword	golf course
+keyword	fast food restaurant
+keyword	has been
+keyword	los angeles california
+keyword	author
+keyword	badger game
+keyword	wine tour
+keyword	answering machine
+keyword	knocking on door
+keyword	car accident
+keyword	cityscape
+keyword	breaking and entering
+keyword	mother son relationship
+keyword	crying man
+keyword	wedding ceremony
+keyword	chase
+keyword	ostrich
+keyword	failed artist
+keyword	fast food
+keyword	reference to ernest hemingway
+keyword	unfaithful wife
+keyword	enophilia
+keyword	small town
+keyword	birthday
+keyword	self doubt
+keyword	rough sex
+keyword	midlife crisis
+keyword	armenian orthodox
+keyword	novel
+keyword	cheating on girlfriend
+keyword	melancholy
+keyword	guitar
+keyword	academic masters degree
+keyword	sex with fat woman
+keyword	critically acclaimed
+keyword	convenience store
+keyword	casual sex
+keyword	divorcee
+keyword	motel
+keyword	gay slur
+keyword	man crying
+keyword	broken nose
+keyword	cartoon on tv
+keyword	grape
+keyword	bare butt
+keyword	premarital sex
+keyword	depression
+keyword	fat girl
+keyword	engagement
+keyword	bachelor
+keyword	divorce
+keyword	car crashing into a tree
+keyword	male frontal nudity
+keyword	friendship
+keyword	single mother
+keyword	talking dirty during sex
+keyword	crawling
+keyword	voice mail
+keyword	sex scene
+keyword	telephone call
+keyword	buddy
+keyword	san diego california
+keyword	medication
+keyword	jacuzzi
+keyword	tanker truck
+keyword	caught having sex
+keyword	beach
+keyword	wallet
+keyword	convertible
+keyword	writing
+keyword	womanizer
+keyword	interracial sex
+keyword	satire
+keyword	jazz score
+keyword	female nudity
+keyword	marijuana
+keyword	one word title
+keyword	chevron gas station
+keyword	crossword puzzle
+keyword	winery
+keyword	connoisseur
+keyword	wine tasting
+keyword	theft
+keyword	money roll
+keyword	pinot noir wine
+keyword	hospital
+keyword	makeup sex
+keyword	diner
+keyword	based on novel
+keyword	independent film
+keyword	
+cast	Paul Giamatti	Miles
+cast	Thomas Haden Church	Jack
+cast	Virginia Madsen	Maya
+cast	Sandra Oh	Stephanie
+cast	Marylouise Burke	Miles's Mother
+cast	Jessica Hecht	Victoria
+cast	Missy Doty	Cammi
+cast	M.C. Gainey	Cammi's Husband
+cast	Alysia Reiner	Christine Erganian
+cast	Shake Tukhmanyan	Mrs. Erganian
+cast	Shaun Duke	Mike Erganian
+cast	Robert Covarrubias	Miles's Building Manager
+cast	Patrick Gallagher	Gary the Bartender
+cast	Stephanie Faracy	Stephanie's Mother
+cast	Joe Marinelli	Frass Canyon Pourer
+cast	Chris Burroughs	Chris at Stanford
+cast	Toni Howard	Evelyn Berman-Silverman
+cast	Khoren Babouchian	Armenian Priest
+cast	Lee Brooks	Ken Cortland
+cast	Peter Dennis	Leslie Brough
+cast	Alison Herson	Foxen Winery Pourer
+cast	Phil Reeves	Vacationing Dr. Walt Hendricks
+cast	Rob Trow	Obnoxious Golfer
+cast	Lacey Rae	Los Olivos Waitress
+cast	Cesar Ramos	Barista
+cast	Daniel Rogers	Reciting Eighth Grader
+cast	Natalie Carter	Siena
+cast	Simon Kassis	Mini-Mart Owner
+cast	Sevag Kendirjian	Armenian Deacon
+cast	Jaren Coler	Acoustic Guitarist
+cast	JR Garcia	Little Boy
+cast	Adolf Hitler	Himself
+cast	Alex Kalognomos	Alex
+cast	Logan Mulvey	Waiter
+cast	Chris Petoyan	Mrs. Erganian's Son
+cast	Parker Quinn	Customer in Shoe Store
+cast	Mikael Sharafyan	Armenian Wedding Guest

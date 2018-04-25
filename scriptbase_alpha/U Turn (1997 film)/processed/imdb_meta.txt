@@ -1,0 +1,122 @@
+year	1997
+imdb score	6.8
+meta score	54
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	desert
+keyword	money
+keyword	arizona
+keyword	drifter
+keyword	small town
+keyword	debt
+keyword	disposing of a dead body
+keyword	language barrier
+keyword	body in a trunk
+keyword	axe murder
+keyword	falling off a cliff
+keyword	infidelity
+keyword	stranded
+keyword	road trip
+keyword	stabbed in the chest
+keyword	cat
+keyword	violence
+keyword	dramatic irony
+keyword	sheriff
+keyword	roadkill
+keyword	trailer park
+keyword	hit with a golf club
+keyword	held at gunpoint
+keyword	male rear nudity
+keyword	bandaged hand
+keyword	double cross
+keyword	box office flop
+keyword	cheating wife
+keyword	falling from height
+keyword	finger cut off
+keyword	spanking threat
+keyword	blood spatter
+keyword	soda
+keyword	time lapse photography
+keyword	native american
+keyword	pushed off a cliff
+keyword	axe in the chest
+keyword	reference to patsy cline
+keyword	shot in the chest
+keyword	femme fatale
+keyword	neo noir
+keyword	boyfriend girlfriend relationship
+keyword	blood
+keyword	shot in the head
+keyword	stabbed in the back
+keyword	kicked in the stomach
+keyword	betrayal
+keyword	bare chested male
+keyword	rape
+keyword	severed finger
+keyword	bad luck
+keyword	breakdown
+keyword	strangulation
+keyword	shotgun
+keyword	husband wife relationship
+keyword	kill husband
+keyword	police officer shot
+keyword	con man
+keyword	female nudity
+keyword	blind man
+keyword	flashback
+keyword	diner
+keyword	incest
+keyword	shower
+keyword	tomahawk
+keyword	murder
+keyword	killing an animal
+keyword	shot to death
+keyword	nudity
+keyword	scorpion
+keyword	automobile
+keyword	robbery
+keyword	animal cruelty
+keyword	jealous lover
+keyword	corpse
+keyword	bag of money
+keyword	black comedy
+keyword	strange person
+keyword	man with glasses
+keyword	shot in the back
+keyword	rough sex
+keyword	money falling through the air
+keyword	vietnam war veteran
+keyword	mechanic
+keyword	sex outside
+keyword	beating
+keyword	punched in the face
+keyword	police officer shot in the head
+keyword	police officer killed
+keyword	police officer
+keyword	auto shop
+keyword	based on book
+keyword	surprise ending
+keyword	
+cast	Sean Penn	Bobby Cooper
+cast	Billy Bob Thornton	Darrell
+cast	Abraham Benrubi	Biker #1
+cast	Richard Rutowski	Biker #2
+cast	Jon Voight	Blind Man
+cast	Jennifer Lopez	Grace McKenna
+cast	Powers Boothe	Sheriff Potter
+cast	Nick Nolte	Jake McKenna
+cast	Aida Linares	Jamilla
+cast	Sean Stone	Boy in Grocery Store
+cast	Ilia Volok	Sergi
+cast	Valeriy Nikolaev	Mr. Arkady
+cast	Brent Briscoe	Boyd
+cast	Bo Hopkins	Ed
+cast	Julie Hagerty	Flo
+cast	Annie Tien	Short Order Cook
+cast	Joaquin Phoenix	Toby N. Tucker
+cast	Claire Danes	Jenny
+cast	Sheri Foster	Grace's Mother
+cast	Laurie Metcalf	Bus Station Clerk
+cast	Liv Tyler	Girl in Bus Station
+cast	Jeff Flach	Yes Man

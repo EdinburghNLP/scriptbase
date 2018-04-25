@@ -1,0 +1,338 @@
+year	1943
+imdb score	8.1
+meta score	N/A
+genre	Drama
+genre	Romance
+genre	War
+keyword	officer
+keyword	military
+keyword	german
+keyword	boer
+keyword	boer war
+keyword	friendship
+keyword	german officer
+keyword	general
+keyword	love
+keyword	major
+keyword	major general
+keyword	nurse
+keyword	military officer
+keyword	friend
+keyword	nazi
+keyword	red cross
+keyword	british
+keyword	steam room
+keyword	military training
+keyword	london times
+keyword	commodore
+keyword	reference to dr. watson
+keyword	painting
+keyword	cafe
+keyword	toast
+keyword	punched in the face
+keyword	doctor
+keyword	cancan dance
+keyword	flashback
+keyword	stuffed bear
+keyword	europe
+keyword	reference to mata hari
+keyword	balcony
+keyword	reference to napoleon
+keyword	wheelchair
+keyword	horse and carriage
+keyword	code
+keyword	obsolescence
+keyword	swedish
+keyword	duel
+keyword	lieutenant
+keyword	victoria cross
+keyword	matchmaker
+keyword	chemical worker
+keyword	coin toss
+keyword	counter propaganda
+keyword	aging
+keyword	prince of wales
+keyword	golf
+keyword	spy
+keyword	patriotism
+keyword	dart board
+keyword	prisoner of war
+keyword	orchestra
+keyword	rifle
+keyword	telephone call
+keyword	darts
+keyword	magazine cover
+keyword	portrait painting
+keyword	waitress
+keyword	code of honor
+keyword	produced by director
+keyword	snow
+keyword	lady
+keyword	whist
+keyword	crying
+keyword	drink
+keyword	restaurant
+keyword	foreign office
+keyword	admiral
+keyword	berlin germany
+keyword	poison gas
+keyword	barracks
+keyword	prisoner
+keyword	theatre production
+keyword	turkish bath
+keyword	army
+keyword	train
+keyword	sick leave
+keyword	nonlinear timeline
+keyword	censorship
+keyword	bishop
+keyword	honeymoon
+keyword	taxpayer
+keyword	printing press
+keyword	governess
+keyword	sister sister relationship
+keyword	armistice day 1918
+keyword	forest
+keyword	1900s
+keyword	british ambassador
+keyword	reference to stanley and livingstone
+keyword	tommy gun
+keyword	trader
+keyword	leg amputation
+keyword	seven word title
+keyword	baron
+keyword	drinking
+keyword	husband wife relationship
+keyword	refugee
+keyword	factory
+keyword	marching
+keyword	tears
+keyword	spit in face
+keyword	military attache
+keyword	boyfriend girlfriend relationship
+keyword	jamaica
+keyword	satire
+keyword	newspaper
+keyword	death
+keyword	funeral
+keyword	lawyer
+keyword	soup
+keyword	colonel
+keyword	women's rights
+keyword	home guard
+keyword	armistice
+keyword	battlefield
+keyword	holding head under water
+keyword	south african
+keyword	head injury
+keyword	whistling
+keyword	dynamite
+keyword	stuffed animal
+keyword	parade
+keyword	character's point of view camera shot
+keyword	redhead
+keyword	wound
+keyword	jukebox
+keyword	pontoon bridge
+keyword	countryside
+keyword	1910s
+keyword	duellist
+keyword	interrogation
+keyword	1920s
+keyword	taxi
+keyword	munich germany
+keyword	love triangle
+keyword	fiancee
+keyword	public bath
+keyword	father in law son in law relationship
+keyword	rain
+keyword	coin
+keyword	writer director
+keyword	british flag
+keyword	polo
+keyword	beggar
+keyword	shaving
+keyword	politics
+keyword	monologue
+keyword	blockhouse
+keyword	captain
+keyword	embassy
+keyword	queen victoria
+keyword	soldier
+keyword	interview
+keyword	prisoner of war camp
+keyword	barn
+keyword	map
+keyword	murder
+keyword	skunk
+keyword	air raid
+keyword	concentration camp
+keyword	1930s
+keyword	theatre audience
+keyword	photograph
+keyword	career soldier
+keyword	hospital
+keyword	brigadier general
+keyword	binoculars
+keyword	concert
+keyword	reactionary
+keyword	card playing
+keyword	patrol
+keyword	salute
+keyword	mother son relationship
+keyword	spinster
+keyword	church
+keyword	anti war
+keyword	old man
+keyword	typewriter
+keyword	bayonet
+keyword	immigrant
+keyword	battle
+keyword	umbrella
+keyword	medal
+keyword	money
+keyword	dueling scar
+keyword	reference to j.b. priestley
+keyword	bbc
+keyword	actress playing multiple roles
+keyword	truck
+keyword	war ruins
+keyword	british army
+keyword	suffragette
+keyword	scar
+keyword	marriage
+keyword	south africa
+keyword	lecture
+keyword	world war two
+keyword	bath attendant
+keyword	retirement
+keyword	motorcycle with a sidecar
+keyword	unrequited love
+keyword	blackout
+keyword	harrow
+keyword	1940s
+keyword	american captain
+keyword	big belly
+keyword	war office
+keyword	aunt nephew relationship
+keyword	moustache
+keyword	germany
+keyword	gangster
+keyword	sherry
+keyword	widower
+keyword	photo album
+keyword	hunting
+keyword	lake
+keyword	world war one
+keyword	propaganda
+keyword	cutting off ear
+keyword	radio
+keyword	letter
+keyword	motorcycle
+keyword	englishman
+keyword	leicestershire
+keyword	bombing
+keyword	kiss
+keyword	book
+keyword	montage
+keyword	pearl harbor
+keyword	brigadier
+keyword	missionary
+keyword	london england
+keyword	reference to sherlock holmes
+keyword	stepping on someone's foot
+keyword	father son relationship
+keyword	ear
+keyword	sarcasm
+keyword	chemist
+keyword	mounted animal head
+keyword	reference to arthur conan doyle
+keyword	uncle niece relationship
+keyword	in joke
+keyword	nun
+keyword	cigarette smoking
+keyword	war game
+keyword	bandage
+keyword	library
+keyword	shoplifting
+keyword	wooden leg
+keyword	band
+keyword	ambulance
+keyword	death of wife
+keyword	priest
+keyword	british embassy
+keyword	minister
+keyword	radio broadcast
+keyword	waiter
+keyword	cigarette holder
+keyword	torture threat
+keyword	tribunal
+keyword	invasion
+keyword	gun
+keyword	hiding
+keyword	theatre box
+keyword	british soldier
+keyword	sabre
+keyword	historical event
+keyword	newsstand
+keyword	reference to cain and abel
+keyword	family relationships
+keyword	burning leaves
+keyword	character name in title
+keyword	
+cast	Roger Livesey	Clive Candy
+cast	Deborah Kerr	Edith Hunter / Barbara Wynne / Johnny Cannon
+cast	Anton Walbrook	Theo Kretschmar-Schuldorff
+cast	Roland Culver	Col. Betteridge
+cast	James McKechnie	Spud Wilson
+cast	Albert Lieven	von Ritter
+cast	Arthur Wontner	Embassy Counsellor
+cast	David Hutcheson	Hoppy
+cast	Ursula Jeans	Frau von Kalteneck
+cast	John Laurie	Murdoch
+cast	Harry Welchman	Major Davies
+cast	Reginald Tate	van Zijl
+cast	A.E. Matthews	President of Tribunal
+cast	Carl Jaffe	von Reumann
+cast	Valentine Dyall	von Schönborn
+cast	Muriel Aked	Aunt Margaret
+cast	Felix Aylmer	The Bishop
+cast	Frith Banbury	Baby-Face Fitzroy
+cast	Neville Mapp	Stuffy Graves
+cast	Vincent Holman	Club Porter
+cast	Spencer Trevor	Period Blimp
+cast	James Knight	Club Porter
+cast	Dennis Arundell	Café Orchestra Leader
+cast	David Ward	Kaunitz
+cast	Jan Van Loewen	Indignant Citizen
+cast	Eric Maturin	Col. Goodhead
+cast	Robert Harris	Embassy Secretary
+cast	Theodore Zichy	Col. Borg
+cast	Jane Millican	Nurse Erna
+cast	Phyllis Morris	Pebble
+cast	Diana Marshall	Sybil Hopwell
+cast	W.H. Barrett	The Texan
+cast	Thomas Palmer	The Sergeant
+cast	Yvonne Andre	The Nun
+cast	Marjorie Gresley	The Matron
+cast	Helen Debroy	Mrs.Wynne
+cast	Norman Pierce	Mr. Wynne
+cast	Edward Cooper	B.B.C. Official
+cast	Joan Swinstead	Secretary
+cast	John Boxer	Soldier
+cast	Erik	Cocker Spaniel
+cast	Ian Fleming	Maj. Plumley
+cast	Desmond Jeans	Barman
+cast	Patrick Macnee	Extra
+cast	Ferdy Mayne	Prussian Student
+cast	Pat McGrath	Cpl. Tommy Tucker
+cast	Ronald Millar	Sgt Hawkins
+cast	Charles Mortimer	Dr. Crowler at Duel
+cast	Pete Murray	Extra in Crowd at BBC Bunker
+cast	Peter Noble	Prisoner of War
+cast	Wally Patch	Sergeant Clearing Debris
+cast	Norris Smith	Napoleon Armstrong
+cast	Spangle	Cocker Spaniel
+cast	Waleen Tidy	Edith's Sister
+cast	John Varley	Soldier
+cast	George Woodbridge	Man with Debris Clearing Unit

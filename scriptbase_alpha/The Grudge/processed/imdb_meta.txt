@@ -1,0 +1,134 @@
+year	2004
+imdb score	5.8
+meta score	49
+genre	Horror
+genre	Mystery
+genre	Thriller
+keyword	curse
+keyword	american
+keyword	japan
+keyword	rage
+keyword	nurse
+keyword	terror
+keyword	death
+keyword	elderly
+keyword	old woman
+keyword	ghost
+keyword	social worker
+keyword	surveillance footage
+keyword	morgue
+keyword	photograph
+keyword	computer
+keyword	brother sister relationship
+keyword	catatonia
+keyword	corpse
+keyword	closet
+keyword	tokyo japan
+keyword	police
+keyword	neck breaking
+keyword	goth
+keyword	marriage
+keyword	male full frontal nudity
+keyword	drowning
+keyword	husband wife relationship
+keyword	gothic
+keyword	murder of wife
+keyword	ghost child
+keyword	police car
+keyword	loss of husband
+keyword	ritual
+keyword	stairwell
+keyword	missing person
+keyword	remake of japanese film
+keyword	attic
+keyword	flashback
+keyword	fear
+keyword	cell phone
+keyword	japanese
+keyword	stalker
+keyword	vision
+keyword	neo noir
+keyword	care
+keyword	police officer
+keyword	suicide
+keyword	hospital
+keyword	bus
+keyword	little boy
+keyword	mail
+keyword	killed in a bathtub
+keyword	video cassette
+keyword	detective
+keyword	two word title
+keyword	arson
+keyword	jealousy
+keyword	elevator
+keyword	professor
+keyword	gore
+keyword	family relationships
+keyword	shower
+keyword	shock
+keyword	wraith
+keyword	child nudity
+keyword	severed jaw
+keyword	boyfriend girlfriend relationship
+keyword	care work
+keyword	sink
+keyword	bathtub
+keyword	waiter
+keyword	video surveillance
+keyword	pet cat
+keyword	buddhism
+keyword	crime scene
+keyword	real estate agent
+keyword	haunted house
+keyword	cemetery
+keyword	murder
+keyword	filicide
+keyword	security guard
+keyword	police detective
+keyword	horror movie remake
+keyword	cat
+keyword	psycho thriller
+keyword	female protagonist
+keyword	vcr
+keyword	drowning someone
+keyword	realtor
+keyword	balcony
+keyword	spider web
+keyword	remake by original director
+keyword	office
+keyword	supernatural power
+keyword	inter cultural
+keyword	falling from height
+keyword	stabbing
+keyword	mother son relationship
+keyword	dating
+keyword	nonlinear timeline
+keyword	teacher
+keyword	murder suicide
+keyword	surprise ending
+keyword	
+cast	Sarah Michelle Gellar	Karen
+cast	Jason Behr	Doug
+cast	William Mapother	Matthew
+cast	Clea DuVall	Jennifer
+cast	KaDee Strickland	Susan
+cast	Grace Zabriskie	Emma
+cast	Bill Pullman	Peter
+cast	Rosa Blasi	Maria
+cast	Ted Raimi	Alex
+cast	Ryo Ishibashi	Nakagawa
+cast	Yôko Maki	Yoko
+cast	Yuya Ozeki	Toshio
+cast	Takako Fuji	Kayako
+cast	Takashi Matsuyama	Takeo
+cast	Hiroshi Matsunaga	Igarashi
+cast	Hajime Okayama	Suzuki
+cast	Yoshiyuki Morishita	Guard
+cast	Kazuyuki Tsumura	Peter's Co-Worker
+cast	Taigi Kobayashi	Policeman
+cast	Junko Koizumi	Mother
+cast	Nana Koizumi	Daughter
+cast	Yôichi Okamura	Restaurant Manager
+cast	Eiji Ôki	Morgue Detective
+cast	Katsuhiro Oyama	Morgue Doctor

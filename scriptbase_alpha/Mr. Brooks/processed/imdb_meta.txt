@@ -1,0 +1,308 @@
+year	2007
+imdb score	7.4
+meta score	45
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	murder
+keyword	alter ego
+keyword	addiction
+keyword	factory
+keyword	businessman
+keyword	serial killer
+keyword	love
+keyword	secret
+keyword	divorce
+keyword	detective
+keyword	police
+keyword	bmw
+keyword	dancer
+keyword	fetish
+keyword	psychopath
+keyword	police detective
+keyword	fingerprint
+keyword	man of the year
+keyword	witness
+keyword	death
+keyword	multiple murder
+keyword	kiss
+keyword	ice cream
+keyword	college student
+keyword	evil man
+keyword	closet
+keyword	emergency room
+keyword	pistol
+keyword	college dropout
+keyword	gun
+keyword	suspense
+keyword	fetishist
+keyword	vacuum cleaner
+keyword	dream
+keyword	tears
+keyword	rooftop
+keyword	parking garage
+keyword	corpse
+keyword	escaped convict
+keyword	door key
+keyword	process server
+keyword	shot in the leg
+keyword	car accident
+keyword	talking to self
+keyword	rain
+keyword	murder of husband
+keyword	sadomasochist
+keyword	psycho killer
+keyword	strobe light
+keyword	blood stain
+keyword	dna
+keyword	alcoholics anonymous
+keyword	topless female nudity
+keyword	nipples
+keyword	watching
+keyword	clothing
+keyword	following someone
+keyword	beard
+keyword	conscience
+keyword	shot in the shoulder
+keyword	hit on the head
+keyword	desire
+keyword	apprentice
+keyword	death of husband
+keyword	covered in blood
+keyword	deception
+keyword	body hitting a car windshield
+keyword	urinating in fear
+keyword	double life
+keyword	shovel
+keyword	female nudity
+keyword	father daughter relationship
+keyword	computer
+keyword	gore
+keyword	lawyer
+keyword	driver's license
+keyword	silencer
+keyword	voyeur
+keyword	investigation
+keyword	exercycle
+keyword	staring
+keyword	flight attendant
+keyword	murder witness
+keyword	office
+keyword	black humor
+keyword	sadism
+keyword	hotel
+keyword	telephone
+keyword	trauma
+keyword	crying
+keyword	pickup truck
+keyword	hearing voices
+keyword	underwear
+keyword	hatchet
+keyword	stabbed in the throat
+keyword	marriage
+keyword	being followed
+keyword	split personality
+keyword	escalator
+keyword	stabbing
+keyword	framed
+keyword	prayer
+keyword	convenience store
+keyword	nude man murdered
+keyword	homicide
+keyword	anger
+keyword	banquet
+keyword	sidewalk cafe
+keyword	taxi
+keyword	mirror
+keyword	interrupted sex
+keyword	sex
+keyword	friendship
+keyword	posed murder victim
+keyword	testmonial dinner
+keyword	cafe
+keyword	psycho
+keyword	yelling
+keyword	reference to stanford university
+keyword	dance studio
+keyword	fear
+keyword	homicidal maniac
+keyword	urination
+keyword	divorcee
+keyword	mechanical engineer
+keyword	hit with a shovel
+keyword	dead man
+keyword	dance class
+keyword	philanthropist
+keyword	surprise
+keyword	crossword puzzle
+keyword	shot in the chest
+keyword	woman on top
+keyword	blood
+keyword	masochism
+keyword	box factory
+keyword	man with glasses
+keyword	jogger
+keyword	shot in the head
+keyword	eyeglasses
+keyword	scissors
+keyword	kidnapping
+keyword	diner
+keyword	disguise
+keyword	cell phone
+keyword	schizophrenia
+keyword	intercom
+keyword	dead woman with eyes open
+keyword	blackmail
+keyword	killed during sex
+keyword	kitchen
+keyword	head wound
+keyword	telephone call
+keyword	bra
+keyword	serenity prayer
+keyword	woman shot in the forehead
+keyword	flashback
+keyword	blood spatter
+keyword	bloodbath
+keyword	doctor
+keyword	shooting
+keyword	jacket
+keyword	hallucination
+keyword	multiple homicide
+keyword	mercilessness
+keyword	maniac
+keyword	ex husband ex wife relationship
+keyword	friend
+keyword	door lock
+keyword	alternate reality
+keyword	wig
+keyword	cruelty
+keyword	fireplace
+keyword	stabbed with scissors
+keyword	bed
+keyword	student
+keyword	stabbed in the neck
+keyword	bedroom
+keyword	photograph
+keyword	dead woman
+keyword	hospital
+keyword	double cross
+keyword	safe deposit box
+keyword	good becoming evil
+keyword	mother daughter relationship
+keyword	murderer
+keyword	imaginary person
+keyword	portland oregon
+keyword	seduction
+keyword	palo alto california
+keyword	flashlight
+keyword	church
+keyword	nudity
+keyword	dead woman on bed
+keyword	men's bathroom
+keyword	bridge
+keyword	masochist
+keyword	thrown from a car
+keyword	husband wife relationship
+keyword	sadist
+keyword	masturbation
+keyword	female rear nudity
+keyword	s&m
+keyword	nightmare
+keyword	bare butt
+keyword	suicide
+keyword	violence
+keyword	cemetery
+keyword	oven
+keyword	schizophrenic
+keyword	wetting pants
+keyword	breaking and entering
+keyword	prologue
+keyword	murder suicide
+keyword	airplane
+keyword	dead body
+keyword	imaginary friend
+keyword	punctuation in title
+keyword	secret compartment
+keyword	restaurant
+keyword	repeated scene
+keyword	newspaper
+keyword	secretary
+keyword	neon light
+keyword	reckless driving
+keyword	stripping
+keyword	millionaire
+keyword	bleeding to death
+keyword	dancing
+keyword	nude woman murdered
+keyword	shootout
+keyword	voyeurism
+keyword	storm
+keyword	serial murder
+keyword	barcelona chair
+keyword	male nudity
+keyword	wife swapping
+keyword	shot in bed
+keyword	throat slitting
+keyword	body landing on a car
+keyword	pottery
+keyword	road rage
+keyword	psychotic
+keyword	abduction
+keyword	van
+keyword	dying
+keyword	no panties
+keyword	pregnancy
+keyword	pubic hair
+keyword	bare breasts
+keyword	grave
+keyword	policeman
+keyword	shot in the forehead
+keyword	character name in title
+keyword	title spoken by character
+keyword	surprise ending
+cast	Kevin Costner	Mr. Earl Brooks
+cast	Demi Moore	Det. Tracy Atwood
+cast	Dane Cook	Mr. Smith
+cast	William Hurt	Marshall
+cast	Marg Helgenberger	Emma Brooks
+cast	Ruben Santiago-Hudson	Hawkins
+cast	Danielle Panabaker	Jane Brooks
+cast	Aisha Hinds	Nancy Hart
+cast	Lindsay Crouse	Captain Lister
+cast	Jason Lewis	Jesse Vialo
+cast	Reiko Aylesworth	Sheila - Jesse's Lawyer
+cast	Matt Schulze	Thorton Meeks
+cast	Yasmine Delawari	Sunday
+cast	Traci Dinwiddie	Sarah Leaves
+cast	Michael Cole	Atwood's Lawyer
+cast	Jim Farnum	Master of Ceremonies
+cast	Megan Brown	Dance Couple
+cast	Ross Francis	Dance Couple
+cast	Kit Gwin	Detective Carfagno
+cast	Marcus Hester	Detective Smolny
+cast	Jamie McShane	Crime Lab Technician
+cast	Laura Bailey	Flight Attendant
+cast	Jon Paul Burkhart	Flight Attendant
+cast	Matthew Posey	AA Leader
+cast	Brandon Olive	Summons Server
+cast	Rosie Cafarelli	Vaughn
+cast	Ben Glass	ER Doctor
+cast	Kanin Howell	Pick-Up Driver
+cast	Steve Coulter	Roger
+cast	Stephen Michael Ayers	Mr. Clifford
+cast	Mark Scarboro	Detective
+cast	Brad Evans	Cop
+cast	David Gibbons	Box Plant Manager
+cast	Jasa Abreo	On Plane Flight Attendant
+cast	Rommel Sulit	Japanese Client
+cast	Phillip DeVona	Police Officer
+cast	Dodie Brown	Police Officer
+cast	Ted Ferguson	Restaurant Patron
+cast	Chuck Halley	Banquet Guest
+cast	Deborah R. Jones	CSI Agent
+cast	Gio March	Police Officer
+cast	Colvin Roberson	Driver
+cast	Van White	Officer Shanks
+cast	Steven E. Williams	Motorist
+cast	Cindi Woods	CSI Agent

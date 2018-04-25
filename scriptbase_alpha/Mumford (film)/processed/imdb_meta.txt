@@ -1,0 +1,243 @@
+year	1999
+imdb score	6.9
+meta score	62
+genre	Comedy
+genre	Drama
+keyword	patient
+keyword	psychologist
+keyword	small town
+keyword	college
+keyword	drugs
+keyword	secret
+keyword	irs
+keyword	computer
+keyword	teenage girl
+keyword	investigator
+keyword	billionaire
+keyword	monk
+keyword	friend
+keyword	female nudity
+keyword	wife abuse
+keyword	panda
+keyword	policeman
+keyword	father daughter relationship
+keyword	fugitive
+keyword	death
+keyword	artificial human
+keyword	exhaustion
+keyword	beer
+keyword	stoned
+keyword	english literature
+keyword	self esteem
+keyword	reference to danny ainge
+keyword	running
+keyword	nba
+keyword	west virginia
+keyword	doll
+keyword	courtroom
+keyword	judge
+keyword	pizza delivery boy
+keyword	suicide
+keyword	female stockinged legs
+keyword	cornell university
+keyword	psychotherapy
+keyword	diner
+keyword	husband wife relationship
+keyword	gun
+keyword	psychology
+keyword	stepfather stepson relationship
+keyword	birth certificate
+keyword	hubble space telescope
+keyword	pest control
+keyword	medication
+keyword	car accident
+keyword	bong
+keyword	impostor
+keyword	nudity
+keyword	erection
+keyword	porno magazine
+keyword	unsolved mystery
+keyword	baseball
+keyword	photograph
+keyword	banker
+keyword	extramarital affair
+keyword	garbage collector
+keyword	accountant
+keyword	watching tv
+keyword	beating
+keyword	rifle
+keyword	pro bono
+keyword	mother son relationship
+keyword	skateboard
+keyword	psychologist license
+keyword	internal revenue service
+keyword	scholarship
+keyword	hang gliding
+keyword	cuban cigar
+keyword	psychiatrist
+keyword	deceit
+keyword	warehouse
+keyword	breaking and entering
+keyword	topless female nudity
+keyword	flashback
+keyword	furniture maker
+keyword	gazebo
+keyword	love
+keyword	new york times
+keyword	taxi
+keyword	national basketball association
+keyword	mental illness
+keyword	shooting
+keyword	termite
+keyword	cocaine
+keyword	killed in a car accident
+keyword	restaurant
+keyword	forgery
+keyword	court
+keyword	investment banking
+keyword	father son relationship
+keyword	friendship
+keyword	cigar smoking
+keyword	pipe fitter
+keyword	sexual fantasy
+keyword	tattoo
+keyword	prison sentence
+keyword	analysis
+keyword	crying
+keyword	hallucination
+keyword	tourist
+keyword	marriage
+keyword	venture capitalist
+keyword	zen
+keyword	female frontal nudity
+keyword	robot
+keyword	police car
+keyword	humanoid
+keyword	infidelity
+keyword	pantyhose
+keyword	boy genius
+keyword	fake
+keyword	reference to williams sonoma
+keyword	magazine
+keyword	cafe
+keyword	actor playing himself
+keyword	wheelchair
+keyword	spa
+keyword	phoenix arizona
+keyword	unfaithfulness
+keyword	stairway lift
+keyword	grapefruit juice
+keyword	fraud
+keyword	drink
+keyword	remote control
+keyword	chronic fatigue syndrome
+keyword	cigarette smoking
+keyword	china
+keyword	surprise
+keyword	basketball
+keyword	goth girl
+keyword	enigma
+keyword	bare breasts
+keyword	actress
+keyword	police
+keyword	roommate
+keyword	civil service exam
+keyword	family relationships
+keyword	hardware store
+keyword	dream
+keyword	playing catch
+keyword	therapy
+keyword	dog
+keyword	shower
+keyword	deception
+keyword	marijuana
+keyword	college graduation
+keyword	drug use
+keyword	adultery
+keyword	bar
+keyword	reference to robert stack
+keyword	scarsdale new york
+keyword	mother daughter relationship
+keyword	paranoia
+keyword	investigation
+keyword	boston celtics
+keyword	black comedy
+keyword	insanity
+keyword	divorce
+keyword	drinking
+keyword	sex
+keyword	hobby
+keyword	kleenex
+keyword	model
+keyword	trust
+keyword	loner
+keyword	depression
+keyword	tears
+keyword	sleeping
+keyword	japanese
+keyword	suicide by gunshot
+keyword	double life
+keyword	pharmacist
+keyword	mirror
+keyword	medicine cabinet
+keyword	monastery
+keyword	teenage boy
+keyword	character name in title
+keyword	surprise ending
+cast	Loren Dean	Mumford
+cast	Hope Davis	Sofie Crisp
+cast	Jason Lee	Skip Skipperton
+cast	Alfre Woodard	Lily
+cast	Mary McDonnell	Althea Brockett
+cast	Pruitt Taylor Vince	Henry Follett
+cast	Zooey Deschanel	Nessa Watkins
+cast	Martin Short	Lionel Dillard
+cast	David Paymer	Dr. Ernest Delbanco
+cast	Jane Adams	Dr. Phyllis Sheeler
+cast	Dana Ivey	Mrs. Crisp
+cast	Kevin Tighe	Mr. Crisp
+cast	Ted Danson	Jeremy Brockett
+cast	Jason Ritter	Martin Brockett
+cast	Elisabeth Moss	Katie Brockett
+cast	Kirk Fox	Gregory
+cast	Scott N. Stevens	Ben Crisp
+cast	Robert Stack	Himself
+cast	Eddie Allen	Gilroy
+cast	Rick Dial	Correctional Officer
+cast	Joy Carlin	Judge Otto
+cast	Hélène Cardona	Candy
+cast	Priscilla Barnes	Landlady
+cast	Kelly Monaco	Landlady's Daughter
+cast	Steven Sennett	Young Pharmacist
+cast	Amanda Carlin	Mumford's Sister
+cast	Randall King	Revenue Officer McLure
+cast	Arell Blanton	Brother Timothy
+cast	Eddie McClintock	Unsolved Mumford
+cast	Molly Schaffer	Attractive Date
+cast	Simon Helberg	College Roomate
+cast	Lucie Laurier	Pretty Coed
+cast	Sam Sako	Edmond Warris
+cast	Penny Safranek	Mrs. Warris
+cast	David Doty	Samuel Gorbeck
+cast	Pamela Paulshock	Sutter's Young Wife
+cast	Kathryn Howell	Co-Worker IRS
+cast	Sulo Williams	Gas Station Co-Worker
+cast	Simone Kerrick	Lionel's Teacher
+cast	Barbara Tuss	Elizabeth
+cast	Ronald B. Morefield	Factory Co-Worker
+cast	Dick Mallon	Dino
+cast	Gea Carr	Jennifer
+cast	Chase Allen	Tough #1
+cast	Bryan Close	Tough #2
+cast	James Hiser	Tough #3
+cast	Roger Oyama	Revenue Officer
+cast	Naomi Sample	Janitor
+cast	Joe Voltierra	Garbage Co-Worker
+cast	Ron Kaell	Pest Control Co-Worker
+cast	T.J. Blair	Irate Taxpayer
+cast	Charles Okun	Charlie
+cast	Douglas Bennett	Mumford's Father
+cast	Krystee Clark	Highschool Girlfriend
+cast	Natalie Hays	Sharon Kinney
+cast	Holt McCallany	Newcomer
+cast	Julie Nunis	Mumford's Mother

@@ -1,0 +1,182 @@
+year	2004
+imdb score	7.8
+meta score	47
+genre	Action
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	mexico
+keyword	bodyguard
+keyword	kidnapping
+keyword	alcoholic
+keyword	cia
+keyword	vigilante
+keyword	bomb
+keyword	revenge motive
+keyword	shootout
+keyword	police officer killed
+keyword	bloodshed
+keyword	severed finger
+keyword	parrot
+keyword	swimming contest
+keyword	revenge
+keyword	tragedy
+keyword	religion
+keyword	child kidnapping
+keyword	nightclub
+keyword	agent
+keyword	swim meet
+keyword	torture
+keyword	rave
+keyword	secret agent
+keyword	rocket launcher
+keyword	remake
+keyword	killing spree
+keyword	main character dies
+keyword	compassion
+keyword	violence
+keyword	cia agent
+keyword	alcoholism
+keyword	police
+keyword	deceit
+keyword	bible
+keyword	shot to death
+keyword	car accident
+keyword	justice
+keyword	fast motion scene
+keyword	tragic ending
+keyword	finger cut off
+keyword	glock
+keyword	redemption
+keyword	severed ear
+keyword	righteous rage
+keyword	cell phone
+keyword	police corruption
+keyword	shot in the foot
+keyword	warrior
+keyword	betrayal
+keyword	assassination
+keyword	ransom
+keyword	moral ambiguity
+keyword	timebomb
+keyword	corpse
+keyword	mexican american
+keyword	hostage
+keyword	mass murder
+keyword	psycho thriller
+keyword	stuffed animal
+keyword	diary
+keyword	blood spatter
+keyword	tragic hero
+keyword	love
+keyword	shot in the chest
+keyword	shot in the shoulder
+keyword	newspaper
+keyword	death
+keyword	shot in the head
+keyword	shot in the hand
+keyword	swimming
+keyword	swimming pool
+keyword	suicide attempt
+keyword	spy
+keyword	mercenary
+keyword	rooftop
+keyword	exploding body
+keyword	death of title character
+keyword	retribution
+keyword	federal agent
+keyword	explosion
+keyword	murder
+keyword	neo noir
+keyword	grenade launcher
+keyword	interracial friendship
+keyword	hospital
+keyword	reporter
+keyword	restaurant
+keyword	blackmail
+keyword	friendship
+keyword	exploding car
+keyword	suicide
+keyword	based on novel
+keyword	
+cast	Denzel Washington	Joyhn W. Creasy
+cast	Dakota Fanning	Lupita Ramos
+cast	Radha Mitchell	Lisa Ramos
+cast	Christopher Walken	Paul Rayburn
+cast	Marc Anthony	Samuel Ramos
+cast	Giancarlo Giannini	Miguel Manzano
+cast	Mickey Rourke	Jordan Kalfus
+cast	Rachel Ticotin	Mariana Garcia Guerrero
+cast	Gustavo Sánchez Parra	Daniel Sanchez
+cast	Jesús Ochoa	Victor Fuentes
+cast	Gero Camilo	Aurelio Sanchez
+cast	Mario Zaragoza	Jorge Gonzalez
+cast	Charles Paraventi	Jersey Boy
+cast	Carmen Salinas	Guardian Three
+cast	Esteban De La Trinidad	Guardian Two
+cast	Angelina Peláez	Sister Anna
+cast	Norma Pablo	Reina Rosas
+cast	Rosa María Hernández	Maria
+cast	Heriberto Del Castillo	Bruno
+cast	Steve Gonzales	Insurance Lawyer
+cast	Andres Pardave	Vet
+cast	Rodrigo Zurita	Eighteen
+cast	Marisol Cal y Mayor	Eighteen's Girlfriend
+cast	Hector Hernandez Zertuche	Chauffeur
+cast	René Campero	Father
+cast	Angelica Rosado	Mother
+cast	Georgina González	Rayburn's Wife
+cast	Abraham Sandoval	Rayburn's Kid
+cast	Hugo Pelaez	Pedro
+cast	Jorge Victoria	Commandande Judicial
+cast	Ariane Pellicer	Reporter 1
+cast	Jorge Picont	Piano Teacher
+cast	Alberto Estrella	Adjutant AFI
+cast	Gerardo Taracena	Executive Adjutant
+cast	Nydia A. Trujillo	Nurse 1
+cast	Maria Hall Rueda	Nurse 2
+cast	Elvira Richards	Vet Assistant
+cast	Javier Torres Zaragoza	Sandri
+cast	Valentina Garcia Contreras	Camila
+cast	Enrique Cimet	Elderly Man
+cast	Sparkle	Elderly Woman
+cast	Dunia Alvarez	AFI Plainclothes 1
+cast	Beatriz Pina	Undercover AFI
+cast	Hector Tagle	Mariana's Driver
+cast	Jose Jesus Garcia	Sanchez Kid 1
+cast	Guadalupe Flores Garcia	Sanchez Kid 2
+cast	Daniela Martinez	Sanchez Kid 3
+cast	Rubén Santana	AFI Trailer Tech 1
+cast	Fernando Berzosa	AFI Trailer Tech 2
+cast	Eduardo Rivera	AFI Operator on Radio
+cast	Victor De Pascual	Arms Dealer
+cast	Norma Martínez	Arms Dealer 2
+cast	Aram Cardenas	Nephew
+cast	Alejandro Camps	Bodyguard 1
+cast	Jorge Almada	Bodyguard 1A
+cast	Carlos Barada	Bodyguard 2
+cast	Eduardo Yáñez	Bodyguard 2A
+cast	Jorge Merlo	Judicial Police
+cast	Alberto Pineda	Fuentes Man 1
+cast	Jesús González Leal	Fuentes Driver
+cast	Rodrigo Chavez	Fuentes Man 5
+cast	Fernando Arvizu	Thug Cop 1
+cast	Ghalil Elhateb Estrada	Thug Cop 2
+cast	Hugo Genesio	Plainclothes 1
+cast	Gonzalo Alvarez	Plainclothes 2
+cast	Ofelia Aguirre	Interviewer
+cast	Itatí Cantoral	Evelyn
+cast	Arturo Farfán	Bartender
+cast	Rossana Fuentes	Newscaster
+cast	Enrique Gonzalez	Taxi Driver
+cast	Adrian Grunberg	Docile Reporter
+cast	Jorge Guerrero	Priest
+cast	Roberto Kwok	Japanese Businessman 6
+cast	Berenice Manjarrez	Newscaster
+cast	José Montini	Restaurant Owner
+cast	Fernando Moya	Doctor
+cast	Iztel Navarro Vazquez	Sandri's Girl
+cast	Stacy Perskie	Cynical Reporter
+cast	Manuel Poncelis	School Clerk
+cast	Raul Zermeño	Highranking Government Official
+cast	Jorge Zárate	Customs Official

@@ -1,0 +1,63 @@
+year	1993
+imdb score	7.2
+meta score	N/A
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	poker
+keyword	love
+keyword	mechanic
+keyword	sibling
+keyword	bus
+keyword	tapioca
+keyword	physical comedy
+keyword	craziness
+keyword	classical movie freak
+keyword	handicap
+keyword	love triangle
+keyword	tree
+keyword	misfit
+keyword	psychoanalysis
+keyword	raisin
+keyword	schizophrenia
+keyword	toast
+keyword	paint
+keyword	brother sister relationship
+keyword	overprotective brother
+keyword	psychiatrist
+keyword	mental illness
+keyword	buster keaton copy
+keyword	affection
+keyword	1990s
+keyword	train
+keyword	iron
+keyword	ampersand in title
+keyword	character name in title
+keyword	title spoken by character
+cast	Johnny Depp	Sam
+cast	Mary Stuart Masterson	Juniper 'Joon' Pearl
+cast	Aidan Quinn	Benjamin 'Benny' Pearl
+cast	Julianne Moore	Ruthie
+cast	Oliver Platt	Eric
+cast	CCH Pounder	Dr. Garvey
+cast	Dan Hedaya	Thomas
+cast	Joe Grifasi	Mike
+cast	William H. Macy	Randy Burch
+cast	Liane Curtis	Claudia
+cast	Eileen Ryan	Mrs. Smail
+cast	Don Hamilton	UPS Man
+cast	Waldo Larson	Waldo
+cast	Irvin Johnson	Orderly
+cast	Shane Nilsson	Orderly
+cast	Leslie Laursen	Admitting Nurse, Emma Sherman Memorial Hospital
+cast	Faye Killebrew	Video Customer
+cast	Ramsin Amirkhas	Video Clerk at American Classic Video Store
+cast	Lynette Walden	Female Customer
+cast	Amy Alizabeth Sanford	Young Joon
+cast	Brian Keevy	Young Benny
+cast	John Grant Phillips	Policeman
+cast	Tony Lincoln	Local
+cast	Noon Orsatti	Patron
+cast	Dan Kamin	Patron
+cast	Gregory Cook	Guy in the Park
+cast	Aaron Haedt	Bicyclist

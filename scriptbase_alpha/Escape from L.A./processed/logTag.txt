@@ -1,0 +1,5 @@
+logline	Snake Plissken is once again called in by the United States government to recover a potential doomsday device from Los Angeles, now an autonomous island where undesirables are deported.
+tagline	Plan your escape this Summer
+tagline	Snake Is Back.
+tagline	Plan Your Escape.['LA' from 'Plan' and 'Escape' are highlighted]
+tagline	The man with the patch has escaped N.Y., try L.A. in the apocalypse

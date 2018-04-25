@@ -1,0 +1,265 @@
+year	2001
+imdb score	8.9
+meta score	92
+genre	Action
+genre	Adventure
+genre	Fantasy
+keyword	ring
+keyword	hobbit
+keyword	doom
+keyword	middle earth
+keyword	ancient
+keyword	quest
+keyword	elf
+keyword	dwarf
+keyword	uncle
+keyword	epic
+keyword	volcano
+keyword	river
+keyword	mountain
+keyword	forest
+keyword	invisibility
+keyword	severed arm
+keyword	heroism
+keyword	rainstorm
+keyword	flash flood
+keyword	speech
+keyword	enchantment
+keyword	mind control
+keyword	goblin
+keyword	monster
+keyword	temptation
+keyword	campfire
+keyword	reluctant hero
+keyword	stabbed in the arm
+keyword	pipe
+keyword	sword fight
+keyword	ten word title
+keyword	rescue from drowning
+keyword	severed finger
+keyword	underground city
+keyword	staircase
+keyword	decoy
+keyword	bravery
+keyword	eavesdropping
+keyword	blizzard
+keyword	bridge
+keyword	staff
+keyword	lifting male in air
+keyword	disarming someone
+keyword	redemption
+keyword	showdown
+keyword	tobacco
+keyword	self sacrifice
+keyword	subterranean city
+keyword	fictional war
+keyword	telepathy
+keyword	dark fantasy
+keyword	tomb
+keyword	traitor
+keyword	magical ring
+keyword	underwater
+keyword	tentacle
+keyword	saving the world
+keyword	archery
+keyword	motion capture
+keyword	crushed to death
+keyword	premonition
+keyword	battlefield
+keyword	fireworks
+keyword	knife in thigh
+keyword	cult director
+keyword	blockbuster
+keyword	envelope
+keyword	41st century b.c.
+keyword	decapitation
+keyword	giant bird
+keyword	inn
+keyword	council
+keyword	wraith
+keyword	village
+keyword	eagle
+keyword	famous line
+keyword	good versus evil
+keyword	whip
+keyword	abyss
+keyword	voice over narration
+keyword	torch
+keyword	promise
+keyword	sea monster
+keyword	horseback chase
+keyword	spear
+keyword	stabbing
+keyword	sword and sorcery
+keyword	avalanche
+keyword	slow motion
+keyword	echo
+keyword	forced perspective
+keyword	dark hero
+keyword	pendant
+keyword	torture
+keyword	lifting an adult into the air
+keyword	battle
+keyword	riddle
+keyword	statue
+keyword	password
+keyword	troll
+keyword	demon
+keyword	part of trilogy
+keyword	gift
+keyword	orc
+keyword	horn
+keyword	stabbed in the leg
+keyword	male bonding
+keyword	waterfall
+keyword	invented language
+keyword	mirror
+keyword	collision
+keyword	interracial friendship
+keyword	moth
+keyword	wizard
+keyword	5th millennium b.c.
+keyword	death of hero
+keyword	part computer animation
+keyword	flaming sword
+keyword	fortress
+keyword	fireplace
+keyword	smoke ring
+keyword	evil wizard
+keyword	courage
+keyword	cult film
+keyword	immortality
+keyword	interracial love
+keyword	cornfield
+keyword	flashback
+keyword	fictional language
+keyword	chain reaction
+keyword	cave in
+keyword	healing
+keyword	axe fight
+keyword	honor
+keyword	ferry boat
+keyword	ruins
+keyword	abduction
+keyword	broken sword
+keyword	hero
+keyword	friendship
+keyword	lifting someone into the air
+keyword	stabbed in the shoulder
+keyword	hidden door
+keyword	tower
+keyword	hand to hand combat
+keyword	eye
+keyword	castle
+keyword	battle axe
+keyword	falling from height
+keyword	armor
+keyword	homoerotic
+keyword	vision
+keyword	archive
+keyword	secret passage
+keyword	well
+keyword	rowboat
+keyword	rescue
+keyword	leaving home
+keyword	stabbed in the chest
+keyword	loyalty
+keyword	betrayal
+keyword	impalement
+keyword	prehistoric times
+keyword	cousin cousin relationship
+keyword	famous score
+keyword	horse
+keyword	no opening credits
+keyword	mutant
+keyword	swarm tactic
+keyword	birthday party
+keyword	abandoned mine
+keyword	fight
+keyword	lifting person in air
+keyword	alternate dimension
+keyword	last stand
+keyword	warrior
+keyword	colon in title
+keyword	dancing
+keyword	skeleton
+keyword	gardener
+keyword	macguffin
+keyword	sword and sandal
+keyword	crow
+keyword	combat
+keyword	telekinesis
+keyword	sword
+keyword	ensemble cast
+keyword	shot in the forehead
+keyword	prehistory
+keyword	prologue
+keyword	compassion
+keyword	tyrant
+keyword	death of friend
+keyword	based on novel
+cast	Alan Howard	The Ring
+cast	Elijah Wood	Frodo Baggins
+cast	Noel Appleby	Everard Proudfoot
+cast	Sean Astin	Samwise 'Sam' Gamgee
+cast	Sala Baker	Sauron
+cast	Sean Bean	Boromir
+cast	Cate Blanchett	Galadriel
+cast	Orlando Bloom	Legolas Greenleaf
+cast	Billy Boyd	Peregrin 'Pippin' Took
+cast	Marton Csokas	Celeborn
+cast	Megan Edwards	Mrs. Proudfoot
+cast	Michael Elsworth	Gondorian Archivist
+cast	Mark Ferguson	Gil-Galad
+cast	Ian Holm	Bilbo Baggins
+cast	Christopher Lee	Saruman
+cast	Lawrence Makoare	Lurtz
+cast	Andy Serkis	Gollum / Witch-King
+cast	Brent McIntyre	Witch-King
+cast	Ian McKellen	Gandalf the Grey
+cast	Peter McKenzie	Elendil
+cast	Sarah McLeod	Rose 'Rosie' Cotton
+cast	Dominic Monaghan	Meriadoc 'Merry' Brandybuck
+cast	Viggo Mortensen	Aragorn
+cast	Ian Mune	Bounder
+cast	Craig Parker	Haldir
+cast	Cameron Rhodes	Farmer Maggot
+cast	John Rhys-Davies	Gimli
+cast	Martyn Sanderson	Gate Keeper
+cast	Harry Sinclair	Isildur
+cast	Liv Tyler	Arwen
+cast	David Weatherley	Barliman Butterbur
+cast	Hugo Weaving	Elrond
+cast	Victoria Beynon-Cole	Hero Orcs / Goblins / Uruks / Ringwraiths
+cast	Lee Hartley	Hero Orcs / Goblins / Uruks / Ringwraiths
+cast	Sam La Hood	Hero Orcs / Goblins / Uruks / Ringwraiths
+cast	Chris Streeter	Hero Orcs / Goblins / Uruks / Ringwraiths
+cast	Phil Grieve	Hero Orcs / Goblins / Uruks / Ringwraiths
+cast	Jonathan Jordan	Hero Orcs / Goblins / Uruks / Ringwraiths
+cast	Semi Kuresa	Hero Orcs / Goblins / Uruks / Ringwraiths
+cast	Clinton Ulyatt	Hero Orcs / Goblins / Uruks / Ringwraiths
+cast	Paul Bryson	Hero Orcs / Goblins / Uruks / Ringwraiths
+cast	Lance Fabian Kemp	Hero Orcs / Goblins / Uruks / Ringwraiths
+cast	Jono Manks	Hero Orcs / Goblins / Uruks / Ringwraiths
+cast	Ben Price	Hero Orcs / Goblins / Uruks / Ringwraiths
+cast	Billy Jackson	Cute Hobbit Child
+cast	Katie Jackson	Cute Hobbit Child
+cast	Peter Corrigan	Otho
+cast	Lori Dungey	Mrs. Bracegirdle
+cast	Norman Forsey	Gaffer Gamgee
+cast	William Johnson	Old Noakes
+cast	Elizabeth Moody	Lobelia Sackville-Baggins
+cast	Brian Sergent	Ted Sandyman
+cast	Timothy Bartlett	Hobbit
+cast	Jarl Benzon	Elf
+cast	Jørn Benzon	Rumil
+cast	Rachel Clentworth	Goblin
+cast	Sabine Crossen	Rivendell Elf
+cast	Taea Hartwell	Cute Hobbit Child
+cast	Peter Jackson	Albert Dreary
+cast	Alan Lee	King of Men - Prologue Sequence
+cast	Thomas McGinty	Hero Orcs / Goblins / Uruks / Ringwraiths
+cast	Bret McKenzie	Lindir
+cast	Liz Merton	Hobbit Band Member
+cast	Kate O'Rourke	Hero Orcs / Goblins / Uruks / Ringwraiths
+cast	Shane Rangi	Witch-King of Angmar

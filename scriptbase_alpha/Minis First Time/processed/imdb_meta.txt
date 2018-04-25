@@ -1,0 +1,113 @@
+year	2006
+imdb score	5.9
+meta score	45
+genre	Comedy
+genre	Crime
+genre	Drama
+keyword	detective
+keyword	murder
+keyword	escort
+keyword	dysfunctional family
+keyword	tv show within a film
+keyword	bikini
+keyword	mini skirt
+keyword	kitchen
+keyword	sex
+keyword	spiked drink
+keyword	stepfather stepdaughter relationship
+keyword	prescription drug addiction
+keyword	infidelity
+keyword	nervous breakdown
+keyword	party
+keyword	reality producer
+keyword	teenager
+keyword	freeze frame
+keyword	graduation
+keyword	loss of mother
+keyword	jacuzzi
+keyword	cocaine
+keyword	blindfold
+keyword	tattoo
+keyword	hot pants
+keyword	older man younger woman relationship
+keyword	swimming pool
+keyword	high school
+keyword	prison
+keyword	drunkenness
+keyword	nightclub
+keyword	husband wife relationship
+keyword	delivery boy
+keyword	toilet
+keyword	cigarette smoking
+keyword	prescription drug abuse
+keyword	black comedy
+keyword	escort service
+keyword	chopstick
+keyword	mother daughter relationship
+keyword	call girl
+keyword	suicide
+keyword	teenage girl
+keyword	trophy wife
+keyword	giraffe
+keyword	parking garage
+keyword	fisticuffs
+keyword	hit over the head with a bottle
+keyword	masseur
+keyword	hairy chest
+keyword	alcoholic mother
+keyword	unfaithful husband
+keyword	bare chested male
+keyword	water fountain
+keyword	desert
+keyword	thong
+keyword	breakfast
+keyword	beach
+keyword	voice over narration
+keyword	verbal abuse
+keyword	independent film
+keyword	character name in title
+keyword	surprise ending
+keyword	
+cast	Alec Baldwin	Martin
+cast	Nikki Reed	Mini
+cast	Carrie-Anne Moss	Diane
+cast	Jeff Goldblum	Mike Rudell
+cast	Luke Wilson	Garson
+cast	Svetlana Metkina	Jelena
+cast	Sprague Grayden	Kayla
+cast	Artie Baxter	Troy
+cast	Rick Fox	Fabrizio
+cast	Michael Laskin	Irv Flachsman
+cast	Joe Egender	Jimmy
+cast	Orlando Seale	Carlos
+cast	Jerry Giles	Promise Keeper
+cast	Jean St. James	Helga Hauptführer
+cast	David Shatraw	Husband #1
+cast	John Prosky	Husband #2
+cast	Lewis Tan	Skatepunk #2
+cast	John Serge	Security Guard #1
+cast	Dohn Norwood	Paramedic #1
+cast	Heidi Ferrer	Jennifer
+cast	Britt Morrow	Lois
+cast	Andrea Lwin	Jupiter Courier Clerk
+cast	Mark Deklin	Ian Boyd
+cast	David Andriole	Charles Mather
+cast	Nick Guthe	Mr. Bishop
+cast	Nana Visitor	Principal Patty Andrews
+cast	Lou Saliba	Herb Pelham
+cast	Joel McHale	Host
+cast	Jonathan Murphy	Jason
+cast	Courtney Thomas	Becky
+cast	Jose Yenque	Sheriff
+cast	Andre Ware	Guard
+cast	Drew Bayers	Creepy Voice
+cast	Hailey Bright	Teenage Girl
+cast	Victoria Chalaya	Mini's Schoolmate
+cast	Marjorie Eber	Club Dancer
+cast	RaMona Fleetwood	Drum Circle
+cast	Kathleen LaGue	Additional Voices
+cast	Randy Miller	Exotic Animal Trainer
+cast	Steven A. Miller	High School Student
+cast	Lindzi Scharf	Club Dancer
+cast	Amanda Sickler	Additional Voices
+cast	Chip Sickler	Additional Voices

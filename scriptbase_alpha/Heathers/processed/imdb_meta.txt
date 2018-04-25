@@ -1,0 +1,132 @@
+year	1988
+imdb score	7.4
+meta score	73
+genre	Comedy
+genre	Crime
+genre	Drama
+keyword	heather
+keyword	suicide
+keyword	clique
+keyword	high school
+keyword	murder
+keyword	sociopath
+keyword	diary
+keyword	party
+keyword	gun
+keyword	death
+keyword	female protagonist
+keyword	surrealism
+keyword	father son relationship
+keyword	shot in the chest
+keyword	killer teen
+keyword	social climber
+keyword	misfit
+keyword	severed finger
+keyword	gym
+keyword	popularity
+keyword	black comedy
+keyword	irreverence
+keyword	coming of age
+keyword	pantyhose
+keyword	yearbook
+keyword	teenager
+keyword	shot in the neck
+keyword	cult film
+keyword	1980s
+keyword	gay slur
+keyword	peer pressure
+keyword	obesity
+keyword	self harm
+keyword	psychopath
+keyword	bomb
+keyword	croquet
+keyword	cafeteria
+keyword	dumb police
+keyword	teen angst
+keyword	satire
+keyword	school life
+keyword	social commentary
+keyword	vomit
+keyword	funeral
+keyword	reference to moby dick
+keyword	one word title
+keyword	obscene finger gesture
+keyword	reference to led zeppelin
+keyword	people with same name
+keyword	high school clique
+keyword	mineral water
+keyword	bully comeuppance
+keyword	threesome
+keyword	bully
+keyword	clothes on shower
+keyword	fake hanging
+keyword	suicide attempt
+keyword	cheerleader
+keyword	gay son
+keyword	psychotronic
+keyword	love letter
+keyword	hanged girl
+keyword	anti conformity
+keyword	fake suicide
+keyword	box office flop
+keyword	chase
+keyword	deadpan
+keyword	ohio
+keyword	dangerous friend
+keyword	dark comedy
+keyword	hyperbole
+keyword	cow tipping
+keyword	dream
+keyword	college party
+keyword	eating disorder
+keyword	boiler room
+keyword	unwanted kiss
+keyword	hippie
+keyword	teen movie
+keyword	jock
+keyword	teen suicide
+keyword	cynicism
+keyword	cult film
+keyword	poison
+keyword	explosion
+keyword	independent film
+keyword	character name in title
+keyword	
+cast	Winona Ryder	Veronica
+cast	Christian Slater	J.D.
+cast	Shannen Doherty	Heather
+cast	Lisanne Falk	Heather
+cast	Kim Walker	Heather
+cast	Penelope Milford	Pauline Fleming
+cast	Glenn Shadix	Father Ripper
+cast	Lance Fenton	Kurt Kelly
+cast	Patrick Labyorteaux	Ram
+cast	Jeremy Applegate	Peter Dawson
+cast	Jon Shear	Rodney
+cast	Carrie Lynn	Martha Dunnstock aka Dumptruck
+cast	Phill Lewis	Dennis
+cast	Renée Estevez	Betty Finn
+cast	John Zarchen	Country Club Keith
+cast	Sherrie Wills	Country Club Courtney
+cast	Curtiss Marlowe	Geek
+cast	Andrew Benne	Fat Cynic
+cast	Kevin Hardesty	1st Heavy Metaller in Pkg. Lot
+cast	Josh Richman	2nd Heavy Metaller in Pkg. Lot
+cast	Bess Meyer	Female Stoner
+cast	Jennifer Rhodes	Veronica's Mom
+cast	William Cort	Veronica's Dad
+cast	Larry Cox	David
+cast	Kent Stoddard	Brad
+cast	John Ingle	Principal Gowan
+cast	Stuart Mabray	Counselor Paul Hyde
+cast	Betty Ramey	Teacher in Conference Room
+cast	Aaron Mendelsohn	Nerd in Pauline's Class
+cast	Kirk Scott	Big Bud Dean
+cast	Mark Bringelson	Officer McCord
+cast	Chuck Lafont	Officer Milner
+cast	Christie Mellor	Squealing Girl in Pkg. Lot
+cast	Mark Carlton	Kurt's Dad
+cast	James 'Poorman' Trenton	'Hot Probs' D.J
+cast	Adrian Drake	Gruff Teacher
+cast	Sylvia Tobias	
+cast	Jeffrey Weissman	Voice Actor

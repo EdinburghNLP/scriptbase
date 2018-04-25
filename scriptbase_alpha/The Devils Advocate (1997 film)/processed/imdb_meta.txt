@@ -1,0 +1,253 @@
+year	1997
+imdb score	7.5
+meta score	60
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	lawyer
+keyword	law
+keyword	law firm
+keyword	florida
+keyword	vanity
+keyword	money
+keyword	devil
+keyword	attorney
+keyword	religion
+keyword	the devil
+keyword	apartment
+keyword	lucifer
+keyword	new york city
+keyword	sin
+keyword	public nudity
+keyword	bare breasts
+keyword	cleavage
+keyword	christianity
+keyword	blasphemy
+keyword	morphing
+keyword	voyeurism
+keyword	father son relationship
+keyword	1990s
+keyword	lust
+keyword	ambition
+keyword	bar
+keyword	slow motion scene
+keyword	temptation
+keyword	lawsuit
+keyword	hallucination
+keyword	villain played by lead actor
+keyword	legal trial
+keyword	manhattan new york city
+keyword	antichrist
+keyword	throat slitting
+keyword	nudity
+keyword	reference to satan
+keyword	rape victim
+keyword	party
+keyword	rape
+keyword	pubic hair
+keyword	child molester
+keyword	obsession
+keyword	suicide
+keyword	chinatown manhattan new york city
+keyword	loss of wife
+keyword	mental breakdown
+keyword	courtroom
+keyword	voodoo
+keyword	intrigue
+keyword	insanity
+keyword	coitus
+keyword	subculture
+keyword	female nudity
+keyword	ambiguous ending
+keyword	camel toe
+keyword	murder of family
+keyword	beaten to death
+keyword	marriage
+keyword	female removes her dress
+keyword	implied incest
+keyword	cult film
+keyword	nude girl
+keyword	no panties
+keyword	deal with the devil
+keyword	panties
+keyword	single mother
+keyword	perjury
+keyword	dog
+keyword	sex reference
+keyword	occult
+keyword	husband wife relationship
+keyword	satire
+keyword	personification of satan
+keyword	photograph
+keyword	bloody body of a child
+keyword	boxing
+keyword	female rear nudity
+keyword	church
+keyword	kosher
+keyword	supernatural power
+keyword	girl in panties
+keyword	bilocation
+keyword	seduction
+keyword	corruption
+keyword	tycoon
+keyword	mythology
+keyword	panties pulled down
+keyword	sexual desire
+keyword	balcony
+keyword	black panties
+keyword	art
+keyword	holy water
+keyword	white panties
+keyword	power
+keyword	gunshot wound
+keyword	incest
+keyword	southern u.s.
+keyword	jewish
+keyword	korean
+keyword	teacher student relationship
+keyword	topless female nudity
+keyword	oral sex
+keyword	gainesville florida
+keyword	satanism
+keyword	murder
+keyword	marital problem
+keyword	breasts
+keyword	ethics
+keyword	female frontal nudity
+keyword	troubled marriage
+keyword	catholic
+keyword	female removes her clothes
+keyword	bathroom
+keyword	virtuality
+keyword	nude
+keyword	black magic
+keyword	goat
+keyword	voyeur
+keyword	rapid decomposition
+keyword	it was all a dream
+keyword	demon rape
+keyword	scantily clad female
+keyword	time lapse photography
+keyword	leg spreading
+keyword	sexual pleasure
+keyword	female full frontal nudity
+keyword	seven deadly sins
+keyword	christian horror
+keyword	dead dog
+keyword	judge
+keyword	police
+keyword	demon
+keyword	mother son relationship
+keyword	bible
+keyword	copulation
+keyword	bare butt
+keyword	shot in the head
+keyword	breaking the fourth wall
+keyword	male nudity
+keyword	female pubic hair
+keyword	gun
+keyword	brooklyn bridge
+keyword	trial
+keyword	sexual attraction
+keyword	arrest
+keyword	sex in bed
+keyword	sexuality
+keyword	subway
+keyword	based on novel
+keyword	surprise ending
+keyword	
+cast	Keanu Reeves	Kevin Lomax
+cast	Al Pacino	John Milton
+cast	Charlize Theron	Mary Ann Lomax
+cast	Jeffrey Jones	Eddie Barzoon
+cast	Judith Ivey	Mrs. Alice Lomax
+cast	Connie Nielsen	Christabella Andreoli
+cast	Craig T. Nelson	Alexander Cullen
+cast	Tamara Tunie	Mrs. Jackie Heath
+cast	Ruben Santiago-Hudson	Leamon Heath
+cast	Debra Monk	Pam Garrety
+cast	Vyto Ruginis	Mitch Weaver - Justice Department
+cast	Laura Harrington	Melissa Black
+cast	Pamela Gray	Mrs. Diana Barzoon
+cast	George Wyner	Meisel
+cast	Chris Bauer	Lloyd Gettys
+cast	Connie Embesi	Mrs. Bernice Gettys
+cast	Jonathan Cavallary	Gettys' Son
+cast	Heather Matarazzo	Barbara
+cast	Murphy Guyer	Barbara's Father
+cast	Leo Burmester	Florida Prosecutor
+cast	Bill Moor	Garson Deeds - Florida Judge
+cast	Neal Jones	Larry - Florida Reporter
+cast	Eddie Aldridge	Florida Bailiff
+cast	Mark Deakins	Florida Lawyer #1
+cast	Rony Clanton	Junkie in Harlem
+cast	George Gore II	Boy in Harlem
+cast	Alan Manson	Judge Sklar - Moyez Trial
+cast	Brian Poteat	Pie Face
+cast	Daniel Oreskes	Arnold - Metro Assistant District Attorney
+cast	Kim Chan	Chinese Man
+cast	Caprice Benedetti	Menage A Trois Woman
+cast	Don King	Himself
+cast	Ray Garvey	Fight Fan
+cast	Rocco Musacchia	Fight Fan
+cast	Susan Kellermann	Joyce Rensaleer
+cast	James Saito	Takaori Osumi
+cast	Harsh Nayyar	Parvathi Resh
+cast	Mohammed Ghaffari	Bashir Toabal
+cast	Nicki Cochrane	Multi-Lingual Party Guest
+cast	Fenja Klaus	Female #1
+cast	Gino Lucci	Limo Driver
+cast	Novella Nelson	Botanica Woman
+cast	Vincent Laresca	Big Guy #1
+cast	Benny Nieves	Big Guy #2
+cast	Franci Leary	Babs Coleman
+cast	Gloria Lynne Henry	Tiffany
+cast	Jorge Navarro	Spanish Restaurant Manager
+cast	Jose Fernandes Torres	Flamenco Guitarist
+cast	Antonio Vargas Cortés	Flamenco Singer
+cast	Elena Camunez Andújar	Flamenco Dancer
+cast	Monica Keena	Alessandra Cullen
+cast	Linda Atkinson	Therapist
+cast	William Hill	Feeney the Doorman
+cast	Juan Carlos Hernández	Paparazzi
+cast	Wei Mei Wong	Gizelle
+cast	E. Katherine Kerr	Woman Judge
+cast	Liza Harris	Reporter #1
+cast	Bill Boggs	Reporter #2
+cast	Bo Rucker	Reporter #3
+cast	Michael Lombard	Judge Poe
+cast	Marc Manfro	Bailiff #1
+cast	J. Nester	Bailiff #2
+cast	John Rothman	District Attorney Broygo
+cast	George Sperdakos	Technician
+cast	Hollis Granville	Old Man #1
+cast	Edward Seamon	Old Man #2
+cast	Patrick Joseph Byrnes	Jogger #1
+cast	Gregory Lichtenson	Jogger #2
+cast	Socorro Santiago	Nurse
+cast	Marcia DeBonis	Nurse #2
+cast	Marie Stuart Vassallo	Patient Nurse
+cast	Tom Riis Farrell	Priest
+cast	Harold Surratt	Orderly #1
+cast	Alfonse D'amato	Himself at Barzoon Party
+cast	Charles A. Gargano	Himself at Barzoon Party
+cast	Lou Rudin	Himself at Barzoon Party
+cast	Ernie Grunfeld	Himself at Barzoon Party
+cast	Alan Grubman	Himself at Barzoon Party
+cast	Al Cerullo	Helicopter Pilot
+cast	Cadillac Moon	Band
+cast	Nikita Ager	Fan
+cast	Paul Benedict	Walter Krasna
+cast	Cindy Birch	Reporter
+cast	Rich Campbell	Member of the Cadillac Moon Band
+cast	Christopher Del Gaudio	Courthouse Reporter
+cast	Joyce Garland	Juror
+cast	Roy Jones Jr.	
+cast	Christopher King	Reporter
+cast	Omar Koury	NY health code associate
+cast	Adrian Lee	Attorney
+cast	Frank Licari	Juror
+cast	Delroy Lindo	Phillipe Moyez
+cast	Anibal O. Lleras	Restaurant Cheff
+cast	Al Santoriello	Member of the Cadillac Moon Band
+cast	Todd Wall	Bar Patron #1

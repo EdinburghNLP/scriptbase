@@ -1,0 +1,247 @@
+year	2005
+imdb score	6.9
+meta score	50
+genre	Fantasy
+genre	Horror
+keyword	demon
+keyword	hell
+keyword	suicide
+keyword	twin
+keyword	death
+keyword	twin sister
+keyword	heaven
+keyword	angel
+keyword	self sacrifice
+keyword	crucifix
+keyword	smoker
+keyword	diner
+keyword	cut hand
+keyword	thrown through a wall
+keyword	taxi driver
+keyword	wrist slitting
+keyword	title appears in writing
+keyword	religious faith
+keyword	lifted by the throat
+keyword	reference to satan
+keyword	catholic church
+keyword	androgyny
+keyword	electric chair
+keyword	stealing a car
+keyword	falling glass
+keyword	supernatural horror
+keyword	bowling alley
+keyword	deserted town
+keyword	one actress for twin sisters
+keyword	obscene finger gesture
+keyword	melting woman
+keyword	near death experience
+keyword	fallen angel
+keyword	corpse
+keyword	subtitled scene
+keyword	loss of friend
+keyword	split lip
+keyword	burnt face
+keyword	crushed by a car
+keyword	lung cancer
+keyword	psychic
+keyword	floating in the air
+keyword	insect attack
+keyword	walking on the ceiling
+keyword	nipples visible through clothing
+keyword	corkscrew
+keyword	surprise after end credits
+keyword	character repeating someone else's dialogue
+keyword	nightclub
+keyword	police detective
+keyword	hospital
+keyword	ashes
+keyword	possession
+keyword	jumping off a roof
+keyword	escaped mental patient
+keyword	dripping water
+keyword	vertigo comics
+keyword	paranormal phenomena
+keyword	scene after end credits
+keyword	decomposing body
+keyword	half breed
+keyword	seizure
+keyword	pentagram
+keyword	burnt body
+keyword	angel gabriel
+keyword	christ allegory
+keyword	breaking through a door
+keyword	sulphur
+keyword	melting face
+keyword	bar
+keyword	hand through chest
+keyword	back from the dead
+keyword	bathtub
+keyword	head blown off
+keyword	slow motion scene
+keyword	elevator shaft
+keyword	cartoon on tv
+keyword	shotgun
+keyword	chase
+keyword	cat
+keyword	shock therapy
+keyword	angel wings
+keyword	loss of sister
+keyword	flashlight
+keyword	beaten to death
+keyword	drowning
+keyword	younger version of character
+keyword	face blown off
+keyword	severed face
+keyword	boiler room
+keyword	anti hero
+keyword	shot through chest
+keyword	actress playing male role
+keyword	stranded
+keyword	id bracelet
+keyword	mirror does not reflect reality
+keyword	bus
+keyword	invulnerability
+keyword	hallucination
+keyword	falling through a glass roof
+keyword	knocked out with a gun butt
+keyword	self mutilation
+keyword	broken mirror
+keyword	fight to the death
+keyword	flask
+keyword	armageddon
+keyword	guessing game
+keyword	drugged drink
+keyword	exploding body
+keyword	swimming pool
+keyword	knife
+keyword	hearing voices
+keyword	jumping into a pool with clothes on
+keyword	reference to god
+keyword	morgue
+keyword	deception
+keyword	cult film
+keyword	cancer
+keyword	black cat
+keyword	salvation
+keyword	held at gunpoint
+keyword	devil
+keyword	brass knuckles
+keyword	stopped time
+keyword	demonic possession
+keyword	spear of destiny
+keyword	zippo lighter
+keyword	coughing blood
+keyword	lucid dream
+keyword	leg blown off
+keyword	punched in the face
+keyword	california
+keyword	unlikely hero
+keyword	exorcism
+keyword	based on comic
+keyword	electrocution
+keyword	mirror
+keyword	eyes different color
+keyword	shot to death
+keyword	split head
+keyword	archangel
+keyword	dc comics
+keyword	holy water
+keyword	supernatural power
+keyword	heaven vs hell
+keyword	falling from height
+keyword	flies
+keyword	power outage
+keyword	christianity
+keyword	cigarette smoking
+keyword	confession
+keyword	altered version of studio logo
+keyword	electroconvulsive therapy
+keyword	jammed gun
+keyword	thrown from a car
+keyword	drunkenness
+keyword	based on comic book
+keyword	christian horror
+keyword	los angeles california
+keyword	shot in the back
+keyword	nightmare
+keyword	storytelling
+keyword	mortal sin
+keyword	indoor swimming pool
+keyword	booze
+keyword	chain smoking
+keyword	terminal illness
+keyword	priest
+keyword	blowing smoke in someone's face
+keyword	electroshock therapy
+keyword	hit by a car
+keyword	redemption
+keyword	one word title
+keyword	knocked out
+keyword	mexico
+keyword	paranormal investigation
+keyword	clairvoyant
+keyword	stabbed in the hand
+keyword	raised middle finger
+keyword	shot in the chest
+keyword	dual role
+keyword	smoking
+keyword	film starts with text
+keyword	shot through a door
+keyword	character name in title
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Keanu Reeves	John Constantine
+cast	Rachel Weisz	Angela Dodson / Isabel Dodson
+cast	Shia LaBeouf	Chas Kramer
+cast	Djimon Hounsou	Midnite
+cast	Max Baker	Beeman
+cast	Pruitt Taylor Vince	Father Hennessy
+cast	Gavin Rossdale	Balthazar
+cast	Tilda Swinton	Gabriel
+cast	Peter Stormare	Satan
+cast	Jesse Ramirez	Scavenger
+cast	José Zúñiga	Detective Weiss
+cast	Francis Guinan	Father Garret
+cast	Larry Cedar	Vermin Man
+cast	April Grace	Dr. Leslie Archer
+cast	Suzanne Whang	Mother
+cast	Jhoanna Trias	Possessed Girl
+cast	Alice Lo	Old Woman
+cast	Nicholas Downs	Church Attendant
+cast	Tanoai Reed	Midnite Bouncer
+cast	Quinn Buniel	10 Year-Old Constantine
+cast	Ann Ryerson	Old Woman on Bus
+cast	Stephanie Fabian	Molly's Server
+cast	Connor Dylan Wryn	Teenage Constantine
+cast	Laz Alonso	Morgue Security Guard
+cast	Jeremy Ray Valdez	Liquor Store Clerk Nico
+cast	Jose Molina	Scavenger #2
+cast	Barbara Pilavin	Old Woman on Bus - Demon
+cast	C.W. Pyun	Korean man
+cast	Sharon Omi	Female Tenant
+cast	Edward J. Rosen	Liquor Store Clerk
+cast	John Gipson	Smoking Man
+cast	Roberto Kawata	Police Officer
+cast	Joey Paul Gowdy	Hospital Half Breed - Demon
+cast	Kevin Alejandro	Border Partrol
+cast	Valerie Azlynn	Angel
+cast	Eileen Dietz	Zombie
+cast	Kevin Eckhardt	Demon
+cast	Domino Harvey	Angel in Nightclub
+cast	Mohammed Hassan	Club Patron
+cast	Wesley John	Male Tenant
+cast	Andres Londono	Demon - Nightclub
+cast	April Malina	Demon
+cast	Matthew McGrory	Demon
+cast	Billy Million	Bar Boy
+cast	Michelle Monaghan	Ellie
+cast	Abe Pagtama	Tenant
+cast	Martin Pierron	Club Dancer
+cast	R.A. Rondell	Man in Jeep
+cast	Erik Rusnak	Nightclub Patron
+cast	Robbin Ryan	Angel
+cast	Mahryah Shain	Hospital Worker
+cast	Gary Sievers	Precision Driver
+cast	Chad Stahelski	Demon in Hospital
+cast	Tony Swift	Nightclub Patron

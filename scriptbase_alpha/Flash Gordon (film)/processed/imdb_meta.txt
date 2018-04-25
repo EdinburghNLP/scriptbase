@@ -1,0 +1,224 @@
+year	1980
+imdb score	6.4
+meta score	63
+genre	Action
+genre	Adventure
+genre	Fantasy
+genre	Sci-Fi
+keyword	planet
+keyword	emperor
+keyword	flash gordon
+keyword	prince
+keyword	american football
+keyword	scientist
+keyword	slave
+keyword	forbidden valley
+keyword	laser gun
+keyword	electronic music score
+keyword	general
+keyword	impalement
+keyword	revolver
+keyword	armpit
+keyword	alien
+keyword	end of the world
+keyword	execution
+keyword	torture chamber
+keyword	animated opening credits
+keyword	dungeon
+keyword	box office flop
+keyword	rocket ship
+keyword	public execution
+keyword	hood
+keyword	royal wedding
+keyword	man in coffin
+keyword	stabbed in the chest
+keyword	deception
+keyword	death of wife
+keyword	wedding
+keyword	mask
+keyword	super villain
+keyword	meteor shower
+keyword	space opera
+keyword	stabbed in the back
+keyword	female whipping
+keyword	canceled wedding
+keyword	man with glasses
+keyword	solar eclipse
+keyword	telepathy
+keyword	woman warrior
+keyword	back from the dead
+keyword	arms tied overhead
+keyword	hairy chest
+keyword	greenhouse
+keyword	reference to houdini
+keyword	rite of passage
+keyword	futuristic torture
+keyword	surveillance
+keyword	good versus evil
+keyword	floating city
+keyword	famous score
+keyword	magic ring
+keyword	plane crash
+keyword	sword
+keyword	widower
+keyword	evil man
+keyword	loss of wife
+keyword	wedding ceremony gone awry
+keyword	death by drowning
+keyword	space marriage
+keyword	volcano
+keyword	robot
+keyword	earthquake
+keyword	hailstorm
+keyword	fight to the death
+keyword	gas chamber
+keyword	shootout
+keyword	bare chested male bondage
+keyword	whip
+keyword	based on comic strip
+keyword	jailbreak
+keyword	explosion
+keyword	space travel
+keyword	eaten alive
+keyword	superhero
+keyword	laser beam
+keyword	weather manipulation
+keyword	drowning
+keyword	princess
+keyword	muscular physique
+keyword	green blood
+keyword	outer space
+keyword	trial by combat
+keyword	mind control
+keyword	castle in the sky
+keyword	bare chested male
+keyword	the end? title card
+keyword	gong
+keyword	held at gunpoint
+keyword	memory loss
+keyword	moon
+keyword	hurricane
+keyword	swamp monster
+keyword	lightning
+keyword	character name in title
+cast	Sam J. Jones	Flash Gordon
+cast	Melody Anderson	Dale Arden
+cast	Max von Sydow	The Emperor Ming
+cast	Topol	Dr. Hans Zarkov
+cast	Ornella Muti	Princess Aura
+cast	Timothy Dalton	Prince Barin
+cast	Brian Blessed	Prince Vultan
+cast	Peter Wyngarde	Klytus
+cast	Mariangela Melato	Kala
+cast	John Osborne	Arborian Priest
+cast	Richard O'Brien	Fico
+cast	John Hallam	Luro
+cast	Philip Stone	Zogi, the High Priest
+cast	Suzanne Danielle	Serving Girl
+cast	William Hootkins	Munson
+cast	Bobbie Brown	Hedonia
+cast	Ted Carroll	Biro
+cast	Adrienne Kronenberg	Vultan's Daughter
+cast	Stanley Lebor	Mongon Doctor
+cast	John Morton	Airline Pilot
+cast	Burnell Tucker	Airline Co-Pilot
+cast	Robbie Coltrane	Man at Airfield
+cast	Peter Duncan	Young Treeman
+cast	Ken Sicklen	A Treeman
+cast	Tessa Hewitt	Hawk Woman
+cast	Venetia Spicer	Hawk Woman
+cast	Francis Mughan	Wounded Hawkman
+cast	Oliver MacGreevy	Klytus Observer No. 1
+cast	John Hollis	Klytus Observer No. 2
+cast	Paul Bentall	Klytus' Pilot
+cast	Leon Greene	Colonel of Battle Control Room
+cast	Graeme Crowther	Battle Room Controller
+cast	Tony Scannell	Ming's Officer
+cast	David Neal	Captain of Ming's Air Force
+cast	Bogdan Kominowski	Lieutenant of Ming's Air Force
+cast	George Harris	Prince of Ardentia
+cast	Colin Taylor	King of Frigia
+cast	Doretta Dunkley	Queen of Frigia
+cast	Sally Nicholson	Queen of Azuria
+cast	Deep Roy	Princess Aura's Pet
+cast	Michelle Mildwater	Special Movement
+cast	Marie Green	Special Movement
+cast	Imogen Claire	Special Movement
+cast	Kay Zimmerman	Special Movement
+cast	Frederick Warder	Special Movement
+cast	Stephen Brigden	Special Movement
+cast	Lionel Guyett	Special Movement
+cast	Ken Robertson	Special Movement
+cast	Andy Bradford	Hawkman
+cast	Bertram Adams	Hawkman
+cast	Terry Forrestal	Hawkman
+cast	Mike Potter	Hawkman
+cast	John Sullivan	Hawkman
+cast	Eddie Stacey	Hawkman
+cast	John Lees	Hawkman
+cast	Roy Scammell	Hawkman
+cast	Kathy Marquis	Sandmoon Girl
+cast	Sophie	Sandmoon Girl
+cast	Kathy September	Sandmoon Girl
+cast	Glenna Forster-Jones	Sandmoon Girl
+cast	Roseanne Romine	Cytherian Girl
+cast	Sneh	Cytherian Girl
+cast	Magda	Cytherian Girl
+cast	Shaka	Cytherian Girl
+cast	Lindy	Cytherian Girl
+cast	Viva	Cytherian Girl
+cast	Beverly Andrews	Cytherian Girl
+cast	Frances Ward	Cytherian Girl
+cast	Kerry-Lou Baylis	Cytherian Girl
+cast	Camella	Cytherian Girl
+cast	Miranda Riley	Frigian Girl
+cast	Lorraine Paul	Aquarian Girl
+cast	Carolyn Evans	Aquarian Girl
+cast	Celeste	Aquarian Girl
+cast	Tina Thomas	Aquarian Girl
+cast	Ruthie Barnett	Aquarian Girl
+cast	Joe Iles	Ardentian Man
+cast	Trevor Ward	Ardentian Man
+cast	Alva Shelley	Ardentian Man
+cast	Nik Abraham	Ardentian Man
+cast	Leonard Hay	Ardentian Man
+cast	Glen Whitter	Ardentian Man
+cast	Jamalia	Serving Girl in Ming's Chamber
+cast	Jill Lamb	Serving Girl in Ming's Chamber
+cast	Sunanka	Serving Girl in Ming's Chamber
+cast	Karen Johnson	Serving Girl in Ming's Chamber
+cast	Gina	Exotic Girl in Ming's Bedchamber
+cast	Raquel	Exotic Girl in Ming's Bedchamber
+cast	Fai	Exotic Girl in Ming's Bedchamber
+cast	Malcolm Dixon	Dwarf
+cast	Tiny Ross	Dwarf
+cast	Mike Edmonds	Dwarf
+cast	John Ghavan	Dwarf
+cast	Rusty Goffe	Dwarf
+cast	Richard Jones	Dwarf
+cast	Mike Cottrell	Dwarf
+cast	Peter Burroughs	Dwarf
+cast	John Lummiss	Dwarf
+cast	Kenny Baker	Dwarf
+cast	Bob Goody	Azurian Man
+cast	Daniel Venn	Azurian Man
+cast	Peter St. James	Azurian Man
+cast	Steve Payne	Azurian Man
+cast	Max Alford	Azurian Man
+cast	Stephen Calcutt	Azurian Man
+cast	Anthony Olivier	Azurian Man
+cast	Jim Carter	Azurian Man
+cast	Stuart Blake	Azurian Man
+cast	Nigel Jeffcoat	Azurian Man
+cast	Chris Webb	Ming's Brute
+cast	Leslie Crawford	Ming's Brute
+cast	Peter Brace	Ming's Brute
+cast	Terry Richards	Ming's Brute
+cast	John Gallant	Ming's Brute
+cast	Eddie Powell	Ming's Brute
+cast	Sean Barry-Weske	Rabbi in Montage
+cast	Richard Bonehill	Extra
+cast	David de Keyser	Colonel of Battle Control Room
+cast	Kevin Hudson	Hawk Man
+cast	Derek Lyons	Arborian Priest Assistant
+cast	Ralph Morse	Arborian

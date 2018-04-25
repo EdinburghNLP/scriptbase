@@ -1,0 +1,177 @@
+year	1999
+imdb score	6.0
+meta score	65
+genre	Action
+genre	Comedy
+genre	Fantasy
+genre	Sci-Fi
+keyword	superhero
+keyword	rajah
+keyword	bowling
+keyword	spleen
+keyword	sphinx
+keyword	superhero team
+keyword	vanity
+keyword	mixed marriage
+keyword	parole board
+keyword	cult film
+keyword	spoof
+keyword	dark horse comics
+keyword	skunk
+keyword	audition
+keyword	kidnapping
+keyword	sewing
+keyword	motorcycle
+keyword	mother son relationship
+keyword	rage
+keyword	flatulence
+keyword	based on comic
+keyword	reference to beethoven
+keyword	fork
+keyword	bowling ball
+keyword	magnet
+keyword	diner
+keyword	exploding building
+keyword	switchblade
+keyword	superheroine
+keyword	based on comic book
+keyword	evil genius
+keyword	training
+keyword	hostage
+keyword	wrecking yard
+keyword	retirement home
+keyword	cult film
+keyword	castle
+keyword	super villain
+keyword	teenage superhero
+keyword	skull
+keyword	cartoon on tv
+keyword	superhero spoof
+keyword	botched rescue
+keyword	shovel
+keyword	invisible man
+keyword	invisibility
+keyword	station wagon
+keyword	insane asylum
+keyword	disco
+keyword	independent film
+keyword	title spoken by character
+keyword	
+cast	Ben Stiller	Mr. Furious
+cast	Hank Azaria	The Blue Raja
+cast	William H. Macy	Shoveler
+cast	Janeane Garofalo	The Bowler
+cast	Kel Mitchell	Invisible Boy
+cast	Paul Reubens	Spleen
+cast	Wes Studi	Sphinx
+cast	Greg Kinnear	Captain Amazing / Lance
+cast	Geoffrey Rush	Casanova Frankenstein
+cast	Lena Olin	Dr. Anabel Leek
+cast	Eddie Izzard	Tony P
+cast	Artie Lange	Big Red
+cast	Pras	Tony C
+cast	Claire Forlani	Monica
+cast	Tom Waits	Doc Heller
+cast	Louise Lasser	Violet
+cast	Ricky Jay	Vic Weems
+cast	Jenifer Lewis	Lucille
+cast	Ernie Lee Banks	Ted
+cast	Gerry Becker	Banyon
+cast	Ned Bellamy	Funk
+cast	Corbin Bleu	Butch
+cast	Philip Bolden	Roland
+cast	Jason 'Jake' Cross	Thug
+cast	Emmy Laybourne	Reporter
+cast	Mason Lucero	Young Kid
+cast	Monet Mazur	Becky Beaner
+cast	Joel McCrary	McGuire
+cast	Christopher Mugglebee	Reporter
+cast	Olivia Lauren Todd	Tracy
+cast	Frederick Usher	Thug
+cast	Kinka Usher	Moe
+cast	Gayle Vance	Sally
+cast	Adrian Armas	Disco Boy
+cast	Gichi Gamba	Disco Boy
+cast	Thomas Lake	Disco Boy
+cast	Robert Musselman	Disco Boy / Ballerinaman
+cast	Solo Scott	Disco Boy
+cast	Erik Michael Tristan	Disco Boy
+cast	James C. Duke	Big Tobacco
+cast	Angelica Bridges	Furrier
+cast	Ungela Brockman	Furrier
+cast	Kimberly James	Furrier
+cast	Andreea Radutoiu	Furrier
+cast	Michael Bay	Frat Boy
+cast	Noah Blake	Frat Boy
+cast	Riki Rachtman	Frat Boy
+cast	T-Mo	Rapper
+cast	CeeLo Green	Rapper
+cast	Big Gipp	Rapper
+cast	Khujo	Rapper
+cast	Michael Chieffo	Suit
+cast	Gil Christner	Suit
+cast	Carl Strand	Suit
+cast	Robert Chow	Susie
+cast	John Brantley Cole	Susie
+cast	Steven Jang	Susie
+cast	Sung Kang	Susie
+cast	Sasha Bray	Disco Girl
+cast	Sunny Görg	Disco Girl
+cast	Shane Johnson	Disco Girl
+cast	Jennifer Lee Keyes	Disco Girl
+cast	Marie Matiko	Disco Girl
+cast	Jody Watley	Disco Girl
+cast	Margaret Wheeler	Old Lady
+cast	Billy Beck	Old Man
+cast	Robert P. Lieb	Old Man
+cast	Florence Stone Fevergeon	Old Party Goer
+cast	Sarah Kane	Old Party Goer
+cast	Ed Denette	Old Veteran
+cast	Nori T. Gehr	Back-Up Singer
+cast	Kiko Kiko	Back-Up Singer
+cast	Kiyoko Yamaguchi	Back-Up Singer
+cast	Mark Mothersbaugh	Band Leader
+cast	Nancye Ferguson	Singer
+cast	Katie Adams	Dancer
+cast	Shirley Bowden	Dancer
+cast	Helen Etting	Dancer
+cast	Lu Gay	Dancer
+cast	Valerie Gitter	Dancer
+cast	Mac Greenstein	Dancer
+cast	C. Elane Innes	Dancer
+cast	Irene Kamsler	Dancer
+cast	Miriam R. Lawless	Dancer
+cast	Teresa MacLean	Dancer
+cast	Joanne McDermott	Dancer
+cast	Crystal Gaer White	Dancer
+cast	Joann Richter	Powerwoman
+cast	Stacey Travis	Powerwoman
+cast	Larkin Campbell	Supervacman
+cast	Oliver Clark	Reverse Psychologist
+cast	Jack Plotnick	Mr. Pups
+cast	Dane Cook	Waffler
+cast	Vince Melocchi	Mailman
+cast	Doug Jones	Pencilhead
+cast	Vincent Bowman	Son of Pencilhead
+cast	Vylette Fagerholm	Little Miss Vengence
+cast	Dana Gould	Squeegeeman
+cast	Branden Williams	Maintainer
+cast	Aaron Priest	The Artiste
+cast	Robert B. Martin Jr.	Big Billy Hill Billy
+cast	Gabrielle Conforti	PMS Avenger
+cast	Jeff Z. Danziger	Radio Man
+cast	Wilbert Sampson	Pig
+cast	Kenneth W. Watts	Pig
+cast	Elliot Durant III	Martial Artist
+cast	Anthony Marinelli	Gorilla
+cast	Drinda E. Shaneyfelt	Evil Devil Woman
+cast	Félix Castro	Globalman
+cast	Michael Craig	Gardener
+cast	Ronald Lasky	Bullfighter
+cast	David Still	Stilt Man
+cast	Jonathan Khan	Fisherman
+cast	Jerry Farmer	Thirstyman
+cast	Cody Kurz	Jay Mann
+cast	Lucas Meyers	Citizen Kane
+cast	Eiko Nijo	Bride
+cast	Dawn Marie Warnock	Dead Woman's Daughter

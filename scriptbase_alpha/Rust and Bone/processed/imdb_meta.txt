@@ -1,0 +1,177 @@
+year	2012
+imdb score	7.5
+meta score	73
+genre	Drama
+genre	Romance
+keyword	antibes
+keyword	whale
+keyword	killer whale
+keyword	trainer
+keyword	topless swimming
+keyword	boxer shorts
+keyword	working class
+keyword	dancing in a wheelchair
+keyword	female nudity
+keyword	legless woman
+keyword	whale tamer
+keyword	animal trainer
+keyword	trapped underwater
+keyword	bare knuckle fighting
+keyword	abusive father
+keyword	tattooed woman
+keyword	cigarette smoking
+keyword	fighter
+keyword	amputee
+keyword	coming out of a coma
+keyword	wheelchair
+keyword	sex interrupted by telephone
+keyword	dancing
+keyword	falling through ice
+keyword	shaved head
+keyword	falling into frozen water
+keyword	saving someone's life
+keyword	boxing champion
+keyword	surveillance camera
+keyword	running
+keyword	man crying
+keyword	animal attack
+keyword	reference to robocop
+keyword	male full frontal nudity
+keyword	sex with neighbor
+keyword	security camera
+keyword	wheelchair bound
+keyword	mental depression
+keyword	bare chested male
+keyword	depression
+keyword	rifle
+keyword	bare chested male fighting
+keyword	orca
+keyword	hunger
+keyword	based on short story
+keyword	underwater
+keyword	spa
+keyword	muscular
+keyword	riviera
+keyword	amusement park
+keyword	locker room sex
+keyword	brother sister reunion
+keyword	woman crying
+keyword	looking for a job
+keyword	fired from the job
+keyword	cashier
+keyword	frozen lake
+keyword	sex with a babysitter
+keyword	breaking through ice
+keyword	sea park
+keyword	male underwear
+keyword	rescue from drowning
+keyword	beach
+keyword	prosthetic limb
+keyword	leg amputation
+keyword	broken hand
+keyword	shotgun
+keyword	disability
+keyword	child abuse
+keyword	child in peril
+keyword	sex in the morning
+keyword	blood
+keyword	blood in water
+keyword	aunt nephew relationship
+keyword	boxing gym
+keyword	single father
+keyword	sexist attitude
+keyword	woman in a wheelchair
+keyword	boxing
+keyword	fistfight
+keyword	topless female nudity
+keyword	security guard
+keyword	loss of both legs
+keyword	crying child
+keyword	sex in a women's room
+keyword	marine mammal
+keyword	blood on mouth
+keyword	male frontal nudity
+keyword	swimming in underwear
+keyword	physical disability
+keyword	jogging
+keyword	family ties
+keyword	nightclub doorman
+keyword	nightclub
+keyword	sex scene
+keyword	job interview
+keyword	text messaging
+keyword	brother sister relationship
+keyword	toy tractor
+keyword	bouncer
+keyword	amputation
+keyword	sex in gym
+keyword	gun
+keyword	sex with a legless woman
+keyword	prosthetic leg
+keyword	single parent
+keyword	male nudity
+keyword	van
+keyword	face slap
+keyword	aquarium
+keyword	casual sex
+keyword	love
+keyword	father son relationship
+keyword	south of france
+keyword	text message
+keyword	rolling a cigarette
+keyword	tattoo artist
+keyword	singing in a car
+keyword	prosthesis
+keyword	physical therapy
+keyword	dog
+keyword	undressing
+keyword	tattoo on back
+keyword	sex on first date
+keyword	toy
+keyword	male rear nudity
+keyword	double amputee
+keyword	sex in bed
+keyword	animal park
+keyword	nightclub bouncer
+keyword	tattooing
+keyword	whale attack
+keyword	crying woman
+keyword	betting on a fight
+keyword	disabled person
+keyword	rough sex
+keyword	reference to katy perry
+keyword	tattoo on leg
+keyword	seaside
+keyword	father saving son's life
+keyword	cripple
+keyword	sunglasses
+keyword	boxer
+keyword	sex talk
+keyword	tattoo
+keyword	
+cast	Marion Cotillard	Stéphanie
+cast	Matthias Schoenaerts	Alain van Versch
+cast	Armand Verdure	Sam
+cast	Céline Sallette	Louise
+cast	Corinne Masiero	Anna
+cast	Bouli Lanners	Martial
+cast	Jean-Michel Correia	Richard
+cast	Mourad Frarema	Foued
+cast	Yannick Choirat	Simon
+cast	Fred Menut	Le patron d'ELP Sécurité
+cast	Duncan Versteegh	Soigneur d'orques
+cast	Katia Chaperon	Soigneuse d'orques
+cast	Catherine Fa	Soigneuse d'orques
+cast	Andès Lopez Jabois	Soigneur d'orques
+cast	Océane Cartia	La baby-sitter
+cast	Françoise Michaud	La mère de Stéphanie
+cast	Irina Coito	La prof d'aérobic
+cast	David Billaud	Le maître-chien
+cast	Fabien L'Allain	Le prothésiste
+cast	Fabien Baïardi	Le dragueur dans la boîte
+cast	Laetitia Malbranque	La femme du supermarché
+cast	Soulyane Rajraji	Le délégué syndical du supermarché
+cast	Pascal Rozand	Le concessionnaire
+cast	Hedi Touihri	Le chef sécurité du supermarché
+cast	Nathalie Millar	La collègue d'Anna
+cast	Anne-Marie Tomat	L'infirmière de l'hôpital près du lac

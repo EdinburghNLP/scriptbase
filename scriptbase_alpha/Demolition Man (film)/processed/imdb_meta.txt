@@ -1,0 +1,204 @@
+year	1993
+imdb score	6.5
+meta score	34
+genre	Action
+genre	Crime
+genre	Sci-Fi
+genre	Thriller
+keyword	future
+keyword	violence
+keyword	enemy
+keyword	police
+keyword	arms
+keyword	computer cracker
+keyword	hero from the past
+keyword	fighting
+keyword	murder
+keyword	helicopter
+keyword	stick fight
+keyword	product placement
+keyword	police officer killed
+keyword	shootout
+keyword	credits as currency
+keyword	explosion
+keyword	female nudity
+keyword	cryonics
+keyword	action hero
+keyword	social control
+keyword	culture shock
+keyword	future shock
+keyword	exploding head
+keyword	wrongful imprisonment
+keyword	hero
+keyword	ex cop
+keyword	dreaming
+keyword	president schwarzenegger
+keyword	good versus evil
+keyword	desert eagle
+keyword	fish out of water
+keyword	title based on song
+keyword	seashell
+keyword	hapkido
+keyword	kicked in the face
+keyword	museum
+keyword	gangster
+keyword	2030s
+keyword	laser gun
+keyword	utopia
+keyword	eye gouging
+keyword	neck breaking
+keyword	bare butt
+keyword	tough guy
+keyword	alternate history
+keyword	cyberpunk
+keyword	underground resistance
+keyword	automation
+keyword	opening action scene
+keyword	boxing
+keyword	reverse footage
+keyword	fight to the death
+keyword	martial arts
+keyword	beneath the city
+keyword	knife
+keyword	disarming someone
+keyword	bungee jump
+keyword	eyeball
+keyword	reference to jackie chan
+keyword	hollywood sign
+keyword	rehabilitation
+keyword	hand caught in a door
+keyword	pursuit
+keyword	reference to al pacino
+keyword	movie poster
+keyword	underground
+keyword	psychopath
+keyword	see you in hell
+keyword	mercilessness
+keyword	beating
+keyword	duel
+keyword	revolver
+keyword	brawl
+keyword	nightstick
+keyword	retina scan faked
+keyword	shot to death
+keyword	cigarette smoking
+keyword	gunfight
+keyword	ambush
+keyword	street fight
+keyword	disposing of a dead body
+keyword	totalitarianism
+keyword	satire
+keyword	knitting
+keyword	electrocution
+keyword	terrorism
+keyword	shot in the chest
+keyword	body landing on a car
+keyword	cryogenics
+keyword	character repeating someone else's dialogue
+keyword	kicked in the crotch
+keyword	video
+keyword	los angeles california
+keyword	weapon
+keyword	gore
+keyword	showdown
+keyword	dystopia
+keyword	decapitation
+keyword	fight
+keyword	exploding building
+keyword	mirror
+keyword	virtual sex
+keyword	censorship
+keyword	evil laugh
+keyword	eye
+keyword	repeated line
+keyword	ak 47
+keyword	1990s
+keyword	maverick cop
+keyword	black comedy
+keyword	automobile
+keyword	death
+keyword	female frontal nudity
+keyword	fistfight
+keyword	rogue cop
+keyword	m 16
+keyword	held at gunpoint
+keyword	bare breasts
+keyword	six shooter
+keyword	m 60 machine gun
+keyword	graffiti
+keyword	nightmare
+keyword	foot chase
+keyword	evil man
+keyword	frozen body
+keyword	tough cop
+keyword	rolex watch
+keyword	hand to hand combat
+keyword	chase
+keyword	male nudity
+keyword	frozen head
+keyword	blood spatter
+keyword	title spoken by character
+keyword	
+cast	Sylvester Stallone	John Spartan
+cast	Wesley Snipes	Simon Phoenix
+cast	Sandra Bullock	Lenina Huxley
+cast	Nigel Hawthorne	Dr. Raymond Cocteau
+cast	Benjamin Bratt	Alfredo Garcia
+cast	Bob Gunton	Chief George Earle
+cast	Glenn Shadix	Associate Bob
+cast	Denis Leary	Edgar Friendly
+cast	Grand L. Bush	Zachary Lamb - Young
+cast	Pat Skipper	Helicopter Pilot
+cast	Steve Kahan	Captain Healy
+cast	Paul Bollen	T.F.R. Officer
+cast	Mark Colson	Warden William Smithers - Young
+cast	Andre Gregory	Warden William Smithers - Aged
+cast	John Enos III	Prisoner
+cast	Troy Evans	Tough Cop
+cast	Don Charles McGovern	Hopper - Prison Guard
+cast	Bill Cobbs	Zachary Lamb - Aged
+cast	Patricia Rive	Police Officer
+cast	Anneliza Scott	Police Officer
+cast	Dean Minerd	Police Officer
+cast	Kristopher Logan	Troubled Guy
+cast	Paul Perri	Squad Leader
+cast	Susan Lentini	T.V. Reporter
+cast	Casey Wallace	Little Girl
+cast	Trent Walker	Boggle Guard
+cast	Chris Durand	Museum Guard
+cast	Brett A. Jones	Museum Guard
+cast	Dan Cortese	Taco Bell Entertainer
+cast	Lara Harris	Taco Bell Patron
+cast	Sam Nehira	Taco Bell Patron
+cast	Claude Oatts	Taco Bell Patron
+cast	Alex Chapman	Taco Bell Scrap
+cast	Brandy Ledford	Fiber Op Girl
+cast	Rosemarie Lagunas	Hamburger Stand Scrap
+cast	Ken Baldwin	Wasteland Scrap
+cast	Jack Black	Wasteland Scrap
+cast	Michael Buice	Wasteland Scrap
+cast	Carlton Wilborn	Wasteland Scrap
+cast	Charles Glass	CryoCon
+cast	Ben Jurand	CryoCon
+cast	Billy D. Lucas	CryoCon
+cast	Rhino Michaels	CryoCon
+cast	Toshishiro Obata	CryoCon
+cast	Jesse Ventura	CryoCon
+cast	Alex Ardenti	Wasteland Scrap
+cast	Mark Atteberry	Museum Patron
+cast	Adrienne Barbeau	Main Frame Computer
+cast	Vanna Bonta	Computer
+cast	Tracee Cocco	Cop in Headquarters
+cast	Jennifer Darling	Computer
+cast	Ric Drasin	Supporting
+cast	Mogens Eckert	Computer Head on Rotating Screen
+cast	Robert Grasmere	Vidhead
+cast	Bryan Hanna	Wasteland Scrap
+cast	Vasilika Vanya Marinkovic	Extra
+cast	Paul Dion Monte	Cryo Prisoner
+cast	Loralyn Peterson	
+cast	Francis Praksti	
+cast	Christopher Sararo	San Angelan
+cast	Rob Schneider	Erwin
+cast	Stewart Skelton	Stunned Museum Guard
+cast	Kevin Ula Christie	Rogue Cop

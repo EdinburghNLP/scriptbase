@@ -1,0 +1,127 @@
+year	1991
+imdb score	6.8
+meta score	N/A
+genre	Comedy
+genre	Fantasy
+keyword	uncle
+keyword	uncle fester
+keyword	macabre
+keyword	loan shark
+keyword	eccentric
+keyword	accountant
+keyword	addams family
+keyword	disembodied hand
+keyword	treasury
+keyword	siamese twins
+keyword	fish out of water
+keyword	1990s
+keyword	watching someone sleep
+keyword	sleeping woman
+keyword	pregnancy
+keyword	trapdoor
+keyword	based on adaptation
+keyword	knitting
+keyword	dysfunctional marriage
+keyword	tall
+keyword	threat
+keyword	cigar smoking
+keyword	blockbuster
+keyword	fencing
+keyword	based on tv show
+keyword	mother daughter relationship
+keyword	mansion
+keyword	opposites attract
+keyword	father daughter relationship
+keyword	escapade
+keyword	goth
+keyword	lust for money
+keyword	hunchback
+keyword	black comedy
+keyword	anger
+keyword	reference to jane pauley
+keyword	cemetery
+keyword	reference to shakespeare's hamlet
+keyword	occult
+keyword	reference to nero
+keyword	based on tv series
+keyword	rescue
+keyword	lawyer
+keyword	sword fight
+keyword	reboot of series
+keyword	sequel
+keyword	cult film
+keyword	real tv show shown in fictional situation
+keyword	lifting someone into the air
+keyword	inheritance
+keyword	fake doctor
+keyword	dysfunctional family
+keyword	school play
+keyword	reunited family
+keyword	shaved head
+keyword	reference to george h.w. bush
+keyword	butler
+keyword	christmas
+keyword	family relationships
+keyword	halloween
+keyword	lifting a female into the air
+keyword	torture
+keyword	based on comic
+keyword	crossbow
+keyword	passionate kiss
+keyword	greed
+keyword	preteenage daughter
+keyword	long lost brother
+keyword	amnesia
+keyword	fake blood
+keyword	scam
+keyword	fraud
+keyword	chainsaw
+keyword	strong man
+keyword	impostor
+keyword	character name in title
+keyword	surprise ending
+keyword	
+cast	Anjelica Huston	Morticia Addams
+cast	Raul Julia	Gomez Addams
+cast	Christopher Lloyd	Uncle Fester Addams / Gordon Craven
+cast	Dan Hedaya	Tully Alford
+cast	Elizabeth Wilson	Abigail Craven / Dr. Greta Pinder-Schloss
+cast	Judith Malina	Granny
+cast	Carel Struycken	Lurch
+cast	Dana Ivey	Margaret Alford
+cast	Paul Benedict	Judge Womack
+cast	Christina Ricci	Wednesday Addams
+cast	Jimmy Workman	Pugsley Addams
+cast	Christopher Hart	Thing
+cast	John Franklin	Cousin It
+cast	Tony Azito	Digit Addams
+cast	Douglas Brian Martin	Dexter Addams
+cast	Steven M. Martin	Donald Addams
+cast	Allegra Kent	Cousin Ophelia Addams
+cast	Richard Korthaze	Slosh Addams
+cast	Ryan Holihan	Lumpy Addams
+cast	Maureen Sue Levin	Flora Amor
+cast	Darlene Levin	Fauna Amor
+cast	Kate McGregor-Stewart	Employment Agent
+cast	Lela Ivey	Susan Firkins
+cast	Whit Hertford	Little Tully
+cast	Patty Maloney	Lois Addams
+cast	Victoria Hall	Swedish Blonde
+cast	Jimmy Ross	Pre-Teen Gomez
+cast	Ryan Anderson	Pre-Teen Fester
+cast	Daniel Pikus	Teenage Gomez
+cast	Michael Hittesdorf	Teenage Fester
+cast	Lauren Walker	Teenage Flora
+cast	Valeri Walker	Teenage Fauna
+cast	Mercedes McNab	Girl Scout
+cast	Joe Zimmerman	Long Arm Addams
+cast	Steve Welles	Fingers Addams
+cast	Eugene Jackson	One-Armed Bass Player
+cast	Richard Tanner	Snake Charmer
+cast	Marc Shaiman	Conductor
+cast	Jonathan Wee	Juggler
+cast	Owen Morse	Juggler
+cast	Sally Jessy Raphael	Herself
+cast	Diane Burt	Caroler
+cast	Barry Sonnenfeld	Passenger on Gomez's train
+cast	Benny Wills	Elf

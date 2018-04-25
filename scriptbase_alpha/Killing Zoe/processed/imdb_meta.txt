@@ -1,0 +1,177 @@
+year	1993
+imdb score	6.5
+meta score	N/A
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	call girl
+keyword	bank
+keyword	heroin
+keyword	bastille day
+keyword	gash in the face
+keyword	gun
+keyword	male rear nudity
+keyword	shot in the stomach
+keyword	balisong
+keyword	desert eagle
+keyword	shot in the back
+keyword	accordion
+keyword	freebasing
+keyword	trumpet
+keyword	character's point of view camera shot
+keyword	exit wound
+keyword	shot through the mouth
+keyword	cocaine
+keyword	death
+keyword	hostage
+keyword	machine gun
+keyword	shot in the head
+keyword	blood splatter
+keyword	swat team
+keyword	opium
+keyword	bare chested male
+keyword	bank robbery
+keyword	falling down stairs
+keyword	art student
+keyword	female nudity
+keyword	burnt body
+keyword	bloodshed
+keyword	punch into the camera
+keyword	singing in a car
+keyword	female in shower
+keyword	hotel
+keyword	slow motion scene
+keyword	betrayal
+keyword	shot in the shoulder
+keyword	gun
+keyword	subtitled scene
+keyword	carnage
+keyword	shot in the arm
+keyword	pig mask
+keyword	bank vault
+keyword	male rape
+keyword	drugs
+keyword	explosion
+keyword	raised middle finger
+keyword	scene during opening credits
+keyword	french
+keyword	nudity
+keyword	tattoo
+keyword	gun in mouth
+keyword	topless female nudity
+keyword	brutality
+keyword	paris france
+keyword	siege
+keyword	gold
+keyword	bilingualism
+keyword	gay slur
+keyword	extreme carnage
+keyword	nude
+keyword	childhood friend
+keyword	gunfight
+keyword	bullet ballet
+keyword	bare breasts
+keyword	written by director
+keyword	spit in the face
+keyword	hidden gun
+keyword	hallucination
+keyword	cigarette smoking
+keyword	accidental killing
+keyword	gore
+keyword	monkey
+keyword	death
+keyword	subjective camera
+keyword	covered in blood
+keyword	dead cat
+keyword	shootout
+keyword	sex in bed
+keyword	execution
+keyword	gun fu
+keyword	pills
+keyword	reference to captain america
+keyword	leg spreading
+keyword	nude girl
+keyword	prostitute
+keyword	reference to billie holiday
+keyword	pistol
+keyword	copulation
+keyword	shotgun
+keyword	masked man
+keyword	character repeating someone else's dialogue
+keyword	aids
+keyword	taxi driver
+keyword	bank teller
+keyword	shot to death
+keyword	shot in the chest
+keyword	cleavage
+keyword	vomit
+keyword	blood
+keyword	security guard
+keyword	shootout
+keyword	junkie
+keyword	man punching a woman
+keyword	safecracker
+keyword	corpse
+keyword	robbery gone awry
+keyword	scantily clad female
+keyword	punched in the face
+keyword	greed
+keyword	murder
+keyword	sex
+keyword	female frontal nudity
+keyword	switchblade
+keyword	gun duel
+keyword	jazz club
+keyword	coitus
+keyword	american abroad
+keyword	nihilism
+keyword	mercy killing
+keyword	cult film
+keyword	face slap
+keyword	shot in the foot
+keyword	gun battle
+keyword	blood
+keyword	breasts
+keyword	bloodbath
+keyword	telling a joke
+keyword	stabbed in the leg
+keyword	violence
+keyword	bullet time
+keyword	lust
+keyword	burnt face
+keyword	held at gunpoint
+keyword	punched in the crotch
+keyword	carnage
+keyword	silencer
+keyword	punched in the stomach
+keyword	death of friend
+keyword	independent film
+keyword	character name in title
+keyword	
+cast	Eric Stoltz	Zed
+cast	Martin Raymond	Cab Driver
+cast	Eric Pascal Chaltiel	Bellboy
+cast	Julie Delpy	Zoe
+cast	Jean-Hugues Anglade	Eric
+cast	Gary Kemp	Oliver
+cast	Salvator Xuereb	Claude
+cast	Bruce Ramsay	Ricardo
+cast	Tai Thai	Francois
+cast	Kario Salem	Jean
+cast	Elise Renee	Patchoo
+cast	Cecilia Peck	Martina
+cast	Ron Jeremy	Concierge
+cast	Gian-Carlo Scandiuzzi	Bank Manager
+cast	Gérard Bonn	Assistant Bank Manager
+cast	Gladys Holland	Sub Lobby Teller
+cast	Chris Tragos	Sub Lobby Assistant
+cast	George Hernandez	Stodgy Customer
+cast	Rich Turner	American Tourist
+cast	Kimberly Beck	Woman Customer
+cast	Sandra Larédo	Woman Teller
+cast	David Richard Thompson	Burnt Vault Guard
+cast	Bernard Baski	Assault Police
+cast	Michel Jean-Philippe	Assault Police
+cast	Michael Kayman	Assault Police
+cast	Djimon Hounsou	Moïse
+cast	Sean Galuszka	Heroin Addict

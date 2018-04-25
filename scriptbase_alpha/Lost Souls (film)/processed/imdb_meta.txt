@@ -1,0 +1,162 @@
+year	2000
+imdb score	4.8
+meta score	16
+genre	Drama
+genre	Horror
+genre	Thriller
+keyword	priest
+keyword	mental patient
+keyword	teacher
+keyword	rain
+keyword	brother murders brother
+keyword	rosary
+keyword	asylum
+keyword	crucifix
+keyword	parricide
+keyword	possession
+keyword	doorman
+keyword	shot in the forehead
+keyword	devil worship
+keyword	father daughter relationship
+keyword	evil child
+keyword	attempted murder
+keyword	dripping water
+keyword	gothic
+keyword	faith
+keyword	tape recorder
+keyword	neighbor
+keyword	holy water
+keyword	author
+keyword	flashback
+keyword	secret parent
+keyword	apartment
+keyword	shot in the chest
+keyword	car accident
+keyword	666
+keyword	suicide
+keyword	framed photograph
+keyword	pistol
+keyword	held at gunpoint
+keyword	blood
+keyword	birthday
+keyword	reincarnation
+keyword	trial
+keyword	court
+keyword	court order
+keyword	church
+keyword	interview
+keyword	religion
+keyword	psychic
+keyword	incest
+keyword	shot in the eye
+keyword	devil
+keyword	comatose
+keyword	threatened with a knife
+keyword	key
+keyword	family secret
+keyword	cut arm
+keyword	deer
+keyword	sushi
+keyword	deacon
+keyword	seminary
+keyword	murder
+keyword	murder of a priest
+keyword	praying
+keyword	chosen one
+keyword	boyfriend girlfriend relationship
+keyword	christianity
+keyword	film starts with quote
+keyword	mental institution
+keyword	lawyer
+keyword	ambiguous ending
+keyword	hallucination
+keyword	antichrist
+keyword	diner
+keyword	demonic possession
+keyword	transformation
+keyword	tied to a chair
+keyword	recurring dream
+keyword	cigarette smoking
+keyword	pentagram
+keyword	critically bashed
+keyword	exorcism
+keyword	neck breaking
+keyword	mass murderer
+keyword	playground
+keyword	scheme
+keyword	two way mirror
+keyword	supernatural power
+keyword	code
+keyword	looking at one's self in a mirror
+keyword	brother brother relationship
+keyword	hit with a chair
+keyword	satanism
+keyword	doctor
+keyword	party
+keyword	independent film
+keyword	surprise ending
+cast	Winona Ryder	Maya Larkin
+cast	Ben Chaplin	Peter Kelson
+cast	Sarah Wynter	Claire Van Owen
+cast	Philip Baker Hall	Father James
+cast	John Hurt	Father Lareaux
+cast	Elias Koteas	John Townsend
+cast	Brian Reddy	Father Frank Page
+cast	John Beasley	Det. Mike Smythe
+cast	John Diehl	Henry Birdson
+cast	Paul Kleiman	Paramedic
+cast	Bob Clendenin	Mental Patient
+cast	Oliver Clark	Mr. Silberman
+cast	Michael Mantell	Kleiman
+cast	Brad Greenquist	George Viznik
+cast	Ming Lo	Michael Kim 'Robert'
+cast	Anna Gunn	Sally Prescott
+cast	W. Earl Brown	William Kelson
+cast	Cyd Strittmatter	Susan Kelson
+cast	James Lancaster	Father Jeremy
+cast	Susan Mosher	Receptionist
+cast	Maureen Grady	Secretary
+cast	Anne Betancourt	Mrs. Quintana
+cast	Robert W. Castle	Josef the Doorman
+cast	Anna Berger	Mrs. Levotsky
+cast	Kai Ephron	Guard
+cast	Lil Henderson	Cranky Woman
+cast	John Prosky	Orderly
+cast	Rob Moore	Norman
+cast	Ursula Brooks	Lauren
+cast	Rainer Judd	Second Party Woman
+cast	Uri Ryder	Second Party Man
+cast	Ashley Edner	Gina
+cast	Connie Ray	Mother
+cast	Jan Tríska	Melvin Szabo
+cast	Ayo Haynes	Day Care Worker
+cast	Joe Clark	Store Owner
+cast	Victor Slezak	Father Thomas
+cast	Cynthia Darlow	Directionless Woman
+cast	Joseph Lyle Taylor	Irked Motorist
+cast	Julie Ariola	Reader
+cast	Kaity Tong	Herself
+cast	Tom McCleister	Father Malcolm
+cast	Dan Finnerty	Technical Director
+cast	Xanthia Decaux	Production Assistant
+cast	Eden Byrd	Waitress
+cast	Charlotte L. Fleming	School Secretary
+cast	Daniel Jones	School Kid
+cast	Kim H. Ornitz	Joe the Orderly
+cast	Victor Ralys	Lithuanian Priest
+cast	Norman Smith	Waiter
+cast	Terry Van Zandt	Mental Patient #2
+cast	Buddy Quaid	Buddy the Waiter
+cast	Jamie Denbo	Sharon
+cast	Jodi Daley	Leslie Grant
+cast	David Raymond Wagner	Joe
+cast	K.K. Dodds	Deputy
+cast	Drew Snyder	Doctor
+cast	Kate Beahan	Flirtatious Girl
+cast	Rebecca Hobbs	Publicist
+cast	Jon Stahl	Psychiatrist
+cast	Bob Lazarus	Waiter
+cast	Cindi Braun	Political Analyst
+cast	Terence Bernie Hines	Mental Patient
+cast	Zane Lamprey	Catholic Priest
+cast	Alfre Woodard	Dr. Allen

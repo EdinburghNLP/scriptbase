@@ -1,0 +1,161 @@
+year	2000
+imdb score	5.7
+meta score	37
+genre	Action
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	casino
+keyword	prison
+keyword	prison riot
+keyword	heist
+keyword	car thief
+keyword	motel
+keyword	pistol
+keyword	shot in the chest
+keyword	chained to a bed
+keyword	shotgun
+keyword	disguise
+keyword	swimming pool
+keyword	crushed to death
+keyword	murder of a police officer
+keyword	sex in a pool
+keyword	faking own death
+keyword	crushed by a car
+keyword	told in flashback
+keyword	toy gun
+keyword	faked death
+keyword	identity swap
+keyword	bar shootout
+keyword	shot in the back
+keyword	blood splatter
+keyword	shot through a wall
+keyword	blood
+keyword	convicted felon
+keyword	boyfriend girlfriend relationship
+keyword	mistaken identity
+keyword	nudity
+keyword	trucker
+keyword	winter
+keyword	christmas eve
+keyword	snow
+keyword	flashback
+keyword	truck
+keyword	exploding car
+keyword	neo noir
+keyword	partial female nudity
+keyword	fire
+keyword	cigarette smoking
+keyword	handcuffs
+keyword	deception
+keyword	shot to death
+keyword	person on fire
+keyword	title based on song
+keyword	slut
+keyword	dumb criminal
+keyword	mexican standoff
+keyword	kissing while having sex
+keyword	car set on fire
+keyword	food fight
+keyword	cigar smoking
+keyword	shank
+keyword	bare breasts
+keyword	villainess
+keyword	christmas
+keyword	stabbed in the stomach
+keyword	punched in the stomach
+keyword	small town
+keyword	hit by a car
+keyword	jumping from a window
+keyword	love
+keyword	chase
+keyword	falling from height
+keyword	stealing a car
+keyword	police
+keyword	double cross
+keyword	punched in the face
+keyword	violence
+keyword	held at gunpoint
+keyword	lovers posing as siblings
+keyword	ice
+keyword	threatened with a knife
+keyword	shot in the head
+keyword	machine gun
+keyword	kidnapping
+keyword	female nudity
+keyword	ice fishing
+keyword	topless female nudity
+keyword	body landing on a car
+keyword	pistol whip
+keyword	exploding truck
+keyword	burned alive
+keyword	desert eagle
+keyword	gambling
+keyword	bare chested male
+keyword	car goes over a cliff
+keyword	car crash
+keyword	critically bashed
+keyword	female rear nudity
+keyword	frozen lake
+keyword	police shootout
+keyword	shot in the shoulder
+keyword	murder
+keyword	hostage
+keyword	sex
+keyword	fake beard
+keyword	falling through ice
+keyword	dart
+keyword	safe
+keyword	pen pal
+keyword	santa claus
+keyword	switchblade
+keyword	title spoken by character
+keyword	surprise ending
+cast	Ben Affleck	Rudy Duncan
+cast	James Frain	Nick Cassidy
+cast	Dana Stubblefield	The Alamo
+cast	Mark Acheson	Mean Guard
+cast	Tom Heaton	Ugly Staffer
+cast	Isaac Hayes	Zook
+cast	Michael Sunczyk	Distant Inmate #1
+cast	Douglas Arthurs	Distant Inmate #2
+cast	Dean Wray	Guard #1
+cast	Ron Sauvé	Guard #2
+cast	Ron Jeremy	Prisoner #1
+cast	Hrothgar Mathews	Exit Guard
+cast	Charlize Theron	Ashley
+cast	Clarence Williams III	Merlin
+cast	Donal Logue	Pug
+cast	Danny Trejo	Jumpy
+cast	Gary Sinise	Gabriel
+cast	Dennis Farina	Jack Bangs
+cast	Gordon Tootoosis	Old Governor
+cast	Lee Jay Bamberry	Young Governor
+cast	Franklin Dennis Jones	Security Boss
+cast	Jimmy Herman	Bartender
+cast	John B. Destry	Fat Guy
+cast	Ashton Kutcher	College Kid
+cast	Ana Paula Piedade	Portuguese Woman
+cast	Enuka Okuma	Cocktail Waitress #1
+cast	Eva De Viveiros	Cocktail Waitress #2
+cast	Ron Perkins	Ice Fisherman
+cast	Joanna Piros	TV Newscaster
+cast	Robyn Driscoll	Desk Clerk
+cast	Lonny Chapman	Old Timer
+cast	Alonso Oyarzun	Casino Dealer
+cast	Rod Wolfe	Cashier #1
+cast	Marcus Hondro	Cashier #2
+cast	Sam Bob	Video Guard
+cast	Jacob Rupp	Park Ranger #1
+cast	David Jacox	Park Ranger #2
+cast	Anna Hagan	Mother
+cast	Ken Camroux	Father
+cast	Terry O'Sullivan	Aunt Mary
+cast	Michael Puttonen	Bill
+cast	Paula Shaw	Aunt Lisbeth
+cast	Don S. Williams	Uncle Ray
+cast	Jenafor Ryane	Jill
+cast	James Hutson	Mike
+cast	Wendy Noel	Stacey
+cast	Blair Slater	Sam
+cast	Larry Lam	Prisoner

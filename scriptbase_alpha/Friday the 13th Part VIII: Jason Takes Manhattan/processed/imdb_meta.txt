@@ -1,0 +1,122 @@
+year	1989
+imdb score	4.4
+meta score	N/A
+genre	Horror
+keyword	jason voorhees
+keyword	boat
+keyword	murder
+keyword	toxic waste
+keyword	hockey mask
+keyword	sewer
+keyword	serial killer
+keyword	slasher flick
+keyword	masked killer
+keyword	rain
+keyword	teacher student relationship
+keyword	sequel
+keyword	bare breasts
+keyword	axe
+keyword	back from the dead
+keyword	panties
+keyword	stabbing
+keyword	bra and panties
+keyword	spear gun
+keyword	friday the thirteenth
+keyword	twin towers
+keyword	throat slitting
+keyword	girl strangling
+keyword	sea
+keyword	black panties
+keyword	disembowelment
+keyword	guitar
+keyword	explosion
+keyword	exploding car
+keyword	numbered sequel
+keyword	mirror
+keyword	strangulation
+keyword	black bra
+keyword	disembodied head
+keyword	evil man
+keyword	off screen murder
+keyword	b horror
+keyword	hit with a guitar
+keyword	dead child
+keyword	character's point of view camera shot
+keyword	necklace
+keyword	decapitation
+keyword	lifting someone into the air
+keyword	subway
+keyword	manhattan new york city
+keyword	1980s
+keyword	crystal lake new jersey
+keyword	underwater
+keyword	hallucination
+keyword	new york city
+keyword	accidental shooting
+keyword	electrocution
+keyword	bare chested male
+keyword	cult film
+keyword	cruise ship
+keyword	nudity
+keyword	summer camp
+keyword	eighth part
+keyword	impalement
+keyword	masked villain
+keyword	struck by lightning
+keyword	psychopath
+keyword	male underwear
+keyword	female nudity
+keyword	sequel to cult favorite
+keyword	metro
+keyword	new jersey
+keyword	splatter
+keyword	nude woman murdered
+keyword	drug addiction
+keyword	crushed head
+keyword	white panties
+keyword	harpoon
+keyword	flashlight
+keyword	b movie
+keyword	gore
+keyword	beheading
+keyword	stabbed in the eye
+keyword	drowning
+keyword	statue of liberty new york city
+keyword	video camera
+keyword	killed with a fork
+keyword	lifting female in air
+keyword	slasher
+keyword	body paint
+keyword	lifeboat
+keyword	hypodermic needle
+keyword	attempted rape
+keyword	character name in title
+keyword	number in title
+cast	Todd Caldecott	Jim Miller
+cast	Tiffany Paulsen	Suzi Donaldson
+cast	Tim Mirkovich	Young Jason
+cast	Kane Hodder	Jason Voorhees
+cast	Jensen Daggett	Rennie Wickham
+cast	Barbara Bingham	Colleen Van Deusen
+cast	Alex Diakun	Deck Hand
+cast	Peter Mark Richman	Charles McCulloch
+cast	Ace	Toby
+cast	Warren Munson	Admiral Robertson
+cast	Fred Henderson	Chief Engineer
+cast	Scott Reeves	Sean Robertson
+cast	Gordon Currie	Miles Wolfe
+cast	Saffron Henderson	J.J. Jarrett
+cast	Martin Cummins	Wayne Webber
+cast	Vincent Craig Dupree	Julius Gaw
+cast	Sharlene Martin	Tamara Mason
+cast	Kelly Hu	Eva Watanabe
+cast	Sam Sarkar	Gang Banger #1
+cast	Michael Benyaer	Gang Banger #2
+cast	Roger Barnes	Irish Cop
+cast	Amber Pawlick	Young Rennie
+cast	Vince Cupone	Street Urchin
+cast	Peggy Hedden	New York Waitress
+cast	David Longworth	Sanitation Engineer
+cast	Jasper Cole	Trainer
+cast	David Jacox	Other Boxer
+cast	Ken Kirzinger	New York Cook

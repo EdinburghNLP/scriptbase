@@ -1,0 +1,93 @@
+year	1986
+imdb score	7.5
+meta score	79
+genre	Horror
+genre	Sci-Fi
+keyword	scientist
+keyword	teleportation
+keyword	experiment
+keyword	mutant
+keyword	reporter
+keyword	science
+keyword	1980s
+keyword	sex scene
+keyword	reference to typhoid mary
+keyword	gore
+keyword	allegory
+keyword	superhuman strength
+keyword	fable
+keyword	doomed romance
+keyword	intestines
+keyword	computer
+keyword	hospital
+keyword	lifting a female into the air
+keyword	tragedy
+keyword	love triangle
+keyword	social commentary
+keyword	male rear nudity
+keyword	mutation
+keyword	experiment gone wrong
+keyword	shotgun
+keyword	true love
+keyword	metamorphosis
+keyword	tragic love
+keyword	creature feature
+keyword	heartbreaking
+keyword	grand guignol
+keyword	monster
+keyword	steak
+keyword	psychotronic
+keyword	medicine cabinet
+keyword	animal experimentation
+keyword	male nudity
+keyword	remake
+keyword	monster as victim
+keyword	moral ambiguity
+keyword	dark humor
+keyword	body horror
+keyword	gothic
+keyword	ear
+keyword	botched teleportation
+keyword	removing nylon stocking
+keyword	mad scientist
+keyword	cyberpunk
+keyword	teeth
+keyword	nightmare
+keyword	cult film
+keyword	genetic alteration
+keyword	fingernail
+keyword	canadian science fiction
+keyword	pleading
+keyword	exploding head
+keyword	magazine
+keyword	baboon
+keyword	briefs
+keyword	remake of cult film
+keyword	pregnancy
+keyword	lifting someone into the air
+keyword	dream
+keyword	jaw ripped off
+keyword	slow motion scene
+keyword	bare chested male
+keyword	science runs amok
+keyword	horror movie remake
+keyword	abortion
+keyword	death wish
+keyword	male underwear
+keyword	jealousy
+keyword	paranoia
+keyword	arm wrestling
+keyword	lifting an adult into the air
+keyword	editor
+keyword	defenestration
+keyword	blurred boundaries
+cast	Jeff Goldblum	Seth Brundle
+cast	Geena Davis	Veronica Quaife
+cast	John Getz	Stathis Borans
+cast	Joy Boushel	Tawny
+cast	Leslie Carlson	Dr. Brent Cheevers
+cast	George Chuvalo	Marky
+cast	Michael Copeman	2nd Man in Bar
+cast	David Cronenberg	Gynecologist
+cast	Carol Lazare	Nurse
+cast	Shawn Hewitt	Clerk

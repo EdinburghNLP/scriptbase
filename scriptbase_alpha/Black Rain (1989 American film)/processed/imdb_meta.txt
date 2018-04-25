@@ -1,0 +1,168 @@
+year	1989
+imdb score	6.6
+meta score	N/A
+genre	Action
+genre	Crime
+genre	Thriller
+keyword	japan
+keyword	mafia
+keyword	gang war
+keyword	yakuza
+keyword	throat slitting
+keyword	fight in restaurant
+keyword	buddy cop
+keyword	disarming someone
+keyword	semiautomatic pistol
+keyword	honest cop
+keyword	police detective
+keyword	love
+keyword	detective
+keyword	decapitation
+keyword	fistfight
+keyword	restaurant
+keyword	battle
+keyword	suspense
+keyword	dishonor
+keyword	hitman
+keyword	cult film
+keyword	police protagonist
+keyword	crime boss
+keyword	motorcycle chase
+keyword	shootout
+keyword	exploding motorcycle
+keyword	two man army
+keyword	action hero
+keyword	culture clash
+keyword	martial artist
+keyword	police
+keyword	blade
+keyword	murder
+keyword	osaka japan
+keyword	police badge
+keyword	sword fight
+keyword	violence
+keyword	new york
+keyword	gangster
+keyword	internal affairs
+keyword	gunfight
+keyword	steel foundry
+keyword	disguise
+keyword	police officer killed
+keyword	gore
+keyword	nightclub
+keyword	machine gun
+keyword	stylized violence
+keyword	shotgun
+keyword	martial arts master
+keyword	graphic violence
+keyword	blonde
+keyword	karaoke
+keyword	finger cut off
+keyword	wooden sword
+keyword	hostess
+keyword	martial arts
+keyword	extradition
+keyword	cigarette smoking
+keyword	counterfeit money
+keyword	head butt
+keyword	ambush
+keyword	street racing
+keyword	psychopath
+keyword	counterfeit
+keyword	rain
+keyword	stabbed in the hand
+keyword	friendship
+keyword	kiss
+keyword	mixed martial arts
+keyword	airliner
+keyword	blood splatter
+keyword	gang violence
+keyword	tough cop
+keyword	gun fu
+keyword	kendo
+keyword	severed head
+keyword	blood
+keyword	hero
+keyword	police chase
+keyword	showdown
+keyword	katana sword
+keyword	hand to hand combat
+keyword	motorcycle
+keyword	parking lot
+keyword	brutality
+keyword	chase
+keyword	motorcycle gang
+keyword	organized crime
+keyword	trap
+keyword	exploding car
+keyword	theft
+keyword	tough guy
+keyword	new york city
+keyword	sunglasses
+keyword	foot chase
+keyword	f word
+keyword	death of partner
+keyword	pistol
+keyword	brawl
+keyword	pump action shotgun
+keyword	stabbing
+keyword	bust
+keyword	neo noir
+keyword	chopsticks
+keyword	gun battle
+keyword	desert eagle
+keyword	death of friend
+keyword	independent film
+keyword	title spoken by character
+cast	Michael Douglas	Nick Conklin
+cast	Andy Garcia	Charlie Vincent
+cast	Ken Takakura	Masahiro
+cast	Kate Capshaw	Joyce
+cast	Yûsaku Matsuda	Sato
+cast	Shigeru Kôyama	Ohashi
+cast	John Spencer	Oliver
+cast	Guts Ishimatsu	Katayama
+cast	Yûya Uchida	Nashida
+cast	Tomisaburô Wakayama	Sugai
+cast	Miyuki Ono	Miyuki
+cast	Luis Guzmán	Frankie
+cast	John Costelloe	The Kid
+cast	Stephen Root	Berg
+cast	Richard Riehle	Crown
+cast	Bruce Katzman	Yudell
+cast	Edmund Ikeda	Japanese Businessman
+cast	Tomo Nagasue	Japanese Translator
+cast	Clem Caserta	Abolofia
+cast	Tim Kelleher	Bobby
+cast	George Kyle	Farentino
+cast	Vondie Curtis-Hall	Detective
+cast	Joe Perce	Detective
+cast	Louis Cantarini	Detective
+cast	Doug Yasuda	Japanese / American Translator
+cast	Toshio Sato	Japanese Embassy Official
+cast	Jun Kunimura	Yashimoto
+cast	Roy K. Ogata	Sato's Man
+cast	Shirô Oishi	Sato's Man
+cast	Professor Toru Tanaka	Sugai's Man
+cast	Rikiya Yasuoka	Sugai's Man
+cast	Jôji Shimaki	Sugai's Man
+cast	Goro Sasa	Ohashi's Man
+cast	Taro Ibuki	Ohashi's Man
+cast	Daisuke Awaji	Ohashi's Man
+cast	Keone Young	Karaoke Singer
+cast	Jim Ishida	Escort Officer
+cast	Shôtarô Hayashi	Mediator
+cast	Toshishiro Obata	Mediator
+cast	Michiko Tsushima	Noodle Woman
+cast	Linda Gillen	Peggy
+cast	John Gotay	Danny
+cast	Matthew Porac	Patrick
+cast	Ken Kensei	Masahiro's Son
+cast	Josip Elic	Joe, the Bartender
+cast	Mitchell Bahr	Friend
+cast	Ken Enomoto	Detective
+cast	Al Leong	Yakuza Assassin
+cast	Bruce Locke	Sato's Man
+cast	Chris Nelson Norris	Motorcyclist
+cast	Dennis Y. Takeda	Newspaper Reporter
+cast	Celia Xavier	Nori, Bar Hostess

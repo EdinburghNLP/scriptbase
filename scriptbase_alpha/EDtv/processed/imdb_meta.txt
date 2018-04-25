@@ -1,0 +1,189 @@
+year	1999
+imdb score	6.1
+meta score	48
+genre	Comedy
+keyword	television
+keyword	video store
+keyword	producer
+keyword	simple man
+keyword	no opening credits
+keyword	san francisco california
+keyword	pepsi
+keyword	imprisonment
+keyword	soda machine
+keyword	female removes her clothes
+keyword	product placement
+keyword	betrayal
+keyword	fictional reality show
+keyword	brother brother relationship
+keyword	mother son relationship
+keyword	media circus
+keyword	mass media
+keyword	box office flop
+keyword	stepfather
+keyword	morality
+keyword	audition
+keyword	family relationships
+keyword	invasion of privacy
+keyword	commercialism
+keyword	jealousy
+keyword	dysfunctional family
+keyword	romantic rivalry
+keyword	fish out of water
+keyword	father son relationship
+keyword	escape
+keyword	texan
+keyword	gay couple
+keyword	price of fame
+keyword	media hype
+keyword	voyeur
+keyword	remake
+keyword	broadcast
+keyword	kissing while having sex
+keyword	satire
+keyword	character name in title
+cast	Matthew McConaughey	Ed 'Eddie' Pekurny
+cast	Jenna Elfman	Shari
+cast	Woody Harrelson	Ray Pekurny
+cast	Sally Kirkland	Jeanette
+cast	Martin Landau	Al
+cast	Ellen DeGeneres	Cynthia Topping
+cast	Rob Reiner	Mr. Whitaker
+cast	Dennis Hopper	Henry 'Hank' Pekurny
+cast	Elizabeth Hurley	Jill
+cast	Adam Goldberg	John
+cast	Viveka Davis	Marcia
+cast	Clint Howard	Ken
+cast	Geoffrey Blake	Keith
+cast	Gail Boggs	Wife
+cast	Jenna Byrne	Felicia
+cast	Merrin Dungey	Ms. Seaver
+cast	Ian Gomez	McIlvaine
+cast	Gavin Grazer	Clint
+cast	Chris Hogan	Paul
+cast	Arianna Huffington	Panel Member
+cast	Larry Flash Jenkins	Husband
+cast	Wendle Josepher	Rita
+cast	Scott LaRose	Desipio
+cast	John Livingston	Terry
+cast	Mitzi McCall	Fig Lady
+cast	Jim Meskimen	Dr. Geller
+cast	Don Most	Benson
+cast	Rick Overton	Barry
+cast	James Ritz	Tad
+cast	RuPaul	RuPaul
+cast	Rusty Schwimmer	Alice
+cast	Steven Shenbaum	Jack
+cast	Gedde Watanabe	Greg
+cast	Steve Kehela	Reporter
+cast	Googy Gress	Reporter
+cast	Jo McGinley	Tracy
+cast	John Pirruccello	Kevin
+cast	Charles Arthur Berg	Party Goer
+cast	Anthony Jensen	Party Goer
+cast	Joe Bellan	Lou
+cast	Brian Michael Erlich	Video Store Clerk
+cast	Marcus J. Oliver	Video Store Clerk
+cast	Sam Rubin	Entertainment Reporter
+cast	Mark Thompson	Anchor
+cast	Barry Wiggins	Sports Anchor
+cast	Michael Parsons	Kid
+cast	Zidu Chen	Dental Patient
+cast	Eric Shinn	Camera Truck Tech Driver
+cast	Robert Pastoriza	Carlos
+cast	Jeffrey Schecter	Utility-1st Team
+cast	Michael Esposito	Camera Operator-1st Team
+cast	Connie Campbell-Gott	Camera Operator-2nd Team
+cast	Louie Mejia	Camera Operator-2nd Team
+cast	Crystall Carmen	Utility-2nd Team
+cast	Matthew Morrissey	Director-2nd Team
+cast	Marilyn Pittman	Woman in Window
+cast	Sommer Garcia	College Girl
+cast	Jennifer Elise Cox	College Girl
+cast	Alexandra Holden	College Girl
+cast	Mark Wheeler	Bartender
+cast	Kathleen Marshall	Hygienist
+cast	Harry Shearer	Moderator
+cast	Michael Moore	Panel Member
+cast	Merrill Markoe	Panel Member
+cast	George Plimpton	Panel Member
+cast	Geoff Bolt	Drunk Guy
+cast	Azalea Stanley	Teenager
+cast	Ezra Stanley	Teenager
+cast	Anna Karin	Snapple Girl
+cast	Todd Hallowell	Interviewer
+cast	Cyndi Pass	Cassie
+cast	Jen Moe	Girl
+cast	Velina Brown	Girl
+cast	Rod Tate	Moe
+cast	Todd Krainin	Younger Man
+cast	Zeidy Martinez	Interview Teenager
+cast	Azura Skye	Interview Teenager
+cast	Daisy Clarke	Interview Teenager
+cast	Lombardo Boyar	New York Guy
+cast	Rainbow Borden	New York Guy
+cast	David Quane	New York Guy
+cast	Christian Kane	P.A.
+cast	Gina Hecht	Party Girl
+cast	Cheryl Howard	Party Girl
+cast	Louise Marie	Party Girl
+cast	Mike Grief	Repairman
+cast	Jason Kim	Frat Guy
+cast	King Alexander	Frat Guy
+cast	Dublin James	Frat Guy
+cast	T.J. Thyne	Frat Guy
+cast	Laurel Moglen	Underwear Woman
+cast	Wade Robson	Teenage Boy
+cast	Sy Hearn	Teenage Boy
+cast	Nathan Paul	Teenage Boy
+cast	Bill Maher	Bill Maher
+cast	Anita Morales	Nurse
+cast	Lowell Ganz	Lawyer
+cast	Bob Sarlatte	Motorcycle Cop
+cast	Ashley Clark	Girl
+cast	William M. Connor	Toilet Man
+cast	Roberta Callahan	Cat Advocate
+cast	William Bagnell	Presidential Aide
+cast	Jay Leno	Jay Leno
+cast	Julie Rose Stevens	Ken Groupie
+cast	Brigitte Jacoby-Baker	Ken Groupie
+cast	Joe Mazza	Vet
+cast	Mel Berger	Confused Man
+cast	Diane Amos	Autograph Mom
+cast	James Brooks	Delivery Man
+cast	Luke Esterkyn	Band Member
+cast	Mark Marking	Ed's Fan
+cast	Tom Turpel	Ed's Fan
+cast	Sun St. Pierre	Female Well-Wisher
+cast	Roger Jackson	Mama's Boy
+cast	Julie Rowen	Reporter
+cast	Thomas Barg	Boom Box Boy
+cast	Glenn E. Schuldt	Paramedic
+cast	Curtis Davis	Whoop Boy
+cast	Bill Dance	Beauty Salon Owner
+cast	Sonia Bhalla	Ticket Taker
+cast	Todd P. McCormick	P.I. Guest
+cast	Jordan Harrelson	Audition Guy
+cast	Tony Harras	Warehouse Worker
+cast	Vince Lozano	Warehouse Worker
+cast	Rolando Molina	Warehouse Worker
+cast	Alberto Vazquez	Grave Digger
+cast	Lydee Walsh	College Girl
+cast	Veronica Moody	College Dorm Girl
+cast	Jonathan Adler	Prison Guard
+cast	Andy Arness	Groupie
+cast	Dean Chambers	Ray's Drunken Friend
+cast	Peter Erskine	Drummer in band
+cast	Phil Hawn	Funeral Guest
+cast	Janean Christine Mariani	Meg
+cast	James Olea	Huge Fan
+cast	J. Anthony Pena	Con-Ed Guy
+cast	Courtney Lauren Penn	Extra
+cast	Sean R. Quinn	Supporting / Aquarium Scenes
+cast	Mary Ann Schmidt	Business Woman
+cast	Greg Sestero	Roach
+cast	Carl Solomon	Ed Groupie #1
+cast	Chris Solomon	Boy on Car
+cast	Scott St. James	Promo Guy
+cast	Sandra Staggs	Wife
+cast	Alekxia Valdez	Valet

@@ -1,0 +1,114 @@
+year	2002
+imdb score	5.4
+meta score	53
+genre	Action
+genre	Comedy
+genre	Horror
+genre	Sci-Fi
+genre	Thriller
+keyword	spider
+keyword	pick up
+keyword	cocoon
+keyword	boy genius
+keyword	hockey mask
+keyword	mayor
+keyword	radio station
+keyword	taser
+keyword	bmx
+keyword	panic
+keyword	shopping mall
+keyword	toxic waste
+keyword	anal probe
+keyword	part computer animation
+keyword	surrealism
+keyword	stun gun
+keyword	tent
+keyword	exploding truck
+keyword	animal attack
+keyword	speeding ticket
+keyword	hero
+keyword	forklift
+keyword	mother daughter relationship
+keyword	mine
+keyword	eaten alive
+keyword	bathroom
+keyword	scissors
+keyword	cave in
+keyword	brother sister relationship
+keyword	diner
+keyword	cactus
+keyword	aunt nephew relationship
+keyword	policewoman
+keyword	cell phone
+keyword	gold mine
+keyword	pitchfork
+keyword	crossbow
+keyword	computer
+keyword	desert
+keyword	chainsaw
+keyword	parrot
+keyword	outrunning an explosion
+keyword	jumping from height
+keyword	miranda warning
+keyword	police car
+keyword	conspiracy theory
+keyword	tarantula
+keyword	female sheriff
+keyword	single mother
+keyword	town in a panic
+keyword	human bait
+keyword	ostrich
+keyword	town meeting
+keyword	gas explosion
+keyword	flashlight
+keyword	giant insect
+keyword	shotgun
+keyword	giant spider
+keyword	spider ostrich fight
+keyword	perfume
+keyword	urination
+keyword	trailer
+keyword	kitchen
+keyword	handcuffs
+keyword	waitress
+keyword	antenna
+keyword	contaminated water
+keyword	barbershop
+keyword	invasion
+keyword	ponytail
+keyword	straight razor
+keyword	spider web
+keyword	mad scientist
+keyword	father son relationship
+keyword	motorcycle
+keyword	cat spider fight
+keyword	deputy sheriff
+keyword	mother son relationship
+keyword	teenage rebellion
+keyword	wetting pants
+keyword	title spoken by character
+keyword	number in title
+cast	David Arquette	Chris McCormick
+cast	Kari Wuhrer	Sheriff Samantha Parker
+cast	Scott Terra	Mike Parker
+cast	Scarlett Johansson	Ashley Parker
+cast	Doug E. Doug	Harlan Griffith
+cast	Rick Overton	Deputy Pete Willis
+cast	Leon Rippy	Wade
+cast	Matt Czuchry	Bret
+cast	Jay Arlen Jones	Leon
+cast	Eileen Ryan	Gladys
+cast	Riley Smith	Randy
+cast	Matt Holwick	Larry
+cast	Jane Edith Wilson	Emma
+cast	Jack Moore	Amos
+cast	Roy Gaintner	Floyd
+cast	Don Champlin	Leroy
+cast	John Storey	Mark
+cast	David Earl Waterman	Norman
+cast	Randi J. Klein	Waitress #1
+cast	Terey Summers	Waitress #2
+cast	John Ennis	Cop #1
+cast	Ryan C. Benson	Cop #2
+cast	Bruiser	Himself
+cast	Tom Noonan	Joshua Taft

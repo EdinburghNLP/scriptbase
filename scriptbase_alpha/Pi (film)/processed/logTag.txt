@@ -1,0 +1,5 @@
+logline	A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.
+tagline	There will be no order, only chaos
+tagline	faith in chaos
+tagline	3.14159265358
+tagline	3.1415926535897932384626433832795

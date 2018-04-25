@@ -1,0 +1,146 @@
+year	1998
+imdb score	5.6
+meta score	52
+genre	Horror
+genre	Thriller
+keyword	halloween
+keyword	school
+keyword	nightmare
+keyword	michael myers
+keyword	death
+keyword	california
+keyword	alcoholism
+keyword	family relationships
+keyword	hiding
+keyword	seventh part
+keyword	fire extinguisher
+keyword	elevator
+keyword	splatter
+keyword	nurse
+keyword	returning character killed off
+keyword	serial killer
+keyword	evil uncle
+keyword	throat slitting
+keyword	blood
+keyword	secretary
+keyword	knife throwing
+keyword	security guard
+keyword	alcoholic
+keyword	telephone
+keyword	paranoia
+keyword	sequel
+keyword	prologue
+keyword	character's point of view camera shot
+keyword	truck
+keyword	sitting
+keyword	brother sister relationship
+keyword	falling from height
+keyword	police
+keyword	lifting someone into the air
+keyword	key
+keyword	ambulance
+keyword	dead body
+keyword	mother son relationship
+keyword	pistol
+keyword	road stop
+keyword	boarding school
+keyword	lifting a male into the air
+keyword	axe in the chest
+keyword	gate
+keyword	teenager
+keyword	stabbing
+keyword	candle
+keyword	loss of friend
+keyword	good versus evil
+keyword	car accident
+keyword	chase
+keyword	weapon
+keyword	hockey
+keyword	newspaper clipping
+keyword	girl
+keyword	subjective camera
+keyword	masked villain
+keyword	white mask
+keyword	policeman
+keyword	mask
+keyword	home intruder
+keyword	sequel with unusual number
+keyword	breaking and entering
+keyword	body bag
+keyword	slasher
+keyword	stabbed to death
+keyword	1990s
+keyword	toilet
+keyword	axe
+keyword	villain not really dead cliche
+keyword	lifting an adult into the air
+keyword	pumpkin
+keyword	door bell
+keyword	heroine
+keyword	cult film
+keyword	kitchen
+keyword	garbage disposal
+keyword	flower
+keyword	hiding in a closet
+keyword	murder
+keyword	head chopped off
+keyword	divorcee
+keyword	attempted murder
+keyword	delusion
+keyword	stabbed in the leg
+keyword	boyfriend girlfriend relationship
+keyword	uniform
+keyword	decapitation
+keyword	car trouble
+keyword	stolen car
+keyword	hallucination
+keyword	teenage boy
+keyword	secret identity
+keyword	high school
+keyword	underage drinking
+keyword	butcher knife
+keyword	survivor
+keyword	axe murder
+keyword	reflection
+keyword	stabbed in the chest
+keyword	stabbed in the back
+keyword	stabbed in the face
+keyword	drugs
+keyword	hiding place
+keyword	severed head
+keyword	flashlight
+keyword	faked death
+keyword	school counselor
+keyword	masked killer
+keyword	wine
+keyword	knife
+keyword	death of friend
+keyword	independent film
+keyword	number in title
+keyword	actor shares first name with character
+keyword	
+cast	Jamie Lee Curtis	Laurie Strode / Keri Tate
+cast	Adam Arkin	Will Brennan
+cast	Michelle Williams	Molly Cartwell
+cast	Adam Hann-Byrd	Charles 'Charlie' Deveraux
+cast	Jodi Lyn O'Keefe	Sarah Wainthrope
+cast	Janet Leigh	Norma Watson
+cast	Josh Hartnett	John Tate
+cast	LL Cool J	Ronald 'Ronny' Jones
+cast	Joseph Gordon-Levitt	Jimmy Howell
+cast	Branden Williams	Tony Allegre
+cast	Nancy Stephens	Marion Chambers Whittington
+cast	Beau Billingslea	Detective 'Fitz' Fitzsimmons
+cast	Matt Winston	Detective Matt Sampson
+cast	Larisa Miller	Claudia
+cast	Emmalee Thompson	Casey
+cast	David Blanchard	Waiter
+cast	John Cassini	Langdon Cop #1
+cast	Jody Wood	Langdon Cop #2
+cast	LisaGay Hamilton	Shirley 'Shirl' Jones
+cast	Chris Durand	Michael Myers
+cast	Tom Kane	Dr. Samuel 'Sam' Loomis
+cast	Tiffani DiGregorio	Student
+cast	Rachel Galvin	Student
+cast	Arden James	Student
+cast	Steve Miner	School Financial Advisor

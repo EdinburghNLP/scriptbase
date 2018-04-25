@@ -1,0 +1,227 @@
+year	2010
+imdb score	6.9
+meta score	49
+genre	Action
+genre	Adventure
+genre	Sci-Fi
+keyword	disappearance
+keyword	arcade
+keyword	escape
+keyword	computer
+keyword	portal
+keyword	bridge
+keyword	warrior
+keyword	prank
+keyword	contest
+keyword	electronic music score
+keyword	lightning
+keyword	bomb
+keyword	news report
+keyword	regeneration
+keyword	supernatural power
+keyword	betrayal
+keyword	martial arts
+keyword	prologue
+keyword	dismemberment
+keyword	dictator
+keyword	allegory
+keyword	elevator
+keyword	guard
+keyword	game playing
+keyword	father son relationship
+keyword	child abandonment
+keyword	tunnel
+keyword	motorcycle
+keyword	disc
+keyword	alternate reality
+keyword	stabbed in the chest
+keyword	arm cut off
+keyword	experiment
+keyword	prisoner
+keyword	torso cut in half
+keyword	nightclub
+keyword	internet
+keyword	board meeting
+keyword	younger version of character
+keyword	lens flare
+keyword	blood
+keyword	pursuit
+keyword	computer program
+keyword	deathmatch
+keyword	virtual character come to life
+keyword	sea
+keyword	hidden door
+keyword	speech
+keyword	man punching a woman
+keyword	hacking
+keyword	parachute
+keyword	motorcycle crash
+keyword	pager
+keyword	eames lounge chair
+keyword	body suit
+keyword	book
+keyword	race against time
+keyword	computer hacker
+keyword	techno music
+keyword	dinner
+keyword	cyberpunk
+keyword	camera focus on female butt
+keyword	bare chested male
+keyword	arrest
+keyword	older version of character
+keyword	motorcycle cop
+keyword	bedtime story
+keyword	falling from height
+keyword	character repeating someone else's dialogue
+keyword	teleportation
+keyword	virtual reality
+keyword	eccentric
+keyword	base jumping
+keyword	bumper bicycle
+keyword	bar
+keyword	severed arm
+keyword	humanoid
+keyword	exploding body
+keyword	rocket
+keyword	army
+keyword	sequel to cult favorite
+keyword	engineer
+keyword	sunrise
+keyword	returning character killed off
+keyword	female warrior
+keyword	severed head
+keyword	exploding motorcycle
+keyword	security guard
+keyword	wilhelm scream
+keyword	3 dimensional
+keyword	sequel
+keyword	motorcycle chase
+keyword	aircraft
+keyword	second part
+keyword	genocide
+keyword	anthropomorphism
+keyword	motorcycle
+keyword	imax version
+keyword	rescue
+keyword	actor playing multiple roles
+keyword	spiral staircase
+keyword	flashlight
+keyword	corporation
+keyword	virtual set
+keyword	stadium
+keyword	self sacrifice
+keyword	zen
+keyword	computer programmer
+keyword	2000s
+keyword	pistol
+keyword	fight the system
+keyword	brain in a vat
+keyword	surveillance
+keyword	ducati
+keyword	falling to death
+keyword	punctuation in title
+keyword	laser
+keyword	violence
+keyword	flashback
+keyword	no opening credits
+keyword	game inventor
+keyword	fictional war
+keyword	punched in the face
+keyword	megalomaniac
+keyword	nightclub owner
+keyword	anti hero
+keyword	split personality
+keyword	lasersight
+keyword	grenade
+keyword	hit by a motorcycle
+keyword	body landing on a car
+keyword	1980s
+keyword	good versus evil
+keyword	decapitation
+keyword	henchman
+keyword	jumping through a window
+keyword	cut arm
+keyword	murder
+keyword	security camera
+keyword	heavy rain
+keyword	disfigurement
+keyword	altered version of studio logo
+keyword	directorial debut
+keyword	3d
+keyword	father son reunion
+keyword	cheering crowd
+keyword	barefoot
+keyword	dog
+keyword	cgi
+keyword	resistance
+keyword	surrealism
+keyword	coors beer
+keyword	fight to the death
+keyword	3d sequel to 2d film
+keyword	quarter
+keyword	blockbuster
+keyword	cyberspace
+keyword	female fighter
+keyword	el train
+keyword	police station
+keyword	lightcycle
+keyword	explosion
+keyword	orphan
+keyword	inside a computer
+keyword	character name in title
+keyword	
+cast	Jeff Bridges	Kevin Flynn / Clu
+cast	Garrett Hedlund	Sam Flynn
+cast	Olivia Wilde	Quorra
+cast	Bruce Boxleitner	Alan Bradley / Tron
+cast	James Frain	Jarvis
+cast	Beau Garrett	Gem
+cast	Michael Sheen	Castor / Zuse
+cast	Anis Cheurfa	Rinzler
+cast	Serinda Swan	Siren #2
+cast	Yaya Alafia	Siren #3
+cast	Elizabeth Mathis	Siren #4
+cast	Kis Yurij	Half Faced Man
+cast	Conrad Coates	Bartik
+cast	Daft Punk	Masked DJ's
+cast	Ron Selmour	Chattering Homeless Man
+cast	Dan Joffre	Key Security Guard #1 - Ernie
+cast	Darren Dolynski	Young Man on Recognizer
+cast	Kofi Yiadom	Disc Opponent #2 / Black Guard
+cast	Steven Lisberger	Shaddix
+cast	Donnelly Rhodes	Grandpa Flynn
+cast	Belinda Montgomery	Grandma Flynn
+cast	Owen Best	7 Year Old Sam Flynn
+cast	Matt Ward	Iso Boy
+cast	Zoe Fryklund	Iso Girl
+cast	Dean Redman	Light Jet Sentry
+cast	Mi-Jung Lee	Debra Chung
+cast	Christopher Logan	Nervous Program
+cast	Sheldon Yamkovy	Destitute Program
+cast	Dale Wolfe	Irv Culpepper
+cast	Joanne Wilson	Reporter #1
+cast	Catherine Lough Haggquist	Reporter #2
+cast	Thomas Bradshaw	Security Guard #2
+cast	Shafin Karim	East Indian Taxi Driver
+cast	Rob Daly	Lead Sentry
+cast	Mike Ching	Blue Gaming Program
+cast	Michael Teigen	Green Gaming Program
+cast	Brent Stait	Purple Gaming Program
+cast	Shaw Madson	Reporter #3
+cast	Amy Esterle	Young Mrs. Flynn
+cast	Cody Laudan	End of the Line Club Bouncer
+cast	Jeffrey Nordling	Richard Mackey
+cast	Christine Adams	Claire Atkinson
+cast	Kate Gajdosik	News Anchor
+cast	Jack McGee	Police Photographer
+cast	Dawn Mander	Crying Program
+cast	Michael Logie	Kevin Flynn Performance Double
+cast	John Reardon	Young Kevin Flynn / Clu Performance Double
+cast	Edie Mirman	Computer Voice
+cast	Allen Jo	Black Guard / Disc Opponent #1
+cast	Aaron Toney	Black Guard
+cast	Kim Do Nguyen	Black Guard
+cast	Patrick Sabongui	Gaming Program 1 - S
+cast	Will Erichson	Gaming Program 2 - S
+cast	Cillian Murphy	Edward Dillinger
+cast	Odain Watson	Male Executive

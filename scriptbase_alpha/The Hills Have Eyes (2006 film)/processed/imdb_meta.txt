@@ -1,0 +1,148 @@
+year	2006
+imdb score	6.4
+meta score	52
+genre	Horror
+genre	Thriller
+keyword	desert
+keyword	nuclear testing
+keyword	walkie talkie
+keyword	suv
+keyword	stabbed in the chest
+keyword	murder of family
+keyword	heart in hand
+keyword	villain not really dead cliche
+keyword	teenage girl
+keyword	severed arm
+keyword	pick axe
+keyword	severed spine
+keyword	killing an animal
+keyword	ex cop
+keyword	stabbed in the back
+keyword	brutality
+keyword	murder
+keyword	gore
+keyword	claim in title
+keyword	stabbed in the throat
+keyword	stranded family
+keyword	death of sister
+keyword	miner
+keyword	axe murder
+keyword	person on fire
+keyword	dead animal
+keyword	gas station attendant
+keyword	cannibalism
+keyword	american flag
+keyword	burned alive
+keyword	teenage boy
+keyword	burnt body
+keyword	revenge
+keyword	mutant
+keyword	stupid victim
+keyword	inbreeding
+keyword	revolver
+keyword	severed finger
+keyword	shot in the chest
+keyword	terror
+keyword	stabbed in the head
+keyword	deformity
+keyword	exploding truck
+keyword	pistol
+keyword	impalement
+keyword	baby
+keyword	axe in the head
+keyword	crucifixion
+keyword	ghost town
+keyword	tragedy
+keyword	severed leg
+keyword	infant
+keyword	severed ear
+keyword	baseball bat
+keyword	family in danger
+keyword	mannequin
+keyword	hysteria
+keyword	mine
+keyword	brother in law
+keyword	cave
+keyword	sadism
+keyword	death of loved one
+keyword	stabbed in the leg
+keyword	mutilation
+keyword	severed head
+keyword	torture
+keyword	axe
+keyword	outhouse
+keyword	cut into pieces
+keyword	loss of parents
+keyword	vacation
+keyword	cannibal
+keyword	government secret
+keyword	blood
+keyword	homicide
+keyword	dismemberment
+keyword	bitten in the neck
+keyword	glasses
+keyword	stabbed in the face
+keyword	death of wife
+keyword	birth defect
+keyword	stabbed in the foot
+keyword	kidnapping
+keyword	brother sister relationship
+keyword	dog
+keyword	maniac
+keyword	gore
+keyword	head blown off
+keyword	foot chase
+keyword	mutation
+keyword	killing a dog
+keyword	self sacrifice
+keyword	car accident
+keyword	psychopath
+keyword	stranded
+keyword	controversy
+keyword	gas station
+keyword	exploding car
+keyword	trailer
+keyword	wedding anniversary
+keyword	family relationships
+keyword	shotgun
+keyword	drug reference
+keyword	death of wife
+keyword	pistol
+keyword	suicide
+keyword	walking through a wall
+keyword	german shepherd
+keyword	car crash
+keyword	sibling
+keyword	kidnapped child
+keyword	shot in the head
+keyword	radioactive fallout
+keyword	gunshot wound
+keyword	shot in the forehead
+keyword	rape
+keyword	horror movie remake
+keyword	blood spatter
+keyword	violence
+keyword	falling from height
+keyword	death
+keyword	death of mother
+keyword	death of father
+keyword	surprise ending
+cast	Aaron Stanford	Doug Bukowski
+cast	Kathleen Quinlan	Ethel Carter
+cast	Vinessa Shaw	Lynn Carter
+cast	Emilie de Ravin	Brenda Carter
+cast	Dan Byrd	Bobby Carter
+cast	Tom Bower	Gas Station Attendant
+cast	Billy Drago	Papa Jupiter
+cast	Robert Joy	Lizard
+cast	Ted Levine	Big Bob Carter
+cast	Desmond Askew	Big Brain
+cast	Ezra Buzzington	Goggle
+cast	Michael Bailey Smith	Pluto
+cast	Laura Ortiz	Ruby
+cast	Greg Nicotero	Cyst
+cast	Maisie Camilleri Preziosi	Baby Catherine
+cast	Ivana Turchetto	Big Mama
+cast	Maxime Giffard	First Victim
+cast	Judith Jane Vallette	Small Deformed Child
+cast	Adam Perrell	Small Deformed Child

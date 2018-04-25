@@ -1,0 +1,279 @@
+year	1997
+imdb score	7.6
+meta score	52
+genre	Action
+genre	Adventure
+genre	Sci-Fi
+keyword	evil
+keyword	stone
+keyword	future
+keyword	escape
+keyword	taxi driver
+keyword	weapon
+keyword	taxi
+keyword	alien
+keyword	1910s
+keyword	priest
+keyword	spacecraft
+keyword	clone
+keyword	fire
+keyword	water
+keyword	love
+keyword	new york
+keyword	mission
+keyword	planet
+keyword	good versus evil
+keyword	archeologist
+keyword	end of the world
+keyword	fired from the job
+keyword	outer space
+keyword	pistol
+keyword	french science fiction
+keyword	machine gun
+keyword	secret passage
+keyword	sex scene
+keyword	hotel
+keyword	soldier
+keyword	diva
+keyword	terrorist
+keyword	spaceship
+keyword	satire
+keyword	mugging
+keyword	messiah
+keyword	train
+keyword	language barrier
+keyword	topless female nudity
+keyword	general
+keyword	shot in the forehead
+keyword	exploding ship
+keyword	1990s
+keyword	martial arts
+keyword	flying car
+keyword	choking
+keyword	shower
+keyword	egypt
+keyword	terrorism
+keyword	rescue
+keyword	robot
+keyword	new york city
+keyword	blockbuster
+keyword	ledge
+keyword	ancient astronaut
+keyword	murder
+keyword	cat
+keyword	rocket
+keyword	cockroach
+keyword	broken windows theory
+keyword	futuristic
+keyword	temple
+keyword	kidnapping
+keyword	anti hero
+keyword	kung fu
+keyword	23rd century
+keyword	military
+keyword	shapeshifting
+keyword	impersonation
+keyword	androgyny
+keyword	genetic engineering
+keyword	dystopia
+keyword	space travel
+keyword	resort hotel
+keyword	exploding planet
+keyword	stowaway
+keyword	cloning
+keyword	spaceport
+keyword	invented language
+keyword	wilhelm scream
+keyword	concert hall
+keyword	bar
+keyword	space opera
+keyword	invasion
+keyword	shot in the foot
+keyword	hostage
+keyword	refrigerator
+keyword	space shuttle
+keyword	president
+keyword	orgasm
+keyword	black u.s. president
+keyword	airplane
+keyword	shootout
+keyword	tough guy
+keyword	premarital sex
+keyword	satellite
+keyword	talk show host
+keyword	street vendor
+keyword	brooklyn new york city
+keyword	poison
+keyword	destiny
+keyword	cyborg redneck
+keyword	held at gunpoint
+keyword	timebomb
+keyword	television
+keyword	black president
+keyword	pyramid
+keyword	pursuit
+keyword	opera singer
+keyword	bare breasts
+keyword	police raid
+keyword	egyptology
+keyword	metrosexual
+keyword	cyborg
+keyword	rocket launcher
+keyword	colonel
+keyword	car chase
+keyword	mother son relationship
+keyword	female nudity
+keyword	key
+keyword	blood
+keyword	explosion
+keyword	wind
+keyword	falling from height
+keyword	prologue
+keyword	flamethrower
+keyword	escape pod
+keyword	desert
+keyword	assault
+keyword	catholic priest
+keyword	police chase
+keyword	double cross
+keyword	product placement
+keyword	end of mankind
+keyword	shot to death
+keyword	gay stereotype
+keyword	apocalypse
+keyword	mcdonald's restaurant
+keyword	human alien
+keyword	military veteran
+keyword	apartment
+keyword	futuristic train
+keyword	extraterrestrial
+keyword	gatling gun
+keyword	cult film
+keyword	prize
+keyword	ex soldier
+keyword	race against time
+keyword	gene manipulation
+keyword	cyberpunk
+keyword	special forces
+keyword	alien invasion
+keyword	epic
+keyword	arms dealer
+keyword	futuristic city
+keyword	number in title
+keyword	title spoken by character
+keyword	
+cast	Bruce Willis	Korben Dallas
+cast	Gary Oldman	Jean-Baptiste Emanuel Zorg
+cast	Ian Holm	Father Vito Cornelius
+cast	Milla Jovovich	Leeloo
+cast	Chris Tucker	Ruby Rhod
+cast	Luke Perry	Billy
+cast	Brion James	General Munro
+cast	Tommy 'Tiny' Lister	President Lindberg
+cast	Lee Evans	Fog
+cast	Charlie Creed-Miles	David
+cast	Tricky	Right Arm
+cast	John Neville	General Staedert
+cast	John Bluthal	Professor Pacoli
+cast	Mathieu Kassovitz	Mugger
+cast	Christopher Fairbank	Mactilburgh
+cast	Kim Chan	Mr. Kim
+cast	Richard Leaf	Neighbour
+cast	Julie T. Wallace	Major Iceborg
+cast	Al Matthews	General Tudor
+cast	Maïwenn	Diva Plavalaguna
+cast	John Bennett	Priest
+cast	Ivan Heng	Left Arm
+cast	Sonita Henry	President's Aide
+cast	Tim McMullan	Scientist's Aide
+cast	Hon Ping Tang	Munro's Captain
+cast	George Khan	Head Scientist
+cast	John Hughes	Head of Military
+cast	Roberto Bryce	Omar
+cast	Said Talidi	Aziz
+cast	Clifton Lloyd Bryan	Mondoshawan / Mangalore Aknot / Airport Guard
+cast	Justin Lee Burrows	Mondoshawan
+cast	Richard Ashton	Mondoshawan
+cast	Jerome Blake	Mondoshawan
+cast	Kevin Molloy	Mondoshawan / Ground Crew
+cast	Bill Reimbold	Mactilburgh's Assistant
+cast	Colin Brooks	Staedert's Captain
+cast	Anthony Chinn	Mactilburgh's Technician
+cast	Sam Douglas	Chief NY Cop
+cast	Derek Ezenagu	NY Cop
+cast	David Kennedy	Flying Cop
+cast	David Barrass	Flying Cop
+cast	Roger Monk	Flying Cop / Military Technician
+cast	Mac McDonald	Flying Cop
+cast	Mark Seaton	Flying Cop
+cast	Jean-Luc Caron	Flying Cop
+cast	Riz Meedin	Flying Cop
+cast	Jerry Ezekiel	Flying Cop
+cast	Indra Ové	VIP Stewardess
+cast	Nicole Merry	VIP Stewardess
+cast	Stacey McKenzie	VIP Stewardess
+cast	Rachel Willis	Stewardess
+cast	Genevieve Maylam	Stewardess
+cast	Josie Perez	Stewardess
+cast	Natasha Brice	Stewardess
+cast	Sophia Goth	Check-in Attendant
+cast	Martin McDougall	Warship Captain
+cast	Pete Dunwell	Diva's Manager
+cast	Paul Priestley	Cop
+cast	Jason Salkey	Cop
+cast	Stewart Harvey-Wilson	Ruby Rhod Assistant
+cast	David Fishley	Ruby Rhod Assistant
+cast	Carlton Chance	Ruby Rhod Assistant
+cast	Gin Clarke	Diva's Assistant
+cast	Vladimir McCrary	Human Aknot
+cast	Aron Paramor	Mangalore Akanit
+cast	Alan Ruscoe	Mangalore Kino
+cast	Christopher Adamson	Airport Cop
+cast	Ève Salvail	Tawdry Girl
+cast	Kaleem Janjua	Shuttle Pilot
+cast	Tyrone Tyrell	Shuttle Co-Pilot
+cast	Kevin Brewerton	Shuttle Mechanic
+cast	Vincenzo Pellegrino	Ground Crew
+cast	Ian Beckett	Baby Ray
+cast	Sonny Caldinez	Emperor Kodar Japhet
+cast	Zeta Graff	Princess Achen
+cast	Eddie Ellwood	Roy von Bacon
+cast	Yui	Fhloston Hostess
+cast	Laura De Palma	Fhloston Hostess
+cast	Michael Culkin	Hefty Man
+cast	Lenny McLean	Police Chief
+cast	Robert Oates	Fhloston Commander
+cast	John Sharian	Fhloston Captain
+cast	Fred Williams	Hotel Manager
+cast	Sibyl Buck	Zorg's Secretary
+cast	Sarah Carrington	Scientist
+cast	Ali Yassine	Scientist
+cast	Sean Buckley	Scientist
+cast	Dane Messam	Military Technician
+cast	Nathan Hamlett	Military Technician
+cast	Cecil Cheng	Military Technician
+cast	Scott Woods	Lab Guard
+cast	Leon Dekker	Lab Guard
+cast	David Garvey	Staedert's Technician
+cast	Stanley Kowalski	Staedert's Technician
+cast	Omar Williams	Staedert's Technician
+cast	Robert Clapperton	Robot Barman
+cast	Robert Alexander	Warship Technician
+cast	Mia Frye	TV Stewardess
+cast	Leo Williams	Power Operator
+cast	C. Keith Martin	Power Operator
+cast	J.D. Dawodu	Zorg's Man
+cast	Patrick Nicholls	Zorg's Man
+cast	Shaun Davis	Zorg's Man
+cast	Roy Garcia	Zorg's Man
+cast	Alex Georgijev	Zorg's Man
+cast	Marie Guillard	Burger Assistant
+cast	Renee Montemayor	Burger Assistant
+cast	Stina Richardson	Burger Assistant
+cast	Kristen Fick	Glamorous Alien Diva at Event
+cast	François Guillaume	Mondoshawan #3
+cast	Kamay Lau	Glamorous Japanese Girl
+cast	Tracy Redington	Stewardess
+cast	Gito Santana	VIP Lounge Worker
+cast	Frank Senger	Bodyguard
+cast	Joss Skottowe	Mangalor alien

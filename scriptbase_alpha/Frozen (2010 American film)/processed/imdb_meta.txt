@@ -1,0 +1,68 @@
+year	2010
+imdb score	6.2
+meta score	43
+genre	Drama
+genre	Thriller
+keyword	chairlift
+keyword	death
+keyword	ski resort
+keyword	mountain
+keyword	best friend
+keyword	snow
+keyword	loss of boyfriend
+keyword	conversation
+keyword	snowboarding
+keyword	ski lift
+keyword	minimal cast
+keyword	falling from height
+keyword	survival horror
+keyword	no opening credits
+keyword	single set production
+keyword	skiing
+keyword	wolf pack
+keyword	flirting
+keyword	animal attack
+keyword	bribery
+keyword	eaten by wolves
+keyword	sole survivor
+keyword	jumping from height
+keyword	killed by an animal
+keyword	cold weather
+keyword	trapped
+keyword	boyfriend girlfriend relationship
+keyword	group of friends
+keyword	near death experience
+keyword	winter
+keyword	wetting pants
+keyword	reference to aerosmith the band
+keyword	stuck on a ski lift
+keyword	frostbite
+keyword	f word
+keyword	friendship
+keyword	death of boyfriend
+keyword	one word title
+keyword	survival
+keyword	wolf attack
+keyword	feeling cold
+keyword	urination
+keyword	wolf
+keyword	broken leg
+keyword	loss of friend
+keyword	falling in the street
+keyword	death of friend
+keyword	
+cast	Emma Bell	Parker O'Neil
+cast	Shawn Ashmore	Joe Lynch
+cast	Kevin Zegers	Dan Walker
+cast	Ed Ackerman	Jason
+cast	Rileah Vanderbilt	Shannon
+cast	Kane Hodder	Cody
+cast	Adam Johnson	Rifkin
+cast	Chris York	Ryan
+cast	Peder Melhuse	Driver
+cast	Will Barratt	Sullivan
+cast	Adam Green	Guy on Chairlift #1
+cast	Joe Lynch	Guy on Chairlift #2
+cast	John Omohundro	James
+cast	Cody Blue Snider	Twisted Sister Fan in Cafeteria
+cast	Dee Snider	Man who shouts 'Last chair is through'

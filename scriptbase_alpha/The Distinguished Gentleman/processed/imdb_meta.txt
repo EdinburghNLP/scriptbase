@@ -1,0 +1,81 @@
+year	1992
+imdb score	5.8
+meta score	45
+genre	Comedy
+genre	Crime
+keyword	congressman
+keyword	lobbyist
+keyword	revenge
+keyword	sex with secretary
+keyword	politician
+keyword	voice impersonator
+keyword	impostor
+keyword	adulterous husband
+keyword	government
+keyword	uncle niece relationship
+keyword	cancer
+keyword	satire
+keyword	van
+keyword	sex while wearing a bra
+keyword	sex in office
+keyword	politics
+keyword	washington d.c.
+keyword	u.s. congress
+keyword	election
+keyword	dying during sex
+keyword	con artist
+keyword	title spoken by character
+cast	Eddie Murphy	Thomas Jefferson Johnson
+cast	Lane Smith	Dick Dodge
+cast	Sheryl Lee Ralph	Miss Loretta
+cast	Joe Don Baker	Olaf Andersen
+cast	Victoria Rowell	Celia Kirby
+cast	Grant Shaud	Arthur Reinhardt
+cast	Kevin McCarthy	Terry Corrigan
+cast	Charles S. Dutton	Elijah Hawkins
+cast	Victor Rivers	Armando
+cast	Chi McBride	Homer
+cast	Sonny Jim Gaines	Van Dyke
+cast	Noble Willingham	Zeke Bridges
+cast	Gary Frank	Iowa
+cast	Daniel Benzali	'Skeeter' Warburton
+cast	Cynthia Harris	Vera Johnson
+cast	Susan Forristal	Ellen Juba
+cast	Autumn Winters	Mickey Juba
+cast	James Garner	Jeff Johnson
+cast	Doris Grau	Hattie Rifkin
+cast	Frances Foster	Grandma
+cast	Sarah Carson	Kimberly
+cast	Mel Owens	Bo Chandler
+cast	Brad Koepenick	Rafe Simon
+cast	John Doolittle	Ira Schecter
+cast	Rosanna Huffman	Mrs. Bridges
+cast	Dianne Travis	Mrs. Dodge
+cast	Tom Dahlgren	Chief of Police
+cast	Tom Finnegan	Ethics Committee Chair
+cast	Marty Kaplan	Ned Grable
+cast	Cliff Bemis	Gun Lobbyist
+cast	Prudence Barry	Teacher
+cast	Nina Totenberg	Election Anchor
+cast	Julianna McCarthy	Blue Haired Lady
+cast	Daniel Petrie Jr.	Asbestos Lobbyist
+cast	Dion Anderson	Distilled Spirits Lobbyist
+cast	Stu Levin	Tobacco Lobbyist
+cast	Richard Anders	Poultry Lobbyist
+cast	Brian Gelatto	Crabhouse Waiter
+cast	Roger E. Reid	Florida Reporter
+cast	Angela Stribling	D.C. Anchor
+cast	Patricia Ciaffa	D.C. Correspondent
+cast	David A. Penhale	Voting Husband
+cast	Cordis Heard	Voting Wife
+cast	Gary Price	Taxi Driver
+cast	Tommy Boggs	Tommy Boggs
+cast	J.D. Williams	J.D. Williams
+cast	Constance Estevez	Gwen "Society Woman"
+cast	Anne Gaybis	900 Phone Girl
+cast	Ryal Haakenson	Man in Banquet
+cast	Mike Lazorcik	Party Attendee
+cast	Melissa S. Markess	Politician
+cast	John Michael	Politician
+cast	Mark Norris	Ambassador
+cast	Della Reese	Elevator Operator

@@ -1,0 +1,190 @@
+year	1981
+imdb score	7.5
+meta score	N/A
+genre	Adventure
+genre	Drama
+genre	Fantasy
+keyword	knight
+keyword	excalibur
+keyword	king
+keyword	evil
+keyword	sword
+keyword	half sister
+keyword	knights of the round table
+keyword	death
+keyword	love
+keyword	king arthur
+keyword	magician
+keyword	camelot
+keyword	friend
+keyword	holy grail
+keyword	quest
+keyword	wizard
+keyword	female frontal nudity
+keyword	round table
+keyword	stabbed to death
+keyword	white dress
+keyword	combat
+keyword	death by impalement
+keyword	male nudity
+keyword	queen
+keyword	patricide
+keyword	death of main character
+keyword	legend
+keyword	dead body
+keyword	hand to hand combat
+keyword	rise and fall
+keyword	falling in love
+keyword	female rear nudity
+keyword	fog
+keyword	sword and sorcery
+keyword	mission
+keyword	supernatural power
+keyword	fight
+keyword	male rear nudity
+keyword	stabbing
+keyword	medieval times
+keyword	anger
+keyword	witch
+keyword	spell
+keyword	evil witch
+keyword	rape by deception
+keyword	kissing
+keyword	joy
+keyword	deception
+keyword	love interest
+keyword	woods
+keyword	escape attempt
+keyword	crow eats an eye
+keyword	affection
+keyword	6th century
+keyword	impalement
+keyword	wrath
+keyword	dragon
+keyword	dead man
+keyword	flame
+keyword	battle
+keyword	sword and shield
+keyword	surrealism
+keyword	lust
+keyword	fondling
+keyword	axe
+keyword	stabbed in the chest
+keyword	sexual desire
+keyword	sexual attraction
+keyword	transformation
+keyword	friendship
+keyword	old man
+keyword	helmet
+keyword	burn
+keyword	lake
+keyword	violence
+keyword	brunette
+keyword	massacre
+keyword	infidelity
+keyword	water
+keyword	5th century
+keyword	husband wife relationship
+keyword	fall
+keyword	blonde
+keyword	magic
+keyword	desperation
+keyword	eye gouging
+keyword	marriage
+keyword	siege
+keyword	spear
+keyword	castle
+keyword	historical fiction
+keyword	hanging
+keyword	sword fight
+keyword	fire
+keyword	rabbit
+keyword	sword fighting
+keyword	arthurian legend
+keyword	hanged man
+keyword	joust
+keyword	fighting with self
+keyword	blood
+keyword	dying man
+keyword	armor
+keyword	adultery
+keyword	incest
+keyword	tree
+keyword	bleeding
+keyword	brutality
+keyword	forbidden love
+keyword	middle ages
+keyword	passion
+keyword	fictional war
+keyword	half brother
+keyword	blood stain
+keyword	beating
+keyword	sword in stone
+keyword	public nudity
+keyword	cave
+keyword	celtic myth
+keyword	disguise
+keyword	fighting
+keyword	killed with a sword
+keyword	magic sword
+keyword	desire
+keyword	dying words
+keyword	snake
+keyword	female nudity
+keyword	owl
+keyword	assumed identity
+keyword	self injury
+keyword	crying
+keyword	cult film
+keyword	bloodbath
+keyword	matricide
+keyword	fear
+keyword	nudity
+keyword	tragic event
+keyword	horse
+keyword	fiend
+keyword	kiss
+keyword	attraction
+keyword	covered in blood
+keyword	death of husband
+keyword	brawl
+keyword	crow
+keyword	escape
+keyword	dying
+keyword	forest
+keyword	mace the weapon
+keyword	corpse
+keyword	horse riding
+keyword	one word title
+keyword	sex
+keyword	evil power
+keyword	based on book
+keyword	title spoken by character
+cast	Nigel Terry	King Arthur
+cast	Helen Mirren	Morgana
+cast	Nicholas Clay	Lancelot
+cast	Cherie Lunghi	Guenevere
+cast	Paul Geoffrey	Perceval
+cast	Nicol Williamson	Merlin
+cast	Robert Addie	Mordred
+cast	Gabriel Byrne	Uther Pendragon
+cast	Keith Buckley	Uryens
+cast	Katrine Boorman	Igrayne
+cast	Liam Neeson	Gawain
+cast	Corin Redgrave	Cornwall
+cast	Niall O'Brien	Kay
+cast	Patrick Stewart	Leondegrance
+cast	Clive Swift	Sir Hector
+cast	Ciarán Hinds	Lot
+cast	Liam O'Callaghan	Sadok
+cast	Michael Muldoon	Astamor
+cast	Charley Boorman	Boy Mordred
+cast	Gerard Mannix Flynn	Mordred's Lieutenant
+cast	Garrett Keogh	Mador
+cast	Emmet Bergin	Ulfus
+cast	Barbara Byrne	Young Morgana
+cast	Brid Brennan	Lady in Waiting
+cast	Kay McLaren	Aged Morgana
+cast	Eamon A. Kelly	Abbot
+cast	Hilary Joyalle	Lady of the Lake
+cast	Prudence Wright Holmes	Sunshine

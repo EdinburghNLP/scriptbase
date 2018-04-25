@@ -1,0 +1,121 @@
+year	1997
+imdb score	6.1
+meta score	59
+genre	Comedy
+keyword	reunion
+keyword	schoolmate
+keyword	high school
+keyword	cell phone
+keyword	lie
+keyword	roommate
+keyword	class reunion
+keyword	post it
+keyword	high school reunion
+keyword	stupidity
+keyword	outcast
+keyword	fashion editor
+keyword	junk food
+keyword	female removes her dress
+keyword	pregnancy
+keyword	inventor
+keyword	1990s
+keyword	cashier
+keyword	blonde
+keyword	friendship
+keyword	cartoon on tv
+keyword	high school friend
+keyword	beverly hills california
+keyword	automobile
+keyword	prom
+keyword	los angeles california
+keyword	laundromat
+keyword	helicopter
+keyword	tucson arizona
+keyword	bitch
+keyword	friend
+keyword	fight
+keyword	bully comeuppance
+keyword	limousine
+keyword	mono
+keyword	bully
+keyword	bimbo
+keyword	blonde stereotype
+keyword	dance
+keyword	diner
+keyword	dancing
+keyword	deception
+keyword	unemployment
+keyword	back brace
+keyword	photograph
+keyword	geek
+keyword	female protagonist
+keyword	photograph comes to life
+keyword	revenge
+keyword	drunkenness
+keyword	preppy
+keyword	scoliosis
+keyword	job seeking
+keyword	fashion
+keyword	flashback
+keyword	magnet
+keyword	gym
+keyword	billionaire
+keyword	cigarette smoking
+keyword	1980s
+keyword	dance club
+keyword	notebook
+keyword	auto repair shop
+keyword	nerd
+keyword	jaguar car
+keyword	boyfriend girlfriend relationship
+keyword	dancer
+keyword	best friend
+keyword	dream
+keyword	yearbook
+keyword	braces
+keyword	liar
+keyword	plastic surgery
+keyword	cynicism
+keyword	torment
+keyword	based on play
+keyword	character name in title
+keyword	
+cast	Mira Sorvino	Romy White
+cast	Lisa Kudrow	Michele Weinberger
+cast	Janeane Garofalo	Heather Mooney
+cast	Alan Cumming	Sandy Frink
+cast	Julia Campbell	Christy Masters
+cast	Mia Cottet	Cheryl
+cast	Kristin Bauer van Straten	Kelly
+cast	Elaine Hendrix	Lisa Luder
+cast	Vincent Ventresca	Billy Christianson
+cast	Camryn Manheim	Toby Walters
+cast	Justin Theroux	Cowboy
+cast	Jacob Vargas	Ramon
+cast	Tami-Adrian George	Receptionist at 'Singled Out'
+cast	Neil Dickson	Boutique Manager
+cast	E.J. Callahan	Mr. Lish
+cast	Kathy Long	Kick Boxing Instructor
+cast	Betsy Folsom	Spinning Instructor
+cast	Zack Phifer	Head of Personnel
+cast	Ricky Paull Goldin	Guy at Rehab Meeting
+cast	Robb Skyler	Creepy Manager
+cast	Deezer D	Service Guy
+cast	Kivi Rogers	Service Guy
+cast	Brian McGregor	Brat
+cast	Pat Crawford Brown	Truck Stop Waitress
+cast	Victor Wilson	Bartender Vic
+cast	Paul Keeley	Suit Salesman
+cast	Amelinda Embry	Reunion Guest
+cast	Keana Hall	Reunion Guest
+cast	Alison Gale	Reunion Guest
+cast	Anne Jensen	Reunion Guest
+cast	Elizabeth Norment	Irate Customer
+cast	Rick Pasqualone	Mark
+cast	Tate Taylor	Casey
+cast	Linda Clements	Beverly Hills Lady
+cast	Jonathan Adler	Reunion Guest
+cast	Tay Brooks	Boyfriend
+cast	Veronica Grey	Dog Lover
+cast	Will Klipstine	Loud Dancer
+cast	Mary Ann Schmidt	Beach Bunny

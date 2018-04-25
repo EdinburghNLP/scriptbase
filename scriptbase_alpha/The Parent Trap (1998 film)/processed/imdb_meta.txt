@@ -1,0 +1,175 @@
+year	1998
+imdb score	6.3
+meta score	64
+genre	Adventure
+genre	Comedy
+genre	Drama
+genre	Family
+genre	Romance
+keyword	twin
+keyword	girl
+keyword	summer camp
+keyword	california
+keyword	cabin
+keyword	divorced parents
+keyword	maine
+keyword	napa valley
+keyword	divorce
+keyword	wedding gown
+keyword	redhead
+keyword	london england
+keyword	wedding gown designer
+keyword	england
+keyword	twins separated at birth
+keyword	scheme
+keyword	identity swapping
+keyword	lake
+keyword	child's point of view
+keyword	concorde
+keyword	bus
+keyword	butler
+keyword	mistaken identity
+keyword	swimming
+keyword	dual role
+keyword	mother daughter relationship
+keyword	wedding at sea
+keyword	mother daughter reunion
+keyword	father daughter relationship
+keyword	evil
+keyword	nanny
+keyword	one actress for twin sisters
+keyword	night swimming
+keyword	teenage girl
+keyword	meddling
+keyword	remarriage
+keyword	card playing
+keyword	wine
+keyword	fiancée
+keyword	single mother
+keyword	sister sister relationship
+keyword	camping trip
+keyword	camping
+keyword	identity swap
+keyword	hand clapping game
+keyword	prank
+keyword	golden retriever
+keyword	skinny dipping
+keyword	drunkenness
+keyword	remake
+keyword	famous theme
+keyword	marriage
+keyword	surrogate father
+keyword	transatlantic flight
+keyword	horse riding
+keyword	bird
+keyword	redhead girl
+keyword	fencing
+keyword	assumed identity
+keyword	1990s
+keyword	husband wife reunion
+keyword	servant
+keyword	wanting parents back together
+keyword	animal in cast credits
+keyword	ear piercing
+keyword	uniform
+keyword	wine cellar
+keyword	11 year old
+keyword	strawberry
+keyword	queen elizabeth ii the ocean liner
+keyword	foreign language adaptation
+keyword	family reunion
+keyword	single father
+keyword	sibling reunion
+keyword	photo credits
+keyword	grandfather granddaughter relationship
+keyword	red haired twins
+keyword	dog
+keyword	haircut
+keyword	lizard
+keyword	ex husband ex wife relationship
+keyword	reunion
+keyword	drink
+keyword	surrogate daughter
+keyword	horse
+keyword	single parent
+keyword	matchmaker
+keyword	stealing clothes from swimmer
+keyword	title directed by female
+keyword	estrangement
+keyword	reference to robert deniro
+keyword	stealing clothing
+keyword	honey
+keyword	child plays matchmaker
+keyword	allergy
+keyword	poker
+keyword	abbey road album cover recreation
+keyword	father daughter reunion
+keyword	actress playing multiple roles
+keyword	same actress playing twin role
+keyword	family relationships
+keyword	comedy of errors
+keyword	photo album epilogue
+keyword	vineyard
+keyword	gold digger
+keyword	drinking
+keyword	separated sisters
+keyword	based on novel
+keyword	based on book
+keyword	
+cast	Lindsay Lohan	Hallie Parker / Annie James
+cast	Dennis Quaid	Nick Parker
+cast	Natasha Richardson	Elizabeth James
+cast	Elaine Hendrix	Meredith Blake
+cast	Lisa Ann Walter	Chessy
+cast	Simon Kunz	Martin
+cast	Polly Holliday	Marva Kulp, Sr.
+cast	Maggie Wheeler	Marva Kulp, Jr.
+cast	Ronnie Stevens	Grandpa Charles James
+cast	Joanna Barnes	Vicki Blake
+cast	Hallie Meyers-Shyer	Lindsay
+cast	Maggie Emma Thomas	Zoe
+cast	Courtney Woods	Nicole
+cast	Kat Graham	Jackie
+cast	Michael Lohan	Lost Boy at Camp
+cast	Rachel Sullivan	Navajo Bunk Girl
+cast	Katie DeShan	Navajo Bunk Girl
+cast	Brighton Hertford	Navajo Bunk Girl
+cast	Jennifer Lin	Navajo Bunk Girl
+cast	Amy Centner	Navajo Bunk Girl
+cast	Mia Tramz	Navajo Bunk Girl
+cast	Christina Toral	Cell Phone Girl
+cast	Dana Ponder	Cell Phone Girl
+cast	Brianne Mercier	Cell Phone Girl
+cast	Danielle Sherman	Girl at Poker Game
+cast	Natasha Melnick	Girl at Poker Game
+cast	Amanda Hampton	Girl at Poker Game
+cast	Lisa Iverson	Bugler
+cast	Lisa Cloud	Camp Counselor
+cast	Kellie Foster	Camp Counselor
+cast	Heidi Boren	Camp Counselor
+cast	Marissa Leigh	Fencing Girl
+cast	Heather Wayrock	Fencing Girl
+cast	John Atterbury	Gareth
+cast	Hamish McColl	Photographer
+cast	Vendela Kirsebom Thomessen	Bridal Gown Model
+cast	Alex Cole	Richard
+cast	J. Patrick McCormack	Les Blake
+cast	William Akey	Bellhop with Flowers
+cast	David Doty	Hotel Bartender
+cast	Roshanna Baron	Lady at Pool
+cast	Annie Meyers-Shyer	Towel Girl
+cast	Brian Fenwick	Desk Clerk
+cast	Jonneine Hellerstein	Ship Photographer
+cast	Troy Christian	QE2 Dancer
+cast	Denise Holland	QE2 Dancer
+cast	Terry Kerr	Living Statue
+cast	Bruce A. Block	Tourist
+cast	Chéri Ballinger	Blond camp girl
+cast	Casey Floresca	Poker Kid
+cast	Beau Holden	Valet
+cast	Ali Lohan	Child at Airport
+cast	Dakota Lohan	Baby at Airport
+cast	Dina Lohan	Woman in Airport
+cast	Erin Mackey	Hallie / Annie Acting Double
+cast	Molly Mueller	Lohan Double
+cast	Gemma Rigg	Seamstress

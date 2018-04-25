@@ -1,0 +1,126 @@
+year	1991
+imdb score	5.7
+meta score	17
+genre	Action
+genre	Adventure
+genre	Comedy
+keyword	blackmail
+keyword	cat burglar
+keyword	prison
+keyword	leonardo da vinci
+keyword	world domination
+keyword	burglar
+keyword	restaurant
+keyword	waiter
+keyword	eccentric
+keyword	museum
+keyword	based on song
+keyword	cia
+keyword	castle
+keyword	jumping from height
+keyword	priest
+keyword	aviation
+keyword	thief
+keyword	ambulance
+keyword	sleeping on a couch
+keyword	faked death
+keyword	decapitation
+keyword	voice over narration
+keyword	covered in melted gold
+keyword	flying machine
+keyword	golf bag
+keyword	spaghetti
+keyword	tattoo
+keyword	fisticuffs
+keyword	pegasus
+keyword	alchemy
+keyword	screwball
+keyword	murder
+keyword	statue
+keyword	rome italy
+keyword	megalomaniac
+keyword	poison dart
+keyword	drugged drink
+keyword	heist
+keyword	helicopter
+keyword	box office flop
+keyword	caper
+keyword	torn shirt
+keyword	theft
+keyword	colosseum
+keyword	release from prison
+keyword	electrocution
+keyword	horse
+keyword	sunglasses
+keyword	inventor
+keyword	scene based on painting
+keyword	confessional
+keyword	video surveillance
+keyword	presumed dead
+keyword	rooftop escape
+keyword	double cross
+keyword	brooklyn bridge
+keyword	poetic justice
+keyword	code name
+keyword	shot in the forehead
+keyword	chicken
+keyword	split lip
+keyword	gold bar
+keyword	bar
+keyword	butler
+keyword	dog
+keyword	paralysis
+keyword	pope
+keyword	conspiracy
+keyword	cult film
+keyword	exploding car
+keyword	invention from da vinci plans
+keyword	wisecrack humor
+keyword	nun
+keyword	scheme
+keyword	art auction
+keyword	red dress
+keyword	gurney
+keyword	slapstick comedy
+keyword	dominatrix
+keyword	security guard
+keyword	vatican
+keyword	blindfold
+keyword	handcuffs
+keyword	character name in title
+cast	Bruce Willis	Hudson Hawk
+cast	Danny Aiello	Tommy Five-Tone
+cast	Andie MacDowell	Anna Baragli
+cast	James Coburn	George Kaplan
+cast	Richard E. Grant	Darwin Mayflower
+cast	Sandra Bernhard	Minerva Mayflower
+cast	Donald Burton	Alfred
+cast	Don Harvey	Snickers
+cast	David Caruso	Kit Kat
+cast	Andrew Bryniarski	Butterfinger
+cast	Lorraine Toussaint	Almond Joy
+cast	Burtt Harris	Gates
+cast	Frank Stallone	Cesar Mario
+cast	Carmine Zozzora	Antony Mario
+cast	Stefano Molinari	Leonardo da Vinci
+cast	Enrico Lo Verso	Apprentice
+cast	Remo Remotti	Guy on Donkey
+cast	Giselda Volodi	Mona Lisa
+cast	P. Randall Bowers	Prison Clerk
+cast	Arthur M. Wolpinsky	Prison Security Guard
+cast	Frank Page	Mario's Driver
+cast	Robert Vazquez	Big Stan
+cast	Michael Klastorin	Dean
+cast	Scott H. Eddo	Jerry
+cast	John Savident	Auctioneer
+cast	Lisa Matthews	Girl in Car
+cast	John Lucantonio	Vatican Guard
+cast	Antonino Iuorio	Vatican Guard
+cast	Courtenay Semel	Bratty Kid
+cast	Massimo Ciprari	The Pope
+cast	Douglas Brian Martin	Igg
+cast	Steven M. Martin	Ook
+cast	Leonardo Cimino	Cardinal
+cast	Giangiacomo Colli	Waiter
+cast	Frank Welker	Bunny the Dog
+cast	William Conrad	Narrator

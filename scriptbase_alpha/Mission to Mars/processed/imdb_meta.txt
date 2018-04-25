@@ -1,0 +1,78 @@
+year	2000
+imdb score	5.5
+meta score	34
+genre	Adventure
+genre	Drama
+genre	Sci-Fi
+genre	Thriller
+keyword	mars
+keyword	sandstorm
+keyword	face on mars
+keyword	husband wife relationship
+keyword	rescue operation
+keyword	outer space
+keyword	based on theme park attraction
+keyword	fluid breathing
+keyword	alien contact
+keyword	self sacrifice
+keyword	spacecraft
+keyword	cult director
+keyword	alien
+keyword	long take
+keyword	product placement
+keyword	planet in title
+keyword	widower
+keyword	astronaut
+keyword	african american
+keyword	reverse footage
+keyword	space travel
+keyword	zero gravity
+keyword	space station
+keyword	deoxyribonucleic acid
+keyword	loss of husband
+keyword	black american
+keyword	dust storm
+keyword	trapped in space
+keyword	dismemberment
+keyword	meteorite
+keyword	mars the planet
+keyword	blood
+keyword	kiss
+keyword	
+cast	Gary Sinise	Jim McConnell
+cast	Tim Robbins	Woody Blake
+cast	Don Cheadle	Luke Graham
+cast	Connie Nielsen	Terri Fisher
+cast	Jerry O'Connell	Phil Ohlmyer
+cast	Peter Outerbridge	Sergei Kirov
+cast	Kavan Smith	Nicholas Willis
+cast	Jill Teed	Reneé Coté
+cast	Elise Neal	Debra Graham
+cast	Kim Delaney	Maggie McConnell
+cast	Marilyn Norry	NASA Wife
+cast	Freda Perry	NASA Wife
+cast	Lynda Boyd	NASA Wife
+cast	Patricia Harras	NASA Wife
+cast	Robert Bailey Jr.	Bobby Graham
+cast	Chaynade Knowles	Child at Party
+cast	Jeffrey Ballard	Child at Party
+cast	Anson Woods	Child at Party
+cast	Britt McKillip	Child at Party
+cast	Jillian Marie	Child at Party
+cast	Jody Thompson	Pretty Girl 1
+cast	Lucia Walters	Pretty Girl 2
+cast	Pamela Diaz	Pretty Girl 3
+cast	Sugith Varughese	2nd Capcom
+cast	Story Musgrave	3rd Capcom
+cast	Mina E. Mina	Ambassador
+cast	Carlo Rota	Ambassador
+cast	Dmitry Chepovetsky	Technician
+cast	Tracy Waterhouse	Sobbing Technician
+cast	McCanna Anthony Sinise	Young Jim McConnell
+cast	Chantal Conlin	Young Maggie
+cast	Jukka Joensuu	Priest
+cast	Bill Timoney	Computer
+cast	Riley Cantner	Child at Party
+cast	Samantha Cantner	Child at Party
+cast	Daniel Lederman	Taylor Jones
+cast	Armin Mueller-Stahl	Ramier Beck

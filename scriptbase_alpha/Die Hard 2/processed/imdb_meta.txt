@@ -1,0 +1,247 @@
+year	1990
+imdb score	7.1
+meta score	67
+genre	Action
+genre	Thriller
+keyword	airport
+keyword	airplane
+keyword	plane
+keyword	fuel
+keyword	restraining order
+keyword	police
+keyword	colonel
+keyword	church
+keyword	police officer
+keyword	christmas
+keyword	drug lord
+keyword	sabotage
+keyword	weapon
+keyword	hero
+keyword	fingerprint
+keyword	reporter
+keyword	swat team
+keyword	shot in the head
+keyword	f word
+keyword	wisecrack humor
+keyword	beretta
+keyword	killed by a propeller
+keyword	bullet ballet
+keyword	murder by gunshot
+keyword	blood splatter
+keyword	gun duel
+keyword	cult film
+keyword	blizzard
+keyword	outrunning explosion
+keyword	imperative in title
+keyword	ex soldier
+keyword	555 phone number
+keyword	fictional country
+keyword	1990s
+keyword	shot in the forehead
+keyword	walkie talkie
+keyword	janitor
+keyword	gore
+keyword	finger bitten off
+keyword	thrown through a window
+keyword	famous line
+keyword	one day
+keyword	quick draw
+keyword	throat slitting
+keyword	ejector seat
+keyword	accident
+keyword	wrestling
+keyword	police officer shot
+keyword	death
+keyword	air traffic control
+keyword	shootout
+keyword	police officer killed
+keyword	one night
+keyword	die hard scenario
+keyword	soldier strangulated
+keyword	soldier killed
+keyword	helicopter
+keyword	poetic justice
+keyword	no opening credits
+keyword	beating
+keyword	airplane runway
+keyword	parachute
+keyword	strangulation
+keyword	terrorism
+keyword	violence
+keyword	falling from height
+keyword	machine gun
+keyword	airplane accident
+keyword	airplane crash
+keyword	baggage
+keyword	parking ticket
+keyword	gunfight
+keyword	gun
+keyword	police officer shot in the head
+keyword	murder of a child
+keyword	semiautomatic pistol
+keyword	sucked into jet engine
+keyword	c4 explosives
+keyword	m 16
+keyword	evil man
+keyword	stun gun
+keyword	deposed dictator
+keyword	based on multiple works
+keyword	conveyor belt
+keyword	action hero
+keyword	traitor
+keyword	kung fu
+keyword	snowmobile
+keyword	knife
+keyword	murder
+keyword	blockbuster
+keyword	kicked in the face
+keyword	fax machine
+keyword	aviation
+keyword	gun fu
+keyword	police officer shot in the chest
+keyword	trespass
+keyword	sequel
+keyword	violence
+keyword	swiss watch
+keyword	snow
+keyword	crushed to death
+keyword	kiss
+keyword	blood
+keyword	kicked in the crotch
+keyword	shot to death
+keyword	mercenary
+keyword	glock
+keyword	one man army
+keyword	tragedy
+keyword	showdown
+keyword	numbered sequel
+keyword	silencer
+keyword	ambush
+keyword	dictator
+keyword	bad breath
+keyword	treason
+keyword	black comedy
+keyword	cartoon on tv
+keyword	antenna
+keyword	digit in title
+keyword	blank bullet
+keyword	second part
+keyword	special forces
+keyword	explosion
+keyword	hand grenade
+keyword	computer cracker
+keyword	media coverage
+keyword	one against many
+keyword	martial arts
+keyword	journalist
+keyword	husband wife relationship
+keyword	slow motion scene
+keyword	fistfight
+keyword	part of series
+keyword	mass murder
+keyword	exploding airplane
+keyword	brawl
+keyword	broken glass
+keyword	shooting
+keyword	hangar
+keyword	hand to hand combat
+keyword	tough guy
+keyword	stabbed in the eye
+keyword	bullet time
+keyword	pager
+keyword	icicle
+keyword	based on novel
+keyword	number in title
+keyword	
+cast	Bruce Willis	Lt. John McClane
+cast	Bonnie Bedelia	Holly McClane
+cast	William Atherton	Richard Thornburg
+cast	Reginald VelJohnson	Sgt. Al Powell
+cast	Franco Nero	Gen. Ramon Esperanza
+cast	William Sadler	Col. Stuart
+cast	John Amos	Maj. Grant
+cast	Dennis Franz	Capt. Carmine Lorenzo
+cast	Art Evans	Leslie Barnes
+cast	Fred Dalton Thompson	Trudeau
+cast	Tom Bower	Marvin
+cast	Sheila McCarthy	Samantha 'Sam' Coleman
+cast	Don Harvey	Garber
+cast	Tony Ganios	Baker
+cast	Peter Nelson	Thompson
+cast	Robert Patrick	O'Reilly
+cast	Mick Cunningham	Sheldon
+cast	John Leguizamo	Burke
+cast	Tom Verica	Kahn
+cast	John Costelloe	Sgt. Oswald Cochrane
+cast	Vondie Curtis-Hall	Miller
+cast	Mark Boone Junior	Shockley
+cast	Ken Baldwin	Mulkey
+cast	Danny Weselis	Blue Light Team
+cast	Jeff Langton	Blue Light Team
+cast	Gregg Kovan	Blue Light Team
+cast	Danial Donai	Blue Light Team
+cast	Don Charles McGovern	Lt.Sherman / Blue light Team
+cast	Bob 'Rocky' Cheli	Blue Light Team
+cast	Vincent Mazella Jr.	Blue Light Team
+cast	Dale Jacoby	Blue Light Team
+cast	Patrick O'Neal	Cpl. Telford
+cast	Ben Lemon	Sergeant
+cast	Jason Ross-Azikiwe	Second Sergeant
+cast	Anthony Droz	Soldier
+cast	Michael Francis Clarke	Pilot
+cast	Steve Pershing	Co-Pilot
+cast	Tom Everett	Navigator
+cast	Sherry Bilsing	Stewardess - Northeast Plane
+cast	Karla Tamburrelli	Stewardess
+cast	Jeanne Bates	Older Woman
+cast	Colm Meaney	Pilot
+cast	Stephen Gregory Foster	Co-Pilot
+cast	James Lancaster	Navigator
+cast	Amanda Hillwood	Stewardess
+cast	Felicity Waterman	Stewardess
+cast	Alan Berger	Passenger
+cast	Vance Valencia	Pilot
+cast	Gilbert Garcia	Co-Pilot
+cast	Julian Reyes	Young Corporal
+cast	Richard Domeier	Cameraman
+cast	David Katz	Soundman
+cast	Robert Lipton	Chopper Pilot
+cast	Rob Steinberg	Victor
+cast	Paul Abascal	Director
+cast	John Rubinow	Producer
+cast	Bob Braun	Newscaster
+cast	Dominique Jennings	Newscaster
+cast	Carol Barbee	Newscaster
+cast	Jerry E. Parrott	Engineer
+cast	Martin Lowery	Engineer
+cast	Robert Sacchi	Engineer
+cast	Dick McGarvin	Engineer
+cast	Edward Gero	Engineer
+cast	Stafford Morgan	Engineer
+cast	Robert J. Bennett	Engineer
+cast	Nick Angotti	Engineer
+cast	Jim Hudson	Engineer
+cast	Tom Finnegan	Engineer
+cast	Thomas Tofel	Engineer
+cast	Earl Houston Bullock	Engineer
+cast	Wynn Irwin	Engineer
+cast	Rande Scott	Engineer
+cast	Ken Smolka	Engineer
+cast	Robert Costanzo	Sgt. Vito Lorenzo
+cast	Lauren Letherer	Rent-A-Car Girl
+cast	Connie Lillo-Thieman	Information Booth Girl
+cast	Ed DeFusco	Morgue Worker
+cast	Charles Lanyer	Rollins
+cast	Bill Smillie	Custodian
+cast	Dwayne Hargray	Luggage Worker
+cast	John Cade	Lobby Cop
+cast	Paul Bollen	Airport Cop
+cast	Joseph Michael Roth	Airport Cop
+cast	David Willis Sr.	Murray the Tow Truck Driver
+cast	George Fisher	Painter
+cast	Dean Wein	Painter
+cast	Dru Berrymore	Capt. Lorenzo's Secretary
+cast	Robert M. Bouffard	Police Officer
+cast	Michael Luggio	Police Officer
+cast	Russell McConnell	Airport Engineer
+cast	Dana Vargas	Passenger

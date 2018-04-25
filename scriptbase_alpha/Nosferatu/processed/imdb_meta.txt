@@ -1,0 +1,72 @@
+year	1922
+imdb score	8.0
+meta score	N/A
+genre	Horror
+keyword	nosferatu
+keyword	castle
+keyword	vampire
+keyword	real estate
+keyword	obsession
+keyword	death
+keyword	coffin
+keyword	self sacrifice
+keyword	real estate agent
+keyword	magic
+keyword	death of title character
+keyword	loss of wife
+keyword	sunrise
+keyword	ship
+keyword	husband wife relationship
+keyword	gypsies
+keyword	death by sunrise
+keyword	venus flytrap
+keyword	romania
+keyword	literary adaptation
+keyword	locket
+keyword	ghoul
+keyword	sleepwalking
+keyword	woman in jeopardy
+keyword	hyena
+keyword	goth
+keyword	19th century
+keyword	rooster
+keyword	gothic
+keyword	book of the dead
+keyword	good versus evil
+keyword	mountain country
+keyword	rat
+keyword	destiny
+keyword	undead
+keyword	stop motion scene
+keyword	1830s
+keyword	shadowplay
+keyword	vampire bat
+keyword	lust
+keyword	bat
+keyword	black death
+keyword	surrealism
+keyword	seashore
+keyword	shapeshifting
+keyword	bremen germany
+keyword	werewolf
+keyword	gothic horror
+keyword	based on novel
+keyword	character name in title
+cast	Max Schreck	Graf Orlok / Nosferatu
+cast	Gustav von Wangenheim	Hutter
+cast	Greta Schröder	Ellen Hutter - seine Frau
+cast	Alexander Granach	Knock - ein Häusermakler
+cast	Georg H. Schnell	Harding - Hutters Freund
+cast	Ruth Landshoff	Annie - Harding's Frau
+cast	John Gottowt	Professor Bulwer - ein Paracelsianer
+cast	Gustav Botz	Professor Sievers - der Stadtarzt
+cast	Max Nemetz	Kapitän der Demeter
+cast	Wolfgang Heinz	Zweiter Kapitän
+cast	Albert Venohr	Matrose 1
+cast	Eric van Viele	Matrose 2
+cast	Karl Etlinger	Student
+cast	Guido Herzfeld	Wirt
+cast	Loni Nest	Child at Window
+cast	Fanny Schreck	Krankenschwester im Hospital
+cast	Hardy von Francois	Arzt im Hospital
+cast	Heinrich Witte	Wärter im Irrenhaus

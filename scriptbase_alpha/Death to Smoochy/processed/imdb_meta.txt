@@ -1,0 +1,288 @@
+year	2002
+imdb score	6.4
+meta score	38
+genre	Comedy
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	children
+keyword	television
+keyword	revenge
+keyword	scandal
+keyword	money
+keyword	children's tv show
+keyword	coffin
+keyword	killing the wrong person
+keyword	reference to dian fossey
+keyword	wheat grass
+keyword	times square manhattan new york city
+keyword	high colonic
+keyword	groupie
+keyword	sniper
+keyword	hired killer
+keyword	severed head
+keyword	child abuse
+keyword	costume
+keyword	talent agent
+keyword	methadone clinic
+keyword	gun
+keyword	falling on ice
+keyword	phallic cookie
+keyword	telescopic lens
+keyword	clown
+keyword	kimchi
+keyword	rags to riches
+keyword	axe
+keyword	rifle
+keyword	singing
+keyword	midget
+keyword	disgruntled employee
+keyword	death
+keyword	black comedy
+keyword	medical clinic
+keyword	reference to barney the character
+keyword	dancer
+keyword	payoff
+keyword	911
+keyword	mobster
+keyword	mentally challenged person
+keyword	false accusation
+keyword	irish
+keyword	reference to jesus christ
+keyword	sex
+keyword	reference to i feel pretty the song
+keyword	doll
+keyword	morality
+keyword	burned in effigy
+keyword	korean food
+keyword	shot to death
+keyword	health food
+keyword	reference to benjamin franklin
+keyword	heroin
+keyword	penis
+keyword	reference to goebbels
+keyword	mascot
+keyword	smack the drug
+keyword	mother son relationship
+keyword	dancing
+keyword	irish mafia
+keyword	amazing grace hymn
+keyword	dance club
+keyword	hippie
+keyword	show business
+keyword	dwarf
+keyword	song
+keyword	organic food
+keyword	fetish
+keyword	rhinoceros costume
+keyword	cookie
+keyword	animated scene
+keyword	decapitation
+keyword	underwear
+keyword	reference to mother teresa
+keyword	loss of job
+keyword	vegetarian
+keyword	swastika
+keyword	attempted murder
+keyword	assassin
+keyword	priest
+keyword	opera
+keyword	reference to amos and andy
+keyword	restaurant
+keyword	dildo
+keyword	actor
+keyword	nazi
+keyword	arrest
+keyword	thong
+keyword	safari
+keyword	junkie
+keyword	tractor parts warehouse
+keyword	reference to bob fosse
+keyword	homosexual
+keyword	female crime boss
+keyword	reference to fatty arbuckle
+keyword	hope
+keyword	frame up
+keyword	hot dog
+keyword	children's tv show host
+keyword	murder
+keyword	reference to captain kangaroo
+keyword	heroin addict
+keyword	angel
+keyword	mental imbalance
+keyword	warehouse
+keyword	enemies become friends
+keyword	white power
+keyword	crossword puzzle
+keyword	punched in the face
+keyword	integrity
+keyword	punch drunk
+keyword	beheading
+keyword	drunkenness
+keyword	merchandise
+keyword	fascist
+keyword	television network
+keyword	new york city
+keyword	action figure
+keyword	nathan's hot dog stand
+keyword	time lapse photography
+keyword	sing along
+keyword	coney island brooklyn new york city
+keyword	almond butter
+keyword	self recognition
+keyword	shooting
+keyword	tap dancing
+keyword	chase
+keyword	gay
+keyword	hitman
+keyword	kiss
+keyword	bar
+keyword	directed by star
+keyword	gasoline
+keyword	nightclub
+keyword	flashback
+keyword	grown man cries
+keyword	flying
+keyword	job offer
+keyword	orange juice
+keyword	fight
+keyword	yoga
+keyword	psychotic
+keyword	vodka
+keyword	reference to hitler
+keyword	cafe
+keyword	montage
+keyword	gangster
+keyword	photograph
+keyword	vagina
+keyword	drink
+keyword	ice skating
+keyword	new job
+keyword	falling down stairs
+keyword	drug addict
+keyword	anger
+keyword	surrealism
+keyword	wife abuse
+keyword	disguise
+keyword	gift bag
+keyword	tv ratings
+keyword	ice show
+keyword	reference to the rolling stones
+keyword	cowboys and indians
+keyword	funeral
+keyword	mob
+keyword	drinking
+keyword	hand lotion
+keyword	tv network executive
+keyword	brooklyn new york city
+keyword	calories
+keyword	crooked charity
+keyword	heavyweight boxer
+keyword	tv executive producer
+keyword	drug use
+keyword	ethics
+keyword	prayer
+keyword	fbi
+keyword	hooker
+keyword	reference to keith richards
+keyword	smashing a tv set
+keyword	singer
+keyword	girl
+keyword	salt lake city utah
+keyword	snow
+keyword	father son relationship
+keyword	mistaken identity
+keyword	box office flop
+keyword	beating
+keyword	irish american
+keyword	ex boxer
+keyword	plastic
+keyword	tap dancer
+keyword	self immolation
+keyword	manhattan new york city
+keyword	muppet
+keyword	cow bell
+keyword	bribe
+keyword	chinese railroad worker
+keyword	satire
+keyword	telephone call
+keyword	tv commercial
+keyword	neo nazi
+keyword	lasersight
+keyword	contemplating suicide
+keyword	product placement
+keyword	title spoken by character
+keyword	character name in title
+cast	Robin Williams	Rainbow Randolph
+cast	Edward Norton	Sheldon Mopes / Smoochy the Rhino
+cast	Catherine Keener	Nora Wells
+cast	Danny DeVito	Burke Bennett
+cast	Jon Stewart	Marion Frank Stokes
+cast	Pam Ferris	Tommy Cotter
+cast	Danny Woodburn	Angelo Pike
+cast	Michael Rispoli	Spinner Dunn
+cast	Harvey Fierstein	Merv Green
+cast	Vincent Schiavelli	Buggy Ding Dong
+cast	Craig Eldridge	Husband
+cast	Judy White	Wife
+cast	Tim MacMenamin	Danny
+cast	Bruce McFee	Roy
+cast	Glen Cross	Jimmy
+cast	Bill Lake	Bartender
+cast	Nick Taylor	Henry the Thug
+cast	Richard Cocchiaro	Mitch the Thug
+cast	Tracey Walter	Ben Franks
+cast	Louis Giambalvo	Sonny Gordon
+cast	Colin Moult	Rhinette / Krinkle Kid #1
+cast	Nikolai Tichtchenko	Rhinette / Krinkle Kid #2
+cast	Martin Klebba	Rhinette / Krinkle Kid #3
+cast	Tonya Reneé Banks	Rhinette / Krinkle Kid #4
+cast	Christy Artran	Rhinette / Krinkle Kid #5
+cast	Philip Craig	Senator
+cast	Natasha Kinne	Smoochy's Secretary
+cast	Richard Hamilton	Old Vagrant
+cast	Shawn Byfield	Rickets
+cast	Todd Graff	Skip Kleinman
+cast	Melissa DiMarco	Tara
+cast	Dan Duran	Hunter
+cast	Michael Copeman	Reporter #1
+cast	James Carroll	Reporter #2
+cast	Phillip Jarrett	Reporter #3
+cast	Suzanne Leonard Feliz	Reporter #4
+cast	Thomas Lyons	Reporter #5
+cast	Angela Bullock	Reporter #6
+cast	Robert M. Sussman	Reporter #7
+cast	George Blumenthal	Reporter #8
+cast	Matthew Arkin	Save the Rhino Man
+cast	Hugo Jansuzian	Hispanic Dad
+cast	Silvia Rojas	Hispanic Mom
+cast	Mario Andres Torres	Hispanic Boy
+cast	Sabrina Jansuzian	Hispanic Girl
+cast	John 'Cha Cha' Ciarcia	Autograph Man
+cast	Fred Scialla	Man in Crowd
+cast	Adam Bryant	Man in Crowd #2
+cast	Richard Ziman	Man in Crowd #3
+cast	Frank Anello	NYPD
+cast	Samantha Cordero	Little Girl
+cast	Peter Keleghan	News Anchor
+cast	Rothaford Gray	Ellis
+cast	David Brown	McCall
+cast	Gerry Quigley	Ian
+cast	James Binkley	Cop #1
+cast	Dylan Roberts	Stagehand
+cast	Vito Rezza	Lead Cop
+cast	Lou Cantres	Little Girl's Dad
+cast	John Cleland	John
+cast	Lauren Flanigan	Opera Diva
+cast	Cara Wakelin	Princess
+cast	Ted Kavouris	Candy Seller
+cast	Jonah Falcon	Man
+cast	Katie Finneran	Woman in Crowd
+cast	Edie Inksetter	Molly
+cast	Greg Korin	Smoochy Fan
+cast	Peter Kosaka	Takeshi Yamashita
+cast	Danny LeGare	Newsstand Clerk
+cast	Richard D. Leko	Smoochy Land Band Member
+cast	Martin Pfefferkorn	Meth Addict at Clinic
+cast	Robert Prosky	Network Chairman
+cast	Marc Yarrish	Street Vendor

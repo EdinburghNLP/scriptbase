@@ -1,0 +1,128 @@
+year	2011
+imdb score	7.7
+meta score	81
+genre	Comedy
+genre	Fantasy
+genre	Romance
+keyword	midnight
+keyword	writer
+keyword	love
+keyword	1920s
+keyword	golden age
+keyword	couple
+keyword	novel
+keyword	famous people
+keyword	reference to auguste rodin
+keyword	rodin museum paris
+keyword	french stereotype
+keyword	picasso painting
+keyword	antique shop
+keyword	time in title
+keyword	sculpture
+keyword	cancan dance
+keyword	american
+keyword	nostalgia
+keyword	private detective
+keyword	2010s
+keyword	antique dealer
+keyword	bell tolling
+keyword	famous couple
+keyword	painter
+keyword	place name in title
+keyword	critique
+keyword	vintage memorabilia
+keyword	latin quarter paris
+keyword	city name in title
+keyword	wandering the streets
+keyword	three word title
+keyword	time traveler
+keyword	20th century
+keyword	moulin rouge
+keyword	reference to a famous painting
+keyword	stroke of midnight
+keyword	1890s
+keyword	reference to james joyce
+keyword	memorabilia
+keyword	detective
+keyword	19th century
+keyword	reference to jean cocteau
+keyword	european art
+keyword	belle epoque
+keyword	famous author
+keyword	paris france
+keyword	reference to f. scott fitzgerald
+keyword	montmartre paris
+keyword	modern art
+keyword	time travel romance
+keyword	painting
+keyword	reference to modigliani
+keyword	pearl earring
+keyword	palace of versailles
+keyword	parisian life
+keyword	time warp
+keyword	famous song
+keyword	reference to georges braque
+keyword	french accent
+keyword	reference to zelda fitzgerald
+keyword	art history
+keyword	past
+keyword	famous painting
+keyword	rodin's the thinker
+keyword	american tourist
+keyword	time travel
+keyword	famous singer
+keyword	city in title
+keyword	reference to cole porter
+keyword	maxim's restaurant paris
+keyword	nude painting
+keyword	seine river
+keyword	time portal
+keyword	place vendôme
+keyword	21st century
+keyword	earring
+keyword	american abroad
+keyword	cult film reference
+keyword	back in time
+cast	Owen Wilson	Gil
+cast	Rachel McAdams	Inez
+cast	Kurt Fuller	John
+cast	Mimi Kennedy	Helen
+cast	Michael Sheen	Paul
+cast	Nina Arianda	Carol
+cast	Carla Bruni	Museum Guide
+cast	Maurice Sonnenberg	Man at Wine Tasting
+cast	Thierry Hancisse	1920's Partygoer
+cast	Guillaume Gouix	1920's Partygoer
+cast	Audrey Fleurot	1920's Partygoer
+cast	Marie-Sohna Conde	1920's Partygoer
+cast	Yves Heck	Cole Porter
+cast	Alison Pill	Zelda Fitzgerald
+cast	Tom Hiddleston	F. Scott Fitzgerald
+cast	Sonia Rolland	Joséphine Baker
+cast	Corey Stoll	Ernest Hemingway
+cast	Daniel Lundh	Juan Belmonte
+cast	Laurent Spielvogel	Antiques Dealer
+cast	Thérèse Bourou-Rubinsztein	Alice B. Toklas
+cast	Kathy Bates	Gertrude Stein
+cast	Marcial Di Fonzo Bo	Pablo Picasso
+cast	Marion Cotillard	Adriana
+cast	Léa Seydoux	Gabrielle
+cast	Emmanuelle Uzan	Djuna Barnes
+cast	Adrien Brody	Salvador Dalí
+cast	Tom Cordier	Man Ray
+cast	Adrien de Van	Luis Buñuel
+cast	Serge Bagdassarian	Détective Duluc
+cast	Gad Elmaleh	Détective Tisserant
+cast	David Lowe	T.S. Eliot
+cast	Atmen Kelif	Hotel Doctor
+cast	Yves-Antoine Spoto	Henri Matisse
+cast	Laurent Claret	Leo Stein
+cast	Sava Lolov	Belle Époque Couple
+cast	Karine Vanasse	Belle Époque Couple
+cast	Catherine Benguigui	Maxim's Hostess
+cast	Vincent Menjou Cortes	Henri de Toulouse-Lautrec
+cast	Olivier Rabourdin	Paul Gauguin
+cast	François Rostain	Edgar Degas
+cast	Marianne Basler	Versailles Royalty
+cast	Michel Vuillermoz	Versailles Royalty
+cast	Kenneth Edelson	Guest at Maxims

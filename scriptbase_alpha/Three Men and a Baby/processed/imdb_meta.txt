@@ -1,0 +1,93 @@
+year	1987
+imdb score	5.8
+meta score	N/A
+genre	Comedy
+genre	Drama
+genre	Family
+keyword	baby
+keyword	bachelor
+keyword	architect
+keyword	apartment
+keyword	girlfriend
+keyword	actor
+keyword	ghost
+keyword	elevator
+keyword	abandoned baby
+keyword	family relationships
+keyword	swimming pool
+keyword	adoption
+keyword	kitchen
+keyword	electronic music score
+keyword	scam
+keyword	diaper change
+keyword	parent
+keyword	mother son relationship
+keyword	puppet
+keyword	baby carriage
+keyword	affection
+keyword	fatherhood
+keyword	roommate
+keyword	drug dealer
+keyword	blockbuster
+keyword	new york
+keyword	newspaper clippings
+keyword	birthday
+keyword	remake
+keyword	montage
+keyword	video library
+keyword	custody
+keyword	new york city
+keyword	cartoonist
+keyword	friendship
+keyword	parenthood
+keyword	baby food
+keyword	remake of french film
+keyword	jukebox
+keyword	foreign language adaptation
+keyword	police
+keyword	family abandonment
+keyword	father daughter relationship
+keyword	digit in title
+keyword	five word title
+keyword	crib
+keyword	mother daughter reunion
+keyword	number in title
+cast	Tom Selleck	Peter Mitchell
+cast	Steve Guttenberg	Michael Kellam
+cast	Ted Danson	Jack Holden
+cast	Nancy Travis	Sylvia Bennington
+cast	Margaret Colin	Rebecca
+cast	Alexandra Amini	Patty
+cast	Francine Beers	Woman at Gift Shop
+cast	Lisa Blair	Mary Bennington
+cast	Michelle Blair	Mary Bennington
+cast	Philip Bosco	Det. Sgt. Melkowitz
+cast	Barbara Budd	Actress
+cast	Michael Burgess	Handsome Man at Party
+cast	Claire Cellucci	Angelyne
+cast	Eugene Clark	Man #1 at Party
+cast	Derek de Lint	Jan Clopatz
+cast	Michèle Duquet	Tawnya
+cast	David Ferry	Telephone Installer
+cast	Dave Foley	Grocery Store Clerk
+cast	Paul Guilfoyle	Vince
+cast	Cynthia Harris	Mrs. Hathaway
+cast	Earl Hindman	Satch
+cast	Celeste Holm	Mrs. Holden
+cast	Mario Joyner	Cab Driver
+cast	Gary Howard Klar	Detective #1
+cast	Joe Lynn	Detective #2
+cast	Christine Kossak	One of Jack's Girls
+cast	Edward D. Murphy	Security Guard
+cast	Jacqueline Murphy	Gate Attendant
+cast	Colin Quinn	Gift Shop Clerk
+cast	Thomas Quinn	Mounted Policeman
+cast	Jackie Richardson	Edna
+cast	John Gould Rubin	Paul Milner
+cast	Camilla Scott	Cherise
+cast	Daniele Scott	Swimming Instructor
+cast	Sharolyn Sparrow	Vanessa
+cast	Stevie Vallance	Sally
+cast	Jonathan Whittaker	Adam
+cast	Christine Cossack	
+cast	Billy Kay	Baby

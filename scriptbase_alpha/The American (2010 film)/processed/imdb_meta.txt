@@ -1,0 +1,161 @@
+year	2010
+imdb score	6.3
+meta score	61
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	assassin
+keyword	priest
+keyword	prostitute
+keyword	sweden
+keyword	ambush
+keyword	italian
+keyword	american abroad
+keyword	brothel
+keyword	dalarna sweden
+keyword	death
+keyword	italy
+keyword	small town
+keyword	date
+keyword	lake
+keyword	topless female nudity
+keyword	death of protagonist
+keyword	main character dies
+keyword	brandy
+keyword	cigarette smoking
+keyword	shot in the stomach
+keyword	betrayal
+keyword	street shootout
+keyword	gun case
+keyword	cabin in the woods
+keyword	one man army
+keyword	sniper
+keyword	swimming in underwear
+keyword	character repeating someone else's dialogue
+keyword	shot in the forehead
+keyword	gun
+keyword	criminal
+keyword	roman catholic
+keyword	shooting out tire
+keyword	bare chested male
+keyword	epic
+keyword	female rear nudity
+keyword	snow
+keyword	red light
+keyword	gash in the face
+keyword	guilt
+keyword	mexican standoff
+keyword	newspaper clipping
+keyword	violence
+keyword	target shooting
+keyword	push ups
+keyword	bare breasts
+keyword	topless sunbathing
+keyword	sex in bed
+keyword	female nudity
+keyword	long brown hair
+keyword	tattoo
+keyword	aerial shot
+keyword	very little dialogue
+keyword	photograph
+keyword	red panties
+keyword	man wearing towel
+keyword	loneliness
+keyword	train station
+keyword	shootout
+keyword	girl in panties
+keyword	loading gun
+keyword	train
+keyword	neo noir
+keyword	massage
+keyword	bilingualism
+keyword	neck breaking
+keyword	briefcase
+keyword	gunsmith
+keyword	target practice
+keyword	misfiring gun
+keyword	one last job
+keyword	parade
+keyword	fake id
+keyword	two word title
+keyword	fast draw
+keyword	red rose
+keyword	chase
+keyword	christian procession
+keyword	suspense
+keyword	butterfly
+keyword	binoculars
+keyword	shot to death
+keyword	male nudity
+keyword	cunnilingus
+keyword	mercury
+keyword	silencer
+keyword	boyfriend girlfriend relationship
+keyword	drill press
+keyword	river
+keyword	suspicion
+keyword	bare butt
+keyword	sulmona italy
+keyword	rifle
+keyword	female assassin
+keyword	see through panties
+keyword	mechanic
+keyword	sex scene
+keyword	ferry boat
+keyword	shot in the head
+keyword	doggystyle sex
+keyword	brunette
+keyword	motor scooter
+keyword	log cabin
+keyword	kiss
+keyword	falling off a roof
+keyword	car repair
+keyword	oral sex
+keyword	rome italy
+keyword	hero kills a woman
+keyword	strong sexual content
+keyword	open air market
+keyword	opening action scene
+keyword	scene during opening credits
+keyword	female frontal nudity
+keyword	last stand
+keyword	restaurant
+keyword	footprints in the snow
+keyword	shot in the chest
+keyword	pistol
+keyword	murder
+keyword	assembling a rifle
+keyword	abruzzo italy
+keyword	male rear nudity
+keyword	picnic
+keyword	subtitled scene
+keyword	villain played by lead actor
+keyword	gunfight
+keyword	sniper rifle
+keyword	phone booth
+keyword	flashback
+keyword	main character shot
+keyword	based on novel
+keyword	title spoken by character
+keyword	
+cast	George Clooney	Jack / Edward
+cast	Violante Placido	Clara
+cast	Thekla Reuten	Mathilde
+cast	Paolo Bonacelli	Father Benedetto
+cast	Johan Leysen	Pavel
+cast	Irina Björklund	Ingrid
+cast	Filippo Timi	Fabio
+cast	Lars Hjelm	Hunter #1
+cast	Giorgio Gobbi	Man on Vespa
+cast	Silvana Bosi	Old Cheese Vendor
+cast	Guido Palliggiano	Waiter
+cast	Samuel Vauramo	Young Swedish Man
+cast	Antonio Rampino	Postmaster
+cast	Björn Granath	Hunter #2
+cast	Ilaria Cramerotti	Hooker #2
+cast	Angelica Novak	Hooker #3
+cast	Isabelle Adriani	Hooker #1
+cast	Raffaele Serao	Barman
+cast	Anna Foglietta	Anna
+cast	Sandro Dori	Waiter
+cast	Patrizio Pelizzi	Antonio

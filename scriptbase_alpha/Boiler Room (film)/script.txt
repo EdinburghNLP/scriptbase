@@ -1,0 +1,6533 @@
+Boiler Room (2000) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Boiler Room (2000) movie scriptby Ben Younger
+More info about this movie on IMDb.com
+
+
+EXT. GARDEN STATE PARKWAY - NIGHT
+
+Three luxury buses with blacked-out windows speed toward
+Atlantic City.  A laser show explodes off of Trump Plaza.
+
+                              CUT TO:
+
+
+
+INT. BUS - NIGHT (CONTINUOUS)
+
+SETH DAVIS stares out the window.
+
+Seth is 20 years old.  No menacing physical presence but a
+sharpness that you feel right off.  He's a smart kid.
+Confident but edgy.  Eyes always darting.
+
+The bus is filled with 19 and 20 year olds.  They wear very
+sharp suits: Hugo Boss, Armani, very slick.
+
+They're going nuts.  Cards games in the aisle.  Five guys
+throwing dice in the back.  Booze and coke, yelling,
+screaming.
+
+
+
+EXT. BUS - NIGHT (CONTINUOUS)
+
+Exterior shots of the casinos bring us into Bally's Grand.
+
+
+
+INT. BALLY'S - NIGHT (CONTINUOUS)
+
+A top level manager for Bally's runs toward them.  He greets
+MICHAEL BRANDTLEY with a warm handshake.  Michael owns JT
+MARLIN, the company that these kids work for.
+
+          MANAGER
+     Mr. Brantley, how are you?
+
+          MICHAEL
+     Great, great.
+
+          MANAGER
+     Would you prefer to go to the ballroom
+     first, or are you going to hit the
+     tables right off?
+
+          MICHAEL
+     Let's go to the room.  The boys look
+     hungry.
+
+                              CUT TO:
+
+
+
+INT. LARGE BALLROOM - NIGHT (CONTINUOUS)
+
+A buffet and a full bar set up against a wall.  Staff members
+are there to serve.  A huge projection TV occupies another
+wall.
+
+The doors open as we approach, and the group enters.  Seth
+smiles widely as he enters.  The group has attacked the
+buffet and the bar.  A large group of managers are snorting
+coke off a glass coffee table.  A dice game is beginning.  At
+least 30 guys are in front of the TV betting on a horse race.
+
+          RICHIE
+     Holy shit, that's the jockey from
+     Venezuela.  He's a sicko.  I heard he
+     weighs like forty-eight pounds.
+
+          CHRIS
+     No, 119, but you're close, slut.
+
+          RICHIE
+     Whatever.  Give me three to one on that
+     skinny nigga.
+
+          GREG
+     Do me a favor, Richie...
+
+          RICHIE
+          (laughing)
+     You wanna throw down?
+
+Seth is sitting in an armchair with a drink in his hand.
+
+Michael moves to the front of the room to make an
+announcement.  He has a glass of wine in his hand.
+
+          MICHAEL
+     Quiet down a second.  I want you all to
+     know that those pikers at the NASD are
+     finally off our ass.  JT Marlin once
+     again has unlimited trading
+     authorization.  I told you guys, you
+     can't keep a good man down.
+          (big applause)
+     We are the superstars now.  JP Morgan
+     just faxed over their congratulations.
+     It said, "Welcome to the Club."  This
+     also means that the teams headed by Ron
+     and Anthony who were good enough to
+     give up their rep numbers, can stop
+     cold calling and start trading again.
+     Welcome back.  To show you guys just
+     how appreciative I am, I have a little
+     something extra for you.
+     I want all of you guys from those teams
+     to go up to suite 418.  We're players
+     now, boys, let's celebrate it.  Salute!
+
+They all go wild.
+
+                              CUT TO:
+
+
+
+INT. SUITE 418 - NIGHT (LATER)
+
+CLOSE UP ON RICHIE, a broker with a bad temper, who is
+fucking a prostitute from behind on one of the double beds in
+the room.  He's still half dressed.  There is nothing sensual
+about it.
+
+We PAN OVER to the other bed where another broker is fucking
+a prostitute.  The two men are looking at each other and
+laughing.
+
+The women are quiet.  There is a lot of noise coming from the
+hallway in the form of lewd CHEERS.
+
+                              CUT TO:
+
+
+
+INT. HALLWAY - NIGHT (CONTINUOUS)
+
+There are 17 more guys waiting in line.
+
+          MARC
+     Take it to 'em, Richie!!
+
+          TODD
+     And take it quick, we're all waiting
+     out here.
+
+Everyone laughs as we FADE TO BLACK.  It does down and then
+one voice RINGS out, loud and crude.
+
+          VOICE
+     Put it in your ass!
+
+                                 FADE OUT.
+
+               THREE MONTHS EARLIER
+
+
+
+INT. RECEPTION AREA/JT MARLIN - MORNING
+
+We follow GREG FEINSTEIN through a reception office.  Greg is
+a senior broker here at JT Marlin.  He walks tall, wears
+expensive clothing, drives a Ferrari.  But if you look close
+you can see the high school loser who made good.
+
+An attractive secretary in her mid-twenties, DEBBIE HILLIARD,
+picks her head up when Greg walks in.  Debbie is black.
+She's street smart and has that "in the know" look about her.
+
+Greg walks straight up to Debbie.  He doesn't look happy.
+
+          GREG
+     Morning baby.  You wanna tell me where
+     the fuck you were last night?
+
+          DEBBIE
+     Not particularly.  And don't call me
+     baby.
+          (pauses)
+     Greg, I'm not sure how better to
+     explain this to you, but it's over.
+
+          GREG
+     That what you think?
+
+          DEBBIE
+          (nonplussed)
+     Kiss off would you, I've got work to
+     do.
+
+Greg, incensed, GRABS her by the arm as a group of brokers
+walks in.  He tries to act like he's showing her something on
+the computer but she angrily SHAKES loose of his grip.  Greg
+leaves her and walks into...
+
+                              CUT TO:
+
+
+
+INT. BOILER ROOM - MORNING (CONTINUOUS)
+
+...the trading room of JT MARLIN.  The cold light of this
+enormous room almost blinds the viewer.  The room is spartan.
+
+This is no traditional trading house.  Each broker's desk
+touches another on either side as well as directly ahead.
+
+It looks like one very long cafeteria style table with
+brokers sitting across from and next to each other.  There
+are close to twenty brokers sitting at each table.  On the
+tables are only two items, phones and index cards.  A
+secretary is at the head of each table.  They answer incoming
+calls.
+
+We move QUICKLY along one of the tables, passing brokers on
+the phones, their pitches melding into one another.
+
+          BROKER #1
+     About how much would you say you have
+     invested in the market right now?  More
+     than a half million, less than...?
+
+          BROKER #2
+     No, no, no.  You don't want out now.
+     I'm telling you this stock is going to
+     thirty.  I'm in very heavy myself.
+     Just stay put.
+
+          BROKER #3
+     I don't know if you've ever had the
+     opportunity to purchase IPO before but
+     we have a company that we're bringing
+     to market in the next...
+
+          BROKER #4
+     Look, we have to move on this right
+     now.  This is gonna happen in the next
+     week.  We don't want to marry this
+     stock.  We're in we're out...
+
+          GREG
+     No, I understand why you'd be
+     concerned.  You just have to calm down
+     for a second.  You see nothing's
+     changed.  Our game plan's the same.
+     Look, this is off the record, but I
+     spoke to the controller this morning.
+     He assured me that they will be
+     reporting better than expected third
+     quarter earnings next month.
+          (soothing)
+     Right.  See I'm telling you, just sit
+     tight, everything's fine.  It's type
+     two buying power.  You're golden.  Call
+     me in a month from now when you're
+     rich.  Bye.
+
+One of Greg's trainees, MARC, approaches with a stack of
+cards.
+
+          MARC
+     Here you go, Greg.
+
+          GREG
+     I hope these are better than the last
+     batch of shit you gave me.  You produce
+     more wood than Ron Jeremy.
+
+          MARC
+     What?  What do you mean?
+
+          GREG
+     I see you making your calls.  Listen to
+     me, you can't just get on the phone and
+     say, 'Can I send you some information?'
+     If you want them off the phone so bad,
+     why don't you just hang up?  You have
+     to excite them about things.
+     You want them to beg for a broker on
+     that first call.
+
+Debbie walks through the trading floor to drop a package off
+at a broker's desk.  Greg watches, seething.
+
+          MARC
+     You're right.  I freeze up when...
+
+          GREG
+     Just stop pussying out every time
+     someone picks up the phone; it's what
+     you want.
+
+                              CUT TO:
+
+
+
+INT. QUEENS COLLEGE DINING HALL - DAY
+
+Three students sit at a table eating lunch.  They're all
+white, 19 years old, come from families with money.
+
+          KID
+     You still owe me twenty-five bucks.
+
+His friend has a hamburger in his mouth as he hears this and
+almost spits it out to answer.
+
+          KID 2
+     From what?
+
+          KID
+     I spotted you at Douglaston last week.
+     Remember?  The birdie on nine?
+
+          KID 2
+     Oh yeah, yeah.
+
+He reaches into his pocket and pulls out a bunch of chips
+from a casino.  He lays them out on the table and counts out
+$25.  All of the chips say "Seth's" on them.
+
+          KID 2 (CONT'D)
+     Here you go.  Now pass me the
+     sauerkraut, you stank ho.
+
+He takes the chips, counts them, and drops them in his shirt
+pocket.  The third friend's interest is perked.
+
+          KID 3
+     Yo, where did you get those?
+
+          KID
+     Mind your fucking business.
+
+                              CUT TO:
+
+
+
+EXT. HOUSE - DAY (CONTINUOUS)
+
+A black Acura pulls up in front of an attached home in New
+Garden Hills, Queens.  The boys from school get out of the
+car and go up to the front door.
+
+                              CUT TO:
+
+
+
+INT. SETH'S BEDROOM - DAY (CONTINUOUS)
+
+A comforter hangs in front of the window.  Nothing is in
+order except for a desk in the corner with a ledger book on
+it.
+
+A hard KNOCKING is heard and Seth stirs in his sleep.  The
+knocking is heard again and this time Seth straightens up.
+
+                              CUT TO:
+
+
+
+INT. DOORWAY - DAY (CONTINUOUS)
+
+Seth comes running down the stairs.  The knocking is steady
+now.  He opens the door to Josh's raised fist about to knock.
+
+          SETH
+     Sorry about that.
+
+                              CUT TO:
+
+
+
+INT. LIVING ROOM - DAY (CONTINUOUS)
+
+There are two full-size couches and a coffee table.  A large-
+screen TV, VCR, and Sega game system sit in one corner.  The
+windows in the room are covered by red-velvet curtains.
+
+The centerpieces of the room are two blackjack tables.
+They're for real -- professional felts, cash boxes, stools.
+
+Seth hits the lights.  He stands there in sweat pants and a
+"cunning linguist" T-shirt, dealing to the three kids.
+
+                              CUT TO:
+
+
+
+EXT. HOUSE - DAY
+
+Seth stands at the door of an affluent looking home in
+Flatbush.  After one knock, his mother comes to the door.
+
+          MOTHER
+     I'm just saying, this isn't good, Seth.
+     You're late and your father's really
+     upset with you.  He won't even tell me
+     what it is.  I just wanted to warn you.
+
+She goes back to the kitchen before Seth can respond.  He
+opens the screen door and walks in.  He's nervous.
+
+
+
+INT. HOUSE - DAY
+
+His family is eating dinner.  Seth's father, MARTY DAVIS,
+does not even look up from his plate.  Marty is a Federal
+Judge.  He's an intimidating man both in his work and
+personal life.
+
+Seth moves toward the empty seat.  His younger brother NEIL,
+is happy to see him though.
+
+          NEIL
+     What's up, Seth?
+
+          SETH
+     Hey bro, how's school?
+
+          MARTY
+     That's a good question.  You want to
+     tell me what happened, Seth?
+
+          NEIL
+     We didn't know if you were still
+     coming.
+
+          SETH
+     There was traffic.
+
+          MARTY
+     So?
+
+          SETH
+     Don't you want to wait till after
+     dinner?
+
+          MOTHER
+     Yeah, I think that's a better...
+
+          MARTY
+     Answer the question.
+
+Everyone stops eating.  There's no more denying the tension.
+
+          SETH
+     I dropped out.
+
+          MARTY
+     Tell me why.
+
+          SETH
+     I gave it a year Dad, it's not for me.
+     I'm sure of it.
+
+          MARTY
+     So you've been lying to our faces for
+     six months now.  Six months.  Schools
+     fine, Dad.  My grades are good, Dad.
+     Okay, let's leave that for a second.
+     If you dropped out then you're not
+     getting your student loan checks
+     anymore.  Right?  I want to know how
+     you're making rent every month.
+
+          SETH
+     Dad, please don't ask me that.
+
+There is a long pause here as Seth just stares back at her.
+
+          MOTHER
+     You're dealing drugs, aren't you?
+
+          SETH
+     No, of course not.  I'm not a drug
+     dealer, Mom.
+
+          MOTHER
+     Well, what are you doing?  This is
+     making me nervous, Seth.
+
+          SETH
+     Okay.  There's a business I'm running.
+     But I'm earning my money honestly.
+
+Marty reaches into his pocket and takes out a handful of
+chips from Seth's casino, SLAMMING them down on the table.
+
+          MARTY
+     Is this what you call earning a living?
+
+          MOTHER
+          (hysterical)
+     What are those, Marty?  Are those
+     drugs?
+
+          SETH
+     Yes, it's an honest living.  Ask any of
+     my customers.
+
+          MARTY
+     Customers?  What are you talking about?
+     They're people's children from this
+     community.
+     How do you think I got these?  Anyway,
+     it's illegal!  You're running a back-
+     door card game!  How do you think this
+     reflects on me?  I'm a judge for
+     Christ's sake!  If this ever gets
+     out...
+
+Seth looks away.  He's just too scared to maintain eye
+contact.
+
+          MARTY (CONT'D)
+     Are you listening to me?!!
+
+          SETH
+     Yes.
+
+                              CUT TO:
+
+
+
+INT. SETH'S CASINO - NIGHT
+
+The room is now filled with people.  The television is
+blasting out a Knicks game.  The tables are at their
+capacity.  Many more stand around placing bets on the
+dealer's hand.
+
+Seth is dealing on one table and one of his employees, JEFF,
+an even younger looking kid, deals at another.  One patron is
+at the center of all the action.  He looks very nervous about
+the stakes he's playing.
+
+          SETH
+          (stone cold)
+     That's sixteen.
+
+          CASINO PATRON
+     Hit me.
+
+Seth puts a King on top of his hand.
+
+          SETH
+     And bust.  I'm sorry.
+
+The patron is fuming over his loss.  He slams his hand down.
+
+          CASINO PATRON
+     Fuck!  I cannot win a fucking hand
+     tonight.
+
+          SETH
+     Hey Steve!
+
+          STEVE (O.S.)
+     Yeah?
+
+STEVE is the new guy there.
+
+          SETH
+     Get in here.
+          (to patron)
+     What kind of soda you like?
+
+          CASINO PATRON
+          (still angry)
+     I don't care!
+
+Steve is standing at the other table struggling with the
+plastic on a new carton of Marlboros.  He hands out packs to
+customers, then makes his way over to Seth's table.
+
+          SETH
+          (holding out car keys)
+     Here, take my car and go get Mike a
+     coke and a falafel.  You hungry?
+
+          CASINO PATRON
+          (surprised)
+     Yeah, yeah... sure.  Why not?
+
+          SETH
+     Come on, Mike.  It's a roller coaster,
+     ups and downs.  You know that.
+     Alright, place your bets.
+
+                                 FADE OUT.
+
+
+
+INT. SETH'S CASINO - NIGHT (LATER)
+
+The room is near empty.  The clock on the wall reads 3:00 AM.
+The last two kids there finally call it quits.  No more
+money.
+
+          SETH
+     See ya guys.
+
+          KID (O.S.)
+     Fuck you!
+
+Steve walks them to the door and locks up after they leave.
+
+Seth removes the cash boxes and spills the money onto the
+table.  There is easily $5,000 there.  He begins to count,
+straightening each bill out as he goes along.
+
+                              CUT TO:
+
+
+
+EXT. SETH'S DRIVEWAY - NIGHT
+
+A black Ferrari rips around the corner.  Greg and Adam emerge
+from the car.  Adam knocks as Greg squeezes past him.
+
+
+
+INT. CASINO - NIGHT
+
+Seth jerks his head up from the table.  He puts the money
+aside, writes a figure on a pad, and walks toward the door.
+
+                              CUT TO:
+
+
+
+EXT. DOOR - NIGHT
+
+          ADAM
+     He's not gonna let you in.  He doesn't
+     know you.  The kid's not stupid, Greg.
+
+A small makeshift metal plate slides open on the wooden door
+and we see Seth's eyes looking at the pair.
+
+SETH'S POV
+
+          SETH
+     Who's this?
+
+          ADAM (O.S.)
+     This is my boy Greg.
+
+The plate closes and the door swings open.
+
+          SETH
+     We thought we were done for the night.
+
+          ADAM
+     Is it too late to get a couple of hands
+     in?
+
+          SETH
+     Nah.  Twenty-four/seven, you know that.
+
+Steve takes their coats and hangs them in the closet.
+
+          SETH (CONT'D)
+     Hey Steve, go grab a couple of
+     sandwiches.
+
+Seth leads them over to the tables and discreetly puts the
+cash away.  Greg takes notice.  Seth shuffled the cards.
+
+          SETH (CONT'D)
+     Okay, house rules are as follows.  We
+     play Las Vegas with the exception of a
+     particular side bet.  You can bet over-
+     under thirteen on the dealer's hand
+     with a loss occurring on blackjack.
+
+          GREG
+     That's cute, like the green spot on a
+     roulette wheel.
+
+Seth does not respond.
+
+          GREG (CONT'D)
+     How many idiots take that bet?
+
+          SETH
+     More than you'd think.
+
+Greg laughs and then removes a huge wad of cash.
+
+          ADAM
+     Alright give me... four hundred
+     dollars.
+
+          GREG
+     You didn't say anything about the
+     betting.
+
+          SETH
+     What were you thinking?
+
+          GREG
+     Five hundred Max?
+
+Steve, who has just walked in with the sandwiches stops dead
+after hearing Greg's suggestion.
+
+          SETH
+     We don't usually service that level of
+     action here... but I'd hate to turn
+     away a new customer.  Thing is, we may
+     not have enough cash here to settle you
+     at the end of the night.
+
+          GREG
+     That's okay.  You can pay me tomorrow.
+
+          SETH
+          (laughs)
+     Sure.  How much you want?
+
+Greg unfolds his bank roll and puts down a wad of cash.
+
+          GREG
+     Five dimes.
+
+Seth counts out the money on the table.
+
+          SETH
+     In what denomination?
+
+          GREG
+     Denomination?  Ummm, I'll take three
+     Puerto Ricans, two Chinks and a Guinea.
+
+Adam, Steve and even Seth laugh, lightening the mood.
+
+          GREG (CONT'D)
+     I'll let you mix it up for me.
+
+Seth takes the money and pushes it into the cash box.  He
+then counts up $5,000 in chips for Greg.
+
+          ADAM
+     You're such a prick.  Gotta make me
+     feel like I'm playing at the kiddie
+     table.
+
+          GREG
+     If the shoe fits, baby.  Oh shit.  You
+     got real chips.
+
+Holding them up to Adam.
+
+          GREG (CONT'D)
+          (laughing)
+     Look, they even say "Seth's" on 'em.
+     This is no joke.
+
+          ADAM
+     I told you.
+
+          SETH
+     At first we just used Bicycle poker
+     chips, you know, the kind you can buy
+     in a deli.  Then some kids started
+     sneaking in additional funds.
+
+          ADAM
+          (laughing)
+     Jesus Christ.  Bet you put a stop to
+     that shit real quick.
+
+Greg reaches over to the platter for a sandwich.
+
+          GREG
+     And you pay for food and drinks for all
+     these kids?
+
+          SETH
+     I sure as hell don't cook for them.
+     I've already lived in four places in
+     Queens.  I don't think I ever turned a
+     stove on except to light a cigarette.
+
+          GREG
+     You and me both.
+
+          SETH
+     But I take care of my customers.
+     Smokes, food, soda.  Look, I'm not
+     stupid, I never buy decaffeinated.
+
+          GREG
+          (laughing)
+     Holy shit, would you listen to this
+     kid.
+
+          SETH
+          (all business)
+     Alright.  Place your bets.
+
+                              CUT TO:
+
+
+
+INT. COFFEE SHOP, NYC - DAY
+
+Seth is sitting in a booth waiting for someone.
+
+A Towncar pulls up and Seth's father gets out.  He comes
+inside and heads toward the booth.  Seth stands to greet him.
+
+          MARTY
+          (cold)
+     Hi Seth.
+
+          SETH
+     Hey Dad.
+
+The two have an awkward moment as Seth reaches out to embrace
+his father.  They're obviously uncomfortable around each
+other.
+
+          MARTY
+          (gruff)
+     So what's up?
+
+Seth is very nervous here.  He's trying to reach out toward
+his father.  New territory.
+
+          SETH
+     How you doing?
+
+          MARTY
+     I'm fine, Seth.  What's on your mind?
+
+          SETH
+     I just feel bad about the way things
+     went at the house last week.  I feel
+     like we just don't get anywhere talking
+     at home.
+
+          MARTY
+          (cold)
+     I'm not sure what there is to talk
+     about.  You're a habitual liar.  You've
+     dropped out of school, you're running
+     an illegal casino out of your
+     apartment.  You're putting my career at
+     risk.  What do you want to talk about?
+
+          SETH
+     Why can't we just discuss this?  Maybe
+     you're not seeing my side.
+
+          MARTY
+     Your side?  You're doing wrong.  I'm
+     not your best friend, here to nod my
+     head and sympathize.  That's my your
+     mother's racket.  I'm your father.  I
+     let you know when you screw up.  Did
+     you think I was going to pat you on the
+     back for this casino idea?  Tell you
+     what an entrepreneur you are?
+
+          SETH
+     No.
+
+          MARTY
+     So, what do you want from me?  Meeting
+     me in a coffee shop is not going to
+     change the life you have.  God, if I
+     ever asked my father to meet me for a
+     cup of coffee to talk about my screw-up
+     he probably he probably would have
+     laughed.  We didn't have nice little
+     chats about why I was a bad boy.
+     Whether I was just calling out for
+     attention or not.  I got smacked and
+     then I didn't do it again.  Much
+     simpler.
+
+          SETH
+          (mutters)
+     Well that really worked great on me,
+     Dad.
+
+          MARTY
+     What?
+
+          SETH
+     Look Dad, I'm sitting here and I'm
+     trying to restore what's left of our
+     relationship.
+
+          MARTY
+          (angry)
+     Relationship?
+     What are you talking about?  We're not
+     dating, Seth.  I'm your father, not
+     your girlfriend.  So stop with the pop-
+     psychology talk.  Did your mother feed
+     you this crap?
+
+          SETH
+          (embarrassed)
+     No.
+
+          MARTY
+     Clean up your life.  Make an honest
+     living.  Then we can talk like normal
+     people.
+          (looks at watch)
+     I gotta get back to work.  I'm hearing
+     a grand jury indictment this afternoon.
+
+Marty slaps a five dollar bill on the table and leaves.
+
+                              CUT TO:
+
+
+
+INT. CASINO - NIGHT
+
+It's the end of the night.  Seth sits with Greg.
+
+          GREG
+     I'm just saying, this is risky
+     business.  You plan on dealing cards to
+     college kids when you're thirty-five?
+     Think you won't get busted in the next
+     two years?  You need to start thinking
+     about down-the-line time.
+
+          SETH
+     So I should come work for you, huh?  I
+     guess it'll be retribution for me
+     taking all your money here.
+
+          GREG
+          (laughs)
+     First of all, I'm not done with your
+     here.  And no, you'll only be working
+     for me for a short time.  You learn the
+     ropes, pass the series seven, then
+     you're on your own.  Just ask Adam,
+     he'll tell you.
+
+Seth stares at him, contemplating.
+
+                              CUT TO:
+
+
+
+INT. SETH'S CAR - DAY
+
+Seth is driving on the LIE.  We see the NYC skyline through
+the rear window.  He's driving away from the city.
+
+                              CUT TO:
+
+
+
+EXT. BOILER ROOM - DAY (CONTINUOUS)
+
+It's lunch time as Seth pulls up in his mother's Volvo wagon.
+The first sight he comes across is 14 kids in wing-tips and
+dress shirts playing street hockey in the parking lot.
+
+There are three Ferraris right in front.  The rest of the lot
+is filled with Mercedes SL's, Corvettes, and other exotics.
+
+As Seth closes the car door, he spots a bright yellow "Jewish
+Mother on Board".  He throws it on the floor in the back.
+
+                              CUT TO:
+
+
+
+INT. RECEPTION AREA - DAY (CONTINUOUS)
+
+The room is packed with interviewees.  Some have to stand.
+They're all terribly dressed.  Sunday's best doesn't cut it.
+The front door opens and Seth walks in.  He wears a sharp
+suit.  He walks tall.  All eyes fall on Seth, even Debbie's.
+
+          DEBBIE
+     Over here.
+
+          SETH
+     Have they started interviewing yet?
+
+          DEBBIE
+     No.
+
+          SETH
+     How long do you expect the wait to be?
+
+          DEBBIE
+     You'll all be going in at the same
+     time.
+
+          SETH
+     I thought this was an interview.
+
+          DEBBIE
+          (finding the words)
+     It's a group interview.  You'll see.
+
+She reaches under the desk and pulls out a clipboard.
+
+          DEBBIE (CONT'D)
+          (smiling)
+     Here.  Fill this out.  I'd say have a
+     seat, but that doesn't look like it's
+     going to happen.
+
+Seth doesn't have a clue that she is trying to make
+conversation with him.
+
+          SETH
+     That's okay.
+
+          RUDE KID
+     Hey, when's this shit gettin' started?
+
+Debbie doesn't even look up from her desk.
+
+          RUDE KID (CONT'D)
+     You hear me?
+
+          DEBBIE
+     I hear you.  I'm just not answering.
+
+          RUDE KID
+     What the fuck?
+
+She sighs as if she's done talking, then...
+
+          DEBBIE
+     Open your mouth again and I'll
+     personally guarantee you never get a
+     job here.
+
+One of the doors of the trading room opens.  Seth catches a
+glimpse of several brokers crouched down, playing dice near
+the far window of the trading room.  The door closes in SLOW
+MOTION as Seth cranes to get every possible view.
+
+Out walks JIM YOUNG.  Jim is a team leader at JT Marlin.  He
+is dressed to the T.  He looks like someone not to be fucked
+with.
+
+          JIM
+     Alright guys, come this way.
+
+                              CUT TO:
+
+
+
+INT. BOARDROOM - DAY (CONTINUOUS)
+
+The room used mostly for interviewing and on the rare
+occasion a meeting is needed with someone outside the firm.
+
+Jim walks in to find Marc sitting at the head of the table.
+He laughs to himself.
+
+          JIM
+     I'm sorry, but that's my seat.
+
+          MARC
+          (scared)
+     Oh man, I'm so sorry.
+
+          JIM
+     It's alright.
+
+Marc JUMPS to another seat.  He is chided by one of his
+friends, the same kid who was having words with Debbie.
+
+          RUDE KID
+     Fucking dumb-ass.
+
+          JIM
+     You can get the fuck out of here.
+
+          RUDE KID
+          (terrified)
+     What?  What?
+
+          JIM
+     Don't talk to me, don't look at me,
+     just pick your ass up out of that
+     Italian leather chair and get the fuck
+     out of this room.
+
+He gets up and leaves without saying another word.
+
+          JIM (CONT'D)
+     We expect everyone here to treat their
+     co-workers with a certain level of
+     respect.
+
+Everyone in the room is silent and staring at Jim.
+
+          JIM (CONT'D)
+          (calm)
+     Now before I get started I have a
+     question.  Has anyone here passed the
+     series seven?
+
+One hand goes up.  It's one of the few kids who wears a good
+suit and wasn't too worried looking in the waiting room.
+
+          SERIES SEVEN
+     I have a series seven license.
+
+          JIM
+     Good for you, now you can get out too.
+
+          SERIES SEVEN
+     What?  Why?
+
+          JIM
+     Because we don't hire brokers.  We
+     train new ones.
+
+Jim waits for him to leave the room and then calmly
+continues.
+
+          JIM (CONT'D)
+     This is the deal.  I am not here to
+     waste your time and I can only hope
+     you're not here to waste mine.  So I'm
+     gonna keep this short.  You become an
+     employee of this firm and you will make
+     your first million within three years.
+          (pauses)
+     Okay?  Let me repeat that.  You will
+     make a million dollars within three
+     years of your first day of employment
+     at JT Marlin.  Everybody got that?
+     There is no question as to whether you
+     will be a millionaire working at this
+     firm, the question is how many times
+     over.
+
+Every kid in the room besides Seth is completely starry eyed
+at this point.  Some mouths even hang open.  Seth is excited
+too, but is smarter than the rest... he doesn't show it.
+
+          JIM (CONT'D)
+     You think I'm joking.  I am not joking.
+     I am a millionaire.  It's a weird thing
+     to hear, right?  I'll tell you, it's a
+     weird thing to sa.  I'm a fucking
+     millionaire.  Now guess how old I am?
+     Twenty-seven.  You know what that makes
+     me here?  A fucking senior citizen.
+     This firm is entirely comprised of
+     people your age, not mine.  Lucky for
+     me, I am very fucking good at my job or
+     I'd be out of one.  You guys are the
+     new blood.  You're gonna go home with
+     the kesef.  You're the future Big-
+     Swinging-Dicks of this firm.  Now you
+     all look money hungry and that's good.
+     Anybody who says money is the root of
+     all evil, doesn't have it!  Money can't
+     buy happiness?  Look at the fucking
+     smile on my face.  Ear to ear, baby.
+     You wanna hear details?  I drive a
+     Ferrari 355 cabriolet.
+          (throws keys on desk)
+     I have a ridiculous house on the South
+     Fork.  I've got every toy you can
+     imagine.  And best of all, kids, I am
+     liquid.
+
+Jim takes a pause here and circles the room.
+
+          JIM (CONT'D)
+     So now that you know what's possible,
+     let me tell you what's required.  You
+     are required to work your ass off.  We
+     want winners, not pikers.  A piker is
+     someone who walks at the bell.  A piker
+     asks how much vacation time he gets in
+     the first year.  See, people work here
+     to become filthy rich.  No other
+     reason.  That's it.  You want vacation
+     time?  Go teach third grade public
+     school.
+
+Jim pours himself a glass of water from a carafe and drinks.
+
+          JIM (CONT'D)
+     Your first six months at the firm are
+     as a trainee... you make one hundred
+     and fifty dollars a week.  After you're
+     done training, you take the Series
+     Seven test.  When you pass, you become
+     a junior broker and you'll be opening
+     accounts for your team leader.  After
+     you open forty accounts you begin
+     working for yourself and then... sky's
+     the limit.  Now a word about being a
+     trainee.  The other brokers, your
+     parents, whoever: they're gonna give
+     you shit about it.  And it's true, a
+     hundred and fifty a week is not a lot
+     of money, but pay no mind.  You need to
+     learn the business and this is the time
+     to do it.  Once you pass the Series
+     Seven none of it will matter.
+
+He pauses to drink.
+
+          JIM (CONT'D)
+     Your friends are shit.  You're gonna
+     tell them you made twenty-five thousand
+     last month and they're not going to
+     believe you.  Fuck them!  Your parents
+     don't like the life you lead?  Fuck you
+     Mom and Dad!  As a trainee you will be
+     building a foundation for yourself.
+     Think of it as the foundation to a
+     building.  Right?  Gotta build the
+     foundation before you can put up your
+     skyscraper.  You know what I built?
+          (takes out a model)
+     The fucking twin towers.  Now go home
+     and think about whether this is for
+     you.  If you decide it isn't, nothing
+     to be embarrassed about.  It's not for
+     everyone.
+     But if you really want it, then give me
+     a call on Monday and we'll talk.  Just
+     don't waste my time.  Alright.  That's
+     it.
+
+Jim walks out of the room leaving the door open behind him.
+No one has moved from their seat.
+
+                                 FADE OUT.
+
+
+
+EXT. BOILER ROOM - DAY
+
+Shot of Seth walking in the building.
+
+                              CUT TO:
+
+
+
+INT. RECEPTION AREA/JT MARLIN - MORNING
+
+Seth walks in.  From the look on his face alone, you can see
+it's his first day of work.  He walks past Debbie.
+
+          DEBBIE
+     Hey, Seth.
+
+He stares at her for a long moment.  Her beauty is hitting
+him for the first time.  No idea what her name is though.
+
+          SETH
+     Hi...
+
+          DEBBIE
+     Debbie.
+
+          SETH
+     I'm so sorr...
+
+          DEBBIE
+          (all smiles)
+     It's okay.  I never told you my name.
+     Besides, you looked pretty frazzled the
+     other day.  I'd be surprised if you'd
+     remembered.
+
+          SETH
+     First day.
+
+          DEBBIE
+          (sarcastic)
+     No shit?
+
+Seth laughs.  Likes her already.  She watches him leave.
+
+                              CUT TO:
+
+
+
+INT. BOILER ROOM - MORNING
+
+It's 8:00 and the trading room is already packed.  Seth sits
+at his new desk with a box of cards in front of him.
+
+Greg drops down in a seat next to him.  He picks up the box
+of cards and starts right in.
+
+          GREG
+     These are the D&B cards.  Dunn and
+     Bradstreet.
+
+          SETH
+     Good morning.
+
+Greg checks his paper as he continues...
+
+          GREG
+     They're the company that supply us with
+     our leads.  Every one of these cards is
+     an opportunity.  These are good leads.
+     People on these cards buy stock.  Your
+     job is to call them and get them
+     interested in the firm.  You're not
+     actually selling stock yet, but you're
+     selling the dream.  Get 'em wet and
+     tell them that in a month from now a
+     senior broker will call them back with
+     one idea.
+
+          SETH
+     Who are these people?
+
+          GREG
+     Average client's forty-five years old,
+     from the Midwest, two hundred and fifty
+     thousand dollar annual income, three
+     million net.  Has a local broker, but
+     loves a New York guy who sounds good on
+     the phone.  The card's not gonna tell
+     you any of that.  Only says their name,
+     address and occupation.  You gotta feel
+     them out.
+          (picks up card)
+     Here.  Peter Davis, Vice President of
+     Parks Telecommunications.  Guy's
+     probably a whale.  See what he's
+     playing with.  Truth is it doesn't
+     matter these days.  With the DOW where
+     it is now, everyone wants a piece of
+     the market.  I can close anyone at any
+     time anywhere in the country.  Just
+     give me a phone number.
+
+JOHN FEINER, the compliance officer, walks out of Michael's
+office.  He looks at Seth as he walks by.
+
+          SHERYL
+     Greg, I have John Duncklee on line
+     three.
+
+          GREG
+     I'm not here.  After you qualify the
+     guy you send him a press packet.  It's
+     all really easy and it'll get you
+     feeling comfortable on the phone, which
+     is key.  This entire business revolves
+     around the phone.  A good broker makes
+     over seven hundred calls a day.
+
+          SETH
+          (laughs)
+     What's the phone bill like here?
+
+          GREG
+     This month was approaching four hundred
+     thousand.  Now listen to me.  Even
+     though you're not actually selling
+     stock yet, I want you to remember the
+     coda we have here. Did you see
+     Glengarry Glenross?
+
+          SETH
+     Yeah.
+
+          GREG
+     Alright then, you remember ABC?
+
+          SETH
+     Always be closing.
+
+          GREG
+     Right.  Always -- Be -- Closing.
+     That's the attitude you need.  Always
+     be closing Seth.  Telling's not
+     selling.  Now there's two rules you
+     need to know as a trainee.  The rest
+     will come later.  Number one, we do not
+     pitch the bitch here.
+
+          SETH
+     What?
+
+          GREG
+     We don't sell stock to women.  I don't
+     care who it is, we don't do it.  I'm
+     serious.  Nancy Sinatra calls, you tell
+     her you're sorry.  They're a constant
+     pain in the ass and never worth the
+     trouble.
+     They will call you every fucking day
+     asking you why the stock is dropping.
+     And God forbid the stock should go up
+     you'll hear from them every fifteen
+     minutes.
+          (mocking)
+     Is it a good time to sell?  It's simply
+     not worth the time or effort.
+
+          SETH
+     Okay, don't pitch the bitch.
+
+          GREG
+     Second rule.  Don't write wood.  A lot
+     of trainee are so anxious to get off
+     the phone they just steamroll the guy
+     into getting the press pack so they can
+     hang up.  Then I call in a month and
+     say, Hi, you spoke to a junior
+     associate of mine last month.  The
+     guy's like, Yeah, I'm not interested.
+     Bye.  That's a shitty lead.  It's
+     fucking wood.  The info we send is
+     bullshit.  The important part of the
+     call is telling them you have that one
+     great idea, and that a broker is going
+     to call them back in a month.  This
+     shows that we don't just fire a million
+     recos a day.  We tell them we have six
+     or seven great ideas a year!  They
+     don't want to think you're pitching
+     them something you read in the journal
+     this morning.  Get it?  No wood.
+
+          SETH
+     Yeah, I got it.  Chill.
+
+          GREG
+     Don't even start with that shit.  I'm
+     just telling you what your place is and
+     what I expect of you.  I'm making your
+     job easier.
+
+This is not the Greg that Seth remembers from the casino.
+
+          SETH
+     Okay.  Well what happens if they want
+     to buy stock right then?
+
+          GREG
+     Alright, now we're talking.  You should
+     go into every call thinking just that.
+     If they want a recommendation, you put
+     the guy on hold, you stand up, and yell
+     "RECO" at the top of your lungs.  The
+     first senior broker to get to the phone
+     gets the sale.
+
+Seth smiles broadly.
+
+                              CUT TO:
+
+
+
+EXT. GREG'S HOUSE - NIGHT
+
+Seth walks up the path toward Greg's house.  It's a beauty.
+The door is open and Seth slowly lets himself in.  He passes
+through the living room which as no furniture -- just
+cardboard boxes waiting to be unpacked.
+
+In the den there are 15 guys from the firm sitting on the
+floor.  They're eating pizza and drinking beer.  A huge TV
+sits against a wall, the only thing in the room besides the
+pizza.
+
+They are watching the movie "Wall Street".
+
+          ADAM
+     Seth!  What's up, man?  Thought you
+     weren't gonna make it.  Sit down, grab
+     a slice, have a beer.
+
+          GREG
+          (pointing at TV)
+     Shut-up, shut the fuck up, Gecko's
+     coming.  Alright my turn.
+
+The doors to Gordon Gecko's office open and Greg begins.  The
+following is intercut with scenes from the film.
+
+          GREG (CONT'D)
+     What the hell's goin' on?  I'm lookin'
+     at two hundred shares, pal.  I wanna
+     know if we're part of it.  We better be
+     or I'm gonna come down and eat your
+     lunch for you.  Back in two, Alex.
+
+Richie picks it right up.
+
+          RICHIE
+     Sorry, Jeff.  Look, I loved it at
+     forty, it's an insult at fifty.  Their
+     analysts?  They don't know preferred
+     stock from livestock.  Alright, we wait
+     till it hits south, then we, we raise
+     the sperm count on the deal.  Get back
+     at ya.
+
+CHRIS VARICK picks it up from there.  He's also a team
+leader; but has his shit together more tightly than the rest.
+
+          CHRIS
+     This is the kid.  Calls me fifty-nine
+     days in a row, wants to be a player.
+     Oughta be a picture of you in the
+     dictionary under persistence, kid.
+     Yeah, now listen, Jerry.  I'm lookin'
+     for negative control.  No more than
+     thirty, thirty-five percent.  Just
+     enough to block anybody else's merger
+     plans and find out from the inside if
+     the books are cooked.  Looks as good on
+     paper and we're in the kill zone, pal.
+     We'll lock and load.  Lunch? Oh you
+     gotta be kidding.  Lunch is for wimps.
+     Okay, Fidel, I'll talk at ya.
+
+Everyone in the room says this line in unison.
+
+          EVERYONE
+     How do you do, Mr. Gecko.  Bud Fox.
+
+          GREG
+     So you say.  Nice to meet you.  Hope
+     you're intelligent.  Where'd you get
+     these?
+
+          EVERYONE
+     I got a connection at the airport.
+
+          GREG
+     So what's on your mind, Kimosabi?  Why
+     am I listening to you?
+
+The sound fades down as we see Seth looking around the room.
+All the money in the world and no one to share it with.
+
+                              CUT TO:
+
+
+
+INT. DEBBIE'S APARTMENT - NIGHT
+
+Debbie walks in looking beat.  She's just come from work.
+The apartment is small and modestly furnished.  Working
+class.
+
+          DEBBIE
+     Mom?
+
+          MOTHER (O.S.)
+     I'm in bed.
+
+Debbie heads back toward the bedroom.  She walks in to find
+her mother in bed coughing.  She does not look well.
+
+          DEBBIE
+     Bad day?
+
+          MOTHER
+     Miserable.
+
+Debbie gets her mother's medication ready.
+
+          DEBBIE
+     Let me make some tea.  You sound really
+     congested.
+
+Debbie leaves for the kitchen.
+
+          MOTHER
+     How was work?
+
+                              CUT TO:
+
+
+
+INT. SETH'S BEDROOM - NIGHT
+
+Seth is on the phone with his mother.  There is a monitor
+showing the tables downstairs.
+
+          SETH
+     I told you, Mom, I'm not a broker yet.
+     I'm a trainee.  I still need to pass my
+     series seven test.
+
+          MOTHER
+     Oh please, you're a stock broker.  You
+     wear a suit to work every day, don't
+     you?
+
+          SETH
+     Yeah?
+
+          MOTHER
+     So?  What are we arguing about then?
+
+          SETH
+     Thanks Mom.
+
+          MOTHER
+     You're doing great, Seth.  You're
+     working your way up from the bottom.
+     That's never easy.  I'm very proud of
+     you.  And I told you father about
+     things.
+
+          SETH
+     What'd he say?
+
+          MOTHER
+     He's very happy.  Shocked, but happy.
+     He's been waiting for you to call him.
+
+          SETH
+     Well why doesn't he just call me?
+
+          MOTHER
+     One miracle at a time, okay sweetie?
+
+                              CUT TO:
+
+
+
+INT. BOILER ROOM - MORNING
+
+Seth is on the phone trying to make things happen.
+
+          SETH
+     Uh...
+          (looking at card)
+     ...Mr. Mathews please.  Seth Davis.
+     From JT Marlin.  No, he doesn't know
+     me.  Yes it's concerning investments.
+     Hello?
+
+Seth hangs up the phone and stares at it for a moment.
+
+          SETH (CONT'D)
+          (muttering to himself)
+     Fucking bitch.
+
+He dials another number.
+
+          MARC
+     Tech stocks are down today.
+
+          GREG
+     Hey Warren Buffet, you trying to e
+     cute?  Make the fucking calls!  You're
+     not a fund manager!  How's it going
+     there, Seth?
+
+Seth shrugs his shoulders.  Greg comes over.  The phone is
+ringing.
+
+          SETH
+     Hi, Howard Young please.  It's Seth
+     Davis from JT Marlin.  No, he's not
+     expecting my call.  No thanks, I'll
+     call him back.
+
+          GREG
+     Okay, first of all there are going to
+     be a lot of those regardless of how
+     good you are.  But you happen to suck
+     dick.  I have this friend who runs this
+     other firm.  He gives out this book to
+     all his trainees.  The Rebuttal Book.
+     Looks like a fil-o-fax.  Has those
+     index tabs but they don't say A to B to
+     G to H, they say things like Wife won't
+     let me, I'm not in the market now, Call
+     me back, Send me a prospectus.
+     Has a rebuttal for any excuse.  That's
+     all the shit you're gonna have to learn
+     later.  For now you only have to
+     remember one thing.  You can be whoever
+     you want on the phone.  So say what you
+     have to.  Use a different name if you
+     want.  Tell them you're a vice-
+     president here.  Just get them on the
+     line.  That's the first step.  It's the
+     hardest part sometimes, but just get
+     the cocksucker on the line.
+
+          SETH
+     I don't understand.  How can I do shit
+     like that?  Isn't there a compliance
+     offer here?  Isn't it...
+
+          GREG
+     Illegal?  No, Seth.  Everyone does that
+     shit.  Even on Wall Street.  And John
+     over there, he works for us.
+
+Greg points to John who is at a desk in the back of the room.
+
+          GREG (CONT'D)
+     He's a fucking chimp.  The only
+     compliance work he's doing is making
+     sure my lunch is still hot when it gets
+     here.  He's only here because the SEC
+     requires it.  He might have the easiest
+     fucking job in the entire world.  Look
+     at him I think he's actually
+     masturbating right now.
+
+A Fed-Ex package is brought over by Debbie.  She's got a few
+of them in her hands.  She smiles at Seth as she drops the
+package on Greg's desk.  Greg sees this.
+
+          GREG (CONT'D)
+     Bad news.  Stay the fuck away.
+
+Chris walks over.  Debbie continues to hand out packages.
+
+          CHRIS
+     Holy shit.  You slut.  You made the
+     call.
+
+          GREG
+          (smiling wide)
+     I did.
+
+Seth sees Debbie picking up packages as well.  One broker is
+seen angrily stuffing cash into a Fed-Ex envelope.
+
+          CHRIS
+     And you went big too.
+
+          GREG
+     I did.
+
+Greg opens the package and removes a good $20,000 in cash.
+Seth's attention is snapped back to Greg and the package.
+
+          GREG (CONT'D)
+     Fuckin' A.  Only bookie in New York
+     that delivers Federal Express.
+
+                              CUT TO:
+
+
+
+INT. RATNER'S RESTAURANT - NIGHT
+
+Seth and his whole family are having dinner in celebration of
+Seth's new job.  Marty looks about as happy as pie.
+
+          MARTY
+     So when are you taking the test?
+
+          SETH
+     After the training program's over.
+     They really want you to get a good idea
+     of how things work before you take the
+     series seven.  It's a great system.
+     I'm really learning a lot.  They're
+     very thorough.
+
+          NEIL
+     Are you gonna be rich, Seth?
+
+          SETH
+     I hope so.
+
+          MOTHER
+     God willing.
+
+          MARTY
+     I gotta ask you: how come I've never
+     heard of this firm?
+
+The question makes Seth nervous.  Familiar territory.
+
+          SETH
+     They're a small firm, Dad.  There's a
+     million others just like it that you've
+     never heard of either.
+
+          MARTY
+     I guess what I'm asking is why you
+     didn't try and go straight to Goldman
+     Sachs or a company of that stature.
+
+          MOTHER
+     Marty, why are you starting?
+
+          SETH
+          (calm)
+     It's okay, Mom.  The reason, Dad, is
+     that the larger houses don't hire kids
+     straight out of college unless you went
+     to an Ivy League school or you want to
+     do cash-flow analysis for the next
+     fifteen years.  They want you to work
+     outside their firm for a couple of
+     years to get a sense of the
+     marketplace.  That's why almost all
+     brokers start in small firms like JT
+     Marlin.
+
+          MARTY
+          (to Mother)
+     See, that wasn't so bad.  He answered
+     the question.  This is good stuff,
+     Seth.  Good stuff.  So how does it feel
+     to have a real job?
+
+          SETH
+     It feels real good, Dad.
+
+Seth looks elated.  There's a long content pause.
+
+          MARTY
+     All you have to do now is close the
+     casino.
+
+          MOTHER
+     Marty!  We talked about this.
+
+Seth looks at his watch.  He realizes he's late for
+something.
+
+          SETH
+     I hate to run, but I'm late to meet a
+     friend.
+
+He kisses his Mom and leaves.
+
+                              CUT TO:
+
+
+
+INT. BAR - NIGHT (LATER)
+
+Seth walks into a dimly lit bar in downtown Manhattan.  It's
+a class joint.  He searches the room until he sees Debbie
+sitting at a table in the back.
+
+          SETH
+     Debbie.
+
+          DEBBIE
+          (big smile)
+     Hey Seth.  Go get yourself a drink.
+
+                                 FADE OUT.
+
+
+
+INT. BAR - NIGHT (LATER)
+
+They've already had a couple of drinks by now and are pretty
+loosened up.
+
+          SETH
+     So who do you live with?
+
+          DEBBIE
+     Oh, you mean is the black girl here
+     taking care of her grandma because her
+     momma's a crack-head?
+
+          SETH
+     Yeah, exactly.  I thought it was smack,
+     though.  You know you have got to get a
+     hold of that edge.  It's kind of sharp
+     sometimes.
+
+          DEBBIE
+          (embarrassed laugh)
+     I know, it's true.  I just got so much
+     shit at JT.  Sometimes I have to get
+     into that mode just to fend them off.
+
+          SETH
+     So why are you there?  It doesn't seem
+     like the ideal working environment for
+     a black woman.
+
+          DEBBIE
+     No, it isn't.  But tell me, how many
+     secretaries you know make eighty
+     thousand a year?
+
+          SETH
+          (smiling)
+     One.
+
+          DEBBIE
+     Exactly.
+
+          SETH
+     You could always go back to school.
+
+          DEBBIE
+          (laughs)
+     You pompous ass.  What makes you think
+     I want to?  College isn't for everyone.
+     It's not like every black girl dreams
+     of being a marine-biologist her whole
+     life.
+          (dramatic)
+     If only she could get out of the
+     ghetto.
+
+          SETH
+     Hey, you don't have to tell me.  I
+     dropped out.
+
+          DEBBIE
+     Really?  Now that's a surprise.
+
+          SETH
+          (mocking)
+     You know it isn't for everyone.  It's
+     not like every Jewish boy wants to be a
+     CPA if only he could make Wharton's.
+
+Debbie laughs hard and they settle into intimate eye contact.
+Debbie leans toward Seth who pulls away, embarrassed.
+
+          SETH (CONT'D)
+     Whoa.  I don't even know what synagogue
+     you belong to.
+
+Debbie bursts into laughter.
+
+                              CUT TO:
+
+
+
+INT. WALL STREET BAR - NIGHT (SAME TIME)
+
+We are at a "broker bar" with Greg, Chris, Richie, and Adam.
+The guys have come from work.  They look very confused.
+
+          RICHIE
+     Yo.  I thought this shit was a broker
+     hangout.  Merryl Lynch, Solomon Bros,
+     the big dicks.
+
+          GREG
+     Yeah.  What is this?  Looks like an
+     insurance salesman convention.
+
+A group of brokers at a nearby table take notice of the guys
+and start pointing, laughing.
+
+                              CUT TO:
+
+
+
+INT. BAR - NIGHT (SAME TIME)
+
+          DEBBIE
+     You don't fit in there.  You know that?
+     They're all white trash.  To them, this
+     is going legit.
+
+          SETH
+     What do you mean by that?
+
+          DEBBIE
+     Always talking about being a big
+     swinging dick on Wall Street.  It's
+     funny, 'cause Long Island is as close
+     as they're ever going to get.  But you
+     could be doing the real thing at a real
+     trading house.  Instead you're here.
+     You don't need to be making it this
+     way.  At a chop-shop.
+
+          SETH
+     What are you saying?  JT isn't a chop-
+     shop.  We just push the envelope a
+     little.  I mean it's not like we do
+     anything illegal.  We just push a
+     little.  Same as on Wall Street.
+
+Debbie laughs.
+
+          SETH (CONT'D)
+     What?
+
+          DEBBIE
+     You don't have to convince me.
+
+Debbie raises her glass to Seth.
+
+          DEBBIE (CONT'D)
+     To bending the rules.
+
+          SETH
+     Alright.  That I can handle.
+
+                              CUT TO:
+
+
+
+INT. WALL STREET BAR - NIGHT (SAME TIME)
+
+The brokers from the other table are now next to them.
+They've been listening in.  One of them approaches.
+
+          JP BROKER
+          (smiling)
+     Hey.  You guys looking for a broker?
+
+          RICHIE
+     Who the fuck are you?
+
+          CHRIS
+     Easy Richie, would you?
+
+          JP BROKER
+     I thought maybe you guys were looking
+     for someone to invest for you.
+
+          GREG
+     Hey pal.  We ARE brothers.
+
+          JP BROKER
+          (trying not to laugh)
+     Really?  You guys with Jacoby & Myers?
+
+          ADAM
+     JT Marlin.
+
+          JP BROKER
+     Never heard of it.
+
+          CHRIS
+     Hey!  Hold on a second.  Who are  you?
+     You sell car insurance or something?
+
+The rest of the crew comes over now to back their boy up.
+
+          JP BROKER
+     We're with JP Morgan.
+
+          RICHIE
+     Yeah right.  And I'm a black Negro.
+
+          JP BROKER #2
+     I know JT.  It's a fucking chop-shop.
+     Named your firm so it sounds like ours.
+
+          JP BROKER
+     What the fuck is with those suits?  You
+     look like you're on Gotti's crew.
+
+                              CUT TO:
+
+
+
+INT. BAR - NIGHT (SAME TIME)
+
+          DEBBIE
+     So tell me about your family.
+
+          SETH
+     My family?  It's a mess.
+
+          DEBBIE
+     Whose isn't?
+
+          SETH
+     Yeah I guess.  Well my mom's great.
+     Real supportive and loving.  Almost to
+     a flaw.  I can do no wrong.
+
+          DEBBIE
+     Sounds terrible.
+
+          SETH
+     My dad's the mess, but that's not very
+     interesting conversation.  What about
+     you?
+
+          DEBBIE
+     Mom raised me.  No money.  Now I'm
+     taking care of her.
+
+          SETH
+     What's wrong?
+
+          DEBBIE
+     Chronic pneumonia.  Smoked for fifteen
+     years.  She's been sick for a while
+     now. It makes her so happy that I make
+     this salary so I can support us.  It's
+     a little scary.
+
+          SETH
+     And your Dad?
+
+          DEBBIE
+     Rather not talk about my father either.
+
+          SETH
+     Boy, I'm so glad we had this
+     conversation.  I really feel like I've
+     gained this insight into your life.
+
+          DEBBIE
+     And me into yours.
+
+They both laugh.
+
+          DEBBIE (CONT'D)
+     Tell me something real.
+
+          SETH
+     What do you want to hear?
+
+          DEBBIE
+     Tell me a story about your dad.
+
+          SETH
+     Well I have so many great ones.
+
+          DEBBIE
+     Tell me.
+
+          SETH
+     Okay. I'm ten years old.  I just got
+     this new bike.  A red Mongoose.  You
+     know, BMX.  So I'm skidding out in this
+     puddle -- Starsky & Hutch style.  My
+     foot slips, and the pedal spins around
+     hard enough to break my leg.  Real bad
+     too.  But I don't fall off the bike.  I
+     keep coasting down this hill.  So
+     finally I get scared and I jump off.
+     Fell right behind a parked car.  Laid
+     there for half an hour.  Finally, I
+     hear my father screaming my name from
+     up the block.  I was so happy that he
+     was coming to get me.  He comes around
+     the car and sees me lying there.
+     There's blood everywhere and the bone
+     is sticking out straight through my
+     skin.
+
+          DEBBIE
+     Oh my god.
+
+          SETH
+     I looked up at him, and for the first
+     time in my life I saw how much he loved
+     me.  He was frozen.  It hurt him to see
+     me in that much pain.  So he leans
+     down... and slaps me across the face.
+
+          DEBBIE
+     What?  Why?
+
+          SETH
+     I don't know.  Maybe he was mad at me
+     for making him that helpless, or it was
+     the only thing he could think of.  I
+     don't really care anymore.  What I
+     remember now is the look on his face
+     when he first saw me.  That's all I
+     remember.  That's what I miss.
+
+          DEBBIE
+     I'm so sorry.
+
+Debbie leans over and kisses him deeply.
+
+                              CUT TO:
+
+
+
+INT. WALL STREET BAR - NIGHT (LATER)
+
+Richie is being carried out by two bouncers.
+
+          GREG
+     Can we get the fuck out of here now?
+
+                                 FADE OUT.
+
+
+
+INT. BOILER ROOM - DAY
+
+          SETH (O.S.)
+     I'm sorry, sir, I didn't realize...
+
+          DR. JACOBS
+     I'm really busy, Seth.
+
+Seth looks over towards Michael's office and sees Greg and
+three other team leaders coming out.
+
+          SETH
+     I understand.  I'm real busy here
+     myself, Doctor.  Look, we're going to
+     come back to you in a month with one
+     idea and one idea only.  If you like
+     what we have to say, great, we'll do
+     business.  Worst case scenario you'll
+     hear yourself a new business idea.
+     Chat about it with your golfing buddies
+     and we'll part as friends.  That's
+     fair, right?
+
+A nurse is asking the Doctor a question and he loses focus.
+
+          DR. JACOBS
+     Ummm what?
+
+          SETH
+     Great.  So tell me, Doc, are you
+     working with a million dollars in the
+     market right now?
+
+          DR. JACOBS
+     Who is this again?
+
+          SETH
+     Tell me something, you're a doctor.
+     Have you ever heard of a drug called
+     Fenamul?  It's being manufactured by
+     MSC pharmaceuticals.
+
+          DR. JACOBS
+     No.
+
+          SETH
+     Well it's in the third stage of FDA
+     approval right now.  Word is, it's
+     going to get approved in the next three
+     months.  Could be tomorrow for all I
+     know.  Anyway, I'm getting ahead of
+     myself.  And you're real busy over
+     there.  Why don't I send you out the
+     info you requested about the firm and a
+     senior broker will call you next month
+     with that one idea.
+
+          DR. JACOBS
+     Wait, wait, wait, hold on a second,
+     forget the info, let's talk about this
+     now.  What was the name of the drug
+     again?
+
+Seth begins to smile.
+
+          SETH
+     You know what, sir, let me pass you on
+     to a senior broker who's more involved
+     with this particular stock.  Hold on a
+     second.
+
+Seth pushes the hold button.  He pauses and then YELLS:
+
+          SETH (CONT'D)
+     Reco!!
+
+Everything and everyone in the room stops.  There is a slight
+pause and then CHAOS.  About 20 brokers BOLT toward Seth.
+
+Chris is closest.  Another broker JUMPS onto the table
+separating him from Seth and clambers over it.  Chris puts on
+the steam and gets there first.  The other broker runs
+straight into Seth, unable to stop.
+
+Chris regains his composure wiping the smile off his face.
+
+          CHRIS
+     Card.
+
+          SETH
+     Okay, his name's Dr. Jacobs and from
+     the sound of it, I'd say he's
+     definitely...
+
+          CHRIS
+     Whoa, whoa, I don't wanna hear it, kid.
+
+Chris grabs the card from his hand and looks at it briefly.
+
+          CHRIS (CONT'D)
+     Hi, Dr. Jacobs, this is Chris Marlin
+     over at JT Marlin.
+
+          DR. JACOBS
+     Marlin?
+
+          CHRIS
+     Right.  He's my father.
+
+Another broker connects a wire to a jack on the back of the
+phone and the conversation is now heard on the PA system.
+
+          CHRIS (CONT'D)
+     So my associate tells me you're
+     interested in one of our stocks.
+
+          DR. JACOBS
+     Yes, MSC sounds like it might be
+     interesting.
+
+          CHRIS
+     Might be?  Might be doesn't sell stock
+     at the rate MSC is going, Dr. Jacobs.
+     We're talking about very high volume
+     here.
+
+          DR. JACOBS
+     Well, I still have to run it by my
+     people.
+
+          CHRIS
+     That's great, Doc.  If you want to miss
+     yet another opportunity here and go
+     watch your colleagues get rich doing
+     clinical trials, then don't buy a share
+     and hang up the phone.
+
+          DR. JACOBS
+     Well hold on a second.  I didn't say
+     that.  I just wanted to talk more about
+     it.
+
+          CHRIS
+     Honestly Doc, I don't have the time.
+     This stock is blowing up right now.
+     The whole firm is going nuts.  Let me
+     open the door to my office.
+
+Chris holds the phone up to the 100 brokers standing there
+silently.  They begin talking loudly and screaming "Buy,
+Sell".  Chris makes a hand motion and they stop.
+
+          CHRIS (CONT'D)
+     You hear that?  That's my trading
+     floor, Doc.
+     Now I have a million calls to make to
+     other doctors who are already in the
+     know.  I can't walk you through this
+     right now.  I'm sorry.
+
+Huge pause.  Everyone looks on waiting to hear what he'll do.
+Chris doesn't even look mildly concerned.  Then...
+
+          DR. JACOBS
+     Okay, okay.  Let's do this.
+
+          CHRIS
+     Now, since you're a new account I
+     cannot go any higher than two thousand
+     shares.  I'd love to but I just can't
+     do it.
+
+          DR. JACOBS
+     Two thousand?!  Whoa!  That's way more
+     than I was thinking about.  Two
+     thousand, Jesus.
+          (pause)
+     I'm just curious, why can't you sell me
+     more than that?
+
+The brokers hold in their laughter.
+
+          CHRIS
+     Well, we like to establish a
+     relationship with our clients on
+     something small before we get to the
+     more serious trades.  Let me show you
+     several percentage points on this small
+     trade and then we'll talk about doing
+     future business.
+
+          DR. JACOBS
+     That sounds good.  Give me two thousand
+     shares.
+
+          CHRIS
+     Done.
+
+          DR. JACOBS
+     You sure you can't do any better on
+     this one?
+
+          CHRIS
+     No, I'm sorry, Dr. Jacobs.
+
+          DR. JACOBS
+     Alright, let's start with this trade
+     then.
+
+          CHRIS
+     Great.  I promise we'll go big on the
+     next one.
+          (feigns masturbation)
+     Now do you want the confirmation sent
+     to your office or your mansion?
+
+          DR. JACOBS
+          (laughs)
+     Very funny, Mr. Marlin.
+
+          CHRIS
+     Alright, let me put my secretary on.
+     She'll take your info.
+
+Chris hits the hold button and then...
+
+          CHRIS (CONT'D)
+     Done and done.
+
+The entire firm applauds when he gets off the phone.  The
+crowd disperses.  Chris sits down on Seth's desk.
+
+          CHRIS (CONT'D)
+     I love doctors, man.  All that money
+     and not a clue what to do with it.
+     Fucking rollovers.  Hold onto your
+     ankles, Doc, here comes the love.
+
+          SETH
+     Why'd you put a max on his buy?
+
+          CHRIS
+     Didn't you tell him how it works?
+
+          GREG
+     He's still a trainee.  He doesn't need
+     to know about initial sell limits.
+
+          CHRIS
+     Right, right.  Make sure he shows you
+     the ropes.  He's too busy calling his
+     bookie.  You fucking Hebrews, man.
+     Always looking out for yourselves,
+     never the trainees.
+
+          GREG
+     That's great.  Why don't you go back to
+     little Italy now?
+
+Greg points across the room.
+
+          CHRIS
+     Why don't you go make a latke dreidel
+     boy.
+          (back to Seth)
+     The reason I capped him is in case he's
+     a piker.  See, we're going to go ahead
+     and front the money for this sale.
+     If he doesn't send the check, I'm the
+     one holding the bag.
+          (whispers)
+     Last commission month a kid on Jim's
+     team wrote a million dollar ticket.
+     Stock was down three and a half points
+     by settlement.  Fucking kid took a one
+     quarter million dollar hit.  Besides,
+     first sale just whets the appetite.  If
+     he's a whale, which it looks like he
+     is, then I'll get him on a day when
+     there's a real rip.
+
+          SETH
+     Rip?
+
+          CHRIS
+          (surprised)
+     Rip.  Commission.  That's why we work
+     here.  We get huge rips.
+
+          SETH
+          (quietly)
+     I actually still don't know how it
+     works.
+
+          CHRIS
+     A two dollar rip, which is unheard of
+     anywhere on Wall Street, means you're
+     walking away with two dollars for every
+     share you sell.  Real money.  Jesus
+     Greg, you tell him where the bathroom
+     is yet?
+
+          GREG
+     Seth, I showed you where Chris' desk
+     is.
+
+          SETH
+     How does Michael afford that?
+
+          CHRIS
+     I don't know, but if he's doing it,
+     he's making money on it.  Point is,
+     don't worry about selling small on the
+     first trade.  You service the client
+     right and he'll be back for more.  Bide
+     your time.  Show him a three percent
+     return and he'll trust you to watch his
+     kids for the weekend.  If he's serviced
+     correctly it's not a matter of whether
+     he's making a second trade with you,
+     it's a matter of how much.
+
+Chris' secretary calls out from across the room.
+
+          CHRIS (CONT'D)
+     Gotta bounce.
+
+Seth stands there in awe.  He sees the potential here.
+
+                              CUT TO:
+
+
+
+INT. FBI ECONOMIC CRIMES UNIT - DAY
+
+We are looking at a photo of Seth outside JT Marlin.  PULL
+BACK to see the photo is on the desk of the director's
+office.
+
+DAVID TRUE, a young agent trying to make a name for himself,
+is in the office as well.  He's excited.
+
+          DIRECTOR
+     Of all the people at JT Marlin you
+     picked this kid Davis.  Why?
+
+          TRUE
+     Because he's perfect.  He's new, so his
+     loyalties don't run that deep.  He also
+     seems to be the smartest of this last
+     group of trainees.  Used to run a full
+     time casino out of his house in Queens.
+     Now he just picks up the checks.  He's
+     more ambitious than any other trainee
+     there.  And I mean by a lot.  The rest
+     of them are fucking idiots to this kid.
+     He'll turn state's.  No question.
+
+          DIRECTOR
+     How are you gonna get to him?
+
+          TRUE
+     I'm working on that.  We just started
+     surveillance.  We'll get to him.
+
+                              CUT TO:
+
+
+
+EXT. MICKEY'S - NIGHT
+
+This is a local bar near the office.
+
+Several exotic cars are parked outside.  The sight is
+incredibly strange in this lower-middle class neighborhood.
+Greg's Ferrari is there and we see the license plate: "2
+RIP".
+
+
+
+INT. MICKEY'S - NIGHT (CONTINUOUS)
+
+About 35 brokers are here drinking.  Seth sits at a table
+with Greg, Adam, Chris and a group of junior brokers and
+trainees.
+
+          CHRIS
+     What were you doing before you came on?
+
+          TRAINEE 2
+     I work at the 7-11 in Babylon.
+
+          GREG
+     You mean worked.
+
+          TRAINEE 2
+     No, I mean work.  I still do two shifts
+     every weekend.  A hundred and fifty
+     dollars a week just doesn't cover it
+     all.
+
+          ADAM
+          (sympathetic)
+     No, it doesn't.
+
+          TRAINEE 2
+     I don't mind it though.  So I'll live
+     like a nigger for six months.
+
+Seth snaps his head up at this comment, amazed that it was
+said with such assertiveness and clarity.  No one else
+budges.
+
+          CHRIS
+     What about you, Seth?  What were you
+     doing before you found JT?
+
+          SETH
+     Well I was, actually still am, involved
+     in the gaming industry.
+
+          CHRIS
+     Really!  AC, Foxwoods, Vegas?
+
+          SETH
+     Atlantic City.
+
+          CHRIS
+     What'd you do there?
+
+          SETH
+     I won.
+
+Everyone laughs.  Seth takes out his key chain which is a $50
+dollar chip from his casino.  He SLAPS it on the table.
+Chris smiles and then slaps a pair of dice down on the table.
+
+          CHRIS
+     You wanna roll, slut?
+
+          SETH
+     You wanna lose?
+
+          CHRIS
+     Oh shit, we got a player.
+
+                              CUT TO:
+
+
+
+INT. BACK OF BAR - NIGHT (CONTINUOUS)
+
+We move around a jukebox where, in an empty space next to the
+bathrooms, we see six brokers kneeling, playing dice.
+
+They're making a lot of noise, yelling at each throw, cursing
+or cheering depending on which way the money is going.
+
+          CHRIS
+     I got one-fitty against.
+
+          RICHIE
+     Booked!
+
+          ADAM
+     I got one hundred against.
+
+          SETH
+     Booked.  Wait, who's got the roller?
+
+          CHRIS
+     come on, somebody cover Greg.
+
+Michael Brantley walks in at this point and pushes his way
+down into the circle.  Everyone goes nuts when they see him.
+
+          MICHAEL
+     Alright, I got the roller.  I can't
+     believe you guys aren't fighting over
+     it.  Betting against Greg's roll is the
+     only sure thing there is in the world.
+          (to Greg)
+     What are we going, two hundred dollars
+     on this?
+
+          GREG
+     Booked.
+
+                                 FADE OUT.
+
+
+
+INT. BACK OF BAR - NIGHT (LATER)
+
+Seth is out of the game watching from the side.  Greg's luck
+is atrocious and he too is soon out.
+
+          GREG
+          (to Seth)
+     Let's go get some reserves.
+
+Greg bumps into a local coming out of the bathroom.
+
+          LOCAL
+     Quit staring and just apologize.
+
+The dice game comes to a halt.  All eyes are on this
+confrontation.  Richie does not wait for it to sort itself
+out.
+
+          RICHIE
+     He doesn't have to say shit.  Now why
+     don't you go back to your Heineken and
+     shut the fuck up.
+
+          LOCAL
+     Was I talking to you?
+
+          RICHIE
+     Do I give a shit?  If you're talking to
+     me, then you're talking to me and my
+     fucking crew.
+
+The local sees what he's up against and wisely opts out.
+
+Richie decides to have a go anyway GRABBING him by the back
+of the shirt yanking him back into the small alcove.
+
+                              CUT TO:
+
+
+
+EXT. PARKING LOT - NIGHT (CONTINUOUS)
+
+We move along the wall until we pass a door which FLIES open.
+
+Richie pulls the guy outside with the help of three other
+brokers.  Richie does not waste any time once outside.  He
+KNEELS quickly, coming down on his stomach.  The man's face
+raises off the floor in response and Richie ATTACKS his head.
+
+He stops as suddenly as he started, stand up, and spits on
+him.  The man is completely unconscious.  Only Seth carries
+the expression of genuine shock.  The others have seen this
+before.
+
+Richie goes back in and closes the door.
+
+                              CUT TO:
+
+
+
+INT. FERRARI - NIGHT (CONTINUOUS)
+
+Greg is driving.  Seth still has a blank look on his face.
+
+          GREG
+     You okay?
+
+          SETH
+     I just, I, I'm a little disturbed you
+     know.  I mean Jesus didn't that bother
+     you?
+
+          GREG
+     Me?  You think I was watching?  I can't
+     look at that stuff, makes me nauseous.
+     You have to understand.  These are not
+     the kids you and I grew up with.
+     Remember in Hebrew school when a
+     shoving match was a big deal?  Worst
+     case scenario, someone's yarmulka got
+     knocked off.
+
+          SETH
+          (laughing)
+     It's true.
+
+          GREG
+     These guys are no joke.  They get
+     tanked up, throw a quick fist.  And
+     then some of them actually like it.
+     Like Richie.  He probably thought I was
+     being tough back there, just staring at
+     that guy.  I was shitting my pants.
+
+          SETH
+     I saw.
+
+          GREG
+     Thanks.  Those fucking Guineas, half of
+     them do coke.  They all drink.  No
+     stability, zero capital.  They make all
+     this money and they're always living
+     three steps ahead.  Do you know there
+     are guys in this firm that make close
+     to a million a year and couldn't get a
+     loan for a Honda because their credit
+     is so bad.  Everyone's just waiting for
+     the fifteenth of the month.  It's like
+     they may drive a Porsche but they don't
+     have ten bucks to put in the gas tank.
+     Nigger rich.
+
+Seth looks at Greg.  He's not the person he thought he knew.
+The two drive on in silence.  Greg passes JT Marlin.
+
+          SETH
+     Hey, drop me off.  I want to get my
+     car.  I don't think I'm going to stay
+     at the bar much longer.
+
+Greg pulls into the lot where Seth's car sits.
+
+          GREG
+     Alright, I'll see you back at Mickey's
+     then.  Oh, on the other thing.
+
+          SETH
+     Yeah?
+
+          GREG
+     Don't forget what I told you about
+     Debbie.  She's trouble.
+
+          SETH
+     I don't even...
+
+          GREG
+     Seth, I see what goes on.  And I'm
+     telling you as your friend, she's a
+     whore, Seth.  A fucking whore.
+
+          SETH
+     Good thing you stopped dating her, huh?
+
+Seth gets out of the car before Greg can respond.
+
+
+
+EXT. PARKING LOT - NIGHT (CONTINUOUS)
+
+Seth unlocks his car door and then realizes he's forgotten
+his bag upstairs.  He goes into the building.
+
+                              CUT TO:
+
+
+
+INT. BOILER ROOM - NIGHT (CONTINUOUS)
+
+He goes straight to his desk and picks up his bag.  As he
+turns to leave he hear a HUMMING NOISE coming from the back.
+
+There is a small alcove with a copier in the back.  A man in
+there bent over a smaller machine Seth cannot see.
+
+Seth recognizes him as John Feiner.  The machine is a
+shredder.  John is stuffing the contents of five large boxes
+through this tiny shredder that sits on a waste basket.
+
+          SETH
+          (whispers)
+     Holy shit.
+
+                              CUT TO:
+
+
+
+INT. CONFERENCE ROOM - DAY
+
+Seth finds himself seated in the same room as he did three
+months earlier with the guys who were there for the
+interview.
+
+          JIM
+     I want to talk to you about appearance.
+     Most of you dress like shit.  I don't
+     know what your financial situation is
+     like right now but you need to buy at
+     least one decent suit.  There is a
+     minimum level of aesthetic
+     professionalism that we have here.  In
+     a couple of months you'll be able to
+     outfit your whole closet, but for now
+     just get something to hold you over.
+     There's an important phrase that we use
+     here and I think it's time you all
+     learned it.  "Act as if".  Do you
+     understand what that means?  Act as if
+     you are the fucking president of this
+     firm.  Act as if you have a nine inch
+     cock.  Act as if.  To do this properly
+     you need to at least look the part.  So
+     go get dressed.  Secondly, it's time to
+     get your Series Seven books.  No need
+     to get nervous.  If you study you'll
+     pass.  Then you begin trading as an SEC
+     licensed broker.  Then you're a fucking
+     millionaire.  It's that simple.  I need
+     three hundred from each of you for the
+     books which will be returned if and
+     when you pass the exam.  And I'll need
+     that tomorrow.
+
+There is a slight murmur in the room now.  One of the
+trainees turns to another and whispers.
+
+          MARC
+     I'll just ask my mom.
+
+          TRAINEE 2
+     Yeah, I'll have to do the same thing.
+
+Others are discussing where they will come up with the money
+as the meeting comes to a close.  Jim gets up from his chair.
+
+          JIM
+     Okay then.
+
+Seth is already up and walking towards Jim.  He takes out a
+roll of cash from his breast pocket and peels off three
+hundred dollar bills in front of Jim.  He looks proud doing
+it.
+
+          SETH
+     Here you go.
+
+All the other trainees stare.
+
+          JIM
+     What are you, last night's erection?
+
+          SETH
+     Yeah, you know.
+
+Jim slaps him on the shoulder as he walks out.
+
+                              CUT TO:
+
+
+
+INT. BOILER ROOM - MORNING
+
+We open on a Polish broker working his magic on the phone in
+his native tongue.  PAN ACROSS the room to Seth dialing a
+number.  He looks frustrated.  Chris is sitting next to him.
+
+          CHRIS
+     Go ahead do it.  Just try it, you'll
+     see.
+
+          SETH
+     You sure?
+
+          CHRIS
+     Yeah.  You're gonna feel so much
+     better.
+
+The other end of the line picks up and Seth looks down at the
+card in front of him.
+
+          SETH
+     Yeah hi, Steve?  FUCK YOU!
+
+Seth hangs up laughing hysterically along with Chris.
+
+MONTAGE BEGINS
+
+
+
+INT. SETH'S BEDROOM - NIGHT
+
+Seth studies for the series seven while looking up
+occasionally at the monitor to watch the action on the tables
+downstairs.
+
+
+
+INT. BOILER ROOM - DIFFERENT DAY
+
+          CLIENT (O.S.)
+     Look, Seth, Seth, I don't want to be
+     rude.
+
+          SETH
+     Bob, be rude, be rude.  Hang up the
+     phone.
+          (pauses)
+     You won't.  You wanna know why?
+     Because you see value!  I'm money in
+     the bank.  I'm your kid's college fund
+     for Christ's sake.  That's great.  If
+     we were looking at a long stock over a
+     long term  period I'd be talking about
+     PE ratios and earnings with you right
+     now.  The fact is, I'm not looking to
+     marry the stock.  We're in, we're out,
+     three, four weeks.  Look, I'm not a
+     rookie broker opening accounts for a
+     living.
+
+All of the brokers at the table watch and laugh in respect.
+
+
+
+INT. RECEPTION AREA - DIFFERENT DAY
+
+Seth is talking to Debbie.  Greg gives them a dirty look.
+
+
+
+INT. BOILER ROOM - DIFFERENT DAY
+
+Seth is on the phone again, pacing quickly.
+
+          SETH
+     What do you mean you'll pass?  Alan,
+     the only people making money passing
+     are NFL quarterbacks and I don't see a
+     number on your back.
+
+
+
+INT. BOILER ROOM - DIFFERENT DAY
+
+Seth is on the phone.  He grabs a twinkie off another
+broker's desk.  The line answers as he is unwrapping the
+snack.
+
+          SETH
+     Yes, how are you, James?  Seth Marlin
+     over at JT Marlin.
+
+          JAMES
+     Take me off your list!!
+
+          SETH
+     Okay, I'll take you off my list of
+     successful people today.
+
+
+
+INT. BOILER ROOM - DIFFERENT DAY
+
+It's lunch time and Set remains at his desk studying for the
+series seven.  He looks up to see a group of brokers coming
+out of Michael's office.
+
+
+
+INT. BOILER ROOM - DIFFERENT DAY
+
+          SETH
+     Listen, if you couldn't pull three
+     thousand together your name wouldn't be
+     on my desk during business hours.  What
+     do you mean you don't have it?  John,
+     please, you're embarrassing me.  I'm
+     pitching you from under my desk.  I'm
+     embarrassed.
+
+
+
+INT. BOILER ROOM - DAY (CONTINUOUS)
+
+Seth is at his desk using a pair of scissors to cut a swath
+of cardboard from a box.  He writes in big swooping letters
+and then places it on his desk revealing the message...
+
+Be Rude, Make Them Hang Up.
+
+END MONTAGE
+
+                              CUT TO:
+
+
+
+INT. BOILER ROOM - NIGHT
+
+Seth's the only one left.  All of the overhead lights are
+off.  He is reading the contracts from the last several
+IPO's.
+
+          SETH
+     Holy shit.
+
+He had the different contracts lined up next to each other
+and is comparing the names listed from the private equity
+source.  They're the same on every prospectus.
+
+          SETH (CONT'D)
+     Christ, they're all the same.
+
+          DEBBIE
+     What's the name?
+
+Seth almost JUMPS out of his seat.  Debbie is standing
+quietly in the dark at the head of the table.
+
+          SETH
+     Shit.  You scared me.  How long have
+     you been standing there?
+
+          DEBBIE
+     I just walked up now.  I'm sorry.
+
+Seth tries to hide the contracts under some papers.
+
+          DEBBIE (CONT'D)
+     Interesting reading?
+
+          SETH
+     This?  It's just the prospectus from
+     the last IPO the firm put out.
+
+She walks around and puts her hands on his shoulders.  She
+doesn't seem to care.  He looks pretty nervous.
+
+          DEBBIE
+     I know what it is.  I asked you if it
+     was interesting.  You may be the first
+     person to ever read a JT prospectus.
+     What are you looking for?
+
+          SETH
+     Some chocolate love.  Should I practice
+     my pitch?  I know it turns you on.
+
+She smiles widely as she sits on the desk facing him, her
+legs touching his.  He kisses her, then picks her up gently
+and puts her on the table.
+
+                              CUT TO:
+
+
+
+INT. SETH'S BEDROOM - NIGHT (LATER)
+
+The two are lying in bed.  Debbie looks happy.  Seth looks
+like his head is in another place.
+
+          SETH
+     I saw John Feiner shredding a bunch of
+     documents the other night.
+
+          DEBBIE
+     What?
+
+          SETH
+     Yeah.  He was in the back late at
+     night.  I was going to get my bag.
+
+          DEBBIE
+     Did he see you?
+
+          SETH
+     No.
+          (pause)
+     What's going on over there?
+
+          DEBBIE
+     What do you mean?  You know what's
+     going on.
+
+          SETH
+     You think they're doing a lot of
+     illegal shit?
+
+          DEBBIE
+     Come on, Seth, you can't have it both
+     ways.  You say you like the hard sell
+     and the money but then you question it
+     when you see something that's a bit
+     off.  Either admit that it's not
+     charity work and enjoy, or get out.
+     But going back and forth like this is
+     just tearing you up.
+
+                                 FADE OUT.
+
+
+
+EXT. YOUNG ISRAEL OF FLATBUSH - DAY
+
+The synagogue stands tall right off of Coney Island Ave.
+Seth runs up to the front where his father is waiting for
+him.  Marty puts his hand on Seth's shoulder as they walk in.
+
+                              CUT TO:
+
+
+
+INT. BOILER ROOM - DAY
+
+Seth is closing a whale.  Chris stands next to him, watching
+and helping.  He's pitching a Midwesterner named DEAN.
+
+          SETH
+     Dean, I'm not a rookie broker opening
+     accounts for a living.  Ask me whatever
+     you want.  But I'll tell you this.  I'm
+     going to give you over to my secretary.
+     You call me when the stock doubles.
+
+Seth pushes hold.  The table erupts in cheer.  Debbie is
+there as well.  She too congratulates Seth.  He's beaming.
+Greg comes over to the table.  He goes straight to Adam.
+
+          GREG
+     What happened?
+
+          ADAM
+     Seth just closed this guy for ten
+     large.
+
+          GREG
+     Hey Seth, get over here.
+
+          SETH
+     Hey Greg, I just closed this huge
+     account for you.
+
+          GREG
+     What the fuck are you doing?  You just
+     violated a huge SEC regulation.  Who
+     told you to start closing accounts.
+     You're a fucking trainee.
+
+          SETH
+     You're kidding right?  You're not?  You
+     told me I could use a different name on
+     the phone.  Act as if!  I figured I'd
+     take the initiative and make you some
+     money.
+
+          CHRIS
+     Greg, I was standing right next to him
+     the whole time.  I would have stepped
+     right in if the kid got into trouble.
+
+          GREG
+     Hey!  You got a conoli you can stick in
+     your mouth.
+
+          CHRIS
+     No.  You got a menorah you can shove in
+     your ass?
+
+          GREG
+     I don't care about the money, Seth.
+     Imagine if every trainee started
+     handling their own recos.  This shop
+     would be closed in about a week.
+
+          SETH
+     This is about something else.  Isn't
+     it?
+
+          GREG
+     What would that be?
+
+Greg turns around to see Debbie.
+
+          GREG (CONT'D)
+     Don't you have to answer the phones or
+     something?
+
+She laughs at him but doesn't move.  Greg sees that the boys
+are heading into Michael's office for their lunch time
+gathering.  He decides to leave things for now.
+
+          GREG (CONT'D)
+     We'll finish this later.
+
+He walks toward the office when Jim steps out for a moment.
+
+          JIM
+     Hey Seth.  You just earned a spot pal.
+     Get in here.
+
+Greg is fuming but has to hide it.  He pats Seth on the back.
+
+          GREG
+     Big time baby.  We'll get to see if
+     you're as good as you say you are.  It
+     gets pretty fucking hectic in there,
+     little man.
+
+Seth walks toward the office.  Greg stays behind.
+
+          GREG (CONT'D)
+     What the fuck was that?  Don't tell me
+     he's why we're not hitting it anymore.
+
+          DEBBIE
+     Hitting it?  We were never hitting it.
+     And he's not the reason, Greg, you are.
+
+                              CUT TO:
+
+
+
+INT. MICHAEL'S OFFICE - DAY (CONTINUOUS)
+
+A group of brokers stand around Michael's conference table.
+Seth is standing in the doorway as they lift a huge craps
+felt onto the table.  Jackets are removed.  Seth looks
+shocked.
+
+The game begins as Michael pulls out a set of dice.
+
+                                 FADE OUT.
+
+
+
+EXT. BOILER ROOM - NIGHT
+
+Seth is getting into his car.  He sees Michael and a couple
+of other senior managers walking out of the building.  They
+walk away from their cars toward another office building.
+
+Seth follows keeping his distance walking next to the
+shrubbery.  He sees them go into the building.  He turns
+away.
+
+                              CUT TO:
+
+
+
+EXT. BROOKLYN STREET - NIGHT (LATER)
+
+Debbie gets out of her car and makes her way toward her
+building.  Two men approach her from the shadows and she
+begins to RUN, but they intercept her at the front door.
+
+Debbie screams out and then suddenly stops as soon as she
+sees the FBI badges they are holding in front of her face.
+
+          TRUE
+     Special Agent True, FBI, this is Agent
+     Etkin.  Ms. Hilliard, we'd like to talk
+     to you about your relationship with
+     Seth Dais.  Oh, and about your mom's
+     health.
+
+                              CUT TO:
+
+
+
+INT. SETH'S APARTMENT - MORNING
+
+It's a Saturday morning.  Seth is sitting at the kitchen
+table eating breakfast.  He has several IPO contracts out on
+the table.  He reads as he eats.  The PHONE RINGS.
+
+          SETH
+     Hello?
+
+          SALESMAN
+     Hi, this is Ron calling you from the
+     Daily News.  How you doing this
+     morning?
+
+          SETH
+     I'm not interested.
+
+          SALESMAN
+     Okay.  I'm sorry to have bothered you.
+     Have a nice day.
+
+          SETH
+     That's it?  That's your pitch?  You
+     consider that a sales call??!
+
+          SALESMAN
+     Well, ummm...
+
+          SETH
+     You want to sell me a paper right?
+     Well you guys call me every Saturday
+     and I get the same half-assed attempt.
+     You wanna close me?  Then sell me.
+
+          SALESMAN
+          (hesitantly)
+     Alright.
+
+          SETH
+     Go ahead, start again.
+
+          SALESMAN
+     Okay... Hi, this is Ron from the Daily
+     News.  How you doing this morning?
+
+          SETH
+          (smiling)
+     Shitty.  What do you want?
+
+          SALESMAN
+     It's not what I want, sir... it's what
+     you want.
+
+          SETH
+     Alright, now you're talking.  What are
+     you selling?
+
+          SALESMAN
+     I'm offering you a subscription to the
+     Daily News at a substantially reduced
+     price.  We're trying to reach out to
+     people that have never had home
+     delivery before.
+
+          SETH
+     So, everyone else that already has a
+     subscription is getting fucked on this
+     one huh?
+
+          SALESMAN
+     ...Yeah, I guess so.
+
+          SETH
+     Good, I can live with that.  Now why do
+     I want your paper?  Maybe I should get
+     the Times or the Voice.
+
+          SALESMAN
+     Well the Village Voice is free, sir, so
+     if you want it you should certainly
+     pick it up.  But the Daily News offers
+     you something no other paper can, a
+     real taste of New York.  We have some
+     writers on staff that have been with us
+     for over fifteen years.  We have the
+     best features!  More photographs than
+     any other daily in New York!  And we
+     have the most reliable delivery in the
+     city!  Now what do you think??!!
+
+          SETH
+     Alright, Ron.  Now that was a sales
+     call.  Good job!
+
+          SALESMAN
+     So are you going to buy a subscription?
+
+          SETH
+     No.  I already get the Times.
+
+Seth then hangs up smiling and picks up his spoon.  The PHONE
+RINGS again and Seth picks up, irritated.
+
+          SETH (CONT'D)
+     What?
+
+          CHRIS (V.O.)
+     Well I thought we'd start out with a
+     couple of drinks, then maybe dinner.
+     Then depending on how things go, a
+     little ya-ya.
+
+          SETH
+          (laughing)
+     Shut-up slut.
+
+          CHRIS
+     You da slut.
+
+          SETH
+     Alright.  I'll be the slut.  So what's
+     up?
+
+          CHRIS
+     Wanted to know what the story was for
+     later.  It's your night so you decide,
+     Mr. Junior Broker.
+
+          SETH
+     Well, I was thinking that we should go
+     into the city.  You guys are always
+     drinking at those shitty local bars.  I
+     say we go to a decent bar with decent
+     poo-poo.  If I have to look at one more
+     housewife smoking a Newport I'm gonna
+     fucking puke.
+
+                              CUT TO:
+
+
+
+EXT. CHRIS' PLACE - NIGHT
+
+Seth walks up to the garden apartment.  It's 180 degrees from
+Greg's place.  Small, old, in a blue collar neighborhood.  He
+RINGS the bell.  Chris opens the door within seconds.
+
+          CHRIS
+     Come on in.  I want you to meet my
+     mother.
+
+          SETH
+          (mutters to himself)
+     Jesus.  Am I the only one who doesn't
+     live with their mother?
+
+
+
+INT. CHRIS' PLACE - NIGHT (CONTINUOUS)
+
+The apartment, though small, is utterly cluttered with very
+expensive things.  Mostly electronics -- Incredible stereo,
+huge screen TV, every kitchen gadget ever invented.  There's
+barely a path to walk.
+
+          CHRIS
+     You want something to drink?
+
+          SETH
+     Nah, I'm okay.  Hey let me ask you
+     something, Chris.  Do you ever wonder
+     how we get the rips that we do?  I mean
+     how is it that we get rips that pay out
+     ten times the amount of any major firm?
+
+          CHRIS
+     Are you kidding me?  That's the wrong
+     question to be asking.  Who cares how.
+     The only thing you should be wondering
+     about is how you're gonna get laid
+     tonight.
+
+          SETH
+     I'm serious.  Did you know that SEC
+     regulations state that a maximum rip
+     allowed is five percent of the sale.
+     We're making four times that.
+
+          CHRIS
+     What are you doing, Seth?  Aren't you
+     happy with the way things are going?
+
+          SETH
+     Yes.
+
+          CHRIS
+     So what are you doing making trouble
+     for yourself?
+
+          SETH
+     Nothing.  I'm just curious.  Aren't
+     you?
+
+          CHRIS
+     No.  Not at all.
+
+Chris walks out of the kitchen.
+
+                              CUT TO:
+
+
+
+INT. CHRIS' RANGE ROVER - NIGHT (LATER)
+
+Seth, Chris, Greg, Richie and two of their friends from
+another firm, Steve and Roger, are driving on the LIE.
+Besides for Seth, they are all wearing suits.
+
+Jay-Z blasts on the system.  All heads are bobbing
+simultaneously.  Shots of the approaching New York skyline.
+
+          RICHIE
+          (looking at NYC)
+     That's it right there, baby.  That's
+     where I'm gonna be next year.  I'm
+     gonna get me a phat space in Tribeca.
+     Then all you punks can come see what
+     real living is.
+
+          GREG
+     Yeah right.  You'll still be at exit 53
+     off the LIE motherfucker.
+
+The song in the car changes and Richie recognizes it.  He
+raps along.  Seth jumps in.  Greg, however, doesn't look
+happy.
+He's pissed that Seth has gotten so close with his friends.
+They make their way down 2nd Ave and park near a trendy
+restaurant.
+
+                              CUT TO:
+
+
+
+INT. TRENDY RESTAURANT - NIGHT (CONTINUOUS)
+
+As soon as they get in the place all eyes fall on them,
+mockingly.
+
+          ROGER
+     Jesus Christ, look at this.  They love
+     us.
+
+          RICHIE
+     We have got so hang out in the city
+     more often.
+
+The host makes her way over to the group.  She is stunning.
+Tall, beautiful, English accent.
+
+          HOST
+     Five for dinner?
+
+          STEVE
+          (lewdly)
+     And then some.
+
+The host turns her back on him and takes them toward a great
+table in the corner.  It's a curved booth facing the bar.
+
+          ROGER
+     Oh shit.  They're giving us the
+     phattest table in the place.
+
+All of the guys are excited as they approach the table, even
+Seth.  The host stops, places a menu on the table, and
+then...
+
+          HOST
+     Oh, I'm so sorry.
+          (picking up menu)
+     This table is actually reserved for a
+     party of six.  I have a table for you
+     in the back though.
+
+Smiles disappear at this news.
+
+          STEVE
+     Hey!  We are a party of six.  See,
+     there's six of us.  We want this table.
+
+          HOST
+     I'm sorry it isn't available.  Now
+     follow me.
+
+The host takes them to a small table better suited to four
+people.  The busboy runs two chairs over.
+
+                                 FADE OUT.
+
+
+
+INT. TRENDY RESTAURANT - NIGHT (LATER)
+
+They have begun to eat their food and there are many beer
+bottles on the table.  Richie returns from the bathroom.
+
+          RICHIE
+     Who UAT'd this Budweiser for me?
+
+          ROGER
+     I did, what's wrong?
+
+          RICHIE
+     I hate Bud, send this shit back.
+
+Seth leans over toward Chris and whispers...
+
+          SETH
+     Uat?
+
+          CHRIS
+     Unauthorized Trade.
+
+          SETH
+     Gotcha.
+
+          STEVE
+     So Seth, any grips yet?
+
+          SETH
+     Yeah.  You know what I hate?  Getting
+     past the secretaries.  It doesn't
+     matter that you're a broker calling
+     from NYC.  It's still a sales call and
+     that they know.
+
+          STEVE
+     It's true.  It don't matter if it's the
+     Avon lady or Merryl Lynch.  The good
+     secretaries can smell a sales call.
+
+          CHRIS
+     I remember when I was cold calling, the
+     shit I'd do.  I'd get on the phone and
+     say, Can I speak to Jim?  Secretary's
+     like, I'm sorry, but Jim isn't in the
+     office.  I'd be like, that's funny
+     because I just saw his car in the lot
+     about five minutes ago.
+     Next thing you know, Jimbo's on the
+     phone because you showed the lady you
+     weren't fuckin' around.
+
+          ROGER
+     You guys have it easy.  JT Marlin could
+     be any kind of company.  I have to get
+     on the phone and say, Hi, it's Roger
+     from Investments Incorporated.
+     Secretary's like, "Is this concerning
+     investments?"  Ummmm, no?
+
+The group bursts into laughter.
+
+          SETH
+     You guys know what I'm going to do?
+
+          GREG
+          (suddenly)
+     What the fuck do you know?  You just
+     passed your seven this week.  Haven't
+     even popped your cherry yet.
+
+All eyes on Greg, surprised at his tone.  Seth ignores him.
+
+          SETH
+     I'm going to open a fire called Bob's
+     plumbing.  You get on the phone and
+     say, Yeah tell him it's Bob from Bob's
+     plumbing.  He'll be like, Oh, it's the
+     plumber guy, yeah I'll take the call.
+     Everyone talks to their plumber.
+
+Laughter all around.  Greg realizes he is alienating not only
+Seth, but his friends too and so he makes amends...
+
+          GREG
+     Alright guys.  I want to make a toast
+     to the man of the night.  Highest
+     Series Seven score in the whole firm.
+     You are the big swinging dick tonight.
+
+          CHRIS
+     Cheers, slut.
+
+Everyone drinks.
+
+          RICHIE
+     You know why he's this happy, Seth?
+
+          SETH
+     Oh I know.  He's thinking about the
+     forty accounts I have to open for him
+     before I'm on my own.  God bless the
+     junior broker program, huh, Greg?
+
+          GREG
+     Oh, I don't care about that.  I'm just
+     excited for your promising future.
+
+Everyone laughs.
+
+A table of gay men have been sitting next to the guys and are
+finally fed up with the noise.  One of them turns around.
+
+          GAY MAN
+     Hey, do you guys think you could keep
+     it down some.
+
+          SETH
+     Yeah, no problem.
+
+          STEVE
+     Why don't you guys just concentrate on
+     your food instead of us.
+
+          RICHIE
+     Hey, what are you eating over there
+     anyway?  A little tube snake smothered
+     in underwear?
+
+The brokers go bonkers.  They're laughing hysterically.
+
+          STEVE
+     I heard the hot dogs are real good here
+     too.  They got foot-longs.  You like
+     those right?  A little tough to
+     swallow, but they're good.
+
+At this comment, the other two men at the table sit straight
+up, ready to engage Steve and Richie.
+
+          GAY MAN
+     Great outfits, you guys just come from
+     a City Council meeting?  Or you just
+     trying to score with the bridge and
+     tunnel crowd?
+
+          STEVE
+     You know what they should do with you
+     guys?  They should put all of you on a
+     fucking island somewhere.
+
+          GAY MAN
+     Yeah, guess what?
+
+          STEVE
+     What?!
+
+          GAY MAN
+     You're on it!
+
+                              CUT TO:
+
+
+
+INT. GENERIC OFFICE - MORNING
+
+HARRY REYNARD sits at his desk doing paperwork.  Average man
+somewhere in corporate America.  Has a photo of his wife and
+two kids on the desk.  His PHONE RINGS.
+
+          HARRY
+     Hello?
+
+INTERCUT WITH:
+
+
+
+INT. BOILER ROOM - DAY
+
+          SETH
+     Hi Harry, this is Seth Davis over at JT
+     Marlin.  How you doing this afternoon?
+
+          HARRY
+     Fine, thanks.
+
+          SETH
+     You got a call from an associate broker
+     of mine last month and I just wanted to
+     know if you enjoyed the information we
+     sent you.
+
+          HARRY
+     What information?
+
+          SETH
+     If you get as much mail as I do you
+     probably brushed it aside, but more
+     importantly we made a commitment to get
+     back to you.  I am presenting you with
+     an investment opportunity that I think
+     you'll find very interesting.
+
+          HARRY
+     Well thanks, but I'm not really in the
+     market for that right now.
+
+          SETH
+     Tell me Harry, are you married or
+     happy?
+
+Harry laughs at this remark.  He finds it genuinely funny.
+
+          HARRY
+     Actually, I've been married for ten
+     years.
+
+          SETH
+     Oh yeah?  Six years for me.
+
+          HARRY
+     They're great, aren't they?
+
+          SETH
+     Yeah, they sure are.  So, are you
+     playing the market at all?
+
+          HARRY
+     Well I don't know about playing.  I do
+     own some blue chips.  They were
+     actually wedding gifts from our friends
+     in New York.
+
+          SETH
+     Well, I'm calling to tell you about an
+     explosive situation we have going on
+     right now.  A pharmaceutical company,
+     Farrow Tech has a drug called Parattin
+     in the third stage of FDA approval.
+
+          HARRY
+     What does it do?
+
+          SETH
+     Good question, Harry.  Good question.
+     This is the best part.  It helps
+     premature babies develop properly.
+
+          HARRY
+     Sound like a great drug.
+
+          SETH
+     It is.  Tell me, those Blue Chips you
+     own, what have they done for you since
+     you got married?
+
+          HARRY
+     Not much really.
+
+          SETH
+     Well you see, we deal in stocks that
+     really move.
+
+          ADAM
+     Oh yeah, they really move.
+
+Seth kicks his chair hard enough to send him rolling.
+
+          SETH
+     I would love to show you what I mean
+     and I can do so on a relatively small
+     investment.
+
+          HARRY
+     I really can't buy anything right now,
+     Seth.  My wife and I are buying a house
+     this month and we're saving every last
+     penny.
+
+          SETH
+     Look, I don't care how much stock you
+     pick up.  I just want you to test me
+     out.  Harry, I want you to judge me on
+     the percentages I show you. Obviously I
+     show you thirty or forty percent, no
+     matter how big or small your position
+     is you're gonna get pretty excited
+     about my next idea, right?
+
+          HARRY
+     Well yeah.
+
+          SETH
+     Of course you would.  You'd be handing
+     out my business cards, wouldn't you?
+
+Harry laughs.
+
+          SETH (CONT'D)
+     Pick up one hundred shares.  It's the
+     absolute firm minimum.  Okay, if I show
+     you three or four points on the trade
+     it's not going to make you rich.  On
+     the same token, if the stock doesn't go
+     anywhere you're not out in front of
+     your store with a cup in your hand.
+
+          HARRY
+          (laughs)
+     No, that's true.
+
+          SETH
+          (serious)
+     Look Harry, the truth is I could sell
+     you a lot more than one hundred shares
+     and feel completely comfortable about
+     the trade, but I'm asking you to start
+     small just to prove what I can do for
+     you.
+
+          HARRY
+     Alright.
+
+          SETH
+     Great!  Should I send the confirmation
+     to your business or your home?
+
+          HARRY
+     Well I just have to talk to my wife
+     first.  Then I'll call you right back.
+
+          SETH
+     You don't have to do that, Harry.  And
+     I going to lunch in five minutes.
+
+          HARRY
+     No.  I have to talk to her first.
+
+          SETH
+     I have to ask you something here,
+     Harry.  You're at work now, aren't you?
+
+          HARRY
+     Yes.
+
+          SETH
+     Well what do you do, Harry?
+
+          HARRY
+     I'm the purchasing manager for a
+     gourmet foods company.
+
+          SETH
+     Does part of your job involve making
+     decisions?
+
+          HARRY
+     Well of course.
+
+          SETH
+     Alright, well when you make one of
+     these decisions do you call your wife
+     to ask her what you should do?
+
+          HARRY
+          (a little annoyed)
+     No, of course not.  But that's a little
+     bit...
+
+          SETH
+     Different?  How?  It's your money, you
+     earned it.  Besides, all you're doing
+     is investing it.  I'm not selling crack
+     here, Harry.  I  mean she's only going
+     to be happy when she sees you've made a
+     wise investment for the family.  Just
+     think of the flip side.
+     When your wife does the shopping does
+     she call you from Pathmark to ask you
+     if she can use the coupons for Captain
+     Crunch?
+
+          HARRY
+     Come on, that's not fair.
+
+          SETH
+     I'm just trying to make a point here,
+     Harry.  We're not talking about a lot
+     of money.  Just think what she's going
+     to say when you bring her back a big
+     fat check because you had the foresight
+     to see a good thing coming.
+
+          HARRY
+          (long pause)
+     Alright, let's try it.
+
+                              CUT TO:
+
+
+
+EXT. BOILER ROOM - DAY
+
+A large van with tinted windows sits in an adjacent lot.  A
+cable runs from the rear of the van to a telephone pole.
+
+                              CUT TO:
+
+
+
+INT. VAN - DAY (CONTINUOUS)
+
+Agent True sits in the van with headphones on.  The van is
+completely decked out in surveillance gears.  True looks
+slightly amazed.  He slowly pulls the headphones off.
+
+          TRUE
+     This kid is really good.  God, he's
+     gonna go down hard.
+
+                                 FADE OUT.
+
+
+
+INT. BOILER ROOM - NIGHT
+
+Everyone in the firm is present tonight.  They all face the
+front of the room, waiting.  Seth sits next to Chris.
+
+          SETH
+     So what's the deal here?
+
+          CHRIS
+     Michael always addresses the firm when
+     there's a new issue coming out.  It's
+     always good news.  I heard we might be
+     taking a trip south after this meeting.
+
+Seth looks at Chris for further explanation but Michael walks
+up to the front of the room and it quickly quiets down.
+
+          MICHAEL
+     How's everybody doing?
+
+The room erupts into cheers at this simple question.  Some
+yell out Michael's name.  There is a strong energy in the
+room.
+
+          MICHAEL (CONT'D)
+     Good to hear.  First thing, I wanted to
+     congratulate you all on a huge month.
+     For any of you not yet convinced, these
+     were the top dogs for the month: Jim
+     Young -- $280,000.  Chris Varick -
+     $205,000.  Greg Feinstein - $190,000.
+
+The room again breaks into cheers.  Greg and Chris gets pats
+on the shoulder.  Seth looks at Chris in awe.
+
+          MICHAEL (CONT'D)
+     This month is going to be bigger.  It's
+     actually going to be the biggest month
+     we've ever had.  We've got a new issue
+     I want to talk to you about.  It's
+     called Med Patent.  They've just
+     designed the world's first retractable
+     syringe.  This means that doctors and
+     nurses will never again have to worry
+     about infection from dirty needles.
+     This is not going to be an alternative
+     in the medical world, it's going to be
+     the standard.  We all know we're here
+     to make money, but if we can do
+     something good like this, then all the
+     better.  So I want you all to go out
+     and buy yourselves a new car, or a
+     house.  Whatever you want.  Go into
+     debt.  You will make a million inside
+     of six months.
+
+The place goes wild.
+
+          MICHAEL (CONT'D)
+     Now, onto matters of recreation.  We're
+     taking a class trip tonight so call the
+     ladies and tell them not to wait up.
+
+                              CUT TO:
+
+
+
+EXT. PARKING LOT - NIGHT (CONTINUOUS)
+
+Everyone walks out the front doors of JT Marlin to find six
+luxury buses waiting in the parking lot.
+
+                                 FADE OUT.
+
+
+
+INT. HALLWAY - SUITE 418 - NIGHT
+
+Fade up on Seth walking down a hall towards the suite.  He
+passes the half open door and sees a prostitute smoking a
+cigarette in between "shifts".
+
+          TODD
+     Hey Seth, you want some of this?  Just
+     get in line, bro.
+
+          SETH
+     Nah, that's alright.  I'm gonna go hit
+     the tables.
+
+          TODD
+          (laughing)
+     Fuckin' fag.
+
+          SETH
+     That's me.  Can't get enough dick.
+
+                                 FADE OUT.
+
+
+
+EXT. STREET - MORNING
+
+Seth drives down a rundown street in Red Hook, Brooklyn.  He
+gets out of the car by an obviously abandoned building.  He
+walks up to a window and wipes off the dust.  It's empty.
+
+He turns to leave when he notices a decrepit sign against the
+wall.  He bends down to read the faded name -- MED PATENT.
+
+                                 FADE OUT.
+
+
+
+EXT. PIER OVERLOOKING MANHATTAN - NIGHT
+
+Seth and Debbie sit staring at the skyline.  Debbie really
+feels for him.  We see that here.
+
+          DEBBIE
+     What's wrong, baby?
+
+          SETH
+          (sighs)
+     What's wrong?  Everything, it feels
+     like.  Not you, but everything else.
+
+          DEBBIE
+     What is it?
+
+          SETH
+     Things aren't right at work.  I'm sick
+     of opening accounts for Greg.
+
+          DEBBIE
+     But you're almost done, baby.
+
+Debbie stares at him deeply.
+
+          DEBBIE (CONT'D)
+     There's something else.  It's your
+     father.
+
+          SETH
+     ...Yeah, actually, it is.  We're
+     finally getting along.  I mean we're
+     having lunch next week on his request.
+     Do you know how happy that shit makes
+     me?!
+
+          DEBBIE
+     I do.
+
+          SETH
+     But it's all based on this fucking job.
+     This very legitimate respectable job.
+     A job he can tell his friends about
+     during the Yom Kippur appeal.  And it's
+     all bullshit.
+
+          DEBBIE
+     Then you'll quit.  You'll tell him what
+     was happening and he'll respect you for
+     walking away.
+
+          SETH
+     I can't do that!  I've invested too
+     much time and energy.
+
+Seth takes a deep breath here and stares at Debbie.
+
+          DEBBIE
+     Talk to me, Seth.
+
+          SETH
+     I figured out how Michael's making his
+     money.  I almost wish I hadn't; because
+     it's all illegal.
+
+          DEBBIE
+     It really is, huh?  Well we knew it was
+     shady.  So how's he doing it?
+
+          SETH
+     It's called bridge financing.  It's so
+     simple.  A group of investors make a
+     loan to a private company.  Let's say
+     for three million.  After the company
+     gets taken public they pay back a
+     million in cash and the other two they
+     pay back in common stock, but at the
+     IPO price.  So the investors basically
+     get two million worth of IPO stock.
+     Then they can sell it on the open
+     market at triple what they bought it
+     for.  Now that's actually all legal as
+     long as the investors are not tied to
+     the brokerage house.  But Michael's
+     friends are the investors on every IPO
+     we do.
+
+          DEBBIE
+     That's why all the names were the same
+     on the contracts.
+
+          SETH
+     Right.  Then he has us push it all on
+     the open market.  We're selling
+     Michael's shares.  That's where the two
+     dollar rips come in.  He can afford to
+     pay us that much.  He's still in an
+     obscene profit margin.  It's to his
+     advantage to give us those rips.  He
+     has to motivate us to push these
+     stocks.  He depends on us to literally
+     create the market.  It's all artificial
+     demand.  There's no other firm selling
+     this shit.  That's why he's always
+     telling us to go into debt.  He wants
+     us hungry.  Then as soon as we sell off
+     Michael's position there's no need to
+     maintain the inflated price anymore.
+     We stop pushing it and it crashes.  And
+     get this.  The last IPO, Med Patent,
+     it's cardboard.  No research and
+     development, no employees, not even a
+     fucking building.  Annual reports are
+     all bullshit.  Michael manufactures
+     them.  Med Patent doesn't exist.
+
+          DEBBIE
+     Jesus Christ, Seth.  Now what?
+
+          SETH
+     Now?  I don't know.  Maybe now I go do
+     it for myself.
+
+                                 FADE OUT.
+
+
+
+INT. CASINO - NIGHT (LATER)
+
+The casino is barely full.  Seth stands there exhausted,
+surveying the scene.  Jeff walks over and hands Seth an
+envelope.  They exchange hellos but nothing more.
+
+                              CUT TO:
+
+
+
+INT. SETH'S ROOM - NIGHT (CONTINUOUS)
+
+Seth reaches over to the monitor and switches it on.  He
+opens the envelope and empties about $5,000 onto the bed.
+
+He looks very upset as he counts out the money finally
+throwing it on the bed and then YELLING.
+
+          SETH
+     Jeff!  Come on up here!
+
+We see Jeff's head snap up as he stares at Seth through the
+monitor.  He leaves the table as another dealer replaces him.
+
+          SETH (CONT'D)
+     What's going on?  One week I can
+     understand, but this is approaching
+     four months, and we're down forty
+     percent from the last month I was here
+     full time.
+
+          JEFF
+     What the fuck do you want from me?  I'm
+     not you, Seth.  I'm not going to kill
+     myself for half the profit.  You get to
+     come in here and just pick up your
+     money and it sucks.
+
+          SETH
+     What?  It's my business.  I created it,
+     remember?  You used to make ten dollars
+     an hour.  Now you're pulling in a
+     thousand a week.  And you're still not
+     happy?  What the fuck is that?  And you
+     still haven't answered me as to why
+     profits are down this much.  What's
+     going on, Jeff?!
+
+          JEFF
+     Nothing, you can check the tapes.
+
+          SETH
+     For what?  I didn't say anything.  You
+     skimming, Jeff?
+
+          JEFF
+     No I'm not.  Look, we've been closing
+     earlier than usual and we've been
+     opening later.  I can't handle the
+     twenty-four hour gig anymore, Seth.
+     This isn't Denny's.  I'm trying to
+     finish school here.
+
+Seth breathes heavy.  This is his real source of income.
+
+          SETH
+     Alright look, why don't you take on
+     another partner and split your end
+     which I'll up to sixty-five percent.
+     Then you can work at night and go to
+     school during the day.
+
+          JEFF
+     I'm already doing that.
+
+          SETH
+          (surprised)
+     You are?
+
+          JEFF
+     Yeah, I took Dave on last month.
+
+          SETH
+     And you still can't handle it?
+
+          JEFF
+     No.
+
+Seth looks off toward the wall and then...
+
+          SETH
+     Fuck!!
+
+                              CUT TO:
+
+
+
+INT. HARRY & SUSAN'S APARTMENT - NIGHT
+
+Harry is working on dinner.  His two young children, MAX and
+SARA, laugh at their father who makes funny faces at them.
+
+Harry turns away and then turns back with two stalks of
+asparagus coming out of his mouth like tusks.  He mimics a
+walrus for his children who laugh hysterically.
+
+          SARA
+     Daddy!  You look ridiculous.
+
+          MAX
+     No, it's funny, Dad.  Keep going.
+
+Max eats some asparagus while still smiling at his Dad.
+
+          MAX (CONT'D)
+     Hey Dad, my pee smells funny after I
+     eat this stuff.
+
+          SARA
+     Yeah, mine too!
+
+Harry's wife, SUSAN, walks in with the mail in her hands.
+She's 32, both plain and smart looking.  She looks through
+the mail while taking her coat off.
+
+          SUSAN
+     Okay guys, let's settle down.  You
+     really have a knack at stimulating
+     great conversation with the kids.
+
+          HARRY
+     Yeah, it's a talent huh?  I found out
+     that the new medical program includes
+     dental.
+
+          SUSAN
+     Are you serious?  That's great.  You
+     hear this, kids?  You're going to get
+     to go to the dentist for free.
+
+Both Sara and Max both grimace at the same time.
+
+          MAX
+     Great job, Dad.
+
+Susan sees a piece of mail that catches her eye.
+
+          SUSAN
+     Harry, who's JT Marlin?
+
+          HARRY
+     Oh yeah, I forgot to tell you.  I
+     brought a little bit of stock.
+
+Susan looks up.
+
+          SUSAN
+     What did you buy?
+
+          HARRY
+     Oh, it's this great pharmaceutical
+     company that's poised for a big jump.
+     They make this new drug that helps
+     premature babies survive their initial
+     three months.  Isn't that great?
+
+          SUSAN
+     How much did you buy?
+
+          HARRY
+     Nothing crazy, Susan.  Just a hundred
+     shares.
+
+          SUSAN
+     At with price?
+
+          HARRY
+     Eight dollars.  Take it easy hon.
+
+Susan relaxes somewhat at this answer.
+
+          SUSAN
+     How did you even know who to call?
+
+          HARRY
+     Well actually, he called me.
+
+          SUSAN
+     Who did?
+
+          HARRY
+     Seth Davis.  The broker.  He's a really
+     great guy.  Family man actually.
+
+          SUSAN
+     How did he get your name?
+
+          HARRY
+     I have no idea.
+
+          SETH
+     Doesn't that worry you?
+
+          HARRY
+     No, not particularly.
+          (abruptly)
+     Hey look, it's okay!
+
+Susan and the kids all detect this change in tone.
+
+          HARRY (CONT'D)
+          (calmly)
+     It's a small investment and I'm just
+     testing this guy out.  If he doesn't
+     show us any gains on this trade then I
+     won't do business with him again.
+
+                              CUT TO:
+
+
+
+INT. CONFERENCE ROOM - DAY
+
+Seth kneels on the floor rolling dice with some other
+brokers.  He turns to see a kid sitting in the waiting room
+staring at him just like he did months earlier.
+
+Jim walks in and all of the brokers jump to find seats.  Jim
+drops his coat on the desk and starts right up.
+
+          JIM
+     This is gonna be a quick one, boys.
+     You passed your sevens over a month
+     ago, and yet no one has opened the
+     necessary forty accounts for their team
+     leader yet.  Seth is the only one of
+     you that's even close.
+
+Seth looks at his hands.  Doesn't need to stick it to anyone.
+
+          JIM (CONT'D)
+     I did it in twenty-six days when I was
+     a junior broker.  You're not sending
+     out press packets anymore.  None of
+     this Debbie the Time Life operator
+     shit.  It's time to go to work.  Get on
+     the phones and be aggressive.
+          (uncovering his coffee)
+     I remember this guy once called me to
+     sell me some stock.  I let him pitch
+     me.  I got every fucking rebuttal out
+     of this guy.  Kept him on the phone for
+     an hour and a half.  Toward the end I
+     started asking him buying questions.
+     Like, what's the firm minimum?  That's
+     a buying question.  I ask a question
+     like that, he should take me down.
+     It's not like I asked him what his 800
+     number was.  That's a fuck off
+     question.  I was giving him a run but
+     he blew it.  To a question like, What's
+     the firm minimum the answer is zero!
+     You don't like the idea, don't pick up
+     a single share.  This putz is telling
+     me...
+          (mocking)
+     ...ummm, a hundred shares?  Wrong
+     answer!  You have to learn how to
+     close.  Always be closing!  You have to
+     push.  Keep asking questions.  Ask
+     rhetorical ones just to get a yes out
+     of them.  If you were drowning and I
+     threw you a life jacket would you grab
+     it?  Yes?  Good.  Pick up two hundred
+     shares, I won't let you down.  Ask a
+     guy if he'll let you down.
+     Ask a guy if he'll be happy to see
+     thirty to forty percent return.  What's
+     he gonna say?  Fuck you, I don't want
+     to see those returns?
+
+Everybody laughs.
+
+          JIM (CONT'D)
+     Stop laughing, it's not funny.  If you
+     can't close then start thinking about
+     another career.  I'm serious.  I am
+     dead serious about that.  Have your
+     rebuttals ready.  Anybody says call me
+     tomorrow, that's bullshit!  Anybody
+     says they got money problems about two
+     hundred shares is lying.  You know what
+     I say to that?  Tell me you don't like
+     my idea, tell me you don't like my
+     firm, tell me you don't like my fucking
+     tie, but don't tell me you can't pull
+     twenty five hundred together.  You hear
+     me, boys?  There is no such thing as a
+     "no sale" call.  A sale is made on
+     every call you make.  You either sell
+     the client some stock or he sells you a
+     reason he can't.  Either way it's a
+     sale.  The question is, who's gonna
+     close, you or him?  Be relentless!
+     Alright, I'm done.
+
+Jim walks out as suddenly as he came in.  Seth ambles out of
+the office.  He has many things on his mind.  He sees Chris.
+
+          CHRIS
+     How smooth is that motherfucker?
+
+          SETH
+     Too smooth.
+
+Seth follows him to the back where he's making a copy.
+
+          SETH (CONT'D)
+     So Chris, I've been reading the
+     contracts.
+
+          CHRIS
+     For the IPO's?
+          (laughs)
+     I was just kidding.  No one really
+     reads them.
+
+          SETH
+     Yeah, okay.  Anyway the company we're
+     selling now that makes that retractable
+     syringe...
+
+          CHRIS
+     Med Patent.
+
+          SETH
+     Right.  Well, I was reading their
+     prospectus and... Well, they don't fill
+     the minimum requirements to be taken
+     public.
+
+          CHRIS
+     Seth, you just started here.  You can't
+     possibly know what the fuck you're
+     talking about.  You didn't even finish
+     college.
+
+          SETH
+     Listen to me.  To float a stock , you
+     need at least two years worth of
+     audited financial statements.  They
+     don't have any.
+
+          CHRIS
+     Look Seth.  I thought we already went
+     through this.  You're a good kid, and I
+     like you a lot, but this is bullshit.
+     Michael knows all about this stuff.  We
+     don't.  He doesn't tell you how to
+     trade, so don't tell him how to do his
+     business.  He's the reason we make
+     bank, and he hasn't steered us wrong,
+     ever.
+
+          SETH
+     Chris.  I went to the address listed on
+     the prospectus. It's an abandoned
+     building.
+
+Chris grabs Seth and SHOVES him into a corner.
+
+          CHRIS
+     Listen to me, Seth, and listen good.  I
+     will back you up against Greg or
+     anybody else that fucks with you.  But
+     on this I am telling you to shut the
+     fuck up.  You will not rock this boat.
+
+Seth looks stunned and Chris realizes he may have gone a bit
+overboard.  He tries to reel things back in.
+
+          CHRIS (CONT'D)
+     Now how many more accounts do you owe
+     Greg?
+
+          SETH
+     Three.
+
+          CHRIS
+     So you'll be out of Greg's reach in a
+     couple of days.  Knock them off and
+     you're on your own.  You're gonna make
+     a lot of money after that.  A lot of
+     money, Seth.  Just don't fuck it up now
+     'cause you're pissed at Greg.  Got it?
+
+          SETH
+     Yeah Chris.  I got it.
+
+They shake and Chris pulls him into a short, masculine hug.
+
+          CHRIS
+     You're a good kid.  Too fucking smart
+     though.
+
+                              CUT TO:
+
+
+
+EXT. BOILER ROOM - DAY (LATER)
+
+It's late afternoon as Seth walks out the front door.  He
+heads toward the building he saw Michael and the other guys
+go into.
+
+                              CUT TO:
+
+
+
+INT. OFFICE BUILDING - DAY (CONTINUOUS)
+
+The building is brand new and he wonders where to begin when
+a JANITOR rounds the corner.
+
+          SETH
+     Hey, how you doing?
+
+          JANITOR
+     Fine, thanks.
+
+          SETH
+     I'm trying to find the space that our
+     company just rented.
+
+          JANITOR
+     What's the name of the company?  We've
+     only rented out a couple of offices.
+
+          SETH
+     JT Marlin.
+
+          JAMES
+     Nope.  No company by that name.  You
+     sure you got the right building?
+
+          SETH
+     Yeah.  Michael Brantley told me to come
+     by.
+
+          JANITOR
+     Michael.  Big guy, maybe thirty years
+     old?  Sharp dresser?
+
+          SETH
+     Yeah, that's him.
+
+          JANITOR
+     Second floor.  Suite 206.  You can go
+     up and have a look.
+
+          SETH
+     It's not locked.
+
+          JAMES
+     Nah.  Just cheap phones in there,
+     that's all.
+
+Seth finds the suite and opens the door.  He stops in
+amazement.  It's the identical set up of JT Marlin's floor.
+The desks are all in and there are close to 400 phones in the
+room.  Nothing else.  Suddenly he hears VOICES from around
+the corner of the L-shaped room.  He ducks behind a filing
+cabinet.  Michael and John Feiner come around the corner.
+
+          MICHAEL
+     Now if the heat does come and we have
+     to jump, how long will it take to move
+     the whole firm?  I mean everything.
+
+          JOHN
+     Under two hours, literally.  They'll be
+     making calls that afternoon.
+
+                                 FADE OUT.
+
+
+
+EXT. FEDERAL COURTHOUSE - DAY
+
+Seth bounds up the front steps into the building.
+
+
+
+INT. COURTROOM - DAY (CONTINUOUS)
+
+Seth quietly enters the courtroom.  It's almost full.  The
+guard instantly recognizes him and they shake hands.
+
+Seth sits down in the back and watches his father sitting up
+on the bench.  Marty does not see him.  Seth looks on in
+wonder.
+
+                                 FADE OUT.
+
+
+
+INT. GRAND DELI - DAY (LATER)
+
+Seth and Marty are eating pastrami sandwiches.
+
+          MARTY
+     So what do you think of the suit?
+
+          SETH
+          (shocked)
+     You're asking me?
+
+          MARTY
+     Sure.  You've got good taste in
+     clothing.
+
+          SETH
+     Actually I like it a lot.  I noticed it
+     earlier.  Real departure for you
+     though.
+
+          MARTY
+     Not the usual stodgy old judge garb
+     huh?
+
+          SETH
+     No.  You even nailed the tie.
+
+          MARTY
+          (smiles)
+     Even?  Are you going to start investing
+     my money soon?  I could use a better
+     return than Fidelity's getting me.
+
+          SETH
+     I don't know if I'm ready for that.
+     Too much pressure.  Imagine if I lost
+     your retirement fund on some small-cap
+     stock.  God, that would be funny.
+
+          MARTY
+     Yeah, hysterical.
+
+They both laugh.
+
+          MARTY (CONT'D)
+     So what kind of stocks are you trading
+     these days?
+
+          SETH
+          (answers carefully)
+     Mostly tech and pharmaceuticals.
+
+          MARTY
+     You got any tips for me?
+
+          SETH
+     Dad.  I didn't know you had it in you.
+
+          MARTY
+     What?  I never said I didn't like to
+     make money.  It's the method I've
+     always been concerned about.
+
+Marty looks at his son, smiling.
+
+          MARTY (CONT'D)
+     See Seth, we're having lunch here like
+     real people.  I told you we could get
+     to this.
+
+          SETH
+          (somber)
+     You did.
+
+                                 FADE OUT.
+
+
+
+INT. BOILER ROOM - DAY
+
+Debbie is answering incoming calls.  She answers one call
+after another until one call makes her FREEZE.
+
+          DEBBIE
+     JT Marlin, how may I direct your call?
+
+          TRUE
+     I think I'll just talk to you.
+
+          DEBBIE
+          (extremely nervous)
+     Why are you calling me here?  I told
+     you I would talk to you as soon as I
+     knew.
+
+          TRUE
+     Time's running out, Deb.  I need to
+     know what he's doing.  Serve him up.
+
+          DEBBIE
+     He hasn't done anything wrong.  There'
+     nothing I can tell you.  Why don't you
+     go after Feinstein or one of the other
+     guys?  Seth's a good kid.
+
+          TRUE
+     We want to nail those other guys.
+     We're not interested in putting Seth
+     away.  So if you care about him so much
+     then you better find something on him.
+     Your immunity deal won't be on the
+     table forever.
+     I'm just thinking about your mother
+     that's all.  One of us has to.
+
+True hangs up.  Debbie's badly shaken.
+
+                              CUT TO:
+
+
+
+INT. HARRY & SUSAN'S APARTMENT - NIGHT
+
+Harry sits in the living room looking at the Wall Street
+Journal.  He's nervous.  He keeps looking toward the door
+like an adolescent with a porn magazine.
+
+                              CUT TO:
+
+
+
+INT. BOILER ROOM - MORNING
+
+Seth is on the phone closing his 40th and final account as a
+junior broker.  We are very TIGHT ON Seth.
+
+          SETH
+     The only problem you're going to have
+     is that I didn't come down there an
+     twist your arm to buy a thousand
+     shares.  You simply have no idea what
+     you've tapped into here today.  That's
+     right.  My secretary will take all your
+     information.  I have to hop.  Bye.
+
+Seth pushes the hold button and we pull out to see that the
+whole table was listening in.  Chris looks proud.
+
+          SETH (CONT'D)
+     Make it so, Sheryl.
+          (then yelling)
+     Yes!  Finally!  My first whale and my
+     first account.  My book baby!
+
+Greg calls out from the head of the table.
+
+          GREG
+     Hey Seth, hate to bust in on your
+     little victory speech, but that's your
+     fortieth account.
+
+          SETH
+     Right.  So it's mine.  I'm out of the
+     junior broker program.  I don't work
+     for you No Mo'!
+
+          GREG
+     Well you're out, but that account's
+     mine.
+
+          SETH
+     Fuck that.  I keep the fortieth.
+
+          GREG
+     No you don't.
+
+Seth looks around to see everyone going back to their seats.
+
+          SETH
+     Is this about Debbie?  Are you that
+     bitter?  I have made you a lot of money
+     over the last three months, more than
+     any other trainee.
+
+          GREG
+     Sorry Seth.  I couldn't do it if I
+     wanted to.  It's the rules.
+
+          CHRIS
+     Hey, come on, Greg.  You can bend the
+     rules.  I gave my guys...
+
+          GREG
+     Get the fuck out of here, Chris.
+
+Greg gets up and walks toward Seth.
+
+          CHRIS
+     Not yourself these days, man.  Not
+     yourself.
+
+          SETH
+     Fuck you, Greg.
+
+Greg moves very quickly toward Seth who doesn't react quick
+enough.  Greg SHOVES him hard enough to send him sprawling.
+
+          GREG
+     You're on my team, I'm not on yours.
+     Try to remember that bitch.
+
+                              CUT TO:
+
+
+
+EXT. PROSPECT PARK - DAY
+
+Seth is waiting near a fountain.  He looks around nervously.
+
+A black man approaches, pushing a baby carriage. He is
+dressed in hip-hop styled clothing.  Seth looks at the man as
+he passes and then turns to catch a glimpse of the baby.
+Instead, he sees a huge boom-box in the carriage.
+
+Marty emerges behind him.  He looks irate.
+
+          SETH
+     Dad?
+
+          MARTY
+          (icy, controlled)
+     I spoke to Howard Goldberg over at
+     Prudential.  You lied again you
+     unbelievable piece... You lied to all
+     of us.  He told me all about JT Marlin.
+     A chop shop.  You've been selling their
+     shit all this time.  How many people
+     have you fucked over so far, Seth?
+     Huh?  How many?
+
+Seth does not answer.
+
+          MARTY (CONT'D)
+     All that bullshit about them wanting to
+     know you how the business works.  The
+     great training program.  Profits you've
+     heard for your customers!  Did you make
+     them anything?  Just tell me, did you
+     make them any money?
+
+          SETH
+     No.  Not a penny.
+
+          MARTY
+     I'm done with you, Seth.  This is it.
+     You're out of our lives.  I don't want
+     to see you again.  Don't come by the
+     house, don't call.  This is worse than
+     the casino.  You've been stealing here.
+
+          SETH
+     I was gonna tell you, Dad.  I was just
+     waiting for the right time.
+
+Marty turns and walks away.
+
+          SETH (CONT'D)
+     Dad!
+
+                              CUT TO:
+
+
+
+INT. HARRY & SUSAN'S APARTMENT - NIGHT
+
+They're fighting.  Max and Sara are sitting on the floor in
+the hallway outside their bedroom.  They're scared.
+
+          HARRY
+     You think I want to live in this
+     apartment the rest of my life?!
+
+          SUSAN
+     Sometimes I wonder.
+
+          HARRY
+     Oh please!  I'm the one who got the
+     raise, Susan, try and remember that.
+     I'm the one that goes out every day and
+     supports this family.
+
+          SUSAN
+     You can't keep using that shit, Harry.
+     I've told you a million times I have no
+     problem going out and getting a job to
+     help pitch in, but you forbid it.  Then
+     you go and use it against me.
+
+          HARRY
+     Look Susan, we're going to buy the
+     house.  I promise.  We will get the
+     house.  Just get off my back!
+
+                              CUT TO:
+
+
+
+INT. FBI ECONOMIC CRIMES UNIT - DAY
+
+Agent True is in the director's office once again.
+
+          DIRECTOR
+     Listen to me.  I want him brought in
+     here.  You've already got a strong
+     case.  He'll turn states.
+
+          TRUE
+     What do we have on him?  Manipulative
+     trading tactics?  What can we threaten
+     him with, license revocation?  He'll
+     never go for it.  We need more.  I know
+     he's up to something. I can feel it.
+
+          DIRECTOR
+     I can't afford to leave him out there
+     any longer.  This girlfriend of his may
+     have already tipped him off.  He could
+     run at any time.
+
+          TRUE
+     She hasn't, sir.
+
+          DIRECTOR
+     How could you possibly know that?  And
+     if you're right, and she's so loyal to
+     you, then why hasn't she given us any
+     information yet?  I want Davis brought
+     in by the end of the week.  Period.
+
+          TRUE
+     Fine.
+
+True storms out of the office.
+
+                              CUT TO:
+
+
+
+INT. OFFICE BUILDING - DAY
+
+Debbie is sitting in a reception area filling out a job
+application for a temp agency.  A woman is sitting  next to
+her.  Debbie look completely morose.
+
+          WOMAN
+     How many words can you type a minute?
+
+                              CUT TO:
+
+
+
+INT. COURTHOUSE - DAY (SAME TIME)
+
+The guard Seth knows unlocks a judge's chambers for him.
+
+Seth goes into the private chamber and puts his bag down on
+the leather sofa.  Huge bookcases, mahogany desk.  Judge
+stuff.
+
+Seth looks at a photo resting on the desk.  It's a picture of
+Seth on the Mongoose.  His father is standing next to him
+smiling broadly.  It's the day his father bought him the
+bike.
+
+Seth looks as emotional as we have ever seen him.  Marty
+comes in through another door, startled to see Seth there.
+
+          MARTY
+     What are you doing here?  I thought I
+     told you I didn't want to see you
+     again.
+
+          SETH
+     I need to talk to you.
+
+          MARTY
+     Get out.
+
+          SETH
+     Dad, I really need to talk.
+
+          MARTY
+     What is it?!
+
+          SETH
+     I want out of the firm.
+
+          MARTY
+     Great.  So leave.  I don't really care
+     what you do anymore.  But your coming
+     here is unacceptable.  You want to cost
+     me my judgeship?  I can't have any
+     connection to you.
+
+          SETH
+     You know how you asked me to invest for
+     you?  Well I've got something.  It's a
+     sure thing.
+
+          MARTY
+     You've got to be kidding me, Seth.  Get
+     out.
+
+          SETH
+     I'm talking about making you half a
+     million on the next new issue.  And
+     it's safe.
+
+          MARTY
+     Seth, listen.
+
+          SETH
+     I play you off as a whale by having you
+     go in on a couple of big trades that JT
+     Marlin tells you to invest in.  You
+     know, prove your loyalty.  Figure
+     you'll drop $50,000.
+
+          MARTY
+     Are you fucking nuts?
+
+          SETH
+     Just listen to me.  After you drop the
+     fifty they'll have faith in you as a
+     customer.  When the next IPO comes out
+     you'll get a huge chunk for being so
+     loyal.  Then instead of holding onto it
+     until Michael can sell off all of the
+     common stock, you dump it the same day.
+     We'll make a fortune and the stock will
+     immediately collapse.  That should
+     raise enough red flags for the SEC to
+     come in and close shop within a week.
+     We walk rich and JT goes down.
+
+          MARTY
+     I can't believe we're having this
+     conversation.
+
+          SETH
+     This is the way I want to get out.
+
+          MARTY
+     Tough shit, Seth!  You better walk
+     right now before you're the one the SEC
+     comes after.
+
+          SETH
+     But this way I can leave and give them
+     a taste of their own medicine.
+
+Marty is just staring at his son.  He looks dumbstruck.
+
+          MARTY
+     I don't understand you.  I really
+     don't.  You think I'm going to help you
+     commit a crime?
+
+          SETH
+     A crime?  You don't like these people
+     any more than I do.  The whole firm is
+     crooked.  We're serving justice.  And
+     who are we committing a crime against?
+
+          MARTY
+     This is bullshit rhetoric.  What's this
+     all about?  Do I have to play on your
+     terms?  An act of faith?  Is that it?
+
+          SETH
+     I just wanted to do this with someone I
+     trusted, that's all.  I'm getting out
+     like you told me to.
+
+          MARTY
+     I can't do it, Seth.  It's illegal!
+
+Seth gets up, walks to the desk and picks up the phot.
+
+          SETH
+     You remember this day?
+
+          MARTY
+     Of course.  I bought you that bike.
+
+          SETH
+     Do you remember what happened about a
+     month after this?
+
+          MARTY
+     What do you want from me, Seth?
+
+          SETH
+     Do you remember when I broke my leg?
+
+          MARTY
+          (snaps)
+     Of course I remember!  You were
+     hysterical. I had to get you to stop.
+
+          SETH
+     Hysterical?  You mean like you are
+     right now?  I wasn't even crying, Dad.
+
+          MARTY
+     Get out of here.
+
+          SETH
+     Sorry I couldn't get the job you wanted
+     me to have.  But you know what, who
+     gives a shit?  I'm good at what I do.
+     The casino was a business!!  A
+     legitimate business! And I ran it
+     pretty fucking well, Dad.  To think I
+     closed it for you.
+
+          MARTY
+          (shocked)
+     You closed it?
+
+          SETH
+     Then I went after this job because I
+     thought it was what you wanted me to be
+     doing.  I didn't know they were a
+     fucking chop-shop when I went there.
+          (laughs sadly)
+     It's like I can't get away from it.
+     But I tried to make the changes you
+     told me to.  I did everything you said.
+     I'm leaving JT now.  I'm just asking
+     you to do this one thing with me.  Just
+     this one last thing.
+
+Marty really considers him, perhaps for the first time.
+
+          MARTY
+     I'm sorry, Seth.  I can't do it.
+
+          SETH
+     Fine, I'll find someone else.
+
+Seth gets up and walks out.
+
+                              CUT TO:
+
+
+
+INT. DEBBIE'S APARTMENT - MORNING
+
+Seth is in Debbie's living room with her.  They are
+whispering.
+
+          DEBBIE
+     What are you gonna do now?
+
+          SETH
+     I'm still gonna do it.  I have this
+     friend who may go in with me.  Till
+     then I'm gonna make as much money as I
+     can at the firm.  I don't care who gets
+     fucked anymore.  My father can go to
+     hell!
+
+          DEBBIE
+     Seth please, my mom.
+
+          SETH
+     Sorry.
+
+          DEBBIE
+     I don't think this is a good idea.  Why
+     don't you just quit?
+
+          SETH
+     No.  I told you.  I've invested too
+     much time.  And I have no fucking money
+     coming in anymore because Jeff tanked
+     my gold mine.  I need this.
+
+          DEBBIE
+     How about finding a position at a real
+     brokerage house?  You're a great broker
+     now.  I'm sure you could easily get a
+     job.
+
+          SETH
+     Doing what?  Ticket running?  Coming
+     from JT Marlin you think they're going
+     to let me trade for them?  There's no
+     way.
+
+Seth looks up at the ceiling.
+
+          SETH (CONT'D)
+     Why are you so against this anyway?
+     What do you care if I pull this off?
+     It'll be great for both of us.
+
+          DEBBIE
+     I just have a bad feeling about it.
+
+          SETH
+     You know what, I gotta go.
+
+          DEBBIE
+     Where are you going?  Seth, wait.  I
+     need to talk to...
+
+          SETH
+          (dazed)
+     I have to go figure this all out.
+
+Seth gets up and leaves.
+
+          DEBBIE
+     Seth.
+
+He walks out.  Debbie pauses at the door, wanting to run
+after him, to TELL HIM!  She cries.  Her mother's call makes
+the decision for her.  She locks up and walks toward her
+mother.
+
+There's a KNOCK back at the door and she runs toward it.
+
+          DEBBIE (CONT'D)
+          (while unlocking)
+     Baby, I'm so sorry.  I need to tell you
+     something I've been keeping in for...
+
+She opens the door to Agent True and literally JUMPS from
+fear.
+
+True walks in without being invited.
+
+          TRUE
+     Why don't you do that.  Why don't you
+     tell me something.
+
+          DEBBIE
+          (almost hysterical)
+     Be quiet, my mother's finally sleeping.
+
+They walk to the living room.
+
+          TRUE
+     What's he doing?
+
+          DEBBIE
+     Nothing.  He's doing nothing.  But I
+     found out how Michael operates the
+     whole thing.  Let me give you that.
+
+          TRUE
+     Honestly, you're a shitty witness.
+     Black secretaries are not as credible
+     as white stock brokers.  It's a fucked
+     up legal system.  We need Seth to
+     testify, not you.  Now what the fuck is
+     he up to?
+
+          DEBBIE
+     He hasn't said a word to me.
+
+True stares at her hard when...
+
+          TRUE
+     You're a smart girl, Debbie.  Why are
+     you doing this to me?
+
+          DEBBIE
+     What?
+
+          TRUE
+     Normally, we could play this game for a
+     bit, but this is just such a bad time
+     to fuck with me!
+
+          DEBBIE
+     What do you want me to tell you?
+
+          TRUE
+     You want me to go wake Mom? Maybe if we
+     all sit down and talk about things we
+     can figure out a way to have someone
+     come and give her her medication while
+     you're upstate.
+
+          DEBBIE
+     Fuck you.
+
+          TRUE
+     Give him up!!
+
+Debbie finally loses it.  She begins to sob.
+
+          DEBBIE
+     Alright.
+
+          TRUE
+     Go ahead!  What's he doing?
+
+          MOTHER (O.S.)
+     Debbie, are you okay?
+
+          TRUE
+     Are you?
+
+          DEBBIE
+     He's going in with a friend on an IPO
+     scam this week.  It's on the new issue.
+     I better get immunity you piece of
+     shit.
+
+          TRUE
+     Keep talking to me like that.  That's
+     your best bet.
+
+                              CUT TO:
+
+
+
+EXT. HARRY & SUSAN'S APARTMENT - DAY
+
+Harry is outside raking leaves when he hears the phone ring.
+Susan looks up at him because he seems so jumpy.
+
+          SUSAN
+     I'll get it.
+
+          HARRY
+     No!
+          (calmer)
+     I mean, I'll get it.
+
+Susan looks at him nervously as he runs into the house.
+
+                              CUT TO:
+
+
+
+INT. BOILER ROOM - DAY (SAME TIME)
+
+The firm is going nuts.  An IPO from last week, Farrow Tech,
+just had its rip bumped to $2.  It's a big money day.
+
+          ADAM
+     You do not look like you are fucking
+     around today.
+
+          SETH
+     That is because I am not fucking
+     around.  I am making bank today and I
+     do not care who the fuck I take it
+     from.
+
+                              CUT TO:
+
+
+
+EXT. HARRY & SUSAN'S APARTMENT - DAY
+
+Harry, out of breath, reaches the phone on the fourth ring.
+
+          HARRY
+     Hello?
+
+          SETH
+     Hi Harry.
+
+          HARRY
+     Seth!  Did you get my calls?
+
+          SETH
+     Yes Harry, it's just been crazy here.
+
+          HARRY
+     What the hell's happening with Farrow
+     Tech, it's dropped five points since I
+     bought it.  I wanna sell.
+
+          SETH
+     Sell now?  The stock is down!  You
+     don't make money in the market buying
+     high and selling low, Harry.
+
+          HARRY
+     So what's going on?  Tell me why we
+     shouldn't just get out now.
+
+          SETH
+     Alright, here's the deal.  I told you
+     things would happen within sixty days,
+     it's only twenty so far, but the
+     situation here is explosive and I
+     wanted to get you involved.  That's why
+     I haven't returned any calls.  I've
+     been gathering information all morning.
+     So here it is: The stock's down for
+     tech reasons.  It's been on the
+     restricted list all week.  But it's the
+     same company.  As a matter of fact,
+     while it was on the restricted list,
+     Farrow was doing nothing but signing
+     more contracts.  I'm telling you it's
+     looking like our next big one here.
+     Hold on a second, Harry.
+
+Seth pushes hold.  Jim Young has walked in front of the board
+and begins to speak to the firm.
+
+          JIM
+     Just got word from Michael.  The rip on
+     Farrow Tech is now three dollars.
+
+The place explodes.  Seth gets back on the phone.
+
+          SETH
+     Listen to this, Harry.
+
+Seth holds the phone out toward the chaos.
+
+          HARRY
+     Jesus Christ, what's going on over
+     there?
+
+          SETH
+     See what I'm saying?  People know.  The
+     place is going nuts.  It's already up a
+     point and its just coming off the
+     restricted list.  I'm advising all my
+     clients to get in on this, and heavy.
+     Hold on a second, let me close the door
+     to my office.
+
+Seth holds the phone next to the open drawer of his desk, and
+then slams it shut.  He then clambers under his desk for some
+quiet.
+
+          SETH (CONT'D)
+     Alright, now you get the same stock
+     that we picked up at eight, only now
+     it's at four.  Now, when it was at
+     eight I told you it was going to
+     twenty, right?
+
+          HARRY
+     You did.
+
+          SETH
+     Right, and it's still going there,
+     probably even higher now.  This doesn't
+     change anything except that you're
+     going to make more money than you did
+     before.  Look Harry, I liked it at
+     eight, I love it at four.  It's an
+     average down for you.
+
+          HARRY
+     What?
+
+          SETH
+     Dollar cost averaging.  If you own a
+     hundred shares at ten dollars and now
+     you buy another one hundred at five,
+     that's a F200 shares at $7.50 a share.
+     Your cost basis is lower.  Now if I get
+     you involved at ten and take you out at
+     fifteen, you've made how many points
+     Harry?
+
+          HARRY
+     Five.
+
+          SETH
+     Exactly.  But if I get you involved at
+     seven and a half and I take you out at
+     fifteen, well that's seven and a half
+     points, that's even better.
+
+          HARRY
+          (shaky, but turning toward
+           Seth)
+     I don't know.
+
+          SETH
+     I also have a bullet on it.  A couple
+     of days ago Dan Dorfman, on CNBC, put a
+     heavy buy recommendation on Farrow
+     Tech.  Reason being, he's been in
+     contact with the CEO of the company and
+     they feel FDA approval will happen in
+     the next three or four weeks.
+          (gaining speed)
+     Listen to me.  Off the record, I just
+     called a broker friend of mine at
+     another firm and had him pick me up
+     fifty thousand shares under my sister-
+     in-law's name.  I'm going to put all my
+     kids through college with this stock.
+     Look, I have a thousand more phone
+     calls to make, Harry.  I have to call
+     every one of my clients and give them
+     this same opportunity.  Remember when
+     we first spoke?  I told you that this
+     firm only had five or six great ideas a
+     year!  Well, Harry, this is one of
+     those ideas.
+
+Seth awkwardly reaches up for his glass of water on the desk
+spilling it all over himself.  He doesn't make a sound.
+
+          SETH (CONT'D)
+     I remember you saying something about
+     buying a house, right?
+
+          HARRY
+     Yeah.
+
+          SETH
+     Well, how'd you like to pay for it
+     tomorrow... in cash?
+
+          HARRY
+     You're serious.
+
+          SETH
+     Serious as cancer.
+
+          HARRY
+     All I've got is the fifty thousand from
+     our savings.
+
+          SHERYL
+     Seth, you've got a call on line three.
+
+          SETH
+     That's my secretary.  I gotta go.  I
+     have a lot of clients I need to make
+     money for today.  What's it gonna be,
+     Harry?
+
+                              CUT TO:
+
+
+
+INT. SETH'S BEDROOM - NIGHT
+
+Seth is on the phone.
+
+          SETH
+     I thought you were coming over tonight?
+
+          DEBBIE
+     I can't make it.  I'm not feeling well.
+
+          SETH
+     Come over.  I'll take care of you.
+
+          DEBBIE
+     No.  I'm going to just stay here.
+
+          SETH
+     Alright, then I'll come over there.
+     I'll bring you some soup.
+
+          DEBBIE
+     No.  Don't.  Mom's not doing too well
+     either.
+
+          SETH
+     Oh shit.  I'm sorry.
+
+          DEBBIE
+     It's stressing me out a bit.  I'll talk
+     to you tomorrow.
+
+                              CUT TO:
+
+
+
+INT. MARTY'S HOUSE - DEN - NIGHT
+
+Marty sits in his den going over the mail. He hears his wife
+on the phone with Seth in the next room.
+
+          MOTHER (O.S.)
+     I know, Seth.  But you really went too
+     far this time.  I thought we were past
+     the lying.  Well then when you figured
+     it out you should have said something.
+     I understand that.  It's trues, he
+     definitely hasn't helped any.
+
+
+
+INT. LIVING ROOM - NIGHT (CONTINUOUS)
+
+Marty stands at the doorway listening to his wife.  She has
+her back to him and does not hear him walk up.
+
+          MOTHER
+     Of course he's upset.  You guys are
+     going to work through it though.  I'm
+     sure of it.  He loves you, Seth.  Do
+     you know that?  It's important that you
+     know that.  Okay.  Bye.
+
+                              CUT TO:
+
+
+
+INT. BOILER ROOM - MORNING
+
+The pitch is wild again today.  Everybody's on the phone.
+
+          GREG
+     We're not fucking around today, guys.
+     I'm sure you all know that we're going
+     to be getting a lot of heat for what
+     Farrow Tech did yesterday, so be smart
+     on the phone.  Calm them down.  I don't
+     want people dumping their shares.
+
+          SHERYL
+     Adam! I got a Mr. Klastow, he's super
+     hot.
+
+          ADAM
+     Mr. Klastow?
+
+We immediately hear the man screaming through the phone.
+
+          ADAM (CONT'D)
+     Right.  I understand.  Right.  I'm
+     sorry.  We couldn't foresee this when
+     we... Right.  Okay.  I'll do it right
+     now.
+
+Adam pulls out a sell ticket and quickly fills it out.  He
+then takes it to Greg to be signed.
+
+          GREG
+          (enraged)
+     What the fuck is this?  You think I'm
+     gonna sign a sell ticket for you?  What
+     did I just say?
+
+Greg takes the slip and rips it up in front of him.
+
+          GREG (CONT'D)
+     Call him back and explain the situation
+     to him!
+          (to everyone)
+     No one's gonna unload today, no one!
+
+Adam goes back to his seat badly shaken.  The whole team
+looks on in disbelief.  You can't just rip up a sell ticket.
+
+          SHERYL
+     Seth.  Line three.
+
+Seth pushes the blinking light, still dazed.
+
+          SETH
+     Seth Davis here.
+
+          MARTY
+     Hi Seth, how are you?
+
+He hears his dad's voice and snaps to.
+
+          SETH
+     Dad!
+
+          MARTY
+     Can I change your mind about doing this
+     IPO scheme?
+
+          SETH
+     No.  I'm sorry.  I already found
+     someone who's going in with me.
+
+          MARTY
+     Well then I'm going to help you out
+     with it.
+
+          SETH
+     You're gonna do it with me?!
+
+          MARTY
+     No, I can't do it, Seth, but I want to
+     at least make sure you don't get
+     caught.  I have someone I know over at
+     the Parthenon Group that will talk to
+     you about it.  Come over to the house
+     tonight.
+
+          SETH
+     Thanks, Dad.  I'm so glad you called.
+
+          MARTY
+     Yeah.  Bye.
+
+Sheryl's answers another incoming call for Seth.  It's a
+fire.
+
+          SHERYL
+     Seth, I've got a Harry Reynard on the
+     phone.
+
+          SETH
+     Pass him on.  Harry, I was going to
+     call you today.
+
+          HARRY
+          (desperate)
+     I want my money back.
+
+          SETH
+     Look, I know you're pissed, Harry, they
+     had a setback.  But don't worry about
+     it, it's become a goal stock.  I plan
+     to bring you eight or nine points over
+     the course of this year.  People are
+     talking about it like it's the next
+     Microsoft.
+
+          HARRY
+          (almost crying)
+     Listen Seth, I'm in a heap of trouble
+     here.  I need that money back.  I was
+     supposed to use it for a down payment
+     on a house for my family.  We're going
+     to lose the house now.
+
+          SETH
+     Harry, listen, it's going to rebound.
+
+          HARRY
+          (screaming)
+     Seth!!  I need the money back!!!
+
+          SETH
+     I'm sorry.  I can't do that.  I have to
+     go.
+
+Seth hangs up the phone.  He looks very disturbed.
+
+          SETH (CONT'D)
+     If he calls back, I'm not here.
+
+                              CUT TO:
+
+
+
+INT. HARRY'S OFFICE - DAY (CONTINUOUS)
+
+Harry looks to make sure his co-workers did not hear this
+exchange.  His supervisor walks in as the phone begins to
+RING.
+
+          SUPERVISOR
+     Harry, do you have that status report
+     ready?
+
+          HARRY
+     Yes Michelle.  I'll bring it right
+     over.
+
+          SUPERVISOR
+     I also wanted to ask you about...
+
+          SHERYL (O.S.)
+     JT Marlin.
+
+          HARRY
+          (curt)
+     I'll talk to you after I finish with
+     this call.
+
+Harry turns his head away from her before she can even reply.
+
+          SUSAN
+     OOOkay.
+
+          HARRY
+     Seth Davis.
+
+          SHERYL
+     May I ask who's calling.
+
+          HARRY
+     It's Harry Reynard!
+
+          SHERYL
+     I'm sorry, Mr. Reynard, but Mr. Davis
+     just stepped out for a meeting.
+
+          HARRY
+     God...
+          (slamming the phone)
+     ...Damn it!!
+
+He looks around his cubicle, sees the photo of his family on
+his desk, and begins to cry.
+
+                                 FADE OUT.
+
+
+
+INT. RESTAURANT - DAY
+
+Seth is sitting having lunch with Debbie.  He looks very
+upset.
+
+          SETH
+     Are you gonna talk to me?
+
+          DEBBIE
+     I don't know what to tell you, Seth.  I
+     mean think about it.  If you pull off
+     this IPO deal and I'm associated with
+     you, what do you think is gonna happen
+     do me?
+
+          SETH
+     They won't be able to prove anything.
+
+          DEBBIE
+     Who says they have to?  I'm gonna lose
+     my job unless I put some distance
+     between us now.
+
+The front door opens as Agent True, with three other FBI
+agents, walk straight toward Seth's table.  Debbie is facing
+the door and sees them immediately.  Her face goes pale.
+
+          SETH
+     What's wrong?
+
+They stop at the table.
+
+          TRUE
+     Seth Davis, you're under arrest for the
+     violation of 26 SEC and NASD
+     regulations.
+
+          DEBBIE
+          (trying to be genuine)
+     What are you doing?  What's this all
+     about?  Seth, I'll get you out of this.
+
+          SETH
+     Just don't call my father.
+
+          TRUE
+     Sit down, Debbie.
+
+Seth hears him call her name.  He looks at her as he's
+cuffed.  He looks as scared and hurt as a man can feel
+without crying.
+
+                              CUT TO:
+
+
+
+INT. HARRY & SUSAN'S APARTMENT - NIGHT
+
+Harry stands against a wall, sweating heavily.  He looks
+completely disheveled.  His expression is one of
+anticipation.
+
+A plate flies across the room, SHATTERING on the wall.  Harry
+cringes, sinking into a fetal position on the floor.  He
+CRIES.
+
+Susan walks across the floor toward him.  Max & Sara's crying
+now permeates the apartment.  She stands over him.
+
+          SUSAN
+     How could you be so stupid!?
+
+Max and Sara stand in the doorway watching in tears.
+
+          SUSAN (CONT'D)
+     What were you thinking, Harry?  The
+     kids, the house, our future!!
+
+          HARRY
+          (crying)
+     I'm sorry.  I'm so sorry.
+
+Susan leans against the wall, then slinks down next to him
+and begins to sob.  Harry reaches over to console her.  She
+backhands him hard across the side of his head, sending his
+glasses FLYING and him cowering back.  They both cry.
+
+                              CUT TO:
+
+
+
+INT. FBI ECONOMIC CRIMES UNIT - NIGHT (SAME TIME)
+
+Seth is brought in through the side door and led to a small
+interrogation room.  He walks in to see MARTY at a table.
+
+          SETH
+          (screaming)
+     Why did you bring him in?  He didn't do
+     anything!
+
+          MARTY
+     What the fuck is going on, Seth?  Did
+     you talk to them about me?
+
+          SETH
+     What??!!  Of course not.  Why is he
+     here!?
+
+          MARTY
+     You sure, Seth?
+
+          SETH
+     Of course I'm sure.  Not a word.
+
+          MARTY
+          (to Agent True)
+     That's it.  I'm walking out of here in
+     three seconds unless you charge me with
+     something.
+
+Agent True reaches over to a tape recorder and pushes play.
+It's a recording of Marty's earlier conversation with Seth.
+
+          MARTY (V.O.)
+     Can I change your mind about doing this
+     IPO scheme?... Then I'm going to help
+     you out with it... I want to at least
+     make sure you don't get caught.
+
+          MARTY (CONT'D)
+     Jesus Christ.
+
+                              CUT TO:
+
+
+
+INT. HARRY & SUSAN'S APARTMENT - NIGHT (LATER)
+
+Harry is sitting on the floor of the living room as his wife
+LEAVES with the kids.  He is crying again.
+
+                              CUT TO:
+
+
+
+INT. HARRY'S GARAGE - NIGHT (LATER)
+
+Harry is in the corner of the garage.  He has a small black
+case in front of him.  He opens it to reveal a .9mm handgun.
+
+He loads the gun back and places it back in its case.  He's
+wearing his best suit.
+
+                              CUT TO:
+
+
+
+INT. FBI ECONOMIC CRIMES UNIT - NIGHT
+
+          SETH
+     So what do you want from me?
+
+          TRUE
+     We want you to testify.
+
+          SETH
+     No whit.  What are you offering?
+
+          TRUE
+     Full immunity.
+
+          SETH
+     What about my father?
+
+          TRUE
+     He won't do any time.
+
+          MARTY
+     I haven't done anything illegal, Seth.
+
+          SETH
+     So what's the deal.
+
+          MARTY
+     I lose my judgeship just going along
+     for the ride.
+
+          TRUE
+     I've got nothing to do with that.
+
+          MARTY
+     Sure you do.  You're gonna release that
+     tape to the press.  Makes your case so
+     much more glamorous with the
+     involvement of a Federal judge.
+
+          SETH
+     No deal.
+
+          TRUE
+     What?
+
+          SETH
+     Take my father out the back door right
+     now and bring him home.  He has nothing
+     to do with this case at all.  If his
+     name shows up in one newspaper, I don't
+     testify.  And I mean that.  For me,
+     it'd be worth going to jail for.
+
+          TRUE
+     You're serious?
+
+          SETH
+     What do you think?
+
+          TRUE
+     I think you're nuts.  You want to do it
+     that way?  Fine.  Then no immunity for
+     you, pal.  I need one of you to face
+     the music.
+
+          MARTY
+     Seth, don't be stupid.  He's right.  I
+     won't see a day in jail.  They'll get
+     you for at least four years.
+
+          SETH
+     I don't care.  Go home, Dad.
+
+          TRUE
+     Alright, alright, alright.  Before we
+     start dealing here, just what are you
+     offering?
+
+          SETH
+     I'm gonna hand you this case on a
+     silver fucking platter.  I know
+     everything you don't.  I know how it
+     all works.  How Michael makes his
+     money, where it goes, and who's getting
+     it.  Now what happens tomorrow?
+
+          TRUE
+     You go back to work tomorrow like
+     nothing happened.  Just for one day.  I
+     need your client book and your whole C-
+     drive backed up onto floppy.  But don't
+     get any stupid inclinations to travel
+     abroad.  We know where your father
+     lives.  You're going away, kid.
+
+          SETH
+     Yeah.  You mentioned that earlier.
+
+          TRUE
+     Yeah, yeah, yeah, yeah, you little
+     fuck.
+
+Agent True walks over to take Seth away.
+
+          MARTY
+          (to True)
+     Give me a couple of minutes with him,
+     would you?
+
+Agent True just nods and walks out.
+
+          SETH
+     I'm sorry, Dad.  I am so fucking sorry.
+     I didn't mean to do this to you.
+
+          MARTY
+     Shhhh.  Let me speak.
+
+Marty takes a deep breath and closes his eyes.
+
+          MARTY (CONT'D)
+     When I came up to you behind that car,
+     it was the hardest thing I ever had to
+     bear.  I just wanted to make your pain
+     disappear.  I don't even know how to
+     describe the feeling.  But I want you
+     to know something.
+
+He begins to cry.  Seth has never seen him cry before.
+
+          MARTY (CONT'D)
+     Not a single day of my life has gone by
+     where I do not think about that moment,
+     where I do not dream I was there for
+     one more chance.  If I could take back
+     just one thing in my life, Seth, do one
+     thing over... I am more sorry than you
+     will ever know.
+
+Seth leans across and they embrace tightly.
+
+                                 FADE OUT.
+
+
+
+INT. BOILER ROOM - DAY
+
+Seth is on the phone though not fired up as usual.  He looks
+very nervous and continually checks the time.
+
+          SHERYL
+     Seth, line two.
+
+          SETH
+     Hello?
+
+          TRUE
+     Get going.
+
+Seth hears a click before he can even say okay.  He hang up
+the phone, stands up, and addresses the table.
+
+          SETH
+     I'm going to lunch, boys.
+
+          TABLE
+     See you, Seth.
+
+Seth stops by Chris and drops a note on his desk.  He's on
+the phone while he reads the letter.  He stares at Seth
+leaving the room.  After a moment of thought, he too begins
+to pack.
+
+We follow Seth out to the reception room where Debbie watches
+him approach.  Seth looks at her, but says nothing.
+
+          DEBBIE
+     Seth?
+
+                              CUT TO:
+
+
+
+EXT. BOILER ROOM - DAY (CONTINUOUS)
+
+Seth comes out of the building and heads to his car.  As soon
+as he begins to cross the lot he notices a man coming toward
+him.  It is HARRY.  There are walking right towards one
+another.
+
+Harry accidentally drops his briefcase.  The contents spill
+onto the floor.  Seth bends over to help.  He nervously looks
+around as he helps Harry, waiting for the Feds to show.  Seth
+unknowingly picks up the gun case and hands it to Harry.
+Harry is very gracious.
+
+          HARRY
+     Thank you so much.
+
+          SETH
+          (smiling genuinely)
+     No problem.
+
+                            CUT TO BLACK.
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

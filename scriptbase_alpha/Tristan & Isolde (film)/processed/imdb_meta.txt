@@ -1,0 +1,246 @@
+year	2006
+imdb score	6.9
+meta score	49
+genre	Drama
+genre	Romance
+keyword	irish
+keyword	love
+keyword	princess
+keyword	boat
+keyword	king
+keyword	lover
+keyword	throne
+keyword	sea
+keyword	sword
+keyword	dark ages
+keyword	blood
+keyword	ireland
+keyword	tribe
+keyword	escape
+keyword	traitor
+keyword	marriage
+keyword	boy
+keyword	attack
+keyword	funeral
+keyword	lord
+keyword	baron
+keyword	wedding
+keyword	flaming arrow
+keyword	celt
+keyword	lust
+keyword	antidote
+keyword	ambition
+keyword	severed head
+keyword	death of queen
+keyword	kiss
+keyword	lie
+keyword	rape
+keyword	roasting a rabbit
+keyword	death of wife
+keyword	map
+keyword	liar
+keyword	lute
+keyword	bow and arrow
+keyword	child murder
+keyword	medieval times
+keyword	plus sign in title
+keyword	bare breasts
+keyword	kissing while having sex
+keyword	murder of family
+keyword	passionate kiss
+keyword	elixir
+keyword	severed hand
+keyword	knight
+keyword	man on fire
+keyword	woman on top
+keyword	beach
+keyword	kingdom
+keyword	death of husband
+keyword	nudity
+keyword	sword wound
+keyword	britannia
+keyword	infidelity
+keyword	honor
+keyword	demonstration
+keyword	capture
+keyword	stone marker
+keyword	tragic love
+keyword	mercilessness
+keyword	betrayal
+keyword	axe murder
+keyword	dagger
+keyword	blasphemy
+keyword	queen
+keyword	priest
+keyword	mother son relationship
+keyword	passion
+keyword	hanged boy
+keyword	village
+keyword	pyre
+keyword	magic herb
+keyword	wound
+keyword	pageant
+keyword	battlefield
+keyword	chanting
+keyword	kicked in the crotch
+keyword	coronation
+keyword	underground ruins
+keyword	rise and fall
+keyword	sword fight
+keyword	dance
+keyword	adultery
+keyword	underground passageway
+keyword	hand to hand combat
+keyword	nightmare
+keyword	axe fight
+keyword	church
+keyword	ambush
+keyword	rowboat
+keyword	family relationships
+keyword	forest
+keyword	battle axe
+keyword	extramarital affair
+keyword	power
+keyword	hanging
+keyword	horse riding
+keyword	bare chested male
+keyword	jousting
+keyword	boat on fire
+keyword	combat
+keyword	anglo saxon
+keyword	fire
+keyword	long sword
+keyword	love interest
+keyword	thought dead
+keyword	river
+keyword	tower
+keyword	disguise
+keyword	sex
+keyword	forbidden love
+keyword	hand chopped off
+keyword	stabbed in the throat
+keyword	celtic legend
+keyword	running
+keyword	orphan
+keyword	betrothal
+keyword	father daughter relationship
+keyword	disembodied head
+keyword	rabbit
+keyword	trapdoor
+keyword	funeral pyre
+keyword	woods
+keyword	anguish
+keyword	street vendor
+keyword	rivalry
+keyword	girl
+keyword	greed
+keyword	back from the dead
+keyword	kicking
+keyword	sword and sandal
+keyword	funeral cortege
+keyword	hunter
+keyword	spit in face
+keyword	bracelet
+keyword	rebuilding
+keyword	dancer
+keyword	thrown from a horse
+keyword	cornwall
+keyword	tunnel
+keyword	death
+keyword	warrior
+keyword	bare chested male bondage
+keyword	military training
+keyword	puffer fish
+keyword	brother sister relationship
+keyword	soldier
+keyword	human in a cage
+keyword	dancing
+keyword	castle
+keyword	decapitation
+keyword	violence
+keyword	drawbridge
+keyword	poisoned sword
+keyword	male nudity
+keyword	saxon
+keyword	tantallon castle scotland
+keyword	husband wife relationship
+keyword	treaty
+keyword	york
+keyword	crown
+keyword	star crossed lovers
+keyword	female nudity
+keyword	burned out house
+keyword	historical fiction
+keyword	ruin
+keyword	love triangle
+keyword	sword and shield
+keyword	murder
+keyword	revenge
+keyword	guilt
+keyword	roman ruin
+keyword	war violence
+keyword	tragedy
+keyword	nursing someone back to health
+keyword	6th century
+keyword	hunting
+keyword	horse
+keyword	montage
+keyword	bandage
+keyword	bathing in cream
+keyword	feast
+keyword	rain
+keyword	crypt
+keyword	punctuation in title
+keyword	horse and wagon
+keyword	sailboat
+keyword	dying words
+keyword	father son relationship
+keyword	poison
+keyword	dream
+keyword	flash forward
+keyword	burning a corpse
+keyword	unfaithfulness
+keyword	body warmth
+keyword	battle
+keyword	brutality
+keyword	legend
+keyword	fight
+keyword	death of mother
+keyword	death of father
+keyword	character name in title
+keyword	
+cast	James Franco	Tristan
+cast	Sophia Myles	Isolde
+cast	Rufus Sewell	Marke
+cast	David O'Hara	Donnchadh
+cast	Mark Strong	Wictred
+cast	Henry Cavill	Melot
+cast	Bronagh Gallagher	Bragnae
+cast	Ronan Vibert	Bodkin
+cast	Lucy Russell	Edyth
+cast	JB Blanc	Leon
+cast	Graham Mullins	Morholt
+cast	Leo Gregory	Simon
+cast	Dexter Fletcher	Orick
+cast	Richard Dillane	Aragon
+cast	Hans Martin Stier	Kurseval
+cast	Thomas Morris	Kaye
+cast	Jamie Thomas King	Anwick
+cast	Wolfgang Müller	Rothgar
+cast	Cheyenne Rushing	Lady Serafine
+cast	Barbora Kodetová	Lady Marke
+cast	Isobel Moynihan	Young Isolde
+cast	Thomas Brodie-Sangster	Young Tristan
+cast	Gordon Truefitt	Tournament Judge
+cast	Myles Taylor	Young Melot
+cast	Jack Montgomery	Young Simon
+cast	Marek Vasut	Luther
+cast	David Fisher	Irish Soldier
+cast	Bronwen Davies	Lady Aragon
+cast	Kevin Flood	Funeral Priest
+cast	Philip O'Sullivan	Paddreggh
+cast	Nevan Finegan	Tournament Crier
+cast	Jón Ólafsson	Coronation Priest
+cast	Todd Kramer	Widseth
+cast	Winter Ave Zoli	Widseth's Sister
+cast	Miroslav Simunek	Pict Guard

@@ -1,0 +1,191 @@
+year	2003
+imdb score	7.0
+meta score	68
+genre	Action
+genre	Crime
+genre	Thriller
+keyword	gold
+keyword	heist
+keyword	venice italy
+keyword	traffic jam
+keyword	revenge
+keyword	betrayal
+keyword	safe
+keyword	safecracker
+keyword	explosive
+keyword	explosives expert
+keyword	subway
+keyword	gold bar
+keyword	career criminal
+keyword	mini cooper
+keyword	video surveillance
+keyword	binoculars
+keyword	young version of character
+keyword	stealing a car
+keyword	driving on the sidewalk
+keyword	stolen goods fence
+keyword	dam
+keyword	elementary school
+keyword	planning
+keyword	police chase
+keyword	product placement
+keyword	villain
+keyword	hacker
+keyword	falling out among thieves
+keyword	country name in title
+keyword	character repeating someone else's dialogue
+keyword	car accident
+keyword	reference to john f. kennedy
+keyword	blood
+keyword	television repair
+keyword	college roommate
+keyword	scuba diving
+keyword	dog
+keyword	axe
+keyword	security guard
+keyword	stereo
+keyword	one last job
+keyword	master thief
+keyword	spain
+keyword	raised middle finger
+keyword	death of cousin
+keyword	flashback
+keyword	photograph
+keyword	dishonor
+keyword	shot in the chest
+keyword	woman in bra
+keyword	train
+keyword	necklace
+keyword	ducati motorcycle
+keyword	punched in the face
+keyword	held at gunpoint
+keyword	traffic control
+keyword	mountain
+keyword	junkyard
+keyword	car chase
+keyword	what happened to epilogue
+keyword	restaurant
+keyword	boat chase
+keyword	unsubtitled foreign language
+keyword	los angeles california
+keyword	small car
+keyword	fake id
+keyword	decoy
+keyword	fast car
+keyword	pistol
+keyword	golf
+keyword	crime ring
+keyword	cigar smoking
+keyword	convict
+keyword	corpse
+keyword	motorcycle
+keyword	russian mafia
+keyword	car crash
+keyword	underwater
+keyword	repairman
+keyword	los angeles storm drain
+keyword	perfect crime
+keyword	father daughter relationship
+keyword	mentor
+keyword	repeated line
+keyword	flashlight
+keyword	premarital sex
+keyword	car in water
+keyword	obesity
+keyword	philadelphia pennsylvania
+keyword	locksmith
+keyword	subtitled scene
+keyword	remake of british film
+keyword	double cross
+keyword	caper
+keyword	partial deafness
+keyword	misdirection
+keyword	italian alps
+keyword	helicopter
+keyword	gold theft
+keyword	shot to death
+keyword	napster
+keyword	woman punching a man
+keyword	television news
+keyword	hit with a car door
+keyword	reference to evel knievel
+keyword	murder
+keyword	character says i love you
+keyword	boat accident
+keyword	hollywood california
+keyword	koreatown
+keyword	korean
+keyword	parking garage
+keyword	slow motion
+keyword	remake
+keyword	hidden camera
+keyword	cigarette smoking
+keyword	armored truck
+keyword	jewelry store
+keyword	robbery
+keyword	laptop computer
+keyword	mansion
+keyword	scene during end credits
+keyword	boat
+keyword	los angeles river
+keyword	bare chested male
+keyword	grauman's chinese theater
+keyword	deception
+keyword	union station
+keyword	seduction
+keyword	machine gun
+keyword	nickname
+keyword	basketball
+keyword	cell phone
+keyword	hollywood sign
+keyword	1990s
+keyword	mechanic
+keyword	death
+keyword	bully
+keyword	ak 47
+keyword	death of father
+keyword	death of friend
+keyword	title spoken by character
+cast	Mark Wahlberg	Charlie Croker
+cast	Charlize Theron	Stella Bridger
+cast	Donald Sutherland	John Bridger
+cast	Jason Statham	Handsome Rob
+cast	Seth Green	Lyle
+cast	Mos Def	Left Ear
+cast	Edward Norton	Steve
+cast	Fausto Callegarini	Italian Guard
+cast	Stefano Petronelli	Garbageman / Thug
+cast	Fabio Scarpa	Garbageman / Thug
+cast	Cristiano Bonora	Garbageman / Thug
+cast	Tiberio Greco	Garbageman / Thug
+cast	Jimmy Shubert	First Detective
+cast	Tammi Cubilette	Second Detective
+cast	Mary Portser	Stella's Receptionist
+cast	Shawn Fanning	Himself
+cast	Christopher Moore Jr.	Young Left Ear
+cast	Terrelle Jones	Kid On Left
+cast	Valentine Ebunilo	Kid On Right
+cast	Joel Homan	Young Charlie
+cast	Erik Walker	Bully
+cast	Scott Adsit	Actor Reharsing in Car
+cast	Boris Lee Krutonog	Yevhen
+cast	Julie Costello	Becky
+cast	Oscar Nuñez	Security Guard
+cast	Franky G	Wrench
+cast	Marty Ryan	ATSAC Supervisor
+cast	Aaron Speiser	Danielson
+cast	Olek Krupa	Mashkov
+cast	Gawtti	Skinny Pete
+cast	Melanie Jayne	Skinny Pete's Girl
+cast	Gregory Scott Cummins	Ukranian
+cast	Thomas Alexander	Vance
+cast	Martin Morales	Valet
+cast	Frank Nyi	ATSAC Employee
+cast	Simon Rhee	Armored Truck Guard
+cast	Merritt Yohnka	Gold Truck Driver
+cast	Ryan B. Adams	Metro Conductor
+cast	John Alden	Motorcycle Guard
+cast	Gloria O'Brien	Handsome Rob's Policewoman
+cast	Alfred Soltes	Left Ear's Butler
+cast	Kelly Brook	Lyle's Girlfriend
+cast	John H. Tobin	Biltmore Bartender

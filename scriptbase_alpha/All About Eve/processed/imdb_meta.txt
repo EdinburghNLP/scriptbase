@@ -1,0 +1,132 @@
+year	1950
+imdb score	8.4
+meta score	N/A
+genre	Drama
+keyword	theater
+keyword	director
+keyword	actress
+keyword	critic
+keyword	fan
+keyword	playwright
+keyword	party
+keyword	star
+keyword	engagement
+keyword	theater critic
+keyword	understudy
+keyword	ambition
+keyword	femme fatale
+keyword	flashback
+keyword	acting
+keyword	voice over narration
+keyword	broadway manhattan new york city
+keyword	restaurant
+keyword	diva
+keyword	reference to susan hayward
+keyword	reference to sigmund freud
+keyword	reference to barbara stanwyck
+keyword	reference to abbott and costello
+keyword	meta film
+keyword	multiple narrators
+keyword	reference to minnie maddern fiske
+keyword	sabotage
+keyword	taxi
+keyword	drinking
+keyword	drunkenness
+keyword	new york city
+keyword	women's restroom
+keyword	competition
+keyword	ambitious woman
+keyword	banquet
+keyword	showbiz
+keyword	reference to betty grable
+keyword	vanity
+keyword	maid
+keyword	rival
+keyword	mirror
+keyword	reference to the lone ranger
+keyword	reference to lunt and fontanne
+keyword	behind the scenes
+keyword	reference to gregory peck
+keyword	drink
+keyword	famous line
+keyword	reference to tyrone power
+keyword	hotel
+keyword	infidelity
+keyword	manhattan new york city
+keyword	price of fame
+keyword	face slap
+keyword	age difference
+keyword	starlet
+keyword	orchestral music score
+keyword	reference to donald duck
+keyword	theatrical director
+keyword	reference to clark gable
+keyword	female protagonist
+keyword	friendship
+keyword	based on article
+keyword	older woman younger man relationship
+keyword	urban setting
+keyword	deception
+keyword	breaking and entering
+keyword	based on short story
+keyword	reference to shakespeare's macbeth
+keyword	understudy becomes star
+keyword	character repeating someone else's dialogue
+keyword	reference to sarah bernhardt
+keyword	connecticut
+keyword	reference to henrik ibsen
+keyword	audition
+keyword	reference to william shakespeare
+keyword	cynicism
+keyword	satire
+keyword	backstage
+keyword	car trouble
+keyword	theatrical producer
+keyword	gossip columnist
+keyword	airport
+keyword	birthday party
+keyword	award
+keyword	blockbuster
+keyword	middle aged woman
+keyword	new haven connecticut
+keyword	freeze frame
+keyword	blackmail
+keyword	staircase
+keyword	based on true story
+keyword	character name in title
+keyword	title spoken by character
+keyword	
+cast	Bette Davis	Margo
+cast	Anne Baxter	Eve
+cast	George Sanders	Addison DeWitt
+cast	Celeste Holm	Karen
+cast	Gary Merrill	Bill Simpson
+cast	Hugh Marlowe	Lloyd Richards
+cast	Gregory Ratoff	Max Fabian
+cast	Barbara Bates	Phoebe
+cast	Marilyn Monroe	Miss Casswell
+cast	Thelma Ritter	Birdie
+cast	Walter Hampden	Aged Actor
+cast	Randy Stuart	Girl
+cast	Craig Hill	Leading Man
+cast	Leland Harris	Doorman
+cast	Barbara White	Autograph Seeker
+cast	Eddie Fisher	Stage Manager
+cast	William Pullen	Clerk
+cast	Claude Stroud	Pianist
+cast	Eugene Borden	Frenchman
+cast	Helen Mowery	Reporter
+cast	Steven Geray	Captain of Waiters
+cast	Gertrude Astor	Sarah Siddons Awards Guest
+cast	Ralph Brooks	Sarah Siddons Awards Guest
+cast	Jack Chefe	Sarah Siddons Awards Guest
+cast	James Conaty	Sarah Siddons Awards Guest
+cast	Franklyn Farnum	Sarah Siddons Awards Guest
+cast	Bess Flowers	Sarah Siddons Awards Guest
+cast	Thomas Martin	Waiter
+cast	Harold Miller	Sarah Siddons Awards Guest on Dais
+cast	Stanley Orr	Sarah Siddons Awards Guest
+cast	Marion Pierce	Sarah Siddons Awards Guest
+cast	'Snub' Pollard	Sarah Siddons Awards Guest
+cast	Larry Steers	Sarah Siddons Awards Guest
+cast	Robert Whitney	Actor in 'Hearts of Oak'

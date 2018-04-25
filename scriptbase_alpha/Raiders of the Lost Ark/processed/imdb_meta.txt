@@ -1,0 +1,260 @@
+year	1981
+imdb score	8.6
+meta score	90
+genre	Action
+genre	Adventure
+keyword	nazis
+keyword	escape
+keyword	ark of the covenant
+keyword	indiana jones
+keyword	archeologist
+keyword	professor
+keyword	statue
+keyword	german
+keyword	nepal
+keyword	archeology
+keyword	idol
+keyword	chase
+keyword	jungle
+keyword	egypt
+keyword	snake
+keyword	seaplane
+keyword	death
+keyword	boulder
+keyword	poison
+keyword	adventurer
+keyword	bullwhip
+keyword	poetic justice
+keyword	studio logo segues into film
+keyword	mp 40 machine gun
+keyword	tarantula
+keyword	barefoot
+keyword	action hero
+keyword	hat
+keyword	submarine
+keyword	cairo egypt
+keyword	cursed object
+keyword	pit
+keyword	good versus evil
+keyword	torch
+keyword	famous score
+keyword	whip
+keyword	crushed to death
+keyword	ophidiophobia
+keyword	main character shot
+keyword	spider
+keyword	buried alive
+keyword	nazi flag
+keyword	kidnapping
+keyword	cult film
+keyword	archeological dig
+keyword	imam
+keyword	swastika
+keyword	unsubtitled foreign language
+keyword	car chase
+keyword	shot in the shoulder
+keyword	exploding truck
+keyword	falling over a cliff
+keyword	pet snake
+keyword	revolver
+keyword	dates
+keyword	mercedes
+keyword	person on fire
+keyword	sucker punch
+keyword	actor playing multiple roles
+keyword	holding shoes in hand
+keyword	heroine
+keyword	female tied up
+keyword	nazi
+keyword	opening action scene
+keyword	bar shootout
+keyword	u boat
+keyword	killed by a propeller
+keyword	street shootout
+keyword	professor as hero
+keyword	bondage
+keyword	washington monument washington d.c.
+keyword	desert
+keyword	character's point of view camera shot
+keyword	man with glasses
+keyword	shootout
+keyword	lifting someone into the air
+keyword	explosion
+keyword	fireplace poker
+keyword	fear of snakes
+keyword	airplane accident
+keyword	archaeology professor
+keyword	possession
+keyword	rpg
+keyword	rivalry
+keyword	shot in the head
+keyword	famous opening scene
+keyword	leather jacket
+keyword	slow motion
+keyword	1930s
+keyword	street fight
+keyword	apple for the teacher
+keyword	blockbuster
+keyword	able to outdrink others
+keyword	submarine pen
+keyword	bar fight
+keyword	faith
+keyword	famous opening theme
+keyword	sitting
+keyword	angry spirit
+keyword	famous wardrobe
+keyword	mummy
+keyword	booby trap
+keyword	macguffin
+keyword	journey shown on map
+keyword	amazon
+keyword	biplane
+keyword	divine retribution
+keyword	german submarine
+keyword	gore
+keyword	rescue
+keyword	monkey corpse
+keyword	blood
+keyword	famous entrance
+keyword	crate
+keyword	mechanic
+keyword	bazaar
+keyword	american abroad
+keyword	magic
+keyword	fire
+keyword	tough guy
+keyword	burnt hand
+keyword	sword fight
+keyword	part of trilogy
+keyword	bravery
+keyword	ancient civilization
+keyword	cult hero
+keyword	melting
+keyword	gun whipped out of hand
+keyword	murder
+keyword	exploding head
+keyword	pistol
+keyword	reverse footage
+keyword	first part
+keyword	car accident
+keyword	sand thrown in eyes
+keyword	canyon
+keyword	bar
+keyword	horse
+keyword	supernatural power
+keyword	g man
+keyword	scream
+keyword	love interest
+keyword	disarming someone
+keyword	washington d.c.
+keyword	hero
+keyword	college
+keyword	punched in the stomach
+keyword	relic
+keyword	airplane
+keyword	part of series
+keyword	native american
+keyword	fedora
+keyword	ship
+keyword	jack daniels
+keyword	five word title
+keyword	prisoner
+keyword	warehouse
+keyword	christ allegory
+keyword	bound and gagged
+keyword	falling from height
+keyword	mirror
+keyword	imagery
+keyword	sword
+keyword	subjective camera
+keyword	kicked in the crotch
+keyword	scale model of city
+keyword	religion
+keyword	tied up while barefoot
+keyword	mercedes truck
+keyword	disguise
+keyword	skeleton
+keyword	dead monkey
+keyword	hostage
+keyword	hookah
+keyword	evil man
+keyword	sex in bed
+keyword	tomb
+keyword	thrown through a windshield
+keyword	blowing smoke in someone's face
+keyword	forced perspective
+keyword	hit by a truck
+keyword	knife
+keyword	homage
+keyword	ambush
+keyword	adventure hero
+keyword	kiss
+keyword	snake on a plane
+keyword	merchant ship
+keyword	cult figure
+keyword	damsel in distress
+keyword	melting face
+keyword	quick draw
+keyword	monkey
+keyword	kissing while having sex
+keyword	hat wearing heroes
+keyword	drinking contest
+keyword	one man army
+keyword	frying pan
+keyword	character's journey shown on map
+keyword	car falling off a cliff
+keyword	alcohol
+keyword	wilhelm scream
+keyword	basket
+keyword	fistfight
+keyword	leather coat
+keyword	punched in the face
+keyword	surprise ending
+keyword	
+cast	Harrison Ford	Indiana Jones
+cast	Karen Allen	Marion Ravenwood
+cast	Paul Freeman	Dr. René Belloq
+cast	Ronald Lacey	Major Arnold Toht
+cast	John Rhys-Davies	Sallah
+cast	Denholm Elliott	Dr. Marcus Brody
+cast	Alfred Molina	Satipo
+cast	Wolf Kahler	Colonel Dietrich
+cast	Anthony Higgins	Gobler
+cast	Vic Tablian	Barranca / Monkey Man
+cast	Don Fellows	Col. Musgrove
+cast	William Hootkins	Major Eaton
+cast	Bill Reimbold	Bureaucrat
+cast	Fred Sorenson	Jock
+cast	Patrick Durkin	Australian Climber
+cast	Matthew Scurfield	2nd. Nazi
+cast	Malcolm Weaver	Ratty Nepalese
+cast	Sonny Caldinez	Mean Mongolian
+cast	Anthony Chinn	Mohan
+cast	Pat Roach	Giant Sherpa / 1st Mechanic
+cast	Christopher Frederick	Otto
+cast	Tutte Lemkow	Imam
+cast	Ishaq Bux	Omar
+cast	Kiran Shah	Abu
+cast	Souad Messaoudi	Fayah
+cast	Terry Richards	Arab Swordsman
+cast	Steve Hanson	German Agent
+cast	Frank Marshall	Pilot
+cast	Martin Kreidt	Young Soldier
+cast	George Harris	Katanga
+cast	Eddie Tagoe	Messenger Pirate
+cast	John Rees	Sergeant
+cast	Tony Vogel	Tall Captain
+cast	Ted Grossman	Peruvian Porter
+cast	Vic Armstrong	German Soldier
+cast	Darin Chambers	Nazi Supporter
+cast	Peter Diamond	German Soldier
+cast	Harry Fielder	German
+cast	Nick Gillard	German Soldier
+cast	Romo Gorrara	German Soldier
+cast	Barrie Holland	Archivist
+cast	Terry Leonard	Driver of German Truck
+cast	Sergio Mioni	Driver of German Truck
+cast	Dennis Muren	Nazi Spy on the Airplane
+cast	Glenn Randall Jr.	Flying Wing Mechanic
+cast	Rocky Taylor	German Soldier
+cast	Frank Welker	Special Vocal Effects

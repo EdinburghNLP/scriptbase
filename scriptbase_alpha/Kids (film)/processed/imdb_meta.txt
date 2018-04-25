@@ -1,0 +1,201 @@
+year	1995
+imdb score	7.0
+meta score	N/A
+genre	Crime
+genre	Drama
+keyword	new york
+keyword	sex
+keyword	virgin
+keyword	new york city
+keyword	drugs
+keyword	skateboarder
+keyword	love
+keyword	puberty
+keyword	aids
+keyword	party
+keyword	first time sex
+keyword	teenage girl
+keyword	hip hop
+keyword	sexually transmissible disease
+keyword	virginity
+keyword	gay slur
+keyword	cannabis
+keyword	violence
+keyword	tension
+keyword	teenage sex
+keyword	1990s
+keyword	weed
+keyword	swimming
+keyword	night swimming
+keyword	lost generation
+keyword	controversy
+keyword	teenager
+keyword	pot
+keyword	kissing while having sex
+keyword	teenage rape
+keyword	street life
+keyword	male nudity
+keyword	swimming pool
+keyword	kissing
+keyword	coming of age
+keyword	teenage sexuality
+keyword	one day
+keyword	black panties
+keyword	female frontal nudity
+keyword	nudity
+keyword	lesbian kiss
+keyword	tragedy
+keyword	loss of virginity
+keyword	defloration
+keyword	sexual promiscuity
+keyword	panties slip
+keyword	bedroom
+keyword	venereal disease
+keyword	blunt
+keyword	buddy film
+keyword	teenager
+keyword	underwear
+keyword	date rape
+keyword	beating
+keyword	cannabis use
+keyword	lesbianism
+keyword	teenager
+keyword	underage sex
+keyword	cigarette smoking
+keyword	medical test
+keyword	naive young woman
+keyword	skateboarding
+keyword	bare butt
+keyword	male rear nudity
+keyword	teenager nudity
+keyword	undressing
+keyword	rape
+keyword	promiscuity
+keyword	panties
+keyword	drug use
+keyword	underage drinking
+keyword	sexually transmitted disease
+keyword	kicking
+keyword	interracial friendship
+keyword	bare breasts
+keyword	human immunodeficiency virus
+keyword	sexual abuse
+keyword	bed
+keyword	skateboard
+keyword	blood test
+keyword	nipples
+keyword	female nudity
+keyword	medical examination
+keyword	drugged
+keyword	underage smoking
+keyword	swimming in underwear
+keyword	smoking pot
+keyword	mismatched bra and panties
+keyword	troubled teenager
+keyword	lesbian
+keyword	shoplifting
+keyword	stripping
+keyword	bra
+keyword	male stripper
+keyword	deli
+keyword	teenage boy
+keyword	inner city
+keyword	drug dealer
+keyword	40 oz
+keyword	drug abuse
+keyword	teenage girl in underwear
+keyword	see through bra
+keyword	statutory rape
+keyword	marijuana
+keyword	actor playing himself
+keyword	urination
+keyword	independent film
+keyword	actor shares first name with character
+cast	Leo Fitzpatrick	Telly
+cast	Sarah Henderson	Girl #1
+cast	Justin Pierce	Casper
+cast	Joseph Chan	Deli Owner
+cast	Johnathan Staci Kim	Korean Guy
+cast	Adriane Brown	Little Girl
+cast	Sajan Bhagat	Paul
+cast	Billy Valdes	Stanly
+cast	Billy Waldeman	Zack
+cast	Javier Nunez	Javier
+cast	Luis Núñez	Luis
+cast	Christian Bruna	Christian
+cast	Alex Glen	Alex
+cast	Chloë Sevigny	Jennie
+cast	Rosario Dawson	Ruby
+cast	Julia Mendoza	Susan
+cast	Gillian Goldstein	Linda
+cast	Priscilla Forsyth	Diane
+cast	Francine Fuertes	Jennie's Nurse
+cast	Deborah Draper	Ruby's Nurse
+cast	Alan Wise	Accordion Player
+cast	Billy Solomon	Dancing Boy
+cast	Johanna Ignatov	Singing Woman
+cast	Raymond Batista	Legless Man
+cast	Julie Stebe-Glorius	Telly's Mom
+cast	Christiana Stebe-Glorius	Telly's Little Brother
+cast	Dr. Henry	Rasta Drug Dealer
+cast	Harold Hunter	Harold
+cast	Jon Abrahams	Steven
+cast	Hamilton Harris	Hamilton
+cast	Jeff Pang	Jeff
+cast	Atabey Rodriguez	Misha
+cast	Giovanni Estevez	Kid in Park
+cast	Karyn Grupski	Kid in Park
+cast	Mike Hernandez	Kid in Park
+cast	Peter Bici	Kid in Park
+cast	Ryan Sikorski	Kid in Park
+cast	Jim Gordy	Kid in Park
+cast	Louie Louie	Kid in Park
+cast	John Perez	Kid in Park
+cast	Eddie Peel	Kid in Park
+cast	Rich Arbitelle	Kid in Park
+cast	Nuri Bell	Kid in Park
+cast	Medwin Pang	Kid in Park
+cast	Jamie Story	Kid in Park
+cast	Jeff Simmons	Kid in Park
+cast	JAM	Kid in Park
+cast	Daniel Phillips	Kid in Park
+cast	Jamal Simmons	Kid in Park
+cast	Thierry Oddo	Kid in Park
+cast	Ronald Hunter	Kid in Park
+cast	Frank Natiello	Kid in Park
+cast	John Carter	Kid in Park
+cast	John Dean	Kid in Park
+cast	Jimmy Lalputan	Kid in Park
+cast	Tony Morales	Jungle Fever Couple #1
+cast	Walter Youngblood	Jungle Fever Couple #2
+cast	Ellsworth 'Cisco' Davis	Hoodlum
+cast	Joseph Knopfelmacher	Taxi Driver
+cast	Michele Lockwood	Kim
+cast	Carisa Glucksman	Joy
+cast	Scot Schwartz	Bennie
+cast	Yakira Peguero	Darcy
+cast	Sidney Prawatyotin	Sid
+cast	Carl Ly-Min	Security Guard
+cast	Avi Korine	Fidget
+cast	Darice Liguidi	Kid from Jersey
+cast	Beth Weinstein	Kid from Jersey
+cast	Jason Inconstanti	Kid from Jersey
+cast	Alexandra Karabell	Kid from Jersey
+cast	Zulaika Velazquez	Gertie
+cast	Nick Lockman	Nick
+cast	Joey Alvarez	Joey
+cast	Gerry Smith	Gerry
+cast	Lavar McBride	Lavar
+cast	Julie Ho	Tamara
+cast	Lila Lee	Girl at Party
+cast	Regina Mei	Girl at Party
+cast	Amy Moy	Girl at Party
+cast	Lisa Acevedo	Girl at Party
+cast	Corina Deleon	Girl at Party
+cast	Suzanne Wood	Girl at Party
+cast	Harrison Freed	Subway Rider
+cast	Harmony Korine	Club Kid
+cast	Stefanie Marco	NASA Girl
+cast	Edwin J. Nunez	Skateboarder
+cast	Exile Ramirez	Kid on Stoop
+cast	Kara Raynaud	Dancer in Club

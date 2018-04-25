@@ -1,0 +1,160 @@
+year	1997
+imdb score	6.7
+meta score	49
+genre	Action
+genre	Crime
+genre	Mystery
+genre	Romance
+genre	Thriller
+keyword	conspiracy
+keyword	newsletter
+keyword	taxi
+keyword	secret service
+keyword	fire
+keyword	hit in the crotch
+keyword	redeemed by love
+keyword	reference to richard speck
+keyword	chase
+keyword	amnesia
+keyword	subway
+keyword	defense
+keyword	murder
+keyword	street musician
+keyword	unrequited love
+keyword	bandaged nose
+keyword	brainwashed assassin
+keyword	schizophrenia
+keyword	nosebleed
+keyword	motorcycle
+keyword	chrysler building manhattan new york city
+keyword	paranoia
+keyword	cia
+keyword	medical research
+keyword	studio logo segues into film
+keyword	new york city
+keyword	kicked in the groin
+keyword	wheelchair
+keyword	justice department
+keyword	horse
+keyword	torture
+keyword	mind control
+keyword	mental institution
+keyword	geronimo
+keyword	sketch comedy
+keyword	reference to john wilkes booth
+keyword	politics
+keyword	catcher in the rye
+keyword	computer
+keyword	twin towers
+keyword	distrust of government
+keyword	flashback
+keyword	taxi driver
+keyword	horse riding
+keyword	lasersight
+keyword	hypodermic needle
+keyword	fbi
+keyword	helicopter
+keyword	manhattan new york city
+keyword	woman punching a man
+keyword	conspiracy theorist
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Mel Gibson	Jerry Fletcher
+cast	Julia Roberts	Alice Sutton
+cast	Patrick Stewart	Dr. Jonas
+cast	Cylk Cozart	Agent Lowry
+cast	Steve Kahan	Mr. Wilson
+cast	Terry Alexander	Flip
+cast	Alex McArthur	Cynic
+cast	Rod McLachlan	Justice Guard
+cast	Michael Potts	Justice Guard
+cast	Jim Sterling	Justice Guard
+cast	Rich Hebert	Public Works Man
+cast	Brian J. Williams	Clarke
+cast	G.A. Aguilar	Piper
+cast	Cece Neber Labao	Henry Finch's Secretary
+cast	Saxon Trainor	Alice's Secretary
+cast	Claudia Stedelin	Claudia
+cast	Leonard Jackson	Old Man in Barnes & Noble Bookstore
+cast	Donal Gibson	Doctor in Roosevelt Hospital
+cast	Joanna Sanchez	Nurse in Roosevelt Hospital
+cast	Michael Shamus Wiles	Cop in Roosevelt Hospital
+cast	Mik Scriba	Cop in Roosevelt Hospital
+cast	Patrick Wild	Intern in Jerry's Room
+cast	Mushond Lee	Intern
+cast	Kevin Kindlin	Intern
+cast	Troy Garity	Intern
+cast	J. Mills Goodloe	Jonas' Aide
+cast	Michael Kurtz	Well Dressed Man
+cast	Peter Koch	Fire Captain
+cast	Kevin Jackson	CIA Agent
+cast	Nicholas Kusenko	CIA Agent
+cast	Karl Makinen	CIA Agent
+cast	Darren Peel	Geronimo Cleet
+cast	Marian Collier	Geronimo Cook
+cast	John Harms	Agent Murphy
+cast	Christine Toy Johnson	Barnes & Noble Bookstore Clerk
+cast	David Koch	Tech
+cast	Danny Smith	Tech
+cast	Juan A. Riojas	Tech
+cast	Paul Tuerpe	Cleet
+cast	Dean Winters	Cleet
+cast	José Ramón Rosario	Angry Vendor
+cast	Louis Cantarini	Angry Vendor
+cast	Sean Patrick Thomas	Surveillance Operator
+cast	Peter Jacobson	Surveillance Operator
+cast	Edita Brychta	Henry Finch's Receptionist
+cast	Sage Allen	Grouchy Nurse
+cast	Thomas McCarthy	Helicopter Spotter
+cast	K.T. Vogt	Woman in Mental Hospital
+cast	Joshua Fardon	Hospital Guard
+cast	Joan Lunden	TV Announcer
+cast	Charles McDaniel	Bureaucrat
+cast	Matte Osian	Operative
+cast	Dave Simonds	Operative
+cast	Rick Hoffman	Night Security
+cast	Edward J. Rosen	Old Man in Diner
+cast	Bert Remsen	Judge Sutton
+cast	Lincoln Simonds	Cop
+cast	Bill Henderson	Hospital Security
+cast	Jay Della	Patient
+cast	James Oliver	Man in Justice Department
+cast	Kerry McCullen Palmisano	Nurses' Aide
+cast	Victory Palmisano	Nurses' Aide
+cast	Kate Bayley	Nurses' Aide
+cast	Irene Hilleary	Justice Department Receptionist
+cast	Stephen Liska	Hospital Orderly
+cast	Don Stanley	Justice Department Guard
+cast	Lorna R. Millen	Charge Nurse
+cast	Brad Rea	Spotter
+cast	Jim Van Wyck	Spotter
+cast	Jayson Merrill	Spotter
+cast	Dan Cracchiolo	Spotter
+cast	John Schwartzman	Sniper
+cast	Raymond King	Bucket Drummer
+cast	Jared Crawford	Bucket Drummer
+cast	Jeremy A. Graham	Rapper
+cast	Chad Santiago	Rapper
+cast	Christo Morse	Taxi Patron
+cast	H. Clay Dear	Traffic Cop
+cast	Daniel Nugent	Traffic Cop
+cast	Andrew Lauren	Lawyer
+cast	Tom Schanley	Lawyer
+cast	Kenneth Tigar	Lawyer
+cast	Maureen Lauder	Lady with Dog
+cast	Judith Woodbury	Woman Lawyer
+cast	James W. Gavin	Helicopter Pilot
+cast	Al Cerullo	Helicopter Pilot
+cast	Charles W. Robinson	Helicopter Pilot
+cast	Robert Chaves	Helicopter Pilot
+cast	Cliff Fleming	Helicopter Pilot
+cast	Richard Donner	Cab Passenger
+cast	Steve Lee	Radio Talk Show Voice
+cast	Beau Lotterman	Policeman
+cast	Erik L. Nelson	Loading Dock Man
+cast	Conrad E. Palmisano	Truck Driver
+cast	Raffi Paloulian	Extra
+cast	Judy Prianti	Nun
+cast	George Simpson	Radio Talk Show Voice
+cast	Justin Ward	Bank Customer

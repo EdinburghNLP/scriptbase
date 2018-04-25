@@ -1,0 +1,359 @@
+year	1983
+imdb score	8.4
+meta score	52
+genre	Action
+genre	Adventure
+genre	Fantasy
+genre	Sci-Fi
+keyword	rebel
+keyword	death star
+keyword	empire
+keyword	princess
+keyword	battle
+keyword	emperor
+keyword	gangster
+keyword	lightsaber
+keyword	smuggler
+keyword	jedi knight
+keyword	saga
+keyword	moon
+keyword	bounty hunter
+keyword	final battle
+keyword	evil
+keyword	rescue
+keyword	punctuation in title
+keyword	battlefield
+keyword	slime
+keyword	far far away
+keyword	hutt sex
+keyword	father son relationship
+keyword	slapstick comedy
+keyword	bestiality
+keyword	last words
+keyword	funeral pyre
+keyword	strangulation
+keyword	fictional war
+keyword	laser gun
+keyword	cult figure
+keyword	dancing
+keyword	metal bikini
+keyword	father son estrangement
+keyword	promise
+keyword	psychokinesis
+keyword	war violence
+keyword	roman numbered sequel
+keyword	famous score
+keyword	long time ago
+keyword	allegory of multiple historical events.
+keyword	galactic war
+keyword	desert
+keyword	forest
+keyword	gunfight
+keyword	fate of the universe
+keyword	sex slave
+keyword	redemption
+keyword	victory
+keyword	good versus evil
+keyword	bondage
+keyword	explosion
+keyword	shootout
+keyword	no opening credits
+keyword	villain turns good
+keyword	space opera
+keyword	alien civilization
+keyword	cult film
+keyword	space battle
+keyword	cremation
+keyword	symphonic music score
+keyword	hologram
+keyword	sequel
+keyword	eaten alive
+keyword	puppet
+keyword	zoophilia
+keyword	blockbuster
+keyword	sliminess
+keyword	force lightning
+keyword	human alien sexual relations
+keyword	fictional planet
+keyword	tough guy
+keyword	sword duel
+keyword	female fighter
+keyword	sword fight
+keyword	rebellion
+keyword	tragic villain
+keyword	parallelism in prequel
+keyword	giant monster
+keyword	patricide
+keyword	christ allegory
+keyword	part of trilogy
+keyword	messiah
+keyword	firework
+keyword	tyrant
+keyword	sword
+keyword	desert planet
+keyword	chase
+keyword	lifting someone into the air
+keyword	violence
+keyword	death ray
+keyword	tragedy
+keyword	family relationships
+keyword	space travel
+keyword	overweight
+keyword	booby trap
+keyword	alien
+keyword	musical number
+keyword	android
+keyword	laser pistol
+keyword	lifting male in air
+keyword	martial arts
+keyword	trap
+keyword	falling from height
+keyword	lifting person in air
+keyword	action hero
+keyword	invented language
+keyword	electrocution
+keyword	jet pack
+keyword	brother sister relationship
+keyword	mistaken for god
+keyword	kicked down the stairs
+keyword	reverse footage
+keyword	character's point of view camera shot
+keyword	warp speed
+keyword	leitmotif
+keyword	slop kissing
+keyword	sixth part
+keyword	combat
+keyword	wilhelm scream
+keyword	scream
+keyword	x rayed skeleton
+keyword	space station
+keyword	subjective camera
+keyword	man eating monster
+keyword	exotic dancer
+keyword	tough girl
+keyword	lifting an adult into the air
+keyword	mixed martial arts
+keyword	epic
+keyword	roman numeral in title
+keyword	destiny
+keyword	chains
+keyword	love
+keyword	swordplay
+keyword	poetic justice
+keyword	warrior
+keyword	disarming someone
+keyword	severed hand
+keyword	evil empire
+keyword	storm trooper
+keyword	orchestral music score
+keyword	mandalorian
+keyword	end of trilogy
+keyword	enslavement
+keyword	telekinesis
+keyword	wookiee
+keyword	kendo
+keyword	ambush
+keyword	spacecraft
+keyword	compassion
+keyword	computer
+keyword	kindness
+keyword	robot
+keyword	elongated cry of no
+keyword	planet
+keyword	showdown
+keyword	disguise
+keyword	kissing
+keyword	frozen body
+keyword	female spy
+keyword	hang gliding
+keyword	gun fu
+keyword	outrunning explosion
+keyword	licking
+keyword	tongue
+keyword	hand to hand combat
+keyword	electrical torture
+keyword	future
+keyword	chained
+keyword	gun battle
+keyword	returning character killed off
+keyword	hero
+keyword	stop motion animation
+keyword	kiss
+keyword	outer space
+keyword	sorcerer
+keyword	numbered sequel
+keyword	number in title
+cast	Mark Hamill	Luke Skywalker
+cast	Harrison Ford	Han Solo
+cast	Carrie Fisher	Princess Leia
+cast	Billy Dee Williams	Lando Calrissian
+cast	Anthony Daniels	C-3PO
+cast	Peter Mayhew	Chewbacca
+cast	Sebastian Shaw	Anakin Skywalker
+cast	Ian McDiarmid	The Emperor
+cast	Frank Oz	Yoda
+cast	James Earl Jones	Darth Vader
+cast	David Prowse	Darth Vader
+cast	Alec Guinness	Ben 'Obi-Wan' Kenobi
+cast	Kenny Baker	R2-D2 / Paploo
+cast	Michael Pennington	Moff Jerjerrod
+cast	Kenneth Colley	Admiral Piett
+cast	Michael Carter	Bib Fortuna
+cast	Denis Lawson	Wedge
+cast	Tim Rose	Admiral Ackbar
+cast	Dermot Crowley	General Madine
+cast	Caroline Blakiston	Mon Mothma
+cast	Warwick Davis	Wicket
+cast	Jeremy Bulloch	Boba Fett
+cast	Femi Taylor	Oola
+cast	Annie Arbogast	Sy Snootles
+cast	Claire Davenport	Fat Dancer
+cast	Jack Purvis	Teebo
+cast	Mike Edmonds	Logray
+cast	Jane Busby	Chief Chirpa
+cast	Malcolm Dixon	Ewok Warrior
+cast	Mike Cottrell	Ewok Warrior
+cast	Nicki Reade	Nicki
+cast	Adam Bareham	Stardestroyer Controller #1
+cast	Jonathan Oliver	Stardestroyer Controller #2
+cast	Pip Miller	Stardestroyer Captain #1
+cast	Tom Mannion	Stardestroyer Captain #2
+cast	Margo Apostolos	Ewok
+cast	Ray Armstrong	Ewok
+cast	Eileen Baker	Ewok
+cast	Michael Henbury Ballan	Ewok
+cast	Bobby Bell	Ewok
+cast	Patty Bell	Ewok
+cast	Alan Bennett	Ewok
+cast	Sarah Bennett	Ewok
+cast	Pamela Betts	Ewok
+cast	Danny Blackner	Ewok
+cast	Linda Bowley	Ewok
+cast	Peter Burroughs	Ewok
+cast	Debbie Lee Carrington	Ewok
+cast	Maureen Charlton	Ewok
+cast	Willie Coppen	Ewok
+cast	Sadie Corre	Ewok
+cast	Tony Cox	Ewok
+cast	John Cumming	Ewok
+cast	Jean D'Agostino	Ewok
+cast	Luis De Jesus	Ewok
+cast	Debbie Dixon	Ewok
+cast	Margarita Fernández	Ewok
+cast	Phil Fondacaro	Ewok
+cast	Sal Fondacaro	Ewok
+cast	Tony Friel	Ewok
+cast	Daniel Frishman	Ewok
+cast	John Ghavan	Ewok
+cast	Michael Gilden	Ewok
+cast	Paul Grant	Ewok
+cast	Lydia Green	Ewok
+cast	Lars Green	Ewok
+cast	Pam Grizz	Ewok
+cast	Andrew Herd	Ewok
+cast	J.J. Jackson	Ewok
+cast	Richard Jones	Ewok
+cast	Trevor Jones	Ewok
+cast	Glynn Jones	Ewok
+cast	Karen Lay	Ewok
+cast	John Lummiss	Ewok
+cast	Nancy MacLean	Ewok
+cast	Peter Mandell	Ewok
+cast	Carole Morris	Ewok
+cast	Stacie Nichols	Ewok
+cast	Chris Nunn	Ewok
+cast	Barbara O'Laughlin	Ewok
+cast	Brian Orenstein	Ewok
+cast	Harrell Parker Jr.	Ewok
+cast	John Pedrick	Ewok
+cast	April Perkins	Ewok
+cast	Ronnie Phillips	Ewok
+cast	Katie Purvis	Ewok
+cast	Carol Read	Ewok
+cast	Nicholas Read	Ewok
+cast	Diana Reynolds	Ewok
+cast	Daniel Rodgers	Ewok
+cast	Chris Romano	Ewok
+cast	Dean Shackelford	Ewok
+cast	Kiran Shah	Ewok
+cast	Felix Silla	Ewok
+cast	Linda Spriggs	Ewok
+cast	Gerald Staddon	Ewok
+cast	Josephine Staddon	Ewok
+cast	Kevin Thompson	Ewok
+cast	Kendra Wall	Ewok
+cast	Brian Wheeler	Ewok
+cast	Butch Wilhelm	Ewok
+cast	Dalyn Chew	Jedi Rocks Dancer
+cast	Celia Fushille-Burke	Jedi Rocks Dancer
+cast	Mercedes Ngoh	Jedi Rocks Dancer
+cast	Jennifer Jaffe	Jedi Rocks Dancer
+cast	Peter Allen	Geezum - Member of Jabba's Gang
+cast	John Altman	Rebel Pilot
+cast	Franki Anderson	Buboicullaar - Jabba's Frog-Dog Bodyguard
+cast	Glyn Baker	Lieutenant Endicott - Imperial Officer
+cast	Erik Bauersfeld	Bib Fortuna
+cast	Dickey Beer	Barada / Stormtrooper / Biker Scout
+cast	Ailsa Berk	Amanaman - Jabba's Bounty Hunter
+cast	Don Bies	Barquin D'an / Boba Fett
+cast	Richard Bonehill	Stormtrooper / Nien Nunb / Mon Calamari / Ree Yees / Mosep / Z-Winged Pilot / Tie Pilot
+cast	Paul Brooke	Malakili - Rancor Keeper
+cast	Ben Burtt	'Freeze' Officer in Endor Bunker / Tortured Power Droid
+cast	Morris Bush	Dengar - The Bounty Hunter
+cast	Trevor Butterfield	Lieutenant Blount - Rebel Soldier
+cast	David Church	Lieutenant Judder Page - Rebel Soldier
+cast	Stephen Costantino	Gamorrean Guard
+cast	Sean Crawford	Saelt 'Yak Face' Marae -Member of Jabba's Gang / Mon Calamari Officer
+cast	Andy Cunningham	Ephant Mon - Jabba's Head of Security
+cast	Ronny Cush	X-Wing Pilot
+cast	Denny Delk	Wicket Wystri Warrick - The Ewok
+cast	Peter Diamond	Biker Scout Pushed Off Bike
+cast	Mark Dodson	Salacious Crumb
+cast	Tim Dry	J'Quille - Jabba's Bounty Hunter / Tanus Spijek - Jabba's Informant
+cast	Alan Flyng	Imperial Officer - Executor
+cast	Ernie Fosselius	Malakili - Rancor Keeper / Giran
+cast	David Gonzales	Ak-Rev - Drummer & Percussionist of The Max Rebo Band
+cast	Isaac Grand	Gamorrean Guard
+cast	Anthony Guilding	Rebel Crewman
+cast	Nelson Hall	Doda Bodonawieedo / Boba Fett
+cast	Gordon Hann	Captain Yutani - Rebel Soldier
+cast	Alan Harris	Bossk - The Bounty Hunter
+cast	Mike Havord	Colonel Jendon - Imperial Co-Pilot of ST321
+cast	Lynne Hazelden	Karie Neth - Y Wing Pilot, Grey Squadron
+cast	Philip Herbert	Hermi Odle - Jabba's 2nd Servant
+cast	Barrie Holland	Lt. Renz - 'Rebel Scum' Officer in Bunker
+cast	Gerald Home	Tessek / Mon Calamari Officer
+cast	William Hoyland	Imperial Commander
+cast	Jasper Jacob	Captain Yorr - Imperial Pilot of ST321
+cast	Paul Klein	BG-J38 - Jabba's Robot Servant
+cast	Larin Lahr	GONK Droid
+cast	Anthony Lang	Sim Aloo - Emperor Palpatine's Advisor
+cast	Arnold Lee	Rayc Ryjerd - Jabba's Smuggler
+cast	Swim Lee	Hoover
+cast	Richard Marquand	Maj. Marquand - AT-ST Driver / EV-9D9
+cast	Vivienne Maya	Female X-Wing Fighter Pilot
+cast	Hilton McRae	Arvel Crynyd
+cast	George Miller	Gamorrean Guard
+cast	Billy J. Mitchell	Keir Santage
+cast	Ralph Morse	Stormtrooper
+cast	Terence Mustoo	X-Wing pilot
+cast	Amanda Noar	Jess - Female Musician flirting with Bib Fortuna
+cast	Jack Orris	Kin Jian - Gunner Grey Leader
+cast	Quentin Pierre	Myn Kyneugh - Emperor's Royal Guard
+cast	Mike Quinn	Nien Nunb / Ree-Yees / Sy Snootles / Yoda / Wol Cabbashite
+cast	Barry Robertson	Gamorrean Guard
+cast	Kipsang Rotich	Nien Nunb
+cast	Deep Roy	Droopy McCool
+cast	Peter Roy	Major Olander Brit - Rebel
+cast	Anthony Smee	Imperial Officer - 'Open the Back Door'
+cast	Paul Springer	Ree Yees
+cast	Tony Star	Gamorrean Guard
+cast	Michael Stevens	Colonel Airen Cracken - Rebel Soldier on Millennium Falcon
+cast	Phil Tippett	Rancor - Jabba's Pet Monster
+cast	Marolyn Turk	Beedo - Jabba's Bounty Hunter
+cast	Larry Ward	Jabba the Hutt
+cast	Robert Watts	Lt. Watts - AT-ST Driver
+cast	Pat Welsh	Boushh
+cast	Paul Weston	Vedain - Sand Skiff Pilot
+cast	Corey Dee Williams	Klaatu
+cast	Simon J. Williamson	Max Rebo

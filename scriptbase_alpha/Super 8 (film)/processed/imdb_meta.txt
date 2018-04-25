@@ -1,0 +1,257 @@
+year	2011
+imdb score	7.1
+meta score	72
+genre	Mystery
+genre	Sci-Fi
+genre	Thriller
+keyword	train crash
+keyword	group of friends
+keyword	ohio
+keyword	small town
+keyword	make up
+keyword	disappearance
+keyword	black out
+keyword	telling someone to shut up
+keyword	gas station
+keyword	super 8
+keyword	pendant
+keyword	father daughter relationship
+keyword	seaching for a missing dog
+keyword	monster abducts woman
+keyword	death of wife
+keyword	colonel
+keyword	father son hug
+keyword	evacuation
+keyword	deputy sheriff
+keyword	aspiring actor
+keyword	held captive
+keyword	listening to music on headphones
+keyword	child in peril
+keyword	watching a zombie movie
+keyword	explosion
+keyword	hole
+keyword	container truck
+keyword	newscast
+keyword	film reel
+keyword	cover up
+keyword	alien
+keyword	sparkler
+keyword	eaten alive
+keyword	vomiting
+keyword	battle tank
+keyword	rescue
+keyword	military
+keyword	tank
+keyword	younger version of character
+keyword	boy slaps girl
+keyword	air force colonel
+keyword	car on train tracks
+keyword	digit in title
+keyword	family relationships
+keyword	cartoon on tv
+keyword	impalement
+keyword	coming of age
+keyword	science teacher
+keyword	scene during end credits
+keyword	fictional town
+keyword	middle school
+keyword	teenage director
+keyword	1960s
+keyword	flame thrower
+keyword	first love
+keyword	14 year old
+keyword	father son relationship
+keyword	stoned
+keyword	model train
+keyword	year 1958
+keyword	father searches for missing daughter
+keyword	car crash
+keyword	flash forward
+keyword	home movie
+keyword	forest fire
+keyword	driving on train tracks
+keyword	teenage hero
+keyword	aspiring filmmaker
+keyword	looking for a missing pet
+keyword	two word title
+keyword	uh 1 huey helicopter
+keyword	vomit
+keyword	last day of school
+keyword	diner
+keyword	film within a film
+keyword	zippo lighter
+keyword	murder of a police officer
+keyword	train explosion
+keyword	train truck collision
+keyword	escape
+keyword	break in
+keyword	teen romance
+keyword	telepathy
+keyword	father son relationship
+keyword	crash site
+keyword	police station
+keyword	pickup truck
+keyword	teenage boy
+keyword	walkie talkie
+keyword	child driving car
+keyword	cube
+keyword	child's point of view
+keyword	elbowed in face
+keyword	no opening credits
+keyword	hanging upside down
+keyword	gas station attendant
+keyword	pistol
+keyword	missing dog
+keyword	monster
+keyword	climbing through a window
+keyword	group of children
+keyword	year 1979
+keyword	real life brothers playing brothers
+keyword	water tower
+keyword	father searches for missing son
+keyword	escape from custody
+keyword	toy gun
+keyword	air force base
+keyword	misfire
+keyword	blood
+keyword	watching a home movie
+keyword	bandaged hand
+keyword	necklace
+keyword	teenage girl
+keyword	gash in the face
+keyword	firecracker
+keyword	fire
+keyword	alcoholic
+keyword	amateur filmmaker
+keyword	impersonating a soldier
+keyword	forbidden love
+keyword	exploding house
+keyword	murder
+keyword	walkman
+keyword	town meeting
+keyword	real twins playing twins
+keyword	girl
+keyword	father daughter hug
+keyword	drug addict
+keyword	teen bedroom
+keyword	sole black character dies cliche
+keyword	movie makeup
+keyword	machine gun
+keyword	flamethrower
+keyword	male slaps a female
+keyword	grief
+keyword	face slap
+keyword	cherry picker
+keyword	amateur radio
+keyword	sheriff
+keyword	revolver
+keyword	safety record
+keyword	video camera
+keyword	sergeant
+keyword	soldier
+keyword	boy
+keyword	filmmaking
+keyword	locket with photograph
+keyword	1970s
+keyword	ham radio
+keyword	cb radio
+keyword	subterranean
+keyword	secret
+keyword	marijuana joint
+keyword	map of united states
+keyword	jealousy
+keyword	u.s. air force
+keyword	train station
+keyword	lens flare
+keyword	cemetery
+keyword	friendship
+keyword	movie director
+keyword	sabotage
+keyword	title appears in writing
+keyword	military arrest
+keyword	bus accident
+keyword	rifle butt smashed into face
+keyword	making a zombie film
+keyword	investigation
+keyword	teenage romance
+keyword	exploding train
+keyword	arson
+keyword	hit with a rifle butt
+keyword	lethal injection
+keyword	hippie
+keyword	pack of dogs
+keyword	spaceship
+keyword	car hit by a train
+keyword	attack
+keyword	bicycle
+keyword	death of mother
+keyword	title spoken by character
+keyword	number in title
+keyword	
+cast	Joel Courtney	Joe Lamb
+cast	Jessica Tuck	Mrs. Kaznyk
+cast	Joel McKinnon Miller	Mr. Kaznyk
+cast	Ryan Lee	Cary
+cast	Zach Mills	Preston
+cast	Riley Griffiths	Charles Kaznyk
+cast	Gabriel Basso	Martin
+cast	Kyle Chandler	Deputy Jackson Lamb
+cast	Ron Eldard	Louis Dainard
+cast	AJ Michalka	Jen Kaznyk
+cast	Andrew Miller	Kaznyk Twin
+cast	Jakob Miller	Kaznyk Twin
+cast	Jade Griffiths	Benji Kaznyk
+cast	Britt Flatmo	Peg Kaznyk
+cast	Elle Fanning	Alice Dainard
+cast	Glynn Turman	Dr. Thomas Woodward
+cast	Noah Emmerich	Colonel Nelec
+cast	Richard T. Jones	Overmyer
+cast	Amanda Foreman	Lydia Connors - Ch 14 News Anchor
+cast	David Gallagher	Donny
+cast	Brett Rice	Sheriff Pruitt
+cast	Michael Giacchino	Deputy Crawford
+cast	Beau Knapp	Breen
+cast	Bruce Greenwood	Cooper
+cast	Dale Dickey	Edie
+cast	Jack Axelrod	Mr. Blakely
+cast	Dan Castellaneta	Izzy
+cast	Ben Gavin	Deputy Milner
+cast	Jay Scully	Deputy Skadden
+cast	Michael Hitchcock	Deputy Rosko
+cast	James Landry Hébert	Deputy Tally
+cast	Thomas F. Duffy	Rooney
+cast	Teri Clark	Mrs. Babbit
+cast	Tom Quinn	Mr. McCandless
+cast	Kate Yerves	Woman in Office
+cast	Caitriona Balfe	Elizabeth Lamb
+cast	Koa Melvin	Baby Joe
+cast	Tom Williams	Flame Thrower
+cast	Bingo O'Malley	Mr. Harkin
+cast	Tony Guma	Sergeant Walters
+cast	Robert B. Quiroz	Boy in EVAC
+cast	Jason Brooks	Air Force Security
+cast	Tim Griffin	Commando
+cast	Marco Sanchez	Hernandez
+cast	Emerson Brooks	Military Bus Driver
+cast	Jonathan Dixon	Airman Nevil
+cast	Patrick St. Esprit	Weapons Commander
+cast	Greg Grunberg	Sitcom Actor
+cast	Katie Lowes	Tina
+cast	Daniel Aldema	
+cast	Michael Guy Allen	Military Personnel
+cast	Barrett Carnahan	Military Personnel
+cast	Graham Clarke	Airforce Airman Korne
+cast	Andrew Constantini	National Guard
+cast	Matthew Crawley	Airforce Airman Taylor
+cast	Mike DeMille	Urgent Man
+cast	Mel Fair	Local News Reporter
+cast	Danielle Laudise	Scared Pretty Girl in the Bus
+cast	Sara Lindsey	Citizen
+cast	Bill Martin	Military Personnel
+cast	Scott A. Martin	Sal
+cast	Tiffany Sander McKenzie	Town Hall Citizen
+cast	Jake McLaughlin	Merrit
+cast	Alex Nevil	Rick
+cast	Sadie	Missing Dog
+cast	Tom Shafer	Town Hall Citizen #3
+cast	Zoltan Zilai	Military Personnel

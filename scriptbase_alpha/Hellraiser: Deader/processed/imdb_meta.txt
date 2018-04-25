@@ -1,0 +1,84 @@
+year	2005
+imdb score	4.6
+meta score	N/A
+genre	Horror
+genre	Mystery
+genre	Thriller
+keyword	journalist
+keyword	romania
+keyword	newspaper office
+keyword	blood spatter
+keyword	topless female nudity
+keyword	crack house
+keyword	hole in torso
+keyword	seventh part
+keyword	woman wearing only a man's shirt
+keyword	hook
+keyword	snuff film
+keyword	wrist slitting
+keyword	male rear nudity
+keyword	back from the dead
+keyword	torture
+keyword	gore
+keyword	lesbianism
+keyword	pinhead
+keyword	handcuffs
+keyword	destiny
+keyword	kneed in the groin
+keyword	good versus evil
+keyword	lifting someone into the air
+keyword	severed hand
+keyword	chain
+keyword	stabbed in the chest
+keyword	bare breasts
+keyword	stabbing
+keyword	chosen one
+keyword	male nudity
+keyword	lesbian
+keyword	sequel
+keyword	subway
+keyword	hit by a subway
+keyword	male full frontal nudity
+keyword	hallucination
+keyword	lifting female in air
+keyword	female nudity
+keyword	shot in the head
+keyword	flashback
+keyword	insane asylum
+keyword	bath
+keyword	suicide
+keyword	bad smell
+keyword	independent film
+keyword	
+cast	Kari Wuhrer	Amy Klein
+cast	Paul Rhys	Winter
+cast	Simon Kunz	Charles Richmond
+cast	Marc Warren	Joey
+cast	Georgina Rylance	Marla
+cast	Doug Bradley	Pinhead
+cast	Ionut Chermenski	Group Leader
+cast	Hugh Jorgin	The Arrogant Reporter
+cast	Linda Marlowe	Betty
+cast	Madalina Constantin	Anna
+cast	Ioana Abur	Katia
+cast	Constantin Barbulescu	The Landlord
+cast	Daniel Chirea	Amy's Father
+cast	Maria Pintea	Young Amy
+cast	Mircea Constantinescu	Subway Cop #1
+cast	Marius Ratiu	Subway Cop #2
+cast	Nike Phanzu	Deader Guide
+cast	Dan Chiriac	Resurrected Deader
+cast	Alina Radu	Deader #1
+cast	Onut Dumitru	Deader #2
+cast	Mircea Hategan	Young Subway Cop
+cast	Laura Paraschiv	Little Sister Cenobite
+cast	Catalina Alexandru	Cenobite's Victim
+cast	Matthew Delamere	Dr. Kircher
+cast	Daria Enescu	Young Girl Painter
+cast	Snowy Highfield	Spike Cenobite
+cast	Mike J. Regan	Chatterer Cenobite
+cast	Petrica Voicu	Crack-Head
+cast	Sandu Mihai Gruia	Cabbie 1
+cast	Ionut Kermenschi	Worker
+cast	Daniel Giurcareanu	Conductor
+cast	Doina Ghitescu	Driver

@@ -1,0 +1,163 @@
+year	1989
+imdb score	7.2
+meta score	N/A
+genre	Comedy
+genre	Sport
+keyword	baseball
+keyword	voodoo
+keyword	showgirl
+keyword	library
+keyword	motorcycle
+keyword	sports fan
+keyword	prayer
+keyword	baseball bat
+keyword	new york
+keyword	male bonding
+keyword	unfaithful wife
+keyword	tour bus
+keyword	knife
+keyword	jealousy
+keyword	autograph
+keyword	red dress
+keyword	racial slur
+keyword	locker room
+keyword	tuxedo
+keyword	rum
+keyword	tire
+keyword	voodoo ritual
+keyword	baseball coach
+keyword	sports league
+keyword	baseball player
+keyword	cocktail
+keyword	watching tv
+keyword	chicken
+keyword	underwear
+keyword	reconciliation
+keyword	eccentric
+keyword	professional sports
+keyword	lightning
+keyword	champagne
+keyword	adultery
+keyword	ambition
+keyword	sombrero
+keyword	fire sprinkler
+keyword	bunk bed
+keyword	triumph
+keyword	lizard
+keyword	sunglasses
+keyword	newspaper
+keyword	beer
+keyword	prison
+keyword	training
+keyword	monument
+keyword	cleveland ohio
+keyword	mullet haircut
+keyword	wife's sexual pretence
+keyword	unfaithful husband
+keyword	tv commercial
+keyword	underdog
+keyword	baseball movie
+keyword	party
+keyword	volkswagen
+keyword	hard hat
+keyword	sit ups
+keyword	baseball field
+keyword	rookie
+keyword	bar
+keyword	umpire
+keyword	hot dog
+keyword	tattoo
+keyword	vulgarity
+keyword	sports team
+keyword	librarian
+keyword	spitting
+keyword	security guard
+keyword	fiancé fiancée relationship
+keyword	golf bag
+keyword	blindfold
+keyword	religious obsession
+keyword	sportscaster
+keyword	slow motion
+keyword	public phone
+keyword	wisecrack humor
+keyword	urination
+keyword	credit card
+keyword	snake
+keyword	obscene finger gesture
+keyword	ex convict
+keyword	restaurant
+keyword	comic strip
+keyword	baseball game
+keyword	profanity
+keyword	sign language
+keyword	airplane
+keyword	short sighted
+keyword	refrigerator
+keyword	cactus
+keyword	farce
+keyword	shaved head
+keyword	loss of husband
+keyword	watermelon
+keyword	
+cast	Tom Berenger	Jake Taylor
+cast	Charlie Sheen	Ricky Vaughn
+cast	Corbin Bernsen	Roger Dorn
+cast	Margaret Whitton	Rachel Phelps
+cast	James Gammon	Lou Brown
+cast	Rene Russo	Lynn Wells
+cast	Wesley Snipes	Willie Mays Hayes
+cast	Charles Cyphers	Charlie Donovan
+cast	Chelcie Ross	Eddie Harris
+cast	Dennis Haysbert	Pedro Cerrano
+cast	Andy Romano	Pepper Leach
+cast	Bob Uecker	Harry Doyle
+cast	Steve Yeager	Duke Temple
+cast	Peter Vuckovich	Haywood
+cast	Stacy Carroll	Suzanne Dorn
+cast	Richard Pickren	Tom
+cast	Kevin Crowley	Vic Bolito
+cast	Mary Seibel	Thelma
+cast	Bill Leff	Bobby James
+cast	Mike Bacarella	Johnny Wynn
+cast	Skip Griparis	Colorman
+cast	Gary Houston	Ross Farmer
+cast	Ward Ohrman	Arthur Holloway
+cast	Marge Kotlisky	Chaire Holloway
+cast	Tony Mockus Jr.	Brent Bowden
+cast	Deborah Wakeham	Janice Bowden
+cast	Neil Flynn	Longshoreman
+cast	Keith Uchima	Groundskeeper #1
+cast	Kurt Uchima	Groundskeeper #2
+cast	William M. Sinacore	Coleman
+cast	Richard Baird	Hal Charles
+cast	Julia Milaris	Arlene
+cast	Roger Unice	Rexman
+cast	Michael Thoma	Gentry
+cast	Patrick Dollymore	French Waiter
+cast	Joe Liss	Guy in Bar
+cast	Gregory Alan Williams	Bull Pen Guard
+cast	Peter Ruskin	Gateman
+cast	Michael Hart	Burton - Yankees Player
+cast	James Deuter	Phil Butler
+cast	Jack McLaughlin-Gray	Jerry Simmons
+cast	Tim Bell	Body Building Assistant
+cast	Joe Soto	Security
+cast	Ted Noose	Lyle Matthews
+cast	Lenny Rubin	Clubhouse Man
+cast	Thomas P. Purdoff	Umpire #1
+cast	Jeffrey J. Edwards	Umpire #2
+cast	Alexandra Villa	Hostess
+cast	Michelle Minyon	Working Class Bar Patron
+cast	Alex Flores	Spring Training 1
+cast	Michael Kuster	Cleveland Indians Player
+cast	Michael F. Twarog	Spring Training 2
+cast	Ted White	Spring Training 3
+cast	James Barwick	Yankees Player
+cast	Byron Browne	Baseball Player
+cast	A.J. DiSpirito	Yankees' Player
+cast	Shea Farrell	Tolbert
+cast	Con Geary	New York Yankees Player
+cast	F. Gary Gray	Extra
+cast	The Lowpriest	Indian's Fan
+cast	John Meier	Pearson
+cast	Bradley Weber	Chicago White Sox Catcher

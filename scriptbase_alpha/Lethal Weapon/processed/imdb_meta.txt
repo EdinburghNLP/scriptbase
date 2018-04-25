@@ -1,0 +1,230 @@
+year	1987
+imdb score	7.6
+meta score	67
+genre	Action
+genre	Crime
+genre	Thriller
+keyword	suicidal
+keyword	police
+keyword	drugs
+keyword	death
+keyword	police officer
+keyword	vietnam
+keyword	heroin
+keyword	prostitute
+keyword	police brutality
+keyword	shooting range
+keyword	death of boyfriend
+keyword	revolver
+keyword	swimming pool
+keyword	porno movie
+keyword	detective
+keyword	hollywood boulevard
+keyword	tough cop
+keyword	pacific palisades
+keyword	chase
+keyword	machismo
+keyword	male nudity
+keyword	christmas carol
+keyword	assault rifle
+keyword	broken television
+keyword	undercover
+keyword	cowboy boots
+keyword	car battery
+keyword	bare breasts
+keyword	buddy
+keyword	self loathing
+keyword	bulletproof vest
+keyword	quick draw
+keyword	death wish
+keyword	two man army
+keyword	famous line
+keyword	tough guy
+keyword	fist fight
+keyword	sharpshooter
+keyword	desert
+keyword	drug addiction
+keyword	police psychologist
+keyword	vietnam veteran
+keyword	undercover cop
+keyword	cult film
+keyword	sniper rifle
+keyword	wisecrack humor
+keyword	boat
+keyword	drug dealer
+keyword	torture
+keyword	house trailer
+keyword	sniper
+keyword	ex special forces
+keyword	limousine
+keyword	memorial service
+keyword	suicide
+keyword	machine gun
+keyword	shootout
+keyword	six shooter
+keyword	wet jeans
+keyword	interracial relationship
+keyword	christmas tree
+keyword	female nudity
+keyword	covert operation
+keyword	hand to hand combat
+keyword	police partner
+keyword	defenestration
+keyword	drive by shooting
+keyword	beverly hills california
+keyword	gunfight
+keyword	police protagonist
+keyword	blonde
+keyword	black cop
+keyword	shot in the forehead
+keyword	suicide by jumping
+keyword	exploding house
+keyword	shot in the head
+keyword	shot in the chest
+keyword	showdown
+keyword	police officer killed
+keyword	shot in the arm
+keyword	christmas
+keyword	submachine gun
+keyword	fistfight
+keyword	police station
+keyword	jumping from height
+keyword	1980s
+keyword	sleeping nude
+keyword	blood
+keyword	first part
+keyword	falling from height
+keyword	body landing on a car
+keyword	boxing
+keyword	jujitsu
+keyword	arms tied overhead
+keyword	nightclub
+keyword	henchman
+keyword	action hero
+keyword	los angeles california
+keyword	neck breaking
+keyword	maverick cop
+keyword	swat team
+keyword	hero
+keyword	cocaine
+keyword	depression
+keyword	handcuffs
+keyword	narc
+keyword	self mutilation
+keyword	head butt
+keyword	smuggling
+keyword	hand grenade
+keyword	electrical torture
+keyword	birthday
+keyword	father daughter relationship
+keyword	shot in the leg
+keyword	running over a fire hydrant
+keyword	duel
+keyword	police detective
+keyword	reference to bugs bunny
+keyword	cell phone
+keyword	semiautomatic pistol
+keyword	fight
+keyword	shotgun
+keyword	sawed off shotgun
+keyword	assassination attempt
+keyword	cartoon on tv
+keyword	ambush
+keyword	brawl
+keyword	beretta
+keyword	cat
+keyword	pump action shotgun
+keyword	bare chested male bondage
+keyword	trailer home
+keyword	blood spatter
+keyword	helicopter
+keyword	foot chase
+keyword	pistol
+keyword	assassin
+keyword	nude sleeping
+keyword	m 16
+keyword	heroin smuggling
+keyword	mullet
+keyword	watching a video
+keyword	carjacking
+keyword	suicide attempt
+keyword	manic behavior
+keyword	martial arts
+keyword	rescue
+keyword	car through wall
+keyword	violence
+keyword	kidnapping
+keyword	exploding car
+keyword	widower
+keyword	anger
+keyword	topless female nudity
+keyword	shot to death
+keyword	buddy cop
+keyword	anti hero
+keyword	prostitution
+keyword	first of series
+keyword	blockbuster
+keyword	retirement
+keyword	loss of wife
+keyword	title spoken by character
+keyword	
+cast	Mel Gibson	Martin Riggs
+cast	Danny Glover	Roger Murtaugh
+cast	Gary Busey	Joshua
+cast	Mitch Ryan	The General
+cast	Tom Atkins	Michael Hunsaker
+cast	Darlene Love	Trish Murtaugh
+cast	Traci Wolfe	Rianne Murtaugh
+cast	Jackie Swanson	Amanda Hunsaker
+cast	Damon Hines	Nick Murtaugh
+cast	Ebonie Smith	Carrie Murtaugh
+cast	Bill Kalmenson	Beat Cop
+cast	Lycia Naff	Dixie
+cast	Patrick Cameron	Cop #1
+cast	Don Gordon	Cop #2
+cast	Jimmie F. Skaggs	Drug Dealer #1
+cast	Jason Ronard	Drug Dealer #2
+cast	Blackie Dammett	Drug Dealer #3
+cast	Gail Bowman	Cop
+cast	Robert Fol	Cop
+cast	Selma Archerd	Policewoman
+cast	Richard B. Whitaker	Police Officer
+cast	Mary Ellen Trainor	Psychologist
+cast	Steve Kahan	Capt. Ed Murphy
+cast	Jack Thibeau	McCaskey
+cast	Grand L. Bush	Boyette
+cast	Ed O'Ross	Mendez
+cast	Gustav Vintas	Gustaf
+cast	Paul Tuerpe	Mercenary
+cast	Chad Hayes	Mercenary
+cast	Chris D. Jardins	Mercenary
+cast	Sven-Ole Thorsen	Mercenary
+cast	Peter DuPont	Mercenary
+cast	Gilles Kohler	Mercenary
+cast	Cedric Adams	Mercenary
+cast	Jim J. Poslof	Mercenary
+cast	Al Leong	Endo
+cast	Michael Shaner	McCleary
+cast	Natalie Zimmerman	Patrol Cop
+cast	Deborah Dismukes	Blonde on Bike
+cast	Cheryl Baker	Girl in Shower #1
+cast	Terri Lynn Doss	Girl in Shower #2
+cast	Sharon K. Brecke	Girl in Shower #3
+cast	Donald Gooden	Alfred
+cast	Alphonse Philippe Mouzon	Alfred's Friend #1
+cast	Shaun Hunter	Alfred's Friend #2
+cast	Everitt Wayne Collins Jr.	Alfred's Friend #3
+cast	Lenny Juliano	Patrol Cop
+cast	Henry Brown	Plainclothes Cop
+cast	Brian Strohm	Family Friend
+cast	Teresa Kadotani	Hooker
+cast	Frank Reinhard	Beat Cop
+cast	John O'Neill	Police Officer in Car #1
+cast	Tom Noga	Police Officer in Car #2
+cast	Burbank the Cat	Burbank the Cat
+cast	Sam the Dog	Sam the Dog
+cast	Larry Clardy	Policeman
+cast	Renée Estevez	Underage Hooker
+cast	Mic Rodgers	Bus Driver
+cast	Joan Severance	Girl in Black Playsuit
+cast	Norman D. Wilson	Bartender

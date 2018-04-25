@@ -1,0 +1,55 @@
+year	1992
+imdb score	6.7
+meta score	N/A
+genre	Crime
+genre	Drama
+keyword	drugs
+keyword	diary
+keyword	drug dealing
+keyword	suicide
+keyword	obsession
+keyword	redemption
+keyword	insomnia
+keyword	existentialism
+keyword	independent film
+keyword	
+cast	Willem Dafoe	John LeTour
+cast	Susan Sarandon	Ann
+cast	Dana Delany	Marianne Jost
+cast	David Clennon	Robert
+cast	Mary Beth Hurt	Teresa Aranow
+cast	Victor Garber	Tis Brooke
+cast	Jane Adams	Randi Jost
+cast	Paul Jabara	Eddie
+cast	Robert Cicchini	Bill Guidone
+cast	Sam Rockwell	Jealous
+cast	Rene Rivera	Manuel
+cast	David Spade	Theological Cokehead
+cast	Steven Posen	Hasid
+cast	Ken Ladd	Carlos
+cast	Brian Judge	Thomas
+cast	Vince Cupone	Young Cuban
+cast	Chris Northup	Retro Yuppie
+cast	Paul Stocker	Maitre D'
+cast	Bernadette Jurkowski	French Girl #1
+cast	Tatiana von Furstenberg	French Girl #2
+cast	Francesca Bonicoli	Model #1
+cast	Elena Vannucci	Model #2
+cast	Jeff Telvi	Male Model
+cast	Jennifer Fairfax	Woman at Bar #1
+cast	Gabrielle Stubbert	Woman at Bar #2
+cast	James Saxenmeyer	Bar Patron
+cast	Raymond Normandeau	Chef
+cast	Arcoiris Medina	Woman at Laundromat
+cast	Esteban Fernández	Concierge
+cast	Catherine L.A. Walker	Police Woman
+cast	Timothy Stickney	Young Dominican
+cast	Joey Gironda	Funeral Home Employee
+cast	Heather Rose Dominic	Crackhead
+cast	Paul Stockman Smith	Radio Announcer
+cast	Peter Macklin	Baseball Card Fan #1
+cast	Billy Joe Novinski	Baseball Card Fan #2
+cast	David Sukoff	Baseball Card Fan #3
+cast	Damian Corrente	Baseball Card Fan #4
+cast	Ronald Sylvers	Prison Guard
+cast	Daniel Margotta	Drug Dealer

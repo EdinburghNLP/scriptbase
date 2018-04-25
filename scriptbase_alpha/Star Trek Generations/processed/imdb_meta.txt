@@ -1,0 +1,143 @@
+year	1994
+imdb score	6.5
+meta score	55
+genre	Action
+genre	Adventure
+genre	Sci-Fi
+genre	Thriller
+keyword	rescue
+keyword	23rd century
+keyword	generation
+keyword	seventh part
+keyword	toaster
+keyword	explosion
+keyword	space opera
+keyword	wood chopping
+keyword	spacecraft
+keyword	destruction of planet
+keyword	sequel to cult favorite
+keyword	hidden camera
+keyword	megalomaniac
+keyword	warp speed
+keyword	torture
+keyword	crash landing
+keyword	klingon
+keyword	reference to open sesame incantation
+keyword	desert
+keyword	bar
+keyword	escape
+keyword	planet
+keyword	sequel
+keyword	idaho
+keyword	forcefield
+keyword	hostage
+keyword	showdown
+keyword	comic relief
+keyword	spacecraft officer
+keyword	commander
+keyword	barn
+keyword	counsellor
+keyword	exploding planet
+keyword	crossover
+keyword	phaser
+keyword	death of hero
+keyword	presumed dead
+keyword	christmas
+keyword	invisibility
+keyword	based on tv series
+keyword	missile
+keyword	photon torpedoes
+keyword	shuttle craft
+keyword	saga
+keyword	fistfight
+keyword	sacrifice
+keyword	time travel
+keyword	observatory
+keyword	space travel
+keyword	24th century
+keyword	three word title
+keyword	android
+keyword	bartender
+keyword	illusion
+keyword	axe
+keyword	star trek
+keyword	based on cult tv series
+keyword	colon in title
+keyword	cat
+keyword	hologram
+keyword	microchip
+keyword	space battle
+keyword	mad scientist
+keyword	outer space
+keyword	falling from height
+keyword	back from the dead
+keyword	dog
+keyword	cabin
+keyword	shootout
+keyword	exploding ship
+keyword	solar system
+keyword	spaceship
+keyword	horse
+keyword	footbridge
+keyword	corpse
+keyword	mountain cabin
+keyword	returning character killed off
+keyword	prologue
+keyword	cult film
+keyword	teleportation
+keyword	christmas tree
+keyword	generation gap
+keyword	snow
+keyword	
+cast	Patrick Stewart	Picard
+cast	Jonathan Frakes	Riker
+cast	Brent Spiner	Data
+cast	LeVar Burton	Geordi
+cast	Michael Dorn	Worf
+cast	Gates McFadden	Beverly
+cast	Marina Sirtis	Troi
+cast	Malcolm McDowell	Soran
+cast	James Doohan	Scotty
+cast	Walter Koenig	Chekov
+cast	William Shatner	Kirk
+cast	Alan Ruck	Capt. Harriman
+cast	Jacqueline Kim	Demora
+cast	Jenette Goldstein	Science Officer
+cast	Thomas Kopache	Com Officer
+cast	Glenn Morshower	Navigator
+cast	Tim Russ	Lieutenant
+cast	Tommy Hinkley	Journalist
+cast	John Putch	Journalist
+cast	Christine Jansen	Journalist
+cast	Michael Mack	Ensign Hayes
+cast	Dendrie Taylor	Lieutenant Farrell
+cast	Patti Yasutake	Nurse Ogawa
+cast	Granville Ames	Transporter Chief
+cast	Henry Marshall	Security Officer
+cast	Brittany Parkyn	Girl with Teddy Bear
+cast	Majel Barrett	Computer
+cast	Barbara March	Lursa
+cast	Gwynyth Walsh	B'Etor
+cast	Rif Hutton	Klingon Guard
+cast	Brian Thompson	Klingon Helm
+cast	Marcy Goldman	El Aurian Survivor
+cast	Jim Krestalude	El Aurian Survivor
+cast	Judy Levitt	El Aurian Survivor
+cast	Kristopher Logan	El Aurian Survivor
+cast	Gwen Van Dam	El Aurian Survivor
+cast	Kim Braden	Picard's Wife
+cast	Christopher James Miller	Picard's Nephew
+cast	Matthew Collins	Picard's Kid
+cast	Mimi Collins	Picard's Kid
+cast	Thomas Dekker	Picard's Kid
+cast	Madison Eginton	Picard's Kid
+cast	Olivia Hack	Picard's Kid
+cast	Cameron	Ensign Kellogg
+cast	Tracee Cocco	Ensign Jae
+cast	Tarik Ergin	Medical Technician
+cast	Whoopi Goldberg	Guinan
+cast	Randy James	Lt. Jones
+cast	Stewart Lew	Crewman in Ten Forward
+cast	Lorine Mendell	Enterprise-B Crewman
+cast	Lynn Salvatori	Antonia
+cast	Dennis Tracy	Bolian Ten Forward Waiter

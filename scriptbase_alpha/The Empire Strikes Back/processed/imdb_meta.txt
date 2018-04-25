@@ -1,0 +1,226 @@
+year	1980
+imdb score	8.8
+meta score	78
+genre	Action
+genre	Adventure
+genre	Sci-Fi
+keyword	princess
+keyword	empire
+keyword	rebel
+keyword	escape
+keyword	training
+keyword	rescue
+keyword	sequel
+keyword	jedi knight
+keyword	duel
+keyword	battle
+keyword	swamp
+keyword	reluctant hero
+keyword	mandalorian
+keyword	showdown
+keyword	snow
+keyword	turned to the dark side
+keyword	female soldier
+keyword	subjective camera
+keyword	floating city
+keyword	probe droid
+keyword	outer space
+keyword	eaten alive
+keyword	ambush
+keyword	bounty hunter
+keyword	war hero
+keyword	famous score
+keyword	quick draw
+keyword	pleading
+keyword	shootout
+keyword	snowy planet
+keyword	epic
+keyword	hero
+keyword	villain
+keyword	allegory of multiple historical events.
+keyword	symphonic music score
+keyword	cult figure
+keyword	pistol
+keyword	see you in hell
+keyword	dismemberment
+keyword	asteroid
+keyword	capture
+keyword	far far away
+keyword	evacuation
+keyword	smuggler
+keyword	severed hand
+keyword	female warrior
+keyword	fifth part
+keyword	android
+keyword	lightsaber
+keyword	wookiee
+keyword	emperor
+keyword	falling from height
+keyword	kissing
+keyword	slow motion
+keyword	family saga
+keyword	destiny
+keyword	civil war
+keyword	sword duel
+keyword	claim in title
+keyword	voice over
+keyword	tree
+keyword	part of trilogy
+keyword	hand to hand combat
+keyword	good versus evil
+keyword	space battle
+keyword	space war
+keyword	fictional war
+keyword	spacecraft
+keyword	paternity revealed
+keyword	laser gun
+keyword	roman numbered sequel
+keyword	torture
+keyword	warp speed
+keyword	blockbuster
+keyword	second part
+keyword	evil empire
+keyword	parallelism in sequel
+keyword	swordsman
+keyword	famous twist
+keyword	psychokinesis
+keyword	secret identity
+keyword	cult film
+keyword	computer
+keyword	secret base
+keyword	robot
+keyword	gunslinger
+keyword	betrayal
+keyword	fight
+keyword	no opening credits
+keyword	wilhelm scream
+keyword	character's point of view camera shot
+keyword	hyperspace
+keyword	fictional planet
+keyword	rescue mission
+keyword	giant worm
+keyword	gun fu
+keyword	galactic war
+keyword	explosion
+keyword	storm trooper
+keyword	prisoner of war
+keyword	warrior
+keyword	laser pistol
+keyword	imagery
+keyword	kiss
+keyword	tragic villain
+keyword	warp engine
+keyword	puppet
+keyword	telekinesis
+keyword	father son relationship
+keyword	aerial combat
+keyword	frozen body
+keyword	alien
+keyword	entrails
+keyword	rebellion
+keyword	spirituality
+keyword	space shuttle
+keyword	tragedy
+keyword	family relationships
+keyword	female fighter
+keyword	violence
+keyword	soldier
+keyword	punctuation in title
+keyword	hand cut off
+keyword	kendo
+keyword	sword fight
+keyword	decapitation
+keyword	future
+keyword	power
+keyword	alien race
+keyword	orchestral music score
+keyword	trapdoor
+keyword	action hero
+keyword	fighting
+keyword	stop motion animation
+keyword	roman numeral in title
+keyword	monster
+keyword	space opera
+keyword	saga
+keyword	long time ago
+keyword	prosthetic limb
+keyword	gunfight
+keyword	space travel
+keyword	combat
+keyword	battlefield
+keyword	numbered sequel
+keyword	strangulation
+keyword	hologram
+keyword	leitmotif
+keyword	disarming someone
+keyword	number in title
+keyword	surprise ending
+keyword	
+cast	Mark Hamill	Luke Skywalker
+cast	Harrison Ford	Han Solo
+cast	Carrie Fisher	Princess Leia
+cast	Billy Dee Williams	Lando Calrissian
+cast	Anthony Daniels	C-3PO
+cast	David Prowse	Darth Vader
+cast	Peter Mayhew	Chewbacca
+cast	Kenny Baker	R2-D2
+cast	Frank Oz	Yoda
+cast	Alec Guinness	Ben
+cast	Jeremy Bulloch	Boba Fett
+cast	John Hollis	Lando's Aide
+cast	Jack Purvis	Chief Ugnaught
+cast	Des Webb	Snow Creature
+cast	Clive Revill	Emperor
+cast	Kenneth Colley	Admiral Piett
+cast	Julian Glover	General Veers
+cast	Michael Sheard	Admiral Ozzel
+cast	Michael Culver	Captain Needa
+cast	John Dicks	Imperial Officer
+cast	Milton Johns	Imperial Officer
+cast	Mark Jones	Imperial Officer
+cast	Oliver Maguire	Imperial Officer
+cast	Robin Scobey	Imperial Officer
+cast	Bruce Boa	Rebel Force General Rieekan
+cast	Christopher Malcolm	Rebel Force Zev
+cast	Denis Lawson	Rebel Force Wedge
+cast	Richard Oldfield	Rebel Force Hobbie
+cast	John Morton	Rebel Force Dak
+cast	Ian Liston	Rebel Force Janson
+cast	John Ratzenberger	Rebel Force Major Derlin
+cast	Jack McKenzie	Rebel Force Deck Lieutenant
+cast	Jerry Harte	Rebel Force Head Controller
+cast	Norman Chancer	Other Rebel Officer
+cast	Norwich Duff	Other Rebel Officer
+cast	Ray Hassett	Other Rebel Officer
+cast	Brigitte Kahn	Other Rebel Officer
+cast	Burnell Tucker	Other Rebel Officer
+cast	Bob Anderson	Imperial Officer
+cast	Elaine Baker	Emperor
+cast	Lightning Bear	Stormtrooper
+cast	Richard Bonehill	Stormtrooper / Snowtrooper / Rebel Soldier / Tauntaun Handler
+cast	Stephen Buchanan	Holographic Officer
+cast	Morris Bush	Dengar
+cast	Mark Capri	Officer M'kae
+cast	Martin Dew	Cloud City Guard
+cast	Peter Diamond	Snowtrooper Gunner
+cast	Tom Egeland	Hoth Trooper
+cast	Stuart Fell	Snowtrooper
+cast	Michael A. Frandy	Imperial Shuttle Mechanic
+cast	Alan Harris	Bossk / Bespin Security Guard
+cast	Susie Hudson	Bespin Woman
+cast	James Earl Jones	Darth Vader
+cast	Arve Juritzen	Rebel Soldier
+cast	Paul Klein	IG-88
+cast	Tiffany L. Kurtz	Extra
+cast	Ian McDiarmid	Emperor
+cast	Ralph McQuarrie	General McQuarrie
+cast	Ralph Morse	Stormtrooper / Imperial Comms Officer / Rebel Soldier
+cast	Cathy Munro	Zuckuss / E-3PO
+cast	C. Andrew Nelson	Darth Vader
+cast	Chris Parsons	4-LOM / K-3PO / Stormtrooper
+cast	Doug Robinson	Snowtrooper
+cast	Michael Santiago	Voice
+cast	Tony Smart	Snowtrooper
+cast	Harold Weed	Wampa
+cast	Treat Williams	Echo Base Trooper
+cast	Jason Wingreen	Boba Fett

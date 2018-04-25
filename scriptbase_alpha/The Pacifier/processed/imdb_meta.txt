@@ -1,0 +1,161 @@
+year	2005
+imdb score	5.5
+meta score	30
+genre	Action
+genre	Comedy
+genre	Drama
+genre	Family
+genre	Thriller
+keyword	double agent
+keyword	navy sea air and land force
+keyword	soccer
+keyword	one man army
+keyword	fake nun
+keyword	combat
+keyword	singing
+keyword	held at gunpoint
+keyword	rebellious daughter
+keyword	disarming someone
+keyword	cheerleader
+keyword	girl scouts
+keyword	hero
+keyword	reckless driving
+keyword	bodyguard
+keyword	milk
+keyword	traitor
+keyword	lifting someone into the air
+keyword	trap
+keyword	action hero
+keyword	martial arts
+keyword	cookie
+keyword	car chase
+keyword	loss of father
+keyword	girl scout
+keyword	vice principal
+keyword	password
+keyword	held hostage
+keyword	fistfight
+keyword	commando mission
+keyword	male nanny
+keyword	wrestling match
+keyword	taekwondo
+keyword	juice
+keyword	dirty diaper
+keyword	nun
+keyword	kiss
+keyword	professor
+keyword	beer
+keyword	asian
+keyword	babysitter
+keyword	commando
+keyword	dance
+keyword	code word
+keyword	shoulder holster
+keyword	beating
+keyword	widow
+keyword	bound and gagged
+keyword	cliche
+keyword	exploding helicopter
+keyword	wedding ring
+keyword	strong man
+keyword	murder
+keyword	duck
+keyword	nun costume
+keyword	brawl
+keyword	death of husband
+keyword	inspector
+keyword	chase
+keyword	one against many
+keyword	interracial relationship
+keyword	beer drinking
+keyword	bald man
+keyword	kicked in the crotch
+keyword	boy scouts
+keyword	baby
+keyword	nanny
+keyword	hand to hand combat
+keyword	loss of loved one
+keyword	russian
+keyword	title spoken by character
+keyword	
+cast	Vin Diesel	Shane Wolfe
+cast	Lauren Graham	Principal Claire Fletcher
+cast	Faith Ford	Julie Plummer
+cast	Brittany Snow	Zoe Plummer
+cast	Max Thieriot	Seth Plummer
+cast	Chris Potter	Capt. Bill Fawcett
+cast	Carol Kane	Helga
+cast	Brad Garrett	Vice Principal Dwayne Murney
+cast	Morgan York	Lulu Plummer
+cast	Kegan Hoover	Peter Plummer
+cast	Logan Hoover	Peter Plummer
+cast	Bo Vink	Baby Tyler Plummer
+cast	Luke Vink	Baby Tyler Plummer
+cast	Tate Donovan	Howard Plummer
+cast	Scott Thompson	Director
+cast	Denis Akiyama	Mr. Chun
+cast	Mung-Ling Tsui	Mrs. Chun
+cast	Anne Fletcher	Liesel
+cast	Allison Lynn	Maria Rainer
+cast	Gabriel Antonacci	Captain von Trapp
+cast	Mary Pitt	Brigitta
+cast	Dan Sutcliffe	Friedrich
+cast	Vanessa Cobham	Gretl
+cast	Jordan Allison	Kurt
+cast	Rachael Dolan	Louisa
+cast	Charlotte Szivak	Marta
+cast	Toya Alexis	Mother Abbess
+cast	Valerie Boyle	Nun / Nazi
+cast	Karla Jang	Nun / Nazi
+cast	Silver Kim	Nun / Nazi
+cast	Robert Yeretch	Nun / Nazi
+cast	Scott Hurst	Nazi
+cast	Christie Allaire	Cheerleader
+cast	Stephanie Allaire	Cheerleader
+cast	Amy Allicock	Cheerleader
+cast	Helena Chow	Cheerleader
+cast	Joella Crichton	Cheerleader
+cast	Laura Jeanes	Cheerleader
+cast	Rebecca Priestley	Cheerleader
+cast	Taryn Ash	Female Customer
+cast	Catherine Burdon	Teacher
+cast	Shane Cardwell	Teacher
+cast	Tommy Chang	Showroom Cleaner
+cast	Alexander Conti	Little Boy
+cast	David Lipper	Cute Cop
+cast	Tig Fong	Cute Cop's Partner
+cast	Maria Georgas	Firefly
+cast	Nikki Shah	Firefly
+cast	Jordan Todosey	Firefly
+cast	Emi Yaguchi-Chow	Firefly
+cast	Demetrius Joyette	First Junior Grizzly
+cast	Christopher Lortie	Second Junior Grizzly
+cast	Sotiri Georgas	Grizzly
+cast	Steven Georgas	Grizzly
+cast	Gannon Racki	Grizzly
+cast	Seth Howard	Woody Woodchuck Manager
+cast	Marcus Hutchings	FBI Agent
+cast	David Sparrow	FBI Agent
+cast	Evelyn Kaye	Piano Accompanist
+cast	Christian Laurin	Marcel
+cast	John MacDonald	Car Salesman
+cast	Billy Oliver	Male Customer
+cast	Curtis Parker	Wrestler
+cast	Matt Purdy	Wrestler
+cast	Jean Pearson	Swiss Banker
+cast	Kyle Schmid	Scott
+cast	Robert Thomas	Construction Worker
+cast	Michael Quintero	Navy SEAL #3
+cast	Cameron Hickox	Navy SEAL #4
+cast	Cade Courtley	Wyatt
+cast	Cassius Willis	Boat Captain
+cast	Jeff Podgurski	Serbian
+cast	F. Valentino Morales	Serbian
+cast	Hank Amos	Serbian Gunner
+cast	Charles Haugk	Stagehand
+cast	Scott Reiff	Serbian Pilot
+cast	Christopher Giroux	Ski Ball Player
+cast	Whoopi Goldberg	Oda Mae Brown
+cast	Liam McGuckian	Child on Seesaw
+cast	Adam Shankman	Driving Instructor
+cast	Patrick Swayze	Sam Wheat

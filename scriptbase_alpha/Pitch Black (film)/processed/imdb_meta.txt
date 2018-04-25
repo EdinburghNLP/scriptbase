@@ -1,0 +1,139 @@
+year	2000
+imdb score	7.1
+meta score	49
+genre	Action
+genre	Sci-Fi
+genre	Thriller
+keyword	darkness
+keyword	survival
+keyword	bounty hunter
+keyword	alien
+keyword	desert planet
+keyword	spaceship
+keyword	escape
+keyword	eclipse
+keyword	criminal
+keyword	future
+keyword	captain
+keyword	27th century
+keyword	fire breathing
+keyword	human bait
+keyword	violence
+keyword	alien planet
+keyword	subjective camera
+keyword	woman dressed as a man
+keyword	alcohol
+keyword	shot to death
+keyword	shot in the back
+keyword	strangulation
+keyword	dark hero
+keyword	tied to a post
+keyword	monster
+keyword	one against many
+keyword	fight
+keyword	one man army
+keyword	head bitten off
+keyword	hibernation
+keyword	stabbed in the back
+keyword	goggles
+keyword	lock of hair
+keyword	murder
+keyword	warrior
+keyword	tough guy
+keyword	body torn apart
+keyword	flashback
+keyword	skeleton
+keyword	torso cut in half
+keyword	flask
+keyword	cult film
+keyword	space travel
+keyword	gore
+keyword	corpse
+keyword	cult male character
+keyword	neck breaking
+keyword	guilt
+keyword	rain
+keyword	fighting
+keyword	fire
+keyword	night vision
+keyword	xenomorph
+keyword	kicked in the face
+keyword	broken arm
+keyword	main character dies
+keyword	crash landing
+keyword	trapped in space
+keyword	punched in the face
+keyword	orrery
+keyword	stabbed to death
+keyword	rescue
+keyword	tragic hero
+keyword	mass murderer
+keyword	spacecraft
+keyword	battle
+keyword	martial arts
+keyword	held at gunpoint
+keyword	lens flare
+keyword	shootout
+keyword	stabbed in the chest
+keyword	gunfight
+keyword	copycat
+keyword	blood splatter
+keyword	burned alive
+keyword	child killed by an animal
+keyword	blood
+keyword	child in peril
+keyword	hero
+keyword	planetary alignment
+keyword	girl disguised as a boy
+keyword	light
+keyword	outer space
+keyword	bloody body of a child
+keyword	reverse footage
+keyword	knife
+keyword	imam
+keyword	combat
+keyword	impalement
+keyword	molotov cocktail
+keyword	no opening credits
+keyword	comet
+keyword	child eaten
+keyword	chase
+keyword	mixed martial arts
+keyword	flashlight
+keyword	threatened with a knife
+keyword	drug addict
+keyword	hand to hand combat
+keyword	action hero
+keyword	foot chase
+keyword	showdown
+keyword	priest
+keyword	nocturnal
+keyword	needle in eye
+keyword	shank
+keyword	eaten alive
+keyword	anti hero
+keyword	morphine
+keyword	27th century
+keyword	decapitation
+keyword	shaving a head
+keyword	prisoner
+keyword	dislocated shoulder
+keyword	death of child
+keyword	independent film
+cast	Vin Diesel	Richard B. Riddick
+cast	Radha Mitchell	Carolyn Fry
+cast	Cole Hauser	William J. Johns
+cast	Keith David	Abu 'Imam' al-Walid
+cast	Lewis Fitz-Gerald	Paris P. Ogilvie
+cast	Claudia Black	Sharon 'Shazza' Montgomery
+cast	Rhiana Griffith	Jack / Jackie
+cast	John Moore	John 'Zeke' Ezekiel
+cast	Simon Burke	Greg Owens
+cast	Les Chantery	Suleiman
+cast	Sam Sari	Hassan
+cast	Firass Dirani	Ali
+cast	Ric Anderson	Total Stranger
+cast	Vic Wilson	Captain Tom Mitchell
+cast	Angela Moore	Dead Crew Member
+cast	Peter Chiang	Spaceship Traveler in Cryo
+cast	Ken Twohy	Spaceship Traveler in Cryo

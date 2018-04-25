@@ -1,0 +1,220 @@
+year	2010
+imdb score	7.7
+meta score	80
+genre	Adventure
+genre	Drama
+genre	Western
+keyword	sheriff
+keyword	texas ranger
+keyword	u.s. marshal
+keyword	murder
+keyword	eye patch
+keyword	judge
+keyword	undertaker
+keyword	pony
+keyword	14 year old
+keyword	hanging
+keyword	criminal
+keyword	river
+keyword	1870s
+keyword	hallucination
+keyword	pipe smoking
+keyword	year 1903
+keyword	circus
+keyword	older version of character
+keyword	knife
+keyword	thrown from a horse
+keyword	slaughterhouse
+keyword	testimony
+keyword	sniper
+keyword	boarding house
+keyword	trial
+keyword	character has same name as actor
+keyword	spanking threat
+keyword	snake
+keyword	pit
+keyword	finger cut off
+keyword	cowboy
+keyword	spanking
+keyword	arkansas
+keyword	severed finger
+keyword	rifle
+keyword	execution by hanging
+keyword	whiskey
+keyword	sucking poison
+keyword	drunkenness
+keyword	bear suit
+keyword	fugitive
+keyword	deal
+keyword	drunkard
+keyword	black comedy
+keyword	shot in the back
+keyword	shot in the face
+keyword	stable
+keyword	shack
+keyword	trick shooting
+keyword	19th century
+keyword	remake of oscar winner
+keyword	shot in the side
+keyword	shot in the head
+keyword	epilogue
+keyword	corpse
+keyword	shot in the chest
+keyword	campfire
+keyword	obesity
+keyword	handgun
+keyword	church
+keyword	threatened with a knife
+keyword	spurs
+keyword	shot in the stomach
+keyword	trapper
+keyword	revolver
+keyword	blood
+keyword	falling from height
+keyword	public hanging
+keyword	cabin
+keyword	poisonous snake bite
+keyword	mountain
+keyword	climbing a tree
+keyword	hanged body
+keyword	bitten in the hand
+keyword	woods
+keyword	public execution
+keyword	20th century
+keyword	revenge
+keyword	lawyer
+keyword	anti hero
+keyword	braided hair
+keyword	oklahoma territory
+keyword	film starts with quote
+keyword	remake
+keyword	manhunt
+keyword	shot in the shoulder
+keyword	held at gunpoint
+keyword	train
+keyword	stabbed in the chest
+keyword	apple
+keyword	child in peril
+keyword	doctor
+keyword	gold
+keyword	justice
+keyword	rolling a cigarette
+keyword	pistol
+keyword	gang
+keyword	hit on the head with a rock
+keyword	remake of best actor oscar winner
+keyword	sociopath
+keyword	court
+keyword	latrine
+keyword	1800s
+keyword	dragged by a horse
+keyword	shot to death
+keyword	letter
+keyword	teenage girl
+keyword	two word title
+keyword	racial slur
+keyword	coffin
+keyword	bounty hunter
+keyword	kidnapping
+keyword	rain
+keyword	horse
+keyword	shootout
+keyword	crow
+keyword	hit on the head with a gun
+keyword	rescue
+keyword	snow
+keyword	lifting someone into the air
+keyword	deception
+keyword	gravestone
+keyword	severed arm
+keyword	stabbed in the hand
+keyword	target practice
+keyword	desert
+keyword	fireplace
+keyword	horse riding
+keyword	shot in the leg
+keyword	1900s
+keyword	forest
+keyword	alcoholic
+keyword	tent
+keyword	cut hand
+keyword	outlaw
+keyword	snake bite
+keyword	bargaining
+keyword	bag over head
+keyword	cigarette smoking
+keyword	killing an animal
+keyword	colonel
+keyword	winchester rifle
+keyword	actor shares last name with character
+keyword	hostage
+keyword	actor plays character with same name
+keyword	rope
+keyword	target shooting
+keyword	cave
+keyword	character repeating someone else's dialogue
+keyword	child's point of view
+keyword	voice over narration
+keyword	no opening credits
+keyword	title same as book
+keyword	gunfight
+keyword	shotgun
+keyword	small town
+keyword	shot in the forehead
+keyword	spyglass
+keyword	blood splatter
+keyword	sharps rifle
+keyword	hanged man
+keyword	child uses a gun
+keyword	amputee
+keyword	death of father
+keyword	based on novel
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Jeff Bridges	Rooster Cogburn
+cast	Hailee Steinfeld	Mattie Ross
+cast	Matt Damon	LaBoeuf
+cast	Josh Brolin	Tom Chaney
+cast	Barry Pepper	Lucky Ned Pepper
+cast	Dakin Matthews	Col. Stonehill
+cast	Jarlath Conroy	Undertaker
+cast	Paul Rae	Emmett Quincy
+cast	Domhnall Gleeson	Moon
+cast	Elizabeth Marvel	40-Year-Old Mattie
+cast	Roy Lee Jones	Yarnell
+cast	Ed Corbin	Bear Man
+cast	Leon Russom	Sheriff
+cast	Bruce Green	Harold Parmalee
+cast	Candyce Hinkle	Boarding House Landlady
+cast	Peter Leung	Mr. Lee
+cast	Don Pirl	Cole Younger
+cast	Joe Stevens	Cross-examining Lawyer
+cast	David Lipman	First Lawyer
+cast	Jake Walker	Judge Parker
+cast	Orlando Storm Smart	Stableboy
+cast	Ty Mitchell	Ferryman
+cast	Nicholas Sadler	Repentant Condemned Man
+cast	Scott Sowers	Unrepentant Condemned Man
+cast	Jonathan Joss	Condemned Indian
+cast	Maggie A. Goodman	Woman at Hanging
+cast	Brandon Sanderson	Indian Youth at Bagby's
+cast	Ruben Nakai Campana	Indian Youth at Bagby's
+cast	Mary Anzalone	Traveling Lady
+cast	Gopal Bidari	Ethnic Jury Member
+cast	Brian Brown	Coke Hays
+cast	Alan Eaglewolf Bryant	Indian #6 in Wild West Show
+cast	Wendy Crouse	Town Lady
+cast	Craig Denham	Wild West Show Worker
+cast	Ted Ferguson	Hanging Witness
+cast	Scott Flick	Clement Parmalee
+cast	Martina Griffin	Wild West Show Indian
+cast	Beau Harris	Smoker
+cast	Samantha Inoue Harte	Horserider
+cast	Cody Jones	Indian in Wild West Show
+cast	Scott Mason	Boarder
+cast	John Michael Measells	Wild West Hand
+cast	Joe Nelson	Hanging Witness
+cast	Kaiya Pelletier	Ft. Smith Girl / Memphis Girl
+cast	Cameron Rostami	Pedro
+cast	J.K. Simmons	J. Noble Daggett

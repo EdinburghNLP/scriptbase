@@ -1,0 +1,194 @@
+year	1999
+imdb score	7.3
+meta score	83
+genre	Comedy
+genre	Drama
+keyword	student
+keyword	election
+keyword	school
+keyword	teacher
+keyword	lesbian
+keyword	lesbian sister
+keyword	high school
+keyword	jock
+keyword	bee sting
+keyword	teen romance
+keyword	teenage crush
+keyword	graduation
+keyword	omaha nebraska
+keyword	party
+keyword	mathematics teacher
+keyword	ridicule
+keyword	adultery
+keyword	wide angle lens
+keyword	teenage sexuality
+keyword	apple tree
+keyword	high school election
+keyword	cliche
+keyword	religion
+keyword	freeze frame
+keyword	marriage
+keyword	teenage crush
+keyword	teenage issues
+keyword	new york city
+keyword	lawn mowing
+keyword	manhattan new york city
+keyword	history teacher
+keyword	crying
+keyword	lesbian daughter
+keyword	limousine
+keyword	chemistry class
+keyword	pepsi
+keyword	lesbianism
+keyword	catholic school
+keyword	jogging
+keyword	father daughter relationship
+keyword	banner
+keyword	urination
+keyword	betrayal
+keyword	satire
+keyword	youth
+keyword	school administrator
+keyword	16mm
+keyword	teenage boy
+keyword	civics teacher
+keyword	teaching
+keyword	high school vice principal
+keyword	love triangle
+keyword	wipe
+keyword	lincoln memorial washington d.c.
+keyword	power line
+keyword	husband wife relationship
+keyword	pin
+keyword	voice over narration
+keyword	girl girl relationship
+keyword	apple
+keyword	joint
+keyword	ethics
+keyword	fired from the job
+keyword	politics
+keyword	cruelty
+keyword	apple polisher
+keyword	gay
+keyword	teen love
+keyword	high school athlete
+keyword	nebraska
+keyword	overachiever
+keyword	teenage love
+keyword	parochial school
+keyword	envy
+keyword	sex with minor
+keyword	mother son relationship
+keyword	self destructiveness
+keyword	power station
+keyword	female female kiss
+keyword	power plant
+keyword	bicycle
+keyword	infidelity
+keyword	student government
+keyword	athlete
+keyword	fellatio
+keyword	museum guide
+keyword	jealousy
+keyword	motel room
+keyword	gay teenager
+keyword	prayer
+keyword	shower
+keyword	broken leg
+keyword	girls' school
+keyword	class differences
+keyword	teenager
+keyword	corruption
+keyword	political campaign
+keyword	suspended detention
+keyword	statue of liberty new york city
+keyword	skiing accident
+keyword	marital infidelity
+keyword	brother and sister in love same female
+keyword	black comedy
+keyword	flashback
+keyword	bee
+keyword	sprinkler system
+keyword	destiny
+keyword	unfaithfulness
+keyword	teenage sex
+keyword	lesbian kiss
+keyword	student council president
+keyword	coming of age
+keyword	sex
+keyword	photocopier
+keyword	teacher student relationship
+keyword	poster
+keyword	vote tampering
+keyword	morality
+keyword	dumped by girlfriend
+keyword	hot tub
+keyword	teenage girl
+keyword	washington mall washington d.c.
+keyword	gay interest
+keyword	brother sister relationship
+keyword	teen angst
+keyword	janitor
+keyword	divorce
+keyword	teen comedy
+keyword	one word title
+keyword	self absorption
+keyword	mother daughter relationship
+keyword	extramarital affair
+keyword	teacher student sex
+keyword	asparagus
+keyword	faculty lounge
+keyword	confession
+keyword	museum of natural history new york city
+keyword	multiple narrators
+keyword	braces
+keyword	lesbian teen
+keyword	swing
+keyword	teenage daughter
+keyword	washington d.c.
+keyword	cynicism
+keyword	blow job
+keyword	father son relationship
+keyword	teenage romance
+keyword	spit
+keyword	self involvement
+keyword	based on novel
+keyword	title spoken by character
+cast	Matthew Broderick	Jim McAllister
+cast	Reese Witherspoon	Tracy Flick
+cast	Chris Klein	Paul Metzler
+cast	Jessica Campbell	Tammy Metzler
+cast	Mark Harelik	Dave Novotny
+cast	Phil Reeves	Walt Hendricks
+cast	Molly Hagan	Diane McAllister
+cast	Delaney Driscoll	Linda Novotny
+cast	Colleen Camp	Judith R. Flick
+cast	Frankie Ingrassia	Lisa Flanagan
+cast	Matt Malloy	Vice-Principal Ron Bell
+cast	Jeanine Jackson	Jo Metzler
+cast	Holmes Osborne	Dick Metzler
+cast	Loren Nelson	Custodian
+cast	Emily Martin	Girl in Crisis
+cast	Jonathan Marion	Derek - Classroom Student
+cast	Amy Falcone	Michelle - Classroom Student
+cast	Matt Justesen	'Eat Me' Boy
+cast	Nick Kenny	'Eat Me' Boy's Buddy
+cast	B.J. Tobin	Adult Video Actor
+cast	Christa Young	Adult Video Actress
+cast	David Wenzel	Tracy's Friend Eric
+cast	Joel Parks	Jerry Slavin
+cast	Larry Kaiser	Chemistry Teacher
+cast	Marilyn Tipp	Carver Office Lady
+cast	Jeannie Brayman	Faculty Ballot-Giver
+cast	Nicholas D'Agosto	Larry Fouch
+cast	James Devney	Motel Clerk
+cast	L. Carmen Novoa	Spanish Teacher
+cast	Jason Paige	Kid in Georgetown Hall
+cast	Matt Golden	Kid in Georgetown Hall
+cast	Heather Koenig	Kid in Georgetown Hall
+cast	Jillian Crane	Jillian
+cast	Kaitlin Ferrell	Jennifer
+cast	Rob Kunkel	Bob the Mechanic
+cast	John Ponzio	Georgetown Student
+cast	Rohan Quine	Village Guy
+cast	Sarah Talcott	Student

@@ -1,0 +1,145 @@
+year	1991
+imdb score	7.1
+meta score	N/A
+genre	Action
+genre	Crime
+genre	Thriller
+keyword	surfer
+keyword	fbi
+keyword	undercover
+keyword	mask
+keyword	bank robbery
+keyword	beach
+keyword	villain played by lead actor
+keyword	cult film
+keyword	shot in the foot
+keyword	blood
+keyword	semiautomatic pistol
+keyword	main character dies
+keyword	beating
+keyword	dog thrown at a man
+keyword	see you in hell
+keyword	neo noir
+keyword	showdown
+keyword	undercover agent
+keyword	los angeles storm drain
+keyword	shotgun
+keyword	ocean
+keyword	adrenaline
+keyword	undercover cop
+keyword	rafting
+keyword	blood spatter
+keyword	severe tire damage
+keyword	water
+keyword	bare butt
+keyword	wave
+keyword	tough guy
+keyword	fight
+keyword	revolver
+keyword	bare chested male bondage
+keyword	title directed by female
+keyword	hand to hand combat
+keyword	brawl
+keyword	handcuffs
+keyword	glock
+keyword	sand
+keyword	bully
+keyword	reagan mask
+keyword	sea
+keyword	gunfight
+keyword	taekwondo
+keyword	jumping from a plane without a parachute
+keyword	heist
+keyword	police
+keyword	hero
+keyword	male nudity
+keyword	female nudity
+keyword	beretta
+keyword	mooning
+keyword	bare chested male
+keyword	shot in the head
+keyword	male bonding
+keyword	martial arts
+keyword	shoulder holster
+keyword	female rear nudity
+keyword	drugs
+keyword	raid
+keyword	surfing
+keyword	helicopter
+keyword	action hero
+keyword	chase
+keyword	nixon mask
+keyword	murder
+keyword	arrest
+keyword	fighting
+keyword	undressing
+keyword	shower
+keyword	car chase
+keyword	surfboard
+keyword	heroin
+keyword	target practice
+keyword	skydiving
+keyword	bully comeuppance
+keyword	lawn mower
+keyword	bust
+keyword	hostage
+keyword	car crash
+keyword	police officer killed
+keyword	wet jeans
+keyword	foot chase
+keyword	parachute
+keyword	shootout
+keyword	fistfight
+keyword	violence
+keyword	murder with robbery
+keyword	title spoken by character
+keyword	
+cast	Patrick Swayze	Bodhi
+cast	Keanu Reeves	Johnny Utah
+cast	Gary Busey	Pappas
+cast	Lori Petty	Tyler
+cast	John C. McGinley	Ben Harp
+cast	James Le Gros	Roach
+cast	John Philbin	Nathanial
+cast	Bojesse Christopher	Grommet
+cast	Julian Reyes	Alvarez
+cast	Daniel Beer	Babbit
+cast	Chris Pedersen	Bunker
+cast	Vincent Klyn	Warchild
+cast	Anthony Kiedis	Tone
+cast	Dave Olson	Archbold
+cast	Lee Tergesen	Rosie
+cast	Sydney Walsh	Miss Deer
+cast	Christopher Pettiet	15
+cast	Dino Andino	Psycho-Stick
+cast	Michael Kopelow	Passion for Slashin
+cast	Matt Archbold	Surf Rat
+cast	Julie Michaels	Freight Train
+cast	Kimberly Martin	Fiberglass
+cast	Mike Genovese	Corey
+cast	Jack Kehler	Halsey
+cast	Galyn Görg	Margarita
+cast	Raymond Forchion	Neighbor
+cast	Betsy Lynn George	Girl at Party
+cast	Shannon Brook	Fast Food Girl
+cast	Gloria Mann	Fierce Woman
+cast	Ping Wu	Dispatcher
+cast	Jared Chandler	Pilot
+cast	John Apicella	Security Guard
+cast	Richard Grove	Cullen
+cast	Anthony Mangano	Off Duty Cop
+cast	Deborah Lemen	Miss Jennings
+cast	Mick Regan	Mr. Duggan
+cast	Randy Walker	Combat Alley Supervisor
+cast	Marsha L. Carter	FBI Receptionist
+cast	Sedrick J. Azurdia	Fruit Vendor
+cast	Peter Phelps	Australian Surfer
+cast	Gary Roberts	Australian Cop #1
+cast	Owen Rutledge	Australian Cop #2
+cast	Mark Atienza	Stoned Surfer
+cast	Bret Culpepper	Irate Driver
+cast	Rich Hopkins	Surfer
+cast	Debra Lamb	Flame Blower at Party
+cast	Rana Morrison	Surfer Chic
+cast	Tom Sizemore	DEA Agent Deets
+cast	Curt Truman	Bank Teller

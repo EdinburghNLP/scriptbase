@@ -1,0 +1,128 @@
+year	2010
+imdb score	7.2
+meta score	59
+genre	Biography
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	bosnia
+keyword	un
+keyword	corruption
+keyword	cover up
+keyword	diplomatic immunity
+keyword	immunity
+keyword	teenage daughter
+keyword	divorcee
+keyword	two word title
+keyword	accountability
+keyword	official coverup
+keyword	domestic violence
+keyword	ends with biographical notes
+keyword	computer search
+keyword	police coverup
+keyword	conspiracy
+keyword	heroine
+keyword	feminist activism
+keyword	teenage prostitution
+keyword	mother daughter relationship
+keyword	misogyny
+keyword	moral responsibility
+keyword	nebraskan
+keyword	u.s. state department
+keyword	investigation
+keyword	united nations mission
+keyword	lost custody of children
+keyword	human rights abuse
+keyword	sarajevo
+keyword	open air market
+keyword	sexual harassment
+keyword	year 1999
+keyword	bosnia herzegovina
+keyword	teen prostitute
+keyword	united nations peace keeping force
+keyword	policewoman
+keyword	power elite
+keyword	sarajevo bosnia
+keyword	united nations
+keyword	ethnic hatred
+keyword	female protagonist
+keyword	international community
+keyword	fish out of water
+keyword	un peacekeepers
+keyword	strong older woman
+keyword	feminist
+keyword	phone tap
+keyword	whistleblower
+keyword	exploitation
+keyword	inside man
+keyword	defense contractor
+keyword	brutality
+keyword	sex trafficking
+keyword	torture
+keyword	rape
+keyword	kiev ukraine
+keyword	crying woman
+keyword	written by director
+keyword	ends with historical notes
+keyword	sexism
+keyword	sex traffic
+keyword	sex crime
+keyword	teenage girl
+keyword	conscience
+keyword	military contractor
+keyword	government coverup
+keyword	teenage prostitute
+keyword	female police officer
+keyword	organized crime
+keyword	based on true story
+cast	Rachel Weisz	Kathryn Bolkovac
+cast	Vanessa Redgrave	Madeleine Rees
+cast	Monica Bellucci	Laura Leviani
+cast	David Strathairn	Peter Ward
+cast	Nikolaj Lie Kaas	Jan Van Der Velde
+cast	Roxana Condurache	Raya
+cast	Paula Schramm	Luba
+cast	Alexandru Potocean	Viko
+cast	William Hope	Blakely
+cast	Rayisa Kondracki	Irka
+cast	Jeanette Hain	Halyna
+cast	Benedict Cumberbatch	Nick Kaufman
+cast	David Hewlett	Fred Murray
+cast	Coca Bloos	Milena
+cast	Luke Treadaway	Jim Higgins
+cast	Liam Cunningham	Bill Hynes
+cast	Anna Anissimova	Zoe
+cast	Anca-Ioana Androne	Zenia
+cast	Sergej Trifunovic	Ivan
+cast	Vlad Ivanov	Tanjo
+cast	Florin Busuioc	Danik
+cast	Alin Panc	Roman
+cast	Victoria Raileanu	Julia
+cast	Dorotheea Petre	Mara
+cast	Rosabell Laurenti Sellers	Erin
+cast	Roxana Guttman	Zlata Sehik
+cast	Stuart Graham	McVeigh
+cast	Catherine McNally	Female Cop
+cast	Geoffrey Pounsett	UN Security Guard
+cast	Alexandra Radescu	Tanya
+cast	Radu Banzaru	Barman
+cast	Zoltan Butuc	Man #1
+cast	Ciprian Dumitrascu	Man #2
+cast	Mihai Ghior	Intern
+cast	Sabrina Iaschevici	17-Year-Old Girl
+cast	Cristina Cristian	Fadila
+cast	Raluca Tataru	Girl #2
+cast	Bianca Neagu	Girl #3
+cast	Ion Sapdaru	Border Guard
+cast	Ionut Grama	Human Rights Worker
+cast	Paul Jerricho	Tim Sebastian
+cast	Demetri Goritsas	Kyle
+cast	Pilou Asbæk	Bas
+cast	Adriana Butoi	Marie
+cast	Danny John-Jules	Duke
+cast	Bryan Jardine	Judge Twiss
+cast	Erwin Simsensohn	Drunk IPTF Officer
+cast	Collin Blair	IPTF Officer / Angry man
+cast	Daniel Park	Clerk
+cast	Trevor White	Carl
+cast	Samuel Whitten	IPTF Officer

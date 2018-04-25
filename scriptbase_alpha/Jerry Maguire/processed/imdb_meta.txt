@@ -1,0 +1,234 @@
+year	1996
+imdb score	7.3
+meta score	77
+genre	Comedy
+genre	Drama
+genre	Romance
+genre	Sport
+keyword	client
+keyword	sports agent
+keyword	agent
+keyword	career
+keyword	mission statement
+keyword	football player
+keyword	football
+keyword	starting over
+keyword	nfl
+keyword	egotism
+keyword	male nudity
+keyword	greed
+keyword	blonde
+keyword	boy with glasses
+keyword	single parent
+keyword	black romance
+keyword	quitting a job
+keyword	au pair
+keyword	product placement
+keyword	famous line
+keyword	bare butt
+keyword	redemption
+keyword	reference to audrey hepburn
+keyword	pregnancy
+keyword	idealism
+keyword	mexican restaurant
+keyword	babysitter
+keyword	goldfish
+keyword	sex on couch
+keyword	money
+keyword	honesty
+keyword	love interest
+keyword	consciousness
+keyword	bare breasts
+keyword	affection
+keyword	hollywood agent
+keyword	single mother
+keyword	morality
+keyword	lifting someone into the air
+keyword	mother son relationship
+keyword	blockbuster
+keyword	secretary
+keyword	redhead
+keyword	business ethics
+keyword	sexuality
+keyword	loyalty
+keyword	sex scene
+keyword	sports show
+keyword	american football
+keyword	kiss
+keyword	sister sister relationship
+keyword	kissing while having sex
+keyword	friendship
+keyword	loneliness
+keyword	moving van
+keyword	divorcee
+keyword	support group
+keyword	female rear nudity
+keyword	little league
+keyword	love
+keyword	singing in a car
+keyword	sign language
+keyword	precocious child
+keyword	blonde
+keyword	sports team
+keyword	opposites attract
+keyword	marriage
+keyword	female nudity
+keyword	character name in title
+keyword	
+cast	Tom Cruise	Jerry Maguire
+cast	Cuba Gooding Jr.	Rod Tidwell
+cast	Renée Zellweger	Dorothy Boyd
+cast	Kelly Preston	Avery Bishop
+cast	Jerry O'Connell	Frank Cushman
+cast	Jay Mohr	Bob Sugar
+cast	Bonnie Hunt	Laurel Boyd
+cast	Regina King	Marcee Tidwell
+cast	Jonathan Lipnicki	Ray Boyd
+cast	Todd Louiso	Chad the Nanny
+cast	Mark Pellington	Bill Dooler
+cast	Jeremy Suarez	Tyson Tidwell
+cast	Jared Jussim	Dicky Fox
+cast	Benjamin Kimball Smith	Keith Cushman
+cast	Ingrid Beer	Anne-Louise
+cast	Jann Wenner	Scully
+cast	Nada Despotovich	Wendy
+cast	Alexandra Wentworth	Bobbi Fallon
+cast	Aries Spears	Tee Pee
+cast	Kelly Coffield Park	Jan
+cast	Alice Marie Crowe	Alice
+cast	Larina Adamson	Women's Group Member
+cast	Winnie Holzman	Women's Group Member
+cast	Diana Jordan	Women's Group Member
+cast	Susan Norfleet	Women's Group Member
+cast	Susan Pingleton	Women's Group Member
+cast	Cha-Cha Sandoval	Women's Group Member
+cast	Hynden Walch	Women's Group Member
+cast	Glenn Frey	Dennis Wilburn
+cast	Donal Logue	Rick, Junior Agent
+cast	Tom Gallop	Ben
+cast	Beaumont Bacon	Cleo
+cast	Lisa Amsterdam	Patricia Logan
+cast	Angela Goethals	Kathy Sanders
+cast	Leslie Upson	Flight Attendant
+cast	Rick Johnson	John Swenson
+cast	Lightfield Lewis	Room Service Waiter
+cast	Jerry Cantrell	Jesus of CopyMat
+cast	Toby Huss	Steve Remo
+cast	Drake Bell	Jesse Remo
+cast	Christine Cavanaugh	Mrs. Remo
+cast	Russel Lunday	Doctor
+cast	Eric Stoltz	Ethan Valhere
+cast	Lamont Johnson	Weepy Athlete
+cast	Brent Barry	Calvin Nack
+cast	Rod Tate	'Baja' Brunard
+cast	Charlie Cronin	Hootie Fan
+cast	Theo Greenly	Hootie Fan
+cast	Danny Rimmer	Sad Autograph Boy
+cast	Michael James Johnson	Clark Hodd
+cast	Jordan Ross	Art Stallings
+cast	Brandon Christianson	Young Golfer
+cast	Jerry Ziesmer	Trainer
+cast	Kirsten Krueger	Draft Reporter
+cast	Shannon Thornton	Pressbox Columnist
+cast	Luis Damian	Mariachi Band Member
+cast	Jesus Alberto Guzman	Mariachi Band Member
+cast	Juan Arnoldo Morales	Mariachi Band Member
+cast	Alberto Alfavo	Mariachi Band Member
+cast	Andrea Ferrell	Woman in Elevator
+cast	Anthony Natale	Man in Elevator
+cast	David Ursin	General Manager
+cast	Thomas J. Reilly	Reverend
+cast	Reagan Gomez-Preston	Tidwell's Cousin
+cast	Jim Moffatt	NFL Guest
+cast	Leo Zick	NFL Guest
+cast	Klair Bybee	NFL Guest
+cast	Stan Sessoms	Shower Man
+cast	Gale Hillman	Locker Room Athlete
+cast	Heather Cheney	Idealized Kissing Wife
+cast	Dennis Fitzgerald	Idealized Kissing Husband
+cast	Lucy Liu	Former Girlfriend
+cast	Stephanie Furst	Former Girlfriend
+cast	Justina Vail	Former Girlfriend
+cast	Samantha Smith	Former Girlfriend
+cast	Ivana Milicevic	Former Girlfriend
+cast	Lisa Rotondi	Former Girlfriend
+cast	Lisa Stahl	Former Girlfriend
+cast	Emily Procter	Former Girlfriend
+cast	Amaryllis Borrego	Former Girlfriend
+cast	Stacey Williams	Former Girlfriend
+cast	Lauren Parker	Former Girlfriend
+cast	Lisa Ann Hadley	Former Girlfriend
+cast	Kymberly Kalil	Former Girlfriend
+cast	Alison Armitage	Former Girlfriend
+cast	Rebecca Rigg	Former Girlfriend
+cast	Golde Starger	Former Girlfriend
+cast	Roy Firestone	Himself
+cast	Al Michaels	Himself
+cast	Dan Dierdorf	Himself
+cast	Frank Gifford	Himself
+cast	Mel Kiper	Himself
+cast	Jeffrey Lurie	Himself
+cast	Drew Rosenhaus	Himself
+cast	Richie Kotite	Himself
+cast	Tim McDonald	Himself
+cast	Mike Tirico	Himself
+cast	Wayne Fontes	Himself
+cast	Evelyn Fontes	Herself
+cast	Mike White	Himself
+cast	Johnnie Morton	Himself
+cast	Rick Mirer	Himself
+cast	Drew Bledsoe	Himself
+cast	Rob Moore	Himself
+cast	Ki-Jana Carter	Himself
+cast	Herman Moore	Himself
+cast	Art Monk	Himself
+cast	Troy Aikman	Himself
+cast	Katarina Witt	Herself
+cast	Dean Biasucci	Himself
+cast	Warren Moon	Himself
+cast	Kerry Collins	Himself
+cast	Erica Sorgi	Herself
+cast	Tom Friend	Himself
+cast	Dallas Malloy	Herself
+cast	Jim Irsay	Himself
+cast	Meg Irsay	Himself
+cast	Mike Boss	Extra
+cast	Beau Bridges	Matt Cushman
+cast	Jacqueline Collen	Girl
+cast	Jody Collins	Cardinals Center
+cast	John Cramer	Tidwell Fan
+cast	Joanna Daniels	Former Girlfriend
+cast	Jeff Dolniak	Football Fanatic
+cast	Micki Duran	Dancer
+cast	Kerry Friend	Woman at Bar
+cast	Charley Gilleran	Overheard Fan
+cast	Clare Harper	Assistant
+cast	Joseph B. Henry	Hotel Doorman
+cast	Michael Irvin	Himself
+cast	Kenneth Keith Kallenbach	Psycho Sports Fan
+cast	Jason H. Karniol	Football Fan Grabbing Rod Tidwell
+cast	Kari Keegan	Former Girlfriend
+cast	Michael G. Kehoe	Reporter
+cast	Thomas James Kepner	Trainer
+cast	Mia Korf	Former Girlfriend
+cast	Gina La Piana	Former Girlfriend
+cast	Sascha Lorren	Tidwell's Niece
+cast	Coleman McClary	Rod's Friend
+cast	Kevin McNally	News Camera Man
+cast	Jeffrey Moorad	Himself
+cast	Sean Neff	Photographer
+cast	Joseph Neibich	Reporter
+cast	Peg Phillips	Video Tape at Bachelor Party - "He was no slouch in bed"
+cast	Golan Ramras	Football Game Spectator
+cast	Sean Patrick Reilly	Jay Acura
+cast	Valerie Richards	Video Girl
+cast	Summer Sanders	Herself
+cast	June Saruwatari	Reporter
+cast	Iva Franks Singer	Airplane passenger
+cast	Carolyn Renee Smith	Airplane Passenger
+cast	Christopher J. Smith	Football Game Spectator
+cast	David Spring	Football Player in Locker Room
+cast	Leigh Steinberg	Himself
+cast	Matt von Siegel	Stadium Sideline Official
+cast	Jenny Worman	SMI Receptionist
+cast	Lynnanne Zager	Answering Machine

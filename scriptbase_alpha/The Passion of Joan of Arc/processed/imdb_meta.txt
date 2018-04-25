@@ -1,0 +1,90 @@
+year	1928
+imdb score	8.3
+meta score	N/A
+genre	Biography
+genre	Drama
+genre	History
+keyword	judge
+keyword	suffering
+keyword	heresy
+keyword	trial
+keyword	torture chamber
+keyword	ecclesiastical court
+keyword	mockery
+keyword	15th century
+keyword	saint
+keyword	doves
+keyword	hearing voices
+keyword	france
+keyword	heretic
+keyword	rack torture
+keyword	passion of christ
+keyword	political trial
+keyword	close up
+keyword	woman on fire
+keyword	life of a saint
+keyword	close up scene
+keyword	joan of arc
+keyword	shackles
+keyword	burned at the stake
+keyword	french court
+keyword	passion
+keyword	cross dressing
+keyword	imagery
+keyword	wooden cross
+keyword	gender bender
+keyword	teardrop
+keyword	reference to jesus christ
+keyword	arthouse
+keyword	interrogation
+keyword	intimidation
+keyword	medieval times
+keyword	shaved head
+keyword	heartbreaking
+keyword	innocence
+keyword	religion
+keyword	bishop
+keyword	breast feeding
+keyword	religious conviction
+keyword	nudity
+keyword	martyrdom
+keyword	critically acclaimed
+keyword	despair
+keyword	dizziness
+keyword	suckling baby
+keyword	heroine
+keyword	teenage girl
+keyword	ugly man
+keyword	misery
+keyword	female protagonist
+keyword	anguish
+keyword	riot
+keyword	oppression
+keyword	witch trial
+keyword	tears
+keyword	woman in man's clothes
+keyword	restored film
+keyword	character name in title
+keyword	
+cast	Maria Falconetti	Jeanne d'Arc
+cast	Eugene Silvain	Évêque Pierre Cauchon
+cast	André Berley	Jean d'Estivet
+cast	Maurice Schutz	Nicolas Loyseleur
+cast	Antonin Artaud	Jean Massieu
+cast	Michel Simon	Jean Lemaître
+cast	Jean d'Yd	Guillaume Evrard
+cast	Louis Ravet	Jean Beaupère
+cast	Armand Lurville	Juge
+cast	Jacques Arnna	Juge
+cast	Alexandre Mihalesco	Juge
+cast	Léon Larive	Juge
+cast	Jean Aymé	Juge
+cast	Gilbert Dacheux	Juge
+cast	Gilbert Dalleu	Jean Lemaître
+cast	Paul Delauzac	Martin Ladvenu
+cast	Dimitri Dimitriev	Juge
+cast	Fournez-Goffard	Juge
+cast	Henri Gaultier	Juge
+cast	Paul Jorge	Juge
+cast	Henri Maillard	Juge
+cast	Raymond Narlay	Juge

@@ -1,0 +1,156 @@
+year	1999
+imdb score	6.0
+meta score	56
+genre	Action
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	new york
+keyword	police
+keyword	triad
+keyword	chinatown
+keyword	undercover
+keyword	illegal immigrant
+keyword	corruption
+keyword	gangster
+keyword	mexican standoff
+keyword	informant
+keyword	murder
+keyword	dumpster
+keyword	ship
+keyword	police detective
+keyword	chinese restaurant
+keyword	murder of a police officer
+keyword	hero
+keyword	blood splatter
+keyword	quick draw
+keyword	car crash
+keyword	stylized violence
+keyword	shootout
+keyword	brothel
+keyword	tragic event
+keyword	chinese mafia
+keyword	boss
+keyword	fbi
+keyword	beating
+keyword	traitor
+keyword	brutality
+keyword	racial slur
+keyword	murder of a nude woman
+keyword	self sacrifice
+keyword	police brutality
+keyword	prostitute
+keyword	car set on fire
+keyword	bare breasts
+keyword	racial segregation
+keyword	main character shot
+keyword	chinese tong
+keyword	gun battle
+keyword	police corruption
+keyword	showdown
+keyword	car accident
+keyword	buddy cop
+keyword	brooklyn bridge
+keyword	violence
+keyword	ethnic slur
+keyword	uzi
+keyword	maverick cop
+keyword	statue of liberty new york city
+keyword	gang
+keyword	buddhist
+keyword	suicide
+keyword	ethnic diversity
+keyword	alcoholic father
+keyword	betrayal
+keyword	two man army
+keyword	ethnic hatred
+keyword	gang war
+keyword	unknown female corpse
+keyword	racial prejudice
+keyword	tough cop
+keyword	corrupt cop
+keyword	opening action scene
+keyword	sex
+keyword	boyfriend girlfriend relationship
+keyword	racial profiling
+keyword	people smuggling
+keyword	bust
+keyword	prejudice
+keyword	exploding car
+keyword	topless female nudity
+keyword	hit by a car
+keyword	hit by a truck
+keyword	police detective hero
+keyword	machine gun
+keyword	person on fire
+keyword	warrior
+keyword	male nudity
+keyword	funeral
+keyword	shot through the mouth
+keyword	exploding building
+keyword	glock
+keyword	dark hero
+keyword	gun
+keyword	police funeral
+keyword	main character dies
+keyword	female nudity
+keyword	mafia
+keyword	racial overtones
+keyword	action hero
+keyword	revolver
+keyword	explosion
+keyword	street gang
+keyword	chase
+keyword	tough guy
+keyword	gun fu
+keyword	blood
+keyword	car chase
+keyword	tragic hero
+keyword	blood
+keyword	kissing while having sex
+keyword	internal affairs
+keyword	buddhist monk
+keyword	hitman
+keyword	burnt body
+keyword	tragedy
+keyword	gore
+keyword	organized crime
+keyword	gunfight
+keyword	ends with funeral
+cast	Yun-Fat Chow	Nick Chen
+cast	Mark Wahlberg	Danny Wallace
+cast	Ric Young	Henry Lee
+cast	Paul Ben-Victor	Schabacker
+cast	Jon Kit Lee	Jack
+cast	Andrew Pang	Willy Ung
+cast	Elizabeth Lindsey	Louise Deng
+cast	Brian Cox	Sean Wallace
+cast	Byron Mann	Bobby Vu
+cast	Kim Chan	Benny Wong
+cast	Bill MacDonald	Vince Kirkpatrick
+cast	Susie Trinh	Amy San
+cast	Ho Chow	Black Eyes
+cast	Olivia Yap	Tai
+cast	Lynda Chiu	Kim
+cast	Marie Matiko	May
+cast	Pak-Kwong Ho	Phan Ho
+cast	Tim Progosh	Lackey
+cast	Byron Lawson	Tall Kid
+cast	Beau Starr	Captain Stan Klein
+cast	LeRoy Allen	Guard One
+cast	Simon B. Cotter	Lawyer
+cast	Frank Pellegrino	Large Agent
+cast	Tovah Feldshuh	U.S. Attorney Margaret Wheeler
+cast	Tig Fong	Sumo Guard
+cast	Chuck Scarborough	Himself - TV Reporter
+cast	Karen Huie	Woman in Brothel
+cast	Mike Jung	Doctor
+cast	Howard Hoover	Smaller Agent
+cast	Lucille Soong	Elderly Immigrant
+cast	Mark Williams	Co. Captain
+cast	Alice Poon	Masseuse
+cast	Jason Ting	Young Boy
+cast	Arthur Lo	Man on Street
+cast	Alice Lee Chun	Frightened Woman
+cast	Ayumi Iizuka	Bobby Vu's Girlfriend

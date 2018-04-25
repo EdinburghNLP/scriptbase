@@ -1,0 +1,59 @@
+year	2003
+imdb score	6.1
+meta score	46
+genre	Adventure
+genre	Comedy
+genre	Drama
+keyword	musician
+keyword	hearse
+keyword	casket
+keyword	manager
+keyword	corpse
+keyword	country music
+keyword	convertible
+keyword	fire
+keyword	black comedy
+keyword	guitar
+keyword	road movie
+keyword	singer
+keyword	death
+keyword	blonde
+keyword	california
+keyword	coffin
+keyword	buddy movie
+keyword	
+cast	Jamie McShane	Radio Announcer
+cast	Johnny Knoxville	Phil Kaufman
+cast	Danielle Sapia	Girl at Joshua Tree Inn
+cast	Gabriel Macht	Gram Parsons
+cast	Robert Alan Beuth	Reporter
+cast	Sara Arrington	Crying Girl
+cast	Scott Adsit	Music Expert
+cast	Mary Pat Gleason	Nurse
+cast	David Caffrey	TV Interviewer
+cast	Alexa Sheehan	Nurse 2
+cast	Wesley Mann	Doctor
+cast	Marley Shelton	Susie
+cast	Christina Applegate	Barbara
+cast	Jim Cody Williams	Truck Driver
+cast	Kay E. Kuter	Undertaker
+cast	Brian Nahas	Bank Manager
+cast	Shawna Casey	Bank Customer
+cast	Michael Shannon	Larry Oster-Berg
+cast	Robert Forster	Stanley Parsons
+cast	Simone Hammond	Check-in Girl
+cast	Betsy Rosenfeld	Girl in Line
+cast	Jonathan Slavin	Mortuary Clerk
+cast	Mike Shawver	Barney
+cast	Mike Randleman	P.J. Gambrell
+cast	Karen Teliha	Official
+cast	Rich Reilly	Plane Passenger
+cast	Carol Kaufman	Plane Passenger
+cast	Clint Culp	Uniform Cop
+cast	Betty Carvalho	Melon Lady
+cast	Paul Goebel	Gas Station Attendant
+cast	Michael Gregory	Motorcycle Cop
+cast	Tom McCleister	Polyonax Place Barman
+cast	Dylan Bruno	Traffic Cop
+cast	Phil Kaufman	Handcuffed Felon
+cast	Giacinto Pira	Plane Passenger

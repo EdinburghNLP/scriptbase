@@ -1,0 +1,142 @@
+year	1997
+imdb score	6.9
+meta score	N/A
+genre	Action
+genre	Crime
+genre	Thriller
+keyword	naval officer
+keyword	terrorist
+keyword	child murder
+keyword	training
+keyword	hitman
+keyword	martial arts
+keyword	f word
+keyword	satellite feed
+keyword	violence
+keyword	female nudity
+keyword	code name
+keyword	top secret
+keyword	machine gun
+keyword	libya
+keyword	male nudity
+keyword	cigar smoking
+keyword	kgb
+keyword	fake accent
+keyword	israel
+keyword	mercilessness
+keyword	mistaken identity
+keyword	grenade
+keyword	impostor
+keyword	faked death
+keyword	cigarette smoking
+keyword	fantasy sequence
+keyword	airport
+keyword	shot in the back
+keyword	roof chase
+keyword	prison
+keyword	sex
+keyword	revenge
+keyword	exploding building
+keyword	spider
+keyword	rooftop escape
+keyword	passport
+keyword	reference to james bond
+keyword	intelligence agent
+keyword	deception
+keyword	irish american
+keyword	tripoli
+keyword	wig
+keyword	funeral
+keyword	electrocution
+keyword	glass cutter
+keyword	cafe
+keyword	frame up
+keyword	virginia
+keyword	female full frontal nudity
+keyword	lsd
+keyword	little league baseball
+keyword	murder
+keyword	reluctant hero
+keyword	vienna austria
+keyword	disguise
+keyword	jerusalem
+keyword	password
+keyword	dead sea
+keyword	beating
+keyword	racial slur
+keyword	paris france
+keyword	two word title
+keyword	cuban american
+keyword	1970s
+keyword	porridge
+keyword	embassy
+keyword	scam
+keyword	shot in the forehead
+keyword	berlin germany
+keyword	shot in the chest
+keyword	1980s
+keyword	east berlin east germany
+keyword	bank account
+keyword	london england
+keyword	urination
+keyword	exploding car
+keyword	snowmobile
+keyword	ethnic slur
+keyword	blood spatter
+keyword	based on supposedly true story
+keyword	boat
+keyword	villain played by lead actor
+keyword	cemetery
+keyword	fight in men's room
+keyword	physical training
+keyword	car chase
+keyword	spy
+keyword	montréal quebec canada
+keyword	chase on the roof
+keyword	character repeating someone else's dialogue
+keyword	navy
+keyword	reference to star wars
+keyword	interrogation
+keyword	rooftop chase
+keyword	what happened to epilogue
+keyword	surprise ending
+cast	Aidan Quinn	Lt. Cmdr. Annibal Ramirez / Carlos
+cast	Donald Sutherland	Jack Shaw / Henry Fields
+cast	Ben Kingsley	Amos
+cast	Claudia Ferri	Maura Ramirez
+cast	Céline Bonnier	Carla
+cast	Vlasta Vrana	KGB Head Officer
+cast	Liliana Komorowska	Agnieska
+cast	Von Flores	Koj
+cast	Al Waxman	Carl Mickens - CIA
+cast	Mitchell David Rothpan	Joey Ramirez
+cast	Gregory Hlady	KGB Aide
+cast	Gabriel Marian Oseciuc	KGB Agent
+cast	Frédéric Desager	KGB Agent
+cast	Kliment Denchev	KGB Technician
+cast	Yonathan Gordon	Yoni
+cast	Ndiouga Sarr	Nigerian Oil Minister
+cast	Manuel Aranguiz	Venezuelan Oil Minister
+cast	Leni Parker	OPEC Receptionist
+cast	Jacques Lavallée	Du Foltiere - DST
+cast	David Francis	Naval Aide
+cast	Gouchy Boy	CIA Aide
+cast	Tim Post	CIA Aide
+cast	Daniel Pilon	Admiral Crawford
+cast	Richard Jutras	Commander Scowcroft
+cast	Hisham Zayed	Libyan Customs Official
+cast	Ted Whittall	Norfolk Police Captain
+cast	Francis Delvecchio	Injured Paris Boy
+cast	Lisa Wegner	Berlin Lover
+cast	Lucie Laurier	Paris Lover
+cast	Neil Kroetsch	Ramirez' Father
+cast	Matthew Dupuis	Young Ramirez
+cast	Paul Stewart	Hospital Father
+cast	Claude Genest	Baseball Dad
+cast	Michael Caloz	Baseball Kid
+cast	David Franco	St. Martin Postman
+cast	Heinz Becker	German Beerhall Singer
+cast	Louis Bouchard	German Beerhall Singer
+cast	Mark Knoeffel	German Beerhall Singer
+cast	Andréas Lange	German Beerhall Singer
+cast	Martin Morf	German Beerhall Singer

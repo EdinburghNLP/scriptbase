@@ -1,0 +1,163 @@
+year	1971
+imdb score	7.6
+meta score	N/A
+genre	Crime
+genre	Thriller
+keyword	gangster
+keyword	death
+keyword	funeral
+keyword	murder
+keyword	hit with a car door
+keyword	uncle niece relationship
+keyword	forced to strip
+keyword	contract killer
+keyword	betting
+keyword	face slap
+keyword	newcastle england
+keyword	assassination
+keyword	neo noir
+keyword	shotgun
+keyword	walking
+keyword	drugs
+keyword	female nudity
+keyword	pistol
+keyword	revenge
+keyword	knocked out
+keyword	anti hero
+keyword	punched in the stomach
+keyword	shot in the chest
+keyword	death of brother
+keyword	casket
+keyword	phone booth
+keyword	boarding house
+keyword	heroin
+keyword	topless female nudity
+keyword	sex
+keyword	drug overdose
+keyword	bare chested male
+keyword	beach
+keyword	poker
+keyword	party
+keyword	car chase
+keyword	pedophilia
+keyword	horse track
+keyword	car crash
+keyword	driving a car without a door
+keyword	nightclub
+keyword	rain
+keyword	kissing while having sex
+keyword	syringe
+keyword	body landing on a car
+keyword	catfight
+keyword	drunkenness
+keyword	topless woman murdered
+keyword	informer
+keyword	bartender
+keyword	drowning
+keyword	held at gunpoint
+keyword	punched in the face
+keyword	dead woman carried
+keyword	sunglasses
+keyword	corpse
+keyword	blood
+keyword	stabbed to death
+keyword	bridge
+keyword	man slaps a woman
+keyword	torture
+keyword	premarital sex
+keyword	main character shot
+keyword	stalking
+keyword	pornography
+keyword	train
+keyword	pantyhose
+keyword	nude with a gun
+keyword	drink thrown into someone's face
+keyword	breasts
+keyword	female rear nudity
+keyword	female stockinged feet
+keyword	slide show
+keyword	train ticket
+keyword	main character dies
+keyword	cockney gangster
+keyword	tragic villain
+keyword	telephone sex
+keyword	cockney accent
+keyword	knife
+keyword	shootout
+keyword	hitman
+keyword	sniper rifle
+keyword	london england
+keyword	body in a trunk
+keyword	shot in the forehead
+keyword	foot chase
+keyword	dragged by a car
+keyword	imperative in title
+keyword	assassin
+keyword	marching band
+keyword	camera shot of feet
+keyword	package
+keyword	horse race
+keyword	hit with a rifle butt
+keyword	bare breasts
+keyword	villain played by lead actor
+keyword	videotaped sex
+keyword	falling from height
+keyword	death of title character
+keyword	beating
+keyword	ferry
+keyword	pub
+keyword	shot to death
+keyword	hiding in a bathroom
+keyword	dead man
+keyword	film projector
+keyword	male rear nudity
+keyword	film within a film
+keyword	rape of a minor
+keyword	death of protagonist
+keyword	dead woman with eyes open
+keyword	tough guy
+keyword	falling to death
+keyword	stabbed in the chest
+keyword	cigar smoking
+keyword	scotch
+keyword	cigarette smoking
+keyword	lethal injection
+keyword	mini cooper
+keyword	bathtub
+keyword	interrupted sex
+keyword	woman in bra and panties
+keyword	death of father
+keyword	based on novel
+keyword	character name in title
+cast	Michael Caine	Jack Carter
+cast	Ian Hendry	Eric Paice
+cast	Britt Ekland	Anna
+cast	John Osborne	Cyril Kinnear
+cast	Tony Beckley	Peter the Dutchman
+cast	George Sewell	Con McCarty
+cast	Geraldine Moffat	Glenda
+cast	Dorothy White	Margaret
+cast	Rosemarie Dunham	Edna
+cast	Petra Markham	Doreen Carter
+cast	Alun Armstrong	Keith
+cast	Bryan Mosley	Cliff Brumby
+cast	Glynn Edwards	Albert Swift
+cast	Bernard Hepton	Thorpe
+cast	Terence Rigby	Gerald Fletcher
+cast	John Bindon	Sid Fletcher
+cast	Godfrey Quigley	Eddie
+cast	Kevin Brennan	Harry
+cast	Maxwell Deas	Vicar
+cast	Liz McKenzie	Mrs. Brumby
+cast	John Hussey	Architect
+cast	Ben Aris	Architect
+cast	Kitty Atwood	Old Woman
+cast	Denea Wilde	Pub Singer
+cast	Geraldine Sherman	Girl in Café
+cast	Joy Merlyn	Woman in Post Office
+cast	Yvonne Michaels	Woman in Post Office
+cast	Alan Hockey	Scrapyard Dealer
+cast	Karl Howard	'J'
+cast	Ellis Dale	Undertaker
+cast	Alexander Morton	Hubert
+cast	John Quarmby	2nd Gambler

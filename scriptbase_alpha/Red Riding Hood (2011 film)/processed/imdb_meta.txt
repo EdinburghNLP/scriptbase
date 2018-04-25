@@ -1,0 +1,107 @@
+year	2011
+imdb score	5.4
+meta score	29
+genre	Fantasy
+genre	Horror
+genre	Mystery
+genre	Thriller
+keyword	werewolf
+keyword	love
+keyword	death
+keyword	forest
+keyword	gothic horror
+keyword	party
+keyword	color in title
+keyword	winter
+keyword	women dancing together
+keyword	blood splatter
+keyword	wolf head
+keyword	bloody moon
+keyword	crossbow
+keyword	torch
+keyword	three little pigs
+keyword	torture
+keyword	rabbit trap
+keyword	flash forward
+keyword	sword
+keyword	white rabbit
+keyword	grandmother granddaughter relationship
+keyword	severed hand
+keyword	snowing
+keyword	title directed by female
+keyword	scratched by werewolf
+keyword	killed by a werewolf
+keyword	bitten by a werewolf
+keyword	stagecoach
+keyword	daughter murders father
+keyword	shot with an arrow
+keyword	fairy tale
+keyword	murder
+keyword	arranged marriage
+keyword	mist
+keyword	red cape
+keyword	abuse of power
+keyword	nightmare
+keyword	red riding hood
+keyword	red moon
+keyword	little red riding hood
+keyword	log cabin
+keyword	murder of grandmother
+keyword	publicly disgraced
+keyword	basket
+keyword	red hood
+keyword	three word title
+keyword	walking over hot coals
+keyword	narrated by character
+keyword	water bucket
+keyword	death of sister
+keyword	mask
+keyword	based on fairy tale
+keyword	hatchet
+keyword	dumping dead body in lake
+keyword	character name in title
+keyword	
+cast	Amanda Seyfried	Valerie
+cast	Gary Oldman	Solomon
+cast	Billy Burke	Cesaire
+cast	Shiloh Fernandez	Peter
+cast	Max Irons	Henry
+cast	Virginia Madsen	Suzette
+cast	Lukas Haas	Father Auguste
+cast	Julie Christie	Grandmother
+cast	Shauna Kain	Roxanne
+cast	Michael Hogan	The Reeve
+cast	Adrian Holmes	Captain
+cast	Cole Heppell	Claude
+cast	Christine Willes	Madame Lazar
+cast	Michael Shanks	Adrien Lazar
+cast	Kacey Rohl	Prudence
+cast	Carmen Lavigne	Rose
+cast	Don Thompson	Tavern Owner
+cast	Matt Ward	Captain's Brother
+cast	Megan Charpentier	Young Valerie
+cast	D.J. Greenburg	Young Peter
+cast	Jen Halley	Marguerite
+cast	Alexandria Maillot	Lucie
+cast	Archie Rice	Wolf Voice
+cast	Bella King	Solomon's Daughter
+cast	Olivia Steele-Falconer	Solomon's Daughter
+cast	Alex Pesusich	Man in Wolf Costume
+cast	Jordan Becker	Woodcutter
+cast	James Michalopolous	Solomon's Soldier
+cast	Darren Shahlavi	Solomon's Soldier
+cast	Dalias Blake	Solomon's Soldier
+cast	Michael Adamthwaite	Solomon's Soldier
+cast	Lauro Chartrand	Solomon's Soldier
+cast	Brad Kelly	Solomon's Soldier
+cast	Paul Wu	Solomon's Soldier
+cast	Gavin Buhr	Solomon's Soldier
+cast	Samuel Smith	Solomon's Soldier
+cast	Che Pritchard	Dancer
+cast	Kaitlyn McCready	Dancer
+cast	Michelle Christa Smith	Dancer
+cast	Sarah Elgart	Dancer
+cast	Dalila Bela	Man's Daughter
+cast	Jana Berengel	Singer
+cast	Mark Jaxin	Villager
+cast	Monika Spruch	Dancer

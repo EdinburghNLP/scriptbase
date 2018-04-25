@@ -1,0 +1,177 @@
+year	1949
+imdb score	7.6
+meta score	N/A
+genre	Drama
+keyword	politician
+keyword	governor
+keyword	speech
+keyword	rise and fall
+keyword	hick
+keyword	newspaper
+keyword	reporter
+keyword	rural
+keyword	newspaper reporter
+keyword	judge
+keyword	paralysis
+keyword	political satire
+keyword	niece
+keyword	drunkenness
+keyword	female slaps male
+keyword	drunk driving
+keyword	nephew
+keyword	physician
+keyword	blackmail
+keyword	adulteress
+keyword	newsreel
+keyword	assassination
+keyword	jealous woman
+keyword	fire escape
+keyword	politics
+keyword	face slap
+keyword	reference to judas iscariot
+keyword	southern u.s.
+keyword	brother sister relationship
+keyword	pulitzer prize source
+keyword	political campaign
+keyword	megalomania
+keyword	broken engagement
+keyword	mistress
+keyword	roman a clef
+keyword	american literature
+keyword	state legislature
+keyword	adultery
+keyword	stepfather
+keyword	confrontation
+keyword	extramarital affair
+keyword	locker room
+keyword	american football
+keyword	suicide
+keyword	infidelity
+keyword	marriage
+keyword	south
+keyword	football
+keyword	pool hall
+keyword	photograph
+keyword	dinner party
+keyword	reference to abraham lincoln
+keyword	punctuation in title
+keyword	father son relationship
+keyword	ego
+keyword	male slaps female
+keyword	alcoholic
+keyword	political corruption
+keyword	ambition
+keyword	county fair
+keyword	1920s
+keyword	rise to power
+keyword	car accident
+keyword	adulterer
+keyword	political drama
+keyword	extortion
+keyword	corruption
+keyword	building collapse
+keyword	cult film
+keyword	courthouse
+keyword	lawyer
+keyword	1930s
+keyword	brutality
+keyword	great depression
+keyword	automobile accident
+keyword	murder
+keyword	rags to riches
+keyword	based on novel
+cast	Broderick Crawford	Willie Stark
+cast	John Ireland	Jack Burden
+cast	Joanne Dru	Anne Stanton
+cast	John Derek	Tom Stark
+cast	Mercedes McCambridge	Sadie Burke
+cast	Shepperd Strudwick	Adam Stanton
+cast	Ralph Dumke	Tiny Duffy
+cast	Anne Seymour	Mrs. Lucy Stark
+cast	Katherine Warren	Mrs. Burden
+cast	Raymond Greenleaf	Judge Monte Stanton
+cast	Walter Burke	Sugar Boy
+cast	Will Wright	Dolph Pillsbury
+cast	Grandon Rhodes	Floyd McEvoy
+cast	Beau Anderson	Undetermined Role
+cast	Sam Ash	Undetermined Role
+cast	Richard Bartell	Undetermined Role
+cast	Mary Bear	File Clerk
+cast	Helena Benda	Undetermined Role
+cast	Stanley Blystone	Undetermined Role
+cast	Marshall Bradford	Senator
+cast	Chet Brandenburg	Man Listening to Speech
+cast	William Bruce	Commissioner
+cast	Wheaton Chambers	Senator
+cast	Edwin Chandler	Radio Announcer
+cast	Stephen Chase	Puckett
+cast	Tom Coleman	Man tearing down poster
+cast	James Conaty	Party Guest
+cast	William Cottrell	Reporter
+cast	Kenneth Cutler	Undetermined Role
+cast	Roy Darmour	Politician at Harrison's Headquarters
+cast	Earle S. Dewey	Joe Harrison
+cast	King Donovan	Reporter
+cast	Jack Evans	Undetermined Role
+cast	George Farmer	Bus Man
+cast	Charles Ferguson	Newspaper Office Worker
+cast	Tom Ferrandini	Politician
+cast	Robert Filmer	Editor
+cast	Paul Ford	Spokesman for Impeachment
+cast	Ted French	Dance Caller
+cast	Jack Gargan	Undetermined Role
+cast	John Giles	Young Boy
+cast	Dick Gordon	Politician
+cast	Jack Gordon	Undetermined Role
+cast	Avery Graves	Senator
+cast	William E. Green	Senator
+cast	Charles Haefeli	Man in Cheap Bar
+cast	Frank Hagney	Stark Strong-Arm Man
+cast	Richard Hale	
+cast	Bert Hanlon	Editor
+cast	Sam Harris	Politician
+cast	Judd Holdren	Politician
+cast	Jimmy Horan	Man Listening to Speech
+cast	Robert Karnes	Legislator
+cast	Kenner G. Kemp	Legislator
+cast	Donald Kerr	Spectator
+cast	Tom Kingston	Undetermined Role
+cast	Mike Lally	Undetermined Role
+cast	Nolan Leary	Senator
+cast	James Linn	Politician
+cast	Ralph Littlefield	Farmer
+cast	Wilbur Mack	Former Governor Stanton
+cast	Louis Mason	Minister
+cast	Paul Maxey	Local Chairman
+cast	Frank McClure	Doctor
+cast	Walter Merrill	Man in City Bar
+cast	H.C. Miller	Pa Stark
+cast	Harold Miller	Speaker of the House
+cast	John 'Skins' Miller	Drunk at Football Game
+cast	Bob Milton	Undetermined Role
+cast	George Morrell	Undetermined Role
+cast	Truett Myers	Minister at Funeral
+cast	Pat O'Malley	Politician
+cast	Charles Perry	Bit Role
+cast	Jeffrey Sayre	Party Guest
+cast	Charles Sherlock	Politician at Harrison's Headquarters
+cast	Leslie Sketchley	Undetermined Role
+cast	Irving Smith	Butler
+cast	Ray Spiker	Farmer Listing to Speech
+cast	Helene Stanley	Helene Hale
+cast	Larry Steers	Undetermined Role
+cast	Houseley Stevenson	Madison - the Editor
+cast	Charles Sullivan	Man Listening to Speech
+cast	William Tannen	Man in City Bar
+cast	George Taylor	Politician
+cast	Al Thompson	Man in Cheap Bar
+cast	Glen Thompson	State Trooper
+cast	A.C. Tillman	Sheriff
+cast	Phil Tully	Football Coach
+cast	Glen Walters	Woman Listening to Speech
+cast	Reba Waterson	Receptionist
+cast	Frank Wilcox	Public Relations Man
+cast	Rhoda Williams	Undetermined Role
+cast	Harry Wilson	One of Duffy's Goons
+cast	Bill Wolfe	Farmer
+cast	Al Wyatt Sr.	State Trooper

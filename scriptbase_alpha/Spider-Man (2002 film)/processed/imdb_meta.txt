@@ -1,0 +1,431 @@
+year	2002
+imdb score	7.3
+meta score	73
+genre	Action
+genre	Fantasy
+keyword	goblin
+keyword	spider
+keyword	evil
+keyword	spider man
+keyword	fight
+keyword	high school
+keyword	student
+keyword	superhero
+keyword	businessman
+keyword	newspaper
+keyword	friend
+keyword	spider bite
+keyword	field trip
+keyword	scientist
+keyword	laboratory
+keyword	superhuman strength
+keyword	shooting
+keyword	death
+keyword	science runs amok
+keyword	chasing a bus
+keyword	protective male
+keyword	pursuit
+keyword	camera
+keyword	cult film
+keyword	teenage boy
+keyword	tragic event
+keyword	saved from a fire
+keyword	murder
+keyword	action hero
+keyword	hand to hand combat
+keyword	suspension bridge
+keyword	evil man
+keyword	caught from falling
+keyword	honor
+keyword	wisecrack humor
+keyword	falling wall
+keyword	reboot of series
+keyword	professional wrestling
+keyword	high school graduation
+keyword	uncle nephew relationship
+keyword	teenage hero
+keyword	nightmare
+keyword	gun
+keyword	marvel comics
+keyword	redemption
+keyword	tears
+keyword	thief
+keyword	alley fight
+keyword	reverse footage
+keyword	pistol
+keyword	photograph
+keyword	talking to the camera
+keyword	spider web
+keyword	child in peril
+keyword	newspaper editor
+keyword	paralysis
+keyword	surrogate son
+keyword	macy's thanksgiving day parade
+keyword	cable car
+keyword	giant balloon
+keyword	explosion
+keyword	tough guy
+keyword	wet t shirt
+keyword	fireman
+keyword	crawling up a wall
+keyword	violence
+keyword	see through bra
+keyword	impalement
+keyword	birthday
+keyword	performance enhancement drug
+keyword	religion
+keyword	blood
+keyword	redhead
+keyword	self sacrifice
+keyword	science project losing funding
+keyword	nipples visible through clothing
+keyword	queens new york city
+keyword	switchblade
+keyword	curse
+keyword	suicide
+keyword	reference to julia roberts
+keyword	childhood sweetheart
+keyword	bridge
+keyword	gymnastics
+keyword	wrestling contest
+keyword	father daughter relationship
+keyword	marvel entertainment
+keyword	electrician
+keyword	disarming someone
+keyword	experiment gone wrong
+keyword	corporate take over
+keyword	journalist
+keyword	anti villain
+keyword	prayer
+keyword	kissing in the rain
+keyword	flying
+keyword	arachnid
+keyword	u.s. military
+keyword	love
+keyword	first aid kit
+keyword	suffering
+keyword	computer
+keyword	fighting in the air
+keyword	convenience store
+keyword	orphan
+keyword	part computer animation
+keyword	new york city
+keyword	dramatic irony
+keyword	armored car
+keyword	turkey the bird
+keyword	experiment
+keyword	teenager fighting adult
+keyword	stalker
+keyword	husband wife relationship
+keyword	comic hero
+keyword	slander
+keyword	butler
+keyword	hero
+keyword	fruitcake
+keyword	slammed against a brick wall
+keyword	waitress
+keyword	fist fight
+keyword	moral ambiguity
+keyword	smashing through a window
+keyword	dr pepper
+keyword	responsibility
+keyword	photography
+keyword	corporate world
+keyword	genetic experimentation
+keyword	webslinging
+keyword	girl next door
+keyword	mugging
+keyword	love interest
+keyword	corporate mogul
+keyword	crying
+keyword	mother daughter relationship
+keyword	bully
+keyword	teenage romance
+keyword	friendship
+keyword	megalomaniac businessman
+keyword	eyeglasses
+keyword	science experiment
+keyword	journalism
+keyword	unrequited love
+keyword	2000s
+keyword	genetic manipulation
+keyword	cranberry sauce
+keyword	lord's prayer
+keyword	chase
+keyword	insanity
+keyword	one man army
+keyword	vigilante
+keyword	multiple personality
+keyword	hit in the crotch
+keyword	saw
+keyword	police
+keyword	robbery
+keyword	hate
+keyword	genetics
+keyword	bombing
+keyword	slow motion scene
+keyword	illness
+keyword	graveyard
+keyword	balloon
+keyword	fly the insect
+keyword	wilhelm scream
+keyword	hanging upside down
+keyword	pain
+keyword	radiation
+keyword	brawl
+keyword	23rd psalm
+keyword	knife
+keyword	outcast
+keyword	posing
+keyword	origin of hero
+keyword	surrogate mother
+keyword	genetic science
+keyword	boy with glasses
+keyword	formula
+keyword	carjacking
+keyword	mask
+keyword	famous proverb
+keyword	montage
+keyword	cage
+keyword	mental illness
+keyword	wrestling
+keyword	aunt nephew relationship
+keyword	laboratory accident
+keyword	flight suit
+keyword	new york
+keyword	kiss from upside down person
+keyword	coffin
+keyword	thong
+keyword	jealousy
+keyword	neighbor
+keyword	aerospace
+keyword	masked man
+keyword	funeral
+keyword	audition
+keyword	skeleton
+keyword	microscope
+keyword	voice over narration
+keyword	bully comeuppance
+keyword	fire
+keyword	loss of uncle
+keyword	wrestling ring
+keyword	reference to macy gray
+keyword	martial arts
+keyword	roosevelt island new yprk city
+keyword	crime fighter
+keyword	kung fu
+keyword	exoskeleton
+keyword	double exposure scene
+keyword	thanksgiving
+keyword	poetic justice
+keyword	catching someone who falls
+keyword	itsy bitsy spider
+keyword	radical transformation
+keyword	secret identity
+keyword	graduation
+keyword	animated opening credits
+keyword	arm cut
+keyword	bra less
+keyword	blockbuster
+keyword	building on fire
+keyword	paper airplane
+keyword	libel
+keyword	showdown
+keyword	theft
+keyword	pokies
+keyword	policeman
+keyword	reference to superman
+keyword	running
+keyword	actress
+keyword	bus
+keyword	bone saw
+keyword	arm wound
+keyword	belief in god
+keyword	stylized violence
+keyword	wrestler
+keyword	moral transformation
+keyword	father son relationship
+keyword	grave
+keyword	rescue
+keyword	secret love
+keyword	board of directors
+keyword	guilt
+keyword	madness
+keyword	rain
+keyword	giant web
+keyword	birthday present
+keyword	glider
+keyword	kiss
+keyword	product placement
+keyword	moral dilemma
+keyword	electron microscope
+keyword	chrysler building manhattan new york city
+keyword	death of uncle
+keyword	wheelchair
+keyword	mean boss
+keyword	hospital
+keyword	based on comic book
+keyword	manhattan new york city
+keyword	villain
+keyword	surrogate father
+keyword	science
+keyword	saying grace
+keyword	spider sense
+keyword	teenage superhero
+keyword	falling
+keyword	stabbed to death
+keyword	teenage girl
+keyword	suburb
+keyword	pay phone
+keyword	cemetery
+keyword	flashback
+keyword	defense contract
+keyword	nerd
+keyword	brooklyn bridge
+keyword	super villain
+keyword	speed
+keyword	wrestling match
+keyword	split personality
+keyword	unloved son
+keyword	newspaper office
+keyword	tragic villain
+keyword	american flag
+keyword	limousine
+keyword	cigar smoking
+keyword	photographer
+keyword	police car
+keyword	tram
+keyword	flowers
+keyword	baby
+keyword	jumping from rooftop to rooftop
+keyword	temporary paralysis
+keyword	death of father
+keyword	character name in title
+cast	Tobey Maguire	Spider-Man / Peter Parker
+cast	Willem Dafoe	Green Goblin / Norman Osborn
+cast	Kirsten Dunst	Mary Jane Watson
+cast	James Franco	Harry Osborn
+cast	Cliff Robertson	Ben Parker
+cast	Rosemary Harris	May Parker
+cast	J.K. Simmons	J. Jonah Jameson
+cast	Joe Manganiello	Flash Thompson
+cast	Gerry Becker	Maximilian Fargas
+cast	Bill Nunn	Joseph 'Robbie' Robertson
+cast	Jack Betts	Henry Balkan
+cast	Stanley Anderson	General Slocum
+cast	Ron Perkins	Dr. Mendell Stromm
+cast	Michael Papajohn	Carjacker
+cast	K.K. Dodds	Simkins
+cast	Ted Raimi	Hoffman
+cast	Bruce Campbell	Ring Announcer
+cast	Elizabeth Banks	Betty Brant
+cast	John Paxton	Houseman
+cast	Tim De Zarn	Philip Watson
+cast	Taylor Gilbert	Madeline Watson
+cast	Randy Savage	Bone Saw McGraw
+cast	Larry Joshua	Wrestling Promoter
+cast	Timothy Patrick Quill	Wrestling Arena Guard
+cast	Lisa Danielle	Bone-ette
+cast	Natalie T. Yeo	Bone-ette
+cast	Erica D. Porter	Bone-ette
+cast	Kristen Davidson	Bone-ette
+cast	Jason Padgett	Flash's Crony
+cast	Shan Omar Huey	Teacher
+cast	Sally Levi	Girl on Bus
+cast	Evan Arnold	Doctor
+cast	Jill Sayre	Nurse
+cast	James Kevin Ward	Project Coordinator
+cast	David Holcomb	Test Pilot
+cast	Octavia Spencer	Check-In Girl
+cast	Brad Grunberg	Heckler
+cast	Shane Habberstad	Little Billy
+cast	Deborah Wakeham	Billy's Mom
+cast	Rachael Bruce	Times Square Child
+cast	Mackenzie Bryce	Times Square Child
+cast	Julia Barry	Times Square Child
+cast	Macy Gray	Herself
+cast	Myk Watford	Cop at Fire
+cast	Bill Calvert	Fireman
+cast	Sylva Kelegian	Mother at Fire
+cast	Kristen Marie Holly	Young Lady at Fire
+cast	Ajay Mehta	Cabbie
+cast	Peter Appel	Cabbie
+cast	Scott Spiegel	Marine Cop
+cast	Matt Smith	Cop at Carjacking
+cast	Sara Ramirez	Cop at Carjacking
+cast	Lucy Lawless	Punk Rock Girl
+cast	Jayce Bartok	Subway Guitarist
+cast	Maribel González	Lady Dogwalker
+cast	Amy Bouril	Office Lady
+cast	Joe D'Onofrio	Opinionated Cop
+cast	Jim Norton	Surly Truck Driver
+cast	Corey Mendell Parker	Chaperone in Tram
+cast	Ashley Edner	Girl in Tram
+cast	William Joseph Firth	Boy in Tram
+cast	Alex Black	Boy in Tram
+cast	Laura Gray	Tram Group Mother
+cast	Joe Virzi	New Yorker on Bridge
+cast	Michael Edward Thomas	New Yorker on Bridge
+cast	Jeanie Fox	New Yorker on Bridge
+cast	Robert Kerman	Tugboat Captain
+cast	Stephanie 'Stevvi' Alexander	Singer
+cast	Ari Averbach	Dancer
+cast	Joni Avery	Cop
+cast	Rick Avery	Cop
+cast	Margaret Baker	Punk #2
+cast	Amy Beth Bennett	Jewelry Thief #2
+cast	Brian Bennett	Doorman
+cast	Camille Bennett	High School Student
+cast	Andy Bray	Boy Carrying Tray in Cafeteria
+cast	Jophery C. Brown	Chef
+cast	Jacob Chambers	Cop
+cast	Jillian Clare	Crying Girl in Tram
+cast	Chris Coppola	Kyle
+cast	Cody Cundiff	World Unity Day Attendee
+cast	Una Damon	Lab Tour Guide
+cast	Chandra De Alessandro	Cop
+cast	Mark De Alessandro	Cop
+cast	Michael Patrick Dobkins	Wrestiling Fan
+cast	Patrick Coleman Duncan	Oscorp Lab Technician
+cast	Marcus Edward	Screaming Fan at Wrestling Match
+cast	R.C. Everbeck	Eddie Brock
+cast	Peter Genovese	Fleeing World Unity Day Patron
+cast	Marcus Gorman	Man in Street
+cast	Al Goto	Cop
+cast	Juan Guerra	City Guy
+cast	Randy Hall	Cop
+cast	Jesse Heiman	Spectator at School Fight
+cast	Tia Dionne Hodge	Uptown Woman
+cast	Kevin Jackson	Bellman
+cast	Loren Janes	Board of Directors Member
+cast	Andray Johnson	Balkan's Aide
+cast	Claudia Katz	Robbie's Assistant
+cast	Erik Kleven	Chef
+cast	Frederick E. Kowalo	Wrestling Fan
+cast	Gary Lane	Graduation / Chess Club Twin
+cast	Larry Lane	Graduation / Chess Club Twin
+cast	Stan Lee	Man in Fair
+cast	Pete Macnamara	Pentagon Officer
+cast	Lynnette Marshall	Extra
+cast	Joy Michelle Moore	World's Fair Mom
+cast	Justin Neill	Flash's Crony
+cast	Philip Ng	Diamond District Attendee
+cast	Debra Orenstein	Doctor
+cast	Gary Otto	New Yorker
+cast	Richard Par	World Unity Festival Patron
+cast	Leroy Patterson	World Unity Festival Attendant
+cast	Martin Pfefferkorn	Thug on 8x10
+cast	Argenis Pirela	Screaming Person
+cast	Lance Polland	Bonesaw Fan
+cast	January Pugh	Mary Jane's Friend
+cast	Sumner Redstone	Oscorp Board Member
+cast	Scott L. Schwartz	Screaming Wrestler
+cast	Robair Sims	Bellman
+cast	Richard Stephens	Man on Brooklyn Bridge
+cast	Tammi Sutton	Street Vendor
+cast	Lindsay Thompson	Mary Jane's Friend
+cast	Lou Torres	Enrique
+cast	Benny Urquidez	Mugger
+cast	Sean Valla	Boat Light Man
+cast	Derek C. Wallace	Homeless Man
+cast	John Wojnowski III	Man in Street

@@ -1,0 +1,158 @@
+year	1988
+imdb score	7.7
+meta score	35
+genre	Drama
+genre	Sport
+keyword	italy
+keyword	diver
+keyword	dolphin
+keyword	diving
+keyword	peru
+keyword	sea
+keyword	championship
+keyword	friendship
+keyword	rivalry
+keyword	friend
+keyword	taormina italy
+keyword	death
+keyword	train
+keyword	ocean
+keyword	1960s
+keyword	nudity
+keyword	researcher
+keyword	male nudity
+keyword	sicily
+keyword	priest
+keyword	loneliness
+keyword	boat
+keyword	drinking
+keyword	air tank
+keyword	investigation
+keyword	montage
+keyword	accident
+keyword	taxi driver
+keyword	fishing
+keyword	swimming underwater
+keyword	balloon
+keyword	1980s
+keyword	local blockbuster
+keyword	athlete
+keyword	inca
+keyword	family relationships
+keyword	theft
+keyword	cigarette smoking
+keyword	insurance investigator
+keyword	shipwreck
+keyword	helium
+keyword	competition
+keyword	mermaid
+keyword	sex
+keyword	coffee
+keyword	drunkenness
+keyword	drink
+keyword	tuxedo
+keyword	rescue
+keyword	spaghetti
+keyword	tears
+keyword	snowmobile
+keyword	heartbeat
+keyword	crying
+keyword	bathtub
+keyword	mother son relationship
+keyword	llama
+keyword	father son relationship
+keyword	fish
+keyword	french riviera
+keyword	uncle nephew relationship
+keyword	famous score
+keyword	three word title
+keyword	insurance
+keyword	harbor
+keyword	swimmer
+keyword	greece
+keyword	medal
+keyword	eel
+keyword	roommate
+keyword	suicide
+keyword	oil platform
+keyword	swimming pool
+keyword	swimming
+keyword	speedboat
+keyword	distorted sound
+keyword	running
+keyword	love
+keyword	absent mother
+keyword	boy
+keyword	palm tree
+keyword	stretcher
+keyword	bare chested male
+keyword	underwater scene
+keyword	champagne
+keyword	taxi
+keyword	new york city
+keyword	helium inhalation
+keyword	bare breasts
+keyword	thief
+keyword	mountain
+keyword	burglary
+keyword	pianist
+keyword	porpoise
+keyword	belgian
+keyword	hotel
+keyword	whispering
+keyword	female nudity
+keyword	medic
+keyword	topless female nudity
+keyword	piano
+keyword	research
+keyword	flashlight
+keyword	deep sea diving
+keyword	male frontal nudity
+keyword	snow
+keyword	ice cream
+keyword	pregnancy
+keyword	kiss
+keyword	heart
+keyword	south america
+keyword	greek orthodox
+keyword	color in title
+keyword	helicopter
+keyword	death of father
+keyword	
+cast	Rosanna Arquette	Johana Baker
+cast	Jean-Marc Barr	Jacques Mayol
+cast	Jean Reno	Enzo Molinari
+cast	Paul Shenar	Dr. Laurence
+cast	Sergio Castellitto	Novelli
+cast	Jean Bouise	Uncle Louis
+cast	Marc Duret	Roberto
+cast	Griffin Dunne	Duffy
+cast	Andréas Voutsinas	Priest
+cast	Valentina Vargas	Bonita
+cast	Kimberly Beck	Sally
+cast	Patrick Fontana	Alfredo
+cast	Alessandra Vazzoler	La Mamma
+cast	Geoffrey Carey	Supervisor
+cast	Bruce Guerre-Berthelot	Young Jacques
+cast	Gregory Forstner	Young Enzo
+cast	Claude Besson	Jacques' Father
+cast	Marika Gevaudan	Angelica
+cast	Jan Rouiller	Noireuter
+cast	Pierre Semmler	Franck
+cast	Jacques Lévy	Doctor
+cast	Eric Do	Japanese Diver
+cast	André Germe	Philippino Diver
+cast	Ronald Teuhi	Tahitian Diver
+cast	Rosario Campese	Waiter
+cast	Franco Diogene	Receptionist
+cast	Tredessa Dalton	Carol
+cast	Constantin Alexandrov	Dolphin Trainer
+cast	Pierre-Alain de Garrigues	Superintendent
+cast	Claude Robin	Taxi Driver
+cast	Paul Herman	Taxi Driver in U.S.A
+cast	Nicolas Maltos	Diving Coordinator on Platform
+cast	Marc Planceon	Paramedic
+cast	Luc Besson	Blond Diver
+cast	Valentina Castellani	Lady in elevator
+cast	Christian Gazio	Plongeur coinçé
+cast	Chico Scimone	Andre Bonnet

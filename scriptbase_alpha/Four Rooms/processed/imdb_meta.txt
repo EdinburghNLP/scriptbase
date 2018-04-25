@@ -1,0 +1,110 @@
+year	1995
+imdb score	6.7
+meta score	N/A
+genre	Comedy
+keyword	hotel
+keyword	new year's eve
+keyword	bellhop
+keyword	coven
+keyword	gangster
+keyword	duct tape
+keyword	dead prostitute
+keyword	magic
+keyword	interracial relationship
+keyword	mistaken identity
+keyword	reference to peter lorre
+keyword	hostage
+keyword	brother sister relationship
+keyword	animated opening credits
+keyword	supernatural power
+keyword	cigarette smoking
+keyword	party hat
+keyword	slapstick comedy
+keyword	mother daughter relationship
+keyword	anthology
+keyword	satire
+keyword	witchcraft
+keyword	omnibus
+keyword	lingerie slip
+keyword	implied fellatio
+keyword	scene during end credits
+keyword	trance
+keyword	witches' coven
+keyword	incest
+keyword	animated title sequence
+keyword	bet
+keyword	retro
+keyword	cartoon on tv
+keyword	child smoking cigarette
+keyword	filmmaking
+keyword	directed by several directors
+keyword	screwball
+keyword	non statutory female on male rape
+keyword	pasties
+keyword	movie producer
+keyword	elevator
+keyword	b movie
+keyword	sex
+keyword	goddess
+keyword	witch
+keyword	actor director
+keyword	meat cleaver
+keyword	female nudity
+keyword	cult film
+keyword	title directed by female
+keyword	hanging out a window
+keyword	wraparound story
+keyword	champagne
+keyword	drunken telephone call
+keyword	corpse
+keyword	incest overtone
+keyword	bondage
+keyword	bathroom
+keyword	black comedy
+keyword	champagne bottle
+keyword	precocious child
+keyword	topless female nudity
+keyword	hypnotism
+keyword	severed finger
+keyword	sperm
+keyword	syringe
+keyword	spell
+keyword	cult film
+keyword	movie star
+keyword	surrealism
+keyword	cult movie cast
+keyword	vomit
+keyword	nudity
+keyword	independent film
+keyword	number in title
+keyword	
+cast	Sammi Davis	Jezebel
+cast	Amanda De Cadenet	Diana
+cast	Valeria Golino	Athena
+cast	Madonna	Elspeth
+cast	Ione Skye	Eva
+cast	Lili Taylor	Raven
+cast	Alicia Witt	Kiva
+cast	Jennifer Beals	Angela
+cast	David Proval	Sigfried
+cast	Antonio Banderas	Man
+cast	Lana McKissack	Sarah
+cast	Patricia Vonne	Corpse
+cast	Tamlyn Tomita	Wife
+cast	Danny Verduzco	Juancho
+cast	Salma Hayek	TV Dancing Girl
+cast	Paul Calderon	Norman
+cast	Quentin Tarantino	Chester
+cast	Lawrence Bender	Long Hair Yuppie Scum
+cast	Kathy Griffin	Betty
+cast	Quinn Thomas Hellerman	Baby Bellhop
+cast	Marc Lawrence	Sam the Bellhop
+cast	Unruly Julie McClean	Left Redhead
+cast	Laura Rush	Right Redhead
+cast	Paul Skemp	Real Theodore
+cast	Marisa Tomei	Margaret
+cast	Tim Roth	Ted the Bellhop
+cast	Kimberly Blair	Hooker
+cast	Monica Lee Steen	Margaret's Stoner Friend
+cast	Russell Vossler	
+cast	Bruce Willis	Leo

@@ -1,0 +1,102 @@
+year	1972
+imdb score	7.7
+meta score	N/A
+genre	Drama
+genre	Family
+keyword	sharecropper
+keyword	boy
+keyword	prison
+keyword	stealing
+keyword	food
+keyword	schoolteacher
+keyword	louisiana
+keyword	prison camp
+keyword	social injustice
+keyword	starving
+keyword	teacher student relationship
+keyword	baseball
+keyword	black family
+keyword	classroom
+keyword	one word title
+keyword	student
+keyword	homelessness
+keyword	life choices
+keyword	laborer
+keyword	hard labor
+keyword	maturation
+keyword	labor camp
+keyword	race relations
+keyword	first part
+keyword	robbery
+keyword	boy dog relationship
+keyword	girl
+keyword	courage
+keyword	farmer
+keyword	1930s
+keyword	traveling
+keyword	hunger
+keyword	teacher
+keyword	racist
+keyword	education
+keyword	travel
+keyword	father son relationship
+keyword	african american
+keyword	theft
+keyword	brother sister relationship
+keyword	against the odds
+keyword	cross cultural relations
+keyword	reading
+keyword	love
+keyword	freedom
+keyword	washer woman
+keyword	adolescent
+keyword	husband wife relationship
+keyword	shootout
+keyword	dog
+keyword	book
+keyword	great depression
+keyword	school
+keyword	brother brother relationship
+keyword	sheriff
+keyword	arrest
+keyword	wound
+keyword	poverty
+keyword	thief
+keyword	family relationships
+keyword	racism
+keyword	coming of age
+keyword	reverend
+keyword	search
+keyword	black american
+keyword	mother son relationship
+keyword	starving child
+keyword	independent film
+cast	Cicely Tyson	Rebecca Morgan
+cast	Paul Winfield	Nathan Lee Morgan
+cast	Kevin Hooks	David Lee Morgan
+cast	Carmen Mathews	Mrs. Boatwright
+cast	Taj Mahal	Ike
+cast	James Best	Sheriff Young
+cast	Eric Hooks	Earl Morgan
+cast	Yvonne Jarrell	Josie Mae Morgan
+cast	Sylvia Kuumba Williams	Harriet
+cast	Teddy Airhart	Mr. Perkins
+cast	Richard Durham	Perkins' Foreman
+cast	Wendell Brumfield	Deputy #1
+cast	Al Bankston	Deputy #2
+cast	Myrl Sharkey	Teacher
+cast	Inez Durham	Court Clerk
+cast	William T. Bennett	Judge
+cast	Thomas N. Phillips	Pastor
+cast	Carl Braser	Wagon Driver
+cast	Jerry Leggio	Guard #1
+cast	Peter Goff	Guard #2
+cast	Walter L. Chaney	Guard #3
+cast	Roy Idom	Guard #4
+cast	Randy Wilson	Convict #1
+cast	Isaac Greggs	Convict #2
+cast	Jackie Spears	Girl #1
+cast	Porter Mathews	Boy #1
+cast	Spencer Bradford	Clarence
+cast	Janet MacLachlan	Camille
+cast	Swampy	Sounder

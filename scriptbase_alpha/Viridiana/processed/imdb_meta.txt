@@ -1,0 +1,321 @@
+year	1961
+imdb score	8.2
+meta score	N/A
+genre	Drama
+keyword	nun
+keyword	vow
+keyword	mother superior
+keyword	guilt
+keyword	novice
+keyword	piety
+keyword	crutch
+keyword	looking through a keyhole
+keyword	hunger
+keyword	holy water
+keyword	corruption
+keyword	convent
+keyword	cousin cousin relationship
+keyword	passion
+keyword	fetish
+keyword	kiss
+keyword	protectress
+keyword	suffering
+keyword	beggar
+keyword	cynicism
+keyword	suspected rape
+keyword	consecration
+keyword	painter
+keyword	kindness
+keyword	pregnancy
+keyword	nihilism
+keyword	trust
+keyword	da vinci last supper
+keyword	photograph
+keyword	disgust
+keyword	crying baby
+keyword	love
+keyword	cattle
+keyword	tablecloth
+keyword	flute
+keyword	crucifix
+keyword	horse and carriage
+keyword	fight
+keyword	wine
+keyword	sleepwalker
+keyword	watching
+keyword	attempted rape
+keyword	virgin mary
+keyword	dropping food
+keyword	controversy
+keyword	drinking
+keyword	somnambulism
+keyword	ashes
+keyword	priest
+keyword	drugged coffee
+keyword	organ
+keyword	suitcase
+keyword	dinner
+keyword	reference to jesus christ
+keyword	sand
+keyword	punishment
+keyword	dancing
+keyword	bus
+keyword	ingratitude
+keyword	uncle niece relationship
+keyword	undressing
+keyword	nail
+keyword	soldier
+keyword	wedding veil
+keyword	food thrown into someone's face
+keyword	boyfriend girlfriend relationship
+keyword	faith
+keyword	servant
+keyword	packing a suitcase
+keyword	ridicule
+keyword	last supper
+keyword	hate
+keyword	mirror
+keyword	pipe smoking
+keyword	destruction
+keyword	lamb
+keyword	humility
+keyword	writing
+keyword	soaking arm
+keyword	painting
+keyword	sewing
+keyword	intercourse
+keyword	record player
+keyword	children
+keyword	asthma
+keyword	cake
+keyword	mother son relationship
+keyword	architect
+keyword	sleeping on the floor
+keyword	coffee
+keyword	confession
+keyword	squash
+keyword	fight between women
+keyword	electric shock
+keyword	religious woman
+keyword	liar
+keyword	roast
+keyword	portrait painting
+keyword	dog
+keyword	attic
+keyword	horse
+keyword	climbing a tree
+keyword	electricity
+keyword	jumprope
+keyword	respect
+keyword	leper
+keyword	knife
+keyword	gratitude
+keyword	gardener
+keyword	soporific
+keyword	scrubbing floor
+keyword	baking
+keyword	nightgown
+keyword	spider
+keyword	tied up
+keyword	construction worker
+keyword	orchard
+keyword	maid
+keyword	country estate
+keyword	varicose veins
+keyword	clock
+keyword	falling asleep
+keyword	headache
+keyword	agriculture
+keyword	marriage proposal
+keyword	soaking feet
+keyword	deafness
+keyword	rat
+keyword	dwarf
+keyword	penitence
+keyword	hacienda
+keyword	candelabra
+keyword	schoolboy
+keyword	yo yo
+keyword	key
+keyword	pocket watch
+keyword	idealism
+keyword	wheat
+keyword	song
+keyword	corset
+keyword	drugged
+keyword	sex
+keyword	dove
+keyword	vandalism
+keyword	coward
+keyword	tears
+keyword	death of aunt
+keyword	desk
+keyword	guitar
+keyword	death
+keyword	dormitory
+keyword	sleeping powder
+keyword	religion
+keyword	pills
+keyword	recording
+keyword	spain
+keyword	helping a beggar
+keyword	organist
+keyword	pauper
+keyword	rifle
+keyword	burning crown of thorns
+keyword	pride
+keyword	dowry
+keyword	pigeon
+keyword	shoes
+keyword	suicide by hanging
+keyword	water
+keyword	guard
+keyword	man in woman's clothes
+keyword	sleepwalking
+keyword	breaking a bottle over someone's head
+keyword	scabies
+keyword	rape
+keyword	card playing
+keyword	handel's messiah
+keyword	rheumatism
+keyword	class differences
+keyword	satire
+keyword	cane
+keyword	apple
+keyword	pulling up skirt
+keyword	rabbit hunting
+keyword	bee
+keyword	selfishness
+keyword	weaver
+keyword	fever
+keyword	plate smashing
+keyword	spilled wine
+keyword	village
+keyword	silverware
+keyword	wedding bouquet
+keyword	death of wife
+keyword	compassion
+keyword	charity
+keyword	peeping tom
+keyword	farming
+keyword	cat
+keyword	marriage
+keyword	orphan
+keyword	dancer
+keyword	cupboard
+keyword	singing
+keyword	milking a cow
+keyword	visitor
+keyword	riddle
+keyword	praying
+keyword	fainting
+keyword	husband wife relationship
+keyword	gramophone
+keyword	catholic church
+keyword	doctor
+keyword	baby
+keyword	bonfire
+keyword	farm
+keyword	singer
+keyword	one word title
+keyword	reference to leonardo da vinci
+keyword	offeratory box
+keyword	leprosy
+keyword	attempted incest
+keyword	catholic
+keyword	heart attack
+keyword	peeling apple
+keyword	cow
+keyword	surrealism
+keyword	custard
+keyword	crown of thorns
+keyword	throwing food
+keyword	poverty
+keyword	fireplace
+keyword	forgiveness
+keyword	hammer
+keyword	suicide
+keyword	chorizo
+keyword	crucifix knife
+keyword	terrace
+keyword	peseta
+keyword	putting on someone's shoe
+keyword	crying
+keyword	orgy
+keyword	itch
+keyword	self centeredness
+keyword	discipline
+keyword	tobacco
+keyword	hit with a shovel
+keyword	corn
+keyword	french lace
+keyword	drink
+keyword	cloister
+keyword	sister sister relationship
+keyword	keyhole
+keyword	drunkenness
+keyword	plaster
+keyword	father son relationship
+keyword	jumping rope
+keyword	prayer
+keyword	school uniform
+keyword	chicken
+keyword	peasant
+keyword	scene based on painting
+keyword	barefoot
+keyword	lawyer
+keyword	man putting on woman's shoe
+keyword	reference to god
+keyword	cross
+keyword	loneliness
+keyword	wedding dress
+keyword	milk
+keyword	trance
+keyword	lie
+keyword	bandage
+keyword	rope belt
+keyword	unconsciousness
+keyword	bread
+keyword	linen
+keyword	mother daughter relationship
+keyword	candle
+keyword	fear
+keyword	scratching
+keyword	dark comedy
+keyword	blind beggar
+keyword	murder
+keyword	blind man
+keyword	listening to music
+keyword	buying a dog
+keyword	tin can
+keyword	bull
+keyword	kitchen
+keyword	food
+keyword	death of mother
+keyword	based on novel
+keyword	character name in title
+keyword	title spoken by character
+keyword	
+cast	Silvia Pinal	Viridiana
+cast	Francisco Rabal	Jorge
+cast	Fernando Rey	Don Jaime
+cast	José Calvo	Don Amalio
+cast	Margarita Lozano	Ramona
+cast	José Manuel Martín	El Cojo
+cast	Victoria Zinny	Lucia
+cast	Luis Heredia	Manuel 'El Poca'
+cast	Joaquín Roa	Señor Zequiel
+cast	Lola Gaos	Enedina
+cast	María Isbert	Beggar
+cast	Teresa Rabal	Rita
+cast	Alicia Jorge Barriga	Beggar
+cast	Claudio Brook	
+cast	Juan García Tiendra	José 'El Leproso'
+cast	Palmira Guerra	Beggar
+cast	José María Lado	Mayor
+cast	Joaquin Mayol	Beggar
+cast	Sergio Mendizábal	El Pelón
+cast	Narciso Ojeda	
+cast	Francisco René	Moncho
+cast	Milagros Tomás	Beggar
+cast	Rosita Yarza	Mother Superior

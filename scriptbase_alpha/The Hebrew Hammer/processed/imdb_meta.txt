@@ -1,0 +1,173 @@
+year	2003
+imdb score	6.3
+meta score	41
+genre	Comedy
+keyword	jewish
+keyword	hanukkah
+keyword	blaxploitation
+keyword	kwanzaa
+keyword	santa claus
+keyword	sabbath
+keyword	reference to steven spielberg
+keyword	foot chase
+keyword	absurd humor
+keyword	playing violin
+keyword	shootout
+keyword	cult film
+keyword	star of david
+keyword	split screen
+keyword	skinhead
+keyword	christmas present
+keyword	test
+keyword	reference to sammy davis jr.
+keyword	irreverence
+keyword	marijuana joint
+keyword	christmas party
+keyword	satire
+keyword	eye patch
+keyword	tied to a chair
+keyword	fellatio
+keyword	american abroad
+keyword	black stereotype
+keyword	digital film
+keyword	reindeer
+keyword	north pole
+keyword	stabbed to death
+keyword	sunset
+keyword	reference to adam sandler
+keyword	machete
+keyword	ethnic slur
+keyword	anti semitism
+keyword	face slap
+keyword	son murders father
+keyword	jewish stereotype
+keyword	character repeating someone else's dialogue
+keyword	film starts with text
+keyword	phone booth
+keyword	cigarette smoking
+keyword	desert eagle
+keyword	pistol
+keyword	premarital sex
+keyword	transmission
+keyword	man wearing a wig
+keyword	mother son relationship
+keyword	bare chested male
+keyword	elf
+keyword	character's point of view camera shot
+keyword	reference to britney spears
+keyword	breaking a bottle over someone's head
+keyword	written by director
+keyword	marriage proposal
+keyword	cat
+keyword	kidnapping
+keyword	bar
+keyword	christmas tree
+keyword	sweatshop
+keyword	two way mirror
+keyword	cleavage
+keyword	reference to julius caesar
+keyword	bagel
+keyword	neo nazi
+keyword	swastika
+keyword	raised middle finger
+keyword	younger version of character
+keyword	butt slap
+keyword	christmas
+keyword	spit in the face
+keyword	spoof
+keyword	underground railroad
+keyword	jerusalem israel
+keyword	555 phone number
+keyword	nude drawing
+keyword	black and white scene
+keyword	racial slur
+keyword	crude humor
+keyword	spinning top
+keyword	afro
+keyword	three word title
+keyword	black jew
+keyword	character says i love you
+keyword	shotgun
+keyword	santa hat
+keyword	duct tape over mouth
+keyword	whining
+keyword	yarmulke
+keyword	reference to david copperfield
+keyword	catholic school
+keyword	parody
+keyword	blood splatter
+keyword	midget
+keyword	montage
+keyword	shot to death
+keyword	reference to harriet tubman
+keyword	subjective camera
+keyword	clock
+keyword	cockney accent
+keyword	jewish humor
+keyword	shot in the chest
+keyword	hasidic jew
+keyword	tribute
+keyword	crutches
+keyword	independent film
+keyword	title spoken by character
+keyword	character name in title
+keyword	
+cast	Adam Goldberg	Mordechai Jefferson Carver
+cast	Judy Greer	Esther Bloomenbergensteinenthal
+cast	Andy Dick	Damian Claus
+cast	Mario Van Peebles	Mohammed Ali Paula Abdul Rahim
+cast	Peter Coyote	JJL Chief Bloomenbergensteinenthal
+cast	Nora Dunn	Mrs. Carver
+cast	Sean Whalen	Tiny Tim
+cast	Tony Cox	Jamal
+cast	Richard Riehle	Santa
+cast	Melvin Van Peebles	Sweetback
+cast	Rachel Dratch	Tikva
+cast	Harrison Chad	Schlomo
+cast	Jim Petersmith	Skinhead Bartender
+cast	Annie McEnroe	Mrs. Highsmith
+cast	Grant Rosenmeyer	Young Mordechai
+cast	Elaine Hendrix	Blonde Bombshell
+cast	Ayelet Ben-Hur	Israeli Rental Agent
+cast	Alex Corrado	Tony
+cast	Brad Duck	Jimmy
+cast	Jason Fuchs	Adolescent Hasidic Boy
+cast	Ed Koch	Himself
+cast	Gary Pratt	Head Elf
+cast	Woodrow W. Asai	Mun Chi
+cast	Daryl Wein	Teenage Gentile
+cast	Michael Mylett	Gentile Boy No. 1
+cast	T.J. Sullivan	Gentile Boy No. 2
+cast	Audrey Twitchell	Gentile Girl No. 1
+cast	Alexa Eisenstein	Gentile Girl No. 2
+cast	Evelyn Page	Old Woman
+cast	George Hosmer	Chairman of the Jewish Worldwide Media Conspiracy
+cast	Ronald Schultz	ADL Chairman
+cast	Leslie Shenkel	JDL Member No. 1
+cast	Alan Nebelthau	JDL Member No. 2
+cast	Jerome F. Richards	Council Elder
+cast	C.P. Lacey	Sammy Davis Jr. Jr. / MC Hammer
+cast	Ephraim Benton	Black Teen
+cast	David Lee	White Accountant
+cast	Adam Rose	Addict Jewish Child
+cast	Devin Rene Burns	Blonde Gentile Girl
+cast	Jimmy Walsh	Freckle-Faced Gentile
+cast	Chris McGinn	Samples Woman
+cast	Kathryn Gordon	Bambi
+cast	Anna Berger	Harriet Tubbleman
+cast	Ivan Sandro	Carnival Worker
+cast	Jeff Marlow	Joshua
+cast	Ronald Shore	Bandleader
+cast	Tom Chalmers	Chaim Feygele
+cast	David Steinberg	Elf Flunky
+cast	Mylika Davis	Sassy Black Prostitute
+cast	Liana Reda Leahy	Jewish American Princess
+cast	John Jay Buol	Skinhead
+cast	Scott Corr	Skinhead
+cast	Michael Adrienne O'Hagan	Miriam
+cast	Isen Robbins	Dance Partner 1
+cast	David C. Roehm Sr.	Skinhead Barfly
+cast	Lorin Shapiro	Jewish American Princess
+cast	Dariusz M. Uczkowski	Hasidic boy / Kmart Shopper
+cast	Jan Uczkowski	Kmart Shopper
+cast	Sarah Wagner-Roehm	Kid Visiting Santa

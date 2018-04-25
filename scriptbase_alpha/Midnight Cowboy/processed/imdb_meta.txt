@@ -1,0 +1,308 @@
+year	1969
+imdb score	8.0
+meta score	N/A
+genre	Drama
+keyword	friend
+keyword	new york city
+keyword	hustler
+keyword	texas
+keyword	male prostitute
+keyword	condemned building
+keyword	money
+keyword	radio commercial
+keyword	theft
+keyword	rural setting
+keyword	beating
+keyword	swimming pool
+keyword	confession
+keyword	cemetery
+keyword	watching a movie
+keyword	flashback
+keyword	callboy
+keyword	bishop
+keyword	barclay hotel manhattan new york city
+keyword	interview
+keyword	older woman younger man relationship
+keyword	reading a comic book
+keyword	mirror
+keyword	urban setting
+keyword	cowboy boot
+keyword	arcade
+keyword	tuberculosis
+keyword	talking to one's self in a mirror
+keyword	gigolo
+keyword	cowhide suitcase
+keyword	quitting a job
+keyword	darkroom
+keyword	homelessness
+keyword	bare breasts
+keyword	female nudity
+keyword	wheelchair
+keyword	drive in theater
+keyword	evangelist
+keyword	male nudity
+keyword	slipping on a banana peel
+keyword	catsup
+keyword	falling down stairs
+keyword	wrecking ball
+keyword	central park manhattan new york city
+keyword	dying
+keyword	death of grandmother
+keyword	waitress
+keyword	pills
+keyword	fellatio
+keyword	blood
+keyword	beauty salon
+keyword	gay
+keyword	hunchback
+keyword	tragedy
+keyword	loneliness
+keyword	wristwatch
+keyword	ulcer
+keyword	child nudity
+keyword	water tower
+keyword	pawnshop
+keyword	florida
+keyword	nail file
+keyword	cold the temperature
+keyword	prayer
+keyword	gay slur
+keyword	fish out of water
+keyword	hernia
+keyword	street life
+keyword	bartender
+keyword	baptism
+keyword	impotence
+keyword	shooting gallery
+keyword	hanging up without saying goodbye
+keyword	drinking
+keyword	pain
+keyword	graveyard
+keyword	remote control
+keyword	demonstrator
+keyword	faith healer
+keyword	broken mirror
+keyword	thief
+keyword	grandmother grandson relationship
+keyword	dramamine
+keyword	sidewalk cafe
+keyword	illness
+keyword	manhattan new york city
+keyword	tv show
+keyword	urban cowboy
+keyword	limp
+keyword	slum
+keyword	two word title
+keyword	channel surfing
+keyword	drink
+keyword	transsexual
+keyword	cowboy hat
+keyword	con artist
+keyword	stoned
+keyword	greyhound bus
+keyword	male rape
+keyword	film within a film
+keyword	statue
+keyword	friendship
+keyword	beautician
+keyword	plan gone wrong
+keyword	con man
+keyword	shrine
+keyword	soldier
+keyword	hotel
+keyword	cowboy
+keyword	fantasy sequence
+keyword	erectile dysfunction
+keyword	heroin
+keyword	cigarette smoking
+keyword	father son relationship
+keyword	singer
+keyword	rodeo
+keyword	shivering
+keyword	tenement
+keyword	1950s
+keyword	encyclopedia britannica
+keyword	famous line
+keyword	reference to jesus christ
+keyword	statue of liberty new york city
+keyword	nudity
+keyword	marijuana
+keyword	demolition
+keyword	u.s. president
+keyword	times square manhattan new york city
+keyword	makeover
+keyword	boyfriend girlfriend relationship
+keyword	blood donation
+keyword	theater balcony
+keyword	crying
+keyword	drunkenness
+keyword	religious icon
+keyword	leather fringe jacket
+keyword	cripple
+keyword	cooking
+keyword	twenty something
+keyword	homosexuality
+keyword	urban decadence
+keyword	dog clothing
+keyword	time in title
+keyword	nightmare
+keyword	party
+keyword	park avenue manhattan new york city
+keyword	oral sex
+keyword	reincarnation
+keyword	rest stop
+keyword	nun
+keyword	bar
+keyword	bus
+keyword	big city life
+keyword	gang rape
+keyword	controversy
+keyword	fever
+keyword	coughing
+keyword	sex in public
+keyword	beach
+keyword	friendship between men
+keyword	adultery
+keyword	television commercial
+keyword	scribbage
+keyword	dancing
+keyword	escort service
+keyword	despair
+keyword	u.s. soldier
+keyword	bare chested male
+keyword	tv set
+keyword	misunderstanding
+keyword	singing
+keyword	sex
+keyword	dancer
+keyword	rocking chair
+keyword	spanking
+keyword	bingo
+keyword	go go dancer
+keyword	poodle
+keyword	male bonding
+keyword	actress
+keyword	pickpocket
+keyword	horse
+keyword	poverty
+keyword	cold the illness
+keyword	bus ride
+keyword	prostitution
+keyword	psychedelic
+keyword	dallas texas
+keyword	listening to radio
+keyword	naivety
+keyword	ice box
+keyword	rape
+keyword	small town
+keyword	hunger
+keyword	male rear nudity
+keyword	shoplifting
+keyword	telephone call
+keyword	laundromat
+keyword	running on the beach
+keyword	motel
+keyword	bus trip
+keyword	film camera
+keyword	freezing
+keyword	dream
+keyword	grand central station manhattan new york city
+keyword	42nd street manhattan new york city
+keyword	falling into a swimming pool
+keyword	drug use
+keyword	dog
+keyword	male frontal nudity
+keyword	radio
+keyword	photographer
+keyword	homosexual
+keyword	postcard
+keyword	policeman
+keyword	barefoot
+keyword	automat
+keyword	transistor radio
+keyword	enema
+keyword	song
+keyword	telephone booth
+keyword	gambling
+keyword	bare butt
+keyword	death
+keyword	elevator
+keyword	comic book
+keyword	cook
+keyword	grave
+keyword	shoeshine stand
+keyword	horse and carriage
+keyword	assault
+keyword	penthouse
+keyword	caught having sex
+keyword	sherry netherland hotel manhattan new york city
+keyword	eviction
+keyword	subway
+keyword	wetting pants
+keyword	peek a boo
+keyword	delicatessen
+keyword	motion sickness
+keyword	african american
+keyword	kiss
+keyword	death of father
+keyword	death of friend
+keyword	based on novel
+keyword	
+cast	Dustin Hoffman	Ratso
+cast	Jon Voight	Joe Buck
+cast	Sylvia Miles	Cass
+cast	John McGiver	Mr. O'Daniel
+cast	Brenda Vaccaro	Shirley
+cast	Barnard Hughes	Towny
+cast	Ruth White	Sally Buck - Texas
+cast	Jennifer Salt	Annie - Texas
+cast	Gilman Rankin	Woodsy Niles - Texas
+cast	Gary Owens	Little Joe - Texas
+cast	T. Tom Marlow	Little Joe - Texas
+cast	George Eppersen	Ralph - Texas
+cast	Al Scott	Cafeteria Manager - Texas
+cast	Linda Davis	Mother on the Bus - Texas
+cast	J.T. Masters	Old Cow-Hand - Texas
+cast	Arlene Reeder	The Old Lady - Texas
+cast	Georgann Johnson	Rich Lady - New York
+cast	Jonathan Kramer	Jackie - New York
+cast	Anthony Holland	TV Bishop - New York
+cast	Bob Balaban	The Young Student - New York
+cast	Jan Tice	Freaked-Out Lady - New York
+cast	Paul Benjamin	Bartender - New York
+cast	Peter Scalia	Vegetable Grocer - New York
+cast	Vito Siracusa	Vegetable Grocer - New York
+cast	Peter Zamagias	Hat Shop Owner - New York
+cast	Arthur Anderson	Hotel Clerk - New York
+cast	Tina Scala	Laundromat Lady - New York
+cast	Alma Felix	Laundromat Lady - New York
+cast	Richard Clarke	Escort Service Man - New York
+cast	Ann Thomas	The Frantic Lady - New York
+cast	Paul Rossilli	Hansel McAlbertson - The Party
+cast	Viva	Gretel McAlbertson - The Party
+cast	Ultra Violet	The Party
+cast	Paul Jabara	The Party
+cast	International Velvet	The Party
+cast	Cecelia Lipson	The Party
+cast	Taylor Mead	The Party
+cast	Paul Morrissey	The Party
+cast	Joan Murphy	The Waitress - Florida
+cast	Al Stetson	Bus Driver - Florida
+cast	Pat Ast	Party Guest
+cast	Bernice	Dog Outside Warhol Party
+cast	Mary Boylan	Old Lady in Subway
+cast	Philip Bruns	Man in TV Montage
+cast	Randall Carver	Rapist in Flashback
+cast	Marlene Clark	Girl at Party
+cast	Robert Dahdah	Bus Passenger
+cast	William Door	Man at Party
+cast	Sandy Duncan	Woman in TV Montage
+cast	Trent Gough	Man at Lunch Counter
+cast	Paul Jasmin	Party Guest
+cast	Jay Morran	Pimp
+cast	Waldo Salt	Joe Pyne on TV Show
+cast	Renee Semes	Hippie in Coffee Shop
+cast	Alan Stetson	Bus Driver Fla
+cast	Jeffrey Walker	Hippie #3
+cast	M. Emmet Walsh	Bus Passenger
+cast	Bill Walters	St. Bernard Owner

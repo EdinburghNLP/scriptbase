@@ -1,0 +1,170 @@
+year	1971
+imdb score	6.2
+meta score	N/A
+genre	Action
+genre	Sci-Fi
+keyword	ape
+keyword	fear
+keyword	future
+keyword	spaceship
+keyword	spacecraft
+keyword	chimpanzee
+keyword	planet of the apes
+keyword	place name in title
+keyword	husband wife relationship
+keyword	strangulation
+keyword	shopping spree
+keyword	tragic event
+keyword	secretly recorded
+keyword	nuclear holocaust
+keyword	shipyard
+keyword	press conference
+keyword	ape man
+keyword	tape recording
+keyword	newscast
+keyword	infant
+keyword	advisor
+keyword	reference to herod
+keyword	belief in god
+keyword	president
+keyword	helmet
+keyword	killed by an animal
+keyword	psychiatrist
+keyword	expectant mother
+keyword	archaeologist
+keyword	circus
+keyword	reel to reel tape recorder
+keyword	friendship
+keyword	breeding
+keyword	mocking laughter
+keyword	pregnant wife
+keyword	presidential advisor
+keyword	cigarette smoking
+keyword	mob of reporters
+keyword	pacifism
+keyword	recording
+keyword	cage
+keyword	opening bottle of wine
+keyword	cigarette case
+keyword	u.s. president
+keyword	party
+keyword	los angeles california
+keyword	hearing
+keyword	science advisor
+keyword	hero's welcome
+keyword	astronaut
+keyword	drunkenness
+keyword	expectant father
+keyword	shopping
+keyword	binoculars
+keyword	altering history
+keyword	refrigerator
+keyword	pacific ocean
+keyword	escape
+keyword	tease
+keyword	soldier
+keyword	zoologist
+keyword	truth serum
+keyword	cia
+keyword	temper
+keyword	zoo
+keyword	sequel
+keyword	pregnant
+keyword	crawling
+keyword	women's rights
+keyword	pregnancy
+keyword	falling from height
+keyword	intellectual
+keyword	oil tanker
+keyword	accidental death
+keyword	military base
+keyword	nuclear war
+keyword	sketch artist
+keyword	science lesson
+keyword	d box motion code
+keyword	flashback
+keyword	tape recorder
+keyword	investigation
+keyword	pregnancy craving
+keyword	champagne
+keyword	escape
+keyword	reference to hitler
+keyword	shot to death
+keyword	orange the fruit
+keyword	american president
+keyword	baby switch
+keyword	museum
+keyword	xenophobia
+keyword	end of the world
+keyword	scientist
+keyword	birth
+keyword	banana
+keyword	agency
+keyword	california
+keyword	post nuclear
+keyword	simian fiction
+keyword	wine
+keyword	fainting
+keyword	alternate history
+keyword	on the run
+keyword	abandoned ship
+keyword	gorilla
+keyword	recording device
+keyword	time travel
+keyword	killing an animal
+keyword	dystopia
+keyword	drinking while pregnant
+keyword	giving birth
+keyword	planet in title
+keyword	firearm
+keyword	hotel
+keyword	craving
+keyword	tv news
+keyword	murder
+keyword	third part
+keyword	animal in title
+keyword	orderly
+keyword	bubble bath
+keyword	surprise ending
+keyword	
+cast	Roddy McDowall	Cornelius
+cast	Kim Hunter	Zira
+cast	Bradford Dillman	Dr. Lewis Dixon
+cast	Natalie Trundy	Dr. Stephanie Branton
+cast	Eric Braeden	Dr. Otto Hasslein
+cast	Ricardo Montalban	Armando
+cast	William Windom	The President
+cast	Sal Mineo	Milo
+cast	Albert Salmi	E-1
+cast	Jason Evers	E-2
+cast	John Randolph	Commission Chairman
+cast	Harry Lauter	Gen. Winthrop
+cast	M. Emmet Walsh	Aide
+cast	Roy Glenn	Lawyer
+cast	Peter Forster	Cardinal
+cast	Norman Burton	Army Officer
+cast	William Woodson	Naval Officer
+cast	Tom Lowell	Orderly
+cast	Gene Whittington	Marine Captain
+cast	Donald Elson	Curator
+cast	Bill Bonds	TV Newscaster
+cast	Army Archerd	Referee
+cast	James Bacon	Gen. Faulkner
+cast	John Alderman	Marine Corporal
+cast	Paul Bradley	Man at President's Briefing
+cast	Karl Bruck	German Newscaster
+cast	Sam Chew Jr.	Undetermined
+cast	Walker Edmiston	Talking Baby Chimp
+cast	James W. Gavin	Helicopter Pilot
+cast	George Golden	Man at President's Briefing
+cast	Joe Gray	Bodyguard
+cast	Robert Gunner	Landon
+cast	Elizabeth Harrower	Reporter at Hotel
+cast	Robert Nichols	Reporter
+cast	Ron Pinkard	Undetermined
+cast	Janos Prohaska	Heloise
+cast	Tony Regan	Reporter at Hotel
+cast	Stephen Roberts	Gen. Brody
+cast	Hank Robinson	White Haired Reporter
+cast	James Sikking	Control Room Officer
+cast	Arthur Tovey	White-Haired Man at President's Briefing

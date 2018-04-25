@@ -1,0 +1,141 @@
+year	2003
+imdb score	8.2
+meta score	90
+genre	Adventure
+genre	Animation
+genre	Comedy
+genre	Family
+keyword	fish
+keyword	dentist
+keyword	fish tank
+keyword	great barrier reef
+keyword	ocean
+keyword	short term memory loss
+keyword	harbor
+keyword	shark
+keyword	jellyfish
+keyword	diver
+keyword	friend
+keyword	escape
+keyword	turtle
+keyword	underwater
+keyword	boat
+keyword	clownfish
+keyword	predator
+keyword	widower
+keyword	talking animal
+keyword	coral reef
+keyword	redemption
+keyword	lighthouse
+keyword	character's point of view camera shot
+keyword	separation from family
+keyword	escape attempt
+keyword	sink
+keyword	support group
+keyword	dolphin
+keyword	prologue
+keyword	second chance
+keyword	regret
+keyword	e bay
+keyword	wildlife
+keyword	loss of wife
+keyword	peer pressure
+keyword	accidental hero
+keyword	explosion
+keyword	sunken ship
+keyword	drain
+keyword	scene during end credits
+keyword	father son reunion
+keyword	coral
+keyword	torpedo
+keyword	head butt
+keyword	father son relationship
+keyword	sea mine
+keyword	seagull
+keyword	abyss
+keyword	tooth extraction
+keyword	aquarium
+keyword	egg
+keyword	blowfish
+keyword	handicapped
+keyword	filth
+keyword	marina
+keyword	faked death
+keyword	search
+keyword	literacy
+keyword	starfish
+keyword	reflection
+keyword	talking in sleep
+keyword	sydney australia
+keyword	teamwork
+keyword	loss of son
+keyword	sydney opera house
+keyword	field trip
+keyword	pelican
+keyword	missing child
+keyword	protective father
+keyword	no opening credits
+keyword	scuba diving
+keyword	cgi film
+keyword	buoy
+keyword	pacific ocean
+keyword	mask
+keyword	father son estrangement
+keyword	trust
+keyword	impressionist
+keyword	death of wife
+keyword	seahorse
+keyword	sydney harbor bridge
+keyword	computer animation
+keyword	single father
+keyword	ocean current
+keyword	protective male
+keyword	blockbuster
+keyword	2000s
+keyword	pixar animated film
+keyword	crab
+keyword	manta ray
+keyword	whale
+keyword	joke
+keyword	flashback
+keyword	surprise after end credits
+keyword	directions
+keyword	courage
+keyword	motorboat
+keyword	subjective camera
+keyword	initiation
+keyword	friendship
+keyword	cleaner shrimp
+keyword	overprotective father
+keyword	fable
+keyword	barracuda
+keyword	fishing boat
+keyword	squid
+keyword	cartoon fish
+keyword	pet as gift
+keyword	character name in title
+keyword	surprise ending
+cast	Albert Brooks	Marlin
+cast	Ellen DeGeneres	Dory
+cast	Alexander Gould	Nemo
+cast	Willem Dafoe	Gill
+cast	Brad Garrett	Bloat
+cast	Allison Janney	Peach
+cast	Austin Pendleton	Gurgle
+cast	Stephen Root	Bubbles
+cast	Vicki Lewis	Deb / Flo
+cast	Joe Ranft	Jacques
+cast	Geoffrey Rush	Nigel
+cast	Andrew Stanton	Crush
+cast	Elizabeth Perkins	Coral
+cast	Nicholas Bird	Squirt
+cast	Bob Peterson	Mr. Ray
+cast	Barry Humphries	Bruce
+cast	Eric Bana	Anchor
+cast	Bruce Spence	Chum
+cast	Bill Hunter	Dentist
+cast	LuLu Ebeling	Darla
+cast	Jordan Ranft	Tad
+cast	Erica Beck	Pearl
+cast	Erik Per Sullivan	Sheldon
+cast	John Ratzenberger	Fish School

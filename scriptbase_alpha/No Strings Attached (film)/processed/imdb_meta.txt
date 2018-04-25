@@ -1,0 +1,167 @@
+year	2011
+imdb score	6.2
+meta score	50
+genre	Comedy
+genre	Romance
+keyword	ex girlfriend
+keyword	summer camp
+keyword	hospital
+keyword	funeral
+keyword	gay man
+keyword	three word title
+keyword	sister sister relationship
+keyword	sex friend
+keyword	university of michigan
+keyword	m.i.t.
+keyword	tv set
+keyword	menstruation
+keyword	graveyard
+keyword	ice cream
+keyword	flash forward
+keyword	singing in a car
+keyword	sex scene
+keyword	carrot
+keyword	divorce
+keyword	woman in lingerie
+keyword	male rear nudity
+keyword	father son relationship
+keyword	6 weeks later
+keyword	high school prom
+keyword	tv writer
+keyword	taking off someone's panties
+keyword	death of parent
+keyword	restaurant
+keyword	screenplay
+keyword	los angeles california
+keyword	bare chested male
+keyword	1990s
+keyword	15 years ago
+keyword	coworker relationship
+keyword	1 year ago
+keyword	hdtv
+keyword	iphone
+keyword	female physician
+keyword	medical intern
+keyword	female doctor
+keyword	small dog
+keyword	gay friend
+keyword	medical student
+keyword	2010s
+keyword	bmw
+keyword	two in a shower
+keyword	5 years ago
+keyword	film crew
+keyword	sex in laundry room
+keyword	first date
+keyword	f word
+keyword	parents
+keyword	scene during end credits
+keyword	prius
+keyword	gay stereotype
+keyword	famous father
+keyword	bartender
+keyword	hospital staff
+keyword	playing piano
+keyword	boyfriend girlfriend relationship
+keyword	roommate issues
+keyword	westwood california
+keyword	sex in closet
+keyword	hiding in bush
+keyword	sex in hospital
+keyword	film set
+keyword	tv show in film
+keyword	hand over mouth
+keyword	friends with benefits
+keyword	xbox 360
+keyword	valet parking
+keyword	party
+keyword	waitress
+keyword	lesbian kiss
+keyword	woman in bikini
+keyword	woman woman relationship
+keyword	cemetery
+keyword	sexual relationships
+keyword	3d glasses
+keyword	miniature golf
+keyword	intern
+keyword	physician
+keyword	staff physician
+keyword	gay parent
+keyword	drug overdose
+keyword	gay father
+keyword	drunk dial
+keyword	pomeranian dog
+keyword	woman in underwear
+keyword	valentine's day
+keyword	quickie
+keyword	love triangle
+keyword	alcohol
+keyword	
+cast	Natalie Portman	Emma
+cast	Ashton Kutcher	Adam Franklin
+cast	Kevin Kline	Alvin
+cast	Cary Elwes	Dr. Metzner
+cast	Greta Gerwig	Patrice
+cast	Lake Bell	Lucy
+cast	Olivia Thirlby	Katie
+cast	Ludacris	Wallace
+cast	Jake Johnson	Eli
+cast	Mindy Kaling	Shira
+cast	Talia Balsam	Sandra Kurtzman
+cast	Ophelia Lovibond	Vanessa
+cast	Guy Branum	Guy
+cast	Ben Lawson	Sam
+cast	Jennifer Irwin	Megan
+cast	Adhir Kalyan	Kevin
+cast	Brian H. Dierker	Bones
+cast	Abby Elliott	Joy
+cast	Vedette Lim	Lisa
+cast	Gary David Goldberg	Emma's Relative
+cast	Armen Weitzman	Taxi Driver
+cast	Shaun Russell	LACMA Guard
+cast	Nealla Gordon	Lydia
+cast	Seth Morris	Man with Dog
+cast	Nasim Pedrad	Writer
+cast	Elizabeth Meriwether	Writer
+cast	Mollee Gray	Sari
+cast	Derek Ferguson	Benji
+cast	Matthew Moy	Chuck
+cast	Tyne Stecklein	Victoria
+cast	Kym Connor	Stage Mom
+cast	Renna Bartlett	Stage Assistant Director
+cast	Jennifer Hamilton	On Camera Choreographer
+cast	Krystal Ellsworth	Secret High Dancer
+cast	Kim Marko Germar	Secret High Dancer
+cast	Megan Honore	Secret High Dancer
+cast	Nick Lanzisera	Secret High Dancer
+cast	Moira 'Anjolie' Marfori	Secret High Dancer
+cast	Dalphe Morantus	Secret High Dancer
+cast	Katrina Norman	Secret High Dancer
+cast	Heather Phillips	Secret High Dancer
+cast	Britt Stewart	Secret High Dancer
+cast	Paula Van Oppen	Secret High Dancer
+cast	William T. Loftis	Secret High Dancer
+cast	Kc Monnie	Secret High Dancer
+cast	Jason Williams	Secret High Dancer
+cast	Hugo	Bar Group
+cast	Jay Barclay	Bar Group
+cast	Tom Tangen	Eli's Dad
+cast	Tim Matheson	Eli's Dad #2
+cast	Ben Lautman	Rabbi
+cast	Joshua Andreacola	Boy at Wake
+cast	Milton Greenberg	Boy at Wake
+cast	Rachel McDermott	STK Waitress
+cast	Robert Trapp	Mini-Golfer
+cast	Rachael Markarian	Frat Party Dancer
+cast	Kherington Payne	Frat Party Dancer
+cast	Dylan Hayes	Young Adam
+cast	Stefanie Scott	Young Emma
+cast	January Adams	Girl in Bar
+cast	Philippe Badreau	Farmers Market Shopper / Dad
+cast	Lydia Blanco	Nurse
+cast	Thomas F. Evans	Dog Walker
+cast	Morgan Lambert	Market Girl
+cast	Michael John Long	Frat guy
+cast	Stephane Nicoli	PA on Bike
+cast	Ivan Reitman	TV Director
+cast	Jonathan Sanders	Party D.J

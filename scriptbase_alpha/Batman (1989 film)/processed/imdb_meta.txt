@@ -1,0 +1,389 @@
+year	1989
+imdb score	7.6
+meta score	66
+genre	Action
+genre	Thriller
+keyword	gotham
+keyword	city
+keyword	police
+keyword	clown
+keyword	vigilante
+keyword	chemical
+keyword	psychotic
+keyword	murder
+keyword	police commissioner
+keyword	revenge
+keyword	secret identity
+keyword	trauma
+keyword	soup
+keyword	dressing gown
+keyword	tension
+keyword	blockbuster
+keyword	cathedral
+keyword	based on comic book
+keyword	urban gothic
+keyword	evil clown
+keyword	showdown
+keyword	chemical plant
+keyword	silver tray
+keyword	corruption
+keyword	on the take
+keyword	satire
+keyword	searchlight
+keyword	chemical factory
+keyword	guilt
+keyword	damsel in distress
+keyword	reference to vogue magazine
+keyword	gargoyle
+keyword	police car siren
+keyword	necklace yanked off
+keyword	superhero
+keyword	home invasion
+keyword	wealthy
+keyword	joker card
+keyword	1980s
+keyword	sword fight
+keyword	city mayor
+keyword	tragic hero
+keyword	photography portfolio
+keyword	machine gun
+keyword	mask
+keyword	gunfight
+keyword	dead woman on the floor
+keyword	microphone
+keyword	talking to the dead
+keyword	gambling
+keyword	fall to death
+keyword	honor
+keyword	police file
+keyword	laughing
+keyword	sex on first date
+keyword	money falling through the air
+keyword	wearing sunglasses inside
+keyword	remake
+keyword	fire axe
+keyword	watching news on tv
+keyword	photograph in newspaper
+keyword	balloon
+keyword	villain
+keyword	cauliflower
+keyword	murder on the air
+keyword	obsessive love
+keyword	dining room
+keyword	green paint
+keyword	party horn
+keyword	masked vigilante
+keyword	dark hero
+keyword	death of reporter
+keyword	set up
+keyword	newspaper archive
+keyword	newspaper clippings
+keyword	beretta
+keyword	belfry
+keyword	throwing money
+keyword	sexy woman
+keyword	feet on table
+keyword	subjective camera
+keyword	mayor
+keyword	yelling
+keyword	police investigation
+keyword	gadget car
+keyword	smiling corpse
+keyword	murder of parents
+keyword	insanity
+keyword	katana sword
+keyword	church tower
+keyword	gadget
+keyword	spinning newspaper
+keyword	crime fighter
+keyword	district attorney
+keyword	poison gas
+keyword	jujitsu
+keyword	famous entrance
+keyword	cult director
+keyword	red rose
+keyword	tragedy
+keyword	gatling gun
+keyword	heroism
+keyword	news report
+keyword	city hall
+keyword	newspaper headline
+keyword	dirty cop
+keyword	black comedy
+keyword	martial arts
+keyword	cult film
+keyword	challenge
+keyword	gun
+keyword	gas mask
+keyword	goth
+keyword	paint
+keyword	police officer shot
+keyword	lifting someone into the air
+keyword	clown face
+keyword	death
+keyword	violence
+keyword	police officer
+keyword	reference to pablo picasso
+keyword	rivalry
+keyword	obsession
+keyword	fall from height
+keyword	high concept
+keyword	vandalism
+keyword	righteous rage
+keyword	kicked in the face
+keyword	foot chase
+keyword	telling someone to shut up
+keyword	origin of hero
+keyword	one word title
+keyword	makeup
+keyword	curly hair
+keyword	orphan
+keyword	ricocheting bullet
+keyword	evil man
+keyword	burned alive
+keyword	face paint
+keyword	looking at self in mirror
+keyword	charred body
+keyword	double life
+keyword	nerve gas
+keyword	organized crime
+keyword	return to the scene of previous event
+keyword	dead woman with eyes open
+keyword	screaming woman
+keyword	hostess
+keyword	parade
+keyword	float
+keyword	killer clown
+keyword	journalism
+keyword	character appears on wanted poster
+keyword	red paint
+keyword	dead parents
+keyword	leather gloves
+keyword	explosion
+keyword	playing craps
+keyword	butler
+keyword	destroying a tv set
+keyword	flashback
+keyword	strapless dress
+keyword	mansion
+keyword	press conference
+keyword	tough guy
+keyword	breaking a mirror
+keyword	camera flash
+keyword	character appears on front page of a newspaper
+keyword	falling from height
+keyword	concept car
+keyword	son seeing mother murdered
+keyword	action hero
+keyword	reference to dracula
+keyword	revolver
+keyword	throwing money into the air
+keyword	fainting
+keyword	kiss on the cheek
+keyword	bell tower
+keyword	shot with own gun
+keyword	justice
+keyword	handprint
+keyword	urban renewal
+keyword	squad car
+keyword	gothic
+keyword	hate
+keyword	photographer
+keyword	blood
+keyword	roulette
+keyword	reboot of series
+keyword	female photographer
+keyword	fictional city
+keyword	newspaper
+keyword	ghetto blaster
+keyword	newspaper photographer
+keyword	knockout gas
+keyword	hand mirror
+keyword	pencil behind ear
+keyword	character's point of view camera shot
+keyword	famous score
+keyword	reference to the pulitzer prize
+keyword	cosmetics
+keyword	villain played by lead actor
+keyword	pile up
+keyword	good versus evil
+keyword	black humor
+keyword	reference to bigfoot
+keyword	table salt
+keyword	one man army
+keyword	graffiti
+keyword	police officer killed
+keyword	fainting woman
+keyword	newspaper reporter
+keyword	psychopath
+keyword	brawl
+keyword	megaphone
+keyword	honorable villain
+keyword	tapping fingers
+keyword	city night scape
+keyword	throwing water into someone's face
+keyword	hero
+keyword	candelabra
+keyword	bulletproof vehicle
+keyword	fireplace poker
+keyword	rescue
+keyword	police lieutenant
+keyword	popcorn
+keyword	pantyhose
+keyword	chemical vat
+keyword	one against many
+keyword	night time
+keyword	shootout
+keyword	cigar smoking
+keyword	dc comics
+keyword	political dinner
+keyword	can of paint
+keyword	courage
+keyword	domestic servant
+keyword	slow motion scene
+keyword	mugging
+keyword	sipping soup
+keyword	gangster
+keyword	anti hero
+keyword	disfigurement
+keyword	ambush
+keyword	automobile
+keyword	haunted by the past
+keyword	cleavage
+keyword	giving money away
+keyword	rope ladder
+keyword	husband wife relationship
+keyword	bicentennial
+keyword	banging fists on a table
+keyword	reference to cosmopolitan magazine
+keyword	answering machine message
+keyword	dead woman on floor
+keyword	fight
+keyword	fake plastic teeth
+keyword	fistfight
+keyword	running
+keyword	paintbrush
+keyword	clown makeup
+keyword	quill
+keyword	nikon camera
+keyword	two way mirror
+keyword	pearl necklace
+keyword	millionaire
+keyword	white dress
+keyword	tommy gun
+keyword	factory
+keyword	empty safe
+keyword	mime
+keyword	bullet proof automobile
+keyword	man with glasses
+keyword	genocide
+keyword	police officer shot in the chest
+keyword	gun tucked in pants
+keyword	helicopter
+keyword	mission
+keyword	church bell
+keyword	betrayal
+keyword	pew
+keyword	tower
+keyword	lifting a male into the air
+keyword	pistol
+keyword	flying
+keyword	super villain
+keyword	blonde
+keyword	news reporter
+keyword	being followed
+keyword	spray paint
+keyword	deck of cards
+keyword	tape recorder
+keyword	car chase
+keyword	fighting
+keyword	applying makeup
+keyword	bulletproof vest
+keyword	kissing someone's hand
+keyword	asylum
+keyword	warrior
+keyword	shooting from a car
+keyword	hanging from a ledge
+keyword	craps
+keyword	salt shaker
+keyword	dual identity
+keyword	craps the game
+keyword	restaurant
+keyword	mass murder
+keyword	masked villain
+keyword	christ allegory
+keyword	vogue magazine
+keyword	on hood of moving car
+keyword	hand to hand combat
+keyword	love interest
+keyword	batman joker
+keyword	painted face
+keyword	feet on desk
+keyword	reporter
+keyword	bulldozer
+keyword	actor shares first name with character
+keyword	title spoken by character
+keyword	character name in title
+keyword	
+cast	Michael Keaton	Batman / Bruce Wayne
+cast	Jack Nicholson	Joker / Jack Napier
+cast	Kim Basinger	Vicki Vale
+cast	Robert Wuhl	Alexander Knox
+cast	Pat Hingle	Commissioner James Gordon
+cast	Billy Dee Williams	Harvey Dent
+cast	Michael Gough	Alfred Pennyworth
+cast	Jack Palance	Carl Grissom
+cast	Jerry Hall	Alicia Hunt
+cast	Tracey Walter	Bob the Goon
+cast	Lee Wallace	The Mayor
+cast	William Hootkins	Lt. Eckhardt
+cast	Richard Strange	Goon
+cast	Carl Chase	Goon
+cast	Mac McDonald	Goon
+cast	George Lane Cooper	Goon
+cast	Terence Plummer	Goon
+cast	Philip Tan	Goon
+cast	John Sterland	Accountant
+cast	Edwin Craig	Rotelli
+cast	Vincent Wong	Crimelord #1
+cast	Joel Cutrara	Crimelord #2
+cast	John Dair	Ricorso
+cast	Christopher Fairbank	Nic
+cast	George Roth	Eddie
+cast	Kate Harper	Anchorwoman
+cast	Bruce McGuire	Anchorman
+cast	Richard Durden	TV Director
+cast	Kit Hollerbach	Becky
+cast	Lachele Carl	TV Technician
+cast	Del Baker	Napier Hood
+cast	Jazzer Jeyes	Napier Hood
+cast	Wayne Michaels	Napier Hood
+cast	Valentino Musetti	Napier Hood
+cast	Rocky Taylor	Napier Hood
+cast	Keith Edwards	Reporter
+cast	Leon Herbert	Reporter
+cast	Steve Plytas	Doctor
+cast	Anthony Wellington	Patrolman at Party
+cast	Amir M. Korangy	Wine Steward
+cast	Hugo Blick	Young Jack Napier
+cast	Charles Roskilly	Young Bruce Wayne
+cast	Philip O'Brien	Maitre D'
+cast	Michael Balfour	Scientist
+cast	Liza Ross	Tourist Mom
+cast	Garrick Hagon	Tourist Dad
+cast	Adrian Meyers	Jimmy, Tourist Son
+cast	David Baxt	Dr. Thomas Wayne
+cast	Sharon Holm	Mrs. Wayne
+cast	Clyde Gatell	Other Mugger
+cast	Jon Soresi	Medic
+cast	Sam Douglas	Lawyer
+cast	Elliott Stein	Man in Crowd
+cast	Denis Lill	Bob the Cartoonist
+cast	Paul Birchard	Another Reporter
+cast	Paul Michael	Cop
+cast	Priscilla Cory	Beautiful Hostage
+cast	Clive Curtis	Goon in Bell-Tower
+cast	Pat Gorman	Cop at Axis Chemicals
+cast	Pam Rose	Party Guest at Wayne Manor
+cast	Rachel Ryan	Corpse
+cast	Christian Wolf-La'Moy	Taxi Driver / Joker's Car Owner

@@ -1,0 +1,160 @@
+year	2000
+imdb score	7.3
+meta score	67
+genre	Drama
+genre	History
+genre	Thriller
+keyword	missile
+keyword	cuba
+keyword	blockade
+keyword	soviet union
+keyword	military
+keyword	photograph
+keyword	john f kennedy
+keyword	cuban missile crisis
+keyword	pentagon
+keyword	nuclear weapons
+keyword	u 2 spy plane
+keyword	father son relationship
+keyword	u.s. attorney general
+keyword	diplomat
+keyword	flying
+keyword	mushroom cloud
+keyword	airforce one
+keyword	aviation
+keyword	new york city
+keyword	reconnaissance
+keyword	cold war
+keyword	intelligence service
+keyword	hardliner
+keyword	kennedy family
+keyword	manhattan new york city
+keyword	reference to john paul jones
+keyword	white house
+keyword	times square manhattan new york city
+keyword	joint chiefs of staff
+keyword	nuclear threat
+keyword	mother son relationship
+keyword	washington d.c.
+keyword	nikita khrushchev
+keyword	politics
+keyword	irish american
+keyword	political crisis
+keyword	statue of liberty new york city
+keyword	united nations
+keyword	robert f kennedy
+keyword	wilhelm scream
+keyword	spy plane
+keyword	1960s
+keyword	diplomacy
+keyword	secretary of defense
+keyword	u.s. secretary of state
+keyword	box office flop
+keyword	air force jet
+keyword	helicopter
+keyword	year 1962
+keyword	two word title
+keyword	a shot across the bow
+keyword	u.s. president
+keyword	lifting person in air
+keyword	lying
+keyword	based on book
+keyword	independent film
+keyword	number in title
+keyword	
+cast	Shawn Driscoll	U-2 Pilot
+cast	Kevin Costner	Kenny O'Donnell
+cast	Drake Cook	Mark O'Donnell
+cast	Lucinda Jenney	Helen O'Donnell
+cast	Caitlin Wachs	Kathy O'Donnell
+cast	Jon Foster	Kenny O'Donnell, Jr.
+cast	Matthew Dunn	Kevin O'Donnell
+cast	Kevin O'Donnell	NPIC Photo Interpreter
+cast	Janet Coleman	Evelyn Lincoln
+cast	Bruce Thomas	Floyd
+cast	Stephanie Romanov	Jacqueline Kennedy
+cast	Bruce Greenwood	John F. Kennedy
+cast	Frank Wood	McGeorge Bundy
+cast	Dakin Matthews	Arthur Lundahl
+cast	Liz Sinclair	Kenny's Assistant #1
+cast	Colette O'Connell	Kenny's Assistant #2
+cast	Karen Ludwig	Operator Margaret
+cast	Audrey Rapoport	White House Operator #1
+cast	Marliese Schneider	White House Operator #2
+cast	Steven Culp	Robert F. Kennedy
+cast	Dylan Baker	Robert McNamara
+cast	Bill Smitrovich	Gen. Maxwell Taylor
+cast	Henry Strozier	Dean Rusk
+cast	Ed Lauter	Gen. Marshall Carter
+cast	Michael Fairman	Adlai Stevenson
+cast	Walter Adrian	Lyndon Johnson
+cast	Tim Kelleher	Ted Sorensen
+cast	James Karen	George Ball
+cast	Dan Ziskie	Gen. Walter 'Cam' Sweeney
+cast	Len Cariou	Dean Acheson
+cast	Peter White	John McCone
+cast	Kevin Conway	Gen. Curtis LeMay
+cast	Kelly Connell	Pierre Salinger
+cast	Olek Krupa	Andrei Gromyko
+cast	Elya Baskin	Anotoly Dobrinyn
+cast	Timothy Jerome	Journalist
+cast	Jack McGee	Richard J. Daley
+cast	Lamar Smith	Aide
+cast	John Aylward	Orville Dryfoos
+cast	Madison Mason	Adm. George Anderson
+cast	Vivien Straus	White House Aide
+cast	Christopher Lawford	Cmdr. William B. Ecker
+cast	David O'Donnell	Lt. Bruce Wilhemy
+cast	Gene Del Bianco	Petty Officer
+cast	Benjamin Koldyke	RF-8 Pilot
+cast	Daniel Vergara	OAS Secretary General José A. Mora
+cast	Ruben Moreno	Argentine Diplomat
+cast	Thomas Roberts	Sonar Operator
+cast	Sean Bergin	Chief Sonarman
+cast	Alan Francis	Executive Officer of USS Pierce
+cast	Robert Munstis	Radio Room Operator #1
+cast	Michael Gaston	Captain of USS Pierce
+cast	Joseph Repoff	Radio Room Operator #2
+cast	J. Tucker Smith	Captain of USS Kennedy
+cast	Chris Henry Coffey	Officer of Destroyer
+cast	Oleg Vidov	Valerian Zorin
+cast	Radu Gavor	Romanian Delegate
+cast	Zitto Kazann	Chilean Delegate
+cast	Alex Veadov	Radio Room Operator #3
+cast	Jack Blessing	John Scali
+cast	Tom Everett	Walter Sheridan
+cast	Karl Makinen	Young FBI Agent
+cast	Boris Lee Krutonog	Alexander Fomin
+cast	Charles Esten	Maj. Rudolph Anderson
+cast	Charles Barrett	Air Force NCO
+cast	Darryl Smith	Football Coach
+cast	Allan Graf	Football Referee
+cast	Robert Miranda	RFK's Driver
+cast	Todd Sible	RFK's Staffer
+cast	Marya Kazakova	Soviet Woman
+cast	Cliff Fleming	Aerial Coordinator
+cast	Craig Hosking	Pilot
+cast	Michael R Bowman	Aide to JFK
+cast	Walter Cronkite	Himself
+cast	Hope Cruickshank	Kenny O'Donnell's Daughter
+cast	Tess Cruickshank	Kenny O'Donnell's Daughter
+cast	Ryder Davis	Boy Scout
+cast	Paul Farber	Child Greeting President
+cast	Sierra Farber	Child Greeting President
+cast	Roger Ferreira	Army Lieutenant General
+cast	Armen Garo	Crewman on Freighter
+cast	Gilley Grey	Air Force Pilot
+cast	Phil Hawn	UN Administrator
+cast	Rick Kain	Carpenter
+cast	John F. Kennedy	Himself
+cast	Steven Koller	White House Staff
+cast	Pramod Kumar	U Thant
+cast	Jennifer D. Lac Kamp	UN Secretary
+cast	John Michael	UN Manager
+cast	Ryan Notch	Boy Scout
+cast	Richard Rossi	Reporter
+cast	Cico Silva	Secret Service Agent
+cast	Larry Strauss	Treasury Secretary Douglas Dillon
+cast	Marie Tringali	UN Administrator
+cast	Ron A. Williams	Man Walking in Building
+cast	Brad Yoder	Sorensen's Assistant

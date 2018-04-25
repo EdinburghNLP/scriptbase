@@ -1,0 +1,242 @@
+year	1995
+imdb score	7.6
+meta score	77
+genre	Adventure
+genre	Drama
+genre	History
+keyword	space
+keyword	astronaut
+keyword	apollo 13
+keyword	nasa
+keyword	moon
+keyword	spacecraft
+keyword	lunar mission
+keyword	outer space
+keyword	survival
+keyword	explosion
+keyword	1970s
+keyword	interview
+keyword	helicopter
+keyword	shaving chest
+keyword	wedding ring
+keyword	vest
+keyword	footsteps
+keyword	duct tape
+keyword	reference to richard nixon
+keyword	military academy
+keyword	motel
+keyword	disaster
+keyword	medical
+keyword	countdown
+keyword	video camera
+keyword	hope
+keyword	moon landing
+keyword	baseball
+keyword	press conference
+keyword	zero gravity
+keyword	emergency
+keyword	1960s
+keyword	aircraft carrier
+keyword	florida
+keyword	character repeating someone else's dialogue
+keyword	press
+keyword	team
+keyword	nightgown
+keyword	flight simulator
+keyword	mother son relationship
+keyword	physician
+keyword	trapped in space
+keyword	photographer
+keyword	command center
+keyword	lunar module
+keyword	ship
+keyword	computer
+keyword	imax version
+keyword	pope
+keyword	measles
+keyword	news footage
+keyword	space disaster
+keyword	rocket
+keyword	halloween
+keyword	simulation
+keyword	nursing home
+keyword	inspiring story
+keyword	reference to christopher columbus
+keyword	gadget
+keyword	number 13 in title
+keyword	chewing gum
+keyword	historical
+keyword	urinary tract infection
+keyword	reference to isaac newton
+keyword	saturn v rocket
+keyword	against the odds
+keyword	improvisation
+keyword	spacesuit
+keyword	shower
+keyword	cape kennedy
+keyword	reference to johnny cash
+keyword	news report
+keyword	engineer
+keyword	launch
+keyword	urine
+keyword	uniform
+keyword	congressman
+keyword	fantasy sequence
+keyword	houston texas
+keyword	television news
+keyword	father daughter relationship
+keyword	party
+keyword	mother daughter relationship
+keyword	voice over narration
+keyword	oxygen
+keyword	husband wife relationship
+keyword	wisconsin
+keyword	south pacific
+keyword	space program
+keyword	vomit
+keyword	premarital sex
+keyword	air pressure
+keyword	media
+keyword	spacecraft accident
+keyword	father son relationship
+keyword	doctor
+keyword	what happened to epilogue
+keyword	bare chested male
+keyword	responsibility
+keyword	cameo appearance by real life subject
+keyword	race against time
+keyword	dream
+keyword	watching tv
+keyword	dolly zoom
+keyword	space exploration
+keyword	famous line
+keyword	two word title
+keyword	national air and space administration
+keyword	blockbuster
+keyword	reporter
+keyword	courage
+keyword	station
+keyword	nightmare
+keyword	technology
+keyword	reference to the beatles
+keyword	marriage
+keyword	photograph
+keyword	decision
+keyword	optimism
+keyword	flashlight
+keyword	urination
+keyword	reference to dick cavett
+keyword	u.s. space program
+keyword	blackboard
+keyword	math
+keyword	based on true story
+keyword	based on book
+keyword	title spoken by character
+keyword	number in title
+keyword	
+cast	Tom Hanks	Jim Lovell
+cast	Bill Paxton	Fred Haise
+cast	Kevin Bacon	Jack Swigert
+cast	Gary Sinise	Ken Mattingly
+cast	Ed Harris	Gene Kranz
+cast	Kathleen Quinlan	Marilyn Lovell
+cast	Mary Kate Schellhardt	Barbara Lovell
+cast	Emily Ann Lloyd	Susan Lovell
+cast	Miko Hughes	Jeffrey Lovell
+cast	Max Elliott Slade	Jay Lovell
+cast	Jean Speegle Howard	Blanch Lovell
+cast	Tracy Reiner	Mary Haise
+cast	David Andrews	Pete Conrad
+cast	Michele Little	Jane Conrad
+cast	Chris Ellis	Deke Slayton
+cast	Joe Spano	NASA Director
+cast	Xander Berkeley	Henry Hurt
+cast	Marc McClure	Glynn Lunney
+cast	Ben Marley	John Young
+cast	Clint Howard	Sy Liebergot - EECOM White
+cast	Loren Dean	John Aaron - EECOM Arthur
+cast	Tom Wood	EECOM Gold
+cast	Googy Gress	RETRO White
+cast	Patrick Mickler	RETRO Gold
+cast	Ray McKinnon	Jerry Bostick - FIDO White
+cast	Max Grodénchik	FIDO Gold
+cast	Christian Clemenson	Dr. Chuck
+cast	Brett Cullen	CAPCOM 1
+cast	Ned Vaughn	CAPCOM 2
+cast	Andy Milder	GUIDO White
+cast	Geoffrey Blake	GUIDO Gold
+cast	Wayne Duvall	LEM Controller White
+cast	Jim Meskimen	TELMU White
+cast	Joseph Culp	TELMU Gold
+cast	John Short	INCO White
+cast	Ben Bode	INCO Gold
+cast	Todd Louiso	FAO White
+cast	Gabriel Jarret	GNC White
+cast	Christopher John Fields	Booster White
+cast	Kenneth White	Grumman Rep
+cast	James Ritz	Ted
+cast	Andrew Lipschultz	Launch Director
+cast	Mark Wheeler	Neil Armstrong
+cast	Larry Williams	Buzz Aldrin
+cast	Endre Hules	Guenter Wendt
+cast	Karen Martin	Tracey
+cast	Maureen Hanley	Woman
+cast	Meadow Williams	Kim
+cast	Walter von Huene	Technician
+cast	Brian Markinson	Pad Rat
+cast	Steve Rankin	Pad Rat
+cast	Austin O'Brien	Whiz Kid
+cast	Louisa Marie	Whiz Kid Mom
+cast	Thom Barry	Orderly
+cast	Arthur Senzy	SIM Tech
+cast	Carl Gabriel Yorke	SIM Tech
+cast	Ryan Holihan	SIM Tech
+cast	Rance Howard	Reverend
+cast	Jane Jenkins	Neighbor
+cast	Todd Hallowell	Noisy Civilian
+cast	Matthew Michael Goodall	Stephen Haise
+cast	Taylor Goodall	Fred Haise Jr.
+cast	Misty Dickinson	Margaret Haise
+cast	Roger Corman	Congressman
+cast	Lee Anne Matusek	Loud Reporter
+cast	Mark D. Newman	Loud Reporter
+cast	Mark McKeel	Suit Room Assistant
+cast	Patty Raya	Patty
+cast	Jack Conley	Science Reporter
+cast	Jeffrey Kluger	Science Reporter
+cast	Bruce Wright	Anchor
+cast	Ivan Allen	Anchor
+cast	Jon Bruno	Anchor
+cast	Reed Rudy	Roger Chaffee
+cast	Steve Bernie	Virgil Grissom
+cast	Steve Ruge	Edward White
+cast	Herbert Jefferson Jr.	Reporter
+cast	John Dullaghan	Reporter
+cast	John Wheeler	Reporter
+cast	Paul Mantee	Reporter
+cast	Julie Rowen	Reporter
+cast	Thomas Crawford	Reporter
+cast	Frank Cavestani	Reporter
+cast	John M. Mathews	Reporter
+cast	Neil Armstrong	Himself
+cast	Jules Bergman	Himself - ABC News
+cast	Pope Paul VI	Himself
+cast	Jimmy Wynn	Himself
+cast	Walter Altman	Mission Controller
+cast	John Bishop	Protester
+cast	John Timothy Botka	Frank Borman
+cast	Jaime H. Campos	Scientist
+cast	Tory Christopher	NASA Technician
+cast	Michael S. Connolly	Reporter
+cast	Walter Cronkite	Himself
+cast	Bryce Dallas Howard	Girl in Yellow Dress
+cast	Cheryl Howard	Onlooker at Launch Site
+cast	Chet Huntley	Himself
+cast	Kent Kasper	Congressman
+cast	Sarah Krasner	Jack swigats wife
+cast	Chauntal Lewis	Susan's Best Friend
+cast	Jim Lovell	Captain of USS Iwo Jima
+cast	Marilyn Lovell	Onlooker at Launch Site
+cast	Chris Moore	Cameraman
+cast	Frank Reynolds	Himself
+cast	Ted West	Cannister Team Engineer

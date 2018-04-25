@@ -1,0 +1,196 @@
+year	1985
+imdb score	6.6
+meta score	N/A
+genre	Action
+genre	Thriller
+keyword	dictator
+keyword	airplane
+keyword	general
+keyword	commando
+keyword	rescue
+keyword	california
+keyword	revenge
+keyword	assassination
+keyword	exiled dictator
+keyword	island
+keyword	gunfight
+keyword	pistol
+keyword	tough guy
+keyword	throat slitting
+keyword	knife fight
+keyword	shot in the side
+keyword	false identification
+keyword	car accident
+keyword	convertible
+keyword	uzi
+keyword	arm cut off
+keyword	deception
+keyword	airport
+keyword	one man army
+keyword	auto theft
+keyword	killing spree
+keyword	severed arm
+keyword	phone booth
+keyword	henchman
+keyword	car chase
+keyword	camouflage
+keyword	assassin
+keyword	threatened with a knife
+keyword	elevator
+keyword	tarmac
+keyword	famous line
+keyword	father daughter relationship
+keyword	bare breasts
+keyword	held at gunpoint
+keyword	flirting
+keyword	broken neck
+keyword	shot in the chest
+keyword	mansion
+keyword	shopping mall
+keyword	betrayal
+keyword	swimming pool
+keyword	murder
+keyword	ex soldier
+keyword	mass killing
+keyword	flight attendant
+keyword	cadillac
+keyword	security guard
+keyword	hit and run
+keyword	fistfight
+keyword	terrorist
+keyword	exploding boat
+keyword	boat
+keyword	shot in the back
+keyword	motel
+keyword	action hero
+keyword	neck breaking
+keyword	jumping through a window
+keyword	single parent
+keyword	exploding car
+keyword	kidnapped daughter
+keyword	axe
+keyword	car dealer
+keyword	child in peril
+keyword	parking garage
+keyword	race against time
+keyword	falling off a balcony
+keyword	shotgun
+keyword	electric shock
+keyword	knife in the chest
+keyword	beach
+keyword	jailbreak
+keyword	one liner
+keyword	stabbed in the crotch
+keyword	faked death
+keyword	arrest
+keyword	martial arts
+keyword	assassination attempt
+keyword	kicked in the face
+keyword	shootout
+keyword	violence
+keyword	rocket launcher
+keyword	exploding building
+keyword	hand to hand combat
+keyword	shot in the head
+keyword	cult film
+keyword	caught having sex
+keyword	kidnapping
+keyword	false passport
+keyword	pipe
+keyword	bare chested male
+keyword	sole black character dies cliche
+keyword	hostage
+keyword	thrown through a wall
+keyword	garbage truck
+keyword	geofiction
+keyword	shot in the forehead
+keyword	breaking through a door
+keyword	body count
+keyword	australian
+keyword	fight
+keyword	hit by a car
+keyword	one day
+keyword	shot in the arm
+keyword	room service
+keyword	burglary
+keyword	professional hit
+keyword	evil man
+keyword	rogue soldier
+keyword	single father
+keyword	jungle
+keyword	warrior
+keyword	falling from height
+keyword	helicopter
+keyword	deer
+keyword	cliff
+keyword	war paint
+keyword	corpse
+keyword	topless female nudity
+keyword	face slap
+keyword	knife throwing
+keyword	chase
+keyword	machismo
+keyword	terrorism
+keyword	military veteran
+keyword	bulldozer
+keyword	electrocution
+keyword	anti hero
+keyword	los angeles california
+keyword	face paint
+keyword	head butt
+keyword	shot to death
+keyword	jumping from an airplane
+keyword	grenade
+keyword	knife
+keyword	extortion
+keyword	good versus evil
+keyword	brawl
+keyword	military officer
+keyword	psychotronic
+keyword	scalping
+keyword	hitman
+keyword	psychopath
+keyword	seaplane
+keyword	impalement
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Arnold Schwarzenegger	John Matrix
+cast	Rae Dawn Chong	Cindy
+cast	Dan Hedaya	Arius
+cast	Vernon Wells	Bennett
+cast	James Olson	Major General Franklin Kirby
+cast	David Patrick Kelly	Sully
+cast	Alyssa Milano	Jenny Matrix
+cast	Bill Duke	Cooke
+cast	Drew Snyder	Lawson
+cast	Sharon Wyatt	Leslie
+cast	Michael DeLano	Forrestal
+cast	Bob Minor	Jackson
+cast	Michael Adams	Harris
+cast	Gary Carlos Cervantes	Diaz
+cast	Lenny Juliano	Soldier
+cast	Charles Meshack	Henriques
+cast	Chelsea Field	Western Flight Attendant
+cast	Julie Hayek	Western Flight Attendant
+cast	Hank Calia	Latin Man
+cast	Walter Scott	Cates
+cast	Greg Wayne Elam	Biggs
+cast	George Fisher	Mall Security Guard
+cast	Phil Adams	Officer in Galleria
+cast	Ava Cadell	Girl in Bed at Motel
+cast	Mikul Robins	Boy in Bed at Motel
+cast	Branscombe Richmond	Vega
+cast	Matt Landers	Fred
+cast	Peter DuPont	Daryl
+cast	Tom Simmons	Kirby's Driver
+cast	Bill Paxton	Intercept Officer
+cast	Richard Royce	Intercept Officer
+cast	John Reyes	Val Verde Heavy
+cast	Billy Cardenas	Val Verde Heavy
+cast	Edward Reyes	Val Verde Heavy
+cast	Vivian Daily	Woman Officer
+cast	Thomas Rosales Jr.	Young Guerrilla
+cast	Ronald C. McCarty	Guerrilla
+cast	Jim Painter	Police Officer
+cast	Rick Sawaya	Island Guerrilla

@@ -1,0 +1,291 @@
+year	2011
+imdb score	7.5
+meta score	68
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	love
+keyword	divorce
+keyword	friend
+keyword	bar
+keyword	one night stand
+keyword	girl
+keyword	lothario
+keyword	law student
+keyword	dream
+keyword	escalator
+keyword	male makeover
+keyword	accountant
+keyword	bare chested male
+keyword	face slap
+keyword	womanizer
+keyword	running a red light
+keyword	law school
+keyword	domestic strife
+keyword	lifting a girl into the air
+keyword	sneakers
+keyword	dancing
+keyword	husband wife relationship
+keyword	sunglasses
+keyword	stanford university
+keyword	sexting
+keyword	family relationships
+keyword	bachelor pad
+keyword	reference to dennis weaver
+keyword	fight
+keyword	crying
+keyword	father daughter relationship
+keyword	boyfriend girlfriend relationship
+keyword	lawyer
+keyword	baseball glove
+keyword	montage
+keyword	record player
+keyword	cell phone
+keyword	broken glass in a picture frame
+keyword	slow motion scene
+keyword	reference to jennifer grey
+keyword	parent teacher conference
+keyword	marriage proposal
+keyword	depression
+keyword	sex scene
+keyword	taking a nude photo of one's self
+keyword	english class
+keyword	middle school
+keyword	bed
+keyword	father son relationship
+keyword	reference to divorce for dummies the book
+keyword	bar exam
+keyword	reference to the titanic
+keyword	valium
+keyword	talking to one's self
+keyword	photographer
+keyword	mother daughter relationship
+keyword	marital separation
+keyword	slapping someone's hand
+keyword	marriage
+keyword	ballerina
+keyword	text messaging
+keyword	eighth grade graduation
+keyword	raised middle finger
+keyword	kiss
+keyword	mother son relationship
+keyword	standing in the rain
+keyword	character says i love you
+keyword	gin the drink
+keyword	reference to god
+keyword	marital problem
+keyword	buddy
+keyword	soul mate
+keyword	title ends with period
+keyword	reference to the scarlet letter
+keyword	answering machine
+keyword	miniature golf
+keyword	watching through a window
+keyword	mixing a drink
+keyword	bicycle
+keyword	dropping a cafeteria trap
+keyword	midlife crisis
+keyword	nervousness
+keyword	flowers
+keyword	unfaithfulness
+keyword	sleeping
+keyword	wallet
+keyword	lipstick
+keyword	bouquet
+keyword	teacher
+keyword	ballet
+keyword	drunkenness
+keyword	sushi
+keyword	adultery
+keyword	punched in the face
+keyword	massage chair
+keyword	reference to patrick swayze
+keyword	reference to miyagi
+keyword	hardware store
+keyword	playing catch
+keyword	liar
+keyword	computer
+keyword	jumping out of a moving car
+keyword	umbrella
+keyword	reckless driving
+keyword	honesty
+keyword	reference to the st. louis cardinals
+keyword	men's clothing
+keyword	sister sister relationship
+keyword	class
+keyword	reference to macy's
+keyword	reference to pringle's
+keyword	toy windmill
+keyword	reference to supercuts
+keyword	reference to jesus christ
+keyword	camera
+keyword	graduation speech
+keyword	babysitter
+keyword	reference to hugh hefner
+keyword	reference to lowe's home improvement store
+keyword	wedding ring
+keyword	screaming
+keyword	pursuit
+keyword	school cafeteria
+keyword	recovering alcoholic
+keyword	shoes
+keyword	spitting into a drink
+keyword	garden
+keyword	classroom
+keyword	f word
+keyword	teen parent
+keyword	obscene finger gesture
+keyword	reference to the home shopping network
+keyword	recording
+keyword	extramarital affair
+keyword	true love
+keyword	dancer
+keyword	reference to conan o'brien
+keyword	teenage crush
+keyword	los angeles california
+keyword	trimming a hedge
+keyword	passing out
+keyword	sadness
+keyword	brother sister relationship
+keyword	gym
+keyword	implied nudity
+keyword	unhappily married woman
+keyword	bartender
+keyword	baseball
+keyword	infidelity
+keyword	reference to demi moore
+keyword	drinking
+keyword	locker room
+keyword	middle school graduation
+keyword	fight for love
+keyword	teenage boy
+keyword	ensemble cast
+keyword	friendship
+keyword	applause
+keyword	disapproving father
+keyword	listening to music
+keyword	century city mall los angeles
+keyword	blindfold
+keyword	employer employee relationship
+keyword	rain
+keyword	copying machine
+keyword	basement
+keyword	anger
+keyword	apple computer
+keyword	texting
+keyword	throwing away shoes
+keyword	moving van
+keyword	policeman
+keyword	drink
+keyword	reference to mcdonald's restaurant
+keyword	cuckold
+keyword	water heater
+keyword	school locker
+keyword	caramel apple
+keyword	nude photo
+keyword	makeup
+keyword	coffee
+keyword	gardening
+keyword	forty something
+keyword	reference to wilt chamberlain
+keyword	teenage love
+keyword	watching tv
+keyword	13 year old
+keyword	credit card
+keyword	creme brulee
+keyword	17 year old
+keyword	school auditorium
+keyword	chase
+keyword	pickup line
+keyword	imitating a seal
+keyword	telephone call
+keyword	playing footsie
+keyword	money
+keyword	reference to ashton kutcher
+keyword	nightmare
+keyword	44 year old
+keyword	cologne
+keyword	lie
+keyword	reference to steve jobs
+keyword	photograph
+keyword	ice cream
+keyword	
+cast	Steve Carell	Cal Weaver
+cast	Ryan Gosling	Jacob Palmer
+cast	Julianne Moore	Emily Weaver
+cast	Emma Stone	Hannah
+cast	Analeigh Tipton	Jessica
+cast	Jonah Bobo	Robbie
+cast	Joey King	Molly
+cast	Marisa Tomei	Kate Taffety
+cast	Beth Littleford	Claire Riley
+cast	John Carroll Lynch	Bernie Riley
+cast	Kevin Bacon	David Lindhagen
+cast	Janine Barris	Heather
+cast	Josh Groban	Richard
+cast	Mekia Cox	Hip Hairdresser Tiffany
+cast	Julianna Guill	Madison
+cast	Zayne Emory	Robbie's Friend
+cast	Crystal Reed	Amy Johnson
+cast	Joanne Brooks	Waitress for Cal and Kate
+cast	Reggie Lee	Officer Huang
+cast	Caitlin Thompson	Taylor
+cast	Karolina Wydra	Jordyn
+cast	Tracy Mulholland	Megan
+cast	Katerina Mikailenko	Stephanie
+cast	Liza Lapira	Liz
+cast	Jenny Mollen	Lisa
+cast	Charlie Hartsock	Sad Sack
+cast	Algerita Wynn	Robbie's Principal
+cast	Wendy Worthington	Woman
+cast	Dan Butler	Cal's Boss
+cast	Tiara Parker	Gabby
+cast	Laurel Coppock	Sophia
+cast	Rasika Mathur	Emily's Assistant
+cast	Joshua Sternlicht	Bartender
+cast	Jasen Salvatore	Bartender #2
+cast	Michael John Long	Bartender #3
+cast	Dillon Neaman	Bartender #4
+cast	J-ray	Bartender #5
+cast	Janae Nicole Caudillo	Bartender #6
+cast	Christopher Darga	Lowe's Salesman #1
+cast	Rich Hutchman	Lowe's Salesman #2
+cast	Richard Steven Horvitz	Lowe's Salesman #3
+cast	Lauren Stone	Mall Clerk
+cast	Megan James	Hannah's Colleague #1
+cast	Rebecca Flinn	Hannah's Colleague #2
+cast	Billy Atchison	Hannah's Colleague #3
+cast	Ehrin Marlow	Hannah's Colleague #4
+cast	David Orosz	Hannah's Colleague #5
+cast	Camille Abelow	Hannah's Colleague #6
+cast	Maija Polsley	Jacob's Date
+cast	Christian Pitre	Waitress with Check
+cast	Heather La Bella	Female Bartender
+cast	Georgia Hurd	Jacob's Girl
+cast	Lisa Brown	Jacob's Girl #2
+cast	Tingting Yu	Jacob's Girl #3
+cast	Raena Cassidy	Raena
+cast	Ami Haruna	Ami
+cast	Jessica Diz	Olivia
+cast	Tania Wagner	Tania
+cast	Georgia Treantafelles	Georgia
+cast	Holly Daniels	Assistant Principal
+cast	Jennifer Barbosa	Amy's Friend
+cast	Christian Cage	Man Flirting in Bar
+cast	Olga Fonda	Danielle
+cast	Leo Georgallis	Bar Patron
+cast	Lexi Giovagnoli	High School Girl
+cast	Greg Hain	Hot Guy at Bar
+cast	Ace Antonio Hall	Man at Bar
+cast	Vivian Khouri	Lounge Patron
+cast	Leah Kilpatrick	Girl at Bar
+cast	Konstantine Kurelias	Bartender
+cast	Laura McDavid	Woman on Date
+cast	Grasie Mercedes	Waitress
+cast	Anna Mikaels	Parent
+cast	Stephane Nicoli	Restaurant Patron
+cast	David Hall Page	Man in Locker Room
+cast	Shane Schoeppner	Audience Member
+cast	Christopher Villar	Club Patron
+cast	Andre Wiggins	Dinner Patron
+cast	Lily Winn	Student

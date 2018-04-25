@@ -1,0 +1,3 @@
+logline	This film documents the effects of a tragic bus accident on the population of a small town.
+tagline	Sometimes courage comes from the most surprising places.
+tagline	There is no such thing as the simple truth.

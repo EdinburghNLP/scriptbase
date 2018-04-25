@@ -1,0 +1,212 @@
+year	2001
+imdb score	6.9
+meta score	51
+genre	Adventure
+genre	Comedy
+keyword	jay and silent bob
+keyword	orangutan
+keyword	internet
+keyword	drugs
+keyword	police
+keyword	new jersey
+keyword	villain arrested
+keyword	monkey actor
+keyword	great dane
+keyword	lesbianism
+keyword	violence
+keyword	see you in hell
+keyword	multiple cameos
+keyword	slide locked back
+keyword	statue of liberty
+keyword	end credits roll call
+keyword	website
+keyword	martial arts
+keyword	timebomb
+keyword	girl with glasses
+keyword	money
+keyword	view askew
+keyword	crude humor
+keyword	flatulence
+keyword	laser grid
+keyword	reference to pbs
+keyword	lesbian
+keyword	catfight
+keyword	farce
+keyword	animal experimentation
+keyword	six word title
+keyword	cannabis
+keyword	angel on shoulder
+keyword	park ranger
+keyword	latex catsuit
+keyword	gigantic hand
+keyword	hippie
+keyword	ignorance
+keyword	racism
+keyword	gangsta grip
+keyword	guitar
+keyword	fugitive
+keyword	reference to winnie the pooh
+keyword	film within a film
+keyword	bitch
+keyword	woman with glasses
+keyword	cult film
+keyword	c4 explosives
+keyword	satire
+keyword	animal abuse
+keyword	teen movie
+keyword	frame up
+keyword	filmmaking
+keyword	hollywood california
+keyword	diamond theft
+keyword	knife
+keyword	cult film
+keyword	false accusation
+keyword	utah
+keyword	movie studio
+keyword	racial slur
+keyword	shotgun
+keyword	2000s
+keyword	self referential
+keyword	coffee
+keyword	1970s
+keyword	indiana jones spoof scene
+keyword	hollywood sign
+keyword	robbery
+keyword	severed hand
+keyword	man hunt
+keyword	dam
+keyword	chase
+keyword	self portrayal
+keyword	obesity
+keyword	star wars spoof scene
+keyword	movie set
+keyword	comic book
+keyword	oral sex
+keyword	superhero
+keyword	burglary
+keyword	gay slur
+keyword	female flatulence
+keyword	monkey
+keyword	jewel thief
+keyword	hitchhiker
+keyword	written and directed by cast member
+keyword	media
+keyword	telekinesis
+keyword	sequel
+keyword	self mocking
+keyword	diamond
+keyword	braces
+keyword	lesbian gang
+keyword	reference to prince valiant
+keyword	jewel theft
+keyword	surprise after end credits
+keyword	lightsaber
+keyword	femme fatale
+keyword	child abuse
+keyword	devil on shoulder
+keyword	california
+keyword	scooby doo
+keyword	child swearing
+keyword	breaking the fourth wall
+keyword	sword fight
+keyword	drug dealing
+keyword	union
+keyword	character is subject of comic
+keyword	jewelry heist
+keyword	on the road
+keyword	nun
+keyword	independent film
+keyword	character name in title
+keyword	surprise ending
+keyword	
+cast	Jason Mewes	Jay
+cast	Kevin Smith	Silent Bob
+cast	Ben Affleck	Holden McNeil / Ben Affleck
+cast	Jeff Anderson	Randal Graves
+cast	Brian O'Halloran	Dante Hicks
+cast	Shannon Elizabeth	Justice
+cast	Eliza Dushku	Sissy
+cast	Ali Larter	Chrissy
+cast	Jennifer Schwalbach Smith	Missy
+cast	Will Ferrell	Federal Wildlife Marshal Willenholly
+cast	Jason Lee	Brodie Bruce / Banky Edwards
+cast	Judd Nelson	Sheriff
+cast	George Carlin	Hitchhiker
+cast	Carrie Fisher	Nun
+cast	Seann William Scott	Brent
+cast	Jon Stewart	Reg Hartner
+cast	Jules Asner	Jules Asner
+cast	Steve Kmetko	Steve Kmetko
+cast	Tracy Morgan	Pumpkin Escobar
+cast	Gus Van Sant	Gus Van Sant
+cast	Chris Rock	Chaka Luther King
+cast	Jamie Kennedy	Chaka's Production Assistant
+cast	Wes Craven	Wes Craven
+cast	Shannen Doherty	Shannen Doherty
+cast	Mark Hamill	Cocknocker
+cast	Amy Noble	Silent Bob's Mother
+cast	Harley Quinn Smith	Baby Silent Bob
+cast	Ever Carradine	Jay's Mother
+cast	Brian Andrew Saible	Baby Jay
+cast	Gavin Brooks	Baby Jay
+cast	John Willyung	Passerby
+cast	Jake Richardson	Teen #1
+cast	Nick Fellinger	Teen #2
+cast	Vincent Pereira	Quick Stop Customer
+cast	Ernest O'Donnell	Cop
+cast	Tango	Suzanne
+cast	Marc Blucas	The Guy
+cast	Matthew James	The Dude
+cast	Jane Silvia	Bookish Girl
+cast	Carmen Llywelyn	Redhead Beauty
+cast	Dan Etheridge	Deputy
+cast	Eric Winzenried	Cop #1
+cast	Jonathan Gordon	Cop #2
+cast	John Maynard	Cop #3
+cast	Robert Holtzman	Cop #4
+cast	Tom Dorfmeister	Cop #5
+cast	Joe Quesada	Pizza Delivery Guy
+cast	Diedrich Bader	Miramax Security Guard Gordon
+cast	Scott Mosier	GWH2 Assistant Director / Willam Black
+cast	James J. McLauchlin	GWH2 Clapper / Loader
+cast	Joseph D. Reitman	Bluntman & Chronic Assistant Director
+cast	Paul Dini	Bluntman & Chronic Clapper / Loader
+cast	Quentin Wright	William Dusky
+cast	Gregory Owen	Suburban Kid
+cast	Ralph B. Meyer	Receptionist
+cast	Bryan Johnson	Steve-Dave Pulasti
+cast	Walter Flanagan	Walt Grover the Fanboy
+cast	Renée Humphrey	Tricia Jones
+cast	Joey Lauren Adams	Alyssa Jones
+cast	Dwight Ewell	Hooper LaMont
+cast	Alanis Morissette	That Woman
+cast	Morris Day	Morris Day
+cast	Jerome Benton	Jerome Benton
+cast	Garry Johnson	Garry Johnson
+cast	Monte Moir	Monte Moir
+cast	Torrell Ruffin	Torrell Ruffin - Morris Day And The Time
+cast	Ricky Smith	Ricky Smith- Morris Day And The Time
+cast	James Van Der Beek	James Van Der Beek
+cast	Jason Biggs	Jason Biggs
+cast	Thomas Burke	Blue Collar Man
+cast	Matt Damon	Matt Damon / Will Hunting
+cast	William B. Davis	Cigarette Smoking Man
+cast	Susan Engel	Ben Affleck's Make-Up Artist
+cast	Stephanie Entin	Convenience Store Girl
+cast	Cass Franklin	Extra
+cast	Mark Steven Johnson	Movie Director
+cast	Demetra Karakostas	Movie Patron Couple
+cast	Zak Knutson	The C.L.I.T.
+cast	Corey Scott Levin	Concertgoer / Film Attendee
+cast	Brian Lynch	Comic Book Shopper #1
+cast	David Mandel	Extra
+cast	Chris McDevitt	Comic Book Shopper #2
+cast	Art Oughton	Clapper / Loader
+cast	John Papp	Movie Patron Couple
+cast	Derek Raser	Bus Driver
+cast	Bob Schreck	Gus Van Sant's Assistant
+cast	Scott Sener	Quiet Scott
+cast	Rusty Sheridan	Afroed Whitey
+cast	John Strand	Miramax Security Guard #2
+cast	Nicole Vanderhoff	GWH2 Extra Glaring at PA
+cast	Scott William Winters	Clark / Scott William Winters

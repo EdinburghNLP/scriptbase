@@ -1,0 +1,3382 @@
+Jazz Singer, The (1927) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Jazz Singer, The (1927) movie scriptby Alfred A. Cohn.
+More info about this movie on IMDb.com
+
+
+TITLE 1:     The New York ghetto, the daily life of which 
+          throbs to the rhythm of music that is as old as 
+          civilization.
+
+     FADE IN 
+
+1.      EXT. NEW YORK STREET  LONG SHOT
+     It is a typical East Side business street at the height of the day's 
+     activities, a street that is lined with pushcarts, sidewalk vendors and 
+     little stores, with its milling shoppers, its petty marketing arguments,
+      its unkempt kids playing in the street heedless of consequences. In the 
+     distance is seen an elevated train flashing across the background like 
+     a comet across the sky.
+ 
+2.     MOVING SHOT  SAME
+     A shot may be made from an auto or truck down the street showing the 
+     teeming life of the ghetto. As the camera reaches a street intersection,
+      a half dozen kids come into the scene.
+ 
+3.     MED. SHOT  KIDS (STUDIO STREET)
+     They are playing tag on the intersecting street which is given over to 
+     tenements. There are no pushcarts and only a few stores in the basements
+      or ground floors of the buildings which house many thousands of ghetto 
+     folk. The kids are attracted to something. They all look down the street
+      and then start running in the direction they have been looking. Some 
+     little girls join them. (Vitaphone street piano, at some distance.)
+ 
+4.     EXT. SIDE STREET  MED. SHOT
+     In front of a low brick building is an Italian with a street piano and 
+     he is grinding out that always popular classic of the East Side, "The 
+     Sidewalks of New York." The kids come into the scene and gather around 
+     the hurdy-gurdy.
+ 
+5.     CLOSE-UP  GROUP 
+     The Italian smiles as the children start dancing about. He looks 
+     expectantly at the windows above him and nods pleasantly to someone up 
+     above as he continues cranking the piano.
+ 
+6.     EXT. TENEMENTS  LONG SHOT
+     Looking upward from the street piano. This may be a very effective shot.
+      In several of the windows women are looking down at the music-maker and 
+     other heads appear in other windows. Several take deliberate aim and 
+     toss coins to the street.
+ 
+7.     CLOSE-UP  ITALIAN
+     He holds out his ragged cap and expertly catches several coins without 
+     once taking his hand from the crank of the street piano. The piece ends.
+      He pulls a little lever and starts turning on another selection -- some 
+     old operatic favorite like the "Intermezzo" from Cavalleria Rusticana. 
+     He starts moving down the street as he plays.
+
+8.     TENEMENT STREET  LONG SHOT
+     As the street piano, still in operation, goes down the street, the group
+      of kids, now much larger, follows along. The Italian stops in front of 
+     another building, which adjoins the Orchard Street synagogue. 
+ 
+9.     CLOSE SHOT  FRONT SYNAGOGUE
+     It bears the name, in Hebrew, of the temple. Several children get up on 
+     the steps in front of the closed doors to listen to the music, which is 
+     approaching. Next door is an old brownstone front, before which the 
+     Italian stops. Underneath is a store, and in the flat over the store 
+     live Cantor Rabinowitz and his family.
+ 
+10.     INT. ROOM IN SYNAGOGUE
+     Full shot of the little anteroom in which the rabbi holds school for the
+      children of the congregation and in which the cantor teaches the boys of
+      the choir the songs and chants of the orthodox -- the prayers set to 
+     music that has been handed down for generations. Several boys are seated
+      on a bench beside a battered old square piano (one of the old square 
+     Knabes may be obtained here). The sound of the street piano comes 
+     through the open window, and the kids rush to the window. They no sooner
+      get to it and climb up to look out when the door into the room from the 
+     synagogue proper slowly opens and the head of the venerable Cantor 
+     Rabinowitz appears.
+ 
+TITLE 2:      Cantor Rabinowitz, who sang and taught the 
+          youth of his congregation to sing the age-old 
+          songs of Judea -- a man revered and respected 
+          by all the ghetto.
+
+11.     CLOSE-UP  CANTOR
+     He peers into the room to see if his class is ready for him. He has some
+      difficulty in finding them. Finally he discovers them at the window. He
+      lifts his head as he hears the strains from the street piano, and a look
+      of disgust comes to him. He closes the door behind him and starts in 
+     with a determined look.
+ 
+11A.     REVERSE SHOT  BOYS
+     They are packed in the window, patched pants seats and legs only being 
+     visible.
+ 
+12.     EXT. MED. SHOT
+     The Italian is now in front of the synagogue and is grinding out another
+      tune while the children dance about the discordant instrument.
+ 
+13.     INT. SCHOOL ROOM  MED. SHOT
+     The four or five boys are jammed into the open window, some of them half
+      way out with feet sticking almost straight out backward. With determined
+      tread the cantor comes up behind them and starts yanking them out of the
+      window. They are badly frightened and duck as the cantor cuffs them 
+     right and left.
+ 
+14.     FULL SHOT  ROOM 
+     The boys, some of them propelled from behind by the irate cantor, 
+     scramble for their seats. The cantor starts to come after them, then the
+      strains of the music assault his delicate ear and he turns instead to 
+     the window.
+ 
+15.     CLOSE-UP  CANTOR
+     He takes hold of the window and yanks it down roughly as though he 
+     cannot shut out the sound from without quickly enough. (Vitaphone music 
+     quickly dimmed to just a faint sound.) Then he turns and faces the boys.
+      He looks them over, muttering to himself imprecations on the terrible 
+     sounds from without -- an insult to his musically attuned ear.
+ 
+16.     MED. SHOT  BOYS AND CANTOR 
+     The boys straighten up with solemn looks on their faces as the cantor 
+     looks them over scowlingly.
+ 
+17.     EXT. STREET OUTSIDE TEMPLE  LONG SHOT 
+     The Italian and his piano are disappearing in the distance, and a group 
+     of boys are playing ball in the street. One is batting.
+ 
+18.     INT. CANTOR   CLOSE-UP 
+     He is looking at the boys as he says:
+ 
+TITLE 3:     "Where is Jakie, my son?"
+ 
+19.     FULL SHOT   ROOM
+     The cantor is in the foreground addressing the boys. As he finishes the 
+     question one of the boys starts to answer it. The old man suddenly jumps
+      around and looks up in back of him.
+ 
+20.     CLOSE-UP  WINDOW
+      There is a big round hole in the window.
+ 
+21.     CLOSE-UP  CANTOR 
+     He looks down at the glass on the floor, then stoops and picks up a ball
+      from the floor. He shakes his head ominously. He scowls at the kids, 
+     then looks toward the door.
+ 
+22.     CLOSE-UP  AT DOOR 
+     It is opening cautiously and the black curly head of a boy of about 
+     thirteen appears. He enters hesitatingly and fearfully of the possible 
+     consequences.
+ 
+23.     FULL SHOT  ROOM 
+     The kids all look from father to son expectantly, each hoping that Jakie
+      will get a licking as soon as possible. The cantor comes toward the boy,
+      his brows knitted in a deep frown. Jakie starts toward his father 
+     repeating, "I couldn't help it -- I didn't mean to hit it so hard --
+     honest I didn't." They meet in the center of the room, the boy still 
+     protesting half tearfully. The old man brings back his arm as though to 
+     strike him.
+ 
+24.     CLOSE SHOT  BOTH 
+     As the cantor brings back his arm, Jakie shuts his eyes and ducks, but 
+     the cantor reconsiders and brings the hand down alongside without 
+     striking the boy. He waves him to his seat on the bench with a half-
+     uttered threat to "fix him good the next time."
+ 
+25.     FULL SHOT  ROOM 
+     The cantor turns from Jakie with an impatient gesture and lines the boys
+      up for their lesson. He calls them to attention, then tells them to 
+     listen to what he is going to sing. He walks to the piano and poises a 
+     hand over the keys.
+  
+26.     CLOSE-UP  CANTOR
+     He strikes a note to give him the key he wants but the piano is 
+     evidently out of tune. He shakes his head disgustedly, then takes an 
+     old-fashioned tuning fork out of his inside coat pocket and strikes it 
+     on the side of the piano, then holds it to his ear. He sings the note 
+     and then indicates to the boys that they are to follow him as he sings.
+ 
+27.     MED. SHOT  CANTOR AND BOYS
+     The cantor is singing and one of the boys is paying no attention. He is 
+     looking around toward the window longingly. The cantor, still singing, 
+     walks over to him and cuffs him on the ear.
+ 
+28.     CLOSE-UP  CANTOR AND BOY
+     The boy ducks a second swipe. The cantor glares at him and demands that 
+     he give his undivided attention to the lesson.
+ 
+29.     CLOSE SHOT  OTHER BOYS
+     They are singing but taking in the scene on the side. They grin at each 
+     other in joy at their companion's trouble, then they quickly turn their 
+     eyes forward and sing more lustily as they feel the cantor's eyes on 
+     them.
+ 
+30.     FULL SHOT  ROOM
+     The cantor takes his place again. He shows his disgust with the manner 
+     in which the boys are singing and, with an impatient gesture, he stops 
+     and tells them to go home.
+ 
+31.     CLOSE-UP  CANTOR
+     He waves them away, saying:
+ 
+TITLE 4:      "Go now, you sound like crazy cats crying 
+          already."
+ 
+32.     MED. SHOT  GROUP
+     The cantor finishes his dismissal and as the boys, including Jakie, 
+     start for the door, he stops his son. Jakie, with a crestfallen look, 
+     follows with his eyes the disappearing figures of his playmates, who 
+     quickly exit. His father calls him and he comes opposite him and looks 
+     up rather sullenly for the scolding he expects.
+ 
+33.     CLOSE-UP  CANTOR AND SON
+     The cantor looks down at Jakie with a scowl and starts berating him. He 
+     points to the window and his anger again rises. Jakie starts backing 
+     away as though expecting violence. The old man gets himself together and
+      his attitude changes from anger to sadness. He says to the boy:
+ 
+TITLE 5:     "A fine cantor you are going to be -- smeshing
+          synagogue windows yet!"
+ 
+     The boy looks up at him with an effort, which reflects something of the 
+     length of time he has thought about this unpleasant future. He blurts 
+     out:
+ 
+TITLE 6:     "But Papa, I don't want to be no cantor."
+
+     The father looks at him as though not willing to believe his ears. He 
+     has never heard anything quite so blasphemous. He gulps a few times and 
+     then, with a grimly sarcastic smile, he says:
+ 
+TITLE 7:     "And if not a cantor, what are you going to be?"
+
+     He looks at the boy, awaiting an answer to a question which he regards 
+     as unanswerable.
+ 
+34.     CLOSE-UP  BOY
+     He swallows a few times, then looking up at his father courageously, he 
+     declares:
+ 
+TITLE 8:     "I want to be a singer in a theayter." 
+
+     He half ducks as if expecting a blow.
+ 
+35.     CLOSE-UP  CANTOR
+     He looks at the boy in amazement, his hands going aloft in horror. It is
+      difficult for him to speak. Finally he breaks out:
+ 
+TITLE 9:     "For five generations there has been a 
+          Rabinowitz as cantor -- I have taught you to be 
+          one--" 
+
+     He pauses for a breath, then, sticking out his bristling beard in the 
+     boy's direction, he almost yells:
+ 
+TITLE 10:     "And you -- you want to be a common actor in a
+          lowlife theayter!"
+ 
+36.     CLOSE-UP  FATHER AND SON
+     The father makes as though to strike the boy, who this time stands his 
+     ground bravely. The hand of the aged man is raised for the blow, but he 
+     halts it in mid air. The father looks down into the eyes of the boy, 
+     which are fixed steadfastly on him. He shakes his head sorrowfully.
+ 
+                                        FADE OUT
+ 
+     FADE IN 
+
+37.     INT. MULLER'S CAFE
+     Long shot discloses one of those places so common in New York before 
+     Prohibition, a long bar in front, and behind, separated from the bar by 
+     a partition and swinging doors, a "garden" approachable from the "family
+      entrance" where "ladies" may dine and drink their beer, whether with 
+     escorts or without them. The back of the place can be seen faintly. The 
+     bar is being well patronized, and the three German bartenders are busy 
+     putting out huge schooners of the amber fluid. Waiters are going in and 
+     out of the swinging doors.
+ 
+38.     INT. GARDEN  FULL SHOT
+     Looking toward the bar, there is a battered old piano in the foreground 
+     on a slightly raised platform, at which sits a young man who looks twice
+      his age because of dissipation. He is smoking a cigarette in a listless 
+     manner, and there is a schooner of beer on the piano at the end of the 
+     keyboard. He is running his hands over the keys as though playing to 
+     himself. Back of him may be seen the diners and drinkers. There is an 
+     occasional family group and several of the tables are occupied by 
+     flashily dressed women of an obviously well-known occupation. Some are 
+     accompanied by men. At other tables are men alone quietly drinking.
+ 
+39.     CLOSE-UP  FAMILY ENTRANCE
+     Seen from the inside, the door opens slowly and the head of Jakie 
+     Rabinowitz appears. He looks about as though to see if the coast is 
+     clear, then enters. His attitude indicates that he has been there 
+     before.
+ 
+40.     FULL SHOT GARDEN
+     Jakie threads his way among the tables to the piano. Several of the 
+     drinkers look at him as they recognize the boy, and there is some 
+     conversation about him among the groups. Jakie calls to the piano 
+     player, who swings around to greet him, as he gets on the platform.
+ 
+41.     CLOSE SHOT  FLAYER AND JAKIE
+     The pianist greets Jakie jocularly: 
+
+TITLE 11:     "Well how's the kid Caruso today?" 
+
+     Jakie answers him in kind:
+ 
+TITLE 12:     "Great! How's old kid Paderooski?"
+ 
+     They laugh and the piano player indicates the diners and drinkers, 
+     saying that maybe there's a few dimes for the kid in the place. They 
+     confer a moment, then the piano player whirls around and strikes a 
+     chord.
+ 
+42.     FULL SHOT  GARDEN
+     Those at the tables look toward the piano with interest as Jakie, in the
+      background, is seen standing on the little platform facing them.
+ 
+43.     MED. SHOT  BOY AND PIANO PLAYER
+     The player plays the introduction to "Mighty Lak a Rose" and the boy 
+     starts to sing. (The various shots for this will have to be in 
+     accordance with Vitaphone technique and its necessities.) Vitaphone 
+     singing stops, when cut is made. 
+
+     FADE IN 
+
+44.     INT. RABINOWITZ LIVING ROOM
+     It is a rather large room for that locality, the living room and dining 
+     room of the modest flat occupied by the cantor and his family. The 
+     furniture is good but old, and there are many shelves and tables which 
+     are filled with knickknacks, china, glassware, and silver. Mrs. 
+     Rabinowitz, a sweet-faced, motherly woman of between forty-five and 
+     fifty, is just setting the table. It is the day of the eve of Atonement 
+     Day, the most important holiday of Judaism, which is observed by even 
+     the least religious of Jews, by twenty-four hours of abstinence from 
+     food or drink. The cantor is pacing up and down the room in a very 
+     nervous manner. He pauses occasionally to make a quick remark, 
+     punctuated by an elaborate gesture, then resumes his pacing. The subject
+      of his remarks is Jakie.
+ 
+TITLE 13:     Sara Rabinowitz was not as learned in the lore 
+          of her race as her husband, but she had a 
+          deeper and better understanding of life -- and 
+          Jakie.
+ 
+45.     CLOSE-UP  MOTHER
+     She is setting plates on the table as she listens to the cantor. She 
+     hesitates, then says:
+ 
+TITLE 14:     "Jakie is a good boy, Papa -- but maybe he 
+          shouldn't be a cantor."
+ 
+46.      MED. SHOT  BOTH
+     As Sara finishes title and resumes her work, the cantor stops and looks 
+     at her in amazement. He starts to say: "What, not a cantor, you say 
+     that?" Then he takes a long breath and, bringing his fist down through 
+     the air, he breaks out into a stream of Yiddish.
+ 
+47.     CLOSE-UP  CANTOR
+     He declares violently that Jakie must be a cantor, just like himself and
+      his fathers before him. He leans closer to his wife as he says, with 
+     some semblance of pride:
+ 
+TITLE 15:     "He knows all the songs and prayers even now so
+          good as I do. He could take my place yet 
+          tonight and sing 'Kol Nidre' when Yom Kippur 
+          begins."
+ 
+     He pauses as though awaiting an answer to what he considers an 
+     unanswerable argument.
+ 
+48.     CLOSE-UP  SARA
+     She nods her head in acquiescence of what her husband has said; then she
+      shakes her head slowly and replies:
+ 
+TITLE 16:     "He has it all in his head, yes, but it is not 
+          in his heart. He is of America."
+ 
+49.     CLOSE SHOT  BOTH
+     As she finishes the old man looks at her in horror. This which she has 
+     said is, to him, treason. She turns her back as he begins to scold 
+     breathlessly.
+ 
+50.     FULL SHOT  CAFE FROM FRONT END OF BAR
+     (Vitaphone singing is resumed.) There are only a few people drinking at 
+     the bar in the foreground. The "garden" is visible as people pass 
+     through the swinging doors.
+ 
+51.     FULL SHOT   GARDEN
+     As seen from the doors, Jakie is singing and the people at the tables 
+     are watching and listening approvingly.
+ 
+52.     MED. SHOT  BAR
+     A tall, spare Hebrew with a straggly beard and a cutaway coat comes into
+     the foreground. He orders a glass of beer, putting his nickel on the bar
+      as he does so.
+ 
+53.     CLOSE-UP  YUDELSON
+     He drinks slowly and with relish.
+ 
+TITLE 17:     Moisha Yudelson, a man of influence in the 
+          business and religious affairs of the ghetto.
+ 
+     Back. He reaches over and takes some of the free lunch. His attention is
+      attracted to the music. He listens curiously, then starts for the door 
+     to the garden.
+ 
+54.     MED. SHOT  DOOR
+ 
+     Yudelson pushes the swinging door open, his glass of beer in one hand 
+     and a slice of meat on a piece of bread in the other. His eyes bulge as 
+     he sees the singer.
+ 
+55.     LONG REVERSE SHOT 
+     Jakie is singing.
+ 
+56.     CLOSE-UP  YUDELSON
+     His lips tighten. He determines that something must be done about this 
+     and he knows just what it is. He goes quickly to the bar.
+ 
+57.     MED. SHOT  BAR
+     Yudelson gulps down the beer, crams the rest of the food into his mouth,
+      and exits. (Vitaphone singing stops.)
+ 
+58.      INT. RABINOWITZ HOME
+     The cantor is walking up and down the floor nervously. Sara is putting 
+     the dishes of food on the table. The cantor stops and faces Sara 
+     sternly.
+ 
+59.     CLOSE-UP  CANTOR
+     He takes out a huge silver watch, looks at it, and says:
+ 
+TITLE 18:     "Tonight Jakie is to sing 'Kol Nidre' in school 
+          and he isn't yet here." 
+
+     He snaps shut the watch and glares at Sara.
+
+60.     MED. SHOT  BOTH
+     Sara makes some excuse for the boy. Maybe he doesn't know what time it 
+     is. He starts pacing up and down again. Sara finishes the placing of 
+     food on the table and starts arranging the chairs.
+ 
+61.     CLOSE-UP   CANTOR
+     He scowls as he pauses in his pacing and says:
+ 
+TITLE 19:     "If he don't come now in a minute, he starts 
+          his Yom Kippur fasting without supper."
+ 
+62.     FULL SHOT  ROOM
+     As the cantor resumes his pacing, Sara hears someone at the door and 
+     goes to it, only to admit, instead of the expected Jakie, an excited 
+     Yudelson. The cantor turns around in surprise. Yudelson rushes up to him
+      and starts telling him about seeing Jakie singing nigger songs in 
+     Muller's. The cantor throws up his hands in horror. Yudelson nods grimly
+      but in a satisfied manner.
+ 
+63.     CLOSE-UP YUDELSON
+     He says in a self-righteous manner:
+ 
+TITLE 20:     "Of course it ain't any of mine business, but I 
+          say to myself it's my duty, I--"
+ 
+     He looks around surprised.
+ 
+64.     FULL SHOT  ROOM
+     The cantor has grabbed his hat and is on his way out of the door as 
+     Yudelson stands open-mouthed. Sara starts wringing her hands.
+ 
+65.      CLOSE SHOT  YUDELSON AND SARA
+     As they see the cantor disappear, Sara looks at Yudelson with marked 
+     disapproval. He decides that it is time to go and turns as Sara starts 
+     to reprove him for his tattling. She tells him he would be better off
+     attending to his own business. With a hurried excuse Yudelson turns.
+ 
+66.     FULL SHOT   ROOM
+     Yudelson quickly disappears out of the front door and Sara drops into a 
+     chair heavily. She knows that there will be an unpleasant scene before 
+     long and she dreads it. 
+
+67.     INT. BEER HALL  FULL SHOT 
+     Jakie is just finishing a song and those at the tables start applauding.
+      Some of them throw coins to Jakie.
+
+68.     CLOSE-UP  JAKIE 
+     His singing manners have gone. Now he is just business as he starts to 
+     pick up the scattered coins. He picks up the last one and pockets it. 
+     Then he turns to the piano player.
+ 
+69.     CLOSE SHOT  BOTH 
+     They discuss what Jakie is to sing next. Then the piano player starts a 
+     ragtime piece and Jakie starts to sing in the most approved darkey 
+     manner.
+ 
+70.     FULL SHOT  GARDEN 
+     The people at the tables are showing new interest in the singer.
+ 
+71.     CLOSE SHOT  FAMILY ENTRANCE 
+     The door opens suddenly and the figure of the irate cantor appears. He 
+     pauses and takes one look, then strides in with great determination.
+ 
+72.     MED. SHOT  JAKIE FROM FRONT 
+     He is putting everything he has into his song. He is rolling his eyes 
+     and calling on "his baby." His eyes drop and he looks forward just in 
+     time to see his father coming toward him. His voice breaks as the old 
+     man comes into the scene. A determined arm reaches up and grabs him, and
+      the song ends abruptly.
+ 
+73.     FULL SHOT  ROOM
+     With the boy in a viselike grip, the cantor starts toward the door with 
+     the squirming figure of his young son. The people at the table are 
+     laughing heartily at the unexpected entertainment. Father and son exit.
+ 
+74.     CLOSE-UP  PIANO PLAYER
+     Getting the humor of the situation, he starts playing something 
+     appropriate, like "Stay in Your Own Backyard" or perhaps something more 
+     modern and more to the point.
+ 
+75.     RABINOWITZ LIVING ROOM 
+     Sara is sitting in the rocking chair, rocking slowly back and forth, 
+     occasionally dabbing at her eyes with a handkerchief. She gets up and 
+     goes to the table. She feels one of the dishes and, seeing that it is 
+     cold, she starts with it to the kitchen. As she returns she looks toward
+      the front door, then rushes hurriedly in that direction.
+ 
+76.     MED. SHOT  FRONT DOOR
+     The cantor comes in breathlessly, pushing the boy ahead of him, just as 
+     Sara comes up to them. The boy tries to go to her but the irate cantor 
+     holds him tightly and motions Sara not to interfere.
+ 
+                 
+77.     CLOSE SHOT  GROUP
+      The cantor glares down at the boy who starts squirming. He tightens his 
+     grip on him as he repeats over and over: "Singing nigger songs in a beer
+      garden! You bummer! You no good lowlife!" As Sara tries to intercede, 
+     the cantor silences her almost roughly. As he half pushes her away he 
+     says:
+ 
+TITLE 21:     "I will teach him he shall never again use his 
+          voice for such low things."
+
+     He takes a fresh grip on the boy and starts in the direction of the 
+     bedroom.
+ 
+78.     FULL SHOT  ROOM 
+     As father with son in tow go toward the bedroom, the mother follows a 
+     few steps, pleading with the cantor not to whip Jakie. He turns around 
+     and demands what she means by such interference. She looks at him 
+     imploringly.
+ 
+79.     CLOSE-UP  SARA
+     She holds out her outstretched hands to the cantor, saying:
+ 
+TITLE 22:     "It will do no good, Papa -- and he must get 
+          ready for school in a few minutes. Yom Kippur
+          begins soon."
+ 
+80.     CLOSE SHOT  GROUP
+     The cantor answers her with a snort of disgust and renewed determination
+      to continue with what he considers his duty. The boy, emboldened by his 
+     mother's championship, turns and faces his father courageously. The old 
+     man looks down at him in surprise.
+ 
+81.     CLOSE-UP  CANTOR AND SON
+     The boy looks up at his father, his boyish face set with determination. 
+     He declares:
+
+TITLE 23:     "I told you before -- if you whip me again, 
+          I'll run away -- and never come back."
+ 
+     At this show of rebellion the cantor stiffens. He nods his head 
+     menacingly as though accepting the challenge, takes another grip on the 
+     boy's shoulder, and pushes him toward the bedroom, as Jakie starts 
+     sobbing hysterically. At the door, the cantor takes a strap that is 
+     hanging over a chair near the door.
+ 
+82.     MED. SHOT  ROOM
+     As the cantor shoves open the door, Sara again tries to intervene. The 
+     cantor holds out a hand to prevent her following, pushes Jakie into the 
+     bedroom, and follows him, closing the door behind him with a bang. Sara 
+     stands looking tearfully at the door, realizing the expected crisis in 
+     the little family, which she has feared, has finally arrived.
+ 
+83.     CLOSE-UP  SARA
+     She stands mutely facing the door. Suddenly she starts and listens, then
+      puts her hands over her ears as though to shut out the sounds she hears,
+      and her shoulders heave with repressed sobs. She starts for the door, 
+     then restrains herself. Her emotions finally overcome her and she drops 
+     into a chair and cries without restraint. (Nothing of what occurs in the
+      bedroom is shown.)
+ 
+84.     MED. SHOT  SAME
+     The door of the bedroom opens suddenly and Jakie emerges. He is shaking 
+     with a mixture of anger and the painful effects of the whipping. He 
+     comes out quickly, looks at his mother, rushes over, and kisses her 
+     impulsively, and as she puts her arms around him, he breaks away and 
+     before she can stop him, he runs toward the front door.
+ 
+85.     FULL SHOT  ROOM
+     Jakie rushes to the door and dashes out, as the cantor appears in the 
+     doorway of the bedroom. He is somewhat breathless from exertion. He does
+      not look to see what has become of the boy. He pauses and looks at his 
+     wife in a dazed way. He looks toward the door. Then in a mechanical way 
+     he takes his watch from his pocket and glances at it.
+ 
+86.     CLOSE-UP  CANTOR 
+     He holds the watch up to his eyes closely, then looks in the direction 
+     of his wife and says:
+ 
+TITLE 24:     "It is time for the services, Mama."
+ 
+     He turns to the wall behind him where hangs the prayer shawl and the 
+     freshly washed and ironed robe which the cantor wears when he sings the 
+     "Kol Nidre" on the Day of Atonement.
+ 
+87.     MED.SHOT  BOTH
+     The cantor starts putting on the robe, with great deliberation. Sara is
+     standing mutely looking toward the door through which her boy vanished.
+
+                                        FADE OUT
+
+     FADE IN
+
+88.     INT. SYNAGOGUE  LONG SHOT
+     Every pew in the place is filled with men, and in the balcony behind sit
+      the women in the place reserved for them. On the raised platform, the 
+     cantor and the choir boys are taking their places.
+
+89.     CLOSE SHOT  CANTOR AND CHOIR
+     As the boys line up, a solemn look on each young face, the cantor looks 
+     from one to the other.
+ 
+90.     CLOSE-UP  CANTOR
+     He has his back to the congregation. He has his eyes fixed on the place 
+     where Jakie usually has stood.
+ 
+91.     MED. SHOT
+     As the Cantor stands motionless, the rabbi steps up to him. The old man 
+     looks at him and they exchange a few words.
+ 
+92.     CLOSE SHOT  BOTH
+     The cantor looks at the vacant place again, then turns to the rabbi and 
+     says, with a break in his voice:
+ 
+TITLE 25:     "Tonight my boy Jakie was to sing 'Kol Nidre' 
+          -- but he is not going to be a cantor now."
+ 
+     Back. He finishes title. The rabbi moves out of scene, and the cantor 
+     takes the position in which he is to sing.
+ 
+93.     FULL SHOT  SYNAGOGUE 
+     The congregation comes to attention, and small groups that have been 
+     conversing look toward the cantor.
+ 
+94.     MED. SHOT  CHOIR
+     The cantor is in the foreground, his back to the camera, as the first 
+     low notes of the "Kol Nidre" are sung. Never has the cantor's voice sung
+      the heart-breaking song like this before. There is a tear in every note,
+      and as his voice rises in the wailing harmony that is handed down from 
+     the walls of Jerusalem, the choir boys look at him in wonder. (Vitaphone
+      is used in full volume.)
+ 
+95.     FULL SHOT  SYNAGOGUE
+     As the cantor's voice rises in a long, mournful wail, the scene and 
+     music slowly FADE.
+ 
+TITLE 26:      Ten years and three thousand miles away from 
+          the ghetto.
+ 
+     FADE IN 
+
+96.     AIRPLANE VIEW OF SAN FRANCISCO
+     A shot may be obtained which immediately identifies the city, with its 
+     hills and ferries and the Golden Gate in the distance.
+
+                                        DISSOLVE INTO:
+ 
+97.     OFFICE STAR VAUDEVILLE CIRCUIT
+     Full shot of room shows various types of performers seated about the 
+     room awaiting an opportunity to talk to the booking manager. There is an
+      old-time legitimate actor of the East Lynne period, a dancing team of 
+     girls, three Teutonic-looking acrobats, a fat young man whose clothes 
+     were once quite "snappy," and a few other types found usually in such a 
+     place. The fat man is hidden behind a copy of Variety. An office boy, 
+     small, weazened, and wise beyond his years, pertly tells all inquirers 
+     that Mr. Schuler is "in conference." All of the people in the room look 
+     hopefully toward the door every time it is opened and look away 
+     hopelessly every time it closes. A big, husky, flashily dressed blonde 
+     enters and breezes up to the boy. He gets up and tries to hold the gate 
+     of the enclosure shut, so that she cannot enter.
+ 
+98.     CLOSE-UP  BLONDE AND BOY
+     She says that she is there to see Mr. Schuler. The boy looks at her and 
+     says:
+ 
+TITLE 27:     "Mr. Schuler's in conf'rence and can't be disturbed."
+ 
+     The girl gives him a supercilious look, shoves him aside, and sweeps up 
+     to the door to the inner room. She opens it and passes in as the boy 
+     stands with open mouth and gazes after her.
+ 
+99.     FULL SHOT  ROOM
+     The less fortunate performers sit and look wonderingly at the closed 
+     door. The boy finally shrugs his shoulders and takes his chair. The 
+     outer door opens and a young man enters. He is shabbily dressed and, 
+     although he is neat of person, it is obvious that he is down on his 
+     luck. He pauses and then hesitatingly goes up to the railing where the 
+     office boy sits idly hammering a typewriter with no paper in it. The boy
+      doesn't even look up.
+ 
+100.     CLOSE-UP  JACK
+     He stands looking at the boy nervously.
+ 
+TITLE 28:     It was a long jump from Jakie Rabinowitz to 
+          Jack Robin -- and the roses in his pathway 
+          were almost hidden under the thorns.
+
+                              --George Jessel
+
+     Back to scene. Jack asks the boy if he can see Mr. Schuler.
+ 
+101.     CLOSE SHOT   BOTH
+     The boy just looks up and snaps out that "it car,'t be done -- he's in 
+     an important conf'rence." Jack hopelessly turns away and the boy 
+     continues his mauling of the typewriter.
+ 
+102.     FULL SHOT  ROOM
+     As Jack walks disconsolately over to the one vacant chair, the young man
+      hidden behind the copy of Variety looks up. He recognizes Jack and, with
+      a smile, he jumps up and they grab each other's hands.
+ 
+103.     CLOSE-UP  BOTH
+     They exchange the usual greeting: "If it ain't my old partner of the 
+     sticks, Jack Robin!" and Jack's return:
+ 
+TITLE 29:     "--and the last time I saw you Buster Billings, 
+          you were getting ready to climb a side door 
+          Pullman in Cheyenne."
+ 
+     Back to scene. They reminisce some more. Jack asks him what he is doing,
+      and Buster points hopelessly to the door of the inner office, saying, 
+     "The same thing you are."
+
+104.     FULL SHOT  ROOM
+      As they are talking, the boy suddenly jumps up as though answering a 
+     buzzer and goes to the inner door. He opens it, listens to something 
+     said within, nods, and closes the door. He walks to the rail and gives 
+     the people sitting around the room a contemptuous look.
+ 
+105.     CLOSE-UP  BOY
+     He pauses a moment as he feels the expectant eyes on him, and with the 
+     cruelty of youth, he barks out at them:
+ 
+TITLE 30:     "The boss ain't seeing anybody else today -- 
+          you can all duck."
+ 
+106.     FULL SHOT  ROOM
+     The occupants start getting up wearily. They start for the door. Jack 
+     and Buster are the last to go. They pause in the doorway.
+ 
+107.     CLOSE SHOT  BOTH
+     They look at each other and Jack says to him: "Where to?" Buster pauses 
+     and says they can take a walk and stall around awhile. He adds:
+  
+TITLE 31:     "Later we'll go to Coffee Dan's. My old side 
+          kick, Frank Tames, is the -- impresario down 
+          there and we can bum a feed off him."
+ 
+     They start out of the door.
+ 
+108.     EXT. STREET
+     In the near foreground looking down the street is the entrance to the 
+     Orpheum theater. The electric sign in front is lighted. The lighted sign
+      is suddenly extinguished to indicate that the show is over, and people 
+     start coming out of the doors. This DISSOLVES INTO:
+ 
+109.     INT. THEATER BACKSTAGE  FULL SHOT
+     The players who have just finished their act, the closing one on the 
+     bill, a troupe of acrobats, are just going to their dressing rooms. A 
+     door to one of the stage dressing rooms opens, and a girl dressed neatly
+      in street attire comes halfway out.
+ 
+110.      CLOSE-UP   GIRL
+     She is a small blonde girl, dressed in excellent taste. She is calling 
+     out to someone not in sight.
+ 
+TITLE 32:     Mary Dale, of the "Little Follies" act, was not 
+          yet a headliner in her own right, but ambition 
+          pointed the way to fame.
+ 
+111.     MED. SHOT  GIRL
+     She comes out of the door and closes it behind her. She calls again, and
+      in the background another girl and a young man, Ben Thorpe, appear. The 
+     girl is a tall, wise-looking blonde of about twenty-five and the young 
+     man is tall, blond, and good-looking. They come up to Mary and there is 
+     some talk as to where they are going.
+
+112.     CLOSE SHOT  THREE 
+     They argue a while, then Mary says: "Let's go over to Coffee Dan's." 
+     Estelle says that she won't remain long. The young man takes each by an 
+     arm and they start out.
+
+                                        FADE OUT
+ 
+     FADE IN 
+ 
+113.     INT. COFFEE DAN'S  FULL SHOT
+      The tables are pretty well filled by a fairly well-dressed crowd. Some 
+     even are in evening clothes. There is a general air of hilarity, but no 
+     drinking is in evidence. Next to a table filled by people in evening 
+     clothes, their women bedecked with diamonds, is a table at which sit 
+     several tough-looking characters. But there are not many of these. Men 
+     waiters dash back and forth carrying mostly ham and eggs, the piece de 
+     resistance of a Coffee Dan meal. At the piano on the platform sits Frank
+      James, tortoise shell-bespectacled musician and entertainer as well as 
+     master of ceremonies. In the background, up near the platform, is a 
+     small table at which sit Jack Robin and Buster Billings.
+ 
+114.     CLOSE-UP  TABLE 
+     Jack and Buster are eating heartily with all the gusto that 
+     characterizes a healthy appetite that has been whetted by lengthy 
+     fasting. They look up at Frank and grin happily.
+
+115.     CLOSE-UP FRANK
+     He looks down at them, gives them a signal, then walks to the edge of 
+     the platform nearest them.
+ 
+116.     FULL SHOT ROOM
+     Frank is trying to get the diners to be quiet. The people at the tables 
+     gradually hush their noise. Jack and Buster shove their plates away in 
+     complete satisfaction.
+
+117.     CLOSE-UP  FRANK
+     He has a hand upraised as he looks over the crowd. Then he casts a look 
+     down at Jack's table and winks as he starts announcing:
+ 
+TITLE 33:     "And now I am going to ask Mr. Jack Robin to 
+          sing something. Mr. Robin is the famous tenor 
+          from Petaluma."
+ 
+     Back to scene. He winks again as he looks down at the table.
+ 
+118.     CLOSE SHOT  TABLE
+     Jack is shrinking back in an embarrassed manner. Buster reaches over and
+      claps him on the back, telling him to be a good sport, that they all do 
+     it there, even the big ones in grand opera.
+ 
+119.     MED. SHOT TABLES
+     The people at the tables are looking at Jack and hammering on the tables
+      with their hammers in an encouraging manner.
+ 
+120.     CLOSE-UP  JACK AND BUSTER
+     Jack dumbly accuses Buster of framing him, but the latter just laughs. 
+     Jack finally pulls himself together as he realizes that there is no out 
+     for him.
+ 
+121.     MED. SHOT  TABLE AND PLATFORM
+     As Frank leans down with hand extended, Jack stands up, straightens his 
+     coat, and joins him. Frank gives him a hand and yanks him up on the 
+     platform, where they go into a conference as to what Jack is to sing.
+ 
+122.     LONG SHOT FROM PLATFORM
+     Jack and Frank are in the foreground at the piano talking. In the 
+     background, a group appears at the foot of the stairs just entering the 
+     place. It is the group from the vaudeville theater. Mary is in front, 
+     and as the head waiter motions to them, they enter the place and are 
+     seated at a table just in front of the platform as Frank sits down at 
+     the piano and starts playing for Jack, who has advanced to the edge of 
+     the platform.
+  
+123.     CLOSE-UP  JACK
+     He starts to sing his song. (The song, which is to be Vitaphoned, should
+      be one especially written for the occasion, as any current number would 
+     be out of date long before the picture has played every theater equipped
+      for Vitaphone by release time.)
+ 
+124.     MED. SHOT FROM FLOOR
+     The table at which Mary and her party are seated is in the immediate 
+     foreground. They are paying attention only to the waiter who is standing
+      over them awaiting their orders, as Jack is singing. Mary, attracted by 
+     his voice, looks away from the group wonderingly as she listens.
+ 
+125.     CLOSE-UP  MARY
+     She is looking up at Jack curiously as she listens. This is something 
+     new to her.
+ 
+126.     CLOSE-UP  JACK
+     He is singing, his eyes aimed toward the back of the place. As though 
+     feeling the attraction of Mary's gaze, his eyes slowly come down. As 
+     they meet those of Mary, he gulps and almost breaks. With an effort, he 
+     continues singing, his eyes on the girl.
+ 
+127.     CLOSE SHOT  GROUP AT TABLE
+     Mary still has her eyes on the singer. The others of the group, Estelle 
+     and Ben Thorpe, are looking at Jack as they see him looking intently at 
+     Mary. They turn to her and start kidding her about her conquest. She 
+     kids them in return and does not look at Jack again. She is again her 
+     usually reserved self, a girl intensely interested in her work and 
+     wrapped up in her career.
+ 
+128.     MED. SHOT  JACK
+     He is bringing his song to a close. As he does, Frank gets up quickly 
+     and shakes hands with him. Jack is embarrassed at this and, at Frank's 
+     instigation, he turns and bows to the audience and jumps down from the 
+     platform hurriedly as though in fear that he would be called on again.
+ 
+129.     FULL SHOT  ROOM
+     The diners are applauding and pounding on the tables with their hammers.
+      Jack, in the background, is seen going to his table, where Buster rises 
+     and slaps him on the back and compliments him on his work. The diners 
+     are still applauding and Jack turns and bows to them. Buster tries to 
+     get him to go up again but he shakes his head and sits down at his 
+     table.
+ 
+130.     CLOSE-UP  JACK AND BUSTER
+     Buster is still complimenting Jack, but the latter's eyes have wandered 
+     to the table occupied by Mary and her companions. Buster follows his 
+     gaze. His face lights up with recognition. Jack notes this and turning 
+     to him eagerly says: "Do you know her?" Buster says: "Which her?" Jack 
+     indicates Mary. Buster nods: "Sure I know her -- I'm going over and say 
+     Hello." Jack starts to follow, then subsides, his eyes on Buster.
+ 
+131.     CLOSE SHOT  MARY'S TABLE 
+     Mary is saying to Thorpe:
+
+TITLE 34:     "Well, I'm going to tell Berg about him -- with 
+          a voice like that --"
+  
+     Buster comes up as she is talking. He shakes hands with Mary and 
+     Estelle, and Thorpe is introduced. As they shake hands, Estelle spots 
+     Jack and tells Buster to ask Jack over. Buster waves his hand and sits 
+     down.
+ 
+132.     CLOSE-UP  JACK
+     He sees the signal and jumps up eagerly. Then with an effort to slow 
+     down in order to hide his eagerness to meet Mary, he walks slowly over 
+     to the table.
+ 
+133.     CLOSE SHOT  MARY'S TABLE 
+     Buster is telling them about Jack, when the latter appears. Buster 
+     presents him, and Mary asks him to sit down in the chair next to her. He
+      does so. Mary turns to him and asks him something about himself, first 
+     congratulating him on his singing.
+ 
+134.     FULL SHOT  ROOM
+     Frank goes to the piano and starts a dance number. The couples flock out
+      to the little dancing space. Thorpe asks Estelle to dance and she gets 
+     up. Mary and Jack are deep in conversation.
+ 
+135.     CLOSE SHOT   MARY'S TABLE
+     As Estelle and her escort move away in the dance, Buster looks at Jack 
+     and starts to say something. Neither pays any attention to him. He makes
+      a facetious excuse, then gets up. They never notice him leave.
+
+136.     FULL SHOT  ROOM
+     Buster threads his way through the dancers and climbs up on the 
+     platform. He goes over to Frank and sits down on the stool alongside of 
+     him. Frank starts to talk to him while he is playing.
+ 
+137.     CLOSE-UP JACK AND MARY
+     Jack thanks her for her approval of his song. Then, after a moment of 
+     embarrassment, Jack tells her that he has seen her act on the Orpheum. 
+     He says:
+ 
+TITLE 35:     "I caught your act in the Orpheum at Salt Lake 
+          -- I think you're great!"
+ 
+     He leans over toward her in a gesture of boyish enthusiasm rather than 
+     one of forwardness. Mary smilingly acknowledges the compliment. She asks 
+     him where he played in that city. Jack replies:
+
+TITLE 36:     "Oh, I sang in a movie house there -- and I've 
+          been two weeks getting here." 
+
+     He pauses and looks at her in a sidelong glance to see if, knowing the 
+     truth about him, she would regard him any differently. She gives him a 
+     quick look of sympathy, then says:
+ 
+TITLE 37:     "If you come over to the Orpheum tomorrow at 
+          2:00, I'd like to introduce you to the 
+          manager."
+ 
+     Jack looks at her wonderingly. He has been buffeted about so much that 
+     he has long since lost confidence in his own ability. He asks Mary 
+     eagerly if she thinks he can make the grade there. The girl nods and 
+     says:
+ 
+TITLE 38:     "I think your voice would get you a long ways 
+          on the big time -- you sing jazz, but it's 
+          different -- there's a tear in it."
+ 
+     Jack looks at her gratefully. He is close to a tear now himself. The 
+     girl smiles at him in a purely impersonal manner as he reaches out his 
+     hand toward hers in an impulsive gesture. Then he slowly withdraws it 
+     without touching hers.
+ 
+                                        FADE OUT 
+
+     FADE IN
+ 
+138.     INT. RABINOWITZ HOME
+     The cantor, much older and more feeble than when we last saw him, is 
+     seated at the table in the living room. His beard is almost white and 
+     the hair about his temples is white and thin. There are deep lines in 
+     his face, but a look of resignation has taken the place of the 
+     indomitable sternness that marked his appearance ten years before. At 
+     his side is standing a little Jewish boy, Moey -- a youngster of about 
+     ten -- a typical ghetto child of the underfed, frail build. He is 
+     singing and the old man is nodding his head in time as he does so.
+  
+139.     CLOSE SHOT  BOTH
+     The cantor suddenly stops the boy. He tells him that he is singing it 
+     wrong. He adds:
+ 
+TITLE 39:     "You must sing it with a sigh -- like you are 
+          crying out to your God."
+ 
+     He motions to him to sing it again. The boy tries it and is again 
+     stopped, this time more impatiently by the cantor.
+ 
+140.     CLOSE-UP  CANTOR
+     He looks at the boy and his mind seems to wander. There is a misty look 
+     in his eyes as he says:
+
+TITLE 40:     "I wish I had my Jakie here -- he could show 
+          you how to sing it -- he had a voice like a 
+          angel."
+ 
+141.     CLOSE SHOT  BOTH 
+     Moey looks up at him curiously. The old man has turned his eyes back 
+     into the past and is oblivious to the boy's presence until Moey looks up
+      and says:
+ 
+TITLE 41:     "He ran away from home, didn't he, your boy?" 
+
+     The old man looks at the boy, suddenly awakened from his reverie. His 
+     face sets and his lips compress as he says, very slowly:
+
+TITLE 42:     "I haven't got any boy." 
+
+     Back to scene. Moey looks up at him wonderingly. The old man looks away 
+     and Moey, boylike, is persistent. He tries it again:
+
+TITLE 43:     "But Mike Lefkowitz says your boy is a singer 
+          in a theayter way out west -- in Pittsburgh or 
+          Buffalo."
+ 
+     The cantor looks down at Moey as though he just faintly hears him. He 
+     shakes his head, saying to himself, "I have no boy." Then he rises 
+     quickly from the chair and says to the boy:
+
+TITLE 44:     "That is all for today -- come back tomorrow."
+  
+142.     MED. SHOT  ROOM 
+     The boy starts out of the room at this, and the cantor sits down again 
+     and is deep in thought as Moey exits.
+ 
+                                        FADE OUT 
+
+     FADE IN 
+
+143.     RABINOWITZ LIVING ROOM 
+     Mrs. Rabinowitz is seated in the rocking chair, just opposite and a 
+     short distance from Yudelson. Both have aged considerably. Yudelson is 
+     better dressed and has more of the air of a prosperous citizen. His 
+     beard is neatly trimmed and he wears well-tailored clothes. Mrs. 
+     Rabinowitz's hair is grayer and there are deeper lines in her face. She 
+     is leaning over, listening to Yudelson who has a letter in his hand from
+      which he is reading.
+ 
+144.     CLOSE SHOT  BOTH 
+     Yudelson looks up from the letter as he says: "Y' understand what he 
+     means?" He starts to explain. But Mrs. Rabinowitz stops him and says:
+ 
+TITLE 45:     "What else does Jakie say in the letter?"
+ 
+     Yudelson starts to read again. Sara leans over closer so that she won't 
+     miss a word.
+ 
+145.     CLOSE-UP  YUDELSON
+     He is reading the letter with elaborate gesticulations.
+ 
+INSERT LETTER
+ 
+                         Omaha, June 4th. 
+
+          Dear Mama:
+
+          I thought you would like to know I am getting 
+          along great in vaudeville, and maybe I will 
+          soon be a headliner, and a wonderful girl 
+          whose name is Mary Dale got me my big chance 
+          out in 'Frisco. Maybe I will be in New York 
+          soon.
+
+                         Your loving son, 
+                              Jakie 
+
+          P.S.      You can write me care State-Lake theater, 
+               Chicago. Remember the name is Jack Robin.
+ 
+     Back to scene. Yudelson looks up as he finishes reading.
+ 
+                 
+146.     CLOSE SHOT  BOTH
+     Mrs. Rabinowitz asks Yudelson what Jakie means by headliner. Yudelson 
+     explains, and the old lady is thoughtful a moment.
+ 
+147.     CLOSE-UP  MOTHER 
+     She hesitates a moment, then turns to Yudelson and says:
+ 
+TITLE 46:     "Read it again, what he says about the girl."
+ 
+148.     CLOSE SHOT  BOTH 
+     Yudelson again reads the passage about Mary Dale. He looks at Mrs. 
+     Rabinowitz as though realizing what she is thinking of. He says: "Nu, 
+     anything else?" Mrs. Rabinowitz hesitates, then says:
+
+TITLE 47:     "Maybe he is fallen in love -- and by her name 
+          she is a shiksa."
+ 
+     Yudelson thinks a moment, then shrugs his shoulders. He says:
+
+TITLE 48:     "Maybe not -- you know Jennie Levi on the 
+          theayter is Genevieve Leeds."
+ 
+     The old lady is relieved at this solution of her problem. Yudelson hands
+      her back the letter. She thanks him and he starts to get up.
+
+                                        FADE OUT
+ 
+
+     FADE IN 
+
+149.     LONG SHOT  BACKSTAGE
+     It is the stage of the State-Lake theater in Chicago, and a matinee 
+     performance is in progress. There is the usual activity among the 
+     stagehands preparatory to changing the set. The act which is now on is a
+      dancing act, and there is only a fleeting glimpse of the dancers through
+      the aperture of a narrow entrance. (A novel effect may be had by 
+     shooting through the first entrance so that [there is] a view of part of
+      the audience as well as some of the dancers who are downstage. The dance
+      music may be reproduced by the Vitaphone.)
+ 
+150.     MED. SHOT  STAGE
+     Through entrance from another angle there is a more complete view of the
+      dancers. Mary Dale, the principal of the act, is seen doing a movement 
+     of her dance. (This should be of such grace and technique that would 
+     warrant headline position for Mary.) As the dance comes to a close, a 
+     figure comes into the foreground, and a side view shows that it is Jack 
+     Robin in blackface. He applauds from the wings as  Mary finishes. 
+     Apparently he is just ready to go on with his  act, or has just finished
+      and is watching Mary before he takes the make-up off his face.
+
+151.     CLOSE-UP  JACK
+     He is applauding vigorously.
+
+TITLE 49:      Orchard Street would have had some difficulty
+          in recognizing Jakie Rabinowitz of Beth-El 
+          choir under the burnt cork of Jack Robin.
+
+     Back. He takes a step forward as though to meet the receding dancer as 
+     she bows repeatedly in making her exit.
+ 
+152.     MED. SHOT  SAME
+     Mary almost backs into Jack as she comes off the stage, and he puts out 
+     a hand to catch her arm. The supporting dancers have exited on the other
+      side. There is just time for an exclamation of surprise from Mary as she
+      goes on the stage again for another bow. She turns to Jack as she gets 
+     to him and puts a hand on his arm, as he compliments her on her dancing.
+
+153.     CLOSE-UP  JACK AND MARY
+     She says to Jack with a humorous gleam in her eye:
+
+TITLE 50:     "I don't know what I'd do, Jack, if it wasn't 
+          for the  encouragement you give me."
+
+     She laughs as she says this and Jack, realizing that she is kidding him,
+      says, in a rather embarrassed manner:
+
+TITLE 51:     "Well, you know I'm just crazy about -- your act." 
+
+     It is evident that he loses his nerve as he is about to tell her that it
+      is she he is crazy about. Mary starts for her dressing room, but is 
+     suddenly awakened to the fact that the audience is still applauding and 
+     she turns quickly to the entrance.
+
+154.     MED. SHOT  SAME
+     Mary is out on the stage bowing to the audience again. She bows several 
+     times as she backs into the narrow space again where Jack awaits her.
+ 
+155.     FULL SHOT  STAGE
+     As Jack and Mary walk toward the dressing rooms, several persons on the 
+     stage observe them. Two of the girls in the dancing act who are standing
+      at a door on the balcony overlooking the stage look at them and turn to 
+     each other.
+ 
+156.     CLOSE-UP  GIRLS
+     One of them, indicating Jack and Mary, says to the other: 
+
+TITLE 52:     "He's surely goofy about her." 
+
+     The other one nods and says:
+
+TITLE 53:     "But he ain't got a chance -- no Mammy singer 
+          for Mary." 
+
+     Back to scene. One opens the door and they go into girls' dressing room,
+      through the door of which may be seen the girls in various stages of 
+     dishabille.
+ 
+157.     MED. SHOT  JACK AND MARY
+     They are standing in front of the door of the stage dressing room. Jack 
+     starts to leave, but Mary halts him telling him that she has something 
+     to show him. He looks at her wonderingly. She opens the door and darts 
+     into the room, returning immediately with a telegram which she hands 
+     him.
+ 
+158.     CLOSE-UP JACK AND MARY
+     Jack takes the telegram and looks at it. It reads:
+
+INSERT TELEGRAM
+ 
+          NEW YORK
+          Miss Mary Dale 
+          State-Lake Theater, Chicago, Ill. 
+          Would you consider leading role new musical 
+          show Fall opening, rehearsals begin two weeks. 
+          Wire answer.
+
+                              Harry Lee 
+
+     Back to scene. Jack's face brightens as he finishes reading it. He hands
+      back the wire to Mary, saying:
+ 
+TITLE 54:     "Gee, it's a great chance for you."
+
+     Mary nods, smilingly telling Jack it's the opportunity she has been 
+     working for, ever since she began her professional career. Jack pauses a
+      moment as realization begins to come to him that Mary's good fortune 
+     means the end of the happiest period of his life. He puts out a hand and
+      congratulates her, then he adds falteringly:
+
+TITLE 55:     "I'll be sorry ... in one way to see you go. 
+          I ... we ... we'll miss you a lot." 
+
+     Mary smiles tenderly. She puts a hand on his arm affectionately. Jack 
+     looks away as he says:
+ 
+TITLE 56:     "I'll never forget that it is to you I owe 
+          everything I am -- or ever will be."
+
+     Mary affects a light manner as she laughs and tells him to snap out of 
+     the gloom. Jack pulls himself out of his sentimental mood to meet her 
+     assumed gaiety. He asks her when she is leaving and she says after the 
+     night performance the next day.
+ 
+159.     FULL SHOT  ALONG DRESSING ROOMS 
+     As Mary and Jack are talking, the door of another room opens and the 
+     head of Buster Billings comes out. He sees Jack and shouts to him to 
+     hurry up and get dressed. Jack, with another hesitating look at Mary 
+     during which he seems desirous of saying something else, turns suddenly 
+     and leaves her. She pauses a moment and looks after him. Then with a 
+     smile, she enters her own room and closes the door.
+
+     NOTE:  Playing a romantic scene in blackface may be something of an 
+     experiment and very likely an unsuccessful one. As an alternative, 
+     should it not prove as effective as desired, there could be a scene 
+     after No. 161 in Jack's dressing room, showing him enter in blackface 
+     and start taking off the make-up.
+ 
+160.     INT. JACK'S ROOM
+     He enters, followed by Buster, who is urging him to get cleaned up and 
+     dressed. Jack turns to the table, hesitates, and turns around to Buster.
+ 
+161.     CLOSE-UP  BOTH
+     Jack tells him of Mary's good fortune. Buster nods understandingly as 
+     though to convey that he always knew she would "make it." Buster looks 
+     at Jack as though to read his thoughts. Then he puts an arm on Jack's 
+     shoulder and says:
+ 
+TITLE 57:     "Better forget it, kid. She's wrapped up in her
+           career -- and you got a chance for Broadway 
+          yourself if you keep up your present gait."
+ 
+     Jack nods and looks off into space. He slowly turns and reaches for the 
+     can of cold cream.
+
+                                        FADE OUT
+
+     FADE IN 
+
+162.     LONG SHOT  MICHIGAN AVENUE
+     It is a general atmospheric shot showing the traffic on the boulevard 
+     and the stately line of high buildings on the West Side.
+
+163.     MED. SHOT  THEATER ENTRANCE
+     It is the entrance to a place like Orchestra Hall. There is a placard on
+      an easel in the center of the lobby.
+ 
+164.     CLOSE SHOT  ENTRANCE
+     The lettering on the placard is as follows:
+ 
+                       SPECIAL MATINEE 
+                    LAST CHICAGO CONCERT 
+                     CANTOR ROSENBLATT 
+                      IN SACRED SONGS 
+                       Popular Prices
+ 
+165.     MED. SHOT  ENTRANCE
+     Among the people passing are Jack and Buster. Jack's eyes fall on the 
+     placard and he stops. Buster stops and looks at Jack, who immediately 
+     shifts his glance. He takes a quick look at his wristwatch.
+ 
+166.     CLOSE-UP  JACK AND BUSTER 
+     Jack tells Buster to go ahead adding:
+ 
+TITLE 58:     "Forgot something. Run along and I'll meet you 
+          at the hotel."
+ 
+     Buster gives him a wise look, shrugs his shoulders, and starts ahead. 
+     Jack turns as though to retrace his steps; then as he sees that Buster 
+     has vanished he darts into the theater lobby.
+ 
+167.     MED. SHOT  LOBBY
+     Jack dashes up to the box office, lays down a bill, takes a ticket in 
+     return, and goes quickly to the entrance through which he disappears.
+
+                                        DISSOLVE INTO:
+ 
+168.     INT. THEATER  FULL SHOT FROM CENTER
+     The place is filled with a fashionable throng and a generous sprinkling 
+     of Jewish types, mostly the better, well-to-do Jews of both sexes. The 
+     stage is set for concert. There is a small orchestra of string pieces 
+     and a grand piano. A man of dignified appearance and dressed in stylish 
+     afternoon clothes comes out of the wings and faces the audience.
+ 
+169.     CLOSE-UP  MAN 
+     He announces:
+ 
+TITLE 59:     "The next and last number to be sung by Cantor 
+          Rosenblatt will be the famous song, 'Eli, Eli.'"
+ 
+     He bows and retires.
+ 
+170.     MED. SHOT  STAGE 
+     As the announcer retires, Cantor Rosenblatt appears and takes his 
+     position. He turns to the orchestra leader who gives the signal for the 
+     orchestra to play the introduction.
+ 
+171.     CLOSE-UP  CANTOR
+     He starts singing "Eli, Eli."
+ 
+172.     CLOSE SHOT  AUDIENCE
+     In a small group sits Jack Robin. He is sitting up straight, his eyes 
+     fixed on the cantor in an almost hypnotic stare.
+ 
+173.     MED. SHOT  STAGE
+     Showing the cantor singing and the orchestra playing. (Other shots as 
+     needed for Vitaphone purposes.)
+
+174.     CLOSE-UP  JACK
+     He has slumped in his seat and he is listening intently, his eyes still 
+     fixed on the singer.
+ 
+175.     REVERSE SHOT  CANTOR
+     It is a fairly close shot of the singer alone as Jack would see him from
+      a seat well in front of the house. The figure slowly dissolves into the 
+     figure of Jack's aged father, Cantor Rabinowitz.
+ 
+176.     CLOSE-UP  JACK
+     His eyes are half closed as he visions his aged father singing in 
+     Rosenblatt's place. He rubs a hand across his eyes slowly.
+
+177.     CLOSE-UP  RABINOWITZ
+     The figure slowly dissolves into the real singer, Rosenblatt. In this 
+     shot he finishes the song. He bows and starts to exit.
+
+178.     CLOSE SHOT  SECTION AUDIENCE
+     They are applauding. Jack is still under the spell of the singing and 
+     his thoughts. The people on either side of him get up and start out. He 
+     is alone, slumped down in his seat, his eyes half closed again as the 
+     scene slowly FADES OUT.
+
+     FADE IN 
+
+179.     SYNAGOGUE ANTEROOM
+     There are about twenty Jewish boys in the room, much as they were in the
+      early part of the story. One of the boys, Moey, goes over to the
+      battered old piano, which, like other furniture of the room, is exactly 
+     as it was ten years ago. Moey starts to play on the piano and the boys 
+     quickly gather around him. They start to sing with him. (Vitaphone.)
+
+180.     CLOSE-UP  MOEY 
+     He is playing and singing "Yes, Sir, She's My Baby" with much gusto.
+
+181.     MED.SHOT  GROUP
+     All of the boys are singing with him.
+ 
+182.     EXT. SYNAGOGUE
+     Cantor Rabinowitz, much more feeble than when we last saw him, is 
+     approaching the door of the room in which the boys are singing. He 
+     pauses as he hears the strains of unfamiliar -- and, to his ears, 
+     profane -- music.
+
+183.     CLOSE-UP  CANTOR 
+     As he stops, his brow sets in a frown and his lips tighten. He throws 
+     back his shoulders in a determined manner and starts for the door.
+ 
+184.     INT. ROOM MED. SHOT
+     The boys are still singing the popular song to Moey's jazzy 
+     accompaniment.
+ 
+185.     FULL SHOT  ROOM  FROM PIANO
+     The door opens and the cantor's rigid figure appears. One of the boys 
+     jabs Moey in the back with a whispered alarm.
+ 
+186.     CLOSE-UP  MOEY
+     As the other boy jabs him, Moey, with hardly a change in tempo, starts 
+     playing and singing "Eli, Eli" with a very sanctimonious expression on 
+     his face.
+ 
+187.     MED. SHOT BOYS
+     They, with Moey, are all singing "Eli, Eli."
+ 
+188.     FULL SHOT  ROOM  FROM DOOR      
+     The boys are singing the famous wailing song, as the cantor, standing in
+      the foreground, listens uncertainly.
+ 
+189.     CLOSE-UP  CANTOR 
+     He brushes a hand across his forehead in a perplexed manner. He is sure 
+     that the music he heard from outside was not "Eli, Eli." Yet, he is 
+     getting old and perhaps his ears are failing as well as his sight. Maybe
+      he has done the boys an injustice. His manner relaxes and he starts 
+     toward the boys. (Vitaphone music is still going on.)
+ 
+190.     FULL SHOT  ROOM
+     The cantor goes over to a side of the room, hangs up his battered old 
+     derby hat, and puts on his familiar skullcap. One of the boys turns 
+     around and, just as though discovering that the cantor has entered, he 
+     tells Moey.
+ 
+191.     CLOSE SHOT  MOEY AND BOYS
+     Moey gives an exclamation of surprise and stops playing suddenly. 
+     (Vitaphone music stops.) The boys cease singing also and, with their 
+     best synagogue manner, they start toward the cantor to extend the usual 
+     salutation. Moey goes to the other side of the piano on which there is a
+      box. He picks up the box and goes toward the cantor.
+ 
+192.     MED. SHOT  CANTOR
+     As Moey with the box goes up to him, the other boys fall in behind him. 
+     The cantor looks at them in a surprised way, reaches in his pocket for 
+     his glasses and puts them on, looks at Moey, and says: "Nu, what is 
+     going on yet?" Moey hands the box in the direction of the cantor and 
+     starts to say something.
+ 
+193.     CLOSE-UP  MOEY AND CANTOR
+     Moey stammers a moment, then reaches in his pocket and, with the other 
+     hand still holding out the box, he unfolds a wrinkled slip of paper with
+      the other, holds it up, and reads it:
+ 
+TITLE 60:     "On the occasion of your sixtieth birthday, 
+          Cantor Rabinowitz, your loving choir boys wish 
+          to present you this token, with best wishes for 
+          your continued peace, prosperity, and 
+          longevity."
+ 
+     Back to scene. Moey stammers over the last word and, with a sigh of 
+     relief, drops the paper. The cantor looks puzzled, then a smile 
+     illumines his face as he takes the box, saying:
+ 
+TITLE 61:     "That was a nice speech, Moey -- I forgot it 
+          was my birthday." 
+
+     Moey smiles happily and, referring to the speech, he says: 
+
+TITLE 62:     "Yes, my brother Clarence what goes to collitch,
+          writes it for me." 
+
+     Meanwhile, the cantor is opening the box. He takes out a prayer shawl, 
+     wrapped in tissue paper.
+ 
+194.     CLOSE-UP  CANTOR
+     He unfolds the shawl eagerly and holds it up in pleased admiration, 
+     saying:
+
+TITLE 63:     "It's a prayer shawl! Just what I needed!"
+
+     Back to scene. There is a tear in his eye as he beams on the boys.
+ 
+195.     MED. SHOT  GROUP
+     The boys gather around him. Moey assumes an air of importance.
+ 
+196.     CLOSE-UP  MOEY
+     He says, in reply to the cantor's remarks:
+
+TITLE 64:     "Yes, it's a good one. Regular price nine 
+          bucks, but we got it for seven-ninety-eight."
+ 
+197.     MED. SHOT  GROUP
+     The cantor beams on Moey again as he starts wrapping the shawl up again.
+      He puts it in its box and places it on the piano, then turns to the 
+     boys.
+ 
+198.     CLOSE-UP  CANTOR
+     He assumes his old familiar attitude as he addresses the youngsters, 
+     saying:
+ 
+TITLE 65:     "And now we sing 'Kol Nidre' some -- in a month 
+          it will be Yom Kippur and we must get it good."
+ 
+199.     MED. SHOT  GROUP
+     The boys line up in their accustomed manner, and the cantor gives them 
+     the signal to begin singing."
+ 
+200.     INT. LIVING ROOM  FULL SHOT
+     Sara is standing at the table talking to another woman, Mrs. Rubin. She 
+     is untying a parcel and the other woman is watching her eagerly.
+ 
+201.     CLOSE SHOT  BOTH
+     As Sara unwraps the package, she takes out a prayer shawl. She holds it 
+     up in admiration as she says:
+ 
+TITLE 66:     "I couldn't think of a more nice birthday 
+          present for him."
+ 
+     Mrs. Rubin strokes it admiringly and nods her agreement with Sara's 
+     remark.
+ 
+202.     EXT. HOME
+     Yudelson is coming along the street with several packages and carrying a
+      jug of wine under his arm. He mounts the steps and rings the bell at the
+      Rabinowitz door.
+ 
+203.     CLOSE-UP  YUDELSON
+     He readjusts the packages which are slipping from his hold. One of the 
+     packages is seen to be a large fowl, of which the feet are protruding. 
+     He transfers the jug of wine carefully to the other hand.
+ 
+204.     INT. HOME
+     Mrs. Rabinowitz hears the bell and starts for the door. Mrs. Rubin 
+     starts to make a hurried exit out of the back door as though not 
+     desiring to encounter visitors in her housedress, but is prevailed upon 
+     to remain, as Sara goes to the front door to admit Yudelson. Mrs. 
+     Rabinowitz reappears, ushering in the visitor very ceremoniously. Mrs. 
+     Rubin goes up to greet the new arrival, apologizing as she does for her 
+     attire. Yudelson walks over to the table and dumps on it his parcels 
+     with a long sigh of relief. The last thing he deposits is the jug of 
+     wine, which he sets down carefully.
+ 
+205.     CLOSE-UP  GROUP
+     As Yudelson arranges the parcels on the table, Mrs. Rabinowitz looks 
+     askance at him, and Mrs. Rubin starts fingering the fowl. He tells Sara 
+     that it is for the cantor's birthday dinner. He picks up the long 
+     package and hands it to Sara, saying:
+ 
+TITLE 67:     "The turkey is from Nathan Levy for the 
+          birthday dinner -- but this from me is a fine 
+          prayer shawl for the cantor."
+ 
+     Sara gives Mrs. Rubin an embarrassed look. Then, thanking Yudelson, she 
+     says:
+ 
+TITLE 68:     "It's awful good of you -- just what the cantor 
+          needs, a new shawl."
+ 
+     Yudelson beams proudly as Sara edges over to Mrs. Rubin. Yudelson starts
+      walking away.
+ 
+206.     CLOSE-UP  BOTH WOMEN
+     Sara whispers to Mrs. Rubin:
+ 
+TITLE 69:     "Now I got to exchange my present for something 
+          else again."
+ 
+207.     FULL SHOT  ROOM
+     As Sara finishes title, Yudelson joins the women. He asks where the 
+     cantor is and Sara points to the synagogue next door. Yudelson says 
+     he'll drop in on him and exits out of the front door, leaving it open 
+     behind him. Sara picks up the packages, then drops that containing the 
+     shawl back on the table and takes the fowl into the kitchen. Mrs. Rubin 
+     tells her she must be going, and she goes out with her. In the distance 
+     she is seen going out of the back door.
+ 
+208.     EXT. STREET
+     Coming along the street approaching the house is Jack Robin. He is 
+     walking briskly, a leather traveling bag in one hand, a cane in the 
+     other, and a straw hat set rakishly on his head. He is wearing a well-
+     fitting grey suit, tailored in excellent taste. People he passes stop 
+     and look at him as though they thought such a figure was out of place in
+      this neighborhood. He looks curiously at the house in which he spent his
+      early youth and passes up the steps.
+ 
+209.     EXT. ENTRANCE  CLOSE SHOT
+     At the door which stands slightly ajar as Yudelson left it, Jack pauses.
+      His light manner leaves him as he finds himself again on the threshold 
+     of his home. He hesitates as though not knowing whether to ring the bell
+      or walk in. He finally decides on the latter and enters the house 
+     hesitatingly.
+
+210.     INT. LIVING ROOM  FULL SHOT
+     Sara is visible through the door into the kitchen as Jack walks into the
+      room rather haltingly. He lays down his bag on a chair, places his stick
+      alongside of it, and looks about to note what changes have been wrought 
+     since he left home. His attention is attracted to sounds from without. 
+     He pauses and listens.
+ 
+211.     INT. CHOIR ROOM  FULL SHOT
+     The boys under the leadership of the cantor are singing. (Vitaphone at
+      distance.)
+
+212.     MED. SHOT  JACK
+     He recognizes the air, and a look of yearning comes into his eyes. He 
+     brushes away a tear. Then as he spies his mother in the kitchen, he 
+     coughs to attract her attention.
+ 
+213.     CLOSE-UP  MOTHER
+     She turns suddenly from the fowl on which she has been working. She is 
+     startled for a moment, then the look of surprise is followed by a 
+     puzzled glance at the stranger in the living room. Slowly over her face 
+     comes a realization of the identity of the visitor. With a glad cry she 
+     starts toward the other room.
+ 
+214.     INT. LIVING ROOM  MED. SHOT
+     Jack sees his mother coming toward him and, with arms outstretched, he 
+     goes forward to greet her and in a moment they are locked in each 
+     other's arms.
+ 
+215.     CLOSE-UP  MOTHER AND SON
+     As they kiss each other affectionately, Sara wipes the tears from her 
+     eyes. There are tears of joy in Jack's eyes too. Finally he holds her 
+     off and looks at her with a semblance of his old impudent grin. He says 
+     kiddingly:
+ 
+TITLE 70:     "You don't look a day older, Mama -- just like 
+          a chicken."
+ 
+     Sara chides him with mock solemnity.
+ 
+216.     CLOSE SHOT  BOTH
+     Sara starts plying Jack with questions which come so fast that he is 
+     obliged to call a halt. He puts a hand gently over her mouth and says, 
+     "Listen, just a minute, Mama." He adds: 
+
+TITLE  71:     "I just got into town and I hurried right down 
+          to see you and Papa before I went to find out 
+          about my new job."
+ 
+     Sara looks at him questioningly. He continues:
+ 
+TITLE 72:      "I got a wire to come and join a new revue show 
+          -- it's a great chance -- my name in electric 
+          lights -- everything -- no more vaudeville --
+          me Jakie Rabinowitz maybe a Broadway star, 
+          Mama."
+ 
+     Sara looks at him, only half comprehending what he is talking about. 
+     Finally Jack sits her down in a chair.
+ 
+217.     MED. SHOT  SAME
+     Jack tells her to keep quiet a moment. Then he goes to his bag, opens 
+     it, and extracts a small jeweler's box. He hands it to his mother, 
+     telling her it's a little something he picked up for her. She holds it a
+      moment as she looks from Jack to the box. He says it's for her and to 
+     open it. She does so hesitatingly, and her eyes widen as she sees the 
+     glittering brooch which reposes in the plush-lined box.
+ 
+218.     CLOSE-UP  MOTHER
+     Her lips form the word "diamonds" in a startled manner as her eyes 
+     reflect the glitter of the jewel. She looks up at Jack and says:
+ 
+TITLE 73:     "Are you sure it's for me, Jakie?"
+ 
+219.     MED. SHOT BOTH
+     Jack laughs as he says of course it's for her. She shakes her head at 
+     this unheard of extravagance. She tells him he shouldn't have spent so 
+     much money for her. Jack laughs heartily.
+ 
+220     CLOSE-UP  JACK
+     He tells her that it's nothing at all, adding:
+ 
+TITLE 74:     "I got so much money, Mama, Rockefeller is 
+          jealous of me -- and Henry Ford is always 
+          trying to borrow from me."
+ 
+221.     MED. SHOT  BOTH
+     Sara gets up and tells Jack that she will call his father. Jack tells 
+     her not to, that he wants to look around first. He spies the piano and 
+     goes over to it.
+ 
+222.   CLOSE-UP  JACK AT PIANO
+     He looks over the piano, fingers the keys appraisingly, and asks when 
+     they got it.
+ 
+223.     CLOSE-UP  SARA
+     She says:
+ 
+TITLE 75:     "The congregation presented it to Papa last 
+          year."
+ 
+     He pats her shoulder tenderly.
+ 
+224.     FULL SHOT  ROOM
+     Sara walks over to the piano as Jack sits down and starts to play a 
+     jazzy tune. He gets through several bars when the front door opens and 
+     the cantor appears. He hesitates at the unwonted sounds coming from his 
+     cherished piano.
+ 
+225.     CLOSE-UP  CANTOR
+     His brows knit in a deep frown as he listens a moment. Then he takes a 
+     resolute step forward.
+ 
+226.     FULL SHOT  ROOM FROM DOOR
+     As the cantor enters the room, he takes out his glasses and adjusts 
+     them. Sara sees him coming and she puts a hand on Jack's arm to stop 
+     him, telling him that his father has arrived. Jack swings around on the 
+     stool, gets up, and hurries over to greet his father. As Jack puts out 
+     his hand, the cantor makes no effort to take it. Sara hurries forward.
+ 
+227.     CLOSE SHOT  THREE
+     Jack is saying, "Why, hello, Papa!" The cantor remains impassive as the 
+     frown deepens. Sara goes to him and, pointing to Jack, says eagerly to 
+     her husband:
+ 
+TITLE 76:     "Look, it's your son -- he said 'Hello, Papa' 
+          to you."
+
+     Jack nods in corroboration of this news. The cantor merely stiffens.
+ 
+228.     CLOSE-UP  CANTOR
+     He glares at Jack as he demands:
+ 
+TITLE 77:      "What you mean, coming in my house and playing 
+          on my piano your music from the streets -- your 
+          jazz?"
+ 
+229.     CLOSE SHOT  GROUP
+     Jack is abashed at this. He hesitates and Sara rushes in and takes the 
+     blame for Jack playing. She pleads with the old man to welcome Jack, but
+      he remains adamant. He again points a condemning finger at Jack.
+ 
+230.     CLOSE-UP  FATHER
+     He almost shouts at him:
+
+TITLE 78:     "I taught you to sing to God -- to be a cantor 
+          like your fathers. But you liked better to 
+          sing in beer halls than in the temple. You're 
+          the same now."
+ 
+231.     CLOSE SHOT  GROUP 
+     Sara takes the cantor's hand and pleads with him, saying that Jack 
+     doesn't deserve such treatment. Jack assumes also a pleading attitude. 
+     Sara tells the cantor to remember that it is his birthday. At this Jack 
+     goes to his bag.
+ 
+232.     CLOSE-UP  JACK AT CHAIR
+     He is rummaging in the bag excitedly and fishes out a package. He looks 
+     up and says:
+ 
+TITLE 79:     "Sure, Papa, I remembered it was your birthday. 
+          See, I brought you a present too."
+ 
+     He unwraps it, disclosing a prayer shawl.
+ 
+233.     CLOSE-UP  CANTOR AND WIFE
+     Sara is talking to him excitedly, telling him how wonderful that Jakie 
+     should remember all these years, his papa's birthday. The cantor is 
+     beginning to weaken under this assault. Sara leaves him for Jack.
+ 
+234.     MED. SHOT  ROOM
+     Sara goes over to Jack excitedly and takes the shawl from him. As she 
+     sees it, there is just a second's change when she sees with dismay that 
+     it is another prayer shawl. Her manner changes immediately to one of 
+     excited delight. As Jack looks appealingly at his father, Sara holds up 
+     the shawl for him.
+ 
+235.     CLOSE-UP  SARA
+     As she holds up the shawl, stroking its soft folds affectionately, she 
+     says:
+ 
+TITLE 80:     "See, Papa, just what you needed -- a nice new 
+          prayer shawl."
+ 
+     She starts toward him.
+ 
+236.     MED. SHOT  GROUP
+     Jack follows Sara to the side of the old man. He takes the shawl from 
+     her and addressing his father says, almost tearfully:
+ 
+TITLE 81:     "Many happy returns of the day to our cantor. 
+          Ever hear that before when I was a little boy, 
+          Papa?"
+ 
+237.     CLOSE SHOT  GROUP 
+     As the cantor stands impassively, Sara takes his arm and says to him:
+ 
+TITLE 82:     "Look, Papa, Jakie is making you a speech, 
+          like when he was a little boy on your 
+          birthday."
+ 
+     The cantor looks up as though from a reverie and, bowing in a dignified 
+     manner, says: "Thank you." He makes no effort to take the shawl, which 
+     Sara takes. She exclaims upon the fine weave and cloth, saying it is the
+      best one the cantor has ever had, etc. Jack grows more embarrassed as 
+     the cantor shows no sign of relenting and shifts from one foot to 
+     another. He finally looks away from his father to his mother and, taking
+      the cue from her, remarks:
+ 
+TITLE 83:     "Sure, it's a good one -- the best money could 
+          buy."
+ 
+     The old man shows interest at this. He repeats the boy's words. There is
+      a question in his manner, or a conclusion, but seizing upon it as an 
+     opening, Jack eagerly declares:
+ 
+TITLE 84:     "Sure, Papa, I'm making plenty jack. And I'm 
+          going to make more. Ain't many can put over a 
+          Mammy song like me." 
+
+     He continues talking about his work. The old man's eyes assume a steely 
+     glitter. Jack continues talking glibly.
+ 
+238.     CLOSE-UP  FATHER
+     He glares at Jack. Finally he holds up a hand for silence, then snaps 
+     out:
+ 
+TITLE 85:     "So you sing your dirty songs in theayters now! 
+          First on the sidewalks, then beer halls and now 
+          theayters."
+ 
+239.     CLOSE-UP  GROUP
+     Sara tries to stop the old man. Jack, surprised at this new attack, 
+     tries to defend himself. The old man doesn't want to listen. Finally 
+     Jack, aroused now to the fact that he must fight to get the respect of 
+     his father, demands that his father listen to him. He grasps his 
+     father's hand. The old man stares at him in surprise. He starts to 
+     protest and Jack silences him.
+
+240.     CLOSE-UP  JACK 
+     He leans forward as he says, earnestly:
+ 
+TITLE 86:     "You taught me to sing -- and you told me that 
+          music was the voice of God -- and it is just as 
+          honorable to sing in the theater as in the 
+          synagogue."
+ 
+241.     CLOSE-UP  FATHER AND SON
+     As Jack finishes title, he endeavors to continue but the old man stops 
+     him. He points to the door. Jack, with a gesture of defeat, turns away 
+     from him, toward the chair upon which are his things.
+ 
+242.     MED. SHOT  GROUP 
+     Sara goes to the old man and pleads with him not to be so hard on their 
+     only boy. The old man stiffens and waves her away. Jack starts closing 
+     his bag. The old man picks up the shawl and holds it to him, saying that
+      he wants nothing bought with his unclean money.
+
+     Jack disregards him, closing the bag. Sara takes it and the old man 
+     tells her to burn it if it is not taken away. Jack turns to his mother. 
+     She comes to him, and he puts his arms around her. The old man stands 
+     like a statue waiting for Jack to leave his roof. Sara kisses Jack, and 
+     he kisses her and pats her on the back.
+ 
+243.     CLOSE-UP  JACK AND MOTHER
+     He finally disengages her hands and talks to her soothingly. He picks up
+      his things and starts to go. Then he turns and faces his father.
+ 
+244.     CLOSE-UP  FATHER
+     He stands looking over Jack's head, silently waiting his departure .
+ 
+245.     CLOSE-UP  JACK
+     He hesitates a moment, then addresses his father quietly. He says:
+
+TITLE 87:     "Some day, Papa, maybe you'll understand things 
+          like Mama does."
+ 
+246.     MED. SHOT  GROUP
+      The father affects not to hear. He merely points to the door. Jack turns
+      to his mother, says good-by to her again, and starts toward the door. 
+     The old man stands impassively as Jack passes him on his way out. Sara 
+     makes an impulsive gesture in Jack's direction, but the old man stays 
+     her with a slight movement of his hand.
+                                      
+                                        SLOW FADE OUT
+ 
+     FADE IN
+
+247.     FULL SHOT  STAGE THEATER
+     The camera is set upstage center and is shooting toward footlights. 
+     There is a row of twenty-four chorus girls downstage, extending across, 
+     all in rehearsal rompers, and they are dancing in unison. As they finish
+      a kick, a tall lanky figure of a man in shirt-sleeves rises from the 
+     footlights and halts them with a hand in the air. He is Jim Sparks who 
+     puts on the dances, and he starts telling the girls in expressive 
+     language just what he thinks of their efforts and where he thinks they 
+     belong.
+ 
+248.     CLOSE-UP  SPARKS
+     He finishes telling them what he thinks of them, then tells them to 
+     watch him. Although his timing and technique are correct, his efforts, 
+     because of his build and attire, make him appear ludicrous. He stops and
+      calls to the piano player to do it over again. Addressing the girls, he 
+     says:
+ 
+TITLE 88:     "Now let's have some life in it -- and don't be 
+          afraid of busting anything."
+ 
+249.     FULL SHOT  STAGE FROM SIDE 
+     Sparks backs away and the girls go into the steps as he did it. He nods 
+     approvingly. A small group of people appear in the wings on the opposite
+      side of the stage and stand watching the dancers. There are two men and 
+     a woman.
+ 
+250.     CLOSE SHOT  GROUP
+     Camera is in wings behind them and dancers are seen in the background 
+     going through their evolutions. The girl turns to talk to the man at her
+      left, and it is seen that she is Mary Dale. The man is Randolph 
+     Dillings, a middle-aged, well-dressed, rather distinguished type, a 
+     well-to-do businessman who finds amusement and sometimes profit in 
+     dabbling in stage enterprises. The other man, somewhat younger, is Harry
+      Lee, the producer of the show.
+ 
+251.     CLOSE-UP  DILLINGS 
+     He looks away from the dancers and says something to Lee.
+ 
+TITLE 89:     Randolph Dillings whose money was behind the 
+          new edition of "April Follies."
+ 
+     Back. He is talking.
+ 
+252.   CLOSE-UP  LEE 
+     He answers Dillings and turns away with a frown.
+ 
+TITLE 90:     Harry Lee who was staking his reputation as a 
+          producer on the same show.
+ 
+     He is watching the girls and nervously chewing his cigar. He takes out 
+     his watch and looks at it.
+ 
+253.     CLOSE SHOT  THREE
+     Lee turns to Mary and tells her that it is about time that the new 
+     comedian is showing up. Mary smiles and tells him that they needn't 
+     worry about him. Dillings turns to Mary anxiously and says:
+ 
+TITLE 91:     "You're sure, Mary, that this discovery of 
+          yours can sing as well as Hal Bolton?"
+ 
+     Mary nods and smiles confidently. She says: 
+
+TITLE 92:      "He's better than Bolton. You won't be sorry 
+          you took my advice."
+ 
+     The men continue to look worried, however, and Mary starts to tell them 
+     more about the new comedian.
+ 
+254.     EXT. STAGE DOOR
+     The old man who sits in the doorway looks up and instinctively puts a 
+     foot across the entrance, and a second later Jack Robin appears. He is 
+     not carrying the bag or cane now. Otherwise he appears as he did a few 
+     hours earlier at the home of his father. He tells the old man who he is.
+      The latter grudgingly admits him.
+ 
+255.     FULL SHOT  STAGE FROM WINGS
+     The three are still in the foreground, and Sparks is drilling the girls
+     relentlessly. They stop at the end of the dance, and Sparks walks over 
+     to the group. Dillings steps over and starts to talk to him as Jack 
+     comes into the scene. Mary turns as she hears his step and goes to greet
+      him. Lee stands where he was. Jack stops as he sees Mary. She goes to 
+     him with outstretched hands.
+
+256.     CLOSE-UP  JACK AND MARY
+     He stands looking at Mary in a surprised manner as she comes into scene 
+     and greets him. Jack is still speechless except for the first "Mary 
+     Dale!" Mary takes his hand. He looks at her, then blurts out:
+
+TITLE 93:     "Why, what are you doing here?" 
+
+     Mary laughs mischievously as she asks him if he has any objections to 
+     her being there. Jack in an embarrassed manner says that he only said 
+     that because he was so surprised to see her. He says:
+
+TITLE 94:     "Then you're in this show, too?" 
+
+     Mary nods and says with mock modesty: 
+
+TITLE 95:     "I'm merely the star, sir."
+
+     She looks up at him and says with a smile:
+
+TITLE 96:     "And you're to be the other star."
+ 
+     Jack looks at her in a stunned manner. Gradually he solves the riddle: 
+     it was Mary who was responsible for his summons to the big city -- the 
+     great chance at last to shine on Broadway, every actor's ultimate goal. 
+     He starts to blurt out his thanks. Mary stops him, then with a hurried 
+     look around, she tells him to wait until later and they'll talk it all 
+     over.
+ 
+257.      MED. SHOT  SAME
+     Lee and Dillings come into the scene and Mary presents Jack to them. 
+     Jack is somewhat embarrassed. He shakes hands perfunctorily with 
+     Dillings but is rather more impressed by Lee. Dillings turns away after 
+     the introduction, and Lee, trying to put Jack at his ease, asks him if 
+     he will be ready for a rehearsal that evening. Jack nods.
+ 
+258.     CLOSE-UP  JACK AND LEE
+     Lee takes a part book out of his pocket and hands it to Jack and tells 
+     him he will give him the songs later. He says to Jack:
+ 
+TITLE 97:     "You've been very highly recommended -- but 
+          we've only got one person's word for it that 
+          you can deliver."
+ 
+     Jack takes a step closer to Lee eagerly and tells him that he is sure 
+     that he can make good. Lee nods rather ruefully and says:
+
+TITLE 98:     "Well if you don't I'm sunk, because there is 
+          only two weeks before the opening -- and 
+          Dillings will be out a bunch of jack." 
+
+     Back to scene. Jack again assures him eagerly.
+ 
+259.     MED. SHOT  GROUP
+     Mary and Dillings rejoin Jack and Lee. Mary's attitude toward Jack is so
+      friendly that Dillings looks askance at her. Mary and Jack start talking
+      about the last time they saw each other in Chicago. Dillings breaks in 
+     on the conversation. Lee looks at his watch and walks away toward the 
+     center of the stage.
+ 
+260.     CLOSE SHOT  THREE
+     Dillings turns to Mary and says that if she is ready he will take her to
+      dinner. Mary hesitates a moment, then after a quick look at Jack, she 
+     turns to Dillings and says:
+ 
+TITLE 99:     "I'm awfully sorry -- I just promised Mr. Robin 
+          I'd have dinner with him -- I want to tell him 
+          about the play."
+ 
+     Dillings looks from one to the other and, with an inarticulate grunt of 
+     disgust, he raises his hat grudgingly and stalks out of the scene. Jack 
+     stands looking at Mary dumbly. She turns and smiles at him.
+
+                                        LAP DISSOLVE INTO: 
+
+261.     INT.CAFE  CLOSE-UP
+     Jack and Mary are sitting in a corner of the cafe at a little table 
+     facing each other. Mary is talking with animation. The waiter sets down 
+     some dishes before them and exits. Mary finishes what she is saying and 
+     Jack leans forward. He says:
+ 
+TITLE 100:     "I can never -- if I live to be a million -- 
+          ever thank you, Mary, for what you have done 
+          for me."
+ 
+     Mary holds up a hand in mock severity, much in the attitude of a traffic
+      cop halting an auto. She tells him to forget it. He says that he can't 
+     and doesn't want to forget it. She is becoming embarrassed under his 
+     earnestness. Finally he reaches over and takes her hand. Her eyes look 
+     away from him. He leans over further and says half whisperingly:
+ 
+TITLE 101:     "I suppose you think I'm out of my head, but 
+          I--I'm crazy about you, Mary."
+ 
+     Mary looks up and says promptly:
+  
+TITLE 102:     "I'm crazy about you, too."
+ 
+     Jack looks at her then, a puzzled imploring look. He stammers out:
+ 
+TITLE 103:     "You don't know what I mean." 
+
+     Mary smiles and says, "What do you mean?" Jack takes a deep breath and 
+     blurts out:
+
+TITLE 104:     "I mean that I love you -- that I want to marry 
+          you."
+
+     Mary leans over. The smile leaves her face. She strokes his hand as she 
+     says quietly:
+
+TITLE 105:     "That is what I thought you meant."
+ 
+     They lean over closely, looking into each other's eyes.
+
+                                        FADE OUT
+
+     FADE IN 
+
+262.     CLOSE-UP  DILLINGS
+     The camera is behind him and takes in part of his shoulder and hand 
+     holding newspaper, without disclosing his identity.
+
+                                        DISSOLVE INTO:
+ 
+     Vignetted column section which reads as follows:
+ 
+INSERT NEWSPAPER
+ 
+          "April Follies," which will be the next musical 
+          revue on Broadway, opens tomorrow night at the 
+          Fulton with several newcomers making their bow 
+          in New York. Heading the list will be Jack 
+          Robin, recruited from vaudeville, who is 
+          expected to prove a sensation, and Mary Dale, 
+          the clever danseuse, a vaudeville headliner 
+          early this season. Robin is said to have been 
+          discovered by Miss Dale while singing in a 
+          resort in San Francisco.
+
+                                        DISSOLVE INTO:
+ 
+263.     CLOSE-UP  DILLINGS FROM FRONT
+     He is seated in a very luxuriously equipped office. He shows much 
+     annoyance at what he has read. He crumples up the paper and throws it on
+      the floor. Then he hurls his cigar into a corner of the room. He pauses 
+     a moment as though considering what to do and finally jumps to his feet.
+ 
+264.     FULL SHOT  OFFICE
+     Dillings goes quickly over to a hat tree, takes his coat and hat, and 
+     exits hastily.
+ 
+265.     INT. THEATER
+      With camera in fly gallery, unique shot may be had of chorus in action 
+     on stage in the midst of a rehearsal. Mary Dale is doing her dance with 
+     the chorus.
+ 
+266.     CLOSE-UP  MARY
+     She is seen as from the front in her dance.
+ 
+267.  FULL SHOT  STAGE FROM WINGS
+     The chorus closes in behind Mary in some evolution of the dance, as Jack
+     and another player, both in costume, come into the foreground. As the 
+     dance ends, they applaud heartily, and Lee, who has taken charge of the 
+     last few rehearsals, motions from the side, dismissing them. The girls 
+     troop off on the other side and Mary comes over to Jack.
+ 
+268.     CLOSE-UP  JACK AND MARY 
+     Jack is still applauding Mary as she, slightly out of breath from her 
+     exertions, joins him. He takes her hands and tells her what a wonderful 
+     dancer she is. Mary smiles in a deprecating manner and says:
+ 
+TITLE 106:     "But it's you who will be famous tomorrow 
+          night, Jack. It looks very much as though it 
+          were your show. They're giving you everything."
+ 
+     Jack makes a nervous, self-disparaging gesture. Then he comes closer to 
+     her and says:
+ 
+TITLE 107:     "If I'm the success all of you think I will be, 
+          I will only have you to thank."
+ 
+     Mary smiles and, without saying anything further, she presses his hand 
+     and starts out of the scene toward her dressing room.
+ 
+269.     FULL SHOT  STAGE
+     As Mary leaves him, Jack turns around to look after her. He hesitates, 
+     however, as he sees Lee and Randolph Dillings, a few steps away, follow 
+     the girl with their eyes, then turn and look at him. Jack starts toward 
+     them, then, seeing that they start talking earnestly together, he turns 
+     the other way as though to go over on the other side of the stage. He 
+     goes to the piano downstage.
+ 
+270.     CLOSE-UP  LEE AND DILLINGS
+     Dillings has finished saying something to him as Lee's jaw drops. He 
+     looks at him in surprise and blurts out:
+ 
+TITLE 108:     "You don't mean you'd take your money out of 
+          the show the last minute?"
+ 
+     Back to scene. Dillings nods firmly. Lee demands to know the reason for 
+     this sudden determination. Dillings points in the direction of Mary's 
+     room and then to Jack. He says:
+ 
+TITLE 109:     "Just the idea of Mary's interest in this jazz 
+          singer of yours."
+ 
+     Back to scene. Lee starts to argue with Dillings, telling him that it is
+      nothing serious. Dillings, however, has guessed the true state of 
+     affairs. He adds:
+ 
+TITLE 110:     "I have no further interest in her career. Just 
+          mail me a check today."
+ 
+     He starts to leave.
+ 
+271.     FULL SHOT  STAGE
+     As Dillings leaves, Lee follows him, still eagerly trying to explain 
+     that there is nothing between the two principals of the show. Just as he
+     is about to exit, Mary comes from her dressing room and almost collides 
+     with him. Lee rushes up to them and takes Dillings's arm. Jack, who is 
+     at the piano, sees Mary and starts across stage toward the group.               
+
+272.     MED. SHOT  GROUP
+     Mary takes Dillings's arm, and he stops his progress somewhat 
+     unwillingly. It is evident that he wishes to avoid a scene with Mary. 
+     Before she can say anything, however, Lee says to Mary:
+ 
+TITLE 111:     "He's taking his money out of the show on account of Jack."
+ 
+     Dillings is growing more embarrassed. Mary looks at Lee, then at 
+     Dillings, not understanding at first. Then she realizes the true 
+     situation. She looks at Lee.
+ 
+273.     CLOSE-UP  MARY AND LEE
+     She smiles quietly and says to Lee:
+
+TITLE 112:     "I suppose you would like to have me say that 
+          I only regard Jack as a fellow performer."
+ 
+     Lee nods eagerly. The smile does not leave Mary's face. She turns away 
+     from Lee.
+ 
+274.     CLOSE-UP OF THREE
+     As Lee leans closer to hear her answer, Mary says to Dillings:
+ 
+TITLE 113:     "Well, I'm sorry that I cannot -- or perhaps it 
+          would be better to say that I am glad."
+ 
+     Dillings nods in quiet acquiescence. Lee looks crestfallen. Mary puts a 
+     hand affectionately on Lee's arm.
+
+275.   MED. SHOT  GROUP     
+     Dillings is raising his hat as he endeavors again to leave, just as Jack
+      comes into the scene. Jack goes up to Dillings and says "how do you do" 
+     to him. The latter gives him a cold look of nonrecognition, bows again 
+     stiffly to the other two, and exits, Jack looking after him in mock 
+     dismay.
+
+276.     CLOSE-UP  JACK 
+     He looks at the other two and says ruefully:
+ 
+TITLE 114:     "I just got a hunch that he don't like me -- 
+          maybe he thinks I wear these clothes on the 
+          street."
+
+     He looks down at his trick suit.
+ 
+277.     CLOSE SHOT  THREE
+     Mary and Lee laugh at this sally, and as Jack joins them, Mary looks up 
+     at Lee, her hand on his arm:
+ 
+278.     CLOSE-UP  MARY
+     She says to Lee:
+ 
+TITLE 115:     "Does it mean that you are going to be in a fix 
+          for money?"
+ 
+279.     CLOSE-UP  THREE
+     Lee pats the girl's hand. He hesitates, then says, "Oh, I'm always in a 
+     fix for money." Mary is too much in earnest, however, to accept this 
+     light dismissal of his difficulty. She looks up at him and says:
+ 
+TITLE 116:     "If you need it, Mr. Lee, I have a few thousand 
+          in the savings bank, and--"
+ 
+     Lee stops her, telling her that she is a good kid and how much he 
+     appreciates her offer, but he'll worry through all right. Jack is about 
+     to say something, when the stage doorkeeper enters and addresses him. 
+     Lee mops his brow in his nervousness and starts away from group. Mary 
+     looks after him, reflecting his worry.
+ 
+280.     CLOSE-UP  JACK AND DOORMAN
+     He is telling Jack that there is a caller for him. Jack asks again what 
+     the name is. The doorman says:
+ 
+TITLE 117:     "Says his name is Bugelson, or something like 
+          that, and he knew you when ... " 
+
+     Jack breaks in on him, his face lighting up. He tells the doorkeeper to 
+     show the man in. The doorman leaves.
+ 
+281.     FULL SHOT  STAGE
+     The chorus girls are trooping out on the stage from all sides for 
+     another number when Yudelson is seen entering from the outer entrance.
+      He looks around puzzled, as he would be on a first visit to such a 
+     place. He stops and looks around him, puzzled by the strange 
+     surroundings.
+ 
+282.     CLOSE-UP  YUDELSON
+     He is dressed in his best Shabbas suit as befits the business head of a 
+     prosperous congregation as well as a successful broker. He looks around 
+     in a dazed way and his eyes fall on the girls of the chorus. He has 
+     never seen that many bare knees in his life and his eyes bulge. He 
+     starts in the direction of the stage where the girls are congregating, 
+     in the manner of a man under a hypnotic spell.
+
+283.     MED. SHOT  JACK
+     Jack, who has been talking to Mary, spies Yudelson and starts toward 
+     him. Mary goes to the stage opening.
+ 
+284.     CLOSE-UP  GROUP OF GIRLS
+     One of the girls in the center of the group is doing some high kicks and
+      the others are critically viewing her efforts.
+ 
+285.     MED. SHOT  STAGE
+     Yudelson walks right out on the stage where the girls are grouped, his 
+     eyes fixed on the kicker's legs. Jack comes up to him and takes his arm,
+      and Yudelson comes out of his trance.
+ 
+286.     CLOSE-UP  YUDELSON AND JACK  
+     Yudelson exclaims with pleasure as Jack takes his hand and shakes it, 
+     although he is still puzzled at Jack's appearance. He shakes his head as
+      he sees the changes that the years have wrought in the boy. He points to
+      the door and says:
+ 
+TITLE 118:     "He didn't know who I mean by Jake Rabinowitz 
+          -- I forget your mama told me you are now Jakie 
+          Robin."
+ 
+     Jack laughs and takes Yudelson's arm to walk him off the stage.
+ 
+287.     FULL SHOT  STAGE
+     As Jack and Yudelson walk toward camera, Lee calls for the rehearsal of
+     another number and the girls start taking their positions. Yudelson, now
+      in the immediate foreground, turns around to get another look. Jack, 
+     laughing, turns him back the other way, telling him that he's liable to 
+     lose an eye if he doesn't look out. Yudelson pulls himself together. He 
+     turns to Jack seriously as both stop just clear of the stage.
+ 
+288.     CLOSE-UP  BOTH
+     Yudelson tells Jack he has an important message for him. Jack looks at 
+     him, a question in his eyes. Yudelson says:
+ 
+TITLE 119:     "Tomorrow it is Yom Kippur and we want you 
+          should sing 'Kol Nidre' in the temple."
+ 
+     Jack looks at him in astonishment as Yudelson keeps talking about the 
+     meeting of the committee and how he had held out for Jack, who looks at 
+     him in surprise. He tries to interrupt several times but Yudelson 
+     rattles on. Finally Jack takes his arm and stops him, asking what it's 
+     all about. He says:
+
+TITLE 120:     "But what's the matter with my father singing, 
+          Mr. Yudelson?"
+ 
+     Yudelson looks surprised, then says: "I forgot to tell you, your papa is
+      sick." Jack is alarmed at this. He asks how long he has been sick and if
+     his illness is serious. Yudelson says:
+
+TITLE 121:     "It's been two weeks -- since the day you was 
+          there -- and he's got a good doctor -- Dr. 
+          O'Shaughnessy from the Rockefeller Institute."
+
+     Jack looks thoughtful.
+
+289.     CLOSE-UP  JACK
+     He is saying to himself: "Two weeks -- since the day I was there."
+ 
+290.     CLOSE-UP  BOTH
+     Jack looks at Yudelson as though weighing his request. Yudelson 
+     continues with his arguments, saying that some of the committee were 
+     against it, but he insisted because they all owed him money. As a final 
+     argument he says to Jack, eagerly:
+ 
+TITLE 122:     "It would be a fine surprise for your papa if 
+          you sing."
+ 
+     Jack shakes his head slowly. He says, "But he threw me out of the house 
+     only two weeks ago." Yudelson nods and replies:
+ 
+TITLE 123:     "Sure, he threw you out but a son's a son no 
+          matter if he is thrown out twenty times by his 
+          papa."
+ 
+     Back to scene. Jack smiles at Yudelson's eagerness to overcome his 
+     objections. He looks toward the stage, then turns to the old man, 
+     shaking his head as he says, with an air of finality:
+ 
+TITLE 124:     "But, Mr. Yudelson, our show opens tomorrow 
+          night -- it's the chance I've dreamed of for 
+          years -- I can't do what you ask."
+ 
+     Yudelson shrugs his shoulders hopelessly and starts to turn.
+ 
+291.     MED. SHOT  SAME
+     As Yudelson turns, Mary comes into scene. Yudelson pauses and looks at 
+     her. Jack, somewhat embarrassed as Mary looks from him to Yudelson, 
+     introduces them. Yudelson gives her an admiring look. He gives Jack a 
+     look of approval as though personally complimenting him on his good 
+     taste. Realizing instinctively that the girl has some influence with 
+     Jack, he tries to prevail on her to persuade Jack to do what he wants.
+ 
+292.     CLOSE-UP  THREE
+     Mary looks at Yudelson, then at Jack. The latter explains the situation.
+      Mary looks at Yudelson, full of sympathy but unable to help him. She 
+     shakes her head as she tells him the impossibility of his wish coming 
+     true. Yudelson shakes hands with Jack, then with Mary and turns to 
+     leave.
+ 
+293.     MED. SHOT  SAME 
+     As Yudelson walks slowly away, Lee comes into the scene. He pauses and 
+     looks toward the stage.
+
+294.     CLOSE-UP  LEE
+     He yells to the girls:
+ 
+TITLE 125:     "Remember, dress rehearsal at two tomorrow -- 
+          and I don't want anyone drifting in at five 
+          after two."
+ 
+     He turns to the others.
+ 
+295.     CLOSE-UP  JACK AND MARY
+     Jack is on the verge of tears and Mary pats his shoulder softly.
+
+                                        FADE OUT
+ 
+     FADE IN 
+
+296.     LIVING ROOM  CANTOR'S HOME
+     Yudelson is sitting in a rocking chair reading a Yiddish newspaper. Mrs.
+      Rubin is using a broom on the floor. She comes over to Yudelson and 
+     starts to talk with him.
+ 
+297.     CLOSE-UP  BOTH 
+     The woman points to the bedroom door and asks Yudelson if he thinks the 
+     cantor will recover. Yudelson affects a facetious manner in order to 
+     cover up his grief. He says, flippantly:
+ 
+TITLE 126:     "Am I a doctor or a riddle guesser you should 
+          ask me such questions? I am worrying now about 
+          who sings 'Kol Nidre' when Yom Kippur begins 
+          tonight."
+ 
+298.     MED. SHOT  SAME 
+     Mrs. Rubin shakes her head sadly and continues her work. Seeing that he 
+     is not observed, Yudelson takes out his handkerchief surreptitiously and
+      gives his eyes a furtive wipe. He looks toward the bedroom door in the 
+     background as it opens, and a young woman in nurse's garb comes into the
+      room. Yudelson gets up and rushes to her with a question as to how the 
+     cantor is getting along. She shakes her head, and Yudelson drops into 
+     the chair as the nurse proceeds to the kitchen.
+ 
+299.     INT. BEDROOM  FULL SHOT 
+     Cantor Rabinowitz, pale and emaciated, is lying helplessly on the bed. 
+     His eyes are open and are fixed on the figure of Sara who is busying 
+     herself about the room. He motions feebly to her, and she hastens over 
+     to his side. She sits in the chair at the bedside and leans over closely
+      to hear what he has to say, gently stroking his hand which she has 
+     taken.
+ 
+300.     CLOSE-UP  CANTOR AND WIFE
+     He asks her to lean closer and as she does he starts to whisper to her.
+ 
+301.     CLOSE-UP  CANTOR
+     He looks at his wife pathetically. He says hesitatingly:
+ 
+TITLE 127:     "It's Yom Kippur tonight -- the  first time in 
+          forty-five years I didn't sing in the temple."
+ 
+302.     CLOSE-UP  BOTH
+     Sara pats his hand soothingly and tells him not to worry about that --
+     that he will be well sooner if he doesn't worry. His eyes are in the 
+     past, however, and he is not listening to her. He continues:
+ 
+TITLE 128:     "It will be the first time in five generations 
+          a Rabinowitz has not sung on the Day of 
+          Atonement."
+ 
+     He closes his eyes as he says this and is silent for awhile. Sara 
+     continues stroking his hand.
+ 
+303.     MED. SHOT  LIVING ROOM 
+     Mrs. Rubin is again talking to Yudelson. He is trying to get her to quit
+      talking.
+ 
+304.     CLOSE-UP  BOTH
+     She leans over and, undismayed by his manner, she asks with many 
+     gestures:
+ 
+TITLE 129:     "But who will sing tonight in the cantor's 
+          place?"
+ 
+     Yudelson makes a gesture of repulsion. He waves her away with:
+ 
+TITLE 130:     "You should let me worry about that -- I am the 
+          chairman."
+ 
+     He tries to read again. She asks him why they don't get Jakie back. He 
+     ignores her and says:
+ 
+TITLE 131:     "Anyhow, it won't be that croaker Levy who will 
+          sing."
+ 
+305.     FULL SHOT ROOM
+     Mrs. Rubin hears a ring at the door and hurries to the entrance. 
+     Yudelson gets up as Dr. O'Shaughnessy enters. He is a big husky, grey-
+     haired Irishman, and he greets the two of them heartily, as one would 
+     very old friends.
+ 
+306.     INT.BEDROOM  CLOSE-UP
+     The cantor still has his eyes closed, and Sara is stroking his forehead.
+      Without opening his eyes, he reaches up and puts his withered old hand 
+     on that of hers. He opens his eyes and smiles wanly at her. Then he 
+     says:
+ 
+TITLE 132:     "I been dreaming Jakie came back to sing 'Kol 
+          Nidre'--"
+ 
+307.     CLOSE-UP  CANTOR 
+     He pauses a moment, then continues:
+ 
+TITLE 133:     "Maybe God would forgive him -- if he would 
+          come tonight and sing."
+ 
+     He closes his eyes.
+ 
+308.     CLOSE-UP  BOTH
+     Sara looks startled as the idea comes into her mind of getting Jakie. 
+     She removes her hand and looks down to measure the possible effect of 
+     her departure.
+ 
+309.     FULL SHOT  ROOM 
+     As Sara is nervously considering her next step, the door opens and the 
+     doctor enters, solving Sara's problem for the moment. She tells the 
+     cantor that the doctor is here and that she will go away for a little 
+     while. The nurse follows the doctor into the room and Sara exits.
+ 
+310.     INT. LIVING ROOM
+     As Sara enters, she goes hurriedly to Yudelson. Mrs. Rubin comes over 
+     hastily in fear of losing a word.
+ 
+311.     CLOSE-UP  GROUP
+     Sara tells Yudelson that she is going to get Jakie. The latter tells her
+      it's no use, but she is insistent, and he agrees to go along. Sara tells
+      Mrs. Rubin to remain there until they return.
+ 
+312.     INT.BEDROOM  MED. SHOT
+     The doctor is leaning over the sick man, listening to his heart with a 
+     stethoscope. The cantor's eyes are closed. The nurse stands at the side 
+     of the doctor. He raises up, folds the stethoscope, and looks at the 
+     nurse. They exchange a look which both understand as leaving little hope
+      for the life of the cantor.
+
+                                        FADE OUT
+ 
+
+     FADE IN 
+
+313.     THEATER STAGE FROM FRONT
+     The orchestra is in the foreground, and the curtain is down. In the 
+     immediate foreground are empty seats in the first few rows of the house,
+      and several men with hats on are sitting down front. Lee is among them. 
+     He calls out something, and the orchestra starts to play the curtain 
+     music. (This may be Vitaphoned with good effect.)
+ 
+314.     CLOSE-UP  LEE AND OTHER MAN
+     The man with him is a typical businessman of Hebraic type -- the sort 
+     that one finds financing shows on Broadway. Lee turns to him and says:
+ 
+TITLE 134:     "A dress rehearsal isn't the easiest thing on 
+          the nerves."
+
+     The other man nods sympathetically. He replies:
+ 
+TITLE 135:     "If that new jazz singer is what you say he is
+          -- we've got nothing to worry about."
+ 
+315.     FULL SHOT  STAGE FROM FRONT
+     The men are in the foreground as before, and Lee nods anxiously as the 
+     other man finishes the title. The orchestra gives a signal and the 
+     curtain goes up, showing the line of girls across the stage for their 
+     first number. (This should be Vitaphoned and the volume cut down to a 
+     minimum when we cut to the following scenes in the dressing room.)
+ 
+316.      INT. JACK'S DRESSING ROOM
+     Jack is dressed and is just beginning to put on his facial make-up when 
+     Mary enters. She pirouettes before him and pouts as he evinces only a 
+     slight interest in her. She stops and goes over to him.
+ 
+317.     CLOSE-UP  JACK AND MARY
+     Mary puts a hand on Jack's shoulder and, pointing to her costume, as he 
+     turns around, says to him:
+ 
+TITLE 136:     "You haven't said a word about my nice new 
+          costume for the first dance."
+ 
+     Back. Jack gives himself a mental dig and assumes an air of much 
+     interest. Mary, however, has lost her interest in Jack's reactions to 
+     her appearance by this time. She realizes that Jack is worried about his
+      father. She asks him if that is what is worrying him. Jack shakes his 
+     head. He says:
+ 
+TITLE 137:     "No, I have only one thing on my mind now -- 
+          the opening tonight."
+ 
+     He turns to his make-up. Mary shakes her head. She knows that the other 
+     matter is worrying him more than that. Jack starts to blacken his face.
+ 
+318.     LONG SHOT  STAGE
+     This is a shot downward from fly gallery, showing one of the ensemble 
+     dance numbers in progress, just as it would be were the performance 
+     really on. The chorus falls back and two adagio dancers come on.
+ 
+319.     MED. SHOT  STAGE FROM FRONT
+     The adagio dancers do a part of their routine.
+ 
+320.     CLOSE-UP  DRESSING ROOM
+     Jack has just about completed his make-up. Mary is sitting on a chair a 
+     short distance away. They are talking as Jack puts the finishing touches
+      to his make-up, the enlarging of the lips. Mary leans over.
+
+321.     CLOSE-UP  BOTH
+     Mary asks him just what Yudelson wanted of him. Jack explains about the 
+     age-old customs, which mark the observation of Yom Kippur. Mary nods as 
+     he explains. She says:
+ 
+TITLE 138:     "And they want you to sing tonight in his place?"
+ 
+     Back. Jack nods. He throws out his hands in an eloquent gesture as he 
+     tells her how hopeless it is. He adds as he leans over earnestly:
+ 
+TITLE 139:     "I don't really belong there -- here's where I 
+          belong, on Broadway, but there's something in 
+          the blood that sort of calls you -- something 
+          apart from this life."
+ 
+     Mary nods understandingly. She says:
+ 
+TITLE 140:     "I think I understand, Jack. But no matter how 
+          strong the call, this is your life."
+ 
+322.     MED. SHOT  SAME
+     Jack nods and gets up. He inspects his make-up in the glass closely. 
+     Mary looks at herself in the long glass at the other side of the room as
+      the stage doortender enters. He pauses in the door and, as Jack sees 
+     him, he tells Jack that there is someone at the door to see him.
+ 
+323.     CLOSE-UP  DOORTENDER 
+     He says apologetically:
+ 
+TITLE 141:     "It's the old bird who was here yesterday -- 
+          and he's got a lady with him."
+ 
+324.     FULL SHOT  ROOM
+     Jack stands and stares at him. Mary starts for the door saying that she 
+     will leave. Jack motions to her to remain.
+ 
+325.     LONG SHOT  TOWARD DOOR 
+     Before the old doorman can turn, Yudelson enters, followed by Sara. She 
+     is wearing a shawl over her housedress, just as she left in her haste. 
+     As Jack sees her he goes rapidly toward her, crying, "Mama! " She stands
+      and looks at him in a puzzled way. He goes up and takes her hands in 
+     his. He starts to kiss her, then remembers her [sic] make-up. Sara holds
+      him off as Yudelson comes up to them, looking at Jack in a puzzled 
+     manner.
+ 
+326.     CLOSE-UP  THREE
+     Sara looks at Jack, eager though puzzled, and says:
+ 
+TITLE 142:     "Jakie, this ain't you ..."
+ 
+     Yudelson adds:
+ 
+TITLE 143:     "It talks like Jakie, but it looks like a 
+          nigger."
+ 
+     Sara waves Yudelson aside, telling Jack that she has something to ask 
+     him. Jack asks her to sit down, and he sits down opposite her. She 
+     starts pouring out her grief in an uninterrupted flow of words.
+ 
+327.     FULL SHOT  ROOM
+     Mary is standing in the doorway, in the foreground. She looks intently 
+     from the mother to her son, her gaze resting on him to see, if possible,
+      what the results of this visit will be. Then she turns slowly and leaves
+      them, a worried frown on her face.
+ 
+328.     CLOSE-UP  MOTHER AND SON 
+     He is leaning close as she talks. He tries to interrupt her with a 
+     hopeless gesture, but she motions to him to listen to her. She 
+     continues:
+
+TITLE 144:     "For generations God has heard a Rabinowitz 
+          sing every Day of Atonement ..." 
+
+     She pauses for a breath and adds:
+ 
+TITLE 115:     "Maybe your papa is dying. God will ask him and 
+          he will have to tell him his only son is 
+          singing in a theayter instead ... "
+ 
+     She leans over closer and pleads with him.
+ 
+329.     CLOSE-UP  YUDELSON
+     He leans over and adds his argument:
+ 
+TITLE 146:     "And if you don't come, there is only Levy the 
+          Shammas to sing -- with a voice like a frog."
+ 
+     He gives a gesture of disgust.
+ 
+330.     CLOSE-UP   MOTHER AND SON 
+     Jack takes her hand tenderly and tells her that what she asks is 
+     impossible, that they're all depending on him -- that this is the one 
+     big chance of his life. Fame and fortune will be his if he succeeds. He 
+     adds:
+ 
+TITLE 147:     "And that's what you are asking me to give up."
+
+     He gives her a pleading look.
+ 
+331.     FULL SHOT  ROOM
+     Gene, the stage manager, comes to the door and summons Jack. He starts 
+     to get up and Sara clings to him. Mary enters again, worried about Jack.
+
+332.     CLOSE-UP   GENE
+     He says to Jack that the orchestra is already playing his introduction.
+ 
+333.     CLOSE-UP  JACK AND MOTHER 
+     He unfastens her hands gently from him. He tells her that he must go on 
+     the stage and tells her to wait.
+ 
+334.     MED. SHOT  ROOM 
+     Jack starts out of the room with his mother's last plea ringing in his 
+     ears. Mary goes to her and puts her arm around her. Yudelson follows 
+     Jack out curiously.
+ 
+335.     FULL SHOT  STAGE FROM FRONT 
+     The chorus is lined up looking toward entrance at which Jack is 
+     expected. The orchestra is playing the introduction to his song as he 
+     enters. He speaks the few lines which serve as an introduction to his 
+     song and then begins singing it.
+ 
+     NOTE: The rendition of the song will have to be governed entirely by the
+      Vitaphone routine decided upon. The scenes herewith are only those 
+     necessary to carrying on the story. In all scenes before he exits, the 
+     voice of Jack is heard in volume according to the distance from him.
+
+336.     CLOSE-UP  JACK
+     He goes into the first bars of his song.
+ 
+337.     MED. SHOT  OUTSIDE ROOM
+     Yudelson and Sara are watching through the wings, but back in the 
+     passage leading to the outside door. Mary asks Mrs. Rabinowitz if she 
+     doesn't want to go closer. She points to the stage but the mother shakes
+     her head.
+ 
+338.     CLOSE-UP YUDELSON 
+     He is listening, an ear cocked stageward. He nods as he says, half to 
+     himself:
+
+TITLE 148:     "Yes, that's Jakie -- with the cry in the 
+          voice, just like in the temple." 
+
+     He looks away hurriedly.
+  
+339.     MED. SHOT  YUDELSON
+     Two girls in very scant attire make him forget Jack for the moment as 
+     they pass close to him. He looks after them in a daze and starts to 
+     follow them.
+ 
+340.     FULL SHOT  PASSAGE 
+     Mary still has an arm around Sara. The latter, overcome by emotion, 
+     starts for the door. Mary tries to hold her because of Jack.
+ 
+341.     CLOSE-UP  BOTH
+     As Mary endeavors to persuade Sara to remain, Sara tearfully says that 
+     she must go. She turns to Mary and says, hopelessly:
+ 
+TITLE 149:     "Here he belongs -- If God wanted him in His 
+          house, He would have kept him there." 
+
+     Mary nods understandingly. Sara starts for the door.
+ 
+342.      FULL SHOT  SAME
+     Mary starts with Sara. Yudelson suddenly sees them going toward the 
+     door. He looks after the two girls who had attracted his attention, as 
+     though not knowing which to follow, then reluctantly follows Sara. In 
+     the doorway Mary leans over and kisses Sara. The latter grasps the 
+     girl's arms eagerly.
+ 
+343.     CLOSE-UP  MARY AND SARA 
+     The mother says to her:
+ 
+TITLE 150:     "Tell him maybe he can see his papa anyhow 
+          before it is too late."
+ 
+     Mary nods and Sara exits. Mary looks after her sorrowfully.
+ 
+344.     MED. SHOT  STAGE
+     Jack is singing.
+ 
+345.     CLOSE-UP  LEE AND GENE
+     They are standing in the wings. They look at each other in speechless 
+     admiration of Jack's singing.
+ 
+346.     LONG SHOT  THROUGH WINGS 
+     Jack finishes song and makes exit. As he comes into foreground, he is 
+     surrounded by Lee, Gene, Mary, and several of the other principals. They
+      grab his hands and congratulate him. He smiles gratefully.
+ 
+347.     CLOSE-UP  JACK AND LEE 
+     The latter is enthusiastically pumping Jack's hand as he says:
+ 
+TITLE 151:     "Wonderful, Jack!! You were actually crying. Do 
+          it that way tonight and you're a hit on 
+          Broadway!"
+ 
+     He drops Jack's hands and turns to Gene with instructions for the next 
+     act.
+ 
+348.     MED. SHOT  OUTSIDE DRESSING ROOM
+     Those surrounding Jack fall away from him as Mary goes to him. She takes
+      his hand and shakes it. She pantomimes that his mother has gone. Then 
+     she turns and leaves. Jack wipes a white glove across his eyes, leaving 
+     a white streak on his damp face. He comes slowly toward the camera and 
+     enters the door of his dressing room.
+ 
+349.     MED. SHOT  ROOM
+     Jack goes slowly to one of the chairs in the room, drops heavily into 
+     it, and then leans over and puts his blackened face into the white 
+     gloves.
+
+                                        SLOW FADE OUT
+ 
+     FADE IN 
+
+350.     CHOIR ROOM SYNAGOGUE
+     Yudelson is presiding at a meeting of the synagogue trustees. He is 
+     seated at the head of the little cheap table with a very important air. 
+     There are four others, all in their holiday clothes. One is Levy, the 
+     Shammas, or sexton, a little scrawny fellow with a straggling beard. Two
+      others have the long orthodox beards, and the fifth member of the 
+     committee is clean-shaven, a prosperous Jewish businessman. Yudelson 
+     says something and they all start talking at once. Levy finally attracts
+      the attention of Yudelson. He gets up and tries to speak. Yudelson 
+     endeavors to quiet him, but Levy is insistent.
+
+351.      CLOSE-UP  LEVY
+     He holds out both hands pleadingly, as he says:
+ 
+TITLE 152:     "Gentlemen, I think it should be me who should
+          sing in the cantor's place. I--"
+ 
+352.     CLOSE SHOT  TABLE 
+     Yudelson interrupts him, pounding on the table and ordering him to sit 
+     down. He insists that he is chairman and must be listened to.
+ 
+353.     CLOSE-UP  YUDELSON
+     He yells out at Levy:
+ 
+TITLE 153:     "Do you think, schlemiel, our congregation paid 
+          for special music to hear you squawking like a 
+          tomcat yet?"
+ 
+     He glares at Levy.
+ 
+354.     CLOSE SHOT  GROUP 
+     Levy subsides with a beaten gesture. His lifelong wish to sing "Kol 
+     Nidre" has been dashed to the ground. Yudelson continues rubbing it in.
+ 
+355.     CLOSE-UP  YUDELSON
+     He says, still glaring at Levy and desiring to rub it in:
+ 
+TITLE 154:     "Our beloved cantor is very sick next door -- 
+          if he hears you singing, he dies sure."
+ 
+356.     CLOSE SHOT  GROUP
+     They all start arguing, and Yudelson takes out his watch and tells the 
+     committee that the meeting is over. They surround him and bombard him 
+     with questions as to who is going to sing. He throws up his hands 
+     hopelessly and starts out of the door, just as the boys of the choir 
+     start arriving.
+ 
+357.     RABINOWITZ LIVING ROOM 
+     Sara is sitting in the rocking chair, rocking slowly back and forth. Her
+      eyes are swollen with crying. Her grief has reached the bottom-most 
+     depths. Every few moments she looks toward the bedroom door as though 
+     expecting some message from the sick chamber.
+ 
+358.     CLOSE-UP  SARA
+     As she rocks slowly. She looks toward the bedroom, then suddenly wipes 
+     her eyes and gets up.
+ 
+359.     FULL SHOT  ROOM
+     The nurse is just coming out of the door. Sara goes toward her, but the 
+     nurse motions for silence as Sara reaches her side.
+ 
+360.     CLOSE-UP  NURSE AND SARA 
+     The nurse whispers to her:
+
+TITLE 155:     "He's asleep."
+ 
+     Sara turns to resume her chair as the nurse goes toward the kitchen.
+
+361.     EXT. HOUSE
+     A taxicab drives up quickly, and before it stops Jack is out of the 
+     door. He pays the driver and dashes up the steps. Jack is dressed for 
+     the street in well-tailored but quietly styled clothes. He rings the 
+     bell.
+ 
+362.     CLOSE-UP  AT DOOR
+     The door is opened and Sara appears. She looks at Jack in surprise, then
+      throws her arms around him saying: 
+
+TITLE 156:     "You come to sing, Jakie? You come to sing?"
+
+     Jack shakes his head saying, "I come to see Papa." They go into the 
+     house.
+ 
+363.     EXT. SYNAGOGUE
+     The doors are open and there is a steady stream of people entering, 
+     Jews, old and young, bearded and clean-shaven, women in shawls and 
+     stylish street attire. Occasionally a fine automobile drives up and a 
+     prosperous family gets out, while the liveried chauffeur holds open the 
+     door. Yom Kippur is about to begin, the one holiday of the year when 
+     even the least orthodox Jews think of their religion. It is approaching 
+     sundown and the sinking orb is casting long shadows into the East Side 
+     street.
+ 
+364.      INT.HOUSE  FULL SHOT  LIVING ROOM
+     Jack and his mother are standing in the middle of the floor, talking to 
+     the nurse. The nurse is shaking her head.
+ 
+365.      CLOSE SHOT  GROUP
+     The nurse says as she shakes her head that Dr. O'Shaughnessy would not 
+     want the sick man's sleep disturbed. Jack pleads with her.
+ 
+366.     CLOSE-UP  JACK
+     He takes the nurse's arm pleadingly and says: 
+
+TITLE 157:     "I'll be awful quiet -- I just want to look at 
+          him."
+ 
+367.     CLOSE-UP  GROUP 
+     The nurse finally succumbs to Jack's eloquent pleading and starts over 
+     toward the bedroom door, followed by Jack and his mother.
+
+368.     MED. SHOT  GROUP
+     They reach the door. The nurse cautions Jack to be very quiet as she 
+     slowly opens the door. She motions for Sara to remain behind. Sara 
+     bursts into tears as she turns away. Jack enters and the nurse closes 
+     the door softly behind him.
+
+369.     FULL SHOT  BEDROOM
+     The old cantor is lying with his eyes closed as Jack enters on tiptoe. 
+     He walks very quietly over to the bed where he stands for a moment, then
+      he drops down to his knees beside the bed and gives way to his grief.
+ 
+370.     CLOSE-UP  JACK AND CANTOR 
+     Jack, with eyes streaming, puts out a hand to touch that of his father, 
+     then, fearing that he will wake him with serious results, he withdraws 
+     his hand. His shoulders are shaking convulsively with suppressed sobs, 
+     and he suddenly buries his face in his hands, which are resting on the 
+     bed. The old man's eyelids flutter for a moment. His eyes slowly open 
+     and he looks over and sees the bowed head of his son.
+ 
+371.     CLOSE-UP  CANTOR 
+     There is just the faintest flicker of a smile on the wan face of the 
+     dying man. With an effort he slowly moves his hand over until it rests 
+     on Jack's head in an unspoken blessing. Jack's hands come up and grasp 
+     that of his father.
+ 
+372.     CLOSE-UP  JACK AND FATHER
+     With a sudden impulsive gesture Jack grasps the hand of his father and 
+     kisses it. Then the old man's eyes close and Jack looks suddenly around 
+     to the door.
+
+373.     CLOSE-UP  NURSE AT DOOR 
+     She is motioning for Jack to come out. As she does, the figure of the 
+     doctor appears behind her.
+
+374.     FULL SHOT  ROOM  
+     As the doctor enters, Jack goes to the door. He grasps the doctor's hand
+      and the doctor greets him heartily, though quietly. Jack points to the 
+     bed in mute inquiry. The doctor says, quietly: "I'm afraid not." He goes
+      toward the bed and Jack with streaming eyes starts slowly out of the 
+     room.
+ 
+375.     EXT. HOUSE
+     It is now almost dark and lights are beginning to flicker. A taxicab 
+     drives up hurriedly and Mary and Lee get out of it. Lee tells the driver
+      to wait for them. Mary by this time is looking at the number to verify 
+     the place. They hurry up the steps and Mary rings the bell.
+ 
+376.     INT. LIVING ROOM  FULL SHOT
+     Yudelson and Mrs. Rabinowitz are standing at the door of the bedroom as 
+     the bell rings. Sara tells Yudelson to go to the door. As he starts for 
+     it, the door of the bedroom opens and Jack, wiping his eyes, comes 
+     slowly out and into his mother's arms.
+ 
+377.     MED. SHOT  AT DOOR 
+     Yudelson admits Mary and Lee. They both ask at once for Jack, and as 
+     they see him they go quickly toward him.
+ 
+378.     CLOSE-UP  JACK AND MOTHER
+     Jack's attention is attracted by the newcomers. He looks at them in 
+     surprise and half pushes his mother away to greet them. He is still in a
+      daze but realizes the nature of their mission.
+ 
+379.     MED. SHOT  GROUP
+     Mary and Lee each take one of Jack's hands and ply him with questions as
+      to what he is going to do. Yudelson and Sara exchange significant 
+     glances.
+ 
+380.     CLOSE-UP  DOOR
+     Levy the Shammas enters hurriedly.                                                 
+ 
+381.     FULL SHOT  ROOM
+     Levy enters and goes quickly to Yudelson. He tells him that the 
+     congregation is waiting for the services to begin and suggests that he 
+     be designated to sing.
+ 
+382.     CLOSE-UP  TWO MEN
+     Yudelson greets this suggestion angrily. He yells at Levy: 
+
+TITLE 158:     "You don't sing -- even if I got to do it 
+          myself."
+ 
+     Back. In a crestfallen manner, Levy retires. Yudelson stands and looks 
+     at the others speculatively. Then a determined look comes over his 
+     features.
+ 
+383.     FULL SHOT  ROOM
+     As Jack argues with Lee and Mary, Sara enters the group. She begs Jack 
+     to sing, for the sake of his father. Yudelson walks to the side of the 
+     room and takes the cantor's praying shawl and skull cap which are 
+     hanging up. He carries them over to Jack and holds them in front of him.
+
+384.     CLOSE SHOT GROUP 
+     With Yudelson and his mother on one side and Lee and Mary on the other, 
+     Jack is besieged by the old life and the new, filial duty against his 
+     life's ambition, the past against the future. He stands staring from one
+      to the other.
+ 
+385.     CLOSE-UP LEE 
+     He holds out his hands appealingly. He says:
+ 
+TITLE 159:     "You can't throw away this one great chance, 
+          Jack -- the house sold out -- and it will ruin 
+          me too! "
+ 
+     He looks to Mary for help.
+
+386.     CLOSE SHOT  GROUP
+     Mary adds her entreaties to those of Lee, while Sara takes the shawl and
+      cap from Yudelson and holds them out to Jack mutely. Jack looks slowly 
+     from Mary to mother, then he stares ahead as though trying to pierce the
+      curtain of the future.
+
+                                        FADE OUT
+
+     FADE IN
+
+387.     THEATER LOBBY  NIGHT
+     People in evening clothes are passing into the brilliantly lighted 
+     lobby. There is a line at the box office. In the center of the lobby are
+      two large easels containing photographs. Several persons pause before 
+     them.
+
+388.     CLOSE-UP  EASELS
+     One of the easels contains a full-length portrait of Mary Dale in ballet
+      costume and the other a full-length portrait of Jack Robin in blackface.
+      There is a couple standing beside it, and the man says to the woman that
+      this fellow will be the hit of the town. They pass in.
+ 
+389.     MED. SHOT  LOBBY
+     The people are still passing into the lobby.
+ 
+                                        DISSOLVE INTO:
+ 
+###.     INT. THEATER
+     It is a shot from about the center of the audience showing the front 
+     part of the house filled with people in evening dress. Several late 
+     arrivals enter. The orchestra has presumably just finished the overture 
+     when a man in tuxedo steps from behind the curtain at one side of the 
+     stage. He walks onto the apron and starts making an announcement.
+ 
+390.     CLOSE-UP  MAN 
+     He says that he regrets to announce that because of some unforeseen 
+     occurrence, the plans for opening the "April Follies" have had to be 
+     changed at the last moment, and he adds:
+
+TITLE 160:     "The unfortunate accident to our chief 
+          comedian, Mr. Jack Robin, occurred too late to 
+          fill his place. We hope that you will 
+          pardon ..."
+ 
+     He continues the announcement, finishes, then bows and makes his exit.
+ 
+391.     FULL SHOT  THEATER FROM STAGE
+     The people in the theater are getting up and leaving.
+ 
+                                        FADE OUT
+ 
+     FADE IN 
+
+392.     FULL SHOT  CANTOR'S BEDROOM
+     The doctor is at the bedside of the dying man. At the other side sits 
+     Sara, while the nurse is busy at a nearby table. Sara realizes that the 
+     end is near, and she is holding the hand of the old man as she weeps 
+     quietly.
+ 
+393.     CLOSE-UP  BED
+     The cantor is lying on his back with eyes closed. Just the outline of 
+     Sara is visible. (Vitaphone of singing starts very dimly as though from 
+     the synagogue next door. As the sound increases in volume, the voice of 
+     his son comes into the wailing higher notes of "Kol Nidre.") The old 
+     man's eyes open slowly. The misty look slowly clears and, as he 
+     recognizes the voice, he looks about him rather wildly. Slowly 
+     realization comes to him that his last earthly wish has been granted. 
+     With a glorified smile on his face, he mutters: "It's my Jakie." He 
+     starts to raise himself slowly. He looks toward the window.
+ 
+394.     FULL SHOT  ROOM
+     As the cantor slowly raises his shattered body, the doctor, anticipating
+      his wish, goes quickly to the window and raises it. (Music of singing 
+     becomes much louder.)
+ 
+395.     CLOSE-UP  CANTOR
+     He is raising himself until he is almost sitting up in bed, Sara's arm 
+     behind him, helping him. He lifts his eyes to heaven and his lips move 
+     in a prayer. Then his eyes close and he falls slowly back to the pillow.
+      The end has come, and Sara throws herself across his body in a paroxysm 
+     of grief.
+ 
+396.     FULL SHOT  SYNAGOGUE 
+     With the camera in back of place, Jack, with prayer shawl and skullcap 
+     on, can be seen with back to congregation. The choir boys are lined up 
+     on either side of him, facing the center. His voice is now loud and 
+     clear.
+ 
+397.     CLOSE-UP  JACK
+     He is singing, with eyes half closed, one of the wailing passages from 
+     the "Kol Nidre."
+
+398.     INT. LIVING ROOM  MED. SHOT
+     Mary and Lee stand listening. In the background the doctor and nurse 
+     come quietly out of the bedroom door. The nurse goes to the back of the 
+     house. The doctor pauses and looks at the two listeners, then quietly 
+     goes to the front door.
+ 
+399.     CLOSE-UP  MARY AND LEE
+     They are still listening as though spellbound. As the volume increases, 
+     they look from one to the other wonderingly. Lee says in an awe-stricken
+      voice:
+ 
+TITLE  161:     "You are listening to the stage's greatest 
+          blackface comedian singing to his God."
+ 
+     He looks to Mary for a solution of his problem. Her face lights up as 
+     Lee shrugs his shoulders in a gesture of resignation, and she says:
+
+TITLE 162:     "Listen. Don't you understand? It's his last 
+          time in there. He has to come back to us."
+ 
+     Lee looks at her in a puzzled manner, then nods.
+ 
+400.     INT. SYNAGOGUE  CLOSE-UP  JACK
+     He is singing an exceptionally sorrowful passage of the "Kol Nidre."
+
+401.     MED. SHOT  JACK
+     As he comes to the closing notes of the song, the figure of the old 
+     cantor in his synagogue robes appears on the side of the screen very 
+     faint and shadowy. The misty form slowly comes to the side of the 
+     singer. It pauses. There is a smile on the face of the old cantor as he 
+     slowly raises his hand in a blessing. The shadowy figure becomes fainter
+      and fainter, finally disappearing, leaving Jack standing alone. The 
+     music and his figure slowly
+
+                                        FADE OUT
+
+
+
+                    THE END
+
+
+
+
+
+
+
+Screenplay by Alfred A. Cohn
+
+
+
+
+
+
+
+========================BONUS ITEM==========================
+                    
+Dialogue transcript of scene 224 from the finished film:
+
+After an emotional reunion with his mother, Jack tells her about his big 
+break and sings and plays for her Irving Berlin's "Blue Skies," the song 
+he's going to do in the show. After one chorus, Jack turns from the piano 
+and speaks to his mother. Throughout this exchange her replies and 
+protestations are heard very faintly and indistinctly. 
+ 
+                    JACK
+          Did you like that, Mama? 
+
+                    MOTHER
+          Yes.
+ 
+                    JACK
+          I'm glad of it. I'd rather please you than 
+          anybody I know of. Oh, darlin', will you give 
+          me something? 
+ 
+                    MOTHER
+          What?
+ 
+                    JACK
+          You'll never guess. Shut your eyes, Mama. Shut 
+          'em for little Jakie. Ha. I'm gonna steal 
+          something. 
+               (Kisses her. She titters.) 
+          Ha, ha, ha, ha. I'll give it back to you some 
+          day, too, you see if I don't. Mama, darlin', 
+          if I'm a success in this show, well, we're 
+          gonna move from here. Oh yes, we're gonna move 
+          up in the Bronx. A lot of nice green grass up 
+          there and a whole lot of people you know. 
+          There's the Ginsbergs, the Guttenbergs, and the 
+          Goldbergs. Oh, a whole lotta Bergs; I don't 
+          know 'em all. And I'm gonna buy you a nice 
+          black silk dress, Mama. You see Mrs. Friedman, 
+          the butcher's wife, she'll be jealous of you. 
+
+                    MOTHER
+          Oh no--
+
+                    JACK
+          Yes, she will. You see if she isn't. And I'm 
+          gonna get you a nice pink dress that'll go 
+          with your brown eyes. 
+
+                    MOTHER
+          No, Jakie, no. I-I-I-
+
+                    JACK
+          What? Whatta you mean, no? Who is -- who is 
+          telling you? Whatta you mean, no? Yes, you'll 
+          wear pink or else. Or else you'll wear pink. 
+               (He laughs.) 
+          And, darlin', oh, I'm gonna take you to Coney 
+          Island. 
+
+                    MOTHER
+          Yeah?
+
+                    JACK
+          Yes, I'm gonna ride on the Shoot-the-Chutes. 
+          An' you know in the Dark Mill? Ever been in 
+          the Dark Mill? 
+
+                    MOTHER
+          Oh, no. I wouldn't go ...
+
+                    JACK
+          Well, with me, it's all right. I'll kiss you 
+          and hug you. You see if I don't. 
+               (Mother starts blushing.) 
+          Now Mama, Mama, stop now. You're gettin' 
+          kittenish. Mama, listen, I'm gonna sing this 
+          like I will if I go on the stage. You know, 
+          with this show. I'm gonna sing it jazzy. Now 
+          get this ...
+ 
+Jack launches into a few more lines of the song. He bangs at the 
+keyboard with his right hand and turns to his mother.
+
+                    JACK
+          Do you like that slappin' business?
+
+As he is singing the next part, his father enters in the background and 
+cries out:
+
+                    FATHER
+          Stop!
+
+And the music (and the dialogue) stops ...
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

@@ -1,0 +1,342 @@
+year	2001
+imdb score	6.7
+meta score	65
+genre	Biography
+genre	Drama
+genre	Sport
+keyword	boxer
+keyword	friendship
+keyword	victory
+keyword	court
+keyword	nation of islam
+keyword	politics
+keyword	islam
+keyword	racist
+keyword	comeback
+keyword	muslim
+keyword	black muslim
+keyword	religion
+keyword	vietnam war
+keyword	induction center
+keyword	slave
+keyword	military draft
+keyword	marriage
+keyword	african american
+keyword	champion
+keyword	nightclub
+keyword	arab
+keyword	interview
+keyword	boxing ring
+keyword	sparring practice
+keyword	womanizer
+keyword	spanish
+keyword	snow
+keyword	military conscription
+keyword	police
+keyword	assassination
+keyword	1970s
+keyword	reference to gamal abdul nasser
+keyword	n word
+keyword	friend
+keyword	racial slur
+keyword	extramarital affair
+keyword	cockpit
+keyword	american flag
+keyword	sports announcer
+keyword	fight
+keyword	mother son relationship
+keyword	punched in the face
+keyword	drunkenness
+keyword	underwear
+keyword	airplane
+keyword	boxing
+keyword	draft dodger
+keyword	running
+keyword	arrogance
+keyword	prayer
+keyword	drink
+keyword	racist insult
+keyword	box office flop
+keyword	civil rights
+keyword	watching tv
+keyword	zaire
+keyword	father daughter relationship
+keyword	military draftee
+keyword	sportsmanship
+keyword	kinshasa
+keyword	patriot
+keyword	magic trick
+keyword	camera
+keyword	one word title
+keyword	passport
+keyword	u.s. army
+keyword	rumble in the jungle
+keyword	racial issues
+keyword	race relations
+keyword	bail
+keyword	egotist
+keyword	bus
+keyword	creole
+keyword	swahili
+keyword	conscientious objector
+keyword	nigeria
+keyword	painter
+keyword	defeat
+keyword	shot in the chest
+keyword	reference to jesus christ
+keyword	adultery
+keyword	unfaithfulness
+keyword	year 1964
+keyword	university of ibadan
+keyword	crowd
+keyword	baby
+keyword	hit in the face
+keyword	poverty
+keyword	jew
+keyword	patriotism
+keyword	reference to h. rap brown
+keyword	fbi
+keyword	chinese
+keyword	subway
+keyword	infidelity
+keyword	boxing license
+keyword	vietcong
+keyword	police car
+keyword	1960s
+keyword	year 1974
+keyword	elephant
+keyword	boxing champion
+keyword	bow tie
+keyword	championship belt
+keyword	jumping rope
+keyword	sportsman
+keyword	black athlete
+keyword	black white relations
+keyword	african american protagonist
+keyword	pay phone
+keyword	children
+keyword	singer
+keyword	policeman
+keyword	mother daughter relationship
+keyword	lawyer
+keyword	american broadcasting company
+keyword	heavyweight champion
+keyword	narcissism
+keyword	boxing movie
+keyword	boxing match
+keyword	racism
+keyword	draft evasion
+keyword	husband wife relationship
+keyword	rhyming
+keyword	u.s. government
+keyword	assassination of malcolm x
+keyword	shooting
+keyword	japanese
+keyword	africa
+keyword	charisma
+keyword	boxing gym
+keyword	racial discrimination
+keyword	boxing gloves
+keyword	gym
+keyword	photographer
+keyword	poet
+keyword	bodyguard
+keyword	murder
+keyword	makeup
+keyword	rain
+keyword	death
+keyword	louisville kentucky
+keyword	glove box
+keyword	singing
+keyword	jewish
+keyword	train
+keyword	termite
+keyword	exoneration
+keyword	kissing while having sex
+keyword	martin luther king assassination
+keyword	brother brother relationship
+keyword	song
+keyword	father son relationship
+keyword	poetry
+keyword	tv show
+keyword	sex
+keyword	painting
+keyword	family relationships
+keyword	draft resister
+keyword	makeup room
+keyword	african americans
+keyword	boy
+keyword	boxing training
+keyword	arrest
+keyword	braggadocio
+keyword	drinking
+keyword	black american
+keyword	fistfight
+keyword	u.s. supreme court
+keyword	boxing arena
+keyword	divorce
+keyword	jogging
+keyword	reference to emmett till
+keyword	telephone call
+keyword	violence
+keyword	sweat
+keyword	title spoken by character
+keyword	character name in title
+cast	Will Smith	Cassius Clay / Cassius X / Muhammad Ali
+cast	Jamie Foxx	Drew 'Bundini' Brown
+cast	Jon Voight	Howard Cosell
+cast	Mario Van Peebles	Malcolm X
+cast	Ron Silver	Angelo Dundee
+cast	Jeffrey Wright	Howard Bingham
+cast	Mykelti Williamson	Don King
+cast	Jada Pinkett Smith	Sonji Roi
+cast	Nona Gaye	Belinda Ali
+cast	Michael Michele	Veronica Porche
+cast	Joe Morton	Chauncey Eskridge
+cast	Paul Rodriguez	Dr. Ferdie Pacheco
+cast	Bruce McGill	Bradley
+cast	Barry Shabaka Henley	Jabir Herbert Muhammad
+cast	Giancarlo Esposito	Cassius Marcellus Clay, Sr.
+cast	Laurence Mason	Luis Sarria
+cast	LeVar Burton	Martin Luther King, Jr.
+cast	Albert Hall	Elijah Muhammad
+cast	David Cubitt	Robert Lipsyte
+cast	Ted Levine	Joe Smiley
+cast	Candy Ann Brown	Odessa
+cast	David Elliott	Sam Cooke
+cast	Shari Watson	Woman Singer
+cast	Malick Bowens	Joseph Mobutu
+cast	Michael Bentt	Sonny Liston
+cast	James Toney	'Smokin' Joe Frazier
+cast	Alfred Cole	Ernie Terrell
+cast	Charles Shufford	George Foreman
+cast	Rufus Dorsey	Floyd Paterson
+cast	Robert Sale	Jerry Quarry
+cast	Damien 'Bolo' Wills	Ken Norton
+cast	David Haines	Rudy Clay / Rahaman Ali
+cast	Victoria Dillard	Betty Shabazz
+cast	Brad Greenquist	Marlin Thomas
+cast	Morgana Van Peebles	Malcolm X's Daughter
+cast	Maya Van Peebles	Malcolm X's Daughter
+cast	Maestro Harrell	Young Cassius Clay
+cast	William Utay	The Doctor
+cast	Kim Robillard	Jimmy Cannon
+cast	David Purdham	Madison Square Garden Announcer
+cast	Gailard Sartain	Gordon Davidson
+cast	Wade Williams	Lieutenant Jerome Claridge
+cast	Guy Van Swearingen	Induction FBI Man
+cast	Doug Hale	Judge Ingraham
+cast	LaDonna Tittle	Bundini's Landlady
+cast	Marc Grapey	Bob Arum
+cast	Herb Mitchell	Boxing Commissioner
+cast	Eddie Bo Smith Jr.	Malcolm's Bodyguard
+cast	Bobby Stuart	Thomas 15X Johnson
+cast	Patrick New	Room Service Guy
+cast	Ron O.J. Parson	Death Newsman
+cast	Ellis Williams	Family Photo Man
+cast	Alexandra Bokyun Chun	Asian Cosmetologist
+cast	John G. Connolly	Assistant Director
+cast	Warner Saunders	Customer
+cast	Jack Reiss	Referee Arthur Mercante
+cast	Marty Denkin	Frazier Fight II Announcer
+cast	Tamara Lynch	Flight Attendant
+cast	Chico Benymon	Hampton House Announcer
+cast	Bill Plaschke	Miami Weigh-In Reporter
+cast	Steve Springer	Miami Weigh-In Reporter
+cast	Patrick M. Connolly	Announcer
+cast	Patrick C. Russell	Referee
+cast	Robert Byrd	Willie Reddick
+cast	Cedric Wills	Jersey Joe Walcott, Referee
+cast	Ronald A. DiNicola	Prosecutor
+cast	Moses Hollins	Man on Train
+cast	Daniel E. Gurevitz	Boxing Commission Reporter
+cast	Steven Randazzo	Reporter
+cast	Ray Bokhour	Reporter
+cast	Leonard Termo	Madison Square Garden Reporter
+cast	Johnny Ortiz	Madison Square Garden Reporter
+cast	Mark Salem	New York Reporter
+cast	Sheldon Fogel	New York Reporter
+cast	Jim Gray	New York Reporter
+cast	Melvin Thomas	Harlem Neighbor
+cast	Natalie Carter	Harlem Neighbor
+cast	Reginald Footman	Harlem Neighbor
+cast	Poe Poe	Harlem Reporter
+cast	Mel Dick	Louisville Sponsoring Group
+cast	Kim Coleman	Lana Shabazz
+cast	Christian Stolte	Miami Cop
+cast	Vic Manni	Dressing Room Weigh-In Guy
+cast	Will Gill Jr.	Dick Sadler
+cast	Sylvaine Strike	ORTF Interviewer
+cast	Denis Luposo	Kinshasa Reporter
+cast	Sharon Wilkinson	Rose Jennings
+cast	Carol Hatchett	Pointer Sister
+cast	Judith Mwale	Pointer Sister
+cast	Keabetswe Motsilanyane	Pointer Sister
+cast	Richard Katanga	Mobutu Aide / Military Aide
+cast	Thomas Kariuki Matheri	Lieutenant Nsakala
+cast	Larry Hazzard Sr.	Zack Clayton
+cast	Derrick Brown	Larry Holmes
+cast	Rommel Hyacinth	The Pilot
+cast	Graham Hopkins	London Banker
+cast	Daniel Janks	CIA Man
+cast	Bradford E. Lang	Black Pilot
+cast	Michael Dorn	Black Pilot
+cast	Dan Robbertse	Reporter in Zaire
+cast	Graham Clarke	Reporter in Zaire
+cast	Dimitri Cassar	Reporter in Zaire
+cast	Frank Notaro	Reporter in Zaire
+cast	Mark Mulder	Reporter in Zaire
+cast	David W. Hess	Reporter in Zaire
+cast	Henrikennyo Mukenyi	Bula
+cast	Nathaniel Malekane	Archie Moore
+cast	Millard Arnold	Doc Broadus
+cast	Edda Collier	Blonde French Reporter
+cast	Yi Lu Wei	Chinese Delegate
+cast	Lee Cummings	Hunter Thompson
+cast	Zaa Nkweta	Foreman Fight Announcer
+cast	Themba Gasa	Idi Amin
+cast	Andrew P. Jones	Don King's Aide
+cast	Marc Kulazite Mboli	Additional Aide to Mobutu
+cast	Cimanga Kalambay	Additional Aide to Mobutu
+cast	Jean Bikoi	Additional Aide to Mobutu
+cast	James Gilbert	Sparring Partner in Africa
+cast	Matisha Baldwin	Club Patron
+cast	Jon A. Barnes	Ringside Photographer
+cast	Lionel D. Carson	Dr. King's Driver
+cast	Ralph Cole Jr.	Harlem Resident
+cast	Vincent Cook	Jimmy Ellis
+cast	Craig Cove	Frazier Fight Reporter
+cast	Ed Cray	Radical Professor
+cast	James Currie	Court Room Photographer
+cast	Vincent De Paul	Roving Reporter
+cast	Trish Dempsey	Diplomat's Wife
+cast	Edge	Sports Writer
+cast	Freda Nelson Evans	Woman in Mink
+cast	Josh Feinberg	Extra in Terrell Fight Sequence
+cast	Deborah Smith Ford	Party Guest
+cast	Edward C. Gillow	Foreman-Frazier Fight Judge
+cast	Ross Haines	News Cameraman
+cast	George Hambach	Induction Center Doctor
+cast	Johnathan Hodges	Waiter
+cast	Will Holman	FOI
+cast	Brandon T. Jackson	Club Goer
+cast	Carolina Lancaster	Dancer
+cast	Leon	Brother 'Joe'
+cast	Eric Lichtenberg	Reporter
+cast	Valentine Miele	Liston Fight Reporter
+cast	Denise Moss	Bar Goer
+cast	John O. Nelson	Louis Rodriguez
+cast	Tracy Perry	Usher
+cast	Al Quinn	Boxing Trainer
+cast	Javier Rivas	TV Reporter
+cast	Hunter F. Roberts	Angry Fight Fan
+cast	Sheldon Robins	Heckler
+cast	Joseph Luis Rubin	Blinky Polermo
+cast	Robert Standley	Ringside Photographer
+cast	Jack Truman	Reporter
+cast	Ray Uhler	Ringside Photographer
+cast	Larry Vigus	Times Ringside Photographer
+cast	Robert Warnack	Madison Square Garden Fight Fan
+cast	John Wolfshohl	Ray 'Boom Boom' Mancini
+cast	Graeme Wood	Journalist
+cast	Jackie Zane	Fight Fan

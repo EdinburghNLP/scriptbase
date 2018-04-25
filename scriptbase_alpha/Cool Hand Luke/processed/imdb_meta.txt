@@ -1,0 +1,178 @@
+year	1967
+imdb score	8.2
+meta score	N/A
+genre	Crime
+genre	Drama
+keyword	prison
+keyword	escape
+keyword	prisoner
+keyword	guts
+keyword	authority
+keyword	chain
+keyword	parking meter
+keyword	deliberate cruelty
+keyword	sadist
+keyword	pig
+keyword	prison escape
+keyword	failure to communicate
+keyword	aimlessness
+keyword	death of hero
+keyword	prison break
+keyword	death
+keyword	eating contest
+keyword	sadistic warden
+keyword	snake
+keyword	mullet haircut
+keyword	bloodhound
+keyword	chain gang
+keyword	antihero
+keyword	inspiring story
+keyword	torn picture
+keyword	smile
+keyword	fugitive
+keyword	famous score
+keyword	vandalism
+keyword	punishment
+keyword	death of title character
+keyword	shootout
+keyword	talking to god
+keyword	friendship
+keyword	atrocity
+keyword	drunkenness
+keyword	confused boy
+keyword	dead dog
+keyword	prison guard
+keyword	arrogance
+keyword	barbed wire
+keyword	loss of mother
+keyword	atheist
+keyword	hard boiled egg
+keyword	attitude
+keyword	sunglasses
+keyword	nickname
+keyword	main character shot
+keyword	jesus statuette
+keyword	banjo
+keyword	punched in the face
+keyword	running away
+keyword	traffic signal
+keyword	isolation cell
+keyword	egg
+keyword	threat
+keyword	forced labor
+keyword	against the system
+keyword	contest
+keyword	conflicted hero
+keyword	boxing match
+keyword	social commentary
+keyword	outsider
+keyword	bet
+keyword	photograph
+keyword	abuse
+keyword	toil
+keyword	freeze frame
+keyword	stubbornness
+keyword	mother son relationship
+keyword	hit in the face
+keyword	shower
+keyword	shovel
+keyword	mullet
+keyword	rebellion
+keyword	repeated scene
+keyword	tough guy
+keyword	stealing a car
+keyword	anti conformity
+keyword	escape from prison
+keyword	survivor
+keyword	hard labor
+keyword	bound in chains
+keyword	famous line
+keyword	wager
+keyword	bluffing
+keyword	death of protagonist
+keyword	confrontation
+keyword	car wash
+keyword	tracking
+keyword	dog
+keyword	betting
+keyword	rural setting
+keyword	burp
+keyword	anti hero
+keyword	main character dies
+keyword	rebelliousness
+keyword	endurance
+keyword	tiredness
+keyword	bare chested male
+keyword	deep south
+keyword	belch
+keyword	boxing
+keyword	sweat
+keyword	fistfight
+keyword	corporal punishment
+keyword	dignity
+keyword	questioning authority
+keyword	name change
+keyword	against the odds
+keyword	freedom
+keyword	heat
+keyword	dying friend
+keyword	jumping into water
+keyword	tarmac
+keyword	upskirt
+keyword	axe
+keyword	underwear
+keyword	christ allegory
+keyword	budding friendship
+keyword	exhaustion
+keyword	character repeating someone else's dialogue
+keyword	poker
+keyword	southern u.s.
+keyword	magazine
+keyword	chili powder
+keyword	heroic death
+keyword	alcoholism
+keyword	purpose in life
+keyword	drifter
+keyword	gratuitous shooting of an animal
+keyword	escape attempt
+keyword	death of mother
+keyword	based on novel
+keyword	character name in title
+keyword	title spoken by character
+cast	Paul Newman	Luke
+cast	George Kennedy	Dragline
+cast	J.D. Cannon	Society Red
+cast	Lou Antonio	Koko
+cast	Robert Drivas	Loudmouth Steve
+cast	Strother Martin	Captain
+cast	Jo Van Fleet	Arletta
+cast	Clifton James	Carr
+cast	Morgan Woodward	Boss Godfrey
+cast	Luke Askew	Boss Paul
+cast	Marc Cavell	Rabbitt
+cast	Richard Davalos	Blind Dick
+cast	Robert Donner	Boss Shorty
+cast	Warren Finnerty	Tattoo
+cast	Dennis Hopper	Babalugats
+cast	John McLiam	Boss Keen
+cast	Wayne Rogers	Gambler
+cast	Harry Dean Stanton	Tramp
+cast	Charles Tyner	Boss Higgins
+cast	Ralph Waite	Alibi
+cast	Anthony Zerbe	Dog Boy
+cast	Buck Kartalian	Dynamite
+cast	Joy Harmon	The Girl
+cast	Joe Don Baker	Fixer
+cast	James Bradley	
+cast	James Gammon	Sleepy
+cast	Norman Goodwins	Stupid blonde
+cast	Chuck Hicks	Chief
+cast	Rance Howard	Sheriff
+cast	James Jeter	Wickerman
+cast	Kim Kahana	Convict
+cast	Robert Luster	Jabo
+cast	Donn Pearce	Sailor
+cast	John Pearce	John
+cast	Cyril 'Chips' Robinson	Ben
+cast	Eddie Rosson	Luke's Nephew
+cast	Rush Williams	Patrolman

@@ -1,0 +1,200 @@
+year	1993
+imdb score	4.2
+meta score	28
+genre	Comedy
+genre	Drama
+genre	Romance
+genre	Western
+keyword	ranch
+keyword	cowgirl
+keyword	whooping crane
+keyword	thumb
+keyword	peyote
+keyword	hitchhiking
+keyword	model
+keyword	ritual
+keyword	judo
+keyword	bullwhip
+keyword	female protagonist
+keyword	physical deformity
+keyword	slingshot
+keyword	bare breasts
+keyword	doctor
+keyword	love
+keyword	birthday cake
+keyword	cheese
+keyword	beauty salon
+keyword	pilgrim
+keyword	cane
+keyword	sideshow
+keyword	goat
+keyword	drinking
+keyword	divorcee
+keyword	male nudity
+keyword	molotov cocktail
+keyword	three sister falls oregon
+keyword	surgery
+keyword	nudity
+keyword	song
+keyword	library
+keyword	student
+keyword	fantasy sequence
+keyword	female frontal nudity
+keyword	odor
+keyword	cow
+keyword	mountain man
+keyword	sense of smell
+keyword	hitchhiker
+keyword	cross dressing
+keyword	truck
+keyword	cigarette smoking
+keyword	sitting on a toilet
+keyword	falling off horse
+keyword	van
+keyword	virginity
+keyword	tombstone
+keyword	campfire
+keyword	breathalyzer
+keyword	standoff
+keyword	lesbian
+keyword	flashback
+keyword	bunk bed
+keyword	female masturbation
+keyword	u.s. army
+keyword	asthma attack
+keyword	motorcycle
+keyword	drink
+keyword	richmond virginia
+keyword	widow
+keyword	guitar
+keyword	women's rights
+keyword	cigarette holder
+keyword	barbecue
+keyword	voice over narration
+keyword	binoculars
+keyword	horse
+keyword	crying
+keyword	rifle
+keyword	masturbation
+keyword	death
+keyword	dance
+keyword	fortune teller
+keyword	actor
+keyword	lesbian kiss
+keyword	birthday
+keyword	vagina
+keyword	dancing
+keyword	bus
+keyword	queer cinema
+keyword	sex
+keyword	swimming pool
+keyword	yoga
+keyword	feminine deodorant spray
+keyword	school
+keyword	father daughter relationship
+keyword	dictionary
+keyword	dancer
+keyword	american flag
+keyword	photographer
+keyword	voice over letter
+keyword	freeze frame
+keyword	homosexual
+keyword	classroom
+keyword	singer
+keyword	on the road
+keyword	tragic ending
+keyword	subjective camera
+keyword	minneapolis minnesota
+keyword	happy birthday
+keyword	advertisement
+keyword	band
+keyword	map
+keyword	fire
+keyword	chicken
+keyword	threesome
+keyword	finger
+keyword	pontiac
+keyword	dog
+keyword	native american
+keyword	horse riding
+keyword	squirrel
+keyword	modern western
+keyword	american indian
+keyword	gay
+keyword	happy birthday to you
+keyword	sheriff
+keyword	asthma
+keyword	prologue
+keyword	dude ranch
+keyword	tape recorder
+keyword	oregon
+keyword	gun
+keyword	krishna
+keyword	battle of the sexes
+keyword	singing
+keyword	food
+keyword	kiss
+keyword	battle
+keyword	mother daughter relationship
+keyword	airplane
+keyword	taxi
+keyword	hallucination
+keyword	new york city
+keyword	female nudity
+keyword	guitarist
+keyword	whip
+keyword	douche
+keyword	surrealism
+keyword	based on novel
+keyword	independent film
+cast	Uma Thurman	Sissy Hankshaw
+cast	Lorraine Bracco	Delores Del Ruby
+cast	Pat Morita	The Chink
+cast	Angie Dickinson	Miss Adrian
+cast	Keanu Reeves	Julian Gitche
+cast	John Hurt	The Countess
+cast	Rain Phoenix	Bonanza Jellybean
+cast	Ed Begley Jr.	Rupert
+cast	Carol Kane	Carla
+cast	Sean Young	Marie Barth
+cast	Crispin Glover	Howard Barth
+cast	Roseanne Barr	Madame Zoe
+cast	Buck Henry	Dr. Dreyfus
+cast	Grace Zabriskie	Mrs. Hankshaw
+cast	Treva Jeffryes	Young Sissy
+cast	Ken Kesey	Sissy's Daddy
+cast	Ken Babbs	Sissy's Uncle
+cast	Allen Arnold	Lionel
+cast	Victoria Williams	Cowgirl Debbie
+cast	Heather Graham	Cowgirl Heather
+cast	Judy Robinson	Cowgirl Gloria
+cast	Betsy Roth	Cowgirl Mary
+cast	Arlene Wewa	Big Red
+cast	Heather Hershey	Cowgirl Donna
+cast	Dee Fowler	Cowgirl Kym
+cast	Udo Kier	Commercial Director
+cast	Wade Evans	Cameraman
+cast	Tom Peterson	Crewman
+cast	Alexa D'Avalon	Rubber Rose Bird Expert
+cast	Eric Hull	White House Undersecretary
+cast	Oliver Kirk	Sheriff
+cast	Joe Ivy	FBI Director
+cast	Greg McMickle	FBI Agent
+cast	Lin Shaye	Rubber Rose Maid
+cast	Chel White	Brain Surgeon
+cast	Molly Little	Salsa Singer
+cast	Scott Patrick Green	Pilgrim Man
+cast	Suzanne Solgot	Pilgrim Woman
+cast	Michael Parker	Pilgrim Driver
+cast	William S. Burroughs	Himself
+cast	Sherry Alps	Cowgirl
+cast	Eliza Butterfly	Cowgirl
+cast	Boo Connolly	Cowgirl
+cast	Christie Flenniken	Cowgirl
+cast	Stacey Hyder	Cowgirl
+cast	Tina Knaggs	Cowgirl
+cast	Tom Robbins	Narrator
+cast	Roger Bowen	Naturalist filming whooping cranes from aircraft
+cast	Doug Cooeyate	Native American extra
+cast	Edward James Olmos	Musician at Barbecue
+cast	River Phoenix	Pilgrim

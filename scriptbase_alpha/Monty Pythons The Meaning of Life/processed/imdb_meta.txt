@@ -1,0 +1,197 @@
+year	1983
+imdb score	7.6
+meta score	N/A
+genre	Comedy
+genre	Musical
+keyword	death
+keyword	restaurant
+keyword	monty python
+keyword	meaning of life
+keyword	grim reaper
+keyword	heaven
+keyword	philosophy
+keyword	comedy team
+keyword	sex education
+keyword	birth
+keyword	christmas
+keyword	sperm
+keyword	church
+keyword	battlefield
+keyword	gross out humor
+keyword	19th century
+keyword	fat joke
+keyword	part animation
+keyword	topless female nudity
+keyword	sex lesson
+keyword	actor playing multiple roles
+keyword	cult film
+keyword	nudity
+keyword	bucket on one's head
+keyword	surrealism
+keyword	1910s
+keyword	controversy
+keyword	absurd humor
+keyword	extreme eating
+keyword	food
+keyword	zulu wars
+keyword	gross out comedy
+keyword	fish
+keyword	twisted version of current world
+keyword	musical number
+keyword	sexual innuendo
+keyword	female nudity
+keyword	blood
+keyword	birth control
+keyword	aquarium
+keyword	violence
+keyword	exploding body
+keyword	satire
+keyword	africa
+keyword	black humor
+keyword	breaking the fourth wall
+keyword	cult movie cast
+keyword	zulu
+keyword	boot camp
+keyword	black comedy
+keyword	fat suit
+keyword	no opening credits
+keyword	crazy humour
+keyword	england
+keyword	absurdism
+keyword	space
+keyword	irreverence
+keyword	pregnancy
+keyword	sexuality
+keyword	cult
+keyword	inside joke
+keyword	long take
+keyword	safari
+keyword	teaching
+keyword	blood splatter
+keyword	acting like a fish
+keyword	falling off a cliff
+keyword	rugby
+keyword	transvestism
+keyword	gore
+keyword	sketch comedy
+keyword	world war one
+keyword	hospital
+keyword	organ donation
+keyword	vomit
+keyword	jumping off a building
+keyword	1980s
+keyword	episodic structure
+keyword	animal costume
+keyword	cult film
+keyword	20th century
+keyword	written and directed by cast member
+keyword	obesity
+keyword	gluttony
+keyword	based on sketch comedy
+keyword	salmon
+keyword	1870s
+keyword	semen
+keyword	french accent
+keyword	religion
+keyword	comedy troupe
+keyword	british comedy
+keyword	anti semitism
+keyword	title spoken by character
+cast	Graham Chapman	Chairman / Fish #1 / Doctor / Harry Blackitt / Wymer / Hordern / General / Coles / Narrator #2 / Dr. Livingstone / Transvestite / Eric / Guest #1 / Arthur Jarrett / Geoffrey / Tony Bennett
+cast	John Cleese	Fish #2 / Dr. Spencer / Humphrey Williams / Sturridge / Ainsworth / Waiter / Eric's Assistant / Maître D' / Grim Reaper
+cast	Terry Gilliam	Window Washer / Fish #4 / Walters / Middle of the Film Announcer / M'Lady Joeline / Mr. Brown / Howard Katzenberg
+cast	Eric Idle	Gunther / Fish #3 / Gaston / 'Meaning of Life' Singer / Mr. Moore / Mrs. Blackitt / Watson / Blackitt / Atkinson / Perkins / Victim #3 / Front End / Mrs. Hendy / Man in Pink / Noël Coward / Angela
+cast	Terry Jones	Bert / Fish #6 / Mum / Priest / Biggs / Sergeant / Man with Bendy Arms / Mrs. Brown / Mr. Creosote / Maria / Leaf Father / Fiona Portland-Smyth
+cast	Michael Palin	Window Washer / Harry / Fish #5 / Mr. Pycroft / Dad / Narrator #1 / Chaplain / Carter / Spadger / Regimental Sergeant Major / Pakenham-Walsh / Rear End / Female TV Presenter / Mr. Marvin Hendy / Governor / Leaf Son / Debbie Katzenberg
+cast	Carol Cleveland	Beefeater Waitress / Wife of Guest #1 / Leaf Mother / Leaf Daughter / Heaven Receptionist
+cast	Simon Jones	Chadwick / Jeremy Portland-Smyth
+cast	Patricia Quinn	Mrs. Williams
+cast	Judy Loe	Nurse #1
+cast	Andrew MacLachlan	Groom / Wycliff / Victim #1 / Guest #3
+cast	Mark Holmes	Victim #2 / Troll Waiter / Guest #2
+cast	Valerie Whittington	Mrs. Moore
+cast	Jennifer Franks	Bride
+cast	Imogen Bickford-Smith	Nurse #2
+cast	Angela Mann	Wife of Guest #2
+cast	Peter Lovstrom	Brown's Son
+cast	George Silver	Diner Eating Howard the Fish
+cast	Chris Grant	
+cast	Sydney Arnold	
+cast	Guy Bertrand	
+cast	Andrew Bicknell	
+cast	Ross Davidson	
+cast	Myrtle Devenish	Old Lady
+cast	Tim Douglas	
+cast	Eric Francis	
+cast	Matt Frewer	Cornered Executive who Jumps
+cast	Billy John	
+cast	Russell Kilmister	
+cast	Peter Mantle	
+cast	Len Marten	
+cast	Peter Merrill	
+cast	Cameron Miller	
+cast	Gareth Milne	
+cast	Larry Noble	
+cast	Paddy Ryan	
+cast	Leslie Sarony	
+cast	John Scott Martin	
+cast	Eric Stovell	
+cast	Wally Thomas	
+cast	Jack Armstrong	
+cast	Robert Carrick	
+cast	Douglas Cooper	
+cast	George Daly	
+cast	Chick Fowles	
+cast	Terry Grant	
+cast	Robin Hewlett	
+cast	Tommy Isley	
+cast	Juba Kennerley	
+cast	Anthony Lang	
+cast	John Murphy	
+cast	Terry Rendell	
+cast	Ronald Shilling	
+cast	Albert Welch	
+cast	Luke Baxter	Dancer
+cast	Stephen Beasley	Dancer
+cast	Paul Bourke	Dancer
+cast	Bonnie Bryg	Dancer
+cast	Jane Colthorpe	Dancer
+cast	Charlotte Corbett	Dancer
+cast	Geoff Davids	Dancer
+cast	Emma-Kate Davies	Dancer
+cast	Sandra Easby	Dancer
+cast	Donna Fielding	Dancer
+cast	Roy Hamlyn Gayle	Dancer
+cast	Dawn Gerrard	Dancer
+cast	Natascha Gilbrooke	Dancer
+cast	Donnette Goddard	Dancer
+cast	Heavon Grant	Dancer
+cast	Alison Jane Hierlihy	Dancer
+cast	Laura James	Dancer
+cast	Kim Elizabeth Leeson	Dancer
+cast	Maddie Loftin	Dancer
+cast	Michelle Mackie	Dancer
+cast	Paul Madden	Dancer
+cast	Helen Mason	Dancer
+cast	Caroline Meacher	Dancer
+cast	Lorraine Meacher	Dancer
+cast	Sue Menhenick	Dancer
+cast	Kerri Murphy	Dancer
+cast	Tammy Needham	Dancer
+cast	Garry Noakes	Dancer
+cast	Trudy Pack	Dancer
+cast	Floyd Anthony Pearce	Dancer
+cast	Wanda Rokicki	Dancer
+cast	Peter Salmon	Dancer
+cast	Lizie Saunderson	Dancer
+cast	Steve St. Klonis	Dancer
+cast	Voyd	Dancer
+cast	Timothy Ward	Dancer
+cast	Michelle Welch	Dancer
+cast	Gess Whitfield	Dancer
+cast	Lorraine Whitmarsh	Dancer
+cast	Dominique Wood	Dancer
+cast	Carole Anne	Topless Pursuer
+cast	Lynne Hazelden	Student Doctor
+cast	Jane Leeves	Dancer
+cast	Cy Town	Restaurant Diner

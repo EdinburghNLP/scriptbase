@@ -1,0 +1,205 @@
+year	2009
+imdb score	5.5
+meta score	N/A
+genre	Action
+genre	Crime
+genre	Mystery
+genre	Thriller
+keyword	u.s. marshal
+keyword	antarctica
+keyword	weather
+keyword	research station
+keyword	winter
+keyword	winter storm
+keyword	safety line
+keyword	cold weather
+keyword	blizzard
+keyword	throat slitting
+keyword	survival
+keyword	autopsy
+keyword	jewels
+keyword	aurora australis
+keyword	ex military
+keyword	gust of wind
+keyword	dream sequence
+keyword	scientist
+keyword	stitches
+keyword	research facility
+keyword	one word title
+keyword	vodka
+keyword	pistol
+keyword	golf
+keyword	subtitled scene
+keyword	shower
+keyword	hit with a shovel
+keyword	girlie magazine
+keyword	slow motion scene
+keyword	pilot
+keyword	punched in the face
+keyword	gun in safe
+keyword	hand injury
+keyword	snowstorm
+keyword	death of partner
+keyword	falling through ice
+keyword	amputated finger
+keyword	corruption
+keyword	anger
+keyword	russian
+keyword	ice axe
+keyword	frozen body
+keyword	bandaged hand
+keyword	frostbite
+keyword	rope
+keyword	fight to the death
+keyword	shootout
+keyword	bare chested male
+keyword	fax
+keyword	shot to death
+keyword	panties
+keyword	ice core
+keyword	party
+keyword	threat to cut off fingers
+keyword	snowy landscape
+keyword	stitch
+keyword	uncut diamond
+keyword	frozen corpse
+keyword	blowing hatch
+keyword	whiskey
+keyword	marijuana
+keyword	antonov an 12 cargo plane
+keyword	fall from height
+keyword	elbowed in face
+keyword	woman undressing
+keyword	drug dealer
+keyword	isolation
+keyword	diamond
+keyword	dead body
+keyword	training
+keyword	body bag
+keyword	british flag
+keyword	airplane crash
+keyword	bra
+keyword	cargo plane
+keyword	saxophone
+keyword	year 1957
+keyword	buried alive
+keyword	jellybean
+keyword	buried treasure
+keyword	explosive
+keyword	ice
+keyword	bribe
+keyword	c 130 hercules
+keyword	hiding behind a door
+keyword	thrown from an airplane
+keyword	flashback
+keyword	female in shower
+keyword	blood
+keyword	gunfire on an airplane
+keyword	streaking
+keyword	broken leg
+keyword	walkie talkie
+keyword	australian man
+keyword	plane crash
+keyword	flashlight
+keyword	british actress playing american character
+keyword	australian
+keyword	band
+keyword	shot in the head
+keyword	throat cut
+keyword	skin frozen to metal
+keyword	murder investigation
+keyword	hand through chest
+keyword	betrayed
+keyword	chase
+keyword	corpse
+keyword	murder
+keyword	shot in the back
+keyword	stabbed in the back
+keyword	betrayal
+keyword	scene before opening credits
+keyword	dice
+keyword	syringe
+keyword	neck breaking
+keyword	greed
+keyword	escape
+keyword	radio
+keyword	shot in the chest
+keyword	geologist
+keyword	doctor
+keyword	federal marshal
+keyword	stabbed in the chest
+keyword	thrown through a window
+keyword	snowplow
+keyword	head wound
+keyword	trail of blood
+keyword	knife
+keyword	amundsen scott south pole station
+keyword	crash landing
+keyword	airplane
+keyword	falling from height
+keyword	suspense
+keyword	canister
+keyword	suicide
+keyword	investigation
+keyword	taking a shower
+keyword	based on comic book
+keyword	map
+keyword	axe murder
+keyword	windy
+keyword	stabbed in the leg
+keyword	based on comic
+keyword	snow cat
+keyword	snow
+keyword	axe in the back
+keyword	falling from the sky
+keyword	south pole
+keyword	female lead
+keyword	woman in bra and panties
+keyword	male full frontal nudity
+keyword	finger amputation
+keyword	finger cut off
+keyword	based on graphic novel
+keyword	prisoner
+keyword	vostok station antactica
+keyword	scientific data
+keyword	leg wound
+keyword	1950s
+keyword	held at gunpoint
+keyword	suicide of villain
+keyword	blood spatter
+keyword	severed finger
+keyword	american flag
+keyword	double cross
+keyword	falling into a hole
+keyword	stabbed
+keyword	machine gun
+keyword	broken mirror
+keyword	shot in the forehead
+keyword	title spoken by character
+keyword	surprise ending
+cast	Kate Beckinsale	Carrie Stetko
+cast	Gabriel Macht	Robert Pryce
+cast	Tom Skerritt	Dr. John Fury
+cast	Columbus Short	Delfy
+cast	Alex O'Loughlin	Russell Haden
+cast	Shawn Doyle	Sam Murphy
+cast	Joel Keller	Jack
+cast	Jesse Todd	Rubin
+cast	Arthur Holden	McGuire
+cast	Erin Hickock	Rhonda
+cast	Bashar Rahal	Russian Pilot
+cast	Julian Cain	Russian Co-pilot
+cast	Dennis Keiffer	Russian Guard
+cast	Andrei Runtso	Russian Guard
+cast	Roman Varshavsky	Russian Guard
+cast	Steve Lucescu	Mooney
+cast	Paula Jean Hixson	Lab Tech
+cast	Craig A. Pinckes	Aircraft Tech
+cast	Sean Tucker	Operations Tech
+cast	Marc James Beauchamp	Weiss
+cast	Nick Villarin	Newbie
+cast	Louis Dionne	Man in Hall
+cast	Patrick Sabongui	Miami Prisoner
+cast	Alexander Bisping	Chaplain
+cast	Jeremie Campbell	Control Room Tech
+cast	Sarah Murphy-Dyson	Lab Assistant

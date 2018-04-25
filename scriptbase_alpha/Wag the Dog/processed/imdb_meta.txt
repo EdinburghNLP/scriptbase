@@ -1,0 +1,171 @@
+year	1997
+imdb score	7.1
+meta score	73
+genre	Comedy
+genre	Drama
+keyword	hollywood
+keyword	scandal
+keyword	spin doctor
+keyword	death
+keyword	cover up
+keyword	albania
+keyword	surveillance camera
+keyword	military
+keyword	animal in title
+keyword	reference to john belushi
+keyword	man with glasses
+keyword	movie producer
+keyword	rape
+keyword	fake war
+keyword	stretch limousine
+keyword	reference to king kong
+keyword	imperative in title
+keyword	political satire
+keyword	reference to davy crockett
+keyword	white house
+keyword	washington d.c.
+keyword	voter
+keyword	presidential election
+keyword	reference to arnold schwarzenegger
+keyword	secret service
+keyword	shoe
+keyword	airplane accident
+keyword	satire
+keyword	cia
+keyword	reference to ronald reagan
+keyword	video manipulation
+keyword	media hype
+keyword	sneaker
+keyword	reference to john f kennedy
+keyword	press secretary
+keyword	prisoner
+keyword	tanning bed
+keyword	producing
+keyword	kitten
+keyword	senator
+keyword	reference to cecil b. demille
+keyword	reference to boog powell
+keyword	reference to jfk assassination
+keyword	baseball metaphor
+keyword	press conference
+keyword	movie making
+keyword	anti psychotic
+keyword	mansion
+keyword	political consultant
+keyword	media manipulation
+keyword	reference to plato
+keyword	real life parallel
+keyword	political assassination
+keyword	mental patient
+keyword	computer generated imagery
+keyword	dog
+keyword	u.s. president
+keyword	theme song
+keyword	murder
+keyword	plane crash
+keyword	lhasa apso
+keyword	reference to howdy doody
+keyword	rapist
+keyword	conspiracy
+keyword	illegal alien
+keyword	black comedy
+keyword	cat
+keyword	based on novel
+keyword	based on book
+keyword	independent film
+cast	Dustin Hoffman	Stanley Motss
+cast	Robert De Niro	Conrad Brean
+cast	Anne Heche	Winifred Ames
+cast	Denis Leary	Fad King
+cast	Willie Nelson	Johnny Dean
+cast	Andrea Martin	Liz Butsky
+cast	Kirsten Dunst	Tracy Lime
+cast	William H. Macy	CIA Agent Charles Young
+cast	John Michael Higgins	John Levy
+cast	Suzie Plakson	Grace
+cast	Woody Harrelson	Sergeant William Schumann
+cast	Michael Belson	President
+cast	Suzanne Cryer	Amy Cain
+cast	Jason Cottle	A.D.
+cast	David Koechner	Director
+cast	Harland Williams	Pet Wrangler
+cast	Sean Masterson	Bob Richardson
+cast	Bernard Hocke	Technician
+cast	Jenna Byrne	Sharon
+cast	Maurice Woods	Kid with Shoes
+cast	Roebuck 'Pops' Staples	Pops Staples
+cast	Phil Morris	Co-Pilot
+cast	Chris Ellis	Officer
+cast	Ed Morgan	Store Owner
+cast	J. Patrick McCormack	Pilot
+cast	Jennifer Manley	Teenage Girl
+cast	Edrie Warner	Judge
+cast	Richard Lawson	CIA Agent
+cast	Drena De Niro	Gate Stewardess
+cast	Alberto Vazquez	Combine Driver
+cast	Stephanie Kemp	Aide #1
+cast	Jack Esformes	Aide #2
+cast	John Cho	Aide #3
+cast	Michael Reid Davis	Aide #4
+cast	Brant Cotton	Sharon's Boyfriend
+cast	Kenneth Kern	Nashville Engineer
+cast	Michelle Levinson	Faye
+cast	Ron McCoy	Limo Driver
+cast	Derek Morgan	CIA Agent
+cast	Garry R. Roleder	USAF Chaplain
+cast	Merle Haggard	Merle Haggard
+cast	James Belushi	Jim Belushi
+cast	George Gaynes	Senator Cole
+cast	Rick Scarry	White House Reporter
+cast	Cliff B. Howard	Ranger
+cast	Furley Lumpkin	Raking Dad #1
+cast	Sean Fenton	Raking Dad #2
+cast	Nikki Crawford	Mom
+cast	John Franklin	Jockey #1
+cast	Kevin Furlong	Jockey #2
+cast	Lu Elrod	Southern Woman
+cast	Michael Villani	Male Commentator
+cast	Shirley Prestia	Crossfire Moderator
+cast	Warren Wilson	Crossfire Interviewer
+cast	Terry Anzur	Factory Reporter
+cast	Melissa Gardner	Santa Fe Reporter
+cast	Giselle Fernandez	Female Press Person
+cast	Christine Devine	Chicago Newscaster
+cast	Richard Saxton	Chicago Newscaster #2
+cast	Geoffrey Blake	Media Guy #1
+cast	Jerry Levine	Media Guy #2
+cast	Jack Shearer	Sklansky
+cast	Emmett Miller	News Break Reporter
+cast	Bill Handel	Andrews AFB Reporter
+cast	Anais Afshan	Albanian Girl
+cast	Hope Garber	Albanian Grandmother
+cast	Gina Menza	Press Room Reporter
+cast	Maggie Mellin	Mrs. Rose
+cast	Tom Murray	Aircraft Carrier Reporter
+cast	Ralph Tabakin	Southern Man
+cast	Marguerite Moreau	Teenage Girl in Audience
+cast	Jay Leno	Jay Leno
+cast	Nicole Avant	American Dream Singer
+cast	Tom Bähler	American Dream Singer
+cast	Allen Carter	American Dream Singer
+cast	Carmen Carter	American Dream Singer
+cast	Lance Eaton	American Dream Singer
+cast	Karen Geraghty	American Dream Singer
+cast	James Gilstrap	American Dream Singer
+cast	Jennifer Gross	American Dream Singer
+cast	Wendy Lou Halvorsen	American Dream Singer
+cast	Anthony Holiday	American Dream Singer
+cast	Brad Kalas	American Dream Singer
+cast	Merle Haggard and the Strangers	Performers
+cast	Billy Trudel	American Dream Singer
+cast	Mark Vieha	American Dream Singer
+cast	Maxine Waters Willard	American Dream Singer
+cast	Julia Waters	American Dream Singer
+cast	Oren Waters	American Dream Singer
+cast	Phillip V. Caruso	War Commercial Photographer
+cast	Sean Ireland	Military Officer
+cast	Craig T. Nelson	Senator John Neal
+cast	Glendon Rich	Grieving Politician
+cast	Robert Richardson	Man in TV Studio
+cast	Chelsea Talbott	Crying Girl at Funeral Parade
+cast	Paul Webster	Limo Driver

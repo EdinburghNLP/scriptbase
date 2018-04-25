@@ -1,0 +1,228 @@
+year	1989
+imdb score	6.5
+meta score	N/A
+genre	Horror
+keyword	cat
+keyword	pet
+keyword	cemetery
+keyword	neighbor
+keyword	woods
+keyword	maine
+keyword	pet cemetery
+keyword	death
+keyword	secret
+keyword	loss of wife
+keyword	evil child
+keyword	hiding
+keyword	dead cat
+keyword	father in law son in law relationship
+keyword	flashlight
+keyword	photograph
+keyword	suicide note
+keyword	shovel
+keyword	hanged woman
+keyword	murder
+keyword	loss of mother
+keyword	loss of lover
+keyword	supernatural power
+keyword	fire
+keyword	new england
+keyword	car
+keyword	death of grandson
+keyword	dead pet
+keyword	clothes line
+keyword	raking leaves
+keyword	violence
+keyword	dead woman
+keyword	airport
+keyword	mother son relationship
+keyword	noose
+keyword	resurrection
+keyword	1980s
+keyword	dead rat
+keyword	death of sister
+keyword	tears
+keyword	intentionally misspelled title
+keyword	dead mother
+keyword	confession
+keyword	death of patient
+keyword	weapon
+keyword	child
+keyword	airplane
+keyword	house fire
+keyword	punched in the face
+keyword	lifting someone into the air
+keyword	murder of wife
+keyword	death of woman
+keyword	night
+keyword	magic
+keyword	death of pet
+keyword	female stockinged feet
+keyword	ghost
+keyword	visions
+keyword	lifting a female into the air
+keyword	darkness
+keyword	little boy
+keyword	funeral
+keyword	truck
+keyword	zombie
+keyword	dream
+keyword	atonal music score
+keyword	doctor
+keyword	title directed by female
+keyword	death of brother
+keyword	lifting a boy into the air
+keyword	watching tv
+keyword	music score features piano
+keyword	cult film
+keyword	lifting a child into the air
+keyword	flat tire
+keyword	gore
+keyword	school
+keyword	bed
+keyword	kite
+keyword	hiding under a bed
+keyword	arson
+keyword	chelsea smile
+keyword	death of wife
+keyword	head injury
+keyword	elongated cry of no
+keyword	blood
+keyword	brother sister relationship
+keyword	little girl
+keyword	murder of lover
+keyword	dead lover
+keyword	corpse
+keyword	loss of father
+keyword	female stockinged legs
+keyword	moon
+keyword	nightmare
+keyword	music score features boys choir
+keyword	death of lover
+keyword	killer child
+keyword	loss of parent
+keyword	lifting a girl into the air
+keyword	tire swing
+keyword	priest
+keyword	automobile
+keyword	foot closeup
+keyword	hitchhiking
+keyword	rescue
+keyword	burned alive
+keyword	loss of relative
+keyword	death of cat
+keyword	bathtub
+keyword	death of parent
+keyword	pick axe
+keyword	death of relative
+keyword	anguish
+keyword	author cameo
+keyword	pet cat
+keyword	murder of neighbor
+keyword	loss of pet
+keyword	pain
+keyword	telephone
+keyword	convulsion
+keyword	promise
+keyword	suicide
+keyword	swinging
+keyword	father son relationship
+keyword	hospital
+keyword	based on the works of stephen king
+keyword	anger
+keyword	symphonic music score
+keyword	dead parent
+keyword	tractor trailer
+keyword	rural setting
+keyword	kite flying
+keyword	airliner
+keyword	father daughter relationship
+keyword	indian burial ground
+keyword	burial ground
+keyword	husband wife relationship
+keyword	coffin
+keyword	tree swing
+keyword	loss of patient
+keyword	person on fire
+keyword	hit by a truck
+keyword	grave
+keyword	loss of son
+keyword	grave robbing
+keyword	psychotronic
+keyword	loss of friend
+keyword	pet dog
+keyword	suicide by hanging
+keyword	path
+keyword	dead man
+keyword	screenplay adapted by author
+keyword	back from the dead
+keyword	anger
+keyword	orchestral music score
+keyword	unholy resurrection
+keyword	son murders mother
+keyword	loss of child
+keyword	dead wife
+keyword	church
+keyword	dead animal
+keyword	flashback
+keyword	old man
+keyword	dog
+keyword	camera shot of feet
+keyword	cobweb
+keyword	dead boy
+keyword	gothic
+keyword	child in danger
+keyword	injury
+keyword	hanging
+keyword	toy
+keyword	bathroom
+keyword	dead son
+keyword	explosion
+keyword	loss of brother
+keyword	dead child
+keyword	mother daughter relationship
+keyword	loss of sister
+keyword	grief
+keyword	senior citizen
+keyword	death of neighbor
+keyword	pantyhose
+keyword	scalpel
+keyword	hat
+keyword	bumper sticker
+keyword	death of boy
+keyword	lifting a male into the air
+keyword	death of friend
+keyword	death of son
+keyword	death of mother
+keyword	based on novel
+keyword	surprise ending
+cast	Dale Midkiff	Louis Creed
+cast	Fred Gwynne	Jud Crandall
+cast	Denise Crosby	Rachel Creed
+cast	Brad Greenquist	Victor Pascow
+cast	Michael Lombard	Irwin Goldman
+cast	Miko Hughes	Gage Creed
+cast	Blaze Berdahl	Ellie Creed
+cast	Susan Blommaert	Missy Dandridge
+cast	Mara Clark	Marcy Charlton
+cast	Kavi Raz	Steve Masterton
+cast	Mary Louise Wilson	Dory Goldman
+cast	Andrew Hubatsek	Zelda
+cast	Liz Davies	Girl at Infirmary
+cast	Kara Dalke	Candystriper
+cast	Matthew August Ferrell	Jud as a Child
+cast	Lisa Stathoplos	Jud's Mother
+cast	Stephen King	Minister
+cast	Elizabeth Ureneck	Rachel as a Child
+cast	Chuck Courtney	Bill Baterman
+cast	Peter Stader	Timmy Baterman
+cast	Richard Collier	Young Jud
+cast	Chuck Shaw	Cop
+cast	Dorothy McCabe	Seatmate #1
+cast	Mary R. Hughes	Seatmate #2
+cast	Eleanor Grace Courtemanche	Logan Airport Gate Agent
+cast	Donnie Greene	Orinco Driver
+cast	Lila Duffy	Budget Clerk
+cast	John David Moore	Hitchhike Driver
+cast	Beau Berdahl	Ellie Creed II
+cast	Kira Willoughby	Mother at Logan Airport

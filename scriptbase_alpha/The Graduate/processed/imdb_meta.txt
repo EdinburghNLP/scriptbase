@@ -1,0 +1,184 @@
+year	1967
+imdb score	8.1
+meta score	77
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	love
+keyword	hotel room
+keyword	college graduate
+keyword	graduate
+keyword	date
+keyword	hotel
+keyword	nipples
+keyword	mother daughter relationship
+keyword	women's basketball
+keyword	husband wife relationship
+keyword	adultery
+keyword	watching tv
+keyword	pride
+keyword	love triangle
+keyword	gas station
+keyword	housewife
+keyword	nervousness
+keyword	apology
+keyword	sports car
+keyword	beer
+keyword	college student
+keyword	convertible
+keyword	plastic
+keyword	bar
+keyword	drinking
+keyword	wedding dress
+keyword	boyfriend girlfriend relationship
+keyword	people mover
+keyword	los angeles california
+keyword	rainstorm
+keyword	virginity
+keyword	sunglasses
+keyword	marriage
+keyword	berkeley california
+keyword	monkey
+keyword	swimming pool
+keyword	fraternity house
+keyword	unfaithfulness
+keyword	volkswagen beetle
+keyword	stripper
+keyword	mother son relationship
+keyword	telephone booth
+keyword	dry humor
+keyword	dysfunctional family
+keyword	gorilla
+keyword	neurotic
+keyword	obsession
+keyword	running after bus
+keyword	desk clerk
+keyword	jealousy
+keyword	blood test
+keyword	scotch
+keyword	divorce
+keyword	wedding
+keyword	father daughter relationship
+keyword	library
+keyword	drink
+keyword	bridal gown
+keyword	airport
+keyword	bourbon
+keyword	bus
+keyword	airplane
+keyword	older woman younger man relationship
+keyword	break up
+keyword	fish tank
+keyword	scream
+keyword	tadpoling
+keyword	rape accusation
+keyword	melodrama
+keyword	french fries
+keyword	kiss
+keyword	satire
+keyword	toothbrush
+keyword	may december romance
+keyword	smoking
+keyword	strip club
+keyword	anxiety
+keyword	santa barbara california
+keyword	business partner
+keyword	presbyterian
+keyword	tears
+keyword	underwear
+keyword	topless female nudity
+keyword	police
+keyword	marriage proposal
+keyword	female nudity
+keyword	running
+keyword	rebellion
+keyword	cult film
+keyword	rain
+keyword	chimpanzee
+keyword	extramarital affair
+keyword	promise
+keyword	alcoholic mother
+keyword	tassel
+keyword	undressing
+keyword	lawyer
+keyword	character's point of view camera shot
+keyword	underwater scene
+keyword	graduation party
+keyword	telephone call
+keyword	uc berkeley
+keyword	hamburger
+keyword	famous line
+keyword	unhappy marriage
+keyword	famous score
+keyword	interrupting a wedding
+keyword	confused boy
+keyword	running out of gas
+keyword	seduction
+keyword	birthday party
+keyword	pay phone
+keyword	breaking and entering
+keyword	face slap
+keyword	two word title
+keyword	face mask
+keyword	scuba
+keyword	alcoholic
+keyword	crying
+keyword	scuba diving outfit
+keyword	infidelity
+keyword	blockbuster
+keyword	alfa romeo
+keyword	virgin
+keyword	zoo
+keyword	cuckold
+keyword	cross
+keyword	deadpan
+keyword	father son relationship
+keyword	phone booth
+keyword	sunbathing
+keyword	shaving
+keyword	pursuit
+keyword	bare breasts
+keyword	1960s
+keyword	stockings
+keyword	twenty something
+keyword	bus ride
+keyword	landlord
+keyword	driving onto a curb
+keyword	forbidden love
+keyword	nudity
+keyword	church
+keyword	drive in restaurant
+keyword	bride and groom
+keyword	based on novel
+keyword	independent film
+keyword	
+cast	Anne Bancroft	Mrs. Robinson
+cast	Dustin Hoffman	Ben Braddock
+cast	Katharine Ross	Elaine Robinson
+cast	William Daniels	Mr. Braddock
+cast	Murray Hamilton	Mr. Robinson
+cast	Elizabeth Wilson	Mrs. Braddock
+cast	Buck Henry	Room Clerk
+cast	Brian Avery	Carl Smith
+cast	Walter Brooke	Mr. McGuire
+cast	Norman Fell	Mr. McCleery
+cast	Alice Ghostley	Mrs. Singleman
+cast	Marion Lorne	Miss DeWitte
+cast	Eddra Gale	Woman on Bus
+cast	Frank Baker	Hotel Guest
+cast	Buddy Douglas	Bellhop in Hotel Lobby
+cast	Richard Dreyfuss	Boarding House Resident
+cast	Mike Farrell	Bellhop in Hotel Lobby
+cast	Elisabeth Fraser	Second Lady
+cast	Donald F. Glut	College Student
+cast	Harry Holcombe	The Minister
+cast	Jonathan Hole	Mr. Singleman
+cast	Elaine May	Girl with Note for Benjamin
+cast	Lainie Miller	Night Club Stripper
+cast	Ben Murphy	Shaving Student
+cast	William H. O'Brien	Hotel Guest
+cast	Noam Pitlik	Gas Station Attendant
+cast	Hal Taggart	Hotel Guest
+cast	Kevin Tighe	Extra
+cast	Arthur Tovey	Hotel Guest
+cast	David Westberg	Valet Parker

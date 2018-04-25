@@ -1,0 +1,369 @@
+year	1976
+imdb score	7.4
+meta score	N/A
+genre	Horror
+genre	Thriller
+keyword	prom
+keyword	school
+keyword	student
+keyword	telekinesis
+keyword	teacher
+keyword	outsider
+keyword	pig blood
+keyword	classmate
+keyword	prank
+keyword	shower
+keyword	gym
+keyword	isolation
+keyword	gym teacher
+keyword	bucket
+keyword	tease
+keyword	revenge
+keyword	night
+keyword	blood
+keyword	religious fanatic
+keyword	evil
+keyword	pig
+keyword	mania
+keyword	gossip
+keyword	female nudity
+keyword	single mother
+keyword	kiss
+keyword	gothic
+keyword	female rear nudity
+keyword	work out
+keyword	taunting
+keyword	paranormal phenomena
+keyword	t shirt
+keyword	laughing
+keyword	one word title
+keyword	stars
+keyword	teenage girl in underwear
+keyword	sexual desire
+keyword	tomb
+keyword	fire
+keyword	fright
+keyword	blow job
+keyword	mother daughter relationship
+keyword	practical joke
+keyword	based on the works of stephen king
+keyword	generation gap
+keyword	forbidden love
+keyword	opening credit bush
+keyword	dance
+keyword	young love
+keyword	dead woman with eyes open
+keyword	psychic power
+keyword	cult film
+keyword	shyness
+keyword	water
+keyword	teen angst
+keyword	public humiliation
+keyword	oral sex in a car
+keyword	religion
+keyword	graffiti
+keyword	attraction
+keyword	nudity
+keyword	kissing
+keyword	alone
+keyword	horror movie remade
+keyword	slumber party
+keyword	mass death
+keyword	violence
+keyword	supernatural
+keyword	danger
+keyword	prayer
+keyword	teenager
+keyword	bad girl
+keyword	loner
+keyword	out of control
+keyword	extrasensory perception
+keyword	fanaticism
+keyword	bible
+keyword	dying
+keyword	street
+keyword	vagina
+keyword	high school dance
+keyword	hell
+keyword	collapsing house
+keyword	locker room
+keyword	overprotective parent
+keyword	guilt
+keyword	panties
+keyword	electrocution
+keyword	shirt
+keyword	hostility
+keyword	teenager
+keyword	paranoia
+keyword	icon
+keyword	bicycle
+keyword	school yearbook
+keyword	teenage sex
+keyword	boyfriend girlfriend relationship
+keyword	crush
+keyword	trauma
+keyword	ball
+keyword	covered in blood
+keyword	pink dress
+keyword	dead woman
+keyword	death
+keyword	trees
+keyword	burned up car
+keyword	cult director
+keyword	coming of age
+keyword	surprise
+keyword	ridicule
+keyword	stabbed in the back
+keyword	burning house
+keyword	teenage boy
+keyword	library
+keyword	mass destruction
+keyword	bra
+keyword	terror
+keyword	sinister
+keyword	classroom
+keyword	supernatural power
+keyword	shy girl
+keyword	firestorm
+keyword	sin
+keyword	psionic power
+keyword	stabbed in the chest
+keyword	house
+keyword	joy
+keyword	teenage prankster
+keyword	teen romance
+keyword	split screen
+keyword	bad mother
+keyword	trousers
+keyword	cross
+keyword	shorts
+keyword	rejection
+keyword	destruction
+keyword	fellatio
+keyword	woman kills woman
+keyword	alienation
+keyword	fear
+keyword	underwear
+keyword	near future
+keyword	panic
+keyword	humiliation
+keyword	menstruation
+keyword	depression
+keyword	blockbuster
+keyword	oral sex
+keyword	tragedy
+keyword	teenage girl
+keyword	teenage alienation
+keyword	night time
+keyword	abuse of power
+keyword	high school sweethearts
+keyword	cruelty
+keyword	love
+keyword	hit on the head
+keyword	impalement
+keyword	future
+keyword	matricide
+keyword	wrong side of the tracks
+keyword	teen movie
+keyword	locked door
+keyword	cruel joke
+keyword	disappointment
+keyword	buttocks
+keyword	oddball
+keyword	sadness
+keyword	cracked mirror
+keyword	saint sebastian
+keyword	torso cut in half
+keyword	disturbed individual
+keyword	sexual repression
+keyword	bucket of blood
+keyword	punishment
+keyword	underage
+keyword	party dress
+keyword	sex
+keyword	closed doors
+keyword	loss of control
+keyword	outcast
+keyword	multiple stabbing
+keyword	anger
+keyword	fury
+keyword	yearbook
+keyword	unrequited love
+keyword	religious zealot
+keyword	index cards
+keyword	convertible
+keyword	menstrual blood
+keyword	homicide
+keyword	gym class
+keyword	psychic
+keyword	strange person
+keyword	desolation
+keyword	class differences
+keyword	crown
+keyword	tampon
+keyword	school on fire
+keyword	bitterness
+keyword	backwards
+keyword	car
+keyword	crowd
+keyword	sadism
+keyword	teenage sexuality
+keyword	sexual humiliation
+keyword	prom dress
+keyword	mother versus daughter
+keyword	symbol
+keyword	rose
+keyword	watching tv
+keyword	candle
+keyword	rock band
+keyword	sexuality
+keyword	school principal
+keyword	teen love
+keyword	female protagonist
+keyword	troubled teenage girl
+keyword	burning
+keyword	prom queen
+keyword	bathroom
+keyword	schoolgirl
+keyword	long hair
+keyword	nightmare
+keyword	compassion
+keyword	juvenile
+keyword	poetry
+keyword	graveyard
+keyword	stabbed in the hand
+keyword	ashtray
+keyword	grave
+keyword	evil student
+keyword	murder
+keyword	white dress
+keyword	brunette
+keyword	inferiority complex
+keyword	cult film
+keyword	knife
+keyword	rampage
+keyword	wrath
+keyword	desire
+keyword	high school
+keyword	disillusionment
+keyword	high school love
+keyword	prom ballot
+keyword	stress disorder
+keyword	high school student
+keyword	stage
+keyword	stabbing
+keyword	principal's office
+keyword	under stairs
+keyword	adolescent romance
+keyword	sexual attraction
+keyword	evil woman
+keyword	dating
+keyword	menarche
+keyword	multiple views
+keyword	dream sequence
+keyword	domineering mother
+keyword	dress
+keyword	school teacher
+keyword	volleyball
+keyword	first love
+keyword	nerd
+keyword	repression
+keyword	misfit
+keyword	goth
+keyword	jacket
+keyword	woman stabbed
+keyword	knocked unconscious
+keyword	bare breasts
+keyword	firestarter
+keyword	cult film
+keyword	dysfunctional family
+keyword	face slap
+keyword	sibling rivalry
+keyword	fire engine
+keyword	washing
+keyword	dance contest
+keyword	hysteria
+keyword	teenage romance
+keyword	villain not really dead cliche
+keyword	popularity
+keyword	bedroom
+keyword	child abuse
+keyword	vengeance
+keyword	rage
+keyword	falling down stairs
+keyword	bullying
+keyword	teacher student relationship
+keyword	bully
+keyword	high school prom
+keyword	female slaps female
+keyword	teenage love
+keyword	psychological trauma
+keyword	stabbed to death
+keyword	adolescence
+keyword	dream
+keyword	dark heroine
+keyword	bloodbath
+keyword	hand from grave
+keyword	deeply disturbed person
+keyword	teenage daughter
+keyword	doubt
+keyword	crying
+keyword	death by falling object
+keyword	dancing
+keyword	opposites attract
+keyword	female bully
+keyword	firetruck
+keyword	reverse footage
+keyword	slow motion
+keyword	cemetery
+keyword	female teacher
+keyword	prom night
+keyword	female student
+keyword	school life
+keyword	underground
+keyword	year 1979
+keyword	1970s
+keyword	screaming
+keyword	demonic possession
+keyword	blonde
+keyword	female frontal nudity
+keyword	school dance
+keyword	prom king
+keyword	principal
+keyword	self confidence
+keyword	suspense
+keyword	death of mother
+keyword	death of friend
+keyword	based on novel
+keyword	based on book
+keyword	independent film
+keyword	title spoken by character
+keyword	character name in title
+keyword	surprise ending
+keyword	
+cast	Sissy Spacek	Carrie
+cast	Piper Laurie	Margaret White
+cast	Amy Irving	Sue Snell
+cast	William Katt	Tommy Ross
+cast	John Travolta	Billy Nolan
+cast	Nancy Allen	Chris Hargensen
+cast	Betty Buckley	Miss Collins
+cast	P.J. Soles	Norma
+cast	Priscilla Pointer	Mrs. Snell
+cast	Sydney Lassick	Mr. Fromm
+cast	Stefan Gierasch	Mr. Morton
+cast	Michael Talbott	Freddy
+cast	Doug Cox	The Beak
+cast	Harry Gold	George
+cast	Noelle North	Frieda
+cast	Cindy Daly	Cora
+cast	Deirdre Berthrong	Rhonda
+cast	Anson Downes	Ernest
+cast	Rory Stevens	Kenny
+cast	Edie McClurg	Helen
+cast	Cameron De Palma	Boy on Bicycle
+cast	Terry Bolo	Borne
+cast	Katie Irving	Katie O'Shea / Voice of The Balladeer
+cast	Dan Protheroe	Bassist - Vance or Towers
+cast	Mike Towers	Vance or Towers
+cast	Glen Vance	Vance or Towers

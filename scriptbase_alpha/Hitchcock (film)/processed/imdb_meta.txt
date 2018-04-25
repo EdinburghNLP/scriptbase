@@ -1,0 +1,154 @@
+year	2012
+imdb score	6.9
+meta score	55
+genre	Biography
+genre	Drama
+keyword	filmmaker
+keyword	1960s
+keyword	marital discord
+keyword	1950s
+keyword	husband wife relationship
+keyword	film set
+keyword	movie theater
+keyword	husband wife team
+keyword	movie making
+keyword	writing collaboration
+keyword	marital argument
+keyword	oath
+keyword	movie actress
+keyword	movie director
+keyword	dog
+keyword	actor
+keyword	movie studio
+keyword	film actor
+keyword	movie maker
+keyword	hallucination
+keyword	movie actor
+keyword	release
+keyword	black humor
+keyword	crow
+keyword	adultery
+keyword	hollywood
+keyword	joke
+keyword	reference to princess grace of monaco
+keyword	beach house
+keyword	filmmaker name in title
+keyword	no opening credits
+keyword	filmmaking
+keyword	automobile
+keyword	humor
+keyword	moviemaking
+keyword	one word title
+keyword	swimming pool
+keyword	blonde
+keyword	filmmaking
+keyword	director
+keyword	filmmaker
+keyword	film actress
+keyword	prologue
+keyword	actress
+keyword	film director
+keyword	epilogue
+keyword	looking at the camera
+keyword	moviemaker
+keyword	scene after end credits
+keyword	talking to the camera
+keyword	cartoon on tv
+keyword	based on book
+keyword	title spoken by character
+keyword	character name in title
+cast	Anthony Hopkins	Alfred Hitchcock
+cast	Helen Mirren	Alma Reville
+cast	Scarlett Johansson	Janet Leigh
+cast	Danny Huston	Whitfield Cook
+cast	Toni Collette	Peggy Robertson
+cast	Michael Stuhlbarg	Lew Wasserman
+cast	Michael Wincott	Ed Gein
+cast	Jessica Biel	Vera Miles
+cast	James D'Arcy	Anthony Perkins
+cast	Richard Portnow	Barney Balaban
+cast	Kurtwood Smith	Geoffrey Shurlock
+cast	Ralph Macchio	Joseph Stefano
+cast	Kai Lennox	Hilton Green
+cast	Tara Summers	Rita Riggs
+cast	Wallace Langham	Saul Bass
+cast	Paul Schackman	Bernard Herrmann
+cast	Currie Graham	PR Flack
+cast	Spencer Garrett	George Tomasini
+cast	Terry Rhoads	Jack Russell
+cast	Tom Virtue	NY Theater Manager
+cast	Karina Deyko	Pretty Secretary
+cast	Steven Lee Allen	Crew Member
+cast	Richard Chassler	Martin Balsam
+cast	Frank Collison	Henry Gein
+cast	Melinda Chilton	Margo
+cast	Mary Anne McGarry	Hedda Hopper Type
+cast	Jon Abrahams	Reporter #1
+cast	Gil McKinney	Reporter #2
+cast	Emma Jacobs	Blonde Fan
+cast	Spencer Leigh	Nunzio
+cast	Sean MacPherson	Waiter
+cast	Gerald V. Casale	David Kirkpatrick
+cast	Tara Arroyave	Woman Waiting in Line
+cast	Judith Hoag	Lillian
+cast	Josh Yeo	John Gavin
+cast	Danielle Burgio	Dead Woman in Tub
+cast	John Lacy	First Guard
+cast	Howard Gibson	Party Guest
+cast	Josette Prevost	Party Guest
+cast	Lorie Stewart	Party Guest
+cast	Jaehne Moebius	Party Guest
+cast	Ana Matallana	Female Prop Assistant
+cast	Lindsey Ginter	Male Prop Master
+cast	Paul Henderson	Beach Walker
+cast	Kay Henderson	Beach Walker
+cast	Lisa Marie Boiko	Film Crew
+cast	Richard Burns	Film Crew
+cast	Meredith Claire	Film Crew
+cast	Alexia DuBasso	Film Crew
+cast	Jonn Faircrest	Film Crew
+cast	Gina Fricchione	Film Crew
+cast	James R. Gavio	Film Crew
+cast	James Henderson	Film Crew
+cast	Bruce Holman	Film Crew
+cast	Dion W.H. Holt	Film Crew
+cast	Jeremiah Hundley	Film Crew
+cast	Michael Kurtz	Film Crew
+cast	Joseph Martino	Film Crew
+cast	Jeremy S. Miles	Film Crew
+cast	Jon Renfield	Film Crew
+cast	Linda Sans	Film Crew
+cast	James Tappan	Film Crew
+cast	Jon Thibault	Film Crew
+cast	Sebastian Vale	Film Crew
+cast	Jason Wingo	Film Crew
+cast	Cynthia Youngblood	Film Crew
+cast	Rapunzel	Geoffrey
+cast	Cinderella	Stanley
+cast	Kimberly Jo Howard	Premier Theater Guest
+cast	Rene Auberjonois	Censor
+cast	Karissa Barney	Fan
+cast	Bill Blair	Premier Theatre Guest
+cast	Lee Christian	New York News Photographer
+cast	Claudette Colbert	Lee Addams in The Secret Heart
+cast	Sabrina Diaz	Chorus Girl
+cast	Cathy Fielding	Chasen's Patron
+cast	Leni Ford	Lady Chicago
+cast	Christopher J. Goodman	
+cast	Mandy Henderson	Premier Movie Patron
+cast	David Hill	Leonard J South - Camera Operator
+cast	Ian Mackay	Chasen's Waiter
+cast	Craig Meier	William Russell - Sound Recorder
+cast	Tom Michaels	Grip Maintenance Worker
+cast	Walter Pidgeon	Chris Matthews in The Secret Heart
+cast	Geoff Pilkington	Janet Leigh Fan
+cast	Deborah Rombaut	
+cast	John Rothman	Accountant
+cast	Matt Samuel	
+cast	Mia Serafino	Secretary
+cast	Gary Sievers	Inmate Mental Patient
+cast	Joel Thingvall	Press Photographer
+cast	London Vale	Myra Davis
+cast	Matt Weinglass	Inmate Mental Patient
+cast	Cletus Young	Chet
+cast	Rafael Zubizarreta	

@@ -1,0 +1,232 @@
+year	2007
+imdb score	7.7
+meta score	76
+genre	Comedy
+keyword	party
+keyword	high school
+keyword	friend
+keyword	school
+keyword	love
+keyword	high school senior
+keyword	fake id
+keyword	best friend
+keyword	striptease
+keyword	crush
+keyword	sex scene
+keyword	adolescent girl
+keyword	square root of negative one
+keyword	teen sex comedy
+keyword	voyeur
+keyword	kicked in the face
+keyword	sleep over
+keyword	sexual attraction
+keyword	blue panties
+keyword	high school girl
+keyword	baking cake
+keyword	sexual humor
+keyword	sobriety
+keyword	panties
+keyword	eighty dollar bill
+keyword	cleavage
+keyword	detergent
+keyword	foot race
+keyword	2000s
+keyword	burning car
+keyword	beer run
+keyword	singing
+keyword	bra
+keyword	bar
+keyword	bra and panties
+keyword	product placement
+keyword	car set on fire
+keyword	desire
+keyword	fantasy sequence
+keyword	underage smoking
+keyword	underage drinking
+keyword	dance
+keyword	coming of age
+keyword	one word title
+keyword	joyriding
+keyword	puma
+keyword	affection
+keyword	teenager
+keyword	drug humor
+keyword	drunken sex
+keyword	vomit
+keyword	home economics
+keyword	multicolor pen
+keyword	tribadism
+keyword	masturbation
+keyword	clumsiness
+keyword	panties slip
+keyword	talking about sex
+keyword	hawaii driver's licence
+keyword	liquor run
+keyword	phallus
+keyword	funky music
+keyword	violence
+keyword	police chase
+keyword	vodka
+keyword	adult magazine
+keyword	gay slur
+keyword	mini skirt
+keyword	bong
+keyword	mother son relationship
+keyword	video surveillance
+keyword	menstrual blood
+keyword	visible thong straps
+keyword	green beer
+keyword	car accident
+keyword	vest
+keyword	bus
+keyword	flashback
+keyword	liquor store
+keyword	girl stripped down to panties
+keyword	shooting at stop sign
+keyword	hit by a car
+keyword	man with glasses
+keyword	bourbon
+keyword	black eye
+keyword	boy with glasses
+keyword	teetotaler
+keyword	supermarket
+keyword	popsicle
+keyword	scantily clad female
+keyword	spit
+keyword	cult film
+keyword	brawl
+keyword	sex comedy
+keyword	cell phone
+keyword	jealousy
+keyword	intimidation
+keyword	police officer
+keyword	suburbia
+keyword	department store
+keyword	sexual fantasy
+keyword	internet pornography
+keyword	studio logo segues into film
+keyword	high school boy
+keyword	premarital sex
+keyword	hot dog
+keyword	dancing
+keyword	punched in the face
+keyword	dork
+keyword	black humor
+keyword	kissing
+keyword	police car
+keyword	cooking
+keyword	cult film
+keyword	head butt
+keyword	hawaii
+keyword	restaurant
+keyword	camel toe
+keyword	voyeurism
+keyword	throat slitting
+keyword	embarrassment
+keyword	molotov cocktail
+keyword	thong
+keyword	artificial leg
+keyword	codependent
+keyword	shopping mall
+keyword	drawing
+keyword	bromance
+keyword	spit in the face
+keyword	crotch slip
+keyword	pink bra
+keyword	bloody pants
+keyword	menstruation
+keyword	loss of virginity
+keyword	cocaine
+keyword	drugs
+keyword	marijuana
+keyword	teenage boy
+keyword	teen comedy
+keyword	number 911
+keyword	adolescent boy
+keyword	attraction
+keyword	friendship
+keyword	soccer ball
+keyword	grinding
+keyword	suburb
+keyword	myspace
+keyword	underage sex
+keyword	robbery
+keyword	kiss
+keyword	labia
+keyword	gangsta grip
+keyword	girl stripped down to bra
+keyword	pistol
+keyword	sexual desire
+keyword	teenage girl
+cast	Jonah Hill	Seth
+cast	Michael Cera	Evan
+cast	Christopher Mintz-Plasse	Fogell
+cast	Bill Hader	Officer Slater
+cast	Seth Rogen	Officer Michaels
+cast	Martha MacIsaac	Becca
+cast	Emma Stone	Jules
+cast	Aviva Baumann	Nicola
+cast	Joe Lo Truglio	Francis the Driver
+cast	Kevin Corrigan	Mark
+cast	Clement Blake	Homeless Guy
+cast	Erica Vittina Phillips	Liquor Store Cashier
+cast	Joe Nunez	Liquor Store Clerk
+cast	Dave Franco	Greg the Soccer Player
+cast	Marcella Lentz-Pope	Gaby
+cast	Scottie Gerbacia	Jesse
+cast	Laura Seay	Shirley
+cast	Roger Iwami	Miroki
+cast	Clint Mabry	Prosthetic Leg Kid
+cast	Stacy Edwards	Evan's Mom
+cast	Mark Rogen	Father with Bat
+cast	Charlie Hartsock	Good Shopper Cashier
+cast	Donna Hardy	Old Lady
+cast	Charley Rossman	Good Shopper Security
+cast	Carla Gallo	Period Blood Girl
+cast	Ben Best	Quince Danbury
+cast	Jody Hill	Tut Long John Silver
+cast	Kevin Breznahan	Patrick Manchester
+cast	David Krumholtz	Benji Austin
+cast	Mousa Kraish	Billy Baybridge
+cast	Nicholas Jasenovec	Coffee Fairmount
+cast	Martin Starr	James Masselin
+cast	Keith Loneker	Wild Bill Cherry
+cast	Matt McKane	Kane Cloverdale
+cast	Lauren Miller	Scarlett Brighton
+cast	Peter Salett	Tiger Greendragon
+cast	Rakefet Abergel	Muffin Selby
+cast	Brooke Dillman	Mrs. Hayworth
+cast	Michael Naughton	Gym Teacher
+cast	Steve Bannos	Math Teacher
+cast	Casey Margolis	Young Seth
+cast	Laura Marano	Young Becca
+cast	Matthew Bass	Vagtastic Voyager
+cast	Aurora Snow	Vagtastic Voyage Girl
+cast	Jenna Haze	Vagtastic Voyage Girl
+cast	Ted Haigh	Bartender
+cast	Michael Fennessey	Bus Driver
+cast	Brian Huskey	Elementary Principal
+cast	Clark Duke	Party Teenager
+cast	Stephen Borrello IV	Party Teenager
+cast	Naathan Phan	Party Teenager
+cast	Pamella D'Pella	Teacher
+cast	Christopher L. Antie	Student
+cast	Darya Balyura	Partygoer
+cast	Stacy Choe	Math Student
+cast	Chelsey Dailey	Pepsi Cheyenne
+cast	Ryan de Quintal	Seth's Friend
+cast	Joseph DeLuca	Seth's Father
+cast	Erica Ford	Jules's Friend
+cast	Clayton Frey	Drunk Dude
+cast	Lindsay Hanzl	School Girl
+cast	Preston Jones	Bully
+cast	Carrie Keagan	Party Girl
+cast	Jill Maddrell	Party Guest
+cast	Danny McBride	Buddy at Party
+cast	Andrew Jackson Murphy	Party Goer
+cast	Cortney Palm	Party Guest
+cast	Mark Provencher	Adult Partygoer
+cast	Amy Schloerb	Partygoer
+cast	Calvin Sykes	Student
+cast	John Tremaine	Man at Bar
+cast	Amanda Zubillaga	Dancing Party Girl

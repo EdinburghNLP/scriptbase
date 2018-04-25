@@ -1,0 +1,256 @@
+year	1999
+imdb score	6.7
+meta score	44
+genre	Mystery
+genre	Thriller
+keyword	book
+keyword	rare book
+keyword	gate
+keyword	collector
+keyword	supernatural
+keyword	europe
+keyword	the devil
+keyword	engraving
+keyword	devil
+keyword	bookstore
+keyword	widow
+keyword	forgery
+keyword	search
+keyword	france
+keyword	portugal
+keyword	paris france
+keyword	occult
+keyword	supernatural power
+keyword	conspiracy
+keyword	twin brother
+keyword	legend
+keyword	baroness
+keyword	track
+keyword	spain
+keyword	writer
+keyword	burned at the stake
+keyword	lucifer
+keyword	bodyguard
+keyword	sex
+keyword	riddle
+keyword	sex outside
+keyword	microwave oven
+keyword	blood on face
+keyword	ambiguous ending
+keyword	hand on crotch
+keyword	secret society
+keyword	drinking
+keyword	taxi driver
+keyword	book detective
+keyword	sneakers
+keyword	hanged man
+keyword	dead woman with protruding tongue
+keyword	copying machine
+keyword	nudity
+keyword	reference to julius caesar
+keyword	puzzle
+keyword	blowing smoke into someone's face
+keyword	knocked unconscious
+keyword	death stare
+keyword	chateau
+keyword	suicide
+keyword	kicked in the stomach
+keyword	murder
+keyword	secretary
+keyword	penthouse
+keyword	albino
+keyword	suicide by hanging
+keyword	violinist
+keyword	chandelier
+keyword	castle
+keyword	witch
+keyword	actor playing multiple roles
+keyword	kiss
+keyword	pentagram
+keyword	gas station
+keyword	refrigerator
+keyword	telephone call
+keyword	desk
+keyword	mansion
+keyword	desire
+keyword	devil worship
+keyword	stabbed in the throat
+keyword	bare butt
+keyword	stairway
+keyword	following someone
+keyword	climbing up a wall
+keyword	satanic ritual
+keyword	phone booth
+keyword	punched in the face
+keyword	burned alive
+keyword	self immolation
+keyword	scratching someone's face
+keyword	female rear nudity
+keyword	fire
+keyword	bar
+keyword	fight
+keyword	old man
+keyword	hanging
+keyword	stalking
+keyword	cigarette smoking
+keyword	biting
+keyword	mysterious woman
+keyword	karate
+keyword	water fountain
+keyword	death of husband
+keyword	femme fatale
+keyword	rain
+keyword	postcard
+keyword	666
+keyword	noose
+keyword	wealth
+keyword	magnifying glass
+keyword	goldfish pond
+keyword	investigation
+keyword	wheelchair
+keyword	book burning
+keyword	bibliophilia
+keyword	car chase
+keyword	beaten to death
+keyword	unholy book
+keyword	drowning
+keyword	corpse
+keyword	beating
+keyword	st. martin
+keyword	pickup truck
+keyword	tattoo
+keyword	thief
+keyword	deception
+keyword	satanic
+keyword	eyeglasses
+keyword	airport
+keyword	missing arm
+keyword	authority
+keyword	book dealer
+keyword	orgy
+keyword	seduction
+keyword	ice pack
+keyword	breaking a bottle over someone's head
+keyword	airplane
+keyword	gasoline
+keyword	falling down stairs
+keyword	priceless artifact
+keyword	building a fire
+keyword	motorcycle
+keyword	manuscript
+keyword	gun
+keyword	american abroad
+keyword	ritual
+keyword	saying boo
+keyword	nude drawing
+keyword	hooded figure
+keyword	car theft
+keyword	broken eyeglasses
+keyword	taxi
+keyword	hung upside down
+keyword	amputated hand
+keyword	subjective camera
+keyword	railway station
+keyword	dead woman with eyes open
+keyword	fireplace
+keyword	hotel
+keyword	logging truck
+keyword	dog
+keyword	shell
+keyword	summoning the devil
+keyword	hell
+keyword	french
+keyword	unconsciousness
+keyword	lecture
+keyword	library
+keyword	satanic cult
+keyword	robbery
+keyword	restaurant
+keyword	candle
+keyword	mercenary
+keyword	ambition
+keyword	pistol
+keyword	collecting
+keyword	breaking and entering
+keyword	raised middle finger
+keyword	ransacked apartment
+keyword	orgasm
+keyword	amateur sleuth
+keyword	writing
+keyword	reference to satan
+keyword	witchcraft
+keyword	woman strangled to death
+keyword	bare breasts
+keyword	person on fire
+keyword	lucky strike cigarette
+keyword	ritual murder
+keyword	page torn from a book
+keyword	satanism
+keyword	stockings
+keyword	falling through the floor
+keyword	millionaire
+keyword	destiny
+keyword	cafe
+keyword	bloody nose
+keyword	choking
+keyword	train
+keyword	held at gunpoint
+keyword	chase
+keyword	reference to how to win friends and influence people
+keyword	new york city
+keyword	topless female nudity
+keyword	pulling someone's hair
+keyword	filling station
+keyword	reference to don quixote
+keyword	greed
+keyword	neo noir
+keyword	blood
+keyword	strangulation
+keyword	private library
+keyword	man with glasses
+keyword	theft
+keyword	gnosticism
+keyword	aristocracy
+keyword	pay phone
+keyword	collapsing scaffold
+keyword	violin
+keyword	scaffold
+keyword	bare chested male
+keyword	death
+keyword	illuminati
+keyword	drink
+keyword	carnapping
+keyword	death of friend
+keyword	independent film
+keyword	based on novel
+keyword	title spoken by character
+keyword	number in title
+cast	Johnny Depp	Dean Corso
+cast	Frank Langella	Boris Balkan
+cast	Lena Olin	Liana Telfer
+cast	Emmanuelle Seigner	The Girl
+cast	Barbara Jefford	Baroness Kessler
+cast	Jack Taylor	Victor Fargas
+cast	José López Rodero	Pablo & Pedro Ceniza / 1st & 2nd Workmen
+cast	Tony Amoni	Liana's Bodyguard
+cast	James Russo	Bernie
+cast	Willy Holt	Andrew Telfer
+cast	Allen Garfield	Witkin
+cast	Jacques Dacqmine	Old Man
+cast	Joe Sheridan	Old Man's Son
+cast	Rebecca Pauly	Daughter-In-Law
+cast	Catherine Benguigui	Concierge
+cast	Maria Ducceschi	Secretary
+cast	Jacques Collard	Gruber
+cast	Dominique Pozzetto	Desk Clerk
+cast	Emanuel Booz	Baker
+cast	Lino Ribeiro de Sousa	Hotel Porter
+cast	Asil Raïs	Cabby
+cast	Bernard Richier	Cafe Owner
+cast	Marinette Richier	Cafe Owner
+cast	Diane Hawkins	
+cast	Jane Bradbury	Demon
+cast	Samuel de Luze	Extra
+cast	Christopher Goodman	American Businessman
+cast	Lee Michelsen	Homeless
+cast	Jacquelyn Toman	

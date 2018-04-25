@@ -1,0 +1,350 @@
+year	1999
+imdb score	6.8
+meta score	33
+genre	Comedy
+genre	Music
+keyword	kiss
+keyword	concert
+keyword	band
+keyword	high school
+keyword	teenager
+keyword	teenager
+keyword	underwear
+keyword	reference to lassie
+keyword	belch
+keyword	stripping
+keyword	swedish
+keyword	pimple
+keyword	hustler magazine
+keyword	confessional
+keyword	geek
+keyword	porno movie
+keyword	gay
+keyword	reference to the journey the band
+keyword	reference to burt reynolds
+keyword	reference to donny and marie osmond
+keyword	drugs
+keyword	female to male foot in crotch
+keyword	long hair
+keyword	auto theft
+keyword	pokies
+keyword	bell bottoms
+keyword	disc jockey
+keyword	cafeteria
+keyword	cross
+keyword	friendship
+keyword	hit in the crotch
+keyword	kneed in the crotch
+keyword	jewish
+keyword	homosexual
+keyword	reference to steve martin
+keyword	father son relationship
+keyword	singing
+keyword	reference to the hulk
+keyword	reference to blue oyster cult
+keyword	priest
+keyword	music concert
+keyword	handcuffs
+keyword	reference to farrah fawcett
+keyword	drink
+keyword	nerd
+keyword	religious parents
+keyword	classroom
+keyword	guitar
+keyword	kiss the band
+keyword	father daughter relationship
+keyword	film projector
+keyword	stolen car
+keyword	tampon
+keyword	concert ticket
+keyword	face painting
+keyword	black bra
+keyword	chop shop
+keyword	liar
+keyword	8 track
+keyword	pinched butt
+keyword	reference to leif garrett
+keyword	rock music
+keyword	reference to the jamestown suicide
+keyword	car radio
+keyword	red dress
+keyword	strip contest
+keyword	pizza
+keyword	reference to the carpenters
+keyword	lie
+keyword	split screen
+keyword	rock concert
+keyword	gargoyle
+keyword	premature ejaculation
+keyword	apology
+keyword	classic rock music
+keyword	city name in title
+keyword	reference to kool and the gang
+keyword	policeman
+keyword	heavy metal
+keyword	virginity
+keyword	reference to freddie prinze
+keyword	day glo
+keyword	reference to jimmy carter
+keyword	car accident
+keyword	ob gyn
+keyword	period piece
+keyword	erection
+keyword	virgin
+keyword	domineering mother
+keyword	restaurant
+keyword	nudity
+keyword	crossing self
+keyword	station wagon
+keyword	place name in title
+keyword	backstage pass
+keyword	reference to chippendale's the nightclub
+keyword	guard dog
+keyword	singer
+keyword	thief
+keyword	sex in car
+keyword	boy band
+keyword	car
+keyword	reference to elvis presley
+keyword	gay slur
+keyword	gynecologist
+keyword	lava lamp
+keyword	cafe
+keyword	record player
+keyword	homophobia
+keyword	drinking
+keyword	mushroom
+keyword	teacher
+keyword	slow motion scene
+keyword	school bus
+keyword	cult music band
+keyword	reference to erma bombeck
+keyword	coming of age
+keyword	reference to kent state
+keyword	menstruation
+keyword	religious mother
+keyword	family relationships
+keyword	tape recording
+keyword	drug use
+keyword	knocking heads rogether
+keyword	brother brother relationship
+keyword	reference to richard nixon
+keyword	reference to andy warhol
+keyword	flatulence
+keyword	boy
+keyword	porn magazine
+keyword	comic book
+keyword	bar
+keyword	panama red
+keyword	reckless driving
+keyword	gym class
+keyword	loudspeaker
+keyword	reference to jimmy jay walker
+keyword	acne
+keyword	reference to donna summer
+keyword	sex
+keyword	reference to american bandstand
+keyword	elevator
+keyword	pinball machine
+keyword	st. bernard
+keyword	reference to donny most
+keyword	theft
+keyword	music group
+keyword	vomit
+keyword	loss of virginity
+keyword	telephone call
+keyword	reference to deney terrio
+keyword	pay phone
+keyword	vandalism
+keyword	chase
+keyword	radio station
+keyword	teenager
+keyword	class
+keyword	penis
+keyword	floating hand
+keyword	detention
+keyword	smiley face
+keyword	sparkler
+keyword	cigarette smoking
+keyword	reference to the bay city rollers
+keyword	crucifix
+keyword	rifle
+keyword	enema
+keyword	title based on song
+keyword	wine
+keyword	teenage girl
+keyword	reference to general motors
+keyword	reference to carly simon
+keyword	stoned
+keyword	hot tub
+keyword	nose drops
+keyword	stage fright
+keyword	reference to billy jack
+keyword	ejaculation
+keyword	1970s
+keyword	song
+keyword	microphone
+keyword	bathroom
+keyword	fire
+keyword	painted face
+keyword	reference to cheech and chong
+keyword	recording
+keyword	rock band
+keyword	listening to music
+keyword	female nudity
+keyword	i.d.
+keyword	subjective camera
+keyword	money
+keyword	pizza delivery boy
+keyword	lsd
+keyword	four best friends
+keyword	nun
+keyword	radio contest
+keyword	bong
+keyword	reference to k c and the sunshine band
+keyword	catholic church
+keyword	face paint
+keyword	prodigal son
+keyword	alcoholic drink
+keyword	box office flop
+keyword	topless female nudity
+keyword	reference to patty hearst
+keyword	reference to mark spitz
+keyword	volvo
+keyword	rock 'n' roll
+keyword	reference to lee majors
+keyword	dog
+keyword	van
+keyword	drums
+keyword	church
+keyword	bare breasts
+keyword	urination
+keyword	cleveland ohio
+keyword	hallucination
+keyword	obscene finger gesture
+keyword	poster
+keyword	reference to sonny and cher
+keyword	wetting pants
+keyword	mother daughter relationship
+keyword	roadie
+keyword	test tube baby
+keyword	friend
+keyword	female sitting on a toilet
+keyword	strip club
+keyword	reference to bobby kennedy
+keyword	bubble gum
+keyword	polka
+keyword	orff carmina burana
+keyword	bra less teen
+keyword	frisbee
+keyword	striptease
+keyword	teenage boy
+keyword	police
+keyword	reference to henry winkler
+keyword	disco
+keyword	nose
+keyword	detroit michigan
+keyword	catholic
+keyword	marijuana
+keyword	reference to club 54
+keyword	reference to reo speedway
+keyword	mother son relationship
+keyword	chain smoking
+keyword	older woman younger man relationship
+keyword	reference to john travolta
+keyword	girls' bathroom
+keyword	attempted robbery
+keyword	fight
+keyword	cult film
+keyword	sex in a confession booth
+keyword	reference to john belushi
+keyword	blood
+keyword	reference to albert einstein
+keyword	knights in satan's service
+keyword	reference to richard pryor
+keyword	student
+keyword	reference to the village people
+keyword	reference to tom laughlin
+keyword	beating
+keyword	title spoken by character
+cast	Giuseppe Andrews	Lex
+cast	James DeBello	Trip
+cast	Edward Furlong	Hawk
+cast	Sam Huntington	Jam
+cast	Lin Shaye	Mrs. Bruce
+cast	Melanie Lynskey	Beth
+cast	Natasha Lyonne	Christine
+cast	Miles Dougal	Elvis
+cast	Nick Scotti	Kenny
+cast	Emmanuelle Chriqui	Barbara
+cast	David Quane	Bobby
+cast	Rodger Barton	Mr. Bumsteen
+cast	Kathryn Haggis	Mrs. Bumsteen
+cast	David Gardner	Priest
+cast	Shannon Tweed	Amanda Finch
+cast	Kristin Booth	Cashier
+cast	Joe Flaherty	Father McNulty
+cast	Cody Jones	Little Kid
+cast	Matthew G. Taylor	Chongo
+cast	Joan Heney	Study Hall Teacher
+cast	Robert Smith	Simple Simon
+cast	Aaron Berg	Bartender
+cast	Paul Brogren	Roadie #1
+cast	Allan Clow	Man with Coat
+cast	Chris Benson	Mr. Johansen
+cast	Colleen Williams	Nun
+cast	Richard Hillman	Scalper
+cast	Stephen Joffe	Six Year Old #1
+cast	Ryan Letriard	Six Year Old #2
+cast	Joseph Haase	Security Guard
+cast	Ron Jeremy	MC
+cast	Kevin Corrigan	Beefy Jerk #1
+cast	Steve Schirripa	Beefy Jerk #2
+cast	Lindy Booth	Girl #1
+cast	Christina Sicoli	Foxy Girl
+cast	Michael Barry	Nerd
+cast	Vic Rigler	Pizza Boy
+cast	Eileen Flood	Female Parishoner
+cast	Pamela Bowen	Matmok Lieutenant
+cast	Johnie Chase	Cop #1
+cast	Julian Richings	Ticket Taker
+cast	Gene Simmons	KISS
+cast	Paul Stanley	KISS
+cast	Ace Frehley	KISS
+cast	Peter Criss	KISS
+cast	Shane Daly	Chongo's Friend
+cast	Noah Danby	Chongo's Friend
+cast	Christopher Lee Clements	Stripper #1
+cast	Jonathan Cuthill	Stripper #2
+cast	Neno Vojic	Stripper #3
+cast	Rich Coulson	Stripper #4
+cast	Michael Kremko	Stripper #5
+cast	Derek De Luis	Stripper #6
+cast	Tara Elliott	Babe #2
+cast	Elissa Bradley	Babe #3
+cast	Cherry Flatley	Babe #4
+cast	Leilene Ondrade	Babe #5
+cast	Hazel K. Anderson	Babe #6
+cast	Jessica Kleiner	Babe #7
+cast	Nadia Dalchand	Babe #8
+cast	Kerri Michalica	Babe #9
+cast	Kerry Robinson	Babe #10
+cast	Dino M. Sicoli	Really Lucky Hot Tub Dude
+cast	Frank Falcone	Roadie
+cast	Gurjeet Ahluwalia	Smoker
+cast	Todd Bendera	Kiss Fan
+cast	Sonny Bono	Himself - with Cher
+cast	Jimmy Carter	Himself
+cast	Cher	Herself - with Sonny
+cast	Raven Cinello	Student
+cast	Matt Graver	Mini-Mart Hostage
+cast	Gavin Heffernan	Drunken Fan
+cast	Kassandra Marr	Groupie
+cast	Brian McGuire	Teenager
+cast	Richard Nixon	Himself - in Resignation Speech
+cast	Lisa Perkins	Simple Simon's Co-Host
+cast	Adam Rifkin	It's Raining Men Billboard Model
+cast	Tim Sullivan	KISS Concert Audience Member
+cast	Louis Tripp	Nerdy Kid
+cast	Andy Warhol	Himself - at Studio 54
+cast	Bill Welychka	Man Backstage

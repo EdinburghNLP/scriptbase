@@ -1,0 +1,81 @@
+year	1982
+imdb score	7.9
+meta score	N/A
+genre	Comedy
+genre	Documentary
+keyword	hollywood bowl
+keyword	lumberjack
+keyword	singing
+keyword	pope
+keyword	monty python
+keyword	actor playing multiple roles
+keyword	chocolate
+keyword	nudity
+keyword	british comedy
+keyword	place name in title
+keyword	social satire
+keyword	musical number
+keyword	stupidity
+keyword	cult movie cast
+keyword	actress playing multiple roles
+keyword	australian stereotype
+keyword	impersonation
+keyword	spoof
+keyword	physical comedy
+keyword	oral sex
+keyword	live audience
+keyword	last supper
+keyword	pie in the face
+keyword	gross out humor
+keyword	audience interaction
+keyword	crude humor
+keyword	absurd humor
+keyword	violence
+keyword	pop culture
+keyword	comedian
+keyword	parody
+keyword	compilation
+keyword	song
+keyword	reference to kant
+keyword	silly walk
+keyword	running gag
+keyword	satire
+keyword	reference to nietzsche
+keyword	joke
+keyword	sex
+keyword	vomit
+keyword	sexual humor
+keyword	based on tv series
+keyword	live comedy
+keyword	fellatio
+keyword	entertainment
+keyword	reference to socrates
+keyword	slapstick comedy
+keyword	blow job
+keyword	based on sketch comedy
+keyword	concert film
+keyword	surrealism
+keyword	irreverence
+keyword	directed by star
+keyword	reference to aristotle
+keyword	reference to plato
+keyword	absurdism
+keyword	comedy troupe
+keyword	philosophy
+keyword	crazy humor
+keyword	stereotype
+keyword	recurring character
+keyword	singer
+keyword	albatross
+keyword	sketch comedy
+keyword	reference to ronald reagan
+keyword	live performance
+keyword	fictional game show
+cast	Graham Chapman	Barber #2 / Colin 'Bomber' Harris / Servant / Inspector / The Colonel / Yorkshireman #2 / Abuser / Lecturer / A humble woodcutter / Son / Mountie
+cast	John Cleese	Barber #1 / Boxing commentator / The Pope / Silly Olympiad commentator #1 / Mr. Teabag / Lenin / Albatross vendor / Mr. Barnard / Man in white suit / Little Red Riding Hood / Church policeman / Mountie
+cast	Terry Gilliam	Barber #3 / Mao Zedong / Constable Parrot / I've got two legs singer / Demonstrator #3 / Man with beans / Mountie
+cast	Eric Idle	Michelangelo / Bruce #1 / Judge #1 / 'World Forum' Host / Arthur Nudge / Yorkshireman #1 / Mr. Smoketoomuch / Husband / Lumberjack
+cast	Terry Jones	Barber #4 / Referee / Anti-rasicism singer / Silly olympiad commentator #2 / Karl Marx / Mr. Hilton / Man with hat / Yorkshireman #3 / Demonstrator #2 / Wife / Mountie
+cast	Michael Palin	Emcee / Bruce #2 / Applicant / Judge #2 / Che Guevara / Soccer commentator / Yorkshireman #4 / Argument customer / Mr. Bounder / Demonstrator #1 / Storyteller / Detective-Parson / Mountie
+cast	Neil Innes	Bruce #3 / Carl Weetabix / Idiot / Detective-Other
+cast	Carol Cleveland	Various roles

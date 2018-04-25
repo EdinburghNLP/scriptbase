@@ -1,0 +1,173 @@
+year	2011
+imdb score	8.0
+meta score	89
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	silent film
+keyword	dancing
+keyword	movie studio
+keyword	movie star
+keyword	chauffeur
+keyword	1920s
+keyword	stock market crash 1929
+keyword	silent film star
+keyword	second chance
+keyword	charleston dance
+keyword	year 1931
+keyword	flapper
+keyword	fire
+keyword	washed up star
+keyword	coincidence
+keyword	hollywood california
+keyword	butler
+keyword	applause
+keyword	hollywoodland
+keyword	tap dancing
+keyword	tuxedo
+keyword	gun in mouth
+keyword	suicide attempt
+keyword	newspaper
+keyword	film in film
+keyword	apartment
+keyword	photography
+keyword	obscene finger gesture
+keyword	raised middle finger
+keyword	year 1927
+keyword	newspaper headline
+keyword	auction
+keyword	film history
+keyword	dream sequence
+keyword	male tears
+keyword	anger
+keyword	former movie star
+keyword	1930s
+keyword	silent scream
+keyword	human animal relationship
+keyword	portrait painting
+keyword	film reel
+keyword	husband wife relationship
+keyword	jack russell terrier
+keyword	movie producer
+keyword	hollywood sign
+keyword	variety the newspaper
+keyword	mustache
+keyword	wife leaves husband
+keyword	fantasy sequence
+keyword	watching a movie
+keyword	dog
+keyword	staircase conversation
+keyword	film industry
+keyword	movie theater
+keyword	fired from the job
+keyword	filmmaking
+keyword	filmmaking
+keyword	year 1929
+keyword	cinema
+keyword	stock market crash
+keyword	fame
+keyword	painting
+keyword	chance encounter
+keyword	movie set
+keyword	beauty spot
+keyword	riches to rags
+keyword	unhappy wife
+keyword	modern silent movie
+keyword	marquee
+keyword	film producer
+keyword	near death experience
+keyword	bar
+keyword	animal in cast credits
+keyword	restaurant
+keyword	talkie
+cast	Jean Dujardin	George Valentin
+cast	Bérénice Bejo	Peppy Miller
+cast	John Goodman	Al Zimmer
+cast	James Cromwell	Clifton
+cast	Penelope Ann Miller	Doris
+cast	Missi Pyle	Constance
+cast	Beth Grant	Peppy's Maid
+cast	Ed Lauter	Peppy's Butler
+cast	Joel Murray	Policeman Fire
+cast	Bitsie Tulloch	Norma
+cast	Ken Davitian	Pawnbroker
+cast	Malcolm McDowell	The Butler
+cast	Basil Hoffman	Auctioneer
+cast	Bill Fagerbakke	Policeman Tuxedo
+cast	Nina Siemaszko	Admiring Woman
+cast	Stephen Mendillo	Set Assistant
+cast	Dash Pomerantz	Peppy's Boyfriend
+cast	Beau Nelson	Peppy's Boyfriend
+cast	Alex Holliday	Guard
+cast	Wiley M. Pickett	Guard
+cast	Ben Kurland	Audition Casting Assistant
+cast	Katie Nisa	Audition Dancer
+cast	Katie Wallack	Audition Dancer
+cast	Hal Landon Jr.	Napoleon
+cast	Cleto Augusto	Set Technician
+cast	Sarah Karges	Laughing Dancer
+cast	Sarah Scott	Laughing Dancer
+cast	Maize Olinger	Shouting Dancer
+cast	Ezra Buzzington	Journalist
+cast	Fred Bishop	Journalist
+cast	Stuart Pankin	Director #1
+cast	Andy Milder	Director #2
+cast	Bob Glouberman	Director #3
+cast	David Allen Cluck	Assistant Director
+cast	Kristian Francis Falkenstein	Actor in 'The Brunette'
+cast	Matt Skollar	Peppy's Assistant
+cast	Annie O'Donnell	Woman with Policeman
+cast	Patrick Mapel	Assistant with Newspaper
+cast	Matthew Albrecht	Tennis Player
+cast	Harvey J. Alperin	Doctor
+cast	Lily Knight	Nurse at Peppy's House
+cast	Clement Blake	Beggar
+cast	Tasso Feldman	Zimmer's Assistant
+cast	Christopher Ashe	Zimmer's Assistant
+cast	Adria Tennor	Zimmer's Assistant
+cast	Cletus Young	Bartender
+cast	J. Mark Donaldson	Thug #1
+cast	Brian J. Williams	Thug #2
+cast	Andrew Ross Wynn	Big Dancer
+cast	Jen Lilley	Onlooker
+cast	Brian Chenoweth	Onlooker
+cast	Tim De Zarn	Soldier
+cast	Uggie	The Dog
+cast	Ashley Lane Adams	Girl at Audition
+cast	David Bantly	Studio Executive
+cast	Bill Blair	Studio Engineer
+cast	Teri Bocko	Laughing Dancer
+cast	Joshua Capo	Clerk
+cast	Amanda Chism	Make-Up Artist
+cast	Brendan Connolly	Studio Executive
+cast	Vincent De Paul	Restaurant Manager
+cast	Calvin Dean	Mr. Sauveur
+cast	Mohamed Dione	African
+cast	Matt J. Doyle	Security Guard
+cast	Joseph Falsetti	Camera Operator
+cast	Josephine Ganner	1930's Studio Actress
+cast	Kevin Michael Hoffman	Peppy's Dance Partner
+cast	Victor Holstein	Grip
+cast	Jennifer Ingrum	Charleston Dancer
+cast	Robert Kestler	Scientist #1
+cast	Kevin Ketcham	Film Crew Member
+cast	Devon Marie King	Laughing Dancer
+cast	Patrick Krull	Film Clapper #4 / Dancer
+cast	Michael Laren	Michel
+cast	Jillana Laufer	Silent Film Star
+cast	Sonya Macari	Autograph Girl
+cast	Josh Margulies	Film Clapper #1
+cast	Julie Minasian	Make-up Artist 1
+cast	Rose Murphy	Herself
+cast	Rene Napoli	Studio Executive
+cast	Niko Novick	Producer
+cast	Philip Ongert	Set Costumer - Finale
+cast	Geoff Pilkington	Sound Technician
+cast	Jamie Preston	Engineer
+cast	Randee Reicher	Make-up Artist 2
+cast	Andrew Schlessinger	1920s Lighting Technician
+cast	Frank Scozzari	Man in Restaurant
+cast	Jewel Shepard	Flapper Starlet
+cast	John H. Tobin	Violinist in Ballroom
+cast	Josh Woodle	Man in Bed with Peppy
+cast	Brad Everett Young	Uncontrollable Patient

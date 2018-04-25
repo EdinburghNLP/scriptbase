@@ -1,0 +1,239 @@
+year	1989
+imdb score	7.0
+meta score	N/A
+genre	Drama
+genre	History
+genre	Thriller
+keyword	gardener
+keyword	police
+keyword	school
+keyword	murder
+keyword	justice
+keyword	demonstration
+keyword	arrest
+keyword	south africa
+keyword	torture
+keyword	death
+keyword	children
+keyword	wooden horse
+keyword	soccer
+keyword	dentist
+keyword	class
+keyword	burned out car
+keyword	eyeglasses
+keyword	murder of son
+keyword	rifle
+keyword	trial
+keyword	nudity
+keyword	racism
+keyword	fired from the job
+keyword	family relationships
+keyword	ambulance
+keyword	typewriter
+keyword	colonel
+keyword	rope
+keyword	zululand
+keyword	grandmother grandson relationship
+keyword	morgue
+keyword	1970s
+keyword	cane
+keyword	genital burns
+keyword	merry christmas
+keyword	writer
+keyword	guitar
+keyword	freedom
+keyword	chains
+keyword	watching tv
+keyword	freedom fighter
+keyword	classroom
+keyword	father in law son in law relationship
+keyword	raid
+keyword	courtroom
+keyword	explosive
+keyword	dead child
+keyword	flowers
+keyword	police captain
+keyword	inquest
+keyword	mortuary
+keyword	soweto
+keyword	murder of a child
+keyword	beating
+keyword	water torture
+keyword	shot in the back
+keyword	passport
+keyword	pay phone
+keyword	mother daughter relationship
+keyword	fire
+keyword	reporter
+keyword	hospital
+keyword	dead body
+keyword	terrorist
+keyword	house arrest
+keyword	subversion
+keyword	murdered by car
+keyword	jeep
+keyword	pajamas
+keyword	solitary confinement
+keyword	newspaper
+keyword	photograph
+keyword	blood
+keyword	politics
+keyword	coffin
+keyword	treason
+keyword	bar
+keyword	crying
+keyword	law
+keyword	bloody body of child
+keyword	afrikaan
+keyword	school blazer
+keyword	cafe
+keyword	police brutality
+keyword	burning clothing
+keyword	dog
+keyword	marriage
+keyword	phone booth
+keyword	broken bone
+keyword	interrogation
+keyword	barrister
+keyword	teacher
+keyword	pride
+keyword	tear gas
+keyword	shooting
+keyword	gun
+keyword	history teacher
+keyword	jail
+keyword	drunkenness
+keyword	hanging
+keyword	toothache
+keyword	pianist
+keyword	flashback
+keyword	suicide by hanging
+keyword	grandfather grandson relationship
+keyword	apartheid
+keyword	professor
+keyword	court
+keyword	singer
+keyword	captain
+keyword	graphologist
+keyword	human rights
+keyword	chess
+keyword	doctor
+keyword	piano
+keyword	towel fight
+keyword	telephone call
+keyword	tears
+keyword	man with glasses
+keyword	helicopter
+keyword	loudspeaker
+keyword	race relations
+keyword	beaten to death
+keyword	wood carving
+keyword	nurse
+keyword	birthday
+keyword	friendship
+keyword	evidence
+keyword	coercion
+keyword	bruise
+keyword	rocking horse
+keyword	police station
+keyword	brandy
+keyword	betrayal by daughter
+keyword	terrorism
+keyword	exoneration
+keyword	target practice
+keyword	allergy
+keyword	rain
+keyword	friend
+keyword	mother in law son in law relationship
+keyword	shot through a window
+keyword	canning
+keyword	billy club
+keyword	policeman
+keyword	christmas tree
+keyword	bicycle
+keyword	truck
+keyword	church
+keyword	drink
+keyword	song
+keyword	violence
+keyword	student
+keyword	wound
+keyword	father daughter relationship
+keyword	rugby
+keyword	hit by a car
+keyword	christmas present
+keyword	brother in law brother in law relationship
+keyword	boy
+keyword	autopsy
+keyword	messenger
+keyword	father son relationship
+keyword	suicide
+keyword	house search
+keyword	color in title
+keyword	judge
+keyword	face slap
+keyword	explosion
+keyword	search
+keyword	massacre
+keyword	asian indian
+keyword	school uniform
+keyword	funeral
+keyword	mother son relationship
+keyword	south african soldier
+keyword	lawyer
+keyword	communist
+keyword	riot
+keyword	whipping scars
+keyword	broken arm
+keyword	betrayal
+keyword	christmas
+keyword	singing
+keyword	flashlight
+keyword	restaurant
+keyword	drinking
+keyword	african
+keyword	eviction
+keyword	husband wife relationship
+keyword	zambia
+keyword	death of friend
+keyword	death of son
+keyword	based on novel
+cast	Donald Sutherland	Ben du Toit
+cast	Janet Suzman	Susan du Toit
+cast	Zakes Mokae	Stanley Makhaya
+cast	Jürgen Prochnow	Captain Stolz
+cast	Susan Sarandon	Melanie Bruwer
+cast	Marlon Brando	Ian McKenzie
+cast	Winston Ntshona	Gordon Ngubene
+cast	Thoko Ntshinga	Emily Ngubene
+cast	Leonard Maguire	Bruwer
+cast	Gerard Thoolen	Colonel Viljoen
+cast	Susannah Harker	Suzette du Toit
+cast	Andrew Whaley	Chris
+cast	Rowen Elmes	Johan du Toit
+cast	Stella Dickin	Susan's Mother
+cast	David de Keyser	Susan's Father
+cast	John Kani	Julius
+cast	Sophie Mgcina	Margaret
+cast	Bekhithemba Mpofu	Jonathan
+cast	Tinashe Makoni	Robert
+cast	Precious Phiri	Wellington
+cast	Richard Wilson	Cloete
+cast	Derek Hanekom	Viviers
+cast	Michael Gambon	Magistrate
+cast	Ronald Pickup	Louw
+cast	Paul Brooke	Dr. Herzog
+cast	Ernest Ndhlovu	Archibald Mabaso
+cast	Stephen Hanly	Sergeant Van Zyl
+cast	Andrew Proctor	Jaimie
+cast	Kevin Johnson	Gert
+cast	Grant Davidson	Lieutenant Venter
+cast	Ndu Gumede	Douma
+cast	Sello Maake	Johnson Seroke
+cast	Charles Pillai	Dr. S.D. Hassiem
+cast	Rosemary Martin	Mrs. Beachley
+cast	Willie Zweni	Aubrey Kunene
+cast	Mercia Davids	Sadie
+cast	Mannie De Villiers	Police Commandant
+cast	Anna Manimanzi	Soweto Girl
+cast	Hugh Masekela	Score performer

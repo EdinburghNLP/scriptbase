@@ -1,0 +1,249 @@
+year	2010
+imdb score	5.1
+meta score	32
+genre	Action
+genre	Fantasy
+genre	Horror
+keyword	angel
+keyword	diner
+keyword	human race
+keyword	faith
+keyword	apocalypse
+keyword	hope
+keyword	survival
+keyword	archangel michael
+keyword	waitress
+keyword	walker
+keyword	fight
+keyword	archangel
+keyword	desert
+keyword	explosion
+keyword	interracial relationship
+keyword	death
+keyword	mobile home
+keyword	black and white television
+keyword	disobeying orders
+keyword	shell casing
+keyword	artificial hand
+keyword	heaven
+keyword	woman with a gun
+keyword	good versus evil
+keyword	murder of a police officer
+keyword	bag over head
+keyword	shooting a police officer
+keyword	mace
+keyword	aerial shot
+keyword	hanging upside down
+keyword	rifle
+keyword	shot in the back
+keyword	police officer shot in the chest
+keyword	police officer shot through the heart
+keyword	severed hand
+keyword	no cellphone signal
+keyword	woman shot in the forehead
+keyword	swing set
+keyword	police car
+keyword	mother daughter conflict
+keyword	mercy
+keyword	hostage
+keyword	climbing up a wall
+keyword	atheist
+keyword	violence
+keyword	voice over narration
+keyword	zippo lighter
+keyword	budweiser
+keyword	police officer shot in the forehead
+keyword	self sacrifice
+keyword	tattoo
+keyword	machine gun
+keyword	can of beer
+keyword	convoy
+keyword	warrior
+keyword	father daughter relationship
+keyword	childbirth
+keyword	car crash
+keyword	extinction
+keyword	blister
+keyword	locust
+keyword	veteran
+keyword	teenage girl
+keyword	criminal
+keyword	fly
+keyword	gash in the face
+keyword	possessed boy
+keyword	dagger
+keyword	impalement
+keyword	possession
+keyword	severed finger
+keyword	shot in the head
+keyword	thrown through a windshield
+keyword	man crying
+keyword	insubordination
+keyword	m 16
+keyword	boil
+keyword	emergency broadcast system
+keyword	old woman
+keyword	christmas tree
+keyword	ice cream man
+keyword	wings
+keyword	exploding car
+keyword	threatened with a knife
+keyword	slow motion scene
+keyword	los angeles california
+keyword	police officer shot in the head
+keyword	house fly
+keyword	fallen angel
+keyword	mother daughter relationship
+keyword	trap
+keyword	looking at one's self in a mirror
+keyword	one word title
+keyword	back from the dead
+keyword	end of the world
+keyword	pistol
+keyword	grenade launcher
+keyword	jukebox
+keyword	hanging from the ceiling
+keyword	gun held to head
+keyword	bare chested male
+keyword	suicide
+keyword	religious faith
+keyword	shot in the chest
+keyword	helium balloon
+keyword	self mutilation
+keyword	extermination
+keyword	murder
+keyword	cigarette smoking
+keyword	hit with a frying pan
+keyword	love
+keyword	bloody handprints
+keyword	pump action shotgun
+keyword	trailer
+keyword	cook
+keyword	extreme closeup
+keyword	ice cream truck
+keyword	quitting smoking
+keyword	reference to god
+keyword	child in peril
+keyword	jumping from a rooftop
+keyword	standoff
+keyword	power failure
+keyword	brother brother relationship
+keyword	small town
+keyword	instruction
+keyword	angel gabriel
+keyword	darkness
+keyword	murder of a child
+keyword	prophecy
+keyword	broken down car
+keyword	fratricide
+keyword	shotgun
+keyword	death threat
+keyword	battle axe
+keyword	disposing of a dead body
+keyword	jumping through a window
+keyword	exploding building
+keyword	shot in the forehead
+keyword	knife
+keyword	blood
+keyword	vomit
+keyword	crying man
+keyword	hit by a car
+keyword	tear on cheek
+keyword	shootout
+keyword	steak
+keyword	hook for hand
+keyword	mini skirt
+keyword	exploding body
+keyword	burned alive
+keyword	survivalism
+keyword	patrol car
+keyword	f word
+keyword	finger cut off
+keyword	teeth
+keyword	begins with a quote
+keyword	husband wife relationship
+keyword	double impalement
+keyword	christmas
+keyword	stitching own wound
+keyword	held at gunpoint
+keyword	pregnancy
+keyword	no opening credits
+keyword	flashback
+keyword	fate
+keyword	beer
+keyword	father son relationship
+keyword	shot through a window
+keyword	car accident
+keyword	stabbed in the chest
+keyword	biting someone
+keyword	tied to a chair
+keyword	narrated by character
+keyword	flashlight
+keyword	savior
+keyword	couple
+keyword	sharpened teeth
+keyword	acid
+keyword	fire
+keyword	shot to death
+keyword	paradox
+keyword	falling from height
+keyword	gas station
+keyword	bitten in the neck
+keyword	unlikely hero
+keyword	death of husband
+keyword	body landing on a car
+keyword	raw meat
+keyword	car set on fire
+keyword	deception
+keyword	exploding gasoline station
+keyword	hand cut off
+keyword	swarm of insects
+keyword	dog tags
+keyword	mechanic
+keyword	bazooka
+keyword	radio
+keyword	fight to the death
+keyword	cell phone
+keyword	supernatural power
+keyword	pregnant woman smoking
+keyword	crucifix
+keyword	sword
+keyword	angel wings
+keyword	killer child
+keyword	bible quote
+keyword	humanity in peril
+keyword	siege
+keyword	death of friend
+keyword	death of mother
+keyword	death of child
+keyword	death of father
+keyword	
+cast	Paul Bettany	Michael
+cast	Lucas Black	Jeep Hanson
+cast	Tyrese Gibson	Kyle Williams
+cast	Adrianne Palicki	Charlie
+cast	Charles S. Dutton	Percy Walker
+cast	Jon Tenney	Howard Anderson
+cast	Kevin Durand	Gabriel
+cast	Willa Holland	Audrey Anderson
+cast	Kate Walsh	Sandra Anderson
+cast	Dennis Quaid	Bob Hanson
+cast	Jeanette Miller	Gladys Foster
+cast	Cameron Harlow	Minivan Boy
+cast	Doug Jones	Ice Cream Man
+cast	Josh Stamberg	Burton
+cast	Yancey Arias	Estevez
+cast	Danielle Lozeau	Teenage Girl
+cast	Luce Rains	Raggedy Man
+cast	Bryan Chapman	Football Player
+cast	Denney Pierce	Minivan Dad
+cast	Kaye Wade	Elderly Woman
+cast	Chuck Hicks	Elderly Man
+cast	Stephen Oyoung	Warehouse Guard
+cast	Tyra Danielle	Woman with Presents
+cast	Django Marsh	Minivan Boy - Voice
+cast	Jeffrey Feingold	Angel
+cast	Rich Gill	Deadbeat Rocker
+cast	Brett Heicher	Possessed Football Player
+cast	Gloria Laino	Homeless
+cast	Z. Ray Wakeman	Demon

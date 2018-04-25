@@ -1,0 +1,3 @@
+logline	A weatherman finds himself living the same day over and over again.
+tagline	He's having the worst day of his life... over, and over...
+tagline	He's having the day of his life...over and over again.

@@ -1,0 +1,93 @@
+year	2011
+imdb score	7.1
+meta score	76
+genre	Drama
+genre	Thriller
+keyword	management
+keyword	financial crisis
+keyword	investment
+keyword	risk
+keyword	risk management
+keyword	downsizing
+keyword	financial disaster
+keyword	civil engineer
+keyword	market trader
+keyword	investment banking
+keyword	f word
+keyword	financier
+keyword	tower
+keyword	trading
+keyword	capitalist
+keyword	systemic risk
+keyword	global economic crisis of 2008
+keyword	financial problem
+keyword	wall street manhattan new york city
+keyword	income
+keyword	elevator
+keyword	investment banker
+keyword	high rise office building
+keyword	aerospace engineer
+keyword	stock market crash
+keyword	janitor
+keyword	death of pet
+keyword	top manager
+keyword	loss of job
+keyword	seller
+keyword	bridge
+keyword	business ethics
+keyword	capitalist society
+keyword	high income
+keyword	job promotion
+keyword	market economy
+keyword	stock market
+keyword	reference to wall street crash
+keyword	death of dog
+keyword	digging a grave
+keyword	capitalism
+keyword	resource management
+keyword	board meeting
+keyword	one day time span
+keyword	layoff
+keyword	bankruptcy
+keyword	new york city
+keyword	investment scandal
+keyword	firm
+keyword	greed
+keyword	financial ruin
+keyword	trading company
+keyword	brokerage firm
+keyword	corporate executive
+keyword	finance corporation
+keyword	sunrise
+keyword	risk game
+keyword	investment fraud
+keyword	fired from the job
+keyword	capital management
+keyword	trader
+keyword	cynicism
+keyword	money
+keyword	stock trading
+keyword	two word title
+keyword	risk assessment
+keyword	compensation
+keyword	
+cast	Kevin Spacey	Sam Rogers
+cast	Paul Bettany	Will Emerson
+cast	Jeremy Irons	John Tuld
+cast	Zachary Quinto	Peter Sullivan
+cast	Penn Badgley	Seth Bregman
+cast	Simon Baker	Jared Cohen
+cast	Mary McDonnell	Mary Rogers
+cast	Demi Moore	Sarah Robertson
+cast	Stanley Tucci	Eric Dale
+cast	Aasif Mandvi	Ramesh Shah
+cast	Ashley Williams	Heather Burke
+cast	Susan Blackwell	Lauren Bratberg
+cast	Maria Dizzia	Executive Assistant
+cast	Jimmy Palumbo	Security Guard
+cast	Al Sapienza	Louis Carmelo
+cast	Peter Y. Kim	Timothy Singh
+cast	Grace Gummer	Lucy
+cast	Oberon K.A. Adjepong	Coffee Guy
+cast	Naeem Uzimann	Trader
+cast	Steven Weisz	Trader

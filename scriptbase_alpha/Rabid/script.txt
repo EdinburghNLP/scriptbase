@@ -1,0 +1,4979 @@
+Rabid (1977) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Rabid (1977) movie scriptby David Cronenberg.Shooting draft, 1977.
+More info about this movie on IMDb.com
+
+
+EXT. HILLY COUNTRY ROAD -- DAY
+
+A large, black, powerful-looking motorcycle waits propped up 
+on its center stand on the gravel shoulder of a deserted 
+country road. The gold lettering on its tank and side covers 
+identifies it as a Norton Commando 850.
+
+Two white Bell full-coverage helmets sit on its saddle, like 
+medieval jousting helmets.
+
+Beyond the motorcycle, stretched out on a grassy rise, lie 
+Hart Read, twenty-six, and his long-time girlfriend Rose, 
+who is the kind of eighteen that often seems more like 
+fifteen, and once in a while like twelve.
+
+At the moment Rose is definitely eighteen and in control of 
+things, producing tuna sandwiches with lettuce and mayonnaise 
+out of a string bag and pouring coffee, pre-mixed with sugar 
+and milk, from a small thermos flask. Read watches her play 
+housewife with vast amusement. Rose holds out a sandwich.
+
+          READ
+     What've we got, Rose? Steak on a 
+     bun?
+
+          ROSE
+     Tuna with lettuce and mayo. You gonna 
+     make trouble?
+
+          READ
+     Yeah. Big trouble.
+
+He grabs Rose's wrist and pulls her close. He looks her deep 
+in the eyes.
+
+          READ
+     I want steak.
+
+Read kisses her full on the mouth. Rose drops the sandwich 
+into the grass.
+
+          READ
+     Steak.
+
+They kiss passionately.
+
+EXT. HILLY COUNTRY ROAD -- DAY -- ONE HOUR LATER
+
+Read kicks the big Norton into life. Rose puts on her helmet, 
+does up the chin strap, and gets on the machine behind Read. 
+Read waits for her to get settled, blips the throttle, then 
+accelerates off the shoulder of the road, fishtailing slightly 
+in the gravel.
+
+EXT. HILLY COUNTRY ROAD -- DAY
+
+The Norton booms along the twisty two-lane road. The road is 
+clear and Read feels good. He opens the throttle even more, 
+almost becoming airborne over the crest of a steep rise, and 
+leaning the bike over in the corners until he scrapes rubber 
+off the footpegs.
+
+Rose rides loose, completely at ease behind Read. She clasps 
+her arms around him loosely, always going with the motion of 
+the machine, closing her eyes in pleasure.
+
+EXT. HILLY COUNTRY ROAD -- DAY
+
+Further up the road, a neat white VW pop-top camper trundles 
+along in the opposite direction carrying a middle-aged man, 
+his wife, and their twelve-year-old daughter. They are city 
+slickers out for an autumn camping jaunt, and things are not 
+going well for them.
+
+          WIFE
+          (scrutinizing crumpled 
+          map)
+     We passed it.
+
+          MAN
+     We didn't pass it. I remember that 
+     farm.
+
+          WIFE
+     We passed it. That farm comes after 
+     concession road 12 and we were 
+     supposed to turn at concession road 
+     11.
+
+          KID
+     I don't remember that farm, Dad.
+
+          MAN
+     We didn't pass it. I very distinctly 
+     remember that farm.
+
+          WIFE
+     If you would just stop this vehicle 
+     long enough to take a look at the 
+     map I will prove to you beyond any 
+     shadow of a doubt that we...
+
+          MAN
+          (losing his temper)
+     All right!
+
+The man swings the camper across both lanes in one furious 
+motion and slams on the brakes just before they go over the 
+edge of the road into a ditch bordering an open field.
+
+          MAN
+     You're both right and I'm all wrong.
+
+He slams the camper into reverse and backs up as far as he 
+can, then slams it into first and lurches forward, trying 
+vainly to make a clean three-point turn on the narrow road.
+
+          MAN
+     We'll turn around and go all the way 
+     back.
+
+When the camper is stretched completely across both lanes of 
+the highway, it stalls. The man twists the key viciously but 
+it won't restart.
+
+          MAN
+     Goddamn thing! Shoulda never sold 
+     the goddamn station wagon.
+
+          KID
+     The station wagon used to use too 
+     much gas, remember, Dad?
+
+          WIFE
+     You keep quiet when your dad's in a 
+     sweat, Valerie.
+
+          MAN
+          (still trying to start 
+          the camper)
+     Goddamn thing. Shoulda never sold 
+     the wagon.
+
+Without warning, Read's bike suddenly appears over the crest 
+of the hill just beyond the camper. The bike is nearing 100 
+miles an hour. The wife sees it first.
+
+          WIFE
+     Oh, Christ, Bob!
+
+          MAN
+          (looking up)
+     Huh? Oh, Christ!
+
+There is no place for Read to go except off the road. The 
+bike shoots over the drainage ditch beside the road two feet 
+from the nose of the camper. The man and his wife sit with 
+their mouths open, watching through their front windshield 
+the bike fly through the air into an overgrown field, as 
+though it were happening on TV.
+
+EXT. FIELD -- DAY
+
+When the bike finally lands in the field, it hits down front 
+wheel first. The impact slams Read over the handlebars into 
+the trunk of a small but solid tree. Rose stays with the 
+machine for one complete cartwheel. The motorcycle ends up 
+on top of her, the tank across her belly. Before she can 
+move, the tank explodes into flames. The flames begin to 
+melt the plastic visor of her helmet.
+
+EXT. EDGE OF THE FIELD -- DAY
+
+The camper driver turns around in his seat and starts to 
+rummage around, looking for something to put out the fire. 
+His wife gets hysterical. She can see Rose trying vainly to 
+get out from under the bike.
+
+          WIFE
+     Oh, my God! She's gonna burn! She's 
+     gonna die!
+
+          MAN
+     Where's the kid's blanket? Where's 
+     the kid's goddamn blanket!?
+
+EXT. TERRACE OF KELOID CLINIC -- DAY
+
+Jackie, a cool blonde English woman in her early forties, 
+has been bird-watching from the clinic's terrace. Something 
+startling attracts her attention.
+
+          JACKIE
+     I don't believe it.
+
+Lloyd Walsh, an actor in his late thirties in the Keloid 
+Clinic of Cosmetic Surgery for his second facial touch-up, 
+pauses in the middle of a sit-up which he is performing on 
+an exercise mat a few yards away. Walsh is wearing a blue 
+jogging outfit whose top bears the words 'JOGGING KILLS.' 
+His head is bandaged.
+
+          WALSH
+     What is it? You spot a rare tufted 
+     tit-mouse or somethin'?
+
+Jackie turns away from her binoculars. She has thin surgical 
+wires attached to the upper and lower eyelids of both eyes.
+
+          JACKIE
+     There's a motorcycle burning in the 
+     middle of a field. I think there's 
+     somebody under it.
+
+Walsh jumps to his feet with exaggerated athletic vigor.
+
+          WALSH
+     Yeah? Lemme have a look.
+
+Jackie hands Walsh her binoculars and points him in the right 
+general direction.
+
+          JACKIE
+     See that column of smoke? Just follow 
+     it down to its source.
+
+We look through the binoculars with him as he does so. Sure 
+enough, there is a bike burning in a field with someone 
+trapped beneath it.
+
+          WALSH
+     Wow. Lookit that!
+
+He turns and begins to sprint for the stairway at the end of 
+the terrace.
+
+          JACKIE
+     Where are you going?
+
+          WALSH
+     Gonna tell the boys downstairs. It's 
+     right up their alley.
+
+          JACKIE
+     Oh.
+          (calling after the 
+          disappearing Walsh)
+     Careful with my binoculars! They're 
+     very expensive!
+
+INT. CLINIC BOARDROOM -- DAY
+
+The three partners who own and operate the Keloid Clinic are 
+holding an informal meeting in the posh boardroom of the 
+clinic, with cigars (Cypher), cigarettes, coffee, and full 
+ashtrays much in evidence.
+
+Involved are Dr. Daniel Keloid, a youthful forty-five, low-
+key but forceful, founder of the Keloid Clinic and extremely 
+successful society plastic surgeon; Keloid's wife, Roxanne, 
+who is herself an MD and who was once a student of Keloid's; 
+and Murray Cypher, the clinic's accountant. Cypher is forty-
+eight, dapper, generally enthusiastic, and believes 
+passionately in creative accounting.
+
+It has apparently been a long and tiring session. Cypher in 
+particular shows signs of strain. His end of the table is 
+littered with pages of scratch pad covered with hastily 
+scrawled notes and figures.
+
+          CYPHER
+     As far as I'm concerned these guys 
+     are completely legit. The bank is 
+     just as convinced as I am. They told 
+     me they're willing to go all the way 
+     with us. I'm telling you, Danny -- a 
+     franchise operation for plastic 
+     surgery resorts is one of those 
+     magnificent, inevitable ideas.
+
+          KELOID
+     Banks are always quick to say that 
+     when everything's rolling easy. But 
+     you can take it from me -- first 
+     sign of heat from the medical 
+     association, first cries of 
+     professional outrage, and the bank'll 
+     call back its note and leave us 
+     hanging by our thumbs.
+
+          ROXANNE
+     It's not the financing that's 
+     bothering you, Dan. Your voice has 
+     that edge to it.
+
+          KELOID
+     I've never denied it. I sure as hell 
+     don't want to become the Colonel 
+     Sanders of plastic surgery.
+
+          CYPHER
+     Why not? Sounds great to me.
+
+          KELOID
+     I'll tell you why not. Because it's 
+     unprofessional, unmedical, and 
+     unsavory.
+
+          CYPHER
+     You thought of it.
+
+          KELOID
+     I was only kidding.
+
+          CYPHER
+     You were not. Besides, you want me 
+     to go back and tell three of the 
+     largest investment groups in North 
+     America, 'Forget it. He was only 
+     kidding?'
+
+          KELOID
+          (in only partially 
+          mock despair)
+     Oh, God. It's all gotten out of hand. 
+     I can see it now: fifty enfranchised 
+     Keloid's Cosmetic Surgery Clinics 
+     flung across the face of North America 
+     like Holiday Inns. Next thing you 
+     know, Do-It-Yourself Facelift Kits.
+
+          CYPHER
+     I like it. We could call it... we 
+     could call it Suture Self.
+          (starts to scribble 
+          madly)
+     No, I'm serious. I like that. There's 
+     got to be a way.
+
+          ROXANNE
+     All right, boys. I think we're getting 
+     a bit silly...
+
+The office intercom on the table chimes and the voice of 
+Steve, an orderly, fills the room.
+
+          STEVE (V.O.)
+     Is Dr. Keloid there? It's urgent.
+
+          KELOID
+     Yeah, what is it, Steve?
+
+          STEVE (V.O.)
+     There's been a motorcycle accident a 
+     few minutes down the highway here. 
+     Looks like a couple of people have 
+     been hurt. Should I take the van and 
+     go get 'em?
+
+          KELOID
+     Yeah, sure.
+          (short pause)
+     Hey, wait a minute. Steve? You still 
+     there?
+
+          STEVE (V.O.)
+     Yeah.
+
+          KELOID
+     Hang on till I get there, OK? I'm 
+     coming with you. Meet you at the 
+     garage.
+
+          STEVE (V.O.)
+     Roger.
+
+The intercom chimes off as Keloid stands up to leave. Cypher 
+throws his pen on the table.
+
+          ROXANNE
+          (exasperated)
+     Oh, now, Dan. We've got a lot of 
+     decisions to make...
+
+          KELOID
+          (leaving)
+     You and Murray work it out, hon. 
+     Just make the pill easy for me to 
+     swallow, OK?
+
+He closes the door behind him, leaving Cypher and Roxanne to 
+their own devices.
+
+          CYPHER
+     Well, what do you think about facelift 
+     kits, Roxy? I mean, they've got 
+     abortion kits.
+
+          ROXANNE
+          (frustrated)
+     Let's just forget that anybody ever 
+     mentioned the idea, OK, Murray?
+
+Cypher shrugs. It still sounds great to him.
+
+EXT. CLINIC DRIVEWAY -- DAY
+
+In the middle of a landscaped triangle of lawn stands a large 
+light-box-style sign which reads KELOID CLINIC OF COSMETIC 
+SURGERY. Along one side of the triangle runs a crushed-gravel 
+driveway at the end of which is a long, low garage just behind 
+the main building, which looks as though it might once have 
+been a small stable.
+
+One of the three doors of the garage slides up and a van 
+peels rubber out of the garage, sliding a bit once it hits 
+the gravel. The van is set up inside and out exactly like a 
+standard big-city ambulance, but without any ambulance 
+markings. Instead, sedate white lettering on the doors reads 
+KELOID CLINIC, LTD.
+
+EXT. FIELD -- DAY
+
+Read lies crumpled at the base of the tree. The end of his 
+right collarbone is sticking out at a bizarre angle and his 
+right shoulder is hanging too low. Read has regained enough 
+consciousness to feebly undo his helmet with his left hand.
+
+Beyond him, clouds of oily black smoke curl skywards from 
+the fallen Norton. Read can hardly focus his eyes on the 
+figures running toward them from the camper at the edge of 
+the field. He slips dreamily into unconsciousness.
+
+INT. VAN -- DAY
+
+The clinic van turns off a secondary road on to the two-lane 
+highway and accelerates furiously, tossing its occupants 
+around as it momentarily slews sideways.
+
+In the back of the van are Steve, who is busily preparing 
+stretchers and oxygen, and Dr. Keloid.
+
+Keloid prepares several hypodermic syringes while expertly 
+bracing himself against the motion of the van.
+
+Steve finishes attaching a hose to a small cylinder of oxygen 
+and turns the release valve to test the oxygen flow through 
+the nose-piece.
+
+          STEVE
+     Well, we've got oxygen now, Dr. 
+     Keloid.
+
+Keloid watches the thin column of black smoke looming larger 
+through the windshield of the van. He reaches for a small 
+fire extinguisher affixed to the frame of the van and begins 
+to undo the clamps holding it there.
+
+          KELOID
+     I think we're going to have to use 
+     this before we get close enough for 
+     the oxygen, Steve.
+
+EXT. FIELD -- DAY
+
+Rose has stopped moving under the flaming machine. The man 
+from the camper, running and stumbling over the uneven ground, 
+finally arrives, followed by his older son (who is about 
+thirteen). The man tries vainly to smother the flames with 
+his younger son's blanket, but the heat is too intense for 
+him to get really close.
+
+The man is almost in tears with horror and frustration. His 
+son just stares wide-eyed.
+
+EXT. EDGE OF FIELD -- DAY
+
+The clinic van bounces to a halt by the edge of the field 
+and the driver, the most junior of the clinic's four 
+orderlies, jumps out and runs around to the back of the van.
+
+The back doors swing open and Keloid jumps out with the fire 
+extinguisher in one hand and a small leather bag in the other. 
+He heads for the flames as the wife and her kid watch from 
+the front seats of the camper. The wife sticks her head out 
+of the window and points at the flames.
+
+          WIFE
+          (to Keloid)
+     They're over there, Doctor! They 
+     were speeding!
+
+Keloid is soon followed by the two orderlies carrying a large 
+wheeled stretcher, which they have hauled from the back of 
+the van.
+
+EXT. FIELD -- DAY
+
+The man who was driving the camper is still making sporadic 
+attempts to beat out the flames with the blanket when Keloid 
+arrives and opens up the valve of the fire extinguisher. The 
+white powdery foam covers everything in a few seconds, killing 
+the flames easily.
+
+          MAN
+          (to Keloid)
+     I tried to put it out. I couldn't 
+     get near it.
+
+Keloid kneels beside Rose. He takes a pair of scissors from 
+his bag and cuts the helmet strap under her chin. He slips 
+the helmet off her head with great care. Her long blonde 
+hair falls into a pool around her face, which seems remarkably 
+at peace and untouched: only a rectangle of black soot where 
+her helmet's visor melted away and admitted smoke gives any 
+indication of what she's gone through.
+
+When the orderlies arrive, the man points out Read for them.
+
+          MAN
+     There's another one over there. I 
+     saw him movin' around a minute ago.
+
+          KELOID
+          (to orderlies)
+     Might as well go get him. We won't 
+     be ready to move her for a few 
+     minutes.
+
+The orderlies trot off toward Read with their stretcher. The 
+man watches them leave, then turns back to look at Rose. He 
+shakes his head as Keloid gives her an injection.
+
+          MAN
+     Christ. I didn't know it was a girl. 
+     Is she dead?
+
+          KELOID
+     This isn't embalming fluid I'm 
+     shooting into her. See if you can 
+     lift the machine off her. Use the 
+     blanket around your hands. It's hot.
+
+The man wraps the blanket around his hands and begins to 
+half-pull, half-slide the Norton off Rose by the handlebars. 
+The orderlies go by on their way to the van with Read 
+unconscious on the stretcher.
+
+As the bike slides away to reveal Rose's abdomen, the man 
+recoils in horror.
+
+          MAN
+     My God.
+
+EXT. COUNTRY ROAD -- DAY
+
+The clinic van speeds along the road toward the clinic.
+
+INT. VAN -- DAY
+
+Rose is on the stretcher with intravenous tubes in her arms, 
+bottles hanging over her head, an oxygen mask over her mouth 
+and nose, and several layers of blood-soaked bandages and 
+surgical gauze over her abdomen. The senior orderly monitors 
+the oxygen flow, the IV levels, and Rose's pulse, while Keloid 
+speaks to someone at the clinic over the van's CB radio, 
+which has a telephone-style speaker/ receiver.
+
+Read sits jammed into a small seat behind the driver, his 
+head back against the van wall, completely dazed. He is 
+conscious enough to wince in pain with every bump the van 
+hits, but he obviously doesn't know where he is or why he's 
+there.
+
+          KELOID
+     Roxanne? Yeah, listen. We're going 
+     to have to throw in everything we've 
+     got. I know, but let me tell you 
+     what we're looking at. The gas tank 
+     exploded over the girl's abdomen and 
+     I don't know what she's got left in 
+     there. The man's got a broken hand, 
+     separated shoulder, concussion, the 
+     usual. We can send him to the General. 
+     But it's definitely major surgery 
+     for her, and right now. I know we're 
+     not, but we've got no choice. I'd 
+     say she's got a half hour to live 
+     and it's three hours to the nearest 
+     serious hospital. It's us or nobody. 
+     Yeah. I hope I can remember too. 
+     Well, they say it's like riding a 
+     bicycle.
+
+EXT. CLINIC DRIVEWAY -- DAY
+
+The van stops in front of the clinic and the orderlies jump 
+out. Keloid holds the bottles and the oxygen as the orderlies 
+unload the stretcher and roll it up the front walk of the 
+clinic, which is a spectacularly renovated old farmhouse -- 
+all sandblasted auburn brick, pine, and cedar planking, white 
+paint and Vista Vision windows.
+
+A group composed of patients and staff cluster around the 
+main doors of the clinic to watch as the stretcher approaches. 
+Nobody seems to notice Read, who has been left sitting in 
+the van.
+
+INT. CLINIC ENTRANCE -- DAY
+
+Lloyd Walsh holds open one of the main glass doors while a 
+nurse opens the other one. The secretary -- receptionist 
+abandons her phones and her sleek plastic desk/filing cabinet 
+module to work her way through the group at the doors in 
+order to take a look.
+
+Walsh makes room for the secretary -- Sheila -- beside him.
+
+Rose is wheeled through the doors. Her condition is so 
+obviously serious and so different from the usual 'touch-up' 
+jobs done at the Keloid Clinic, which has a carefully 
+calculated country resort atmosphere about it, that everyone 
+becomes completely silent as she enters.
+
+          KELOID
+          (to nurse at door)
+     Get the guy in the van into 
+     observation and check him out. But 
+     take it easy -- concussion, separated 
+     shoulder, broken hand. OK, Louise? 
+     Maybe some Demerol when he becomes 
+     lucid.
+
+          LOUISE
+     OK, Dr. Keloid.
+
+Louise leaves the door once the stretcher has gone by and 
+heads out to the van. Walsh lets go of his door and jogs 
+after her.
+
+Jackie, still wearing sunglasses, shakes her head as she 
+watches the stretcher go off down the hall and turns to the 
+middle-aged lady standing next to her.
+
+          JACKIE
+     What a waste. She doesn't even need 
+     a nose job.
+
+INT. CLINIC HALLWAY -- DAY
+
+The orderlies wheel the stretcher down a hallway which was 
+patently never meant to be used as a hospital corridor: Rose 
+is getting a very rough ride. As they move along they pass 
+various patients who react with shock and horror when they 
+see Rose. The Keloid Clinic is usually more discreet about 
+blood than a normal hospital.
+
+          MAN
+          (as Rose passes)
+     Jesus wept! What's that all about?
+
+          WOMAN
+     Somebody said something about an 
+     accident.
+
+          MAN
+          (repulsed)
+     Couldn't they throw a sheet over it 
+     or something? I'm starting to feel 
+     like I'm in a hospital.
+
+The fastidious man and his companion go through some doors 
+which, according to an elegantly lettered sign on a wall, 
+lead to a squash court.
+
+The orderlies stop in front of another set of doors. Keloid 
+hands one of them the bottles he has been holding as a second 
+nurse, Rita, comes out to meet them. Rita is a very solid, 
+square-bodied, fortyish lady.
+
+          KELOID
+     OK, boys. Take her into pre-op and 
+     tell Dr. Karl to set her up for the 
+     works.
+
+INT. SURGICAL WASH-UP -- DAY
+
+Keloid and Roxanne wash with disinfectant in preparation for 
+Rose's operation, aided by a third orderly whom we have not 
+seen before.
+
+Roxanne is short, dark, intense, and ambitious beyond her 
+present practice. She does not wear her thirty-seven years 
+particularly well, so the age difference between her and her 
+husband seems more theoretical than anything else. She is 
+very particular about being called by her maiden name and is 
+known as Dr. Rushton to all the clinic's patients. At the 
+moment, Keloid and Roxanne are having a very controlled, low-
+key argument which Roxanne tries to keep the orderly from 
+hearing.
+
+          ROXANNE
+     I don't buy it, Dan.
+
+          KELOID
+     You haven't seen her.
+
+          ROXANNE
+     I don't have to see her. Neutral 
+     field grafts have never been used 
+     internally. We could end up with a 
+     terminal cancer patient on our hands.
+
+          KELOID
+     Aw, c'mon. We can monitor, Roxy. 
+     She's got nothing to lose. Literally. 
+     She doesn't have enough small 
+     intestine left to absorb nutrient. 
+     If we just close her up she'll have 
+     to be fed intravenously for the rest 
+     of her life, which will be a short 
+     and a dismal one. But if we graft 
+     neutral field tissue cones into the 
+     abdominal cavity, there's a chance 
+     that they'll read her condition by 
+     post-embryonic induction and develop 
+     into a new set of intestines.
+
+          ROXANNE
+     Or run wild and make some very 
+     creative malignant tumors. Dan, the 
+     clinic doesn't need this. Let's play 
+     it safe.
+
+Keloid doesn't respond. He finishes snapping on his surgical 
+gloves and turns to the scrub-nurse, who helps him on with 
+his sterilized operating tunic.
+
+INT. OBSERVATION ROOM -- DAY
+
+Read has regained full consciousness in the clinic's 
+observation room and is watching Louise cut away his well-
+worn leather motorcycle jacket with a pair of snub-nosed 
+surgical scissors. She cuts her way up the right sleeve to 
+the shoulder, then across the shoulder to the collar. She is 
+then able to slip the jacket easily away from Read's right 
+shoulder, which is still very obviously not where it should 
+be. She now starts in on his Norton T-shirt, which is all he 
+was wearing underneath his jacket.
+
+          READ
+     Oh, no. Not the T-shirt. Rose gave 
+     me the T-shirt.
+
+          LOUISE
+     I think you'd find it pretty painful 
+     trying to take if off the standard 
+     way.
+
+Read makes an attempt to slip his arm out of his T-shirt but 
+immediately gives up, grimacing in pain.
+
+          READ
+     No, look. I think I can... Ow! Oh! 
+     You're right. Cut the thing off. 
+     I'll put it up on the wall of my 
+     garage.
+
+Louise continues snipping off the T-shirt.
+
+          READ
+     So when do I get to see Rose?
+
+          LOUISE
+     Not for a while.
+
+          READ
+     Why not?
+
+Louise doesn't answer.
+
+Read pulls away from Louise and tries to stand up. He can't 
+keep his balance and falls back against the wall, banging 
+his wrecked shoulder.
+
+          READ
+     I want to see her right now! Ow! Oh, 
+     God. I didn't kill her, did I?
+
+Louise reaches for a syringe of Demerol.
+
+          LOUISE
+     She's not dead.
+
+          READ
+     What is that stuff? I don't want you 
+     to put me out.
+
+          LOUISE
+     It's just Demerol. It'll ease the 
+     pain. All right?
+
+Read lets Louise take his good arm. She swabs him down and 
+sinks the needle in.
+
+          READ
+          (sarcastically)
+     Sure. Wonderful. Anything to ease 
+     the pain.
+
+INT. OPERATING ROOM -- DAY
+
+Keloid and Roxanne are well into their operation on Rose, 
+assisted by a team of five which includes Dr. William Karl, 
+the clinic's anesthetist. Keloid and Roxanne are in the 
+process of cutting large squares of skin from Rose's thighs.
+
+          KELOID
+     Now, I know everyone here is familiar 
+     with the standard techniques of skin 
+     grafting, but what we're going to do 
+     is a little out of the ordinary. 
+     I'll explain it as we go. We're 
+     removing full-thickness skin grafting 
+     material from the patient's thighs 
+     as per normal graft acquisition 
+     procedure. However, before these 
+     grafts are applied to the damaged 
+     areas of the patient's breasts, 
+     abdomen, and so on, they will be 
+     treated so that they become 
+     morphogenetically neutral. They are 
+     then called neutral field grafts.
+
+          KARL
+     Can we treat the graft material here, 
+     Dr. Keloid?
+
+          KELOID
+     No, Dr. Karl. The graft tissue will 
+     be frozen and sent to the Sperling 
+     Institute. We'll have to keep the 
+     patient in an operation-ready state 
+     until it comes back to us. That's 
+     going to be a bit trying for all of 
+     us, but it can't be helped.
+
+As Keloid speaks, the sections of thigh skin are placed in 
+spun aluminum cylinders of the same general type as those 
+used in eye banks. The cylinders are then sealed and placed 
+in a medical freezer.
+
+          RITA
+     I don't understand the functional 
+     difference between neutral field and 
+     normal graft tissue, Doctor.
+
+          KELOID
+     Well, when the thigh skin tissue is 
+     treated, Nurse Benedetto, it'll lose 
+     its specificity as both thigh tissue 
+     and skin tissue. For example, if it 
+     were grafted to a burned cheek, it 
+     wouldn't just be thigh skin with the 
+     color and texture of thigh skin -- 
+     it would actually develop as facial 
+     tissue. In other words, neutral field 
+     tissue has the same ability to form 
+     any part of the human body that the 
+     tissue of a human embryo has.
+
+          KARL
+     Doctor, this patient has lost most 
+     of her absorptive intestinal mucosa. 
+     Could neutral field tissue reconstruct 
+     an organ as complex as the small 
+     intestine.
+
+          KELOID
+     Yes, Dr. Karl. I think that under 
+     the right circumstances it could. 
+     I've done it myself using lab animals 
+     at the Sperling Institute.
+
+Keloid and Roxanne exchange glances, then Keloid looks away.
+
+          KELOID
+     Let me add that there is always a 
+     possibility that carcinomas will 
+     form when neutral field grafts are 
+     used internally. In this case, we're 
+     using a radical plastic-surgery 
+     technique to compensate for our lack 
+     of heavy medical hardware. We're 
+     doing it to save a life. It's the 
+     only trick we've got.
+
+EXT. KELOID CLINIC -- DAY
+
+Wide shot of exterior front of the Keloid Clinic in late 
+autumn.
+
+                              SLOW DISSOLVE TO:
+
+EXT. KELOID CLINIC -- ONE MONTH LATER -- DAY
+
+Same shot as previous scene, one month later. Snow is on the 
+ground and the trees are bare.
+
+                              SLOW DISSOLVE TO:
+
+INT. ROSE'S ROOM AT THE KELOID CLINIC -- DAY
+
+Read stands over Rose's bed, which is a very well-disguised 
+hospital bed (everything possible is done to keep the clinic 
+from feeling like a hospital). Read's left hand is encased 
+in a wire cage which supports all his fingers. He is watching 
+Rose intently, who is still in a coma and is attached to a 
+battery of intravenous bottles connected to her by clear 
+vinyl tubes and IV needles. Read is particularly fascinated 
+by Rose's eyes, which he can see moving around wildly behind 
+her eyelids.
+
+He bends close, then kisses her gently on her pale, dry lips.
+
+INT. CLINIC HALLWAY -- DAY
+
+Nurse Louise walks briskly down a hall toward Rose's room. 
+On her way she passes Judy Glasberg clutching a pocket edition 
+of The Life and Work of Sigmund Freud and strolling 
+thoughtfully in the opposite direction.
+
+          LOUISE
+     Hi, Judy Glasberg. You back again?
+
+          JUDY
+     Daddy didn't think the new nose was 
+     different enough, so I'm in for more 
+     alterations. I keep telling him it 
+     looks just like his, and he keeps 
+     saying, 'That's why I want you to 
+     change it.' I'm terrified to find 
+     out what it all means.
+
+They both laugh.
+
+The two women part and go their separate ways. We follow 
+Louise as she opens the door to Rose's room, which bears a 
+printed sign saying: INTENSIVE CARE, QUALIFIED PERSONNEL 
+ONLY.
+
+INT. ROSE'S ROOM -- DAY
+
+Louise enters the room in time to surprise Read in the act 
+of pulling back the sheet covering Rose.
+
+          LOUISE
+     Didn't you see the sign on the door, 
+     Mr Read? You're supposed to register 
+     with me before you come in here.
+
+          READ
+     I saw it. I guess I consider myself 
+     qualified.
+
+Louise edges Read away from the bed and covers Rose up again. 
+Her entire body is heavily bandaged, and almost every inch 
+of exposed skin has an IV needle taped to it. Louise begins 
+to moisten Rose's eyelids and lips with various gels.
+
+          LOUISE
+     What are you trying to do, give her 
+     pneumonia?
+
+          READ
+     I'm trying to ease my guilt feelings 
+     by telling myself that Rose is getting 
+     better.
+
+          LOUISE
+          (softening)
+     I see. Is it working?
+
+          READ
+     Is she getting better?
+
+          LOUISE
+     You've been here often enough in the 
+     past two months to know as much as I 
+     do.
+
+          READ
+     When do I get to see Dr. Keloid?
+
+          LOUISE
+     You never tell me in advance when 
+     you're coming. How can I make an 
+     appointment for you?
+
+          READ
+     I never know in advance when the 
+     next wave of guilt will hit me. I 
+     want to see him right now.
+
+          LOUISE
+     He's in a meeting.
+
+          READ
+     Tell him I forced you.
+
+          LOUISE
+          (leaving the room)
+     All right. But please... no touching 
+     until she's conscious.
+
+          READ
+     OK, Mom.
+
+Louise makes a face and leaves.
+
+INT. KELOID'S OFFICE -- DAY
+
+Read sits across from Keloid's desk in Keloid's office, which 
+seems more like a successful PR executive's office than a 
+doctor's. While they talk, Keloid toys with Rose's file, not 
+really ever looking at it: he is obviously very familiar 
+with its contents, and also in a very distracted frame of 
+mind.
+
+          KELOID
+     Well, as you've seen, Rose is still 
+     in some kind of coma, sort of half 
+     real coma, half normal deep sleep. 
+     Could be weeks before she's lucid.
+
+          READ
+     You don't know for sure?
+
+          KELOID
+     No. Her body is still in a state of 
+     total shock. She can't possibly be 
+     moved to a city hospital yet. Her 
+     grafts seem to be healing well. We've 
+     been monitoring the internal grafts 
+     electronically and there is definitely 
+     new tissue growth happening in the 
+     abdominal cavity. Whether this growth 
+     will mature into functioning 
+     intestinal mucosa we won't know for 
+     quite a while.
+
+          READ
+     You mean if your grafts or whatever 
+     they are don't work, she'll never 
+     eat like a normal human being again. 
+     She'll have to be fed intravenously.
+
+          KELOID
+     That's right. At the moment, she has 
+     only enough small intestine to digest 
+     the most basic nutrient material. 
+     See -- the longer the small intestine, 
+     the more complex the food that can 
+     be broken down and absorbed by the 
+     body as food. Cows have lots and 
+     lots of intestines so they can eat 
+     grass and other vegetable matter. We 
+     have medium-length intestines, so we 
+     can eat meat and a limited variety 
+     of vegetable matter. Vampire bats -- 
+     the real ones, I mean -- have short 
+     intestines, so they eat whole blood, 
+     which is very easy to break down and 
+     assimilate. Your girlfriend's in the 
+     same boat.
+
+          READ
+     What about her brain?
+
+          KELOID
+     Her helmet probably saved her from 
+     brain damage, but until she's fully 
+     conscious...
+
+          READ
+     You won't know that either.
+
+          KELOID
+          (throwing up his hands)
+     Hart, what can I tell you? There's 
+     no magic. Look, I've done my best. 
+     You're welcome to come here and keep 
+     your vigil by Rose's bedside any 
+     time the mood takes you, but please 
+     believe me, I will personally 
+     telephone you the instant Rose shows 
+     even the slightest signs of regaining 
+     consciousness.
+
+Read sighs, then shrugs with his good shoulder.
+
+EXT. CLINIC DRIVEWAY -- DAY
+
+Lloyd Walsh and Read stand in the driveway watching as two 
+orderlies load the burned and smashed hulk of Read's Norton 
+into the back of Murray Cypher's Ford station wagon.
+
+          WALSH
+     Jeez, when I saw that thing burning, 
+     I never figured I'd be standing here 
+     talking to you a month later. How's 
+     your hand?
+
+          READ
+     They're taking the cage off this 
+     afternoon. That's when I'll find 
+     out. The pin stays in my shoulder 
+     for another month, though. Doesn't 
+     seem to bother me except when it 
+     gets damp.
+
+Cypher comes hurriedly out of the front door, putting on a 
+suit jacket and stuffing papers into his attaché case at the 
+same time. He walks over to Read and Walsh and opens the 
+door of his car.
+
+          CYPHER
+          (to Walsh)
+     Hi, Lloyd. How ya doin'?
+
+          WALSH
+     Great.
+
+Cypher gets into his car, slams the door, and pops the 
+passenger door open for Read.
+
+          CYPHER
+     C'mon, Hart. I got a pack of hungry 
+     investors waiting for me.
+
+Read gets into the station wagon as the orderlies slam the 
+rear door shut on the Norton. Walsh waves goodbye to Read, 
+who smiles weakly.
+
+          CYPHER
+     I hope you've got some friends who'll 
+     help you unload that pile of junk. 
+     I've got a bad back. What're you 
+     going to do with it? Use it for an 
+     ashtray?
+
+He turns the ignition key and starts the station wagon.
+
+          READ
+     Giving it to a friend for parts. I 
+     can hardly stand to look at it. Think 
+     I'll get back into go-karts.
+
+Cypher laughs, waves to Walsh, and pulls away from the 
+driveway. Walsh smiles at them and turns back to the clinic, 
+patting himself absently under the chin as he goes.
+
+EXT. CLINIC -- DAY
+
+Wide-angle shot of the front of the clinic as Walsh goes 
+back inside.
+
+                              SLOW DISSOLVE TO:
+
+EXT. CLINIC -- NIGHT
+
+Same shot as previous scene, but late at night. There are 
+only one or two lights on inside.
+
+INT. CLINIC HALL/NIGHT NURSE'S STATION -- NIGHT
+
+The night nurse checks her watch at her station, which is 
+little more than a desk, chair, and lamp placed at the end 
+of a hall. It's time for her to make her rounds. She puts 
+down her magazine -- People -- and walks down the hall. At 
+the end of it, she disappears down a stairwell.
+
+INT. ANOTHER HALL -- NIGHT
+
+The night nurse walks past Rose's room, pausing only for a 
+moment to glance in at Rose's sleeping form. She then 
+continues on down the hall.
+
+INT. ANOTHER HALL -- NIGHT
+
+The night nurse walks past Lloyd Walsh's door. There is a 
+PLEASE DO NOT DISTURB sign hanging from his doorknob. The 
+nurse notices that Walsh's light is on and diffusing out 
+through the crack under the door, but she continues on down 
+the hall.
+
+INT. WALSH'S ROOM -- NIGHT
+
+Walsh is lying in bed reading The Life and Work of Sigmund 
+Freud, which he has borrowed from Judy Glasberg. His room, 
+like all the private rooms at the clinic, is furnished in 
+the style of the plushest, most modern jet-set ski lodges. 
+It's easy to understand why patients extend their stays beyond 
+what is medically necessary, and just as obvious that the 
+Keloid Clinic management makes no attempt to discourage this 
+'home away from home' attitude toward the place.
+
+Walsh can't get comfortable with the book, which he has just 
+started to read. He checks his watch. It's 1.13 a.m. He's a 
+little nervous about his operation tomorrow morning. He puts 
+down his book, gets out of bed, puts on his bathrobe, slips 
+into his slippers, and leaves his room to go for a stroll 
+through the deserted clinic.
+
+INT. CLINIC HALLWAY -- NIGHT
+
+Hands in pockets, Walsh strolls through the clinic, past the 
+lounge, the ping-pong table, the breakfast nook.
+
+INT. ANOTHER HALLWAY -- NIGHT
+
+Walsh rounds a corner that leads him past Rose's door, which 
+still bears its INTENSIVE CARE sign. As he passes by her 
+door, he hears a muffled scream followed by a series of moans 
+and indistinct, angry shouts. Walsh opens her door without 
+hesitation.
+
+INT. ROSE'S ROOM -- NIGHT
+
+By the light of the full moon and the hallway, Walsh can see 
+Rose thrashing around violently in her bed, getting twisted 
+up in her sheets and ripping out her IV needles. As he 
+watches, one of her IV bottles, pulled off its stand by its 
+feed tube, falls to the floor and smashes to pieces, spilling 
+blood plasma everywhere.
+
+Walsh now sees that the floor is littered with shredded bits 
+and pieces of surgical gauze and bandages, which Rose has 
+torn from her various wounds and grafts. The plasma begins 
+to soak into the debris surrounding the bed. Her torso is 
+still covered only by bandages, making her look like a mummy 
+jerking to life in the half-light of her tomb.
+
+Walsh rushes over to the bed and quickly lowers the safety 
+railing. He then tries to hold Rose down by the shoulders to 
+keep her from pulling out the last of her IV tubes. When he 
+grabs her by the wrists, he notices that she is oozing blood 
+from where the IV needles have been pulled out.
+
+          WALSH
+     Rosie, Rosie, sweetie, take it easy! 
+     You need that juice, sweetie. It's 
+     keeping you alive. Hey, easy, there. 
+     Easy. That's it. That's a girl.
+
+Under the pressure of Walsh's body, Rose begins to calm down. 
+Her eyes, which have been open but staring and unseeing, now 
+begin to fill with consciousness.
+
+          ROSE
+     Hart? What are you... what are you 
+     doing, Hart? Are we all right? Are 
+     we...
+
+          WALSH
+     I'm not Hart, Rosie. Hart's back in 
+     Montreal waiting for you. I'm Lloyd. 
+     I'm a friend of yours.
+
+          ROSE
+     Hart?
+
+          WALSH
+     Back in Montreal. Waiting for you. 
+     He's fine. He's OK. I was just talking 
+     to him this afternoon.
+
+          ROSE
+     Oh. I... I guess I was dreaming.
+
+Walsh lets go of Rose's wrists.
+
+          WALSH
+     I don't think you were just dreaming. 
+     You and Hart were in a really 
+     spectacular motorcycle crash.
+
+          ROSE
+     A crash? Was there fire? Was there... 
+     blood?
+
+          WALSH
+     Yeah. Plenty of both. You're bleeding 
+     right now.
+          (getting up)
+     I'd better get Dr. Keloid.
+
+Rose grabs Walsh by the arm and pulls him back down on the 
+bed.
+
+          ROSE
+     No! Not yet. I'm all right. But I'm 
+     freezing cold, and you're so warm. 
+     Hold me.
+
+          WALSH
+     Look, I think I'd better...
+
+          ROSE
+     Please hold me. I'm dying of the 
+     cold.
+
+Rose puts her arms around Walsh, who hesitates for a moment, 
+then puts his arms around her and hugs her for a moment.
+
+          ROSE
+     Oh, God, that feels so good.
+
+Behind Walsh's back, Rose pulls the last remaining IV needle 
+out of her left wrist.
+
+          WALSH
+          (a bit nervous)
+     Ah, look... you don't even know where 
+     you are, do you?
+
+Rose pulls Walsh's face down to hers, then slips her arms 
+under his and locks her hands behind his back.
+
+          ROSE
+     Sure I do. I'm here with you.
+
+          WALSH
+     Look, this is really weird. Are you 
+     sure you know what you're... Ow!
+
+Feeling a sudden sharp pain, Walsh tries to pull away. Rose 
+won't let him get up.
+
+          WALSH
+     Hey, I think I... I think I cut myself 
+     or something. You got something sharp 
+     in there with you? Ow! Oh, that hurts!
+
+He makes a huge effort to lift himself off the bed, but Rose 
+hangs on to him and comes up with him. Blood is soaking 
+through Walsh's bathrobe around the right armpit, like dark 
+red sweat.
+
+He is moaning and sobbing as he strains to get away.
+
+Finally, Walsh collapses on top of Rose, quivering and 
+whimpering. Rose sighs deeply and begins to stroke his head 
+affectionately.
+
+INT. MISS OWEN'S ROOM AT THE CLINIC -- EARLY MORNING
+
+Miss Beatrice Owen, a tough-looking maiden lady in her 
+fifties, sits on the edge of her bed pulling on a pair of 
+white gloves. She is wearing an immaculate morning outfit 
+which looks vaguely '40s and probably is. One of her hands 
+has been twisted by arthritis and puts up quite a struggle 
+before allowing itself to be encased in its glove. She then 
+begins to use her teeth to pull on the other glove.
+
+The second glove is only half-way on when Miss Owen hears a 
+desperate scratching and bumping at her door. She stops what 
+she's doing.
+
+          MISS OWEN
+     Yes?
+          (pause)
+     Who is it?
+
+After a pause comes more scratching, followed by the sound 
+of a hand feebly slapping on the door. With her second glove 
+still only half on, Miss Owen gets up, goes to the door, and 
+opens it.
+
+The instant the door is opened, a ghastly pale Lloyd Walsh 
+slumps heavily across Miss Owen's shoulders. The force drives 
+her back several steps and she screams with fear.
+
+          MISS OWEN
+     Oh, God save us!
+
+          WALSH
+     I'm sick. I'm sick. Help me.
+
+When she realizes she's not being attacked, Miss Owen steps 
+back from Walsh, but, unsupported, he starts to fall to the 
+floor. Miss Owen slips her hands up under his arms and guides 
+him unsteadily to the bed.
+
+          MISS OWEN
+     Mr Walsh! What on earth has happened 
+     to you?
+
+Miss Owen sits Walsh on the bed, where he crumples into an 
+awkward lying position. When she withdraws her hands from 
+under his arms, Miss Owen finds that her right glove is 
+soaking through with very watery blood.
+
+          WALSH
+     I don't know. I can't remember a 
+     thing.
+
+INT. EXAMINATION ROOM -- MORNING
+
+Keloid and Louise examine Walsh, who lies half-naked on his 
+left side, his right arm stretched out over his head to expose 
+a deep, round, and still-bleeding puncture in his right 
+armpit.
+
+Like everything else at the clinic, the examination room has 
+been designed and furnished with luxury and style in mind as 
+much as pure function. Even the cantilevered examination 
+light which Keloid is playing on Walsh's wound is color-
+coordinated with the drapes, the chairs, the coat-rack, and 
+the enamel finish of the examination table itself.
+
+          KELOID
+     Were you sleepwalking? Could you 
+     have fallen against something outside 
+     and then come back in without waking 
+     up?
+
+          WALSH
+          (voice still shaky)
+     I doubt it. Never done anything like 
+     that before.
+
+          KELOID
+          (to Louise)
+     Get me some stuffing, maybe a sponge 
+     or two as well. This wound isn't 
+     clotting at all. I think we're going 
+     to have to shoot in some coagulants 
+     to get a scab to form.
+
+          LOUISE
+     Right away.
+
+She leaves, closing the door behind her. Keloid takes a closer 
+look at the wound through a large, illuminated magnifying 
+glass.
+
+          KELOID
+     From what I can see, it's a very, 
+     very clean and precise wound. You 
+     haven't leaned on any picket fences, 
+     have you? Kind with those little 
+     spearheads?
+
+          WALSH
+          (unable to respond to 
+          Keloid's attempt at 
+          humor)
+     No.
+
+Keloid grunts, takes out a tongue depressor, and begins to 
+probe Walsh's wound with it.
+
+          KELOID
+     Does this hurt?
+
+          WALSH
+     Can't feel a thing.
+
+          KELOID
+          (surprised)
+     You can't?
+
+          WALSH
+     My whole right side has no feeling 
+     in it. Just this aching kind of 
+     tingling.
+
+          KELOID
+     Hm.
+
+Louise comes in carrying wads of surgical gauze, sponges, 
+etc. She puts them down and takes Keloid aside.
+
+          LOUISE
+     Dr Keloid? Kenny Kwong would like to 
+     see you.
+
+          KELOID
+     Right now?
+
+          LOUISE
+     He says it's very important. He's 
+     waiting in the hall.
+
+          KELOID
+          (confidentially)
+     OK. Listen... our friend here may 
+     have had a stroke. I think the 
+     General's the best place for him. 
+     But before you plug him up I want 10 
+     cc of blood drawn directly from that 
+     wound for tests. Then get Steve to 
+     drive him into the city in the 
+     ambulance. Tell him to take lots of 
+     plasma with him. We're going to have 
+     to forget about the coagulants until 
+     the General has a chance to do an 
+     ECG on him.
+
+          LOUISE
+     Will do, Doctor.
+
+Keloid leaves.
+
+INT. HALLWAY -- DAY
+
+Keloid steps out into the hall and joins Kenny Kwong, the 
+clinic's senior orderly, a concerned-looking, graying Chinese 
+man of about fifty-five.
+
+          KWONG
+     Can you come with me, please, Dr. 
+     Keloid?
+
+          KELOID
+     Sure, Kenny. What's up?
+
+They begin to walk briskly down the hall, Kenny leading.
+
+          KWONG
+     You told me to check around the 
+     grounds to see if I could find out 
+     how Mr. Walsh got hurt?
+
+Keloid nods.
+
+          KWONG
+     I couldn't find nothing outside. No 
+     blood, nothing. Then Nurse Rita call 
+     me. She find something. She tell me 
+     go get Dr. Keloid. You see it, then 
+     you tell us what happened.
+
+They round the corner taking them into the hallway that goes 
+past Rose's room. Kenny walks up to Rose's door and knocks 
+sharply.
+
+          KWONG
+     Nurse Rita waiting for you in here.
+
+After a short pause, Rita opens the door and ushers them 
+inside, closing the door behind them.
+
+INT. ROSE'S ROOM -- DAY
+
+Once inside the door, Keloid is shocked at the state of Rose's 
+room. It is basically as we last saw it, except that Rita 
+has reattached Rose, who seems to be in a coma once again, 
+to her IV bottles.
+
+The area of the wall next to the doorhandle side of the door 
+is smeared with bloody handprints -- Walsh apparently used 
+the doorknob to pull himself to his feet, then supported 
+himself by holding on to the wall and door moulding.
+
+Rita leads Keloid over to the bed, while Kwong hangs back to 
+watch that nobody enters inadvertently.
+
+          RITA
+     Watch your feet, Doctor. The police 
+     will probably want every little piece 
+     of glass and strip of gauze exactly 
+     the way we found it.
+
+Keloid finds a place to stand next to the bed, checks Rose's 
+eyes, then her pulse.
+
+          KELOID
+     Why do you think the police would be 
+     interested in this, Rita?
+
+          RITA
+     Why, it's perfectly obvious that 
+     that Walsh fellow attempted to molest 
+     the poor girl while she was still in 
+     a coma. I've seen things like that 
+     happen before. Maybe he was drunk.
+
+          KELOID
+          (drawing back the 
+          sheet)
+     Hm. Her grafts have taken amazing 
+     well. Probably won't even have to 
+     rebandage. Hm. I can't even see any 
+     scar tissue.
+
+He lifts Rose's left arm and presses around her armpit.
+
+          KELOID
+     Wow. I'll have to have a closer look 
+     at that.
+
+          RITA
+     Rejection problems?
+
+Keloid lowers her arm and covers her with the sheet again.
+
+          KELOID
+          (standing up)
+     Don't think so. Seems to be an extreme 
+     swelling of the lymph nodes under 
+     the arm. Could just be a local 
+     infection that's under attack, but 
+     it's quite a bump. And there's some 
+     kind of lesion there. Doesn't seen 
+     to be gangrenous, but...
+
+He walks thoughtfully toward the door. Kwong stands waiting.
+
+          KWONG
+     Want me to clean up the mess now, 
+     Doctor?
+
+          KELOID
+          (snapping out of his 
+          train of thought)
+     What? Oh, yes. But save all the pieces 
+     and scrape some of the dried blood 
+     on to a slide. Maybe we'll find 
+     something out.
+
+          RITA
+     But Dr. Keloid... Mr. Walsh, he may 
+     well be...
+
+          KELOID
+          (turning to Rita)
+     Rita, Lloyd Walsh wouldn't do 
+     something like that. He just wouldn't. 
+     And none of this explains how he got 
+     his wound. I think a quiet, thorough, 
+     and very private investigation is in 
+     order. Don't you?
+
+Rita lowers her eyes.
+
+EXT. CLINIC DRIVEWAY -- NIGHT
+
+Wide-angle shot of the clinic in the dead of night. The moon 
+is full.
+
+INT. ROSE'S ROOM -- NIGHT
+
+In the darkness of her room, Rose's eyes are open and staring. 
+She begins to pull the IV needles out of her wrists and 
+ankles.
+
+INT. WHIRLPOOL ROOM -- NIGHT
+
+In the whirlpool room, which contains three full-size 
+whirlpool baths, a bar, and a lounge, Judy Glasberg is taking 
+a midnight whirlpool bath to calm herself down. The room is 
+deserted except for Judy, but she seems to have no trouble 
+adjusting the controls of the bath to get it just right.
+
+As Judy plays with the temperature controls, the door behind 
+her opens and someone enters, closing the door behind her. 
+Judy looks up, startled. Rose stands at the door in her fresh 
+clinic gown. For some reason, Judy suddenly feels vulnerable 
+in her skimpy bikini.
+
+          JUDY
+     Rose? Is that you? I thought everyone 
+     was asleep. They told me you were 
+     still in a coma.
+
+          ROSE
+          (approaching the edge 
+          of the bath)
+     Oh, no. I'm doing much better now, 
+     thank you.
+
+She seems to be completely normal, and as childlike as ever 
+save for the hollows under her eyes. Judy positions her body 
+so that her nakedness is hidden by the swirling bubbles of 
+the whirlpool.
+
+          JUDY
+     It... it's really weird to meet you 
+     this way. I mean, I've never really 
+     talked to you before. But I sort of 
+     feel I know you, you've been around 
+     here for so long. And I saw them 
+     bring you in right after the accident.
+
+          ROSE
+     Do you mind if I get in with you? 
+     I've been lying in bed for such a 
+     long time, my body aches all over.
+
+          JUDY
+     Ah, well, I... does anybody know 
+     you're here? I mean, does Dr. Keloid 
+     know you... you've regained 
+     consciousness?
+
+Rose climbs into the bath with Judy, gown and all.
+
+          ROSE
+     I don't think so. Everybody seemed 
+     to be asleep. It was a bit spooky 
+     waking up and finding myself all 
+     alone. I'm so glad I ran into you.
+          (with surprise)
+     Hey, know what? I think I can feel 
+     the warmth of your body radiating 
+     out to me through the water. I've 
+     never felt anything like that before.
+
+Judy starts to grope for her towel by the side of the pool.
+
+          JUDY
+     I think I'd better get out now. I'm 
+     getting all wrinkly.
+
+Rose floats over to Judy and takes her by the arm, interfering 
+with Judy's attempt to get her towel.
+
+          ROSE
+     Oh, no. Not yet. You haven't even 
+     told me your name.
+
+          JUDY
+     Judy Glasberg. Nice to meet you.
+
+Rose slips her arms up under Judy's arms and hugs her tightly.
+
+          ROSE
+     Mm. It's nice to meet you too.
+
+Judy tries to gently disengage herself from Rose's embrace.
+
+          JUDY
+     Oh, now, c'mon. You're embarrassing 
+     me. Let me put some clothes on and 
+     we'll have a few drinks or something, 
+     OK?
+
+When she realizes that Rose isn't going to let her go, Judy 
+starts to struggle more seriously.
+
+          JUDY
+     Let me go, please! I want to get 
+     dressed. Listen, to tell you the 
+     truth, I think there's still something 
+     wrong with you. I think you ought to 
+     let... Ow! Oh! Something's cutting 
+     me! Oh! It hurts!
+
+She starts to thrash about madly in the water, still locked 
+in Rose's embrace. They dip under the water, then come up 
+again, Judy gasping for air. Rose lets her move wherever she 
+wants, but keeps her arms locked about Judy, her hands now 
+digging into Judy's shoulders from behind.
+
+In tight close-up we see something joining the two bodies 
+under the arms, from Rose's left to Judy's right. Even closer, 
+we see something fleshy slipping in and out of some kind of 
+sheath, barbs cutting through flesh, blood beginning to draw 
+along a fleshy translucent tube. From small glands at the 
+base of the tube, dark green fluid, almost black, begins to 
+flow into the blood drawn up the tube. The mixture of blood 
+and green fluid pumps back and forth in the tube.
+
+Judy is now moaning in spasms, her head arched back as far 
+away from Rose as possible, her hair floating in the water 
+behind her and forming spirals in the whirlpool.
+
+Rose holds on to Judy for dear life, her eyes closed in 
+ecstasy, her cheeks unnaturally flushed. She doesn't notice 
+that Judy's head is beginning to slip beneath the surface of 
+the water. Judy's body is wracked by one final spasm, then 
+she relaxes completely, her head going under completely. The 
+last bubbles of air from her lungs mix with the bubbles spewed 
+out by the whirlpool oxygenator. After a few moments, Rose 
+releases Judy. We see a close-up of the translucent fleshy 
+tube, now empty of blood, sliding back into its sheath.
+
+It is only after she has backed away and taken several soul-
+deep breaths that Rose notices Judy's face is two inches 
+below the surface of the water, the tip of her nose almost 
+breaking through to the air but not quite. Rose frantically 
+grabs Judy by the hair and pulls her out of the water. Judy 
+isn't breathing.
+
+Rose manages to drag Judy to the edge of the pool, clambers 
+out on to the side, then pulls Judy out on to the pool siding 
+with her, Judy trailing a thin trickle of blood in the water 
+behind her.
+
+Rose holds Judy's mouth open and tries to revive her using 
+mouth-to-mouth resuscitation, but it's no good. Judy is dead. 
+Rose shakes her head and starts to cry.
+
+          ROSE
+     Oh, no! No!
+
+Rose shakes Judy's corpse hysterically, then collapses across 
+it, sobbing. After a moment, she gets up, visibly fighting 
+for control. She sets her jaw and begins to drag Judy's body 
+out of the whirlpool room.
+
+INT. READ'S GARAGE IN MONTREAL -- NIGHT
+
+In the ramshackle garage behind the small house he has rented 
+in Montreal, Hart Read has finally gotten around to trying 
+to put his demolished Norton back together again. The engine 
+has been removed from its frame and sits before him on a 
+metal-topped work table, and Read is in the process of 
+completely dismantling it. Small cardboard cartons of various 
+sizes sit on the table, waiting to receive individual pieces 
+of the engine.
+
+The radio hung above the table is tuned to an FM rock station 
+which is on full blast, even though it is about 1 a.m.
+
+INT. READ'S KITCHEN -- NIGHT
+
+In Read's kitchen, the telephone is ringing, but Read has no 
+chance of hearing it. Next to the phone, pinned to a cork 
+message board with colored plastic drafting pins, are several 
+photos of Read and Rose enjoying happier times.
+
+INT. CLINIC LOUNGE -- NIGHT
+
+Rose listens to the phone ring at Read's from the telephone 
+in the deserted main lounge. Her hair is wet and matted and 
+she is shivering uncontrollably. She lets it ring, huddling 
+in her chair.
+
+INT. OBSERVATION WARD AT GENERAL -- NIGHT
+
+Lloyd Walsh is in the process of pulling on his pants in the 
+observation ward of the General, which he shares with a 
+thirtyish traffic-accident victim. Walsh's Lufthansa flight 
+bag is already packed and ready to go, sitting on his bed in 
+the shadow of an IV blood plasma bottle.
+
+          VICTIM
+     Hey, you can't leave yet, Lloyd. 
+     They haven't figured out how come 
+     you're bleeding all over the place.
+
+          WALSH
+     Aw, it's slowed down to a trickle. 
+     No problem.
+
+          VICTIM
+     How's your arm?
+
+          WALSH
+     It's fine.
+
+He picks up his bag and opens the door without hesitation.
+
+          VICTIM
+     If the night nurse comes around, 
+     I'll tell her you're in the can, 
+     how's that?
+
+          WALSH
+     Terrific. Take care of yourself.
+
+He leaves, closing the door behind him.
+
+INT. CORRIDOR AT GENERAL -- NIGHT
+
+Walsh walks briskly down a corridor which leads to the main 
+entrance of the Montreal General Hospital, flight bag in 
+hand. Nobody stops him.
+
+EXT. GENERAL ENTRANCE -- NIGHT
+
+Walsh leaves the General and walks around the circular 
+driveway to the street, where he is just in time to pick up 
+a cab being paid off by a night orderly arriving for work.
+
+Walsh gets in the cab and it pulls away from the curb.
+
+INT. CAB -- NIGHT
+
+Walsh leans his head back against the back seat as the cab 
+pulls away. He rolls his head from side to side, as though 
+trying to shake off a headache.
+
+EXT. MONTREAL STREETS -- NIGHT
+
+The cab moves through the streets of Montreal and enters a 
+ramp leading eventually to the Decarie Expressway. The cab 
+accelerates to the speed limit.
+
+INT. CAB -- NIGHT
+
+The nasal, wailing voice of a popular singer blares from all 
+four speakers in the cab. Walsh is now sitting quite still 
+in the back seat, head resting against the seat back.
+
+          CAB DRIVER
+     Hey, Mister, you wanna sleep? I can 
+     turn the radio off. It's a long way 
+     to Camelford.
+
+Walsh doesn't answer. The driver looks in his rear-view 
+mirror. Walsh is slumped in the shadows of the back-seat 
+area.
+
+          CAB DRIVER
+     Hey, Mister. You want me to turn the 
+     radio off? Or maybe if you want I 
+     can turn off the back speakers and 
+     just leave on the front ones...
+
+He turns around in his seat to look at Walsh. His words die 
+on his lips. Walsh is staring at him with eyes that have 
+completely clouded over so that the whites of his eyes are 
+indistinguishable from the irises and pupils. Dark green 
+foam is drooling from the corners of Walsh's mouth.
+
+The cab driver doesn't have a chance to react any further 
+before Walsh attacks him viciously, grabbing him by the 
+shoulders and biting the cab driver on the cheek.
+
+EXT. EXPRESSWAY -- NIGHT
+
+The cab carrying Walsh veers crazily across three lanes of 
+the nearly deserted expressway.
+
+INT. CAB -- NIGHT
+
+The cab driver tries madly to pull himself around in his 
+seat so that he can see where he's going, screaming in pain 
+all the while. With one tremendous jerk he frees his face 
+from Walsh's locked jaws.
+
+EXT. EXPRESSWAY -- NIGHT
+
+The cab finally slews completely out of control, smashes 
+into the low concrete railing lining the expressway, 
+cartwheels over the railing, and falls on to the expressway 
+ramp some twenty feet below, where it is rammed by an immense 
+diesel truck delivering furniture to a sub-urban warehouse.
+
+The cab is pushed fifty yards along the rampway, shedding 
+pieces of bodywork and glass all the way, before the truck 
+manages to stop.
+
+INT. THE KELOIDS' BEDROOM AT THE CLINIC -- NIGHT
+
+The telephone on the night table beside the Keloids' double 
+bed starts to ring. Dan Keloid rolls over, fumbles for the 
+receiver, and finally gets it off the hook and up to his 
+ear. Roxanne stirs beside him in bed.
+
+          KELOID
+     Yeah. Yeah. No. No, you're kidding. 
+     Dead? Yeah. No, I would have 
+     absolutely no objections to an 
+     autopsy. It's definitely indicated. 
+     No, I've got nothing to add to my 
+     telephoned report. We never came up 
+     with anything else. Yeah. Right. OK. 
+     'Bye.
+
+He hangs up the phone in a state of drowsy excitement. Roxanne 
+rolls over and puts her arm around him. Keloid picks up his 
+wrist-watch to check the time. It's 3.07 a. m.
+
+          ROXANNE
+     What is it, Dan?
+
+          KELOID
+     Lloyd Walsh is dead.
+
+Roxanne starts to snap out of her sleep.
+
+          ROXANNE
+     He's what?
+
+          KELOID
+     He left the General about an hour 
+     ago. Told another patient he felt 
+     all right. He took a cab and the cab 
+     crashed on a highway. Both occupants 
+     dead.
+
+          ROXANNE
+     Oh, God. Poor Lloyd. But you said 
+     something about an autopsy? Was the 
+     cab driver drinking?
+
+          KELOID
+     No, it's Walsh. They're not happy 
+     with his corpse.
+          (baffled)
+     Something about the eyes... I'm going 
+     to have to go over Walsh's file again. 
+     It just doesn't add up.
+
+EXT. COUNTRY ROAD -- NIGHT (APPROX. 4 A.M.)
+
+By the light of a full moon, Rose walks purposefully down a 
+dirt country road, a borrowed windbreaker pulled tightly 
+around her over her clinic gown and hospital slippers starting 
+to come apart on her feet. She is determined to get as far 
+away from the clinic as she can by morning light.
+
+                                   DISSOLVE TO:
+
+EXT. COUNTRY ROAD -- NIGHT (APPROX. 4 A.M.)
+
+Rose finds herself walking beside a moonlit field with a 
+ramshackle barn at one end. She pauses beside the barn for a 
+moment, then slips under the fence surrounding the field and 
+makes her way gingerly across the muddy barnyard toward the 
+door of the barn. The house nearest the barn is dark. Rose 
+gently edges open the door of the barn.
+
+INT. BARN -- NIGHT
+
+Once inside the barn, Rose feels around for a light switch. 
+She finds it without much trouble and flicks it on. The barn 
+is low and full of cobwebs, and houses only two solemn cows 
+and a scraggly chicken.
+
+Rose heads for the nest of straw that the two cows have made, 
+and gradually snuggles her way in between them.
+
+She starts to stroke the side of one of the cows, getting 
+the animal accustomed to her touch, at the same time carefully 
+slipping out of her windbreaker. She then raises her left 
+arm and presses her left armpit flat against the cow's side. 
+After a pause, she gives a short, sharp push with her left 
+side, as though she's pushing something into the cow with 
+her body. The cow responds by lifting up its head and turning 
+to look at her. Satisfied that nothing too threatening is 
+happening, it turns back and lowers its head again.
+
+Rose stretches out over the cow in ecstasy. Her eyes are 
+closed. Blood begins to flow in a rapid, one-way stream from 
+the cow into Rose.
+
+She is breathing rapidly and heavily. Suddenly, she pulls 
+away from the cow, giving us a chance to see a flash of some 
+kind of elongated, tube-like organ retracting under her left 
+arm, dripping blood from its tip. As Rose lurches to her 
+feet, we can see a small, deep wound leaking blood and green, 
+bile-like fluid in the cow's side where Rose's armpit had 
+been pressed. The cows stir in reaction to Rose's violent 
+movement.
+
+She staggers away from the cows, dizzy and nauseous. She 
+manages to reach the stalls, which she leans on for support, 
+before she begins to vomit.
+
+Suddenly, the door bangs open and a drunken old farmer 
+stumbles into the barn, a whisky bottle in his hand.
+
+          FARMER
+     All right, you! Hold it right there!
+          (spotting Rose)
+     Oh. Whatta we got here? Hello, sweet 
+     honey pie. What're ya drinkin'? You 
+     come in to get outta the cold?
+
+He waves the bottle at Rose as he approaches her, then puts 
+his arm around her so that the bottle rests on her chest.
+
+          FARMER
+     I got something ya can take a drink 
+     off of, an'it ain't no whisky, 
+     neither.
+
+He laughs coarsely and kisses Rose on the neck. When she 
+fails to resist him, he drops his nearly empty whisky bottle 
+and starts to nuzzle her collarbone. Rose wearily slips her 
+hand up behind the farmer's head and pulls it down toward 
+her left armpit.
+
+          FARMER
+          (surprised)
+     Hey, that's real nice, honey pie. 
+     You like me, don't ya? I kin tell ya 
+     do.
+
+The farmer is slobbering happily around Rose's shoulder when 
+she suddenly grabs his head by the hair with both her hands 
+and pulls him viciously down on the cutting points of her 
+bloodsucking organ.
+
+The farmer screams in agony. Rose holds the farmer's head 
+down until he stops screaming and starts breathing heavily, 
+spasmodically. Then she lets him go.
+
+The farmer straightens up. He is holding his hand over his 
+right eye. Rose is terrified at what she's done. With a 
+horrified sob, she backs away, then turns and runs, stumbling, 
+out the door, leaving the farmer to stand swaying in a semi-
+anesthetized stupor in the middle of the barn.
+
+INT. READ'S KITCHEN -- NIGHT (5.14 A.M.)
+
+Read has fallen asleep at his kitchen table while working on 
+the engine of his Norton. The partially dismantled engine 
+sits on a section of newspaper on the kitchen table next to 
+a half-empty cup of coffee and an open, grease-smeared Norton 
+Owner's Manual.
+
+He is awakened out of his deep sleep by the sound of the 
+kitchen phone ringing. Read jumps up, still half asleep, 
+almost knocking over his chair in the process. It takes him 
+a second or two to realize that he is in fact at home.
+
+Read grabs for the phone, somehow terrified that the person 
+on the other end will hang up before he answers.
+
+          READ
+     Hello?
+          (suddenly very excited)
+     Rose? Is it really you? How come 
+     you're... I mean, the last time I 
+     saw you... Oh, God. Rose, are you 
+     all right?
+
+INT. CLINIC LOUNGE -- NIGHT
+
+In the main lounge of the clinic, Rose kneels beside the 
+table on which the lounge phone rests, cradling the receiver 
+in her hands. She is covered with blood, her gown has been 
+ripped, and she is close to hysteria. Her feet are covered 
+with dirt and she's tracked mud inside, marking her trail 
+from the clinic's back door clearly.
+
+          ROSE
+     Hart? Oh, Hart.
+          (sobbing)
+     No, no, I'm not all right. I'm in 
+     terrible trouble. I want you to help 
+     me.
+
+          READ (V.O.)
+     What are you talking about? Rosie, 
+     calm down, I can hardly understand 
+     what you're saying.
+
+          ROSE
+     Hart, can you hear me?
+
+          READ (V.O.)
+     I can hear you, Rosie.
+
+          ROSE
+     Hart, you've got to come and get me. 
+     You've got to come and get me as 
+     fast as you can.
+
+She suddenly becomes aware of someone else's presence in the 
+lounge. She turns with a start. Rita, who is acting as night 
+nurse, is standing right behind her, a shocked and unbelieving 
+look on her face.
+
+INT. READ'S KITCHEN -- NIGHT
+
+          READ
+     Rose, don't panic. Whatever's wrong 
+     I'll be able to help you, understand? 
+     Now, I can be at the clinic first 
+     thing in the morning, OK? I'll get a 
+     lift from somebody, I'll take a cab 
+     if I have to. Rose? You still there?
+
+          ROSE (V.O.)
+          (strangely subdued)
+     I'm still here.
+
+          READ
+     Rose, tell me what's wrong. Please. 
+     I'm going crazy here.
+
+          ROSE (V.O.)
+     I can't talk now. See you soon.
+
+Read is suddenly left holding a receiver humming a dial tone. 
+He waits only a second or two before he starts to look 
+frantically for the phone number of the Keloid Clinic in the 
+small book hanging from a nail by the phone.
+
+          READ
+          (thumbing through the 
+          book)
+     Christ! What was the number of that 
+     place?
+
+INT. KELOID'S OFFICE -- NIGHT (5.30 A.M.)
+
+Keloid is sitting at his desk in his bath-robe and slippers, 
+looking into a microscope holding a dry slide of Walsh's 
+blood. There is a knock at his door. Keloid looks up as Rita 
+enters, closing the door behind her.
+
+          KELOID
+     Hi, Rita. I couldn't sleep. I've 
+     been trying to figure out what there 
+     could possibly be in Walsh's blood 
+     that would cause...
+
+          RITA
+          (interrupting with 
+          quiet urgency)
+     Doctor, I think you'd better come 
+     with me.
+
+INT. CYPHER'S LIVING ROOM IN DORVAL -- NIGHT
+
+A groggy Murray Cypher sits on a sofa in front of the TV set 
+in his living room, trying to get his four-month-old son to 
+drink his 6 a.m. bottle. The images of the early morning 
+show -- the sound has been turned off -- seem to attract the 
+baby more than the bottle does.
+
+To Cypher's complete surprise, the telephone starts to ring.
+
+          CYPHER
+     Oh, no. I just don't believe it. OK, 
+     Jeffrey -- you're on your own for a 
+     second.
+
+Cypher tries to prop the kid up between two cushions, but he 
+starts to cry the instant Cypher lets go of him. Cypher picks 
+him up and takes him over to the phone, which is on a shelf 
+at the other end of the room.
+
+          CYPHER
+     No? You want in on the action? OK, 
+     let's go.
+
+Cypher picks up the phone.
+
+          CYPHER
+          (annoyed)
+     What could you possibly want at this 
+     hour of the morning?
+
+INT. READ'S KITCHEN -- NIGHT
+
+          READ
+     Murray, it's Hart Read. I hate like 
+     hell having to bother you like this, 
+     but I'm going out of my skull. It 
+     has to do with the clinic.
+
+          CYPHER (V.O.)
+     Yeah, OK. I was up anyway with the 
+     baby. So what gives?
+
+          READ
+     I got this phone call from the clinic. 
+     From Rose.
+
+          CYPHER (V.O.)
+     From who?
+
+          READ
+     From Rose. She's supposed to be in a 
+     coma. Keloid promised me he'd tell 
+     me the second she showed signs of 
+     consciousness and here I am getting 
+     a call from her at five in the 
+     morning.
+
+INT. CYPHER'S LIVING ROOM -- NIGHT
+
+Cypher is having trouble juggling the phone, the bottle, and 
+his baby, who is gumming the receiver and drooling into the 
+little holes at the speaking end.
+
+          CYPHER
+     That is pretty weird. But maybe she 
+     came to in the middle of the night 
+     and didn't know where she was. Those 
+     things can happen. Jeffrey, don't 
+     eat the phone. You'll get indigestion.
+
+INT. READ'S KITCHEN -- NIGHT
+
+          READ
+     But she said she was in trouble, 
+     Murray. She wants me to come and get 
+     her right now.
+
+          CYPHER (V.O.)
+     Look, Hart -- she's confused and 
+     she's scared. Did you phone the clinic 
+     back and try to talk to Danny?
+
+          READ
+     I did. I got to talk to a tape 
+     recorder. I left a message.
+
+INT. CYPHER'S LIVING ROOM -- NIGHT
+
+          CYPHER
+     OK. I'll phone Danny right now at 
+     his private number, and I'll make 
+     sure that he knows that your Rosie 
+     is making phone calls in the middle 
+     of the night. Then I'll pick you up 
+     at your place in an hour and we'll 
+     go up to the clinic together. How's 
+     that grab ya?
+
+          READ (V.O.)
+     Great. Phone me right back if there's 
+     a problem.
+
+          CYPHER
+     Absolutely.
+
+INT. READ'S KITCHEN -- NIGHT
+
+          READ
+     OK, Murray. Thanks a hell of a lot.
+
+Read hangs up the phone. He takes a close look at one of the 
+pictures of himself and Rose on the Norton.
+
+INT. ROSE'S ROOM AT THE CLINIC -- NIGHT
+
+Rose sits quietly on the edge of her bed, her feet dangling 
+over the side not quite touching the floor. She keeps her 
+head down and does not look at Keloid, who is conferring 
+with Rita at the door. Rita has given Rose a new gown and 
+cleaned her up a bit for Keloid.
+
+Rita leaves and Keloid closes the door behind her. He turns 
+to Rose and approaches the bed, tapping his stethoscope 
+against the palm of one hand. He doesn't say anything until 
+he sits down on the bed beside her.
+
+          KELOID
+     Rose... I'm Dr. Keloid. Dan Keloid. 
+     I'm here to help you, sweetheart.
+
+Rose lifts her head to look at Keloid for the first time. 
+Tears are streaming down her cheeks. She throws her arms 
+around Keloid and begins to sob on his shoulder. Keloid hugs 
+her gently and pets her on the head as though she were a 
+child.
+
+After one or two moments, Keloid detaches himself from Rose 
+and lies her back down on her bed.
+
+          KELOID
+     Rose, we won't talk about anything 
+     right now except how you're feeling, 
+     OK?
+
+Rose nods, still snuffling slightly.
+
+          KELOID
+     Good. First thing I want to do is to 
+     check out some of the skin grafts we 
+     did for you. Now, could you please 
+     just slip your arm out of your left 
+     shoulder strap and raise your arm 
+     over your head?
+
+Instead of doing as Keloid asks, Rose puts her hands over 
+her face and shakes her head. Keloid is baffled.
+
+          KELOID
+     What's the matter, Rose? Are you in 
+     pain? Talk to me, Rose. It's the 
+     only way I can understand what's 
+     bothering you.
+
+          ROSE
+          (from behind her hands)
+     I'm hideous, Doctor. I'm crazy and 
+     I'm a monster.
+
+          KELOID
+     C'mon, Rose. There's just about 
+     nothing we can't fix if we know what's 
+     wrong. Now, I don't want any more 
+     games. Do what I tell you.
+
+Rose reluctantly takes her hands away from her face and slips 
+her left arm out of its shoulder strap. A pause, and then 
+she raises her left arm above her head on the pillow.
+
+Keloid can barely suppress his surprise at what he sees. 
+Nestled in Rose's left armpit is a fleshy, tubular lump with 
+an opening at the upper end of it. Keloid reaches over and 
+presses it gently with his fingertips.
+
+          KELOID
+     Does that hurt?
+
+          ROSE
+     No. It doesn't hurt.
+
+Keloid takes a closer look at the fleshy pouch. The opening 
+at the upper end seems to be surrounded by sphincter muscles. 
+Keloid gently spreads the opening with his thumb. Deep within 
+the pouch, something an angry pink color, something 
+glistening, seems to be pulsating. When he removes his thumb, 
+the muscles pull the opening closed again the way a drawstring 
+closes a bag.
+
+Keloid sits up on the side of the bed again, trying to regain 
+his composure.
+
+          KELOID
+          (after a pause)
+     As far as I can tell now, it'll take 
+     just a very minor operation to remove 
+     that growth from under your arm. It 
+     may be some kind of external 
+     intestinal tissue. The neutral field 
+     tissue graft we did has been trying 
+     to find a way to get food that you 
+     can digest into your body. I was 
+     hoping it would do that by providing 
+     you with a regular set of small 
+     intestines but it seems to have had 
+     something different in mind.
+
+Rose shakes her head. A baffled expression comes over Keloid's 
+face.
+
+          KELOID
+     How long have you been conscious, 
+     Rose? Do you know?
+
+          ROSE
+     Couple of days.
+
+          KELOID
+     Do you feel weak?
+
+          ROSE
+     I feel strong. I feel very strong.
+
+          KELOID
+     Rita tells me you refused to let her 
+     attach you to your intravenous 
+     nutrient bottles. Why?
+
+          ROSE
+     I don't need them. They make me feel 
+     sick.
+
+          KELOID
+     I don't understand. They've got to 
+     be your only source of food.
+
+          ROSE
+     They're not. They haven't been for a 
+     couple of days. Not since that man...
+
+          KELOID
+     Man? What are you talking about?
+
+          ROSE
+     I'll show you.
+
+Rose puts her right hand behind Keloid's head and draws it 
+slowly down toward her left armpit. When Keloid's head is 
+about a foot and a half away from the organ, Rose grabs Keloid 
+by the hair with both hands and strains upwards with her 
+body.
+
+Keloid emits a low, gurgling scream which soon cuts off with 
+the suddenness of a thrown switch. Exhausted of energy, Keloid 
+collapses across Rose, who begins to rock him gently from 
+side to side as she pumps the blood from his body.
+
+EXT. KENTUCKY FRIED CHICKEN DEPOT -- MORNING (6.45 A.M.)
+
+A battered old Ford pick-up truck pulls into the parking lot 
+of a Colonel Sanders Kentucky Fried Chicken depot beside the 
+two-lane highway leading to the Keloid Clinic. The door of 
+the truck opens and a vaguely familiar mangy dog jumps out: 
+it belongs to the farmer who was Rose's third victim.
+
+INT. FRIED CHICKEN DEPOT -- MORNING
+
+The farmer enters the take-out depot, which is deserted except 
+for staff and one lone trucker. The farmer is wearing a pair 
+of crooked and cracked sunglasses. He is not very steady on 
+his feet. His dog watches with concern through the glass 
+door.
+
+          FARMER
+          (to counter girl)
+     One bucket of your best for me and 
+     my dog there.
+
+          COUNTER GIRL
+     Yes, sir.
+
+The counter girl conveys the order through the window into 
+the kitchen, then turns back to write up the farmer's bill.
+
+          COUNTER GIRL
+     Yes, and will that be... Oh!
+
+The girl's words trail off as she notices a tear of blood 
+running down the farmer's cheek from under the right lens of 
+his sunglasses.
+
+          COUNTER GIRL
+     Hey, Mister. Did you know you're 
+     bleeding?
+
+The farmer dabs at his cheek with a tobacco-stained finger, 
+smearing the blood.
+
+          FARMER
+     It's nothin'.
+
+          TRUCKER
+     Musta had a rough night, Buddy.
+
+          FARMER
+     Think I got in a fight or somethin'. 
+     Can't remember too good.
+
+The man in the kitchen slaps a bucket of chicken down on the 
+kitchen-window counter.
+
+          KITCHEN MAN
+     One bucket ready to go.
+
+The counter girl picks up the bucket and carries it over to 
+the trucker. She has just barely put it down when the farmer 
+grabs it and starts tearing the lid from it.
+
+          TRUCKER
+     Hey, Buddy. I think that one's mine.
+
+The farmer grabs a piece of fried chicken from the bucket 
+and starts wolfing it down. The trucker puts his hand on the 
+farmer's shoulder and turns him around so that they face 
+each other, a piece of chicken skin hanging from the farmer's 
+lips.
+
+          TRUCKER
+     I said... I think that one's mine, 
+     Buddy.
+
+The farmer starts shaking uncontrollably.
+
+          FARMER
+     I gotta eat. I gotta eat. I gotta 
+     eat...
+
+          TRUCKER
+     Take those glasses off so I can see 
+     who I'm talkin' to.
+
+The trucker reaches out and takes off the farmer's sunglasses. 
+To his disgust, he is confronted with one closed, swollen, 
+and bleeding eye, and one eye which has almost completely 
+clouded over from white of eye to pupil.
+
+          TRUCKER
+     What the hell...
+
+Bits of chicken drool from the farmer's mouth, followed by a 
+froth of dark green foam. Without warning, the farmer lunges 
+at the trucker and tries to bite his face. The trucker dodges 
+out of the way, catches the farmer by his jacket and swings 
+him over the counter, where he crashes into the counter girl.
+
+As the kitchen man comes out of the kitchen with a pot of 
+boiling oil in his hand, the farmer grabs the girl and manages 
+to bite her on the arm before she can pull away. Green foam 
+dribbles into the girl's wound.
+
+Once the girl has pulled loose and backs away, screaming 
+hysterically, the kitchen man throws the potful of oil on 
+the farmer as he struggles to his feet. The farmer screams.
+
+As the dog barks madly at the door, the trucker and the 
+kitchen man jump on the farmer and pound him senseless behind 
+the counter.
+
+INT. SURGICAL WASH-UP AT THE KELOID CLINIC -- MORNING
+
+Keloid and Roxanne are preparing to perform an early morning 
+facelift. They wash their hands and forearms and put on 
+surgical gloves as the scrub-nurse prepares their masks and 
+gowns. Keloid has a thick band-aid on his neck.
+
+          ROXANNE
+     You're sure you want to do this one, 
+     Dan? Louise and I could handle it 
+     with no trouble.
+
+          KELOID
+     I'll be fine.
+
+          ROXANNE
+     You were pretty groggy this morning.
+          (noticing band-aid)
+     Cut yourself shaving?
+
+          KELOID
+     I'll be fine.
+
+Keloid turns away from Roxanne to avoid further discussion. 
+The orderly begins to help him on with his surgical gown. 
+Keloid allows a pained, confused expression to take over his 
+face for a moment, then suppresses it.
+
+EXT. SIX-LANE HIGHWAY -- MORNING
+
+On a six-lane highway leading out of Montreal, Cypher's 
+station wagon starts out on its journey to the Keloid Clinic.
+
+INT. STATION WAGON -- MORNING
+
+Inside, Cypher and Read sit bleary-eyed, both drinking coffee 
+from styrofoam cups with slits in their covers and listening 
+to the car radio in silence. The 8 a.m. news is in progress.
+
+          NEWSCASTER (V.O.)
+     ...but there can be little doubt 
+     that the issue of police brutality 
+     will still be with us for some time 
+     to come. And speaking of brutality -- 
+     an incident of violence that took 
+     place over a Highway 11 fried chicken 
+     take-out counter ended in the death 
+     of one man and the wounding of an 
+     eighteen-year-old girl. We'll give 
+     you further details on that story as 
+     they become available.
+
+Read and Cypher drive on to the sounds of a Radio Shack 
+commercial.
+
+INT. CLINIC OPERATING ROOM -- MORNING
+
+Keloid, Roxanne, Karl, Louise, and the scrub-nurse are in 
+the process of performing a routine facelift on a middle-
+aged woman.
+
+Roxanne watches Keloid closely for signs of fatigue as he 
+makes the first cut under the woman's chin with a scalpel. 
+Keloid's hand is rock steady. He makes two more cuts and 
+rolls back a flap of skin. Everything seems to be under 
+control.
+
+INT. STATION WAGON -- MORNING
+
+Cypher and Read drive on, listening to the rest of the news 
+story.
+
+          NEWSCASTER (V.O.)
+     The man, later identified as forty-
+     three-year-old Fred Atkins of 
+     Camelford, went berserk this morning 
+     during an argument over who was to 
+     be served his bucket of chicken first 
+     and bit the counter girl on the arm. 
+     The man was subdued by an unidentified 
+     truck driver and the chicken place's 
+     cook, but died of unknown causes 
+     before police arrived. Local health 
+     authorities suspect that rabies might 
+     be involved and have vaccinated 
+     everyone concerned. The dead man's 
+     dog was destroyed on the spot. And 
+     now, a brief pause for station 
+     identification, after which we'll 
+     talk to a scientist who says that 
+     earthquakes may one day become a 
+     thing of the past...
+
+While they listen to a variation of the Radio Shack 
+commercial, Cypher notices that they're passing by the 
+Kentucky Fried Chicken depot. There are still two police 
+cars parked in the parking lot.
+
+          CYPHER
+     Hey, we're right there.
+
+          READ
+          (drowsy)
+     Huh?
+
+          CYPHER
+     The place they were talking about on 
+     the radio.
+          (joking)
+     Wanna stop off for some fried chicken?
+
+          READ
+          (not reacting to the 
+          joke)
+     Not hungry, thanks.
+
+Cypher is about to say something further, but realizes that 
+Read is too preoccupied with Rose to banter with. He decides 
+to let it drop. They drive off to the sounds of easy-listening 
+radio.
+
+INT. CLINIC OPERATING ROOM -- MORNING
+
+Keloid is now stitching up the flap of skin under his 
+patient's chin. Roxanne notices that his hand is no longer 
+as steady as it was earlier on in the operation. He is having 
+trouble placing his stitches properly. His mask is soaking 
+through at the mouth.
+
+          ROXANNE
+     Do you want me to complete the 
+     stitching, Dr. Keloid?
+
+          KELOID
+     I need... I need something to cut 
+     with, Dr. Rushton.
+
+          ROXANNE
+     You want the scissors now, Doctor?
+
+          KELOID
+     Yes. The scissors now.
+
+Roxanne's brow is furrowed as she reaches for the scissors 
+on her instrument tray and hands them to Keloid.
+
+          ROXANNE
+     Scissors.
+
+Instead of simply allowing the scissors to be placed in his 
+hand, Keloid grabs Roxanne by the wrist with one hand and 
+takes the scissors with the other. He turns to look at her. 
+She is shocked to see that his eyes have completely clouded 
+over. Looking into them is like looking down two dark holes.
+
+          ROXANNE
+     Dan...!
+
+Without hesitation, Keloid takes the scissors and cuts the 
+tip of Roxanne's index finger off. Roxanne stares down at 
+her bleeding finger, an unvoiced scream rising in her throat. 
+Keloid lets the scissors drop to the floor and pulls down 
+his mask. Dark green fluid foams from his mouth. He falls to 
+his knees and puts Roxanne's index finger in his mouth, 
+sucking on it like a straw. Roxanne screams.
+
+Louise, who turned to look at Keloid at the sound of the 
+falling scissors, screams in unison, backing away in terror 
+and disbelief. The operating room explodes in confusion and 
+panic as Keloid and Roxanne start to thrash about, knocking 
+instruments and various surgical appliances to the floor. 
+The patient slumbers on, oblivious.
+
+Dr. Karl, the anesthetist, leaves his post behind the 
+patient's head and tries to pull Keloid off Roxanne.
+
+          KARL
+     Dan, don't be stupid! What's the 
+     matter with you? Are you crazy or 
+     something? Stop it! Stop it!
+
+Keloid lets go of Roxanne and sinks his teeth into Karl's 
+shoulder. Karl screams in pain but doesn't let go. Louise 
+finally regains enough presence of mind to run out of the 
+operating room. Roxanne writhes in pain and shock on the 
+floor.
+
+          LOUISE
+     I'm getting the police! I'm going to 
+     call the police!
+
+INT. PATIENTS' LOUNGE -- MORNING
+
+Rose is sitting in the patients' lounge with one or two other 
+patients, watching TV. Next to Rose is a mobile intravenous 
+cart, to whose three bottles she is attached by several IV 
+tubes. A young nurse we have not seen previously sits beside 
+her, obviously instructed to keep a close watch on Rose, who 
+wears a clinic dressing-gown over her nightgown.
+
+Suddenly Louise comes flying past the lounge in hysterics, 
+half crying, half screaming.
+
+          LOUISE
+          (hysterical)
+     He's gone crazy, he's gone crazy! 
+     He's killing everybody! There's blood 
+     everywhere! We've got to do something! 
+     We've got to get the police!
+
+She picks up a stream of staff members and patients who trail 
+after her trying to get some sense out of the completely 
+distracted woman. The nurse watching Rose immediately gets 
+up and runs after Louise, as does one of the two patients 
+watching TV in the lounge. The other patient, terrified by 
+the panic in Louise's voice, shrinks into a corner and tries 
+to look inconspicuous.
+
+The instant everyone rounds the corner at the end of the 
+lounge, Rose stands up and pushes her IV cart down a hall 
+that goes in the opposite direction.
+
+INT. SIDE HALLWAY -- MORNING
+
+Once she is out of sight, Rose quickly begins to detach 
+herself from her IV tubes. Shouts and sounds of struggle 
+rise and fall in the distance as she pulls the needles out 
+of her wrists.
+
+INT. JUDY GLASBERG'S ROOM -- MORNING
+
+Rose enters Judy Glasberg's room and closes the door behind 
+her. She pauses only for a moment to glance at the photos of 
+Judy tacked up on the wall showing her before and after her 
+proposed nose job, then opens Judy's closet and starts 
+rummaging through the clothes hanging there.
+
+INT. CYPHER'S STATION WAGON -- LATE MORNING
+
+Cypher and Read are on the last stretch of highway before 
+the curve which reveals the driveway of the Keloid Clinic. 
+Read has not warmed up too much, his anxiety increasing as 
+they've gotten closer to the clinic.
+
+          READ
+          (looking through the 
+          windshield)
+     Hey, look. What's going on there? 
+     The place is crawling with police.
+
+          CYPHER
+     What? Hey, you're right.
+
+          READ
+     Oh, Christ, no! It's Rose. It's got 
+     to be. Something's happened to Rose!
+
+          CYPHER
+     Take it easy, Hart. They wouldn't 
+     need three cruisers for that. It's 
+     something else for sure.
+
+EXT. CLINIC DRIVEWAY -- LATE MORNING
+
+Cypher's car pulls up the driveway, with Read hanging half-
+way out of the passenger door. Read jumps out before the car 
+has come to a full stop.
+
+There are indeed three Quebec Provincial Police cruisers 
+parked at various strategic spots around the front of the 
+clinic. There is also a paddy wagon parked right next to a 
+Quebec Bureau of Health van. Cypher and Read walk up to the 
+front doors and enter the clinic.
+
+INT. CLINIC -- LATE MORNING
+
+Several police officers and a police photographer are moving 
+through the building with Dr. Karl, who is describing what 
+happened to the officer in charge. Karl looks harried, 
+confused, and very unhappy.
+
+Read and Cypher meet Karl and the head officer as they talk 
+in the reception area. Karl's operating tunic is bloodstained 
+at the shoulder.
+
+          CYPHER
+          (to Karl)
+     Where's Dr. Keloid? What's happening?
+
+          COP
+     Who are you?
+
+          KARL
+     Murray, thank God you're here. It's 
+     been a nightmare.
+          (to cop)
+     This is Murray Cypher. He's one of 
+     the owners of the clinic.
+
+          CYPHER
+     What's the story, Bill?
+
+          KARL
+     It's Danny. He went berserk in the 
+     middle of an operation. I was there. 
+     He tried to kill Roxanne. He cut 
+     her. They had to take her away.
+
+He chokes up.
+
+          CYPHER
+          (in disbelief)
+     Danny? You've got to be kidding.
+
+          READ
+          (to Karl)
+     Oh, God. Have you seen Rose? Has 
+     anything happened to her? Is she all 
+     right?
+
+          KARL
+     Rose? You mean... no, no, this has 
+     nothing to do with her. She should 
+     be around somewhere.
+
+          COP
+          (to Karl)
+     OK, let's see if I've got this 
+     straight. You were in the middle of 
+     an operation, a routine facelift, 
+     did you say?
+
+          KARL
+     That's right. That's what we do here. 
+     The operation was just about over... 
+     it was Dr. Keloid who was performing 
+     it, you see... This is so bizarre...
+
+Read turns away from the main doors and walks through the 
+reception area looking anxiously for Rose. There he encounters 
+two patients, Miss Owen and a slightly younger woman, sitting 
+in lawn chairs discussing the events of the morning.
+
+          MISS OWEN
+          (to woman patient)
+     ...certainly they took her away. She 
+     was bleeding and she was completely 
+     hysterical. Couldn't make out a word 
+     she was saying.
+
+          READ
+     Have you seen Rose? The young girl 
+     who was in the motorcycle accident?
+
+          MISS OWEN
+          (confused)
+     Do you mean the girl who was in here 
+     to have her nose fixed two times in 
+     a row...?
+
+INT. CLINIC ENTRANCE -- LATE MORNING
+
+The chief cop, Cypher, and Karl are still talking.
+
+          COP
+          (to Cypher)
+     So you are in fact Dr. Keloid's 
+     business partner?
+
+          CYPHER
+     I am.
+
+          COP
+     Come with me, please.
+
+The cop walks toward the main doors. Cypher turns to see if 
+Karl is going to follow. Karl shakes his head and looks down 
+at his shoes.
+
+          KARL
+     I can't, Murray. You go. I've seen 
+     it.
+
+Baffled, Cypher follows the cop out the front door.
+
+EXT. CLINIC -- LATE MORNING
+
+Cypher and the head cop leave the clinic and walk out to the 
+parking lot. As they pass the Bureau of Health van and the 
+Keloid Clinic ambulance, Cypher sees a man in a medical 
+uniform giving a police officer an injection straight into 
+his stomach muscles in the ambulance. The officer's hand is 
+bandaged.
+
+          COP
+          (to Cypher)
+     Couple of my men got bitten. Those 
+     rabies shots are killers. Think I'd 
+     rather take my chances on getting 
+     sick instead.
+
+          CYPHER
+     Bitten? By what?
+
+They arrive at the back of the paddy wagon. The cop points 
+to the mesh windows in the wagon's rear doors.
+
+          COP
+     By that.
+
+Cypher looks through the mesh. Without warning, Keloid throws 
+himself against the mesh from the inside, frothing green at 
+the mouth, smeared with blood and moaning like a creature 
+from hell. He tries savagely to bite Cypher through the wire, 
+which cuts his lips and scrapes the enamel from his teeth. 
+Cypher jumps back.
+
+          COP
+     Can you confirm the identification 
+     of this man as Dr. Daniel Keloid?
+
+          CYPHER
+          (totally dismayed)
+     Oh, my God. My God.
+
+INT. ENTRANCE OF CLINIC -- LATE MORNING
+
+Read approaches one of two police officers who stand talking 
+to the police photographer.
+
+          READ
+     Look... I'm trying to find my 
+     girlfriend. She's a patient here. 
+     She was here last night but nobody 
+     seems to have seen her.
+
+          SECOND COP
+     We got a young girl downstairs. You 
+     wanna take a look at her?
+
+          READ
+     Is her name Rose?
+
+The two cops look at each other, then turn back to Read.
+
+          SECOND COP
+     We don't know. We didn't ask her. 
+     C'mon.
+          (to third cop)
+     Tell the chief I'm downstairs gettin' 
+     an ID. Be back in a flash.
+
+The third cop nods. Read follows the second cop down a 
+hallway.
+
+INT. CLINIC BASEMENT -- LATE MORNING
+
+Read follows the second cop down the stairs leading to the 
+clinic's basement, which still shows traces of the clinic's 
+origins as an old farmhouse.
+
+The second cop walks over to a bank of three huge upright 
+freezers used to store the frozen food supplies for the 
+clinic's staff and patients. Read hangs back and glances 
+around the immense basement. The cop walks over to the 
+farthest freezer and swings open the door.
+
+          SECOND COP
+     C'mere. Can't see anything from there.
+
+Read approaches slowly, certain his worst fears are going to 
+be realized.
+
+          SECOND COP
+          (gesturing toward the 
+          interior of the 
+          freezer)
+     Is that Rose?
+
+Read forces himself to look. There, frozen into a block of 
+ice that takes up the entire bottom of the freezer, is the 
+hunched-over, naked body of Judy Glasberg, her eyes staring, 
+her lashes frosted, her mouth twisted horribly.
+
+Read exhales sharply, almost sobbing with a combination of 
+horror and relief.
+
+          READ
+     No. No, that's not Rose.
+
+EXT. TWO-LANE HIGHWAY -- DAY
+
+Rose is in the process of hitch-hiking her way into Montreal. 
+She doesn't have to wait too long before an immense diesel 
+truck snorts and squeals to a stop on the gravel shoulder of 
+the road. Rose is wearing Judy Glasberg's jeans, boots, 
+flannel shirt, and jacket.
+
+As Rose runs toward the truck, the passenger door swings 
+open for her.
+
+INT. TRUCK CAB -- DAY
+
+Rose sits in the passenger seat, her bare feet up on the 
+dash tapping in time to the country-and-western music coming 
+from a tiny transistor radio hanging by a leather thong from 
+the rear-view mirror. Rose is flushed and excited, almost 
+delirious to find herself alive, healthy, and free.
+
+Beside her, the trucker eats a steak on a bun with great 
+enthusiasm. He's in his forties, graying at the temples, 
+gentlemanly. He's just about to start in on the second half 
+of his sandwich when he pauses and glances over at Rose, who 
+is happily watching the countryside rush by. The trucker 
+holds out the second half of his sandwich to Rose, taking 
+care to hold it in its tinfoil wrapper and not to touch it 
+with his fingers.
+
+          TRUCKER
+     Want this, Rose? Steak on a bun. 
+     Real good.
+
+          ROSE
+     Um... wouldn't mind just one bite.
+
+She takes the sandwich, carefully peels back the tinfoil 
+from one end, and bites into it. She chews and swallows.
+
+          ROSE
+     You're right. It's fabulous.
+
+EXT. TWO-LANE HIGHWAY -- DAY
+
+The diesel truck pulls on to the dirt shoulder of the road 
+and comes to a halt. The passenger door swings open and Rose 
+jumps down, stumbling as she hits the ground. She starts to 
+vomit before she even has a chance to get off her knees.
+
+The trucker comes around from the other side of the cab and 
+squats down beside her. He puts his arms around her and holds 
+her while she finishes being sick.
+
+          TRUCKER
+     Last time I ever patronize that greasy 
+     spoon, I can promise you that. C'mon 
+     sweetheart. There's a girl. Get it 
+     all out.
+
+Rose wipes her mouth with the sleeve of her shirt and tries 
+to stand up. She's still wobbly.
+
+          TRUCKER
+     You just put your arms around me and 
+     I'll lift you back in. We'll get you 
+     some coffee or some soup or something 
+     at the next stop, OK?
+
+Rose nods weakly and puts her arms around the trucker. As he 
+lifts her up she holds him close and closes her eyes. A tear 
+runs down each cheek.
+
+                                   DISSOLVE TO:
+
+EXT. TWO-LANE HIGHWAY -- DAY
+
+Rose walks along the side of the road, hitch-hiking once 
+again. After two cars pass her without stopping, an American 
+sedan pulls off the road slightly ahead of her and then backs 
+up to meet her. Rose gets in and the car pulls back on to 
+the highway. She is flushed and invigorated.
+
+INT. SEDAN -- DAY
+
+Rose finds herself sitting next to a plump, pleasant-looking 
+lady in her late thirties who smokes a cigarette furiously 
+as she drives.
+
+          LADY
+     Hi. Where are you going?
+
+          ROSE
+     Montreal. Where are you going?
+
+          LADY
+     Same place.
+
+Rose settles back in her seat and allows herself a smile. 
+Her cheeks are flushed and glowing.
+
+          ROSE
+     That's wonderful. Thanks. I was 
+     beginning to think I'd never get 
+     back home again.
+
+EXT. TWO-LANE HIGHWAY -- DAY
+
+A Camelford police cruiser is on its way down the highway 
+going in the direction opposite to Rose.
+
+We follow the cruiser down the road a few hundred yards until 
+the diesel truck that stopped to pick up Rose comes into 
+view, still stopped by the side of the road, its passenger 
+door open.
+
+The cruiser pulls over and parks behind the truck. One of 
+the QPP officers gets out and walks over to the cab of the 
+truck. When he gets close to the cab, the officer finds the 
+driver of the truck sitting sideways on the passenger seat, 
+his legs out of the cab, feet resting on the running board. 
+The driver seems to be in some kind of daze and he is very 
+pale.
+
+          OFFICER
+     Something wrong?
+
+          TRUCKER
+     Huh? Uh, no... nothing really wrong. 
+     I... I guess I musta dozed off. Yeah. 
+     That's it, I guess. Pulled over to 
+     have a nap.
+
+          OFFICER
+     Well, that's good. We find too many 
+     of you boys taking pills to keep 
+     yourselves going all day and all 
+     night. Next time, though, try to 
+     pick a better spot to pull over. 
+     This road's kind of narrow.
+
+          TRUCKER
+     Oh, yeah. Right. Will do, Officer.
+
+          OFFICER
+     OK. Have a nice day.
+
+          TRUCKER
+     Yeah. Thanks.
+
+As the trucker turns to watch the cop leave, we see blood 
+trickling from a wound at the back of his neck which the 
+trucker is obviously unaware of himself. The officer walks 
+back to his car and waits until the truck pulls off the 
+shoulder and heads back down the road toward the city.
+
+EXT. CAMELFORD STATION OFF TWO-LANE HIGHWAY -- DAY
+
+The cruiser pulls into the parking lot of the local station, 
+which is just off the two-lane highway between the clinic 
+and the spot where the diesel truck stopped by the side of 
+the road.
+
+In the parking lot, mixed in with various police vehicles, 
+are several familiar vehicles, including Cypher's station 
+wagon and the clinic van.
+
+As the two officers get out of their car, they're met by a 
+Health Bureau official dressed in white who shows them his 
+ID card.
+
+          HEALTH OFFICIAL
+     Claude Lapointe, Quebec Bureau of 
+     Health, official business. Sorry, 
+     boys. You can't go in unless you're 
+     willing to stay. The whole station's 
+     under quarantine. We think we've got 
+     an epidemic.
+
+INT. CAMELFORD POLICE STATION -- DAY
+
+Inside the station, Cypher sits on one side of a desk 
+explaining things to the head cop, who's trying to keep up 
+with him on an old typewriter. Phones are ringing everywhere, 
+typewriters are clacking away.
+
+In one corner we find Read glued to the receiver of a 
+payphone, a finger in his free ear, trying desperately to 
+hear what's being said at the other end of the line.
+
+          READ
+     Hey, Mindy? You still there? Yeah, 
+     it's crazy here. I can hardly hear a 
+     thing. Yeah. Listen, I thought that 
+     Rose might try to get in touch with 
+     you. Yeah. She what? She called you? 
+     Oh, that's great. She's on her way 
+     over? That's incredible. You wouldn't 
+     believe what's been happening. It's 
+     crazy time. Yeah. Totally. Well, 
+     listen. When she gets there, tell 
+     her I'll be stuck in the Camelford 
+     cop shop for at least forty-eight 
+     hours. Camelford. It's a town you go 
+     through on the way to the clinic. 
+     That's right. The whole clinic was 
+     hit with rabies or something, they're 
+     not sure exactly. Yeah, the whole 
+     clinic. She might have to come in 
+     for tests or something. I'll find 
+     out. Yeah. You keep her there for 
+     me. As soon as I get out I'll come 
+     and get her. Yeah. OK, Mindy. Ciao.
+
+Read hangs up. He discovers that he's actually smiling.
+
+EXT. MONTREAL TRUCK DEPOT -- NIGHT
+
+At a Montreal truck depot, crates are being unloaded from a 
+warehouse and on to a series of trucks. A dispatcher works 
+his way through the crowd of loaders looking for a missing 
+driver.
+
+          DISPATCHER
+     Hey, anybody here seen Eddy? He's 
+     got the lead truck and I can't find 
+     the son of a bitch. Hey, you seen 
+     Smooth Eddy?
+
+          LOADER
+     I seen him climb into the box of his 
+     truck half an hour ago. He didn't 
+     look too good.
+
+          DISPATCHER
+     Whaddya mean he didn't look too good? 
+     Smooth Eddy always looks good.
+
+          LOADER
+     Naw, I mean he looked sick. Like, 
+     nauseous.
+
+          DISPATCHER
+     What the fuck we runnin' here, a 
+     nursery?
+
+The dispatcher, a short, dark, mustachioed man, works his 
+way up to the lead truck.
+
+          DISPATCHER
+     Eddy... Hey, Eddy, you in there?
+
+EXT. DEPOT -- NIGHT
+
+The dispatcher shoves his way to the sliding side door of 
+Eddy's trailer and grabs the handle.
+
+          DISPATCHER
+     You in there, Eddy? We gotta get 
+     this rig movin'.
+
+The dispatcher slides the door open. Eddy screams the second 
+the light hits him and jumps out at the dispatcher, eyes 
+clouded over, foaming mouth wide open. The dispatcher is 
+bowled over by the force of the impact and he falls backwards 
+to the concrete, Eddy all over him, screaming and biting the 
+dispatcher's face and arms.
+
+In an instant five loaders are trying to pull Eddy away. 
+Eddy immediately turns on them, managing to inflict several 
+bites before he disappears beneath the ever-increasing mass 
+of loaders and truckers trying to get at him.
+
+INT. MINDY'S APARTMENT -- NIGHT
+
+Mindy is watching TV in her cramped one-bedroom downtown 
+high-rise apartment. Mindy is twenty-one, has lived on her 
+own for years, is on the plump side of voluptuous, and works 
+for IBM selling office equipment.
+
+As she watches her color portable, Mindy idly turns the pages 
+of Vogue magazine, smokes a cigarette, and alternately sips 
+a cognac and a black coffee. There is a special newscast 
+concerning the alleged rabies outbreak in the clinic region, 
+complete with documentary footage shot outside the quarantined 
+QPP station.
+
+          NEWSCASTER
+     ...and health officials have said 
+     they consider the outbreak of the 
+     new strain of rabies as being 
+     potentially 'the worst of this 
+     century.' At the police station in 
+     Camelford, Kathy Draper talked to 
+     Quebec Bureau of Health official 
+     Claude Lapointe.
+
+The news camera pans across the front of 52 station and ends 
+up in a close-up of Mr Lapointe, standing in front of his 
+van.
+
+          LAPOINTE
+     Certainly this is serious. This is 
+     not just a question of swine flu or 
+     something like that. We have already 
+     several deaths on our hands in this 
+     one small area alone, and the main 
+     problem is... we don't know what 
+     we're up against.
+
+          INTERVIEWER (O.C.)
+     Are you saying that this is not an 
+     outbreak of rabies?
+
+          LAPOINTE
+     I'm not saying that. I'm not saying 
+     that, exactly. But it must be a new 
+     strain of rabies, because there are 
+     symptoms involved which we and even 
+     the world health community do not 
+     seem to be familiar with.
+
+          INTERVIEWER (O.C.)
+     What are these symptoms?
+
+          LAPOINTE
+     Well, the period of incubation of 
+     this disease is very brief, maybe 
+     six to eight hours at the most. Now, 
+     that's quick, much quicker than normal 
+     rabies. Then the victim begins to 
+     sweat, to shake, to foam at the mouth. 
+     That's not so rare. What is rare is 
+     that the victim always with this new 
+     disease becomes violent and wants to 
+     bite somebody new. And this crazy 
+     phase is followed by a coma and then, 
+     in every case we know, by death. 
+     It's very strange.
+
+          INTERVIEWER (O.C.)
+     What advice would you give to our 
+     viewers?
+
+          LAPOINTE
+     The disease spreads through the saliva 
+     of the victim... the saliva is very 
+     contagious. It dribbles into open 
+     wounds and cuts and causes immediate 
+     infection.
+
+          INTERVIEWER (O.C.)
+     So?
+
+          LAPOINTE
+          (shrugging)
+     So... don't let anybody bite you. 
+     And if somebody does, find a doctor 
+     who can give you rabies shots 
+     immediately. We are already setting 
+     up vaccination centers beginning 
+     right here and spreading out toward 
+     Montreal. If we don't keep the disease 
+     localized and out of large centers 
+     of population, well... I wouldn't 
+     like to say what it could be like.
+
+          INTERVIEWER (O.C.)
+     I heard you mention the Black Plague 
+     of London just before we went on the 
+     air. Is that what you mean by...?
+
+          LAPOINTE
+          (laughing)
+     We sometimes like to be dramatic 
+     about these things. It's more 
+     interesting than the usual paperwork 
+     and we get... you know... we get 
+     excited. It's a real challenge...
+
+There is a knock at the door. Mindy gets up and opens it. 
+Standing in the corridor is Rose.
+
+          ROSE
+     Surprise. I'm amongst the living.
+
+Mindy throws her arms around Rose, hugs her, and pulls her 
+inside the door. They separate, then hug again, both of them 
+on the verge of tears.
+
+INT. CAMELFORD STATION CELL -- NIGHT
+
+Cypher and Read are sharing an open cell at the QPP station, 
+which has been made as homely as possibly by the addition of 
+two chairs and a small table, which Cypher is using as a 
+desk. Read lies back on the lower half of one of the cell's 
+three double bunk beds, arms behind his head, watching Cypher 
+sift through a maze of papers of all sizes and shapes.
+
+          READ
+     Got anything in there I might want 
+     to read? I'm starting to go stir 
+     crazy already.
+
+          CYPHER
+     It's actually pretty exciting stuff 
+     if you know how to interpret it.
+
+Cypher throws down his Audit Point pen, leans back, and puts 
+his feet up on the table.
+
+          READ
+     I guess I'm just going on automatic 
+     pilot right now.
+
+          CYPHER
+          (shakes his head)
+     I can't connect that creature I saw 
+     in the paddy wagon with Danny. I 
+     just can't believe they're all dead...
+
+Read is on the verge of saying something when they are both 
+startled by the sound of a sudden chase in the main office 
+at the end of the row of cells. Screams and yells are 
+punctuated by the crash of overturned furniture and smashing 
+glass.
+
+Read and Cypher barely have time to get to their feet when 
+they see the head cop backing slowly through the door leading 
+to the main office, his service revolver drawn.
+
+          COP
+     George, for God's sake! Can't you 
+     understand what I'm saying? Stay 
+     back! Sit on the floor and put your 
+     hands on your head.
+
+When the cop is about a third of the way down the aisle 
+between the rows of cells, Read steps out behind him. The 
+cop doesn't take his eyes away from the doorway.
+
+          READ
+     What's going on?
+
+          COP
+     Get into the cell and be ready to 
+     lock yourselves in. Do what I tell 
+     you!
+
+Before Read has a chance to move, a second cop appears, 
+sweating, staggering, drooling green foam, eyes expressionless 
+black holes. The infected cop is stalking the head cop. 
+Somebody shouts from somewhere back in the main office.
+
+          VOICE
+     Get out of the line of fire, Ted. 
+     We'll take him from here with the 
+     scatterguns.
+
+          COP
+          (shouting back)
+     Gimme a count of three, Joe! I'll be 
+     outta your way by three!
+
+          VOICE
+     One...!
+
+The head cop draws even with the door of Read and Cypher's 
+cell. Cypher has already backed into it and flattened himself 
+against the wall opposite the aisle. The infected cop comes 
+closer. Cypher notices the bandage on his hand, then 
+recognizes him as the cop at the clinic entrance who was 
+bitten by Keloid and got rabies shots immediately afterwards.
+
+          VOICE
+     Two...!
+
+          COP
+          (to Read and Cypher)
+     Gimme room. I'm coming in quick.
+
+          VOICE
+     Three...!
+
+The head cop dives sideways into the cell. The infected cop 
+lunges forwards after him and is half-way through the cell 
+door when Read, hanging on to the bars of the cell for 
+leverage, puts his foot in the cop's stomach and kicks him 
+back out into the line of fire. Before the infected cop can 
+regain his balance, he is punched to the floor by several 
+shotgun blasts.
+
+By the time the guns stop firing, the infected cop's body 
+has been pushed almost to the end of the aisle. The head cop 
+steps out to meet the three cops from the main office, who 
+approach warily through the acrid smoke drifting up from the 
+barrels of their guns.
+
+          COP
+          (to nobody in 
+          particular)
+     They gave him rabies shots. He got 
+     bitten up at that facelift place and 
+     they gave him his shots right away.
+
+The head cop turns away from the body and looks up at the 
+three men from the main office.
+
+          COP
+     They didn't do him any damn good, 
+     did they?
+
+Read and Cypher exchange glances. It's been a lousy day.
+
+INT. MINDY'S LIVING ROOM -- NIGHT
+
+Mindy and Rose are sitting in Mindy's living room, Rose in 
+front of the TV on the sofa, Mindy at a small desk in the 
+corner with papers and some sort of training manual spread 
+out in front of her. Rose is watching TV with a long ear 
+plug trailing from the silent TV set across three feet of 
+rug, up the sofa, and into her left ear.
+
+Rose is watching Shivers, starring Paul Hampton, Joe Silver, 
+and Barbara Steele, and is getting very restless. She can't 
+help glancing over at Mindy, who is eating a ham sandwich 
+while she works. Mindy has her hair pulled back and the pulse 
+in her neck is somehow very prominent. Rose pulls the plug 
+out of her ear, turns off the TV set, stands up, and goes to 
+the closet next to the front door. Mindy looks up from her 
+work for the first time.
+
+          MINDY
+     What are you doing, Rose?
+
+          ROSE
+          (putting on her jacket)
+     I think I have to go out for a while.
+
+Mindy gets up and joins Rose at the door.
+
+          MINDY
+     Rosie, I feel so stupid. I haven't 
+     been much of a hostess. Why don't 
+     you stay here? There must be something 
+     in the fridge I can tempt you with.
+
+          ROSE
+          (opening the door)
+     Thanks, Mindy, but it's not that. I 
+     just have to get out into the fresh 
+     air again. It's a real experience 
+     for me just to walk down a street.
+
+          MINDY
+     I'll come with you.
+
+          ROSE
+     No. You stay here and work. I won't 
+     be gone too long.
+
+          MINDY
+     OK, Rosie. If you get dizzy or 
+     anything, call me.
+
+Rose laughs, pats Mindy on the cheek, and leaves.
+
+EXT. ST. CATHERINE'S STREET -- NIGHT
+
+Rose walks down the most crowded part of St. Catherine's 
+Street she can find. She has a new sensitivity to the heat 
+radiating from the bodies of those close to her, and the 
+presence of so much warm, jostling flesh full of blood whose 
+coursing she can almost hear soon makes her eyes shine, her 
+nostrils flare, her steps quick and precise.
+
+Rose soon finds herself standing in front of an Eve Cinema, 
+which is showing two soft-core skin flicks, as usual. On an 
+impulse, Rose digs around in the pockets of Judy Glasberg's 
+jeans. In the back pocket she finds a five-dollar bill. She 
+hesitates for only a moment, then buys a ticket and enters 
+the cinema.
+
+INT. EVE CINEMA -- NIGHT
+
+Rose walks down the center aisle and sits alone in the middle 
+of an empty row of seats not far from the screen and its 
+murky orgiastics.
+
+It is not long before a thirtyish, balding man leaves his 
+seat at the back of the cinema and sits directly behind Rose. 
+As he removes his jacket, he brushes against Rose's hair 
+with his hand as though by accident. Rose turns around to 
+look at him.
+
+          BALDING MAN
+     'Scuse me. I didn't mean to touch 
+     you.
+
+Rose gives him a hard look, then turns around to face the 
+screen again.
+
+          BALDING MAN
+     Well, pardon me for existing.
+
+Rose turns around again.
+
+          ROSE
+     I thought you did it on purpose.
+
+          BALDING MAN
+     No. Really. I was taking my jacket 
+     off and it brushed against you.
+
+          ROSE
+     Oh, well, I'm sorry. I like seeing 
+     these movies but men are always 
+     bothering me. I guess I'm a little 
+     paranoid.
+
+          BALDING MAN
+     Well, look. If I come and sit beside 
+     you everybody will think we're 
+     together and you'll be able to watch 
+     in peace. All I ask is a couple 
+     handfuls of popcorn.
+
+          ROSE
+          (laughing)
+     OK. C'mon.
+
+The balding man gets up, moves to the end of his aisle, then 
+makes his way toward Rose, trying not to blow it by betraying 
+his excitement. He sits down beside Rose. She offers him 
+some popcorn.
+
+                                   DISSOLVE TO:
+
+EXT. EVE CINEMA EXIT -- NIGHT
+
+Rose slips out of the side exit of the cinema into an alley, 
+her cheeks flushed, her breathing heavy. Crowds of people 
+still throng past the opening at the end of the alley, the 
+night just beginning. Rose watches them move past as though 
+still watching a movie, feeling the full weight of her 
+separation from the ordinary. After a pause, she moves out 
+to join it.
+
+INT. EVE CINEMA -- NIGHT
+
+Back in the theater, the balding man is still sitting in his 
+seat three rows from the screen, slumped down, his head on 
+his chest, one arm thrown out around the edge of the seat 
+beside him. Blood streams from a small hole in the palm of 
+the outstretched hand, which is still curved as though 
+embracing someone's shoulder.
+
+The images reflecting from the screen flicker across his 
+face, but he sees nothing.
+
+INT. MINDY'S LIVING ROOM -- MORNING
+
+Mindy is preparing and eating her breakfast of bran muffins, 
+coffee, and orange juice on the run. While she shuffles her 
+coffee cup and her notebooks, she listens to the radio.
+
+          NEWSCASTER (V.O.)
+     ...decide that each municipality 
+     should take on the responsibility 
+     for setting up vaccination centers 
+     in community halls and health clinics. 
+     Police have criticized the City Hall 
+     decision, saying that evidence has 
+     come to light which indicates that 
+     normal rabies vaccine is completely 
+     ineffective against the new strain 
+     of the disease. They are asking 
+     instead for the organization of a 
+     series of militia-and army-controlled 
+     quarantine centers until such time 
+     as an effective vaccine is developed. 
+     Said one police spokesman: 'We are 
+     having trouble containing the known 
+     outbreaks of violence induced by the 
+     disease as it is. Imagine what will 
+     happen if it spreads through the 
+     city like a normal wave of the flu.'
+
+Mindy has finally gotten herself ready to go to work. Just 
+before she leaves, she knocks on the bathroom door.
+
+          MINDY
+     I'm going, Rosie. I've left you some 
+     coffee on the stove. Turn it off if 
+     you go out, OK?
+
+          ROSE (O.S.)
+     OK. 'Bye.
+
+          MINDY
+          (slightly worried 
+          pause)
+     Aren't you going to wish me luck?
+          (pause)
+     Are you OK?
+
+          ROSE (O.S.)
+          (oddly muffled)
+     Brushing my teeth. Good luck.
+
+          MINDY
+          (relaxing)
+     Thanks. See you later.
+
+Mindy turns to the front door, opens it, and leaves.
+
+INT. MINDY'S BATHROOM -- MORNING
+
+In the bathroom, Rose is doubled over on the floor clutching 
+her stomach. Two seconds after she hears the front door slam 
+closed, she lets out a low, strangled moan and begins to 
+roll around on the floor.
+
+A sudden spasm forces her to curl into a ball again, her 
+fingernails sinking into the palms of her hands. After the 
+spasm passes, she props herself up against the bathroom door. 
+A thread of blood curls down her wrist. She opens her right 
+hand. She stares at the four tiny crescents of blood that 
+her nails have cut into her palm. With slow, trancelike 
+motions, she licks the blood off her wrist and her palm.
+
+INT. SUBWAY STATION -- MORNING
+
+Mindy stands in a crowded subway station waiting for her 
+train to come. Every once in a while she glances down at a 
+marked page in a blue corporation manual she's carrying, 
+checking her memory against the printed specifications of 
+various pieces of office equipment.
+
+The train finally comes and Mindy gets crammed in with the 
+rest of the rush-hour crowd.
+
+INT. SUBWAY CAR -- MORNING
+
+As the subway car pulls out of the station, Mindy leans 
+against the door and continues to consult her manual. As she 
+looks up and off into space, trying to grasp the next set of 
+machine specifications, her eye is caught by the face of a 
+woman with her back against the opposite door. The woman 
+seems to be blind -- her eyes are completely black from edge 
+to edge.
+
+Then Mindy notices with horror that the woman is trembling 
+and drooling and foaming green at the mouth. The sea of faces 
+between them seems indifferent to the woman until she screams 
+at the top of her lungs and plunges forward with her mouth 
+wide open, apparently trying to get at Mindy.
+
+The people closest to the woman suddenly start to panic, and 
+the panic moves out through the car in waves. Everyone starts 
+to push and shove, and people try to climb over one another. 
+The infected woman manages to lock her teeth on to the ear 
+of a man who begins to punch her in the chest and stomach, 
+himself completely terrified.
+
+The subway car pulls into the next station and its doors 
+open. Mindy is almost knocked to the platform and trampled 
+but she manages to stay on her feet and flow with the 
+stampede.
+
+The people waiting to get on to the train are greeted with 
+the spectacle of three men subduing an insane, shrieking 
+woman on the floor of the car.
+
+EXT. DOWNTOWN CONSTRUCTION SITE -- DAY
+
+Mr. Lapointe, Quebec Health Bureau official, is riding in 
+the back of a city limousine with an official from the mayor's 
+office. The limousine is working its way through the rubble 
+of a deserted construction site.
+
+          LAPOINTE
+          (exasperated)
+     You'll pardon me, Mr. Stasiuk, but I 
+     think the mayor should be taking 
+     this epidemic more seriously than he 
+     is.
+
+          OFFICIAL
+     A city is a complex machine, Mr. 
+     Lapointe. Every part needs constant 
+     attention. The mayor will listen to 
+     you, but you're not the only one. It 
+     takes time...
+
+The limousine has worked its way into a relatively deserted 
+section of the site, and now slows to a stop.
+
+          OFFICIAL
+          (to uniformed driver)
+     Why have we stopped, Clark?
+
+The driver points through the front windshield at the 
+mannequin of a construction worker waving a flag that has 
+been placed directly in the middle of the narrow dirt road 
+they're travelling on.
+
+          OFFICIAL
+     Well, isn't there anyone around? Do 
+     we have to turn around?
+
+Before anyone can make a move, two construction workers 
+suddenly emerge from the surrounding rubble and advance on 
+the car, one of them carrying a pneumatic jackhammer.
+
+          OFFICIAL
+     Clark... roll down your window and 
+     ask them why the road is blocked. It 
+     may be strike trouble. Be careful.
+
+Clark is in the process of rolling down his window when the 
+man with the jackhammer turns on the hammer and applies the 
+chisel to the driver's door. As the chisel point of the hammer 
+chews up the door, Lapointe can see that the eyes of the two 
+workers are clouded over and that they are all slavering 
+green foam from their mouths.
+
+          OFFICIAL
+     Oh, Christ! Clark, let's get out 
+     quick! Quick, man!
+
+          LAPOINTE
+     They've got the disease! Look at 
+     their eyes! Report that to your mayor!
+
+Before the driver can slam the limousine into reverse, the 
+second infected worker has reached through the window and 
+grabbed him by the hair. The hammer has completely penetrated 
+the door. The driver screams. They'll kill us!
+
+The two workers begin to drag the screaming driver out of 
+the car. The official scrambles over the front seatbacks 
+into the driver's seat, kicks the legs of the driver away 
+from the foot controls, and slams the gearshift into reverse. 
+The limousine fishtails backwards madly as the official floors 
+the accelerator, the crumpled, bloodied driver's door flapping 
+like a broken wing as the car backs down the road.
+
+In the rapidly receding distance, Lapointe can see the 
+infected workers hunching over Clark's body.
+
+INT. SHOPPING MALL -- DAY
+
+Rose sits in the middle of a shopping mall full of early 
+Christmas shoppers. Her hair is matted and straggly and she 
+watches the people in the mall hungrily. In the background, 
+children line up to sit on the knee of a huge, enthroned 
+Santa Claus surrounded by elaborately wrapped presents and 
+Christmas trees attached to a huge backdrop of crimson and 
+tinsel.
+
+Two cops, a nervous young cop carrying a submachine-gun, and 
+an older cop, watch the proceedings tensely. Large crowds 
+always mean trouble. The two cops patrol the mall separately, 
+keeping in touch by radio. A pleasant young man stops in 
+front of Rose's bench, looks her over, then decides to get 
+acquainted.
+
+          YOUNG MAN
+          (to Rose)
+     Mind if I sit down?
+
+          ROSE
+     No. I don't mind.
+
+The young man sits down.
+
+          YOUNG MAN
+     Nothing like Christmas, huh?
+
+Rose doesn't answer. The young man is running out of opening 
+lines.
+
+          YOUNG MAN
+     Ah... you smoke? You know... 
+     cigarettes? You smoke?
+
+          ROSE
+     Yeah. Sure.
+
+          YOUNG MAN
+     Great. Have one of mine.
+
+The young man fumbles in his jacket pocket for his pack of 
+cigarettes, then awkwardly shakes one out of the pack for 
+Rose. She takes it. The young man puts one in his mouth, 
+then starts to feel around in his pockets for matches. He 
+can't find any.
+
+          YOUNG MAN
+     No matches. You got a light?
+
+Rose shakes her head. The young man looks around. He spots a 
+man with a cigarette in his hand at the end of the adjacent 
+bench. He gets up.
+
+          YOUNG MAN
+     Just a sec. I'll ask that guy over 
+     there for a light. OK? Be right back.
+
+He walks over to the man on the bench. As he approaches, he 
+notices that the man's cigarette has burned right down to 
+the flesh of his fingers.
+
+          YOUNG MAN
+     'Scuse me, Mac. Gotta light?
+
+Without warning, the man on the bench leaps up at the young 
+man and grabs him by the hair. The man, a powerful, bearded 
+man of about sixty, has eyes like black holes and is drooling 
+green foam. He pulls the young man's head back and begins to 
+tear at his throat with nicotine-stained teeth. The young 
+man screams.
+
+The two cops break into a run the instant they locate the 
+source of the screams. When they arrive at the bench, the 
+bearded man looks up, his beard and mouth stained with blood. 
+The young man is quite obviously on the verge of death. The 
+young cop levels his submachine-gun at the man.
+
+          YOUNG COP
+     Stand up! Stand up and put your hands 
+     behind your head!
+
+The bearded man jumps up and tears off through the crowd of 
+incredulous onlookers. The young cop follows him. The bearded 
+man heads for the Santa Claus display.
+
+          YOUNG COP
+     Outta the way! Get outta the way. 
+     He'll kill you! That man'll kill 
+     you!
+
+The children around the Santa Claus display scatter as the 
+bearded man heads for them. The Santa Claus stands up and 
+grabs at the bearded man just as the young cop opens fire 
+with his submachine-gun. His bullets rip through both men 
+and the entire display, scattering bits of Christmas wrapping 
+and plastic fir trees everywhere.
+
+The older cop arrives on the scene, revolver drawn, just as 
+post-action shock hits the young cop.
+
+          YOUNG COP
+     Oh, Christ... I didn't mean to hit 
+     the Santa Claus.
+
+Deep in the gathering crowd, a traumatized Rose pushes her 
+way through to an exit.
+
+INT. CAMELFORD STATION -- DAY
+
+We are close on a TV set sitting on the admitting sergeant's 
+desk just inside the station's main entrance. A detailed 
+analysis of the disease crisis is in the process of being 
+broadcast, complete with news footage of army and militiamen 
+jumping off trucks in Place Ville Marie, citizens being 
+vaccinated at community health centers and at emergency depots 
+set up in subway stations, etc.
+
+          NEWSCASTER (V.O.)
+     ...and the crisis has now been 
+     officially granted epidemic status 
+     by officials of the World Health 
+     Organization. The Prime Minister was 
+     reluctant to officially declare a 
+     state of emergency, but as any citizen 
+     in the streets can tell you, martial 
+     law has come to Montreal. At an 
+     emergency vaccination center set up 
+     in the Atwater Metro Station, we 
+     spoke with a director of the World 
+     Health Organization who had just 
+     arrived from England to take charge 
+     of liaison with Health Bureaus in 
+     Western European countries.
+
+The face of an aristocratic and very tweedy Englishman appears 
+on the screen with the name Dr. Royce Gentry, Director, WHO, 
+flashing beneath his face on the screen for a moment or two.
+
+          GENTRY
+     I don't think there's any question 
+     that martial law is needed in the 
+     city of Montreal at this point in 
+     time. It's a necessity. It has already 
+     been established that victims of the 
+     disease -- and it is not rabies, 
+     though it may be related to the rabies 
+     virus -- victims of the disease are 
+     beyond medical help once it has 
+     established itself to the degree of 
+     inducing violent behavior.
+
+          INTERVIEWER (O.C.)
+     What you're saying, then, Dr. Gentry, 
+     is that...
+
+          GENTRY
+     What I'm saying is very simple. It 
+     may not be very palatable for your 
+     viewers. Shooting down victims of 
+     the disease is as good a way of 
+     handling them as we've got. If we 
+     lock them up, they immediately go 
+     into a coma and die shortly 
+     afterwards. We've now got a vaccine 
+     that we think will work in a 
+     preventative way, but for those who 
+     are already incubating the disease... 
+     as far as we know, there's no hope 
+     for them.
+
+The face of Dr. Gentry is replaced by a close-up of a needle 
+sinking into an arm.
+
+          NEWSCASTER (V.O.)
+     All those receiving shots of the new 
+     vaccine are being issued plastic ID 
+     cards with a photo of the card holder. 
+     Viewers are urged not to leave their 
+     homes unless absolutely necessary, 
+     and are reminded that if they do 
+     they must carry their vaccine cards 
+     with them. Police, army, and militia 
+     officers may demand to see them. 
+     Here is a list of vaccination centers 
+     in your area and the toll-free 
+     telephone number of our special 
+     emergency information center.
+
+Read and Cypher, rumpled and haggard, are signing forms at 
+the main desk of the station prior to being released. Both 
+are wearing plastic vaccination plates on their jackets, 
+Read toying impatiently with his.
+
+          CYPHER
+          (to desk sergeant)
+     Goodbye, Sergeant. You've been a 
+     wonderful host.
+
+          SERGEANT
+     OK, Murray. Take it easy. You sure 
+     you don't want to stay out here with 
+     us? The city doesn't sound like a 
+     very appetizing place to be.
+
+          CYPHER
+     I would, but my wife and kid... you 
+     know how it is.
+
+          READ
+          (very twitchy)
+     C'mon, Murray. Rose is waitin' for 
+     me.
+
+          CYPHER
+     OK, kid. Let's go.
+
+EXT. CAMELFORD STATION -- DAY
+
+Cypher and Read get into Cypher's station wagon, a QPP officer 
+handing Cypher the car keys as he gets in.
+
+          OFFICER
+     Remember to keep your windows up and 
+     your doors locked once you get into 
+     the city. Maybe the bug can't get 
+     you now, but that...
+          (tapping Cypher's 
+          plate)
+     ...that won't protect you from the 
+     crazies. Take care now.
+
+Cypher nods and starts his car. They pull out of the parking 
+lot and on to the highway.
+
+INT. MINDY'S BEDROOM -- LATE DAY
+
+Rose lies curled up in Mindy's double bed, the blankets 
+twisted up around her, sweating, her shoes still on, her 
+muscles contracting with waves of spasms that roll over her.
+
+Rose hardly notices the sound of keys jingling, the latch 
+turning, the front door opening. Mindy's home.
+
+          MINDY (O.S.)
+          (closing the door and 
+          locking it)
+     Rose? Are you home?
+
+We hear the sound of Mindy walking through her living room, 
+then approaching the bedroom.
+
+          MINDY
+     Rose? Are you asleep?
+
+Mindy enters the bedroom, a bag of groceries in her arms. 
+She stops at the door, shocked at Rose's appearance, then 
+puts the bag down on her night table and sits on the bed 
+beside Rose.
+
+          MINDY
+     Have you been out? Have you gotten 
+     your shot?
+
+Rose rolls over to face Mindy. Her lips are pale and parched, 
+her nose is running, her voice shakes as she speaks.
+
+          ROSE
+          (feebly)
+     I... I've been afraid to go out. 
+     And, Mindy, I... I'm starving. I'm 
+     starving to death. And I don't want 
+     to eat. I don't want any more to 
+     eat.
+
+She bursts into tears and rolls away from Mindy, who slides 
+across the bed after her and begins to stroke Rose's forehead.
+
+          MINDY
+     Rosie, what's been going on? What's 
+     the matter with you? Poor kid. Well, 
+     don't worry any more. We're two tough 
+     ladies, you and me. We can handle 
+     anything we have to.
+
+EXT. EXPRESSWAY RAMP -- DUSK
+
+Read and Cypher descend into the city on a long expressway 
+ramp which affords them a clear view of other sections of 
+highway and a large suburban plaza dominated by a huge 
+supermarket.
+
+Both their ramp and the other sections of highway are strewn 
+with wrecked and burned-out cars and even the occasional 
+body.
+
+As the station wagon descends, they can see the line-up of 
+people moving in and out of the supermarket guarded by 
+soldiers with light machine-guns. Before anyone is allowed 
+into the supermarket, he has to present his vaccine card at 
+a registration desk set up at the entrance.
+
+Cypher and Read plunge on, deeper into the city.
+
+                                   DISSOLVE TO:
+
+EXT. STREET AT FOOT OF EXIT RAMP -- NIGHT
+
+The station wagon swings off the exit ramp and on to a city 
+street, narrowly missing a few piles of garbage, which seems 
+to be everywhere.
+
+The street seems to be deserted, the stores on both sides 
+closed and dark.
+
+EXT. ANOTHER STREET -- NIGHT
+
+The station wagon turns on to a long, broad, practically 
+deserted street. The only human activity is centered around 
+a convoy of heavy white city garbage trucks manned by white-
+uniformed, hooded figures. The convoy of twelve is led by a 
+military jeep whose rider, an army sergeant, orders them to 
+peel off one by one down specific routes deemed primary for 
+decontamination.
+
+Armed soldiers ride on the tops of the trucks carrying rifles 
+with telescopic sights.
+
+INT. STATION WAGON -- NIGHT
+
+          READ
+     I can't believe it. It's like we 
+     were at war.
+
+          CYPHER
+     Listen, Hart. We're going to my house 
+     first. I'm not going to relax until 
+     I know that everything there's OK. 
+     Once we're there, I'll give you the 
+     keys to the car and you can go get 
+     your girl.
+
+          READ
+          (tense)
+     OK. Thanks.
+
+EXT. LEAFY SUBURBAN STREET -- NIGHT
+
+The station wagon pulls up into the driveway of Cypher's 
+small but pleasant suburban house. Except for a bit of garbage 
+strewn about, there are no signs of unrest in the 
+neighborhood. The odd rifle shot in the distance is fairly 
+easy to ignore in these surroundings.
+
+INT. STATION WAGON -- NIGHT
+
+Cypher gets out of the car and Read slides over into the 
+driver's seat.
+
+          CYPHER
+     Phone me when you get there, will 
+     you? Maybe you should bring Rose 
+     back here with you until this thing 
+     blows over.
+
+          READ
+     Yeah. Listen, thanks for the car, 
+     Murray. I'll call you.
+
+Cypher smiles and heads up the driveway toward his front 
+door. Read waits until Cypher has safely let himself into 
+his house, then pulls out of the driveway and on to the 
+street.
+
+INT. CYPHER'S HOUSE, FIRST FLOOR -- NIGHT
+
+Cypher enters his house and closes the door behind him. He 
+puts his briefcase down on top of the hall radiator and walks 
+toward the foot of the stairs.
+
+          CYPHER
+     Cecile? It's Murray, honey. I'm home.
+
+Nobody answers. Cypher resists the temptation to panic and 
+walks through the downstairs rooms. Everything seems 
+reasonably neat but there is no one there. Cypher returns to 
+the foot of the stairs and starts the climb to the second 
+floor.
+
+INT. CYPHER'S HOUSE, SECOND FLOOR -- NIGHT
+
+Cypher gets to the top of the stairs and begins to move along 
+the narrow hall taking him to the front of the house.
+
+          CYPHER
+     Cecile? I'm home, honey. Where are 
+     you?
+
+Cypher stops at the doorway of the baby's room and looks in.
+
+INT. CYPHER'S HOUSE, BABY'S ROOM -- NIGHT
+
+Cypher scans the baby's room, which from its cartoon wallpaper 
+to its brightly colored broadloom and toy-filled shelves 
+speaks volumes about the fastidious preparation which preceded 
+baby's arrival.
+
+He is about to continue on down the hall to the master bedroom 
+when he notices that the broadloom beneath the baby's 
+bathinette is wet. On an impulse he enters the room and lifts 
+open the top covering the bathinette. The bathinette is half-
+filled with bloody bath water, which has been leaking on to 
+the carpeting, drop by drop, for hours.
+
+Cypher lets the lid drop down with a mixture of fear and 
+horror suddenly stabbing him in the pit of the stomach. An 
+insane kind of moaning giggle drifts over to him from the 
+corner of the room.
+
+He whirls to face the sound. It seems to be coming from the 
+closet. Drawn inexorably toward the sound, he approaches the 
+closet, which is not completely closed. He raises his hand 
+to grasp the doorknob.
+
+Without warning, the closet door explodes open, smashing 
+Cypher in the face and knocking him to the floor. A crazed, 
+drooling Cecile lands heavily on top of him and begins to 
+bite him savagely on the face, her clouded eyes devoid of 
+all mercy or recognition.
+
+INT. MINDY'S BEDROOM -- NIGHT
+
+Mindy has tucked Rose into bed and is now applying a cold 
+compress to her feverish forehead. Rose seems to be half 
+asleep.
+
+          MINDY
+     That's it, Rosie. You just get as 
+     much sleep as you need. Don't think 
+     about anything. Let your mind drift.
+
+Mindy gets up and goes into her kitchen, leaving Rose's door 
+open just a crack.
+
+INT. MINDY'S KITCHEN -- NIGHT
+
+In her kitchen, Mindy continues preparing an elaborate 
+vegetable stew, somehow convinced that her weeks in the 
+hospital have induced in Rose an aversion to meat.
+
+The TV set, Mindy's constant companion, has been turned around 
+so that Mindy can just see it from where she's working, 
+although the sound has been turned off in deference to Rose. 
+At the moment there seems to be a detailed analysis of the 
+difference between rabies and the new strain of disease 
+holding the city in thrall, complete with microphotography, 
+in progress.
+
+INT. MINDY'S BEDROOM -- NIGHT
+
+Rose takes the compress from her forehead and places it 
+carefully on the night table. She slips out of bed and begins 
+to rummage around in the closet for her clothes.
+
+EXT. DOWNTOWN STREET -- NIGHT
+
+Read drives Cypher's station wagon along a downtown street 
+on his way to Mindy's. There are more people on this 
+particular street than the ones he and Cypher first 
+encountered. In fact, were it not for the heavily armed 
+soldiers placed at several strategic points and the single 
+guarded garbage truck making its rounds, all would seem 
+normal. The sound of sporadic gunfire in the distance seems 
+to have been accepted as everyday fare by everybody.
+
+But Read's focus of attention is on the car radio. He has 
+been listening to an analysis of the possible origins of the 
+disease and the information he's getting is disturbing him. 
+The voice on the radio is that of Dr. Royce Gentry.
+
+          GENTRY (V.O.)
+     And so after using some rather 
+     elaborate tracking procedures and 
+     applying them to a map, we find that 
+     the disease does in fact seem to 
+     have a very specific place of origin.
+
+          INTERVIEWER (V.O.)
+     Which is...?
+
+          GENTRY (V.O.)
+     Which is the Keloid Clinic of Cosmetic 
+     Surgery, a few miles outside the 
+     town of Camelford. You can see with 
+     your own eyes how everything has 
+     spread out from there in geometrically 
+     increasing proportions. Now this 
+     pattern, in conjunction with some of 
+     our other statistics, indicates that 
+     there is a strong possibility that 
+     there is a special factor at work in 
+     the spread of the disease.
+
+          INTERVIEWER (V.O.)
+     You mean a carrier.
+
+          GENTRY (V.O.)
+     Well, at the risk of setting off a 
+     futile witch hunt... Yes. Someone 
+     like the infamous Typhoid Mary who 
+     incubates the disease and transmits 
+     it, but is herself immune to it.
+
+          INTERVIEWER (V.O.)
+     What were they doing at the Keloid 
+     Clinic, Dr. Gentry?
+
+          GENTRY (V.O.)
+     We've run into a certain amount of 
+     difficulty ascertaining what exactly 
+     was going on there. We know what it 
+     wasn't. It had nothing to do with 
+     germ warfare or the like... no secret 
+     government contracts...
+
+Read's concentration is suddenly shattered by a movement he 
+catches in the corner of his rear-view mirror as he waits 
+for a light to change. A crazy -- a man in his forties wearing 
+a scarf and gloves but no coat -- breaks out from between 
+two buildings just behind Read's car and heads for the 
+clusters of people crossing at the light.
+
+Read watches the man brush by the car as though watching the 
+scene on television. The people in the crosswalk scatter at 
+the crazy's approach. The sniper on top of the garbage truck 
+has him safely in his crosshairs and squeezes off a shot. 
+The crazy hurtles against the hood of the station wagon as 
+though falling from a building and bounces off and on to the 
+road.
+
+Before Read can drive off, two garbage men run toward him 
+from the garbage truck. One of them holds up his hand for 
+Read to wait. He produces a spray bottle from under his white 
+jumpsuit and sprays the crazy's blood that has spattered the 
+car's hood. Then he waves Read on. Read puts his windshield 
+wipers on.
+
+INT. MINDY'S APARTMENT -- NIGHT
+
+Rose is dressed and trying to steal out the front door when 
+Mindy hears her from the kitchen.
+
+          MINDY (O.S.)
+     Rose? Are you awake?
+
+Rose yanks open the door and has one foot out the door when 
+Mindy appears around the corner with a dish of sauce in her 
+hand.
+
+          MINDY
+     Oh, no. Rose! You can't! It's 
+     dangerous out there!
+
+Mindy bangs the plate down on top of a stereo speaker and 
+runs after Rose. She catches her a few steps out the door 
+and hauls her back inside, swinging the door shut again with 
+her foot. The door doesn't lock.
+
+Rose is whimpering and weak. She starts to sink to the floor, 
+and Mindy, not strong enough to hold her up, goes with her.
+
+          ROSE
+     Mindy, Mindy. I don't want it to be 
+     you.
+
+Mindy hugs Rose tightly, rocking her back and forth.
+
+          MINDY
+     Of course it should be me. Who else 
+     but your best friend, Rose? I'll 
+     take care of you.
+
+          ROSE
+          (pause)
+     Oh, Mindy, I ache all over. I'm 
+     hurting from the inside out.
+
+          MINDY
+     Well then, what you need is a nice, 
+     deep, hot bath. It'll seep in and 
+     relax you from the outside in.
+
+She starts to unbutton Rose's shirt. Rose doesn't resist.
+
+EXT. MINDY'S APARTMENT BUILDING -- NIGHT
+
+Read parks the station wagon in front of Mindy's building 
+and gets out. He sprints up the front steps.
+
+INT. APARTMENT CORRIDOR -- NIGHT
+
+Read emerges from the elevator at the end of the corridor 
+and walks purposefully past the row of doors until he reaches 
+Mindy's.
+
+He reaches for the door. He notices that it's ajar and pulls 
+back his hand at the last minute. He takes a deep breath, 
+then kicks open the door.
+
+INT. MINDY'S APARTMENT -- NIGHT
+
+As the front door of Mindy's apartment slams open, Read is 
+confronted by the bizarre spectacle of Rose hunched over 
+Mindy's prostrate form, sucking blood from the large vein in 
+one of Mindy's arms.
+
+The instant the door slams open, Rose pulls her blood-sucking 
+organ out of Mindy's arm and tries to hide it with her right 
+hand. The organ, still dripping blood, slides back up under 
+her arm into its sheath. The half-conscious Mindy puts her 
+hand over the hole in her arm and mumbles incoherently.
+
+As Read approaches, Rose backs away, slipping her left arm 
+back into her shirt and fumbling with the buttons. Rose now 
+looks flushed and healthy, excited and alive.
+
+          ROSE
+          (quietly)
+     It's not my fault. It's not my fault.
+
+          READ
+     It's you. You're the one. It's been 
+     you all along.
+
+          ROSE
+     What are you talking about?
+
+          READ
+     You carry the plague. You've killed 
+     hundreds of people.
+
+          ROSE
+     No... no... you don't know what you're 
+     talking about. I'm still me. I'm 
+     still Rose.
+
+          READ
+     What did they do to you at the clinic? 
+     What did they turn you into?
+
+          ROSE
+          (suddenly angry)
+     I have to have blood. It's all I can 
+     eat. And it's your fault, not mine. 
+     It's your fault!
+
+Read takes three quick steps and grabs Rose by the shoulders. 
+She shrinks away from him as though he were the monster.
+
+          READ
+     There must be some way to fix this... 
+     We'll go to the police... we'll go 
+     to the hospital...
+
+Rose twists out of Read's grasp and runs for the front door. 
+Read turns and runs after her, almost tripping over Mindy. 
+Rose makes it out the door before Read can catch her.
+
+INT. APARTMENT CORRIDOR -- NIGHT
+
+Read chases Rose down the corridor.
+
+          READ
+     Rose, I'm sorry... wait! Wait!
+
+INT. STAIRWELL -- NIGHT
+
+Read finally manages to catch Rose at the top of the 
+stairwell. They struggle.
+
+          READ
+     Rose, listen to me. You're right. 
+     We're in it together. We'll figure 
+     it all out together...
+
+As they struggle, Rose somehow smashes Read in the face with 
+her elbow and he goes crashing backwards down the flight of 
+stairs, hitting his head several times on the metal steps as 
+he goes.
+
+She watches in horror as Read falls, then stands frozen for 
+several heartbeats after he has landed in a crumpled heap at 
+the bottom of the stairs. She runs down after him and kneels 
+beside him.
+
+He has a few large bruises on his forehead and temples but 
+is still breathing. Rose touches his lips with her fingers 
+briefly, then gets up and continues down the stairs.
+
+EXT. ENTRANCE OF MINDY'S APARTMENT -- NIGHT
+
+Rose opens the front door of the apartment building and steps 
+out on to the front steps, bewildered. There she sees a man 
+with a mustache sifting through a handful of letters on the 
+bottom step. He looks up at the sound of the door opening.
+
+          MUSTACHIOED MAN
+     Can I help you? I've seen you around 
+     before, haven't I? I just moved out 
+     of this building. They keep sending 
+     my mail here.
+
+          ROSE
+     I... yes, I'm a friend of Mindy Kent. 
+     I was supposed to meet her here, but 
+     she must have gone out.
+
+          MUSTACHIOED MAN
+     Well, it's not safe to walk the 
+     streets these days, not for a while, 
+     anyway. Can I escort you somewhere? 
+     Have you been vaccinated? No? Me 
+     neither. My brother told me he had 
+     to line up for three hours. Who's 
+     got time?
+
+          ROSE
+     Listen... I need a place to stay 
+     tonight. At least until Mindy shows 
+     up. Could I stay with you? For a 
+     little while?
+
+          MUSTACHIOED MAN
+          (slightly flustered)
+     I, ah... guess you could. I'm a single 
+     guy, you know. We'd be alone.
+          (pause)
+     That doesn't bother you?
+
+Rose shakes her head, wide-eyed and innocent.
+
+          MUSTACHIOED MAN
+     I'm a nice guy, too. C'mon. My car's 
+     just down the street.
+
+                                   DISSOLVE TO:
+
+EXT. APARTMENT -- NIGHT
+
+Night has fallen over Mindy's apartment and the streets are 
+dark and completely deserted.
+
+INT. STAIRWELL -- NIGHT
+
+Read is only now regaining consciousness in the damp apartment 
+stairwell. He rubs his neck and gradually manages to get to 
+his feet. The top of the stairs looks as though it's a mile 
+away. Read begins to climb the stairs, one painful step at a 
+time.
+
+INT. CORRIDOR -- NIGHT
+
+As Read staggers down the corridor, he hears a telephone 
+begin to ring in the distance. The ringing gets louder and, 
+somehow, more persistent as he gets closer to Mindy's door.
+
+INT. MINDY'S APARTMENT -- NIGHT
+
+The telephone is patiently ringing in Mindy's apartment, as 
+though waiting for Read to answer it. He enters the apartment 
+and takes a quick look around for signs of Mindy. The place 
+is empty. He swings the door shut and locks it. Only then 
+does he turn to the phone.
+
+Read answers the telephone.
+
+          READ
+     Hello?
+
+INT. MUSTACHE'S APARTMENT -- NIGHT
+
+Rose has locked herself into the single man's apartment and 
+slid a heavy table across the door. The single man sits 
+slumped in an old wingback chair, his cheek bloody, his eyes 
+closed.
+
+Rose has turned out all the lights in the apartment except 
+for a small mood light near the telephone, which sits on an 
+end table by a Victorian velvet sofa. She speaks quietly 
+into the receiver, as though not wanting to wake the 
+mustachioed man.
+
+          ROSE
+     It's me, Hart. I'm glad I managed to 
+     get you. Are you all right? Did I 
+     hurt you?
+
+          READ (V.O.)
+     Rose, where are you? We should be 
+     together. Please, tell me where you 
+     are.
+
+          ROSE
+     Well, what you said to me hurt me. 
+     It scared me. It scared me because I 
+     suddenly knew you might be right. 
+     And if you were right, about my being 
+     a carrier, I mean... then I... I 
+     murdered Mindy. I murdered a lot of 
+     people.
+
+          READ (V.O.)
+     Rose, listen to me... No court of 
+     law would convict you...
+
+          ROSE
+     So I decided to try a little 
+     experiment to prove that you were 
+     wrong about all that. You see? I'm 
+     being very positive, aren't I?
+
+          READ (V.O.)
+     There's no reason for you to put 
+     yourself through anything like this...
+
+          ROSE
+     So I found myself a partner for my 
+     experiment, a single guy, real normal 
+     and real healthy, and I took a little 
+     of his blood... just a bit... and 
+     I've locked myself in with him. And 
+     I'm going to stay here with him until 
+     I'm sure he's not going to get sick. 
+     And then I'll know that I'm not the 
+     one who started it all.
+
+INT. MINDY'S APARTMENT -- NIGHT
+
+          READ
+     Rose, you've got to tell me where 
+     you are. You're committing suicide.
+
+          ROSE (V.O.)
+     Hart, I just want you to be with me 
+     over the phone... just until I find 
+     out one way or the other. We can 
+     live together over the phone for a 
+     while. We can do that, can't we?
+
+          READ
+     Oh, God. Rose, how long ago did you... 
+     take blood from the man you're with? 
+     How long ago?
+
+          ROSE (V.O.)
+     Six hours. Maybe seven.
+
+          READ
+     Rose, you've got to get out of there.
+
+INT. MUSTACHE'S APARTMENT -- NIGHT
+
+As Read talks, Rose hears a sound behind her. She turns to 
+see a shadow rising out of the chair behind her. The shadow 
+seems immense.
+
+          READ (V.O.)
+     Please, Rose, just drop the phone 
+     and walk over to the door and run 
+     outta that place as fast as you can. 
+     You're not giving either of us a 
+     chance to think. We don't need this 
+     pressure... everything's so 
+     confused... We've got to just clear 
+     a space where we can be alone and 
+     sit down and talk about everything 
+     and figure out what to do... Rose? 
+     Get out of there, get out right now!
+
+The shadow approaches Rose, who lies as still as death on 
+the sofa. The single man is finally caught by the edge of 
+the mood light's glow, and Rose can see the dead black eyes, 
+the drooling green saliva, the slack, hungry lips.
+
+          ROSE
+     Hart... I'm afraid!
+
+The single man lunges for Rose's throat.
+
+INT. MINDY'S APARTMENT -- NIGHT
+
+Read screams into the phone.
+
+          READ
+     Rose! Rose!
+
+He is in agony as he hears the sounds of Rose being torn 
+apart at the other end of the line, but he is unable to take 
+the receiver away from his ear, unable to desert Rose in her 
+final moments. He screams insanely into the phone, this time 
+incoherently, trying to make it stop, trying to cover it up. 
+But it doesn't stop.
+
+EXT. DOWNTOWN INTERSECTION -- DAWN
+
+In the chill of early morning, an armed garbage truck moves 
+through the city collecting bodies left in the aftermath of 
+the night's anonymous violence.
+
+                                   DISSOLVE TO:
+
+EXT. MINDY'S STREET -- DAWN
+
+On Mindy's street, just a few blocks away from Mindy's 
+apartment, a garbage truck stops to collect a body covered 
+with dried blood that has been dragged out on to the front 
+steps of an apartment building. Before the garbage men can 
+get the body, the sniper on the roof has to shoot a dog who 
+is sniffing at the body.
+
+The garbage men are then able to get to the body, spray it 
+with disinfectant, spray the dog's body, and drag them back 
+to the truck's compressor. As the body is dumped into the 
+back of the truck, we see that it is possibly Rose's.
+
+THE END
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

@@ -1,0 +1,317 @@
+year	2011
+imdb score	5.5
+meta score	44
+genre	Action
+genre	Crime
+genre	Fantasy
+genre	Thriller
+keyword	oklahoma
+keyword	baby
+keyword	waitress
+keyword	cult
+keyword	satanic cult
+keyword	rescue
+keyword	colorado
+keyword	hell
+keyword	full moon
+keyword	louisiana
+keyword	driver's license
+keyword	chase
+keyword	impersonating a police officer
+keyword	car jump
+keyword	back from the dead
+keyword	severed leg
+keyword	camera follows a bullet
+keyword	throat slitting
+keyword	car off bridge
+keyword	invulnerability
+keyword	hitchhiker
+keyword	bone
+keyword	fugitive
+keyword	police officer shot in the chest
+keyword	towing a car
+keyword	pump action shotgun
+keyword	fully clothed sex
+keyword	woman punching a man
+keyword	bar
+keyword	sledgehammer
+keyword	child in peril
+keyword	hot pants
+keyword	dry humor
+keyword	hitman
+keyword	shot in the ear
+keyword	decapitation
+keyword	thrown through a window
+keyword	topless female nudity
+keyword	chapel
+keyword	finger gun
+keyword	penis bitten off
+keyword	corpse
+keyword	leather jacket
+keyword	one man army
+keyword	diner
+keyword	tossing coin
+keyword	child sacrifice
+keyword	drinking from the bottle
+keyword	exploding body
+keyword	male rear nudity
+keyword	fake fbi agent
+keyword	tattoo
+keyword	super speed
+keyword	death of daughter
+keyword	prologue
+keyword	deception
+keyword	pentagram
+keyword	bow and arrow
+keyword	hatchet
+keyword	swimming pool
+keyword	severed hand
+keyword	kidnapping
+keyword	police officer shot in the head
+keyword	car flip
+keyword	recreational vehicle
+keyword	car chase
+keyword	dark humor
+keyword	tanker truck
+keyword	coin toss
+keyword	ford pickup
+keyword	violence
+keyword	female full frontal nudity
+keyword	quitting a job
+keyword	undead
+keyword	title appears in writing
+keyword	murder of a police officer
+keyword	taking out the trash
+keyword	axe
+keyword	hit by a falling object
+keyword	shot in the head
+keyword	female rear nudity
+keyword	road blockade
+keyword	shotgun
+keyword	backhand slap
+keyword	beer
+keyword	ejected from a moving vehicle
+keyword	revenge
+keyword	pistol
+keyword	road trip
+keyword	shot in the forehead
+keyword	magic trick
+keyword	beating
+keyword	tommy gun
+keyword	profanity
+keyword	femur
+keyword	bare chested male
+keyword	loud sex
+keyword	punched in the mouth
+keyword	machete
+keyword	f word
+keyword	dagger
+keyword	revolver
+keyword	stabbed in the shoulder
+keyword	male frontal nudity
+keyword	spit in the face
+keyword	hit by a car
+keyword	car accident
+keyword	supernatural power
+keyword	throat cut
+keyword	starts with narration
+keyword	demon
+keyword	sawed off shotgun
+keyword	coin
+keyword	rifle
+keyword	cult leader
+keyword	voice over narration
+keyword	gas leak
+keyword	punched in the face
+keyword	flipping a coin
+keyword	razor
+keyword	impalement
+keyword	vigilante
+keyword	punched in the stomach
+keyword	gothic
+keyword	corrupt cop
+keyword	crushed by a car
+keyword	state trooper
+keyword	black comedy
+keyword	pot smoking
+keyword	machine gun
+keyword	cult film
+keyword	bare breasts
+keyword	exploding car
+keyword	throwing axe
+keyword	hit with a baseball bat
+keyword	bare butt
+keyword	police officer shot
+keyword	cemetery
+keyword	traffic light
+keyword	held at gunpoint
+keyword	gash in the face
+keyword	one liner
+keyword	singing in a car
+keyword	baseball bat
+keyword	race against time
+keyword	cell phone
+keyword	stabbed in the back
+keyword	slow motion scene
+keyword	gore
+keyword	motel
+keyword	crotch grab
+keyword	exploding truck
+keyword	knife
+keyword	bridge
+keyword	blood splatter
+keyword	muscle car
+keyword	face slap
+keyword	faked death
+keyword	obscene finger gesture
+keyword	truck stop
+keyword	shot in the groin
+keyword	shot in the leg
+keyword	anti hero
+keyword	healing
+keyword	brawl
+keyword	public nudity
+keyword	butt pinch
+keyword	shot in the foot
+keyword	person on fire
+keyword	golf club
+keyword	kicked in the balls
+keyword	hitchhiking
+keyword	blood
+keyword	shot through a window
+keyword	knocked out
+keyword	violence
+keyword	shot in the eye
+keyword	car set on fire
+keyword	axe throwing
+keyword	woman slaps a man
+keyword	sunglasses
+keyword	scythe
+keyword	megalomaniac
+keyword	world domination
+keyword	hostage
+keyword	kicked in the stomach
+keyword	pickaxe
+keyword	3 dimensional
+keyword	threatened with a knife
+keyword	strangulation
+keyword	double barreled shotgun
+keyword	leather pants
+keyword	shot in the chest
+keyword	no opening credits
+keyword	skull
+keyword	1969 dodge charger
+keyword	religious cult
+keyword	box office flop
+keyword	flashback
+keyword	hairpulling
+keyword	crushed to death
+keyword	pickup truck
+keyword	woman on top
+keyword	super strength
+keyword	murder
+keyword	grindhouse
+keyword	phone booth
+keyword	abandoned prison
+keyword	premarital sex
+keyword	car explosion
+keyword	straight razor
+keyword	jumping through a window
+keyword	painting toenails
+keyword	satan worship
+keyword	stabbed in the head
+keyword	body landing on a car
+keyword	kicked in the crotch
+keyword	resurrection
+keyword	police
+keyword	hit with a car door
+keyword	shootout
+keyword	scene of the crime
+keyword	catfight
+keyword	stabbed in the chest
+keyword	exploding trailer
+keyword	human sacrifice
+keyword	cheating fiancé
+keyword	car crash
+keyword	character repeating someone else's dialogue
+keyword	punched in the crotch
+keyword	stabbed in the eye
+keyword	church
+keyword	police captain
+keyword	southern accent
+keyword	murder of a nude woman
+keyword	death
+keyword	psychopath
+keyword	imperative in title
+keyword	shot in the back
+keyword	nude with a gun
+keyword	3 d
+keyword	machismo
+keyword	henchman
+keyword	caught having sex
+keyword	scar
+keyword	man punching a woman
+keyword	shot to death
+keyword	camera phone
+keyword	news report
+keyword	cigar smoking
+keyword	kicked in the face
+keyword	head butt
+keyword	female frontal nudity
+keyword	police chase
+keyword	mechanic
+keyword	interrupted sex
+keyword	on the run
+keyword	fight
+keyword	tire iron
+keyword	
+cast	Nicolas Cage	Milton
+cast	Amber Heard	Piper
+cast	William Fichtner	The Accountant
+cast	Billy Burke	Jonah King
+cast	David Morse	Webster
+cast	Todd Farmer	Frank Raimi
+cast	Christa Campbell	Mona
+cast	Charlotte Ross	Candy
+cast	Tom Atkins	Cap
+cast	Jack McGee	Fat Lou
+cast	Katy Mixon	Norma Jean
+cast	Wanetah Walmsley	American Indian Mother
+cast	Robin McGee	Guy with Camera Phone
+cast	Fabian C. Moreno	Latino Busboy
+cast	Edrick Browne	Rookie
+cast	Marc Macaulay	Sarge
+cast	Pruitt Taylor Vince	Roy
+cast	Julius Washington	Uniformed Officer
+cast	Jamie Teer	Babysitter
+cast	Bryan Massey	Trooper #1
+cast	Timothy Walter	Trooper #2
+cast	Kent Jude Bernard	Teen #1
+cast	Brent Phillip Henry	Teen #2
+cast	Gerry May	TV Male News Reporter #1
+cast	Sherri Talley	TV Female News Reporter #2
+cast	Arianne Martin	Milton's Daughter
+cast	Con Schell	Fucking Driver
+cast	Nick Gomez	Fucking Middle
+cast	Joe Chrest	Fucking Passenger
+cast	Oakley Lehman	Cultist with Iron Pipe
+cast	Thirl Haston	Cultist with Sickle
+cast	Jake Brake	Cultist with Machete
+cast	Tim J. Smith	Cultist with Hatchet
+cast	Jeffrey J. Dashnaw	Cowboy with Cattle Prod
+cast	Tim Trella	Cultist with Sledge
+cast	James Landry Hébert	Man in Leather Jacket
+cast	Kenneth Wayne Bradley	Man with Wig
+cast	Kendrick Hudson	Burly Dude
+cast	Michael Papajohn	Tattooed Guy
+cast	April Littlejohn	Business Woman
+cast	Henry Kingi	Thin Old Man
+cast	Simona Williams	Lady in Leopard Skin
+cast	Shelby Swatek	Truck Driving Woman
+cast	Joseph Blackstone	Bar patron
+cast	Dan Forest	American Indian Dad
+cast	Elise Fyke	Laughing Cowgirl
+cast	Jonathan O'Rear	Resturant Patron
+cast	James Paul	Bar Patron
+cast	Lanie Taylor	Milton's Daughter - Younger
+cast	David Lee Valle	Highway Patrol

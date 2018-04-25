@@ -1,0 +1,105 @@
+year	1993
+imdb score	5.6
+meta score	N/A
+genre	Comedy
+genre	Crime
+genre	Thriller
+keyword	murder
+keyword	gun
+keyword	spoof
+keyword	abusive husband
+keyword	on the run
+keyword	skunk
+keyword	character can see subtitle
+keyword	adultery
+keyword	black panties
+keyword	secretary
+keyword	boat
+keyword	roller coaster
+keyword	clothes ripping
+keyword	seduction
+keyword	fatal attraction
+keyword	ex convict
+keyword	drowning
+keyword	see through panties
+keyword	bathtub
+keyword	train
+keyword	panties
+keyword	adulterous wife
+keyword	lawyer
+keyword	bar
+keyword	police
+keyword	brunette
+keyword	parrot
+keyword	deadpan
+keyword	towel
+keyword	revenge
+keyword	love triangle
+keyword	love
+keyword	detective
+keyword	neo noir
+keyword	white panties
+keyword	double indemnity
+keyword	courtroom
+keyword	tunnel
+keyword	cooking
+keyword	insurance fraud
+keyword	ice pick
+keyword	identical twins
+keyword	face slap
+keyword	jumping from a train
+keyword	falling down stairs
+keyword	femme fatale
+keyword	twin
+keyword	
+cast	Armand Assante	Ned Ravine
+cast	Sherilyn Fenn	Laura Lincolnberry
+cast	Kate Nelligan	Lana Ravine
+cast	Sean Young	Lola Cain
+cast	Christopher McDonald	Frank Kelbo
+cast	James Remar	Max Shady
+cast	Tony Randall	Judge Skanky
+cast	Clarence Clemons	Clarence
+cast	Michael Cumpsty	Laura's Husband
+cast	John Witherspoon	Arch
+cast	Blake Clark	Milo Crumley
+cast	Edward Blanchard	Restroom Patron
+cast	David Greenlee	Restroom Stall Patron
+cast	Tim Frisbie	Guy in Bumper Car
+cast	Michael MacCleod	Freckle-Faced Kid
+cast	Carl Reiner	Judge Ben Arugula
+cast	Laurie Lapinski	Frightened Woman
+cast	Eartha Kitt	First Trial Judge
+cast	Harvey Levine	Blind Guy
+cast	Christopher Darga	Prison Guard
+cast	Bernie Hiller	Prison Reporter
+cast	Lucy Lin	Prison Reporter
+cast	Jane Lynch	Prison Reporter
+cast	Casey King	Prison Reporter
+cast	Jacob Vargas	Flower Delivery Man
+cast	Alex Zuckerman	Jeff
+cast	Ronnie Schell	Conductor
+cast	Bunny Summers	Train Passenger
+cast	Judy Nagy	Reporter
+cast	Julie Rowen	Reporter
+cast	Pauline Lomas	Reporter
+cast	Suli McCullough	Reporter
+cast	Bob Uecker	Sportscaster
+cast	Mark Anthony	Sports Announcer
+cast	Kevin Michael Richardson	Bailiff
+cast	Susan Angelo	Lana's Prosecutor
+cast	Gregory Sporleder	Court Clerk
+cast	Joseph Attanasio	Jury Foreman
+cast	Savannah Smith Boucher	Woman Juror
+cast	Steven Houska	Courtroom Usher
+cast	Roger E. Reid	Court Reporter
+cast	Barry Eisen	Press Room Reporter
+cast	George Lopez	Murder Investigator
+cast	Keith Campbell	Murder Investigator
+cast	Doc Severinsen	Guest Musician
+cast	Vito Mirabella	Hot Dog Vendor
+cast	Bill Cobbs	Man in park
+cast	Michael McKay	Men Who Stare
+cast	Christopher Murray	Investigator #1
+cast	Rosie O'Donnell	Woman in Bird Store
+cast	Clement von Franckenstein	

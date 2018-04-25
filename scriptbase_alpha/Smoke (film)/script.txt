@@ -1,0 +1,5901 @@
+Smoke (1995) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Smoke (1995) movie scriptby Paul Auster. Final script.
+More info about this movie on IMDb.com
+
+
+1.     EXT:  DAY.  ELEVATED SUBWAY TRAIN
+
+Against the backdrop of the Manhattan skyline, we see an elevated
+subway train heading toward Brooklyn.
+
+After a moment, we begin to hear voices. An animated discussion is
+taking place inside the Brooklyn Cigar Company.
+
+2.      INT:  DAY.  THE BROOKLYN CIGAR CO.
+
+The cigar shop from within. Displays of cigar boxes, a wall of
+magazines, piles of newspapers. cigarettes, smoking paraphernalia. On
+the walls, we see framed black-and-white photographs of people smoking
+cigars: Groucho Marx, George Burns, Clint Eastwood, Edward G. Robinson,
+Orson Welles, Charles Laughton, Frankenstein's monster, Leslie Caron,
+Ernie Kovacs.
+
+Words appear on the screen: "SUMMER 1990."
+
+AUGGIE WREN is behind the counter. Somewhere between forty and fifty
+years old, AUGGIE is a scruffy presence: unkempt hair, a two-day
+stubble of beard, dressed in blue jeans and a black T-shirt. We see an
+intricate tattoo on one arm.
+
+It is a slow hour. AUGGIE is flipping through a photography magazine.
+
+Near the counter are the three OTB MEN. These are local characters who
+like to hang out in the store, shooting the breeze with AUGGIE. One is
+black (TOMMY) and the other two are white (JERRY and DENNIS). DENNIS
+wears a T-shirt with the following words printed across the front: "If
+life is a dream, what happens when I wake up?"
+
+          TOMMY
+     I'll tell you why they're not going anywhere.
+
+          JERRY
+     Yeah? And why is that?
+
+          TOMMY
+     Management. Those guys are walking around with
+     their heads up their asses.
+
+          DENNIS
+     They made some great deals. Tommy. Hernandez.
+     Carter. Without those two, there never woulda
+     been no World Series.
+
+          TOMMY
+     That was four years ago. I'm talking about now.
+          (Growing more intense)
+     Look who they got rid of. Mitchell. Backman.
+     McDowell. Dykstra. Aguillera. Mookie. Mookie
+     Wilson, for Chrissakes.
+          (Shakes his head)
+
+          JERRY
+          (Sarcastically)
+     And Nolan Ryan. Don't forget him.
+
+           DENNIS
+          (Chiming in)
+     Yeah. And Amos Otis.
+
+          TOMMY
+          (Shrugs)
+     Okay, joke about it. I don't give a shit.
+
+          JERRY
+     Jesus, Tommy, it ain't science, you know. You
+     got your good trades and your bad trades.
+     That's how it works.
+
+          TOMMY
+     They didn't have to do a thing, that's all I'm
+     saying. The team was good, the best fucking
+     team in baseball. But then they had to screw it
+     up.
+           (Pause)
+     They traded their birthright for a mess of
+     porridge.
+          (Shakes his head)
+     A mess of porridge.
+
+The bells on the door jangle as someone enters. It is AUGGIE'S protégé,
+JIMMY ROSE, a mentally retarded man in his late twenties. He has been
+sweeping the sidewalk outside the store and holds a broom in his right
+hand.
+
+          AUGGIE
+     How'd you do out there, Jimmy?
+
+          JIMMY
+     Good, Auggie. Real good.
+          (Proudly thrusts out broom)
+     All finished.
+
+          AUGGIE
+            (Philosophically)
+     It'll never be finished.
+
+          JIMMY
+          (Confused)
+     Huh?
+
+          AUGGIE
+     That's how it is with sidewalks. People come,
+     people go, and they all drop shit on the
+     ground. As soon as you clean up one spot and
+     move on to the next, the first spot is dirty
+     again.
+
+          JIMMY
+          (Trying to digest AUGGIE'S comment)
+     I just do what you tell me, Auggie. You tell me
+     to sweep, so I sweep.
+
+The bells on the door jangle again, and a customer enters the store: a
+middle-class man in his early thirties. He walks to the counter as
+JERRY teases JIMMY. In the background, we see him talking to AUGGIE.
+AUGGIE pulls some cigar boxes out of the display case and puts them on
+the counter for the YOUNG MAN to inspect. In the foreground we see:
+
+          JERRY
+          (Interrupting. Playfully)
+     Hey, Jimmy. You got the time?
+
+          JIMMY
+          (Turning to the SECOND OTB MAN)
+     Huh?
+
+          JERRY
+     You still have that watch Auggie gave you?
+
+          JIMMY
+          (Holds up left wrist showing
+           cheap digital watch. Smiles)
+     Tick-tock, tick-tock.
+
+          JERRY
+     So what's the time?
+
+          JIMMY
+          (Studying watch)
+     Twelve-eleven.
+          (Pause, marveling as
+           the numbers change)
+     Twelve-twelve.
+          (Looks up, smiling)
+     Twelve-twelve.
+
+A sudden outburst is heard from the area near the counter.
+
+          YOUNG MAN
+          (Aghast)
+     Ninety-two dollars?
+
+The focus of the scene shifts to AUGGIE and the YOUNG MAN.
+
+          AUGGIE
+     They don't come cheap, son. These little honeys
+     are works of art. Rolled by hand in a tropical
+     climate, most likely by an eighteen year old
+     girl in a thin cotton dress with no underwear
+     on. Little beads of sweat forming in her naked
+     cleavage. The smooth, delicate fingers nimbly
+     turning out one masterpiece after another...
+
+          YOUNG MAN
+           (Pointing)
+     And how much are these?
+
+          AUGGIE
+     Seventy-eight dollars. The girl who rolled these
+     was probably wearing panties.
+
+          YOUNG MAN
+          (Pointing)
+     And these?
+
+          AUGGIE
+      Fifty-six.  That girl had on a corset.
+
+          YOUNG MAN
+          (Pointing)
+     And these?
+
+          AUGGIE
+     Forty-four. They're on special this week from
+     the Canary Islands. A real bargain.
+
+                    YOUNG MAN
+     I think I'll take them.
+          (Takes wallet from his pocket
+           and counts out $50 which he
+           hands to AUGGIE)
+
+          AUGGIE
+     A good choice. You wouldn't want to celebrate
+     the birth of your firstborn with a box of
+     stinkers, would you? Remember to keep them in
+     the refrigerator until you hand them out.
+
+                    YOUNG MAN
+     The refrigerator?
+
+          AUGGIE
+     It'll keep them fresh. If they get too dry,
+     they'll break. And you don't want that to
+     happen, do you?
+          (Putting cigar box into a bag,
+           ringing up sale on the cash register)
+     Tobacco is a plant, and it needs the same
+     loving care you'd give an orchid.
+
+                    YOUNG MAN
+     Thanks for the tip.
+
+          AUGGIE
+     Any time. And congratulations to you and your
+     wife. Just remember, though, in the immortal
+     words of Rudyard Kipling: "A woman is just a
+     woman, but a cigar is a smoke.
+
+          YOUNG MAN
+          (Confused)
+     What does that mean?
+
+          AUGGIE
+     Damned if I know. But it has a nice ring to it,
+     don't it?
+
+At that moment, we hear the bells on the door jangle again. Cut to the
+door. Another customer enters the store: PAUL BENJAMIN. He is in his
+early forties, dressed in rumpled casual clothes. As he approaches the
+counter, the YOUNG MAN brushes past him and leaves the store. The OTB
+MEN and JIMMY look on as PAUL and AUGGIE talk.
+
+          PAUL
+      Hey, Auggie. How's it going?
+
+          AUGGIE
+     Hey, man. Good to see you. What'll it be today?
+
+          PAUL
+     Two tins of Schimmelpennincks. And throw in a
+     lighter while you're at it.
+
+                      AUGGIE
+          (Reaching for cigars and lighter)
+     The boys and I were just having a philosophical
+     discussion about women and cigars. Some
+     interesting connections there, don't you think?
+
+          PAUL
+          (Laughs)
+     Definitely.
+          (Pause)
+     I suppose it all goes back to Queen Elizabeth.
+
+                      AUGGIE
+     The Queen of England?
+
+          PAUL
+     Not Elizabeth the Second, Elizabeth the First.
+          (Pause)
+     Did you ever hear of Sir Walter Raleigh?
+
+          TOMMY
+     Sure. He's the guy who threw his cloak down
+     over the puddle.
+
+          JERRY
+     I used to smoke Raleigh cigarettes. They came
+     with a free gift coupon in every pack.
+
+          PAUL
+     That's the man. Well, Raleigh was the person
+     who introduced tobacco in England, and since he
+     was a favorite of the Queen's -- Queen Bess, he
+     used to call her -- smoking caught on as a
+     fashion at court. I'm sure Old Bess must have
+     shared a stogie or two with Sir Walter. Once,
+     he made a bet with her that he could measure
+     the weight of smoke.
+
+          DENNIS
+     You mean, weigh smoke?
+
+          PAUL
+     Exactly. Weigh smoke.
+
+          TOMMY
+     You can't do that. It's like weighing air.
+
+          PAUL
+     I admit it's strange. Almost like weighing
+     someone's soul. But Sir Walter was a clever
+     guy. First, he took an unsmoked cigar and put
+     it on a balance and weighed it. Then he lit up
+     and smoked the cigar, carefully tapping the
+     ashes into the balance pan. When he was
+     finished, he put the butt into the pan along
+     with the ashes and weighed what was there.
+     Then he subtracted that number from the
+     original weight of the unsmoked cigar. The
+     difference was the weight of the smoke.
+
+          TOMMY
+     Not bad. That's the kind of guy we need to take
+     over the Mets.
+
+          PAUL
+     Oh, he was smart, all right. But not so smart
+     that he didn't wind up having his head chopped
+     off twenty years later.
+          (Pause)
+     But that's another story.
+
+          AUGGIE
+          (Handing PAUL his change and putting
+           cigar tins and lighter in a paper bag)
+     Seven eighty-five out of twenty.
+          (As PAUL turns to leave)
+     Take care of yourself now, and don't do
+     anything I wouldn't do.
+
+          PAUL
+          (Smiling)
+     I wouldn't think of it.
+          (Waves casually to the OTB MEN)
+     See you around, fellas.
+
+AUGGIE and the OTB MEN watch as PAUL leaves the store.
+
+          TOMMY
+          (Turning to AUGGIE)
+     What is he, some kind of wise guy?
+
+          AUGGIE
+     Nah. He's a good kid.
+
+          JERRY
+     I've seen him around. He comes in here a lot,
+     don't he?
+
+          AUGGIE
+     Couple of times a week, maybe. He's a writer.
+     Lives in the neighborhood.
+
+          TOMMY
+     And what kind of writer is he? An underwriter?
+
+          AUGGIE
+          (Peeved)
+     Very funny. Some of the cracks you make. Tommy,
+     sometimes I think you should see a doctor. You
+     know, go in for some wit therapy or something.
+     To clean out the valves in your brain.
+
+          TOMMY
+          (A little embarrassed. Shrugs)
+     It was just a joke.
+
+          AUGGIE
+     The guy's a novelist. Paul Benjamin. You ever
+     hear of him?
+          (Pause)
+     That's a stupid question. The only things you
+     guys read is the Racing Form and pages of the
+     Post.
+          (Pause)
+     He's published three or four books.  But
+     nothing now for the past few years.
+
+          DENNIS
+     What's the matter? He run out of ideas?
+
+          AUGGIE
+     He ran out of luck.
+          (Pause)
+     Remember that holdup out here on Seventh Avenue
+     few years back?
+
+          JERRY
+     You talking about the bank? The time those two
+     guys started spraying bullets all over the
+     street?
+
+          AUGGIE
+     That's it. Four people got killed. One of them
+     was Paul's wife.
+          (Pause)
+     The poor lug, he hasn't been the same since.
+          (Pause)
+     The funny thing was, she stopped in here just
+     before it happened. To stock up on cigars for
+     him. She was a nice lady, Ellen. Four or five
+     months pregnant at the time, which means that
+     when she was killed, the baby was killed, too.
+
+          TOMMY
+     Bad day at Black Rock, eh, Auggie?
+
+Close-up of AUGGIE'S face. Remembering.
+
+          AUGGIE
+     It was bad, all right. I sometimes think that
+     if she hadn't given me exact change that day,
+     or if the store had been a little more crowded,
+     it would have taken her a few more seconds to
+     get out of here, and then maybe she wouldn't
+     have stepped in front of that bullet. She'd
+     still be alive, the baby would have been born,
+     and Paul would be sitting at home writing
+     another book instead of wandering the streets
+     with a hangover.
+          (Pensive, his expression suddenly
+           turns to one of alarm)
+
+Cut to white youth in the corner of the store, shoving paperback books
+into the pockets of his tattered army fatigue jacket.
+
+          AUGGIE (cont'd)
+     Hey! What are you doing there, kid? Hey, cut
+     that out!
+
+AUGGIE scrambles out from behind the counter, pushing his way past the
+OTB MEN as the kid takes off and runs out of the store.
+
+3.     EXT: DAY. SEVENTH AVENUE
+
+AUGGIE chases the BOOK THIEF down the street. Eventually, he gets
+winded and gives up. He pauses for a moment to catch his breath, then
+turns around and heads back in the direction of the store.
+
+4.     INT: DAY. PAUL'S APARTMENT.  A BROWNSTONE BUILDING IN PARK SLOPE
+(THIRD FLOOR)
+
+Shot of a little brown cigar, burning in an ashtray.
+
+The camera pulls back to reveal PAUL at his desk. He is writing in
+longhand, using a pad of yellow legal paper. An old Smith-Corona
+typewriter is also on the desk, poised for work with a half-written
+page in the roller. Off in the corner, we see a neglected word
+processor.
+
+The workroom is a bare and simple place. Desk, chair, and a small
+wooden bookcase with manuscripts and papers shoved onto its shelves.
+The window faces a brick wall.
+
+As PAUL continues to write, the camera travels from the workroom into
+the larger of the two rooms that make up his apartment.
+
+This larger room is an all-purpose space that includes a sleeping area,
+a kitchenette in one corner, a dining table and a large easy chair.
+Crowded bookshelves occupy one wall from floor to ceiling. The bow
+windows face front, looking down onto the street. Near the bed, we see
+a framed photograph of a young woman. (This is Ellen, Paul's dead
+wife.)
+
+The camera travels back into the workroom. We see PAUL at work. Fade
+out.
+
+Fade in. We see PAUL at his desk, eating a TV dinner while still
+writing in the pad. After a moment, he inadvertently knocks the food
+off the desk with his elbow. He begins to bend over to pick up the
+food, but as he does so a new idea suddenly occurs to him. Instead of
+cleaning up the mess, he turns back to his pad and continues writing.
+
+5     EXT: DAY. IN FRONT OF THE BROOKLYN CIGAR CO.
+
+We see PAUL walking out of the cigar store. JIMMY ROSE is on the
+corner, observing him throughout the scene. PAUL takes three or four
+steps, then realizes he has forgotten something. He goes back into the
+store. During his brief absence, JIMMY remains on the corner, imitating
+PAUL'S gestures: patting in pockets, looking puzzled, realizing that he
+has forgotten the cigars he just bought.
+
+PAUL comes out again a moment later, holding a tin of Schimmelpenninck
+cigars. He pauses, takes a cigar out of the tin, and lights up. He
+continues walking, obviously distracted. He stops briefly at a corner,
+then steps out into the street, paying no attention to the traffic. A
+speeding tow truck is rushing toward the intersection. At the last
+second, a black hand reaches out, grabs PAUL by the arm, and pulls him
+back to the curb. If not for that timely move, PAUL would surely have
+been run down.
+
+We see PAUL'S rescuer: it is RASHID COLE, a black adolescent of sixteen
+or seventeen. He is tall and well built for his age. A nylon backpack
+is slung over his left shoulder.
+
+          RASHID
+     Watch out, man. You'll get yourself killed like
+     that.
+
+          PAUL
+          (Badly shaken, still
+           clinging to RASHID'S arm)
+     I can't believe I did that ... Christ. I'm
+     walking around in a fog ...
+
+          RASHID
+     No harm done. Everything's okay now.
+          (Looks down and notices that he and
+           PAUL are still gripping each other's
+           arms. Tries to pull away)
+     I've got to be going.
+
+          PAUL
+          (Still rattled. Begins to loosen grip,
+           then grabs hold of RASHID'S again)
+     No, wait. You can't just walk off.
+          (Pause)
+     You saved my life.
+
+          RASHID
+          (Shrugs)
+     I just happened to be there.  The right place
+     at the right time.
+
+          PAUL
+          (Relaxes grip on RASHID'S arm)
+     I owe you something.
+
+          RASHID
+     It's okay, mister. No big deal.
+
+          PAUL
+     Yes it is. It's a law of the universe. If I let
+     you walk away, the moon will spin out of orbit
+     ... pestilence will reign over the city for a
+     hundred years.
+
+          RASHID
+          (Mystified, amused. Smiles faintly)
+     Well, if you put it that way...
+
+          PAUL
+     You have to let me do something for you to put
+     the scales in balance.
+
+          RASHID
+          (Thinks, shakes his head)
+     That's all right. If I think of something, I'll
+     send my butler over to tell you.
+
+          PAUL
+     Come on. At least let me buy you a cup of
+     coffee.
+
+          RASHID
+     I don't drink coffee.
+          (Smiles)
+     On the other hand, since you insist, if you
+     offered me a cold lemonade. I wouldn't say no.
+
+          PAUL
+     Good. Lemonade it is.
+          (Pause. Extends right hand)
+     I'm Paul.
+
+          RASHID
+     Rashid. Rashid Cole.
+          (Shakes PAUL'S hand)
+
+Cut to:
+
+6.     INT: DAY. GREEK DINER IN PARK SLOPE
+
+PAUL and RASHID are sitting in a booth. The restaurant is nearly empty.
+We see RASHID finishing his second lemonade.
+
+          PAUL
+          (Watching RASHID drink)
+     Are you sure you don't want some food to go
+     along with it? It might help to absorb some of
+     that liquid. You don't want to slosh around
+     too much when you stand up.
+
+          RASHID
+      That's okay. I've already had lunch.
+
+          PAUL
+          (Looks at clock on wall)
+     You must eat lunch pretty early. It's only
+     eleven o'clock.
+
+          RASHID
+     I mean breakfast.
+
+          PAUL
+          (Studying RASHID closely)
+     Yeah, sure, and I bet you had lobster last
+     night. Along with two bottles of champagne.
+
+          RASHID
+     Just one bottle. I believe in moderation.
+
+          PAUL
+     Look, kid, it's okay with me. You don't have to
+     play games. If you want a hamburger or
+     something, go ahead and order it.
+
+          RASHID
+          (Hesitates)
+     Well, maybe just one. To be polite.
+
+          PAUL
+          (Turning to WAITRESS. She comes)
+     Cocktail hour is over. The young man would
+     like to order a hamburger.
+
+          WAITRESS
+          (To RASHID)
+     How do you want that cooked?
+
+          RASHID
+     Medium rare, please.
+
+          WAITRESS
+     Fries?
+
+          RASHID
+          (Looks at PAUL. PAUL nods)
+     Yes, please.
+
+          WAITRESS
+      Lettuce and tomato?
+
+          RASHID
+          (Looks at PAUL. PAUL nods)
+     Yes, please.
+
+          WAITRESS
+          (Pointing to RASHID'S empty
+           lemonade glass)
+     You want another one of these, too?
+
+          PAUL
+     Yeah, give him another one. And I'll take a cup
+     of coffee while you're at it.
+
+          WAITRESS
+     Hot coffee or iced coffee?
+
+          PAUL
+     Do you have real iced coffee, or do you just
+     pour hot coffee over some ice cubes?
+
+          WAITRESS
+     Everything is real in here, honey.
+          (Pause)
+     As real as the color of my hair.
+
+PAUL and RASHID look at her hair. It is dyed bright red.
+
+          PAUL
+          (Deadpan)
+     I'll take the iced coffee.
+          (Pause)
+     You only live once, right?
+
+          WAITRESS
+          (Equally deadpan)
+     If you're lucky.
+          (Pause)
+     Then again, it depends on what you call living.
+          (She walks off)
+
+          PAUL
+          (To RASHID)
+     I don't mean to pry, but I see a kid walking
+     around with a big knapsack on his back, and I
+     begin to wonder if all his worldly possessions
+     aren't stowed in there. Are you in some kind of
+     trouble or what?
+
+          RASHID
+          (Keeping up his pose)
+     Mostly what.
+
+          PAUL
+          (Studying RASHID)
+     You don't have to tell me if you don't want to,
+     but I might be able to help.
+
+          RASHID
+          (Hesitating)
+     You don't know me from a hole in the wall.
+
+          PAUL
+     That's true. But I also owe you something, and
+     I'm not sure that buying you a hamburger is
+     going to do the job.
+          (Pause)
+     What is it? Family problems? Money problems?
+
+          RASHID
+          (Imitating white upper-class accent)
+     Oh no. Momsie and Popsie have oodles.
+
+          PAUL
+     And where do Momsie and Popsie live?
+
+          RASHID
+     East Seventy-fourth Street.
+
+          PAUL
+     In Manhattan?
+
+          RASHID
+     Of course. Where else?
+
+          PAUL
+     Then what are you doing in Park Slope? It's a
+     little far from home, isn't it?
+
+          RASHID
+          (Beginning to relent)
+     That's where the what comes in.
+
+          PAUL
+     The what?
+
+          RASHID
+     The what.
+          (Pause)
+     I've kind of run away from home, you see.
+          (Pause)
+     It has nothing to do with my parents or money.
+     I saw something I wasn't supposed to see, and
+     for the time being it's best that I keep myself
+     out of sight.
+
+          PAUL
+     You can't be more specific than that?
+
+RASHID looks at PAUL, hesitates, then lowers his eyes.
+
+          PAUL (cont'd)
+          (Pause. Decides not to press him)
+     So where have you been staying in the meantime?
+
+          RASHID
+     Here and there. Around.
+
+           PAUL
+     Uh-huh. One of those cozy bed and breakfast
+     places, probably.
+
+          RASHID
+     Yeah, that's right.
+
+          PAUL
+     Except that there's no bed, is there? And no
+     breakfast either.
+
+          RASHID
+     The material world is an illusion. It doesn't
+     matter if they're there or not. The world is in
+     my head.
+
+          PAUL
+     But your body is in the world, isn't it?
+          (Pause)
+     If someone offered you a place to stay, you
+     wouldn't necessarily refuse, would you?
+
+          RASHID
+          (Pause. Thinks)
+     People don't do that kind of thing. Not in New
+     York.
+
+          PAUL
+     I'm not "people." I'm just me. And I do
+     whatever I goddamn want to do. Got it?
+
+          RASHID
+     Thanks, but I'll manage.
+
+          PAUL
+     In case you're wondering, I like women, not
+     little boys. And I'm not offering you a
+     long-term lease -- just a place to crash for a
+     couple of nights.
+
+          RASHID
+      I can take care of myself. Don't worry.
+
+          PAUL
+     Suit yourself. But if you change your mind,
+     here's the address.
+          (Takes out a pad from his pocket and
+           scribbles down the address. Tears
+           sheet from the pad and hands it to
+           RASHID)
+
+The WAITRESS arrives with their orders.
+
+          WAITRESS
+     One burger medium rare with lettuce and tomato.
+          (Setting down plate in front of RASHID)
+     One order of fries.
+          (Setting down plate)
+     One lemonade.
+          (Setting down glass)
+     And one dose of reality.
+          (Setting down iced coffee
+           in front of PAUL)
+
+PAUL looks on as RASHID picks up hamburger and takes his first bite.
+
+7.     INT: DAY. THE BROOKLYN CIGAR CO.
+
+A slow hour. AUGGIE is sitting behind the counter, looking through a
+magazine and eating a slice of pizza for lunch. VINNIE enters the
+frame. He is the owner of the store: a large man in his fifties.
+
+          VINNIE
+     Okay. I think everything's set.
+          (Lights up cigar)
+     You've got the number for Cape Cod, right? Just
+     in case something goes wrong.
+
+          AUGGIE
+          (Chewing pizza; not looking
+           up from magazine)
+     No problem, Vinnie. Everything's under control.
+          (Finally looking up)
+     I could run this store in my sleep.
+
+          VINNIE
+          (Studying AUGGIE)
+     How long you been working for me, Auggie?
+
+          AUGGIE
+          (Shrugs, looks down at magazine again)
+     I don't know. Thirteen, fourteen years.
+     Something like that.
+
+          VINNIE
+     It's pretty crazy, don't you think? I mean, a
+     smart guy like you. What do you want to hang
+     on to a dead-end job like this for?
+
+          AUGGIE
+          (Shrugs again)
+     I don't know.
+          (Turns pages of magazine)
+     Maybe because I love you so much, boss.
+
+          VINNIE
+     Shit. You should have been married to someone
+     by now. You know, settled down somewhere with a
+     kid or two, a nice steady job.
+
+          AUGGIE
+     I almost got married once.
+
+          VINNIE
+     Yeah, I know. To that girl who moved to
+     Pittsburgh.
+
+          AUGGIE
+     Ruby McNutt. My one true love.
+
+          VINNIE
+     Sounds like another one of your stories to me.
+
+                      AUGGIE
+          (Shakes his head)
+     She upped and married some other cat after I
+     joined the navy. By the time I got my
+     discharge, though, she was divorced. Her
+     husband poked out her eye in a domestic
+     quarrel.
+
+          VINNIE
+          (Puffing on his cigar)
+     Lovely.
+
+                      AUGGIE
+          (Remembering)
+     She made a play for me after I got back, but
+     her glass eye kept interfering with my
+     concentration. Every time we got into a clinch,
+     I'd start thinking about that hole in her head,
+     that empty socket with the glass eye in it. An
+     eye that couldn't see, an eye that couldn't
+     shed any tears. The minute I started thinking
+     about it, Mr. Johnson would get all soft and
+     small. And I can't see getting married if Mr.
+     Johnson isn't going to be in tiptop shape.
+
+          VINNIE
+          (Shaking his head)
+     You don't take anything seriously, do you?
+
+          AUGGIE
+     I try not to, anyway. It's better for your
+     health. I mean, look at you, Vincent. You're
+     the guy with the wife and three kids and the
+     ranch house on Long Island. You're the guy with
+     the white shoes and the white Caddy and the
+     white shag carpet. But you've had two heart
+     attacks, and I'm still waiting for my first.
+
+          VINNIE
+          (Takes cigar out of his mouth
+           and looks at it with disgust)
+     I should stop smoking these damn things is what
+     I should do. The fuckers are going to kill me
+     one day.
+
+          AUGGIE
+     Enjoy it while you can, Vin. Pretty soon,
+     they're going to legislate us out of business
+     anyway.
+
+          VINNIE
+     They catch you smoking tobacco, they'll stand
+     you up against a wall and shoot you.
+
+          AUGGIE
+          (Nodding)
+     Tobacco today, sex tomorrow. In three or four
+     years, it'll probably be against the law to
+     smile at strangers.
+
+          VINNIE
+          (Remembering something)
+     Speaking of which, are you still going ahead
+     with that deal on the Montecristos?
+
+                      AUGGIE
+     It's all set. My guy in Miami said he'd have
+     them within the next few weeks.
+          (Pause)
+     Are you sure you don't want to go in with me?
+     Five thousand dollars outlay, a guaranteed
+     ten-thousand-dollar return. A consortium of
+     Court Street lawyers and judges. They're just
+     drooling to get their lips around some genuine
+     Cuban cigars.
+
+          VINNIE
+     No thanks. I don't care what you do, but just
+     make sure you don't get caught, okay? The last
+     I heard, it was still illegal to sell Cuban
+     cigars in this country.
+
+          AUGGIE
+     It's the law that's buying. That's what's so
+     beautiful about it. I mean, when was the last
+     time you heard of a judge sending himself to
+     jail?
+
+          VINNIE
+     Suit yourself. But don't keep the boxes around
+     here long.
+
+          AUGGIE
+     They come in, they go out. I've got it planned
+     to the last detail.
+
+          VINNIE
+          (Looking at his watch)
+     I've got to get moving. Terry will bust my
+     chops if I'm late. See you in September,
+     Auggie.
+
+          AUGGIE
+     Okay, my man. Love to the wife and kids, et
+     cetera, et cetera. Drop me a postcard if you
+     can remember the address.
+
+VINNIE leaves. AUGGIE turns back to his pizza and magazine.
+
+8. EXT: EVENING. FACADE OF THE BROOKLYN CIGAR CO.
+
+A shot of the darkening sky. A shot of the cigar store. We see the
+lights go out. AUGGIE comes outside, locks the door, and begins pulling
+down the metal gate in front of the windows. Cut to:
+
+A shot of PAUL running down the street toward AUGGIE.
+
+          PAUL
+          (Out of breath)
+     Are you closed?
+
+          AUGGIE
+     You run out of Schimmelpennincks?
+
+          PAUL
+          (Nods)
+     Do you think I could buy some before you leave?
+
+          AUGGIE
+     No problem. It's not as though I'm rushing off
+     to the opera or anything.
+
+AUGGIE lifts the gate and the two of them go into the store.
+
+9. INT: EVENING. THE BROOKLYN CIGAR CO.
+
+PAUL and AUGGIE enter the darkened store. AUGGIE turns on the lights
+and then goes behind the counter to fetch PAUL'S cigars. PAUL, on the
+other side, notices a 35-millimeter camera near the cash register.
+
+          PAUL
+     Looks like someone forgot a camera.
+
+          AUGGIE
+          (Turning around)
+     Yeah, I did.
+
+          PAUL
+     It's yours?
+
+          AUGGIE
+     It's mine all right. I've owned that little
+     sucker for a long time.
+
+          PAUL
+     I didn't know you took pictures.
+
+          AUGGIE
+          (Handing PAUL his cigars)
+     I guess you could call it a hobby. It doesn't
+     take me more than about five minutes a day to
+     do it, but I do it every day. Rain or shine,
+     sleet or snow. Sort of like the postman.
+          (Pause)
+     Sometimes it feels like my hobby is my real job,
+     and my job is just a way to support my hobby.
+
+          PAUL
+     So you're not just some guy who pushes coins
+     across a counter.
+
+          AUGGIE
+     That's what people see, but that ain't
+     necessarily what I am.
+
+          PAUL
+          (Looking at AUGGIE with new eyes)
+     How'd you get started?
+
+          AUGGIE
+     Taking pictures?
+          (Smiles)
+     It's a long story. I'd need two or three drinks
+     to get through that one.
+
+          PAUL
+          (Nodding)
+     A photographer ...
+
+          AUGGIE
+     Well, let's not exaggerate. I take pictures.
+     You line up what you want in the viewfinder and
+     click the shutter. No need to mess around with
+     all that artisto crap.
+
+          PAUL
+     I'd like to see your pictures some day.
+
+          AUGGIE
+     It can be arranged. Seeing as how I've read
+     your books. I don't see why I shouldn't share
+     my pictures with you.
+          (Pause. Suddenly embarrassed)
+     It would be an honor.
+
+10. INT: NIGHT. AUGGIE'S APARTMENT
+
+AUGGIE and PAUL are sitting at the kitchen table, opened boxes of
+Chinese food pushed to one side. Most of the surface of the table is
+covered with large black photograph albums. There are fourteen in all,
+and the spine of each one is labeled with a year -- ranging from 1977
+to 1990. One of these albums (1987) is open on PAUL'S lap.
+
+Close-up of one of the pages in the album. There are six
+black-and-white photos on the page, each one of an identical scene: the
+corner of 3rd Street and Seventh Avenue at eight o'clock in the
+morning. In the upper right-hand corner of each photo, there is a small
+white label bearing the date: 8-9-87, 8-10-87, 8-11-87, etc. PAUL'S
+hand turns the page; we see six more similar photographs. He turns the
+page again: same thing. And again: same thing.
+
+          PAUL
+          (Astonished)
+     They're all the same.
+
+          AUGGIE
+          (Smiling proudly)
+     That's right. More than four thousand pictures
+     of the same place. The corner of 3rd Street and
+     Seventh Avenue at eight o'clock in the morning.
+     Four thousand straight days in all kinds of
+     weather.
+          (Pause)
+     That's why I can never take a vacation. I've
+     got to be in my spot every morning. Every
+     morning in the same spot at the same time.
+
+          PAUL
+          (At a loss. Turns a page,
+           then another page)
+     I've never seen anything like it.
+
+          AUGGIE
+     It's my project. What you'd call my life's
+     work.
+
+          PAUL
+          (Puts down the album and picks up
+           another. Flips through the pages and
+           finds more of the same. Shakes his
+           head in bafflement)
+     Amazing.
+          (Trying to be polite)
+     I'm not sure I get it, though. I mean, how did
+     you ever come up with the idea to do this ...
+     this project?
+
+          AUGGIE
+     I don't know, it just came to me. It's my
+     corner, after all. It's just one little part of
+     the world, but things happen there, too, just
+     like everywhere else. It's a record of my
+     little spot.
+
+          PAUL
+          (Flipping through the album,
+           still shaking his head)
+     It's kind of overwhelming.
+
+          AUGGIE
+          (Still smiling)
+     You'll never get it if you don't slow down,
+     my friend.
+
+          PAUL
+     What do you mean?
+
+          AUGGIE
+     I mean, you're going too fast. You're hardly
+     even looking at the pictures.
+
+          PAUL
+     But they're all the same.
+
+          AUGGIE
+     They're all the same, but each one is different
+     from every other one. You've got your bright
+     mornings and your dark mornings. You've got
+     your summer light and your autumn light. You've
+     got your weekdays and your weekends. You've
+     got your people in overcoats and galoshes,
+     and you've got your people in shorts and
+     T-shirts. Sometimes the same people,
+      sometimes different ones. And sometimes the
+     different ones become the same, and the same
+     ones disappear. The earth revolves around the
+     sun, and every day the light from the sun hits
+     the earth at a different angle.
+
+          PAUL
+          (Looks up from the album at AUGGIE)
+     Slow down, huh?
+
+          AUGGIE
+     Yeah, that's what I'd recommend. You know how
+     it is. Tomorrow and tomorrow and tomorrow, time
+     creeps on its petty pace.
+
+Close-ups of the photo album. One by one, a single picture occupies the
+entire screen. AUGGIE'S project unfolds before us. One picture follows
+another: the same place at the same time at different moments of the
+year. Close-ups of different faces within the close-ups. The same
+people appear in different pictures, sometimes looking into the camera,
+  sometimes looking away. Dozens of stills. Finally, we come to a
+close-up of Ellen, PAUL'S dead wife.
+
+Close-up of PAUL'S face.
+
+          PAUL
+     Jesus, look. It's Ellen.
+
+The camera pulls away. AUGGIE leans over PAUL'S shoulder. We see PAUL'S
+finger pointing to Ellen's face.
+
+          AUGGIE
+     Yeah. There she is. She's in quite a few from
+     that year. She must have been on her way to
+     work.
+
+          PAUL
+          (Moved, on the point of tears)
+     It's Ellen. Look at her. Look at my sweet
+     darling.
+
+Fade out.
+
+11.     INT: NIGHT. PAUL'S APARTMENT
+
+We see PAUL scribbling furiously in his legal pad, lost in his work.
+Behind him, we see ten or twelve index cards pinned to the wall. The
+cards are covered with writing. One of them reads: "The woman with
+brown hair and blue eyes." Another one reads: "The mind is led on, step
+by step, to defeat its own logic." A third one reads: "Remember the
+Alamo."
+
+PAUL stands up from his desk, goes over to the wall, pulls off one of
+the cards, and studies it as he returns to his desk. An instant later,
+he begins writing again.
+
+The intercom buzzer sings loudly in the other room. PAUL continues to
+work, oblivious to the noise. The buzzer sounds again. PAUL puts down
+his pen.
+
+          PAUL
+          (Under his breath)
+     Shit.
+          (He stands up from his chair, walks
+           to the other room, and presses the
+           "talk" button on the intercom)
+     Who is it?
+
+          VOICE FROM THE INTERCOM
+      Rashid.
+
+          PAUL
+     Who?
+
+          VOICE FROM THE INTERCOM
+      Rashid Cole. The lemonade kid, remember?
+
+          PAUL
+     Yeah.
+          (Without much enthusiasm)
+     Come on up.
+          (Pushes "door" button the intercom)
+
+PAUL walks to the door and opens it, peering into the hall as he waits
+for RASHID to arrive. A moment later, RASHID appears -- dressed as
+before, the backpack slung over his shoulder. He appears awkward, ill
+at ease.
+
+          PAUL
+     I didn't expect to see you again.
+
+          RASHID
+          (Making the best of it)
+     Same here. But I had a long talk with my
+     accountant this afternoon. You know, to see how
+     a move like this would affect my tax picture,
+     and he said it would be okay.
+
+PAUL studies him with a mixture of bafflement and curiosity, but
+doesn't answer. RASHID puts down his bag and begins looking around the
+apartment. After a moment:
+
+          PAUL
+     That's it. Just the two rooms.
+
+          RASHID
+          (Continuing to study
+           his new surroundings)
+     This is the first house I've been in without a
+     TV.
+
+          PAUL
+     I used to have one, but it broke a couple of
+     years ago and I never got around to replacing
+     it.
+          (Pause)
+     I'd just as soon not have one anyway. I hate
+     those damn things.
+
+          RASHID
+     But then you don't get to watch the ball games.
+     You told me you were a Mets fan.
+
+          PAUL
+     I listen on the radio. I can see the games just
+     fine that way.
+          (Pause)
+     The world is in your head, remember?
+
+                        RASHID
+          (Smiles. Continues to walk around. Sees
+           a small pen-and-ink drawing hanging on
+           the wall above the stereo cabinet: the
+           head of a small child. He stops to
+           examine it)
+     Nice drawing. Did you do that?
+
+          PAUL
+     My father did. Believe it or not, that little
+     baby is me.
+
+          RASHID
+          (Studying the drawing more carefully.
+           Turns to look at PAUL, then turns
+           back to the drawing)
+     Yeah, I can believe it.
+
+          PAUL
+     It's strange, though, isn't it? Looking at
+     yourself before you knew who you were.
+
+          RASHID
+     Is your father an artist?
+
+          PAUL
+     No, he was a schoolteacher. But he liked to
+     dabble.
+
+          RASHID
+     He's dead?
+
+          PAUL
+     Twelve, thirteen years ago.
+          (Pause)
+     Actually, he died with his sketch pad open on
+     his lap. Up in the Berkshires one weekend,
+     drawing a picture of Mount Greylock.
+
+          RASHID
+          (Studying the picture, nodding
+           his head. As if to himself)
+     Drawing's a good thing.
+
+          PAUL
+      Is that what you do? Draw pictures?
+
+          RASHID
+          (Smiles)
+     Yeah, sometimes.
+          (Shrugs, as if suddenly embarrassed)
+     I like to dabble, too.
+
+12.     INT: DAY. PAUL'S APARTMENT
+
+Two hours later. We see PAUL writing at his desk in the workroom. After
+a moment, he stands up and opens the double doors a crack. From PAUL'S
+POV: we see RASHID sitting at the table in the main room, head resting
+on his arms, asleep. The backpack is still where he put it down in the
+previous scene.
+
+13.     INT: DAY. PAUL'S APARTMENT
+
+8:00 in the morning. PAUL is sitting at the dining table drinking
+coffee. He looks at his watch, puts down the cup, walks to the workroom
+door, opens it, pokes head inside. Shot of RASHID asleep on the floor;
+shot of the typewriter and legal pad on the desk. PAUL closes the door,
+sighs, returns to the other room and pours himself another cup of
+coffee.  Looks at his watch. Close-up of the watch: dissolve from 8:05
+to 8:35. PAUL puts down the cup, stands up, walks to the workroom door,
+knocks.
+
+          PAUL
+     Time to wake up.
+          (Waits, listens, knocks again)
+     Hey, kid, time to wake up.
+          (Waits, listens, knocks again)
+     Rashid!
+          (Opens door. RASHID is
+           groggily opening his eyes)
+     Up and out. I have to work in here. The slumber
+     party is over.
+
+          RASHID
+           (Sitting up, rubbing his eyes)
+     What time is it?
+
+          PAUL
+     Eight-thirty.
+
+          RASHID
+          (Appalled by early hour)
+     Eight-thirty?
+
+          PAUL
+     You'll find juice and eggs and milk in the
+     refrigerator. Cereal in the cupboard. Coffee
+     on the stove. Take whatever you want. But it's
+     time for me to get started in here.
+
+RASHID stands up, embarrassed. He is dressed in underpants only. He
+rolls up the sleeping bag and pushes it to one side, then he gathers up
+his clothes and hustles out of the room.
+
+14.     INT: DAY. PAUL'S APARTMENT
+
+Twenty minutes later. PAUL is sitting at his desk, staring at his
+typewriter. A loud noise comes from the other room: the clatter of
+dishes being put into the sink. PAUL stands up, walks to the door,
+opens it. He sees RASHID, now fully dressed, picking up the telephone
+next to the bed. He sees RASHID'S knapsack opened; a brown paper bag is
+sitting next to it. He watches RASHID dial a number.
+
+          RASHID
+          (In a low voice)
+     May I speak to Emily Vail, please? Yes, thank
+     you, I'll wait.
+          (Silence, three or four beats. RASHID
+           fiddles with a pillow on the bed)
+     Aunt Em? Hi, it's me. I just wanted you to know
+     I'm okay.
+          (Pause, as he listens. The response from
+           the other end is an angry one)
+     I know, I'm sorry.
+          (Pause, as he listens)
+     I just didn't want you to worry about me.
+          (Silence, as he listens. Begins to show
+           irritation with Aunt Em's hostility)
+     Just cool it, okay? Take it easy.
+          (Click on the other end. He stares at the
+            receiver for a moment, then hangs up)
+
+PAUL closes the door quietly. RASHID does not know he has been
+observed. Cut back to PAUL in workroom. He sits down at his desk,
+thinks for a moment, then begins typing.
+
+15.     INT: DAY. PAUL'S APARTMENT
+
+Several hours later. With the sounds of PAUL'S typing continuing to
+come from the workroom, we see RASHID stand on a chair next to the
+bookcase in the larger room and deposit the brown paper bag behind the
+books on one of the upper shelves.
+
+16.     INT: NIGHT. PAUL'S APARTMENT
+
+A shot of RASHID asleep in PAUL'S bed. Lying next to him on the bed is
+an open, half-read copy of one of PAUL'S books: The Mysterious
+Barricades by Paul Benjamin.
+
+Cut to a shot of PAUL sleeping on the floor of the workroom.
+
+17.     INT: DAY. PAUL'S APARTMENT
+
+PAUL is in his workroom, sitting at his desk, typing. We see more index
+cards pinned to the wall. PAUL hears a loud crash from the other room.
+He pops up from his desk, exasperated, then walks to the door and opens
+it. Shot of the other room: RASHID is standing there, looking down at
+broken dishes.
+
+          PAUL
+          (Irritated)
+     Jesus, do you make a lot of noise. Can't you
+     see I'm trying to work?
+
+          RASHID
+          (Mortified)
+     I'm sorry. They just... they just slipped out
+     of my hands.
+
+          PAUL
+     A little less clumsiness around here would be
+     nice, don't you think?
+
+          RASHID
+          (Growing defensive)
+     I'm a teenager. All teenagers are clumsy. It's
+     because we're still growing. We don't know
+     where our bodies end and the world begins.
+
+          PAUL
+     The world is going to end pretty soon if you
+     don't learn fast.
+          (Pause. PAUL reaches into his pocket and
+           pulls out his wallet, then removes a
+           twenty-dollar bill)
+     Look, why not make yourself useful? I'm just
+     about out of smokes.  Go around the corner to
+     the Brooklyn Cigar Company and buy me two tins
+     of Schimmelpenninck Medias.
+          (Hands the bill to RASHID)
+
+          RASHID
+          (Taking the bill)
+     Twenty dollars is a lot of money. Are you sure
+     you can trust me with it? I mean, aren't you
+     afraid I might steal it?
+
+          PAUL
+     If you want to steal it, that's your business.
+     At least I won't have you around here making
+     noise.
+          (Pause)
+     It might be worth it.
+
+RASHID, visibly hurt by PAUL'S remark, puts the money in his pocket.
+For once, he is unable to come up with a quick retort.
+
+RASHID walks out of the apartment. PAUL watches the door slam. Slight
+pause, then he bends down and starts picking up the broken dishes.
+
+18.     INT: DAY. PAUL'S APARTMENT
+
+The workroom. A few minutes later. PAUL returns to his desk and begins
+to type. Almost immediately, the ribbon jams. He lets out a groan, then
+opens the typewriter to inspect the damage.
+
+19.     EXT: DAY. THE BROOKLYN CIGAR CO., AS SEEN FROM ACROSS THE STREET
+
+Eight o'clock in the morning. We see AUGGIE on the corner, getting
+ready to take his daily photograph. Cut to the corner as seen through
+the lens of the camera. Hustle and bustle, people on their way to work.
+Automobile traffic, buses, delivery trucks. We hear the shutter click.
+The picture freezes.
+
+20.     INT: DAY. PAUL'S APARTMENT
+
+The workroom. PAUL is sitting at his desk, writing. A loud crash from
+the other room punctuates the silence. He jumps in his chair.
+
+          PAUL
+          (Groans)
+     Shit.
+
+He stands up, goes to the door, opens it. Shot of RASHID standing
+precariously on the arm of a chair, his right hand groping behind the
+books on the top shelf of the bookcase. Several books have already
+fallen to the floor.
+
+          PAUL (cont'd)
+     Jesus Christ. Are you at it again?
+
+RASHID turns at the sound of PAUL'S voice, momentarily losing his
+balance. As he grabs hold of the bookcase again to steady himself, more
+books fall off the shelf and come tumbling to the floor. An instant
+later, he lands on the floor as well.
+
+          PAUL (cont'd)
+     What is it with you, anyway? You're like a
+     human wrecking ball.
+
+          RASHID
+          (Climbing to his feet. Ashamed)
+     I'm sorry. I'm really sorry... I was trying to
+     reach for one of the books up there ...
+          (Points)
+     And then, I don't know, the sky fell on top of
+     me.
+
+           PAUL
+          (With growing irritation)
+     It just won't do, will it? I go two and a half
+     years without being able to write a word, and
+     then, when I finally get started on something,
+     when it looks as though I might actually be
+     coming to life again, you show up and start
+     breaking everything in my house. It just won't
+     do, will it?
+
+          RASHID
+          (Hurt, subdued)
+     I didn't ask to come here. You invited me,
+     remember?
+          (Pause)
+     If you want me to leave, all you have to do is
+     say so.
+
+           PAUL
+     How long have you been here?
+
+          RASHID
+     Three nights.
+
+           PAUL
+     And how long did I tell you you could stay?
+
+          RASHID
+     Two or three nights.
+
+          PAUL
+     It sounds like our time is up, doesn't it?
+
+                        RASHID
+          (Looking down at floor)
+     I'm sorry I messed up. You've been very kind to
+     me ...
+          (Walks toward the bed, picks up the
+           backpack from the floor, and begins
+           stuffing his things into it)
+     But all good things have to come to an end,
+     right?
+
+          PAUL
+     No hard feelings, okay? It's a small place,
+     and I can't get my work done with you around.
+
+          RASHID
+     You don't have to apologize.
+          (Pause)
+     The coast is probably clear now anyway.
+
+          PAUL
+          (Softening)
+     Are you going to be all right?
+
+          RASHID
+     Absolutely. The world is my oyster.
+          (Pause)
+     Whatever that means.
+          (He looks up at the bookshelf, studying
+           the spot where the bag is hidden. He
+           makes a quick, resolute decision to
+           leave the bag where it is)
+
+          PAUL
+     Do you need some money? Some extra clothes?
+
+          RASHID
+     Not a penny, not a stitch. I'm cool, man.
+          (Hoists the backpack over his shoulder,
+           begins walking toward the door)
+
+          PAUL
+          (a little stunned by
+           RASHID'S decisiveness)
+     Take good care of yourself, okay?
+
+          RASHID
+     You too. And make sure the light is green
+     before you cross the street.
+          (Reaches for the doorknob, opens
+           the door, hesitates, turns around)
+     Oh, by the way, I liked your book. I think
+     you're a hell of a good writer.
+          (Without waiting for a response, he
+           opens the door again and leaves)
+
+Shot of PAUL standing alone in the middle of the room. He walks to the
+window and looks outside. Shot of the street below. After three or four
+seconds, RASHID emerges from the building. Without glancing back, he
+begins walking down the street.
+
+Cut to PAUL standing at the window. He lights up a cigar. Cut back to
+the street. RASHID has disappeared. An instant later, a blind man
+comes walking around the corner, tapping his white cane on the
+sidewalk.
+
+21.     INT: NIGHT. AUGGIE'S APARTMENT
+
+The windows are open and traffic noises can be heard from the street
+below.
+
+AUGGIE alone. Jazz is playing on his tape machine. He takes a TV dinner
+out of the oven, then sits down at the kitchen table and begins to eat.
+Fade out.
+
+Fade in. The meal is over. AUGGIE pours himself a shot of bourbon. He
+drinks it down in one swallow and smacks his lips, exhaling loudly.
+Stares blankly ahead of him for a moment. Then he reaches for a
+paperback copy of Crime and Punishment open on the table. As he finds
+his place in the book, he lights a cigarette. After one or two puffs,
+he begins to cough: a deep, rattling, prolonged smoker's cough. He
+pounds his chest. It doesn't help. He stands up, banging the table as
+the coughing fit continues. He begins to stagger around the kitchen,
+cursing between breaths. In his rage, he sweeps everything off the
+table: glass, bottle, book, remnants of the TV dinner. The cough
+subsides, then starts up again. He grabs hold of the kitchen sink and
+spits into the basin.
+
+22.     INT: DAY. PAUL'S APARTMENT
+
+The main room. We hear the sound of PAUL typing. A loud, insistent
+banging is heard at the front door. Cut to PAUL opening the door.
+RASHID'S AUNT EM is standing in the hall. She is a black woman of about
+forty, dressed in clothes that suggest she works in an office.
+
+          AUNT EM
+          (Angrily)
+     Is your name Paul Benjamin?
+
+          PAUL
+          (Taken aback)
+     What can I do for you?
+
+          AUNT EM
+          (Barging into the apartment)
+     I just want to know what your game is, mister,
+     that's all.
+
+          PAUL
+          (Horrified. Watching her as she
+           charges around the room)
+     How the hell did you get into the building?
+
+          AUNT EM
+     What do you mean, how'd I get in? I pushed the
+     door and walked in. What do you think?
+
+          PAUL
+          (Muttering to himself)
+     The damn lock's broken again.
+          (Pause, as he returns
+           AUNT EM'S glare. Louder)
+     And so you just barge in on strangers, is that
+     what you do? Is that your game?
+
+          AUNT EM
+     I'm looking for my nephew,  Thomas.
+
+          PAUL
+     Thomas? Who's Thomas?
+
+          AUNT EM
+     Don't give me any of that. I know he's been
+     here. You can't fool me, mister.
+
+          PAUL
+     I'm telling you. I don't know anyone named
+     Thomas.
+
+          AUNT EM
+     Thomas Cole. Thomas Jefferson Cole. My nephew.
+
+          PAUL
+     You mean Rashid?
+
+          AUNT EM
+     Rashid? Rashid! Is that what he told you his
+     name was?
+
+          PAUL
+     Well, whatever his name is, he's not here
+     anymore. He left two days ago, and I haven't
+     heard from him since.
+
+          AUNT EM
+     And what was he doing here in the first place?
+     That's what I want to know. What's a man like
+     you messing around with a black boy like
+     Thomas for? Are you some kind of pervert, or
+     what?
+
+                       PAUL
+          (Losing patience)
+     Look, lady, that's enough. If you don't calm
+     down. I'm going to throw you out. Do you hear
+     me? Right now!
+
+          AUNT EM
+          (Getting a grip on herself)
+     I just want to know where he is.
+
+          PAUL
+     As far as I know, he went back to his parents.
+
+          AUNT EM
+          (Incredulous)
+     His parents? Is that what he told you? His
+     parents?
+
+          PAUL
+     That's what he said. He told me he lived with
+     his mother and father on East Seventy-fourth
+     Street.
+
+          AUNT EM
+          (Defeated, shaking her head)
+     I always knew that boy had an imagination, but
+     now he's gone and made up a whole new life for
+     himself.
+          (Pause)
+     Do you mind if I sit down?
+          (PAUL gestures to a
+           chair; she sits down)
+     He's been living with me and his uncle Henry
+     since he was a baby. And we don't live in
+     Manhattan. We live in Boerum Hill. In the
+     projects.
+
+          PAUL
+      He doesn't go to the Trinity School?
+
+          AUNT EM
+     He goes to John Jay High School in Brooklyn.
+
+          PAUL
+          (Beginning to show concern)
+     And his parents?
+
+          AUNT EM
+     His mother's dead, and he hasn't seen his
+     father in twelve years.
+
+          PAUL
+          (Softly, almost to himself)
+     I shouldn't have let him go.
+
+          AUNT EM
+          (Studying PAUL)
+     Which brings me back to my original question.
+     What was he doing here in the first place?
+
+          PAUL
+     I was about to get run over by a car, and your
+     nephew pulled me back. He saved my life.
+          (Pause)
+     I sensed he was in trouble, so I offered to put
+     him up for a few days. Maybe I should have
+     pressed him a little more, I don't know. I
+     feel pretty stupid about it now.
+
+          AUNT EM
+     He's in trouble, all right. But I don't have
+     any idea what it is.
+
+          PAUL
+          (Sits down in a chair, lets out a sigh,
+           thinks for a moment. Turns to AUNT EM)
+     Do you want something to drink? A beer? A glass
+     of water?
+
+          AUNT EM
+          (Primly)
+     No thank you.
+
+                       PAUL
+          (Lapses into thought again.
+           After a moment)
+     Has anything happened lately? Anything unusual
+     or unexpected?
+
+          AUNT EM
+          (Thinks)
+     Well, one thing I suppose, but I don't think it
+     has anything to do with this.
+          (Pause)
+     A friend of mine called about two weeks ago and
+     said she'd spotted Thomas's father working at
+     some gas station outside of Peekskill.
+
+          PAUL
+     And you told your nephew about it?
+
+          AUNT EM
+          (Shrugs)
+     I figured he had a right to know.
+
+          PAUL
+     And?
+
+          AUNT EM
+     And nothing. Thomas looked at me straight in
+     the eye and said, "I don't have a father. As
+     far as I'm concerned, that son-of-a-bitch is
+     dead."
+
+          PAUL
+     Those are pretty hostile words.
+
+The camera slowly closes in on her face as she speaks:
+
+          AUNT EM
+     His father walked out on his mother a couple of
+     months after he was born. Louisa was Henry's
+     younger sister, and she and the baby moved in
+     with us. Four or five years go by, and then one
+     day Cyrus shows up out of the blue, tail
+     between his legs, wanting to patch things up
+     with Louisa. I thought Henry was going to tear
+     Cyrus apart when he saw him walk through the
+     door. They're both big men, those two, and if
+     they ever started to tangle, you'd see some
+     teeth jumping on the floor. I guarantee it ...
+     So Cyrus persuaded Louisa to go out with him to
+     talk things over in quiet. And the poor girl
+     never came back.
+
+          PAUL (OFF)
+     You mean she just ran off with him and left her
+     little boy behind?
+
+          AUNT EM
+     Don't put words in my mouth. What I'm saying is
+     she drove off in Cyrus's car and went to the
+     Five-Spot Lounge with him for a drink. What I'm
+     saying is that he imbibed too much in the way
+     of alcohol and that when they finished their
+     little talk three hours later and got back in
+     the car, he was in no shape to drive. But he
+     drove the car anyway, and before he could get
+     her back to where she lived, the damn fool ran
+     a red light and went straight into a truck.
+     Louisa got thrown through the windshield and
+     was killed. Cyrus lived, but he came out of it
+     a cripple. His left arm was so mangled, the
+     doctors had to cut it off. Small punishment for
+     what he did, if you ask me.
+
+          PAUL (OFF)
+          (Aghast)
+     Jesus.
+
+          AUNT EM
+     Jesus had nothing to do with it. If He'd been
+     involved. He would have seen to it that things
+     worked out the opposite from what they did.
+
+          PAUL (OFF)
+     It can't have been easy on him. Walking around
+     with that on his conscience all these years.
+
+          AUNT EM
+     No, I don't suppose it has. He was broken up
+     like nobody's business in that hospital when he
+     found out Louisa was dead.
+
+          PAUL (OFF)
+     And he's never tried to get in touch with his
+     son?
+
+          AUNT EM
+     Henry told Cyrus he'd kill him if he ever
+     showed his face around our house again. When
+     Henry makes a threat like that, people tend to
+     take him seriously.
+
+PAUL and AUNT EM look at each other. Cut to shot of the kitchen sink.
+Water is slowly dripping from the faucet. Hold for two or three beats.
+
+23.     EXT: DAY. A COUNTRY ROAD OUTSIDE OF PEEKSKILL
+
+Early morning. Trees, shrubs, twittering birds. We see RASHID trudging
+down the road. Dissolve to:
+
+The same road, a mile on. RASHID looks up. Cut to:
+
+24.      EXT: DAY. COLE'S GARAGE
+
+The garage is a ramshackle, two-story building. Over the main door is a
+clumsily executed hand-painted sign that reads: COLE'S GARAGE. Two
+Chevron gas pumps stand alone in the front: weeds sprout through the
+macadam. To one side of the station is a grassy area with a
+weather-beaten picnic table.
+
+The double garage doors are open. We see a man in there working on the
+engine of an old Chevrolet. The hood is up, which obscures the man's
+ face, but we can see that he is wearing mechanic's overalls and that
+the color of his skin is black.
+
+He is a large, burly man of about forty. Once he appears from behind
+the hood, we see that his left hand is missing. A metal hook juts out
+of his sleeve.
+
+This is RASHID'S father, CYRUS COLE.
+
+25.      EXT: DAY. THE SIDE OF THE COUNTRY ROAD, DIRECTLY OPPOSITE COLE'S GARAGE
+
+We see RASHID sitting on the hood of a rusted car across the road from
+the garage. He is motionless, hugging his knees and gazing intently in
+the direction of the camera. Hold for three, four beats.
+
+26.      INT: DAY. COLE'S GARAGE
+
+A bit later. CYRUS, still busily at work on the Chevrolet, glances up
+and sees RASHID across the road. He studies him for a moment, then
+returns to his work.
+
+27.     EXT: DAY. THE SIDE OF THE COUNTRY ROAD, DIRECTLY OPPOSITE COLE'S GARAGE
+
+An hour later. We see RASHID sitting on the hood of the car, as before.
+This time he has his sketch pad propped against his knees and is doing
+a pencil drawing of the garage across the way.
+
+28.      EXT: DAY. OUTSIDE COLE'S GARAGE
+
+An hour later. We see CYRUS emerge from the garage carrying a brown
+paper bag. He walks over to the picnic table, sits down, and takes out
+his lunch from the bag: a ham sandwich, an apple, a can of iced tea. As
+he chews and drinks, he studies RASHID across the road. Every now and
+then, a car or truck passes by.
+
+The camera cuts between RASHID and CYRUS. RASHID, working busily on his
+ drawing, pretends not to notice he is being watched.
+
+At last, CYRUS finishes his lunch. He crumples up the paper bag, gets
+to his feet, and tosses his garbage into a rusted metal trash can next
+to the picnic table. Instead of going back to work, he crosses the
+road.
+
+29.     EXT: DAY. THE SIDE OF THE COUNTRY ROAD, DIRECTLY OPPOSITE COLE'S GARAGE
+
+Master shot. As CYRUS approaches, RASHID looks up, meeting the man's
+eyes for the first time. Before CYRUS can get close enough to see the
+drawing, RASHID closes the sketch pad and presses it against his chest.
+He makes no attempt to stand up.
+
+          CYRUS
+     You going to sit here all day?
+
+          RASHID
+      I don't know. I haven't decided yet.
+
+          CYRUS
+     Why don't you pick some other spot? It gives a
+     man the creeps to be stared at all morning.
+
+          RASHID
+     It's a free country, isn't it? As long as I'm
+     not trespassing on your property. I can stay
+     here till kingdom come.
+
+          CYRUS
+          (Approaching the car. RASHID jumps
+           off the hood as CYRUS draws closer)
+     Let me give you some useful information, son.
+     There's two dollars and fifty-seven cents in
+     that cash register over there
+          (gestures with his hand to the
+           garage across the road)
+      and considering all the time you've put in
+     casing the joint so far, you won't make but
+     about fifty cents an hour for all your pains.
+     However you slice it, that's a losing
+     proposition.
+
+          RASHID
+     I'm not going to rob you, mister.
+          (Amused)
+     Do I look like a thief?
+
+          CYRUS
+     I don't know what you look like, boy. As far as
+     I can tell, you sprouted up like a mushroom in
+     this spot last night.
+          (Pause. Studies RASHID more closely)
+     You live in this town -- or on your way from
+     here to there?
+
+          RASHID
+     Just passing through.
+
+          CYRUS
+     Just passing through. A lonesome traveler with
+     a knapsack on his back plops himself across
+     from my garage to admire the view. There's
+     other places to roam, kid, that's all I'm
+     saying. You don't want to make a nuisance of
+     yourself.
+
+          RASHID
+     I'm working on a sketch. That old garage of
+     yours is so rundown, it's kind of interesting.
+
+          CYRUS
+     It's rundown, all right. But drawing a picture
+     won't improve the way it looks.
+          (Zeroing in on the sketch pad
+           pressed against RASHID'S chest)
+     Let's see what you did, Rembrandt.
+
+          RASHID
+          (Thinking fast)
+     It'll cost you five bucks.
+
+          CYRUS
+     Five bucks! You mean you're going to charge me
+     five bucks just to look at it?
+
+          RASHID
+     Once you look at it, you're going to want to
+     buy it from me. That's guaranteed. And that's
+     the price: five bucks. So if you're not willing
+     to spring for it, you might as well not bother
+     to look. It'll just tear you up inside and make
+     you miserable.
+
+          CYRUS
+          (Shaking his head)
+     Son-of-a-bitch. You're some piece of work,
+     aren't you?
+
+          RASHID
+          (Shrugs)
+     I just tell it like it is, mister.
+          (Pause)
+     If I'm getting on your nerves, though, you
+     might want to think about hiring me.
+
+          CYRUS
+          (Growing annoyed)
+     Do you have eyes in your head, or are those
+     brown things bulging out of your sockets just
+     marbles? You've been sitting here all day, and
+     how many cars have you seen drive up and ask
+     for gas?
+
+          RASHID
+     Not a one.
+
+          CYRUS
+     Not a one. Not one customer all day. I bought
+     this broken-down shit-hole of a place three
+     weeks ago, and if business don't pick up soon,
+     I'm going straight down the skids. What do I
+     want to be hiring someone for? I can't even pay
+     my own wages.
+
+          RASHID
+      It was just a thought.
+
+          CYRUS
+     Yeah, well, do your thinking somewhere else,
+     Michelangelo. I got work to do.
+
+CYRUS begins to leave. We see him crossing the road, shaking his head.
+Halfway there, he suddenly stops, turns, and shouts at RASHID:
+
+          CYRUS (cont'd)
+     Who do you think I am, the fucking State
+     Employment Agency?
+
+30.     EXT: DAY. THE SIDE OF THE COUNTRY ROAD, DIRECTLY OPPOSITE COLE'S GARAGE
+
+Half an hour later. We see RASHID sitting on the hood of the car, as
+before. This time he is eating a sandwich, chewing slowly as he gazes
+ahead.
+
+31.      EXT: DAY. COLE'S GARAGE
+
+We see CYRUS at work on the Chevrolet. Every now and then, he glances
+up to look at RASHID.
+
+CYRUS finishes the job he has been doing. He slams the hood of the
+Chevrolet shut. Quick cut to:
+
+32.     EXT: DAY. THE SIDE OF THE COUNTRY ROAD, DIRECTLY OPPOSITE COLE'S GARAGE
+
+CYRUS enters the frame and hoists himself onto the hood of the car --
+right next to RASHID. A long silence.
+
+          CYRUS
+          (Trying to be friendly)
+     I'll tell you what. You want to work. I'll give
+     you a job. Nothing permanent, mind you, but that
+     upstairs room over there
+          (Turns, points)
+     -- the one above the office -- is a hell of a
+     mess. It looks like they've been throwing junk
+     in there for twenty years, and it's time it got
+     cleaned up.
+
+          RASHID
+          (Playing it cool)
+     What's your offer?
+
+          CYRUS
+     Five bucks an hour. That's the going rate,
+     isn't it?
+          (Looks at his wristwatch)
+     It's a quarter past two now. My wife's picking
+     me up at five-thirty, so that'll give you about
+     three hours. If you can't finish today, you can
+     do the rest tomorrow.
+
+          RASHID
+          (Getting to his feet)
+     Is there a benefits package, or are you hiring
+     me on a freelance basis?
+
+          CYRUS
+     Benefits?
+
+          RASHID
+     You know, health insurance, dental plan, paid
+     vacation. It's not fun being exploited. Workers
+     have to stand up for their rights.
+
+          CYRUS
+     I'm afraid we'll be working on a strictly
+     freelance basis.
+
+          RASHID
+          (Long pause, pretending
+           to think it over)
+     Five dollars an hour?
+          (Another pause)
+     I'll take it.
+
+          CYRUS
+          (Cracking a faint smile.
+           Extends his right hand)
+     The name is Cyrus Cole.
+
+          RASHID
+     Paul. Paul Benjamin.
+
+They shake hands.
+
+33.      INT: DAY. THE BROOKLYN CIGAR CO.
+
+It is a slow hour in the middle of the afternoon. AUGGIE is sitting on
+a stool behind the counter, reading his paperback copy of Dostoyevsky's
+ Crime and Punishment. JIMMY ROSE is working in silence near the far
+wall on the other side of the counter, diligently and awkwardly
+straightening the stacks of newspapers and magazines.
+
+The bell on the front door rattles, signaling the arrival of a
+customer. Shot of JIMMY stopping his work to look up in the direction
+of the door. From JIMMY'S POV: a woman enters the store. She is RUBY
+McNUTT (AUGGIE'S old flame). Mid-forties, wearing a sleeveless summer
+dress, her face registering a tumult of anxiety, determination, and
+self-consciousness. She wears a black patch over her left eye.
+
+Shot of JIMMY looking in wonder at the patch. Shot of RUBY looking in
+the direction of the counter. Shot of AUGGIE sitting behind the
+counter, still immersed in his book, not bothering to glance up.
+Close-up of RUBY'S face: she is looking at AUGGIE. Her lips are
+trembling. She is obviously moved, but she is too afraid to speak. With
+the camera fixed on RUBY'S face, we hear:
+
+          JIMMY (OFF)
+          (Hesitantly)
+     Auggie.
+          (No response. Pause)
+     Auggie, I think there's a customer.
+
+Close-up of AUGGIE glancing up from his book. We see his expression
+change from one of indifference to recognition and astonishment.
+
+Close-up of RUBY looking at him. She smiles tentatively. As they talk,
+JIMMY studies them with rapt attention.
+
+          RUBY
+     Auggie?
+
+Shot of AUGGIE'S face: he is still too amazed to speak.
+
+           RUBY (cont'd)
+     It's really you, Auggie, isn't it?
+
+          AUGGIE
+          (Finally)
+     Christ, Ruby, it's been so long. I figured you
+     were dead.
+
+           RUBY
+     Eighteen and a half years.
+
+                AUGGIE
+     Is that all? I thought it was about three
+     hundred.
+
+          RUBY
+          (Shyly, hesitantly)
+     You're looking good, Auggie.
+
+                      AUGGIE
+     No I'm not. I look like shit. And so do you,
+     Ruby. You look just awful.
+          (Pause, with increasing bitterness)
+     What's with the patch, anyway? What'd you do
+     with that old blue marble -- hock it for a
+     bottle of gin?
+
+          RUBY
+          (Hurt, embarrassed)
+     I don't want to talk about it.
+          (Pause)
+     If you really want to know. I lost it. And I'm
+     not sorry I did. That eye was cursed, Auggie,
+     and it never gave me nothing but grief.
+
+                      AUGGIE
+     And you think it looks better to go around
+     dressed up like Captain Hook?
+
+          RUBY
+          (In a low voice, trying to maintain
+           her composure and dignity)
+     You always were a son-of-a-bitch, weren't you?
+     A little weasel with a quick, dirty mouth.
+
+          AUGGIE
+     At least I've stayed true to myself. Which is
+     more than I can say about some people.
+
+          RUBY
+          (Again, she tries to shrug it
+           off. Takes a deep breath)
+     I've got something to talk to you about, and
+     the least you can do is listen. You owe me that
+     much. I drove all the way from Pittsburgh to
+     see you, and I'm not going until you've heard
+     me out.
+
+          AUGGIE
+     Talk away, lady of my dreams. I'm all ears.
+
+          RUBY
+          (Glancing around the store.
+           Sees JIMMY studying her)
+     This is private, Auggie. Just between you and I.
+
+          AUGGIE
+          (Addressing JIMMY with
+           unaccustomed irritation)
+     You heard her, pipsqueak. The lady and I have
+     private business to discuss. Go outside and
+     stand in front of the door. If anyone tries to
+     come in, tell 'em we're closed. You got that?
+
+          JIMMY
+     Sure, Auggie, I got it.
+          (Pause)
+     The store's closed.
+          (Pause, thinks)
+     And when do I tell them it's open?
+
+          AUGGIE
+          (Snaps)
+     When I tell you it's open. It's open when I
+     tell you it's open!
+
+          JIMMY
+          (Hurt)
+     Okay, Auggie, I got it. You don't have to yell.
+
+JIMMY goes outside and posts himself in front of the door.
+
+          AUGGIE
+          (Looking closely at RUBY as
+           he lights a cigarette)
+     All right, sugar, what's on your mind?
+
+          RUBY
+          (Pause. Self-conscious)
+     Don't look at me like that. Auggie. It gives me
+     the creeps.
+
+          AUGGIE
+     Like what?
+
+          RUBY
+     Like what you're doing. I'm not going to eat
+     you up.
+          (Pause)
+     I need your help, and if you keep staring at me
+     like that. I might start screaming.
+
+          AUGGIE
+          (With an edge of sarcasm)
+     Help, huh? And I don't suppose this help has
+     anything to do with money, does it?
+
+          RUBY
+     Don't rush me, okay? You're jumping to
+     conclusions before I've even said anything.
+          (Pause)
+     And besides, it's not for me.
+          (Pause. Realizing she's let the cat
+           out of the bag. In desperation, she
+           plunges on)
+     It's for our daughter.
+
+          AUGGIE
+          (Shocked, growing belligerent)
+     Our daughter? Is that what you said? Our
+     daughter? I mean, you might have a daughter,
+     but I sure as hell don't. And even if I did --
+     which I don't -- she wouldn't be our daughter.
+
+          RUBY
+     Her name is Felicity, and she just turned
+     eighteen.
+          (Pause)
+     She ran away from Pittsburgh last year, and now
+     she's living in some shit-hole here in Brooklyn
+     with a guy named Chico. Strung out on crack,
+     four months pregnant.
+          (Pause)
+     I can't bear to think about that baby. Our
+     grandchild, Auggie. Just think of it. Our
+     grandchild.
+
+          AUGGIE
+          (Waving her off, impatient)
+     Stop it, already. Just stop all this crap right
+     now.
+          (Pause. Changing the
+           subject. With contempt)
+     Was that your idea to call her Felicity?
+
+          RUBY
+     It means "happiness."
+
+          AUGGIE
+     I know what it means. That still don't make it
+     a good name.
+
+          RUBY
+     I don't know who else to turn to, Auggie.
+
+          AUGGIE
+     You've suckered me before, darling, remember?
+     Why should I believe you now?
+
+          RUBY
+     Why would I lie to you, Auggie? You think it
+     was easy to come here and walk into this place?
+     Why would I do it if I didn't have to?
+
+          AUGGIE
+     That's what you told me when I shoplifted that
+     necklace for you. You remember, baby, don't
+     you? The judge gave me a choice: either go to
+     the can or enlist. So, instead of going to
+     college, I wind up in the navy for four years,
+     I watch men lose their arms and legs, I nearly
+     get my head blown off, and you, sweet Ruby
+     McNutt, you run off and marry that asshole,
+     Bill.
+
+          RUBY
+     You didn't write to me for more than a year.
+     What was I supposed to think?
+
+          AUGGIE
+     Yeah, well, I lost my pen. By the time I got a
+     new one, I was clean out of paper.
+
+          RUBY
+     It was over with Bill before you ever came
+     home. Maybe you don't remember it now, but you
+     were pretty hot to see me back then.
+
+          AUGGIE
+     You weren't so lukewarm yourself. At least at
+     first.
+
+          RUBY
+     It fizzled, baby. That's the way it goes. But
+     we had our times, didn't we? It wasn't all bad.
+
+          AUGGIE
+     A couple of moments, I'll grant you that. A
+     second or two snatched from the jaws of
+     eternity.
+
+          RUBY
+     And that's how Felicity came into the picture.
+     During one of those two seconds.
+
+          AUGGIE
+     You're conning me, sweetheart. I ain't
+     responsible for no baby.
+
+          RUBY
+     Then why do you think I married Frank? I was
+     already pregnant, and I didn't have much time.
+     Say what you like, but at least he gave my kid
+     a name.
+
+          AUGGIE
+     Good old Frank. And how is fat Mr. Grease Monkey
+     these days?
+
+          RUBY
+     Who the hell knows?
+          (Shrugs)
+     He dropped out of sight fifteen years ago.
+
+          AUGGIE
+     Fifteen years ago?
+          (Shakes head)
+     It won't wash, pumpkin. No mother waits fifteen
+     years to tell a man he's a father. I wasn't
+     born yesterday, you know.
+
+          RUBY
+          (Her lips start to tremble. We see
+          tears falling from her one good eye)
+     I thought I could handle it. I didn't want to
+     bug you. I thought I could handle it on my own,
+     but I couldn't. She's in real bad, Auggie.
+
+          AUGGIE
+     Nice try, old girl. I'd like to help you out.
+     You know, for old time's sake. But all my spare
+     cash is tied up in a business venture, and I
+     haven't collected my profits yet. Too bad. You
+     caught me at the wrong time.
+
+          RUBY
+          (Still crying)
+     You're a cold-hearted bastard, aren't you?
+     How'd you ever get so mean, Auggie?
+
+          AUGGIE
+     I know you think I'm lying to you, but I'm not.
+     Every word I told you is the God's honest
+     truth.
+
+Pause. Then cut to the store entrance. The door suddenly bursts open as
+an IRATE CUSTOMER pushes his way past JIMMY. We see JIMMY futilely
+trying to hold him back.
+
+          AUGGIE (cont'd)
+          (Shouting at customer. Beside himself)
+     The store's closed! Didn't you hear what the
+     kid told you? The goddamn store is closed!
+
+34.     INT: DAY. THE UPSTAIRS ROOM OF COLE'S GARAGE
+
+We see RASHID working diligently. The place is a pigsty, cluttered with
+all sorts of debris: rusty bicycles, rags, automotive parts, a female
+mannequin, broken radios, shower curtains, etc. One by one, RASHID
+drags or carries these things toward the door. At one point, he finds a
+small, portable black-and-white TV hidden under a rug. The rabbit ears
+are broken, the casing is covered with dust, but other than that it
+seems to be in reasonably good shape.
+
+35.      EXT: DAY. OUTSIDE COLE'S GARAGE
+
+RASHID and CYRUS are carrying the debris from the upstairs room and
+throwing it into the back of an old red pickup truck. Once they get rid
+of a load, they go back inside for more. Since RASHID is faster, they
+are working out of phase: when one is outside, the other is inside.
+
+They work in silence. CYRUS begins to huff and puff from going up and
+down the stairs. Eventually, after a number of trips, he drops a load
+into the truck and stops. He leans against the truck, pulls out a
+large, cheap half-smoked cigar from his shirt pocket, and lights up.
+Close-up of the hook as he strikes the match. After one or two puffs on
+the cigar, RASHID appears with another load and tosses it into the
+truck.
+
+           CYRUS
+     Time for a pause.
+
+Without further ado, RASHID promptly sits down on the rear bumper of
+the truck. He does it so quickly, the effect is comical. He watches
+CYRUS smoke. Two or three beats.
+
+          RASHID
+     I don't mean to be nosy, but I was wondering
+     what happened to your arm.
+
+          CYRUS
+          (Holds up his hook and
+           studies it for a moment)
+     An ugly piece of hardware, isn't it?
+          (Pause)
+     I'll tell you what happened to my arm.
+          (Pause. Remembering)
+     I'll tell you what happened.
+          (Pause)
+     Twelve years ago, God looked down on me and
+     said, "Cyrus, you're a bad, stupid, selfish man.
+     First of all, I'm going to fill your body with
+     spirits, and then I'm going to put you behind
+     the wheel of a car, and then I'm going to make
+     you crash that car and kill the woman who loves
+     you. But you, Cyrus, I'm going to let you live,
+     because living is a lot worse than death. And
+     just so you don't forget what you did to that
+     poor girl, I'm going to rip off your arm and
+     replace it with a hook. If I wanted to, I could
+     rip off both your arms and both your legs, but
+     I'm going to be merciful and just take off your
+     left arm. Every time you look at your hook, I
+     want you to remember what a bad, stupid,
+     selfish man you are. Let that be a lesson to
+     you, Cyrus, a warning to mend your ways."
+
+          RASHID
+          (Impressed by the sincerity
+           of CYRUS'S speech)
+     And have you mended them?
+
+          CYRUS
+     I don't know. I try. Every day I keep on trying,
+     but it's no easy task for a man to change his
+     nature.
+          (Pause)
+     I'm off the booze, though. Haven't had a drop
+     in six years. And now I've got me a wife.
+     Doreen. Best damned woman I've ever known.
+          (Pause)
+     And a little boy, too. Cyrus Junior.
+          (Pause)
+     So things have definitely improved since I got
+     fitted with this hook. If I can just turn this
+     goddamn garage around, I'll be in pretty good
+     shape.
+
+          RASHID
+     You named the kid after yourself, huh?
+
+          CYRUS
+          (Smiling at the thought of his son)
+     That boy's one in a million. A real tiger.
+
+Cut to close-up of RASHID'S face. He seems to be growing more and more
+upset.
+
+          CYRUS (cont'd)
+     And what about you, kid? What's your story?
+
+          RASHID
+          (Turning away)
+     Who, me? I don't have a story. I'm just a kid.
+
+Fade out.
+
+36.     EXT: DAY. OUTSIDE COLE'S GARAGE
+
+Late afternoon. RASHID and CYRUS continue loading debris into the back
+of the truck. We see the black-and-white portable TV sitting on the
+ground outside the office.
+
+After a few moments, a ten-year-old blue Ford pulls up next to the
+truck and stops. It is driven by CYRUS'S wife, DOREEN. She is an
+attractive, self-possessed woman in her late twenties. CYRUS JUNIOR is
+sitting in a child-restraint seat in the back. He is two years old.
+
+CYRUS'S face lights up when he sees the car. DOREEN cuts off the engine
+and gets out, smiling at her husband. RASHID, suddenly forgotten by
+CYRUS, watches the exchange with keen interest.
+
+          CYRUS
+     Hi, baby. How'd it go today?
+
+          DOREEN
+          (Joking)
+     If I have to wash one more old lady's hair, I
+     think my fingers would fall off.
+          (She kisses him on the cheek)
+
+          CYRUS
+     Busy, huh? That's good, because things around
+     here sure were sleepy today.
+
+          DOREEN
+          (Opening the back of the car,
+           unstrapping JUNIOR from his seat, and
+           picking him up in her arms)
+     Don't worry, Cy. It's early days yet.
+          (Addressing JUNIOR, but at the same
+           time catching sight of RASHID)
+     Say hello to Daddy.
+
+          JUNIOR
+          (In his mother's arms, excited
+           at seeing his father)
+     Dada! Dada!
+
+          CYRUS
+          (Taking the boy in his arms
+           and giving him a big kiss)
+     Hey there, little tiger. And what did you do
+     today?
+
+          DOREEN
+          (Addressing RASHID as she
+           hands the baby to CYRUS)
+     Hello.
+
+           RASHID
+          (Shyly)
+     Hello.
+
+                       CYRUS
+          (Noticing the exchange
+           between DOREEN and RASHID)
+     Jesus, I almost forgot you were here. Doreen,
+     this is Paul. My new assistant.
+
+DOREEN extends her right hand to RASHID.
+
+          RASHID
+          (Shaking DOREEN'S hand)
+     It's only temporary. On a freelance basis.
+
+          CYRUS
+          (Turning JUNIOR toward RASHID)
+     And this one, in case you haven't guessed, is
+     Junior.
+
+          RASHID
+          (Studying JUNIOR carefully. Mumbles
+           in a barely audible voice)
+     Hi there, little brother.
+
+          CYRUS
+     (To JUNIOR) Say hi to Paul.
+
+          JUNIOR
+     Hi there, little brother.
+
+          CYRUS
+          (To DOREEN)
+     He's helping me clean out that upstairs room.
+     Might as well get this place looking good,
+     anyway.
+          (To RASHID)
+     I guess that's it for today, sport. Come back
+     tomorrow morning at eight, and you can pick up
+     where you left off.
+          (Starts walking to the office
+           with JUNIOR in his arms)
+
+We see him through the window: opening the cash register, pocketing the
+money, turning out the lights, then coming out and closing the garage
+doors. In the foreground, we see RASHID standing with DOREEN. He looks
+down at the ground, too shy to say a word to her. She studies him with
+a mixture of curiosity and amusement. When CYRUS is finished closing
+up, he walks toward them and says to RASHID:
+
+          CYRUS (cont'd)
+     Do you want me to pay you now, or can you wait
+     until tomorrow?
+
+          RASHID
+     Tomorrow's fine. There's no rush.
+
+37.     EXT: EARLY EVENING. OUTSIDE COLE'S GARAGE
+
+A little later. We see RASHID sitting next to the TV outside the office
+door. He is utterly still. Hold for two, three beats.
+
+38.     INT: EARLY EVENING. INSIDE THE OFFICE OF COLE'S GARAGE
+
+We see a pencil drawing being slid under the door. It is an excellent
+rendering of the garage as seen from across the road.
+
+The camera moves in on the drawing until it occupies the entire screen.
+Hold for two, three beats.
+
+39.     INT: DAY. PAUL'S APARTMENT
+
+PAUL opens the door. RASHID is standing in the hall, holding the
+black-and-white TV in his arms. The knapsack is on his back. His
+clothes have become a little shabbier since the last time we saw him.
+
+          PAUL
+          (Surprised)
+     Hey, it's you.
+
+          RASHID
+          (Serious)
+     I wanted to give you this as a token of my
+     appreciation.
+
+          PAUL
+     Appreciation for what?
+
+          RASHID
+     I don't know. For helping me out.
+
+          PAUL
+          (Eyeing TV suspiciously)
+     Where did you get that thing?
+
+          RASHID
+     I bought it. Twenty-nine ninety-five on sale at
+     Goldbaum's TV and Radio.
+           (Hands TV to PAUL, who takes it
+           in his arms. RASHID smiles)
+     Well, that just about takes care of it, I
+     guess. You'll be able to watch the ball games.
+     You know, as a little break from your work.
+          (Begins to leave)
+
+          PAUL
+     Where the hell do you think you're going?
+
+          RASHID
+     Business appointment. I'm seeing my broker at
+     three o'clock.
+
+          PAUL
+     Cut it out, will you? Just cut it out and come
+     back here.
+
+          RASHID
+          (Looking at his watch. Shrugs)
+     I don't have much time.
+          (Returns to the doorway,
+           enters the apartment)
+
+          PAUL
+          (Puts TV on the stereo cabinet)
+     Close the door.
+          (RASHID closes the door)
+     Sit down in that chair.
+          (Points. RASHID sits down in the chair)
+     Now listen carefully. Your Aunt Em came here a
+     couple of days ago. She was sick with worry,
+     out of her mind. We had an interesting talk
+     about you, Thomas. Do you understand what I'm
+     saying? Your aunt thinks you're in trouble and
+     so do I. Tell me about it, kid. I want to hear
+     all about it right now.
+
+          RASHID
+          (Realizes he is trapped. Shrugs. Smiles
+           weakly. Looks down at floor to avoid
+           PAUL'S gaze. When he dares to look up
+           again, PAUL is still glowering at him.)
+      You don't really want to know.
+
+          PAUL
+          (Impatient)
+     I don't, huh? And what makes you such an
+     authority on what I want or don't want?
+
+          RASHID
+          (Sighs, defeated)
+     Okay, okay.
+          (Pause)
+     It's all so stupid.
+          (Pause)
+     There's this guy, see. Charles Clemm. The
+     Creeper, that's what people call him. The kind
+     of guy you don't want to cross paths with.
+
+          PAUL
+     And?
+
+          RASHID
+     I crossed paths with him. That's why I'm trying
+     to stay clear of my neighborhood.  To make sure
+     I don't run into him again.
+
+          PAUL
+     So that's the something you weren't supposed to
+     see, huh?
+
+Close-up of RASHID, becoming more animated as he talks.
+
+          RASHID
+     I just happened to be walking by... All of a
+     sudden, the Creeper and this other guy come
+     running out of this check-cashing place with
+     masks on their faces and guns in their hands...
+     They just about ran smack into me. The Creeper
+     recognized me, and I knew he knew I recognized
+     him... If the guy from the check-cashing place
+     hadn't rushed out then screaming bloody murder,
+     he would have shot me. I'm telling you, the
+     Creeper would have shot me right there on the
+     sidewalk. But the noise distracted him, and
+     when he turned around to see what was
+     happening, I took off... One more second, and I
+     would have been dead.
+
+          PAUL
+     Why don't you go to the police?
+
+          RASHID
+     You're joking, right? I mean, that's your way
+     of trying to be funny, right?
+
+          PAUL
+     If they put this Creeper in jail, then you'd be
+     safe.
+
+          RASHID
+     The man has friends. And they're not likely to
+     forgive me if I testify against him.
+
+          PAUL
+          (Thinking)
+     What makes you think you'll be any safer around
+     here? It's only about a mile away from where
+     you live.
+
+          RASHID
+     It might not be far, but it's another galaxy.
+     Black is black and white is white, and never
+     the twain shall meet.
+
+          PAUL
+     It looks like they've met in this apartment.
+
+          RASHID
+     That's because we don't belong anywhere. You
+     don't fit into your world, and I don't fit into
+     mine. We're the outcasts of the universe.
+
+          PAUL
+          (Studying RASHID)
+     Maybe. Or maybe it's the other people who don't
+     belong.
+
+          RASHID
+     Let's not get too idealistic.
+
+          PAUL
+          (Pause. Breaks into a smile)
+     Fair enough. We wouldn't want to get carried
+     away, would we?
+          (Pause)
+     Now call your aunt Em and let her know you're
+     alive.
+
+40.     INT: EVENING. PAUL'S APARTMENT
+
+PAUL and RASHID are watching the Mets on television. They are both
+smoking little cigars. PAUL puffs on his calmly; RASHID coughs after
+each puff of his. He is clearly not used to smoking. The television
+has a defective tube, the reception is poor, and every now and then one
+of them stands up and bangs the top of the set to bring the picture
+back into focus. They watch the ball game in silence. Close-up of the
+TV screen: the batter swings. An announcer's voice is heard describing
+the action.
+
+41.     EXT: LATE AFTERNOON. THE CORNER IN FRONT OF THE BROOKLYN CIGAR CO.
+
+AUGGIE is alone, closing up shop, looking particularly scruffy and
+unshaven. Just as he finishes pulling down the last metal gate, a car
+ with Pennsylvania license plates comes speeding down Seventh Avenue and
+brakes to a sudden stop in front of the store. It is a ten-year-old
+Pontiac in rather sorry shape: belching smoke, with a defective muffler
+and a dented body. AUGGIE, distracted by the commotion, turns and looks
+at the car.
+
+From AUGGIE'S POV: we look into the car and see that the driver is RUBY
+McNUTT.  She leans out the open window and addresses AUGGIE in an
+urgent voice.
+
+          RUBY
+     Get in, Auggie. I've got something to show you.
+
+          AUGGIE
+          (Reluctant)
+     You don't give up, do you?
+
+          RUBY
+     Just get in and shut up. I'm not asking you to
+     do anything. I just need you to come with me.
+
+          AUGGIE
+     Where to?
+
+          RUBY
+          (Impatient)
+     Dammit, Auggie, don't ask so many questions.
+     Just get in the car.
+
+AUGGIE shrugs. RUBY opens the right front door of the car, and he
+climbs in. They drive off.
+
+42.     EXT: EVENING. THE STREETS OF BROOKLYN
+
+We see RUBY'S car as it travels through the Brooklyn evening, making
+its way down Seventh Avenue to Flatbush Avenue, then turning onto
+Eastern Parkway and gliding past the Public Library and the Brooklyn
+Museum as it penetrates the slums of Crown Heights and East New York.
+
+          RUBY
+     I told her she was going to meet her father.
+
+          AUGGIE
+     You what?
+
+          RUBY
+     It was the only way, Auggie. Otherwise, she
+     wasn't going to let me see her.
+
+          AUGGIE
+     I think you'd better stop the car and let me
+     out.
+
+          RUBY
+     Relax, okay? You don't have to do anything.
+     Just go in there and pretend. It won't kill you
+     to do a little favor like that. Besides, you
+     might even learn something.
+
+           AUGGIE
+     Yeah, like what?
+
+          RUBY
+     That I wasn't bullshitting you, sweetheart. At
+     least you'll know I've been telling the truth.
+
+          AUGGIE
+     Look, I'm not saying you don't have a daughter.
+     It's just that she's not my daughter.
+
+          RUBY
+     Wait till you see her, Auggie.
+
+          AUGGIE
+     And what's that supposed to mean?
+
+          RUBY
+     She looks just like you.
+
+          AUGGIE
+          (Irritated)
+     Cut it out. Just cut it out, okay? It's
+     starting to get on my nerves.
+
+          RUBY
+     When I told her I was going to bring her father,
+     she kind of melted. It's the first time
+     Felicity's talked nice to me since she left
+     home. She's dying to meet you, Auggie.
+
+They drive on in silence for a few more seconds. By now they have
+ entered one of the worst, most dangerous parts of the city. We see
+broken-down, boarded-up buildings, vacant lots strewn with rubble,
+trash scattered on the sidewalks. RUBY turns down one of these streets,
+then brings the car to a halt in front of a walk-up building with
+spray-painted graffiti on the outer door: KILL THE COPS. AUGGIE and
+RUBY get out of the car and start walking toward the building. Down the
+street, in the distance, we see a black man pick up a metal garbage can
+and throw it violently to the ground. It lands with a loud crash.
+
+          AUGGIE
+     Nice neighborhood you've brought me to. Full of
+     happy, prosperous people.
+
+43.     INT: EVENING. FELICITY'S APARTMENT
+
+Close-up of a scarred green door. A knocking is heard from the other
+side. Pause. The knocking is heard again. After another pause, we hear
+feet padding toward the door. A second later a shoulder enters the
+frame. This is FELICITY from behind. She is dressed in a cheap flowered
+robe.
+
+          FELICITY
+     Yeah? Who is it?
+
+          RUBY (OFF)
+     It's me, honey. It's Mom.
+
+We see FELICITY'S hand reach out and unbolt the lock. The door opens to
+reveal AUGGIE and RUBY standing in the hall. They both look nervous:
+RUBY expectant and hopeful, with a forced smile on her face, AUGGIE
+guarded and closed in on himself. Cut to a close-up of FELICITY'S face.
+She is a very pretty blonde of eighteen. Her expression is hostile,
+however, and there is a wasted look in her eyes. We see clumsily
+applied rouge on her cheeks, a slash of red lipstick on her lips. She
+runs her hand through her stringy, unwashed hair. Cut to a close-up of
+AUGGIE'S face. It is impossible to know what he is thinking.
+
+As AUGGIE and RUBY enter the apartment, the camera backs up to show the
+room. It is a tawdry place with little furniture: a double mattress on
+the floor (the bed is unmade), a rickety wooden table and two chairs
+along the far wall (we see a box of Sugar Pops on the table), a hot
+plate, and an enormous color television near the mattress. The
+television is on, but the sound is off. Images of commercials flicker
+in the background during the rest of the scene. The only decoration is
+a large black-and-white poster of Jim Morrison Scotch-taped to one of
+the walls. Clothes are strewn everywhere: on the floor, on the table,
+on top of the television set.
+
+By the time RUBY has shut the door behind her, FELICITY has already
+retreated to the other side of the room and is lighting a cigarette
+from a pack of Newports on the table. No one says anything. An awkward
+silence as FELICITY glares at her mother and AUGGIE.
+
+          RUBY
+           (Finally)
+     Well?
+
+          FELICITY
+     Well what?
+
+          RUBY
+     Aren't you going to say anything?
+
+          FELICITY
+     What do you want me to say?
+
+          RUBY
+     I don't know. Hello, Mom. Hello, Dad. Something
+     like that.
+
+          FELICITY
+          (Takes a drag on her cigarette,
+           looking AUGGIE up and down. Then,
+           turning to RUBY)
+     I don't got no daddy, you dig? I got born last
+     week when some dog fucked you up the ass.
+
+          AUGGIE
+          (Muttering under his breath)
+     Jesus Christ. This is all I need.
+
+          RUBY
+          (Trying to ignore the viciousness
+           of her daughter's remark)
+     You told me you wanted to meet him. Well,here
+     he is.
+
+          FELICITY
+     Yeah, I might have said that. Chico told me to
+     see what he was like, maybe there'd be some
+     dough in it for us. Well, now I've seen him,
+     and I can't say I'm too impressed.
+          (Pause. Turning to AUGGIE)
+     Hey, mister. Are you rich or what?
+
+          AUGGIE
+          (Disgusted)
+     Yeah, I'm a millionaire. I walk around in
+     disguise because I'm ashamed of all my money.
+
+          RUBY
+          (To FELICITY. Imploringly)
+     Be nice, sweetie. We're just here to help you.
+
+          FELICITY
+          (Snaps back)
+     Help? What the fuck do I need your help for?
+     I've got a man, don't I? That's more than you
+     can say for yourself, Hawkeye.
+
+          AUGGIE
+     Hey, hey, don't talk to your mother like that.
+
+          FELICITY
+          (Crushing out her cigarette on the
+           table. Ignoring AUGGIE'S remark,
+           to her mother)
+     You're telling me you actually went to bed with
+     this guy? You're telling me you actually let
+     him fuck you?
+
+          RUBY
+          (Mortified, struggling not
+           to lose her composure)
+     You can do whatever you want with your own life.
+     We're thinking of the baby, that's all. We want
+     you to get yourself cleaned up for the baby.
+     Before it's too late.
+
+          FELICITY
+     Baby? And what baby is that?
+
+          RUBY
+     Your baby. The baby you're carrying around
+     inside you.
+
+          FELICITY
+     Yeah, well, there ain't no baby in there now.
+     You dig? There's nothing in there now.
+
+          RUBY
+     What are you talking about?
+
+          FELICITY
+     An abortion, stupid.
+          (Laughs bitterly)
+     I had an abortion the day before yesterday. So
+     you don't have to bug me about that shit
+     anymore.
+          (Laughs again. Defiantly,
+           almost to herself)
+     Bye-bye, baby!
+
+          AUGGIE
+          (Taking hold of RUBY'S arm. RUBY is
+           about to break into tears)
+     Come on, let's get out of here. I've had enough.
+
+RUBY shrugs off AUGGIE'S hand and goes on looking at her daughter. As
+FELICITY speaks, the camera closes in on her face.
+
+          FELICITY
+     Yeah, that's right, you better go. Chico'll be
+     back any minute, and I'm sure your boyfriend
+     doesn't want to mess with him. Chico's a real
+     man. Not some scuzzy dickhead you find in last
+     month's garbage. Do you hear what I'm saying?
+     He'll chop up Mr. Dad here into little pieces.
+     That's a promise. He'll kick the living shit
+     out of him.
+
+44.     INT: DAY. PAUL'S APARTMENT
+
+It is morning. RASHID is preparing a pot of coffee in the kitchenette.
+PAUL stumbles out of the bathroom, wiping his face with a towel. He has
+just woken up and is still groggy. He approaches the table.
+
+          PAUL
+     Ah, coffee. Smells good.
+
+          RASHID
+          (Handing him a cup)
+     One sip of this stuff and your eyes will blast
+     open.
+
+          PAUL
+          (Taking the cup and sitting down)
+     Thanks.
+          (Begins to drink)
+
+          RASHID
+     What time did you get to bed last night?
+
+          PAUL
+     I don't know. Two or three. It was pretty late.
+
+          RASHID
+     You work too hard, you know that?
+
+          PAUL
+     Once a story gets hold of you, it's hard to let
+     go.
+          (Pause)
+     Besides, I'm making up for lost time.
+
+          RASHID
+     Just so you don't overdo it. You don't want to
+     die of sleep deprivation before you finish.
+
+          PAUL
+          (Almost to himself. Looking up at
+           the photo of Ellen on the wall)
+     If you don't sleep, you don't dream. If you
+     don't dream, you don't have nightmares.
+
+          RASHID
+     That's logical. And if you don't sleep, you
+     don't need a bed. Saves you money, too.
+          (Pause)
+     So what's this story you're working on, anyway?
+
+          PAUL
+     If I tell you, I might not be able to finish it.
+
+          RASHID
+     Come on, just a little hint.
+
+          PAUL
+          (Smiling at RASHID'S eagerness. Pause)
+     Okay, just a little hint. I can't tell you the
+     story, but I'll tell you what gave me the idea
+     for it.
+
+          RASHID
+     The inspiration.
+
+          PAUL
+     Yeah, right. The inspiration. It's a true story
+     anyway, so I don't suppose it can hurt, can it?
+
+          RASHID
+     No way.
+
+          PAUL
+     All right. Listen carefully.
+          (The camera slowly moves in
+           for a close-up of PAUL'S face)
+     About twenty-five years ago, a young man went
+     skiing alone in the Alps. There was an
+     avalanche, the snow swallowed him up, and his
+     body was never recovered.
+
+          RASHID
+          (Mockingly)
+     The end.
+
+          PAUL
+     No, not the end. The beginning.
+          (Pause)
+     His son was just a little boy at the time, but
+     the years passed, and when he grew up, he
+     became a skier, too. One day last winter, he
+     went out by himself for a run down the
+     mountain. He gets halfway to the bottom and
+     then stops to eat his lunch next to a big rock.
+     Just as he's unwrapping his cheese sandwich, he
+     looks down and sees a body frozen in the ice --
+     right there at his feet. He bends down to take
+     a closer look, and suddenly he feels that he's
+     looking into a mirror, that he's looking at
+     himself. There he is -- dead -- and the body
+     is perfectly intact, sealed away in a block of
+     ice -- like someone preserved in suspended
+     animation. He gets down on all fours, looks
+     right into the dead man's face, and realizes
+     that he's looking at his father.
+
+Cut to RASHID'S face. We see him listening intently.
+
+          PAUL (cont'd) (OFF)
+     And the strange thing is that the father is
+     younger than the son is now. The boy has become
+     a man, and it turns out that he's older than
+     his own father.
+
+The camera holds on RASHID'S face. After a moment:
+
+          PAUL (OFF)
+     So what are you going to do today?
+
+          RASHID (Shrugs)
+     Read, think, do some drawings if I get in the
+     mood.
+
+He points to the coffee table: we see the sketch pad and a paperback
+copy of Shakespeare's Othello.
+
+          RASHID (cont'd)
+     But tonight I'm going to celebrate. That's
+     definite.
+
+          PAUL
+     Celebrate? What for?
+
+           RASHID
+     It's my birthday. I'm seventeen years old
+          (looks at wristwatch)
+     as of forty-seven minutes ago, and I think I
+     should celebrate having made it this far.
+
+          PAUL
+          (Raising coffee cup)
+     Hey, hey. Happy birthday. Why didn't you tell
+     me?
+
+           RASHID
+          (Deadpan)
+     I just did.
+
+          PAUL
+     I mean earlier. We could have planned something.
+
+Close-up of RASHID'S face.
+
+          RASHID
+     I don't like plans. I prefer to take things as
+     they come.
+
+45.     INT: LATE AFTERNOON. THE BOOKSTORE
+
+A small, cluttered independent bookshop.
+
+The scene begins with a close-up of the clerk's face: APRIL LEE, a
+Eurasian woman in her mid- to late twenties. She is sitting behind the
+front counter with an open book before her. Her expression is puzzled,
+searching, as if she has just remembered or recognized something, but
+can't quite figure out what it is. We see her looking toward the back
+of the store, straining to listen in on PAUL and RASHID'S conversation.
+
+          RASHID (OFF)
+     Here we are.
+          (Pause)
+     Rembrandt's drawings. Edward Hopper. Van Gogh's
+     letters.
+
+                         PAUL (OFF)
+     Pick two or three. Now that the coffers are
+     open, you might as well take advantage of me.
+
+As PAUL and RASHID start walking back in the direction of the counter,
+APRIL lowers her gaze and pretends to be reading. We see PAUL and
+RASHID enter the field of the camera from behind. PAUL puts a small
+pile of art books on the counter.
+
+          PAUL
+     We'll take these, please.
+
+APRIL looks up: her eyes meet PAUL'S. They study each other for a brief
+moment -- a significant exchange that does not escape RASHID'S notice.
+
+          APRIL
+     Will that be cash or charge?
+
+          PAUL
+          (Taking out his wallet
+           and looking inside)
+     Better make it charge.
+          (Removes the credit card
+           and hands it to APRIL)
+
+          APRIL
+          (Looking at he card, smiles)
+     I thought I recognized you. You're Paul
+     Benjamin the writer, aren't you?
+
+          PAUL
+          (Both pleased and surprised)
+     I confess.
+
+          APRIL
+     I keep waiting for the next novel to come out.
+     Anything in the works?
+
+          RASHID
+          (Butting in, with enthusiasm)
+     It's coming along. At the rate he's going,
+     he'll have a story finished by the end of the
+     summer.
+
+          APRIL
+     Wonderful. When your next book is published,
+     maybe you could come into the store and do a
+     signing. I'm sure we could get a lot of people
+     to show up.
+
+          PAUL
+          (Still staring at APRIL)
+     Uh, actually, I tend to shy away from that kind
+     of thing.
+
+          RASHID
+          (To APRIL)
+     Excuse me for asking, but you aren't married,
+     are you?
+
+          APRIL
+          (Taken aback)
+     What!
+
+          RASHID
+     Perhaps I should rephrase the question. What I
+     mean to say is, are you married or seriously
+     involved with a significant other?
+
+          APRIL
+          (Still astonished. Bursts out laughing)
+     No! At least I don't think I am!
+
+          RASHID
+          (Smiling with satisfaction)
+     Good. Then may I have the honor of extending
+     an invitation to you?
+
+          APRIL
+     An invitation?
+
+Close-up of PAUL, listening to the exchange between RASHID and APRIL.
+
+          RASHID
+     Yes, an invitation. I apologize for springing
+     it on you at the last minute, but Mr. Benjamin
+     and I are attending a celebration tonight, and
+     we would be most pleased if you chose to
+     accompany us.
+          (Looking at PAUL)
+     Isn't that right, Mr. Benjamin?
+
+          PAUL
+          (Breaking into a broad smile)
+     Absolutely. We would be honored.
+
+          APRIL
+          (Smiling)
+     And what's the occasion of this celebration?
+
+          RASHID
+     It's my birthday.
+
+          APRIL
+     And how many people will be attending this
+     birthday party?
+
+          RASHID
+     I wouldn't actually call it a party. It's more
+     along the lines of a dinner in celebration of
+     my birthday.
+          (Pause)
+     The guest list is quite restricted. So far,
+     there's Mr. Benjamin and myself. If you accept,
+     that would make three of us.
+
+          APRIL
+          (Ironic. With a crafty smile)
+     Ah-hah, I see. A cozy dinner. But aren't
+     threesomes a little awkward? How does the
+     phrase go--
+
+          RASHID
+     Three's a crowd. Yes, I'm aware of that. But I
+     have to keep an eye on Mr. Benjamin wherever he
+     goes. To make sure he doesn't get himself into
+     trouble.
+
+          APRIL
+     And what are you, his chaperone?
+
+          RASHID
+          (With a straight face)
+     Actually, I'm his father.
+
+APRIL bursts out laughing, amused by the mounting silliness of the
+conversation.
+
+          PAUL
+     It's true. Most people assume I'm his father.
+     It's a logical assumption -- given that I'm
+     older than he is and so on. But the fact is,
+     it's the other way around. He's my father, and
+     I'm his son.
+
+Close-up of APRIL'S face. She is still laughing.
+
+Cut to:
+
+46.     INT: EVENING. CHINESE RESTAURANT IN BROOKLYN
+
+In the background, we see a number of other customers. At one table, a
+Chinese family is celebrating a birthday. Toward the end of the scene,
+they all get up to pose for a group photograph. PAUL, RASHID, and
+APRIL are sitting together at a round table. They are in the middle of
+their meal.
+
+          PAUL
+     So your mother grew up in Shanghai?
+
+          APRIL
+     Until she was twelve. She moved here in
+     'forty-nine.
+
+          PAUL
+     And your father? Is he from New York?
+
+          APRIL
+          (Smiling)
+     Muncie, Indiana. He and my mother met as
+     students. But I'm from Brooklyn. My sisters
+     and I were all born and bred right here.
+
+           PAUL
+     Just like me.
+
+          RASHID
+     Like me, too.
+
+           APRIL
+     I once read somewhere that one quarter of all
+     the people in the United States have at least
+     one relative who has lived in Brooklyn at one
+     time or another.
+
+          RASHID
+     No wonder it's such a screwed-up place.
+
+          PAUL
+          (To APRIL)
+     And the bookstore? Have you been working there
+     long?
+
+          APRIL
+     It's just a summer job. Something to help pay
+     the bills while I finish my dissertation.
+
+          PAUL
+     Your dissertation? What subject do you study?
+
+          APRIL
+     American literature. What else?
+
+          PAUL
+     What else. Of course, what else? And what are
+     you writing about for your thesis?
+
+          APRIL
+          (With mock pomposity)
+     Visions of Utopia in Nineteenth-Century
+     American Fiction.
+
+          PAUL
+     Wow. You don't fool around, do you?
+
+          APRIL
+          (Smiling)
+     Of course I fool around. But not so much when
+     it comes to my work, it's true.
+          (Pause)
+     Have you ever read Pierre, or the Ambiguities?
+
+          PAUL
+     Melville, huh?
+          (Smiles)
+     It's been a while.
+
+          APRIL
+     That's the subject of my last chapter.
+
+          PAUL
+     Not an easy book.
+
+          APRIL
+     Which explains why this hasn't been the easiest
+     summer of my life.
+
+          RASHID
+     All the more reason to let 'er rip tonight,
+     sweetheart.
+          (Raises glass)
+     You know, go for the gusto.
+
+APRIL clinks her glass with RASHID and laughs merrily as PAUL looks on
+and smiles. Cut to:
+
+47.     INT: NIGHT. A BAR IN BROOKLYN
+
+A noisy, crowded blue-collar hangout. APRIL, PAUL, and RASHID are
+standing together, looking rather tipsy. They are engaged in animated
+three-way conversation, but we can't hear their voices over the din.
+
+A song is playing on the jukebox ("Downtown Train," by Tom Waits).
+APRIL asks PAUL to dance. He agrees. As they dance, RASHID looks on.
+Even though the rhythm of the song is fast, PAUL and APRIL dance
+slowly, tentatively, not quite sure how to behave with each other.
+
+After a moment, AUGGIE emerges from the back room with VIOLET, his
+flashy girlfriend, hanging on his arm. They are both plastered.
+
+          AUGGIE
+          (Drunk, smiling)
+     Hey, man, good to see you.
+
+          PAUL
+     This is April Lee, Auggie. April, say hello to
+     Auggie Wren.
+
+          APRIL
+          (Smiling)
+     Hello, Auggie Wren.
+
+          AUGGIE
+          (Affecting the voice of a cowboy,
+           tipping an imaginary hat)
+     Howdy, Miss April. I'm right pleased to make
+     your acquaintance.
+          (Turning to VIOLET)
+     And this pretty little lady here is Miss
+     Vi-o-let Sanchez de Jalapeño, the hottest chili
+     pepper this side of the Rio Grande. Ain't that
+     so, baby?
+
+          VIOLET
+     Ees so, Auggie. And you not so cold, neither.
+     Eh, baby?
+
+PAUL, APRIL, and RASHID nod hello to VIOLET.
+
+          AUGGIE
+     So, what brings you to a dive like this?
+
+          PAUL
+          (Gesturing with thumb to
+           RASHID; addressing AUGGIE)
+     It's his birthday so we decided to whoop it up
+     a little.
+
+          AUGGIE
+          (To RASHID)
+     How old, kid?
+
+          RASHID
+     Seventeen.
+
+          AUGGIE
+     Seventeen? I remember when I was seventeen.
+     Christ, I was one little whacked-out
+     son-of-a-bitch when I was seventeen. Is that
+     what you are, son? One little whacked-out crazy
+     fella?
+
+          RASHID
+          (With feigned seriousness, nodding)
+     Definitely. I'd say you've hit the nail on the
+     head.
+
+          AUGGIE
+     Good. Keep it up, and maybe one day you'll grow
+     up and become a great man like me.
+          (Bursts out laughing)
+
+PAUL puts his arm around AUGGIE, addressing him in quieter tones. As
+they talk, APRIL and VIOLET look each other up and down, smiling
+awkwardly. RASHID strains to hear what PAUL and AUGGIE are saying to
+each other.
+
+          PAUL
+     Hey, Auggie, I've just been thinking. You
+     wouldn't need some help around the store, would
+     you? Some summer help while Vinnie's gone?
+
+          AUGGIE
+          (Thinking)
+     Help? Hmm. It's possible. What did you have in
+     mind?
+
+          PAUL
+     I'm thinking about the kid. I'm sure he'd do a
+     good job for you.
+
+          AUGGIE
+          (Looking up and studying RASHID)
+     Hey, kid. You interested in a job? I just got
+     word from your employment agency that you're
+     looking for a position in retail sales.
+
+          RASHID
+     A job?
+          (Pause. Looks at PAUL)
+     I definitely wouldn't turn down a job.
+
+          AUGGIE
+     Come around to the cigar store tomorrow morning
+     at ten o'clock and we'll talk about it, okay?
+     We'll see what we can work out.
+
+          RASHID
+     Ten o'clock tomorrow morning. I'll be there.
+
+          PAUL
+          (Patting AUGGIE on the back)
+     I owe you one. Don't forget.
+
+48.     INT: DAY. PAUL'S APARTMENT
+
+Morning. PAUL and RASHID sitting at the table, eating breakfast. RASHID
+is wearing a red T-shirt with the word "FIRE" emblazoned on the back in
+white letters. We catch them in mid-conversation.
+
+          PAUL
+     It's 1942, right? And he's caught in Leningrad
+     during the siege. I'm talking about one of the
+     worst moments in human history. Five hundred
+     thousand people died in that one place, and
+     there's Bakhtin, holed up in an apartment,
+     expecting to be killed any day. He has plenty
+     of tobacco, but no paper to roll it in. So he
+     takes the pages of a manuscript he's been
+     working on for ten years and tears them up to
+     roll his cigarettes.
+
+          RASHID
+          (Incredulous)
+     His only copy?
+
+          PAUL
+     His only copy.
+          (Pause)
+     I mean, if you think you're going to die,
+     what's more important, a good book or a good
+     smoke? And so he huffed and he puffed, and
+     little by little he smoked his book.
+
+          RASHID
+          (Thinks, then smiles)
+     Nice try. You had me going for a second, but no
+     ... no writer would ever do a thing like that.
+          (Slight pause. Looking at PAUL)
+     Would he?
+
+          PAUL
+          (Amused)
+     You don't believe me, huh?
+          (Stands up from the table and begins
+           walking to the bookcase)
+     Look, I'll show you. It's all in this book.
+
+PAUL stands on a chair and reaches for a book on the top shelf. In
+doing so, he catches sight of the paper bag RASHID planted there in
+Scene 15. He studies it in bewilderment, then picks it up and dangles
+it in the air as he turns toward RASHID.
+
+          PAUL (cont'd)
+     What's this?
+
+          RASHID
+          (Squirming with embarrassment)
+     I don't know.
+
+          PAUL
+     Is it yours?
+
+          RASHID
+     Yeah, it might be.
+
+          PAUL
+          (Shrugs, not wanting to
+           make an issue of it)
+     Here, catch.
+
+PAUL tosses the bag in RASHID'S direction. The bag breaks open in
+midair, and a shower of twenty-, fifty-, and hundred-dollar bills rains
+down from the ceiling. PAUL is stunned; RASHID is watching the world
+crumble before his eyes.
+
+Fade out.
+
+49.      INT: DAY. PAUL'S APARTMENT (LATER)
+
+Fade in. A few minutes later. PAUL and RASHID are sitting at the table
+again, the money stacked in neat piles between them. Again, we catch
+them in mid-conversation.
+
+          PAUL
+     So you're saying it wasn't like that at all.
+
+          RASHID
+     Not exactly. I mean, there was more to it than
+     I told you.
+
+          PAUL
+     Christ. You didn't just see what happened.
+     They dropped the package on the ground and you
+     picked it up.
+
+          RASHID
+     Yeah, I picked it up.
+
+          PAUL
+     And started to run.
+
+          RASHID
+     And started to run.
+
+          PAUL
+          (Sarcastic)
+     Good thinking.
+
+          RASHID
+     That's just it. I didn't think. I just did it.
+
+          PAUL
+     You have one hell of a knack for getting into
+     trouble, don't you?
+          (Pause, gesturing to the money)
+     So how much does it come to?
+
+          RASHID
+     Six thousand dollars. Five thousand eight
+     hundred and fourteen dollars, to be exact.
+
+          PAUL
+          (Shaking his head, trying to
+           absorb this new turn of events)
+     So you robbed the robbers, and now the robbers
+     are after you.
+
+          RASHID
+     That's it. In a nutshell.
+
+          PAUL
+     Yeah, well, you have to be nuts to do what you
+     did. If you want my opinion, you should give
+     this money back to the Creeper. Just give it
+     back and tell him you're sorry.
+
+          RASHID
+          (Shaking his head)
+     No way. There's no way I'm giving that money
+     back. It's my money now.
+
+          PAUL
+     A lot of good it will do you if the Creeper
+     finds you.
+
+          RASHID
+          (Stubbornly)
+     That money is my whole future.
+
+          PAUL
+     Keep up with that attitude, and you won't have
+     a future.
+          (Pause)
+     Seventeen is a hell of an age to die. Is that
+     what you want?
+
+Close-up of RASHID'S face. Fade out.
+
+50.     INT: DAY. THE BROOKLYN CIGAR CO.
+
+We see RASHID mopping the floor. He finishes up and carries the mop to
+the bathroom behind the cash register and puts it in the bucket that is
+sitting in the sink. He turns on the tap and rinses the mop. Just to
+the side of the sink, there are two open cardboard boxes on the floor.
+We catch a glimpse of the contents: boxes of Montecristos (Cuban
+cigars). AUGGIE'S shipment from Miami has arrived.
+
+RASHID turns off the tap, but the water continues to trickle out in a
+small stream into the bucket. RASHID doesn't notice.
+
+RASHID returns to the counter. AUGGIE is standing by the door getting
+ready to go out. For the first time, he is clean-shaven, his hair is
+combed, and he is wearing dress-up clothes: a bright red plaid sports
+jacket, white slacks, etc. The effect is strange, laughable.
+
+          AUGGIE
+     I'll be back in about an hour. Watch the
+     register while I'm gone, okay?
+
+          RASHID
+     Sure thing. See you later.
+
+AUGGIE waves goodbye and leaves.
+
+Cut to the bathroom. Close-up of the bucket in the sink. The water is
+overflowing, spilling onto the boxes of Cuban cigars.
+
+Cut to  the store. RASHID is sitting behind the counter, studying a
+picture of a naked woman in Penthouse magazine.
+
+Cut to bathroom. Close-up of water inundating the Cuban cigars.
+
+Cut to store. Close-up of RASHID gaping at the photograph. We hear him
+groan softly.
+
+          RASHID
+          (Muttering to himself)
+     Jesus God, save me.
+
+Dissolve.
+
+The jarring noise of the door opening. RASHID hastily closes the
+magazine and stashes it under the counter. AUGGIE enters the store with
+two middle-aged men in dark, pin-striped suits: his lawyer-customers
+for the Cuban cigars.
+
+          AUGGIE
+          (Addressing the TWO LAWYERS as they
+           enter. He is obviously keyed up. His
+           manner is jovial, ingratiating)
+     It might be illegal, but it's hard to see where
+     the crime is if there's no victim. No harm
+     done, right?
+
+          FIRST LAWYER
+     This is what it must have felt like to go to a
+     speakeasy during Prohibition
+
+          SECOND LAWYER
+      Forbidden pleasures, eh?
+
+          AUGGIE
+          (To RASHID)
+     Much business while I was gone?
+
+          RASHID
+     A little. Not much.
+
+          AUGGIE
+          (To the LAWYERS)
+     This way, gentlemen. Let's retire to my office,
+     shall we?
+
+He points to the bathroom behind the counter.
+
+The camera stays on RASHID as AUGGIE and the LAWYERS disappear. A
+second later, we hear AUGGIE explode with rage.
+
+          AUGGIE (OFF)
+     What the fuck is going on here! Look at this!
+     The goddamn place is flooded! Holy fucking
+     shit! Look at this! Look at this goddamn mess!
+
+51.     INT: DAY. PAUL'S APARTMENT
+
+Close-up of RASHID'S face. He is in tears.
+
+          PAUL (OFF)
+     So you lost the job. Is that what you're
+     telling me? He just up and fired you?
+
+          RASHID
+          (Scarcely able to speak)
+     It was more complicated than that. There was a
+     reason.
+
+          PAUL (OFF)
+     Well?
+
+          RASHID
+     It wasn't my fault.
+
+          PAUL (OFF)
+          (Irritated)
+     If you don't tell me what happened, how do you
+     expect me to know that? I need facts, not
+     opinions.
+
+                        RASHID
+          (Struggling to speak,
+           fighting back the tears)
+     The water was dripping, see... I turned it off,
+     but it was still dripping, and then Auggie had
+     to go out, and so I left the back room ... And
+     later on ... well, later on ... when Auggie
+     came back ... the whole place was flooded. His
+     Cuban cigars got all messed up ... You know,
+     soaked through ... just when he was about to
+     sell them ... to these rich guys in suits....
+
+Shot of PAUL standing in the middle of the room looking at RASHID, who
+is sitting on the bed.
+
+          PAUL
+     Cuban cigars. You mean he had some hanky-panky
+     going with those guys?
+
+          RASHID
+     I suppose so. He never told me about it.
+
+          PAUL
+     No wonder he was angry.
+
+          RASHID
+     He was out five thousand bucks, he said.... He
+     kept saying it over and over.... Five thousand
+     bucks down the drain.... He wouldn't stop....
+     Five thousand bucks, five thousand bucks....
+     He was like out of his mind with those five
+     thousand bucks....
+
+Silence. PAUL paces about the room, thinking. He sits down in a chair
+by the table. Thinks some more.
+
+          PAUL
+     Here's what you're going to do. You're going to
+     open up your backpack, take out your bag of
+     money, count out five thousand dollars, and
+     hand it over to Auggie.
+
+          RASHID
+          (Appalled)
+     What are you talking about?
+          (Pause)
+     You can't be serious.
+
+          PAUL
+     I'm serious, all right. You've got to square it
+     with Auggie. Since you won't give the money
+     back to the Creeper, you can use it to make
+     things right with Auggie. That's probably
+     better anyway. Better to keep your friends than
+     to worry about your enemies.
+
+          RASHID
+          (Stubbornly. Fresh tears
+           falling down his cheeks)
+     I'm not going to do it.
+
+          PAUL
+     You'll do it, all right. You fuck up, you've
+     got to undo the damage. That's how it works,
+     buster. If you don't do it, I'm going to throw
+     you out of here. Do you understand me? If you
+     don't pay Auggie what you owe him. I'm finished
+     with you.
+
+          RASHID
+     I pay Auggie, and I've got nothing. Eight
+     hundred bucks and a ticket to Shit City.
+
+          PAUL
+     Don't worry about it. You've got friends now,
+     remember? Just behave yourself, and everything
+     will work out.
+
+52.     INT: NIGHT. A BAR IN BROOKLYN
+
+AUGGIE is sitting alone at the bar, smoking a cigarette and drinking a
+beer. He looks disgusted: muttering to himself, swearing under his
+breath. Business is slow, and the place is almost empty.
+
+PAUL and RASHID enter and approach AUGGIE at the bar. RASHID is
+carrying a brown paper bag. AUGGIE gestures with his head for them to
+follow him into the back room. Cut to:
+
+The three of them taking their seats at a table in the back room. A
+long, awkward pause.
+
+          PAUL
+     The kid's sorry, Auggie.
+
+          AUGGIE
+          (Scowls, fiddles with the
+           napkin on the table)
+     Yeah, well, I'm sorry too.
+          (Pause)
+     It took me three years to save up those five
+     thousand bucks, and now I'm broke. I can't
+     hardly pay for this beer. Not to speak of
+     having my credibility destroyed. Do you
+     understand what I'm saying? My credibility.
+     So yeah, I'm sorry, too. About as sorry as
+     I've ever been in my whole fucking life.
+
+          PAUL
+     He's got something to tell you, Auggie.
+
+          AUGGIE
+     If he's got something to tell me, why don't he
+     tell it to me himself?
+
+Without saying a word, RASHID lifts the bag off his knees and puts it
+on the table in front of AUGGIE. AUGGIE eyes the bag suspiciously.
+
+          RASHID
+     It's for you.
+
+          AUGGIE
+     For me? And what am I supposed to do with a
+     paper bag?
+
+          RASHID
+     Open it.
+
+          AUGGIE
+          (Taking a peek inside)
+     What is this, some kind of joke?
+
+          RASHID
+     No, it's five thousand dollars.
+
+          AUGGIE
+          (Disgusted)
+     Shit. I don't want your money, you little
+     twerp.
+          (Peeking inside the paper bag again)
+     It's probably stolen anyway.
+
+          RASHID
+     What do you care where it comes from? It's
+     yours.
+
+          AUGGIE
+     And why the hell would you give me money?
+
+          RASHID
+     So I can get my job back.
+
+          AUGGIE
+     Your job? You've got five thousand bucks. What
+     do you want a piece-of-shit job like that for?
+
+          RASHID
+     To look at the dirty magazines. I can see all
+     the naked women I want, and it doesn't cost me
+     a cent.
+
+          AUGGIE
+     You're a dumb, whacked-out little fuck, do you
+     know that?
+
+Auggie pushes the bag toward RASHID. Without hesitating for a second,
+RASHID pushes the bag back toward AUGGIE.
+
+          PAUL
+     Don't be an ass, Auggie. He's trying to make it
+     up to you, can't you see that?
+
+          AUGGIE
+          (Sighs, shakes head,
+           peeks into bag again)
+     He's crazy.
+
+          PAUL
+     No, he's not. You are.
+
+          AUGGIE
+          (Shrugs. Begins to crack a smile)
+     You're right. I just wasn't sure you knew.
+
+          PAUL
+     It's written all over you like a neon sign.
+     Now say something nice to Rashid to make him
+     feel better.
+
+          AUGGIE
+          (Peeking into the bag again. Smiles)
+     Fuck you, kid.
+
+          RASHID
+          (Beginning to smile)
+     Fuck you, too, you white son-of-a-bitch.
+
+          PAUL
+          (Pause. He laughs. Then, slapping
+           his hands on the table)
+     Good. I'm glad that's settled!
+
+53.     INT: DAY. PAUL'S APARTMENT
+
+PAUL is alone at his desk, typing. The keys suddenly stick, jam up.
+
+          PAUL
+          (Spreading his hands in front of his
+           face and addressing his fingers)
+     Pay attention, boys. Look sharp.
+
+
+54.     INT: DAY. PAUL'S APARTMENT
+
+Several hours later. As before: PAUL alone at his desk, typing. A loud
+knocking is heard at the door. PAUL continues typing. Another loud
+knock on the door. PAUL sighs, stands up from his desk, and leaves the
+workroom. Shot of PAUL walking through the big room and opening the
+front door. Two black men are standing in the hallway. One is very
+large, in his mid-thirties; the other is small, in his twenties. They
+are Charles Clemm, THE CREEPER, and his sidekick, ROGER GOODWIN.
+
+          CREEPER
+     Mr. Benjamin, I presume?
+
+Before PAUL can respond, CREEPER and GOODWIN push their way past him
+into the apartment. GOODWIN slams the door behind him. PAUL backs up
+nervously. He positions himself by the windows that look down at the
+street.
+
+          GOODWIN
+     You got a security problem in this building,
+     you know that? The lock on that door downstairs
+     is busted.
+
+          CREEPER
+     Not a good idea in these troubled times. You
+     never know what kind of trash might wander in
+     off the streets.
+
+          PAUL
+          (Nervous)
+     I'll talk to the landlord about it tomorrow.
+
+          GOODWIN
+     You do that. Don't want no unpleasant
+     surprises, do you?
+
+          PAUL
+          (Looking them over)
+     And who do I have the pleasure of talking to
+     now?
+
+          CREEPER
+     Pleasure?
+          (Laughs)
+     I wouldn't call this pleasure, funny man. I'd
+     say it's more in the nature of business.
+
+          PAUL
+     It doesn't matter. I know who you are anyway.
+          (Pause)
+     You're the Creeper, aren't you?
+
+          CREEPER
+          (Indignant)
+     The what?
+
+          GOODWIN
+          (Whipping out a .45 automatic
+           and pointing it at PAUL)
+     Ain't nobody calls Charles by that name to his
+     face.
+          (Grabs PAUL'S arm and puts
+           him in a hammerlock)
+     Understand?
+
+          PAUL
+          (Grunting in pain)
+     Sure, I understand.
+
+Before GOODWIN can do any real violence, the CREEPER waves him off. At
+that moment, PAUL glances out the window. Shot of RASHID down on the
+street, approaching the building. Shot from RASHID'S POV: We see PAUL
+upstairs with his back to the window, moving his hand with a shooing
+gesture, trying to warn RASHID of the danger. Another shot of RASHID'S
+face, puzzled. Another shot from RASHID'S POV: the CREEPER'S head
+enters the picture. Another shot of RASHID: he takes off, running down
+the street. As all this happens we hear the following:
+
+          CREEPER (OFF)
+     Let me tell you the business we're here about.
+     We want your cooperation in helping us locate a
+     certain party. We know he's been staying here,
+     so we don't want no denials about it, understand?
+
+          PAUL
+     What party are you looking for?
+
+          GOODWIN (OFF)
+     Little Tommy Cole. A homeboy with a brain the
+     size of a pea.
+
+          PAUL (OFF)
+          (Stalling)
+     Tommy Cole? Never heard of him.
+
+By now, RASHID is gone. Shot of PAUL'S face. He glances over his
+shoulder at the street below. Shot of the street: no sight of RASHID
+anywhere. Followed by a shot of PAUL, CREEPER, and GOODWIN standing in
+the room.
+
+          CREEPER
+     I'm not sure you heard me the first time. We
+     know that boy's been here.
+
+          PAUL
+     You might think you know, but you've got the
+     wrong information. I never heard of anyone
+     named Tommy Cole.
+
+          GOODWIN
+          (Strolling about the room. Sees
+           RASHID'S sketch pad on coffee table)
+     Lookee here, Charles. Ain't cousin Tommy fond
+     of doodling?
+
+He picks up the pad, flips through it, and then starts ripping up the
+drawings and tossing them on the floor.
+
+          PAUL
+     Hey, what the hell are you doing?
+
+Before GOODWIN answers, CREEPER comes close to PAUL and without any
+warning delivers a fast, powerful punch to his stomach. PAUL doubles
+over in pain and falls to the floor.
+
+          CREEPER
+     So what's it going to be, funny man? Do you
+     cooperate, or do we send you to the hospital?
+
+          GOODWIN
+          (Walking toward the bookcase,
+           addressing PAUL over his shoulder)
+     Hope you got some good Blue Cross, baby.
+
+GOODWIN suddenly starts pulling books off the shelves and sweeping them
+violently onto the floor.
+
+
+55.     EXT: DAY. IN FRONT OF THE BROOKLYN CIGAR CO.
+
+AUGGIE is standing with his arm on JIMMY ROSE'S shoulder. We catch them
+in mid-conversation. AUGGIE is talking; JIMMY is doing his best to
+follow him: looking down at the ground and nodding, surreptitiously
+picking his nose. As they talk, we see PAUL walking down the street in
+their direction. He is limping: one side of his face is bandaged, his
+left arm is in a sling.
+
+          AUGGIE
+     ... If it happens, it happens. If it doesn't,
+     it doesn't. Do you understand what I'm saying?
+     You never know what's going to happen next, and
+     the moment you think you know, that's the
+     moment you don't know a goddamn thing. That's
+     what we call a paradox. Are you following me?
+
+          JIMMY
+     Sure, Auggie. I follow. When you don't know
+     nothing, it's like paradise. I know what that
+     is. It's after you're dead and you go up to
+     heaven and sit with the angels.
+
+          AUGGIE
+          (About to correct JIMMY when he
+           spots PAUL approaching the corner)
+     Jesus, man, you're one fucking mess.
+
+          PAUL
+          (Shrugs)
+     It could have been worse. If the cops hadn't
+     come, I might not be standing here now.
+
+          AUGGIE
+     Cops? You mean they nabbed those cruds?
+
+                        PAUL
+     No. The ... uh ... the Bobbsey Twins lit out
+     when they heard the sirens. But at least they
+     stopped playing that marimba duet on my skull.
+          (Pause. Smiles)
+     Assaultus interruptus.
+
+                      AUGGIE
+          (Studying PAUL'S wounds)
+     Fuckus my assus. They did some number on you.
+
+          PAUL
+     For once in my life I managed to keep my mouth
+     shut. There's something to be said for that, I
+     suppose.
+
+JIMMY, who has been watching PAUL intently since his arrival, gently
+and hesitantly raises his hand and touches PAUL'S bruised face. PAUL
+winces slightly.
+
+          JIMMY
+     Does it hurt?
+
+          AUGGIE
+     Of course it hurts. What does it look like?
+
+          JIMMY
+          (Quietly)
+     I thought maybe he was pretending.
+
+          PAUL
+          (To AUGGIE)
+     You haven't heard from Rashid, have you?
+
+          AUGGIE
+     Not a peep.
+
+          PAUL
+     I spoke to his aunt a couple of days ago, but
+     she hasn't heard from him either. It's
+     beginning to get a little scary.
+
+          AUGGIE
+     That could be a good sign, though. It could
+     mean that he got away.
+
+          PAUL
+     Or didn't.
+          (Pause)
+     There's no way of knowing, is there?
+
+56.     EXT: DAY. A BROOKLYN STREET
+
+We see PAUL walking down the street, returning home. He spots a young
+black man from behind. He is wearing the same red "FIRE" T-shirt that
+RASHID was wearing in Scene 48. PAUL, growing excited, limps forward to
+catch up with him. Once he gets close enough, he taps the young man on
+ the shoulder.
+
+          YOUNG MAN
+          (Wheeling around as if he
+           had been attacked. Angrily)
+     What the fuck you want, mister?
+
+          PAUL
+          (Embarrassed)
+     I'm sorry. I thought you were someone else.
+
+          YOUNG MAN
+     I ain't someone else, got it? You can go fuck
+     yourself with your someone else.
+
+57.     INT: NIGHT. PAUL'S APARTMENT
+
+PAUL, sitting in his easy chair, continues to work on his story by
+hand. The apartment has more or less been put back in order, but
+several traces of the CREEPER'S visit remain: bits of broken furniture,
+a pile of destroyed books in one corner, etc.
+
+After a few moments, PAUL gets up from his chair, walks over to the
+television set, and turns it on. We hear the crowd noises of a baseball
+game, the voice of the announcer describing the action, but there is no
+image: Only a single white line across the black screen. PAUL mutters
+under his breath and pounds the top of the TV. An image jumps into
+view: a baseball game in progress. PAUL backs up to watch. The moment
+he steps back, the image vanishes. Once again we see the white line
+across the black screen. PAUL steps forward and pounds the TV again.
+Nothing happens. He pounds again, and still the white line remains.
+The camera moves in slowly for a close-up of the TV screen. The camera
+travels through it, into the darkness. After a moment we hear the
+clicking of PAUL'S keyboard. The sounds of typing resonate in the void.
+
+58.     EXT: LATE MORNING. THE BROOKLYN PROMENADE
+
+Sunday, late morning, brilliant sunshine. Against the backdrop of lower
+Manhattan, we see the summer weekend crowd along the Promenade: old
+people on benches reading newspapers, young couples out with their
+babies, girls on roller skates, boys on skateboards, bag ladies, bums.
+Traveling camera. Amongst the bustle of bodies and colors, we see the
+Brooklyn Bridge off to the right, a spider web of cables set against
+the buildings of upper Manhattan; to the left we see the expanse of New
+York Harbor, the Staten Island ferry, the Statue of Liberty. AUGGIE and
+RUBY are walking along the promenade, deep in conversation. AUGGIE is
+clean-shaven, his hair is slicked back, and he is wearing his white
+pants and a bright red Hawaiian shirt. RUBY is wearing sunglasses,
+black toreador pants, and spike heels.
+
+          AUGGIE
+     So you're just going to give up and go home?
+
+          RUBY
+     I don't have much choice, do I? It's pretty
+     clear she doesn't want me around.
+
+          AUGGIE
+          (Thinks)
+     Still, you can't just write her off.
+
+          RUBY
+     Yeah? And what else am I supposed to do?
+     There's no baby anymore, and if she wants to
+     throw away her life, that's her business.
+
+          AUGGIE
+     She's just a kid. There's time for more babies
+     later. After she grows up.
+
+          RUBY
+     Dream on, Auggie. She'll be lucky to make it to
+     her nineteenth birthday.
+
+          AUGGIE
+     Not if you got her into one of those rehab
+     programs.
+
+          RUBY
+     I'd never be able to talk her into it. And even
+     if I could, those things cost money. And that's
+     just what I don't have. I'm flat out dead broke.
+
+          AUGGIE
+     No you're not.
+
+          RUBY
+          (She stops)
+     Are you calling me a liar? I'm telling you I'm
+     broke. I don't even have insurance on my
+     goddamned car.
+
+          AUGGIE
+          (Ignoring her remark)
+     Remember that business venture I was telling
+     you about? Well, my tugboat came in. I'm flush.
+
+          RUBY
+          (Pouting)
+     Bully for you.
+
+          AUGGIE
+     No, bully for you.
+
+He reaches into his pocket, pulls out a long white envelope, and hands
+it to RUBY.
+
+          RUBY
+     What's this?
+
+           AUGGIE
+     Why don't you open it and find out?
+
+          RUBY
+          (Opens the envelope. It
+           is filled with cash)
+     Jesus God, Auggie. There's money in here.
+
+          AUGGIE
+     Five thousand bucks.
+
+          RUBY
+          (Incredulous)
+     And you're giving it to me?
+
+          AUGGIE
+     It's all yours, baby.
+
+          RUBY
+          (Moved, to the point of tears)
+     For keeps?
+
+          AUGGIE
+     For keeps.
+
+          RUBY
+          (Now crying in earnest)
+     I can't believe it. Oh God, I can't believe it.
+          (Pause, to catch her breath)
+     You're an angel, Auggie. An angel from heaven.
+
+She tries to put her arms around him, but AUGGIE squirms away.
+
+          AUGGIE
+     Fuck this angel shit. Just take the dough,
+     Ruby. But no bawling, okay? I can't stand
+     people who blubber.
+
+          RUBY
+     I'm sorry, baby. I can't help it.
+
+RUBY pulls a handkerchief from her purse and blows her nose, honking
+loudly. AUGGIE lights a cigarette. After a moment they start walking
+again.
+
+          AUGGIE
+     There's just one thing I want to know.
+
+          RUBY
+          (More composed)
+     Anything, Auggie. Just name it.
+
+AUGGIE stops walking.
+
+          AUGGIE
+     Felicity.
+          (Pause)
+     She's not my daughter, is she?
+
+Long pause. Close-up of RUBY'S face.
+
+          RUBY
+     I don't know, Auggie. She might be. Then again,
+     she might not. Mathematically speaking, there's
+     a fifty-fifty chance. It's your call.
+
+Close-up of AUGGIE'S face. After a moment, he begins to smile. Fade
+out.
+
+59.     EXT: DAY. SEVENTH AVENUE
+
+We see PAUL walking down the crowded street with a manila envelope
+tucked under his arm.
+
+60.     INT: DAY. THE BOOKSTORE
+
+We see APRIL behind the counter. She is ringing up a sale for a
+CUSTOMER, an Indian woman dressed in a sari.
+
+PAUL enters the store and approaches the counter. When APRIL looks up
+and notices who it is, her face brightens -- then instantly shows alarm
+at the sight of PAUL'S wounds and bandages. She completely forgets
+about the customer.
+
+          APRIL
+     Jesus, what happened to you?
+
+          PAUL
+          (Shrugging it off)
+     It looks worse than it is. I'm okay.
+
+          APRIL
+     What happened?
+
+          PAUL
+     I'll tell you all about it...
+          (Glancing around the store)
+     ... but not here.
+
+          APRIL
+          (Pause. Shyly)
+     It's been a while. I thought maybe you'd be in
+     touch.
+
+          PAUL
+     Yeah, well, I've sort of been out of commission.
+          (Pause)
+     How's Melville?
+
+          APRIL
+     Almost done. A week or ten days, and I'll be
+     there.
+
+          CUSTOMER
+          (Growing impatient)
+     Miss, could I have my change, please?
+
+          APRIL
+     Oh, I'm sorry.
+          (Hands the woman her change)
+
+          CUSTOMER
+     And my book.
+
+          APRIL
+     Sorry.
+          (She slips the book -- Portrait of a Lady
+           -- into a bag and gives it to the woman)
+
+The CUSTOMER leaves, glancing over her shoulder with a disapproving
+look at APRIL and PAUL.
+
+          PAUL
+          (Extending the manila envelope to APRIL)
+     I finished my story. I thought you might want
+     to take a look at it.
+
+          APRIL
+          (Taking the envelope -- and at the same
+           moment understanding the significance
+           of PAUL'S gesture. She begins to smile)
+     I'd love to.
+
+          PAUL
+     Good. I hope you like it. It was a long time in
+     coming.
+
+          APRIL
+          (Glancing at her watch)
+     I get off for lunch in ten minutes. Can I treat
+     you to a hamburger?
+
+          PAUL
+          (Awkwardly)
+     Uh ... actually, it might be better if you read
+     the story first. Call me when you're finished,
+     okay?
+
+          APRIL
+          (A bit mystified, but putting a
+           good face on her disappointment)
+     Okay. I'll read it tonight and call you
+     tomorrow.
+          (Weighing the envelope in her hand)
+     It doesn't seem to be too long.
+
+          PAUL
+     Forty-one pages.
+
+Another CUSTOMER -- a young white man of about twenty -- appears at
+the counter with a copy of On the Road. PAUL begins backing toward the
+door.
+
+          PAUL (cont'd)
+     You won't forget to call?
+
+          APRIL
+     I won't forget. I promise.
+
+61.     INT: NIGHT. PAUL'S APARTMENT
+
+The telephone rings -- two, three, four times -- but no one is there to
+answer it. Cut to:
+
+62     INT: NIGHT. THE BROOKLYN CIGAR CO.
+
+Shot of the empty store. We hear a telephone ringing in the distance.
+
+63.     INT: NIGHT. AUGGIE'S APARTMENT
+
+AUGGIE is sitting alone at his kitchen table, removing recently
+developed photographs from a yellow Kodak envelope. The 1990 album lies
+open on the table before him. One by one, AUGGIE affixes a small white
+label to the lower-right-hand corner of each image, carefully marking
+the date on each label with a pen: 7-30-90, 7-31-90; 8-1-90; etc. Then,
+one by one, he slips each photo into its appropriate place in the
+album. AUGGIE smokes a cigarette, hums a song under his breath, sips
+from a glass of bourbon. He looks like a beachcomber: unshaven, tousled
+hair, bare-chested, wearing a pair of baggy shorts.
+
+The telephone is ringing. Not to be rushed, AUGGIE slides another photo
+ into its place, takes a sip of his drink, and then, finally, answers
+the phone.
+
+          AUGGIE
+     Bureau of Missing Persons. Sergeant Fosdick.
+          (Pause. Listens)
+     Well, blow me down. Peter Rabbit's alive.
+          (Pause. Listens)
+     Yeah, that's cool.  No problem.
+          (Pause. Listens)
+     Danzinger Road, Peekskill.
+          (Pause. Listens)
+     Yeah, I got it. I don't need no pencil.
+          (Pause. Listens)
+     How the hell do I know? I can't help it if he's
+     not answering his phone.
+          (Pause. Listens)
+     So you're the one who called the cops, huh?
+     Good work.
+          (Pause. Listens)
+     Yeah, I mean it. Good work. It probably saved
+     his skin.
+          (Pause. Listens)
+     You got that right. Bad. You owe him a lot,
+     keemosabbe.
+          (Pause. Listens)
+     No, not tomorrow. I have to work, chuckle
+     brain -- remember?
+          (Pause. Listens)
+     No, not Saturday either. Sunday.
+          (Pause. Listens)
+     Yeah. Right. Okay.
+          (Smiles)
+     Yeah, and kiss my ass, too.
+          (Pause. Listens. Smiles again)
+     You, too.
+          (Hangs up the phone)
+
+64.     EXT: DAY. PAUL'S STREET
+
+Sunday morning. PAUL and AUGGIE are walking together on the sidewalk.
+PAUL is carrying RASHID'S backpack.
+
+          PAUL
+     So what did he say when he called?
+
+                      AUGGIE
+     Nothing much. He said his socks and underpants
+     were dirty, and would we mind driving up with
+     his things.
+          (Pause)
+     Fucking kids, huh? They take you for granted
+     every time.
+
+AUGGIE stops in front of a car parked at the curb: a fifteen-year-old
+red Coupe de Ville.
+
+          PAUL
+          (Impressed)
+     Nice machine, Auggie. Where'd you find it?
+
+          AUGGIE
+     It's Tommy's. The sucker owed me a favor.
+
+AUGGIE unlocks the door on the passenger side, then walks around the
+car to unlock the door on the driver's side.
+
+          PAUL
+          (Opening the door)
+     It's not a long drive. An hour, an hour and a
+     half. We'll be back in time for dinner.
+
+          AUGGIE
+     We'd better be. I haven't spent a night out of
+     Brooklyn in fourteen years, and I'm not about
+     to break my record now. Besides, I've got to be
+     on my corner at eight sharp tomorrow morning.
+
+They both climb into the car. AUGGIE starts up the engine. Cut to:
+
+65.     INT/EXT: DAY. PEEKSKILL. COLE'S GARAGE
+
+We see RASHID painting the walls in the upstairs room. The room has
+been transformed since the last time we saw it. It is entirely bare now
+and neat as a pin. With each touch of white paint that RASHID applies
+to the walls, the look of the place improves. He works with care, proud
+of what he has accomplished so far.
+
+Suddenly: the noise of a car down below. RASHID goes to the open window
+and looks out. Cut to:
+
+From RASHID'S POV: We see CYRUS, DOREEN, and JUNIOR pull up in the blue
+Ford. They get out. DOREEN is carrying a large picnic cooler. CYRUS
+opens the back door and unbuckles JUNIOR from his seat.
+
+          RASHID (OFF)
+          (Mumbling, alarm in his voice)
+     Oh, Jesus. What are they doing here on Sunday?
+
+          DOREEN
+          (Waving up to RASHID)
+     Hi, Paul. We decided to have a picnic. Want to
+     join us?
+
+Cut to RASHID at the window:
+
+          RASHID
+     Uh, yeah, sure.
+          (Pause)
+     Just a minute. I'll be down in a minute.
+
+Cut to RASHID in the upstairs room. He crouches down, puts the brush he
+has been working with on top of the open paint can, and begins wiping
+his hands with a rag when, suddenly, the noise of another car is heard
+down below. RASHID stands up to have a look. Cut to:
+
+From RASHID'S POV: We see the red Coupe de Ville limping into the
+station with a flat tire. The car stops. PAUL and AUGGIE climb out.
+Cut to:
+
+Close-up of RASHID, looking out the window. His face registers panic,
+alarm.
+
+          RASHID
+     Jesus Christ!
+
+He begins running toward the door, hoping to get downstairs to PAUL and
+AUGGIE before CYRUS can reach them. In his haste, he kicks over the
+open paint bucket.
+
+The scene ends with a close-up of white paint oozing over the bare wood
+floor.
+
+66.     EXT: DAY. IN FRONT OF COLE'S GARAGE
+
+Shot of CYRUS, DOREEN, and JUNIOR by the picnic table, unpacking their
+lunch. The camera pans from CYRUS -- beginning to walk toward PAUL and
+AUGGIE -- to PAUL and AUGGIE, who are standing by the gas pumps. We see
+PAUL and AUGGIE looking in the direction of the office, smiles
+beginning to form on their faces. At the precise instant CYRUS gets to
+them, RASHID enters the frame, panting hard from his dash down the
+stairs.
+
+          PAUL
+          (To RASHID)
+     Hi, kid.
+
+          RASHID
+          (Looking at PAUL'S wounds and
+           bandages. He is shocked)
+     Wow. They sure did a job on you.
+
+          PAUL
+     Research. I worked the scene right into my
+     story.
+          (Pause)
+     That makes the medical bills one hundred
+     percent tax deductible.
+
+          AUGGIE
+          (Under his breath)
+     Try selling that one to the IRS.
+
+          CYRUS
+          (Watching the exchange with a
+           confused look on his face. To RASHID)
+     You know these men?
+          (Gesturing to the flat tire)
+     I thought we had some customers.
+
+          AUGGIE
+     Yeah, he knows us. But you've also got some
+     customers.
+          (Wheels around and kicks
+           the Coupe de Ville)
+     Fucking Tommy. Leave it to him to drive around
+     with bald tires.
+
+          PAUL
+     We came here to deliver some clean laundry.
+
+          RASHID
+          (To CYRUS)
+     It's all right. I really do know them.
+
+          CYRUS
+          (Still confused, but
+           trying to be friendly)
+     I'm the owner here. Cyrus Cole.
+          (Extends his right hand to AUGGIE)
+
+          AUGGIE
+          (Shaking CYRUS'S hand)
+     Augustus Wren.
+
+CYRUS extends his right hand to PAUL.
+
+          PAUL
+          (Shaking CYRUS'S hand)
+     Paul Benjamin.
+
+Cut to close-up of RASHID'S face. The sky has just fallen on top of
+him.
+
+          CYRUS
+          (More confused than ever.
+           Turning to RASHID)
+     That's funny. His name is the same as yours.
+
+          RASHID
+          (In a panic)
+     Well, you and Junior have the same name, too,
+     don't you?
+
+          CYRUS
+     Yeah, but he's my son. Nothing strange about
+     that. He's my own flesh and blood. But here
+     you got the same name as this man here, and
+     you're not even the same color.
+
+          RASHID
+          (Improvising)
+     That's how we met. We're members of the
+     International Same Name Club. Believe it or
+     not, there are 846 Paul Benjamins in America.
+     But only two in the New York metropolitan area.
+     That's how Paul and I got to be such good
+     friends. We're the only ones who show up at
+     the meetings.
+
+          AUGGIE
+          (Disgusted)
+     You're full of crap, kid. Why don't you just
+     come clean and tell the man who you are?
+
+By now, drawn by curiosity, DOREEN has come over to where the four men
+are standing. She is carrying JUNIOR in her arms.
+
+          CYRUS
+          (Turning to PAUL)
+     What the hell's going on, mister?
+
+          PAUL
+          (Shrugs, gestures to RASHID)
+     You better ask him.
+
+          AUGGIE
+     Yeah, Rashid baby, spill it.
+
+          DOREEN
+          (In a loud voice)
+     Rashid?
+
+          PAUL
+          (To DOREEN)
+     Sometimes. It's what you'd call a nom de
+     guerre.
+
+          CYRUS
+          (More and more confused)
+     What the hell are we talking about?
+
+          AUGGIE
+          (To RASHID)
+     Come on. Tell him your real name. The name on
+     your birth certificate.
+
+Close-up of RASHID'S face. His lower lip is trembling. Tears are
+beginning to form in his eyes.
+
+          RASHID
+          (Almost inaudibly)
+     Thomas.
+
+          CYRUS
+     Paul. Rashid. Thomas. Which one is it?
+
+          RASHID
+     Thomas.
+
+           AUGGIE
+          (Impatient)
+     Come on, come on, you yellow belly. The whole
+     thing. First name and last name.
+
+          RASHID
+          (Trying to stall. Tears begin
+           to slide down his cheeks)
+     What difference does it make?
+
+          PAUL
+     If it doesn't make any difference, why not just
+     say it?
+
+          RASHID
+          (To PAUL, his voice breaking)
+     I was going to tell him ... but in my own time.
+     In my own time... .
+
+          AUGGIE
+     No time like the present, man.
+
+          CYRUS
+          (To RASHID)
+     Well?
+
+          RASHID
+          (Blinking back the tears.
+           Looking at CYRUS)
+     Thomas Cole. My name is Thomas Jefferson Cole.
+
+          CYRUS
+          (thunderstruck)
+     Are you making fun of me? I won't be mocked. Do
+     you hear me? I won't let no punk kid stand
+     there and mock me!
+
+          DOREEN
+          (Upset)
+     Cyrus!
+
+          JUNIOR
+          (Reaching out to CYRUS)
+     Dada.
+
+          RASHID
+          (Standing his ground)
+     Like it or not, Cyrus, that's my name. Cole.
+     Just like yours.
+
+          PAUL
+          (To CYRUS)
+     Now ask him who his mother was.
+
+          CYRUS
+          (Beside himself)
+     I don't like this. I don't like it one bit.
+
+          RASHID
+     Louisa Vail. Remember her, Cyrus?
+
+          CYRUS
+     You shut your mouth! You shut your mouth now!
+
+Unable to control his rage, CYRUS hauls off and slugs RASHID in the
+face. RASHID falls to the ground.
+
+          AUGGIE
+          (Alarmed)
+     Hey, cut it out!
+
+AUGGIE takes a wild swing and clips CYRUS in the mouth. DOREEN, seeing
+her husband attacked, gives AUGGIE a quick kick in the shins. AUGGIE
+lets out a yell and starts hopping up and down in pain.
+
+          DOREEN
+          (To AUGGIE)
+     Damn you. There'll be none of that on my watch,
+     you dumpy bag of shit.
+
+DOREEN puts down JUNIOR. The little boy immediately runs over to PAUL
+and whacks him on his bad arm. PAUL howls in pain and drops to the
+ground. The whole scene is quickly degenerating into chaos.
+
+In the meantime, RASHID has climbed back to his feet. He lines up
+CYRUS, rushes toward him, and tackles him to the ground. The two of
+them roll around on the macadam, fighting with all their strength.
+After a moment, it looks as though CYRUS is getting the better of the
+struggle. AUGGIE tries to pull them apart, but to no avail.
+
+          DOREEN (cont'd)
+          (Pounding CYRUS on the
+           back with her fists)
+     Stop it! Stop it! You'll kill him, Cyrus!
+
+DOREEN'S shrieking voice brings the fight to a momentary halt. CYRUS
+rolls off RASHID and stands up. RASHID stands up as well. But the
+hatred between them has not subsided. CYRUS raises his hook.
+
+          DOREEN (cont'd)
+          (Screaming)
+     He's your son, goddammit! He's your son! Do you
+     want to kill your son?
+
+Suddenly: CYRUS stops. He lowers his arm and buries his face in his
+right hand. A moment later, he breaks down and weeps. His sobbing makes
+a terrible sound: pure, animal misery. He staggers around, then falls
+to his knees, unable to stop the tears.
+
+Cut to RASHID. He stands there without moving, watching CYRUS. He drops
+his arms to his sides, unclenches his fists. Tears are pouring down his
+cheeks, he is breathing hard. Close-up of his face.
+
+Fade out.
+
+67.     EXT: DAY. THE PICNIC TABLE OUTSIDE COLE'S GARAGE
+
+Some time later.
+
+Long shot. We see everyone from the previous scene sitting at the
+picnic table eating lunch: fried chicken, lemonade, potato chips, etc.
+The image has the effect of a still life.
+
+DOREEN is sitting next to CYRUS. RASHID is holding JUNIOR in his arms,
+gently rocking him as the child drinks milk from a bottle with his eyes
+closed. AUGGIE and PAUL are sitting next to each other, eating chicken
+and listening to DOREEN (who is the only one who has the energy to
+talk). CYRUS looks sullen, defeated. Every once in a while, he steals a
+glance at RASHID. RASHID, however, pretends to ignore him, keeping his
+eyes fixed on the sleeping JUNIOR.
+
+At first we hear nothing. Then the camera moves in for a closer shot
+and we can begin to make out what DOREEN is saying. As she speaks, we
+see Paul reach into his pocket and take out a tin of his little cigars.
+He leans forward and offers one to CYRUS, but CYRUS reaches into his
+own pocket and offers PAUL a big cigar. Paul accepts and lights up.
+CYRUS then lights up one of his own.
+
+          DOREEN
+     ... It might not have been the smartest
+     investment, but it didn't cost much, and if
+     Cyrus can make a go of it, we'll be able to
+     take care of our needs. The man knows his way
+     around cars, I'll tell you that, but the
+     problem is this road is too far off the beaten
+     track. Ever since they put in that mall, the
+     traffic hasn't been too heavy around here. But
+     you take the good with the bad, right? You do
+     your best and hope that things work out...
+
+Music begins to play. Cut to:
+
+68.      BLACK SCREEN
+
+The music continues. After a few moments, the following words appear on
+the screen: "THREE MONTHS LATER."
+
+69.     EXT: DAY. ELEVATED SUBWAY, BROOKLYN
+
+The music continues to play. We see an elevated subway train snaking
+along the tracks in the dim November light.
+
+70.      INT: DAY. THE BROOKLYN CIGAR CO.
+
+AUGGIE is behind the counter, wearing a flannel shirt. The three OTB
+MEN are there with him, as in Scene 2. JIMMY enters the store and
+places a paper bag on the counter in front of AUGGIE, then slides
+around the counter and takes a seat beside AUGGIE. JIMMY studies his
+watch. AUGGIE removes a cup of take-out coffee from the bag. He lifts
+off the cover and steam rises from the cup. In the meantime, we see and
+hear the OTB MEN talking.
+
+          TOMMY
+     Of course there's gonna be a war. You think
+     they'd send five hundred thousand troops over
+     there just to lie in the sun? I mean, there's
+     plenty of beach, but not a hell of a lot of
+     water. Half a million soldiers. It ain't no
+     seaside holiday, you can bet on that.
+
+          JERRY
+     I don't know, Tommy. You think anyone gives a
+     rat's ass about Kuwait? I read something about
+     the head sheik over there. He marries a
+     different virgin every Friday and then divorces
+     her on Monday. You think we want to have our
+     kids dying for a guy like that?
+
+          DENNIS
+     That's one way of upholding American values,
+     eh, Tommy?
+
+          TOMMY
+     Laugh all you want. I'm telling you there's
+     gonna be a war. With things in Russia falling
+     apart, those slobs in the Pentagon'll be out of
+     work unless they find a new enemy. They got
+     this Saddam character now, and they're going to
+     hit him with all they've got. Mark my words.
+
+PAUL enters the store wearing a scarf and leather jacket. The OTB MEN
+stop talking and study him as he approaches the counter.
+
+          AUGGIE
+          (To PAUL)
+     Hey, man, how's it going?
+
+          PAUL
+     Hi, Auggie.
+
+Without waiting for PAUL to ask, AUGGIE turns around, pulls out two
+tins of Schimmelpennincks from the cigar cabinet, and places them on
+the counter.
+
+          AUGGIE
+     Two, right?
+
+          PAUL
+     Uh, better make it one.
+
+          AUGGIE
+     You usually get two.
+
+          PAUL
+     Yeah, I know, but I'm trying to cut down.
+          (Pause)
+     Somebody's worried about my health.
+
+          AUGGIE
+          (Twitching his eyebrows playfully)
+     Ah-hah.
+
+PAUL shrugs with embarrassment, then slowly breaks into a warm smile.
+
+          AUGGIE (cont'd)
+     And how's the work going these days, maestro?
+
+          PAUL
+          (Still grinning. Absentmindedly)
+     Fine.
+          (Pause. Pulling himself together)
+     Or it was until a couple of days ago. A guy
+     from The New York Times called and asked me
+     to write a Christmas story. They want to
+     publish it on Christmas Day.
+
+          AUGGIE
+     That's a feather in your cap, man. The paper
+     of record.
+
+          PAUL
+     Yeah, great. The problem is, I have four days
+     to come up with something, and I don't have a
+     single idea.
+          (Pause)
+     You know anything about Christmas stories?
+
+          AUGGIE
+          (Blustering)
+     Christmas stories? Sure, I know a ton of 'em.
+
+          PAUL
+     Anything good?
+
+                AUGGIE
+     Good? Of course. Are you kidding?
+          (Pause)
+     I'll tell you what. Buy me lunch, my friend,
+     and I'll tell you the best Christmas story you
+     ever heard. How's that? And I guarantee every
+     word of it is true.
+
+          PAUL
+          (Smiling)
+     It doesn't have to be true. It just has to be
+     good.
+
+          AUGGIE
+          (Turning to JIMMY ROSE)
+     Take over the register while I'm gone, okay,
+     Jimmy?
+          (Begins to extricate himself
+           from behind the counter)
+
+          JIMMY ROSE
+     You want me to do it, Auggie? You sure you want
+     me to do it?
+
+          AUGGIE
+     Sure I'm sure. Just remember what I taught you.
+     And don't let any of these kibitzers cause
+     you trouble.
+          (Gestures to OTB MEN)
+     You got a problem, you come and see me. I'll
+     be down the block at Jack's.
+          (To PAUL)
+     Jack's okay?
+
+          PAUL
+     Jack's is fine.
+
+PAUL and AUGGIE leave the store together.
+
+71.     INT: DAY. JACK'S RESTAURANT
+
+A cramped and boisterous kosher delicatessen with sports photographs on
+the walls: old Brooklyn Dodger teams, the 1969 Mets, a portrait of
+Jackie Robinson. PAUL and AUGGIE are sitting at a table in the back,
+studying the menus.
+
+          PAUL
+          (Closing menu)
+     I have to pee.  If the waiter comes, order me
+     a corned beef on rye and a ginger ale, okay?
+
+          AUGGIE
+     You got it.
+
+PAUL stands up and leaves to go to the men's room. Alone at the table,
+AUGGIE glances down at the empty chair next to him and sees a copy of
+the New York Post. The paper is open to an article with a headline that
+reads: "SHOOTOUT IN BROOKLYN." AUGGIE bends over to inspect the article
+more closely. Close-up of the article. We see photographs of CHARLES
+CLEMM (the CREEPER) and ROBERT GOODWIN and their names in the captions.
+A secondary headline reads: "ROBBERS KILLED IN JEWEL HEIST." In the
+meantime, as AUGGIE continues to study the article, the WAITER arrives
+to take his order. He is a round, balding, middle-aged man with a weary
+expression on his face.
+
+          WAITER (OFF)
+     What'll it be, Auggie?
+
+          AUGGIE
+          (Looking up)
+     Uh...
+          (Pointing to PAUL'S empty place)
+     My friend over here would like a corned beef on
+     rye and a ginger ale.
+
+Shot of WAITER holding pencil and order pad.
+
+          WAITER
+     And what about for you?
+
+          AUGGIE
+          (Reading the paper again. Suddenly
+           remembers the WAITER is there)
+     Huh?
+
+          WAITER
+     What about for you?
+
+          AUGGIE
+     For me?
+          (Pause)
+     I'll have the same thing.
+          (Looks down at the article again)
+
+          WAITER
+     Do me a favor, will you?
+
+          AUGGIE
+          (Glancing up again)
+     What's that, Sol?
+
+          WAITER
+     Next time, when you want two corned beef
+     sandwiches, say, "Two corned beef sandwiches."
+     When you want two ginger ales, say, "Two
+     ginger ales."
+
+          AUGGIE
+     What's the difference?
+
+          WAITER
+     It's simpler, that's what. It makes things go
+     faster.
+
+          AUGGIE
+          (Mystified. Humoring the WAITER)
+     Uh, sure, Sol. Anything you say. Instead of
+     saying, "One corned beef sandwich," and then,
+     "Another corned beef sandwich," I'll say, "Two
+     corned beef sandwiches."
+
+          WAITER
+          (Deadpan)
+     Thanks. I knew you'd understand.
+
+The WAITER leaves. AUGGIE looks down at the article again. PAUL returns
+and sits down in his chair across from AUGGIE.
+
+          PAUL
+          (Settling in)
+     So. Are we ready?
+
+          AUGGIE
+     Ready. Any time you are.
+
+          PAUL
+     I'm all ears.
+
+          AUGGIE
+     Okay.
+          (Pause. Thinks)
+     You remember how you once asked me how I
+     started taking pictures? Well, this is the
+     story of how I got my first camera. As a matter
+     of fact, it's the only camera I've ever had.
+     Are you following me so far?
+
+          PAUL
+     Every word.
+
+          AUGGIE
+          (Close-up of AUGGIE'S face)
+     Okay.
+          (Pause)
+     So this is the story of how it happened.
+          (Pause)
+     Okay.
+          (Pause)
+     It was the summer of 'seventy-six, back when I
+     first started working for Vinnie. The summer of
+     the bicentennial.
+          (Pause)
+     A kid came in one morning and started stealing
+     things from the store. He's standing by the
+     rack of paperbacks near the front window
+     stuffing skin magazines under his shirt. It
+     was crowded around the counter just then, so I
+     didn't see him at first....
+
+AUGGIE'S face dissolves into PAUL'S. Black-and-white footage begins: we
+see AUGGIE acting out the events he describes to PAUL. This scene
+exactly duplicates the events shown earlier in Scenes 2 and 3 -- with
+one difference. The thief is now ROGER GOODWIN, the same person who
+beat up PAUL in Scene 54, the same person whose picture AUGGIE has just
+noticed in the newspaper. The events unfold in silence, accompanied by
+AUGGIE'S voice-over narration.
+
+          AUGGIE (VOICE-OVER)
+     But once I noticed what he was up to, I started
+     to shout. He took off like a jackrabbit, and by
+     the time I managed to get out from behind the
+     counter, he was already tearing down Seventh
+     Avenue. I chased after him for about half a
+     block, and then I gave up. He'd dropped
+     something along the way, and since I didn't
+     feel like running anymore, I bent down to see
+     what it was.
+
+We see AUGGIE chasing the kid, giving up, and bending down for the
+wallet. He starts walking back to the store.
+
+          AUGGIE (VOICE-OVER)
+     It turned out to be his wallet. There wasn't
+     any money inside, but his driver's license was
+     there, along with three or four snapshots. I
+     suppose I could have called the cops and had
+     him arrested. I had his name and address from
+     the license, but I felt kind of sorry for him.
+     He was just a measly little punk, and once I
+     looked at those pictures in his wallet, I
+     couldn't bring myself to feel very angry at
+     him....
+
+We see AUGGIE examining the pictures. Close-ups of the pictures.
+
+          AUGGIE (VOICE-OVER)
+     Roger Goodwin. That was his name. In one of the
+     pictures, I remember, he was standing next to
+     his mother. In another one, he was holding some
+     trophy he got from school and smiling like he
+     just won the Irish Sweepstakes. I just didn't
+     have the heart. A poor kid from Brooklyn
+     without much going for him, and who cared about
+     a couple of dirty magazines, anyway?
+
+Cut to Jack's Restaurant. The WAITER arrives at the table with their
+orders.
+
+          WAITER
+     Here you go, boys. Two corned beef sandwiches.
+     Two ginger ales. The fast way. The simple way.
+          (He leaves)
+
+          PAUL
+          (Putting mustard on his sandwich)
+     And?
+
+          AUGGIE
+          (Taking a sip of his drink)
+     So I held onto the wallet. Every once in a
+     while I'd get a little urge to send it back to
+     him, but I kept delaying and never did anything
+     about it.
+          (Puts mustard on his sandwich)
+     Then Christmas rolls around, and I'm stuck with
+     nothing to do. Vinnie was going to invite me
+     over, but his mother got sick, and he and his
+     wife had to go down to Florida at the last
+     minute.
+          (Takes a bite of the sandwich, chews)
+     So I'm sitting in my apartment that morning,
+     feeling a little sorry for myself, and then I
+     see Roger Goodwin's wallet lying on a shelf in
+     the kitchen. I figure what the hell, why not do
+     something nice for once, and I put on my coat
+     and go out to return the wallet... .
+
+Cut to black-and-white footage: the housing projects in Boerum Hill. We
+see AUGGIE wandering alone among the buildings, bundled up against the
+cold. At the same time, we hear:
+
+          AUGGIE (VOICE-OVER)
+     The address was over in Boerum Hill, somewhere
+     in the projects. It was freezing out that day,
+     and I remember getting lost a few times trying
+     to find the right building. Everything looks
+     the same in that place, and you keep going over
+     the same ground thinking you're somewhere else.
+     Anyway, I finally get to the apartment I'm
+     looking for and ring the bell...
+
+Shot of AUGGIE walking down a corridor in the housing projects;
+graffiti on the cinder-block walls. He stops in front of a door and
+pushes the buzzer.
+
+          AUGGIE (VOICE-OVER)
+     Nothing happens. I assume no one's there, but I
+     try again just to make sure. I wait a little
+     longer, and just when I'm about to give up, I
+     hear someone shuffling to the door. An old
+     woman's voice asks, "Who's there?" and I say
+     I'm looking for Roger Goodwin. "Is that you,
+     Roger?" the old woman says, and then she undoes
+     about fifteen locks and opens the door....
+
+Shot of a very old black woman, GRANNY ETHEL, opening the door. A
+rapturous, expectant smile is on her face. Even though the scene
+unfolds in silence, we see AUGGIE and GRANNY ETHEL mouthing the
+dialogue that AUGGIE repeats to PAUL.
+
+          AUGGIE (VOICE-OVER)
+     She has to be at least eighty, maybe ninety
+     years old, and the first thing I notice about
+     her is she's blind. "I knew you'd come. Roger,"
+     she says. "I knew you wouldn't forget your
+     Granny Ethel on Christmas." And then she opens
+     her arms as if she's about to hug me.
+
+We see AUGGIE hesitate for a second. As he reports the next little part
+of the story, we see him giving in, opening his arms, and hugging
+GRANNY ETHEL. The hug is then repeated in somewhat slower motion, then
+again in slow motion; then again, in very slow motion: then again in
+motion so slow that it appears as a sequence of still photographs.
+
+          AUGGIE (VOICE-OVER)
+     I don't have much time to think, you understand.
+     I had to say something real fast, and before I
+     knew what was happening, I could hear the words
+     coming out of my mouth. "That's right, Granny
+     Ethel," I said. "I came back to see you on
+     Christmas." Don't ask me why I did it. I don't
+     have any idea. It just came out that way, and
+     suddenly this old woman's hugging me there in
+     front of the door, and I'm hugging her back. It
+     was like a game we both decided to play --
+     without having to discuss the rules. I mean,
+     that woman knew I wasn't her grandson. She was
+     old and dotty, but she wasn't so far gone that
+     she couldn't tell the difference between a
+     stranger and her own flesh and blood. But it
+     made her happy to pretend, and since I had
+     nothing better to do anyway, I was happy to go
+     along with her....
+
+AUGGIE and GRANNY ETHEL enter the apartment and sit down in chairs in
+the living room. We see them talking, laughing. Meanwhile, we hear:
+
+          AUGGIE (VOICE-OVER)
+     So we went into the apartment and spent the day
+     together. Every time she asked me a question
+     about how I was, I would lie to her. I told her
+     I'd found a good job in a cigar store. I told
+     her I was about to get married. I told her a
+     hundred pretty stories, and she made like she
+     believed every one of them. "That's fine,
+     Roger," she would say, nodding her head and
+     smiling. "I always knew things would work out
+     for you...."
+
+The camera pans slowly through GRANNY ETHEL'S apartment, lingering
+momentarily on various objects. Among other things, we see portraits of
+Martin Luther King, Jr., John F. Kennedy, family photographs, balls of
+yarn, knitting needles. By the time this visual tour is completed, we
+see AUGGIE entering the apartment again, wearing his coat and carrying
+a large bag of groceries. As described in the simultaneous narration:
+
+          AUGGIE (VOICE-OVER)
+     After a while, I started getting hungry. There
+     didn't seem to be much food in the house, so I
+     went out to a store in the neighborhood and
+     brought back a mess of stuff. A precooked
+     chicken, vegetable soup, a bucket of potato
+     salad, all kinds of things. Ethel had a couple
+     of bottles of wine stashed in her bedroom, and
+     so between us we managed to put together a
+     fairly decent Christmas dinner....
+
+We see AUGGIE and GRANNY ETHEL at the dining-room table: eating the
+food, drinking the wine, talking.
+
+          AUGGIE (VOICE-OVER)
+     We both got a little tipsy from the wine, I
+     remember, and after the meal was over we went
+     out to sit in the living room where the chairs
+     were more comfortable...
+
+We see AUGGIE leading GRANNY ETHEL by the arm and helping her into a
+chair. Then AUGGIE leaves the living room and walks to the bathroom
+down the hall.
+
+          AUGGIE (VOICE-OVER)
+     I had to take a pee, so I excused myself and
+     went to the bathroom down the hall. That's
+     where things took another turn. It was ditsy
+     enough doing my little jig as Ethel's
+     grandson, but what I did next was positively
+     crazy, and I've never forgiven myself for
+     it....
+
+We see AUGGIE in the bathroom. As he pees, we see the boxes of cameras,
+just as he describes them.
+
+          AUGGIE (VOICE-OVER)
+     I go into the bathroom, and stacked up against
+     the wall next to the shower, I see a pile of
+     six or seven cameras. Brand-new, thirty-five
+     millimeter cameras, still in their boxes. I
+     figure this is the work of the real Roger, a
+     storage place for one of his recent hauls.
+     I've never taken a picture in my life, and I've
+     certainly never stolen anything, but the moment
+     I see those cameras sitting in the bathroom, I
+     decide I want one of them for myself. Just like
+     that. And without even stopping to think about
+     it, I tuck one of the boxes under my arm and go
+     back to the living room....
+
+We see AUGGIE return to the living room with the camera. GRANNY ETHEL
+is sleeping soundly in her chair. AUGGIE puts the camera down, clears
+the table, and washes the dishes in the kitchen.
+
+          AUGGIE (VOICE-OVER)
+     I couldn't have been gone for more than three
+     minutes, but in that time Granny Ethel had
+     fallen asleep. Too much Chianti, I suppose. I
+     went into the kitchen to wash the dishes, and
+     she slept on through the whole racket, snoring
+     like a baby. There didn't seem to be any point
+     in disturbing her, so I decided to leave. I
+     couldn't even write a note to say good-bye,
+     seeing that she was blind and all, so I just
+     left. I put her grandson's wallet on the table,
+     picked up the camera again, and walked out of
+     the apartment... .
+
+We see AUGGIE bending over the sleeping GRANNY ETHEL and deciding not
+to wake her. We see him put the wallet on the table and pick up the
+camera. We see him walking out of the apartment. Shot of the closing
+door.
+
+          AUGGIE (VOICE-OVER)
+     And that's the end of the story.
+
+Cut to PAUL'S face. PAUL and AUGGIE are sitting at the table, eating
+the last bites of their sandwiches.
+
+          PAUL
+     Did you ever go back to see her?
+
+          AUGGIE
+     Once, about three or four months later. I felt
+     so bad about stealing the camera, I hadn't
+     even used it yet. I finally made up my mind to
+     return it, but Granny Ethel wasn't there
+     anymore. Someone else had moved into the
+     apartment, and he couldn't tell me where she
+     was.
+
+          PAUL
+     She probably died.
+
+          AUGGIE
+     Yeah, probably.
+
+          PAUL
+      Which means that she spent her last Christmas
+     with you.
+
+          AUGGIE
+     I guess so. I never thought of it that way.
+
+          PAUL
+     It was a good deed, Auggie. It was a nice thing
+     you did for her.
+
+          AUGGIE
+     I lied to her, and then I stole from her. I
+     don't see how you can call that a good deed.
+
+          PAUL
+     You made her happy. And the camera was stolen
+     anyway. It's not as if the person you took it
+     from really owned it.
+
+          AUGGIE
+     Anything for art, eh, Paul?
+
+          PAUL
+     I wouldn't say that. But at least you've put
+     the camera to good use.
+
+          AUGGIE
+     And now you've got your Christmas story, don't
+     you?
+
+          PAUL
+          (Pause. Thinks)
+     Yes, I suppose I do.
+
+PAUL looks at AUGGIE. A wicked grin is spreading across AUGGIE'S face.
+The look in his eyes is so mysterious, so fraught with the glow of some
+inner delight, that PAUL begins to suspect that AUGGIE has made the
+whole thing up. He is about to ask AUGGIE if he has been putting him on
+-- but then stops, realizing that AUGGIE would never tell him. PAUL
+smiles.
+
+          PAUL (cont'd)
+     Bullshit is a real talent, Auggie. To make up a
+     good story, a person has to know how to push
+     all the right buttons.
+          (Pause)
+     I'd say you're up there among the masters.
+
+          AUGGIE
+     What do you mean?
+
+          PAUL
+     I mean, it's a good story.
+
+          AUGGIE
+     Shit. If you can't share your secrets with your
+     friends, what kind of friend are you?
+
+          PAUL
+     Exactly. Life just wouldn't be worth living,
+     would it?
+
+AUGGIE is still smiling. PAUL smiles back at him. AUGGIE lights a
+cigarette; PAUL lights a little cigar. They blow smoke into the air,
+still smiling at each other.
+
+The camera follows the smoke as it rises toward the ceiling. Close-up
+of the smoke. Hold for three, four beats.
+
+The screen goes black. Music begins to play. Final credits.
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

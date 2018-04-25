@@ -1,0 +1,183 @@
+year	1993
+imdb score	7.5
+meta score	N/A
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	prison
+keyword	texas
+keyword	escaped convict
+keyword	criminologist
+keyword	blood
+keyword	little boy
+keyword	violence
+keyword	on the run
+keyword	texas ranger
+keyword	halloween
+keyword	kidnapping
+keyword	sleeping in a car
+keyword	anti villain
+keyword	mask
+keyword	mustard
+keyword	helicopter
+keyword	inmate
+keyword	african american
+keyword	kidnapper kidnapped relationship
+keyword	cornfield
+keyword	megaphone
+keyword	police chief
+keyword	break in
+keyword	road trip
+keyword	abusive father
+keyword	blood spatter
+keyword	sniper
+keyword	fugitive
+keyword	adult child bonding
+keyword	father figure
+keyword	panhandle
+keyword	child uses gun
+keyword	diner
+keyword	steak
+keyword	jehovah's witness
+keyword	gunshot wound
+keyword	anti hero
+keyword	main character shot
+keyword	man hunt
+keyword	farmer
+keyword	corpse
+keyword	mother son relationship
+keyword	crime spree
+keyword	hamburger
+keyword	directed by co star
+keyword	feedback
+keyword	kitchen
+keyword	beating
+keyword	stolen money
+keyword	mirror
+keyword	prison escape
+keyword	car chase
+keyword	shot in the stomach
+keyword	pseudonym
+keyword	blockbuster
+keyword	underwear
+keyword	cola
+keyword	violence against a child
+keyword	main character dies
+keyword	mobile home
+keyword	child with gun
+keyword	trick or treating
+keyword	sharpshooter
+keyword	cult film
+keyword	ford
+keyword	gramophone
+keyword	1960s
+keyword	postcard
+keyword	nosebleed
+keyword	duct tape
+keyword	moral ambiguity
+keyword	shotgun
+keyword	double barreled shotgun
+keyword	gun violence
+keyword	money
+keyword	mexican standoff
+keyword	goodbye
+keyword	jail break
+keyword	car crash
+keyword	man boy relationship
+keyword	birmingham alabama
+keyword	crying
+keyword	dysfunctional family
+keyword	male bonding
+keyword	man boy love
+keyword	sexism
+keyword	fbi
+keyword	grandfather grandson relationship
+keyword	cigarette smoking
+keyword	punched in the nose
+keyword	fbi agent
+keyword	armed robbery
+keyword	duct tape over mouth
+keyword	sniper rifle
+keyword	hostage
+keyword	revolver
+keyword	cowboy hat
+keyword	tough guy
+keyword	ghost costume
+keyword	shot in the chest
+keyword	modern western
+keyword	tragic ending
+keyword	father son relationship
+keyword	villain played by lead actor
+keyword	ham radio
+keyword	misogynist
+keyword	pickle
+keyword	time machine
+keyword	pistol
+keyword	governor
+keyword	held at gunpoint
+keyword	car thief
+keyword	cleavage
+keyword	dance
+keyword	tragic villain
+keyword	shooting
+keyword	clothes theft
+keyword	child driving a car
+keyword	tough cop
+keyword	missing father
+keyword	gay slur
+keyword	death of friend
+keyword	title spoken by character
+keyword	
+cast	Kevin Costner	Robert 'Butch' Haynes
+cast	Clint Eastwood	Chief Red Garnett
+cast	Laura Dern	Sally Gerber
+cast	T.J. Lowther	Phillip 'Buzz' Perry
+cast	Keith Szarabajka	Terry Pugh
+cast	Leo Burmester	Tom Adler
+cast	Paul Hewitt	Dick Suttle
+cast	Bradley Whitford	Bobby Lee
+cast	Ray McKinnon	Bradley
+cast	Jennifer Griffin	Gladys Perry
+cast	Leslie Flowers	Naomi Perry
+cast	Belinda Flowers	Ruth Perry
+cast	Darryl Cox	Mr. Hughes
+cast	Jay Whiteaker	Billy Reeves
+cast	Taylor Suzanna McBride	Tinkerbell
+cast	Christopher Reagan Ammons	Dancing Skeleton
+cast	Mark Voges	Larry Billings
+cast	Vernon Grote	Prison Guard
+cast	James Jeter	Oldtimer
+cast	Ed Geldart	Fred Cummings
+cast	Bruce McGill	Paul Saunders
+cast	Nik Hagler	General Store Manager
+cast	Gary Moody	Local Sheriff
+cast	George Haynes	Farmer
+cast	Marietta Marich	Farmer's Wife
+cast	Rodger Boyce	Mr. Willits
+cast	Lucy Lee Flippin	Lucy
+cast	Elizabeth Ruscio	Paula
+cast	David Kroll	Newscaster
+cast	Gabriel Folse	Officer Terrance
+cast	Gil Glasgow	Officer Pete
+cast	Dennis Letts	Governor
+cast	John Hussey	Governor's Aide
+cast	Margaret Bowman	Trick 'r Treat Lady
+cast	John M. Jackson	Bob Fielder
+cast	Connie Cooper	Bob's Wife
+cast	Cameron Finley	Bob Fielder, Jr.
+cast	Katy Wottrich	Patsy Fielder
+cast	Marco Perella	Road Block Officer
+cast	Linda Hart	Eileen, Waitress
+cast	Brandon Smith	Officer Jones
+cast	George Orrison	Officer Orrison
+cast	Wayne Dehart	Mack, the Farmer
+cast	Mary Alice	Lottie, Mack's Wife
+cast	Kevin Jamal Woods	Cleveland, Mack's Grandson
+cast	Tony Frank	Arch Andrews, Farm Owner
+cast	Woody Watson	Lt. Hendricks
+cast	James W. Gavin	Helicopter Pilot
+cast	Craig Hosking	Helicopter Pilot
+cast	Jimmy Ray Pickens	Cop
+cast	David Stanford	Neighbor kid
+cast	Greg Stechman	Teen Onlooker
+cast	Libby Villari	Reporter

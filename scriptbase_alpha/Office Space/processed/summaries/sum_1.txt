@@ -1,0 +1,8 @@
+Three engineers have had enough of the daily grind working their dull, mundane jobs at Initech Corporation.
+Subjected to filling out useless forms, fighting with faulty office equipment, and their obnoxious boss Bill Lumbergh are enough to drive anyone crazy.
+There's also other odd characters like Tom Smykowski and Milton Waddams.
+When Initech announces that they're bringing in "consultants" to "clean house" (read: fire a bunch of programmers so that means a nice big bonus for the boss), Michael, Samir, and Peter scheme to reclaim their freedom with a software programming scheme that aims to take Initech for a small fortune through a virus that is designed to skim a little off the top.
+Unfortunately thanks to a typo, that virus skims a lot off.
+Realizing they don't have much time the three scramble to cover their tracks, but constantly shoot themselves in the foot.
+Can they recover and get out of their predicament safely?
+And will Milton reclaim his famous red stapler?

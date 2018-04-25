@@ -1,0 +1,238 @@
+year	2003
+imdb score	5.8
+meta score	37
+genre	Horror
+genre	Thriller
+keyword	freddy krueger
+keyword	jason voorhees
+keyword	elm street
+keyword	dream
+keyword	lake
+keyword	fear
+keyword	slasher
+keyword	nightmare
+keyword	demon
+keyword	serial killer
+keyword	fight
+keyword	cover up
+keyword	hypnocil
+keyword	weapon
+keyword	severed head
+keyword	geek
+keyword	dripping blood
+keyword	machete mutilation
+keyword	candle
+keyword	blood on camera lens
+keyword	crushed to death
+keyword	electrocution
+keyword	severed nose
+keyword	evil versus evil
+keyword	wrist slitting
+keyword	shared dream
+keyword	claw
+keyword	police station
+keyword	neck breaking
+keyword	domineering mother
+keyword	skinny dipping
+keyword	unholy resurrection
+keyword	hanging upside down
+keyword	serial child killer
+keyword	fear of water
+keyword	gore
+keyword	father daughter relationship
+keyword	severed finger
+keyword	coma
+keyword	burnt hand
+keyword	death of brother
+keyword	small town
+keyword	medication
+keyword	blood
+keyword	library
+keyword	character's point of view camera shot
+keyword	slow motion scene
+keyword	breaking the fourth wall
+keyword	winking
+keyword	eighth part
+keyword	chase
+keyword	school nurse
+keyword	crystal lake new jersey
+keyword	maniac
+keyword	murder
+keyword	dragging a dead body
+keyword	two killers
+keyword	passed out drunk
+keyword	evil man
+keyword	lucid dream
+keyword	monster versus monster
+keyword	violence
+keyword	cemetery
+keyword	sleeping
+keyword	splatter
+keyword	severed hand
+keyword	shower
+keyword	prologue
+keyword	cult film
+keyword	ohio
+keyword	stoner
+keyword	high school
+keyword	masked villain
+keyword	brutality
+keyword	person on fire
+keyword	virgin
+keyword	underwater
+keyword	2000s
+keyword	sadism
+keyword	flask
+keyword	locker
+keyword	friday the thirteenth
+keyword	child murder
+keyword	hand through chest
+keyword	lifting a female into the air
+keyword	camp counselor
+keyword	mother son relationship
+keyword	child killer
+keyword	impalement
+keyword	deputy
+keyword	lifting someone into the air
+keyword	thrown through a glass door
+keyword	fire
+keyword	necrophilia
+keyword	caterpillar
+keyword	villain
+keyword	falling from height
+keyword	corpse
+keyword	dock
+keyword	heroine
+keyword	newspaper clipping
+keyword	suicide
+keyword	burnt body
+keyword	death of boyfriend
+keyword	pistol
+keyword	goat
+keyword	head spin
+keyword	propane explosion
+keyword	eleventh part
+keyword	revenge
+keyword	rave
+keyword	pool of blood
+keyword	drowning
+keyword	deformity
+keyword	glove
+keyword	body count
+keyword	burnt face
+keyword	serial killer
+keyword	severed arm
+keyword	sequel
+keyword	arm ripped off
+keyword	vigilantism
+keyword	character repeating someone else's dialogue
+keyword	tranquilizer
+keyword	cornfield
+keyword	sheriff
+keyword	killer vs killer
+keyword	new jersey
+keyword	obituary
+keyword	high school student
+keyword	severed ear
+keyword	decapitation
+keyword	crossover
+keyword	gloves
+keyword	sliced in two
+keyword	rain
+keyword	boiler room
+keyword	reanimated corpse
+keyword	furnace
+keyword	drunkenness
+keyword	eye gouging
+keyword	machete
+keyword	double impalement
+keyword	car accident
+keyword	masked killer
+keyword	escaped mental patient
+keyword	mass murder
+keyword	product placement
+keyword	springwood ohio
+keyword	mass murderer
+keyword	party
+keyword	monster as victim
+keyword	premarital sex
+keyword	nightmare becomes reality
+keyword	psychopath
+keyword	burned alive
+keyword	forest
+keyword	demonic possession
+keyword	villain not really dead cliche
+keyword	undead
+keyword	breaking through a door
+keyword	missing person poster
+keyword	photograph
+keyword	water
+keyword	possession
+keyword	fire and water
+keyword	dismemberment
+keyword	flashback
+keyword	van
+keyword	bodily possession
+keyword	voice over narration
+keyword	broken back
+keyword	torso cut in half
+keyword	explosion
+keyword	hockey mask
+keyword	mutilated child
+keyword	summer camp
+keyword	killing spree
+keyword	psychiatric hospital
+keyword	boyfriend girlfriend relationship
+keyword	reference to the three stooges
+keyword	father son relationship
+keyword	death of father
+keyword	death of mother
+keyword	death of child
+keyword	independent film
+keyword	character name in title
+keyword	surprise ending
+cast	Robert Englund	Freddy Krueger
+cast	Ken Kirzinger	Jason Voorhees
+cast	Monica Keena	Lori Campbell
+cast	Jason Ritter	Will Rollins
+cast	Kelly Rowland	Kia Waterson
+cast	Chris Marquette	Charlie Linderman
+cast	Brendan Fletcher	Mark Davis
+cast	Katharine Isabelle	Gibb
+cast	Lochlyn Munro	Deputy Scott Stubbs
+cast	Kyle Labine	Bill Freeburg
+cast	Tom Butler	Dr. Campbell
+cast	David Kopp	Blake
+cast	Paula Shaw	Mrs. Pamela Voorhees
+cast	Jesse Hutch	Trey
+cast	Zack Ward	Bobby Davis
+cast	Garry Chalk	Sheriff Williams
+cast	Brent Chapman	Blake's Father
+cast	Spencer Stump	Young Jason Voorhees
+cast	Joëlle Antonissen	Little Girl
+cast	Alistair Abell	Officer Goodman
+cast	Robert Shaye	Principal Shaye
+cast	Chris Gauthier	Shack
+cast	Colby Johannson	Teammate
+cast	Kimberley Warnat	Beer Line Girl
+cast	Kevin Hansen	Beer Line Guy
+cast	Alex Green	Frisell
+cast	Odessa Munroe	Heather
+cast	Jamie Mayo	Dead Girl on Tree
+cast	Blake Mawson	Dead Boy on Tree
+cast	Viv Leacock	Kinsey Park
+cast	Tony Willett	Asylum Guard
+cast	Claire Riley	TV Reporter
+cast	Sharon Peters	Lori's Mother
+cast	Sarah-Anne Hepher	Skipping Girl
+cast	Kirsti Forbes	Skipping Girl
+cast	Taryn McCulloch	Skipping Girl
+cast	Eileen Pedde	School Nurse
+cast	Sean Tyler Foley	Male Counselor
+cast	Jacqueline Stewart	Female Counselor
+cast	Laura Boddington	Female Counselor
+cast	Colton Shock	Cruel Child
+cast	Spencer Doduk	Cruel Child
+cast	Anysha Berthot	Cruel Child
+cast	Oscar Gutiérrez	Jumper
+cast	Evangeline Lilly	School Student - Next to Locker

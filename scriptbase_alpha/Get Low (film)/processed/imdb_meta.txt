@@ -1,0 +1,84 @@
+year	2009
+imdb score	7.1
+meta score	77
+genre	Drama
+genre	Mystery
+keyword	funeral
+keyword	hermit
+keyword	secret
+keyword	funeral home
+keyword	party
+keyword	money
+keyword	tennessee
+keyword	raffle
+keyword	american south
+keyword	living funeral
+keyword	woods
+keyword	assistant
+keyword	hiding
+keyword	barber shop
+keyword	anger
+keyword	self imposed exile
+keyword	great depression
+keyword	rebirth
+keyword	funeral director
+keyword	dying
+keyword	fire
+keyword	death
+keyword	year 1938
+keyword	no trespassing sign
+keyword	love
+keyword	storytelling
+keyword	died in a fire
+keyword	arson
+keyword	appalachia
+keyword	haircut
+keyword	confession
+keyword	undertaker
+keyword	small town
+keyword	beard
+keyword	cabin
+keyword	forgiveness
+keyword	ex boyfriend ex girlfriend relationship
+keyword	curmudgeon
+keyword	recluse
+keyword	microphone
+keyword	old man
+keyword	disguise
+keyword	widow
+keyword	based on true story
+keyword	title spoken by character
+keyword	
+cast	Robert Duvall	Felix Bush
+cast	Sissy Spacek	Mattie Darrow
+cast	Bill Murray	Frank Quinn
+cast	Lucas Black	Buddy
+cast	Gerald McRaney	Rev. Gus Horton
+cast	Bill Cobbs	Rev. Charlie Jackson
+cast	Scott Cooper	Carl
+cast	Lori Beth Sikes	Kathryn
+cast	Linds Edwards	WKNG Announcer
+cast	Andrea Powell	Bonnie
+cast	Chandler Riggs	Tom
+cast	Danny Vinson	Grier
+cast	Blerim Destani	Gary
+cast	Tomasz Karolak	Orville
+cast	Andy Stahl	Photographer
+cast	Marc Gowan	Mr. Feldman
+cast	Arin Logan	Mary Lee Stroup
+cast	Gracie	Bush's Mule
+cast	Randy Bratton	Funeral Attendee
+cast	Frances Cobb	Funeral Party Attendee
+cast	Alex Corrado	Phil Norton
+cast	Rob Crowe	Wealthy Townsman
+cast	Jym Davis	Funeral Attendee
+cast	Calvin Gilmore	Barber
+cast	Rebecca Grant	Joan
+cast	Travis Grant	Funeral Attendee
+cast	Shawn Knowles	Funeral Attendee
+cast	Bella Marina Marcello	Funeral Scene Child
+cast	Jade Moser	Town Girl
+cast	Nick Searcy	Dinner-game guest
+cast	Catherine Thornton	Funeral Attendee
+cast	Kirsten VanWagner	Funeral Attendee
+cast	Alexis Walters	Wealthy Town Girl

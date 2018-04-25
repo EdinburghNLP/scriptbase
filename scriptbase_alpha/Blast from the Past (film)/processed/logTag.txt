@@ -1,0 +1,4 @@
+logline	A romantic comedy about a naive man who comes out into the world after being in a nuclear fallout shelter for 35 years.
+tagline	She was a woman of the world. He had never been around the block.
+tagline	She'd never met anyone like him. He's never met anyone... Period.
+tagline	After 35 years in a bomb shelter, Adam Webber is finally going outside to play.

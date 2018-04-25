@@ -1,0 +1,224 @@
+year	2012
+imdb score	7.1
+meta score	62
+genre	Comedy
+genre	Fantasy
+keyword	teddy bear
+keyword	friend
+keyword	love
+keyword	girlfriend
+keyword	party
+keyword	boss
+keyword	car
+keyword	relationship
+keyword	reference to taylor lautner
+keyword	written by director
+keyword	wedding
+keyword	prostitute
+keyword	gay
+keyword	one word title
+keyword	gay friend
+keyword	beer
+keyword	slapstick
+keyword	office
+keyword	reference to susan boyle
+keyword	homophobia
+keyword	smoking
+keyword	fenway park
+keyword	cocaine
+keyword	obscene gesture
+keyword	bromance
+keyword	playstation 3
+keyword	reference to sinead o'connor
+keyword	tv
+keyword	marijuana
+keyword	disco
+keyword	knocking a hole in a wall
+keyword	karaoke
+keyword	wishes come true
+keyword	stalking
+keyword	bare butt
+keyword	reconciliation
+keyword	what happened to epilogue
+keyword	narration
+keyword	flash gordon
+keyword	church
+keyword	80s
+keyword	reference to justin bieber
+keyword	reference to joan crawford
+keyword	thunder
+keyword	villain arrested
+keyword	reference to flash gordon
+keyword	hdtv
+keyword	reference to james franco
+keyword	shooting star
+keyword	double date
+keyword	stalker
+keyword	grocery store
+keyword	fat boy
+keyword	christmas present
+keyword	gay kiss
+keyword	wisecrack humor
+keyword	year 2012
+keyword	wild party
+keyword	crude humor
+keyword	reference to channing tatum
+keyword	hotel
+keyword	boston massachusetts
+keyword	rental car agency
+keyword	dance
+keyword	concert
+keyword	drug humor
+keyword	anniversary
+keyword	fight
+keyword	bong
+keyword	duck
+keyword	kidnapping
+keyword	city
+keyword	marriage proposal
+keyword	car chase
+keyword	year 1985
+keyword	singer
+keyword	cosmic zoom
+keyword	break up
+keyword	massachusetts
+keyword	toy comes to life
+keyword	movie
+keyword	baseball stadium
+keyword	coming of age
+keyword	gay couple
+keyword	homosexuality
+keyword	market
+keyword	cartoon on tv
+keyword	reference to katy perry
+keyword	hide and seek
+keyword	homosexual
+keyword	character name in title
+keyword	title spoken by character
+cast	Mark Wahlberg	John Bennett
+cast	Mila Kunis	Lori Collins
+cast	Seth MacFarlane	Ted
+cast	Joel McHale	Rex
+cast	Giovanni Ribisi	Donny
+cast	Patrick Warburton	Guy
+cast	Matt Walsh	Thomas
+cast	Jessica Barth	Tami-Lynn
+cast	Aedin Mincks	Robert
+cast	Bill Smitrovich	Frank
+cast	Patrick Stewart	Narrator
+cast	Norah Jones	Norah Jones
+cast	Sam J. Jones	Sam Jones
+cast	Tom Skerritt	Tom Skerritt
+cast	Bretton Manley	Young John
+cast	Ralph Garman	John's Dad
+cast	Alex Borstein	John's Mom
+cast	John Viener	Alix
+cast	Laura Vandervoort	Tanya
+cast	Robert Wu	Asian Man 'Ming'
+cast	Ginger Gonzaga	Gina
+cast	Jessica Stroup	Tracy
+cast	Melissa Ordway	Michelle
+cast	Max Harris	Greenbaum Kid
+cast	Zane Cowans	Kid #1 / Young Ted's Voice
+cast	T.J. Hourigan	Kid #2
+cast	Owen Clarke	Kid #3
+cast	Kristina Ellery	Heavenly
+cast	Katelyn Lorren	Cherene
+cast	Chanty Sok	Angelique
+cast	Sarah Fischer	Sauvignon Blanc
+cast	Cassie Djerf	Waitress
+cast	Joe Sirani	Guy at Table #1
+cast	Pat Shea	Guy at Table #2
+cast	Paul Campbell	Guy in Line
+cast	Josh Duvendeck	Guy #1
+cast	Chris Cox	Guy #2
+cast	Henry Penzi	Partygoer
+cast	Tania Cabrera	Girl at Party
+cast	Colton Shires	Teenage John
+cast	Viera Andrea Moya	Plymouth PR Worker
+cast	Heajee Kim	Club Girl
+cast	Lydia Hannibal	Ellen
+cast	Shawn Thornton	Crazy Guy
+cast	Eric Weinstein	Stagehand
+cast	Danny Smith	Waiter
+cast	Mike Nikitas	Newscaster
+cast	Robin Hamilton	Female Newscaster
+cast	Mike Henry	Southern Newscaster
+cast	Johnny Lee Davenport	Husband
+cast	Christina Everett	Wife
+cast	Kilo Alexander	Rock Star Party Guest
+cast	Jenny Allford	Party Chick
+cast	Christian Alvarado	Norah Jones Concert Audience
+cast	Emmalyn Anderson	Concert Attendee
+cast	Alecia Batson	Girl Feeding Waterfowl
+cast	Marshall Berenson	Business Executive
+cast	Ronald Boone	Liberty Mechanic
+cast	Paul Bronk	Karaoke Lounge Patron
+cast	Jeff T. Buco	Pedestrian
+cast	Johnny Carson	Himself
+cast	Jeffrey Corazzini	Photographer
+cast	Madison Dae Clarion	Flower Girl
+cast	Ted Danson	Ted Danson
+cast	Richard DeAgazio	Restaurant Patron
+cast	Devon Diep	Karaoke Singer #4
+cast	Aaron Dorsey	Extra
+cast	Alexandra East	Hot Girl
+cast	Jaquelyn Fabian	Fraternity Girl
+cast	Shawn Fogarty	PR Firm Employee
+cast	Evan Fonseca	Man at Concert
+cast	John Franchi	Tourist / Pedestrian
+cast	Alexander 'Alex' Garde	Boy at Aquarium
+cast	Sophia Gilberto	Concert Attendee
+cast	Enku Gubaie	Party Guest
+cast	Danny Hoch	Donny's Dad
+cast	Rosemary Howard	Pedestrian at Irish Pub
+cast	Frankie Imbergamo	Tourist
+cast	Mike Jablon	Nightclub Manager
+cast	Olivia Jordan	Party Guest
+cast	Lynn Julian	Concert Attendee
+cast	Kahdiak	Club Patron
+cast	Tom Kenny	SpongeBob SquarePants
+cast	J Parker Kent	Grocery Store Patron
+cast	Seamus Knight	Extra
+cast	Ren Knopf	Store Shopper
+cast	Mark Kubr	Party Goer
+cast	Kathy Lashay Berenson	PR Employee
+cast	Joshua Lassman	Ted's Party Guest
+cast	Rob Lavin	Concert Attendee
+cast	Jason Leal	Concert Attendee
+cast	James L. Leite	Roadie
+cast	Daniel Lowney	Irishman Arguing Outside Pub
+cast	Paul Lussier	Concert Attendee
+cast	Phyllis Lynn	Business Woman
+cast	Tom Mariano	Wedding Guest
+cast	Rob Marin	On Stage Security - Boston Hatch Shell
+cast	Jeff Martineau	Wedding Guest
+cast	Ed McMahon	Himself
+cast	Sara Murphy	Wedding Guest
+cast	Ken Murray	Party Goer
+cast	Allan Oliveira	Party Guest
+cast	Ted Oyama	Japanese Newscaster
+cast	Richard Pacheco	Man in the Common
+cast	Chris Palermo	Wedding Guest
+cast	Joseph Paolo	Concert Patron
+cast	Joshua Paule	Airport Patron
+cast	Laura Pizzuti	Party Guest / Concert Guest
+cast	David Pulson	Roadie
+cast	Stacey Queripel	Karaoke Singer #2
+cast	Donna Glee Reim	Wedding Patron
+cast	Ryan Reynolds	Jared
+cast	Mindy Robinson	Hot Chick
+cast	Ray Romano	Himself
+cast	Kayla Ruhl	Party Goer
+cast	Megan Sacco	Concert Attendee
+cast	Nicole Signore	Girl at the Bar
+cast	Matthew Spinale	Nightclub Patron
+cast	Stream	Club Dancer 2
+cast	Tara Strong	Bellybutton
+cast	David Struffolino	Homeless Man
+cast	Shannon Elaine Sweeney	Extra
+cast	John Talalas	Dad at Christmas
+cast	Ally Tully	Cute Girl Groped by Ted
+cast	Kevin Vila	Grocery Walker
+cast	Jamie Christopher White	Club Patron
+cast	Luke Young	Rock Concert Attendee

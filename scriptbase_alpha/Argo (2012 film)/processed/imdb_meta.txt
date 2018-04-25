@@ -1,0 +1,392 @@
+year	2012
+imdb score	7.9
+meta score	86
+genre	Biography
+genre	Drama
+genre	History
+genre	Thriller
+keyword	iran
+keyword	canadian
+keyword	iranian
+keyword	hostage
+keyword	cia
+keyword	ambassador
+keyword	u.s. embassy
+keyword	revolution
+keyword	film crew
+keyword	escape
+keyword	american embassy
+keyword	cia agent
+keyword	exfiltration
+keyword	islamic revolution
+keyword	1980s
+keyword	government
+keyword	white house
+keyword	cover story
+keyword	canadian embassy
+keyword	airport
+keyword	passport
+keyword	film industry
+keyword	year 1979
+keyword	iran hostage crisis
+keyword	airline ticket
+keyword	lens flare
+keyword	subtitled scene
+keyword	sweatshop
+keyword	film script
+keyword	istanbul turkey
+keyword	reassembling a shredded document
+keyword	title appears in writing
+keyword	finger gun
+keyword	burning an american flag
+keyword	break in
+keyword	los angeles california
+keyword	langley virginia
+keyword	revisionist history
+keyword	directed by star
+keyword	hiding place under floor
+keyword	shredding document
+keyword	paper shredder
+keyword	firing squad
+keyword	intelligence agent
+keyword	shot in the chest
+keyword	f word
+keyword	444 days
+keyword	year 1981
+keyword	air traffic control
+keyword	airplane
+keyword	perilous escape
+keyword	movie set
+keyword	secret agent
+keyword	marketplace
+keyword	news footage
+keyword	1970s
+keyword	film within a film
+keyword	year 2001
+keyword	archival footage
+keyword	car fire
+keyword	execution
+keyword	hiding under floorboards
+keyword	tehran iran
+keyword	husband wife relationship
+keyword	movie poster
+keyword	teletype
+keyword	american abroad
+keyword	shredded document
+keyword	movie script
+keyword	fake film director
+keyword	protest
+keyword	canadian flag lapel pin
+keyword	variety the newspaper
+keyword	year 1980
+keyword	burning documents
+keyword	fake movie deal
+keyword	diplomat
+keyword	turkey the country
+keyword	islamic fundamentalism
+keyword	incinerator
+keyword	shot to death
+keyword	day 87
+keyword	carl marx quotation
+keyword	soviet invasion of afghanistan
+keyword	location scout
+keyword	reference to led zeppelin
+keyword	cover identity
+keyword	secret mission
+keyword	reference to mohammad reza shah pahlavi
+keyword	bare chested male
+keyword	rescue mission
+keyword	british airways
+keyword	what happened to epilogue
+keyword	name in title
+keyword	washington d.c.
+keyword	wedding ring
+keyword	hollywood sign
+keyword	climbing a fence
+keyword	walkie talkie
+keyword	animated prologue
+keyword	film producer
+keyword	bolt cutter
+keyword	visa
+keyword	extraction
+keyword	fake passport
+keyword	assumed identity
+keyword	film studio
+keyword	riot
+keyword	bag over head
+keyword	istanbul turkey
+keyword	flash forward
+keyword	swiss air
+keyword	archival photograph
+keyword	hanged man
+keyword	title appears in text
+keyword	hollywood california
+keyword	awakened by a phone
+keyword	savak
+keyword	ends with historical notes
+keyword	hiding place
+keyword	fictional science fiction film
+keyword	child labor
+keyword	kentucky fried chicken
+keyword	american canadian relations
+keyword	corpse hanging by the neck in public
+keyword	burbank california
+keyword	false identity
+keyword	reference to warren beatty
+keyword	canadian accent
+keyword	driving through a crowd
+keyword	crane
+keyword	film set
+keyword	reference bani sadr
+keyword	prologue
+keyword	polaroid camera
+keyword	deception
+keyword	parrot
+keyword	bazaar
+keyword	storyboard
+keyword	traffic jam
+keyword	narrow escape
+keyword	bilingualism
+keyword	vw bus
+keyword	boeing 747
+keyword	character repeating someone else's dialogue
+keyword	one word title
+keyword	tear gas
+keyword	polaroid
+keyword	reference to ayatollah kohmeni
+keyword	press conference
+keyword	mock execution
+keyword	audio begins before video
+keyword	angry mob
+keyword	blindfolded
+keyword	intelligence star
+keyword	script reading
+keyword	gas mask
+keyword	father son relationship
+keyword	champagne
+keyword	1953 iranian coup d'état
+keyword	iranian revolution
+keyword	based on true story
+keyword	title spoken by character
+keyword	actor shares first name with character
+cast	Ben Affleck	Tony Mendez
+cast	Bryan Cranston	Jack O'Donnell
+cast	Alan Arkin	Lester Siegel
+cast	John Goodman	John Chambers
+cast	Victor Garber	Ken Taylor
+cast	Tate Donovan	Bob Anders
+cast	Clea DuVall	Cora Lijek
+cast	Scoot McNairy	Joe Stafford
+cast	Rory Cochrane	Lee Schatz
+cast	Christopher Denham	Mark Lijek
+cast	Kerry Bishé	Kathy Stafford
+cast	Kyle Chandler	Hamilton Jordan
+cast	Chris Messina	Malinov
+cast	Zeljko Ivanek	Robert Pender
+cast	Titus Welliver	Bates
+cast	Keith Szarabajka	Adam Engell
+cast	Bob Gunton	Cyrus Vance
+cast	Richard Kind	Max Klein
+cast	Richard Dillane	OSS Officer Nicholls
+cast	Omid Abtahi	Reza Borhani
+cast	Page Leong	Pat Taylor
+cast	Farshad Farahat	Azizi Checkpoint #3
+cast	Sheila Vand	Sahar
+cast	Karina Logue	Elizabeth Ann Swift
+cast	Ryan Ahern	Sgt. Sickmann
+cast	Bill Tangradi	Alan B. Golacinski
+cast	Jamie McShane	William J. Daugherty
+cast	Matthew Glave	Col. Charles W. Scott
+cast	Roberto Garcia	Sgt. William Gallegos
+cast	Christopher Stanley	Thomas L. Ahern, Jr.
+cast	Jon Woodward Kirby	Fred Kupke
+cast	Alborz Basiratmand	Student with Poster
+cast	Ruty Rutenberg	Marine #1
+cast	Michael Woolston	Marine #2
+cast	Sharareh Sedghi	Lady with Radio
+cast	Bobby Zegar	Tear Gas Student
+cast	Victor McCay	Malick
+cast	Matt Nolan	Peter Genco
+cast	J.R. Cacia	Brice
+cast	Bill Kalmenson	Hal Saunders
+cast	Rob Brownstein	Landon Butler
+cast	David Sullivan	Jon Titterton
+cast	Jean Carol	Jordan's Secretary
+cast	Michael Cassidy	Jordan's Analyst
+cast	John Boyd	Lamont
+cast	Yuri Sardarov	Rossi
+cast	Nikka Far	Tehran Mary
+cast	Aidan Sussman	Ian Mendez
+cast	Barry Livingston	David Marmor
+cast	Ali Saam	Ali Khalkhali
+cast	Araz Vahid Ebrahim Nia	Moradi
+cast	Scott Anthony Leet	The Minotaur
+cast	Ashley Wood	Space Lab Nurse
+cast	Rob Tepper	Film Director
+cast	Ray Porter	First A.D.
+cast	Stephen J. Lattanzi	PA
+cast	Danielle Barbosa	Lester's Housekeeper
+cast	Michael Parks	Jack Kirby
+cast	Eric Scott Cooper	Publicist
+cast	Adrienne Barbeau	Nina / Serksi the Gallactic Witch
+cast	Tom Lenk	Variety Reporter
+cast	Nelson Franklin	LA Times Reporter
+cast	Kelly Curran	Princess Aleppa
+cast	Mark Rhino Smith	Evil Villain
+cast	Scott Elrod	Achilles Crux
+cast	Bill Blair	Humanoid Robot
+cast	Daston Kalili	Green Jacket
+cast	Joseph S. Griffo	Nestor the Android
+cast	Andrew Varenhorst	Blue Monster
+cast	Amitis Frances Ariano	Persian Dancer
+cast	Alison Fiori	Sci Fi Body Suit Girl
+cast	Taies Farzan	Middle Class Iranian Woman
+cast	Rafi Pitts	Iranian Consulate Official
+cast	Allegra Carpenter	British Airways Flight Attendant
+cast	Bobby Naderi	Airport Husband
+cast	Ray Haratian	Immigration Officer
+cast	Mehrdad Sarlak	Immigration Officer
+cast	Soheil Tasbihchi	Immigration Officer
+cast	Hovik Gharibian	Immigration Officer
+cast	Dorianne Pahlavan	Airport Hysterical Wife
+cast	Houshang Touzie	Deputy Minister of Islamic Guidance
+cast	Peter Henry Schroeder	Producer
+cast	Ali Farkhonde	Tehran Car Rental Man
+cast	Sahm McGlynn	Bearded Fundamentalist in Bazaar
+cast	Muhammed Cangören	Bazaar Shopkeeper
+cast	Asghar Allah Veirdi Zadeh	Bazaar Angry Man
+cast	Leyla Beysulen	Angry Woman
+cast	Lindsey Ginter	Hedley Donovan
+cast	Tim Quill	Alan Sosa
+cast	Larry Sullivan	Engell's Secretary
+cast	Danilo Di Julio	Sgt. Gauthier
+cast	Fanshen Cox	White House Operator
+cast	Tehmina Sunny	Swissair Ticketing Agent
+cast	Amir K	Passport Official
+cast	Baris Deli	Carpet Factory Komiteh
+cast	Cas Anvar	Revolutionary Guard
+cast	Bahram Khosraviani	Revolutionary Guard
+cast	Sam Sheikholeslami	Revolutionary Guard
+cast	Saba Sarem	Revolutionary Guard
+cast	Puya Abbassi	Revolutionary Guard
+cast	Reza Mir	Komiteh Reza
+cast	Jozef Fahey	Lock Up PA
+cast	Annie Little	Swissair Gate Agent
+cast	Fahim Fazli	Komiteh Subordinate
+cast	Brandon Tabassi	Young Komiteh at Airport
+cast	John Hans Tester	Swissair Pilot
+cast	Alex Schemmer	Swissair Co-Pilot
+cast	Yan Feldman	Air Traffic Controller
+cast	Nancy Stelle	Swissair Flight Attendant
+cast	Maz Siam	Iraqi Border Guard
+cast	Ken Edling	Assistant Secretary of State
+cast	Deborah Deimel Bean	State Department Official
+cast	Michael Chieffo	CIA Archives Officer
+cast	Taylor Schilling	Christine Mendez
+cast	Marc Abbink	Restaurant Patron
+cast	Martin Andris	Lab Sound Man
+cast	Noah Arrue	Refugee
+cast	Gabriel Aslan	Ian's Friend
+cast	Koby Azarly	Iranian Airport Police
+cast	Nima Azizi	Mahmoud
+cast	Danielle Beckwith	Greek Goddess
+cast	David Bittick	Marine #3
+cast	Michael Blumenstock	CIA Officer
+cast	Phillip Borghee	Iranian Protestor
+cast	Ramon Calzada	Muslim Cleric
+cast	Rita Cannon	Protester
+cast	Jimmy Carter	Himself
+cast	Momo Casablanca	Visa Seeker
+cast	Victoria Charters	Swissair Gate Rep
+cast	Jennifer Christopher	Peg
+cast	Amaru Cloud	Iranian Boy
+cast	Shaun Daley	Chancery Hostage
+cast	Matt Doherty	Butler
+cast	Ehab Elgharabawy	Iranian Passenger
+cast	Mohamed Ibrahim Elkest	Protester
+cast	Roberto C Escobar	Komiteh Photographer
+cast	Kristi Faye	Airline Stewardess
+cast	Jerald Garner	CIA Pit Team
+cast	Clark Gilmer	Space Nurse
+cast	Sepideh Haftgoli	Iranian Stewardess
+cast	Priyom Haider	Protestor
+cast	Fouad Hajji	Komiteh
+cast	Lucas N. Hall	Protestor
+cast	Philip Baker Hall	C.I.A Director Stansfield Turner
+cast	Matt Harding	Driver
+cast	Kevin Hawley	Canadian Chancellor
+cast	Daniel Hayek	Head Table Revolutionary #6
+cast	Jasmin Jandreau	Swiss Air Passenger
+cast	Eli Jane	Swiss Airline Stewardess
+cast	Richard Allan Jones	Smokehouse Patron
+cast	Rocky Kanaka	Assistant
+cast	Jason Kapraun	Argo Staff
+cast	Athena Talin Katalaris	Persian Child / Refugee
+cast	David Dustin Kenyon	Argo Staff
+cast	Siamak Keyvani	Swissair Passenger
+cast	Michael Klemp	State Department Member
+cast	Elena Kolpachikova	Hollywood Actress
+cast	Michelangelo Kowalski	Lab Tech
+cast	Michael Kunselman	Marine #4
+cast	Veronika Kurshinskaya	Air France Stewardess
+cast	Mihaela Lacramioara	Refugee
+cast	Diamond Nicole Landeen	Little Girl in Bar
+cast	Michael Laren	Argo Graphic Designer
+cast	Jonathan Levian	Komiteh Yoni
+cast	Michael Lovern	Embassy Senior Staff Member
+cast	Chanelle Lyn	Iranian Protestor
+cast	Amir Malaklou	Brother Ali
+cast	Seli Marset	Pakistani Stewardess
+cast	Ayden Mayeri	Flight Attendant
+cast	Collin McShane	Marine
+cast	Matt McVay	Hollywood Actor
+cast	Roman Mitichyan	Iranian Comiteh in Truck
+cast	Derek Mobraaten	Protester
+cast	Anthony Narvaez	Head Table Revolutionary #7
+cast	Armin Nasseri	Reporter
+cast	Asal Nazerpour	India Air Flight Attendant
+cast	Marsad Nikui	Chilled Passenger
+cast	Randy Oglesby	Pat Horan
+cast	Francisco Ovalle	Protestant #1
+cast	Salomon Passariello	Komiteh
+cast	Josh Pellerin	Iranian Protester
+cast	Erin Pickett	Liz Taylor Look-alike
+cast	Sandra Plazinic	Space Girl
+cast	Bill Porter	Publicist
+cast	Tyson Power	Canadian Embassy Staffer #2
+cast	Rita Qatami	Iranian Visa Seeker
+cast	Erick Ramirez	Space Armor Pants Guy
+cast	Gerry Rand	White House Staff
+cast	Sean Patrick Reilly	Slone
+cast	Ray Remillard	CIA Staff
+cast	Ayanery Reyes	Swissair Iranian Passenger
+cast	Korrina Rico	Hollywood Starlet
+cast	Vincent Rivera	Cameraman
+cast	Abe Rogland	CIA Senior Agent
+cast	Brendan Rooney	Marine Cpl.
+cast	Mitchell Salberg	Photographer
+cast	Nick Santoro	Hostage
+cast	Christina Sardinas	Protester
+cast	James Shanklin	Mike Touzani
+cast	Brandon Slagle	Canadian Embassy Staffer #1
+cast	Dawn Sobolewski	The Female Space Trooper
+cast	Sally Spaide	Flight Attendant
+cast	Ania Spiering	Goddess
+cast	Michael Stailey	Chancery Staff
+cast	Stephen Szibler	CIA Agent
+cast	Kaveh Taherian	Head Table Revolutionary #2
+cast	Teemaree	India Air Flight Attendant
+cast	John H. Tobin	CIA Agent
+cast	Fred Toma	Bus Driver
+cast	Jack Topalian	Iran Airline Staff
+cast	Sunny Vachher	Iranian Protester
+cast	Desary Vailencour	State Secretary
+cast	Ron Vitalia	CIA Pit Team
+cast	Mike Wallace	Himself
+cast	Jeremy Gram Weaver	Chancery Hostage
+cast	Don Whatley	CIA Staff
+cast	Xavier Wolf	Boy in Neighborhood
+cast	Rana Yamak	Iranian Kid
+cast	Yasmeen Yamak	Iranian Kid
+cast	Omid Zader	Komiteh
+cast	Rafael Zubizarreta	Protestor

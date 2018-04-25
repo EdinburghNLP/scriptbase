@@ -1,0 +1,166 @@
+year	1982
+imdb score	6.0
+meta score	N/A
+genre	Comedy
+genre	Sci-Fi
+keyword	computer
+keyword	airplane
+keyword	disaster
+keyword	passenger
+keyword	pilot
+keyword	space shuttle
+keyword	poisoning
+keyword	sequel
+keyword	flashback
+keyword	spaceship
+keyword	spoof
+keyword	stewardess
+keyword	asteroid
+keyword	sequel mentioned during end credits
+keyword	1980s
+keyword	nun
+keyword	self referential
+keyword	surprise after end credits
+keyword	mental institution
+keyword	moon landing
+keyword	donkey
+keyword	fire extinguisher
+keyword	smoke
+keyword	girl nun
+keyword	farce
+keyword	aviation
+keyword	sex with a priest
+keyword	flashback within a flashback
+keyword	box office flop
+keyword	psychiatrist
+keyword	castle thunder
+keyword	priest
+keyword	sci fi spoof
+keyword	cockpit
+keyword	news reader
+keyword	white coater
+keyword	second part
+keyword	killing machine
+keyword	mental hospital
+keyword	mishap
+keyword	near future
+keyword	bomb
+keyword	commodore computer
+keyword	pederasty
+keyword	corruption
+keyword	control center
+keyword	panic
+keyword	overheated
+keyword	trauma
+keyword	reference to ronald reagan
+keyword	courtroom
+keyword	explosion
+keyword	timebomb
+keyword	sweat
+keyword	impotence
+keyword	air crew
+cast	Lloyd Bridges	McCroskey
+cast	Raymond Burr	The Judge
+cast	Chuck Connors	The Sarge
+cast	Rip Torn	Kruger
+cast	John Dehner	The Commissioner
+cast	Chad Everett	Simon
+cast	Peter Graves	Captain Oveur
+cast	Julie Hagerty	Elaine
+cast	Robert Hays	Striker
+cast	Kent McCord	Unger
+cast	James A. Watson Jr.	Dunn
+cast	William Shatner	Murdock
+cast	Stephen Stucker	Jacobs / Court Reporter
+cast	John Vernon	Dr. Stone
+cast	Al White	Witness
+cast	Sonny Bono	The Bomber
+cast	Laurene Landon	Testa
+cast	Wendy Phillips	Mary
+cast	Jack Jones	Lounge Singer
+cast	Art Fleming	Himself
+cast	Frank Ashmore	Controller #3
+cast	Richard Jaeckel	Controller #2
+cast	Lee Bryant	Mrs. Hammen
+cast	John Larch	Prosecuting Attorney
+cast	John Hancock	Controller #1
+cast	Oliver Robins	Jimmy Wilson
+cast	Louis Giambalvo	Witness
+cast	Sam Anderson	Man in White
+cast	Leon Askin	Moscow Anchorman
+cast	B.J. Barie	Video Kid
+cast	Hilary Beane	Next Woman in Line
+cast	Craig Berenson	Shaving Man
+cast	Sandahl Bergman	Officer #1
+cast	Burke Byrnes	Businessman
+cast	Ed Call	Information Agent
+cast	Michael Currie	Businessman #1
+cast	Patty Dworkin	Young Woman
+cast	Gary Faga	Guide
+cast	Mary Farrell	Alice Wilson
+cast	Madeleine Fisher	Shuttle Agent
+cast	Bruce French	Officer #2
+cast	Richard Gilliland	Pervis
+cast	Hugh Gillin	Texan
+cast	Elisa Goodman	I Love Sanity Nurse
+cast	Laurie Hagen	Tad Woman
+cast	Maurice Hill	Stock #2
+cast	Steven Hirsch	Rorshack
+cast	Howard Honig	Dave Walters
+cast	Dennis Howard	John Wilson
+cast	Marcy Lafferty	First Woman in Line
+cast	Stanley Lawrence	Next Man
+cast	David Leisure	Religious Zealot
+cast	Floyd Levine	Hallick
+cast	Steve Levitt	Creature #1
+cast	Gail Matthius	Educational Network Woman
+cast	Pat McNamara	Businessman #2
+cast	Mary Mercier	Edith Walters
+cast	Marcus K. Mukai	Tokyo Anchorman
+cast	Ann Nelson	Airsick Woman
+cast	Steve Nevil	Creature #2
+cast	James Noble	Father O'Flanagan
+cast	Kenneth O'Brien	Porter
+cast	Rick Overton	Clerk
+cast	Lee Patterson	Phoenix Six Captain
+cast	David Paymer	Court Photographer
+cast	Pamela Guest	Woman with Baby
+cast	Barbie Reade	Interpreter
+cast	Mary-Robin Redd	Intellectual-Looking Woman
+cast	June Sanders	Cashier
+cast	Pat Sajak	Buffalo Anchorman
+cast	Clint Smith	Scalper
+cast	Louise Sorel	Nurse
+cast	William Vaughan	Worker
+cast	Sandy Ward	Defense Attorney
+cast	Ricky Powell	First Young Man
+cast	Sean Peters	Second Young Man
+cast	Hervé Villechaize	Little Breather
+cast	Allison Hanes	Third Stewardess
+cast	Ronald E. House	Smoking Man
+cast	Maureen McGovern	Nun
+cast	Leslie Nielsen	Dr. Rumack
+cast	Lorna Patterson	Randy
+cast	John David Wilder	Second Krishna
+cast	Jack Bernardi	Old Man #1
+cast	Earl Boen	Doctor
+cast	Terry Bolo	Passenger
+cast	Patrick Culliton	Legionnaire
+cast	Joyce DeWitt	Juror
+cast	Ken Finkleman	Voice of ROK, the main computer on Lunar Flight
+cast	Monique Gabrielle	Schoolgirl
+cast	Martin Garner	Old Man #2
+cast	Tom McGreevey	Karl Malden
+cast	Kitten Natividad	Woman in 'Moral Majority' Shirt
+cast	John Paragon	'Economy' Flight Attendant
+cast	William Porter	Rag Reporter
+cast	Stephen Powers	Reporter
+cast	Alison Price	Stewardess
+cast	Lee Purcell	Mrs. Seluchi
+cast	Hank Robinson	White-Haired Man in Airport
+cast	Jim Staahl	International Inquirer Reporter
+cast	Mary Mon Toy	Asian Lady
+cast	Lou B. Washington	Shuttle Ground Controller
+cast	Clifton Wells	Tourist with too many cameras
+cast	George Wendt	Ticket Agent
+cast	Tom Willett	Hospital Dipstick Patient

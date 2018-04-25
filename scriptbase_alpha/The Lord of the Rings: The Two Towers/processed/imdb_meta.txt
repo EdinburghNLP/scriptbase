@@ -1,0 +1,276 @@
+year	2002
+imdb score	8.8
+meta score	88
+genre	Action
+genre	Adventure
+genre	Fantasy
+keyword	ring
+keyword	army
+keyword	middle earth
+keyword	hope
+keyword	wizard
+keyword	attack
+keyword	king
+keyword	guide
+keyword	orc
+keyword	mission
+keyword	hobbit
+keyword	tower
+keyword	explosive
+keyword	no opening credits
+keyword	famous score
+keyword	genocide
+keyword	impossible love
+keyword	dismemberment
+keyword	entrails
+keyword	good versus evil
+keyword	cult film
+keyword	castle
+keyword	loyalty
+keyword	dark hero
+keyword	flashback
+keyword	elf
+keyword	nightmare
+keyword	falling over a cliff
+keyword	fortress
+keyword	warrior
+keyword	colon in title
+keyword	falling from height
+keyword	keeping watch
+keyword	suicide bomber
+keyword	part of trilogy
+keyword	gate
+keyword	refugee
+keyword	tracking
+keyword	hostage
+keyword	temptation
+keyword	decapitation
+keyword	honor
+keyword	reverse footage
+keyword	fishing
+keyword	battle axe
+keyword	swarm tactic
+keyword	battering ram
+keyword	peril
+keyword	sequel
+keyword	elephant
+keyword	part computer animation
+keyword	funeral
+keyword	tyrant
+keyword	mercy
+keyword	ambush
+keyword	blockbuster
+keyword	rescue from drowning
+keyword	swamp
+keyword	immortality
+keyword	amulet
+keyword	dream sequence
+keyword	abyss
+keyword	sword and sorcery
+keyword	exorcism
+keyword	split personality
+keyword	friendship
+keyword	fictional war
+keyword	dam busting
+keyword	crossbow
+keyword	madness
+keyword	mountain
+keyword	axe murder
+keyword	violence
+keyword	last stand
+keyword	emaciation
+keyword	tragic villain
+keyword	waterfall
+keyword	princess
+keyword	star crossed lovers
+keyword	tragic hero
+keyword	traitor
+keyword	siege
+keyword	race against time
+keyword	bad smell
+keyword	thunderstorm
+keyword	magic
+keyword	river
+keyword	loss of son
+keyword	wilderness
+keyword	eight word title
+keyword	unrequited love
+keyword	forced perspective
+keyword	stabbed in the throat
+keyword	barbarian
+keyword	presumed dead
+keyword	severed head
+keyword	camouflage
+keyword	stabbed in the back
+keyword	back from the dead
+keyword	lifting person in air
+keyword	ancient sword
+keyword	animate tree
+keyword	nonlinear timeline
+keyword	halfling
+keyword	chase
+keyword	dwarf
+keyword	armor
+keyword	stabbed in the chest
+keyword	sequel to cult favorite
+keyword	bravery
+keyword	treachery
+keyword	volcano
+keyword	wilhelm scream
+keyword	forest
+keyword	conservation
+keyword	second part
+keyword	archery
+keyword	monster
+keyword	escape
+keyword	gore
+keyword	shot in the forehead
+keyword	hand to hand combat
+keyword	dragon
+keyword	wraith
+keyword	shot in the neck
+keyword	5th millennium b.c.
+keyword	ancient race
+keyword	glowing eye
+keyword	sword
+keyword	prehistory
+keyword	warrior race
+keyword	flooding
+keyword	stabbed in the leg
+keyword	motion capture
+keyword	cave
+keyword	homoerotic
+keyword	combat
+keyword	love triangle
+keyword	resurrection
+keyword	treason
+keyword	5th millennium b.c
+keyword	cemetery
+keyword	idealism
+keyword	india maxwell
+keyword	quest
+keyword	gunpowder
+keyword	evil man
+keyword	axe in the chest
+keyword	evil
+keyword	horn
+keyword	alliance
+keyword	betrayal
+keyword	conscience
+keyword	fight
+keyword	flaming arrow
+keyword	brotherhood
+keyword	impalement
+keyword	melodrama
+keyword	father daughter relationship
+keyword	shot back to back
+keyword	righteous rage
+keyword	sewer
+keyword	blood
+keyword	child soldier
+keyword	heroism
+keyword	prehistoric times
+keyword	prince
+keyword	mistaken identity
+keyword	ensemble cast
+keyword	animal attack
+keyword	schizophrenia
+keyword	epic
+keyword	41st century b.c.
+keyword	ruins
+keyword	loss of brother
+keyword	sword fight
+keyword	courage
+keyword	gardener
+keyword	lifting someone into the air
+keyword	41st century b.c
+keyword	banishment
+keyword	eye
+keyword	fear
+keyword	demon
+keyword	cannibalism
+keyword	warrior woman
+keyword	stabbed in the arm
+keyword	macguffin
+keyword	redemption
+keyword	tragedy
+keyword	wizards' duel
+keyword	rescue
+keyword	soliloquy
+keyword	map
+keyword	rabbit
+keyword	compassion
+keyword	crushed to death
+keyword	horse
+keyword	hero
+keyword	cavalry
+keyword	talisman
+keyword	dark fantasy
+keyword	city in ruins
+keyword	scaling ladder
+keyword	evil wizard
+keyword	based on novel
+keyword	number in title
+keyword	
+cast	Bruce Allpress	Aldor
+cast	Sean Astin	Samwise 'Sam' Gamgee
+cast	John Bach	Madril
+cast	Sala Baker	Man Flesh Uruk
+cast	Cate Blanchett	Galadriel
+cast	Orlando Bloom	Legolas Greenleaf
+cast	Billy Boyd	Peregrin 'Pippin' Took
+cast	Jed Brophy	Sharku / Snaga
+cast	Sam Comery	Éothain
+cast	Brad Dourif	Grima Wormtongue
+cast	Calum Gittins	Haleth
+cast	Bernard Hill	Theoden
+cast	Bruce Hopkins	Gamling
+cast	Paris Howe Strewe	Théodred - Prince of Rohan
+cast	Christopher Lee	Saruman the White
+cast	Nathaniel Lees	Uglúk
+cast	John Leigh	Háma
+cast	Robbie Magasiva	Mauhur
+cast	Robyn Malcolm	Morwen
+cast	Ian McKellen	Gandalf
+cast	Dominic Monaghan	Meriadoc 'Merry' Brandybuck
+cast	Viggo Mortensen	Aragorn
+cast	Miranda Otto	Eowyn
+cast	Craig Parker	Haldir
+cast	Bruce Phillips	Rohan Soldier
+cast	Robert Pollock	Mordor Orc
+cast	John Rhys-Davies	Gimli / Voice of Treebeard
+cast	Andy Serkis	Gollum
+cast	Olivia Tennet	Freda
+cast	Ray Trickitt	Bereg
+cast	Liv Tyler	Arwen
+cast	Karl Urban	Eomer
+cast	Stephen Ure	Grishnákh
+cast	Hugo Weaving	Elrond
+cast	David Wenham	Faramir
+cast	Elijah Wood	Frodo Baggins
+cast	Victoria Beynon-Cole	Hero Orc
+cast	Lee Hartley	Hero Orc
+cast	Phil Grieve	Hero Orc
+cast	Billy Jackson	Cute Rohan Refugee Child
+cast	Katie Jackson	Cute Rohan Refugee Child
+cast	Sean Bean	Boromir
+cast	John Noble	Denethor
+cast	Jarl Benzon	Elf
+cast	Jørn Benzon	Elf Archer
+cast	Karlos Drinkwater	Easterling Warrior
+cast	Daniel Falconer	Elvin Warrior
+cast	Phillip Spencer Harris	Ranger 1
+cast	Dan Hennah	Man of Rohan
+cast	Paul Holmes	Orc
+cast	Peter Jackson	Rohirrim Warrior
+cast	Sandro Kopp	Elf
+cast	Alan Lee	Man of Rohan
+cast	Timothy Lee	Wildman
+cast	Joseph Mika-Hunt	Uruk-Hai
+cast	Henry Mortensen	Reluctant Rohan Child Warrior
+cast	Paul Norell	Easterling
+cast	Barrie M. Osborne	Rohirrim Soldier
+cast	Dianne Smith	Rohan woman
+cast	Marcus Thorne	Featured Orc
+cast	Piripi Waretini	Uruk-Hai Soldier
+cast	Hannah Wood	Woman in Cave

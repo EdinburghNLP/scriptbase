@@ -1,0 +1,2 @@
+logline	Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.
+tagline	What are you really worth?

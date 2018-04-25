@@ -1,0 +1,409 @@
+year	2006
+imdb score	7.9
+meta score	84
+genre	Adventure
+genre	Drama
+genre	Sci-Fi
+genre	Thriller
+keyword	future
+keyword	violence
+keyword	england
+keyword	survival
+keyword	chaos
+keyword	science
+keyword	miracle
+keyword	dying
+keyword	infertility
+keyword	band
+keyword	faith
+keyword	hope
+keyword	rebel
+keyword	anarchy
+keyword	sanctuary
+keyword	aging
+keyword	birth
+keyword	year 2027
+keyword	hippie
+keyword	fertility
+keyword	death
+keyword	deer
+keyword	crushed head
+keyword	strawberry
+keyword	passport
+keyword	rat
+keyword	rebellion
+keyword	virginity
+keyword	neo noir
+keyword	destruction of property
+keyword	terror
+keyword	blindfold
+keyword	pandemic
+keyword	anti depressant
+keyword	tinnitus
+keyword	machine gun
+keyword	sweatshirt
+keyword	jet
+keyword	refugee
+keyword	cousin cousin relationship
+keyword	pill
+keyword	immigrant
+keyword	newspaper
+keyword	crushed to death
+keyword	shot in the hand
+keyword	guard dog
+keyword	canary
+keyword	fate
+keyword	expectant mother
+keyword	single mother
+keyword	husband murders wife
+keyword	midwife
+keyword	female nudity
+keyword	execution
+keyword	self sacrifice
+keyword	islam
+keyword	killing an animal
+keyword	voodoo
+keyword	child in peril
+keyword	flip flops the shoes
+keyword	face mask
+keyword	photograph
+keyword	motorcycle
+keyword	dairy farm
+keyword	buoy
+keyword	farm
+keyword	husband wife relationship
+keyword	mission
+keyword	limousine
+keyword	shot in the head
+keyword	birthday
+keyword	drink
+keyword	border guard
+keyword	bomb
+keyword	air guitar
+keyword	cremation
+keyword	2020s
+keyword	gun
+keyword	cage
+keyword	food
+keyword	father son relationship
+keyword	civil servant
+keyword	cigarette smoking
+keyword	shot in the chest
+keyword	nudity
+keyword	hit by a door
+keyword	topless female nudity
+keyword	military regime
+keyword	exploding building
+keyword	azores
+keyword	bar
+keyword	self referential
+keyword	eavesdropping
+keyword	macguffin
+keyword	allegory
+keyword	shootout
+keyword	gamma ray
+keyword	grief
+keyword	pot smoking
+keyword	burying a dead body
+keyword	face slap
+keyword	vandalism
+keyword	beating
+keyword	coffee shop
+keyword	bridge
+keyword	dog race
+keyword	mass murder
+keyword	shot in the neck
+keyword	flatulence
+keyword	overheard conversation
+keyword	kindness
+keyword	depression
+keyword	urban decay
+keyword	park
+keyword	checkpoint
+keyword	giving birth
+keyword	human worth
+keyword	woman in labor
+keyword	beer
+keyword	urban setting
+keyword	lens flare
+keyword	abandoned school
+keyword	virus
+keyword	soldier
+keyword	redemption
+keyword	african anglo
+keyword	devastated landscape
+keyword	tv news
+keyword	protector
+keyword	long take
+keyword	underwear
+keyword	moral ambiguity
+keyword	totalitarianism
+keyword	blood on shirt
+keyword	fascism
+keyword	motorcycle crash
+keyword	pollution
+keyword	gun held to head
+keyword	woods
+keyword	poland
+keyword	photojournalist
+keyword	yin and yang
+keyword	fable
+keyword	tears
+keyword	experiment
+keyword	reluctant hero
+keyword	future noir
+keyword	pregnant woman nude
+keyword	mother love
+keyword	car on fire
+keyword	swing set
+keyword	corrupt cop
+keyword	illegal immigrant
+keyword	social commentary
+keyword	polish
+keyword	boat
+keyword	braided hair
+keyword	prisoner
+keyword	wine
+keyword	announcer
+keyword	procreation
+keyword	dwarf
+keyword	chase
+keyword	blood
+keyword	genetic experiment
+keyword	rebel leader
+keyword	train
+keyword	wheelchair
+keyword	epidemic
+keyword	drug use
+keyword	eating
+keyword	reporter
+keyword	ufo
+keyword	disability
+keyword	protestor
+keyword	pushing a car
+keyword	sexuality
+keyword	miscarriage
+keyword	fascist
+keyword	car set on fire
+keyword	singing
+keyword	drinking
+keyword	catatonic state
+keyword	propaganda
+keyword	shooting
+keyword	money
+keyword	drunkenness
+keyword	surveillance
+keyword	compassion
+keyword	racism
+keyword	influenza
+keyword	handheld camera
+keyword	tragic hero
+keyword	mother son relationship
+keyword	anti hero
+keyword	dead animal
+keyword	orange the fruit
+keyword	newborn baby
+keyword	listening to music
+keyword	airplane
+keyword	whiskey
+keyword	man with glasses
+keyword	crying
+keyword	alarm
+keyword	fart joke
+keyword	repression
+keyword	suicide kit
+keyword	murder of a police officer
+keyword	massacre
+keyword	christ allegory
+keyword	tattoo
+keyword	singer
+keyword	tunnel
+keyword	cat
+keyword	title at the end
+keyword	escape
+keyword	apocalypse
+keyword	protection
+keyword	chanting
+keyword	painting
+keyword	squatting
+keyword	pig balloon
+keyword	survivor
+keyword	battle
+keyword	shoes
+keyword	pursuit
+keyword	bus
+keyword	wound
+keyword	bombing
+keyword	ex lover
+keyword	border
+keyword	uprising
+keyword	rowboat
+keyword	shot to death
+keyword	riot shield
+keyword	police
+keyword	footbridge
+keyword	molotov cocktail
+keyword	rain
+keyword	loneliness
+keyword	poison
+keyword	hangover
+keyword	police car
+keyword	genetics
+keyword	kidnapping
+keyword	umbilical cord
+keyword	double decker bus
+keyword	dystopia
+keyword	cult film
+keyword	terrorist
+keyword	blood on camera lens
+keyword	hopelessness
+keyword	british government
+keyword	lamb
+keyword	protest
+keyword	biology
+keyword	seattle washington
+keyword	reunion
+keyword	marijuana
+keyword	alcoholism
+keyword	demonstration
+keyword	snoring
+keyword	pub
+keyword	corpse
+keyword	terrorism
+keyword	ambiguous ending
+keyword	safe house
+keyword	what if
+keyword	blood splatter
+keyword	melancholy
+keyword	spit in the face
+keyword	betting
+keyword	shot in the throat
+keyword	pregnancy
+keyword	ambush
+keyword	love
+keyword	anglo african
+keyword	sterility
+keyword	reference to michelangelo's david
+keyword	search dog
+keyword	computer
+keyword	bleeding to death
+keyword	disabling a vehicle
+keyword	balloon
+keyword	cow
+keyword	watching tv
+keyword	messiah
+keyword	childbirth
+keyword	london england
+keyword	egg
+keyword	internment camp
+keyword	betrayal
+keyword	dead body
+keyword	soaking feet
+keyword	idealism
+keyword	dog
+keyword	murder
+keyword	college
+keyword	forest
+keyword	severed arm
+keyword	kiss
+keyword	tank
+keyword	savior
+keyword	deceit
+keyword	refugee camp
+keyword	baby
+keyword	policeman
+keyword	bare breasts
+keyword	ex husband ex wife relationship
+keyword	torture
+keyword	barn
+keyword	chance
+keyword	explosion
+keyword	celebrity
+keyword	government
+keyword	shot through a car windshield
+keyword	death of child
+keyword	death of son
+keyword	death of friend
+keyword	based on novel
+cast	Clive Owen	Theo Faron
+cast	Juan Gabriel Yacuzzi	Baby Diego
+cast	Michael Caine	Jasper
+cast	Mishal Husain	Newsreader
+cast	Rob Curling	Newsreader
+cast	Chiwetel Ejiofor	Luke
+cast	Jon Chevalier	Café Customer
+cast	Julianne Moore	Julian
+cast	Rita Davies	Café Customer
+cast	Charlie Hunnam	Patric
+cast	Kim Fenton	Café Customer
+cast	Danny Huston	Nigel
+cast	Chris Gilbert	Café Customer
+cast	Phoebe Hawthorne	Café Customer
+cast	Rebecca Howard	Café Customer
+cast	Atalanta White	Café Customer
+cast	Laurence Woodbridge	Café Customer
+cast	Maria McErlane	Shirley
+cast	Michael Haughey	Mr. Griffiths
+cast	Phaldut Sharma	Ian
+cast	Miriam Karlin	Caged German Grandmother
+cast	Philippa Urquhart	Janice
+cast	Tehmina Sunny	Zara
+cast	Jody Halse	Immigration Policeman
+cast	Ilario Bisi-Pedro	Cigar Man
+cast	Michael Klesic	Rado
+cast	Martina Messing	Birgit
+cast	Simon Poland	Preacher Trafalgar Square
+cast	Barnaby Edwards	Ministry Official
+cast	Ed Westwick	Alex
+cast	Valerie Griffiths	Dog Track Woman
+cast	Billy Cook	Bookmaker
+cast	Pam Ferris	Miriam
+cast	Clare-Hope Ashitey	Kee
+cast	Gary Hoptrough	Simon
+cast	Rob Inch	Road Traffic Police
+cast	Jamie Kenna	Road Traffic Police
+cast	Maurice Lee	Samir
+cast	Dhaffer L'Abidine	Dhafer
+cast	Bruno Ouvrard	Bruno
+cast	Denise Mack	Emily
+cast	Jacek Koman	Tomasz
+cast	Joy Richardson	Joy
+cast	Caroline Lena Olsson	Caroline
+cast	Milenka James	Milenka
+cast	Somi De Souza	Somi
+cast	Francisco Labbe	Francisco
+cast	Thorston Manderlay	Thorston
+cast	Georgia Goodman	Georgette
+cast	Peter Mullan	Syd
+cast	Dorothy Grumbar	German Bus Passenger
+cast	Barry Martin	German Bus Passenger
+cast	Ernesto Tomasini	Italian Bus Passenger
+cast	Keith Dunphy	Bexhill Immigration Officer
+cast	Ray Trickitt	Bexhill Immigration Officer
+cast	Nabil Shaban	Bexhill Market Hustler
+cast	Goran Kostic	Bexhill Market Hustler
+cast	Dermot O'Neill	One-Legged Hustler
+cast	Oana Pellea	Marichka
+cast	Faruk Pruti	Sirdjan
+cast	Alexandre Bestavashvili	Georgian Man
+cast	Galina McWhirr	Georgian Woman
+cast	Nirmala Martis	Wailing Woman
+cast	Ida Church	Bleeding Woman
+cast	Yolanda Vazquez	Spanish Woman
+cast	Andrew Brooke	Soldier
+cast	Nihal Arthanyake	Radio Announcer
+cast	Alex Argenti	Arab Refugee
+cast	Andy Callaghan	Soldier
+cast	Scott Davidson	Photographer
+cast	Ray Donn	Soldier
+cast	James Fiddy	Core Military
+cast	Kay Headley	Refugee / Cigarette Beggar
+cast	Forbes KB	Elite Soldier
+cast	Jamie Lengyel	First Human Project Professor
+cast	Jeff Leslie	Immigration Policeman
+cast	João Costa Menezes	Terrorist
+cast	Steve Murphy	Soldier
+cast	Vidal Sancho	Basque Rebel
+cast	John Warman	Taxi Driver
+cast	Paul Warren	Refuge
+cast	Yana Yanezic	Woman

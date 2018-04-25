@@ -1,0 +1,246 @@
+year	2009
+imdb score	5.1
+meta score	47
+genre	Comedy
+genre	Horror
+keyword	cheerleader
+keyword	virgin
+keyword	fire
+keyword	blood
+keyword	best friend
+keyword	succubus
+keyword	covered in blood
+keyword	van
+keyword	f word
+keyword	talking to the dead
+keyword	woman leading a man on
+keyword	spitting blood
+keyword	story continued during end credits
+keyword	badminton
+keyword	lesbian seduction
+keyword	rock concert
+keyword	cafeteria
+keyword	pants falling down
+keyword	mourning
+keyword	zipper
+keyword	possession
+keyword	small town
+keyword	teacher student relationship
+keyword	satanic ritual
+keyword	orderly
+keyword	slumber party
+keyword	spitting out a tooth
+keyword	lesbian subtext
+keyword	rich and famous
+keyword	box cutter
+keyword	lesbian teen
+keyword	candlelight vigil
+keyword	bad girl
+keyword	ritual murder
+keyword	incest joke
+keyword	formal dance
+keyword	foreign exchange student
+keyword	bare midriff
+keyword	scene during end credits
+keyword	two girlfriends
+keyword	butane lighter
+keyword	mental institution
+keyword	playing pool
+keyword	post traumatic stress disorder
+keyword	premarital sex
+keyword	blood splatter
+keyword	sex scene
+keyword	independent music
+keyword	myspace
+keyword	female nudity
+keyword	escape from prison
+keyword	occult
+keyword	white dress
+keyword	mother daughter relationship
+keyword	burning building
+keyword	funeral
+keyword	paranormal phenomena
+keyword	self mutilation
+keyword	wikipedia
+keyword	virgin sacrifice
+keyword	christ allegory
+keyword	impalement
+keyword	immolation
+keyword	newspaper headline
+keyword	dripping blood
+keyword	swimming pool
+keyword	classroom
+keyword	text messaging
+keyword	punctuation in title
+keyword	bisexual girl
+keyword	abandoned building
+keyword	stabbed to death
+keyword	first lesbian experience
+keyword	kissing while having sex
+keyword	football player
+keyword	lesbianism
+keyword	self cutting
+keyword	underage smoking
+keyword	high school
+keyword	pierced lip
+keyword	cannibalism
+keyword	boyfriend girlfriend relationship
+keyword	false virginity
+keyword	food as sex metaphor
+keyword	psychopath
+keyword	popular girl
+keyword	vengence
+keyword	demonic possession
+keyword	bloodlust
+keyword	flashback
+keyword	solitary confinement
+keyword	malnutrition
+keyword	whirlpool
+keyword	person on fire
+keyword	groupie
+keyword	able to see the dead
+keyword	title directed by female
+keyword	apostrophe in title
+keyword	burned alive
+keyword	water drip
+keyword	femme fatale
+keyword	teen movie
+keyword	emo
+keyword	implied nudity
+keyword	spitting out tooth
+keyword	heavy petting
+keyword	red dress
+keyword	screaming
+keyword	explosion
+keyword	woman with glasses
+keyword	spitting in someone's face
+keyword	bitten in the neck
+keyword	undead
+keyword	teenage sex
+keyword	human sacrifice
+keyword	pants pulled down
+keyword	narrated by character
+keyword	stabbed multiple times
+keyword	mesmerism
+keyword	slut
+keyword	villainess played by lead actress
+keyword	killed during sex
+keyword	police tape
+keyword	hook for hand
+keyword	vortex
+keyword	catfight
+keyword	vomit
+keyword	disembowelment
+keyword	characters killed one by one
+keyword	ambulance
+keyword	jock
+keyword	deer
+keyword	singing in a car
+keyword	bra
+keyword	football field
+keyword	lesbian kiss
+keyword	lake
+keyword	tank top
+keyword	waterfall
+keyword	sex in woods
+keyword	impaled by pipe
+keyword	reference to hamlet
+keyword	shadow
+keyword	black comedy
+keyword	school
+keyword	pepper spray
+keyword	skeleton
+keyword	teenage sexuality
+keyword	unlikely friendship
+keyword	condom
+keyword	nerdy girl
+keyword	safe sex
+keyword	underage drinking
+keyword	seduction
+keyword	no opening credits
+keyword	rock band
+keyword	stabbed in the neck
+keyword	hovering
+keyword	feminist revisionist mythology
+keyword	title based on song
+keyword	reference to myspace
+keyword	kicked in the head
+keyword	toy piano
+keyword	abandoned house
+keyword	tuxedo
+keyword	girl with glasses
+keyword	panties
+keyword	post traumatic stress
+keyword	goalpost
+keyword	cleavage
+keyword	goth
+keyword	female killer
+keyword	independent film
+keyword	character name in title
+cast	Megan Fox	Jennifer
+cast	Amanda Seyfried	Needy
+cast	Johnny Simmons	Chip
+cast	Adam Brody	Nikolai
+cast	Sal Cortez	Chas
+cast	Ryan Levine	Mick
+cast	Juan Riedinger	Dirk
+cast	Colin Askey	Keyboardist
+cast	Chris Pratt	Roman Duda
+cast	Juno Ruddell	Officer Warzak
+cast	Kyle Gallner	Colin Gray
+cast	Josh Emerson	Jonas Kozelle
+cast	J.K. Simmons	Mr. Wroblewski
+cast	Amy Sedaris	Needy's Mom
+cast	Cynthia Stevenson	Chip's Mom
+cast	Nicole Leduc	Camille
+cast	Aman Johal	Ahmet from India
+cast	Dan Joffre	Raymundo
+cast	Candus Churchill	Nutritionist
+cast	Carrie Genzel	Jennifer's Mom
+cast	Emma Gallello	Little Jennifer
+cast	Megan Charpentier	Little Needy
+cast	Jeremy Schuetze	Craig
+cast	Valerie Tian	Chastity
+cast	Emily Tennant	Gossiping Girl
+cast	Karissa Tynes	Other Girl
+cast	Eve Harlow	Goth Girl
+cast	Michael Brock	Goth Boy
+cast	Genevieve Buechner	Goth Girl #2
+cast	Adrian Hough	Colin's Dad
+cast	Gabrielle Rose	Colin's Mom
+cast	Michael Bean	Priest
+cast	Bill Fagerbakke	Jonas' Dad
+cast	Marilyn Norry	Jonas' Mom
+cast	Lucas MacFadden	DJ at Dance
+cast	Zoe Laliberté	Candlelight Vigil Singer
+cast	Chelsey Smith	Candlelight Vigil Singer
+cast	Whitney Chow	Candlelight Vigil Singer
+cast	Michael Orstad	Candlelight Vigil Singer
+cast	Ronnie Robinson	Orderly
+cast	Ed Anders	Orderly
+cast	Roxanne Wong	Patient #1
+cast	Diane Dutra	Patient #2
+cast	Maya Toews	The Creepy Hand
+cast	Andrea Baker	Voice actor
+cast	Lisa Breitman	Voice actor
+cast	Cathy Cavadini	Voice actor
+cast	Lanai Chapman	Voice actor
+cast	Vicki Davis	Voice actor
+cast	Jeff Fischer	Voice actor
+cast	Aaron Fors	Voice actor
+cast	Barbara Harris	Voice actor
+cast	Caryn Johnson	Voice actor
+cast	Jeremy Maxwell	Voice actor
+cast	David Michie	Voice actor
+cast	Levi Nunez	Voice actor
+cast	Paige Pollack	Voice actor
+cast	David Randolph	Voice actor
+cast	Roger Craig Smith	Voice actor
+cast	Joel Swetow	Voice actor
+cast	Andreana Weiner	Voice actor
+cast	Lennon Wynn	Voice actor
+cast	Michelle Andrew	Locker Room Girl
+cast	Megan Danso	Girl
+cast	Lance Henriksen	Passing Motorist
+cast	Kìer Mellour	Candie
+cast	Dan Savoie	Fire Victim

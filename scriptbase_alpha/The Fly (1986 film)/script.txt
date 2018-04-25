@@ -1,0 +1,2557 @@
+Fly, The (1986) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Fly, The (1986) movie scriptby Charles Edward Pogue and David Cronenberg.Based on the Story by     George Langelaan.Transcript.
+More info about this movie on IMDb.com
+
+
+INT. THE BARTOK PARTY- NIGHT
+
+We open on a large white, pristine hall filled with people.
+We close in on two such people, SETH BRUNDLE and VERONICA
+QUAIFE. They are mid-conversation:
+
+BRUNDLE
+What am I working on? Uh... I'm working on something that'll
+change the world and human life as we know it.
+
+VERONICA
+Change it a lot or just a bit? You'll have to be more
+specific.
+
+BRUNDLE
+What, you want me to be specific here, in this room, with,
+uh... half the scientific community of North America
+eavesdropping?
+
+VERONICA
+Is there another way?
+
+BRUNDLE
+You could come back to my lab. Listen, I'll make you
+cappuccino. I have a Faema of my very own. You know what
+that is? It's not the Dilettante's plastic kitchen model.
+It's one of those, uh... uh., uh, real restaurant espresso
+machines with a-an eagle on top and...
+
+VERONICA
+Somehow I get the feeling you don't get out much.
+
+BRUNDLE
+You can tell that?
+
+VERONCA
+Yeah.
+
+BRUNDLE
+I think you're making a mistake. I think you really want to
+talk to me.
+
+VERONICA
+Sorry, I have three other interviews to do before this
+party's over.
+
+BRUNDLE
+Yeah, but they're not working on something that'll change
+the world as we know it.
+
+VERONICA
+They say they are.
+
+BRUNDLE
+Yeah, but they're lying I'm not.
+
+INT. VERONICA'S CAR- NIGHT
+
+We close in on Veronica's car as it speeds down the street.
+It appears that Brundle is ill.
+
+VERONICA
+Are you sick?
+
+BRUNDLE
+No. Sure.
+
+VERONICA
+You're not a very accomplished drunk.
+
+BRUNDLE
+No, no, I'm always like this. It's, uh... motion sickness.
+When I was a kid, I, uh... puked on my tricycle. I hate
+vehicles.
+
+VERONICA
+Should I drive more slowly?
+
+BRUNDLE
+No, no, no. Just turn left. We're almost there.
+
+VERONICA
+This is it?
+
+BRUNDLE
+It's cleaner on the inside.
+
+INT. WAREHOUSE STAIRWAY-NIGHT
+
+Veronica and Brundle climb the warped wooden stairs to the
+fourth floor. Brundle is breathing hard, very out of shape.
+He uses the ornate railing to haul himself from step to
+step.
+
+VERONICA
+Nice railings.
+
+BRUNDLE (BREATHING HARD)
+Yeah. They're original.
+
+VERONICA
+You doing marine experiments?
+
+BRUNDLE
+No, why?
+
+VERONICA
+That fishy smell.
+
+BRUNDLE:
+Oh, that. Used to be a packing house for fish. It's deserted
+right now except for me. I've got the whole fourth floor.
+The top floor.
+
+VERONICA
+Want me to carry you?
+
+BRUNDLE
+Maybe next time.
+
+INT. BRUNDLES LAB- NIGHT
+
+Brundle and Veronica enter BRUNDLES LAB. It seems very tidy
+and organised as well as being extremely Spacious.
+     Brundle sits down and begins playing on his Piano.
+
+
+VERONICA
+Listen, uh... maybe this is a bad idea.
+
+BRUNDLE
+No, it's too late. You've already see them. Can't let you
+leave here alive.
+
+VERONICA
+I haven't seen anything.
+
+BRUNDLE
+Those.
+
+Brundle motions towards two gray pods either side of the
+room.
+
+VERONICA
+Designer phone booths. Very cute. Hey, I bet you have a
+really neat jukebox in here, too, someplace, huh? Over there
+maybe?
+
+Veronica points toward a third object, covered in tarpaulin.
+Brundle reveals it as a third pod.
+
+BRUNDLE
+No. This is the prototype of... those. The first one I had
+made. It, uh... it works, but it's clunky. I call them
+telepods. They're controlled by this.
+
+VERONICA
+Thank God for that. So, uh, what do they do, the phone
+booths?
+
+BRUNDLE
+Telepods. Uh... okay. I need an object. Um... say, do you
+have something, uh, on you that's... uh, personal... that I
+could use? Something uniquely you? Uh... an item of clothing
+or jewelry?
+
+VERONICA
+What, are you kidding?
+
+BRUNDLE
+No, I'm serious.
+
+VERONICA
+Okay. Here goes.
+
+Veronica removes her stocking and hands it to Brundle.
+
+BRUNDLE
+ I don't wear jewelry.
+
+BRUNDLE
+It's nice.
+
+Brundle places the stocking into a pod and closes the door.
+He then goes back to the computer and speaks into the
+microphone.
+
+BRUNDLE
+Uh... Brundle, Seth.
+
+COMPUTER (Relaying and testing Brundle's voice pattern)
+Uh, Brundle, Seth. Uh, Brundle, Seth. Uh, Brundle, Seth.
+
+BRUNDLE
+Begin teleportation sequence.
+
+The computer goes through it's teleportation protocol and
+the pod containing the stocking flashes, this flash is
+repeated by the second pod on the opposite side of the room.
+
+BRUNDLE
+Well?
+
+VERONICA
+Great. The world's largest microwave oven. I-I'm glade I
+didn't give you my Rolex. If I had Rolex.
+
+BRUNDLE
+No, you're missing the point. Look.
+
+Veronica glaces at the Computer, which reads "Teleportation
+successful."
+
+VERONICA
+Teleportation?
+
+Brundle leads Ronnie to the Second Pod where she discovers
+the Stocking.
+
+VERONICA
+Oh... wait a minute. Is that a hologram? Where's my
+stocking?
+
+BRUNDLE
+That's it. The real one. Go ahead, pick it up.
+
+Veronica reaches in and retrieves the stocking.
+
+VERONICA
+I don't think I get it. What happened?
+
+BRUNDLE
+You get it, all right. You just can't handle it. Um... your
+stocking has just been teleported... from one pod... to
+another. Uh, disintegrated... there and re-integrated there.
+Mmm, sort of. It'll change the world as we know it,
+right?
+
+As she speaks, Veronica pulls a dictaphone from her pocket
+and begins recording the conversation.
+
+VERONICA
+Oh, no! This is, uh... This is incredible! I mean, it's not
+possible, is it? How have you managed to keep this quiet?
+
+BRUNDLE
+Please sit down.
+
+The enter the kitchen area and Veronica sits down at the
+table. Brundle begins working with his cappuchino machine.
+
+VERONICA
+How could you do this alone?
+
+BRUNDLE
+Well, I don't work alone. There's a lot of stuff in there I
+don't even understand. I'm really,uh... a systems management
+man. I farm... bits and pieces, uh, out to guys who are much
+more brilliant than I am. I say... "Build me a laser this,
+design me a molecular analyzer that," and they do, and I
+just stick'em together. But, uh, none of them knows what the
+project really is. So...
+
+Brundle shows off the eagle from his Cappuchino machine.
+
+VERONICA
+Wow! And, uh,the money? Bartok Science Industries financed
+this?
+
+BRUNDLE
+Mm-hmm. But th-they leave me alone 'cause I'm not expensive.
+And, uh, they know they'll end up owning it all, whatever it
+is. So...
+
+VERONICA
+You haven't told them?
+
+BRUNDLE
+When I'm ready.
+
+VERONICA
+Oh... wait a second.
+
+The tape on Veronica's dictaphone has run out, so she begins
+to change sides.
+
+BRUNDLE
+What's that? What are you doing?
+
+VERONICA
+Well... you want me to get the quotes right, don't you?
+
+BRUNDLE
+Quotes? No, no. I thought this was personal. You can't write
+about this.
+
+VERONICA
+What are you talking about? I'm a journalist.
+
+BRUNDLE
+Oh, no, no, no,..!
+
+VERONICA
+You knew that.
+
+BRUNDLE
+Uh... I'm sorry. I apologize. I made a mistake. I shouldn't
+have shown you this. I'm very, very... sorry.
+
+VERONICA
+Listen... Particle magazine sent me to that party to get a
+story. And this is the most exciting thing... I've ever
+seen.
+
+BRUNDLE
+No, no! Absolutely not. In fact, I'm gonna have to ask you
+for that... tape, please.
+
+VERONICA
+Hey, you can't do that!
+
+BRUNDLE
+Don't you dare write a story! I'd never have told and of
+this stuff to a journalist.
+
+VERONICA
+But you did tell this stuff to a journalist.
+
+Veronica begins to exit the lab.
+
+BRUNDLE
+Well, yeah, in a way I suppose i did, but that...
+
+VERONICA
+You sure did.
+
+BRUNDLE
+Now wait a minute, wait a minute! Wait! Come here! What
+about your... stocking!
+
+VERONICA
+Keep it for good luck.
+
+Veronica leaves Seth standing alone in his lab.
+
+INT. STATHIS'S OFFICE
+Veronica is sat with STATHIS BORANS, her Editor. They listen
+to the tape.
+
+VERONICA
+Well... that's it. What do you think?
+
+STATHIS
+It's a joke.
+
+VERONICA
+What?
+
+STATHIS
+He's conning you. Oh, it's an old nightclub routine. The two
+cabinets. And you fell for it.
+
+VERONICA
+Wait a minute. That was no nightclub.
+
+Stathis's phone rings.
+
+STATHIS
+Are we having lunch?
+
+VERONICA
+Listen, that was no nightclub routine! I was there! I saw
+it!
+
+Stathis talks to his assistant over the phone.
+
+STATHIS
+Yeah? Sure... send him in.
+You must have made an impression.
+
+VERONICA
+What do you mean?
+
+STATHIS
+Your magician has followed you here.
+
+STATHIS'S ASSISTANT shows Seth in.
+
+STATHIS
+I'm Stathis Borans. I'm the editor of Particle magazine.
+
+BRUNDLE
+Uh, Seth Brundle. Uh...
+
+STATHIS
+Oh, I know who you are... Uh, listen, uh... why don't you
+two use my office? I've gotta run. If you plan to make
+anything disappear, please... let me know. I've got an
+assistant editor who's outlived his usefulness.
+
+Stathis leaves.
+
+BRUNDLE
+You didn't waste any time.
+
+VERONICA
+I'm not getting any younger.
+
+BRUNDLE
+He didn't seem, he wasn't impressed by your tape?
+
+VERONICA
+He thinks you're a con man.
+
+BRUNDLE
+Excellent!
+
+VERONICA
+Yeah? Well let's see what the people at Omni think about it.
+
+BRUNDLE
+No, no! Uh, listen, Veronica... I've come here to say one
+magic word to you.
+
+VERONICA
+Yeah?
+
+BRUNDLE
+Cheeseburger.
+
+INT. A FAST FOOD RESTURANT- DAY
+
+In a busy fast food resturant, we close in on Brundle and
+Veronica, who are sat eating and conversing.
+
+BRUNDLE
+I've been working alone too long. I have a strong urge, uh,
+to talk about what I'm doing. But, um, if this gets out
+now... Veronica, it'll kill me. The Bartok people'll kill
+me... my colleagues'll kill me. It's not ready yet.
+
+VERONICA
+It seems to work okay.
+
+BRUNDLE
+No, something important's missing.
+
+BERONICA
+Yeah?
+
+BRUNDLE
+Yeah.
+
+VERONICA
+Which is?
+
+BRUNDLE
+I can only teleport inanimate objects.
+
+VERONICA
+Well, what happens when you try to teleport living things?
+
+BRUNDLE
+Not while we're eating.
+
+VERONICA
+Can't be worse than this. Listen, you're not doing a very
+good job of convincing me. I think the world should know
+about it now  and I think I should be the one to tell it.
+
+BRUNDLE
+You should tell it, but, uh... not yet. Look, what do you
+got so far?
+
+VERONICA
+Enough to make you nervous.
+
+BRUNDLE
+Why not get more? let me become your major project. I'm
+talking about a book. Not a magazine article. Follow me and
+my work day by day in as much detail as you can stand. I
+don't have a life, so there's nothing for you to...
+interfere with. Research the background. Cover the process.
+The complete record of the most... earth-shattering
+invention ever. The one that ended all concepts of
+transport, of borders and frontiers, of time and space. And
+the book'll end... with me... transporting myself fifteen
+feet through space from one telepod to another. That's
+what's really missing... Wait for me that long.
+
+INT. VERONICA'S APARTMENT
+
+Veronica enters her apartment and hears the distant sound of
+a shower from her bathroom. She enters the rooom to discover
+Stathis taking a shower.
+
+VERONICA
+What are you doing in my apartment?
+
+STATHIS
+I just happened to be in the neighbourhood. Felt a bit
+scummy. Rough day.
+
+As Veronica leaves she flushes the toilet and Stathis
+screams.
+
+CUT TO: Stathis and Veronica in Veronica's living room.
+Stathis is drying his hair while sat down.
+
+VERONICA
+How did you get in?
+
+STATHIS
+I have a key, remember? You gave it to me.
+
+VERONICA
+I knew I should have changed the lock.
+
+STATHIS
+I knew you wouldn't.
+
+VERONICA
+Yeah?
+
+STATHIS
+Yeah. That's because... unconsciously... you still want me
+to come back, move in again.
+
+VERONICA
+No. That's because, very consciously, I'm lazy and
+disorganized.
+
+STATHIS
+Your new playmate's an interesting guy.
+
+VERONICA
+What playmate?
+
+STATHIS
+The nightclub act. Brundle.
+
+VERONICA
+Yeah?
+
+STATHIS
+Yeah. Yeah, I was wrong. He's really... quite brilliant. He
+was the leader
+of the F-three-two team. Remember that? An inch away from
+the Nobel Prize for
+physics. He was only twenty at the time.
+
+VERONICA
+Um... I don't even think I'm gonna do Brundle. I'm still
+considering the Psychology Today gig.
+
+STATHIS
+That's not like you.
+
+VERONICA
+Are you getting out or am I?
+
+STATHIS
+I'll go. I have to put this issue to bed. You want me to
+come back later and tuck you... in?
+
+VERONICA
+No. Key.
+
+STATHIS
+I'll keep it... for old time's sake.
+
+VERONICA
+You're a petty schmuck!
+
+INT. BRUNDLES LAB
+
+Brundle is sat typing at his Computer as Veronica films him
+. We see a baboon sat in Telepod 1. Brundle finishes typing.
+
+BRUNDLE
+Initiate in five seconds.
+
+After 5 seconds, The baboon teleports into Pod 2. Veronica
+is still filming as Brundle trys to peer through the smoke
+into the recieving pod. Suddenly a blood soaked paw smashes
+against the window. Seth reluctantly opens the pod to
+discover the mangled, spasming remains of the dying baboon.
+
+CUT TO:
+Seth stands behind Pod 2 as Veronica focuses the Camera on
+him.
+
+VERONICA
+We've got to do this Seth. Talk to the tape, get in the
+habit. the world will want to know what you're thinking.
+
+BRUNDLE
+Fuck is what I'm thinking!
+
+VERONICA
+Good. The World will want to know that. What else? Why
+didn't it work?
+
+BRUNDLE
+I think it turned the baboon inside out.
+
+VERONICA
+Why?
+
+BRUNDLE
+It can't deal with he flesh. It only seems to work with
+inanimate objects, nothing that's living. It must be my
+fault.
+
+VERONICA
+Why?
+
+BRUNDLE
+Computers are dumb, they only know what you tell them. I
+must not know enough about the flesh myself, I'm going to
+have to learn. I don't want to talk anymore.
+
+Seth turns and walks away.
+
+INT. BRUNDLES BEDROOM- NIGHT
+
+Brundle is laid out on his bed and Veronica is sat gently
+swaying on a rocking chair in the corner of the room.
+
+VERONICA
+Do you ever change your clothes?
+
+BRUNDLE
+What?
+
+VERONICA
+Your clothes, you're always wearing the same clothes.
+
+BRUNDLE
+No, these are clean. I change my clothes every day.
+
+VERONICA
+Five sets of exactly the same clothes?
+
+BRUNDLE
+Ordered from Einstein. This ways I don't have to spend any
+thought on what I'm going to wear, I just grab the next set
+on the rack.
+
+VERONICA
+I bought some steaks. Can I make you one?
+
+BRUNDLE
+We could go out?
+
+VERONICA
+"Cheeseburger"?
+
+BRUNDLE
+No. We don't have to go there.
+
+VERONICA
+You're very cute, you know that?
+
+BRUNDLE
+Am I?
+
+Veronica and Brundle begin to Kiss.
+
+INT. BRUNDLES BEDROOM- NIGHT
+
+We pan in on Brundle and Veronica making love on Brundle's
+bed. Brundle lays back on the bed and jumps up in pain
+suddenly.
+
+BRUNDLE
+Ohh Ahh, My back.
+
+Veronica examines Seth's back to discover a small Computer
+chip stuck to it.
+
+VERONICA
+Oh god, Something's stuck to your back.
+
+BRUNDLE
+Well pull it off.
+
+Veronica slowly pulls out the chip and Shows it to Brundle.
+
+VERONICA
+Sorry.
+
+BRUNDLE
+I wondered what happened to that!
+
+VERONICA
+Do you have any disinfectant?
+
+BRUNDLE
+No, it's okay.
+
+VERONICA
+I'm going to kiss it for you!
+
+Veronica kisses Brundle's back and playfully bites his arm.
+
+VERONICA
+I'm sorry. I just want to eat you up. You know, that's why
+old ladies pinch babies cheeks. It's the flesh. it just
+makes you crazy.
+
+BRUNDLE
+Ronnie, Ronnie. You want to try an experiment?
+
+VERONICA
+Sure.
+
+INT. BRUNDLES KITCHEN- NIGHT
+
+BRUNDLE
+Eat this. I need an objective opinion. Yes?
+
+VERONICA
+Well, it could use some Finesse, but it tastes like a steak.
+
+BRUNDLE
+Okay, Now try this, teleported half.
+
+VERONICA
+Are you serious? A monkey just came apart in there!
+
+BRUNDLE
+Baboon. Eat.
+
+VERONICA
+Ohh, it tastes funny.
+
+BRUNDLE
+Funny how?
+
+VERONICA
+It tastes, synthetic. So what have we proved?
+
+BRUNDLE
+The computer is giving us it's interpretation of a steak.
+It's translating it for us, it's re-thinking it rather than
+reproducing it, and something's getting lost in the
+translation.
+
+VERONICA
+Me. I'm lost.
+
+BRUNDLE
+The flesh. It should make the computer crazy, like those old
+ladies pinching babies. But it doesn't, not yet. I haven't
+tought it to be made crazy by the flesh, the poultry, the
+steak. So I'm going to start teaching it now!
+
+INT. A CLOTHES SHOP- DAY
+
+Veronica picks put a leather Jacket. when she walks over to
+the counter, she spots Stathis spying on her.
+
+VERONICA
+What are you doing here?
+
+STATHIS
+I followed you. "Psychology Today" My ass. You stayed with
+brundle all night. Why didn't I believe you? I wonder.
+
+Stathis takes the jacket.
+
+STATHIS
+Oh yeah. I think he'd look great in this, Don't you? I mean,
+for your "Time Magazine" cover, you've got to look good
+right?
+
+VERONICA
+Don't you get it? I am finally onto something that's big.
+Huge.
+
+STATHIS
+Oh yeah? What? His Cock?
+
+VERONICA
+Crude Stathis. Very crude.
+
+STATHIS
+Too perfect to believe! You're a goddess! Thank you for
+making my most paranoid fantasies come true!
+
+VERONICA
+I don't have to report to you, you creep!
+
+STATHIS
+Ronnie! You've got to talk to me!
+
+VERONICA
+I don't have to do anything! We're finished, remember? I'll
+spend the night anywhere I damn well please.
+
+Veronica walks away and pays for the jacket.
+
+VERONICA
+Sorry. I'll take this too.
+
+INT. BRUNDLES LAB- NIGHT
+
+Brundle is mid way through teleporting another baboon.
+Veronica films as the baboon bounces out of Pod 2, and into
+Brundle's arms
+
+BRUNDLE
+I think it's time for champagne.
+
+CUT TO:
+Brundle and Veronica are sat near the piano drinking and
+celebrating.
+
+VERONICA
+Oh god Seth. It's really happened. You did it. You'll never
+have to get car sick again!
+
+BRUNDLE
+Or air sick, or sea sick.
+
+VERONICA
+I know, I know. Or Tricycle sick! What's next?
+
+BRUNDLE
+We'll send the baboon out for tests, see if he's really
+okay.
+
+VERONICA
+How long will that take?
+
+BRUNDLE
+Could be weeks.
+
+VERONICA
+Really?
+
+BRUNDLE
+Yeah. Why?
+
+VERONICA
+Well I was thinking, that we could take a Holiday.
+
+BRUNDLE
+We could?
+
+VERONICA
+Yeah. Like an old married couple. Old man's got a couple of
+weeks off so they go to Florida. Someplace warm. Just the
+two of us?
+
+BRUNDLE
+Just you and me?
+
+VERONICA
+Yeah, why? Is there someone else you were thinking of
+Bringing along?
+
+BRUNDLE
+No, No. Is this a romance we're having, is that what it is?
+
+VERONICA
+Yeah, Could be a romance.
+
+BRUNDLE
+Oh I have a great idea, Do you like Chinese food?
+
+Brundle walks over to his desk and picks up the phone.
+
+VERONICA
+Yes.
+
+BRUNDLE
+We're going to have a very romantic dinner right here.
+
+VERONICA
+Hey what's this?
+
+Veronica picks up a folder with the words "From the desk of
+Stathis Borans" on it.
+
+BRUNDLE
+Oh yeah, from your Editor. I'm sorry, someone slipped it
+under the door. Hello Victor, yeah it's Seth Brundle. Oh
+yeah, I'll wait.
+
+Veronica opens the folder to discover a mock "Particle
+Magazine" cover, with a picture of Brundle, two telepods and
+the words "Teleportation: A reality?" and "Seth Brundle,
+youthful father of a new age.".
+
+VERONICA
+Oh no.
+
+BRUNDLE
+What?
+
+VERONICA
+Oh nothing, it's just personal bullshit.
+
+BRUNDLE
+I thought old married couples shared all their personal
+bullshit, that's how they stayed old and married.
+
+VERONICA
+Listen Seth, Don't rush it.
+
+BRUNDLE
+What are you talking about "Rush it"?
+
+VERONICA
+Look, I have to go out for a few hours.
+
+BRUNDLE
+Now? No, Ronnie! Spicy Egg plant, the champagne!
+
+VERONICA
+Just for a few hours. I still have the residue of another
+life, you know, I have to scrape it off my shoe and get rid
+of it once and for all.
+
+Veronica leaves and someone answers the phone to Seth.
+
+BRUNDLE
+Hi.
+
+INT. STATHIS'S OFFICE- NIGHT
+
+Veronica enters Stathis's office, and throws the folder onto
+his desk.
+
+VERONICA
+What's this supposed to mean?
+
+STATHIS
+It means that I'm your editor and I'm shaping your material
+into a story.
+
+VERONICA
+You're the one who told me there was no story. You said
+Brundle was a Con man.
+
+STATHIS
+I've decided to trust your Journalistic instincts.
+
+VERONICA
+Thanks very much. But this is not your story. It's mine.
+
+STATHIS
+Says who? I sent you to the Bartok party to see what you
+could find. Your discovery is my discovery. I have a LOT of
+background on Brundle. He's been working on this thing for 6
+years. There's material out there if you dig deep. I dug.
+
+VERONICA
+Stathis. Everything that has to do with transportation will
+become obsolete. And I am right there in the middle of it.
+The only recorder of the event from the inside-out.
+
+STATHIS
+Okay. Okay. Look, keep me informed? As a friend? As a
+professional confidant?
+
+VERONICA
+That's all?
+
+STATHIS
+I don't want you to disappear from my life.
+
+VERONICA
+Okay.
+
+STATHIS
+What about Sex? I'm not saying love, or affection. Just
+stress relieving Sex. You and me.
+
+VERONICA
+You're disgusting. As always.
+
+STATHIS
+Wouldn't want to disappoint you.
+
+INT. BRUNDLE'S LAB- NIGHT
+
+Brundle is stood drinking and talking to the baboon, who is
+sat in the chair.
+
+BRUNDLE
+Residue means her old Boyfriend. Stathis Borans is her old
+boyfriend. "from the desk of Stathis Borans". How about
+"Under the desk of Stathis Borans."? She's working for her
+old boyfriend. Now she runs out late to see him. What is
+this, "The Ronnie Game"? I'm catching on, I'm catching on. I
+didn't mean to kill your brother. But he didn't die in vain,
+if that's of any comfort. And as the general said; "There's
+nothing I'd ask you to that I wouldn't do myself boys." Hey
+you're alright. Looking at you I can tell you're okay. What
+are we waiting for? Let's do it.
+
+Brundle slams down his glass and heads for the computer.
+
+CUT TO:
+The timer begins to countdown as Brundle enters the telepod.
+He sits facing the door and fails to notice a small house
+fly enter the pod with him. The door shoots and locks.
+     The baboon jumps up and over to the Pod, it peers through
+at Brundle, who smiles and reaches out. The fly, meanwhile
+rests in the viewing port, safe out of reach.
+     The telepod boots up and Brundle prepares himself.
+Suddenly, The Fly moves out of the port and into the pod.
+Brundle is teleported.
+
+The baboon shifts it's gaze o Pod 2, from where Brundle
+emerges.
+Into Brundle's arms jumps the baboon.
+
+BRUNDLE
+How're you doing? Now you tell me. Am I different somehow?
+Is it live or is it memorex? It's too bad Ronnie missed it.
+
+INT. BRUNDLES BEDROOM- NIGHT
+
+Veronica enters the Bedroom and sits next to Brundle, who
+wakes.
+
+BRUNDLE
+I missed you last night.
+
+VERONICA
+It's still night. I came back. You had to celebrate without
+me. I'm sorry.
+
+BRUNDLE
+I went through last night.
+
+VERONICA
+You went through? Without testing the baboon?
+
+BRUNDLE
+I-I-I was... drunk. I was a bit upset.
+
+VERONICA
+You could have killed yourself!
+
+BRUNDLE
+Are you sleeping with Stathis Borans?
+
+Brundle wraps the sheet around himself and stands up.
+
+VERONICA
+What are you talking about?
+
+BRUNDLE
+I-I-I don't know. I-I just, um, get that feeling.
+
+VERONICA
+That's why you were upset?
+
+BRUNDLE
+I got jealous.
+
+Brundle takes a seat in the kitchen and Veronica sits on his
+lap.
+
+VERONICA
+Oh, God. Seth... you don't have to be jealous. He's an old
+boy... friend. He was teaching at college. I was a science
+major. He got me started in journalism.
+
+BRUNDLE
+Is he still in love with you?
+
+VERONICA
+How could he not be? Hey... wh-what about our deal? You went
+through
+and I wasn't there.
+
+BRUNDLE
+Don't worry. I taped it for you.
+
+VERONICA
+You did?
+
+BRUNDLE
+Yeah.
+
+They begin kissing and Veronica slides her hand down his
+back, she doesn't notice the small hairs that are beginning
+to protude from the cut in his back.
+
+INT. BRUNDLES LAB- DAY
+
+Brundle and Veronica are laid next to each other in Bed.
+They Both appear to be asleep. Suddenly Brundles hand
+reaches out and grabs the air. Brundle opens his eyes and
+his fist to see that he caught a house fly. He looks around,
+then gets out of bed.
+
+CUT TO:
+Time passes and Veronica wakes up. She slips on a shirt and
+goes into the lab. She sits down and watches as Brundle
+excersises on a chait. He uses his hands on the arms to lift
+himself up and down. He then goes over to a steel bar which
+stretches across part of the lab and swings back and forth
+on it. He appears to be very energetic and experienced at
+what he is doing. He lifts himself up, and then swings back
+down onto the floor. He turns around to See Veronica, who
+stand up and rests her hand on Brundle's chest.
+
+CUT TO:
+T.V. IMAGES From time to time we cut to the live (film)
+version of these same images. When we are live, we also see
+reactions from Veronica. Brundle is being interviewed in
+CLOSE-UP; VERONICA SPEAKS OFF-CAMERA.
+
+VERONICA (OC:
+We've just seen the first teleportation of a human being.
+Dr. Seth Brundle, how did it feel going through? What did it
+feel like?
+
+BRUNDLE (ON TAPE:
+It feels like a stutter.
+
+VERONICA:
+A what?
+
+BRUNDLE:
+A stutter. A hiccup. A slight dislocation of my physical
+life. Not unpleasant. Just a little interuption of rhythym.
+For a second I thought it didn't work. I thought I was in
+the same telepod I started out in.
+
+VERONICA (OC):
+ And did you feel at all different?
+
+BRUNDLE (ON TAPE):
+ A little...unbalanced. That's all.
+
+VERONICA (OC):
+ And now?
+
+BRUNDLE (ON TAPE)
+ I should feel exactly the same as before, but I don't. I'm
+not complaining. I feel very co-ordinated. And very
+energized. I feel as though I work better, physically.
+Everthing seems to just - work together better than it ever
+did before.
+
+VERONICA (OC):
+Why should that be?
+
+BRUNDLE (ON TAPE):
+It's possible that the teleporter has somehow...improved me.
+
+VERONICA (OC):
+But that's fantastic! How is it possible?
+
+BRUNDLE (ON TAPE):
+ In reassembling me it might have - this is just a guess -
+but it might have just - seen where things could be improved
+- theoretically, and it did it. I told it to be creative,
+and I guess it has been.
+
+VERONICA (OC):
+Could this ever be dangerous?
+
+BRUNDLE:
+Well, it's certainly unexpected. The monkeys haven't shown
+any change from their norm. We'll see when they come back
+from testing.
+
+VERONICA:
+ You still haven't answered me. Could this ever be
+dangerous?
+
+BRUNDLE (ON TAPE):
+ It feels too perfect to be dangerous.
+
+VERONICA:
+You like the way it feels?
+
+BRUNDLE (ON TAPE):
+ Yes, I do. (BIG SMILE) Want to try it?
+
+CUT TO:
+CU VERONICA live. She shakes her head "No".
+
+EXT. THE STREETS- DAY
+
+Brundle and Veronica walk down the busy street. They stop at
+a small jewellers in a market and Brundle picks out a
+neckelace for Veronica.
+
+INT. COFFEE SHOP- DAY
+
+Veronica and Brundle are sat opposite each other in a small
+coffee shop.
+
+BRUNDLE
+So, I asked the computer if it improved me and it said it
+didn't know what I was talking about. And that's made me
+think very carefully about what I've been feeling, and why.
+And I'm beginning to think that the sheer process of being
+taken apart atom by atom and put back together again, why
+it's like coffee being put through a filter. It's somehow a
+purifying process. It's purified me, it's cleansed me. And I
+tell you, I think it's going to allow me to realise the
+personal potential, I've been neglecting all these years.
+That I've been obsessively pursuing goal after goal.
+
+Veronica notices that Brundle has filled his cup almost to
+the top with sugar.
+
+VERONICA
+Do you normally take coffee with your sugar?
+
+BRUNDLE
+What? Heh. You know I just don't think I've ever given me, a
+chance to be me. But, of course Interestingly, and the exact
+same moment that I achieved what will probably prove to be
+my life's work, that's the moment when I started being the
+real me finally. Listen, not to wax messianic. It may be
+true that the synchronicity of those two events might blur
+the resultant individual effect of either individual. But it
+is nevertheless it is also certainly true, I will say now
+however subjectively; that Human teleportation, molecular
+decimation, breakdown and reformation is inherently purging.
+It makes a man a King. From the moment I walked out of the
+pod I felt like a million bucks. You know , I think I am
+gonna have a cemoli after all. Waiter! I mean, What an
+accomplishment.
+But, what have I really done? All I've done is say to the
+world, "Lets go, Move. Catch me if you can". Waiter. Jesus
+Christ!
+
+
+INT. BRUNDLES LAB- DAY
+
+We pan through Brundle's lab to discover Brundle and
+Veronica making love on the couch. Veronica is half wearing
+a dressing gown.
+
+VERONICA
+How? How can you keep going? You can't have... have any
+fluid left in your body. We've been doing this for hours.
+
+BRUNDLE
+Uhhhh, I'm not ready to quit yet. Hey, come on.
+
+VERONICA]
+No.
+
+BRUNDLE
+Come on.
+
+Veronica moves her hand down Brundle's back and finds think
+hairs protruding from the cuts in his back, left by the
+computer chip.
+
+VERONICA
+What's this?
+
+BRUNDLE
+It's an attempt to distract me, that's what it is.
+
+VERONICA
+No, really, what is it? It's like, hairs or something.
+
+BRUNDLE
+I don't know. It's... It happens when you get older. Weird
+hair configurations. I don't know.
+
+VERONICA
+They are really coarse.
+
+BRUNCLE
+Well, I've never really been hairy enough. You know what I
+mean? Always too... boyish. I'm looking forward to a hairy
+body.
+
+VERONICA
+No, I...
+
+BRUNDLE
+It's one of the compensations of old age. Come here. Where
+are you going?
+
+VERONICA
+No, let me go.
+
+Veronica stands up and Wraps the dressing gown around her.
+She stands up and goes into the kitchen. Brundle puts
+underwear on and gets some ice cream from the freezer. He
+sits down and begins eating. Veronica, using a pair of
+scissors, tried to cut the hairs from his back.
+
+BRUNDLE
+Okay. Hey, hey, hey! Not my new hairs. What are you doing?
+
+VERONICA
+Relax, Brundle. I don't really think you want a body covered
+with these. God! They're... really tough.
+
+Suddenly, Brundle drops the spoon and stands up. As he talks
+he walks with Ronnie towards the telepods.
+
+BRUNDLE
+Listen... I want you to go through. I want to teleport you
+as soon as possible. Right now! You'll feel incredible.
+Ronnie... I hardly need to sleep anymore and I feel
+wonderful. It's like a drug, but a perfectly pure and benign
+drug. The power I feel surging inside me! And I won't be
+able to wear you out. We'll be the perfect couple. The
+dynamic duo! Come on, right now!
+
+VERONICA
+No! Hey, wait! Don't give me that born-again teleportation
+rap. I-I told you I'm scared to do it! What more do I have
+to say? I'm... not gonna do it!!!
+
+Veronica pulls herself away.
+
+BRUNDLE
+You're a fucking drag, you know that?
+
+VERONICA
+Something went wrong, Seth. When you went through, something
+went wrong.
+
+BRUNDLE
+No? Not you? If you're too chickenshit to be a member of the
+dynamic duo club, okay then, great. I'll find somebody else.
+Somebody who can keep up with me.
+
+VERONICA
+Seth, you have to listen to me.
+
+Brundle gets dressed and heads for the door.
+
+BRUNDLE
+You're afraid to dive into the plasma pool, aren't you?
+You're afraid to be destroyed and recreated, aren't you?
+I'll bet you think that you woke me up about the flesh,
+don't you? But you only know society's straight line about
+the flesh. You can't penetrate beyond society's sick gray
+fear of the flesh! Drink deep or taste not the plasma
+spring! You see what I'm saying? I'm not just talking about
+sex and penetration, I'm talking about penetration beyond
+the veil of the flesh! A deep, penetrating dive into the
+plasma pool!
+
+Brundle leaves Veronica standing shocked in the lab. As he
+walks down the corridor he jumps up and hits a light shade.
+
+EXT. THE STREETS- NIGHT
+
+Brundle walks down the street,  from his pocket he pulls a
+chocolate bar which he begins to eat.
+
+INT. A BAR- NIGHT
+
+Brundle enters the Bar. Sitting at the Bar itself is TAWNY,
+meanwhile MARKY and MAN IN BAR are armwrestling.
+
+BRUNDLE
+I'll have a scotch.
+Who's winning?
+
+TAWNY
+I don't know. I hope it's Marky.
+
+BRUNDLE
+How come?
+
+TAWNY
+Because; I like Marky tonight.
+
+BRUNDLE
+Well, I like you tonight. Maybe I should get involved in
+this too.
+
+MARKY
+Hey pal. You're disturbing us.
+
+BRUNDLE
+I got a hundred bucks says I can beat either one of you.
+
+MARKY
+Take a hike, asshole!
+
+BRUNDLE
+Here. Here's my hundred. And, I get to take the lady home
+for the night if I win.
+
+TAWNY
+Says Who? do I look like a hooker to you?
+
+MARKY
+Hey Tawny, it's an easy hundred. Come on pal, let's get it
+over with.
+
+MAN IN BAR
+You better watch out. He eats chocolate bars.
+
+MARKY
+Yeah, So I noticed.
+
+Brundle and Marky start the armwrestle. Marky begins to look
+worried and a white pus seems to be coming from Brundle's
+hand. With a flip of his hand, Brundle snaps the bone in
+Marky's wrist. Brundle stands up, grabs Tawny, and leaves.
+
+EXT. THE STREETS- NIGHT
+
+Brundle and Tawny walk down the street chatting.
+
+TAWNY
+Are you a body builder or something?
+
+BRUNDLE
+Yeah I build bodies. I take them apart and then I put them
+back together again.
+
+TAWNY
+Why, you certainly took Marky apart.
+
+BRUNDLE
+Let's go back to my place.
+
+TAWNY
+Your place? Yeah Well, I live with my Mother anyway. But can
+we maybe go to a few more bars first? It's a little too
+early to quit.
+
+BRUNDLE
+Sure a few more bars.
+
+EXT. BRUNDLES LAB- EARLY MORNING
+
+A taxi pulls up outside Brundle's lab. From it emerge
+Brundle and Tawny.
+
+INT. BRUNDLES LAB- EARLY MORNING
+
+Brundle and Tawny are walking up the stairs to Brundle's
+apartment. Tawny sits on the steps.
+
+TAWNY
+Great place. There's no elevator. I can't make it.
+
+BRUNDLE
+Oh there's an elevator.
+
+Brundle picks Tawny up.
+BRUNDLE
+There. Don't you feel elevated?
+
+Brundle runs at a fast, continuous pace up the stairs with
+Tawny in his arms.
+
+TAWNY
+Woah!
+
+
+INT. BRUNDLES LAB- EARLY MORNING
+While Tawny Watches, Brundle teleports himself. He emerges
+naked and stands before Tawny.
+
+TAWNY
+Wow. Are you some sort of a magician?
+
+BRUNDLE
+Yes.
+
+Brundle lays on Tawny and begins to kiss her.
+
+INT. BRUNDLES LAB- DAY
+Tawny and Seth are Sat on Seth's bed. Tawny appears to be
+rather laid back, but Brundle is the opposite; he is hunched
+over and has a tight look on hid face.
+
+TAWNY
+So, are we going to breakfast or not?
+
+BRUNDLE
+It's your turn.
+
+TAWNY
+To do what?
+
+BRUNDLE
+I want you to go through.
+
+TAWNY
+No. I don't want to try that.
+
+BRUNDLE
+Why not? It'll make you feel sexy!
+
+TAWNY
+I already feel sexy. How about... A nice alcohol rub?
+
+Tawny Pours some alchohol onto her hand but Brundle knocks
+the bottle onto the floor.
+
+BRUNDLE
+Don't do that, it hurts!
+
+BRUNDLE
+Sorry Hon'. I didn't know you had the skin of a Princess.
+You're real sensitive huh?
+
+Tawny tries to massage Brundle's back, but he pulls her away
+and tries to drag her into the lab area. He doesn't realise
+that Veronica has entered the lab.
+
+BRUNDLE
+Okay, okay! Now you're going to like it!
+
+TAWNY
+I don't want to! I'm afraid!
+
+BRUNDLE
+Don't be afraid!
+
+VERONICA
+No. Be afraid. Be very afraid.
+
+TAWNY
+Who's this?
+
+BRUNDLE
+Oh, I forgot to tell you, I live with my mother, too. Mum,
+meet Tawny.
+
+TAWNY
+I gotta go. Thanks for a wonderful time.
+
+Tawny picks up her clothes and leaves.
+
+BRUNDLE
+Why'd you scare her off? Jealous?
+
+VERONICA
+You're changing. Seth. Everything about you is changing. You
+look bad. You smell bad.
+
+BRUNDLE
+I've never been much of a bather.
+
+VERONICA
+Those... weird hairs that were growing out of your back, I
+took them to a lab. I had them analyzed.
+
+BRUNDLE
+The hairs? Oh... yeah, that's a strange thing to do.
+
+VERONICA
+Not as strange as the results. The guy at the lab had
+trouble identifying them. He finally came to the
+conclusion... that they were definitely not human.
+
+BRUNDLE
+Oh! Very good.
+
+VERONICA
+Not human... Seth. In fact... very likely insect hairs.
+
+BRUNDLE
+That's silly. That's ridiculous.
+
+VERONICA
+Look. Now there's more. Uh, look at your face! Something
+happened when you went through, Seth. You've got to get some
+help. I think you must be sick.
+
+BRUNDLE
+You're jealous!!! I've become free, I've been released, and
+you can't stand it! You'll so anything to bring me down.
+Look at me. Does this look sick? Does this look like a sick
+man to you?
+
+Brundle starts punching a support beam attatched to the
+corner of the wall. As he punches it parts of it exlode out,
+and buckle.
+
+VERONICA
+No! Stop it!
+
+BRUNDLE
+Do you know any sick men who can do that? Come here!
+
+Brundle pulls Veronica and throws her out of the door.
+
+VERONICA
+No... Seth!
+
+BRUNDLE
+The deal is off! I don't need you anymore.
+
+VERONICA
+No, wait! Seth, please, wait! Seth!
+
+Brundle pulls the door shut and locks it.
+BRUNDLE
+Don't come back!
+
+VERONICA
+Oh, God! Oh, my God.
+
+We stay with Veronica as she slowly walks down the corridor.
+
+CUT TO:
+Brundle enters his Bathroom and seems worried when he
+examines himself in the mirror. He tries to shave with an
+electric razor, which hurts so Brundle throws it into the
+bath and destroys it.
+     He then looks back in the mirror and bites his nail,
+which comes off in his teeth, He squeezes the end which
+projects a white liquid onto the mirror. He then pulls
+another nail off before sitting on the rim of his bath tub.
+
+BRUNDLE
+Am I dying? Is this how it starts, am I dying?
+
+CUT TO:
+Brundle is sat at his computer with a pair of gloves on.
+
+BRUNDLE
+Give me a disc. I need the first teleportation: S. Brundle
+
+The computers shows the log of Seth's first teleportation,
+which also shows a second object in the telepod. When
+Brundle asks what the secondary object is, the computers
+replies "Secondary element is.....Not-Brundle".
+
+BRUNDLE
+Run Sequence.
+
+The computer runs through several scans of the "Secondary
+element", and it becomes clear that it is a fly. Brundle
+asks the computer, through typing, what happened to the fly.
+The Computer soon responds with, "Fusion". Brundle finally
+asks if he absorbed and assimilated the fly. The Computer
+tells him; "Negative, Fusion of Brundle and Fly at molecular
+Genetic level."
+
+INT. RONNIES APARTMENT- NIGHT
+
+VERONICA
+Hello?
+
+BRUNDLE
+(Mumbles)
+
+VERONICA
+Seth! Seth, I've been trying to reach you. Where are you?
+
+BRUNDLE
+For the last four weeks I've been afraid to see you. Now,
+I'm afraid not to.
+
+VERONICA
+Where are you? Are you at home?
+
+BRUNDLE
+Veronica. You don't know how right you were. I've gotten,
+much much worse. Please come see me. Please come now.
+
+INT. BRUNDLES LAB- NIGHT
+Veronica enters the Lab, which appears to be empty.
+
+VERONICA
+Seth? I'm here.
+
+Suddenly Brundle jumps out from behind the prototype
+telepod, which is now exposed.
+
+BRUNDLE
+Stop!
+
+VERONICA
+Seth!
+
+Seth Brundle, now walking on Canes, shows himself after a
+month of self induced insolation. He is much worse than when
+we last met him and alot of his hair has fallen out. His
+skin has a gray colour to it and is covered in small lumps
+and spots. He wears gloves.
+
+BRUNDLE
+You were right. I'm diseased and, uh... it might be
+contagious somehow. I wouldn't want to infect you. And it's
+been accelerating. It's unrelenting. Every time I look in
+the mirror, there's someone different, someone hideous,
+repulsive.
+
+VERONICA
+What happened?
+
+BRUNDLE
+I know an old lady who swallowed a fly perhaps she'll die.
+
+VERONICA
+Seth... please.
+
+BRUNDLE
+I was not pure. The teleporter insists on inner purity. I
+was not pure.
+
+VERONICA
+I don't know what you mean.
+
+BRUNDLE
+A fly got into the transmitter pod with me that first time
+when i was alone. Uh, the computer got confused; there
+weren't supposed to be two separate genetic patterns and it
+decided to splice us together. It mated us, me and the fly.
+We hadn't even been properly introduced. My teleporter
+turned her into a gene splicer. And a very good one. Now I'm
+not Seth Brundle anymore. I'm the offspring of, um, Brundle
+and housefly.
+
+VERONICA
+Oh, God!
+
+Veronica moves closer to Brundle, who jumps up from his
+seat.
+
+BRUNDLE
+No.
+
+VERONICA
+Oh, God!
+
+BRUNDLE
+Please.
+
+VERONICA
+Seth!
+
+BRUNDLE
+You look so pretty.
+
+VERONICA
+What will happen?
+
+Brundle sits back down in another chair.
+
+BRUNDLE
+Oh, I think it's showing itself as a bizarre form of cancer.
+
+VERONICA
+What?
+
+BRUNDLE
+And general cellular chaos and revolution. I'm, just gonna
+have to disintegrate. In a novel way, no doubt. And then
+I'll die. And then it will be all over.
+
+VERONICA
+No, no, no. I don't accept that. There must be something we
+can do, you know, somebody we can go to, tests that can be
+done.
+
+BRUNDLE
+No! Um, I won't be just another tumorous bore talking
+endlessly about his hair falling out and his lost lymph
+nodes.
+
+VERONICA
+Well, then what do you want me to do? Why did you call me?
+
+Brundle picks up a donut and vomits a white liquid over it.
+Veronica utters a small scream and puts her hand over her
+mouth.
+
+BRUNDLE
+Oh, that's disgusting.
+
+He puts the donut down and touches his ear, which falls onto
+the floor.
+
+BRUNDLE
+My ear, No! I'm scared.
+
+Seth and Veronics hug.
+BRUNDLE
+ Help me. Please, please help me.
+
+INT. STATHIS'S OFFICE- DAY
+Stathis and Veronica are sat in Stathis;s office talking.
+Veronica seems very tired and worn out.
+
+STATHIS
+Don't go back to him.
+
+VERONICA
+That's it? that's your advice?
+
+STATHIS
+He's right, don't you see. It could be contagious. It could
+turn into an epidemic.
+
+VERONICA
+I have to go back to him.
+
+STATHIS
+I don't believe this.
+
+VERONICA
+If you could see how scared, and angry and desperate he
+is...
+
+STATHIS
+I'm sure typhoid Mary was a very nice person too, when you
+saw her socially. Listen, I do not want...
+
+VERONICA
+I don't care what you want!
+
+STATHIS
+Alright! Fine! Do I have permission to clean your body when
+this is all over?
+
+VERONICA
+Oh god...
+
+STATHIS
+Look, how about this - You say "If only I saw him". Show me.
+Tape him, show me. Let me think about it. I'll come up with
+something.
+
+INT. BRUNDLES LAB- DAY
+We see from the roof as Veronica enters the Lab.
+
+VERONICA
+Seth? Seth?
+
+BRUNDLE
+No, no. Up here.
+
+Veronics is shocked to look up and see Brundle walking on
+all fours on the ceiling. He moves very well and seems quite
+used to it.
+
+BRUNDLE
+I've gotten pretty good at it haven't I? You know it's
+almost second nature. Stopped biting my nails. Oh look at
+this, what's this? I don't know. I seem to be stricken by a
+disease with a purpose wouldn't you say? Maybe not such a
+bad purpose after all.
+
+
+VERONICA
+I can't stay.
+
+Brundle is now horizontal and stuck to the door. He jumps
+down and walks close to Veronica.
+BRUNDLE
+Why not? Why can't you?
+
+VERONICA
+I can't take it. It's too much.
+
+BRUNDLE
+What's there to take? The disease has just revealed it's
+purpose. We don't have to worry about contagion anymore, I
+know what the disease wants.
+
+VERONICA
+What does the disease want?
+
+BRUNDLE
+It wants to turn me into something else. That's not too
+terrible is it? Most people would give anything to be turned
+into something else.
+
+VERONICA
+Turned into what?
+
+BRUNDLE
+What do you think a fly? Am I becoming a hundred and eighty
+five pound fly? No, I'm becoming something that's never
+existed before. I'm becoming "Brundlefly", don't you think
+that's worth a Nobel prize or two? Here.
+
+Brundle brings the camera near to the table in front of
+Veronica.
+
+BRUNDLE
+I'm going to give a demonstration that I think you'll want
+to record for prosperity.
+
+Brundle throws alot of the Rubbish off of the table and sits
+in front of the Camera.
+
+BRUNDLE
+ I think we must chronicle the life and times of Brundlefly,
+don't you? At the very least it should make a fabulous,
+Children's book. You seem tired. You got me there? How does
+Brundlefly eat? Well, he found out the very hard and painful
+way that he eats very much the same way a fly eats. His
+teeth are now useless because although he can chew up solid
+food, he can't digest it, solid food hurts. So like a fly,
+Brundlefly breaks down the solid with a corrosive enzyme,
+pleasurably called "Vomit drop". He regurgitates on his
+food, it liquifies, and then he sucks it back up. You ready
+for a demonstration kids? Here goes...
+
+INT. VERONICAS APARTMENT- NIGHT
+We see Brundle on the screen in Veronica's apartment as
+Stathis watches it.
+
+STATHIS
+My God. My God.
+
+Suddenly Veronica enters and goes straight down the corridor
+in tears.
+
+STATHIS
+Hey, Ronnie. Ronnie?
+
+Stathis follows and Discovers her sat down crying. He kneels
+down next to her.
+
+STATHIS
+What is it?
+
+VERONICA
+I'm pregnant.
+
+STATHIS
+No!? Oh no...
+
+VERONICA
+I'm pregnant with Seth's baby.
+
+STATHIS
+What do you want to do?
+
+VERONICA
+I don't know. I just, I don't know...
+
+INT. BRUNDLES LAB- NIGHT
+
+We are close on Brundle's fingers as they dance over the
+keys of the computer keyboard. Brundle has cut the fingers
+off a pair of yellow rubber kitchen gloves and jammed them
+down over his fingertips, so that his fingers won't stick to
+the keyboard.
+
+CU MONITOR which reads:
+GENE-SPLICING PROGRAM NOW IN PLACE
+TELEPOD 1: TRANSMITTER POD SUBJECT A
+TELEPOD 2: TRANSMITTER POD SUBJECT B
+TELEPOD 3: RECEIVER POD FOR GENETICALLY FUSED A-B
+COMBINATION SUBJECT
+
+We pull back to see that in front of Brundle and his
+keyboard stand not two, but THREE telepods, the third one of
+a somewhat older and more handbuilt vintage than the other
+two- the original PROTOTYPE TELEPOD which has been sitting
+in a corner of the lab under a tarpaulin and was noticed by
+Veronica on her first visit to the lab. In TELEPOD A sits a
+monkey, in TELEPOD B an alley cat. TELEPOD C, the old
+prototype receiver, is empty. Brundle operates the machine.
+The monitor says, READY FOR FUSION Brundle presses the
+ACCEPT button. The telepods go through their normal
+disintegration routine as the animals' outlines appear on
+the monitor in split screen fashion. But now, as the
+reintegration process begins, a stream of data concerning
+this new experiment, the fusion of monkey and cat, floods
+the screen. The basic message that gets across to us through
+all the hi-tech compu-talk is: PERCENTAGE OF MONKEY-63
+PERCENTAGE OF CAT-37
+      These numbers fluctuate as the machine tries to strike a
+molecular balance between the two creatures. Finally, an
+outline of the fused creature begind to form on the screen.
+brundle looks up to see the actual creature forming, and it
+is indeed grotesque: two heads- one monkey, one cat- at odd
+angles to each other, six legs which are not quite
+symmetrically placed on the monkey torso, cat tail. As the
+creature solidifies and the light goes off, it sits there in
+the telepod for a moment, half-reclining as though crippled.
+Brundle gets up, goes to the third telepod, and with great
+apprehension, opens the door. The thing just sits there,
+slumped for a beat, then SUDDENLY LEAPS UP AT HIM, its two
+heads SHREIKING! It jumps on his arm, clinging, snarling,
+then drops to the floor. The two heads begin to bite each
+other, blood begins to flow- the thing now running around in
+mad floppy circles, smearing blood everywhere. Brundle is
+horrified.      He grabs a metal rod leaning in a corner and
+begins to smash at the deformed thing. He keeps smashing at
+it until it stops its hideous screeching and lies dead,
+mangled on the floor. Brundle wraps it up in a towel and
+throws it into the refrigerator. He draws the old torn sheet
+over the third telepod so he doesn't have to look at it
+again. Back at the monitor, the screen is flashing the
+words: FUSION SUCCESSFUL RECEIVER TELEPOD 3
+Brundle puts his face in his hands for a few moments, then
+pulls himself together. He pulls the rubber fingertips off
+his fingers and throws them to the ground. Brundle has now
+developed some insect-like tics and mannerisms, his head
+twitching with nervous little jerks and his long fingers in
+constant motion. We see clearly now that all of Brundle's
+fly characteristics have been accentuated even further. The
+metallic-green hair which completely covers his face is much
+thicker than before, and the hernia-like bulge in his side
+is more protuberant now, stretched to the bursting point and
+obviously causing Brundle some pain. Brundle looks at the
+skylight. The sky is clear, the moon is a scimitar. On an
+impulse, he jumps up on the wall, sticking there for a beat.
+Then, with incredible agility, he ascends the wall, crosses
+the celing toward the skylight. ON THE CEILING Brundle
+glides on all fours, upside down, towards the skylight. Once
+there, he crawls into it and opens it up.
+
+EXT. LAB ROOFTOP-NIGHT
+
+Brundle clambers out of the skylight onto the roof. The
+night is gorgeous, clean and bright, the sky packed with
+stars. Brundle breathes deeply. He is still alive, isn't he?
+He can still respond to the beauty of the night, can't he?
+
+EXT. MONTAGE- BRUNDLE'S TRAVELS- NIGHT
+
+We follow Brundle on his solitary sojourn in a MONTAGE
+SEQUENCE. He climbs walls with amazing ability, leaps from
+rooftop to rooftop, hangs upside down from ledges and
+lampposts, eavesdropping on the city life around and below
+him, the inhabitants unaware of the unusual and shadowy
+observer in their midst. He scurries along the girder of a
+bridge, gazing down on the traffic and the river below him.
+These moments should be poetic, even beautiful, joyous. The
+moon is luminous, the dark night exquisite. Resigned to his
+fate and momentarily forgetful of his future, Brundle seems
+to be reveling in his unique powers. A brief euphoric fling.
+
+DISSOLVE TO:
+Brundle leaps across a narrow alleyway to the wall of the
+building opposite him. He smiles with smug satisfaction at
+his feat, then suddenly winces, grabbing his side with one
+of his hands. WE HEAR A CRACKING, SPLITTING SOUND. Brundle
+muffles a startled cry, and losing his balance, slides
+several feet down the wall before regaining hold. He looks
+down at the huge bulge in his side and sees that it is
+starting to split open!
+Brundle is horrified and in pain. He starts to quickly move
+down the side of the building but the pain impedes his
+progress. He manages to get down at least another floor
+before he's hit with another sharp pain. He doubles up and
+his tenuous grip on the wall causes him to slide another
+several feet downward before he regains his grip. The side
+is gaping wide now and SOMETHING is starting to protrude.
+Brundle is in shock. another ripple of pain causes him to
+release his grasp entirely and he falls to the ground in a
+dirty narrow alley, where he writhes in pain, as a STRANGE,
+HAIRY STICKLIKE APPENDAGE--ACTUALLY THE BEGINNINGS OF A
+FLYLIKE LEG-- begins to unfold awkwardly out of his
+side.Despite his excrutiating pain, Brundle watches with
+fixated, wide-eyed terror at his latest transformation! The
+insect leg now begins to probe around, function like a real
+leg, almost with a mind of its own. Grotesque as Brundle has
+become, he can't accept the next step towards real
+insectness which this new leg represents. He screams at the
+leg.
+
+BRUNDLE (SCREAMING AT THE LEG)
+No! No, I won't! I won't, I won't, I won't..!
+
+Brundle grabs at the leg, holds it, subdues it and then
+begins to gnaw at it with his teeth at its base, twisting
+himself into an agonized ball in order to do it. The leg
+begins to lever at his back, small hooklike protrusions all
+along its underside catching in the flesh of Brundle's back,
+tearing it in protest against Brundle's attempt at
+amputation. Finally, Brundle has severed the leg with his
+teeth. The leg drops off leaving a strand or two of stringy
+gristle hanging from the knobby stump in Brundle's side. The
+leg twitches on the ground, tries to extend itself. Brundle
+looks at the leg in shock, his eyes crazed, like an animal
+who has been caught in a leg-trap and has had to gnaw off
+the leg to be free. Brundle tries to steady himself, then
+staggers away down the alley. As he goes, he wipes the
+insect blood from his lips with his two forearms In exactly
+the same way that flies clean their faces.
+
+EXT. THE HOSPITAL- DAY
+
+Veronica is wheeled into a Hospital with Stathis by her side
+
+INT. THE HOSPITAL- DAY
+
+Veronica, with Stathis still by her side, is wheeled down a
+corridor by an orderly.
+
+VERONICA
+Stathis, I'm scared.
+
+STATHIS
+It's going to be all right Ronnie. It's going to be fine.
+
+VERONICA
+I don't think I want to loose it. Is there something wrong
+with me? Why am I loosing it?
+
+STATHIS
+It's better this way Ronnie, you'll see. It's the best thing
+that could happen.
+
+INT. OPERATING ROOM- DAY
+
+Veronica is laid on the table surrounded by Nurses, as well
+as Stathis and the GYNACOLOGIST.
+
+GYNACOLOGIST
+Okay, She's expelling it. Yeah it's coming out. I don't even
+think we're going to have to go in.
+
+NURSE
+It's going to be easy. Don't worry, Honey.
+
+VERONICA
+No. Please, no.
+
+GYNACOLOGIST
+It'll be over soon. Here we go. Just need suction here, a
+little suction. Suction. Hold it. Hold on a minute. There's
+more in here.
+
+VERONICA
+There's more?
+
+GYNACOLOGIST
+Yeah. I mean a lot more. Okay. You're going to have to help
+us. Come on, you can push. You can push it out!
+
+GYNACOLOGIST
+You can push it out. You can push it out. Give us a push.
+
+The Gynacologist hold up a disgusting maggot-like creature
+that Veronica has given birth to.
+
+VERONICA
+No! No! Ah! No! Noooo!
+
+CUT TO:
+Veronica wakjs up in bed Screaming; it was a dream. She
+pulls the covers over herself.
+
+INT. BRUNDLES LAB- NIGHT
+
+Brundle is stood at his computer typing. After reading the
+displayed text regarding a cure by gene-Splicing Brundle
+asks for information:
+
+
+BRUNDLE
+I want a disk. Give me preliminary integration.
+
+The computers scrolls "Voice Not recognised down the side of
+the screen" Brundle stops it and bites on his pencil, which
+causes his front teeth to fall out onto the keyboard. He
+counts his teeth with his tounge and sighs.
+
+CUT TO:
+Brundle stumbles into the Bathroom and opens his medicine
+cabinet, which is full of body parts which have fallen off.
+Brundle talks to his teeth before confinding them to the
+cabinet.
+
+BRUNDLE
+You're relics. Yes you are. Vestigial, archeological,
+redundant. Artifacts of a bygone era. Of historical interest
+only.
+
+As Brundle closes the cabinet, he catches sight of Veronica,
+who has entered the Lab and is standing opposite Brundle,
+with Brundle's bedroom in between them.
+
+BRUNDLE
+You've missed some good moments. Is that why you're here? To
+catch up?
+
+VERONICA
+I wanted...
+
+BRUNDLE
+My teeth have begun to fall out. The... medicine cabinet's
+now the Brundle Museum of Natural History. Do you want to
+see what else is in it?
+
+VERONICA
+No.
+
+BRUNDLE
+Then... what do you want?
+
+VERONICA
+I came to tell you... uh... I, uh, I just... I wanted to see
+you... before...
+
+BRUNDLE
+You have to leave now... and never come back here. Have you
+ever heard of... insect politics? Neither have I. Insects...
+don't have politics. They're very brutal. No compassion, no
+compromise. We can't trust the insect. I'd like to become...
+the first insect politician. You see, I'd like to, um...
+but,... I'm afraid of...
+
+VERONICA
+I don't know what you're trying to say.
+
+Brundle Steps forward, Veronica takes a step back and
+Brundle gazes up through the skylight.
+
+BRUNDLE
+I'm saying... I'm saying I-I'm an insect... who dreamt he
+was a man... and loved it. But now the dream is over... and
+the insect is awake.
+
+VERONICA
+No... no, Seth...
+
+BRUNDLE
+I'm saying... I'll hurt you if you stay.
+
+Veronica leaves and Brundle begins to cry.
+
+EXT. BRUNDLES LAB- NIGHT
+Veronica runs crying out of the lab. She is met by Stathis,
+who stands by the car.
+
+VERONICA
+Let's go! Let's do it now!
+
+STATHIS
+Now? Wait, what did he say?
+
+VERONICA
+I couldn't tell him! Let's go, damn it!
+
+STATHIS
+No! I think we should wait a few days, i don't think you're
+in the right frame of mind.
+
+VERONICA
+No! I want it out of my body now! you should have seen him,
+there could be anything in here! In me! In my body!
+
+STATHIS
+I don't know if I can arrange it now, right now, tonight.
+Why do we have to run around in the dark like a couple of...
+
+VERONICA
+Because I don't want it in my body! Do you understand me? I
+don't want it in my body!
+
+As Veronica and Stathis drive off, we cut up to See Brundle
+watching from the rooftop. He moves away into the shadows.
+
+INT. DR. CHEEVERS OFFICE- NIGHT
+DR CHEEVERS is sat at his Desk, while Veronica stares out of
+the Window. Stathis stands behind her.
+
+CHEEVERS
+Well, okay, what's the story?
+
+STATHIS
+She's pregnant and she wants to have an abortion.
+
+CHEEVERS
+In the middle of the night?
+
+STATHIS
+We have good reason to believe that this child will be
+deformed.
+
+CHEEVERS
+Yes, but in the middle of the night?
+
+STATHIS
+Look Brent, Please.
+
+CHEEVERS
+Is it your child?
+
+STATHIS
+No, it's the... it's the child of a man who is deformed.
+
+CHEEVERS
+Listen, I don't mean to interfere, but I detect a certain...
+uncertainty here. You know there are tests we can do that
+determine whether or not...
+
+VERONICA
+I don't want tests done. Tests can't guarantee anything. The
+baby could start off normal then become... I want an
+abortion, I'll do it myself if I have to.
+
+CUT TO: THE OPERATING ROOM
+CHEEVERS
+Okay if you can just slip into that, we'll be on our way in
+no time.
+
+Stathis and Cheevers go into the other room, leaving
+Veronica alone.
+Suddenly Brundle jumps through the window and walks towards
+Veronica.
+
+VERONICA
+Wait, Seth. No!
+
+Brundle picks up Veronica and runs back out. Stathis runs
+into the room just in time to glimple Brundle escape with
+Veronica.
+
+EXT. A ROOFTOP- NIGHT
+Brundle slowly puts Veronica down, and the talk.
+
+BRUNDLE
+Why did you want to kill Brundle? The baby might be all
+that's left of the real me. Please don't kill me.
+
+VERONICA
+I can't have it. I'm afraid.
+
+BRUNDLE
+Please, have the baby.
+
+VERONICA
+I can't! I can't!
+
+BRUNDLE
+Too bad. Too bad.
+
+INT. BRUNDLES LAB- NIGHT
+The door of Brundles lab slides open and Stathis Borans
+enters. He slides the door shut behind him and we pan around
+to discover the lab is empty.
+     Stathis slowly walks, disgusted by his surroundings and
+the horrific stench of the Lab.
+
+CUT TO:
+Stathis opens his case and reveals a shotgun, which he loads
+and arms himself with. He slowly walks over to Brundle's
+computer and presses a button which brings down the fusion
+program:
+
+Telepod 1:     Transmitter of Subject A
+Telepod 2:     Transmitter of Subject B
+Telepod 3:     Recieve of genetically fused A-B combination
+Subject.
+
+Stathis stares at the pods and behind him we glimpse the
+shadow of Brundlefly on the roof above him. Brundle drops
+from the roof screaming and knocks Stathis to the ground.
+Stathis looks up and is horrified by Brundle's appearance.
+He tries to shoot, but Brundle overpowers him and pulls him
+to his feet by clenching his wrist.
+     Brundle then proceeds to vomit onto Stathis's hand, which
+melts away as Stathis screams. Brundle drops Stathis to the
+ground and then repeats the process on Stathis's ankle, to
+which he then pulls away the foot.
+     Brundle stands up and raises his head above Stathis's He
+opens his mouth and prepares to Vomit on Stathis's face.
+
+VERONICA
+No! Don't! Don't please! Please...
+
+Brundle stops and sees Veronica screaming from the skylight
+above him. He moves quickly across the kitchen and slides up
+the wall and across the ceiling on all fours until he is
+facing Veronica.
+
+BRUNDLE
+Help me. Help me be human.
+
+VERONICA
+How?
+
+CUT TO:
+Brundle, holding onto Veronica, jumps down into the lab. He
+puts her down onto her feet and, holding her hand, explains
+the plan.
+
+BRUNDLE
+Well. I go there .and, uh you. go there. We come apart, then
+and then we .come together there. You me and the baby;
+together!
+
+Brundle starts the countdown for the fusion program.
+
+VERONICA
+No!
+
+BRUNDLE
+We'll be the ultimate family. A family of three joined
+together in one body.
+More human than I am alone.
+
+As Veronica tries to Pull away from Brundle, she rips his
+jaw off and flings it to the floor, screaming. This starts
+of a chain reaction as Brundle dead outer layer of Skin
+falls away to reveal the inner result of this mutation.
+Brundle throws Veronica into Pod  1 and begins to climb into
+Pod 2.
+
+     Meanwhile, as the computer counts down,  Stathis manages
+to prop himself up a support beam.
+     When Brundle is locked inside the pod, Stathis shoots the
+cable connecting Veronica's Pod to the computer, eliminating
+her from the fusion program.
+Stathis falls to the floor and crawls across to Veronica.
+     Brundle, meanwhile tries to escape from his pod by
+punching the glass away. He succeeds, but as he opens the
+door and steps out, the computer teleports him along with
+part of the door frame and telepod.
+     Veronica is freed from the pod and she helps Stathis sit
+up against Pod 2. She picks up the shotgun as Brundle
+arrives in Pod 3. The door opens, and out falls the helpless
+Brundle, physically fused with part of the door. He slowsly
+crawls across to Veronica, who is in tears. He slowly places
+the barrel of the shitgun to his forehead, indicating what
+he wants Veronica to do.
+
+VERONICA
+No, I can't.
+
+Brundle voices a slow, painful moan.
+
+VERONICA
+No, I can't. No... No, God!
+
+Veronica pulls the trigger, killing Seth. She falls to the
+floor and begins to sob.
+
+FADE OUT
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

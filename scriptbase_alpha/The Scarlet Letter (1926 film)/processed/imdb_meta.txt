@@ -1,0 +1,55 @@
+year	1926
+imdb score	7.9
+meta score	N/A
+genre	Drama
+keyword	seamstress
+keyword	church
+keyword	adultery
+keyword	minister
+keyword	love
+keyword	boston massachusetts
+keyword	guilt
+keyword	confession
+keyword	governor
+keyword	infidelity
+keyword	marriage
+keyword	ransom
+keyword	reverend
+keyword	bird
+keyword	adulteress
+keyword	public humiliation
+keyword	sexuality
+keyword	pariah
+keyword	historical fiction
+keyword	pillory
+keyword	baptism
+keyword	doctor
+keyword	child custody
+keyword	sin
+keyword	courtship
+keyword	puritanism
+keyword	corporal punishment
+keyword	native american
+keyword	branding
+keyword	female protagonist
+keyword	based on novel
+keyword	
+cast	Lillian Gish	Hester Prynne
+cast	Lars Hanson	The Reverend Arthur Dimmesdale
+cast	Henry B. Walthall	Roger Prynne
+cast	Karl Dane	Giles
+cast	William H. Tooker	The Governor
+cast	Marcelle Corday	Mistress Hibbins
+cast	Fred Herzog	The Jailer
+cast	Jules Cowles	The Beadle
+cast	Mary Hawes	Patience
+cast	Joyce Coad	Pearl
+cast	James A. Marcus	A Sea Captain
+cast	Nora Cecil	Townswoman
+cast	Iron Eyes Cody	Young Indian at Dunking
+cast	Dorothy Gray	Child
+cast	Betsy Ann Hisle	Child
+cast	Margaret Mann	Townswoman
+cast	Polly Moran	Jeering Townswoman
+cast	Dorothy Vernon	Townswoman
+cast	Chief Yowlachie	Indian

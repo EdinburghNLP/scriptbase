@@ -1,0 +1,129 @@
+year	2008
+imdb score	6.5
+meta score	35
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	writer
+keyword	celebrity
+keyword	starlet
+keyword	party
+keyword	pig
+keyword	humble beginnings
+keyword	cocaine
+keyword	nipples visible through clothing
+keyword	disco
+keyword	close up of eyes
+keyword	love triangle
+keyword	eating while walking
+keyword	interview
+keyword	journalism
+keyword	lying on the ground
+keyword	award ceremony
+keyword	woman wearing black lingerie
+keyword	breaking the fourth wall by talking to the audience
+keyword	swimming pool
+keyword	she male
+keyword	talking in an elevator
+keyword	sauna
+keyword	stripper
+keyword	woman wearing underwear in public
+keyword	carrying a chihuahua
+keyword	man wearing underwear in public
+keyword	priest
+keyword	actor talks to audience
+keyword	rising star
+keyword	dog
+keyword	breaking the fourth wall
+keyword	bare breasts
+keyword	nudity
+keyword	death of dog
+keyword	close up of mouth
+keyword	failure
+keyword	new york city
+keyword	penis
+keyword	turntable
+keyword	costume party
+keyword	channel surfing
+keyword	jumping into a pool with clothes on
+keyword	nun
+keyword	nightclub
+keyword	idiot
+keyword	based on true story
+cast	Kelan Pannell	Young Sidney
+cast	Janette Scott	Sidney's Mother
+cast	Simon Pegg	Sidney Young
+cast	Megan Fox	Sophie Maes
+cast	Gillian Anderson	Eleanor Johnson
+cast	Kelly Jo Charge	Apollo Awards Presenter
+cast	Christian Smith	Apollo Awards Guest
+cast	Katherine Parkinson	PR Woman
+cast	Felicity Montagu	Clipboard Nazi
+cast	Thandie Newton	Herself
+cast	John Lightbody	Assistant Hotel Manager
+cast	Ian Bonar	Post Modern Review Staff
+cast	James Corden	Post Modern Review Staff
+cast	Fenella Woolgar	Post Modern Review Staff
+cast	Chris O'Dowd	Post Modern Review Staff
+cast	Hugh Thompson	Post Modern Review Staff
+cast	Emily Thorling	Post Modern Review Staff
+cast	Jeff Bridges	Clayton Harding
+cast	Miquel Brown	Clayton's Assistant
+cast	Miriam Margolyes	Mrs. Kowalski
+cast	Nathalie Cox	Woman in Bar
+cast	Kirsten Dunst	Alison Olsen
+cast	Sam Douglas	Barman
+cast	Charlotte Devaney	Bobbie
+cast	Gillian King	Sharps Assistant
+cast	Danny Huston	Lawrence Maddox
+cast	Margo Stilley	Ingrid
+cast	Isabella Calthorpe	Anna
+cast	Hannah Waddingham	Elizabeth Maddox
+cast	Diana Kent	Rachel Petkoff
+cast	Max Minghella	Vincent Lepak
+cast	Emily Denniston	Maddox's Assistant
+cast	Jefferson Mays	Bill Nathanson
+cast	Ashley Madekwe	Vicky
+cast	Lisa McAllister	Sophie Maes' Assistant
+cast	Julia West	Mother Superior - Trailer
+cast	Brona C. Titley	Nun - Trailer
+cast	Charles De Bromhead	Young Priest - Trailer
+cast	Jane Perry	Mrs. Harding
+cast	Connie Wheeler	Harding Child
+cast	Lara Edmunds	Harding Child
+cast	Allen Lidkey	July 4th Party Guest
+cast	Robert B. Weide	July 4th Party Guest
+cast	Nathan Nolan	July 4th Party Waiter
+cast	Andy Lucas	Wizard / Dentist
+cast	Bill Paterson	Richard Young
+cast	Alexandra Aitken	Nightclub Girl
+cast	Sarah Mennell	Flight Desk Attendant
+cast	Liat Baruch	Couple on Blanket
+cast	Eivind Karlsen	Couple on Blanket
+cast	Debbie Attwell	Red Carpet Fan
+cast	Michael Berendt	Award Winner
+cast	Jemma Bolt	Sharpe's Girl
+cast	Serena Catapano	Waitress
+cast	Heather Snow Clark	Beautiful Girl
+cast	Toni Collette	Herself
+cast	Daniel Craig	Himself
+cast	Giada Dobrzenska	Fashion Party Girl
+cast	Elli	Newsstand Vendor
+cast	James Fiddy	Party Goer
+cast	Tim Glanfield	Bafta Awards Official
+cast	Brian Austin Green	Party Guest
+cast	Chris Jameson	Apollo Awards Guest
+cast	Forbes KB	Hotel Security
+cast	Thor Knai	Sharp's Party Celebrity
+cast	Edward Lemont	Sharps Magazine Receptionist
+cast	Oliver Martin	Maddox's Friend at Party
+cast	Ben Morris	BAFTA Crowd Member
+cast	Sarah-Jane Paige	Female Fan
+cast	David Petrucci	Guest at party
+cast	Tracy Redington	Model
+cast	Jenny Rieu	Girl on Blanket
+cast	James Schram	Doorman / Bouncer
+cast	Robert Stone	BAFTA Security
+cast	Ashton Swinford	Glamorati
+cast	Vesna Vujat	Sharpe's Girl
+cast	Kate Winslet	Herself
