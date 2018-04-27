@@ -1,7 +1,10 @@
 # The ScriptBase Corpus
 
-#### If you use this data, please cite the following paper:
+#### If you use this data, please cite either or both of the following papers:
+##### If you are using ScriptBase-alpha:
 Philip John Gorinski and Mirella Lapata (2015). Movie Script Summarization as Graph-based Scene Extraction. In *Proceedings of NAACL-HLT 2015, Denver, Colorado, USA.*
+##### If you are using ScriptBase-j:
+Philip John Gorinski and Mirella Lapata (2018). What's this Movie about? A Joint Neural Network Architecture for Movie Content Analysis. In *Proceedings of NAACL-HLT 2018, New Orleans, Louisiana, USA.*
 
 #### The ScriptBase Corpus is split in two parts:
 ScriptBase-alpha: The first crawl of movie scripts
