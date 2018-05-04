@@ -1,9 +1,0 @@
-logline	A CIA special forces team are betrayed and left for dead by their superiors, galvanizing them to mount an offensive on the CIA.
-tagline	Anyone Else Would Be Dead By Now.
-tagline	You Don't Give Them Orders. You Just Turn Them Loose.
-tagline	Aisha - Search And Destroy
-tagline	Clay - Operational Control
-tagline	Cougar - Long-Range Eliminations
-tagline	Jensen - Comms And Tech
-tagline	Pooch - Transpo And Heavy Weps
-tagline	Roque - Demo And Tactical

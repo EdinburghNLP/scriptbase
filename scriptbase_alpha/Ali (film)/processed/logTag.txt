@@ -1,4 +1,0 @@
-logline	A biography of sports legend, Muhammad Ali, from his early days to his days in the ring.
-tagline	Float like a butterfly and sting like a bee.
-tagline	Forget What You Think You Know
-tagline	The Champ is here!

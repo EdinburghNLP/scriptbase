@@ -1,4 +1,0 @@
-logline	Go! tells the story of the events after a drug deal, told from three different points of view.
-tagline	When the lights go down, the world is yours.
-tagline	life begins at 3am.
-tagline	A weekend wasted is never a wasted weekend.

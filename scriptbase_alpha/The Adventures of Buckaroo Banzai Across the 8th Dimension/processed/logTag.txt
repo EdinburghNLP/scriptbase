@@ -1,5 +1,0 @@
-logline	Adventurer/surgeon/rock musician Buckaroo Banzai and his band of men, the Hong Kong Cavaliers, take on evil alien invaders from the 8th dimension.
-tagline	Beings from Another Dimension have invaded your world.
-tagline	You can't see them...but they can see you.
-tagline	Your only hope is Buckaroo Banzai.
-tagline	Expect the unexpected. He does.

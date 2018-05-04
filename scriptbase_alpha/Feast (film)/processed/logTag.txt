@@ -1,2 +1,0 @@
-logline	Patrons locked inside of a bar are forced to fight monsters.
-tagline	They're Hungry. You're Dinner.
