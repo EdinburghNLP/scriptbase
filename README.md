@@ -12,7 +12,7 @@ ScriptBase-alpha: The first crawl of movie scripts
 ScriptBase-J: Additional meta data from Jinni
 
 ## ScriptBase-alpha can be found in the scriptbase_alpha folder.
-### It contains the following data for 1,276 movies:
+### It contains .tar.gz archives with the following data for 1,276 movies:
 * script.htm / script.html  - in cases where the script was crawled from a web-page in HTML format
 * script.txt                - plain-text version of the movie script
 * wiki.html                 - the movie's Wikipedia[1] page (2014 dump)
@@ -28,7 +28,7 @@ ScriptBase-J: Additional meta data from Jinni
 * processed/summaries/      - folder containing plain-text versions of the movie's IMDB summaries (if any)
 
 ## ScriptBase-J can be found in the scriptbase_jinni folder.
-### It contains the following additional data for 917 movies:
+### It contains .tar.gz archives with the following additional data for 917 movies:
 * jinni.html                    - the movie's Jinni[3] page (2015 dump)
 * processed/script_clean.txt    - plain-text version of the movie script, manually corrected for inconsistencies
 * processed/script.xml          - XML version of the movie script, with various automatic annotations
